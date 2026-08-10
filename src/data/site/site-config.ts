@@ -2,7 +2,7 @@ import type { SiteBrand, SiteNavigationItem } from "@app-types/site";
 
 export const siteBrand: SiteBrand = {
   name: "Btechwale",
-  domain: "https://btechwale.in",
+  domain: "https://btechwaletech.in",
   defaultLocale: "en_IN",
   supportedLocales: ["en_IN"],
 };

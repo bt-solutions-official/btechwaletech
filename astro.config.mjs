@@ -3,7 +3,7 @@ import sitemap from "@astrojs/sitemap";
 import tailwindcss from "@tailwindcss/vite";
 
 export default defineConfig({
-  site: "https://btechwale.in",
+  site: "https://btechwaletech.in",
   output: "static",
   trailingSlash: "always",
   integrations: [

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://btechwale.in/sitemap-index.xml
+Sitemap: https://btechwaletech.in/sitemap-index.xml

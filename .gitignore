@@ -1,0 +1,33 @@
+# build output
+dist/
+.astro/
+
+# dependencies
+node_modules/
+
+# accidental nested artifacts
+src/dist/
+src/node_modules/
+
+# logs
+npm-debug.log*
+*.log
+
+# environment
+.env
+.env.*
+
+# cloudflare
+.wrangler/
+
+# editor / AI tooling
+.claude/
+.agents/
+.continue/
+.pi/
+.trae/
+.windsurf/
+.playwright-mcp/
+.vscode/
+.idea/
+.DS_Store
