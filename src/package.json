@@ -1,0 +1,18 @@
+{
+  "name": "btechwale-cloudflare-src-root-fallback",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "packageManager": "npm@10.8.2",
+  "scripts": {
+    "build": "astro build --root .. && node cloudflare-copy-dist.mjs"
+  },
+  "dependencies": {
+    "@astrojs/check": "0.9.4",
+    "@astrojs/sitemap": "3.2.1",
+    "@tailwindcss/vite": "4.3.3",
+    "astro": "5.18.2",
+    "tailwindcss": "4.3.3",
+    "typescript": "5.6.3"
+  }
+}
