@@ -1,5 +1,5 @@
 {
-  "name": "btechwale-in",
+  "name": "btechwaletech-in",
   "version": "0.1.0",
   "private": true,
   "type": "module",
@@ -19,8 +19,15 @@
     "astro": "5.18.2",
     "tailwindcss": "4.3.3",
     "typescript": "5.6.3"
+  },
+  "overrides": {
+    "@types/node": "^22.0.0"
   }
 }
+
+
+
+
 
 
 
