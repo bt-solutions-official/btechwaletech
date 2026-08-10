@@ -1,0 +1,9 @@
+{
+  "name": "btechwale-cloudflare-src-root-fallback",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "cd .. && npm ci && npm run build && node src/cloudflare-copy-dist.mjs"
+  }
+}
