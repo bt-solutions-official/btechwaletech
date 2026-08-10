@@ -1,8 +1,10 @@
 import { cpSync, existsSync, rmSync } from "node:fs";
-import { resolve } from "node:path";
+import { dirname, resolve } from "node:path";
+import { fileURLToPath } from "node:url";
 
-const rootDist = resolve("..", "dist");
-const localDist = resolve("dist");
+const scriptDirectory = dirname(fileURLToPath(import.meta.url));
+const rootDist = resolve(scriptDirectory, "..", "dist");
+const localDist = resolve(scriptDirectory, "dist");
 
 if (!existsSync(rootDist)) {
   throw new Error("Expected ../dist to exist after Astro build.");
