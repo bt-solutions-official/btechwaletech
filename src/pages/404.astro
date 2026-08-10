@@ -1,0 +1,11 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { staticPage } from "@data/page-seo/static-pages";
+
+const page = staticPage("/404/", "Page Not Found");
+---
+
+<BaseLayout meta={{ ...page, robots: "noindex,follow" }}>
+  <h1>{page.h1}</h1>
+  <p>This placeholder 404 page can be expanded later.</p>
+</BaseLayout>

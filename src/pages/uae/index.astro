@@ -1,0 +1,8 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { staticPage } from "@data/page-seo/static-pages";
+
+const page = staticPage("/uae/", "Digital Services in UAE");
+---
+
+<BaseLayout meta={{ ...page, robots: "noindex,follow" }}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>

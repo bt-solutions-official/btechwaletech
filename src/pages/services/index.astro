@@ -1,0 +1,14 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import ServiceCard from "@components/sections/ServiceCard.astro";
+import { staticPage } from "@data/page-seo/static-pages";
+import { services } from "@data/services";
+
+const page = staticPage("/services/", "Services");
+---
+
+<BaseLayout meta={page}>
+  <h1>{page.h1}</h1>
+  <p>{page.intro}</p>
+  {services.map((service) => <ServiceCard title={service.name} href={service.path} summary={service.summary} />)}
+</BaseLayout>

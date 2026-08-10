@@ -1,0 +1,6 @@
+---
+import LocationLayout from "@layouts/LocationLayout.astro";
+import { createCityServicePage } from "@data/page-seo/city-service";
+const page = createCityServicePage("haryana", "gurgaon", "seo-services").seo;
+---
+<LocationLayout page={page} />

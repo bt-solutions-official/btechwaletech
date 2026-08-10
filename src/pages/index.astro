@@ -1,0 +1,1533 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { faqSchema } from "@lib/schema/schema";
+
+const faqs = [
+  {
+    question: "Do you build both static and dynamic websites?",
+    answer:
+      "Yes. We build static-first websites for speed and SEO — marketing sites, landing pages, and content platforms — and fully dynamic websites and web applications with dashboards, logins, databases, and APIs when your business needs them.",
+  },
+  {
+    question: "Which IT services does Btechwale provide?",
+    answer:
+      "Btechwale is a full-stack IT services partner: web development (static and dynamic), custom software and web applications, SEO services, ecommerce development, AI development, business automation, UI/UX design, and ongoing website maintenance and support.",
+  },
+  {
+    question: "Do you work with businesses outside India?",
+    answer:
+      "Yes. We are an India-first studio serving clients globally — including the USA, UAE, UK, Australia, and Singapore — with remote-friendly delivery, clear communication, and timezone-overlap working hours.",
+  },
+  {
+    question: "Will my website be SEO-ready from day one?",
+    answer:
+      "Every build ships with clean semantic HTML, fast Core Web Vitals, canonical URLs, XML sitemaps, structured data (schema), and metadata foundations — so search engines can crawl, understand, and rank your pages from launch.",
+  },
+  {
+    question: "How much does website development cost in India?",
+    answer:
+      "It depends on scope: a static business website costs far less than a dynamic web application with custom features. Share your requirements through the contact page and we will send a clear, itemized estimate — no hidden costs.",
+  },
+  {
+    question: "Do you provide website maintenance and support?",
+    answer:
+      "Yes. We offer ongoing maintenance plans covering updates, security, backups, performance monitoring, content changes, and SEO health checks so your website keeps improving after launch.",
+  },
+];
+
+const page = createPageSeo({
+  title: "IT Services, Web Development & SEO Company in India",
+  description:
+    "Complete IT services for businesses in India and worldwide — static & dynamic website development, custom software, SEO, ecommerce, AI, automation, UI/UX design, and maintenance.",
+  canonicalPath: "/",
+  h1: "Digital services built for Indian businesses ready to grow globally",
+  intro:
+    "Plan, design, build, optimize, and maintain fast static and dynamic websites, custom software, and digital systems with a clean SEO foundation.",
+  breadcrumbs: createBreadcrumbs([]),
+  keywords: [
+    "IT services company India",
+    "web development company India",
+    "static website development",
+    "dynamic website development",
+    "custom web application development",
+    "software development services India",
+    "SEO services India",
+    "local SEO services",
+    "technical SEO agency",
+    "ecommerce website development",
+    "online store development India",
+    "AI development services",
+    "business automation services",
+    "UI UX design services",
+    "website maintenance services",
+    "website redesign services",
+    "hire web developers India",
+    "web development Gurgaon",
+    "web development Mumbai",
+    "web development Bangalore",
+    "website development Delhi NCR",
+    "global IT services provider",
+    "offshore web development India",
+    "responsive website design",
+    "freelance web developer India",
+  ],
+  ogImage: {
+    url: "/hero-command-desk.png",
+    alt: "Btechwale digital services command desk with web, SEO, automation, and India-first global signals",
+    width: 1536,
+    height: 1024,
+  },
+});
+
+const services = [
+  {
+    name: "Web development",
+    summary:
+      "Static and dynamic websites — fast, accessible, SEO-ready sites and landing pages that load instantly and rank cleanly.",
+    href: "/services/web-development/",
+    size: "lg",
+  },
+  {
+    name: "SEO services",
+    summary: "Technical, local, and content SEO foundations for sustainable visibility in India and worldwide.",
+    href: "/services/seo-services/",
+    size: "md",
+  },
+  { name: "Software & web apps", summary: "Custom dashboards, portals, APIs, and internal tools.", size: "sm" },
+  { name: "Ecommerce", summary: "Storefronts, product pages, payments, and performance.", size: "sm" },
+  { name: "AI development", summary: "Practical AI features, assistants, and integrations.", size: "sm" },
+  { name: "Automation", summary: "Lean workflows that reduce manual work.", size: "sm" },
+  { name: "UI/UX design", summary: "Interfaces that feel clear, premium, and easy to trust.", size: "sm" },
+  { name: "Maintenance & support", summary: "Updates, security, backups, and SEO health checks.", size: "sm" },
+];
+
+const marquee = [
+  "Static websites",
+  "Dynamic web apps",
+  "Custom software",
+  "SEO & content",
+  "Ecommerce",
+  "AI solutions",
+  "Automation",
+  "UI/UX design",
+  "Maintenance & support",
+  "Performance & Core Web Vitals",
+  "Schema & sitemaps",
+  "India & worldwide",
+];
+
+const stats = [
+  { value: 50, suffix: "+", label: "Projects delivered" },
+  { value: 12, suffix: "+", label: "Indian cities covered" },
+  { value: 95, suffix: "+", label: "Average Lighthouse score" },
+  { value: 100, suffix: "%", label: "SEO-ready builds" },
+];
+
+const builds = [
+  {
+    name: "Static websites",
+    tag: "Speed-first",
+    summary: "Marketing sites, landing pages, portfolios, and content platforms rendered as pure HTML.",
+    points: ["Instant load times", "Best-in-class SEO", "Near-zero hosting cost", "Rock-solid security"],
+  },
+  {
+    name: "Dynamic websites & web apps",
+    tag: "Feature-first",
+    summary: "Logins, dashboards, databases, bookings, payments — full applications built around your workflow.",
+    points: ["Custom features & APIs", "User accounts & roles", "Admin panels & CMS", "Scales with your business"],
+  },
+];
+
+const process = [
+  ["Plan", "Define service, audience, location, and SEO intent before a line is written."],
+  ["Build", "Ship static-first pages with clean semantic HTML that search engines read."],
+  ["Grow", "Add unique city, service, industry, and article content over time."],
+];
+
+const locations = [
+  ["Gurgaon", "/india/haryana/gurgaon/"],
+  ["Faridabad", "/india/haryana/faridabad/"],
+  ["Mumbai", "/india/maharashtra/mumbai/"],
+  ["Pune", "/india/maharashtra/pune/"],
+  ["Bangalore", "/india/karnataka/bangalore/"],
+  ["Noida", "/india/uttar-pradesh/noida/"],
+  ["Hyderabad", "/india/telangana/hyderabad/"],
+  ["Chennai", "/india/tamil-nadu/chennai/"],
+];
+---
+
+<BaseLayout meta={page} schema={[faqSchema(faqs)]}>
+  <div class="ambient" aria-hidden="true"></div>
+
+  <section class="hero" aria-labelledby="home-heading">
+    <div class="hero-copy">
+      <p class="eyebrow load" style="--d: 0ms">India-first digital services studio</p>
+      <h1 id="home-heading" class="load" style="--d: 90ms">
+        Digital services built for Indian businesses ready to grow <em class="accent">globally</em>
+      </h1>
+      <p class="lede load" style="--d: 180ms">{page.intro}</p>
+      <div class="hero-actions load" style="--d: 270ms" aria-label="Primary actions">
+        <a class="button button-primary" href="/contact/">
+          <span>Start a project</span>
+          <span class="button-orb" aria-hidden="true">&rarr;</span>
+        </a>
+        <a class="button button-ghost" href="/services/">Explore services</a>
+      </div>
+      <ul class="signal-row load" style="--d: 360ms" aria-label="Homepage focus areas">
+        <li>Static &amp; dynamic builds</li>
+        <li>SEO foundations built in</li>
+        <li>India &amp; worldwide delivery</li>
+      </ul>
+    </div>
+
+    <div class="globe-stage load" style="--d: 200ms" data-globe-stage>
+      <div class="globe-halo" aria-hidden="true"></div>
+      <canvas
+        data-globe
+        aria-label="Animated globe with connection arcs reaching out from India to cities around the world"
+      ></canvas>
+      <p class="globe-tag" aria-hidden="true">Delivering from India &rarr; worldwide</p>
+    </div>
+  </section>
+
+  <div class="marquee" aria-hidden="true">
+    <div class="marquee-track">
+      {[0, 1].map(() => (
+        <div class="marquee-set">
+          {marquee.map((item) => (
+            <span class="marquee-item">{item}</span>
+          ))}
+        </div>
+      ))}
+    </div>
+  </div>
+
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-head" data-reveal>
+      <p class="eyebrow">Core services</p>
+      <h2 id="services-heading">Every IT service your business needs to <em class="accent">grow</em></h2>
+      <p class="section-note">
+        One partner for the full stack — from your first landing page to custom software, search visibility, and
+        long-term maintenance.
+      </p>
+    </div>
+    <div class="bento">
+      {services.map((s, i) => {
+        const inner = (
+          <div class="card-core">
+            <h3>{s.name}</h3>
+            <p>{s.summary}</p>
+            {s.href && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+          </div>
+        );
+        return s.href ? (
+          <a class={`card card-${s.size}`} href={s.href} data-reveal data-tilt-card style={`--d: ${i * 60}ms`}>
+            {inner}
+          </a>
+        ) : (
+          <div class={`card card-${s.size}`} data-reveal data-tilt-card style={`--d: ${i * 60}ms`}>
+            {inner}
+          </div>
+        );
+      })}
+    </div>
+  </section>
+
+  <section class="builds" aria-labelledby="builds-heading">
+    <div class="section-head" data-reveal>
+      <p class="eyebrow">Static &amp; dynamic</p>
+      <h2 id="builds-heading">Every kind of website, built the <em class="accent">right</em> way</h2>
+      <p class="section-note">
+        Some businesses need pure speed. Others need features. We build both — and help you choose the right
+        architecture before writing a line of code.
+      </p>
+    </div>
+    <div class="build-grid">
+      {builds.map((b, i) => (
+        <a class="build-card" href="/services/web-development/" data-reveal data-tilt-card style={`--d: ${i * 110}ms`}>
+          <div class="card-core">
+            <p class="build-tag">{b.tag}</p>
+            <h3>{b.name}</h3>
+            <p class="build-summary">{b.summary}</p>
+            <ul class="build-points">
+              {b.points.map((p) => (
+                <li>{p}</li>
+              ))}
+            </ul>
+            <span class="card-arrow" aria-hidden="true">&rarr;</span>
+          </div>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="stats" aria-label="Btechwale in numbers">
+    <ul class="stat-band" data-reveal>
+      {stats.map((s) => (
+        <li>
+          <span class="stat-num" data-count={s.value} data-suffix={s.suffix}>0{s.suffix}</span>
+          <span class="stat-label">{s.label}</span>
+        </li>
+      ))}
+    </ul>
+  </section>
+
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-head" data-reveal>
+      <p class="eyebrow">How work stays clean</p>
+      <h2 id="process-heading">Strategy, build, visibility, maintenance</h2>
+    </div>
+    <ol class="steps">
+      {process.map(([step, detail], i) => (
+        <li data-reveal style={`--d: ${i * 110}ms`}>
+          <span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
+          <h3>{step}</h3>
+          <p>{detail}</p>
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  <section class="locations" aria-labelledby="locations-heading">
+    <div class="section-head" data-reveal>
+      <p class="eyebrow">Local reach</p>
+      <h2 id="locations-heading">India pages are ready to grow city by city</h2>
+      <p class="section-note">
+        Start with priority Indian markets, then expand into deeper city and service coverage with original local
+        content.
+      </p>
+    </div>
+    <div class="city-cloud" data-reveal>
+      {locations.map(([name, href]) => (
+        <a class="city-chip" href={href}>{name}</a>
+      ))}
+    </div>
+  </section>
+
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-head" data-reveal>
+      <p class="eyebrow">Questions</p>
+      <h2 id="faq-heading">Answers before you even ask</h2>
+    </div>
+    <div class="faq-list" data-reveal>
+      {faqs.map((f) => (
+        <details class="faq-item">
+          <summary>
+            <span>{f.question}</span>
+            <span class="faq-mark" aria-hidden="true">+</span>
+          </summary>
+          <p>{f.answer}</p>
+        </details>
+      ))}
+    </div>
+  </section>
+
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="closing-panel" data-reveal>
+      <p class="eyebrow eyebrow-light">Next step</p>
+      <h2 id="cta-heading">Build the pages that turn visitors into <em class="accent accent-warm">enquiries</em></h2>
+      <p class="closing-note">
+        Tell us what you are building — a static site, a dynamic web app, or the SEO to grow one you already have —
+        and we will reply within a day with a clear plan and an honest estimate.
+      </p>
+      <a class="button button-cream" href="/contact/">
+        <span>Discuss the project</span>
+        <span class="button-orb" aria-hidden="true">&rarr;</span>
+      </a>
+    </div>
+  </section>
+</BaseLayout>
+
+<script>
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  document.documentElement.classList.add("js");
+
+  /* ------- scroll reveal ------- */
+  const revealed = document.querySelectorAll("[data-reveal]");
+  if (reduced || !("IntersectionObserver" in window)) {
+    revealed.forEach((el) => el.classList.add("in"));
+  } else {
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) {
+          if (e.isIntersecting) {
+            e.target.classList.add("in");
+            io.unobserve(e.target);
+          }
+        }
+      },
+      { threshold: 0.05, rootMargin: "0px 0px -6% 0px" }
+    );
+    revealed.forEach((el) => io.observe(el));
+  }
+
+  /* ------- count-up stats ------- */
+  const nums = document.querySelectorAll<HTMLElement>(".stat-num");
+  const setFinal = (el: HTMLElement) => {
+    el.textContent = `${el.dataset.count}${el.dataset.suffix ?? ""}`;
+  };
+  if (reduced || !("IntersectionObserver" in window)) {
+    nums.forEach(setFinal);
+  } else {
+    const cio = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) {
+          if (!e.isIntersecting) continue;
+          cio.unobserve(e.target);
+          const el = e.target as HTMLElement;
+          const target = Number(el.dataset.count);
+          const suffix = el.dataset.suffix ?? "";
+          const t0 = performance.now();
+          const tick = (now: number) => {
+            const t = Math.min(1, (now - t0) / 1400);
+            const eased = 1 - Math.pow(1 - t, 3);
+            el.textContent = `${Math.round(target * eased)}${suffix}`;
+            if (t < 1) requestAnimationFrame(tick);
+          };
+          requestAnimationFrame(tick);
+        }
+      },
+      { threshold: 0.4 }
+    );
+    nums.forEach((el) => cio.observe(el));
+  }
+
+  /* ------- tactile card tilt + spotlight ------- */
+  if (!reduced && matchMedia("(pointer: fine)").matches) {
+    document.querySelectorAll<HTMLElement>("[data-tilt-card]").forEach((card) => {
+      card.addEventListener("pointermove", (e) => {
+        const r = card.getBoundingClientRect();
+        const px = (e.clientX - r.left) / r.width - 0.5;
+        const py = (e.clientY - r.top) / r.height - 0.5;
+        card.style.setProperty("--ry", `${(px * 4).toFixed(2)}deg`);
+        card.style.setProperty("--rx", `${(-py * 3.2).toFixed(2)}deg`);
+        card.style.setProperty("--mx", `${e.clientX - r.left}px`);
+        card.style.setProperty("--my", `${e.clientY - r.top}px`);
+      });
+      card.addEventListener("pointerleave", () => {
+        card.style.setProperty("--ry", "0deg");
+        card.style.setProperty("--rx", "0deg");
+      });
+    });
+  }
+
+  /* ------- particle globe (light mode) ------- */
+  const stage = document.querySelector<HTMLElement>("[data-globe-stage]");
+  const canvas = document.querySelector<HTMLCanvasElement>("[data-globe]");
+  if (stage && canvas) {
+    const ctx = canvas.getContext("2d")!;
+    const TILT = -0.42;
+    const BASE_SPEED = 0.00012;
+
+    type V3 = [number, number, number];
+
+    const DOTS = 1500;
+    const points: V3[] = [];
+    const golden = Math.PI * (3 - Math.sqrt(5));
+    for (let i = 0; i < DOTS; i++) {
+      const y = 1 - (i / (DOTS - 1)) * 2;
+      const r = Math.sqrt(1 - y * y);
+      const t = golden * i;
+      points.push([Math.cos(t) * r, y, Math.sin(t) * r]);
+    }
+
+    const ll = (lat: number, lon: number): V3 => {
+      const la = (lat * Math.PI) / 180;
+      const lo = (lon * Math.PI) / 180;
+      return [Math.cos(la) * Math.cos(lo), Math.sin(la), Math.cos(la) * Math.sin(lo)];
+    };
+
+    const delhi = ll(28.6, 77.2);
+    const homes = [delhi, ll(19.1, 72.9), ll(12.97, 77.6)];
+    const abroad = [ll(25.2, 55.3), ll(51.5, -0.1), ll(40.7, -74), ll(1.35, 103.8), ll(-33.9, 151.2)];
+    const arcs = abroad.map((dest, i) => ({ a: delhi, b: dest, offset: i / abroad.length }));
+
+    const slerp = (a: V3, b: V3, t: number): V3 => {
+      const dot = Math.min(1, Math.max(-1, a[0] * b[0] + a[1] * b[1] + a[2] * b[2]));
+      const ang = Math.acos(dot);
+      if (ang < 1e-4) return a;
+      const s = Math.sin(ang);
+      const w1 = Math.sin((1 - t) * ang) / s;
+      const w2 = Math.sin(t * ang) / s;
+      return [a[0] * w1 + b[0] * w2, a[1] * w1 + b[1] * w2, a[2] * w1 + b[2] * w2];
+    };
+
+    let rotY = 4.2;
+    let vel = BASE_SPEED;
+    let dragging = false;
+    let lastX = 0;
+    let lastT = 0;
+    let W = 0, H = 0, R = 0, CX = 0, CY = 0;
+
+    const resize = () => {
+      const rect = stage.getBoundingClientRect();
+      const dpr = Math.min(2, window.devicePixelRatio || 1);
+      W = rect.width;
+      H = rect.width;
+      canvas.width = W * dpr;
+      canvas.height = H * dpr;
+      canvas.style.width = `${W}px`;
+      canvas.style.height = `${H}px`;
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      R = W * 0.395;
+      CX = W / 2;
+      CY = H / 2;
+    };
+
+    const rot = (p: V3): V3 => {
+      const cy = Math.cos(rotY), sy = Math.sin(rotY);
+      const cx = Math.cos(TILT), sx = Math.sin(TILT);
+      const x = p[0] * cy + p[2] * sy;
+      const z0 = -p[0] * sy + p[2] * cy;
+      const y = p[1] * cx - z0 * sx;
+      const z = p[1] * sx + z0 * cx;
+      return [x, y, z];
+    };
+
+    const draw = (now: number) => {
+      ctx.clearRect(0, 0, W, H);
+
+      ctx.beginPath();
+      ctx.arc(CX, CY, R, 0, Math.PI * 2);
+      ctx.strokeStyle = "rgba(22, 36, 46, 0.08)";
+      ctx.lineWidth = 1;
+      ctx.stroke();
+
+      for (const p of points) {
+        const [x, y, z] = rot(p);
+        const depth = (z + 1) / 2;
+        const alpha = z > 0 ? 0.07 + depth * 0.34 : 0.04;
+        const size = 0.6 + depth * 1.1;
+        ctx.beginPath();
+        ctx.arc(CX + x * R, CY - y * R, size, 0, Math.PI * 2);
+        ctx.fillStyle = `rgba(31, 58, 82, ${alpha})`;
+        ctx.fill();
+      }
+
+      for (const arc of arcs) {
+        const SEG = 42;
+        ctx.beginPath();
+        let visible = false;
+        for (let i = 0; i <= SEG; i++) {
+          const t = i / SEG;
+          const p = slerp(arc.a, arc.b, t);
+          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
+          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
+          const px = CX + x * R;
+          const py = CY - y * R;
+          if (i === 0) ctx.moveTo(px, py);
+          else ctx.lineTo(px, py);
+          if (z > -0.15) visible = true;
+        }
+        if (visible) {
+          ctx.strokeStyle = "rgba(224, 138, 0, 0.3)";
+          ctx.lineWidth = 1;
+          ctx.stroke();
+
+          const t = (now * 0.00011 + arc.offset) % 1;
+          const p = slerp(arc.a, arc.b, t);
+          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
+          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
+          if (z > -0.15) {
+            const px = CX + x * R;
+            const py = CY - y * R;
+            const g = ctx.createRadialGradient(px, py, 0, px, py, 7);
+            g.addColorStop(0, "rgba(224, 138, 0, 0.9)");
+            g.addColorStop(1, "rgba(224, 138, 0, 0)");
+            ctx.beginPath();
+            ctx.arc(px, py, 7, 0, Math.PI * 2);
+            ctx.fillStyle = g;
+            ctx.fill();
+          }
+        }
+      }
+
+      const marker = (p: V3, color: string, glow: string, size: number) => {
+        const [x, y, z] = rot(p);
+        if (z < -0.05) return;
+        const px = CX + x * R;
+        const py = CY - y * R;
+        const g = ctx.createRadialGradient(px, py, 0, px, py, size * 4);
+        g.addColorStop(0, glow);
+        g.addColorStop(1, "rgba(255,255,255,0)");
+        ctx.beginPath();
+        ctx.arc(px, py, size * 4, 0, Math.PI * 2);
+        ctx.fillStyle = g;
+        ctx.fill();
+        ctx.beginPath();
+        ctx.arc(px, py, size, 0, Math.PI * 2);
+        ctx.fillStyle = color;
+        ctx.fill();
+      };
+      for (const h of homes) marker(h, "rgba(224, 138, 0, 1)", "rgba(224, 138, 0, 0.28)", 2.4);
+      for (const d of abroad) marker(d, "rgba(18, 144, 124, 0.95)", "rgba(18, 144, 124, 0.22)", 1.8);
+    };
+
+    let raf: number | null = null;
+    let prev = 0;
+    let running = false;
+
+    const loop = (now: number) => {
+      const dt = prev ? Math.min(48, now - prev) : 16;
+      prev = now;
+      if (!dragging) {
+        rotY += vel * dt;
+        vel += (BASE_SPEED - vel) * 0.015;
+      }
+      draw(now);
+      if (running) raf = requestAnimationFrame(loop);
+    };
+
+    const start = () => {
+      if (!running) {
+        running = true;
+        prev = 0;
+        raf = requestAnimationFrame(loop);
+      }
+    };
+    const stop = () => {
+      running = false;
+      if (raf !== null) cancelAnimationFrame(raf);
+      raf = null;
+    };
+
+    resize();
+    window.addEventListener("resize", () => {
+      resize();
+      if (!running) draw(performance.now());
+    });
+
+    if (reduced) {
+      draw(0);
+    } else {
+      new IntersectionObserver(
+        (entries) => {
+          entries[0].isIntersecting ? start() : stop();
+        },
+        { threshold: 0.05 }
+      ).observe(stage);
+
+      canvas.addEventListener("pointerdown", (e) => {
+        dragging = true;
+        lastX = e.clientX;
+        lastT = e.timeStamp;
+        canvas.setPointerCapture(e.pointerId);
+      });
+      canvas.addEventListener("pointermove", (e) => {
+        if (!dragging) return;
+        const dx = e.clientX - lastX;
+        const dt = Math.max(1, e.timeStamp - lastT);
+        rotY += dx * 0.005;
+        vel = Math.max(-0.004, Math.min(0.004, (dx * 0.005) / dt));
+        lastX = e.clientX;
+        lastT = e.timeStamp;
+      });
+      const release = () => (dragging = false);
+      canvas.addEventListener("pointerup", release);
+      canvas.addEventListener("pointercancel", release);
+    }
+  }
+</script>
+
+<style>
+  /* ================= tokens ================= */
+  .hero,
+  .services,
+  .builds,
+  .stats,
+  .process,
+  .locations,
+  .faq,
+  .closing {
+    --paper: #f8f5ef;
+    --card: #ffffff;
+    --ink: #16242e;
+    --muted: #5c6a70;
+    --hairline: rgba(22, 36, 46, 0.1);
+    --teal: #12907c;
+    --saffron: #e08a00;
+    --ease: cubic-bezier(0.32, 0.72, 0, 1);
+    position: relative;
+    z-index: 1;
+    max-width: 1180px;
+    margin: 0 auto;
+    padding: clamp(4rem, 8vw, 7.5rem) clamp(1rem, 4vw, 3rem);
+  }
+
+  :global(body) {
+    color: #16242e;
+    background: #f8f5ef;
+  }
+
+  :global(::selection) {
+    color: #ffffff;
+    background: #12907c;
+  }
+
+  .ambient {
+    position: fixed;
+    inset: 0;
+    z-index: 0;
+    pointer-events: none;
+    background:
+      radial-gradient(46rem 34rem at 16% -8%, rgba(18, 144, 124, 0.07), transparent 68%),
+      radial-gradient(40rem 30rem at 90% 4%, rgba(224, 138, 0, 0.06), transparent 70%),
+      radial-gradient(52rem 40rem at 50% 112%, rgba(18, 144, 124, 0.05), transparent 72%);
+  }
+
+  .ambient::after {
+    position: absolute;
+    inset: 0;
+    opacity: 0.04;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
+    content: "";
+  }
+
+  /* ================= type ================= */
+  h1,
+  h2,
+  h3,
+  p {
+    margin: 0;
+  }
+
+  h1,
+  h2 {
+    color: var(--ink);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-weight: 640;
+    letter-spacing: -0.028em;
+  }
+
+  h1 {
+    margin-bottom: 1.3rem;
+    font-size: clamp(2.5rem, 5.4vw, 4.6rem);
+    line-height: 1.02;
+  }
+
+  h2 {
+    max-width: 24ch;
+    font-size: clamp(1.85rem, 3.8vw, 3rem);
+    line-height: 1.08;
+  }
+
+  .accent {
+    font-family: "Fraunces", Georgia, serif;
+    font-style: italic;
+    font-weight: 480;
+    letter-spacing: -0.01em;
+    color: var(--teal);
+  }
+
+  .accent-warm {
+    color: var(--saffron);
+  }
+
+  .lede {
+    max-width: 34rem;
+    color: var(--muted);
+    font-size: clamp(1.05rem, 1.8vw, 1.22rem);
+    line-height: 1.7;
+  }
+
+  .eyebrow {
+    display: flex;
+    align-items: center;
+    gap: 0.7rem;
+    width: fit-content;
+    margin: 0 0 1.3rem;
+    color: var(--teal);
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+
+  .eyebrow::before {
+    width: 1.8rem;
+    height: 2px;
+    border-radius: 2px;
+    background: currentColor;
+    content: "";
+  }
+
+  .eyebrow-light {
+    color: #7fd6c6;
+  }
+
+  .section-head {
+    max-width: 46rem;
+    margin-bottom: clamp(2.2rem, 4vw, 3.4rem);
+  }
+
+  .section-note {
+    margin-top: 1.1rem;
+    color: var(--muted);
+    line-height: 1.7;
+  }
+
+  /* ================= buttons ================= */
+  .hero-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.85rem;
+    margin-top: 2.3rem;
+  }
+
+  .button {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    min-height: 3.3rem;
+    padding: 0 0.5rem 0 1.5rem;
+    border-radius: 999px;
+    font-size: 0.98rem;
+    font-weight: 650;
+    text-decoration: none;
+    transition:
+      transform 550ms var(--ease),
+      background-color 550ms var(--ease),
+      box-shadow 550ms var(--ease),
+      border-color 550ms var(--ease);
+  }
+
+  .button:active {
+    transform: scale(0.97);
+  }
+
+  .button-orb {
+    display: inline-grid;
+    place-items: center;
+    width: 2.15rem;
+    height: 2.15rem;
+    border-radius: 50%;
+    transition: transform 550ms var(--ease);
+  }
+
+  .button:hover .button-orb,
+  .button:focus-visible .button-orb {
+    transform: translateX(3px);
+  }
+
+  .button-primary {
+    color: #f8f5ef;
+    background: var(--ink);
+    box-shadow: 0 18px 40px -12px rgba(22, 36, 46, 0.4);
+  }
+
+  .button-primary:hover,
+  .button-primary:focus-visible {
+    background: var(--teal);
+    box-shadow: 0 18px 44px -10px rgba(18, 144, 124, 0.45);
+  }
+
+  .button-primary .button-orb {
+    color: var(--ink);
+    background: #f8f5ef;
+  }
+
+  .button-ghost {
+    padding-inline: 1.5rem;
+    color: var(--ink);
+    border: 1px solid var(--hairline);
+    background: rgba(255, 255, 255, 0.65);
+  }
+
+  .button-ghost:hover,
+  .button-ghost:focus-visible {
+    border-color: rgba(22, 36, 46, 0.25);
+    background: #ffffff;
+  }
+
+  .button-cream {
+    color: var(--ink);
+    background: #f8f5ef;
+    box-shadow: 0 18px 40px -12px rgba(0, 0, 0, 0.45);
+  }
+
+  .button-cream:hover,
+  .button-cream:focus-visible {
+    background: #ffffff;
+  }
+
+  .button-cream .button-orb {
+    color: #f8f5ef;
+    background: var(--ink);
+  }
+
+  /* ================= hero ================= */
+  .hero {
+    display: grid;
+    grid-template-columns: minmax(0, 1.02fr) minmax(0, 0.98fr);
+    gap: clamp(2rem, 5vw, 4rem);
+    align-items: center;
+    min-height: calc(100dvh - 5.5rem);
+    padding-top: clamp(2rem, 4vw, 3.5rem);
+  }
+
+  .signal-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem 0;
+    margin: 2.6rem 0 0;
+    padding: 0;
+    list-style: none;
+    color: var(--muted);
+    font-size: 0.86rem;
+    font-weight: 550;
+  }
+
+  .signal-row li {
+    display: inline-flex;
+    align-items: center;
+  }
+
+  .signal-row li + li::before {
+    margin: 0 0.9rem;
+    color: rgba(22, 36, 46, 0.25);
+    content: "/";
+  }
+
+  .globe-stage {
+    position: relative;
+    display: grid;
+    place-items: center;
+    touch-action: pan-y;
+  }
+
+  .globe-stage canvas {
+    position: relative;
+    z-index: 1;
+    max-width: 100%;
+    cursor: grab;
+  }
+
+  .globe-stage canvas:active {
+    cursor: grabbing;
+  }
+
+  .globe-halo {
+    position: absolute;
+    inset: 6%;
+    border-radius: 50%;
+    background: radial-gradient(circle at 38% 32%, rgba(18, 144, 124, 0.1), rgba(18, 144, 124, 0.02) 55%, transparent 72%);
+    filter: blur(6px);
+  }
+
+  .globe-tag {
+    position: absolute;
+    bottom: 2%;
+    z-index: 2;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    color: var(--muted);
+    background: rgba(255, 255, 255, 0.75);
+    backdrop-filter: blur(12px);
+    font-size: 0.82rem;
+    font-weight: 550;
+  }
+
+  .load {
+    animation: rise 950ms var(--ease) both;
+    animation-delay: var(--d, 0ms);
+  }
+
+  @keyframes rise {
+    from {
+      opacity: 0;
+      transform: translateY(24px);
+      filter: blur(6px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+      filter: blur(0);
+    }
+  }
+
+  /* ================= marquee ================= */
+  .marquee {
+    position: relative;
+    z-index: 1;
+    overflow: hidden;
+    padding: 1.1rem 0;
+    border-top: 1px solid rgba(22, 36, 46, 0.09);
+    border-bottom: 1px solid rgba(22, 36, 46, 0.09);
+    mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
+  }
+
+  .marquee-track {
+    display: flex;
+    width: max-content;
+    animation: slide 36s linear infinite;
+  }
+
+  .marquee:hover .marquee-track {
+    animation-play-state: paused;
+  }
+
+  .marquee-set {
+    display: flex;
+    align-items: center;
+  }
+
+  .marquee-item {
+    color: rgba(22, 36, 46, 0.55);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.95rem;
+    font-weight: 560;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+
+  .marquee-item::after {
+    margin: 0 1.6rem;
+    color: rgba(224, 138, 0, 0.6);
+    content: "\2726";
+  }
+
+  @keyframes slide {
+    to {
+      transform: translateX(-50%);
+    }
+  }
+
+  /* ================= services bento ================= */
+  .bento {
+    display: grid;
+    grid-template-columns: repeat(12, minmax(0, 1fr));
+    gap: 0.9rem;
+  }
+
+  .card,
+  .build-card {
+    display: block;
+    padding: 0.45rem;
+    border: 1px solid var(--hairline);
+    border-radius: 1.7rem;
+    background: rgba(22, 36, 46, 0.03);
+    text-decoration: none;
+    transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(var(--lift, 0px));
+    transition:
+      transform 350ms var(--ease),
+      border-color 600ms var(--ease),
+      box-shadow 600ms var(--ease);
+  }
+
+  .card-core {
+    position: relative;
+    overflow: hidden;
+    height: 100%;
+    padding: clamp(1.4rem, 2.5vw, 1.9rem);
+    border-radius: calc(1.7rem - 0.45rem);
+    background: var(--card);
+    box-shadow:
+      inset 0 1px 0 rgba(255, 255, 255, 0.9),
+      0 1px 2px rgba(22, 36, 46, 0.04);
+  }
+
+  /* cursor spotlight */
+  .card .card-core::before,
+  .build-card .card-core::before {
+    position: absolute;
+    inset: 0;
+    opacity: 0;
+    background: radial-gradient(13rem circle at var(--mx, 50%) var(--my, 50%), rgba(18, 144, 124, 0.07), transparent 65%);
+    transition: opacity 500ms var(--ease);
+    content: "";
+    pointer-events: none;
+  }
+
+  .card:hover .card-core::before,
+  .build-card:hover .card-core::before {
+    opacity: 1;
+  }
+
+  .card-lg {
+    grid-column: span 7;
+  }
+
+  .card-md {
+    grid-column: span 5;
+  }
+
+  .card-sm {
+    grid-column: span 3;
+  }
+
+  .card h3 {
+    margin-bottom: 0.65rem;
+    color: var(--ink);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: clamp(1.15rem, 1.8vw, 1.4rem);
+    font-weight: 620;
+    letter-spacing: -0.015em;
+    line-height: 1.15;
+  }
+
+  .card-lg h3 {
+    font-size: clamp(1.5rem, 2.6vw, 2.1rem);
+  }
+
+  .card p {
+    max-width: 34rem;
+    color: var(--muted);
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .card-arrow {
+    position: absolute;
+    right: 1.3rem;
+    bottom: 1.2rem;
+    display: inline-grid;
+    place-items: center;
+    width: 2.3rem;
+    height: 2.3rem;
+    border: 1px solid var(--hairline);
+    border-radius: 50%;
+    color: var(--teal);
+    background: rgba(18, 144, 124, 0.06);
+    transition: transform 600ms var(--ease), background-color 600ms var(--ease), color 600ms var(--ease);
+  }
+
+  a.card:hover,
+  a.card:focus-visible,
+  .build-card:hover,
+  .build-card:focus-visible {
+    --lift: -5px;
+    border-color: rgba(18, 144, 124, 0.35);
+    box-shadow: 0 30px 60px -24px rgba(22, 36, 46, 0.25);
+  }
+
+  a.card:hover .card-arrow,
+  a.card:focus-visible .card-arrow,
+  .build-card:hover .card-arrow,
+  .build-card:focus-visible .card-arrow {
+    transform: translate(3px, -3px);
+    color: #ffffff;
+    background: var(--teal);
+  }
+
+  .card-lg .card-core,
+  .card-md .card-core {
+    min-height: 12rem;
+  }
+
+  /* ================= static vs dynamic ================= */
+  .build-grid {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.9rem;
+  }
+
+  .build-card .card-core {
+    padding-bottom: 4rem;
+  }
+
+  .build-tag {
+    width: fit-content;
+    margin-bottom: 1rem;
+    padding: 0.28rem 0.7rem;
+    border: 1px solid rgba(224, 138, 0, 0.35);
+    border-radius: 999px;
+    color: var(--saffron);
+    font-size: 0.68rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+  }
+
+  .build-card h3 {
+    margin-bottom: 0.7rem;
+    color: var(--ink);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: clamp(1.4rem, 2.2vw, 1.8rem);
+    font-weight: 630;
+    letter-spacing: -0.015em;
+  }
+
+  .build-summary {
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
+  .build-points {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.55rem 1rem;
+    margin: 1.3rem 0 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .build-points li {
+    position: relative;
+    padding-left: 1.4rem;
+    color: var(--muted);
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+  .build-points li::before {
+    position: absolute;
+    left: 0;
+    color: var(--teal);
+    font-weight: 700;
+    content: "\2713";
+  }
+
+  /* ================= stats ================= */
+  .stats {
+    padding-top: 0;
+  }
+
+  .stat-band {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1rem;
+    margin: 0;
+    padding: clamp(2rem, 4vw, 3rem) clamp(1.5rem, 3vw, 3rem);
+    border: 1px solid var(--hairline);
+    border-radius: 2rem;
+    background: var(--card);
+    box-shadow: 0 30px 70px -30px rgba(22, 36, 46, 0.18);
+    list-style: none;
+  }
+
+  .stat-band li {
+    display: grid;
+    gap: 0.35rem;
+    text-align: center;
+  }
+
+  .stat-num {
+    color: var(--ink);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: clamp(2.2rem, 4.5vw, 3.4rem);
+    font-weight: 680;
+    letter-spacing: -0.03em;
+    line-height: 1;
+    font-variant-numeric: tabular-nums;
+  }
+
+  .stat-label {
+    color: var(--muted);
+    font-size: 0.9rem;
+  }
+
+  /* ================= process ================= */
+  .steps {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: clamp(1.5rem, 3vw, 3rem);
+    margin: 0;
+    padding: clamp(1.8rem, 3vw, 2.4rem) 0 0;
+    border-top: 1px solid var(--hairline);
+    list-style: none;
+  }
+
+  .steps li {
+    display: grid;
+    gap: 0.6rem;
+    align-content: start;
+  }
+
+  .step-num {
+    color: var(--saffron);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+  }
+
+  .steps h3 {
+    color: var(--ink);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 1.32rem;
+    font-weight: 630;
+    letter-spacing: -0.01em;
+  }
+
+  .steps p {
+    color: var(--muted);
+    line-height: 1.65;
+  }
+
+  /* ================= locations ================= */
+  .city-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.7rem;
+  }
+
+  .city-chip {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.9rem;
+    padding: 0 1.3rem;
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    color: var(--ink);
+    background: var(--card);
+    font-size: 0.96rem;
+    font-weight: 600;
+    text-decoration: none;
+    box-shadow: 0 10px 24px -14px rgba(22, 36, 46, 0.25);
+    transition:
+      transform 550ms var(--ease),
+      border-color 550ms var(--ease),
+      background-color 550ms var(--ease),
+      color 550ms var(--ease),
+      box-shadow 550ms var(--ease);
+  }
+
+  .city-chip:nth-child(odd) {
+    transform: rotate(-0.7deg);
+  }
+
+  .city-chip:nth-child(even) {
+    transform: rotate(0.6deg);
+  }
+
+  .city-chip:hover,
+  .city-chip:focus-visible {
+    transform: translateY(-3px) rotate(0deg);
+    border-color: rgba(18, 144, 124, 0.4);
+    color: var(--teal);
+    box-shadow: 0 18px 34px -14px rgba(18, 144, 124, 0.35);
+  }
+
+  .city-chip:active {
+    transform: scale(0.97);
+  }
+
+  /* ================= faq ================= */
+  .faq-list {
+    border-top: 1px solid var(--hairline);
+  }
+
+  .faq-item {
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .faq-item summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 1.5rem;
+    padding: 1.35rem 0.25rem;
+    color: var(--ink);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    list-style: none;
+    cursor: pointer;
+    transition: color 400ms var(--ease);
+  }
+
+  .faq-item summary::-webkit-details-marker {
+    display: none;
+  }
+
+  .faq-item summary:hover {
+    color: var(--teal);
+  }
+
+  .faq-mark {
+    display: inline-grid;
+    place-items: center;
+    flex-shrink: 0;
+    width: 2rem;
+    height: 2rem;
+    border: 1px solid var(--hairline);
+    border-radius: 50%;
+    color: var(--teal);
+    font-size: 1.1rem;
+    font-weight: 500;
+    transition: transform 500ms var(--ease), background-color 500ms var(--ease), color 500ms var(--ease);
+  }
+
+  .faq-item[open] .faq-mark {
+    transform: rotate(45deg);
+    color: #ffffff;
+    background: var(--teal);
+  }
+
+  .faq-item p {
+    max-width: 52rem;
+    padding: 0 0.25rem 1.4rem;
+    color: var(--muted);
+    line-height: 1.75;
+  }
+
+  /* ================= closing ================= */
+  .closing {
+    padding-bottom: clamp(5rem, 9vw, 8rem);
+  }
+
+  .closing-panel {
+    position: relative;
+    overflow: hidden;
+    padding: clamp(3rem, 7vw, 5.5rem) clamp(1.5rem, 5vw, 5rem);
+    border-radius: 2.4rem;
+    background:
+      radial-gradient(38rem 22rem at 50% -35%, rgba(18, 144, 124, 0.28), transparent 70%),
+      linear-gradient(180deg, #1a2f3c, #121e28);
+    box-shadow:
+      inset 0 1px 0 rgba(248, 245, 239, 0.1),
+      0 40px 90px -35px rgba(22, 36, 46, 0.5);
+    text-align: center;
+  }
+
+  .closing-panel .eyebrow,
+  .closing-panel h2 {
+    margin-inline: auto;
+  }
+
+  .closing-panel h2 {
+    max-width: 22ch;
+    margin-bottom: 1.1rem;
+    color: #f8f5ef;
+  }
+
+  .closing-note {
+    max-width: 44rem;
+    margin: 0 auto 2.3rem;
+    color: rgba(248, 245, 239, 0.72);
+    font-size: 1.03rem;
+    line-height: 1.7;
+  }
+
+  /* ================= scroll reveal ================= */
+  :global(html.js) [data-reveal] {
+    opacity: 0;
+    transform: translateY(28px);
+    filter: blur(6px);
+    transition:
+      opacity 950ms var(--ease),
+      transform 950ms var(--ease),
+      filter 950ms var(--ease);
+    transition-delay: var(--d, 0ms);
+  }
+
+  :global(html.js) [data-reveal].in {
+    opacity: 1;
+    transform: translateY(0);
+    filter: blur(0);
+  }
+
+  /* tilt cards need their own transform once revealed */
+  :global(html.js) .card[data-reveal].in,
+  :global(html.js) .build-card[data-reveal].in {
+    transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(var(--lift, 0px));
+  }
+
+  /* ================= responsive ================= */
+  @media (max-width: 980px) {
+    .hero {
+      grid-template-columns: 1fr;
+      min-height: 0;
+    }
+
+    .globe-stage {
+      max-width: 30rem;
+      margin: 0 auto;
+    }
+
+    .card-lg,
+    .card-md {
+      grid-column: span 12;
+    }
+
+    .card-sm {
+      grid-column: span 6;
+    }
+
+    .build-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .stat-band {
+      grid-template-columns: 1fr 1fr;
+      gap: 2rem 1rem;
+    }
+  }
+
+  @media (max-width: 620px) {
+    .hero,
+    .services,
+    .builds,
+    .stats,
+    .process,
+    .locations,
+    .faq,
+    .closing {
+      padding-inline: 1rem;
+    }
+
+    .steps {
+      grid-template-columns: 1fr;
+    }
+
+    .card-sm {
+      grid-column: span 12;
+    }
+
+    .build-points {
+      grid-template-columns: 1fr;
+    }
+
+    .closing-panel {
+      border-radius: 1.6rem;
+    }
+  }
+
+  /* ================= preference guards ================= */
+  @media (prefers-reduced-motion: reduce) {
+    .load {
+      animation: none;
+    }
+
+    .marquee-track {
+      animation: none;
+    }
+
+    :global(html.js) [data-reveal] {
+      opacity: 1;
+      transform: none;
+      filter: none;
+      transition: none;
+    }
+
+    .button,
+    .button-orb,
+    .card,
+    .build-card,
+    .card-arrow,
+    .city-chip,
+    .faq-mark {
+      transition-duration: 1ms;
+    }
+  }
+
+  @media (prefers-reduced-transparency: reduce) {
+    .globe-tag {
+      background: #ffffff;
+      backdrop-filter: none;
+    }
+  }
+
+  @media (prefers-contrast: more) {
+    .card,
+    .build-card,
+    .city-chip,
+    .button-ghost {
+      border-color: rgba(22, 36, 46, 0.45);
+    }
+  }
+</style>

@@ -1,0 +1,258 @@
+---
+import { Image } from "astro:assets";
+import { siteBrand } from "@data/site/site-config";
+import logo from "../../assets/images/logo-trimmed.png";
+
+const columns = [
+  {
+    title: "Services",
+    links: [
+      ["Web development", "/services/web-development/"],
+      ["SEO services", "/services/seo-services/"],
+      ["All services", "/services/"],
+      ["Industries", "/industries/"],
+      ["Pricing", "/pricing/"],
+    ],
+  },
+  {
+    title: "Locations",
+    links: [
+      ["Gurgaon", "/india/haryana/gurgaon/"],
+      ["Mumbai", "/india/maharashtra/mumbai/"],
+      ["Bangalore", "/india/karnataka/bangalore/"],
+      ["Hyderabad", "/india/telangana/hyderabad/"],
+      ["All India locations", "/india/"],
+    ],
+  },
+  {
+    title: "Company",
+    links: [
+      ["About", "/about/"],
+      ["Portfolio", "/portfolio/"],
+      ["Case studies", "/case-studies/"],
+      ["Blog", "/blog/"],
+      ["Contact", "/contact/"],
+    ],
+  },
+  {
+    title: "Legal",
+    links: [
+      ["Privacy policy", "/privacy-policy/"],
+      ["Terms of service", "/terms/"],
+      ["Refund policy", "/refund-policy/"],
+    ],
+  },
+];
+
+const socials = [
+  ["LinkedIn", "#"],
+  ["Instagram", "#"],
+  ["X / Twitter", "#"],
+  ["GitHub", "#"],
+];
+---
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <div class="footer-top">
+      <div class="footer-brand-col">
+        <a class="footer-brand" href="/" aria-label={`${siteBrand.name} home`}>
+          <Image src={logo} alt={siteBrand.name} height={96} densities={[1, 2]} />
+        </a>
+        <p class="footer-blurb">
+          Your partner in digital growth. Static and dynamic websites, software, SEO, and automation — built in India,
+          delivered worldwide.
+        </p>
+        <ul class="footer-social" aria-label="Social links">
+          {socials.map(([name, href]) => (
+            <li><a href={href} rel="noopener">{name}</a></li>
+          ))}
+        </ul>
+      </div>
+
+      <nav class="footer-columns" aria-label="Footer navigation">
+        {columns.map((col) => (
+          <div class="footer-col">
+            <p class="footer-col-title">{col.title}</p>
+            <ul>
+              {col.links.map(([label, href]) => (
+                <li><a href={href}>{label}</a></li>
+              ))}
+            </ul>
+          </div>
+        ))}
+      </nav>
+    </div>
+
+    <div class="footer-contact" aria-label="Contact details">
+      <a href="mailto:hello@btechwale.in">hello@btechwale.in</a>
+      <a href="tel:+919876543210">+91 98765 43210</a>
+      <span>Gurgaon, Haryana, India</span>
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; {new Date().getFullYear()} {siteBrand.name}. All rights reserved.</p>
+      <p class="footer-made">Made in India &middot; Serving worldwide</p>
+    </div>
+  </div>
+</footer>
+
+<style>
+  .site-footer {
+    position: relative;
+    z-index: 1;
+    color: #93a0a6;
+    background: #101c26;
+    border-top: 1px solid rgba(248, 245, 239, 0.08);
+  }
+
+  .footer-inner {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: clamp(3rem, 6vw, 5rem) clamp(1rem, 4vw, 3rem) 2rem;
+  }
+
+  .footer-top {
+    display: grid;
+    grid-template-columns: minmax(16rem, 1.1fr) 2fr;
+    gap: clamp(2rem, 5vw, 5rem);
+    padding-bottom: clamp(2.5rem, 4vw, 3.5rem);
+    border-bottom: 1px solid rgba(242, 239, 233, 0.08);
+  }
+
+  .footer-brand {
+    display: inline-block;
+  }
+
+  .footer-brand img {
+    display: block;
+    width: auto;
+    height: 3rem;
+    filter: brightness(0) invert(1);
+    opacity: 0.95;
+  }
+
+  .footer-blurb {
+    max-width: 24rem;
+    margin: 1.2rem 0 1.6rem;
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .footer-social {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .footer-social a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.2rem;
+    padding: 0 0.85rem;
+    border: 1px solid rgba(242, 239, 233, 0.12);
+    border-radius: 999px;
+    color: #c8cfd3;
+    font-size: 0.82rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition:
+      color 450ms cubic-bezier(0.32, 0.72, 0, 1),
+      border-color 450ms cubic-bezier(0.32, 0.72, 0, 1),
+      background-color 450ms cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .footer-social a:hover,
+  .footer-social a:focus-visible {
+    color: #3fb9a0;
+    border-color: rgba(63, 185, 160, 0.4);
+    background: rgba(63, 185, 160, 0.07);
+  }
+
+  .footer-columns {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1.5rem;
+  }
+
+  .footer-col-title {
+    margin: 0 0 1rem;
+    color: #f2efe9;
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.82rem;
+    font-weight: 650;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .footer-col ul {
+    display: grid;
+    gap: 0.55rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .footer-col a {
+    color: #8b959c;
+    font-size: 0.92rem;
+    text-decoration: none;
+    transition: color 400ms cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .footer-col a:hover,
+  .footer-col a:focus-visible {
+    color: #3fb9a0;
+  }
+
+  .footer-contact {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.8rem 2.2rem;
+    padding: 1.6rem 0;
+    border-bottom: 1px solid rgba(242, 239, 233, 0.08);
+    font-size: 0.92rem;
+  }
+
+  .footer-contact a {
+    color: #c8cfd3;
+    text-decoration: none;
+    transition: color 400ms cubic-bezier(0.32, 0.72, 0, 1);
+  }
+
+  .footer-contact a:hover,
+  .footer-contact a:focus-visible {
+    color: #3fb9a0;
+  }
+
+  .footer-bottom {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    gap: 0.5rem 2rem;
+    padding-top: 1.6rem;
+    font-size: 0.85rem;
+  }
+
+  .footer-bottom p {
+    margin: 0;
+  }
+
+  .footer-made {
+    color: #6b757c;
+  }
+
+  @media (max-width: 900px) {
+    .footer-top {
+      grid-template-columns: 1fr;
+    }
+
+    .footer-columns {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 2rem 1.5rem;
+    }
+  }
+</style>

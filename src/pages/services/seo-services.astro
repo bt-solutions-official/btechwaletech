@@ -1,0 +1,8 @@
+---
+import ServiceLayout from "@layouts/ServiceLayout.astro";
+import { getServiceBySlug } from "@data/services";
+
+const service = getServiceBySlug("seo-services");
+---
+
+<ServiceLayout page={service.seo} />

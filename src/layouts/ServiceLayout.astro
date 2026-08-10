@@ -1,0 +1,31 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import FAQSection from "@components/common/FAQSection.astro";
+import CTA from "@components/common/CTA.astro";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import type { PageSeoConfig } from "@app-types/seo";
+
+interface Props {
+  page: PageSeoConfig;
+}
+
+const { page } = Astro.props;
+const schema = [
+  breadcrumbListSchema(page.breadcrumbs),
+  serviceSchema(page.h1, page.description, page.canonicalPath),
+  ...(page.faqs?.length ? [faqSchema(page.faqs)] : []),
+  ...(page.schema ?? []),
+];
+---
+
+<BaseLayout meta={page} schema={schema}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <article>
+    <h1>{page.h1}</h1>
+    {page.intro && <p>{page.intro}</p>}
+    <slot />
+  </article>
+  <FAQSection faqs={page.faqs} />
+  <CTA />
+</BaseLayout>

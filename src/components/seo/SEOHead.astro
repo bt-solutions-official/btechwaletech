@@ -1,0 +1,37 @@
+---
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { applyTitleTemplate, normalizeSeoMeta } from "@lib/seo/seo-config";
+import { siteBrand, siteDefaults } from "@data/site/site-config";
+import type { SeoMeta } from "@app-types/seo";
+
+interface Props {
+  meta: SeoMeta;
+}
+
+const { meta: rawMeta } = Astro.props;
+const meta = normalizeSeoMeta(rawMeta);
+const title = applyTitleTemplate(meta.title);
+const canonical = canonicalUrl(meta.canonicalPath);
+const ogImage = meta.ogImage?.url ?? siteDefaults.defaultOgImage;
+---
+
+<title>{title}</title>
+<meta name="description" content={meta.description} />
+<meta name="robots" content={meta.robots} />
+{meta.keywords && meta.keywords.length > 0 && (
+  <meta name="keywords" content={meta.keywords.join(", ")} />
+)}
+<link rel="canonical" href={canonical} />
+<link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+<meta property="og:site_name" content={siteBrand.name} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={meta.description} />
+<meta property="og:type" content={meta.ogType} />
+<meta property="og:url" content={canonical} />
+<meta property="og:image" content={new URL(ogImage, siteBrand.domain).toString()} />
+<meta property="og:locale" content={meta.locale} />
+{meta.alternateLocales?.map((locale) => <meta property="og:locale:alternate" content={locale} />)}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={meta.description} />
+<meta name="twitter:image" content={new URL(ogImage, siteBrand.domain).toString()} />

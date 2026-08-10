@@ -1,0 +1,20 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import { breadcrumbListSchema } from "@lib/schema/schema";
+import type { PageSeoConfig } from "@app-types/seo";
+
+interface Props {
+  page: PageSeoConfig;
+}
+
+const { page } = Astro.props;
+---
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), ...(page.schema ?? [])]}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <article>
+    <h1>{page.h1}</h1>
+    <slot />
+  </article>
+</BaseLayout>

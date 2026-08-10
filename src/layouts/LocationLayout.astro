@@ -1,0 +1,33 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import FAQSection from "@components/common/FAQSection.astro";
+import InternalLinks from "@components/sections/InternalLinks.astro";
+import CTA from "@components/common/CTA.astro";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import type { PageSeoConfig } from "@app-types/seo";
+
+interface Props {
+  page: PageSeoConfig;
+}
+
+const { page } = Astro.props;
+const schema = [
+  breadcrumbListSchema(page.breadcrumbs),
+  ...(page.faqs?.length ? [faqSchema(page.faqs)] : []),
+  ...(page.schema ?? []),
+];
+---
+
+<BaseLayout meta={page} schema={schema}>
+  <Breadcrumbs items={page.breadcrumbs} />
+  <article>
+    <h1>{page.h1}</h1>
+    {page.intro && <p>{page.intro}</p>}
+    <slot />
+  </article>
+  <InternalLinks title="Related services" links={page.relatedServices?.map((item) => ({ label: item, href: `/services/${item}/` }))} />
+  <InternalLinks title="Related locations" links={page.relatedLocations?.map((item) => ({ label: item, href: item }))} />
+  <FAQSection faqs={page.faqs} />
+  <CTA />
+</BaseLayout>

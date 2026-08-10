@@ -1,0 +1,11 @@
+---
+import { primaryNavigation } from "@data/site/site-config";
+---
+
+<nav aria-label="Section navigation">
+  <ul>
+    {primaryNavigation.map((item) => (
+      <li><a href={item.href}>{item.label}</a></li>
+    ))}
+  </ul>
+</nav>

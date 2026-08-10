@@ -1,0 +1,10 @@
+---
+import LocationLayout from "@layouts/LocationLayout.astro";
+import LocationCard from "@components/sections/LocationCard.astro";
+import { indiaPageSeo } from "@data/page-seo/static-pages";
+import { indiaRegions } from "@data/countries/india/states";
+---
+
+<LocationLayout page={indiaPageSeo}>
+  {indiaRegions.map((region) => <LocationCard title={region.name} href={region.path} />)}
+</LocationLayout>

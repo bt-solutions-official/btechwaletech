@@ -1,0 +1,6 @@
+---
+import LocationLayout from "@layouts/LocationLayout.astro";
+import { getIndiaCity } from "@data/countries/india/cities";
+const city = getIndiaCity("uttar-pradesh", "noida");
+---
+<LocationLayout page={city.seo} />

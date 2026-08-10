@@ -1,0 +1,8 @@
+---
+import LocationLayout from "@layouts/LocationLayout.astro";
+import LocationCard from "@components/sections/LocationCard.astro";
+import { indiaRegionPage } from "@data/page-seo/static-pages";
+import { karnatakaCities } from "@data/countries/india/cities/karnataka";
+const page = indiaRegionPage("karnataka");
+---
+<LocationLayout page={page}>{karnatakaCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
