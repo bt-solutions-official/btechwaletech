@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
+  "packageManager": "npm@10.8.2",
   "scripts": {
     "dev": "astro dev",
-    "build": "astro check && astro build",
+    "build": "astro build",
+    "build:ci": "astro check && astro build",
     "preview": "astro preview",
     "check": "astro check",
     "lint": "astro check && node scripts/validate-architecture.mjs"
@@ -19,7 +21,6 @@
     "typescript": "5.6.3"
   }
 }
-
 
 
 
