@@ -92,21 +92,53 @@ const services = [
     name: "Website development",
     summary:
       "Static and dynamic websites, landing pages, portfolios, business sites, and web apps built from design to deployment.",
+    points: ["Business websites", "Landing pages", "Dynamic web apps", "Hosting and deployment"],
     href: "/services/web-development/",
     size: "lg",
   },
   {
     name: "SEO services",
     summary: "Technical SEO, local SEO, metadata, sitemap, schema, page structure, and content planning for search visibility.",
+    points: ["Technical SEO setup", "Local SEO pages", "Schema and sitemap", "Search intent planning"],
     href: "/services/seo-services/",
     size: "md",
   },
-  { name: "AI automation", summary: "Automated workflows, AI-powered task handling, chat flows, and process automation.", size: "sm" },
-  { name: "AI agents", summary: "Custom AI agents, meta-agent systems, assistant workflows, and tool-based automations.", size: "sm" },
-  { name: "Data analysis", summary: "Dashboards, reports, data cleaning, spreadsheet automation, and decision-ready insights.", size: "sm" },
-  { name: "Software & web apps", summary: "Custom dashboards, portals, APIs, admin panels, and internal business tools.", size: "sm" },
-  { name: "Ecommerce", summary: "Online stores, product pages, payment setup, checkout flows, and performance tuning.", size: "sm" },
-  { name: "Maintenance & support", summary: "Updates, bug fixes, deployment help, backups, SEO checks, and ongoing improvements.", size: "sm" },
+  {
+    name: "AI automation",
+    summary: "Automations that reduce repetitive manual work and speed up business operations.",
+    points: ["Workflow automation", "AI task handling", "Form and CRM flows", "Chat and email automation"],
+    size: "sm",
+  },
+  {
+    name: "AI agents",
+    summary: "Custom assistant systems that use tools, prompts, and workflows for real tasks.",
+    points: ["AI assistants", "Meta-agent workflows", "Tool-based agents", "Business process agents"],
+    size: "sm",
+  },
+  {
+    name: "Data analysis",
+    summary: "Turn raw data into clear reports, dashboards, and decision-ready insights.",
+    points: ["Data cleaning", "Excel and Sheets automation", "Dashboards", "Reports and insights"],
+    size: "sm",
+  },
+  {
+    name: "Software & web apps",
+    summary: "Custom digital tools for internal teams, customers, and business workflows.",
+    points: ["Admin panels", "Dashboards", "APIs and integrations", "Portals and tools"],
+    size: "sm",
+  },
+  {
+    name: "Ecommerce",
+    summary: "Online store setup and optimization for selling products or services online.",
+    points: ["Store setup", "Product pages", "Payments and checkout", "Performance tuning"],
+    size: "sm",
+  },
+  {
+    name: "Maintenance & support",
+    summary: "Keep your website, app, SEO setup, and deployment running cleanly after launch.",
+    points: ["Bug fixes", "Content updates", "Backup checks", "SEO and speed checks"],
+    size: "sm",
+  },
 ];
 
 const marquee = [
@@ -229,6 +261,11 @@ const locations = [
           <div class="card-core">
             <h3>{s.name}</h3>
             <p>{s.summary}</p>
+            <ul class="service-points">
+              {s.points.map((point) => (
+                <li>{point}</li>
+              ))}
+            </ul>
             {s.href && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
           </div>
         );
@@ -1084,9 +1121,42 @@ const locations = [
 
   .card p {
     max-width: 34rem;
+    margin-bottom: 1rem;
     color: var(--muted);
     font-size: 0.95rem;
     line-height: 1.6;
+  }
+
+  .service-points {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.45rem 0.9rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .service-points li {
+    position: relative;
+    padding-left: 1rem;
+    color: #52616a;
+    font-size: 0.86rem;
+    line-height: 1.35;
+  }
+
+  .service-points li::before {
+    position: absolute;
+    top: 0.58em;
+    left: 0;
+    width: 0.35rem;
+    height: 0.35rem;
+    border-radius: 50%;
+    background: var(--teal);
+    content: "";
+  }
+
+  .card-sm .service-points {
+    grid-template-columns: 1fr;
   }
 
   .card-arrow {
