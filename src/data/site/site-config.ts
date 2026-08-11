@@ -12,7 +12,7 @@ export const siteDefaults = {
   defaultTitle: "Btechwale",
   defaultDescription:
     "Placeholder description for Btechwale digital, IT, and freelancing services. Replace before launch.",
-  defaultOgImage: "/hero-command-desk.png",
+  defaultOgImage: "/banner_logo.png",
 };
 
 export const supportedCountrySlugs = ["india", "uae", "australia", "usa"] as const;
