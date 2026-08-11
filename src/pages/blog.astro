@@ -1,0 +1,270 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How often do you publish new articles?",
+    answer: "We add new guides as we finish projects and learn something worth writing down, so the pace follows real work rather than a content calendar. Instead of thin weekly posts, we publish longer pieces that answer a full question end to end. The mini-guides on this page are updated whenever pricing, tooling or search behaviour changes.",
+  },
+  {
+    question: "Can I suggest a topic for the blog?",
+    answer: "Yes, and we prefer it. Email your question to us and we will either answer you directly or turn it into a guide if other business owners are likely to have the same doubt. Questions about budgets, timelines, hosting choices and why a site is not getting enquiries make the most useful articles.",
+  },
+  {
+    question: "Do you write only for technical readers?",
+    answer: "No. Most readers here are business owners, founders and marketing managers who need to make a decision, not write code. We explain the trade-off in plain language first, then add the technical detail for anyone who wants it. If a guide leaves you more confused than before, tell us and we will rewrite that section.",
+  },
+  {
+    question: "What does a website cost if I hire you after reading this?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000 and a custom web app from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and integrations.",
+  },
+  {
+    question: "Is maintenance included after the site goes live?",
+    answer: "Yes. Once hosting is live we include five months of maintenance free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance is from ₹2,000 per month if you want us to keep handling it. You are never locked in, and the code stays yours.",
+  },
+  {
+    question: "Do you handle the whole project or only the build?",
+    answer: "We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. That means you are not coordinating a designer, a developer and a hosting vendor separately. One team plans the structure, writes the markup, sets up the search basics and pushes it live on a domain you control.",
+  },
+  {
+    question: "Where do you work from and who is on the team?",
+    answer: "We are a small freelance IT services group of three engineers: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation. Delivery is remote-friendly, so we work with businesses across India and overseas over email and calls.",
+  },
+  {
+    question: "Can I use these guides to brief another developer?",
+    answer: "Please do. The checklists here about quotes, site structure and project preparation work with any agency or freelancer. A clear brief saves everyone money, ours included, because scope arguments halfway through a build are the most expensive part of any website project. Take what is useful and ignore the rest.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Blog India: SEO Tips for Businesses",
+  description: "Practical web development and SEO guides for Indian businesses: site speed, local SEO, quotes, automation, site structure and planning a website that gets enquiries.",
+  canonicalPath: "/blog/",
+  h1: "Practical Guides on Websites, SEO and Automation",
+  intro: "No filler posts and no borrowed opinions. This page collects short, usable guides drawn from real client projects: how to judge a quote, what actually makes a page fast, how local search works for a small business, and how to plan a website before anyone starts designing it.",
+  breadcrumbs: createBreadcrumbs([{ label: "Blog", href: "/blog/" }]),
+  keywords: [
+    "web development blog India",
+    "SEO tips for small business India",
+    "website planning guide India",
+    "static vs dynamic website",
+    "page speed optimisation tips",
+    "local SEO for small business",
+    "how to judge a web development quote",
+    "website cost India",
+    "website structure planning",
+    "service page SEO",
+    "AI automation for business",
+    "website maintenance India",
+    "freelance web developer India",
+    "SEO friendly website design",
+    "core web vitals basics",
+    "Google Business Profile tips",
+    "website enquiries not coming",
+    "ecommerce website planning",
+    "hosting and deployment guide",
+    "content brief for website",
+    "keyword research basics India",
+    "small business website checklist",
+    "web development learning resources",
+    "technical SEO basics",
+    "website redesign planning",
+    "on page SEO guide India",
+  ],
+});
+---
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Blog</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="about-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="about-heading">What this blog covers</h2>
+            <p>We are a three-person freelance engineering group, and almost everything written here started as an answer to a client question on a call. That is deliberate. The topics are the ones that decide whether a project succeeds: how a site should be structured, what makes pages load quickly, when automation saves real hours, and how to read a development quote without guessing. We write for owners and managers who have to make a call on budget and scope, not only for developers.</p>
+            <p>Because we deliver projects end to end, including planning, design, development, SEO setup, hosting and deployment, the advice here reflects the whole lifecycle rather than one slice of it. A decision about hosting affects speed. Speed affects rankings. Rankings affect enquiries. We try to show those connections instead of treating each topic as separate. New guides are added regularly, and the mini-guides below are living notes we update as tooling and search behaviour shift.</p>
+          </article>
+          <article>
+            <h3>Suggest a topic</h3>
+            <p>If you have a question we have not covered, send it to us. We would rather write about a doubt someone actually has than invent a topic to fill a schedule. Questions about realistic timelines, what a fair price looks like, and why an existing website is quiet get priority, because those are the ones that cost businesses the most money when guessed at.</p>
+            <p>You can also ask us to review something you have already been quoted for. We will tell you if it looks reasonable, even when the answer is that you should stay with your current developer. If you want a direct conversation instead, the <a href="/contact/">contact page</a> and our <a href="/pricing/">pricing page</a> are the fastest routes.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="static-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="static-heading">Static or dynamic: which one do you actually need?</h2>
+            <p>A static site ships pre-built HTML files. A dynamic site builds each page when someone requests it, usually pulling from a database. The honest rule is this: if your content changes a few times a month and there is no login, no cart and no user-generated data, static wins on almost every measure. It loads faster, costs less to host, has a far smaller attack surface, and rarely breaks because a plugin updated itself overnight.</p>
+            <p>Dynamic becomes the right answer when the content is genuinely per-user or changes constantly: an ecommerce catalogue with live stock, a booking system, a dashboard, a portal with accounts. The mistake we see most often is a five-page brochure site running on a heavy dynamic stack with eight plugins, because that is what the previous developer knew. It costs more to host, more to maintain, and it is slower for no benefit.</p>
+            <p>There is also a middle path. Many sites are best built statically with a small dynamic piece bolted on, such as a form handler or a search endpoint. That keeps the fast, cheap core and adds complexity only where it earns its place. Our <a href="/services/web-development/">web development service</a> starts most brochure and SEO projects statically, from ₹5,000, and moves up only when the feature list demands it.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="speed-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="speed-heading">What really affects page speed</h2>
+            <p>Most speed advice online is noise. In practice, four things account for the bulk of slow pages. First, images: uncompressed photos straight from a phone camera, served at full resolution and scaled down in the browser. Converting to modern formats and sizing correctly often halves page weight on its own. Second, third-party scripts: chat widgets, multiple analytics tags, ad pixels and font loaders each add a network round trip and blocking work on the main thread.</p>
+            <p>Third, the server response itself. If the first byte takes a second to arrive, nothing you do in the browser recovers that. Cheap oversold shared hosting is a common culprit, and moving to a static host or a properly cached setup fixes it immediately. Fourth, layout shift: content jumping around while it loads. That is usually images without dimensions, or fonts swapping late. Users judge a page as broken when it moves under their finger, and the metric penalises it too.</p>
+            <p>Test on a real mid-range Android phone on mobile data, not on your laptop over office fibre. Aim to keep the main content visible in under three seconds on that device. Speed is not a vanity number; slow pages lose enquiries before anyone reads a word of your copy.</p>
+          </article>
+          <article>
+            <h3>How local SEO works for a small business</h3>
+            <p>Local search is a different game from national ranking. Google decides who appears in the map results using three broad signals: relevance, distance and prominence. You cannot change distance, so the work sits in the other two. Relevance comes from your Google Business Profile being filled properly, with the correct primary category, real services listed, working hours and photographs that show the actual business rather than stock images.</p>
+            <p>Prominence comes from consistency and reputation. Your business name, address and phone number should be written identically everywhere they appear: your website footer, your profile, directories, social pages. Mismatched details split the signal. Reviews matter, and so do replies to them. On the website side, one clear page per service and per area you genuinely serve beats one page trying to mention every city in a paragraph.</p>
+            <p>Be honest about geography. If you are remote-friendly and serve clients in a city without an office there, say that. Claiming a physical presence you do not have is both a trust problem and a policy problem. Our own <a href="/it-services/">IT services pages</a> follow that rule and simply state where we work with businesses.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="automation-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="automation-heading">When automation is worth paying for</h2>
+            <p>Automation earns its cost when a task is repetitive, rule-based and frequent enough that the hours add up. Copying enquiry details from a form into a spreadsheet, generating the same invoice format every week, sorting incoming documents, sending follow-up messages on a fixed schedule: these are the shapes that pay back. Do the arithmetic before you commit. If a task takes twenty minutes a day, that is roughly two working weeks a year, and it is worth automating.</p>
+            <p>What does not pay back is automating something that happens twice a month, or a process nobody has written down yet. Automating a messy process just makes the mess happen faster. Map the steps first, delete the ones that exist only out of habit, then automate what survives. That single step often cuts the build in half.</p>
+            <p>AI adds value where judgement is fuzzy but the stakes are low per item: classifying enquiries, summarising long documents, drafting first-pass replies a human then approves. Keep a human in the loop for anything that touches money or a customer commitment. Our AI automation work starts from ₹15,000 and depends heavily on how many systems have to talk to each other.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="structure-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="structure-heading">Plan the structure before anyone designs a pixel</h2>
+            <p>The cheapest hour on a website project is the one spent on a sitemap. Before design starts, list every page the site needs, group them into sections, and decide which page answers which question a visitor might arrive with. One page should own one topic. If two pages both target the same intent, they compete with each other and neither ranks well.</p>
+            <p>Write the URL for each page at this stage too. Short, lowercase, readable, structured to match the grouping: services sit under services, locations under locations. Changing URLs later means redirects, lost signals and broken links from anywhere that already pointed at you. Decide once and stick to it.</p>
+            <p>Then plan the internal links. Every important page should be reachable within two or three clicks from the homepage, and related pages should link to each other in body text, not only in a menu. A structure planned this way makes design faster, because the designer knows exactly how many page types exist and what each has to hold. Our <a href="/services/">services overview</a> shows the pattern we use on our own site.</p>
+          </article>
+          <article>
+            <h3>Writing service pages that actually rank</h3>
+            <p>A service page has one job: convince a person who is already looking for that service that you can do it. Start by answering the four questions everyone has. What exactly is included? What does it cost, at least as a starting figure? How long does it take? Who is it right for, and who is it not right for? Pages that dodge those questions get skimmed and abandoned, and time on page tells search engines exactly that.</p>
+            <p>Use the words your customers use, not internal jargon. Headings should match the questions people actually type. Write in specifics: instead of promising quality, say the site ships with the search basics configured, hosting live, and five months of maintenance included. Concrete claims are more persuasive and easier to rank than adjectives.</p>
+            <p>Length follows substance. If the topic genuinely needs 1,500 words, write them; if it does not, padding hurts. Add a clear next step at the end, link to related services such as <a href="/services/seo-services/">SEO services</a>, and make the contact route obvious without a popup fighting the reader.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="quote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="quote-heading">How to judge a web development quote</h2>
+            <p>Compare quotes on scope, not on the number at the bottom. A ₹15,000 quote and a ₹60,000 quote often describe entirely different projects, and the cheaper one frequently excludes the things that make a site work. Ask every developer the same set of questions and the comparison becomes straightforward.</p>
+            <ul class="it-list">
+              <li>How many pages, and who writes the content for them?</li>
+              <li>Is hosting and domain setup included, or billed separately later?</li>
+              <li>Is SEO setup part of the build: titles, descriptions, sitemap, schema, redirects?</li>
+              <li>What happens after launch, and for how long, at what cost?</li>
+              <li>Who owns the code, the domain and the hosting account?</li>
+              <li>How many revision rounds are included before extra charges start?</li>
+            </ul>
+            <p>Watch for two warning signs. One is a quote with no page count, which almost guarantees a scope argument later. The other is ownership sitting with the developer, so you cannot move if the relationship ends. For reference, our own pricing starts from ₹5,000 for a static site and from ₹10,000 for a 30-page SEO website handled design to deployment, with the caveat that final cost always depends on scope.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="prepare-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="prepare-heading">What to prepare before starting a website project</h2>
+            <p>Projects stall on missing inputs far more often than on technical problems. Before the first call, gather your logo files in the highest resolution you have, the exact business name, address and phone number as you want them shown, and a short description of what you do in your own words. Collect photographs of real work, real premises and real people, because genuine images outperform stock every time.</p>
+            <p>Decide who the single decision-maker is. Design feedback from four people with equal authority is the most reliable way to double a timeline. Write down three websites you like and, more usefully, one sentence each on why. Make a list of the services you sell, in the order of importance to your revenue, since that ordering drives the sitemap.</p>
+            <p>Finally, check who controls your domain and your existing hosting login. Recovering a domain registered years ago by a former employee can take longer than building the site. Sort that out early, and a straightforward project can move from kickoff to live in two to four weeks.</p>
+          </article>
+          <article>
+            <h3>Why most business websites get no enquiries</h3>
+            <p>A quiet website usually fails for one of a handful of reasons, and only rarely because of design. The first is that nobody can find it: no keyword targeting, no indexed pages, no local profile. The second is that it targets the wrong intent, describing the company at length while never answering what the visitor came to ask. The third is friction: no phone number visible, a contact form asking for eight fields, or a page that takes six seconds to load on mobile.</p>
+            <p>The fourth is missing proof. Visitors want to see that you have done this before, with concrete detail rather than adjectives. The fifth is silence after launch, when a site is built, published and never touched again while competitors keep adding pages.</p>
+            <p>Diagnose in that order before spending on a redesign. Check whether pages are indexed, whether traffic exists at all, then whether that traffic converts. A redesign fixes appearance; it does not fix a site nobody visits. Our <a href="/case-studies/">case studies</a> and <a href="/portfolio/">portfolio</a> pages show how we approach that sequence.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="work-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="work-heading">How we work, in case you want the build too</h2>
+            <p>We take projects end to end so you are not stitching together a designer, a developer and a hosting vendor. That means planning and sitemap, design, development, SEO setup, hosting and deployment handled by the same three people. You get one point of contact and one timeline. Once hosting is live, five months of maintenance are included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period, maintenance is from ₹2,000 per month, and it stays optional.</p>
+            <p>Starting prices are straightforward. A static website starts from ₹5,000. A 30-page SEO website, design to deployment, starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000, and a custom web app from ₹40,000. Monthly SEO starts from ₹5,000 per month. Every one of those is a starting figure, and the final cost depends on the scope you settle on. Tell us what you need and we will give you a number and a timeline before you commit to anything.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If a guide above answered part of your question, these pages cover the rest in more depth, including service detail, pricing and the regions we work across.</p>
+            <ul class="it-list">
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting figures</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/india/">Web development in India</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>
+              <li><a href="/india/haryana/gurgaon/">Gurgaon</a></li>
+              <li><a href="/it-services/delhi/new-delhi/">New Delhi IT services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions readers ask</h2>
+          <p>Short answers to the things people email us about after reading these guides.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((item) => (
+            <details>
+              <summary>{item.question}</summary>
+              <p>{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Have a question we have not written about yet?</h2>
+          <p>Send it across. We will answer you directly, and if it is a question other businesses share, it becomes the next guide. If you would rather skip straight to a quote, tell us the page count and what the site has to do, and we will come back with a figure and a timeline.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

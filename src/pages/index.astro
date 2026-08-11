@@ -171,10 +171,10 @@ const marquee = [
 ];
 
 const stats = [
-  { value: 2, suffix: "+", label: "Projects delivered" },
-  { value: 12, suffix: "+", label: "Indian cities covered" },
-  { value: 95, suffix: "+", label: "Average Lighthouse score" },
-  { value: 100, suffix: "%", label: "SEO-ready builds" },
+  { value: 3, suffix: "", label: "Engineers you work with directly" },
+  { value: 5, suffix: "", label: "Months maintenance included free" },
+  { value: 150, suffix: "+", label: "Indian cities with local pages" },
+  { value: 100, suffix: "%", label: "Code and content ownership" },
 ];
 
 const builds = [
@@ -201,12 +201,39 @@ const process = [
 const locations = [
   ["Gurgaon", "/india/haryana/gurgaon/"],
   ["Faridabad", "/india/haryana/faridabad/"],
+  ["Delhi", "/it-services/delhi/new-delhi/"],
+  ["Noida", "/india/uttar-pradesh/noida/"],
   ["Mumbai", "/india/maharashtra/mumbai/"],
   ["Pune", "/india/maharashtra/pune/"],
   ["Bangalore", "/india/karnataka/bangalore/"],
-  ["Noida", "/india/uttar-pradesh/noida/"],
   ["Hyderabad", "/india/telangana/hyderabad/"],
   ["Chennai", "/india/tamil-nadu/chennai/"],
+  ["Kolkata", "/india/west-bengal/kolkata/"],
+  ["Ahmedabad", "/india/gujarat/ahmedabad/"],
+  ["Jaipur", "/india/rajasthan/jaipur/"],
+  ["Lucknow", "/india/uttar-pradesh/lucknow/"],
+  ["Kochi", "/india/kerala/kochi/"],
+  ["Indore", "/it-services/madhya-pradesh/indore/"],
+  ["Patna", "/it-services/bihar/patna/"],
+  ["Bhubaneswar", "/it-services/odisha/bhubaneswar/"],
+  ["Ludhiana", "/it-services/punjab/ludhiana/"],
+  ["Guwahati", "/it-services/assam/guwahati/"],
+  ["Dehradun", "/it-services/uttarakhand/dehradun/"],
+];
+
+const stateHubs = [
+  ["Delhi", "/india/delhi/"],
+  ["Haryana", "/india/haryana/"],
+  ["Maharashtra", "/india/maharashtra/"],
+  ["Karnataka", "/india/karnataka/"],
+  ["Uttar Pradesh", "/india/uttar-pradesh/"],
+  ["Telangana", "/india/telangana/"],
+  ["Tamil Nadu", "/india/tamil-nadu/"],
+  ["Rajasthan", "/india/rajasthan/"],
+  ["Gujarat", "/india/gujarat/"],
+  ["West Bengal", "/india/west-bengal/"],
+  ["Kerala", "/india/kerala/"],
+  ["All 30 states", "/it-services/"],
 ];
 ---
 
@@ -350,14 +377,20 @@ const locations = [
   <section class="locations" aria-labelledby="locations-heading">
     <div class="section-head" data-reveal>
       <p class="eyebrow">Local reach</p>
-      <h2 id="locations-heading">India pages are ready to grow city by city</h2>
+      <h2 id="locations-heading">Local pages for 150+ cities across India</h2>
       <p class="section-note">
-        We are starting with India-focused service pages and can expand location-wise with useful, original content
-        for each city and service area.
+        Every state and major city has its own page covering the local business context, not the same text with a
+        name swapped in. Start with your city, or browse the full directory.
       </p>
     </div>
     <div class="city-cloud" data-reveal>
       {locations.map(([name, href]) => (
+        <a class="city-chip" href={href}>{name}</a>
+      ))}
+    </div>
+    <p class="cloud-label" data-reveal>Browse by state</p>
+    <div class="city-cloud city-cloud-muted" data-reveal>
+      {stateHubs.map(([name, href]) => (
         <a class="city-chip" href={href}>{name}</a>
       ))}
     </div>
@@ -1069,8 +1102,9 @@ const locations = [
   /* ================= services bento ================= */
   .bento {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
     gap: 1rem;
+    align-items: start;
   }
 
   .card,
@@ -1398,6 +1432,24 @@ const locations = [
 
   .city-chip:active {
     transform: scale(0.97);
+  }
+
+  .cloud-label {
+    margin: 2rem 0 0.9rem;
+    color: var(--muted);
+    font-size: 0.8rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+  }
+
+  .city-cloud-muted .city-chip {
+    min-height: 2.5rem;
+    padding: 0 1.05rem;
+    background: transparent;
+    box-shadow: none;
+    font-size: 0.9rem;
+    font-weight: 550;
   }
 
   /* ================= faq ================= */

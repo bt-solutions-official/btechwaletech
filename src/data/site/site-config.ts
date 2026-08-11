@@ -42,6 +42,6 @@ export const primaryNavigation: SiteNavigationItem[] = [
   { label: "India", href: "/india/" },
   { label: "Industries", href: "/industries/" },
   { label: "Portfolio", href: "/portfolio/" },
-  { label: "Blog", href: "/blog/" },
+  { label: "Pricing", href: "/pricing/" },
   { label: "Contact", href: "/contact/" },
 ];

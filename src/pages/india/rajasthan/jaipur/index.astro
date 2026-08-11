@@ -1,6 +1,266 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("rajasthan", "jaipur");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost in Jaipur?",
+    answer: "A static business website starts from Rs 5,000. A 30-page SEO website handled design to deployment starts from Rs 10,000. Ecommerce starts from Rs 25,000 and a custom web application starts from Rs 40,000. The final cost depends on scope: page count, custom design work, integrations, content writing and how much product data has to be loaded."
+  },
+  {
+    question: "How long does a Jaipur website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website takes roughly three to five weeks including content, on-page work and deployment. Ecommerce and custom applications run four to eight weeks or more. Delays almost always come from content and photographs, so the faster you send those, the faster the site ships."
+  },
+  {
+    question: "Do you have an office in Jaipur?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses in Jaipur and across Rajasthan. Everything happens over calls, WhatsApp and email, with a staging link you can open from anywhere. You get the same delivery, review cycles and support you would expect from a local team, without the overheads."
+  },
+  {
+    question: "Is maintenance included after the site goes live?",
+    answer: "Yes. Five months of maintenance are included free after hosting goes live. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, ongoing maintenance is from Rs 2,000 per month. You are never locked in, and the site and its hosting account stay yours throughout."
+  },
+  {
+    question: "Can you rank a Jaipur business for local searches?",
+    answer: "We set up the groundwork that local ranking depends on: an optimised Google Business Profile, consistent name, address and phone details, area and service pages, schema markup, and fast mobile pages. Monthly SEO starts from Rs 5,000 per month. Local results usually start moving in two to four months, competitive terms take longer."
+  },
+  {
+    question: "Do you redesign an existing website or only build new ones?",
+    answer: "Both. Redesigns are common in Jaipur because many businesses have an old site that still ranks for a few terms. We keep the URLs and content that earn traffic, redirect anything we retire, then rebuild the design and speed on top. That protects rankings instead of resetting them on launch day."
+  },
+  {
+    question: "Who actually works on the project?",
+    answer: "Three engineers. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data work, and Vedansh Shrivastava manages the project along with data science and automation. You talk to the people writing the code, not a sales layer that passes messages along."
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "Your business details, the services you want to sell, any logo and photographs you already have, and a rough idea of the pages you want. If you have an existing site, send the login or hosting details. We turn that into a page plan and a fixed quote before any code is written."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Jaipur - Websites and SEO",
+  description: "Web development company in Jaipur building websites for tourism, jewellery, coaching and retail businesses. Website design, ecommerce and SEO services from Rs 5,000.",
+  canonicalPath: "/india/rajasthan/jaipur/",
+  h1: "Website Design, Development and SEO Services for Jaipur Businesses",
+  intro: "We build and rank websites for businesses in Jaipur, from a single-page brochure site to a full ecommerce store. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Rajasthan", href: "/india/rajasthan/" },
+    { label: "Jaipur", href: "/india/rajasthan/jaipur/" }
+  ]),
+  keywords: [
+    "web development company in Jaipur",
+    "website designer Jaipur",
+    "SEO services Jaipur",
+    "website development cost in Jaipur",
+    "website design company Jaipur",
+    "web designer in Jaipur Rajasthan",
+    "ecommerce website development Jaipur",
+    "local SEO Jaipur",
+    "Google Business Profile Jaipur",
+    "website development Malviya Nagar Jaipur",
+    "web designer Vaishali Nagar",
+    "website company C-Scheme Jaipur",
+    "web development Mansarovar Jaipur",
+    "website designer Sitapura Jaipur",
+    "static website design Jaipur",
+    "dynamic website development Jaipur",
+    "website redesign Jaipur",
+    "handicraft website design Jaipur",
+    "jewellery website development Jaipur",
+    "tourism website design Jaipur",
+    "coaching institute website Jaipur",
+    "startup website development Jaipur",
+    "affordable website design Jaipur",
+    "freelance web developer Jaipur",
+    "website maintenance Jaipur",
+    "small business website Jaipur",
+    "SEO company in Jaipur Rajasthan",
+    "web application development Jaipur"
+  ]
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Jaipur</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Jaipur businesses actually struggle with online</h2>
+            <p>Jaipur has an unusual mix for a city its size. A tourism economy that runs on international search, a handicrafts and gems trade that sells to buyers who will never visit the shop, a coaching belt around Mahaveer Nagar and Gopalpura that competes on reputation, and a growing software and manufacturing base out near Sitapura. All of them need a website that does real work, and most of the sites we are asked to fix were never built to do any.</p>
+            <p>The pattern repeats. A site was built years ago on a page builder, loaded with sliders and stock photographs, and never touched again. It takes six seconds to open on a phone. The contact number in the footer is the old one. There is one page called "Services" that lists eleven things in a paragraph, so Google has nothing specific to rank. The owner is paying for hosting they cannot log into and a domain registered under someone else's email. None of that is a design problem. It is a structure problem, and structure is where we start.</p>
+          </article>
+          <article>
+            <h3>Why the phone stopped ringing</h3>
+            <p>Search behaviour in Jaipur has moved almost entirely to mobile and to map results. Someone looking for a wedding photographer in Vaishali Nagar or a CA near C-Scheme types the area name and taps one of the first three map listings. If your Google Business Profile is thin and your website has no page matching that search, you are invisible in the exact moment someone was ready to call.</p>
+            <p>The fix is not more advertising spend. It is a site that answers specific searches with specific pages, loads fast on a mid-range Android phone, and feeds Google the location and service signals it needs. That is unglamorous work, and it is most of what actually moves a small business online.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Jaipur business</h2>
+            <p>There is no single right build. A boutique hotel in the old city, a gemstone exporter and a coaching institute all need different machinery underneath. We pick the simplest option that does the job, because every extra layer is something that breaks later and costs money to maintain. Four routes cover almost everything we are asked for in Jaipur.</p>
+            <ul class="it-list">
+              <li><strong>Static website, from Rs 5,000.</strong> Five to eight pages, hand-built, extremely fast, nothing to hack. Right for consultants, clinics, small studios and anyone who updates content a few times a year.</li>
+              <li><strong>Dynamic or CMS website, from Rs 10,000 for a 30-page SEO build.</strong> You log in and edit pages, add blog posts, publish new services. Right for tourism operators, institutes and anyone publishing regularly.</li>
+              <li><strong>Redesign of an existing site.</strong> We keep the pages that earn traffic, redirect the ones we retire, and rebuild speed and design on top so rankings survive the switch.</li>
+              <li><strong>Ecommerce, from Rs 25,000.</strong> Product catalogue, payment gateway, shipping rules, order emails and stock handling. Common for handicrafts, jewellery, textiles and Rajasthani food brands selling across India.</li>
+            </ul>
+            <p>Custom web applications, dashboards, booking engines and internal tools start from Rs 40,000. If your requirement is broader than a website, our <a href="/it-services/rajasthan/jaipur/">IT services page for Jaipur</a> covers cloud, automation and data work. Full detail on our build process sits on the <a href="/services/web-development/">web development services</a> page, and every figure here is a starting point that depends on scope.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Jaipur business website should include</h2>
+            <p>A website earns its cost through a handful of pages that answer the questions a buyer already has. Everything else is decoration. We plan the page list before design starts, so the site is built around what people search for rather than around a template that happened to look nice.</p>
+            <p>At minimum that means a homepage that says plainly what you do and where you do it, a separate page for each service you want to be found for, an honest about page with the real people behind the business, and a contact page with a working form, a clickable phone number, a WhatsApp link and an embedded map. Add pricing or package information wherever you can bear to publish it, because pages with numbers convert far better than pages that hide them.</p>
+          </article>
+          <article>
+            <h3>The details that get skipped</h3>
+            <p>Compress every photograph before it goes near the site. Jaipur businesses in tourism and jewellery send us gorgeous four-megabyte images that turn a fast site into a slow one. Write real alt text. Put a schema block on every page so Google reads your address, hours and services as data rather than guessing from paragraphs.</p>
+            <p>Then check the site on a cheap phone on mobile data, not a laptop on office broadband. That is what your customer is holding. If a page takes more than three seconds to become usable there, it needs work regardless of how it looks on a desktop screen.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Jaipur searches</h2>
+            <p>Local search in Jaipur splits into two results that behave differently. The map pack at the top is driven mostly by your Google Business Profile, review activity and proximity to the searcher. The blue links below it are driven by your website. You need both, and they need the same information, because inconsistency between them is one of the most common reasons a business sits just outside the top three.</p>
+            <p>We start with the profile: correct category, complete service list, real photographs of your premises and work, service areas set to the parts of the city you actually cover, and a habit of asking customers for reviews. Then the website side: area and service pages that reflect genuine search demand, internal links between them, schema markup, and page titles that lead with the service and the location rather than the business name.</p>
+          </article>
+          <article>
+            <h3>Area-level and service-area targeting</h3>
+            <p>Someone in Mansarovar searching for a service rarely types "Jaipur". They type the colony name. A single generic city page cannot rank for the dozen area-level variations people use across Malviya Nagar, Vaishali Nagar, C-Scheme, Mansarovar, Jagatpura and the industrial belt at Sitapura, so where the demand is real we build separate pages with content that differs beyond a swapped place name.</p>
+            <p>If you deliver rather than receive visitors, the site is structured for service-area targeting instead: coverage stated clearly in text, travel and delivery terms spelled out, no fake address anywhere. Monthly SEO starts from Rs 5,000 per month and the approach is described on our <a href="/services/seo-services/">SEO services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for in Jaipur</h2>
+            <p>Jaipur's strongest sectors each pull the website in a different direction, and knowing that before the first wireframe saves a rebuild later.</p>
+            <ul class="it-list">
+              <li><strong>Tourism and hospitality.</strong> Multi-currency thinking, fast image galleries, enquiry forms that capture dates and group size, and content written for search terms used by visitors planning from outside India.</li>
+              <li><strong>Handicrafts and textiles.</strong> Catalogue-heavy sites where photography and product schema carry the sale, often with wholesale enquiry flows alongside retail checkout.</li>
+              <li><strong>Gems and jewellery.</strong> Trust signals matter more than anything: certification details, clear return terms, secure checkout and pages that survive scrutiny from a buyer spending serious money sight unseen.</li>
+              <li><strong>Coaching institutes.</strong> Course pages, faculty profiles, batch schedules, result pages and a lead form that feeds your counsellors quickly during admission season.</li>
+              <li><strong>Startups and software firms.</strong> A credible product site, a blog that builds search presence, and analytics wired in from day one rather than bolted on after launch.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End to end delivery and five months of free maintenance</h2>
+            <p>We handle projects end to end. Planning, design, development, SEO setup, hosting and deployment are all part of the same engagement, which means there is nobody to blame when something goes wrong and nobody to chase between vendors. The domain and hosting are registered in your name with your email as the account owner. We have seen too many Jaipur businesses discover, years later, that their agency owns the domain their brand depends on.</p>
+            <p>After the site goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Five months is long enough for the real issues to appear, which is the point. After that period, maintenance is from Rs 2,000 per month if you want us to keep watching it, and you are free to walk away with everything if you do not.</p>
+          </article>
+          <article>
+            <h3>Timelines you can plan around</h3>
+            <p>A static site is usually live within one to two weeks. A 30-page SEO website takes three to five weeks from kickoff to deployment. Ecommerce and custom applications run four to eight weeks depending on catalogue size and integrations. Redesigns sit in the middle, with an extra few days for migration mapping and redirects.</p>
+            <p>The single biggest cause of delay is content. Photographs, service descriptions, prices and staff details usually sit with you, and a project can stall for weeks waiting on them. We give you a content checklist on day one so nothing surprises you halfway through. Full price detail is on the <a href="/pricing/">pricing</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with a remote team actually runs</h2>
+            <p>We are a freelance group of three engineers and we do not have an office in Jaipur. We say that plainly because the alternative is a fake address on a contact page, and that helps nobody. What you get instead is direct access to the people building your site: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation.</p>
+            <p>Practically, a project starts with a call where you describe the business and we ask uncomfortable questions about who actually buys from you. That becomes a written page plan and a fixed quote. Once you approve, you get a staging link within days that updates as we build, so you are watching the site take shape rather than waiting for a reveal. Feedback comes over WhatsApp or email, whichever you prefer, and we work in Indian hours. Nothing goes live until you have clicked through it yourself.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Getting started</h2>
+            <p>Send an email or call and describe the business in a few lines: what you sell, who buys it, which parts of Jaipur or which markets you serve, and whether you already have a website. If you do, send the URL and any hosting details you can find. We look at what exists, tell you honestly whether it is worth repairing or replacing, and come back with a page plan and a fixed starting figure. There is no charge for that conversation and no obligation after it.</p>
+            <p>If you are still comparing options, read the <a href="/india/rajasthan/">Rajasthan services overview</a> or the wider <a href="/india/">India page</a> to see how we work across the country. Businesses in Jaipur, Jodhpur, Udaipur, Kota and Ajmer all come through the same process.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <ul class="it-list">
+              <li><a href="/it-services/rajasthan/jaipur/">IT services in Jaipur</a></li>
+              <li><a href="/it-services/rajasthan/">IT services across Rajasthan</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting figures</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/india/gujarat/ahmedabad/">Web development in Ahmedabad</a></li>
+              <li><a href="/india/haryana/gurgaon/">Web development in Gurgaon</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Web development in Noida</a></li>
+              <li><a href="/india/delhi/">Services in Delhi</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions we get from Jaipur businesses</h2>
+          <p>Straight answers on cost, timelines, maintenance and how a remote team handles a local project.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build or fix your Jaipur website?</h2>
+          <p>Tell us what your business does and where your customers are. You get a page plan, a fixed starting figure, and a build handled end to end with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

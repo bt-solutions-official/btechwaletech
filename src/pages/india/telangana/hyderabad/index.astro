@@ -1,6 +1,270 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("telangana", "hyderabad");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does website development cost in Hyderabad?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web app starts from ₹40,000. AI automation work starts from ₹15,000. The final cost depends on scope: page count, integrations, content and how much design work you want."
+  },
+  {
+    question: "How long does a Hyderabad business website take to build?",
+    answer: "A small static site is usually live in seven to twelve working days. A 30-page SEO site takes about three to five weeks including content, on-page work and deployment. Ecommerce and custom applications run longer, typically six to ten weeks. The biggest delay is almost always waiting on content, photos and product data from your side."
+  },
+  {
+    question: "Do you have an office in Hyderabad?",
+    answer: "No. We are a small freelance engineering group and we work with businesses in Hyderabad remotely. That means no office overhead in your invoice. Calls happen on WhatsApp, Google Meet or Zoom, and we share staging links so you can review progress from anywhere in HITEC City, Banjara Hills or Secunderabad."
+  },
+  {
+    question: "What is included in the 5 months free maintenance?",
+    answer: "After your hosting goes live we cover five months of maintenance at no extra charge: content updates, bug fixes, plugin and security updates, backups, plus uptime and page speed checks. After those five months, ongoing maintenance is from ₹2,000 per month if you want us to keep looking after the site."
+  },
+  {
+    question: "Can you rank my site for Hyderabad searches?",
+    answer: "We can build the foundation properly and work the on-page and local signals: Google Business Profile, area-level pages, internal links, schema and speed. Local map pack results for terms like interior designers in Gachibowli usually start moving within two to four months. Nobody can promise a position, and anyone who does is guessing."
+  },
+  {
+    question: "Do you work with pharma and healthcare businesses?",
+    answer: "Yes. Hyderabad has a heavy pharma, diagnostics and hospital presence, and those sites need careful handling: clear service pages, doctor or team profiles, enquiry forms that do not leak data, and content that stays factual. We keep claims conservative and build the compliance-safe version rather than the loud version."
+  },
+  {
+    question: "Can you redesign an existing website instead of starting over?",
+    answer: "Often yes. If the content and rankings are worth keeping, a redesign is cheaper and safer than a rebuild. We audit the current site, map the URLs, keep what performs, and move it onto a faster stack with proper redirects so you do not lose search traffic during the switch."
+  },
+  {
+    question: "How do we get started?",
+    answer: "Email or call us with a short description of your business, roughly how many pages you need and any site you already have. We reply with a scope note, a fixed starting price and a timeline. Once you approve, we begin with structure and content planning before any design work starts."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Hyderabad, Telangana",
+  description: "Web development company in Hyderabad building fast websites and local SEO for HITEC City, Gachibowli and Banjara Hills businesses. Static sites from ₹5,000.",
+  canonicalPath: "/india/telangana/hyderabad/",
+  h1: "Website Design, Development and SEO for Hyderabad Businesses",
+  intro: "We build websites for businesses across Hyderabad and handle everything end to end: planning, design, development, SEO setup, hosting and deployment. Remote-friendly delivery, honest starting prices, and five months of maintenance included free once your site goes live.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Telangana", href: "/india/telangana/" }, { label: "Hyderabad", href: "/india/telangana/hyderabad/" }]),
+  keywords: [
+    "web development company in Hyderabad",
+    "website designer Hyderabad",
+    "SEO services Hyderabad",
+    "website development cost in Hyderabad",
+    "website design Hyderabad",
+    "web development HITEC City",
+    "website designer Gachibowli",
+    "SEO company Madhapur",
+    "web design Banjara Hills",
+    "website development Jubilee Hills",
+    "web developer Kondapur",
+    "website design Secunderabad",
+    "local SEO Hyderabad",
+    "ecommerce website Hyderabad",
+    "static website Hyderabad",
+    "business website Hyderabad",
+    "freelance web developer Hyderabad",
+    "website redesign Hyderabad",
+    "Google Business Profile Hyderabad",
+    "pharma website development Hyderabad",
+    "real estate website Hyderabad",
+    "healthcare website design Hyderabad",
+    "education website Hyderabad",
+    "affordable website design Telangana",
+    "website maintenance Hyderabad",
+    "Astro website development India",
+    "SEO consultant Telangana",
+    "web design agency Hyderabad"
+  ]
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Hyderabad</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Hyderabad businesses actually struggle with online</h2>
+            <p>Hyderabad is not short of technical talent. That is exactly why the local web market is strange. A company in HITEC City can hire developers easily but still ends up with a website that nobody owns after the first month. Meanwhile a family-run business in Secunderabad or a clinic near Banjara Hills often has no site at all, just a Facebook page and a phone number written on a board. Both problems are common, and both cost enquiries.</p>
+            <p>The pattern we see most often is a site that was built once and then abandoned. Prices go stale. The team page still lists someone who left in 2023. The contact form silently stopped sending mail and nobody noticed for six months. On mobile, which is where the majority of Hyderabad traffic comes from, the page takes eight seconds to paint because someone loaded four sliders and a video header on a shared hosting plan.</p>
+          </article>
+          <article>
+            <h3>The second problem is being invisible in local search</h3>
+            <p>Search behaviour in Hyderabad is heavily area-based. People do not type "interior designer Telangana". They type "interior designer in Kondapur" or "CA near Gachibowli" or "best pediatrician Jubilee Hills". If your website has one generic page that says you serve Hyderabad, you are competing with everybody and matching nobody.</p>
+            <p>Fixing that is not a mystery. It needs a Google Business Profile that is actually filled in, service pages written for the intent behind each search, real internal linking, and a site that loads fast enough that Google does not quietly demote it. That is the work we do, and it is unglamorous rather than clever.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Hyderabad business</h2>
+            <p>There is no single right build. What you need depends on how often the content changes, whether you sell online, and how much of the site your own team will touch. We usually start by talking you out of the expensive option if the cheap one does the job. A five-page static site that loads in under two seconds beats a bloated CMS that nobody logs into.</p>
+            <p>Below are the four shapes most Hyderabad projects take. All of them are delivered end to end by us: planning, design, development, SEO setup, hosting and deployment, followed by five months of maintenance at no cost. You can read more about how we build on our <a href="/services/web-development/">web development services</a> page.</p>
+            <ul class="it-list">
+              <li><strong>Static business website, from ₹5,000.</strong> Five to eight pages, hand-built, extremely fast, ideal for consultants, clinics, small manufacturers and service firms whose content rarely changes.</li>
+              <li><strong>30-page SEO website, from ₹10,000.</strong> Design to deployment, structured around service and area pages, meta setup, schema and internal linking baked in from the start.</li>
+              <li><strong>Ecommerce store, from ₹25,000.</strong> Product catalogue, payment gateway, order flow, tax handling and inventory basics for retailers and D2C brands.</li>
+              <li><strong>Custom web application, from ₹40,000.</strong> Dashboards, booking systems, portals and internal tools where an off-the-shelf template genuinely will not work.</li>
+              <li><strong>Redesign of an existing site.</strong> Audit, URL mapping, redirects, content migration and a faster rebuild without losing existing rankings.</li>
+            </ul>
+            <p>Every figure above is a starting point. The final cost depends on scope, and we will tell you where your project sits before you commit anything.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Hyderabad business website should include</h2>
+            <p>A website earns its money by answering the questions a buyer has before they call you. Most sites skip half of them. If you sell to businesses in Madhapur or walk-in customers in Secunderabad, the same short list applies: say what you do in plain words, show proof, make the price range visible or explain how pricing works, and make contact effortless from a phone.</p>
+            <p>Beyond that, structure matters. One page per service, not one page listing twelve services in bullet form. Area pages only where you genuinely serve that area and can write something specific about it. Contact details in text so they can be copied, not baked into an image. Schema markup so search engines understand your business type, hours and location. Compressed images, because a 4MB hero photo is the single most common speed problem we find on Indian small business sites.</p>
+          </article>
+          <article>
+            <h3>Things worth adding, and things worth skipping</h3>
+            <p>Worth adding: a working enquiry form with spam protection, WhatsApp click-to-chat, a Google Maps embed if you have a physical location, an FAQ section that answers real objections, and clean tracking so you know which pages produce calls.</p>
+            <p>Worth skipping: auto-playing video headers, full-screen sliders that nobody clicks past slide one, stock photos of foreign offices, popups that fire in the first three seconds, and chat widgets that no one on your team ever answers. Each of these costs you speed, trust or both. We would rather build fewer things properly than fill a page with features that quietly annoy visitors.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Hyderabad searches</h2>
+            <p>Local SEO in Hyderabad has three moving parts, and they support each other. The first is your Google Business Profile. Category selection, service list, business hours, photos that are actually of your premises, and a steady flow of genuine reviews. This is what decides whether you appear in the map pack when someone searches "web designer near me" from Kondapur. It is free, it is underused, and most local competitors have filled it in badly.</p>
+            <p>The second part is area-level keyword targeting on your own site. Instead of one Hyderabad page, you build pages for the areas you actually serve and the services you actually sell, then write real content on each. A page about office interiors in Gachibowli should mention the kind of buildings there, typical project sizes and timelines. Thin duplicate pages with the area name swapped get ignored, and they should be.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting, technical hygiene and content</h3>
+            <p>The third part is the boring technical layer: fast loading on mobile data, clean heading structure, LocalBusiness schema, an XML sitemap, internal links that pass relevance between related pages, and no broken redirects left over from an old site. Google will not reward good content sitting on a slow, badly structured site.</p>
+            <p>If you serve customers across the city rather than from one shop, service-area targeting is the right approach: define the zones you cover honestly, build a page for each meaningful one, and connect them. Our <a href="/services/seo-services/">SEO services</a> page explains the monthly work in detail. Ongoing SEO starts from ₹5,000 per month, and the first month is mostly audit, fixes and structure rather than content volume.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Hyderabad</h2>
+            <p>Hyderabad's economy leans on a handful of strong sectors, and each one needs a different kind of website. IT and software firms around HITEC City and Madhapur usually need credibility, not volume: clear capability pages, case-study style write-ups, careers pages and a site fast enough that a technical buyer does not judge it. Pharma and life sciences companies need factual, conservative content, product or capability listings, certification details and enquiry routing that does not lose leads.</p>
+            <p>Real estate businesses in Banjara Hills, Jubilee Hills and the western corridor need property or project pages that load fast on mobile, good photo handling, and lead forms that reach the sales team in seconds. Education institutions need admissions-focused structure with course pages, fee clarity and enquiry forms that survive peak season traffic. Healthcare clinics and diagnostics centres need doctor profiles, service pages, timings, and a booking or callback path that works on a phone at 10pm.</p>
+          </article>
+          <article>
+            <h3>Small and mid-sized businesses everywhere else</h3>
+            <p>Not everything is pharma and IT. A large part of our Hyderabad work is ordinary and useful: a manufacturing firm that needs a proper product catalogue, a chartered accountant who wants to stop losing enquiries to a competitor with a better site, a boutique in Secunderabad moving to online orders, an events company that needs a portfolio people can browse quickly.</p>
+            <p>These projects usually start at the ₹5,000 to ₹10,000 range and deliver more per rupee than anything else, because the baseline they replace is so weak. If you want the wider technical picture beyond websites, our <a href="/it-services/telangana/hyderabad/">IT services in Hyderabad</a> page covers cloud, automation and data work.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery and five months of free maintenance</h2>
+            <p>We take a project from first conversation to a live site on your own domain. That includes planning the structure, designing the pages, building them, setting up on-page SEO, configuring hosting, pointing your domain, installing SSL, submitting the sitemap and confirming that forms, tracking and speed all behave on real devices. You do not need to hire a separate designer, developer, SEO person and hosting consultant and then coordinate between them.</p>
+            <p>Once hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security and dependency updates, backups, and uptime and page speed checks. It exists because the first few months after launch are when things actually break and when small content changes matter most. After those five months, maintenance is from ₹2,000 per month if you want it, and you are free to walk away instead. You own the code, the domain and the hosting account either way.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="working-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="working-heading">How working with us remotely actually works</h2>
+            <p>We are a group of three freelance engineers, not an agency with a Hyderabad office, and we will never claim otherwise. Ankur handles full stack development, Santosh works on AI, machine learning and AWS, and Vedansh manages projects along with data science and automation. You talk to the person doing the work, which is the main practical advantage of hiring a small team.</p>
+            <p>Communication runs on WhatsApp for quick things and Google Meet or Zoom for anything that needs a screen share. We share a staging link early so you can watch the site take shape instead of waiting for a big reveal. Feedback comes as a numbered list rather than scattered messages, which keeps revisions quick. Time zones are not an issue since we work Indian hours, so a question sent at 11am gets answered the same morning.</p>
+          </article>
+          <article>
+            <h3>Timelines you can plan around</h3>
+            <p>A static site is typically live in seven to twelve working days. A 30-page SEO website runs three to five weeks. Ecommerce takes six to eight weeks depending on catalogue size and payment integration. Custom applications are scoped individually and usually start at eight weeks.</p>
+            <p>The honest caveat: those timelines assume content arrives on time. The most common reason a Hyderabad project slips is not development, it is waiting three weeks for product photos or approved copy. We will tell you upfront exactly what we need from you and when, and we can write the content ourselves if that is faster for you.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Getting started, and what it will cost</h2>
+            <p>Send us an email or call. Tell us what your business does, roughly how many pages you think you need, whether you already have a site or domain, and what you want the website to achieve. Within a day or two you get back a short scope note, a fixed starting price, a timeline and a list of what we need from you. No sales calls, no pressure, no invented urgency.</p>
+            <p>For reference, the starting points are: static website from ₹5,000, a 30-page SEO website from design to deployment from ₹10,000, AI automation from ₹15,000, ecommerce from ₹25,000, custom web app from ₹40,000, monthly SEO from ₹5,000 per month, and maintenance from ₹2,000 per month after the free five months. Final cost always depends on scope, and we would rather scope it properly than quote a number that changes later. The full breakdown sits on our <a href="/pricing/">pricing</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section-head">
+        <h2 id="faq-heading">Common questions from Hyderabad clients</h2>
+        <p>Straight answers to what people usually ask before starting a website or SEO project.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>More on where we work and what we build. If you are comparing options across Telangana or other Indian cities, these pages cover the same services in different places.</p>
+            <ul class="it-list">
+              <li><a href="/india/telangana/">Web development and SEO across Telangana</a></li>
+              <li><a href="/it-services/telangana/hyderabad/">IT services in Hyderabad</a></li>
+              <li><a href="/india/">Web development services across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/india/karnataka/bangalore/">Web development in Bangalore</a></li>
+              <li><a href="/india/tamil-nadu/chennai/">Web development in Chennai</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to start your Hyderabad website project?</h2>
+          <p>Tell us what your business does and what you need the site to do. You get a scope note, a fixed starting price and a realistic timeline, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

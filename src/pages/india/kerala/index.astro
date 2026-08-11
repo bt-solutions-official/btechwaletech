@@ -1,8 +1,251 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { keralaCities } from "@data/countries/india/cities/kerala";
-const page = indiaRegionPage("kerala");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a business website in Kerala cost?",
+    answer: "A static brochure website starts from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month. The final cost depends on scope: page count, languages, booking or payment flows, and how much content you already have written."
+  },
+  {
+    question: "How long does a Kerala website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website normally takes three to five weeks including content, structure and deployment. Ecommerce and custom applications run six to ten weeks depending on integrations. The single biggest delay is waiting on photos, product details and approvals, so we agree a content checklist before we start building."
+  },
+  {
+    question: "Do you have an office in Kochi or Thiruvananthapuram?",
+    answer: "No. We are a freelance group of three engineers and we work fully remote. We do not claim an office, branch or address anywhere in Kerala. What you get instead is direct access to the people writing the code, calls on WhatsApp or Google Meet, and a shared task board. Everything is delivered online, and hosting and domain access stay in your name."
+  },
+  {
+    question: "Is maintenance really free after launch?",
+    answer: "Yes. Once your hosting goes live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security and plugin updates, backups, and regular uptime and speed checks. After those five months you can continue on maintenance from ₹2,000 per month, or stop entirely and keep the site, since the code and hosting account are yours."
+  },
+  {
+    question: "Can you rank a site for searches in more than one Kerala city?",
+    answer: "Yes, but it needs structure rather than repetition. Kochi, Thiruvananthapuram, Kozhikode, Thrissur and Kollam are separate search markets with different competitors. We build one clear service page per offering and then genuinely distinct city pages that mention real service areas, local details and different examples, so the pages do not compete with each other for the same query."
+  },
+  {
+    question: "Do you build Malayalam or bilingual websites?",
+    answer: "We build English-first sites for most Kerala businesses because that is what search volume and B2B enquiries follow. Where Malayalam matters, usually retail, healthcare intake, education admissions or government-facing work, we add Malayalam pages or sections with correct fonts, proper language tags and separate meta titles so search engines index both versions cleanly."
+  },
+  {
+    question: "What do you need from me before starting?",
+    answer: "A short brief on what the site should achieve, your service or product list, contact details, any logo files, and photos if you have them. If content is not written we draft it and you approve. For ecommerce we also need pricing, shipping rules and payment gateway details. Hosting and domain can be bought in your name at the start or moved later."
+  },
+  {
+    question: "Do you also handle SEO after the website is built?",
+    answer: "Yes. Monthly SEO starts from ₹5,000 per month and covers technical fixes, on-page work, content added on a schedule, internal linking and reporting. Many Kerala clients start with the website and add SEO once the pages are live and indexed. You can also take SEO on an existing site we did not build, after a short audit."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Kerala - Websites and SEO",
+  description: "Web development company in Kerala building fast business websites and SEO for Kochi, Thiruvananthapuram, Kozhikode and Thrissur. From ₹5,000, 5 months free upkeep.",
+  canonicalPath: "/india/kerala/",
+  h1: "Website Development and SEO Services for Businesses Across Kerala",
+  intro: "We design, build, host and rank websites for Kerala businesses from Kochi to Kollam. Three engineers, remote delivery, honest pricing, and five months of maintenance included free after your site goes live. Planning to deployment is handled end to end.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Kerala", href: "/india/kerala/" }]),
+  keywords: [
+    "web development company in Kerala",
+    "website development Kerala",
+    "website design Kerala",
+    "SEO services Kerala",
+    "SEO company Kerala",
+    "web design company Kochi",
+    "website development Kochi",
+    "web development Ernakulam",
+    "website design Thiruvananthapuram",
+    "SEO services Trivandrum",
+    "web development Kozhikode",
+    "website design Calicut",
+    "web development Thrissur",
+    "website design Kollam",
+    "ecommerce website Kerala",
+    "business website Kerala",
+    "local SEO Kerala",
+    "Malayalam website design",
+    "tourism website design Kerala",
+    "hospital website design Kerala",
+    "school website design Kerala",
+    "NRI services website Kerala",
+    "affordable website Kerala",
+    "freelance web developer Kerala",
+    "website maintenance Kerala",
+    "custom web application Kerala",
+    "Google Business Profile Kerala",
+    "website redesign Kerala"
+  ]
+});
 ---
-<LocationLayout page={page}>{keralaCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Kerala</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Kerala business landscape and who needs a better website</h2>
+            <p>Kerala is unusual among Indian states because its economy is spread rather than concentrated. Maharashtra has Mumbai, Karnataka has Bengaluru, but Kerala has a working chain of cities down the coast: Kochi as the commercial and IT centre, Thiruvananthapuram as the capital with government and technology work, Kozhikode with trade and education, Thrissur with finance and jewellery, and Kollam with cashew, marine and services businesses. Buying decisions happen in all of them. That changes how a website has to be built, because a single page written vaguely about "Kerala" rarely ranks anywhere, while a site with clear service pages and honest city coverage can pick up enquiries from four or five markets at once.</p>
+            <p>The businesses that gain most from a rebuild are usually the ones already doing well offline. A resort taking bookings only through aggregators and paying commission on every stay. A hospital or clinic whose department pages do not exist, so patients call reception for information they should read online. A school or coaching centre whose admissions cycle is handled through PDFs and phone calls. An exporter or manufacturer near Kochi whose enquiries come from overseas buyers who judge credibility in the first ten seconds. In each case the offline reputation is real and the online presence simply has not caught up.</p>
+          </article>
+          <article>
+            <h3>The most common problems we are asked to fix</h3>
+            <p>The pattern repeats across enquiries from Kerala. Sites built years ago on a page builder that now load in six or seven seconds on mobile data. Contact numbers that appear as images so nobody can tap them. No Google Business Profile connection, so a search for the business name shows competitors in the map results. Content written once and never touched, with a copyright year that gives away how long the site has been ignored. Sometimes there is a decent design underneath and the fix is technical. More often it is cheaper to rebuild than to keep patching, and we will tell you honestly which of the two applies after looking at the current site.</p>
+            <p>The other frequent problem is ownership. A previous developer holds the domain, the hosting login, or both, and the business cannot move without a negotiation. We do not work that way. Domain and hosting are registered in your name from the start, you hold the root credentials, and if you ever want to move to another developer the handover is a login transfer, not an argument. That is worth checking with anyone you hire, not only with us.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Kerala business website actually includes</h2>
+            <p>Start with speed, because most of your visitors are on mobile networks and will not wait. That means compressed images in modern formats, no heavy sliders, fonts loaded properly, and a build that ships static HTML wherever possible. A well built brochure site should open in under three seconds on an average 4G connection in Kerala, and we test on real devices rather than trusting a desktop preview.</p>
+            <p>Then structure. One page per service, written properly, instead of a single services page listing everything in bullet points. Real contact paths: a tappable phone number, a WhatsApp link, an email that reaches a monitored inbox, and a form that actually delivers and confirms. Location and hours where they matter. Photographs of your own premises and team rather than stock images, which visitors in a state this well connected recognise instantly. Schema markup so search engines understand what kind of business you are. And a blog or updates section only if someone will genuinely write in it, because an empty blog is worse than no blog.</p>
+            <p>For specific sectors the list extends: booking enquiry flows and package pages for tourism, department and doctor pages for healthcare, course and admission pages for education, catalogue and specification downloads for manufacturers, and clear payment or consultation flows for NRI-facing services. Our <a href="/services/web-development/">web development service page</a> covers the technical stack in more detail.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="search-heading">How local search works across several distinct Kerala city markets</h2>
+            <p>Search results in Kerala are geographic. Someone in Ernakulam searching for a service sees a different map pack than someone in Kozhikode, even for identical wording, because Google weights proximity heavily for local intent. This is good news for a business in one city and a problem for a business that serves the whole state. The wrong answer is to write the same page twenty times with the city name swapped, which search engines have been filtering out for years and which reads badly to humans too.</p>
+            <p>The approach that works is a small number of strong service pages plus city pages that carry genuinely different content: the areas you actually cover, the kind of clients you serve there, travel or delivery realities, and examples specific to that market. Add a properly filled Google Business Profile with correct categories, real photos, and posts that are updated. Add citations on Indian directories with an identical name, address and phone format. Then keep publishing, because local rankings move slowly and consistency beats bursts of activity.</p>
+          </article>
+          <article>
+            <h3>Kochi, Trivandrum, Kozhikode, Thrissur and Kollam are not one market</h3>
+            <p>Competition varies sharply by city. Kochi is the most contested market in the state for almost every commercial term, with agencies, IT firms and established brands bidding for the same phrases, so ranking there takes longer and needs stronger content. Thiruvananthapuram has heavy government, education and technology search intent and a slightly different competitor set. Kozhikode and Thrissur are far less saturated, which means a well structured site with steady SEO can reach page one in months rather than a year. Kollam and the smaller centres are often wide open for specific service terms.</p>
+            <p>We use this to sequence work rather than spread it thin. If your main revenue is in Kochi we build for Kochi first and treat other cities as secondary pages that grow over time. If you are in Thrissur or Kollam we usually go broader early, because the wins are cheaper. Our <a href="/services/seo-services/">SEO services page</a> explains what a monthly engagement includes.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Kerala websites</h2>
+            <p>Kerala has the highest literacy in the country and English reading comfort is broad, so most commercial search still happens in English or in transliterated Malayalam typed in Latin script. For B2B, IT, export, tourism and NRI-facing businesses, an English-first site is almost always the right call. Adding a half finished Malayalam section to look local usually creates duplicate content problems without bringing traffic.</p>
+            <p>Where Malayalam genuinely earns its place, we build it properly. That means a real font stack that renders Malayalam script correctly on Android and iOS, the right language attribute on the page, separate titles and descriptions rather than machine translated ones, and a clear switch in the header. Retail, healthcare intake forms, school admissions, cooperative banks and anything government-facing are the usual candidates. We also watch spelling variants in English content, since Trivandrum and Thiruvananthapuram, Calicut and Kozhikode, Cochin and Kochi are all searched in real volume and a page should mention both forms naturally rather than picking one and losing the other.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Kerala projects</h2>
+            <p>Prices start at ₹5,000 for a static website, which suits a small firm that needs a credible presence with services, contact details and a few pages of content. A 30-page SEO website handled from design through to deployment starts from ₹10,000 and is the option most growing Kerala businesses take, because it gives room for separate service pages, city pages and content that can rank. AI automation work starts from ₹15,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month and maintenance, after the free period, from ₹2,000 per month. Final cost always depends on scope, and we quote in writing before any work begins. The <a href="/pricing/">pricing page</a> lists the full range.</p>
+            <p>On timing, expect one to two weeks for a static site, three to five weeks for the 30-page build, and six to ten weeks for ecommerce or a custom application. Those windows assume content and approvals arrive reasonably quickly. We keep the schedule visible so you always know what is being worked on this week and what is waiting on you.</p>
+          </article>
+          <article>
+            <h3>End to end delivery and five months of free maintenance</h3>
+            <p>We handle the whole chain: planning and scope, design, development, SEO setup, hosting, and deployment. You do not need a separate designer, a separate hosting consultant and a separate SEO agency arguing with each other about whose change broke what. One team, one point of contact, one invoice.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks, so the site does not quietly rot in the months when you are busiest. After the five months, maintenance continues from ₹2,000 per month if you want it. Plenty of clients take it because it is cheaper than fixing a hacked or expired site later, but it is optional and there is no lock-in.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How remote delivery works for Kerala clients</h2>
+            <p>We are three freelance engineers, not an agency with branches. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects along with automation and data work. We do not have an office in Kerala and we will not pretend otherwise, because a fake local address is the easiest thing in this industry to check and the fastest way to lose trust.</p>
+            <p>What remote delivery looks like in practice: a discovery call on Google Meet or WhatsApp to agree scope, a written quote and timeline, a shared checklist of what we need from you, then a staging link you can open on your own phone as the build progresses. You review, comment, and we adjust. Payments are staged rather than fully upfront. Deployment happens on hosting registered in your name, with a short handover walkthrough so someone in your team can make basic edits. For a Kerala client the practical difference from hiring locally is that meetings are scheduled rather than walk-in, and everything is written down, which most people end up preferring. Broader technology work for the state, including cloud, automation and data projects, sits on our <a href="/it-services/kerala/">Kerala IT services hub</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for across Kerala</h2>
+            <p>Kerala's strongest sectors each need something specific from a website, and treating them as interchangeable is why so many templated builds underperform. Technology firms around the Infopark and Technopark corridors need credibility pages, case detail and careers sections that survive scrutiny from clients and candidates alike. Tourism businesses, from houseboat operators in Alappuzha to homestays in Munnar and resorts along the coast, need fast image-heavy pages, clear pricing or enquiry flows, and content that competes with aggregator listings for direct bookings. Every direct booking saves the commission an aggregator would have taken, which usually pays for the site within a season.</p>
+            <p>Healthcare providers need department pages, doctor profiles, timings and an appointment path that works on a phone held one-handed. Education institutions need course pages, admission timelines and downloadable material that is actually up to date. NRI-facing businesses, property, legal, financial and repatriation services aimed at the Gulf diaspora, need trust signals, clear international contact options, and pages that load quickly from outside India.</p>
+          </article>
+          <article>
+            <h3>Kerala cities and pages we cover</h3>
+            <p>City coverage grows as we publish. Kochi is live now with more Kerala cities being added, and every page is written specifically rather than duplicated from a template.</p>
+            <ul class="it-list">
+              <li><a href="/india/kerala/kochi/">Web development and SEO in Kochi</a></li>
+              <li><a href="/it-services/kerala/">IT services across Kerala</a></li>
+              <li><a href="/india/">Our India services overview</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options or looking for a different location, these pages cover the rest of what we do and where we work.</p>
+            <ul class="it-list">
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/it-services/kerala/">IT services in Kerala</a></li>
+              <li><a href="/india/kerala/kochi/">Kochi web development</a></li>
+              <li><a href="/india/tamil-nadu/">Tamil Nadu</a></li>
+              <li><a href="/india/karnataka/">Karnataka</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Straight answers on cost, timelines, maintenance and how we work with Kerala clients.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((item) => (
+            <details>
+              <summary>{item.question}</summary>
+              <p>{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to start your Kerala website or SEO project?</h2>
+          <p>Tell us what your business does and what the site needs to achieve. You will get an honest scope, a written quote with a real timeline, and five months of maintenance included free once the site is live.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

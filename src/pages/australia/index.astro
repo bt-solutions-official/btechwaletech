@@ -1,8 +1,247 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/australia/", "Digital Services in Australia");
+const faqs = [
+  {
+    question: "Where is your team based, and do you have an Australian office?",
+    answer: "We are a freelance group of three engineers based in India. We do not have an Australian office, an ABN, or a local address, and we will never claim one. Everything is delivered remotely for clients in Sydney, Melbourne, Brisbane, Perth, Adelaide and regional towns, using email, phone, video calls and shared project boards.",
+  },
+  {
+    question: "How do you handle the time difference between India and Australia?",
+    answer: "IST runs roughly four and a half to five and a half hours behind Australian eastern time depending on daylight saving. That gives a wide daily overlap. Your morning is our early hours, so we schedule calls in your late morning or afternoon, which is our working day. Work you approve at 5pm often has progress waiting the next morning.",
+  },
+  {
+    question: "What does a website cost for an Australian business?",
+    answer: "Prices start from ₹5,000 for a static website, from ₹10,000 for a 30-page SEO website taken from design to deployment, from ₹15,000 for AI automation, from ₹25,000 for ecommerce and from ₹40,000 for a custom web app. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and integrations.",
+  },
+  {
+    question: "Is maintenance included after launch?",
+    answer: "Yes. Once hosting goes live you get five months of maintenance included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from ₹2,000 per month. There is no obligation to continue, and we hand over full access either way.",
+  },
+  {
+    question: "Can you improve our ranking in Australian search results?",
+    answer: "We work on the parts of SEO that are within our control: technical health, site structure, page speed, on-page content, schema markup and Google Business Profile setup for businesses with a service area. Rankings depend on competition and time, so we report on what changed and what moved rather than promising positions.",
+  },
+  {
+    question: "Do you understand Australian privacy and accessibility expectations?",
+    answer: "We build with common expectations in mind: a clear privacy policy page, honest cookie and analytics disclosure, secure form handling, and accessibility basics such as keyboard navigation, colour contrast and alt text. We are engineers, not lawyers, so we do not give legal advice or certify compliance. Have your adviser review policy wording.",
+  },
+  {
+    question: "How do payments work from Australia?",
+    answer: "We invoice in stages, usually an advance to start, a milestone at build completion, and the balance before or at deployment. International bank transfer works fine, and we can quote in Australian dollars converted from our rupee pricing at the rate on the day. Everything is documented in writing before work begins.",
+  },
+  {
+    question: "What if we already have a website we do not want to rebuild?",
+    answer: "That is common. We audit what you have, list what is worth keeping, and quote only for the parts that need work. Sometimes that is speed and mobile fixes, sometimes a content and SEO rebuild on the same platform. A rebuild is a recommendation, never a default answer.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Services Australia | Remote IT Team",
+  description: "Web development services Australia from an India-based freelance team. Websites, ecommerce, AI automation and SEO, delivered end to end with 5 months free maintenance.",
+  canonicalPath: "/australia/",
+  h1: "IT, Web and SEO Services for Australian Businesses",
+  intro: "We are three freelance engineers in India who build websites, ecommerce stores, web apps and automation for Australian businesses. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([{ label: "Australia", href: "/australia/" }]),
+  keywords: [
+    "web development services Australia",
+    "hire offshore developers Australia",
+    "SEO services Australia",
+    "website design Australia",
+    "web developers for Australian business",
+    "offshore web development Australia",
+    "ecommerce development Australia",
+    "small business website Australia",
+    "local SEO Australia",
+    "Google Business Profile Australia",
+    "web design Sydney",
+    "web design Melbourne",
+    "web developer Brisbane",
+    "website developer Perth",
+    "web development Adelaide",
+    "tradie website design",
+    "AI automation Australia",
+    "custom web application Australia",
+    "website maintenance Australia",
+    "affordable web design Australia",
+    "remote development team Australia",
+    "Shopify developer Australia",
+    "WordPress developer Australia",
+    "technical SEO Australia",
+    "website speed optimisation Australia",
+    "healthcare website Australia",
+    "hospitality website design Australia",
+    "professional services website Australia",
+  ],
+});
 ---
 
-<BaseLayout meta={{ ...page, robots: "noindex,follow" }}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Australia</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="market-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="market-heading">Web development services Australia: what the small business market actually looks like</h2>
+            <p>Most Australian businesses that come to us are not looking for a brand overhaul. They have a site that was built five or eight years ago, it loads slowly on a phone, the contact form goes to an inbox nobody checks, and the person who built it is no longer reachable. The site still ranks for the business name and nothing else. That is the honest starting point for a very large share of the market, from a two-van plumbing outfit in the outer suburbs to a three-partner accounting practice in a regional centre.</p>
+            <p>What matters commercially is narrow. Can a customer find you when they search for the service plus the suburb, does the page load fast enough on mobile data that they do not bounce, and is it obvious in the first screen how to call or book. Everything else is secondary. We build to that order of priority, which is why a straightforward site can start from ₹5,000 and a full 30-page SEO website taken from design to deployment starts from ₹10,000. Final cost depends on scope, but the shape of the work is predictable.</p>
+          </article>
+          <article>
+            <h3>Why Australian businesses hire offshore developers</h3>
+            <p>Local agency rates in Australia put a decent multi-page website well past the point where a small business can justify it, particularly when the same business needs ongoing SEO and someone to answer the phone when a plugin breaks. Hiring offshore developers closes that gap without cutting the deliverable. The code, the hosting setup, the schema markup and the deployment pipeline are the same work regardless of where the engineer sits.</p>
+            <p>The trade-off is coordination, and that is the part we take seriously. You get named people rather than an account manager and a rotating pool. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and analytics. Three engineers, one thread, no handover losses. If you want to see how we structure engagements before talking, our <a href="/pricing/">pricing page</a> lays out the numbers.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="timezone-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="timezone-heading">How the IST and Australian time difference is used, not fought</h2>
+            <p>India Standard Time sits roughly four and a half hours behind Perth and five and a half hours behind Sydney, Melbourne and Brisbane, shifting by an hour when eastern states move to daylight saving. That is a much friendlier gap than the one Australian businesses face working with Europe or North America. There is a genuine shared working window every single day, not a narrow sliver at an unpleasant hour.</p>
+            <p>In practice we use two anchors. Calls and reviews happen in your late morning or early afternoon, which lands in our morning and gives everyone a clean head. Build work happens during our day, which is your afternoon and evening, so feedback you send at close of business is usually acted on before you open the laptop again. For an urgent production issue we will take a call at your 8am, and we say so up front rather than pretending we are online around the clock.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">SEO services Australia: local search, suburbs and Google Business Profile</h2>
+            <p>Australian search behaviour is heavily local and heavily suburb-based. People do not search for "electrician Sydney", they search for the trade plus the suburb they live in, or they tap the map pack and call whoever is closest with reviews attached. That means the ranking work splits into two tracks that have to run together: the website itself, and the Google Business Profile that feeds the map results.</p>
+            <p>On the website side we handle technical health, crawlable structure, page titles and descriptions written for the actual query, internal linking so service pages support each other, image compression, and LocalBusiness or Service schema so search engines can read what you do and where you do it. On the profile side we set up or clean up the listing, fix name, address and phone consistency across the places it already appears, choose accurate categories, define the service area properly for mobile trades, and set up a review request habit that does not feel like begging. Monthly SEO starts from ₹5,000 per month, and we report on movement honestly, including the months where nothing much moved.</p>
+          </article>
+          <article>
+            <h3>Content that answers Australian queries</h3>
+            <p>Ranking pages are usually the ones that answer a specific question in plain language. For a trades business that is call-out fees, service areas, after-hours availability and what an emergency job actually costs. For a clinic it is bulk billing, wait times, parking and what to bring. We write pages around those real questions instead of stuffing suburb names into thin paragraphs, because thin location pages have been a liability in Google results for years now.</p>
+            <p>Spelling and terminology matter more than people expect. Australian users notice "optimise" versus "optimize", "enquiry" versus "inquiry", GST-inclusive pricing, and phone numbers formatted the way they dial them. We set the site to Australian English and keep it consistent. Our <a href="/services/seo-services/">SEO services page</a> covers the full scope of what an engagement includes.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="privacy-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="privacy-heading">Privacy and accessibility expectations we build around</h2>
+            <p>Australian users have become noticeably more sensitive about how their data is collected, and Australian organisations have become more careful about it after several large public breaches. We are engineers, not legal advisers, so we do not certify compliance with the Privacy Act or any standard, and we will tell you to have a qualified adviser review your policy wording. What we do is build with sensible defaults so the legal review has less to fix.</p>
+            <p>That means a real privacy policy page rather than a copied template with another company's name still in it, an honest description of what analytics and marketing scripts are loaded, form submissions sent over HTTPS to a destination you control, no collection of fields you have no reason to store, and clear consent wording where you are adding people to a mailing list. On accessibility we cover the basics that also happen to help SEO and general usability: proper heading order, alt text on images that carry meaning, colour contrast that holds up in sunlight, labels tied to form fields, visible focus states, and keyboard navigation that works without a mouse. These are not extras we quote separately. They are part of building the thing properly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section-head">
+        <h2>Industries we work with across Australia</h2>
+        <p>Different sectors need different things from a website. These are the ones we see most.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="industries-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="industries-heading">Trades, home services and field businesses</h3>
+            <p>Plumbers, electricians, builders, landscapers, pest control, cleaning and mobile mechanics. The website has one job: get the phone to ring from a mobile phone in under a minute. We build a fast single-purpose layout with the number pinned where a thumb can reach it, suburb-level service pages that say something real, a quote form that lands in a place you check, and photos of finished work rather than stock imagery. The Google Business Profile usually drives more calls than the site itself, so we set both up as one system.</p>
+            <p>Booking and follow-up are where automation pays. An enquiry that triggers an instant acknowledgement, a reminder to you if it is not answered within a set window, and a review request after the job closes will recover jobs that currently fall through. AI automation work starts from ₹15,000.</p>
+          </article>
+          <article>
+            <h3>Healthcare, education, hospitality, professional services and ecommerce</h3>
+            <p>Clinics, allied health and dental practices need accurate practitioner pages, clear information about fees and billing, online booking that connects to the software you already use, and careful handling of any information a patient submits. Education providers and tutoring businesses need course pages that rank, an enrolment path with as few steps as possible, and an honest FAQ. Hospitality needs speed, a menu that is real text rather than a PDF nobody can read on a phone, and booking links that work first try.</p>
+            <p>Professional services firms including accountants, lawyers, consultants and financial advisers usually win on trust signals and useful content rather than design flourish, so we put the effort into service pages, team credentials and clear enquiry paths. For ecommerce we build stores from ₹25,000 with sensible product structure, shipping rules that reflect Australian delivery costs, and payment integrations that suit local buyers. Where a business needs something bespoke, custom web apps start from ₹40,000. Our <a href="/industries/">industries page</a> goes deeper on each of these.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Honest pricing, and what the five free months actually cover</h2>
+            <p>Here is the full list, and these are starting figures rather than fixed quotes. A static website starts from ₹5,000. A 30-page SEO website taken all the way from design to deployment starts from ₹10,000. AI automation starts from ₹15,000. An ecommerce store starts from ₹25,000. A custom web app starts from ₹40,000. Monthly SEO starts from ₹5,000 per month. Maintenance, once the free period ends, starts from ₹2,000 per month. Final cost always depends on scope, the number of pages, the integrations involved and how much content you need written.</p>
+            <p>After hosting goes live you get five months of maintenance included at no cost. That covers content updates, bug fixes, security and dependency updates, backups, and uptime and speed checks. It exists because the first months after launch are when problems surface, and a business that has just paid for a website should not immediately be charged again to keep it working. When those five months end you can continue with us from ₹2,000 per month or take the site elsewhere with full access handed over. We do not hold hosting, domains or source code hostage.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="process-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="process-heading">How an engagement runs from first email to live site</h2>
+            <p>It starts with a conversation, usually a call in your afternoon. We ask what the business does, who the customer is, what the current site fails at, and what a good outcome looks like in numbers rather than adjectives. Then you get a written scope with a fixed starting price, a stage plan and a realistic timeline. A small site is typically two to three weeks. A 30-page SEO build runs four to six. Ecommerce and custom applications depend entirely on integrations, and we say so instead of inventing a date.</p>
+            <p>From there we work in visible stages. Structure and content plan first, then design on the real pages rather than an abstract mockup, then build, then SEO setup including titles, descriptions, schema, sitemap and search console, then hosting and deployment. You see a staging link throughout and can comment at any point. At launch we hand over hosting access, domain settings, admin logins and a short written guide to updating your own content, then the five free maintenance months begin. If you would rather just talk it through first, the <a href="/contact/">contact page</a> has everything you need.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Frequently asked questions</h2>
+            <div class="it-faq">
+              {faqs.map((item) => (
+                <details>
+                  <summary>{item.question}</summary>
+                  <p>{item.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>More about how we work, what we charge, and the other regions we deliver to.</p>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/india/">India</a></li>
+              <li><a href="/usa/">USA</a></li>
+              <li><a href="/uae/">UAE</a></li>
+              <li><a href="/it-services/">IT services</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us about your project</h2>
+          <p>Send a short description of your business and what you need. You will get an honest scope, a starting price and a realistic timeline, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,287 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "Are these real client case studies?",
+    answer: "No, and we will not pretend otherwise. Every scenario on this page is an illustrative walkthrough built from common problems Indian businesses bring to us. We have not published client case studies yet because we would need written permission and verified numbers first. If you want proof of work, ask us for project references and we will arrange a direct conversation."
+  },
+  {
+    question: "Why publish scenarios instead of just waiting for real results?",
+    answer: "Because the useful part of a case study is the reasoning, not the trophy number. These walkthroughs show what we would investigate, what we would build, and what we would measure. That tells you far more about how we think than a screenshot of a traffic graph with no context, no baseline and no explanation of what else changed that quarter."
+  },
+  {
+    question: "Can I speak to someone you have worked with?",
+    answer: "Yes. Project references are available on request. We ask the client first, then connect you directly so you can ask your own questions without us in the middle. That is slower than pasting a testimonial on a page, but it is honest, and you get answers to the specific things you care about rather than a quote we selected."
+  },
+  {
+    question: "What does a project like these cost?",
+    answer: "Starting figures: a static website from ₹5,000, a 30-page SEO website from design to deployment from ₹10,000, AI automation from ₹15,000, ecommerce from ₹25,000, and a custom web app from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count, integrations and how much content you already have ready."
+  },
+  {
+    question: "How long does a project usually take?",
+    answer: "A small static site is normally two to three weeks. A 30-page SEO website runs four to six weeks including content, structure and deployment. Ecommerce and custom web apps take six to twelve weeks depending on payment flows, integrations and review cycles. Content approval on your side is usually the slowest step, so we plan around it early."
+  },
+  {
+    question: "Do you handle hosting and deployment or just the build?",
+    answer: "We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. You do not need a separate agency for launch. After hosting goes live we include five months of maintenance free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that maintenance is from ₹2,000 per month."
+  },
+  {
+    question: "What do you measure after launch?",
+    answer: "We agree on measures before the build starts, not after. Usually that means enquiry volume by source, indexed page count, rankings for a short list of commercial keywords, page load timing on mobile, and completion rate on forms. We check them monthly during the free maintenance period so you can see movement rather than guess at it."
+  },
+  {
+    question: "Who works on the project?",
+    answer: "A three person freelance team. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management along with data science and automation work. You talk to the people building the thing, which removes the account manager layer that usually loses detail."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Case Studies India: How We Work",
+  description: "Honest web development case studies from India: six anonymised scenario walkthroughs showing what we investigate, what we build, and what we measure after launch.",
+  canonicalPath: "/case-studies/",
+  h1: "How we diagnose, build and measure client projects",
+  intro: "We have not published client case studies yet, so instead of inventing them we wrote something more useful. Below are six anonymised scenarios drawn from problems Indian businesses bring us, each showing the diagnosis, the build, and the numbers worth watching afterwards.",
+  breadcrumbs: createBreadcrumbs([{ label: "Case studies", href: "/case-studies/" }]),
+  keywords: [
+    "web development case studies India",
+    "website case study India",
+    "SEO case study India",
+    "freelance web development India",
+    "web design case studies",
+    "ecommerce website case study",
+    "lead generation website India",
+    "local SEO case study",
+    "website redesign case study",
+    "AI automation case study India",
+    "business website examples India",
+    "web development portfolio India",
+    "small business website India",
+    "website enquiry improvement",
+    "site speed improvement India",
+    "product catalogue website",
+    "clinic website India",
+    "coaching institute website India",
+    "manufacturer website India",
+    "spreadsheet automation India",
+    "website project references",
+    "custom web application India",
+    "website maintenance India",
+    "affordable website development India",
+    "end to end website development",
+    "website audit India"
+  ]
+});
+---
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Case studies</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="honest-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="honest-heading">Why this page has no client logos on it</h2>
+            <p>Most case study pages in the Indian web development market are decoration. A logo, a number with no baseline, a sentence about growth, and no explanation of what actually changed. You cannot learn anything from that, and you certainly cannot predict whether the same team would help you. We are a three person freelance group, we have been building for a while, and we do have work we are proud of. What we do not have is a set of published case studies with client permission, verified before and after figures, and honest notes about what did not work. Until we do, this page will not carry any.</p>
+            <p>So we wrote the next most useful thing. Six scenarios, clearly labelled as illustrative, each following the same shape: what the business was experiencing, what we would look at before touching any code, what we would build, and what we would measure once it was live. If you recognise your own situation in one of them, that is the point. Project references are available on request, and we will connect you with someone directly rather than quote them selectively.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="method-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="method-heading">How we diagnose a problem before quoting a build</h2>
+            <p>Nearly every enquiry we receive arrives as a solution rather than a problem. "We need a new website." "We need SEO." Sometimes that is right. Often the real issue is narrower and cheaper to fix. So the first conversation is diagnostic. Where do enquiries currently come from, and how many? What happens to an enquiry after it arrives, and who picks it up? Which pages does search traffic land on, and what do those visitors do next? What does the business actually earn per customer, because that decides how much a website is worth building.</p>
+            <p>Then we look at the site as it exists. Not aesthetically, but structurally. Is it indexed. Does it load acceptably on a mid-range Android phone on mobile data. Does every service have a page worth ranking. Is there a phone number visible without scrolling. Are forms reaching an inbox anyone checks. Half the time this audit produces a list of small fixes that beat a rebuild, and we say so, because quoting a ₹40,000 web app for a problem solved by a ₹10,000 site helps nobody twice.</p>
+          </article>
+          <article>
+            <h3>What we agree on before starting</h3>
+            <p>Before a project begins we write down the measure of success. Not "more traffic" but something checkable: enquiries per month by source, or the number of service pages indexed and ranking, or order completion rate. We also agree on what we are not doing, which prevents scope drifting sideways for six weeks. Because we deliver end to end, planning, design, development, SEO setup, hosting and deployment all sit in one plan with one timeline.</p>
+            <ul class="it-list">
+              <li>The single metric that decides whether this worked</li>
+              <li>A baseline reading taken before we change anything</li>
+              <li>Page count, integrations and content responsibilities</li>
+              <li>Launch date and what happens in the five free maintenance months</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section-head">
+        <h2>Six illustrative scenarios</h2>
+        <p>None of the following describes a specific client. Each is a composite of problems we see repeatedly, written out so you can follow the reasoning rather than admire a result.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="scenario-one-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="scenario-one-heading">Scenario one: a local service business getting no online enquiries</h3>
+            <p>An air conditioning repair and installation business covering three neighbourhoods has a site built four years ago. It looks fine. It produces roughly one enquiry a month, all from people who already knew the company name. The owner assumes the site needs redesigning. It usually does not.</p>
+            <p>What we would investigate first: whether the site is indexed at all, whether there is a page for each service and each area served, and what people in that city actually type when their AC stops cooling in May. Very often the entire business sits on one page listing seven services, competing against nobody in particular. We would also check whether the phone number is clickable on mobile, because a surprising number are not.</p>
+            <p>What we would build: separate pages per service and per service area, each written for how people phrase the problem, with the phone number above the fold and a short form underneath. Clear pricing bands where the business is comfortable publishing them. Proper local structured data and a Google Business Profile that matches the site exactly. This is typically a 30-page SEO website from design to deployment, starting from ₹10,000, often paired with monthly SEO from ₹5,000 per month while rankings build.</p>
+            <p>What to measure afterwards: calls and form submissions separately, by month, split by which page the visitor landed on. Indexed page count in the first six weeks. Rankings for eight to ten commercial phrases, not vanity terms. If service-area pages are not producing calls by month three, the problem is the copy or the competition, and we adjust rather than wait. Our <a href="/services/seo-services/">SEO services</a> page explains that cycle in more detail.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="scenario-two-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="scenario-two-heading">Scenario two: a manufacturer whose catalogue is trapped in PDFs</h3>
+            <p>An industrial components manufacturer has 400 products documented across eleven PDF brochures linked from a downloads page. Buyers search for a part specification, find nothing, and go to a competitor or a marketplace listing. Internally, sales spends hours emailing the correct PDF to people who could have found it themselves.</p>
+            <p>What we would investigate first: how buyers actually search, which is usually by specification, material grade or part number rather than by product family. We would extract the catalogue structure from the PDFs, look at how many genuinely distinct products exist versus variants, and check whether the specification data lives anywhere structured, such as an ERP export or even a maintained spreadsheet. That single question decides whether this is a content project or a data project.</p>
+            <p>What we would build: a filterable product catalogue where every product has its own indexable page carrying specifications as real text, with the PDF datasheet still available as a download rather than as the only source. Filters for the attributes buyers care about. An enquiry button on each product page that carries the part reference into the message so sales knows immediately what is being asked about. Where the data lives in a spreadsheet or ERP, we build an import so nobody retypes 400 rows.</p>
+            <p>What to measure afterwards: how many product pages get indexed, organic landings on product pages rather than the homepage, enquiries carrying a specific part reference, and the time sales spends answering catalogue questions. A catalogue project of this size normally sits in <a href="/services/web-development/">web development</a> territory, with cost driven by data quality more than page count.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="scenario-three-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="scenario-three-heading">Scenario three: a coaching institute losing leads across WhatsApp and phone</h3>
+            <p>A competitive exam coaching institute gets steady interest. Enquiries arrive on two WhatsApp numbers, one landline, an Instagram inbox and a website form nobody has checked since December. Three staff members reply when they can. Nobody knows how many enquiries came in last month, how many converted, or which channel produced the students who actually enrolled.</p>
+            <p>What we would investigate first: not the website. We would trace one enquiry end to end. Who sees it, how fast, what they say, and where it is recorded. Then we would count last month's enquiries by hand across every channel, which usually takes an afternoon and produces the most useful number the institute has ever had. Only then does it become clear whether the problem is lead volume or lead handling. In this scenario it is almost always handling.</p>
+            <p>What we would build: a single intake path. Every channel, including the WhatsApp click-to-chat links, feeds one shared record with course interest, batch preference and source. Automated first response within seconds so nobody waits an hour. A simple dashboard showing enquiries, follow-ups pending and enrolments by source. Website pages per course and per exam, since parents research course fees and batch timings before they ever message. Automation work of this kind starts from ₹15,000, with the website portion quoted separately.</p>
+            <p>What to measure afterwards: total enquiries, median first response time, follow-up completion rate, and enrolments attributed to source. The response time number moves fastest and predicts the rest.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="scenario-four-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="scenario-four-heading">Scenario four: an ecommerce store with slow product pages</h3>
+            <p>A homeware store on a common platform has healthy traffic and a disappointing conversion rate. Product pages take five or six seconds to become usable on a mid-range phone. The owner has been told to buy faster hosting. Hosting is rarely the culprit.</p>
+            <p>What we would investigate first: a waterfall trace of a real product page on a throttled mobile connection. Usually the findings are unglamorous. Eleven marketing scripts, four of them for tools nobody uses any more. Hero images shipped at 3000 pixels wide and scaled down in the browser. Three chat widgets. A review app loading a font. Layout shifting as the price block arrives late, so customers tap the wrong thing. We would also check the checkout separately, since a fast product page feeding a broken payment step fixes nothing.</p>
+            <p>What we would build, or more accurately remove: unused scripts deleted, remaining third-party tags deferred, images converted to modern formats and served at the size actually displayed, critical styles inlined, and space reserved for late-arriving elements so nothing jumps. Then the product page itself gets attention, since specifications, delivery timing and return terms visible without scrolling do more for conversion than shaving another half second. Full ecommerce builds start from ₹25,000; a focused speed and conversion pass is quoted on scope.</p>
+            <p>What to measure afterwards: time to interactive on a mid-range Android, layout shift, add-to-cart rate, checkout completion rate, and revenue per session. Track revenue per session above all, because speed work that does not move money is a hobby.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="scenario-five-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="scenario-five-heading">Scenario five: a clinic invisible in local search</h3>
+            <p>A two-doctor dental clinic has a decent website and effectively zero visibility when someone nearby searches for a dentist. Patients arrive by referral only. The clinic has a Google listing created years ago with an old phone number and an address written differently from the one on the site.</p>
+            <p>What we would investigate first: consistency. Name, address and phone number across the website, the Google listing, directory entries and old social profiles. Search engines treat mismatches as uncertainty, and uncertainty costs map visibility. Then coverage: does the site have a page per treatment, with honest fee ranges, timings, and the practical questions patients ask before booking. Then reviews, which for clinics are usually the deciding factor and usually neglected.</p>
+            <p>What we would build: corrected and matching business details everywhere, a treatment page per service written in plain language, doctor profiles with real qualifications and registration details, opening hours and directions rendered as text rather than only inside an image, and structured data describing the practice. A booking or callback request that reaches the front desk reliably, because a form landing in an unmonitored inbox is worse than no form at all.</p>
+            <p>What to measure afterwards: map pack impressions and direction requests on the Google listing, calls from the listing separately from calls from the site, new patient bookings by month, and review count and recency. Local visibility moves in weeks, not days, and treatment pages usually start ranking before the map position improves.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="scenario-six-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="scenario-six-heading">Scenario six: a team drowning in spreadsheet admin</h3>
+            <p>A twelve person logistics coordination team runs on shared spreadsheets. One file per client, one master tracker, and a daily hour of copying between them. Two people maintain formulas nobody else understands. Every month someone overwrites a column and a day disappears reconstructing it.</p>
+            <p>What we would investigate first: which parts of the process are genuinely repetitive and which need judgement. Automating a decision that needs a human produces confident wrong answers at speed. We would sit with the team, record the actual steps rather than the documented ones, and time them. Then we would find the two or three transfers that consume the most hours and carry the most error risk. Those get automated first, and the rest waits.</p>
+            <p>What we would build: usually not a giant internal platform. Often a small tool that replaces the copying, validates entries at the point of entry, keeps an edit history so a bad paste is recoverable, and generates the reports someone currently assembles by hand every Friday. Where documents and emails need reading, that is where AI automation earns its place, starting from ₹15,000. A fuller internal tool with roles and permissions becomes a custom web app, from ₹40,000.</p>
+            <p>What to measure afterwards: hours per week on manual transfer, error corrections per month, and how long a new joiner takes to become productive. If the tool does not save hours within a month of launch, it was the wrong tool and we would rather find that out quickly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="trust-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="trust-heading">What makes a case study worth trusting</h2>
+            <p>When you read anyone's case studies, including ours later, apply a few tests. Is there a baseline, or does the page only show the after figure. Is the time period stated. Does it mention what else changed, such as a new ad budget or a seasonal spike, because a website rebuild that coincides with festival season will claim credit for the calendar. Are the numbers business outcomes or vanity metrics, since a 300 percent traffic increase to a page that sells nothing is not an achievement. And can you talk to the client.</p>
+            <p>The last test is the one that matters. Anyone can write a paragraph. Few will put you on a call with the person who paid for the work. We will. Project references are available on request, subject to the client agreeing, and we introduce you directly rather than passing along a curated quote. Ask them what went wrong during the project, not just what went right, because every project has something.</p>
+          </article>
+          <article>
+            <h3>What we include and what it costs</h3>
+            <p>Every project runs end to end: planning, design, development, SEO setup, hosting and deployment, handled by the same three people throughout. Once hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from ₹2,000 per month.</p>
+            <ul class="it-list">
+              <li>Static website from ₹5,000</li>
+              <li>30-page SEO website, design to deployment, from ₹10,000</li>
+              <li>AI automation from ₹15,000</li>
+              <li>Ecommerce from ₹25,000</li>
+              <li>Custom web app from ₹40,000</li>
+              <li>Monthly SEO from ₹5,000 per month</li>
+            </ul>
+            <p>Final cost always depends on scope. Full detail sits on the <a href="/pricing/">pricing</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If one of the scenarios above matched your situation, these pages go into the relevant detail. We work with businesses across India and remotely with clients in the USA, UAE and Australia.</p>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/india/">Web development in India</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/india/haryana/gurgaon/">Gurgaon</a></li>
+              <li><a href="/blog/">Blog</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Questions people ask about our case studies</h2>
+            <p>Straight answers about what we have published, what we have not, and how to check our work before committing to a project.</p>
+          </article>
+        </div>
+        <div class="it-faq">
+          {faqs.map((item) => (
+            <details>
+              <summary>{item.question}</summary>
+              <p>{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us the problem, not the solution</h2>
+          <p>Describe what is actually going wrong, whether that is silent enquiry forms, a catalogue nobody can search, or an afternoon lost to spreadsheets each week. We will tell you what we would investigate first and what it would realistically cost. Ask for project references any time.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,8 +1,287 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/refund-policy/", "Refund Policy");
+const faqs = [
+  {
+    question: "Is the advance payment refundable?",
+    answer: "The advance covers planning, discovery, wireframes, and the first block of design or development time. If you cancel before we begin that work, we refund the advance in full. Once discovery notes, sitemaps, or design drafts have been shared with you, we refund only the unused portion after deducting hours already spent and any third-party costs paid on your behalf.",
+  },
+  {
+    question: "How long does a refund take to reach me?",
+    answer: "We confirm or decline a refund request within five working days of receiving it. Approved refunds are released within ten working days of that confirmation, sent back through the same payment method you used. Bank clearing adds two to five working days depending on your bank, and international transfers can take slightly longer.",
+  },
+  {
+    question: "Are domain, hosting, and licence costs refundable?",
+    answer: "No. Domains, hosting plans, SSL certificates, plugin or theme licences, paid API credits, and stock assets are bought from third parties in your name or for your project. Those vendors do not refund us, so we cannot refund you. We always tell you the exact amount before buying anything, and you can approve or decline it.",
+  },
+  {
+    question: "What happens to my free maintenance if I cancel?",
+    answer: "The five months of maintenance included after your site goes live is a bundled service, not a cash line item. It carries no separate monetary value, cannot be exchanged for money, and is not refundable. If a project is cancelled before the site is live, the included maintenance simply never starts and nothing is deducted or credited for it.",
+  },
+  {
+    question: "Can I get a refund on a monthly SEO or maintenance retainer?",
+    answer: "Retainers run month to month with no lock-in. Cancel any time and the current month runs to its end date, since work for that month is already scheduled and largely done. If you cancel within the first seven days of a fresh month and we have not started that month's work, we issue a pro-rata refund for the untouched days.",
+  },
+  {
+    question: "What if I go quiet and the project stalls?",
+    answer: "We pause the project after thirty days without a reply and hold your files for ninety days. Work already completed during that time is billable and not refundable, because the hours were genuinely spent. You can restart within ninety days at no extra charge. After ninety days we close the file and any remaining balance is treated as forfeited.",
+  },
+  {
+    question: "What should I include in a refund request?",
+    answer: "Email us the project name, invoice or payment reference, the date and amount paid, the payment method used, and a clear description of what went wrong. Screenshots, links, or the specific deliverable you are unhappy with help a lot. We reply with our assessment, the amount we agree to refund, and the reason for any deduction.",
+  },
+  {
+    question: "What happens if I raise a chargeback instead?",
+    answer: "Please talk to us first. A chargeback filed without contacting us freezes the conversation, blocks the payment gateway account, and forces both sides into a slow bank process. We will supply the bank with our full record of scope, approvals, and delivered work. Active development, hosting access, and support pause until the dispute closes.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Refund Policy for Web Development and SEO Projects",
+  description: "Read the Btechwale refund policy: payment structure, what is refundable, cancellation rules, retainer pro-rata refunds, request process, timelines, and disputes.",
+  canonicalPath: "/refund-policy/",
+  h1: "Our refund policy, written in plain language",
+  intro: "This page explains exactly when money comes back to you, when it does not, and how to ask. We take projects end to end, from planning and design through development, SEO setup, hosting, and deployment, so refunds depend on how far that work has already travelled.",
+  breadcrumbs: createBreadcrumbs([{ label: "Refund policy", href: "/refund-policy/" }]),
+  keywords: [
+    "refund policy",
+    "web development refund policy",
+    "website project refund",
+    "seo services refund policy",
+    "freelance developer refund terms",
+    "cancellation policy web design",
+    "advance payment refund",
+    "milestone payment refund",
+    "pro rata refund seo retainer",
+    "maintenance retainer cancellation",
+    "third party cost non refundable",
+    "domain hosting refund",
+    "chargeback policy india",
+    "project cancellation terms",
+    "refund request process",
+    "refund processing timeline",
+    "non refundable services",
+    "dispute resolution web project",
+    "btechwale refund policy",
+    "india freelance it services refund",
+    "ecommerce development refund",
+    "ai automation project refund",
+    "website maintenance refund",
+    "client cancellation rights",
+    "delivered work non refundable",
+    "partial refund policy",
+    "payment terms it services",
+    "refund eligibility criteria",
+  ],
+});
 ---
 
-<BaseLayout meta={page}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Legal</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="scope-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="scope-heading">What this refund policy covers</h2>
+            <p>This policy applies to every paid engagement with Btechwale: static websites, multi-page SEO websites, ecommerce builds, custom web applications, AI automation work, monthly SEO retainers, and website maintenance plans. It applies whether you paid by bank transfer, UPI, a payment link, or an international transfer. It applies to work quoted from our published starting prices and to custom quotes built after a scoping call.</p>
+            <p>We are a small freelance group of three engineers, not a large agency with a billing department. That shapes how we handle money. Every rupee you send is tied to specific hours and specific deliverables, and when a refund is due we work it out from the actual record of what was produced rather than from a formula. Read this alongside our <a href="/terms/">terms</a>, which define scope, revisions, ownership, and delivery obligations. Where the two documents overlap, the terms define what the work is and this policy defines what happens to the money.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="payments-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="payments-heading">How payments are structured</h2>
+            <p>Most projects run on three payments. An advance of thirty to forty percent starts the work. A milestone payment falls due when the main build is complete and sitting on a staging link you can review. The final payment falls due before we point the domain, push the site live, and hand over hosting and admin access. Longer builds such as ecommerce from ₹25,000 or a custom web app from ₹40,000 may be split across four or five milestones instead, each tied to a named deliverable rather than a calendar date.</p>
+            <p>Smaller engagements work differently. A static website from ₹5,000 is usually half up front and half on delivery. A 30-page SEO website taken from design to deployment from ₹10,000 follows the standard three-payment split. Monthly SEO from ₹5,000 per month and maintenance from ₹2,000 per month are billed in advance for the coming month. AI automation from ₹15,000 is milestone-based because the integration surface varies so much. Final cost always depends on scope, and we confirm the split in writing before any money moves.</p>
+          </article>
+          <article>
+            <h3>What the advance actually pays for</h3>
+            <p>The advance is not a booking token or a deposit sitting idle in an account. It pays for the first real block of work: the discovery call, the requirements document, the sitemap, keyword research where SEO is in scope, wireframes, and the first design direction. That work has value to you even if the project stops, because you keep the documents and can hand them to anyone else.</p>
+            <p>It also reserves calendar time. When we accept an advance we block days for your project and turn down other work for those days. This is why an advance stops being fully refundable the moment we start producing deliverables against it. Before that point, nothing has been consumed and you get the whole amount back.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="eligible-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="eligible-heading">When you can ask for a refund</h2>
+            <p>You can request a refund in a few clear situations. If you cancel before we have produced any deliverable against your payment, the money comes back in full. If we fail to deliver an agreed milestone and cannot give you a workable revised date, you can cancel that milestone and recover the unused balance. If we deliver something that materially differs from the written scope and we cannot correct it within a reasonable revision cycle, the disputed portion is refundable. If we become unable to continue the project for our own reasons, we refund every rupee not yet earned against completed work, and we hand over all files produced so far so another developer can pick it up.</p>
+          </article>
+          <article>
+            <h3>The seven-day window on retainers</h3>
+            <p>Retainer services get an extra protection. Monthly SEO and maintenance plans bill in advance, so if you pay for a month and then change your mind within seven days, and we have not yet begun that month's scheduled work, we refund on a pro-rata basis for the days not used. Once the month's audits, content, technical fixes, or backups are underway, that month is billed in full and the plan simply does not renew.</p>
+            <p>We do not require a reason to cancel a retainer. There is no lock-in, no notice period beyond the current month, and no exit fee. Tell us and we stop.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="notrefund-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="notrefund-heading">What is not refundable</h2>
+            <p>Some costs leave our hands permanently and cannot come back. Others represent work that was genuinely done and approved. Both are outside the scope of a refund, and we would rather be blunt about it up front than argue about it later.</p>
+            <ul class="it-list">
+              <li>Third-party costs paid on your behalf: domain registration and renewal, hosting plans, SSL certificates, premium plugin or theme licences, paid API credits, email service plans, and stock photography or fonts.</li>
+              <li>Work you have already reviewed and approved in writing, including approved designs, approved page content, and approved builds pushed to staging or production.</li>
+              <li>Hours spent on discovery, research, wireframes, keyword research, technical audits, and consultation calls, whether or not the project continued afterwards.</li>
+              <li>Live deliverables already handed over: a deployed website, configured hosting, published content, submitted sitemaps, or a running automation.</li>
+              <li>Any amount attributable to scope you added mid-project and then removed after work on it had begun.</li>
+              <li>The five months of maintenance included after go-live, which is a bundled service with no separate cash value.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cancel-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="cancel-heading">Cancellation by you</h2>
+            <p>You can cancel a project at any point by emailing us. There is no penalty clause and no minimum commitment beyond the payments already due. On receiving your cancellation we stop work immediately, produce a short statement of what was completed and what each completed item was worth against the agreed milestones, and calculate the balance. If you have paid more than the value of completed work, we refund the difference. If completed work exceeds what you have paid, we invoice the gap and you settle it before we hand over files.</p>
+            <p>Either way you receive the assets produced up to the cancellation point: design files, source code for finished modules, content drafts, research documents, and any accounts registered in your name. We do not hold work hostage over a disagreement about a final invoice, and we do not delete anything for ninety days after cancellation in case you change your mind. If you want to see how scope is defined before you commit, our <a href="/pricing/">pricing</a> page sets out what falls inside each package.</p>
+          </article>
+          <article>
+            <h3>Cancellation by us</h3>
+            <p>We may end an engagement in a few situations: if the brief is repeatedly rewritten into something we cannot deliver well, if requested work would be illegal or would breach a platform's rules, if payments fall more than thirty days overdue, or if communication becomes abusive. We give written notice with the reason before stopping.</p>
+            <p>When we cancel for any reason other than non-payment or misconduct, we refund all money not yet earned against completed deliverables, with no deduction beyond genuine third-party costs. We also hand over every file we hold in a usable format so a new developer can continue without starting from zero.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="process-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="process-heading">How to request a refund</h2>
+            <p>Send one email to {siteContact.email} with the subject line "Refund request" and the project name. Requests by phone or chat are welcome as a first conversation, but we need the written version before we can process anything, because a refund decision has to be traceable for both of us.</p>
+            <p>Include the invoice number or payment reference, the date and exact amount paid, the payment method and the account or UPI ID it came from, the deliverable or milestone you are disputing, and a short description of the problem. Attach screenshots or staging links where they help. If the request concerns quality rather than cancellation, tell us what you expected and what you received, because a specific gap is far easier to resolve than a general dissatisfaction.</p>
+          </article>
+          <article>
+            <h3>What happens next</h3>
+            <p>We acknowledge every request within two working days. We then review the project record, the approval history, and the hours logged, and we reply within five working days with a decision: full refund, partial refund with the deduction itemised, or a decline with reasons. If we decline, we always offer an alternative, usually additional revisions or corrective work at no cost.</p>
+            <p>Approved refunds are released within ten working days of the decision, through the same channel that received the payment. We do not refund to a different account or a different person than the original payer. Bank clearing adds a few more days, and we send you the transaction reference the moment the transfer leaves our side.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="partial-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="partial-heading">Partial and pro-rata refunds</h2>
+            <p>Most refunds are partial, because most cancellations happen mid-project rather than on day one. The arithmetic is simple and we show it to you. We list every deliverable in the agreed scope with the value assigned to it in the quote. We mark which ones were completed and approved, which were partially done, and which were never started. Completed items are billed in full, partial items are billed at the proportion actually produced, and unstarted items are refunded entirely. Third-party costs already paid are deducted separately and shown with their receipts.</p>
+            <p>Retainers work on days rather than deliverables. If you cancel a monthly SEO plan or a maintenance plan inside the eligible seven-day window, we divide the month's fee by the number of days in that month and refund the untouched days. A ₹5,000 monthly SEO retainer cancelled on day four of a thirty-day month, with no work started, returns roughly twenty-six days of value. We round in your favour when the arithmetic lands awkwardly, because the difference is never worth a disagreement.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="maintenance-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="maintenance-heading">How the five months of free maintenance is treated</h2>
+            <p>Every project we take from planning through to hosting and deployment includes five months of maintenance after the site goes live. That covers content updates, bug fixes, security patches, backups, and uptime and speed checks. It is bundled into the project, not priced as a separate line, and it has no independent cash value. You cannot decline it in exchange for a discount, convert it to money, transfer it to another party, or claim it back as a refund.</p>
+            <p>If a project is cancelled before go-live, the included maintenance never begins and is not counted for or against either side in the refund calculation. If a project goes live and you later ask for a refund on the build, the maintenance months already consumed are treated as delivered service and are not reversed. After the five months end, maintenance continues from ₹2,000 per month on the same cancel-any-time retainer terms described above, with the same seven-day pro-rata window. Final cost depends on the size of the site and how much change you expect month to month.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="dispute-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="dispute-heading">Disputes and chargebacks</h2>
+            <p>If you disagree with our refund decision, reply to the same email thread and say why. We escalate internally, a second engineer who did not work on your project reviews the file, and we respond within seven working days. That second look genuinely changes outcomes, because a fresh reader often spots a scope ambiguity the original team stopped noticing. If we still disagree after that, we will suggest a written settlement, usually a split of the disputed amount, so neither side spends more time on it than it is worth.</p>
+            <p>Please do not open a chargeback or a payment gateway dispute before talking to us. A chargeback moves the matter into a bank process that takes weeks, freezes the gateway account, and removes our ability to simply refund you quickly. If one is filed, we pause active development, hosting management, and support until it is resolved, and we submit our complete record of scope, written approvals, and delivered work to the bank. Any refund already agreed with you is withdrawn while a chargeback is pending, to avoid the same amount being returned twice. Reach us through the <a href="/contact/">contact</a> page and we will almost always sort it out faster than any bank can.</p>
+          </article>
+          <article>
+            <h3>Unresponsiveness and abandoned scope</h3>
+            <p>Projects need your input to move. If you stop replying for thirty days, we pause the project, log the hours already spent, and hold the files. Those hours are billable and not refundable, because the time was genuinely worked and the calendar was genuinely reserved.</p>
+            <p>You can restart within ninety days at no additional charge, subject to our availability at that time. After ninety days we close the file, and any balance already paid against unstarted work is forfeited. We send two reminders before that deadline so it never arrives as a surprise.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="jurisdiction-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="jurisdiction-heading">Governing terms and changes to this policy</h2>
+            <p>This policy is governed by Indian law and read together with our <a href="/terms/">terms</a> and <a href="/privacy-policy/">privacy policy</a>. Where a signed proposal or written quote states different payment or refund terms for a specific project, that document takes precedence for that project only. Nothing in this policy limits any statutory consumer right you hold under applicable law.</p>
+            <p>We may update this page as our services change. Updates apply to engagements that begin after the change is published, never retroactively to a project already in progress. If you want the version that applied when you signed, ask us and we will send it. We work remotely with clients across India and abroad, and the same policy applies wherever you are based, from Gurugram to Kochi to overseas.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Refund questions we get asked</h2>
+          <p class="it-section-note">Straight answers on timing, deductions, and process.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are reading this before hiring us, these pages explain what we build, what it costs, and how we work.</p>
+            <ul class="it-list">
+              <li><a href="/terms/">Terms and conditions</a></li>
+              <li><a href="/privacy-policy/">Privacy policy</a></li>
+              <li><a href="/pricing/">Pricing and package scope</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/india/">Working with clients in India</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Have a refund question, or a project question?</h2>
+          <p>Email or call us and we will answer honestly, whether it is about money already paid or a build you are still thinking about. Every project runs end to end with five months of maintenance included after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

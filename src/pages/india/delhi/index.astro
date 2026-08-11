@@ -1,6 +1,249 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-const page = indiaRegionPage("delhi");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a Delhi business?",
+    answer: "A static brochure website starts from ₹5,000. A 30-page SEO website, taken from design through to deployment, starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope: page count, integrations, content volume and how much design work you want."
+  },
+  {
+    question: "How long does a Delhi website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website typically takes three to five weeks, including content, on-page setup and deployment. Ecommerce and custom applications run six to ten weeks depending on payment flows and integrations. The single biggest delay is content and photos, so we start collecting those on day one."
+  },
+  {
+    question: "Do you have an office in Delhi?",
+    answer: "No. We are a freelance group of three engineers and we work remotely with clients across Delhi and the rest of India. There is no branch office and we never claim one. Everything happens over calls, email and shared documents, and you deal directly with the engineer building your site rather than an account manager."
+  },
+  {
+    question: "What is included in the five months of free maintenance?",
+    answer: "After your site goes live we cover five months at no cost: content updates, bug fixes, security and plugin updates, backups, plus uptime and speed checks. It covers the period where most issues actually surface. After those five months, ongoing maintenance is from ₹2,000 per month, and you are free to stop or move elsewhere."
+  },
+  {
+    question: "Can you rank a Delhi business for local searches?",
+    answer: "We can build the foundation properly: location-relevant pages, clean titles and descriptions, schema, fast loading, internal links and a Google Business Profile that matches your site details. Rankings depend on competition, review volume and how long you sustain the work. Nehru Place electronics or Karol Bagh retail are crowded; a niche consultancy in Saket moves faster."
+  },
+  {
+    question: "Do you handle hosting and domains too?",
+    answer: "Yes. We take projects end to end: planning, design, development, SEO setup, hosting and deployment. We can register the domain, configure DNS, set up SSL, connect business email and put the site live on hosting suited to its traffic. You keep ownership of the domain and hosting accounts in your own name."
+  },
+  {
+    question: "Can you work in Hindi as well as English?",
+    answer: "Yes. Most Delhi businesses do well with an English site plus Hindi where it matters: service explanations, WhatsApp copy, calls to action and enquiry forms. We can also build a proper bilingual structure with separate URLs if your audience genuinely reads Hindi first, which suits coaching, clinics and neighbourhood retail."
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "A short call about what the business does and who buys from it, your existing logo and photos if you have them, a rough page list, and access to your domain if one exists. If you have none of that, we can draft the page structure and write the first version of the content ourselves for your review."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Delhi | Websites and SEO",
+  description: "Website development and SEO services for businesses across Delhi. End-to-end delivery from design to hosting, static sites from ₹5,000, 5 months free maintenance.",
+  canonicalPath: "/india/delhi/",
+  h1: "Website Development and SEO Services for Delhi Businesses",
+  intro: "We build and rank websites for businesses working across Delhi, from Connaught Place consultancies to Dwarka clinics and Nehru Place traders. Three freelance engineers, remote delivery, everything handled from planning through hosting, with five months of maintenance included.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Delhi", href: "/india/delhi/" }]),
+  keywords: [
+    "web development company in Delhi",
+    "website development Delhi",
+    "website design Delhi",
+    "SEO services Delhi",
+    "SEO company Delhi",
+    "local SEO Delhi",
+    "web designer Delhi",
+    "website developer Connaught Place",
+    "website design Dwarka",
+    "web development Rohini",
+    "SEO services Saket",
+    "website design Nehru Place",
+    "web development Okhla",
+    "website design Janakpuri",
+    "web development Karol Bagh",
+    "ecommerce website Delhi",
+    "business website Delhi",
+    "freelance web developer Delhi",
+    "affordable website Delhi",
+    "website maintenance Delhi",
+    "Google Business Profile Delhi",
+    "coaching centre website Delhi",
+    "clinic website Delhi",
+    "trader website Delhi",
+    "consultancy website Delhi",
+    "hotel website Delhi",
+    "web development India",
+    "website redesign Delhi"
+  ]
+});
 ---
-<LocationLayout page={page} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Delhi</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Delhi business landscape and who needs a better website</h2>
+            <p>Delhi is not one market. It is eight or nine markets that happen to share a pin code prefix. Connaught Place runs on consultancies, law practices, chartered accountants and offices that sell expertise rather than products. Nehru Place is hardware, IT resellers and repair. Karol Bagh is retail and automotive parts. Okhla is manufacturing and export units. Dwarka, Rohini and Janakpuri are dense residential belts where clinics, coaching centres, gyms, salons and local service businesses fight for neighbourhood attention. Saket sits somewhere between retail and professional services. Each of these needs a different website, and treating them the same is the reason so many Delhi sites look identical and convert badly.</p>
+            <p>The businesses that gain most from a proper website are the ones already getting enquiries by word of mouth but losing them at the search step. A coaching centre in Rohini that parents hear about, then search for, then cannot find. A clinic in Dwarka with no visible fee list or timings. An export unit in Okhla whose buyers want a product catalogue before a call. If your phone rings because people recommend you, a website is the cheapest way to catch everyone who hears the recommendation and checks online first.</p>
+          </article>
+          <article>
+            <h3>What we usually find on existing Delhi sites</h3>
+            <p>Most sites we are asked to fix share the same three problems. They load slowly on a mid-range Android phone over a patchy 4G connection, which is how most Delhi visitors will see them. They bury the phone number and address in a footer instead of putting it where a customer on a bus can tap it. And they have one generic services page trying to rank for everything, instead of separate pages that match what people actually type.</p>
+            <p>The fix is rarely a full rebuild. Often it is restructuring the pages, rewriting the copy so it answers real questions, compressing images properly and adding the schema and Google Business Profile links that let a local business show up in map results. We will tell you honestly which of the two you need after looking at the current site.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Delhi business website actually includes</h2>
+            <p>Start with the practical things. A visible phone number and WhatsApp link at the top of every page, because a large share of Delhi enquiries arrive by call or message rather than a form. Clear locality mentions so someone searching from Janakpuri understands you serve them. Timings, especially for clinics and coaching centres. Directions or a landmark, since Delhi addresses are frequently found by landmark rather than street. Photographs of the real place, real staff and real work, because stock imagery reads as fake to anyone who has scrolled a hundred listings.</p>
+            <p>Then the structural things. One page per service you want to be found for, each written properly rather than padded. A pricing or fee indication, even a range, because hiding it costs you more enquiries than it saves. Testimonials only if they are genuinely yours. Fast loading, mobile-first layout, and forms that work without a rigid format. We cover the full build approach on our <a href="/services/web-development/">web development</a> page, and the search side on <a href="/services/seo-services/">SEO services</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-search-heading">How local search works across several distinct Delhi markets</h2>
+            <p>Google treats Delhi searches as strongly local. Somebody searching "physiotherapist near me" from Dwarka Sector 12 sees a very different result set from somebody searching the same phrase in Saket. That means a single "Delhi" page will not carry a business that serves three or four separate localities. What works is a clear main site with dedicated pages for the areas you genuinely serve, each with real, distinct content: which sectors or blocks you cover, how people reach you, what you charge, what the local demand looks like.</p>
+            <p>Alongside that, the Google Business Profile does heavy lifting. Consistent name, address and phone across the site and the profile. Categories chosen accurately rather than aspirationally. Photos updated regularly. Reviews requested from real customers after real work. We set the website side up so the profile and the site reinforce each other, and we tell you plainly when a keyword is too competitive to be worth chasing. Nehru Place laptop repair is a hard fight. "Laptop motherboard repair Nehru Place" is a winnable one.</p>
+          </article>
+          <article>
+            <h3>Language and regional considerations</h3>
+            <p>Delhi searches happen in English, in Hindi and in Hinglish typed in Roman script. Most professional services do fine with an English site, since the people searching for a CA or a corporate lawyer search in English. Neighbourhood businesses are different. Coaching centres, clinics, tailors, caterers and repair services get Hindi and Hinglish queries in volume, and their customers respond better to Hindi in the call-to-action and WhatsApp message even when the page itself is English.</p>
+            <p>We handle this two ways. The light version keeps the site in English but writes headings and buttons in the phrasing people actually use, including transliterated terms. The full version builds a proper Hindi section with its own URLs and metadata. Which one you need depends on your customers, not on a rule, and we will say which we think fits after hearing who buys from you.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Delhi</h2>
+            <p>The brief changes considerably by sector, and so does the page structure we recommend. These are the Delhi business types we build for most often, with what each one usually needs.</p>
+            <ul class="it-list">
+              <li>Traders and wholesalers in Nehru Place, Karol Bagh and Okhla: product or category catalogues, downloadable price lists, enquiry forms that capture quantity and specification, and pages targeting product-plus-locality searches.</li>
+              <li>Consultancies, CAs and legal practices around Connaught Place and Saket: credibility-first sites with clear service pages, team profiles, published articles, and a consultation booking path.</li>
+              <li>Coaching centres in Rohini, Dwarka and Janakpuri: course pages, batch timings, fee structure, faculty details, results shown honestly, and forms parents can complete on a phone.</li>
+              <li>Clinics and diagnostic centres: doctor profiles, treatment pages, timings, insurance or payment details, appointment requests, and schema that supports local map visibility.</li>
+              <li>Hospitality, restaurants and banquets: menus and packages, real photographs, capacity details, enquiry and booking flows, and speed that survives image-heavy pages.</li>
+              <li>Retail and showrooms: brand and range pages, store visit prompts, stock enquiry forms, and either a simple catalogue or a full ecommerce build depending on whether you want to sell online.</li>
+              <li>Government-adjacent and compliance service providers: document checklists, process explanations, eligibility pages, and content that answers procedural questions clearly.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery and five months of free maintenance</h2>
+            <p>We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. You are not asked to find a separate designer, a separate hosting person and a separate SEO agency, then coordinate between them. We agree the page structure, write or edit the content, build it, configure the SEO basics, buy or connect the hosting, point the domain and put it live. Domain and hosting stay in your name, so nothing is held hostage if you later want to work with somebody else.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Those five months matter because that is when the real problems show up: a form that stops emailing, a plugin update that breaks a layout, a page that slows down after you add photos. After that period, maintenance is from ₹2,000 per month if you want us to keep looking after it.</p>
+          </article>
+          <article>
+            <h3>How remote delivery works for Delhi clients</h3>
+            <p>We are a freelance group of three engineers, not a company with branches. There is no Delhi office and we do not pretend otherwise. Work happens over calls, WhatsApp, email and shared documents, which for a website project is genuinely enough. You talk to the person writing the code rather than a salesperson relaying messages, which usually makes decisions faster than an in-person meeting would.</p>
+            <p>In practice a project runs like this. A first call to understand the business and agree scope. A written page plan and quote. Content collection, which is the step clients most often underestimate. Build, with a staging link you can open on your own phone and comment on. Revisions. Then deployment and handover with a short walkthrough of how to update things yourself. Ankur handles full stack development, Santosh covers AI, AWS and data work, and Vedansh manages the project and automation side.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Delhi projects</h2>
+            <p>A static website starts from ₹5,000 and typically goes live within one to two weeks. That suits a small practice, a single-location shop or anyone who mainly needs a credible online presence with contact details. A 30-page SEO website, taken from design through to deployment, starts from ₹10,000 and usually runs three to five weeks. That is the option most Delhi service businesses choose, because the extra pages are what let you appear for locality and service combinations rather than one generic term.</p>
+            <p>AI automation work starts from ₹15,000, ecommerce from ₹25,000 and a custom web application from ₹40,000, with timelines of six to ten weeks for the larger builds. Monthly SEO starts from ₹5,000 per month and is a sustained effort, not a one-month experiment. Maintenance after the free period starts from ₹2,000 per month. Every figure is a starting point and the final cost depends on scope. Full details sit on our <a href="/pricing/">pricing</a> page, and the broader technical work we take on for the state is covered at <a href="/it-services/delhi/">IT services in Delhi</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="choose-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="choose-heading">Choosing between a redesign, a rebuild and a fresh start</h2>
+            <p>If you already have a site, the honest answer is often that you do not need a new one. A site that loads reasonably, is on a platform still receiving updates, and has content roughly matching your services can usually be improved for far less than a rebuild costs. Restructure the pages, rewrite the thin ones, fix the images, add the schema, tighten the internal links, and connect it properly to the Google Business Profile. That work often produces more enquiries than a visual redesign would.</p>
+            <p>A rebuild makes sense when the site sits on an abandoned platform, when nobody can edit it without paying the original developer, when it fails badly on mobile, or when the business has changed enough that the structure no longer matches what you sell. A fresh start is right when there is nothing worth keeping. We will look at what you have and tell you which of the three applies, including when the answer means a smaller invoice for us.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>Delhi city pages and the wider service pages, if you want to read further before getting in touch.</p>
+            <ul class="it-list">
+              <li><a href="/it-services/delhi/new-delhi/">IT services in New Delhi</a></li>
+              <li><a href="/it-services/delhi/dwarka/">IT services in Dwarka</a></li>
+              <li><a href="/it-services/delhi/rohini/">IT services in Rohini</a></li>
+              <li><a href="/it-services/delhi/">IT services across Delhi</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions Delhi clients ask before starting</h2>
+          <p>Costs, timelines, maintenance and how remote delivery works in practice.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us about your Delhi project</h2>
+          <p>Send a short description of your business and what you need the website to do. We will reply with a page plan, a realistic timeline and a clear starting price, with no obligation to proceed.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,6 +1,250 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("maharashtra", "mumbai");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does website development cost in Mumbai?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application starts from ₹40,000. Monthly SEO starts from ₹5,000 per month. These are starting points, and the final cost depends on page count, features and content readiness.",
+  },
+  {
+    question: "How long does a Mumbai business website take to build?",
+    answer: "A small static site is usually live within one to two weeks. A 30-page SEO website normally takes three to five weeks including content, on-page work and deployment. Ecommerce and custom applications run four to eight weeks or longer. The biggest delay is almost always waiting on photos, product data and approvals, not the build itself.",
+  },
+  {
+    question: "Do you have an office in Mumbai?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses across Mumbai, Navi Mumbai and Thane. Everything runs over calls, WhatsApp, email and shared documents. You get direct access to the people writing the code rather than an account manager, which usually makes decisions faster than an office visit would.",
+  },
+  {
+    question: "Is maintenance included after the website goes live?",
+    answer: "Yes. Five months of maintenance are included free after hosting goes live. That covers content updates, bug fixes, security patches, backups, and uptime and speed checks. After those five months, ongoing maintenance is available from ₹2,000 per month. You are never locked in, and you keep full ownership of the code and hosting accounts.",
+  },
+  {
+    question: "Can you help my business rank for area-level Mumbai searches?",
+    answer: "Yes. Searches like a service plus Andheri, Powai or Thane are far easier to win than broad city terms. We build dedicated pages for the areas you genuinely serve, set up and optimise your Google Business Profile, and add local schema so your address, hours and service area are readable by search engines. Results usually build over three to six months.",
+  },
+  {
+    question: "Do you redesign existing websites or only build new ones?",
+    answer: "Both. Many Mumbai businesses already have a site that loads slowly, breaks on mobile or was built on a page builder nobody can edit any more. We audit what exists, keep the pages that already earn traffic, redirect anything we retire, and rebuild the front end so speed and structure improve without losing rankings you already have.",
+  },
+  {
+    question: "Who actually works on the project?",
+    answer: "Three engineers. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, automation and data work. You talk to the person doing the work. Nothing is passed to an unnamed team you never meet.",
+  },
+  {
+    question: "What do you need from me to get started?",
+    answer: "A short call or an email describing what the business does, who you sell to, and what the website has to achieve. After that we need your logo, any existing brand colours, photos, and a rough page list. If you do not have content ready, we draft it and you approve it. Nothing is charged before scope is agreed in writing.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Mumbai for Websites and SEO",
+  description: "Web development company in Mumbai building fast websites, ecommerce stores and local SEO. Static sites from ₹5,000, 30-page SEO sites from ₹10,000, 5 months free care.",
+  canonicalPath: "/india/maharashtra/mumbai/",
+  h1: "Website Design, Development and SEO Services for Mumbai Businesses",
+  intro: "We are a three-engineer freelance group working with businesses across Mumbai, Navi Mumbai and Thane. We plan, design, build, optimise and deploy websites end to end, then keep them maintained free for five months after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Maharashtra", href: "/india/maharashtra/" },
+    { label: "Mumbai", href: "/india/maharashtra/mumbai/" },
+  ]),
+  keywords: [
+    "web development company in Mumbai",
+    "website designer Mumbai",
+    "SEO services Mumbai",
+    "website development cost in Mumbai",
+    "website design company Mumbai",
+    "web developer Mumbai",
+    "ecommerce website development Mumbai",
+    "local SEO Mumbai",
+    "website designer in Andheri",
+    "web development Bandra Kurla Complex",
+    "website company Lower Parel",
+    "web design Powai",
+    "website development Navi Mumbai",
+    "SEO company Thane",
+    "website designer Borivali",
+    "small business website Mumbai",
+    "startup website development Mumbai",
+    "real estate website design Mumbai",
+    "healthcare website development Mumbai",
+    "retail website Mumbai",
+    "website redesign Mumbai",
+    "Google Business Profile optimisation Mumbai",
+    "freelance web developer Mumbai",
+    "affordable website design Mumbai",
+    "website maintenance Mumbai",
+    "Maharashtra web development",
+    "responsive website design Mumbai",
+    "website speed optimisation Mumbai",
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Mumbai</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Mumbai businesses actually struggle with online</h2>
+            <p>Mumbai is one of the most competitive markets in India for almost every service you can name. A chartered accountant in Lower Parel, a clinic in Borivali and a furniture showroom in Thane are all bidding for attention in the same crowded search results, and most of them are doing it with a website that was built once and never touched again. The pattern we see repeatedly is not a lack of effort. It is a site that looks acceptable on a laptop, collapses on a mid-range Android phone, takes six seconds to load on a patchy 4G connection somewhere on the Western Express Highway, and gives Google almost nothing to rank.</p>
+            <p>The second common problem is structure. A business offering eight services will often cram all eight onto one page, then wonder why none of them rank. Search engines need a separate page per real search intent. A third problem is measurement. Plenty of owners have no idea which pages bring enquiries because analytics was never connected properly, so budget decisions are guesses. None of these are expensive problems to fix. They are just rarely fixed, because the person who built the site is no longer reachable.</p>
+          </article>
+          <article>
+            <h3>Why a Mumbai website has to be fast first</h3>
+            <p>Most of your visitors arrive on a phone, often on the move, often on a connection that drops between stations. If the first meaningful content does not appear quickly, they leave before they ever see your offer. We build with lightweight static output wherever the project allows, compress and size images properly, avoid heavy sliders and unnecessary scripts, and test on real mid-range hardware rather than a developer laptop. Speed is not a vanity metric here. It is the difference between a call and a bounce, and Google now measures it directly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Mumbai business</h2>
+            <p>A static website suits a business with a stable set of pages: a profile, a services list, an area or two, a contact page. It loads almost instantly, costs the least to host, and starts from ₹5,000. A larger content and SEO focused build makes sense when you want to rank for multiple services across multiple areas. That is the 30-page SEO website, taken from design through to deployment, starting from ₹10,000, and it is the option most established Mumbai firms end up choosing because it gives search engines enough surface to work with.</p>
+            <p>A dynamic website adds a content system so your team can publish updates, listings or blog posts without calling a developer. Ecommerce starts from ₹25,000 and covers catalogue, cart, payment gateway integration and order handling, which is what most retail and D2C brands in the city need. A custom web application starts from ₹40,000 and is for booking systems, dashboards, internal portals and anything with real business logic behind it. Final cost always depends on scope, and we quote in writing before anything begins. Our full <a href="/services/web-development/">web development service</a> page breaks down each option in more detail.</p>
+          </article>
+          <article>
+            <h3>Redesigns and rescues</h3>
+            <p>If you already have a site, a rebuild is usually cheaper and safer than starting from zero. We audit the existing pages, keep whatever already earns traffic, map redirects for anything retired, and rebuild the front end around a cleaner structure. Rankings you have earned are protected rather than thrown away. This is the most common request we get from businesses whose site was built five or six years ago on a page builder that nobody in the office can log into any more.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Mumbai business website should include</h2>
+            <p>There is a baseline that applies to almost every business here, whether you work out of a shared desk in Andheri or a proper office floor in Bandra Kurla Complex. The website needs a clear statement of what you do in the first screen, a separate page for each service you actually want enquiries for, and honest proof: real photos, real team names, real work. It needs a phone number that dials on tap, a WhatsApp route if that is how your customers prefer to talk, and a form that arrives in an inbox somebody actually checks.</p>
+            <p>Beyond that, it needs technical groundwork that visitors never see. Clean URLs, one H1 per page, descriptive titles and meta descriptions, image alt text, a sitemap, structured data describing the business, and analytics wired in from day one. Pages for the specific areas you serve matter too, because somebody in Powai searching for a nearby supplier behaves differently from somebody typing a generic city-wide query.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Mumbai searches</h2>
+            <p>Local search in Mumbai splits into three layers, and a serious campaign works all three. The first is the map pack, driven almost entirely by your Google Business Profile. We set the profile up or clean it, pick the right primary category, write the description, define the service area, add real photos, and make sure your name, address and phone number match exactly across your website and every listing. Inconsistent details are the single most common reason a profile underperforms.</p>
+            <p>The second layer is area-level keywords. Competing head-on for a broad city term against national portals is a long fight. Competing for a service plus Andheri, Thane, Navi Mumbai or Borivali is winnable within months, and the traffic converts better because intent is sharper. We build a page for each area you genuinely serve, with content specific to that area rather than the same paragraph with a name swapped. The third layer is the ordinary work of on-page optimisation, internal links, page speed and earning mentions from real local sources. Monthly <a href="/services/seo-services/">SEO services</a> start from ₹5,000 per month.</p>
+          </article>
+          <article>
+            <h3>What to expect and when</h3>
+            <p>Technical fixes and Google Business Profile work often show movement within four to six weeks, particularly in map results. Content-driven rankings for area keywords typically build over three to six months, and competitive commercial terms take longer. Anyone promising page one in thirty days is selling something we would not sell. We report monthly with the actual numbers from Search Console and analytics, including the terms that are not working, because knowing what to stop doing saves more money than any single win.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery with five months of free maintenance</h2>
+            <p>We handle projects end to end. That means planning and scope, design, development, SEO setup, hosting and deployment, all from one small team, so nothing falls into the gap between a designer, a developer and a hosting provider who have never spoken to each other. You get one thread of communication and one group accountable for the result.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Most agencies hand over a site and disappear, which is exactly when small problems turn into broken forms and expired certificates. After the five months, maintenance continues from ₹2,000 per month if you want it, and you are free to walk away with full ownership of your code, domain and hosting accounts. Full figures are on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Mumbai sectors we build for</h2>
+            <p>Finance and professional services firms around Nariman Point and Bandra Kurla Complex need credibility above all: clear regulatory and disclosure content, partner profiles, and a site that loads cleanly on a client's phone during a meeting. Media and creative studios need portfolio-heavy layouts that stay fast despite carrying video and large imagery, which is mostly a matter of disciplined asset handling. Real estate needs listing structures, enquiry capture and location pages that reflect the micro-markets buyers actually search by.</p>
+            <p>Retail and D2C brands need ecommerce that survives a sale-day traffic spike and a payment flow with as little friction as possible. Healthcare clinics need appointment enquiry paths, doctor profiles, and content written carefully enough to be trustworthy without overclaiming. Startups, particularly around Powai and the co-working clusters in Andheri, usually need something launched fast that can grow later rather than a perfect site delivered too late to matter.</p>
+          </article>
+          <article>
+            <h3>Beyond websites</h3>
+            <p>Some businesses need more than a site. AI automation work starts from ₹15,000 and covers things like enquiry routing, document processing, chat assistants trained on your own material, and reporting that runs itself. If your requirement stretches into cloud setup, data work or internal tooling, our broader <a href="/it-services/maharashtra/mumbai/">IT services for Mumbai</a> page covers that ground properly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with us remotely actually works</h2>
+            <p>We do not claim an office in Mumbai. We work with businesses across the city remotely, and in practice that removes more friction than it adds. There is no travel time lost to a commute from Thane to Lower Parel for a thirty-minute review. We run a short kickoff call to agree scope, then share a written brief with page list, timeline and cost so there is no ambiguity later. Day-to-day communication happens on WhatsApp and email, whichever you prefer.</p>
+            <p>You see progress on a live staging link from the first week rather than waiting for a big reveal. Feedback goes into one shared document so nothing gets lost across chat threads. We work Indian hours, so questions asked in the morning get answered the same day. Before launch we run a checklist covering mobile behaviour, forms, speed, redirects, analytics and search console setup, and we walk you through the site on a call so your team knows how to update it.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Getting started</h2>
+            <p>Email or call us with a few lines about what your business does, who you want to reach, and what the website has to achieve. If you already have a site, send the link. We will come back with an honest view of what needs doing, a page structure, a timeline and a fixed quote. There is no charge for that conversation and no obligation after it. If the answer is that your existing site only needs a speed pass and a Google Business Profile cleanup rather than a rebuild, we will tell you that.</p>
+            <p>Once scope is agreed we start immediately. You can see how we work with businesses across the state on our <a href="/india/maharashtra/">Maharashtra</a> page, or across the country on our <a href="/india/">India</a> page.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <ul class="it-list">
+              <li><a href="/india/maharashtra/mumbai/web-development/">Web development in Mumbai</a></li>
+              <li><a href="/it-services/maharashtra/mumbai/">IT services in Mumbai</a></li>
+              <li><a href="/india/maharashtra/pune/">Web development and SEO in Pune</a></li>
+              <li><a href="/india/maharashtra/">Maharashtra services overview</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/india/gujarat/ahmedabad/">Ahmedabad</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions Mumbai businesses ask us</h2>
+          <p>Straight answers on cost, timelines, maintenance and how the work runs.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to start your Mumbai website or SEO project?</h2>
+          <p>Tell us what your business does and what you need the website to achieve. We will reply with a clear structure, a timeline and a fixed quote, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

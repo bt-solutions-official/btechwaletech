@@ -1,8 +1,260 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { uttarPradeshCities } from "@data/countries/india/cities/uttar-pradesh";
-const page = indiaRegionPage("uttar-pradesh");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a business in Uttar Pradesh?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website handled from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web app from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and how much content you already have ready.",
+  },
+  {
+    question: "How long does a Uttar Pradesh website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website normally runs three to five weeks including content, on-page setup and deployment. Ecommerce and custom applications take six to twelve weeks depending on features. The single biggest delay is waiting on your content, photos and product details, so we start collecting those on day one.",
+  },
+  {
+    question: "Do you have an office in Noida or Lucknow?",
+    answer: "No. We are a small freelance group of three engineers and we work fully remote. We do not claim an office anywhere in Uttar Pradesh. What you get instead is direct access to the people writing the code, calls on WhatsApp or Google Meet in Hindi or English, and the same delivery quality whether you are in Noida, Kanpur or Varanasi.",
+  },
+  {
+    question: "Is maintenance included after the website goes live?",
+    answer: "Yes. Every project we host and deploy includes five months of maintenance free. That covers content updates, bug fixes, security patches, backups, plus uptime and speed checks. After those five months, maintenance continues from ₹2,000 per month if you want us to keep looking after it. There is no obligation to continue.",
+  },
+  {
+    question: "Can you rank a website in a specific Uttar Pradesh city?",
+    answer: "Yes, and city-level targeting is usually the right approach in Uttar Pradesh because Noida, Lucknow, Kanpur and Varanasi behave like separate markets. We build a dedicated page per city you genuinely serve, with real local detail rather than a name swap. Combined with a Google Business Profile and consistent contact details, that is what moves local rankings.",
+  },
+  {
+    question: "Can the website support Hindi as well as English?",
+    answer: "Yes. Many Uttar Pradesh audiences search and read in Hindi, especially outside the NCR belt. We can build a Hindi version of key pages, or a mixed approach where product and service names stay in English while explanations are in Hindi. We handle font rendering, correct language tags and sensible URLs so search engines index both versions properly.",
+  },
+  {
+    question: "Do you handle hosting and domain setup too?",
+    answer: "Yes, end to end. Planning, design, development, SEO setup, hosting and deployment are all handled by us. If you already own a domain we point it correctly; if not, we help you buy one in your own name. You keep ownership of the domain, hosting account and code, which matters more than most business owners realise.",
+  },
+  {
+    question: "What if my current website is old and slow?",
+    answer: "That is a common starting point. We audit what exists, keep the content and URLs that already earn traffic, and rebuild the rest on a faster stack. Preserving working URLs and redirecting the retired ones protects the rankings you already have. A rebuild that quietly throws away old URLs is the fastest way to lose traffic overnight.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Uttar Pradesh, India",
+  description: "Website development and SEO services for businesses across Uttar Pradesh - Noida, Lucknow, Kanpur, Agra, Varanasi. End to end delivery from ₹5,000, remote team.",
+  canonicalPath: "/india/uttar-pradesh/",
+  h1: "Website Design, Development and SEO Services Across Uttar Pradesh",
+  intro: "We build websites and run SEO for businesses across Uttar Pradesh, from Noida technology firms to traders in Kanpur and clinics in Lucknow. Three engineers, fully remote delivery, everything handled from planning to hosting, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Uttar Pradesh", href: "/india/uttar-pradesh/" }]),
+  keywords: [
+    "web development company in Uttar Pradesh",
+    "website development Uttar Pradesh",
+    "SEO services Uttar Pradesh",
+    "website design Uttar Pradesh",
+    "web design company Uttar Pradesh",
+    "website developer Noida",
+    "web development Noida",
+    "website design Lucknow",
+    "SEO company Lucknow",
+    "website development Ghaziabad",
+    "web design Kanpur",
+    "website designer Agra",
+    "web development Varanasi",
+    "website design Prayagraj",
+    "web developer Meerut",
+    "ecommerce website Uttar Pradesh",
+    "local SEO Uttar Pradesh",
+    "affordable website Uttar Pradesh",
+    "small business website UP",
+    "Hindi website development",
+    "freelance web developer Uttar Pradesh",
+    "IT services Uttar Pradesh",
+    "website maintenance Uttar Pradesh",
+    "custom web application Uttar Pradesh",
+    "Google Business Profile Uttar Pradesh",
+    "AI automation Uttar Pradesh",
+  ],
+});
 ---
-<LocationLayout page={page}>{uttarPradeshCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Uttar Pradesh</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Uttar Pradesh business landscape, and who actually needs a better website</h2>
+            <p>Uttar Pradesh is not one market. Noida and Ghaziabad sit inside the NCR economy and compete for the same technology, staffing and B2B service buyers as Delhi and Gurgaon. Lucknow is a state capital with government-adjacent services, education and healthcare. Kanpur still runs on leather, textiles and industrial trade. Agra has tourism, hospitality and a large handicrafts export trade. Varanasi and Prayagraj combine pilgrimage tourism with a dense retail and education base. Meerut has sports goods, publishing and light manufacturing. A single generic website written for "UP" speaks to none of them properly.</p>
+            <p>The businesses that gain most from a rebuild are the ones already getting phone enquiries but losing the ones who check online first. Manufacturers and traders with a decade of reputation and a website last touched in 2016. Clinics and diagnostic labs where patients search on a phone at 11pm. Coaching institutes and colleges competing on admissions season. Exporters who need to look credible to a buyer in another country who will never visit the factory. In every one of those cases the website is not decoration, it is the qualifying step before someone calls you.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Uttar Pradesh business website actually includes</h2>
+            <p>Start with speed. A large share of your visitors arrive on a mid-range Android phone on a patchy mobile connection, often outside the NCR fibre belt. If the homepage takes six seconds to become usable, you lose people before a single word is read. We build light pages, compress images properly, and skip heavy sliders and animation libraries that add weight without adding enquiries. Speed is not a vanity metric here, it is the difference between a call and a bounce.</p>
+            <p>Then make contact effortless. A phone number that dials on tap, a WhatsApp link, an email address, and a short form that does not demand ten fields. Add your service area in plain words, your GST or registration details if you have them, real photos of your premises, team or products, and prices or price ranges wherever you can commit to them. Buyers in UP compare three or four suppliers quickly, and the one who answers questions on the page usually gets the call.</p>
+          </article>
+          <article>
+            <h3>The pages most UP businesses are missing</h3>
+            <p>Almost every site we audit has a homepage, an "About Us" page and a contact form, and nothing else worth ranking. The pages that actually earn search traffic are the specific ones: a page for each service you sell, a page for each city you genuinely serve, an honest pricing page, and a few articles answering the questions customers ask on the phone every week.</p>
+            <ul class="it-list">
+              <li>One page per service, not a single combined services list</li>
+              <li>City pages for the markets you truly serve</li>
+              <li>A pricing or "how we quote" page, even with ranges</li>
+              <li>Real project photos or case examples instead of stock images</li>
+              <li>An FAQ built from your actual customer questions</li>
+              <li>Clear delivery, warranty or turnaround terms</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="localseo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="localseo-heading">How local search works across a state with several distinct city markets</h2>
+            <p>Google does not rank you for "Uttar Pradesh" in any useful way. It ranks you city by city, and often neighbourhood by neighbourhood. Someone in Gomti Nagar searching for a supplier sees different results from someone searching the same phrase in Kanpur. That means the honest strategy is a real page for each city you can genuinely serve, written with detail specific to that market, rather than one template with the city name swapped in. Thin duplicated city pages are ignored at best and treated as spam at worst.</p>
+            <p>Alongside pages, three things move local rankings more than anything else. A completed Google Business Profile with correct category, hours, photos and services. Contact details written identically everywhere they appear online, because a mismatched phone number or address format quietly dilutes your local signal. And genuine reviews collected steadily rather than in one suspicious burst. Our <a href="/services/seo-services/">SEO services</a> cover on-page work, technical fixes and the content plan behind all of this.</p>
+          </article>
+          <article>
+            <h3>Search behaviour differs by city</h3>
+            <p>Noida and Ghaziabad searches skew towards B2B and service keywords with heavy competition from Delhi and Gurgaon agencies, so ranking there needs stronger content depth. Lucknow, Kanpur, Agra, Varanasi, Prayagraj and Meerut have far less well-optimised competition, which means a properly built site can reach page one in months rather than years. We usually recommend starting where the win is realistic and expanding into NCR keywords once the site has authority.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Uttar Pradesh websites</h2>
+            <p>Hindi matters here more than in most Indian states. Voice search in Hindi is common, and a large part of the buying audience outside NCR reads Hindi far more comfortably than English. That does not automatically mean a full bilingual site, which doubles content work and maintenance. Often the smarter build is English as the base with Hindi versions of the pages that convert, or Hindi explanatory copy sitting alongside English product and service names that people already recognise.</p>
+            <p>Where we do build Hindi pages, the technical details are handled properly: correct language attributes, clean URLs, fonts that render Devanagari without layout shift, and metadata written in the language of the page rather than machine translated. Transliteration matters too. People search "ghar ka naksha" as often as "house plan", and phrasing the page the way customers actually type improves results in ways a translation tool never will.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Uttar Pradesh</h2>
+            <p>The NCR belt of Noida and Ghaziabad gives us technology firms, staffing and consulting companies, SaaS teams and B2B service providers who need credible marketing sites, landing pages and web applications. Away from NCR, the volume sits in regional trade: manufacturers, wholesalers, distributors, builders and equipment suppliers who sell across districts and increasingly get first contact through search rather than referral. Both need the same foundation and very different content.</p>
+            <p>Education is a huge market in Uttar Pradesh, from coaching institutes and schools to colleges and training providers, where an admissions cycle can be made or lost on how quickly a parent finds course details and fees. Healthcare is equally large: clinics, diagnostic labs, dental practices and hospitals where local search and clear appointment booking matter most. We also work with tourism and hospitality operators in Agra, Varanasi and Prayagraj, plus exporters and handicraft businesses who need international-facing sites. See <a href="/industries/">industries</a> for more on how we adapt to each.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End to end delivery, and five months of maintenance included free</h2>
+            <p>We handle projects end to end. Planning and scope, design, development, SEO setup, hosting and deployment are all ours, so there is no gap where a designer hands you files and disappears while a separate host blames the developer. You deal with the same three people from first call to live site. Ankur Kumar builds the full stack side, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.</p>
+            <p>Once hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because the first months after launch are when small problems appear, and a business owner in Kanpur or Agra should not be paying an hourly rate to fix a form that never worked properly. After those five months, maintenance is available from ₹2,000 per month, and you are free to stop or move elsewhere. You own the domain, hosting and code throughout.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How remote delivery works for Uttar Pradesh clients</h2>
+            <p>We do not have an office in Uttar Pradesh and we will not pretend otherwise. We are a freelance group of three engineers working remotely with businesses across India, and that is exactly why the pricing works. There is no showroom, no sales layer and no account manager passing your message down a chain. You speak directly to the engineers doing the work, which usually means faster answers than a larger agency can give you.</p>
+            <p>In practice a project runs like this. A first call on phone, WhatsApp or Google Meet, in Hindi or English, to understand what you sell and who buys it. A written scope with a fixed starting price and a timeline. A short content collection stage where we tell you exactly what photos, text and details we need. Then design, build, review rounds, SEO setup and deployment, with a shared link you can check at every stage. After launch we walk you through editing your own content so you are not dependent on us for a phone number change.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Starting prices and realistic timelines</h2>
+            <p>Our published starting prices apply to Uttar Pradesh clients exactly as they do anywhere else in India. A static website starts from ₹5,000 and suits a small business that needs a credible presence with a few pages. A 30-page SEO website, handled from design through to deployment, starts from ₹10,000 and is the option most growing businesses should look at because it gives search engines something substantial to rank. AI automation starts from ₹15,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope.</p>
+            <p>Timelines follow the same logic. Small static sites go live in one to two weeks. A full 30-page SEO site typically takes three to five weeks. Ecommerce and custom applications run six to twelve weeks depending on integrations, payment flows and how much of the data already exists in a usable form. SEO is different again: expect early movement on low-competition city keywords within two to three months, and meaningful gains on competitive NCR terms closer to six. Full details are on the <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Where to start if you are not sure what you need</h2>
+            <p>If you already have a website, start with an audit rather than a rebuild. Sometimes the problem is a missing Google Business Profile, a slow host or six pages targeting the same keyword, and none of that needs a new design. If you have no site at all, start small and specific: a fast homepage, one strong page per service, a page for your main city, and honest contact details. Add depth once the base is earning enquiries.</p>
+            <p>Send us your current site or a short description of your business and we will tell you plainly which of those two situations you are in. If a ₹5,000 static site solves your problem, we will say so rather than quoting for something larger. Our <a href="/services/web-development/">web development services</a> page covers the technical side, and the broader <a href="/it-services/uttar-pradesh/">IT services hub for Uttar Pradesh</a> covers software, cloud and automation work beyond websites.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>City pages, service pages and the wider India coverage are all linked below if you want detail on a specific market or service.</p>
+            <ul class="it-list">
+              <li><a href="/india/uttar-pradesh/noida/">Web development and SEO in Noida</a></li>
+              <li><a href="/india/uttar-pradesh/lucknow/">Web development and SEO in Lucknow</a></li>
+              <li><a href="/it-services/uttar-pradesh/">IT services across Uttar Pradesh</a></li>
+              <li><a href="/it-services/uttar-pradesh/noida/">IT services in Noida</a></li>
+              <li><a href="/it-services/uttar-pradesh/lucknow/">IT services in Lucknow</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/india/delhi/">Delhi web development and SEO</a></li>
+              <li><a href="/india/haryana/gurgaon/">Gurgaon web development and SEO</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Common questions from business owners across Uttar Pradesh about cost, timelines and how remote delivery works.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us about your Uttar Pradesh project</h2>
+          <p>Share what your business does and which cities you sell into. We will reply with a clear scope, a starting price and a realistic timeline, with hosting, deployment and five months of free maintenance included.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

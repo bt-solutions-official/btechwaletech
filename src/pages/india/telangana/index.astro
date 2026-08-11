@@ -1,8 +1,237 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { telanganaCities } from "@data/countries/india/cities/telangana";
-const page = indiaRegionPage("telangana");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a business website cost in Telangana?",
+    answer: "A static brochure website starts from Rs 5,000. A 30-page SEO website taken from design to deployment starts from Rs 10,000. Ecommerce starts from Rs 25,000, AI automation from Rs 15,000 and a custom web application from Rs 40,000. Monthly SEO starts from Rs 5,000 per month. Final cost depends on scope, page count and integrations."
+  },
+  {
+    question: "How long does a Telangana website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website normally takes three to five weeks, including content, on-page work, schema and deployment. Ecommerce and custom applications run six to twelve weeks depending on payment flows, catalogue size and third party integrations. Timelines depend mostly on how fast content and approvals come back."
+  },
+  {
+    question: "Do you have an office in Hyderabad?",
+    answer: "No. We are a small freelance engineering group and we work fully remote with businesses across Telangana. There is no branch office and we never claim one. Everything runs over calls, email and shared documents, and clients get the same direct access to the people writing the code rather than an account manager in between."
+  },
+  {
+    question: "Is maintenance included after the site goes live?",
+    answer: "Yes. Five months of maintenance are included free after hosting goes live. That covers content updates, bug fixes, security patches, backups, and uptime and speed checks. After those five months, ongoing maintenance is from Rs 2,000 per month. You are never locked in, and you keep full ownership of the code, domain and hosting account."
+  },
+  {
+    question: "Can you rank a website for searches in Warangal or Karimnagar, not just Hyderabad?",
+    answer: "Yes, and it usually needs separate pages. Hyderabad searches are far more competitive than Warangal, Nizamabad, Karimnagar or Khammam searches. A single page trying to cover the whole state rarely ranks anywhere. We build one strong page per city you genuinely serve, with real local detail rather than the same paragraph with the city name swapped."
+  },
+  {
+    question: "Do you build websites in Telugu as well as English?",
+    answer: "We build English-first sites and can add Telugu content where it helps, most often on landing pages, service descriptions and contact instructions. Most Telangana buyers search in English or in Telugu typed with English letters, so English pages carry the search work while Telugu copy improves trust and conversion for local walk-in style businesses."
+  },
+  {
+    question: "Who actually does the work?",
+    answer: "Three engineers. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, data science and automation. Work is not subcontracted out. You talk to the person building your site, which is why scope changes get answered the same day rather than travelling through a queue."
+  },
+  {
+    question: "Can you take over a website someone else built?",
+    answer: "Often yes. We audit the existing stack, hosting and content first and tell you honestly whether a rebuild is cheaper than a rescue. Sites on modern frameworks or standard WordPress setups are usually worth keeping. Heavily customised builders with no export path are usually cheaper to rebuild than to keep patching every month."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Telangana and SEO Services",
+  description: "Web development company in Telangana building fast websites for Hyderabad, Warangal, Nizamabad and Karimnagar businesses, with SEO, hosting and free maintenance.",
+  canonicalPath: "/india/telangana/",
+  h1: "Website Development and SEO Services Across Telangana",
+  intro: "We design, build and rank websites for businesses across Telangana, from the HITEC City corridor in Hyderabad to firms in Warangal, Nizamabad, Karimnagar and Khammam. Three engineers, remote delivery, end-to-end handling from planning to hosting, and five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Telangana", href: "/india/telangana/" }]),
+  keywords: [
+    "web development company in Telangana",
+    "website development Telangana",
+    "website design Telangana",
+    "SEO services Telangana",
+    "web design company Telangana",
+    "website developer Hyderabad",
+    "web development Hyderabad",
+    "SEO company Hyderabad",
+    "website design Warangal",
+    "web development Warangal",
+    "website design Nizamabad",
+    "web development Karimnagar",
+    "website design Khammam",
+    "ecommerce website Telangana",
+    "static website Telangana",
+    "business website Telangana",
+    "local SEO Telangana",
+    "Telugu website design",
+    "HITEC City web development",
+    "pharma website development Hyderabad",
+    "real estate website Telangana",
+    "education website design Hyderabad",
+    "affordable website design Telangana",
+    "freelance web developer Telangana",
+    "website maintenance Telangana",
+    "Google Business Profile Telangana",
+    "website redesign Hyderabad",
+    "custom web application Telangana"
+  ]
+});
 ---
-<LocationLayout page={page}>{telanganaCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Telangana</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Telangana business landscape, and who actually needs a better website</h2>
+            <p>Telangana is unusual among Indian states because so much of its commercial weight sits in one city. Hyderabad carries the HITEC City and Gachibowli technology corridor, the pharmaceutical cluster around Genome Valley and Jeedimetla, a large real estate market pushing out along the Outer Ring Road, and a dense education sector. Outside the capital, Warangal, Nizamabad, Karimnagar and Khammam run their own economies built on trade, agriculture processing, healthcare, coaching institutes and construction. A website strategy that only thinks about Hyderabad leaves those district markets uncovered, and a strategy that treats all five cities as interchangeable ranks in none of them.</p>
+            <p>The businesses that gain most from a rebuild are usually the ones already getting enquiries. A Karimnagar equipment dealer with steady phone leads, a Hyderabad diagnostics chain with four branches, a Warangal coaching institute filling batches on reputation alone. These businesses already have demand. What they lack is a site that captures the people searching for them at eleven at night on a phone with a weak signal. That gap is cheap to close and it shows up in enquiry counts within a few months.</p>
+          </article>
+          <article>
+            <h3>Where most existing Telangana sites lose money</h3>
+            <p>The common failure is not ugliness, it is weight and silence. Sites built five years ago on heavy page builders load a megabyte of scripts before showing a single line of text, and on a mid-range Android phone in Nizamabad that is four or five seconds of blank screen. The second failure is silence: no prices, no service area, no clear answer to what happens after someone calls. Visitors leave to check a competitor and do not come back.</p>
+            <p>The third failure is structural. One page called Services listing eleven things cannot rank for eleven different searches. Splitting that into real pages, each answering one intent properly, is usually the single highest-return change we make on an existing Telangana site, and it costs far less than a full rebuild.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Telangana business website includes</h2>
+            <p>Start with speed. A site should render its main content in under three seconds on a mid-range phone over a normal mobile connection, because that is what most of your visitors are using. We build lean pages, compress and resize images properly, avoid script-heavy sliders, and serve fonts locally. Speed is not a vanity metric here. It decides whether a Khammam visitor on a patchy connection sees your phone number at all.</p>
+            <p>Then structure. Every service you sell gets its own page with its own heading, its own explanation and its own call to action. Every city you genuinely serve gets a page that says something true and specific about serving that city. Contact details appear in the header, in the footer and inside the content, as clickable phone and email links, not as an image. A short enquiry form that asks for three fields converts better than one asking for eight.</p>
+            <p>Finally, the trust layer. Real photographs instead of stock imagery. Clear pricing or at least an honest starting range. A page explaining who you are and how long you have been doing this. Schema markup so search engines and AI answer engines can read your business details cleanly. Our <a href="/services/web-development/">web development service</a> covers all of this as one piece of work rather than as separate line items.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="search-heading">How local search works across several distinct city markets</h2>
+            <p>Google treats Hyderabad, Warangal and Karimnagar as separate places with separate result sets. Someone searching from Ameerpet and someone searching from Hanamkonda see different local packs even for the same words. That means state-wide phrasing alone rarely wins. You need pages that name the city, describe the work you do there, and connect to a Google Business Profile with a consistent name, address format and phone number.</p>
+            <p>Hyderabad is the hardest market in the state. Agencies there have been building links for a decade, so competing on the head term takes patience. The faster route is specific: service plus locality, or service plus sector. A phrase like web development for pharma companies has far less competition than the generic term and brings better enquiries. In Warangal, Nizamabad and Khammam the maths flips completely. Volume is lower but competition is thin, and a well-built page can reach the first page in a few months of steady <a href="/services/seo-services/">SEO work</a>.</p>
+          </article>
+          <article>
+            <h3>Building city pages that do not read as duplicates</h3>
+            <p>Search engines discount pages that repeat the same paragraph with a different place name, and readers notice it faster than algorithms do. A real city page mentions the areas you actually cover, the kinds of businesses you serve there, the typical project sizes, and how you handle delivery without a local office. That takes an hour of thought per page and it is the difference between ranking and being ignored.</p>
+            <p>We also keep city pages linked to each other and to the parent state page so crawl paths stay short. Our deeper technology coverage for the state lives at <a href="/it-services/telangana/">IT services in Telangana</a>, which handles cloud, automation and support work rather than websites.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Telangana websites</h2>
+            <p>Telugu is the daily language across Telangana, but search behaviour is mixed. Most commercial searches are typed in English, and a large share of the rest are Telugu words typed in the English alphabet. Very few people type in Telugu script on a business search. The practical answer is an English-first site with Telugu used where it adds trust rather than where it chases keywords: a welcome line, service descriptions for walk-in businesses, WhatsApp instructions, and staff-facing content.</p>
+            <p>There is a second layer worth respecting. Hyderabad has a strong Urdu-speaking commercial community in the old city, and businesses there often benefit from a short Urdu or Hindi block on contact and service pages. We do not machine translate any of this. Bad translation reads worse than no translation, so if you want a second language we ask you to supply or approve the copy, and we handle the layout, font loading and markup so the page still loads fast.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Telangana</h2>
+            <p>The HITEC City corridor is full of technology firms, startups and consultancies who need a site that survives technical scrutiny. Fast, clean code, working demos, honest case pages, and a careers section that does not look neglected. These clients often want a marketing site and a small internal tool, and we handle both.</p>
+            <p>Pharmaceutical and life sciences companies around Hyderabad have different needs: product catalogues, certification and compliance documentation, distributor enquiry routing, and clean downloadable specification sheets. The site is often the first place an international buyer looks, so it has to load quickly from outside India and read as a serious operation.</p>
+            <p>Real estate businesses along the Outer Ring Road and in Warangal need project pages with proper galleries, floor plan downloads, location detail and lead forms that reach the sales team instantly. Education, from Hyderabad universities to coaching institutes in Karimnagar and Nizamabad, needs course pages, admission enquiry flows, faculty pages and a calendar that parents can actually read on a phone. Manufacturing and trading firms in Khammam usually want something simpler: a clear product list, a credible about page and a phone number that works.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Telangana projects</h2>
+            <p>We quote from a fixed set of starting points and adjust to scope. A static website starts from Rs 5,000 and suits a business that needs a credible presence with a few pages. A 30-page SEO website handled from design through to deployment starts from Rs 10,000, and it is the option most growing Telangana businesses should look at, because thirty properly structured pages give search engines something to rank. AI automation starts from Rs 15,000, ecommerce from Rs 25,000, and a custom web application from Rs 40,000. Monthly SEO starts from Rs 5,000 per month and maintenance after the free period is from Rs 2,000 per month. Final cost always depends on scope, and we say so before you commit.</p>
+            <p>On timelines, a static site is typically live within one to two weeks. The 30-page SEO build runs three to five weeks. Ecommerce and custom applications take six to twelve weeks. The single biggest variable is content. Projects that stall almost always stall waiting on product photos, approvals or copy from the client side, so we ask for those early and give you a simple checklist instead of chasing you in fragments. Full figures are listed on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">Remote delivery, end to end, with five months of maintenance free</h2>
+            <p>We are a freelance group of three engineers and we work with Telangana businesses remotely. There is no Hyderabad office and we will not pretend there is one. In practice remote delivery works well because the work is the same wherever it happens: a scoping call, a written scope you approve, a staging link you can open on your own phone, review rounds, then launch. You get direct contact with the engineers building the site rather than a layer of account management.</p>
+            <p>We handle projects end to end. Planning, design, development, SEO setup, hosting and deployment all come from us, so there is no gap where a designer hands you files and disappears. After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. When those five months end, ongoing maintenance is from Rs 2,000 per month, and you are free to walk away with your code, domain and hosting account intact. Tell us what you are building and we will tell you honestly whether we are the right fit through the <a href="/contact/">contact page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Cities and related pages</h2>
+            <p>We serve Hyderabad, Warangal, Nizamabad, Karimnagar and Khammam, and we work with businesses in nearby states as well. The pages below cover our city coverage, service detail and the wider technology work we handle across India.</p>
+            <ul class="it-list">
+              <li><a href="/india/telangana/hyderabad/">Web development and SEO in Hyderabad</a></li>
+              <li><a href="/it-services/telangana/">IT services across Telangana</a></li>
+              <li><a href="/india/">Web development services across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/india/karnataka/bangalore/">Web development in Bangalore</a></li>
+              <li><a href="/india/tamil-nadu/chennai/">Web development in Chennai</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Web development in Mumbai</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Common questions from Telangana businesses about cost, timelines and how remote delivery works.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Start your Telangana website project</h2>
+          <p>Tell us your city, your sector and roughly what you need. You get an honest scope, a starting price and a realistic timeline, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

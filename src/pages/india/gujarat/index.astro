@@ -1,8 +1,257 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { gujaratCities } from "@data/countries/india/cities/gujarat";
-const page = indiaRegionPage("gujarat");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a business website cost in Gujarat?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web app from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and how much content you already have ready."
+  },
+  {
+    question: "How long does a Gujarat website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO site takes three to five weeks depending on how quickly product details, photos and approvals come back. Ecommerce and custom web apps run five to ten weeks. Content delays are the single biggest cause of slippage, so we collect what we need early and work in parallel."
+  },
+  {
+    question: "Do you have an office in Ahmedabad or Surat?",
+    answer: "No. We are a small freelance engineering group and we work fully remote with clients across Gujarat. We do not claim a local office anywhere. In practice this rarely matters: calls happen on WhatsApp or Google Meet, files move over shared drives, and you see staging links throughout the build instead of waiting for one big reveal at the end."
+  },
+  {
+    question: "Is the 5 months of free maintenance really included?",
+    answer: "Yes. After your site goes live on hosting, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security and plugin updates, backups, and uptime and speed checks. After those five months, ongoing maintenance is from ₹2,000 per month, and you are free to stop, continue or move elsewhere."
+  },
+  {
+    question: "Can the website be in Gujarati as well as English?",
+    answer: "Yes. We build bilingual pages where they earn their place, typically the home page, key service or product pages, and contact details. Most B2B and export buyers search in English, so English stays the primary layer. Gujarati content helps retail, education, healthcare and local service businesses that sell within the state."
+  },
+  {
+    question: "Do you handle hosting, domain and deployment too?",
+    answer: "We handle the project end to end: planning, design, development, SEO setup, hosting and deployment. You keep ownership of the domain and hosting accounts in your own name. We configure DNS, SSL, email records, analytics and Search Console, then hand over logins with a short written walkthrough so nothing is locked to us."
+  },
+  {
+    question: "Will one website rank in Ahmedabad, Surat and Rajkot at once?",
+    answer: "One site can rank across several Gujarat cities, but not from a single generic page. It needs separate, genuinely different pages for each city or service area, real content about the work you do there, and a Google Business Profile tied to your actual address. Thin copy-paste city pages get filtered out and can drag the whole site down."
+  },
+  {
+    question: "We already have a website. Can you fix it instead of rebuilding?",
+    answer: "Often yes. If the existing site loads reasonably, has a sane structure and a platform we can work with, an audit plus targeted fixes to speed, mobile layout, page titles and content is cheaper than a rebuild. If it is a slow page-builder site with no proper URL structure, rebuilding usually costs less than repeatedly patching it."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Gujarat | Websites and SEO",
+  description: "Web development company in Gujarat building fast business websites and SEO for Ahmedabad, Surat, Vadodara, Rajkot and Gandhinagar. From ₹5,000, end to end.",
+  canonicalPath: "/india/gujarat/",
+  h1: "Website Development and SEO Services Across Gujarat",
+  intro: "We build business websites and run SEO for companies across Gujarat, from Ahmedabad and Gandhinagar to Surat, Vadodara and Rajkot. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Gujarat", href: "/india/gujarat/" }]),
+  keywords: [
+    "web development company in Gujarat",
+    "website development Gujarat",
+    "SEO services Gujarat",
+    "website designing company in Gujarat",
+    "web design Gujarat",
+    "website development Ahmedabad",
+    "web development company Surat",
+    "website designer Vadodara",
+    "SEO company Rajkot",
+    "website development Gandhinagar",
+    "web development Bhavnagar",
+    "ecommerce website Gujarat",
+    "business website Gujarat",
+    "manufacturer website Gujarat",
+    "textile company website Surat",
+    "chemical company website Gujarat",
+    "export company website India",
+    "local SEO Gujarat",
+    "Google Business Profile Gujarat",
+    "affordable website design Gujarat",
+    "static website from 5000",
+    "30 page SEO website India",
+    "website maintenance Gujarat",
+    "freelance web developer Gujarat",
+    "SME website design India",
+    "Gujarati language website",
+    "web app development Gujarat",
+    "AI automation Gujarat"
+  ]
+});
 ---
-<LocationLayout page={page}>{gujaratCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Gujarat</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Gujarat business landscape and who actually needs a better website</h2>
+            <p>Gujarat runs on a very large base of small and mid-sized businesses. Textile units in Surat, chemical and pharma suppliers around Ankleshwar and Vapi, engineering and casting works in Rajkot, ceramics near Morbi, diamond cutting and polishing houses, and thousands of trading and export firms working out of Ahmedabad. Most of them sell on relationships, referrals and trade fairs. That works until a buyer in another state, or another country, goes looking for you online and finds a single page with a phone number and a stock photo.</p>
+            <p>The businesses that gain the most from a proper website here are the ones with a real product story and no way to tell it. A pump manufacturer with fourteen product lines and no product pages. A textile processor whose entire catalogue lives in a WhatsApp folder. An exporter who gets asked for certifications by email every week and retypes the same reply. A website is not decoration for these firms, it is the document a buyer reads before deciding whether you are worth a call.</p>
+          </article>
+          <article>
+            <h3>Where the demand concentrates</h3>
+            <p>Ahmedabad and Gandhinagar carry the corporate, education, healthcare and startup work. Surat is textiles, diamonds and an unusually fast-moving retail scene. Vadodara has engineering, chemicals and a strong professional services base. Rajkot is machinery and auto components. Bhavnagar covers shipbreaking, plastics and agriculture-linked trade.</p>
+            <p>Each of these markets searches slightly differently. A Rajkot buyer types machine and part names. A Surat buyer searches fabric types and GSM. Treating Gujarat as one uniform market is the usual reason a site gets traffic that never converts. We build for the specific city and sector you actually sell into, and expand from there once the first pages prove themselves.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Gujarat business website includes</h2>
+            <p>Strip away the noise and a website that works for a Gujarat firm has a short list of essentials. It loads in under three seconds on a mid-range Android phone over a patchy 4G connection, because that is how most first visits happen. It states plainly what you make or do, where you are, and who you sell to, in the first screen. It has one page per product line or service, not a single crowded page listing everything. It puts a phone number and a WhatsApp link where a thumb can reach them without scrolling.</p>
+            <p>Beyond that, the details that separate a serious site from a template are usually sector-specific: downloadable specification sheets and certificates for manufacturers, a clear MOQ and lead time note for exporters, real photographs of the unit and the team instead of stock imagery, and an enquiry form that captures the three or four fields your sales team actually needs. We also set up analytics, Google Search Console, sitemaps, structured data and page titles at build time rather than bolting SEO on afterwards. Our <a href="/services/web-development/">web development service</a> covers this whole scope, and <a href="/services/seo-services/">SEO services</a> pick up once the site is live.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-heading">How local search works across a state with several distinct city markets</h2>
+            <p>Google treats Gujarat as a collection of local markets, not one region. Someone searching in Vadodara sees different results from someone searching the same words in Surat, and the map results are driven almost entirely by proximity to a verified business address, category accuracy and review activity. That has two practical consequences. First, your Google Business Profile matters as much as the website for anything with a physical location. Second, a single page trying to rank for every city will rank properly for none of them.</p>
+            <p>The approach that works is layered. The main service pages target the service itself. Separate city pages exist only where you genuinely serve that city and can say something specific about it, with different content on each rather than a find-and-replace of the city name. Your name, address and phone number stay identical across the website, your Business Profile, JustDial, IndiaMART and any directory listing. Reviews come in steadily from real customers rather than in a suspicious burst. That combination is unglamorous and it is what moves rankings.</p>
+          </article>
+          <article>
+            <h3>Search intent to build around</h3>
+            <ul class="it-list">
+              <li>City plus product searches like fabric printing Surat or CNC parts Rajkot</li>
+              <li>Near me searches that pull from the map pack and your Business Profile</li>
+              <li>Specification and comparison searches from technical buyers</li>
+              <li>Price and MOQ queries, which convert well if you answer honestly</li>
+              <li>Brand searches from buyers who met you at a trade fair</li>
+              <li>English-language searches from buyers outside Gujarat and outside India</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Gujarati audiences</h2>
+            <p>Most Gujarat businesses do not need a fully bilingual website, and building one before you know it earns its keep is money spent twice. The honest split looks like this. If you sell to other businesses, to buyers in Delhi, Mumbai or Bengaluru, or to export markets, English carries almost all of your search traffic and your site should be English-first. If you sell direct to consumers within the state, coaching classes, clinics, retail, real estate, local services, then Gujarati content on your main pages genuinely widens reach, especially for voice searches on mobile.</p>
+            <p>Where we do build bilingual, we keep it structural rather than cosmetic: separate URLs for each language so both versions can rank, correct language tags so Google does not treat them as duplicates, and native-quality copy rather than machine translation, which reads badly and quietly damages trust. Transliterated Gujarati in Roman script is worth including in a few places too, because that is how a lot of people actually type on a phone keyboard.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sector notes: manufacturing, textiles, diamonds, chemicals and exports</h2>
+            <p>Manufacturing and engineering firms need product architecture more than visual polish. One page per product family, with specifications in real text rather than trapped inside a PDF or an image, is what makes a site findable for the long technical searches buyers actually use. Textile businesses in Surat need fast, image-heavy catalogue pages that stay quick on mobile, plus a way to update collections without calling a developer every season. Diamond and jewellery firms need clean photography, credible certification details and a site that feels appropriate to the value of the goods.</p>
+            <p>Chemical and pharma suppliers live or die on documentation: product names with CAS numbers, grades, packaging options, safety documents and compliance details, all crawlable. Export-focused firms need a site that answers an overseas buyer's first five questions before they email, meaning capacity, lead times, minimum order, payment terms and shipping ports, plus an enquiry form that works across time zones. Retail, education, healthcare and real estate businesses sit at the other end and mostly need speed, clarity, local SEO and an easy way to book or enquire.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">How remote delivery works for Gujarat clients</h2>
+            <p>We are three engineers working as a freelance group: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation. We do not have an office in Gujarat and we do not pretend otherwise. Delivery is remote-friendly and has been from the start, which for you mostly means faster replies and lower cost than an agency carrying a rented address in Ahmedabad.</p>
+            <p>A project starts with a call where you describe the business, the buyers, and what you want the site to do. We come back with a page plan and a fixed quote. During the build you get a staging link that updates as work progresses, so feedback arrives in small pieces instead of one large argument at the end. Questions go through WhatsApp or email, whichever you actually check. We work in IST, so a message in the morning gets an answer the same day rather than the next one.</p>
+          </article>
+          <article>
+            <h3>End to end, then five months free</h3>
+            <p>End to end means we do not hand you a folder of files and wish you luck. Planning, design, development, SEO setup, hosting and deployment are all ours. Domain, DNS, SSL, email records, analytics and Search Console get configured and verified before launch.</p>
+            <p>Once hosting goes live, five months of maintenance are included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from ₹2,000 per month if you want us to keep looking after it. Accounts stay in your name throughout, so leaving is always a real option and never a hostage situation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Gujarat projects</h2>
+            <p>Prices are starting figures and the final cost depends on scope, page count, how much content exists and how many integrations are involved. A static website starts from ₹5,000 and suits a small firm that needs a credible presence with four to six pages. A 30-page SEO website taken from design through to deployment starts from ₹10,000, which is the right choice for manufacturers and service firms who want individual pages for each product line and city. AI automation work starts from ₹15,000, ecommerce from ₹25,000, and a custom web app from ₹40,000. Ongoing monthly SEO starts from ₹5,000 per month.</p>
+            <p>On timelines, expect one to two weeks for a static site, three to five weeks for a 30-page SEO build, and five to ten weeks for ecommerce or a custom application. SEO is different in kind: technical fixes show up in weeks, but meaningful ranking movement for competitive Gujarat terms usually takes three to six months of consistent content and link work. Anyone quoting first-page results in thirty days is selling something else. Full figures sit on the <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">A sensible first project if you are not sure where to start</h2>
+            <p>If your current site is old or nonexistent and the budget is cautious, do not start with a rebuild of everything. Start with a small, fast site covering your five most important pages: home, about, two or three core products or services, and contact. Get the Google Business Profile verified and consistent. Then watch Search Console for two months and see which searches actually bring people in. That data is worth more than any assumption about keywords, including ours.</p>
+            <p>From there the expansion is obvious rather than guessed: add pages for the products people already search for, add a city page where the enquiries come from, add a blog only if you have something buyers genuinely want to read. This staged approach usually costs less overall than a large first build, and it avoids the common Gujarat pattern of paying for a forty-page website where thirty-four pages have never had a single visitor. Broader engineering, cloud and automation work for the state lives on our <a href="/it-services/gujarat/">Gujarat IT services page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>Explore city and service pages that are closest to what you need. If your city is not listed yet, the state page still applies and we work with businesses right across Gujarat.</p>
+            <ul class="it-list">
+              <li><a href="/india/gujarat/ahmedabad/">Web development and SEO in Ahmedabad</a></li>
+              <li><a href="/it-services/gujarat/">IT services across Gujarat</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai web development</a></li>
+              <li><a href="/india/rajasthan/jaipur/">Jaipur web development</a></li>
+              <li><a href="/india/maharashtra/">Maharashtra services</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Straight answers on cost, timelines, maintenance and how remote delivery works for Gujarat clients.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us about your Gujarat project</h2>
+          <p>Share what your business makes or does, the cities you sell into, and roughly what you want the site to achieve. You get a page plan and a fixed quote back, with hosting, deployment and five months of maintenance included.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

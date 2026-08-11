@@ -1,8 +1,284 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/privacy-policy/", "Privacy Policy");
+const faqs = [
+  {
+    question: "What personal data do you collect from website visitors?",
+    answer: "If you only read pages, we collect technical data such as your IP address, browser type, device type, referring page and the pages you viewed. If you send an enquiry by email or phone, we also hold the details you choose to share: your name, email address, phone number, company name and a description of the project you want built.",
+  },
+  {
+    question: "Do you sell or rent personal data to anyone?",
+    answer: "No. We do not sell, rent, trade or licence personal data to advertisers, data brokers, lead resellers or any other third party. The only parties who ever touch your data are the service providers we use to run the business, such as hosting, email and analytics, and they process it only to deliver that service to us.",
+  },
+  {
+    question: "How long do you keep enquiry emails and project files?",
+    answer: "Enquiries that never become projects are kept for about twelve months, then deleted. Client project records, contracts and invoices are kept for up to eight years because Indian tax and accounting rules expect us to retain financial records. Source code and project files are kept while we support the site and are removed on request once support ends.",
+  },
+  {
+    question: "How do I ask for a copy of my data or ask you to delete it?",
+    answer: `Email ${siteContact.email} with the subject line "Privacy request" and tell us what you want: a copy of your data, a correction, deletion, or withdrawal of consent. We reply within seven working days and complete most requests within thirty days. We may ask one question to confirm you are the person the data belongs to.`,
+  },
+  {
+    question: "Do you use cookies or tracking on this website?",
+    answer: "We keep tracking minimal. We use privacy-respecting analytics to understand which pages people read and where visitors arrive from, which helps us write better pages. We do not run advertising pixels or retargeting tags. You can block analytics using your browser settings, private browsing, or any content blocker extension you prefer.",
+  },
+  {
+    question: "Is my project idea kept confidential before I hire you?",
+    answer: "Yes. Anything you describe in an enquiry is treated as confidential whether or not you go ahead. We do not publish client work, screenshots, business figures or names without written permission. If you want a signed non-disclosure agreement before sharing details, ask us and we will sign one at no cost.",
+  },
+  {
+    question: "Where is my data stored, and does it leave India?",
+    answer: "Our hosting, email and analytics providers may store data on servers outside India, including in the European Union, Singapore or the United States. That is normal for internet services. We choose providers with published security practices and contractual data protection terms, and we keep the volume of personal data we transfer as small as the work allows.",
+  },
+  {
+    question: "What happens to my data during and after a project?",
+    answer: "During delivery we hold whatever the build needs: domain and hosting logins, content files, and contact details for approvals. We handle projects end to end and include five months of free maintenance after launch, so access continues through that period. After that we hand over credentials, rotate anything we still hold, and delete working copies on request.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Privacy Policy: How We Collect and Protect Your Data",
+  description: "How we collect, use, store and protect personal data sent through website enquiries, which cookies and analytics we use, how long records last, and your rights.",
+  canonicalPath: "/privacy-policy/",
+  h1: "Privacy policy for btechwaletech.in",
+  intro: "This policy explains, in plain language, what personal information we collect when you browse this website or send us an enquiry, why we hold it, how long we keep it, who else can see it, and exactly what to do if you want a copy of it or want it deleted.",
+  breadcrumbs: createBreadcrumbs([{ label: "Privacy policy", href: "/privacy-policy/" }]),
+  keywords: [
+    "privacy policy",
+    "btechwaletech privacy policy",
+    "data protection policy",
+    "personal data collection",
+    "website privacy notice",
+    "cookie policy india",
+    "analytics opt out",
+    "data retention policy",
+    "data deletion request",
+    "right to access data",
+    "right to correction",
+    "withdraw consent",
+    "digital personal data protection act",
+    "indian data protection expectations",
+    "it services privacy policy",
+    "web development agency privacy",
+    "client data confidentiality",
+    "enquiry data handling",
+    "third party processors",
+    "international data transfer",
+    "data breach notification",
+    "children privacy under 18",
+    "security measures website",
+    "freelance developer privacy policy",
+    "seo services data policy",
+    "hosting provider data",
+    "email data storage",
+    "contact form data",
+  ],
+});
 ---
 
-<BaseLayout meta={page}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Legal</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Who we are and what this policy covers</h2>
+            <p>BtechWaleTech is a small freelance IT services group of three engineers based in India: Ankur Kumar, who builds full stack applications; Santosh Sharma, who works on AI, machine learning, AWS and data science; and Vedansh Shrivastava, who runs project management, data science and automation work. We build websites, ecommerce stores, custom web applications, AI automation and SEO programmes for clients in India and abroad. This policy applies to the website btechwaletech.in and to any personal data you send us through the email address or phone number published on it.</p>
+            <p>Because we are a small team rather than a large company, the number of people who can see your information is genuinely small. That is not a marketing line, it is simply how the work is structured. There is no sales floor, no outsourced call centre and no lead pipeline that passes your details around. When you email us, one of the three of us reads it and replies.</p>
+          </article>
+          <article>
+            <h3>What this policy does not cover</h3>
+            <p>This policy covers data we control. It does not cover websites we build for clients once those sites are live and running under the client's own domain and hosting account, because from that point the client decides what their own site collects and publishes. If you are a visitor to a site we built for someone else, that site's own privacy policy applies, not this one.</p>
+            <p>It also does not cover third-party platforms you might use to reach us, such as your own email provider or your phone network. Those services have their own privacy terms and their own logs, and we have no control over either.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="collect-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="collect-heading">What personal data we collect and how we collect it</h2>
+            <p>We collect two kinds of information, and they arrive in two very different ways. The first kind is data you deliberately give us. When you write to us about a project, you typically send a name, an email address, sometimes a phone number, sometimes a company or brand name, and a description of what you want built. Some people attach a requirement document, a design reference, a spreadsheet of products or a list of keywords. All of that is personal or business data and we treat it as yours, not ours. We never ask for identity documents, bank details, card numbers or passwords by email, and you should never send them to us.</p>
+            <p>The second kind is technical data collected automatically as your browser requests pages. That includes your IP address, approximate city or region derived from it, browser and operating system, device type, screen size, the page you arrived from, the pages you opened, and the date and time of each request. Our hosting provider records similar information in server logs as a normal part of serving a website and protecting it from abuse. This data is not tied to your name unless you separately send us an enquiry.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="why-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="why-heading">Why we use your data and the legal basis for it</h2>
+            <p>We use enquiry data to reply to you, to understand the scope of what you want, to prepare a written quote, and to answer follow-up questions. If you hire us, we use the same data to deliver the project end to end: planning, design, development, SEO setup, hosting and deployment, then five months of free maintenance after your site goes live. Maintenance covers content updates, bug fixes, security updates, backups, and uptime and speed checks. We also use your contact and billing details to raise invoices and keep the accounting records Indian tax rules require.</p>
+            <p>The legal basis differs by activity. Replying to an enquiry rests on your consent, given by choosing to contact us, and on the steps needed before entering a contract. Delivering a paid project rests on performance of that contract. Keeping invoices rests on a legal obligation. Basic server logs and aggregate analytics rest on our legitimate interest in keeping the site secure, fast and useful. We do not use your data for automated decision-making or profiling, and we do not build advertising audiences from it.</p>
+          </article>
+          <article>
+            <h3>What we never do with it</h3>
+            <p>We do not add enquiry email addresses to a newsletter without you asking. We do not sell, rent or trade personal data, and we have no arrangement with any lead broker or advertising network. We do not use client project content to train machine learning models. We do not publish client names, screenshots, revenue figures or traffic numbers as testimonials or case studies unless the client has given written permission for that specific use.</p>
+            <p>If you want a signed non-disclosure agreement before sharing sensitive commercial details, ask before you send them. We sign standard mutual NDAs at no charge, and doing it before the details arrive is far cleaner than doing it afterwards.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cookies-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="cookies-heading">Cookies, analytics and how to opt out</h2>
+            <p>This site is built as a set of static pages, so it needs very little from your browser to work. We keep tracking deliberately minimal. We use website analytics to see which pages are read, how visitors found them, and where people leave, because that is how we decide what to write next. We do not run advertising pixels, retargeting tags, social media trackers or cross-site profiling scripts.</p>
+            <p>You have straightforward ways to opt out, and none of them break the site. Turn on the tracking protection built into Firefox, Safari, Brave or Edge. Use a content blocker extension in Chrome. Browse in a private or incognito window so nothing persists after you close it. Enable the "Do Not Track" or "Global Privacy Control" setting in your browser. Clear cookies for this domain at any time from your browser settings. Every page on this site remains fully readable with analytics blocked, because none of the content depends on it.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="processors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="processors-heading">Third-party services that process data for us</h2>
+            <p>Running a website and a small consultancy means using a handful of established service providers. We describe them by category rather than by brand, because providers change over time and a policy that names a specific vendor goes stale quickly. Each one processes data only to deliver its service to us, under its own published security and privacy terms.</p>
+            <ul class="it-list">
+              <li>Hosting and content delivery: serves the pages, keeps access logs, and filters abusive traffic.</li>
+              <li>Email: stores and delivers the messages you send us and the replies we send back.</li>
+              <li>Analytics: records aggregate page views and traffic sources so we can improve the site.</li>
+              <li>Domain registration and DNS: keeps the domain resolving to the right servers.</li>
+              <li>Accounting and payment records: handles invoices and the receipts we are required to keep.</li>
+              <li>Code and file storage: holds project source code and working files during delivery.</li>
+            </ul>
+            <p>For client projects we may also use the hosting, database, email or cloud services the client already pays for, in which case that provider's terms govern the data held there and the client remains in control of the account. We are happy to work entirely inside your own accounts if you prefer that, and many clients do. Our <a href="/pricing/">pricing page</a> explains what hosting setup is included in a build.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="retention-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="retention-heading">How long we keep information</h2>
+            <p>We do not keep data indefinitely just because storage is cheap. Enquiries that do not lead to work are kept for roughly twelve months so we have context if you come back, then deleted. Quotes and proposals follow the same twelve-month cycle. Client contracts, invoices and payment records are kept for up to eight years, because Indian tax and accounting practice expects financial records to be retained and produced if asked. Project source code and working files stay with us while we maintain the site, including the five free maintenance months, and are deleted on request once that support ends.</p>
+            <p>Server access logs are short lived and typically rotate within a few weeks. Analytics data is aggregate and retained at the level our analytics provider sets, usually a rolling window measured in months rather than years. If you ask us to delete something earlier than these periods, we will, unless a specific legal or accounting obligation requires us to keep that one record.</p>
+          </article>
+          <article>
+            <h3>Security measures we actually take</h3>
+            <p>Our site is served over HTTPS so traffic between your browser and the server is encrypted. Accounts we control use strong unique passwords stored in a password manager, with two-factor authentication enabled wherever the provider supports it. Access to client credentials is limited to the engineer doing the work. We prefer temporary or scoped access over permanent admin logins, and we rotate or hand back credentials at the end of an engagement.</p>
+            <p>We keep the software we deploy patched, apply security updates during the maintenance period, and take backups so a site can be restored after a failure. No system is perfectly secure and we will not pretend otherwise, but we do not hold large volumes of sensitive personal data in the first place, which is the most effective protection available.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="rights-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="rights-heading">Your rights and how to exercise them</h2>
+            <p>You can ask us for a copy of the personal data we hold about you, ask us to correct anything inaccurate, ask us to delete it, object to a particular use, ask us to restrict processing while a question is resolved, or withdraw a consent you previously gave. Withdrawing consent does not undo anything done lawfully before you withdrew it, and if you withdraw consent while we are mid-project we may not be able to continue the work.</p>
+            <p>To exercise any of these, email <a href={siteContact.emailHref}>{siteContact.email}</a> with "Privacy request" in the subject line and say plainly what you want. You may also call <a href={siteContact.phoneHref}>{siteContact.phone}</a>, though we will ask for the request in writing so there is a record of it. We acknowledge requests within seven working days and complete them within thirty days. There is no charge. We may ask one verification question so we do not hand your data to someone else pretending to be you. If we cannot fulfil part of a request, we will tell you which part and why.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="transfers-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="transfers-heading">International transfers, children and external links</h2>
+            <p>We are based in India and work with clients in India, the United States, the United Arab Emirates, Australia and elsewhere. The providers we use may store or process data on servers outside India, including in the European Union, Singapore and the United States. That is unavoidable for ordinary internet services. We choose providers that publish their security practices and offer contractual data protection terms, and we keep transferred personal data to the minimum the work requires.</p>
+            <p>We write this policy to meet the general expectations set by Indian data protection law, including the Digital Personal Data Protection Act, alongside common international practice such as the GDPR where a client or visitor is covered by it. We do not claim any certification, audit badge or formal accreditation, because we hold none. What we describe here is what we actually do.</p>
+          </article>
+          <article>
+            <h3>Children and links to other sites</h3>
+            <p>This website and our services are aimed at businesses and adults. We do not knowingly collect personal data from anyone under 18 and we do not market to children. If you believe a minor has sent us personal data, tell us and we will delete it promptly.</p>
+            <p>Some pages link to external websites, tools or documentation. Once you follow such a link you are on someone else's site, governed by their privacy policy and their tracking, not ours. We check links when we publish a page but we cannot control what a third party does later, so it is worth reading the policy of any site where you plan to enter personal details.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="breach-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="breach-heading">Data breaches and changes to this policy</h2>
+            <p>If we discover that personal data we hold has been exposed or accessed without authorisation, we will investigate immediately, close the hole, and tell the people affected directly by email. We will explain what happened, what data was involved, what we have done about it and what you should do, such as changing a password. Where the law requires us to notify a regulator, we will. We will not delay a notification to make the incident look smaller, and we will not describe an incident as routine maintenance.</p>
+            <p>We update this policy when our practices, tools or legal obligations change. The current version always lives at this address, and material changes will be reflected here rather than announced separately. If you are an active client and a change affects how we handle your project data, we will tell you by email. Continuing to use the site after an update means the updated policy applies to you.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="contact-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="contact-heading">Contact for privacy questions and complaints</h2>
+            <p>Privacy questions, data requests and complaints all go to the same place: <a href={siteContact.emailHref}>{siteContact.email}</a>, or call <a href={siteContact.phoneHref}>{siteContact.phone}</a>. There is no separate privacy department to route you through. If you are unhappy with how we handled a request, reply and say so, and one of the three of us will look at it again. You also retain the right to complain to the relevant data protection authority in your country.</p>
+            <p>If you are here to plan a project rather than to file a request, the practical details live elsewhere on the site. Our <a href="/services/">services page</a> lists what we build, and pricing starts from ₹5,000 for a static website, ₹10,000 for a 30-page SEO website taken from design to deployment, ₹15,000 for AI automation, ₹25,000 for ecommerce and ₹40,000 for a custom web application. Monthly SEO starts from ₹5,000 per month and maintenance beyond the five free months is from ₹2,000 per month. Final cost always depends on scope, so send us the details and we will quote properly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>The pages below cover our terms, refunds, services and locations. If a question is about money or scope rather than data, the terms and pricing pages will answer it faster than an email.</p>
+            <ul class="it-list">
+              <li><a href="/terms/">Terms and conditions</a></li>
+              <li><a href="/refund-policy/">Refund policy</a></li>
+              <li><a href="/pricing/">Pricing and starting rates</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/india/">Services in India</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Privacy questions people ask us</h2>
+          <p>Short answers to the questions that come up most often about how we handle information.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Have a privacy question, or a project to discuss?</h2>
+          <p>Write to us either way. Data requests are answered within seven working days, and project enquiries usually get a reply the same day with a clear scope and a written starting price.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

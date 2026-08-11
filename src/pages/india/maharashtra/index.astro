@@ -1,8 +1,269 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { maharashtraCities } from "@data/countries/india/cities/maharashtra";
-const page = indiaRegionPage("maharashtra");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a business in Maharashtra?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web application from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and how much content we write for you."
+  },
+  {
+    question: "How long does a Maharashtra website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website normally takes three to five weeks, depending on how quickly content and photos come back to us. Ecommerce and custom web applications run four to ten weeks. We agree the milestone dates before starting, and slow content approval is the single biggest cause of delay."
+  },
+  {
+    question: "Do you have an office in Mumbai or Pune?",
+    answer: "No. We are a small freelance group of three engineers and we work fully remote. We do not claim an office, branch or address anywhere in Maharashtra. What we do have is a clear delivery process over calls, WhatsApp and email, so a client in Nagpur or Nashik gets the same attention as one in Mumbai."
+  },
+  {
+    question: "Can you rank my site in more than one Maharashtra city?",
+    answer: "Yes, but it needs separate pages. Mumbai, Pune, Nagpur and Nashik behave like different markets in search, so one page trying to cover all of them rarely ranks well anywhere. We build a dedicated page per city you genuinely serve, with real detail about that market, and link them from a clear services structure."
+  },
+  {
+    question: "What is included in the 5 months free maintenance?",
+    answer: "After your hosting goes live you get five months of maintenance at no extra cost. That covers content updates, bug fixes, security updates, backups, plus uptime and speed checks. After those five months, maintenance is from ₹2,000 per month if you want us to keep looking after the site. There is no obligation to continue."
+  },
+  {
+    question: "Do you build websites in Marathi as well as English?",
+    answer: "Yes. Most Maharashtra businesses do well with English as the main language, but Marathi content helps for retail, healthcare, education and local services. We can build a Marathi version of key pages or a full bilingual structure. You supply or approve the Marathi copy, and we handle the page structure, URLs and search settings around it."
+  },
+  {
+    question: "Do you handle hosting and domain setup too?",
+    answer: "Yes. We take the project end to end: planning, design, development, SEO setup, hosting and deployment. If you already own a domain we point it correctly and set up SSL. If not, we help you register one. You keep ownership of the domain, hosting account and code at all times."
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "A short call about what your business does and who buys from you, then whatever material you already have: logo, photos, price lists, brochures, past enquiries. If you have nothing written, we draft the copy and you approve it. Share your idea by email or phone and we will tell you honestly what it will take."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Maharashtra | Website & SEO",
+  description: "Web development company in Maharashtra building fast business websites and SEO for Mumbai, Pune, Nagpur, Nashik and Thane. Static sites from ₹5,000, end to end.",
+  canonicalPath: "/india/maharashtra/",
+  h1: "Website Development and SEO Services Across Maharashtra",
+  intro: "We design, build and rank business websites for companies across Maharashtra, from Mumbai and Pune to Nagpur, Nashik, Thane and Navi Mumbai. Three freelance engineers, remote delivery, and everything handled end to end from planning to hosting and deployment.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Maharashtra", href: "/india/maharashtra/" }]),
+  keywords: [
+    "web development company in Maharashtra",
+    "website development Maharashtra",
+    "SEO services Maharashtra",
+    "website designing company in Maharashtra",
+    "web development Mumbai",
+    "website development Pune",
+    "web design Nagpur",
+    "website design Nashik",
+    "web development Thane",
+    "website company Navi Mumbai",
+    "web design Aurangabad",
+    "SEO company Mumbai",
+    "SEO services Pune",
+    "local SEO Maharashtra",
+    "ecommerce website Maharashtra",
+    "business website Maharashtra",
+    "freelance web developer Maharashtra",
+    "affordable website design Maharashtra",
+    "Marathi website design",
+    "startup website Pune",
+    "manufacturing website Maharashtra",
+    "healthcare website Maharashtra",
+    "education website Maharashtra",
+    "website maintenance Maharashtra",
+    "website redesign Maharashtra",
+    "Google Business Profile Maharashtra",
+    "custom web application Maharashtra",
+    "AI automation Maharashtra"
+  ]
+});
 ---
-<LocationLayout page={page}>{maharashtraCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Maharashtra</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Maharashtra business landscape and who needs a better website</h2>
+            <p>Maharashtra is not one market. It is at least six. Mumbai runs on finance, media, logistics and a dense professional services layer where a company is judged in the first ten seconds of a page load. Pune is software, engineering, automotive components and a very large student and rental economy. Nagpur is trade, distribution, education and healthcare serving all of Vidarbha. Nashik has agriculture, wine, engineering and pharma. Thane and Navi Mumbai carry manufacturing, warehousing and a rapidly growing set of consumer service businesses. Aurangabad, now Chhatrapati Sambhajinagar, sits on auto ancillaries and tourism. A website strategy that works in one of these places will not automatically work in another.</p>
+            <p>The businesses that gain the most from a rebuild are usually the ones already doing well offline. A Thane fabrication unit winning work through references, a Pune consultancy sending PDF profiles over WhatsApp, a Nashik exporter whose site was built in 2016 and never touched again. In every one of those cases the buyer eventually searches the company name, lands on something slow or broken, and quietly reprices the risk. That is the gap a proper website closes, and it usually pays for itself faster than any advertising spend.</p>
+          </article>
+          <article>
+            <h3>Signals it is time to rebuild rather than patch</h3>
+            <p>You do not need a new site every two years. You do need one when the current site actively works against you. The clearest signals are a phone that never rings from the website, a design that breaks on mobile where most Maharashtra traffic now comes from, pages that take more than four seconds to appear on a normal 4G connection, and no ability to edit your own content without calling someone.</p>
+            <p>Add to that: no HTTPS padlock, contact details that are out of date, service pages that are one paragraph long, and a Google search for your own company name that shows a competitor above you. When three or more of those are true, patching costs more over a year than starting clean. We will tell you honestly which case you are in after looking at the site.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Maharashtra business website actually includes</h2>
+            <p>Strip away the decoration and a website that generates enquiries has a short list of working parts. It loads fast on a mid-range Android phone, because that is what most of your visitors use. It says what you do and where you do it above the fold, without a slideshow the visitor has to wait through. It has one clear action per page, usually a call or a form, repeated at a sensible point in the scroll. It has a separate page for each service you sell rather than one page listing everything, because search engines and buyers both want depth on a single topic.</p>
+            <p>Beyond that: proper page titles and descriptions, structured data so Google understands your business type, correct headings, compressed images, an XML sitemap, and analytics that tells you which page produced the enquiry. Our <a href="/services/web-development/">web development service</a> covers all of it as standard rather than as an upsell, and the same build powers whatever SEO work follows.</p>
+          </article>
+          <article>
+            <h3>The content that carries the most weight</h3>
+            <ul class="it-list">
+              <li>A service page per offering, written in plain language with real detail</li>
+              <li>Prices or price ranges, even approximate, since buyers filter on this first</li>
+              <li>Photographs of your actual work, premises, team or products</li>
+              <li>A location or coverage page naming the areas you genuinely serve</li>
+              <li>A short, specific about page with named people rather than stock phrases</li>
+              <li>Contact details in text form, clickable on mobile, on every page</li>
+              <li>An FAQ answering the questions your sales team repeats daily</li>
+            </ul>
+            <p>Most sites fail on the third and fourth items. Real photos from a Nagpur workshop or a Pune office beat any stock image, and a coverage page written for the districts you actually reach earns local visibility that a generic homepage never will.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="localsearch-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="localsearch-heading">How local search works across a state with several distinct city markets</h2>
+            <p>Search results in Maharashtra are city-scoped far more than people expect. Someone in Pune typing "CNC machining service" sees a different result set from someone typing the same words in Nagpur, and the map pack that appears above the normal results is driven almost entirely by proximity, Google Business Profile quality and reviews. This has a direct consequence for site structure: one page that tries to rank for Mumbai, Pune, Nashik and Thane at the same time usually ranks for none of them.</p>
+            <p>The structure that does work is a hub and spoke. A strong service page explaining the offering in general, then one page per city you genuinely operate in, each with content specific to that market rather than the same paragraph with the city name swapped. That means naming real areas, real logistics, real turnaround times. Google is good at spotting templated location pages and treats them as thin content, which is why we cap the number of city pages at the number you can honestly support.</p>
+          </article>
+          <article>
+            <h3>Google Business Profile and the map pack</h3>
+            <p>If you have a physical address or a defined service area in Maharashtra, your Business Profile does more for local enquiries than almost anything on the website. Categories must match what you sell, the address and phone must match the site exactly, and photos need to be added regularly rather than once. Reviews matter, and the honest way to get them is to ask every satisfied customer at the point of delivery.</p>
+            <p>We set the profile up correctly, connect it to the site, keep your name, address and phone consistent, and then leave the review gathering to you, because that part cannot be bought without risk. Our <a href="/services/seo-services/">SEO services</a> page explains the ongoing work in more detail.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language, script and regional considerations</h2>
+            <p>English carries most B2B search in Maharashtra. A procurement manager in Chakan or a CA in Fort searches in English, and an English-first site is almost always the right default. Consumer-facing businesses are a different story. Retail, clinics, coaching classes, home services, real estate and anything selling in Nashik, Nagpur, Kolhapur or the smaller towns will see meaningful Marathi search volume, often typed in Roman script rather than Devanagari.</p>
+            <p>The practical approach is to keep the main site in English, then add Marathi versions of the pages that matter for walk-in or phone enquiries, with clean separate URLs so both versions can rank. Mixing both languages on one page confuses search engines and readers equally. Beyond language there are small regional habits worth respecting: WhatsApp is the default channel for follow-up across the state, GST numbers reassure business buyers, and price transparency wins more enquiries in Nagpur and Nashik than polished design does. We build for those habits rather than against them.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for across Maharashtra</h2>
+            <p>Finance and professional services in Mumbai need credibility above everything: clear people pages, regulatory information, fast load times and forms that do not leak data. Startups in Pune and Mumbai need a site that can change weekly without a developer, plus clean analytics and a landing page structure that supports campaigns. Manufacturing across Thane, Chakan, Aurangabad and Nagpur needs product catalogues, specification sheets, downloadable PDFs and enquiry forms that route to the right person, and often a simple internal dashboard behind the login.</p>
+            <p>Media and creative businesses need speed with heavy imagery, which is a real engineering problem rather than a design choice. Education, from Pune coaching institutes to Nagpur colleges, needs admission enquiry flows, course pages and a calendar that stays current. Healthcare needs appointment enquiry, doctor profiles, careful handling of patient information, and language options. Each of these has a different shape, and we scope them differently rather than pushing everyone through one template.</p>
+          </article>
+          <article>
+            <h3>Where automation pays off</h3>
+            <p>A lot of Maharashtra businesses lose time on repeat manual work that a small script handles better: pulling enquiries into a sheet, sending quote follow-ups, generating invoices from an order form, tagging and routing incoming leads by city or product line.</p>
+            <p>AI automation starts from ₹15,000 and is worth considering only once the website itself is doing its job. We would rather fix the enquiry flow first and automate second. If you want the broader technology picture including cloud, data and support work, see our <a href="/it-services/maharashtra/">IT services hub for Maharashtra</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Maharashtra projects</h2>
+            <p>A static website starts from ₹5,000 and is normally live within one to two weeks. That suits a single-service business, a consultant or a company that mainly needs a credible presence with contact details. A 30-page SEO website taken from design through to deployment starts from ₹10,000 and takes three to five weeks; this is the option most established Maharashtra businesses choose because it gives one page per service and per city. Ecommerce starts from ₹25,000. A custom web application starts from ₹40,000 and runs six to ten weeks depending on how many user roles and workflows are involved.</p>
+            <p>Monthly SEO starts from ₹5,000 per month and should be treated as a six month commitment minimum, because nothing meaningful happens in four weeks. Maintenance after the free period is from ₹2,000 per month. Every figure here is a starting point, and the final cost depends on scope: page count, how much copy we write, how many integrations you need. We quote once, in writing, before work begins. Full details sit on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+          <article>
+            <h3>What moves a quote up or down</h3>
+            <p>Upward: bespoke design work, payment gateways, login areas, multi-language builds, migrating a large amount of old content, and integrations with accounting or CRM tools. Downward: having your content and photos ready, being clear about what you sell, and keeping the page count honest rather than padding it.</p>
+            <p>The most expensive projects we have seen are not the technically complex ones. They are the ones where nobody decided what the site was for until week three. A one-hour conversation at the start usually saves more money than any feature you cut later.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How fully remote delivery works for Maharashtra clients</h2>
+            <p>We are three freelance engineers and we work remotely. There is no Mumbai office, no Pune branch, and we will not pretend otherwise. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects along with data science and automation work. You talk to the person doing the work, not to an account manager relaying messages.</p>
+            <p>In practice a Maharashtra project runs like this. A first call to understand the business and agree scope. A written quote with fixed milestones. A shared document for content, so you can see exactly what is pending on your side. A staging link you can open on your own phone as pages are built, with feedback collected in one round per section rather than scattered across weeks. Then deployment, testing on real devices, and handover with the credentials in your name. Progress updates come over WhatsApp because that is what most clients here actually read.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="endtoend-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="endtoend-heading">End to end delivery with 5 months of maintenance included free</h2>
+            <p>We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. You do not need to hire a separate designer, find a hosting provider, or bring in someone else to configure search settings afterwards. One group, one quote, one point of responsibility if something breaks.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because the first few months are when a site actually gets tested by real traffic, real forms and real edge cases, and leaving a client alone during that period is how sites quietly die. After the five months, maintenance is from ₹2,000 per month if you want it. If you would rather take it in-house or hand it to someone else, the code, hosting account and domain are yours and we document what we built.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>City pages, service pages and the wider technology hub for Maharashtra and India.</p>
+            <ul class="it-list">
+              <li><a href="/india/maharashtra/mumbai/">Web development and SEO in Mumbai</a></li>
+              <li><a href="/india/maharashtra/pune/">Web development and SEO in Pune</a></li>
+              <li><a href="/it-services/maharashtra/">IT services in Maharashtra</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Common questions from businesses in Mumbai, Pune, Nagpur, Nashik, Thane and across Maharashtra.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us about your Maharashtra project</h2>
+          <p>Share what your business does and what the website needs to achieve. We will give you an honest scope, a starting price and a realistic timeline, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,6 +1,272 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("kerala", "kochi");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a business in Kochi?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application starts from ₹40,000. AI automation starts from ₹15,000. The final cost depends on scope: page count, custom features, payment or booking integrations, and how much content you already have ready.",
+  },
+  {
+    question: "How long does website development take?",
+    answer: "A small static site is usually live in one to two weeks once content and images are with us. A 30-page SEO website normally takes three to five weeks. Ecommerce and custom web apps run four to eight weeks depending on catalogue size and integrations. The slowest part is almost always content approval, so early feedback shortens the timeline more than anything else.",
+  },
+  {
+    question: "Do you have an office in Kochi?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses in Kochi, across Kerala and outside India. That keeps our pricing lower than an agency with a Kakkanad or Marine Drive office. You get direct access to the people writing the code, over calls, WhatsApp and email, without an account manager in between.",
+  },
+  {
+    question: "What is included in the 5 months of free maintenance?",
+    answer: "After your site goes live you get five months of maintenance at no extra charge: content and text updates, bug fixes, security and plugin updates, regular backups, plus uptime and page speed checks. After that period maintenance is from ₹2,000 per month. If you would rather manage it yourself after five months, that is fine too.",
+  },
+  {
+    question: "Can you rank a Kochi business for local searches?",
+    answer: "We can build the foundation properly: a correctly set up Google Business Profile, location and service pages that match how people actually search, clean technical SEO, fast loading, and consistent business details across listings. Rankings depend on competition and how long the site has existed. We do not promise position one, and anyone who does is guessing.",
+  },
+  {
+    question: "Do you redesign existing websites or only build new ones?",
+    answer: "Both. Many Kochi businesses already have a site that loads slowly, looks dated on phones, or was built on a platform nobody can edit any more. We audit what exists, keep the pages that already bring traffic, rebuild the structure and design, and migrate content with redirects in place so existing search rankings are not lost.",
+  },
+  {
+    question: "Who will actually work on my project?",
+    answer: "The same three engineers throughout. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data work, and Vedansh Shrivastava manages the project, automation and delivery timelines. There is no junior handover and no outsourcing. You speak to the person building your site.",
+  },
+  {
+    question: "How do we get started?",
+    answer: "Email or call us with a short description of your business, roughly how many pages you need, and any site you already have. We reply with a scope, a fixed starting price and a timeline, usually within a day. Once you approve, we begin with structure and content planning before any design work starts.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Kochi, Kerala",
+  description: "Web development company in Kochi building fast business websites, ecommerce and local SEO for Kerala businesses. From ₹5,000, end to end with 5 months free maintenance.",
+  canonicalPath: "/india/kerala/kochi/",
+  h1: "Website Design, Development and SEO for Businesses in Kochi",
+  intro: "We work with businesses in Kochi to build websites that load fast, read clearly on a phone and show up in local search. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Kerala", href: "/india/kerala/" },
+    { label: "Kochi", href: "/india/kerala/kochi/" },
+  ]),
+  keywords: [
+    "web development company in Kochi",
+    "website designer Kochi",
+    "SEO services Kochi",
+    "website development cost in Kochi",
+    "website design Kochi Kerala",
+    "web developer Kochi",
+    "ecommerce website development Kochi",
+    "static website design Kochi",
+    "business website Kochi",
+    "local SEO Kochi",
+    "Google Business Profile Kochi",
+    "website redesign Kochi",
+    "web design Infopark Kakkanad",
+    "website company Kakkanad",
+    "website designer Edappally",
+    "web design Marine Drive Kochi",
+    "website for tourism business Kochi",
+    "logistics website development Kochi",
+    "healthcare website design Kochi",
+    "website maintenance Kochi",
+    "affordable website Kochi",
+    "freelance web developer Kochi",
+    "Kerala web development",
+    "SEO company Kerala",
+    "responsive website design Kochi",
+    "website hosting and deployment Kochi",
+    "IT services Kochi",
+    "NRI services website Kochi",
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Kochi</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What the Kochi market actually looks like online</h2>
+            <p>Kochi is one of the few Indian cities where a small trading firm, a software product team at Infopark and a homestay operator in Fort Kochi are all competing for attention in the same search results page. The buyer behaviour is unusual too. A large share of enquiries come from people who are not physically in the city: NRI families in the Gulf arranging property work, travel agents booking backwater trips from Europe, importers checking a freight forwarder before sending a container. For those buyers the website is not a brochure. It is the only evidence they have that the business is real.</p>
+            <p>That gap is where most local sites fail. We regularly look at Kochi business websites that were built years ago, load in six or seven seconds on a mobile connection, hide the phone number three scrolls down, and have never been claimed on Google Business Profile. The business is doing fine on referrals, so nobody notices the site is losing every visitor who arrived through search. A rebuild is usually not about looking prettier. It is about the site finally doing the job it was paid for.</p>
+          </article>
+          <article>
+            <h3>The problems we are asked to fix most often</h3>
+            <p>The complaints repeat with surprising consistency across Kakkanad startups, Edappally retailers and Marine Drive service firms. The pattern is nearly always structural rather than cosmetic, which is why a fresh coat of design on the same broken foundation rarely changes the numbers.</p>
+            <ul class="it-list">
+              <li>The site loads slowly on 4G, especially on older Android phones</li>
+              <li>Nobody in the company can edit a price or add a page without paying someone</li>
+              <li>There is one long homepage and no separate page for each service</li>
+              <li>The business does not appear in the map results for its own area</li>
+              <li>Enquiry forms exist but the submissions never reached anyone's inbox</li>
+              <li>WhatsApp is the main channel yet there is no click-to-chat anywhere</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Kochi business</h2>
+            <p>There is no single right build. A five-page site for a chartered accountant and a 400-product spice store need completely different engineering, and paying for the wrong one is how budgets get wasted. A static website, starting from ₹5,000, suits a business whose content barely changes: a consultancy, a clinic, a small manufacturer. It is fast, cheap to host, hard to break, and perfectly adequate for a company that mainly needs to be found and contacted. A dynamic site makes sense when you will be publishing regularly, running a blog for search traffic, or listing changing inventory such as tour packages or vehicles.</p>
+            <p>A 30-page SEO website handled design to deployment starts from ₹10,000 and is the most common choice for service businesses that want individual pages for each service and each area they serve. Ecommerce starts from ₹25,000 and covers catalogue, cart, payment gateway, shipping rules and order handling. A custom web application, starting from ₹40,000, is for the cases where an off-the-shelf platform genuinely does not fit: a booking engine, a logistics dashboard, a customer portal. Our <a href="/services/web-development/">web development services</a> page explains what each of these includes in more detail.</p>
+          </article>
+          <article>
+            <h3>Redesigns and migrations</h3>
+            <p>Redesign work needs more care than a new build, because you can lose search rankings in an afternoon. Before touching anything we record the existing pages, their traffic and their URLs. Pages that already earn visits keep their address or get a permanent redirect to the new equivalent. Content worth keeping is carried across rather than rewritten for the sake of it. Then the structure is rebuilt: proper headings, a clear navigation, one page per intent, images compressed and served in modern formats.</p>
+            <p>We also handle the awkward cases, such as a site stuck on a platform whose licence expired, or a page builder so heavy that no amount of tuning makes it fast. In those situations rebuilding on clean code is cheaper over two years than maintaining the old thing. We will tell you honestly which of the two applies to your site after looking at it, even when the answer is that your current site is fine and your money is better spent on SEO.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Kochi business website should include</h2>
+            <p>Most of what makes a local site work is unglamorous. It is having the phone number visible without scrolling, a WhatsApp link that opens the app on a phone, and a location statement that a visitor from Sharjah or Bengaluru can trust. Because so many enquiries to Kochi businesses arrive from a different time zone, a clear contact block matters more here than in a purely walk-in market. So does stating your service area plainly: which parts of Ernakulam district you cover, whether you travel to Aluva or Tripunithura, whether you handle remote clients at all.</p>
+            <p>Beyond that, the essentials are the same ones search engines and buyers both reward. Separate pages for each service, written for a person rather than a keyword tool. Real photographs of your work, your team and your premises instead of stock images that appear on a hundred other sites. Prices or at least price ranges, since hiding them costs you more enquiries than it protects. Fast loading under two to three seconds on mobile. Structured data so your business details are machine-readable. And a layout that works on a 360-pixel-wide phone screen, because that is what the majority of your visitors will use.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Kochi searches</h2>
+            <p>Local search in Kochi splits into two competitions. The first is the map pack, the three business listings that appear with a map above the normal results. Winning a place there depends almost entirely on your Google Business Profile: the correct primary category, a verified address or service area, consistent name and phone details everywhere they appear online, real photographs added regularly, and a steady flow of genuine reviews. We set the profile up properly, connect it to the site, and show you how to keep posting to it. We do not buy reviews and we would advise you not to either, because removals hurt more than the reviews ever helped.</p>
+            <p>The second competition is the ordinary organic results, and that is won on page structure and content. Someone searching "interior designer Kakkanad" and someone searching "office interior cost Kochi" want different pages, and a single homepage cannot satisfy both. So we build a page per service, and where volume justifies it, area-level pages for the neighbourhoods you actually serve. Each one gets its own title, its own description and genuinely different content, because near-identical pages spun for every locality get filtered out rather than ranked. Our <a href="/services/seo-services/">SEO services</a> page covers the ongoing work, which starts from ₹5,000 per month.</p>
+          </article>
+          <article>
+            <h3>Keywords worth targeting locally</h3>
+            <p>Broad terms like "web design Kerala" attract volume and very few buyers. The searches that convert are narrower and often carry an area, a price or a qualifier attached to them. We build the keyword map from your actual services first, then layer the local variants on top, rather than guessing at a list and hoping.</p>
+            <ul class="it-list">
+              <li>Service plus area, for example a trade name followed by Kakkanad, Edappally or Fort Kochi</li>
+              <li>Cost and price queries, which signal a buyer close to deciding</li>
+              <li>"Near me" searches, which depend on your Business Profile more than your site</li>
+              <li>Comparison and "best" queries, answered with an honest, specific page</li>
+              <li>Malayalam and English mixed phrasing, which is common in voice search</li>
+              <li>NRI-oriented phrasing such as remote or online service enquiries</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End to end delivery, and five months of maintenance included</h2>
+            <p>We handle projects end to end. That means planning and page structure, design, development, SEO setup, hosting and deployment, all from the same team, so you are not coordinating between a designer, a developer and a hosting vendor who each blame the others when something breaks. Domain and hosting configuration, SSL, email routing, analytics, Search Console and sitemap submission are part of the job rather than extras quoted later.</p>
+            <p>Once the site is live, five months of maintenance are included free. That covers content and text updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because the first few months after launch are when problems surface: a form that misbehaves on one browser, a plugin update that breaks a layout, a page that needs rewording after real enquiries come in. After those five months, maintenance is from ₹2,000 per month if you want us to keep looking after it. Full figures are on the <a href="/pricing/">pricing page</a>, and every price here is a starting point, with the final cost depending on scope.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with in and around Kochi</h2>
+            <p>Kochi's economy gives each sector a different web problem. IT and product companies around Infopark and Kakkanad usually need a credible site for hiring and enterprise buyers, which means clear case pages, a careers section and technical writing that a CTO will not dismiss. Tourism operators, from houseboat agencies to Fort Kochi homestays, live and die by speed and imagery: their traffic arrives on mobile from abroad, often on poor connections, and every extra second costs bookings. Enquiry forms need to work in multiple currencies of thinking, with dates, group sizes and clear cancellation terms.</p>
+            <p>Logistics and freight firms serving the port need something different again: service pages that spell out routes, customs handling and documentation, plus a tracking or enquiry flow that reduces phone calls. Clinics and healthcare providers need appointment enquiry, doctor profiles, and careful, accurate copy. And NRI-facing services, property management, legal documentation, education consultancy, need trust signals above all: named people, verifiable registration details, transparent process and pricing, and a contact route that works across time zones. If your need runs wider than websites and SEO, our broader <a href="/it-services/kerala/kochi/">IT services in Kochi</a> page covers software, cloud, AI automation and support work.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with a remote team actually goes</h2>
+            <p>We are a freelance group of three engineers and we do not keep an office in Kochi. We say that plainly because the alternative, pretending to a local address, is the kind of thing that eventually embarrasses everyone. Remote delivery is how the entire industry works now, and for you it means the money goes into the build instead of into rent. Communication happens over WhatsApp for quick things, email for anything that should be written down, and scheduled calls for reviews. You get a staging link early and watch the site take shape rather than waiting for one dramatic reveal at the end.</p>
+            <p>The team is small on purpose. Ankur Kumar builds the front and back end, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. You talk to the people writing your code. Content is the one thing we need from you: text, photographs, logos and any legal details. Where you do not have content, we draft it and you approve, which adds a little time but avoids a site that sounds like nobody in particular wrote it. Read more <a href="/about/">about how we work</a> if you want the longer version.</p>
+          </article>
+          <article>
+            <h3>Timelines you can plan around</h3>
+            <p>A static site is normally live within one to two weeks of receiving content. A 30-page SEO website takes three to five weeks. Ecommerce and custom applications run four to eight weeks depending on catalogue size and how many third-party systems have to be connected. SEO is different in nature: technical fixes and Business Profile work show effects within weeks, but ranking movement on competitive Kochi terms is a three to six month exercise, and anyone quoting faster is selling something. We give you the schedule before starting and flag slippage as it happens rather than at the deadline.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Getting started</h2>
+            <p>Send us a short message describing your business, roughly how many pages you think you need, and a link to your current site if you have one. It does not need to be a formal brief; a paragraph is enough to start a useful conversation. We look at what you have, ask a few questions, and come back with a proposed page structure, a fixed starting price and a delivery timeline, usually within a working day. If we think you need less than you asked for, we will say so. Serving businesses across Kerala and the rest of <a href="/india/">India</a>, we would rather do the right small project than an oversized wrong one.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>More of our service, location and pricing pages, in case you are comparing options or work across more than one city.</p>
+            <ul class="it-list">
+              <li><a href="/india/kerala/">Web development and SEO in Kerala</a></li>
+              <li><a href="/it-services/kerala/kochi/">IT services in Kochi</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/india/tamil-nadu/chennai/">Chennai</a></li>
+              <li><a href="/india/telangana/hyderabad/">Hyderabad</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions we get from Kochi businesses</h2>
+          <p>Costs, timelines and what happens after launch.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build a website that works in Kochi search</h2>
+          <p>Static sites from ₹5,000, a 30-page SEO website from ₹10,000, ecommerce from ₹25,000, and monthly SEO from ₹5,000. Handled end to end with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

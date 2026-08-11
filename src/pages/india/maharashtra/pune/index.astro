@@ -1,6 +1,263 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("maharashtra", "pune");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does website development cost in Pune?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application starts from ₹40,000. AI automation work starts from ₹15,000. The final cost depends on scope: page count, integrations, content readiness and how much design work you want.",
+  },
+  {
+    question: "How long does a Pune website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO site takes roughly three to five weeks depending on how quickly content and images arrive. Ecommerce and custom applications run six to ten weeks. We give you a written schedule before the first line of code, and delays are almost always content delays, not build delays.",
+  },
+  {
+    question: "Do you have an office in Pune?",
+    answer: "No. We are a freelance group of three engineers and we work remotely with businesses in Pune. That means no showroom visit and no travel cost added to your quote. Calls, screen shares and messages cover everything, and clients in Hinjewadi, Baner and Pimpri-Chinchwad have run entire projects with us this way without a single in-person meeting.",
+  },
+  {
+    question: "Is maintenance really free for five months?",
+    answer: "Yes. Once your hosting goes live, five months of maintenance are included at no extra charge. That covers content updates, bug fixes, security patches, backups, and uptime and speed checks. After the five months, maintenance is available from ₹2,000 per month. You are never locked in, and you keep full ownership of the code and hosting accounts.",
+  },
+  {
+    question: "How long does SEO take to show results in Pune?",
+    answer: "Local map results for area-level searches often move within six to ten weeks if your Google Business Profile is properly set up. Competitive city-wide terms such as web development company in Pune take four to eight months of steady work. Anyone promising page one in thirty days is selling you something that does not exist.",
+  },
+  {
+    question: "Can you redesign an existing website instead of starting over?",
+    answer: "Often yes, and it is usually cheaper. We audit the current site first, check the platform, page speed, mobile behaviour and existing search rankings, then decide whether a redesign on the same foundation is enough. If the site already ranks for useful terms we protect those URLs carefully so a redesign does not wipe out traffic you already earned.",
+  },
+  {
+    question: "Do you handle hosting and domain setup as well?",
+    answer: "Yes. Delivery is end to end: planning, design, development, SEO setup, hosting and deployment. If you already own a domain we point it correctly. If not, we help you buy one in your own name. Accounts stay registered to you so you are never dependent on us to move, renew or transfer anything later.",
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "A short description of your business, the pages you think you need, and any existing logo, photos or brochure content. That is enough for a first call. We turn it into a page plan, a keyword list and a fixed quote. Nothing is billed until you approve the plan and the price in writing.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Pune | Website Design and SEO",
+  description: "Website design, web development and SEO services for businesses in Pune. Static sites from ₹5,000, 30-page SEO sites from ₹10,000, with 5 months free maintenance.",
+  canonicalPath: "/india/maharashtra/pune/",
+  h1: "Website Design, Development and SEO for Businesses in Pune",
+  intro: "We are a small freelance engineering group working remotely with businesses across Pune, from Hinjewadi IT parks to shops and clinics in Baner and Kharadi. We build websites and run SEO end to end, then maintain the result free for five months after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Maharashtra", href: "/india/maharashtra/" },
+    { label: "Pune", href: "/india/maharashtra/pune/" },
+  ]),
+  keywords: [
+    "web development company in Pune",
+    "website designer Pune",
+    "SEO services Pune",
+    "website development cost in Pune",
+    "website design company Pune",
+    "web developer in Pune",
+    "ecommerce website development Pune",
+    "local SEO Pune",
+    "website design Hinjewadi",
+    "web development Kharadi",
+    "website designer Baner",
+    "SEO company Viman Nagar",
+    "web design Koregaon Park",
+    "website development Pimpri Chinchwad",
+    "affordable website design Pune",
+    "static website design Pune",
+    "custom web application Pune",
+    "Google Business Profile Pune",
+    "small business website Pune",
+    "startup website design Pune",
+    "manufacturing website design Pune",
+    "education website development Pune",
+    "website redesign Pune",
+    "website maintenance Pune",
+    "monthly SEO packages Pune",
+    "freelance web developer Pune",
+    "Maharashtra web development",
+    "IT services Pune",
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Pune</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Pune businesses actually struggle with online</h2>
+            <p>Pune is not a single market. A software services firm in Hinjewadi competes for attention against companies with in-house marketing teams. A machining unit near Chakan sells to procurement managers who search on desktop with very specific part terms. A coaching institute in Karve Nagar is competing on parent trust and walking distance. These are different problems and they need different websites, yet most of the sites we audit here were built from the same template with the same stock photos and the same vague paragraph about quality and commitment.</p>
+            <p>The second recurring problem is abandonment. A website gets built, the developer disappears, and two years later the phone number on the contact page belongs to a staff member who left. Nobody knows the hosting login. The SSL certificate expired and Chrome now shows a warning to every visitor. This is common enough in Pune that we treat handover and ownership as part of the build rather than an afterthought.</p>
+          </article>
+          <article>
+            <h3>Where the traffic actually comes from</h3>
+            <p>For most local businesses the honest split looks like this: a chunk of visitors arrive from Google Maps after searching something like web designer near me or CA in Kothrud, another chunk arrive from direct search on the business name, and a smaller but higher-intent group arrive from service pages that answer a specific question. Social media rarely drives serious enquiries for B2B work in Pune.</p>
+            <p>That shapes what we build. Map presence and a fast mobile site matter more than a clever animation. If your Google Business Profile is thin and your site takes eight seconds to load on a patchy 4G connection in Pimpri-Chinchwad, no amount of design polish fixes the leak.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Pune business</h2>
+            <p>There are four sensible shapes a project takes and picking the right one saves you the most money of any decision in the process. A <strong>static website</strong> suits a business with stable information: services, credentials, contact details, a few case examples. It loads almost instantly, costs almost nothing to host, and starts from ₹5,000. A <strong>dynamic or content-managed site</strong> makes sense once someone on your team needs to publish updates weekly without calling a developer, or when you want a blog feeding your SEO.</p>
+            <p>A <strong>redesign</strong> is the right call when the business is fine but the site is dated or slow. We keep the URLs that already earn search traffic, rebuild the front end, and usually cut load time by more than half. An <strong>ecommerce build</strong> starts from ₹25,000 and covers catalogue, cart, payment gateway and order flow. Beyond that, a <strong>custom web application</strong> from ₹40,000 covers dashboards, booking systems, member portals and internal tools. Our full approach to each is on the <a href="/services/web-development/">web development services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Pune business website should include</h2>
+            <p>Not decoration. Working parts. After building sites for service businesses, manufacturers and institutes, the same short list keeps proving itself, and anything beyond it is usually optional.</p>
+            <ul class="it-list">
+              <li>A homepage that states what you do and where you do it within the first screen, no scrolling required</li>
+              <li>One dedicated page per service, because a single combined services page cannot rank for five different searches</li>
+              <li>Area or locality pages only where you genuinely serve that area, written with real detail rather than a find-and-replace of the city name</li>
+              <li>A phone number that is tappable on mobile and a form that actually delivers to an inbox someone checks</li>
+              <li>Real photographs of your team, workshop, office or classroom, which outperform stock imagery on every enquiry metric we have seen</li>
+              <li>Fast loading on a mid-range Android phone over mobile data, not just on your office fibre connection</li>
+              <li>Schema markup, correct meta titles and a clean sitemap so Google understands the site without guessing</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Content is the part people underestimate</h3>
+            <p>The build is rarely what delays a Pune project. Content is. Clients tell us they will send product descriptions by Friday and it arrives three weeks later, half of it copied from a competitor. We plan around that now: we draft the structure first, write starter copy for every page, and send you specific questions instead of asking you to write.</p>
+            <p>Where you have genuine technical detail, tolerances, syllabi, certifications, process steps, use it. That specificity is what makes a page rank against generic competitors, and it is the one thing a template site can never fake.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Pune searches</h2>
+            <p>Local search in Pune has two separate battlegrounds and they need separate work. The first is the map pack, the three business listings that appear above the ordinary results. That is driven by your Google Business Profile: correct category, complete service list, real photos, consistent name and phone number across directories, and a steady trickle of genuine reviews. Proximity matters too, which is why a Kharadi business shows strongly for searches made in Kharadi and weakly for the same search made in Warje. You cannot fake distance, so we target the areas you can realistically serve.</p>
+            <p>The second battleground is ordinary organic results, where structure and content decide the outcome. Here we build service pages around real search intent, add area-level long-tail terms such as website designer in Baner or SEO agency near Viman Nagar where they fit naturally, and fix the technical basics: page speed, mobile layout, internal linking, indexation. Monthly SEO starts from ₹5,000 per month and the detail is on our <a href="/services/seo-services/">SEO services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Pune</h2>
+            <p>Pune's economy gives us four recurring types of project. <strong>IT and software firms</strong> around Hinjewadi and Kharadi usually need a credible services site that survives scrutiny from an overseas prospect: clear capability pages, case detail, no broken English, fast load from outside India. <strong>Automotive and engineering manufacturers</strong> in and around Pimpri-Chinchwad and Chakan need product catalogues, specification tables, downloadable datasheets and enquiry routing, because their buyers compare on detail rather than design.</p>
+            <p><strong>Education</strong> is its own category, from coaching classes to training institutes near Deccan and Karve Road. These sites live or die on course pages, batch schedules, faculty credibility and a fast enquiry form, since a parent comparing three institutes will call whoever answers first. <strong>Startups</strong>, often around Koregaon Park and Baner, need something different again: a landing page that can change weekly, analytics wired in from day one, and a build that will not need throwing away when the product pivots. If your requirement runs wider than a website, our broader <a href="/it-services/maharashtra/pune/">IT services for Pune</a> page covers cloud, automation and data work.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End to end delivery, timelines and prices</h2>
+            <p>We handle projects end to end. That means planning, design, development, SEO setup, hosting and deployment come from the same three people, so there is no gap between the designer who left and the developer who never got the files. After hosting goes live, five months of maintenance are included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is available from ₹2,000 per month, and you are free to walk away or hand the site to anyone else.</p>
+            <p>Starting prices are simple. A static website starts from ₹5,000. A 30-page SEO website taken from design through to deployment starts from ₹10,000. AI automation work starts from ₹15,000. Ecommerce starts from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, and we would rather quote you accurately once than quote low and revise upward halfway through. Full detail sits on the <a href="/pricing/">pricing</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working remotely with us actually goes</h2>
+            <p>We do not have a Pune office and we do not pretend otherwise. What replaces it is a routine that clients here have found perfectly workable. You get one named point of contact rather than a rotating support queue. We run a short kickoff call, share the page plan and the schedule in writing, then send a working preview link early so you are reviewing a real site rather than imagining one from a flat image.</p>
+            <p>Updates go out on WhatsApp or email in whichever you prefer, and calls happen during Indian business hours because all three of us work on IST. Reviews happen on the live preview, so feedback is specific and changes land the same day where they are small. When the site launches, we hand over every login, document what runs where, and stay on for the five free maintenance months so the handover is not a cliff edge.</p>
+          </article>
+          <article>
+            <h3>Who works on your project</h3>
+            <p>Three engineers, and you will know which one is doing what. Ankur Kumar handles full stack development. Santosh Sharma covers AI, machine learning, AWS and data science work. Vedansh Shrivastava manages projects along with data science and automation. There is no account manager layer between you and the people writing the code.</p>
+            <p>That size is deliberate. It keeps our prices low and our communication direct, and it means we take on projects we can genuinely finish rather than everything that walks through the door. If a job is outside what the three of us do well, we say so.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Getting started</h2>
+            <p>Send an email or call and describe the business in a few lines: what you sell, who buys it, which parts of Pune you serve, and whether a site already exists. If one does, share the link and we will audit it before we talk, so the first conversation is about specifics rather than generalities. From there we produce a page plan, a keyword list, a timeline and a fixed quote, usually within two working days.</p>
+            <p>Nothing is billed until you approve that plan in writing. If you are still comparing options, look at how we work across <a href="/india/maharashtra/">Maharashtra</a> and the rest of <a href="/india/">India</a> first, or read the <a href="/services/">services</a> overview. We would rather you arrive with a clear idea of scope than sign quickly and renegotiate later.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>Other locations and services you may want to look at next.</p>
+            <ul class="it-list">
+              <li><a href="/it-services/maharashtra/pune/">IT services in Pune</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Web development and SEO in Mumbai</a></li>
+              <li><a href="/india/maharashtra/">Maharashtra web development and SEO</a></li>
+              <li><a href="/it-services/maharashtra/">IT services across Maharashtra</a></li>
+              <li><a href="/india/karnataka/bangalore/">Web development in Bangalore</a></li>
+              <li><a href="/india/gujarat/ahmedabad/">Web development in Ahmedabad</a></li>
+              <li><a href="/india/telangana/hyderabad/">Web development in Hyderabad</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Straight answers to what Pune clients ask before starting a project.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Start your Pune website or SEO project</h2>
+          <p>Tell us what your business does and where in Pune your customers are. We will send back a page plan, a timeline and a fixed quote, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

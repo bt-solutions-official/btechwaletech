@@ -1,8 +1,250 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { haryanaCities } from "@data/countries/india/cities/haryana";
-const page = indiaRegionPage("haryana");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a Haryana business?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web application from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope: page count, integrations, content volume and how much design work you want."
+  },
+  {
+    question: "How long does a Haryana website project take?",
+    answer: "A small static site is usually ready in one to two weeks. A 30-page SEO website takes three to five weeks depending on how quickly content and product details arrive from your side. Ecommerce and custom applications run six to twelve weeks. The single biggest delay on every project is waiting for photos, price lists and approvals, so we agree a content schedule before we start."
+  },
+  {
+    question: "Do you have an office in Gurugram or Faridabad?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses across Haryana. We do not claim a local office anywhere. In practice this changes very little: calls happen on phone or video, files move over email and shared drives, and you deal directly with the engineer building your site rather than an account manager relaying messages."
+  },
+  {
+    question: "What is included in the 5 months of free maintenance?",
+    answer: "Once your site is live, five months of maintenance are included at no cost. That covers content updates, bug fixes, security and plugin updates, backups, plus uptime and page speed checks. After those five months, ongoing maintenance is from ₹2,000 per month. There is no obligation to continue, and your site and hosting remain yours either way."
+  },
+  {
+    question: "Can you rank a website for searches in a specific Haryana city?",
+    answer: "Yes, and it is usually easier than ranking statewide. Searches like a service plus Panipat or a service plus Karnal have far less competition than Gurugram terms. We build a dedicated page for each city you genuinely serve, keep the name, address and phone details consistent everywhere, and back it with a Google Business Profile so your listing can show in the local map results."
+  },
+  {
+    question: "Do you build websites in Hindi as well as English?",
+    answer: "Yes. Many Haryana businesses sell to customers who read Hindi more comfortably than English, particularly outside the NCR belt. We can build a bilingual site, or keep the interface in English while writing product and service descriptions in Hindi. We also keep phone numbers tappable and WhatsApp reachable, since a large share of enquiries arrive that way rather than by form."
+  },
+  {
+    question: "Who actually does the work on my project?",
+    answer: "Three engineers. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects along with data science and automation work. Every project runs end to end through us: planning, design, development, SEO setup, hosting and deployment. Nothing is passed to an unnamed subcontractor."
+  },
+  {
+    question: "Can you take over a website someone else built?",
+    answer: "Usually yes. Send us the hosting login and whatever access you have, and we will audit what is there first. Sometimes the honest answer is that repairing an old build costs more than rebuilding it, and we will tell you that rather than bill for patchwork. If the existing site is sound, we can improve speed, fix SEO gaps and take over maintenance."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Haryana | Website and SEO",
+  description: "Website development and SEO services for businesses across Haryana, from Gurugram and Faridabad to Panipat, Karnal and Hisar. End-to-end delivery from ₹5,000.",
+  canonicalPath: "/india/haryana/",
+  h1: "Website Design, Development and SEO Services Across Haryana",
+  intro: "We build and rank websites for businesses across Haryana, from the Gurugram corporate belt to manufacturing units in Panipat and Sonipat. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Haryana", href: "/india/haryana/" }]),
+  keywords: [
+    "web development company in Haryana",
+    "website development Haryana",
+    "website design Haryana",
+    "SEO services Haryana",
+    "SEO company Haryana",
+    "web designer Haryana",
+    "website developer Gurugram",
+    "web development Gurgaon",
+    "SEO services Gurgaon",
+    "website design Faridabad",
+    "web development Faridabad",
+    "website design Panipat",
+    "web development Ambala",
+    "website developer Sonipat",
+    "SEO services Karnal",
+    "website design Hisar",
+    "web development Rohtak",
+    "ecommerce website Haryana",
+    "manufacturing website design Haryana",
+    "textile company website Panipat",
+    "logistics website development Haryana",
+    "school website design Haryana",
+    "local SEO Haryana",
+    "Google Business Profile Haryana",
+    "affordable website design Haryana",
+    "freelance web developer Haryana",
+    "website maintenance Haryana",
+    "IT services Haryana",
+    "NCR web development company",
+    "Hindi website design Haryana"
+  ],
+});
 ---
-<LocationLayout page={page}>{haryanaCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Haryana</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Haryana business landscape, and who needs a better website</h2>
+            <p>Haryana is not one market. It is several, and they behave differently online. Gurugram runs on corporate services, startups, real estate and consultancies where buyers compare three or four websites before they call anyone. Faridabad and Sonipat carry a dense band of manufacturing and engineering units. Panipat is textiles and home furnishings, selling to buyers who are often sitting in another state or another country. Ambala has scientific and surgical instrument makers with genuine export reach. Karnal, Hisar and Rohtak mix agriculture, education, healthcare and retail serving their own districts.</p>
+            <p>The businesses that gain most from a proper website are the ones whose customers already search but cannot find them. A Panipat exporter with no product catalogue online loses enquiries to competitors who published one. A Rohtak coaching institute with only a Facebook page cannot be compared against by parents doing research at 10pm. If your revenue depends on someone deciding you are credible before they call, the website is doing that job whether you built it well or not.</p>
+          </article>
+          <article>
+            <h3>Where a weak site quietly costs money</h3>
+            <p>Most sites we are asked to fix are not broken in obvious ways. They load, they have pages, they look acceptable on a laptop. The losses come from smaller things: a phone number written as an image so nobody can tap it, a contact form that mails to an inbox nobody checks, product pages that never name the product in a way anyone would search for, or a five second load time on a mobile connection outside the city.</p>
+            <p>Fixing those is cheaper than a rebuild and often produces the fastest gain. We audit before we quote, so if the honest answer is that your existing site needs three days of repair rather than a new build, that is what we will tell you. Our <a href="/services/web-development/">web development service page</a> explains what a full build covers if a rebuild really is the right call.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Haryana business website actually includes</h2>
+            <p>Start with the practical parts. A homepage that says what you make or do within the first screen, without a slideshow of stock photography. Individual pages for each service or product line, because a single page listing eleven services will never rank for any of them. Real photographs of your unit, your team or your work, which matter enormously for manufacturing and trade buyers deciding whether you are a genuine operation. Clear contact routes: a tappable phone number in the header, a WhatsApp link, an email address written as text, and a form that actually delivers.</p>
+            <p>Then the parts buyers notice without naming them. Pages that load in under three seconds on a phone using mobile data. Layouts that work at 360 pixels wide, since most Haryana traffic outside the corporate belt is mobile first. Written specifications, capacities, certifications and turnaround times instead of adjectives. For exporters and B2B suppliers, a downloadable catalogue or product sheet is often the single highest converting element on the entire site.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-search-heading">How local search works across several distinct city markets</h2>
+            <p>Ranking across Haryana is a different exercise from ranking in one city. Google treats Gurugram, Faridabad, Panipat and Karnal as separate local markets with separate result sets. A single page trying to name every city usually ranks for none of them, and reads badly to anyone who lands on it. The approach that works is one substantial page per city you genuinely serve, each written about that market specifically rather than a template with the city name swapped in.</p>
+            <p>Alongside that, the foundations do the heavy lifting: a Google Business Profile with accurate categories and real photographs, name and phone details written identically everywhere they appear online, and consistent listings on the directories that matter for your sector. Gurugram search terms are competitive and take longer. Terms in Panipat, Ambala, Hisar or Sonipat are far less contested, which means a well built page can start pulling enquiries within a few months. Our <a href="/services/seo-services/">SEO services page</a> sets out how the ongoing work is structured.</p>
+          </article>
+          <article>
+            <h3>Timelines to expect from SEO</h3>
+            <p>Nobody honest promises rankings by a date. What we can describe is the usual shape. Technical fixes and on-page work show up in Search Console within four to six weeks as impressions rise. Meaningful position movement on low competition district terms typically lands between month three and month five. Competitive Gurugram terms often take six to nine months of consistent work, and sometimes longer if established competitors have years of links behind them.</p>
+            <p>Monthly SEO starts from ₹5,000 per month and covers content, technical maintenance, listings and reporting. If your budget only stretches to a one time SEO setup during the build, that is a reasonable starting point too, and it is included in the 30-page SEO website package.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Haryana</h2>
+            <p>English works fine for Gurugram corporate audiences and for export enquiries. It works less well for a retail, healthcare, education or trade audience in Karnal, Hisar or Rohtak, where a fair share of buyers read Hindi far more comfortably. We can build the site bilingually, or keep navigation and structure in English while writing the service and product descriptions in Hindi. Which route makes sense depends entirely on who is actually buying from you, so we ask before assuming.</p>
+            <p>There is a behavioural point too. A large proportion of enquiries from Haryana arrive by phone call or WhatsApp rather than through a contact form, especially outside the NCR belt. So we make the phone number tappable on every page, put a WhatsApp link where it will be seen, and never hide contact details behind a form. Voice search matters here as well, which is another reason we write FAQ sections in plain conversational language rather than marketing copy.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for across Haryana</h2>
+            <p>Different sectors need genuinely different sites. A manufacturer needs specification tables and capability pages. A logistics operator needs service area coverage and tracking or enquiry flows. A school needs admission information that parents can find at 11pm without calling anyone. Below is where most of our Haryana work sits, and what each type of site usually needs to get right.</p>
+            <ul class="it-list">
+              <li>NCR corporate and professional services in Gurugram: credibility pages, case detail, fast load times, and lead capture that routes straight to the right person.</li>
+              <li>Manufacturing and engineering in Faridabad, Sonipat and Rohtak: product and capability pages, specifications, plant photographs, downloadable catalogues and enquiry forms.</li>
+              <li>Textiles and home furnishings in Panipat: large product catalogues, clear MOQ and lead time information, and export enquiry handling.</li>
+              <li>Logistics and warehousing along the NH-44 corridor: service area pages, fleet and capacity details, and quick quote request flows.</li>
+              <li>Education, coaching and healthcare in Karnal, Hisar, Ambala and Rohtak: admission or appointment information, faculty or doctor profiles, and mobile-first layouts.</li>
+              <li>Retail and ecommerce statewide: product catalogues, payment gateway integration, delivery zone logic and inventory management.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How remote delivery works for Haryana clients</h2>
+            <p>We are a freelance group of three engineers and we work with businesses in Haryana remotely. We do not have an office in Gurugram, Faridabad or anywhere else in the state, and we will not pretend otherwise. What you get instead is direct access to whoever is building your site. There is no account manager translating your requirements into a brief for a developer you never speak to.</p>
+            <p>The working rhythm is simple. A first call to understand the business and agree scope. A written proposal with fixed starting price and timeline. A shared folder for content, photographs and logins. Then a staging link you can open on your own phone as the work progresses, so nothing is a surprise at the end. Feedback comes back as comments or a call, whichever you prefer. Payment is milestone based rather than everything upfront.</p>
+          </article>
+          <article>
+            <h3>End to end, including the parts most people forget</h3>
+            <p>We handle the whole chain: planning, design, development, SEO setup, hosting and deployment. That includes the unglamorous pieces that often get dropped, such as domain and DNS configuration, SSL, Google Search Console and Analytics setup, sitemap submission and redirects from your old URLs so existing rankings are not lost.</p>
+            <p>After the site goes live, five months of maintenance are included free. Content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period, maintenance is from ₹2,000 per month if you want us to keep looking after it. If you would rather manage it yourself, we hand over every credential and show your team how the site works.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Starting prices and what shifts the final number</h2>
+            <p>These are honest starting figures, not teaser rates with hidden extras bolted on later. A static website starts from ₹5,000. A 30-page SEO website taken from design through to deployment starts from ₹10,000. AI automation work starts from ₹15,000, ecommerce from ₹25,000 and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month and maintenance, after your five free months, is from ₹2,000 per month. Full details sit on our <a href="/pricing/">pricing page</a>.</p>
+            <p>What pushes a quote above the starting figure is usually predictable: a large product catalogue that needs structured data entry, payment or ERP integrations, custom design work rather than a refined template, multilingual content, or a genuinely custom application with user accounts and dashboards. Final cost always depends on scope. We would rather scope it properly in one call than quote a number we have to revise a fortnight later.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are looking for a specific city in Haryana, or for the broader technology work we do beyond websites, these pages will be more useful than this one.</p>
+            <ul class="it-list">
+              <li><a href="/india/haryana/gurgaon/">Web development and SEO in Gurgaon</a></li>
+              <li><a href="/india/haryana/faridabad/">Web development and SEO in Faridabad</a></li>
+              <li><a href="/it-services/haryana/">IT services across Haryana</a></li>
+              <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
+              <li><a href="/it-services/haryana/faridabad/">IT services in Faridabad</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting figures</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions Haryana businesses ask before starting</h2>
+          <p>The practical answers on cost, timelines, language and how remote delivery works in day to day terms.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what your Haryana business needs</h2>
+          <p>Send a short description of your business and what you want the website to do. We will come back with an honest scope, a starting price and a realistic timeline, including the five months of maintenance that come free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

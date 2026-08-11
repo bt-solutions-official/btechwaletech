@@ -1,8 +1,285 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/pricing/", "Pricing");
+const faqs = [
+  {
+    question: "What is the real website development cost in India for a small business?",
+    answer: "A clean static website starts from Rs 5,000 and a 30-page SEO website built from design to deployment starts from Rs 10,000. Most small business owners land somewhere between those two numbers. The final figure depends on how many pages you need, whether the content is written for you, and how many custom features sit behind the design.",
+  },
+  {
+    question: "Why do quotes for the same website vary so much?",
+    answer: "Because the word website covers a five page brochure and a fifty page portal with a booking engine. Ask any quote to name the page count, who writes the content, whether SEO setup is included, who pays for hosting, and what happens after launch. Once those five things are fixed, quotes become comparable and the differences make sense.",
+  },
+  {
+    question: "Is the five months of free maintenance really free?",
+    answer: "Yes. Once your site is hosted and live, we cover content updates, bug fixes, security patches, backups, and uptime and speed checks for five months at no extra charge. It is part of the project price, not an add on. After that period maintenance continues from Rs 2,000 per month, and you are free to stop at any time.",
+  },
+  {
+    question: "What do I have to pay for separately?",
+    answer: "Domain registration, hosting or cloud usage, any paid third party tool you choose, premium stock photography or fonts, and advertising budget if you run paid campaigns. These are billed by the providers directly so you keep ownership and control. We help you pick sensible low cost options and set everything up as part of the project.",
+  },
+  {
+    question: "How does payment work across a project?",
+    answer: "We split the fee into milestones tied to visible progress. A booking amount to start planning and design, a middle payment when the main build is working and you can click through it, and the balance before we deploy to your live domain. Smaller projects often use two milestones instead of three. Everything is agreed in writing first.",
+  },
+  {
+    question: "How much does SEO cost per month in India?",
+    answer: "Monthly SEO starts from Rs 5,000 per month and covers technical fixes, on page work, content planning, and reporting. The right budget depends on how competitive your keywords are and how many pages need attention. SEO is a compounding effort, so a smaller monthly commitment held for a year usually beats a large one abandoned after two months.",
+  },
+  {
+    question: "Can I start small and add features later?",
+    answer: "That is usually the cheapest path. Launch a focused site that does one job well, watch what visitors actually do, then spend the next round of budget on the parts that showed demand. Building everything upfront means paying to guess. We plan the structure so later additions do not require a rebuild.",
+  },
+  {
+    question: "Do prices change for clients outside India?",
+    answer: "The starting prices on this page apply to work delivered from India, and we work remotely with clients in the USA, UAE, and Australia on the same basis. Scope, timeline, and any currency or transfer costs are agreed before we begin, so there are no surprises on the invoice at the end of the project.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Website Development Cost in India: Clear Pricing",
+  description: "Website development cost in India explained with real starting prices for static sites, SEO websites, ecommerce, AI automation, web apps, SEO and maintenance.",
+  canonicalPath: "/pricing/",
+  h1: "Our pricing, written out plainly",
+  intro: "Here is what our work costs, what each figure includes, and what pushes a project up or down. Every price is a starting point, every project is quoted after we understand the scope, and every build includes five months of free maintenance after your site goes live.",
+  breadcrumbs: createBreadcrumbs([{ label: "Pricing", href: "/pricing/" }]),
+  keywords: [
+    "website development cost in India",
+    "web development pricing India",
+    "SEO services pricing India",
+    "website design price India",
+    "website cost India small business",
+    "static website price India",
+    "ecommerce website cost India",
+    "custom web application cost India",
+    "AI automation pricing India",
+    "monthly SEO packages India",
+    "website maintenance cost India",
+    "freelance web developer rates India",
+    "affordable website design India",
+    "30 page SEO website cost",
+    "website redesign cost India",
+    "hosting and deployment cost India",
+    "web design quotation India",
+    "website development packages India",
+    "how much does a website cost in India",
+    "SEO retainer pricing India",
+    "landing page design price India",
+    "business website cost India",
+    "web development milestones payment",
+    "IT services pricing India",
+    "website support plan India",
+    "startup website budget India",
+  ],
+});
 ---
 
-<BaseLayout meta={page}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Pricing</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="starting-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="starting-heading">Website development cost in India: our starting prices</h2>
+            <p>Most agencies hide numbers behind a contact form. We would rather you knew roughly what to budget before you write to us, because a fifteen minute call is wasted if we are Rs 30,000 apart on expectations. Below is every service we sell with the price it starts from. They are honest floors, not bait. A project at the starting price is a real project we have scoped and delivered, and anything above the floor is because you asked for more pages, more features, or more content.</p>
+            <p>We are three engineers working as a freelance group, so you are not paying for an office, a sales team, or a project coordinator who forwards emails. That is the main reason our web development pricing in India sits below what a mid sized studio quotes for comparable work. The tradeoff is that we take on a limited number of projects at a time, and we say no when a brief needs a bigger team than three people.</p>
+          </article>
+          <article>
+            <h3>The full list, at a glance</h3>
+            <ul class="it-list">
+              <li>Static website from Rs 5,000</li>
+              <li>30 page SEO website, design to deployment, from Rs 10,000</li>
+              <li>AI automation from Rs 15,000</li>
+              <li>Ecommerce store from Rs 25,000</li>
+              <li>Custom web application from Rs 40,000</li>
+              <li>Monthly SEO from Rs 5,000 per month</li>
+              <li>Maintenance from Rs 2,000 per month, after the free five months</li>
+            </ul>
+            <p>Every figure is a starting price and the final cost depends on scope. Read the sections below for what sits inside each one, then send us your requirement and we will put a fixed number against it. Our <a href="/services/">services page</a> describes the delivery side of the same list.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="static-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="static-heading">Static website from Rs 5,000</h2>
+            <p>A static website is a small set of hand built pages with no database behind them. Home, about, services, contact, maybe a gallery. Because nothing is generated on request, these sites load fast, cost almost nothing to host, and are close to impossible to hack in the usual ways. At the starting price you get a mobile first design, clean and readable typography, page titles and descriptions written properly, a working contact form or click to call and click to email links, an XML sitemap, and deployment to a live domain.</p>
+            <p>This tier suits a consultant, a clinic, a coaching centre, a local contractor, a new venture testing an idea, or anyone whose customers mainly want a phone number and proof that the business is real. It is the wrong choice if you need customers to log in, if stock has to update itself, or if you plan to publish two articles a week. In those cases the next tier up is cheaper in the long run than retrofitting a static site.</p>
+          </article>
+          <article>
+            <h3>30 page SEO website from Rs 10,000</h3>
+            <p>This is the tier most businesses actually need and the one we build most often. Thirty pages gives you room for a home page, a real about page, one page for each service you sell, one page for each area or city you serve, a blog structure, and the legal pages search engines expect. Each page gets its own title, description, heading structure, internal links, and schema markup, which is the difference between a website and a website that ranks.</p>
+            <p>Design to deployment means we handle the whole thing: information architecture, page design, build, SEO setup, hosting configuration, and going live on your domain. You are not handed a folder of files to figure out. For the detail on how we approach the search side of it, see our <a href="/services/seo-services/">SEO services</a> and <a href="/services/web-development/">web development</a> pages.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="build-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="build-heading">AI automation from Rs 15,000 and ecommerce from Rs 25,000</h2>
+            <p>AI automation starts from Rs 15,000 and covers the workflows that quietly eat your week. A chatbot trained on your own documents that answers customer questions at midnight. A pipeline that reads incoming enquiry emails, pulls out the name, number, and requirement, and drops a clean row into your sheet or CRM. Invoice and document extraction. Report generation that used to take an afternoon. We scope these by the number of steps and the systems involved, and we start with one workflow rather than automating everything at once, because the first one teaches you what the second should look like.</p>
+            <p>Ecommerce starts from Rs 25,000. That includes a product catalogue with categories, product pages with proper markup so listings can show price and availability in search results, a cart and checkout, a payment gateway integration, order emails, and a dashboard where you manage stock without calling us. Price moves with catalogue size, whether products have variants like size and colour, and how many integrations you need for shipping, GST invoicing, or inventory sync with an existing system.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="app-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="app-heading">Custom web application from Rs 40,000</h2>
+            <p>A custom web application is software, not a website. User accounts and roles, a database designed around your actual process, forms that validate properly, dashboards, permissions, and an admin side that lets you run the thing without a developer. Booking systems, internal tools that replace a shared spreadsheet, member portals, learning platforms, small SaaS products. Rs 40,000 is where a genuinely useful first version starts, and the honest answer is that most applications land above it, because the number of screens and rules is what drives the work.</p>
+            <p>We quote applications after a short discovery conversation where we write down every user type and every action each one can take. That list is the estimate. If it runs long, we split it: version one covers the actions that make the tool worth using, version two waits until version one has real users. Paying for a feature nobody ends up wanting is the most common way software budgets get burned, and phasing is the cheapest defence against it.</p>
+          </article>
+          <article>
+            <h3>Monthly SEO from Rs 5,000 per month</h3>
+            <p>Monthly SEO covers technical health checks, on page improvements, keyword and content planning, internal linking, schema, and a monthly report that tells you what changed and what it did to your traffic. SEO services pricing in India varies wildly because the work is invisible until results arrive, so we keep it concrete: you get a list of what was done each month, not a vague retainer.</p>
+            <p>Budget honestly against competition. A local service business in a mid sized city can move on Rs 5,000 per month. A national ecommerce brand fighting large budgets needs more content output and more months. We will tell you which one you are before you commit, and we would rather turn down a retainer than take money for a target we cannot reach.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="offer-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="offer-heading">End to end delivery with five months of maintenance included free</h2>
+            <p>This is the part of our pricing that saves clients the most money, so it gets its own section. We take projects end to end: planning, design, development, SEO setup, hosting, and deployment. One group of people owns the whole chain. You do not hire a designer, then a developer who says the design will not work, then an SEO consultant who says the site should have been built differently, then a hosting person nobody can reach. When something breaks there is no argument about whose fault it is.</p>
+            <p>After your hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Not a trial, not a discounted rate, not something that quietly renews into a bill. It exists because the first months after launch are when a site actually gets tested by real traffic, and because a site that goes stale in month two was never worth building. After the five months, maintenance continues from Rs 2,000 per month if you want it, and you can stop whenever you like. Either way the site is yours, on your domain and your hosting account.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="drivers-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="drivers-heading">What actually drives the cost up or down</h2>
+            <p>Seven things move a quote, and knowing them lets you steer your own budget. Page count is the obvious one, though the tenth page costs less than the first because the design system already exists. Static versus dynamic matters more than most people expect: a page that is written once costs a fraction of a page that is generated from a database with filtering and sorting. Custom features are the biggest single lever, since anything with its own logic, its own screens, and its own edge cases is effectively a small product inside your project.</p>
+            <p>Integrations add cost in proportion to how well documented the other system is. A standard payment gateway is routine. A legacy ERP with no API is not. Content writing is the item clients most often forget to budget: if you supply the words, you save money and the site sounds like you, and if we write them, that is real hours. SEO depth ranges from correct titles and sitemaps through to keyword mapping across thirty pages and structured data on every template. Timeline is the last one, because compressing six weeks into two means reordering everyone else's work.</p>
+          </article>
+          <article>
+            <h3>How to spend less without regretting it</h3>
+            <ul class="it-list">
+              <li>Write your own content, or give us rough drafts we can tighten</li>
+              <li>Supply your own photos instead of buying premium stock</li>
+              <li>Launch with the pages you need now and add the rest later</li>
+              <li>Skip the animation you saw on a competitor's site until traffic justifies it</li>
+              <li>Let us pick the hosting, because the cheapest workable option is usually enough</li>
+              <li>Keep one decision maker on your side, since review rounds cost time</li>
+              <li>Delay the custom feature until a customer asks for it twice</li>
+            </ul>
+            <p>The most expensive websites we have seen were not expensive because of the build. They were expensive because the scope changed four times. Decide what the site is for, then hold that line through the project, and the number at the end will look like the number at the start. Our <a href="/case-studies/">case studies</a> show how the scoped projects ran.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="models-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="models-heading">Three ways to engage us</h2>
+            <p>Fixed scope project is the default and suits almost everyone. We agree a written scope, a price, and a timeline. You know the total before work starts and we absorb the risk of our own estimating errors. If you ask for something outside the scope mid project, we price it separately and you decide, rather than discovering it on the final invoice. This model works because we spend real effort on the scope document up front, and that document is what protects both sides later.</p>
+            <p>Monthly retainer suits ongoing work: SEO from Rs 5,000 per month, maintenance from Rs 2,000 per month after your free five months, or a combined arrangement where we handle both the search side and the site itself. Retainers are month to month with no lock in, because a retainer that needs a contract to survive is not delivering. The third option is small hourly tasks for existing clients who need a change made this week and do not want a scoping conversation about it. We quote those in blocks so nobody is watching a meter.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="payment-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="payment-heading">Payment milestones and what is standard in every project</h2>
+            <p>We split project fees into milestones tied to something you can see. A booking amount confirms the slot and covers planning and the first design work. A middle payment falls when the main build is functional and you can click through it in a preview link. The balance is due before we deploy to your live domain. Small projects often use two milestones instead of three. Everything is written down before the first payment, and our <a href="/refund-policy/">refund policy</a> and <a href="/terms/">terms</a> explain how cancellations and revisions are handled.</p>
+            <p>Standard in every project, at no extra cost: responsive design that works on the phones your customers actually use, page speed work, correct heading structure and semantic HTML, title tags and meta descriptions written per page, an XML sitemap and robots file, structured data where it applies, basic accessibility so screen readers and keyboards work, Google Analytics and Search Console setup, an SSL certificate, form spam protection, deployment to your live domain, and a short handover walkthrough so you can update your own content. Then five months of maintenance, free.</p>
+          </article>
+          <article>
+            <h3>What sits outside our fee</h3>
+            <p>Some costs are not ours to charge. Domain registration is usually Rs 800 to Rs 1,500 a year. Hosting for a static or small dynamic site runs from free tiers up to a few hundred rupees a month, and a busy ecommerce store or application needs more. Paid third party tools such as a premium plugin, an email sending service, or an AI API are billed on usage. Premium stock photos, video, or licensed fonts are optional and only bought if you want them. Advertising budget for Google or Meta goes straight to the platform.</p>
+            <p>We keep all of these in your name and your accounts. You own the domain, the hosting login, and every credential. If you ever want to work with someone else, you take the whole thing with you and nothing is held hostage. That is not a courtesy, it is how it should work everywhere.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="timeline-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="timeline-heading">How long each tier takes</h2>
+            <p>A static website is typically one to two weeks from the day content is ready. A 30 page SEO website usually runs three to five weeks, with the content and approval rounds being the variable rather than the build. AI automation depends entirely on the workflow, though a single well defined automation often lands inside two weeks. Ecommerce is commonly four to six weeks, and most of the extra time goes into product data, images, and gateway testing rather than the design. Custom applications start at six weeks and grow with the feature list.</p>
+            <p>The single biggest cause of delay is content. Photos, service descriptions, staff names, pricing you want shown, terms you need included. Projects where the client sends everything in week one finish early. Projects where content dribbles in over a month finish late, and no amount of developer speed fixes that. We give you a simple content checklist at the start so nothing is a surprise. If you would rather we wrote it all, say so during scoping and we will price it in.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options or checking whether we cover your area, these pages will help. We work with businesses across India and remotely with clients abroad, and the same pricing applies throughout.</p>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/india/">India coverage</a></li>
+              <li><a href="/india/haryana/gurgaon/">Gurgaon</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Noida</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Pricing questions we get asked</h2>
+          <p>Straight answers to the things people ask before sending a brief.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us the scope and we will give you a number</h2>
+          <p>Send a short description of what you need. We will reply with a fixed price, a timeline, and what is included, plus your five months of free maintenance after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/services/">Services</a><a href="/portfolio/">Portfolio</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

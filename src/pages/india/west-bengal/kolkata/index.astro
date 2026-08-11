@@ -1,6 +1,283 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("west-bengal", "kolkata");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does website development cost in Kolkata?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. An ecommerce store starts from ₹25,000 and a custom web application starts from ₹40,000. Monthly SEO starts from ₹5,000 per month. The final figure depends on page count, features and how much content writing you need from us.",
+  },
+  {
+    question: "How long does a Kolkata business website take to build?",
+    answer: "A small static site is usually live within one to two weeks once we have your content. A 30-page SEO website normally takes three to five weeks. Ecommerce and custom web applications run four to eight weeks depending on payment flows, catalogue size and integrations. The single biggest delay is always waiting on photos, product data and approvals from your side.",
+  },
+  {
+    question: "Do you have an office in Kolkata?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses in Kolkata, Howrah and the wider West Bengal region. You get the same delivery either way: calls on WhatsApp or Google Meet, written updates, a staging link you can open from your phone, and direct access to the person building your site.",
+  },
+  {
+    question: "What is included in the 5 months of free maintenance?",
+    answer: "After your site goes live we cover five months of maintenance at no extra cost. That means content updates, bug fixes, security and plugin updates, regular backups, and uptime and page speed checks. You email or call, we make the change. After the five months, ongoing maintenance is from ₹2,000 per month if you want to continue.",
+  },
+  {
+    question: "Can you rank my business for searches like web development company in Kolkata?",
+    answer: "We can build the foundation that makes ranking possible: clean technical SEO, area-level pages, a properly filled Google Business Profile, real content and internal linking. Competitive Kolkata head terms usually take four to eight months of steady work. Longer, area-specific searches such as a service plus Salt Lake or New Town often start showing movement much sooner.",
+  },
+  {
+    question: "Do you redesign existing websites or only build new ones?",
+    answer: "Both. Redesigns are common with Kolkata clients who have an old site that loads slowly on mobile or was built on a platform nobody can update anymore. We audit what is there, keep the URLs and content that already earn traffic, rebuild the front end, and migrate carefully so your existing search rankings are not thrown away.",
+  },
+  {
+    question: "Will my website work properly on mobile and slow connections?",
+    answer: "Yes, and this matters more in Kolkata than most people assume. Most of your visitors arrive on a mid-range Android phone, often on patchy mobile data. We build lightweight pages, compress images, avoid heavy sliders and scripts, and test on real devices so the page becomes usable in a couple of seconds rather than ten.",
+  },
+  {
+    question: "How do I get started and what do you need from me?",
+    answer: "Email or call us with a short description of your business and what you want the site to do. We ask a few questions, suggest a page structure and give you a fixed starting quote. To begin we need your logo if you have one, contact details, service or product information, and any photos. We can write the rest.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Kolkata, West Bengal",
+  description: "Web development company in Kolkata building fast websites and running local SEO for businesses in Salt Lake, Park Street, New Town and Howrah. Static sites from ₹5,000.",
+  canonicalPath: "/india/west-bengal/kolkata/",
+  h1: "Website Design, Development and SEO Services for Kolkata Businesses",
+  intro: "We build websites and run search optimisation for businesses across Kolkata, from Salt Lake Sector V software firms to Park Street retailers and New Town clinics. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "West Bengal", href: "/india/west-bengal/" },
+    { label: "Kolkata", href: "/india/west-bengal/kolkata/" },
+  ]),
+  keywords: [
+    "web development company in Kolkata",
+    "website designer Kolkata",
+    "SEO services Kolkata",
+    "website development cost in Kolkata",
+    "web design company Kolkata",
+    "website development Kolkata",
+    "ecommerce website development Kolkata",
+    "local SEO Kolkata",
+    "SEO company Kolkata",
+    "website redesign Kolkata",
+    "static website Kolkata",
+    "business website Kolkata",
+    "web developer Salt Lake Sector V",
+    "website design New Town Rajarhat",
+    "SEO agency Salt Lake Kolkata",
+    "website designer Park Street Kolkata",
+    "web development Ballygunge",
+    "website development Howrah",
+    "affordable website design Kolkata",
+    "freelance web developer Kolkata",
+    "Google Business Profile Kolkata",
+    "digital marketing website Kolkata",
+    "web development West Bengal",
+    "small business website Kolkata",
+    "custom web application Kolkata",
+    "website maintenance Kolkata",
+    "school website design Kolkata",
+    "clinic website design Kolkata",
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Kolkata</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What the Kolkata web market actually looks like right now</h2>
+            <p>Kolkata is not one commercial district, it is several that behave very differently online. Salt Lake Sector V is dense with IT services firms, back offices and product startups whose buyers are often outside the city entirely, so their websites are judged against national and overseas competitors. Park Street and the surrounding stretch is retail, restaurants and consumer services where a customer is deciding on a phone within a few minutes. New Town Rajarhat is newer, faster growing and full of clinics, coaching centres, real estate offices and small studios that opened in the last few years. Ballygunge leans towards professional services, established practices and premium retail. Howrah carries trading businesses, distributors and manufacturers who have serious revenue and often no website at all.</p>
+            <p>That mix means a single template approach fails here. A trading firm in Howrah needs credibility and a clear product catalogue that a buyer can forward on WhatsApp. A clinic in New Town needs to be found for a symptom plus a locality search and then needs a phone number that is one tap away. We start every Kolkata project by asking who actually types the search and what they need to see in the first fifteen seconds, because the answer changes the whole build.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="struggles-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="struggles-heading">The problems Kolkata businesses bring to us</h2>
+            <p>The most common one is a site that exists but does nothing. It was built years ago, it looks acceptable on a laptop, and on a mid-range Android phone it takes eight seconds to show anything. Nobody waits. The second is a site nobody can update. The person who built it has moved on, the login was never handed over, and changing a phone number turns into a project. The third is invisibility in search: the business ranks for its own name and nothing else, so it only gets found by people who already know it exists.</p>
+            <p>There is also a quieter problem. Plenty of Kolkata firms have real depth, decades of trading relationships or genuine technical skill, and a website that reads like a brochure printed in 2011. Vague claims, stock photography, no pricing signal, no proof. Buyers now compare three or four options before calling anyone, and the one that explains itself clearly wins even when it is not the strongest business. Fixing that is usually content and structure work rather than expensive engineering.</p>
+          </article>
+          <article>
+            <h3>What we fix first</h3>
+            <p>When budget is limited we sequence the work so the highest-impact things land first. Mobile speed and a working contact path come before visual polish. A clear services structure comes before a blog. A properly completed Google Business Profile comes before any paid promotion, because for local searches it often outperforms the website itself.</p>
+            <ul class="it-list">
+              <li>Page load and mobile layout on real devices, not just a desktop preview</li>
+              <li>Phone, WhatsApp and email reachable from every page without scrolling</li>
+              <li>One clear page per service instead of one page listing everything</li>
+              <li>Google Business Profile completed, categorised and linked correctly</li>
+              <li>Titles, descriptions and headings written for how people actually search</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Kolkata business</h2>
+            <p>Most Kolkata projects fall into one of four shapes, and picking the right one early saves both money and months. A static website is the right answer far more often than agencies admit. If your content changes a few times a year, a static build gives you the fastest possible pages, almost nothing to hack, and hosting costs that round to zero. A dynamic site with a content management system makes sense when you or your team will genuinely publish regularly, or when listings, courses or inventory need to change without a developer involved.</p>
+            <p>A redesign is the third path, and it is the one Kolkata clients ask for most. We keep the URLs and pages that already earn search traffic, rebuild the front end for speed and mobile, and migrate with proper redirects so nothing that was ranking disappears. Ecommerce is the fourth: a real catalogue, payment gateway, shipping rules, order emails and a stock view you can actually operate. You can read more about our full process on the <a href="/services/web-development/">web development services</a> page.</p>
+          </article>
+          <article>
+            <h3>Choosing between them</h3>
+            <p>If you are unsure, start smaller. A well-built static site from ₹5,000 that loads instantly and converts is worth more than an ambitious platform that stalls half finished. We would rather build you a tight five-page site now and extend it in six months when you know which pages people actually use.</p>
+            <ul class="it-list">
+              <li>Static site: services, portfolio, contact, rarely changing content</li>
+              <li>Dynamic site: blog, courses, listings, frequent in-house updates</li>
+              <li>Redesign: an existing site with traffic worth protecting</li>
+              <li>Ecommerce: products, payments, shipping and order management</li>
+              <li>Custom web app: dashboards, bookings, internal tools, logins</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Kolkata business website should include</h2>
+            <p>Start with the obvious and get it right. A homepage that says what you do, where you serve and what it costs, in that order. A separate page for each service you actually want enquiries for, because one combined page cannot rank for five different searches. An about page with real names and real credentials, since Kolkata buyers in professional and trading sectors check who they are dealing with before they call. A contact page with a phone number, an email address, a WhatsApp link and, if you have a physical shop or clinic, an embedded map and honest opening hours.</p>
+            <p>Beyond that, the details that quietly decide whether someone calls. Prices or at least starting prices, so you are not filtering enquiries by phone. Photographs of your actual premises, team and work rather than stock images, which Kolkata visitors spot immediately. A short FAQ answering the questions you get asked on every call. Fast, compressed images. Schema markup so search engines understand your business type and location. And a form that sends you a notification you will actually see, not one that silently fills a database nobody checks.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Kolkata searches</h2>
+            <p>Local search in Kolkata splits into three layers, and each needs different work. The map pack at the top is driven mostly by your Google Business Profile: correct category, complete services, real photos, consistent name and phone number everywhere online, and a steady trickle of genuine reviews. The organic results below it are driven by your website: page structure, content depth, speed and links. The third layer is the long tail, searches that combine a service with an area, and this is where a smaller business can beat a large one without much of a fight.</p>
+            <p>Area-level targeting is the practical lever. Searches that pair a service with Salt Lake, New Town, Ballygunge or Howrah have far lower competition than the city-wide term, and the person searching is usually closer to buying. We build that into the site sensibly, with genuine content about serving those areas rather than a hundred thin doorway pages that Google now ignores. Our approach to ongoing work is described on the <a href="/services/seo-services/">SEO services</a> page.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting without an office</h3>
+            <p>Many of our Kolkata clients serve customers across the metro area but operate from one location, or from home. Google supports this properly through service-area business settings, and using them honestly works better than inventing addresses. We set the service area to the localities you genuinely cover, keep your address hidden if you do not take walk-in customers, and support it with website content that explains your coverage. It is slower than faking citations and it does not get your listing suspended.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Website development cost in Kolkata and realistic timelines</h2>
+            <p>We publish starting prices because guessing wastes everyone's time. A static website starts from ₹5,000. A 30-page SEO website handled from design through to deployment starts from ₹10,000. AI automation work starts from ₹15,000. An ecommerce store starts from ₹25,000, and a custom web application starts from ₹40,000. Monthly SEO starts from ₹5,000 per month, and maintenance after your free period is from ₹2,000 per month. Final cost always depends on scope: page count, how much content we write, integrations and how many revision rounds you want. Full details sit on the <a href="/pricing/">pricing</a> page.</p>
+            <p>On timelines, be sceptical of anyone promising a full site in three days. A small static site realistically goes live in one to two weeks once we have your content. A 30-page SEO site takes three to five weeks. Ecommerce and custom applications run four to eight weeks. SEO results are slower still: expect early movement on area-level searches within two to three months and meaningful progress on competitive Kolkata terms across four to eight months of consistent work. Anyone quoting faster than that on search is selling you something.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery with five months of maintenance included</h2>
+            <p>We take projects from the first planning conversation all the way to a live site: scoping and structure, design, development, SEO setup, hosting and deployment. You do not need to hire a separate designer, a separate developer, an SEO person and then find someone to put it all on a server. That fragmentation is where most small website projects die, because each party blames the other and the client is left holding an unfinished site.</p>
+            <p>Once hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. If your prices change in month three, you email us and we change them. If a form breaks, we fix it. After those five months you can continue with maintenance from ₹2,000 per month, or take the site and manage it yourself. We hand over all credentials either way, because a website you cannot access is not really yours.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Kolkata sectors we work with</h2>
+            <p>IT services firms around Salt Lake Sector V usually need credibility more than volume. Their buyers are technical, often outside West Bengal, and they judge a supplier by whether the site explains the actual delivery model, team and stack rather than by how many animations it has. Trading and distribution businesses, particularly around Howrah and the older commercial belts, need clean product listings, downloadable specifications and a contact route that works on WhatsApp, because that is where the enquiry conversation actually happens.</p>
+            <p>Education is a large and competitive category here, from coaching centres to schools to skill-training institutes, and admission season traffic is intensely seasonal, so the site has to be ready before the searches start rather than during them. Healthcare, including clinics and diagnostic centres in New Town and Ballygunge, lives on local search and trust signals: doctor credentials, timings, directions and a phone number that answers. Retail, from Park Street storefronts to online-only sellers, needs product pages that load quickly and a checkout that does not lose people at the payment step.</p>
+          </article>
+          <article>
+            <h3>If your sector is not listed</h3>
+            <p>These are just the categories we see most often in Kolkata. The underlying work is the same for a law practice, a logistics operator, a wedding photographer or a manufacturing unit: understand who searches, build pages that answer them, make it fast, and make contact effortless. Tell us what you do and we will tell you honestly whether a website is your bottleneck or whether something else is.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="working-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="working-heading">How working with us remotely actually goes</h2>
+            <p>We are three engineers working as a freelance group, not an agency with account managers, and we work with businesses in Kolkata remotely rather than from a local office. In practice that removes a layer rather than adding one. You talk directly to the person building your site. Calls happen on WhatsApp or Google Meet at a time that suits you, and most of the day-to-day runs over WhatsApp and email because that is what Kolkata business owners actually use. You get a staging link early, so you are reviewing a real site on your own phone instead of approving a flat mockup.</p>
+            <p>Ankur handles full stack development, Santosh covers AI, machine learning, AWS and data work, and Vedansh manages projects along with automation. On a typical website build you will mostly deal with one of us, with the others pulled in where their part matters. We give written updates at each milestone so you always know what is done and what is waiting on you. For broader technical work beyond websites, see our <a href="/it-services/west-bengal/kolkata/">IT services in Kolkata</a> page.</p>
+          </article>
+          <article>
+            <h3>How to get started</h3>
+            <p>Email or call with a couple of lines about your business and what you want the website to do. We will ask some questions, propose a page structure, and give you a fixed starting quote against the prices above. To begin building we need your logo if you have one, contact details, service or product information and any photographs you own. Content writing we can handle. Most projects start within a few days of the first conversation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options across West Bengal or elsewhere in India, these pages cover the same services in different places and in more detail.</p>
+            <ul class="it-list">
+              <li><a href="/india/west-bengal/">Web development and SEO in West Bengal</a></li>
+              <li><a href="/it-services/west-bengal/kolkata/">IT services in Kolkata</a></li>
+              <li><a href="/india/">Website and SEO services across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Common questions from Kolkata businesses about cost, timelines and what happens after launch.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build a website that brings in Kolkata enquiries?</h2>
+          <p>Tell us what your business does and who you want to reach. We will come back with a page structure, a realistic timeline and a fixed starting price, with hosting, deployment and five months of maintenance included.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

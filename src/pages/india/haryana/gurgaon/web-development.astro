@@ -1,6 +1,319 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { createCityServicePage } from "@data/page-seo/city-service";
-const page = createCityServicePage("haryana", "gurgaon", "web-development").seo;
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost in Gurgaon?",
+    answer: "A static brochure website starts from Rs 5,000. A 30-page SEO website taken from design to deployment starts from Rs 10,000. Ecommerce starts from Rs 25,000 and a custom web application starts from Rs 40,000. AI automation work starts from Rs 15,000. The final cost depends on scope: page count, custom design, integrations and how much content you need written."
+  },
+  {
+    question: "How long does a Gurugram website build take?",
+    answer: "A small static site usually goes live in seven to twelve working days. A 30-page SEO website typically takes three to five weeks because content and structure take longer than code. Ecommerce and custom web apps run six to ten weeks. The biggest delay in almost every project is waiting for content, logos and product data from the client side."
+  },
+  {
+    question: "Do you work only with companies in Cyber City?",
+    answer: "No. We work with businesses across Gurugram, including Udyog Vihar, Sohna Road, Golf Course Road, MG Road, Sector 14, the DLF phases and the newer sectors past Dwarka Expressway. Delivery is remote friendly, so a clinic in Sector 56 gets the same process and the same standards as a SaaS company in Cyber City."
+  },
+  {
+    question: "Should my site be static or dynamic?",
+    answer: "If content changes rarely and there is no login, a static site is faster, cheaper and safer. Choose dynamic when someone on your team needs to publish without a developer, or when listings, bookings, stock or user accounts are involved. Many Gurugram sites end up hybrid: static marketing pages plus a small dynamic section for jobs, blog or property listings."
+  },
+  {
+    question: "Can you redesign my existing website without losing rankings?",
+    answer: "Yes. Before anything changes we take an inventory of live URLs, current rankings and page content. Old URLs are either kept exactly as they are or mapped to permanent redirects. Titles, headings and body content carry over rather than being rewritten wholesale. Rankings usually settle within four to six weeks after a careful migration."
+  },
+  {
+    question: "What is included in the free maintenance period?",
+    answer: "After hosting goes live you get five months of maintenance included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. Nothing extra is billed during that period. After the five months, maintenance is from Rs 2,000 per month if you want us to keep handling it, and there is no obligation to continue."
+  },
+  {
+    question: "Do you handle hosting and domain setup too?",
+    answer: "Yes, the whole delivery is end to end: planning, design, development, SEO setup, hosting and deployment. We can work on your existing hosting account or advise on a suitable plan and set it up for you. Either way the domain, DNS, SSL, email records and deployment pipeline are configured properly and the accounts stay in your name."
+  },
+  {
+    question: "Who actually builds the site?",
+    answer: "A small freelance team of three engineers. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning and AWS, and Vedansh Shrivastava manages projects, data science and automation. You talk to the people writing the code, so there is no account manager relaying questions between you and the developer."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Gurgaon for Growing Businesses",
+  description: "Web development company in Gurgaon building fast corporate, startup, ecommerce and booking websites end to end, with 5 months free maintenance after launch.",
+  canonicalPath: "/india/haryana/gurgaon/web-development/",
+  h1: "Website development in Gurugram, built end to end by a small engineering team",
+  intro: "We design, build, host and deploy websites and web applications for businesses across Gurugram, from Cyber City offices to clinics in the newer sectors. Every project is handled end to end, and five months of maintenance are included free after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Haryana", href: "/india/haryana/" },
+    { label: "Gurgaon", href: "/india/haryana/gurgaon/" },
+    { label: "Web development", href: "/india/haryana/gurgaon/web-development/" }
+  ]),
+  keywords: [
+    "web development company in Gurgaon",
+    "website development Gurugram",
+    "hire web developer Gurgaon",
+    "web developer in Gurugram",
+    "website designer Gurgaon",
+    "web design company Gurugram",
+    "ecommerce website development Gurgaon",
+    "custom web application Gurugram",
+    "corporate website design Gurgaon",
+    "startup website developer Gurugram",
+    "SaaS website development Gurgaon",
+    "real estate website Gurugram",
+    "restaurant website design Gurgaon",
+    "clinic website development Gurugram",
+    "coworking website Gurgaon",
+    "Cyber City web development",
+    "Udyog Vihar website developer",
+    "Sohna Road web design",
+    "Golf Course Road website company",
+    "MG Road web developer Gurgaon",
+    "DLF Phase 3 website design",
+    "website redesign Gurgaon",
+    "website migration Gurugram",
+    "WordPress alternative Gurgaon",
+    "static website Gurgaon",
+    "website maintenance Gurugram",
+    "website cost in Gurgaon",
+    "freelance web developer Gurugram"
+  ]
+});
 ---
-<LocationLayout page={page} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Web development</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="what-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="what-heading">What a web development company in Gurgaon should actually do for you</h2>
+            <p>Gurugram is a city of head offices, back offices and very young companies, often within a few kilometres of each other. A consulting firm on Golf Course Road wants a site that looks credible when a client opens it during a meeting. A three-person startup in Udyog Vihar wants something live this month so it can start running ads. A dental clinic in Sector 56 mostly wants the phone to ring. Those are three different builds, and treating them as the same template is why so many websites in the city look identical and perform badly.</p>
+            <p>Our work is straightforward: we plan the structure, design the pages, write the code, set up the SEO basics, arrange hosting and deploy. You are not handed a half-finished site and told to find someone for the rest. After launch, five months of maintenance are included free, which covers content edits, bug fixes, security updates, backups, and uptime and speed checks.</p>
+          </article>
+          <article>
+            <h3>Different from our general Gurgaon page</h3>
+            <p>If you want the full picture of everything we do in the city, including automation, data work and marketing, read our <a href="/india/haryana/gurgaon/">Gurgaon services page</a> instead. This page is specifically about building websites and web applications: the code, the stack, the performance targets, the timelines and the money.</p>
+            <p>Search visibility is its own discipline and has its own page too. If your main problem is that nobody finds you on Google rather than that your site is old, start with <a href="/india/haryana/gurgaon/seo-services/">SEO services in Gurgaon</a>. Often a business needs both, in which case the build is done with search structure baked in from day one rather than bolted on afterwards.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="types-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="types-heading">The kinds of websites Gurugram businesses actually ask for</h2>
+            <p>Corporate sites for the corporate belt are the most common request. A company in DLF Phase 2 or on MG Road usually needs eight to twenty pages: what the business does, service detail pages, leadership, careers, compliance information and contact. These sites are read by procurement teams and prospective employees, so clarity beats decoration. They rarely change day to day, which makes them a good fit for a static build with a small content layer for the careers listing.</p>
+            <p>Startup and SaaS sites are the second big group, and they behave differently. The messaging changes every few weeks as positioning shifts, pricing gets tested, and new feature pages appear. These need a structure where a non-developer can publish a page without opening a code editor, plus clean handling of trials, demo forms and analytics. Speed matters more here than anywhere else because most traffic arrives from paid campaigns where a slow page burns money on every click.</p>
+          </article>
+          <article>
+            <h3>Listings, bookings and walk-in businesses</h3>
+            <p>Real estate is unavoidable in Gurugram. A broker or developer site needs property listings with filters by sector, budget, configuration and possession date, plus enquiry forms that route the lead to the right person quickly. That is a dynamic build: someone updates inventory weekly, photos get swapped, sold units come down. Building it as static pages means calling a developer every time a flat is booked, which nobody sustains past month two.</p>
+            <p>Restaurants and cafes, especially around Cyber Hub, Sector 29 and Sohna Road, need a lighter site: menu, timings, photos, location, table enquiry and links to delivery platforms. Clinics and wellness studios need service pages, doctor or trainer profiles, and an appointment request that reaches a real inbox and a WhatsApp number. Coworking spaces and B2B service firms sit in between, needing a plan or package section, a tour request form and enough detail to pre-qualify enquiries before anyone picks up the phone.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="static-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="static-heading">Static or dynamic: how we decide for each site</h2>
+            <p>This decision affects cost, speed and how much you depend on us later, so it is worth a real conversation rather than a default. A static site is generated in advance and served as plain files. It loads fast, costs very little to host, and has almost nothing for an attacker to break into. The trade-off is that content changes go through a build step, so it suits a business whose pages change monthly rather than daily.</p>
+            <p>A dynamic site runs code and a database on every request, or uses a content system that lets your team publish directly. Choose it when there are listings, logins, bookings, stock levels or a blog with several authors. The cost is higher, hosting is more involved, and it needs ongoing security updates. That last point is exactly what the five months of free maintenance is there to absorb while you settle in.</p>
+          </article>
+          <article>
+            <h3>What we usually recommend, by business type</h3>
+            <ul class="it-list">
+              <li>Corporate and consulting firms: static, with a small dynamic careers or news section.</li>
+              <li>Startups and SaaS: hybrid, with static marketing pages and an editable content layer.</li>
+              <li>Real estate: dynamic, because inventory changes constantly.</li>
+              <li>Restaurants and cafes: static, with the menu as an easily replaceable content file.</li>
+              <li>Clinics and wellness studios: static pages plus a booking or enquiry integration.</li>
+              <li>Coworking and B2B services: static, unless you sell memberships online.</li>
+              <li>Ecommerce: dynamic by definition, built on a proven platform rather than from scratch.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="stack-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="stack-heading">Tech stack and the performance standards we hold ourselves to</h2>
+            <p>We build most marketing sites with modern static site generators and ship as little JavaScript as the design allows. Interactive products and dashboards use React or a similar framework with a Node backend, and Python where data or machine learning work is involved. Databases are usually PostgreSQL or MySQL. Hosting runs on AWS or a comparable provider with a CDN in front, so a visitor in Gurugram and a client in Dubai both get the page from a nearby edge location.</p>
+            <p>The targets are concrete. Largest contentful paint under two and a half seconds on a mid-range Android phone over a normal mobile connection, not on a developer laptop over office fibre. Images served in modern formats and sized correctly rather than scaled down in the browser. Layout that does not jump while loading. Accessible markup with real headings, labelled form fields and usable keyboard navigation. These are not extras we quote separately, they are the baseline of a competent build.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="included-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="included-heading">What a build includes</h2>
+            <p>Every project includes structure planning, responsive design across phone, tablet and desktop, development, on-page SEO setup, hosting configuration and deployment. On-page SEO setup means unique titles and descriptions per page, a sensible URL structure, correct heading hierarchy, internal links that make sense, an XML sitemap, robots file, structured data where it applies, and Google Search Console plus analytics connected before launch rather than a month later.</p>
+            <p>Forms are wired to a real inbox and tested. SSL is installed. Basic legal pages are in place. You get the code, the hosting account and the domain in your own name, which sounds obvious but is worth checking with any developer you speak to in the city. If we disappear tomorrow, another developer can pick up the project without archaeology, because that is what a handover should mean.</p>
+          </article>
+          <article>
+            <h3>What is not included by default</h3>
+            <p>Photography, video production and paid ad management are separate. Content writing is included for standard page copy but a large library of technical articles or product descriptions is scoped separately because it is genuinely a lot of work. Third-party licence fees, such as a premium CRM plan or a paid booking system, are billed by those providers directly and we will tell you before you commit to anything recurring.</p>
+            <p>We also do not sell traffic guarantees. Anyone promising a fixed position on Google for a competitive Gurugram keyword by a specific date is guessing. What we can commit to is a site that is technically sound, fast, correctly structured and easy to build on. For the broader service description across all cities, see our <a href="/services/web-development/">web development services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="process-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="process-heading">Process and realistic timelines</h2>
+            <p>We start with a call to understand the business, the audience and what a successful enquiry looks like for you. Then comes a sitemap and page-by-page outline that you approve before any design work begins, because rearranging a structure after twenty pages are built is expensive for everyone. Design follows, usually starting with the home page and one inner page so you can react to direction early. Development is done in stages with a staging link you can open at any time.</p>
+            <p>Before launch we run a checklist: mobile behaviour on real devices, form submissions, broken link scan, speed testing, redirects if a site already existed, and search console verification. Then deployment, DNS switch and a monitoring window over the first few days. A static site typically takes seven to twelve working days. A 30-page SEO site takes three to five weeks. Ecommerce and custom applications run six to ten weeks depending on integrations.</p>
+          </article>
+          <article>
+            <h3>Where projects usually slow down</h3>
+            <p>Almost never the code. Delays come from content, approvals and access. If we are waiting on final copy for four service pages, or on the logo files, or on login access to your existing hosting, the calendar moves and the build does not. We ask for all of that upfront and keep a short list of what is outstanding so nobody is surprised in week three.</p>
+            <p>The second common source of delay is scope added mid-build. A booking system or a multi-language version is a fine idea, but adding it after design approval restarts part of the work. We would rather note it as phase two, get you live, and add it once the site is earning its keep.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cost-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="cost-heading">What it costs to build a website in Gurugram</h2>
+            <p>Our starting points are these. A static website starts from Rs 5,000. A 30-page SEO website taken from design all the way to deployment starts from Rs 10,000. AI automation work starts from Rs 15,000. An ecommerce store starts from Rs 25,000. A custom web application starts from Rs 40,000. Monthly SEO starts from Rs 5,000 per month, and maintenance after the free period starts from Rs 2,000 per month. The final cost always depends on scope.</p>
+            <p>What moves the number: the amount of custom design versus a clean standard layout, how many pages need original writing, whether you need a system your team can edit, and how many external tools have to be connected. A five-page static site for a cafe on Sohna Road and a listings portal for a real estate firm on Golf Course Road are not comparable projects, and we would rather quote each honestly than publish one misleading figure. Full breakdowns are on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="redesign-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="redesign-heading">Redesign and migration without losing what already works</h2>
+            <p>A lot of Gurugram businesses do not need a new site so much as a rescue. The common pattern is a site built five years ago on an outdated content system, running slowly, with plugin updates nobody has applied and a developer who stopped responding. Sometimes the site ranks reasonably well despite all this, which makes a careless rebuild genuinely risky.</p>
+            <p>So we start with an inventory: every live URL, what it ranks for, what traffic it gets, and what content it holds. Pages that earn traffic keep their URLs or get permanent redirects to the closest equivalent. Copy is carried across and improved rather than replaced from scratch. After the switch we watch Search Console for crawl errors and coverage drops for several weeks. Done carefully, rankings dip briefly and then recover, usually settling within four to six weeks.</p>
+          </article>
+          <article>
+            <h3>Moving off a platform you have outgrown</h3>
+            <p>Migrations we handle often: a slow content-managed site moving to a static build, a hand-coded site with no structure moving to something maintainable, a store moving between ecommerce platforms, and a site moving to better hosting. Data comes across first, in a test environment, so you can check that products, images, categories and old blog posts survived intact before anything public changes.</p>
+            <p>The part people forget is email. DNS changes during a hosting move can silently break company email if the mail records are not carried over. We check those before touching the nameservers, which is a small thing that prevents a very bad Monday morning.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="integrations-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="integrations-heading">Integrations that actually get used</h2>
+            <p>A website in isolation is just a brochure. The value shows up when it connects to how the business already runs. The four requests we get most often in Gurugram are CRM connections, WhatsApp, payments and booking. CRM first: form submissions pushed straight into your sales tool with the source, the page and the campaign attached, so the sales team knows whether an enquiry came from a Cyber City-targeted ad or from an organic search for a service page.</p>
+            <p>WhatsApp is close to mandatory here. A click-to-chat button with a prefilled message, ideally routing to the right number by department, converts far better than a contact form for local service businesses. Payments through a standard Indian gateway with UPI, cards and netbanking, configured properly so the receipt and confirmation email both work. Booking for clinics, salons and coworking tours, either through a proven third-party tool or a simple slot system if your needs are narrow.</p>
+          </article>
+          <article>
+            <h3>Automation on top</h3>
+            <p>Once the site sends structured data, small automations save real hours. Enquiries auto-assigned by area or service. A follow-up reminder if nobody replied within a day. A weekly summary of leads by source. Invoice or quote generation from a submitted form. This is where our AI and automation work overlaps with the website, and it starts from Rs 15,000 depending on how many systems are involved.</p>
+            <p>We keep automation deliberately boring. Rules a non-technical person can understand and switch off, not a black box that silently misroutes a lead for three weeks before anyone notices. If a system fails, it should fail loudly and email someone.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="maintenance-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="maintenance-heading">Five months of free maintenance after your site goes live</h2>
+            <p>Launch is not the end of the work, and that is where most Gurugram businesses get stuck. The developer finishes, the invoice is settled, and six months later there is a broken form nobody noticed and a security update nobody applied. So maintenance is built into how we deliver: for five months after hosting goes live, it is included at no extra cost. Content updates, bug fixes, security updates, backups, uptime checks and speed checks.</p>
+            <p>That means if your prices change in month three, you email us and it is done. If a plugin or dependency has a vulnerability, we patch it. If the site goes down at 2am, monitoring catches it rather than a customer telling you the next day. After the five months, continuing maintenance starts from Rs 2,000 per month, and if you would rather take it in-house or move to someone else, everything is documented and in your accounts so you can.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="evaluate-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="evaluate-heading">How to evaluate a web development partner in Gurugram</h2>
+            <p>Ask who writes the code. In a lot of agencies the person in the meeting is not the person building, and requirements degrade at every handoff. Ask what happens after launch, in writing, with a number attached. Ask whose name the domain and hosting accounts will be in. Ask to see a live site they built and open it on your own phone on mobile data rather than looking at a screenshot in a deck.</p>
+            <p>Be careful with two things. First, a quote that is far below everything else usually means a recycled template with the content swapped, which will look like fifty other sites in the city. Second, ranking guarantees. Nobody controls Google's results, and a firm that claims otherwise is either inexperienced or hoping you will not check. A good partner tells you what is uncertain rather than pretending everything is a sure thing.</p>
+          </article>
+          <article>
+            <h3>Why a small team suits most Gurugram projects</h3>
+            <p>We are three freelance engineers, not a large agency. Ankur Kumar builds the full stack, Santosh Sharma handles AI, machine learning and AWS, and Vedansh Shrivastava runs project management, data science and automation. You talk to the people doing the work. Decisions happen the same day rather than going through a chain of approvals.</p>
+            <p>Delivery is remote friendly, so where in Gurugram you sit does not change what you get. We work with businesses across the city and beyond it. If you want to see the wider picture of how we serve the region, our <a href="/it-services/haryana/gurugram/">IT services in Gurugram</a> page covers the full range, and <a href="/about/">about us</a> explains who we are in more detail.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options across the region or want detail on a specific service, these pages are the most useful next steps.</p>
+            <ul class="it-list">
+              <li><a href="/india/haryana/gurgaon/">All services in Gurgaon</a></li>
+              <li><a href="/india/haryana/gurgaon/seo-services/">SEO services in Gurgaon</a></li>
+              <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
+              <li><a href="/india/haryana/">Haryana services overview</a></li>
+              <li><a href="/india/haryana/faridabad/">Web and IT work in Faridabad</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Services in Noida</a></li>
+              <li><a href="/india/delhi/">Services in Delhi</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Questions we get asked about web development in Gurgaon</h2>
+            <div class="it-faq">
+              {faqs.map((faq) => (
+                <details>
+                  <summary>{faq.question}</summary>
+                  <p>{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what you want to build</h2>
+          <p>Share the idea, the pages you have in mind and roughly when you need it live. We will come back with a structure, a timeline and an honest cost, planning through to hosting and deployment, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

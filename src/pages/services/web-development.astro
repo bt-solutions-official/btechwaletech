@@ -1,8 +1,290 @@
 ---
-import ServiceLayout from "@layouts/ServiceLayout.astro";
-import { getServiceBySlug } from "@data/services";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const service = getServiceBySlug("web-development");
+const faqs = [
+  {
+    question: "How much does a website cost in India?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web app starts from ₹40,000. AI automation work starts from ₹15,000. The final cost depends on scope: page count, custom design work, integrations, and how much content you need written or migrated.",
+  },
+  {
+    question: "How long does a website take to build?",
+    answer: "A small static site or landing page is usually ready in one to two weeks. A 20 to 30 page business site with SEO setup takes three to five weeks. Ecommerce takes four to eight weeks depending on catalogue size and payment flows. A custom web app takes six to twelve weeks. Content readiness on your side is the single biggest factor in the timeline.",
+  },
+  {
+    question: "What is included in the price?",
+    answer: "We deliver end to end: planning, design, development, SEO setup, hosting, and deployment. That includes semantic markup, schema, an XML sitemap, canonical tags, an analytics-ready setup, and a live domain with HTTPS. After hosting goes live you get five months of maintenance free. After that, maintenance is from ₹2,000 a month.",
+  },
+  {
+    question: "Should I choose a static site or a dynamic one?",
+    answer: "If your content changes a few times a month and there are no logins, a static site is faster, cheaper to host, and harder to break. If you need user accounts, live inventory, bookings, dashboards, or anything personalised per visitor, you need a dynamic application. Many sites are best as a static front with a small dynamic layer for forms or search.",
+  },
+  {
+    question: "Can you rebuild my existing website without losing rankings?",
+    answer: "Yes. We map every current URL, keep the ones that earn traffic, and set 301 redirects for anything that changes. Titles, descriptions, headings, and internal links are carried across deliberately rather than regenerated. We keep the old site reachable until the new one is verified, then switch DNS and monitor crawl and index reports for the first few weeks.",
+  },
+  {
+    question: "Do I own the code and the hosting account?",
+    answer: "Yes. The domain stays in your name, the repository is handed to you, and hosting is set up under an account you control or one we transfer to you on request. Nothing is locked to a builder you cannot leave. If you later move to another developer, everything they need is in the repository and the deployment settings.",
+  },
+  {
+    question: "Do you write the content or do I have to?",
+    answer: "Either works. Most clients send rough notes, service lists, and pricing, and we shape that into page copy with the right headings and keyword coverage. If you already have a copywriter, we build around their text. Photos, logos, and any legal or certification details always have to come from you, since we never invent them.",
+  },
+  {
+    question: "What happens after five months of free maintenance ends?",
+    answer: "You can continue on a maintenance plan from ₹2,000 a month, which covers content updates, bug fixes, security patches, backups, and uptime and speed checks. Or you can stop and keep the site as it is, since you own the code and hosting. Nothing breaks or expires when the free period ends.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Services India - Design to Deployment",
+  description: "Web development services in India for business sites, ecommerce and web apps. Design, SEO setup, hosting and deployment from ₹5,000, plus 5 months free maintenance.",
+  canonicalPath: "/services/web-development/",
+  h1: "Website design and development handled from first plan to live deployment",
+  intro: "We are a three-person freelance engineering group building fast, search-friendly websites and web applications for businesses across India and abroad. Every project runs end to end: planning, design, development, SEO setup, hosting, and deployment, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Services", href: "/services/" },
+    { label: "Web development", href: "/services/web-development/" },
+  ]),
+  keywords: [
+    "web development services India",
+    "website development company India",
+    "hire web developer India",
+    "static website development",
+    "website design India",
+    "custom web application development",
+    "ecommerce website development India",
+    "business website development",
+    "landing page development",
+    "portfolio website development",
+    "web app development India",
+    "dashboard development",
+    "booking system development",
+    "Astro website development",
+    "responsive website design",
+    "mobile first web development",
+    "Core Web Vitals optimisation",
+    "website redesign services",
+    "website migration services",
+    "SEO friendly website development",
+    "freelance web developer India",
+    "affordable website development India",
+    "website hosting and deployment",
+    "website maintenance services India",
+    "schema markup implementation",
+    "accessible website development",
+    "small business website India",
+    "startup website development",
+  ],
+});
 ---
 
-<ServiceLayout page={service.seo} />
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Web development</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Web development services India, delivered by the engineers who write the code</h2>
+            <p>BtechWaleTech is a freelance group of three engineers. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management alongside data science and automation work. When you hire us you talk to the people building the site, not an account manager relaying messages to a team you never meet. That shortens every feedback loop. A change you describe on a call is usually in a preview link the same day or the next.</p>
+            <p>We work remotely with clients across India and overseas, and we are honest about that: there is no office you can visit and no branch network. What there is instead is a working process, a written scope, and a live preview URL from the first week so you can see progress rather than take it on trust. If you want a wider view of what we do, the <a href="/services/">services overview</a> covers the rest of the group's work, and <a href="/pricing/">pricing</a> lists starting figures for everything.</p>
+          </article>
+          <article>
+            <h3>What "end to end" actually means here</h3>
+            <p>Plenty of developers hand over a folder of files and leave you to find hosting. We do not. Every engagement covers planning, design, development, SEO setup, hosting, and deployment, so the finished result is a working website on your domain with HTTPS, analytics ready to connect, and search engines able to crawl it properly. After the site goes live, five months of maintenance are included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance is from ₹2,000 per month if you want it to continue.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="static-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="static-heading">Static or dynamic: choosing the right architecture before anyone writes code</h2>
+            <p>This is the decision that shapes cost, speed, and maintenance for the next several years, and it is the one most quotes skip. A static website is built once and served as plain HTML, CSS, and images from a content delivery network. Nothing runs on a server when a visitor arrives, so pages load in a fraction of a second, hosting is nearly free, and there is no database to be hacked or backed up. A dynamic site runs code on every request, assembling pages from a database so it can show different content to different users.</p>
+            <p>Static wins more often than people expect. A law firm, a manufacturer, a clinic, a consultancy, a restaurant, an agency: these sites change a few times a month at most. Building them dynamically adds a server, a database, a CMS to patch, and a monthly bill, all to solve a problem the business does not have. Static website development also gives you the best possible Core Web Vitals almost for free, because there is no server-side delay before the first byte reaches the browser.</p>
+          </article>
+          <article>
+            <h3>When you genuinely need dynamic</h3>
+            <p>Some things cannot be static and should not be forced. If visitors log in, if inventory and stock levels change through the day, if bookings must be checked against real availability, if each customer sees their own data, or if staff need an admin panel to change content daily, you need an application with a database behind it. The honest answer is that many projects are a hybrid: a static marketing front for speed and search, with a small dynamic layer for the parts that really need it, such as a booking form, a search index, or a customer portal. We recommend that split whenever it fits, because it keeps the expensive, fragile part of the system as small as possible.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section-head">
+        <h2 id="types-heading">Types of websites and applications we build</h2>
+        <p class="it-section-note">Different goals need different structures. Here is what each type usually involves in practice.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="types-heading">
+        <div class="it-text-block">
+          <article>
+            <h3>Marketing and business websites</h3>
+            <p>A business website is your sales argument arranged as pages: what you do, who it is for, proof, pricing, and a clear way to get in touch. The structure matters more than the decoration. We normally build a home page, one page per service, an about page that shows real people, a contact page with working forms, and location or industry pages where search demand justifies them. Landing pages are a narrower version of the same idea, built for a single campaign with one offer and one action, stripped of the navigation that distracts from it. Portfolio sites sit close by, structured around case detail rather than service lists, which is why we keep our own <a href="/portfolio/">portfolio</a> and <a href="/case-studies/">case studies</a> separate.</p>
+          </article>
+          <article>
+            <h3>Ecommerce, web apps, dashboards and booking systems</h3>
+            <p>Ecommerce brings catalogue structure, variants, cart logic, payment gateways, shipping rules, and order emails, and each of those has edge cases that only show up under real traffic. Custom web apps are where the work gets genuinely bespoke: user roles, permissions, forms that write to a database, workflows that mirror how your team already operates. Dashboards are their own discipline, since presenting numbers clearly is harder than fetching them, and a chart that misleads is worse than a table that does not. Booking systems look simple and are not, because availability, timezone handling, cancellations, and double-booking prevention all have to be right on the first try.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="tech-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="tech-heading">Our technical approach: static-first, semantic, and measured</h2>
+            <p>We build most sites with Astro, which ships static HTML by default and adds JavaScript only to the components that genuinely need it. The result is a page that renders immediately instead of waiting for a framework to boot. Markup is semantic: headers, navs, mains, articles, and headings in real order, not a stack of unlabelled divs. That single habit improves accessibility for screen reader users, gives search engines a clean structure to read, and makes the CSS simpler because elements describe themselves.</p>
+            <p>Core Web Vitals are treated as build constraints, not a post-launch cleanup. Images are sized and modern-format so layout does not shift while they load. Fonts are limited and preloaded so text does not flash or reflow. Interactive elements respond immediately because there is little script competing for the main thread. Layouts are mobile-first, written for a narrow screen and expanded upward, because most Indian traffic arrives on a mid-range phone over a variable connection, and a design tested only on a desktop monitor always disappoints there.</p>
+          </article>
+          <article>
+            <h3>Accessibility basics that we do not skip</h3>
+            <p>Every image gets meaningful alt text or an explicit empty alt when it is decorative. Colour contrast is checked against WCAG AA rather than eyeballed. Every interactive element is reachable and usable by keyboard, with a visible focus outline that we never delete for looks. Forms have real labels tied to their inputs, and error messages say what went wrong in plain words. None of this is expensive when it is designed in from the start, and all of it is expensive to retrofit later. It also happens to correlate with better search performance, since the same structure that helps a screen reader helps a crawler.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="included-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="included-heading">What every build includes as standard</h2>
+            <p>These are not upsells. A website without them is unfinished, so they are part of the base price on every project regardless of size.</p>
+            <ul class="it-list">
+              <li>Unique title tags and meta descriptions written per page, not generated from a template.</li>
+              <li>A single H1 per page and a heading hierarchy that reflects the actual content structure.</li>
+              <li>Schema markup in JSON-LD: organisation, breadcrumbs, service, FAQ, and article where relevant.</li>
+              <li>An XML sitemap and a robots file that matches it, both generated at build so they never go stale.</li>
+              <li>Canonical tags on every URL and a consistent trailing-slash policy to prevent duplicate versions.</li>
+              <li>Open Graph and Twitter card tags so shared links preview correctly instead of showing bare URLs.</li>
+              <li>Analytics-ready setup, with Google Analytics 4 and Search Console connected and verified on request.</li>
+              <li>Internal linking planned across the site rather than dropped in at the end.</li>
+              <li>HTTPS, security headers, and a deployment pipeline that rebuilds and publishes on every change.</li>
+              <li>A 404 page that helps rather than dead-ends, and redirects for any URL that moved.</li>
+            </ul>
+            <p>If you want the search side taken further after launch, that is a separate ongoing engagement covered under <a href="/services/seo-services/">SEO services</a>, which starts from ₹5,000 per month. The foundations above are included either way, so the site never launches in a state that needs fixing before it can rank.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="process-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="process-heading">The process from first conversation to launch day</h2>
+            <p>It starts with a call or an email thread where we ask what the site is for, who buys from you, what you sell, and what a good month looks like. We look at your current site if you have one and at two or three competitors. Out of that comes a written scope: the page list, the features, what we will write versus what you will send, the price, and the timeline. Nothing starts until you have agreed to that document, because the arguments that ruin projects almost always trace back to a scope that was never written down.</p>
+            <p>Design comes next, usually as the home page and one inner page so you can react to a real layout instead of a mood board. Once the direction is signed off, development runs in visible increments on a preview URL you can open any time. Content goes in as it is ready. Then a review pass: every link clicked, every form submitted, real devices rather than a browser resize, contrast and keyboard checks, and a build audit for speed. Launch is DNS, HTTPS, sitemap submission, and analytics verification, after which we watch Search Console for the first weeks to catch crawl or index issues while they are still small.</p>
+          </article>
+          <article>
+            <h3>Timelines by project size</h3>
+            <p>A single landing page or a small static site is one to two weeks. A standard business site of eight to fifteen pages is two to four weeks. A 30-page SEO website, taken from design through to deployment, is typically three to five weeks. Ecommerce runs four to eight weeks depending on catalogue size, variants, and payment and shipping complexity. A custom web app or dashboard is six to twelve weeks, sometimes longer if it integrates with systems you already run. These assume content and feedback arrive without long gaps. In practice the most common cause of a late launch is not development, it is waiting three weeks for photos and approved copy, so we agree content deadlines in the scope alongside the build ones.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cost-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="cost-heading">What drives the cost of a website</h2>
+            <p>Our starting prices are straightforward. A static website starts from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. AI automation work starts from ₹15,000. Ecommerce starts from ₹25,000. A custom web application starts from ₹40,000. Ongoing SEO is from ₹5,000 per month and maintenance is from ₹2,000 per month once the five free months are used. Final cost always depends on scope, and anyone quoting a fixed number before understanding your requirement is guessing.</p>
+            <p>Four things move the figure. Page count is the obvious one, though it is not linear: the tenth page of a well-templated site costs far less than the first. Custom design work is the second, since a bespoke layout for every section costs more than a consistent system applied across pages. Integrations are the third and the most underestimated: payment gateways, CRMs, ERPs, shipping APIs, and legacy systems each add testing and failure handling that a brochure page never needs. The fourth is content, because writing thirty pages of accurate service copy is real work whether we do it or you do.</p>
+          </article>
+          <article>
+            <h3>Where spending more actually pays back</h3>
+            <p>Spend on structure and speed before decoration. A site with clean information architecture, fast pages, and pages that answer real questions will out-earn a prettier one with none of that. Spend on the pages closest to money, which are usually service pages, pricing, and contact, before the blog. Spend on a proper checkout if you sell online, since a confusing payment flow costs more in abandoned carts than the development ever cost. Do not spend on custom animation, a video background, or a chatbot before the basics are solid. Our full <a href="/pricing/">pricing page</a> breaks the figures down further, and <a href="/contact/">contact</a> is the fastest way to get a scoped number for your specific project.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="hosting-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="hosting-heading">Hosting, deployment, redesigns and migrations</h2>
+            <p>For static builds we deploy to a modern CDN-backed platform where every push to the repository triggers a build and publishes automatically. Hosting at that tier is often free or a few hundred rupees a month, HTTPS is automatic, and a bad deploy can be rolled back in seconds. Sites with a backend go on a small cloud instance, usually AWS, sized to actual traffic rather than a sales pitch, with backups scheduled and a staging environment kept separate from production. Your domain stays registered in your name, and hosting is either under your account or transferred to you whenever you ask.</p>
+            <p>Redesigns and migrations need more care than new builds because there is existing search equity to protect. We export every current URL, check which ones earn traffic or links, and decide page by page whether it survives, merges, or redirects. Anything that moves gets a 301. Titles, descriptions, and headings that already perform are carried across rather than rewritten for the sake of it. The old site stays reachable until the new one is verified, then DNS switches and we monitor coverage, crawl stats, and rankings closely for the first month. A rebuild that ignores this is how businesses lose a decade of accumulated ranking in one weekend.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="mistakes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="mistakes-heading">Common mistakes businesses make when commissioning a website</h2>
+            <p>The most expensive mistake is buying a design instead of a plan. A beautiful home page with no thought about which pages target which searches produces a site that looks fine and gets found by nobody. The second is choosing a builder platform for a project that will outgrow it, then paying twice when the rebuild becomes unavoidable. The third is not owning your own domain and hosting, which turns every future disagreement with a supplier into leverage against you. The fourth is judging quotes purely on price without comparing what is inside them, since a cheap quote that excludes SEO setup, hosting, and deployment is not cheaper, it is smaller.</p>
+            <p>Two more are worth naming. Treating launch as the finish line leaves a site that decays quietly, with broken forms, expired plugins, and outdated pricing that nobody notices for months, which is exactly why five months of maintenance are included by default rather than sold as an extra. And commissioning without a written scope invites the slow, friendly drift of extra requests that pushes a four-week project into its fourth month. Neither is hard to avoid. Both are common because nobody warns clients in advance.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are looking for web development in a particular city or state, these pages cover how we work with businesses in each area, with remote-friendly delivery throughout.</p>
+            <ul class="it-list">
+              <li><a href="/services/seo-services/">SEO services</a> for ongoing search work after launch</li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/india/">Web development in India</a></li>
+              <li><a href="/india/haryana/gurgaon/web-development/">Web development in Gurgaon</a></li>
+              <li><a href="/india/maharashtra/mumbai/web-development/">Web development in Mumbai</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a> and <a href="/india/telangana/hyderabad/">Hyderabad</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Noida</a> and <a href="/india/delhi/">Delhi</a></li>
+              <li><a href="/india/gujarat/ahmedabad/">Ahmedabad</a> and <a href="/india/rajasthan/jaipur/">Jaipur</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/usa/">USA</a>, <a href="/uae/">UAE</a> and <a href="/australia/">Australia</a> clients</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Frequently asked questions about web development</h2>
+            <div class="it-faq">
+              {faqs.map((faq) => (
+                <details>
+                  <summary>{faq.question}</summary>
+                  <p>{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what you need built</h2>
+          <p>Send a short description of your project and we will reply with a scope, a timeline, and a price. Planning, design, development, SEO setup, hosting, and deployment are all included, along with five months of free maintenance after your site goes live.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

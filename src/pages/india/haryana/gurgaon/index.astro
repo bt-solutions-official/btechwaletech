@@ -1,6 +1,277 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("haryana", "gurgaon");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a business in Gurgaon (Gurugram)?",
+    answer: "A static brochure website starts from Rs 5,000. A 30-page SEO website taken from design to deployment starts from Rs 10,000. Ecommerce starts from Rs 25,000, a custom web application from Rs 40,000, and AI automation from Rs 15,000. Monthly SEO starts from Rs 5,000 per month. The final cost always depends on scope, page count and how much custom work the build needs.",
+  },
+  {
+    question: "How long does a Gurgaon (Gurugram) website project take?",
+    answer: "A small static site is usually live in about one to two weeks. A 30-page SEO website normally runs three to five weeks depending on how quickly content and photos arrive. Ecommerce and custom web applications take four to ten weeks. The single biggest delay on almost every project is waiting for content from the client, not the development work itself.",
+  },
+  {
+    question: "Do you have an office in Gurgaon (Gurugram)?",
+    answer: "No. We are a small freelance engineering group and we work with businesses in Gurgaon (Gurugram) remotely. That is deliberate and we say it plainly rather than pretending otherwise. You get calls on WhatsApp or Google Meet, a shared project tracker, and a live staging link you can open at any point during the build.",
+  },
+  {
+    question: "Is maintenance included after the website goes live?",
+    answer: "Yes. Every project includes five months of free maintenance after hosting goes live. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, ongoing maintenance is from Rs 2,000 per month if you want us to keep handling it. There is no obligation to continue.",
+  },
+  {
+    question: "Can you rank a Gurgaon (Gurugram) business for local searches?",
+    answer: "We can build the foundation that local ranking needs: a properly optimised Google Business Profile, area-level pages, correct LocalBusiness schema, fast pages and consistent business details across listings. Sensible movement on local searches usually shows within three to six months. Anyone promising page one in four weeks for a competitive Gurgaon (Gurugram) keyword is guessing.",
+  },
+  {
+    question: "Do you redesign an existing website or only build new ones?",
+    answer: "Both. Redesigns are common because many Gurgaon (Gurugram) businesses already have a site that loads slowly, breaks on phones, or was built on a page builder nobody can edit any more. We audit what is there, keep the URLs and content that already earn traffic, and rebuild the rest so search rankings are not lost in the move.",
+  },
+  {
+    question: "Who actually works on the project?",
+    answer: "Three engineers. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, data science and automation. You speak to the people writing the code, not to an account manager who forwards messages to a team you never meet.",
+  },
+  {
+    question: "What do you need from us to start?",
+    answer: "A short call about what the business does and who you want to reach, your logo and any brand colours, photos if you have them, and a rough idea of the pages you want. If content is not ready we can draft it. We then send a fixed scope and price before any work starts, so there are no mid-project surprises.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Gurgaon (Gurugram) | Websites and SEO",
+  description: "Web development, website design and SEO services for businesses in Gurgaon (Gurugram). End-to-end delivery from Rs 5,000 with 5 months free maintenance.",
+  canonicalPath: "/india/haryana/gurgaon/",
+  h1: "Website Design, Development and SEO for Gurgaon (Gurugram) Businesses",
+  intro: "We build and rank websites for businesses working across Gurgaon (Gurugram), from Cyber City offices to clinics and studios on Sohna Road. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Haryana", href: "/india/haryana/" },
+    { label: "Gurgaon (Gurugram)", href: "/india/haryana/gurgaon/" },
+  ]),
+  keywords: [
+    "web development company in Gurgaon (Gurugram)",
+    "web development company in Gurgaon",
+    "website designer Gurgaon (Gurugram)",
+    "website designer Gurugram",
+    "SEO services Gurgaon (Gurugram)",
+    "SEO company Gurugram",
+    "website development cost in Gurgaon (Gurugram)",
+    "website design Gurgaon",
+    "ecommerce website development Gurgaon",
+    "local SEO Gurugram",
+    "website redesign Gurgaon",
+    "web designer Cyber City Gurgaon",
+    "website development Golf Course Road",
+    "web development Udyog Vihar",
+    "website design Sohna Road",
+    "SEO services MG Road Gurgaon",
+    "web development DLF Phase 3",
+    "website designer Sector 44 Gurgaon",
+    "freelance web developer Gurgaon",
+    "startup website development Gurugram",
+    "real estate website design Gurgaon",
+    "restaurant website design Gurugram",
+    "clinic website design Gurgaon",
+    "corporate website development Gurugram",
+    "Google Business Profile optimisation Gurgaon",
+    "affordable website design Gurgaon",
+    "website maintenance Gurugram",
+    "Haryana web development services",
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Gurgaon (Gurugram)</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Gurgaon (Gurugram) businesses actually struggle with online</h2>
+            <p>Gurgaon (Gurugram) is one of the most competitive commercial markets in the country, and that shows up online. A single search for a service here returns paid ads, a map pack, three directory aggregators and only then an actual local business. Corporate headquarters in Cyber City sit a few kilometres from small studios in Sector 44, and both are bidding for the same attention. The result is that a decent business with a weak website simply does not get found, while a smaller competitor with a fast, well structured site takes the enquiry.</p>
+            <p>The problems we see repeat themselves. Sites built five years ago on heavy page builders that now take eight seconds to load on a phone. Beautiful design agency work with no headings, no schema and no indexable content. Google Business Profiles created once and never touched again, missing service categories, missing photos, missing hours. And a lot of Gurgaon (Gurugram) businesses running paid ads to a landing page that was never tested on a mid-range Android handset, which is what most of their visitors are actually using.</p>
+          </article>
+          <article>
+            <h3>Why the fix is usually structural, not cosmetic</h3>
+            <p>Owners often ask for a redesign when the real issue is that Google cannot understand the site. Pretty is not the same as findable. If every page carries the same title tag, if service pages are locked inside a JavaScript widget, or if the contact number appears as an image, no amount of visual polish will move rankings.</p>
+            <p>We start by reading what is already there. Often thirty percent of an existing site is worth keeping, and rebuilding the other seventy percent on a clean, fast foundation costs less and performs better than starting from zero. That audit is free and takes a day. Our broader technical work for the city sits on the <a href="/it-services/haryana/gurugram/">IT services page for Gurugram</a> if you need more than a website.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Gurgaon (Gurugram) business</h2>
+            <p>There is no single right build. A consultancy in DLF Phase 4 that needs credibility and a contact form has almost nothing in common with a boutique on MG Road that wants to sell online. Choosing the wrong type is how businesses end up paying for a content management system they never log into, or fighting a static site when they need stock levels updated daily. We pick the lightest option that does the job, because lighter sites load faster, cost less and break less often.</p>
+            <p>The four routes below cover most of what we build for the city. Whichever you choose, delivery is end to end: planning, design, development, SEO setup, hosting and deployment are all handled by us, and five months of maintenance are included free after the site goes live. Full detail on our build process sits on the <a href="/services/web-development/">web development services page</a>.</p>
+            <ul class="it-list">
+              <li><strong>Static website, from Rs 5,000.</strong> Five to ten pages, extremely fast, ideal for consultancies, coworking operators and professional services that update content occasionally.</li>
+              <li><strong>Dynamic or content managed site, from Rs 10,000 for a 30-page SEO build.</strong> You edit text, images, blog posts and service pages yourself. Best when content changes weekly.</li>
+              <li><strong>Redesign of an existing site.</strong> Priced against scope. We preserve the URLs and pages already earning traffic, then rebuild structure, speed and mobile behaviour around them.</li>
+              <li><strong>Ecommerce, from Rs 25,000.</strong> Product catalogue, payment gateway, order flow and stock. Suited to retail, food brands and studios selling packages online.</li>
+              <li><strong>Custom web application, from Rs 40,000.</strong> Booking systems, dashboards, client portals and internal tools where an off-the-shelf platform will not fit.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Gurgaon (Gurugram) business website should include</h2>
+            <p>The baseline has moved. A site that only lists services and a phone number is not enough when the person searching is comparing four businesses in the same ten minutes on a phone in a cab on Golf Course Road. Every build we ship carries a clear service structure with one page per service rather than one page listing everything, since single-service pages are what actually rank for the searches people type. Location context matters too, phrased honestly as the areas you serve rather than invented branch addresses.</p>
+            <p>Speed is treated as a feature, not an afterthought. We compress and convert images, keep third-party scripts to what is genuinely needed, and test on real mid-range devices rather than a desktop browser window shrunk down. Contact paths are made obvious: a tappable phone number, a WhatsApp link, and a form that actually delivers to an inbox you check, tested before launch. On top of that go the technical basics search engines expect.</p>
+          </article>
+          <article>
+            <h3>The technical layer that comes as standard</h3>
+            <p>Unique title tags and meta descriptions for every page, a proper heading hierarchy, structured data so Google can read your business details, an XML sitemap, a robots file, canonical tags and an SSL certificate. Analytics and Search Console are connected and verified before we hand over, so you can see traffic from day one instead of discovering three months later that tracking was never installed.</p>
+            <p>We also set up the boring safety net: automated backups, an uptime check, and a staging environment so changes can be reviewed before they touch the live site. None of this is exciting, and all of it is what separates a site that keeps working from one that quietly breaks in month four.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Gurgaon (Gurugram) searches</h2>
+            <p>Local search in Gurgaon (Gurugram) splits into two battles. The first is the map pack, the three business listings that appear with a map above the normal results. That is won mostly through your Google Business Profile: correct primary category, complete service list, real photos updated regularly, accurate hours, consistent name, address and phone details wherever your business is listed, and a steady flow of genuine reviews. Most local businesses we look at have filled in about forty percent of their profile and stopped there.</p>
+            <p>The second battle is the organic results below the map. That is won on your own website, through pages built around the way people actually search. Someone types the service plus the area, not the service alone. Area-level pages and naturally written content covering Udyog Vihar, Sohna Road, DLF Phase 1 to 5, MG Road and the sector-level searches around them do the work here, provided each page says something real. Thin pages that only swap the area name get ignored by Google and by readers.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting when you do not have a shopfront</h3>
+            <p>Plenty of Gurgaon (Gurugram) businesses deliver at the client site: photographers, trainers, consultants, home services, IT support. Google supports this as a service-area business, where you declare the areas you cover instead of publishing an address. Setting this up correctly matters, because a mismatch between your profile and your website is a common reason listings underperform.</p>
+            <p>Monthly SEO work starts from Rs 5,000 per month and covers keyword tracking, on-page fixes, content additions, profile updates and reporting you can read without a glossary. Realistic movement on competitive Gurgaon (Gurugram) terms takes three to six months. The <a href="/services/seo-services/">SEO services page</a> explains what a month of work actually contains.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Website development cost in Gurgaon (Gurugram) and typical timelines</h2>
+            <p>We publish starting prices because vague quoting wastes everyone's time. A static website starts from Rs 5,000. A 30-page SEO website taken from design through to deployment starts from Rs 10,000. AI automation work starts from Rs 15,000, ecommerce from Rs 25,000, and a custom web application from Rs 40,000. Monthly SEO starts from Rs 5,000 per month, and maintenance after the free period is from Rs 2,000 per month. The final cost always depends on scope, and we confirm a fixed figure in writing before starting.</p>
+            <p>On timelines, a small static build is typically live within one to two weeks. A 30-page SEO site runs three to five weeks. Ecommerce and custom applications land between four and ten weeks depending on integrations. The variable that moves these dates most is content. If your text, photos and product details are ready when we start, projects finish early. If they arrive in pieces over six weeks, the build waits. We can write content for you if that is the blocker. Full figures sit on the <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery and five months of free maintenance</h2>
+            <p>We handle the whole thing: planning, design, development, SEO setup, hosting and deployment. That matters more than it sounds. The usual failure pattern is a designer who hands over files, a developer who builds without SEO in mind, and a hosting provider nobody chose deliberately. Three parties, no single owner, and when the site goes down at 11pm everyone points at someone else. With one team responsible from the first call to the live URL, there is nobody to pass the problem to.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It is not a trial that quietly converts into a bill. After five months, if you want us to continue, maintenance is from Rs 2,000 per month, and if you would rather take it in-house we hand over the hosting access, repository and documentation without argument. The site is yours.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Gurgaon (Gurugram)</h2>
+            <p>The city's mix is unusual. Corporate headquarters and multinational back offices concentrate around Cyber City and Udyog Vihar, funded startups cluster along Golf Course Road and the DLF phases, and a dense layer of consumer businesses fills the sectors in between. Each needs a different website, and the mistake is applying an enterprise structure to a six-person studio or a brochure template to a company running enterprise sales.</p>
+            <p>Corporate headquarters usually need credibility, careers pages, investor or compliance content and multilingual readiness. Startups need a site that can change every fortnight without a developer, plus fast landing pages for campaigns. Real estate needs property listings, gallery performance and lead capture that does not lose enquiries. Coworking spaces need availability, tour bookings and location pages that rank for their immediate area.</p>
+          </article>
+          <article>
+            <h3>Consumer businesses and clinics</h3>
+            <p>Restaurants need menus that load instantly, table or delivery links, and a Google Business Profile that carries current photos, because a large share of restaurant discovery in Gurgaon (Gurugram) never reaches a website at all. Fitness studios need class schedules, trainer profiles, package pricing and online booking, since the enquiry usually happens at ten at night rather than during staffed hours.</p>
+            <p>Clinics need appointment booking, doctor credentials, treatment pages written for people who are worried rather than shopping, and careful handling of anything patient-related. Across all three, the same two things decide performance: how quickly the page opens on a phone, and whether the next step is obvious within one screen. Related work for other sectors is collected under <a href="/industries/">industries</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with a remote team on a Gurgaon (Gurugram) project runs</h2>
+            <p>We are a freelance group of three engineers and we work with businesses in Gurgaon (Gurugram) remotely. We do not claim an office in the city and we will not invent one. In practice, remote delivery for a website project is not a compromise, because almost none of the work needs anyone physically present. What it does need is communication that does not disappear for a week.</p>
+            <p>The routine is simple. A first call to understand the business and agree scope. A written scope and fixed price before anything starts. A shared tracker showing what is done, what is in progress and what we are waiting on from you. A staging link from the first week so you watch the site take shape instead of waiting for a big reveal. Calls on WhatsApp or Google Meet whenever a decision is needed, and replies on the same working day. If something needs a person on site in Gurgaon (Gurugram), such as photography, we will tell you plainly to arrange it locally rather than pretending we can cover it. More about the three of us is on the <a href="/about/">about page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">How to get started</h2>
+            <p>Send an email or call and describe the business in a few lines: what you do, who you sell to, what you have online now, and what is not working. If you already have a website, share the link and we will look at speed, structure, mobile behaviour and current search visibility before we reply, so the first conversation is about your actual site rather than a generic pitch. That review costs nothing and comes with no obligation.</p>
+            <p>From there we agree on the build type, confirm a fixed scope and price in writing, and set a delivery date. Work starts once you approve. You will see a staging link within the first week, and the site goes live only when you sign it off. Then the five months of free maintenance begin. If you want to talk through options first, the <a href="/contact/">contact page</a> has everything, and our wider work across the state is on the <a href="/india/haryana/">Haryana page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>Nearby cities, service pages and the wider regional coverage, in case one of these is a closer fit for what you need.</p>
+            <ul class="it-list">
+              <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
+              <li><a href="/india/haryana/gurgaon/web-development/">Web development in Gurgaon (Gurugram)</a></li>
+              <li><a href="/india/haryana/gurgaon/seo-services/">SEO services in Gurgaon (Gurugram)</a></li>
+              <li><a href="/india/haryana/faridabad/">Websites and SEO in Faridabad</a></li>
+              <li><a href="/india/haryana/">Haryana web development and SEO</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Websites and SEO in Noida</a></li>
+              <li><a href="/india/delhi/">Websites and SEO in Delhi</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/india/">India services overview</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions we get from Gurgaon (Gurugram) businesses</h2>
+          <p>Straight answers on cost, timelines, maintenance and how we work.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build or fix your Gurgaon (Gurugram) website?</h2>
+          <p>Tell us what the business does and what is not working online. We reply with a review of your current site, a recommended build type, a fixed price and a delivery date. Websites start from Rs 5,000, hosting and deployment are included, and five months of maintenance come free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,8 +1,261 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { westBengalCities } from "@data/countries/india/cities/west-bengal";
-const page = indiaRegionPage("west-bengal");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a West Bengal business?",
+    answer: "A static website starts from Rs 5,000. A 30-page SEO website taken from design to deployment starts from Rs 10,000. Ecommerce starts from Rs 25,000 and a custom web application starts from Rs 40,000. Monthly SEO starts from Rs 5,000 per month. The final cost always depends on scope, page count and how much content you already have ready."
+  },
+  {
+    question: "How long does a West Bengal website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO website normally takes three to five weeks including content, on-page setup and deployment. Ecommerce and custom applications take six to ten weeks. Timelines depend mostly on how quickly you send product details, photos and approvals, not on our build speed."
+  },
+  {
+    question: "Do you have an office in Kolkata or Siliguri?",
+    answer: "No. We are a small freelance engineering group and we do not claim any office in West Bengal. We work with businesses across Kolkata, Howrah, Siliguri, Durgapur and Asansol through fully remote delivery, using calls, WhatsApp, email and shared preview links. Everything from planning to deployment is handled the same way for every client."
+  },
+  {
+    question: "Is maintenance really free for five months?",
+    answer: "Yes. Once your site is hosted and live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from Rs 2,000 per month, and you are free to take it, skip it or move elsewhere."
+  },
+  {
+    question: "Can you build a website in Bengali as well as English?",
+    answer: "Yes. We can build a bilingual site with Bengali and English content, or an English site with selected Bengali sections such as service descriptions and contact instructions. You supply or approve the Bengali copy, we handle the fonts, encoding, layout and the technical setup so search engines read both versions correctly."
+  },
+  {
+    question: "Will you handle hosting and domain setup too?",
+    answer: "Yes. We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. If you already own a domain we point it correctly and set up SSL. If not, we help you buy one in your own name, so the domain and hosting accounts always belong to your business rather than to us."
+  },
+  {
+    question: "Can you rank a Kolkata business ahead of larger competitors?",
+    answer: "In many local searches, yes. City and neighbourhood level queries are far less competitive than national ones. A fast site, clear service pages, accurate business details and steady content usually beat a bigger but neglected competitor site. We will not promise a fixed position or a fixed timeline, because no honest agency can."
+  },
+  {
+    question: "How do we start a project with you?",
+    answer: "Email or call us with a short description of your business, the pages you think you need and any deadline. We reply with a scope note, a starting price and a rough timeline. If it fits, we begin with structure and content planning before any design work, so nothing gets rebuilt halfway through the project."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in West Bengal | Website and SEO",
+  description: "Web development company in West Bengal building fast websites and SEO for Kolkata, Howrah, Siliguri, Durgapur and Asansol businesses. From Rs 5,000, remote delivery.",
+  canonicalPath: "/india/west-bengal/",
+  h1: "Website Design, Development and SEO for West Bengal Businesses",
+  intro: "We build and rank websites for businesses across West Bengal, from Kolkata trading firms to Siliguri travel operators and Durgapur manufacturers. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "West Bengal", href: "/india/west-bengal/" }]),
+  keywords: [
+    "web development company in West Bengal",
+    "website development West Bengal",
+    "SEO services West Bengal",
+    "website design West Bengal",
+    "web designer Kolkata",
+    "website development Kolkata",
+    "SEO company Kolkata",
+    "web development Howrah",
+    "website design Siliguri",
+    "web development Durgapur",
+    "website design Asansol",
+    "ecommerce website West Bengal",
+    "business website West Bengal",
+    "local SEO West Bengal",
+    "affordable website design Kolkata",
+    "static website West Bengal",
+    "custom web application West Bengal",
+    "Bengali website design",
+    "website maintenance West Bengal",
+    "freelance web developer West Bengal",
+    "school website design Kolkata",
+    "hospital website design West Bengal",
+    "travel website Siliguri",
+    "manufacturing website Durgapur",
+    "trading company website Kolkata",
+    "Google Business Profile Kolkata",
+    "website redesign West Bengal",
+    "hosting and deployment West Bengal"
+  ]
+});
 ---
-<LocationLayout page={page}>{westBengalCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">West Bengal</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The West Bengal business landscape and who needs a better website</h2>
+            <p>West Bengal is not one market. Kolkata runs on trade, finance, education, healthcare and a growing services sector. Howrah still carries a dense base of engineering workshops, foundries and wholesale suppliers. Siliguri is the gateway for the whole North East and for tourism into Darjeeling, Sikkim and Dooars. Durgapur and Asansol sit on steel, coal, cement and the ancillary units around them. Each of those places has different buyers searching in different ways, and a single generic website usually serves none of them well.</p>
+            <p>The businesses that gain most from a rebuild are the ones already getting enquiries but losing them at the website. A Burrabazar trading firm whose only online presence is a directory listing. A Salt Lake coaching institute sending parents to a PDF. A Siliguri tour operator whose itineraries live inside WhatsApp forwards. In every one of those cases the demand already exists. The website is simply not doing the job of answering questions, showing proof and making contact easy.</p>
+          </article>
+          <article>
+            <h3>The three problems we see most often in this state</h3>
+            <p>First, speed. A large number of West Bengal business sites were built on heavy page builders with uncompressed images, and they take five or six seconds to load on a mid-range Android phone over a normal mobile connection. That is where most visitors leave. Second, missing detail. Pages say "quality service" but never list what is actually supplied, in which sizes, to which districts, at roughly what price band. Third, contact friction. A phone number buried in a footer image, no click to call, no WhatsApp, no form that actually reaches an inbox someone reads.</p>
+            <p>None of those are exotic problems and none need a huge budget to fix. Most of the improvement comes from structure and honesty rather than from visual polish. We start every project by mapping what a real buyer needs to know before they call you, then build pages that answer exactly that, in the order they ask.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good West Bengal business website actually includes</h2>
+            <p>A useful site for a business here is small, fast and specific. It loads in about two seconds on mobile, it says clearly what you do and where you serve, and it gives a visitor a reason to trust you within the first screen. Beyond that, the content depends on your trade. A manufacturer needs product specification pages. A school needs admissions information, fee structure guidance and a calendar. A clinic needs doctor profiles, timings and directions. A tour operator needs itineraries, seasons and clear pricing bands.</p>
+            <p>The technical base is the same for all of them. Clean HTML, compressed and correctly sized images, sensible URL structure, proper title tags and descriptions, schema markup so search engines understand the business type, an XML sitemap, and analytics so you can see what people actually do. Our <a href="/services/web-development/">web development service</a> covers this base on every build, whether the project is a five page site or a forty page catalogue.</p>
+          </article>
+          <article>
+            <h3>Pages that earn their place</h3>
+            <ul class="it-list">
+              <li>A home page that names your city and your service in the first sentence</li>
+              <li>One page per service or product family, not one page listing everything</li>
+              <li>An about page with real names, real experience and no invented history</li>
+              <li>Clear pricing guidance, even if it is only a starting range</li>
+              <li>Contact details repeated in the header, footer and on the contact page</li>
+              <li>Location or service area pages where you genuinely serve multiple districts</li>
+              <li>A simple blog or updates section if you can sustain it, skipped if you cannot</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-heading">How local search works across several distinct West Bengal city markets</h2>
+            <p>Search behaviour in this state splits by city more sharply than in many others. Someone in New Town searching for an interior contractor and someone in Siliguri searching the same phrase see almost completely different results, because Google weights proximity heavily for service businesses. That means a single "West Bengal" page will rarely rank across all five major markets. It also means you do not need to compete statewide to get work. You need to win the searches happening within a reasonable travel radius of where you operate.</p>
+            <p>The practical approach is to be strongest where you are physically strongest. If your workshop is in Howrah and you deliver across Kolkata and Hooghly, your site should say that plainly, with a Howrah focused main page and supporting content for the districts you actually cover. Inventing coverage you cannot deliver wastes budget and produces enquiries you have to refuse.</p>
+          </article>
+          <article>
+            <h3>What moves local rankings</h3>
+            <p>A fully filled Google Business Profile with accurate category, hours, service areas and real photographs is still the single biggest lever for map results. Behind that sits your website: fast, mobile-first, with the same business name, address format and phone number used consistently everywhere. Then genuine reviews collected over time, not in a burst. Then content that matches how people phrase queries locally, which often mixes English and transliterated Bengali terms.</p>
+            <p>Our <a href="/services/seo-services/">SEO services</a> work through that list in order, starting with the technical and profile fixes that produce movement in weeks, before touching longer content work. Monthly SEO starts from Rs 5,000 per month and scope is agreed in writing before we begin. We do not sell guaranteed rankings, because nobody can control Google's index.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Bengali audiences</h2>
+            <p>Most commercial searching in West Bengal still happens in English or in Bengali typed with Latin characters. Very few buyers type full queries in Bengali script, but a meaningful number read Bengali more comfortably than English once they land on a page. That combination suggests a specific approach: English URLs, titles and metadata for discoverability, with Bengali content available on the pages where trust and comprehension matter most, such as service explanations, fee details, admission processes and contact instructions.</p>
+            <p>Technically this is straightforward when planned from the start. Correct language attributes, a font stack that renders Bengali script cleanly on Android and iOS, layouts that tolerate longer word lengths without breaking, and either separate language pages or clearly marked bilingual sections. Retrofitting Bengali into a site built without it usually means rebuilding templates, so it is worth deciding early. Northern districts around Siliguri also see Hindi and Nepali speakers, which is worth considering for tourism businesses.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across the state</h2>
+            <p>Trade and wholesale is the largest group. Kolkata and Howrah firms selling machinery parts, chemicals, textiles, packaging or building materials generally need a clear catalogue, downloadable specification sheets and a contact route that suits bulk buyers. Education is the second: schools, coaching centres and training institutes competing for admissions in a crowded market where parents compare five sites in one evening. Healthcare covers clinics, diagnostic labs and specialist practices where appointment booking and clear timings matter more than visual flourish.</p>
+            <p>IT and services firms, often small teams in Sector V or working remotely, need credibility pages and case detail rather than brochure copy. Tourism is distinct again: operators running trips into Darjeeling, Dooars, Sikkim and the North East need itinerary pages that rank seasonally and convert on mobile, since most of that research happens on a phone. You can see the wider picture of what we deliver in the state on our <a href="/it-services/west-bengal/">West Bengal IT services page</a>.</p>
+          </article>
+          <article>
+            <h3>What we do not take on</h3>
+            <p>We are three engineers, not an agency floor, so we turn down work we cannot do properly. We do not run paid advertising campaigns, we do not produce video or photography, and we do not take on projects where the expectation is a first page ranking by a fixed date. We also decline briefs where the budget clearly cannot cover the scope described, because half-built sites help nobody. When something falls outside what we handle, we say so on the first call rather than after taking a deposit.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for West Bengal projects</h2>
+            <p>Prices start at Rs 5,000 for a static website, which suits a small trading firm, consultant or single-location service business that needs a credible presence with five to eight pages. A 30-page SEO website taken from design through to deployment starts from Rs 10,000 and is the usual choice for schools, clinics and multi-service firms. AI automation work starts from Rs 15,000. Ecommerce starts from Rs 25,000 and a custom web application starts from Rs 40,000. Monthly SEO starts from Rs 5,000 per month.</p>
+            <p>Every figure is a starting point and the final cost depends on scope: page count, how much content you provide versus how much we write, integrations, and the complexity of anything custom. We quote in writing after a short conversation rather than guessing from a form. Full details sit on our <a href="/pricing/">pricing page</a>, and nothing gets added mid-project without your written agreement.</p>
+          </article>
+          <article>
+            <h3>How long each type of project runs</h3>
+            <p>Small static sites are typically live within one to two weeks. Thirty page SEO sites take three to five weeks. Ecommerce builds run six to eight weeks depending on catalogue size and payment gateway approvals, which are usually the slowest external dependency. Custom applications start at eight weeks and are scoped in phases so you see working software early rather than at the end. The most common delay by far is content: photographs, product lists and approvals. Projects where a client sets aside a few hours in week one to gather material finish noticeably faster than those that supply material page by page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How fully remote delivery works for West Bengal clients</h2>
+            <p>We do not have an office in West Bengal and we will never claim one. We are a freelance group of three engineers working remotely across India: Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects along with automation and data work. You deal directly with the people building your site, which removes the account manager layer that slows most agency work down.</p>
+            <p>In practice a project runs on calls, WhatsApp and email. We share a live preview link from the first week, so you watch the site take shape rather than waiting for a big reveal. Feedback comes as comments on that preview. Approvals are written. Handover includes your hosting login, domain access and a short walkthrough of how to update content yourself. Everything is registered in your business name, so you can move to any other developer at any time without asking us for permission.</p>
+          </article>
+          <article>
+            <h3>End to end delivery and five months of free maintenance</h3>
+            <p>We handle the whole chain: planning, design, development, SEO setup, hosting and deployment. That matters because the gaps between those stages are where most small projects fail, when a designer hands over files nobody can implement, or a developer finishes a site nobody deploys correctly. One team carrying it from brief to live URL removes that risk entirely.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because the first months after launch are when real problems surface: a form that fails on one browser, an image that breaks on a small screen, a page nobody thought to add. After those five months maintenance is from Rs 2,000 per month if you want it continued.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are looking for something more specific to your city or service, these pages go into more detail on individual markets and offerings.</p>
+            <ul class="it-list">
+              <li><a href="/india/west-bengal/kolkata/">Web development and SEO in Kolkata</a></li>
+              <li><a href="/it-services/west-bengal/">IT services across West Bengal</a></li>
+              <li><a href="/it-services/west-bengal/kolkata/">IT services in Kolkata</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/services/web-development/">Website design and development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/india/bihar/">Nearby work in Bihar</a></li>
+              <li><a href="/it-services/odisha/bhubaneswar/">IT services in Bhubaneswar</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions West Bengal clients ask before starting</h2>
+          <p>Short answers to what usually comes up on a first call.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to plan your West Bengal website?</h2>
+          <p>Tell us your city, your trade and what the site needs to do. You will get a straight scope note, a starting price and a realistic timeline, with end to end delivery and five months of free maintenance included after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

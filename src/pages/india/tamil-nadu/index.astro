@@ -1,8 +1,263 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { tamilNaduCities } from "@data/countries/india/cities/tamil-nadu";
-const page = indiaRegionPage("tamil-nadu");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does a website cost for a Tamil Nadu business?",
+    answer: "A static website starts from Rs 5,000. A 30-page SEO website handled design to deployment starts from Rs 10,000. AI automation starts from Rs 15,000, ecommerce from Rs 25,000, and a custom web application from Rs 40,000. Monthly SEO starts from Rs 5,000 per month. The final cost always depends on scope: page count, integrations, and how much content we write for you.",
+  },
+  {
+    question: "Do you have an office in Chennai or Coimbatore?",
+    answer: "No. We are a small freelance group of three engineers and we work fully remote. We do not claim a branch, franchise, or address anywhere in Tamil Nadu. What we do have is a working process built for remote delivery: written scope, scheduled calls, shared staging links, and a single point of contact. Clients across Tamil Nadu work with us the same way clients elsewhere do.",
+  },
+  {
+    question: "How long does a Tamil Nadu business website take to build?",
+    answer: "A small static site is usually live in about one to two weeks once content is ready. A 30-page SEO site typically takes three to five weeks including keyword mapping and on-page work. Ecommerce and custom web applications run longer, generally six to ten weeks depending on payment flows and integrations. Content delays are the single biggest cause of slippage, so we ask for text and images early.",
+  },
+  {
+    question: "Can you build a website in Tamil as well as English?",
+    answer: "Yes. We build bilingual sites with clean Tamil typography, correct language attributes on each version, and separate URLs so search engines can index both properly. Machine translation alone is not enough for service pages, so you supply the Tamil copy or a translator does, and we handle the structure, fonts, and technical setup around it.",
+  },
+  {
+    question: "Will you rank my site in Chennai and Coimbatore at the same time?",
+    answer: "Those are different search markets and they need different pages. One page trying to cover both usually ranks for neither. We build a service page per core offering, then dedicated city pages for the markets you actually sell into, each with its own headings, copy, and internal links. Ranking timelines vary, but useful movement usually shows between three and six months.",
+  },
+  {
+    question: "What is included in the five months of free maintenance?",
+    answer: "After your site goes live we cover five months at no extra cost: content updates, bug fixes, security and plugin updates, backups, plus uptime and page speed checks. It exists so you are not left alone right after launch, which is when most issues surface. After those five months, ongoing maintenance is from Rs 2,000 per month.",
+  },
+  {
+    question: "Do you handle hosting and domain setup too?",
+    answer: "Yes, we deliver end to end: planning, design, development, SEO setup, hosting, and deployment. We can register and configure the domain, set up hosting, install SSL, connect email, and submit the sitemap to Search Console. You keep ownership of the domain and hosting accounts, which matters if you ever want to move the site elsewhere.",
+  },
+  {
+    question: "Do you work with manufacturers and textile exporters?",
+    answer: "Regularly. Manufacturing and textile clients usually need product or capability catalogues, downloadable specification sheets, certification pages, and an enquiry form that routes to the right person. Those sites are judged by buyers who compare suppliers quickly, so clarity beats decoration. We build them to load fast on weak connections and to read well on a phone.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Tamil Nadu | Website and SEO",
+  description: "Web development company in Tamil Nadu building fast websites and SEO for Chennai, Coimbatore, Madurai, Salem and Tirupur businesses. Websites from Rs 5,000.",
+  canonicalPath: "/india/tamil-nadu/",
+  h1: "Website Design, Development and SEO Services Across Tamil Nadu",
+  intro: "We are a freelance group of three engineers building websites and running SEO for businesses across Tamil Nadu. Everything is handled end to end, from planning and design through hosting and deployment, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Tamil Nadu", href: "/india/tamil-nadu/" },
+  ]),
+  keywords: [
+    "web development company in Tamil Nadu",
+    "website development Tamil Nadu",
+    "website design Tamil Nadu",
+    "SEO services Tamil Nadu",
+    "web designer Tamil Nadu",
+    "web development Chennai",
+    "website design Chennai",
+    "SEO company Chennai",
+    "web development Coimbatore",
+    "website designer Coimbatore",
+    "SEO services Coimbatore",
+    "web development Madurai",
+    "website design Madurai",
+    "web development Tiruchirappalli",
+    "website design Trichy",
+    "web development Salem",
+    "website design Tirupur",
+    "ecommerce website Tamil Nadu",
+    "textile website design Tirupur",
+    "manufacturing website design Coimbatore",
+    "Tamil website development",
+    "bilingual website Tamil English",
+    "local SEO Tamil Nadu",
+    "Google Business Profile Tamil Nadu",
+    "affordable website design Tamil Nadu",
+    "freelance web developer Tamil Nadu",
+    "website maintenance Tamil Nadu",
+    "small business website Tamil Nadu",
+  ],
+});
 ---
-<LocationLayout page={page}>{tamilNaduCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Tamil Nadu</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Tamil Nadu business landscape, and who actually needs a better website</h2>
+            <p>Tamil Nadu is not one market. Chennai runs on IT services, automotive plants, ports, finance, and a large professional services layer. Coimbatore is engineering, pumps, motors, and a dense base of small manufacturers who sell to buyers across India and abroad. Tiruppur is knitwear and garment export. Madurai and Tiruchirappalli anchor southern and central trade, education, and healthcare. Salem covers steel, textiles, and agriculture-linked business. A web development company in Tamil Nadu that treats all of this as one audience produces sites that speak to nobody in particular.</p>
+            <p>The businesses that gain most from better websites are rarely the ones with no website at all. They are the ones running a site built five or eight years ago that still loads slowly on mobile, hides the phone number, lists products in a scanned PDF, and has never been submitted properly to Search Console. Their competitors are not necessarily better companies. They just have pages a buyer can read on a phone in twenty seconds.</p>
+          </article>
+          <article>
+            <h3>Where the gap usually sits</h3>
+            <p>We see the same pattern across Tamil Nadu enquiries. Manufacturers with a strong reputation among existing buyers but no online presence for new ones. Clinics and coaching centres whose entire enquiry flow depends on WhatsApp forwards. Exporters whose buyers vet them on a phone screen before the first email. In each case the fix is not a redesign of taste, it is a rebuild of structure: real pages for real services, written so search engines can categorise them and a human can act on them.</p>
+            <p>That is the work this page describes. If you want the broader engineering side, including cloud, automation and data work, our <a href="/it-services/tamil-nadu/">IT services hub for Tamil Nadu</a> covers it. This page stays on websites and search.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Tamil Nadu business website actually includes</h2>
+            <p>Strip away the decoration and a website that earns enquiries does a short list of things well. It loads in under three seconds on a mid-range Android phone using mobile data, because that is how most of your visitors arrive. It states what you do and where you do it within the first screen. It puts a phone number and a WhatsApp or email link where a thumb can reach them. It gives every service its own page instead of burying six offerings in one paragraph. And it carries the technical basics that let Google index it: clean titles, unique descriptions, a sitemap, structured data, and no broken canonical tags.</p>
+            <p>Beyond that, the details depend on your sector. An exporter needs downloadable specification sheets and certification pages. A clinic needs doctor profiles, timings, and a booking path. A coaching institute needs course pages, batch details, and results presented honestly. We build what the buying decision requires, not a template with your logo dropped into it.</p>
+            <ul class="it-list">
+              <li>Mobile-first pages that stay readable on a small screen and a weak connection</li>
+              <li>One page per service, each targeting a real search intent</li>
+              <li>Visible contact details, a working enquiry form, and a WhatsApp or call link</li>
+              <li>Google Business Profile connected properly to your location pages</li>
+              <li>Titles, meta descriptions, headings, and schema set up before launch</li>
+              <li>Compressed images, cached assets, and a hosting setup that suits your traffic</li>
+              <li>SSL, backups, and an admin panel you can actually use without calling us</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="search-heading">How local search works across a state with several distinct city markets</h2>
+            <p>Search results in Tamil Nadu are heavily localised. A person in Coimbatore searching for a supplier sees a different result set than someone searching the same words in Chennai, and the map pack usually sits above everything else. This has a direct consequence for how your site should be built. A single page trying to cover Chennai, Coimbatore, Madurai, Tiruchirappalli, Salem, and Tiruppur at once tends to rank for none of them, because it says nothing specific about any one place.</p>
+            <p>The structure that works is a hub and spoke. Core service pages carry the main keyword and explain the offering in depth. City pages sit beneath them and cover the parts that genuinely differ: which areas you serve, what local buyers ask about, delivery or site-visit arrangements, and examples relevant to that market. Each city page links back to the service page and out to related cities. This is what we do on our <a href="/services/seo-services/">SEO services</a> engagements, and it is why we build only the city pages you can support with real content rather than thirty thin duplicates.</p>
+          </article>
+          <article>
+            <h3>The signals that move local rankings</h3>
+            <p>Three things carry most of the weight. First, a complete and active Google Business Profile with correct categories, real photos, and steady genuine reviews. Second, consistent name, address, and phone details wherever your business appears online, because contradictions dilute confidence. Third, on-page relevance: a page that mentions the city and the service naturally in the title, the H1, and the body, without keyword stuffing that reads like a spam comment.</p>
+            <p>Timelines are worth being honest about. New sites in competitive Chennai categories rarely show meaningful movement before three months, and six is a more realistic horizon for stable positions. Less contested categories in Salem or Madurai can move faster. Anyone promising page one in thirty days is selling something else.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Tamil Nadu websites</h2>
+            <p>Most Tamil Nadu businesses selling to other businesses run their sites in English, and that is usually the right call for exporters and IT-adjacent firms. Consumer-facing businesses are a different matter. Clinics, retail, education, real estate, and local services see genuine benefit from Tamil content, because voice search and typed Tamil queries have grown steadily and the results pages for those queries are far less contested than their English equivalents.</p>
+            <p>If you want a bilingual site, we build it properly rather than bolting a translate widget on top. Each language gets its own indexable URL, the correct language attribute, a font stack that renders Tamil script cleanly at small sizes, and navigation that lets a visitor switch without losing their place. You provide the Tamil copy or arrange a translator; machine output is fine for a footer, not for a service page a customer will judge you on. We also keep an eye on how names and locality spellings vary, since buyers search Tiruppur and Tirupur, Trichy and Tiruchirappalli, Bengaluru-style variations and all.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for across Tamil Nadu</h2>
+            <p>Tamil Nadu's strongest sectors each ask something different from a website. IT and software services firms need credibility fast: capability pages, a clear engagement model, and case detail that survives scrutiny from a technical buyer. Automotive and engineering manufacturers around Chennai and Coimbatore need product catalogues, capacity and certification information, and enquiry routing that reaches the right desk instead of a shared inbox nobody opens.</p>
+            <p>Textile and knitwear businesses in Tiruppur and Erode are usually selling to buyers who compare a dozen suppliers in an afternoon. Their sites live or die on load speed, clear product ranges, MOQ clarity, and export documentation. Healthcare providers need appointment paths, doctor profiles, and location detail. Education institutions need course pages, admission timelines, and honest outcome information. The common thread is that the website has to answer the question a buyer arrived with, on the page they landed on.</p>
+          </article>
+          <article>
+            <h3>Ecommerce and applications</h3>
+            <p>Where selling online makes sense we build ecommerce from Rs 25,000, covering catalogue structure, payment gateway integration, shipping rules, and order notifications. Where the requirement is operational rather than promotional, a custom web application starts from Rs 40,000: dealer portals, enquiry and quotation systems, internal dashboards, or a booking tool that replaces a spreadsheet. AI automation work, from Rs 15,000, tends to sit alongside these, handling enquiry classification, follow-up drafting, or report generation. Our <a href="/services/web-development/">web development services</a> page goes into the stack detail.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Tamil Nadu projects</h2>
+            <p>We publish starting prices because guessing wastes everyone's time. A static website starts from Rs 5,000 and suits a small firm that needs a credible presence with a handful of pages. A 30-page SEO website, handled design to deployment, starts from Rs 10,000 and is the usual choice for a business that wants to rank for several services across more than one city. AI automation starts from Rs 15,000, ecommerce from Rs 25,000, and a custom web application from Rs 40,000. Ongoing monthly SEO starts from Rs 5,000 per month, and maintenance after the free period is from Rs 2,000 per month. Final cost depends on scope, and we tell you where the scope pushes the number before work begins rather than after.</p>
+            <p>On timelines, a static site is usually live within one to two weeks. The 30-page SEO build typically runs three to five weeks. Ecommerce and application work runs six to ten weeks depending on integrations. The variable that moves those dates most is content. If your product descriptions, photos, and team details are ready when we start, you will be at the fast end of every range. Full figures sit on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How remote delivery works for Tamil Nadu clients</h2>
+            <p>We do not have an office in Tamil Nadu and we will not pretend otherwise. We are three engineers working remotely: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation. You deal with the people writing the code, not an account manager relaying messages.</p>
+            <p>The process is deliberately simple. A first call to understand what you sell and who buys it. A written scope with pages, deliverables, timeline, and cost. Design direction agreed before build. Then development on a staging link you can open any time, with review points where you give feedback in one pass instead of drip-fed changes. Calls happen in Indian Standard Time, so scheduling is straightforward across Chennai, Coimbatore, Madurai, or anywhere else in the state. Documents move over email and WhatsApp. In practice, remote delivery is faster than local meetings, because nobody spends an hour in traffic to discuss something a screen share resolves in ten minutes.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="endtoend-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="endtoend-heading">End to end delivery, and five months of maintenance included free</h2>
+            <p>We handle projects end to end: planning, design, development, SEO setup, hosting, and deployment. That means you are not sent to a separate hosting vendor, a separate SEO consultant, and a separate developer who each blame the other two when something breaks. One group owns the whole path from the first conversation to the site being live and indexed.</p>
+            <p>Once hosting goes live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Those five months matter more than they sound, because the first months after launch are when small problems surface: a form that stops delivering mail, an image set that slows a page, a plugin update that breaks a layout. After the included period, maintenance continues from Rs 2,000 per month if you want us to keep watching it. If you would rather take it in-house, we hand over cleanly with credentials and documentation. You own your domain and hosting throughout.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options across states or cities, these pages cover the rest of our work. Tamil Nadu clients most often start with the Chennai page or the state IT services hub, then move to pricing once the scope is clear.</p>
+            <ul class="it-list">
+              <li><a href="/india/tamil-nadu/chennai/">Web development and SEO in Chennai</a></li>
+              <li><a href="/it-services/tamil-nadu/">IT services across Tamil Nadu</a></li>
+              <li><a href="/it-services/tamil-nadu/chennai/">IT services in Chennai</a></li>
+              <li><a href="/it-services/tamil-nadu/trichy/">IT services in Trichy</a></li>
+              <li><a href="/india/karnataka/bangalore/">Web development in Bangalore</a></li>
+              <li><a href="/india/kerala/kochi/">Web development in Kochi</a></li>
+              <li><a href="/india/telangana/hyderabad/">Web development in Hyderabad</a></li>
+              <li><a href="/india/">Our work across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Questions Tamil Nadu businesses ask before starting</h2>
+            <div class="it-faq">
+              {faqs.map((faq) => (
+                <details>
+                  <summary>{faq.question}</summary>
+                  <p>{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what your Tamil Nadu business needs online</h2>
+          <p>Send a short note about your business, your city, and what the website has to achieve. You will get an honest scope, a realistic timeline, and a price before any work starts.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,6 +1,257 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("haryana", "faridabad");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a Faridabad business?",
+    answer: "A static website starts from ₹5,000 and suits a small workshop, clinic or consultant who needs four to six solid pages. A 30-page SEO website, taken from design through to deployment, starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application from ₹40,000. The final cost always depends on scope, page count and how much content we have to write ourselves."
+  },
+  {
+    question: "How long does a Faridabad website project take?",
+    answer: "A small static site is usually live within one to two weeks once we have your content and logo. A 30-page SEO website normally takes three to five weeks including writing, review rounds and deployment. Ecommerce and custom applications take longer because payments, stock and testing add real work. Delays almost always come from content approval, so we set that expectation early."
+  },
+  {
+    question: "Do you have an office in Faridabad?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses in Faridabad rather than running a branch there. Everything happens over calls, WhatsApp, email and shared documents. In practice most clients prefer this because you talk directly to the people writing the code instead of a sales layer that forwards messages."
+  },
+  {
+    question: "Will my site rank for searches like web development company in Faridabad?",
+    answer: "Ranking depends on competition, your Google Business Profile, and how much genuinely useful content the site carries. What we can promise is correct technical setup, area-level pages, clean titles, internal linking and a profile that is filled in properly. Local rankings usually start moving in two to four months and keep improving while content and reviews build."
+  },
+  {
+    question: "What is included in the 5 months of free maintenance?",
+    answer: "Once hosting goes live you get five months of maintenance at no extra cost. That covers content updates, bug fixes, security and plugin updates, backups, plus uptime and page speed checks. After those five months, maintenance is from ₹2,000 per month if you want us to keep looking after it. There is no obligation to continue."
+  },
+  {
+    question: "Can you redesign an existing Faridabad website instead of building new?",
+    answer: "Yes, and it is often the cheaper route. We audit the current site first, check what is already ranking, and keep those URLs intact so you do not lose traffic. Redesign work usually covers speed, mobile layout, contact flow and content structure. If the existing platform is genuinely holding you back, we will say so rather than patch around it."
+  },
+  {
+    question: "Do you handle hosting and domain setup as well?",
+    answer: "Yes. We handle planning, design, development, SEO setup, hosting and deployment end to end. If you already own a domain we point it correctly and set up SSL. If not, we help you buy one in your own name so you keep ownership. You should always control your own domain and hosting account, and we set it up that way."
+  },
+  {
+    question: "Do you work with small shops and clinics, or only larger companies?",
+    answer: "Both. A lot of our Faridabad conversations start with a single doctor, a coaching centre or a two-person trading firm who needs a credible site and a Google listing that works. Small projects get the same build quality, just fewer pages. Industrial and auto component clients typically need more product depth and enquiry handling."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Faridabad, Haryana",
+  description: "Website design, web development and SEO services for businesses in Faridabad. End-to-end delivery from ₹5,000, hosting included and 5 months free maintenance.",
+  canonicalPath: "/india/haryana/faridabad/",
+  h1: "Website Design, Development and SEO for Faridabad Businesses",
+  intro: "We build and rank websites for businesses across Faridabad, from industrial units near Ballabgarh to clinics and coaching centres around NIT Faridabad. Planning, design, development, SEO setup, hosting and deployment handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Haryana", href: "/india/haryana/" }, { label: "Faridabad", href: "/india/haryana/faridabad/" }]),
+  keywords: [
+    "web development company in Faridabad",
+    "website designer Faridabad",
+    "SEO services Faridabad",
+    "website development cost in Faridabad",
+    "web design company Faridabad",
+    "website design Faridabad Haryana",
+    "local SEO Faridabad",
+    "ecommerce website Faridabad",
+    "website maintenance Faridabad",
+    "website developer NIT Faridabad",
+    "web design Ballabgarh",
+    "website company Old Faridabad",
+    "web developer Sector 15 Faridabad",
+    "website design Neelam Chowk",
+    "industrial website design Faridabad",
+    "auto component website Faridabad",
+    "school website design Faridabad",
+    "clinic website design Faridabad",
+    "Google Business Profile Faridabad",
+    "affordable website Faridabad",
+    "static website Faridabad",
+    "custom web application Faridabad",
+    "website redesign Faridabad",
+    "freelance web developer Faridabad",
+    "SEO company Faridabad Haryana",
+    "digital marketing website Faridabad",
+    "responsive website design Faridabad",
+    "small business website Faridabad"
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Faridabad</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Faridabad businesses actually struggle with online</h2>
+            <p>Faridabad is a working city. Manufacturing sheds, fabrication units, auto component suppliers, tool rooms, schools, diagnostic labs and thousands of retail shops keep it moving, and most of them earned their customers through reference and repeat orders rather than search. That worked for years. It stops working the moment a purchase manager in another city types your product category into Google and finds three competitors with proper websites and none of you.</p>
+            <p>The common pattern we see is not "no website" — it is a website built once around 2016, never updated, slow on mobile, with a contact number that belongs to a staff member who left. Or a one-page template from a local vendor with stock photos of a skyline that is clearly not Faridabad. Buyers notice. When someone is deciding whether to send an enquiry for a ₹4 lakh order, a site that looks abandoned costs you the enquiry silently.</p>
+          </article>
+          <article>
+            <h3>The second problem is being invisible in local search</h3>
+            <p>Plenty of Faridabad businesses have a website that nobody finds. Searches like "CNC machining Faridabad" or "dentist near Neelam Chowk" get answered by the map pack and by pages that specifically mention the area. If your site never names your locality, never lists your service areas, and your Google Business Profile has three photos and no description, you are not in that conversation.</p>
+            <p>Fixing this is not mysterious. It needs a fast site, clear pages for each service, honest local content, a complete business profile, and consistent name, address and phone details everywhere they appear. We do the same work whether the business is in Old Faridabad or in a sector plot off the Mathura Road stretch — the mechanics of local search do not change, only the keywords do.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for Faridabad businesses</h2>
+            <p>There is no single right build. What you need depends on how often the content changes, whether you sell online, and how many pages you actually have something to say on. We pick the smallest option that solves the problem, because an oversized platform costs you money every month and gives you nothing back. Our full approach to builds is described on the <a href="/services/web-development/">web development services</a> page.</p>
+            <ul class="it-list">
+              <li><strong>Static website, from ₹5,000.</strong> Four to eight pages, extremely fast, cheap to host. Right for a clinic, consultant, workshop or trading firm whose content barely changes.</li>
+              <li><strong>Dynamic or CMS website.</strong> You edit content yourself — add products, post updates, change prices. Right when someone in your office will genuinely maintain it.</li>
+              <li><strong>30-page SEO website, from ₹10,000.</strong> Design to deployment, with a page for each service and each area you serve. This is the build that competes in search.</li>
+              <li><strong>Redesign of an existing site.</strong> Keep what ranks, fix speed, mobile layout and structure. Often the fastest way to get results from what you already own.</li>
+              <li><strong>Ecommerce, from ₹25,000.</strong> Product catalogue, payment gateway, order flow, stock. Suits retail and any unit selling spares or consumables directly.</li>
+              <li><strong>Custom web application, from ₹40,000.</strong> Dealer portals, quotation tools, admission forms, internal dashboards. Built when off-the-shelf genuinely will not fit.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Faridabad business website should include</h2>
+            <p>Start with the boring essentials, because they are what convert. A visible phone number in the header on mobile. A WhatsApp link, since most enquiries in Haryana arrive that way. A short, specific description of what you make or do, written in the words your customers use rather than marketing language. Real photographs of your unit, your team or your shop — a picture of your actual shed near Ballabgarh does more for trust than any stock image ever will.</p>
+            <p>Then the pages that answer questions: one page per service or product line, a proper about page that says who runs the business and since when, and a contact page with your full address, working hours and an embedded map. If you supply to other businesses, add capability details — machine list, capacity, certifications, materials handled. Purchase teams shortlist on exactly this information, and most competitor sites leave it out.</p>
+          </article>
+          <article>
+            <h3>Technical basics we set up on every build</h3>
+            <p>Mobile-first layout, because the large majority of Faridabad traffic arrives on a phone over a patchy connection. Compressed images and lean code so pages load in about two seconds rather than eight. Clean URLs, unique titles and descriptions on every page, correct heading structure, and schema markup so search engines understand your business type, location and services.</p>
+            <p>We also set up SSL, an XML sitemap, robots rules, Google Search Console and Google Analytics before launch, not months later. Forms are tested with real submissions to a mailbox you actually check. None of this is optional extra work in our pricing — it is part of the build, and it is the difference between a site that exists and a site that earns.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Faridabad searches</h2>
+            <p>Local search has two halves and you need both. The first is the map pack — those three business listings with ratings that sit above everything else. That is driven by your Google Business Profile: correct category, complete description, service list, real photos, working hours, and a steady trickle of genuine reviews from customers. We set the profile up properly, fix duplicate or wrong listings, and show you a simple way to ask for reviews without being pushy.</p>
+            <p>The second half is your website ranking in normal results. That comes from having a page that matches the search. Someone typing "website designer Faridabad" wants a page about that, in Faridabad, not a generic homepage. So we build service pages, then area-level content that mentions the parts of the city you actually serve — the industrial belt, the sectors, Old Faridabad, Ballabgarh — inside real sentences rather than a stuffed footer list. Our ongoing <a href="/services/seo-services/">SEO services</a> start from ₹5,000 per month.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting when customers come from outside the city</h3>
+            <p>Many Faridabad businesses sell well beyond the city. An auto component supplier near Sector 15 might ship to Gurgaon, Noida and Delhi. A coaching centre might draw students from across the district. Service-area targeting means the site clearly states which areas you cover, with genuine pages for the ones that matter commercially instead of a hundred thin copies with the city name swapped.</p>
+            <p>We also keep expectations honest. Local SEO is not instant. A new site usually starts showing movement for long-tail searches within six to ten weeks, and for competitive head terms it takes longer. Anyone promising page one in thirty days for "web development company in Faridabad" is selling you something they cannot deliver. You can compare related work on our <a href="/india/haryana/">Haryana services page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and website development cost in Faridabad</h2>
+            <p>Here is what things start at, so you can budget before you call. A static website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. AI automation work starts from ₹15,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month, and maintenance after the free period is from ₹2,000 per month. Final cost always depends on scope — page count, content writing, integrations and how many revision rounds you want.</p>
+            <p>On timelines: a small static site is typically live in one to two weeks. The 30-page SEO build takes three to five weeks. Ecommerce runs four to eight weeks depending on catalogue size and payment setup. Custom applications are quoted individually after we understand the workflow. The single biggest cause of delay is content — photos, product details, approvals — so we hand you a short list of what we need on day one. Full figures sit on the <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery with 5 months free maintenance</h2>
+            <p>We take a project the whole way: planning, design, development, SEO setup, hosting and deployment. You do not need to hire a designer separately, then a developer, then find someone to put it online and wonder who owns the server. One group handles it, and you talk to the engineers doing the work. Ankur handles full stack development, Santosh covers AI, machine learning and AWS, and Vedansh runs project management, data science and automation.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That means content updates, bug fixes, security updates, backups, and regular uptime and speed checks — the work that keeps a site healthy and that most vendors quietly stop doing after handover. When those five months end you can continue with maintenance from ₹2,000 per month, or take it in-house. Either way the domain, hosting and code stay in your name.</p>
+          </article>
+          <article>
+            <h3>How remote communication works in practice</h3>
+            <p>We do not have an office in Faridabad and we will not pretend otherwise. We work remotely with businesses across the city, and the process is deliberately simple. First a call to understand the business and what an enquiry is worth to you. Then a written scope with pages, timeline and cost. Then design previews on a live link you can open on your own phone and share with whoever needs to approve it.</p>
+            <p>During the build you get progress updates on WhatsApp or email, and a staging URL that stays current. Feedback comes back as a list, we work through it, and we do not disappear between milestones. If you prefer a video call to walk through the site before launch, we do that. Beyond websites, our broader <a href="/it-services/haryana/faridabad/">IT services in Faridabad</a> page covers cloud, automation and support work.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with in Faridabad</h2>
+            <p>Industrial units and auto component suppliers form the backbone of the city, and their websites need to work harder than a brochure. Buyers want machine lists, tolerances, materials, capacity, certifications and a clear enquiry route. We build those sites around a product or capability structure so each line has its own page and its own chance to rank. A downloadable capability profile and a working RFQ form usually matter more than any visual flourish.</p>
+            <p>Schools and coaching centres need admission-season sites: course pages, fee structure, faculty, results, gallery and an enquiry form that lands in someone's inbox immediately. Clinics and diagnostic labs need doctor profiles, timings, services, directions and click-to-call above the fold. Local retail — furniture, electronics, spare parts, apparel around the Neelam Chowk and Old Faridabad markets — usually starts with a catalogue site and a strong Google Business Profile, then moves to ecommerce once orders justify it.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">How to get started</h2>
+            <p>Send an email or call and describe the business in a few lines: what you do, who buys from you, whether a site already exists, and roughly what you want to spend. We will tell you honestly which option fits — sometimes that is a ₹5,000 static site and a properly built Google listing rather than the large project you were expecting to pay for. If a redesign is smarter than a rebuild, we will say so.</p>
+            <p>You will get a written scope covering pages, timeline, cost and what we need from you, before any payment discussion gets complicated. No retainer to talk, no pressure to decide on the call. If you are comparing options across the state, the <a href="/india/">India services overview</a> shows how we work in other cities too.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <ul class="it-list">
+              <li><a href="/it-services/haryana/faridabad/">IT services in Faridabad</a></li>
+              <li><a href="/india/haryana/">Web and SEO services in Haryana</a></li>
+              <li><a href="/india/haryana/gurgaon/">Website and SEO services in Gurgaon</a></li>
+              <li><a href="/india/">India services overview</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Straight answers to what Faridabad businesses ask us before starting a website or SEO project.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((item) => (
+            <details>
+              <summary>{item.question}</summary>
+              <p>{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build a website that brings enquiries from Faridabad</h2>
+          <p>Tell us about your business and we will come back with a clear scope, timeline and cost. End-to-end delivery, hosting handled, and five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

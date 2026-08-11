@@ -1,10 +1,374 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaPageSeo } from "@data/page-seo/static-pages";
-import { indiaRegions } from "@data/countries/india/states";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "Which parts of India do you actually work in?",
+    answer: "All of it. We are a small freelance team of three engineers and we deliver remotely, so a client in Kochi gets the same process as a client in Noida. The state and city pages exist to answer local questions about budgets, languages and search competition, not to claim an office anywhere.",
+  },
+  {
+    question: "Do you have an office I can visit?",
+    answer: "No. We do not run branch offices and we will not pretend otherwise. Work happens over email, phone and video calls, with a shared project board you can check any day. If you are near one of us we can arrange a meeting, but the delivery model is remote-friendly by design.",
+  },
+  {
+    question: "What does a project cost?",
+    answer: "A static website starts from Rs 5,000. A 30-page SEO website handled design to deployment starts from Rs 10,000. AI automation starts from Rs 15,000, ecommerce from Rs 25,000 and a custom web app from Rs 40,000. Monthly SEO starts from Rs 5,000 a month. Final cost always depends on scope.",
+  },
+  {
+    question: "What is included end to end?",
+    answer: "Planning, design, development, SEO setup, hosting and deployment. You do not need to hire a separate designer, a separate developer and a separate SEO person. We scope the work once, build it, put it live on hosting we configure, and hand over the logins.",
+  },
+  {
+    question: "Is maintenance really free for five months?",
+    answer: "Yes. After hosting goes live you get five months of maintenance included at no extra cost: content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance continues from Rs 2,000 a month if you want us to keep looking after the site.",
+  },
+  {
+    question: "How long does a website take?",
+    answer: "A small static site is usually one to two weeks. A 30-page SEO website is closer to three to five weeks depending on how quickly content and approvals come back. Ecommerce and custom web apps run longer because payments, stock rules and user accounts all need testing before launch.",
+  },
+  {
+    question: "Do I need a local page for my city?",
+    answer: "Not always. If you sell nationwide, one strong service page beats twelve thin city pages. Local pages earn their place when you genuinely serve a defined area and the search results for that area are winnable. We will tell you honestly which case you are in before writing anything.",
+  },
+  {
+    question: "Which city page should I read first?",
+    answer: "Start with the state hub closest to you, then open the city page if one exists. State pages cover the wider market and typical budgets. City pages go into local search competition and the kinds of businesses we usually build for there. Either way the pricing and process are identical.",
+  },
+];
+
+const page = createPageSeo({
+  title: "IT Services in India for Web Development and SEO",
+  description: "IT services in India from a freelance team of three engineers. Websites, ecommerce, AI automation and SEO built end to end, from Rs 5,000, with remote delivery nationwide.",
+  canonicalPath: "/india/",
+  h1: "Web development, SEO and IT services across India",
+  intro: "We are a three-person freelance engineering team working with businesses all over India, delivered remotely. This page is the directory: pick your state or city below to read about local budgets, competition and the kind of work we usually take on there.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }]),
+  keywords: [
+    "IT services in India",
+    "web development company India",
+    "website development India",
+    "freelance web developer India",
+    "SEO services India",
+    "ecommerce website India",
+    "AI automation India",
+    "custom web app development India",
+    "static website design India",
+    "SEO website design India",
+    "web design company Delhi",
+    "web development Gurgaon",
+    "web development Mumbai",
+    "web development Bangalore",
+    "SEO company Noida",
+    "website designer Hyderabad",
+    "web development Chennai",
+    "website development Jaipur",
+    "web design Ahmedabad",
+    "web development Kolkata",
+    "website development Kochi",
+    "website development Pune",
+    "affordable website design India",
+    "website maintenance India",
+    "IT company for small business India",
+    "remote web development team India",
+    "website cost in India",
+    "local SEO services India",
+  ],
+});
 ---
 
-<LocationLayout page={indiaPageSeo}>
-  {indiaRegions.map((region) => <LocationCard title={region.name} href={region.path} />)}
-</LocationLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">India</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="how-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="how-heading">How we work with businesses across India</h2>
+            <p>BtechWaleTech is Ankur Kumar, Santosh Sharma and Vedansh Shrivastava. Ankur builds full stack applications, Santosh handles AI, machine learning, AWS and data work, and Vedansh runs projects, automation and delivery. Three people, one thread, no account managers repeating your requirements back to you incorrectly. That is the whole company, and it is deliberate.</p>
+            <p>Because we deliver remotely, geography changes very little about the work. A bakery in Jaipur and a manufacturing firm in Pune both get the same process: a scoping call, a written plan, a build, a review round, then launch. What changes by region is the market around you, the competition in search results, and sometimes the languages your customers read in. Those are the things the local pages below talk about.</p>
+          </article>
+          <article>
+            <h3>What every project includes</h3>
+            <p>We take projects end to end. Planning, design, development, SEO setup, hosting and deployment are all handled here, so you are not chasing three freelancers who each blame the other two. You get the domain and hosting logins at handover, because the site belongs to you and not to us.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Most small businesses discover problems in exactly that window, which is why the window exists. After five months, maintenance is available from Rs 2,000 per month if you want us to keep watching it. Full numbers are on the <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="use-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="use-heading">Why these local pages exist and how to use them</h2>
+            <p>A location page is only useful if it says something true and specific. Ours describe the businesses we typically build for in that state or city, the budget range those projects usually land in, and how hard the local search results are to win. They do not claim an office, a branch, a walk-in address or a local team, because we do not have any of those anywhere.</p>
+            <p>Use the directory the obvious way. Find your state, read the hub page for the wider picture, then open the city page if one exists for a closer look at local search. If your town is not listed, the nearest state hub still applies, and so does the <a href="/it-services/">IT services index</a> which covers every state in the country. Pricing and process never change with the pin code.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section-head">
+        <h2 id="directory-heading">IT services directory by state and city</h2>
+        <p>Eleven detailed regions with state hubs and city pages. Every link below is a real page you can read before you contact anyone.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="directory-heading">
+        <div class="it-text-block">
+          <article>
+            <h3>Delhi</h3>
+            <p>The capital region sends us more small ecommerce and service-business enquiries than anywhere else, usually with tight timelines and a clear idea of the competition.</p>
+            <ul class="it-list">
+              <li><a href="/india/delhi/">IT services in Delhi</a></li>
+              <li><a href="/it-services/delhi/new-delhi/">New Delhi IT services</a></li>
+              <li><a href="/it-services/delhi/dwarka/">Dwarka IT services</a></li>
+            </ul>
+          </article>
+          <article>
+            <h3>Haryana</h3>
+            <p>Gurgaon work skews towards startups, consultancies and B2B sites that need speed and clean analytics; Faridabad leans more towards manufacturing and trade businesses.</p>
+            <ul class="it-list">
+              <li><a href="/india/haryana/">IT services in Haryana</a></li>
+              <li><a href="/india/haryana/gurgaon/">Gurgaon</a></li>
+              <li><a href="/india/haryana/gurgaon/web-development/">Gurgaon web development</a></li>
+              <li><a href="/india/haryana/gurgaon/seo-services/">Gurgaon SEO services</a></li>
+              <li><a href="/india/haryana/faridabad/">Faridabad</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="west-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="west-heading">Maharashtra</h3>
+            <p>Mumbai and Pune between them cover finance, media, education and a steady stream of product startups that need a marketing site quickly and an app soon after.</p>
+            <ul class="it-list">
+              <li><a href="/india/maharashtra/">IT services in Maharashtra</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>
+              <li><a href="/india/maharashtra/mumbai/web-development/">Mumbai web development</a></li>
+              <li><a href="/india/maharashtra/pune/">Pune</a></li>
+            </ul>
+          </article>
+          <article>
+            <h3>Karnataka</h3>
+            <p>Bengaluru clients tend to arrive technically literate, which usually shortens the scoping stage and pushes the conversation straight to integrations and performance budgets.</p>
+            <ul class="it-list">
+              <li><a href="/india/karnataka/">IT services in Karnataka</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/it-services/karnataka/bengaluru/">Bengaluru IT services</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="north-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="north-heading">Uttar Pradesh</h3>
+            <p>Noida behaves like an extension of the Delhi market, while Lucknow enquiries are more often local service businesses, clinics, coaching institutes and retailers.</p>
+            <ul class="it-list">
+              <li><a href="/india/uttar-pradesh/">IT services in Uttar Pradesh</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Noida</a></li>
+              <li><a href="/india/uttar-pradesh/lucknow/">Lucknow</a></li>
+            </ul>
+          </article>
+          <article>
+            <h3>Telangana</h3>
+            <p>Hyderabad projects often involve pharma, real estate and IT services firms that need credible, content-heavy websites rather than flashy one-page designs.</p>
+            <ul class="it-list">
+              <li><a href="/india/telangana/">IT services in Telangana</a></li>
+              <li><a href="/india/telangana/hyderabad/">Hyderabad</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="south-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="south-heading">Tamil Nadu</h3>
+            <p>Chennai covers exporters, logistics and education, while Trichy and the smaller cities usually want a straightforward, fast site that ranks locally without much fuss.</p>
+            <ul class="it-list">
+              <li><a href="/india/tamil-nadu/">IT services in Tamil Nadu</a></li>
+              <li><a href="/india/tamil-nadu/chennai/">Chennai</a></li>
+              <li><a href="/it-services/tamil-nadu/trichy/">Trichy IT services</a></li>
+            </ul>
+          </article>
+          <article>
+            <h3>Rajasthan</h3>
+            <p>Jaipur brings a mix of tourism, handicraft exporters and jewellery businesses, where photography and a working enquiry form matter more than anything else on the page.</p>
+            <ul class="it-list">
+              <li><a href="/india/rajasthan/">IT services in Rajasthan</a></li>
+              <li><a href="/india/rajasthan/jaipur/">Jaipur</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="east-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="east-heading">Gujarat</h3>
+            <p>Ahmedabad and the wider state send us trading, textile and chemical businesses that need product catalogues buyers can actually search through.</p>
+            <ul class="it-list">
+              <li><a href="/india/gujarat/">IT services in Gujarat</a></li>
+              <li><a href="/india/gujarat/ahmedabad/">Ahmedabad</a></li>
+            </ul>
+          </article>
+          <article>
+            <h3>West Bengal</h3>
+            <p>Kolkata enquiries lean towards education, healthcare and family-run retail, often replacing an old site that was never mobile friendly.</p>
+            <ul class="it-list">
+              <li><a href="/india/west-bengal/">IT services in West Bengal</a></li>
+              <li><a href="/india/west-bengal/kolkata/">Kolkata</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="kerala-heading">
+        <div class="it-text-block">
+          <article>
+            <h3 id="kerala-heading">Kerala</h3>
+            <p>Kochi and the surrounding districts bring tourism operators, clinics, exporters and a growing number of small software and consulting firms. A lot of that work is bilingual in practice, with English pages doing the search work and local language content handling trust. Budgets are usually sensible rather than large, which suits a small team that does not carry an agency overhead.</p>
+            <ul class="it-list">
+              <li><a href="/india/kerala/">IT services in Kerala</a></li>
+              <li><a href="/india/kerala/kochi/">Kochi</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="wider-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="wider-heading">Every other state, covered too</h2>
+            <p>The states above have the most detailed pages, but we work nationwide. The hubs below cover the rest of the country with the same information: what we build, what it costs and how to start. If you are in a district that has no page at all, use the state hub and mention your town when you write to us.</p>
+            <ul class="it-list">
+              <li><a href="/it-services/andhra-pradesh/">Andhra Pradesh</a></li>
+              <li><a href="/it-services/assam/">Assam</a></li>
+              <li><a href="/it-services/bihar/">Bihar</a> and <a href="/it-services/bihar/patna/">Patna</a></li>
+              <li><a href="/it-services/chhattisgarh/">Chhattisgarh</a></li>
+              <li><a href="/it-services/goa/">Goa</a></li>
+              <li><a href="/it-services/himachal-pradesh/">Himachal Pradesh</a></li>
+              <li><a href="/it-services/jharkhand/">Jharkhand</a></li>
+              <li><a href="/it-services/madhya-pradesh/">Madhya Pradesh</a> and <a href="/it-services/madhya-pradesh/indore/">Indore</a></li>
+              <li><a href="/it-services/odisha/">Odisha</a> and <a href="/it-services/odisha/bhubaneswar/">Bhubaneswar</a></li>
+              <li><a href="/it-services/punjab/">Punjab</a> and <a href="/it-services/punjab/ludhiana/">Ludhiana</a></li>
+              <li><a href="/it-services/uttarakhand/">Uttarakhand</a></li>
+              <li><a href="/it-services/jammu-and-kashmir/">Jammu and Kashmir</a></li>
+            </ul>
+          </article>
+          <article>
+            <h3>North East India</h3>
+            <p>The North East is often skipped by agencies because the volumes are smaller. That is not a good reason to ignore it. Remote delivery means a hotel in Shillong or a co-operative in Imphal is exactly as easy for us to work with as a client in Gurgaon, and the pricing is identical.</p>
+            <ul class="it-list">
+              <li><a href="/it-services/arunachal-pradesh/">Arunachal Pradesh</a></li>
+              <li><a href="/it-services/manipur/">Manipur</a></li>
+              <li><a href="/it-services/meghalaya/">Meghalaya</a></li>
+              <li><a href="/it-services/mizoram/">Mizoram</a></li>
+              <li><a href="/it-services/nagaland/">Nagaland</a></li>
+              <li><a href="/it-services/sikkim/">Sikkim</a></li>
+              <li><a href="/it-services/tripura/">Tripura</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="services-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="services-heading">Services and starting prices</h2>
+            <p>Prices below are starting points, not quotes. Final cost depends on how many pages you need, how much content exists already, whether payments or logins are involved, and how much of the design has to be built from scratch. We give a fixed number after a short scoping conversation, and we would rather say a project is out of budget than start one we cannot finish properly.</p>
+            <ul class="it-list">
+              <li>Static website from Rs 5,000</li>
+              <li>30-page SEO website, design to deployment, from Rs 10,000</li>
+              <li>AI automation from Rs 15,000</li>
+              <li>Ecommerce from Rs 25,000</li>
+              <li>Custom web app from Rs 40,000</li>
+              <li>Monthly SEO from Rs 5,000 per month</li>
+              <li>Maintenance from Rs 2,000 per month after the five free months</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Where to read more</h3>
+            <p>The <a href="/services/web-development/">web development service page</a> explains what we build and with which stack. The <a href="/services/seo-services/">SEO services page</a> covers the on-page work, technical fixes and content planning that comes after launch. If you want to see the kind of businesses we already work with, the <a href="/industries/">industries page</a> is the quickest overview.</p>
+            <p>We also work with clients outside India. Delivery, pricing structure and the five free maintenance months are the same wherever you are, only the working hours shift. Details are on the <a href="/usa/">USA</a>, <a href="/uae/">UAE</a> and <a href="/australia/">Australia</a> pages.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>A short list of the pages people usually open next from here.</p>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/it-services/">IT services by state</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/contact/">Contact</a></li>
+              <li><a href="/terms/">Terms</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Questions we get asked before a project starts</h2>
+            <p>If your question is not here, ask it directly. A short email usually gets a clearer answer than any page can.</p>
+          </article>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us where you are and what you need built</h2>
+          <p>Planning, design, development, SEO setup, hosting and deployment handled end to end, with five months of maintenance included free after launch. Send a few lines about your business and we will reply with a realistic scope, timeline and price.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

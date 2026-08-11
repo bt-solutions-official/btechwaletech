@@ -19,24 +19,211 @@ const {
     <h2 id={headingId}>{heading}</h2>
     <p class="it-section-note">{intro}</p>
   </div>
+
   <p class="it-offer-banner">
     <strong>End to end, and 5 months free maintenance.</strong> {endToEndOffer}
   </p>
-  <div class="it-grid">
-    {pricingPlans.map((plan) => (
-      <article class="it-card it-price-card">
-        <h3>{plan.name}</h3>
-        <p class="it-price">
-          <span class="it-price-from">from</span>
-          <span class="it-price-value">{plan.price}</span>
-          {plan.unit && <span class="it-price-unit">{plan.unit}</span>}
-        </p>
-        <p>{plan.summary}</p>
-        <ul class="it-list">
-          {plan.includes.map((item) => <li>{item}</li>)}
-        </ul>
-      </article>
-    ))}
+
+  <div class="price-table-wrap">
+    <table class="price-table">
+      <caption class="visually-hidden">
+        Starting prices, timelines, and what is included for each BtechWaleTech service
+      </caption>
+      <thead>
+        <tr>
+          <th scope="col">Service</th>
+          <th scope="col">Starting price</th>
+          <th scope="col">Typical timeline</th>
+          <th scope="col">What is included</th>
+        </tr>
+      </thead>
+      <tbody>
+        {pricingPlans.map((plan) => (
+          <tr>
+            <th scope="row">
+              <span class="price-name">{plan.name}</span>
+              <span class="price-summary">{plan.summary}</span>
+            </th>
+            <td data-label="Starting price">
+              <span class="price-figure">{plan.price}</span>
+              <span class="price-unit">{plan.unit ?? "onwards"}</span>
+            </td>
+            <td data-label="Typical timeline">{plan.timeline}</td>
+            <td data-label="What is included">
+              <ul class="price-includes">
+                {plan.includes.map((item) => <li>{item}</li>)}
+              </ul>
+            </td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
   </div>
+
   <p class="it-price-note">{pricingNote}</p>
 </section>
+
+<style>
+  .price-table-wrap {
+    overflow-x: auto;
+  }
+
+  .price-table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: left;
+  }
+
+  .price-table caption {
+    text-align: left;
+  }
+
+  .price-table thead th {
+    padding: 0 0 0.85rem;
+    border-bottom: 1px solid rgba(22, 36, 46, 0.18);
+    color: #16242e;
+    font-size: 0.74rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    white-space: nowrap;
+  }
+
+  .price-table tbody tr {
+    border-bottom: 1px solid rgba(22, 36, 46, 0.1);
+    transition: background-color 240ms ease;
+  }
+
+  .price-table tbody tr:hover {
+    background: rgba(18, 144, 124, 0.04);
+  }
+
+  .price-table th,
+  .price-table td {
+    padding: 1.15rem 1.2rem 1.15rem 0;
+    vertical-align: top;
+    font-weight: 400;
+  }
+
+  .price-table td:last-child,
+  .price-table th:last-child {
+    padding-right: 0;
+  }
+
+  .price-name {
+    display: block;
+    color: #16242e;
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 1.08rem;
+    font-weight: 650;
+    letter-spacing: -0.01em;
+  }
+
+  .price-summary {
+    display: block;
+    max-width: 24rem;
+    margin-top: 0.3rem;
+    color: #5c6a70;
+    font-size: 0.88rem;
+    line-height: 1.55;
+  }
+
+  .price-figure {
+    display: block;
+    color: #12907c;
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 1.5rem;
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1.1;
+    white-space: nowrap;
+  }
+
+  .price-unit {
+    display: block;
+    margin-top: 0.15rem;
+    color: #5c6a70;
+    font-size: 0.8rem;
+  }
+
+  .price-table td {
+    color: #5c6a70;
+    font-size: 0.92rem;
+    line-height: 1.6;
+  }
+
+  .price-includes {
+    display: grid;
+    gap: 0.35rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .price-includes li {
+    position: relative;
+    padding-left: 1rem;
+    line-height: 1.5;
+  }
+
+  .price-includes li::before {
+    position: absolute;
+    top: 0.62em;
+    left: 0;
+    width: 0.3rem;
+    height: 0.3rem;
+    border-radius: 50%;
+    background: #12907c;
+    content: "";
+  }
+
+  .visually-hidden {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  /* Stacked card-free layout on small screens: each row becomes a labelled block */
+  @media (max-width: 760px) {
+    .price-table thead {
+      position: absolute;
+      width: 1px;
+      height: 1px;
+      overflow: hidden;
+      clip: rect(0 0 0 0);
+    }
+
+    .price-table tbody tr {
+      display: block;
+      padding: 1.25rem 0;
+    }
+
+    .price-table th,
+    .price-table td {
+      display: block;
+      padding: 0;
+    }
+
+    .price-table td {
+      margin-top: 0.8rem;
+    }
+
+    .price-table td::before {
+      display: block;
+      margin-bottom: 0.25rem;
+      color: #16242e;
+      content: attr(data-label);
+      font-size: 0.7rem;
+      font-weight: 700;
+      letter-spacing: 0.12em;
+      text-transform: uppercase;
+    }
+
+    .price-summary {
+      max-width: none;
+    }
+  }
+</style>

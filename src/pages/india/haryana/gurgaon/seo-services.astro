@@ -1,6 +1,309 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { createCityServicePage } from "@data/page-seo/city-service";
-const page = createCityServicePage("haryana", "gurgaon", "seo-services").seo;
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much do SEO services in Gurgaon cost?",
+    answer: "Monthly SEO starts from ₹5,000 per month and the final figure depends on how many keywords, pages and locations you want covered. A small service business chasing a handful of Gurugram terms sits near the starting price. A multi-branch brand or an ecommerce catalogue needs a wider scope, so we quote after looking at your site and your competition.",
+  },
+  {
+    question: "How long before I see rankings in Gurugram?",
+    answer: "Local map pack movement often shows within six to ten weeks if your Google Business Profile was neglected. Competitive organic terms such as SEO company Gurugram or interior designer Golf Course Road usually take four to eight months of steady work. Anyone promising page one in thirty days for a commercial keyword in this city is guessing or buying links.",
+  },
+  {
+    question: "Do you also build the website, or only do SEO?",
+    answer: "Both. We deliver end to end: planning, design, development, SEO setup, hosting and deployment. If your current site is slow or built on a bloated template, fixing it is usually cheaper than fighting it. A static website starts from ₹5,000 and a 30-page SEO website from design to deployment starts from ₹10,000, with final cost depending on scope.",
+  },
+  {
+    question: "What is included in the free maintenance period?",
+    answer: "After hosting goes live you get five months of maintenance free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It matters for SEO because a site that breaks quietly loses rankings quietly. After those five months maintenance is from ₹2,000 per month if you want us to keep watching it.",
+  },
+  {
+    question: "Can you rank a business that has no office address in Gurugram?",
+    answer: "Partly. Google Business Profile allows service area businesses to hide the address and list the areas they serve, which works for consultants, contractors and agencies. You will compete less well inside the map pack than a verified storefront on Sohna Road, so the plan leans harder on organic landing pages and content built around Gurugram search intent.",
+  },
+  {
+    question: "Do you build backlinks, and are they safe?",
+    answer: "We build links slowly and only from places a human would visit: relevant Indian directories, industry publications, partner and supplier sites, local business associations, and genuine guest contributions. No private blog networks, no bulk packages, no comment spam. Cheap link volume looks good on a report for three months and then costs you far more to clean up.",
+  },
+  {
+    question: "How do you report results?",
+    answer: "You get Google Search Console and GA4 configured on your own accounts, so the data belongs to you and stays with you. Monthly reporting covers impressions, clicks, average position for tracked terms, map pack calls and direction requests, plus the work done that month. We report queries and conversions, not vanity keyword screenshots.",
+  },
+  {
+    question: "Can you work with our existing developer or marketing team?",
+    answer: "Yes. Sometimes we only handle strategy, audits and content while your in-house developer ships the changes. That works if someone on your side can action technical fixes within a reasonable window. If deployments stall for weeks, progress stalls with them, which is why many Gurugram clients hand us both the SEO and the site itself.",
+  },
+];
+
+const page = createPageSeo({
+  title: "SEO Services in Gurgaon for Local Business Growth",
+  description: "SEO services in Gurgaon covering local SEO, Google Business Profile, technical audits, content and link building. Monthly SEO from ₹5,000. Talk to our team today.",
+  canonicalPath: "/india/haryana/gurgaon/seo-services/",
+  h1: "SEO company in Gurugram building search visibility that lasts",
+  intro: "We plan and run search engine optimisation for businesses across Gurugram, from Cyber City offices to shops in Sector 14. Technical fixes, local SEO, content built around real Gurgaon search intent, and honest monthly reporting you actually own.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Haryana", href: "/india/haryana/" },
+    { label: "Gurgaon", href: "/india/haryana/gurgaon/" },
+    { label: "SEO services", href: "/india/haryana/gurgaon/seo-services/" },
+  ]),
+  keywords: [
+    "SEO services in Gurgaon",
+    "SEO company Gurugram",
+    "local SEO Gurgaon",
+    "SEO agency Gurgaon",
+    "SEO expert Gurugram",
+    "Google Business Profile Gurgaon",
+    "map pack ranking Gurugram",
+    "technical SEO audit Gurgaon",
+    "on page SEO Gurugram",
+    "keyword research Gurgaon",
+    "content marketing Gurugram",
+    "link building India",
+    "Cyber City SEO",
+    "Golf Course Road SEO",
+    "Sohna Road SEO services",
+    "Sector 14 Gurgaon SEO",
+    "DLF Phase 3 SEO",
+    "ecommerce SEO Gurugram",
+    "real estate SEO Gurgaon",
+    "monthly SEO retainer India",
+    "search console setup Gurgaon",
+    "GA4 tracking setup",
+    "small business SEO Gurugram",
+    "SEO pricing Gurgaon",
+    "freelance SEO Gurugram",
+    "website audit Gurgaon",
+    "local citations India",
+    "Haryana SEO services",
+  ],
+});
 ---
-<LocationLayout page={page} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">SEO services</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="competitive-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="competitive-heading">Why SEO in Gurgaon is harder than most Indian cities</h2>
+            <p>Gurugram has one of the densest concentrations of marketing agencies in the country. Every commercial keyword you want is already being chased by someone with a budget, and many of the sites you are competing against have been running paid SEO retainers for years. That is the honest starting position. It does not mean you cannot rank, it means the plan has to be sharper than publishing four blog posts a month and hoping.</p>
+            <p>The second pressure is keyword value. Corporate services, coworking, real estate, interiors, HR consulting, logistics and IT staffing all have high transaction values here, so the cost per click is steep and the organic competition follows the money. A single closed deal from a real estate or B2B keyword can be worth several lakh rupees, which is why those SERPs are crowded with well-funded portals rather than small local sites.</p>
+          </article>
+          <article>
+            <h3>Where the actual openings are</h3>
+            <p>The gap is almost always in specificity. Very few competitors bother to write properly for the long tail: a particular service, in a particular sector or micro market, for a particular kind of buyer. Broad terms like SEO company Gurugram are contested by everyone, while phrases that name a sector, a road, a building type or a problem are frequently under-served.</p>
+            <p>We start every Gurugram engagement by separating keywords into three buckets: terms you could realistically win inside six months, terms that need a year of authority building, and terms that are not worth chasing at all because the intent is wrong. Being willing to drop the third bucket is what frees the budget to make progress on the first.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-heading">Local SEO Gurgaon: the map pack comes first</h2>
+            <p>For most Gurugram businesses the map pack sends more qualified enquiries than position four in the organic results, and it moves faster. So we start there. The Google Business Profile gets a correct primary category, a properly written set of secondary categories, complete service listings with descriptions, real photographs with sensible file names, opening hours that match reality, and a booking or enquiry link that lands on a page relevant to what the searcher tapped.</p>
+            <p>Then the supporting signals. Your name, address and phone number need to be identical everywhere they appear online, down to the spelling of the sector number and whether you write Gurgaon or Gurugram. Inconsistent citations across directories are one of the most common reasons a profile sits just outside the three-pack. We audit the existing listings, correct what is fixable, and add the Indian directories that still carry weight.</p>
+          </article>
+          <article>
+            <h3>Service area targeting without faking a location</h3>
+            <p>If you deliver across the NCR rather than from a shopfront, Google lets you configure a service area business and hide the street address. That is the correct and safe setup for consultants, contractors, repair services and agencies. Creating fake addresses in multiple sectors to farm more map listings gets profiles suspended, and recovery is slow and unpleasant.</p>
+            <p>Instead we build organic reach for the areas you serve through genuinely distinct landing pages and content, backed by reviews that mention the neighbourhoods where you actually work. Reviews carry more local relevance than most owners realise. A steady trickle of them, requested politely after each job, outperforms a burst of twenty in one week, which looks manufactured to both Google and to humans reading them.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="areas-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="areas-heading">Area-level keyword strategy across Gurugram</h2>
+            <p>Gurugram searches split by micro market far more than most cities, because the commercial character changes every few kilometres. Someone searching from a Cyber City office has different intent, budget and urgency than someone searching from an older sector market. Treating the whole city as one keyword set flattens all of that and produces pages nobody wants to read.</p>
+            <p>We map the areas that matter to your business and build a keyword cluster for each one, but only where there is genuine demand and genuine service differences to write about. Three strong area pages beat twenty thin ones, and thin duplicated location pages are a well-known way to get an entire section of a site ignored by Google.</p>
+            <ul class="it-list">
+              <li>Cyber City and Udyog Vihar: B2B, IT services, corporate vendors, enterprise buying cycles.</li>
+              <li>Golf Course Road and Golf Course Extension Road: premium services, interiors, wellness, high-value residential.</li>
+              <li>Sohna Road and Sector 49: mid-market retail, clinics, education, growing residential demand.</li>
+              <li>DLF Phases 1 to 5: home services, renovation, property management, resident-driven searches.</li>
+              <li>Sector 14 and Old Gurgaon: established local trade, walk-in retail, price-sensitive intent.</li>
+              <li>New Gurgaon sectors along Dwarka Expressway: newer projects, fit-out and moving-in related demand.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="technical-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="technical-heading">The technical audit, and what we actually check</h2>
+            <p>Before we write a word of content we crawl the site and check whether Google can reach, render and understand it. That means indexation coverage against what you intended to publish, robots and sitemap accuracy, canonical tags, redirect chains left over from old rebuilds, duplicate parameter URLs, orphan pages nothing links to, broken internal links, and pages returning the wrong status code. Roughly half the Gurugram sites we audit have at least one issue quietly blocking a whole section from search.</p>
+            <p>Then performance. Core Web Vitals matter more on Indian mobile connections than the average benchmark suggests, because a lot of your traffic arrives on a mid-range Android phone on a busy network. We look at image weight and formats, render-blocking scripts, unused CSS, third-party tags nobody remembers adding, font loading, and layout shift caused by ads or late-loading banners. If the fixes need development work, we can handle that as part of our <a href="/india/haryana/gurgaon/web-development/">web development in Gurgaon</a> service rather than handing you a list and walking away.</p>
+          </article>
+          <article>
+            <h3>On-page work that follows the audit</h3>
+            <p>On-page is unglamorous and it is where most quick wins live. Title tags rewritten so the primary term appears early and the page still reads like a sentence a person wrote. Meta descriptions that earn a click instead of repeating the title. One H1 per page, a heading structure that follows the argument, internal links using descriptive anchor text instead of read more, and image alt text that describes the image.</p>
+            <p>We also fix the structural problems: two pages competing for the same keyword, service pages with two hundred words on them, and navigation that buries important pages five clicks deep. Schema markup goes on where it applies, covering organisation, local business, services, breadcrumbs and FAQ blocks, which helps both classic rich results and the AI answer surfaces that increasingly summarise these queries.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="content-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="content-heading">Content and keyword clusters built for Gurugram intent</h2>
+            <p>Content only works when it answers something a buyer here would genuinely type. For a Gurugram audience that usually means pricing questions, timelines, comparisons between local options, regulatory or society-approval questions, and area-specific practicalities. A piece explaining what a full office fit-out in Cyber City costs and how long building approvals take will pull better qualified traffic than a generic listicle about office design trends.</p>
+            <p>We organise the work into clusters. One strong service page acts as the hub, surrounded by supporting articles that each cover a narrower question and link back to it. That structure concentrates topical authority instead of scattering it, and it gives you an internal linking map that keeps working as the site grows. Our wider approach to this is described on the <a href="/services/seo-services/">SEO services</a> page if you want the full methodology.</p>
+          </article>
+          <article>
+            <h3>Safe link building, done slowly</h3>
+            <p>Links still decide competitive rankings, and this is where Gurugram businesses get burned most often. The market is full of sellers offering hundreds of backlinks for a few thousand rupees. Those links come from networks that exist only to sell links, they get devalued in batches, and cleaning up afterwards costs more time than the original campaign.</p>
+            <p>Our approach is smaller and slower. Relevant Indian business directories done properly, industry publications, chambers and trade associations, supplier and partner pages, sponsorship of real local events, and occasional guest contributions where the publication has a genuine readership. We also mine your own operations for link opportunities, because case studies, data you already collect, and tools your customers would use tend to earn links without anyone being asked.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="tracking-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="tracking-heading">Tracking with Search Console and GA4, on your own accounts</h2>
+            <p>Everything gets set up under accounts you own. Google Search Console is verified on your property with sitemaps submitted and coverage monitored, so we can see exactly which queries bring impressions, where you sit for each one, and which pages Google has decided not to index. GA4 is configured with conversion events that match real business outcomes: form submissions, calls tapped from mobile, WhatsApp clicks, quote requests, and ecommerce transactions where relevant.</p>
+            <p>We keep the map pack data in the picture too, because profile views, calls and direction requests often move before organic rankings do and they give an early read on whether the local work is landing. If you ever change providers, all of it stays with you. Agencies that keep tracking on their own accounts are protecting themselves, not you, and it is one of the reasons clients arrive here with no historical data at all.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="timeline-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="timeline-heading">A realistic timeline: months one, three and six</h2>
+            <p>Month one is diagnosis and repair. Technical audit, crawl and indexation fixes, Google Business Profile rebuild, tracking setup, keyword research and the content plan. Visible ranking change in month one is usually limited to local listings and to pages that were being blocked by something fixable. This is the month where the foundation is poured, and skipping it is why so many retainers produce nothing for half a year.</p>
+            <p>By month three the on-page work is done across priority pages, the first cluster of content is published and indexed, citations are consistent, and reviews are arriving steadily. You should see impressions climbing in Search Console, long-tail terms entering the top twenty, map pack visibility improving for less contested searches, and the first enquiries that can be traced back to organic search rather than to referrals or ads.</p>
+          </article>
+          <article>
+            <h3>What month six should look like</h3>
+            <p>By month six there is enough data to stop guessing. Several supporting keywords sit on page one, the main service terms are moving through positions eleven to twenty, and the content programme has shifted from covering ground to doubling down on the pieces already earning impressions. Links accumulated over five months start to show their effect, since link value tends to arrive late rather than immediately.</p>
+            <p>What month six does not look like is a top-three position for every competitive Gurugram head term. If someone sold you that, they either had a very weak competitive set or they were not being straight with you. Sustainable growth here compounds: the sixth month is usually better than the third, the twelfth is usually better than the sixth, and the sites that win are the ones nobody stopped working on.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Monthly retainer scope and starting prices</h2>
+            <p>Monthly SEO starts from ₹5,000 per month. A retainer at that level typically covers ongoing technical monitoring, on-page optimisation of a set number of pages, Google Business Profile management with posts and review handling, a defined volume of content, gradual link work, and monthly reporting with a call to talk through it. As keyword count, page count and competitiveness rise, so does the scope and the price, and we say which is which before you commit.</p>
+            <p>If the site itself needs work first, a static website starts from ₹5,000 and a 30-page SEO website taken from design through to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000, and a custom web app from ₹40,000. Every figure is a starting point and the final cost depends on scope, so we quote after understanding what you actually need rather than before.</p>
+          </article>
+          <article>
+            <h3>End to end delivery, including what happens after launch</h3>
+            <p>We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. That matters for search work because SEO recommendations only help when someone implements them, and the usual failure mode is an audit sitting in a shared drive because the development side was never resourced.</p>
+            <p>Once hosting goes live you get five months of maintenance included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance is from ₹2,000 per month. It is deliberately generous because a site that goes down for two days or ships a broken redirect loses ranking positions that take far longer to win back than to protect.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="mistakes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="mistakes-heading">Mistakes Gurugram businesses make with SEO</h2>
+            <p>The patterns repeat often enough to list them. Most of the damage we undo was not caused by Google being difficult, it was caused by decisions that looked reasonable at the time and were sold convincingly. Knowing them in advance saves you a year and a fair amount of money, whether you work with us or with anyone else in the city.</p>
+            <ul class="it-list">
+              <li>Buying cheap link packages that produce a short rankings bump followed by a long recovery.</li>
+              <li>Publishing twenty near-identical sector pages that differ only by the sector number in the heading.</li>
+              <li>Letting an agency own the Search Console, GA4 and Google Business Profile accounts.</li>
+              <li>Rebuilding the website without redirect mapping, wiping out years of accumulated rankings overnight.</li>
+              <li>Chasing head terms like SEO company Gurugram while ignoring the specific terms that convert.</li>
+              <li>Ignoring page speed on mobile because the site loads fine on the office broadband connection.</li>
+              <li>Cancelling the retainer in month four, right before compounding work would have started paying.</li>
+              <li>Asking friends and staff for reviews in one week instead of collecting them steadily from real customers.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Who we are and who this suits</h2>
+            <p>We are a small freelance IT services group of three engineers working remotely with businesses across India. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects alongside data science and automation work. You talk to the people doing the work, not to an account manager relaying messages.</p>
+            <p>That size suits owner-led businesses, professional practices, B2B service companies and growing ecommerce brands in Gurugram who want direct answers and a plan they can follow. It suits less well if you need a twenty-person team running paid, social and PR alongside search. Broader context on how we work locally is on our <a href="/india/haryana/gurgaon/">Gurgaon services</a> page and our <a href="/it-services/haryana/gurugram/">IT services in Gurugram</a> hub.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options across services and locations, these pages cover the rest of what we do and where we do it.</p>
+            <ul class="it-list">
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/india/haryana/gurgaon/">Gurgaon IT and web services</a></li>
+              <li><a href="/india/haryana/gurgaon/web-development/">Web development in Gurgaon</a></li>
+              <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
+              <li><a href="/india/haryana/faridabad/">Faridabad</a></li>
+              <li><a href="/india/haryana/">Haryana</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Noida</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">SEO services in Gurgaon: common questions</h2>
+            <div class="it-faq">
+              {faqs.map((faq) => (
+                <details>
+                  <summary>{faq.question}</summary>
+                  <p>{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to see where your Gurugram search visibility actually stands?</h2>
+          <p>Send us your website and the keywords you want to win. We will tell you what is fixable quickly, what needs a longer plan, and what it costs, before you commit to anything.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

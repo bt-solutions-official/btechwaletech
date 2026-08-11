@@ -1,6 +1,264 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("uttar-pradesh", "lucknow");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does website development cost in Lucknow?",
+    answer: "A static brochure website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application starts from ₹40,000. AI automation work starts from ₹15,000. Final cost always depends on scope: page count, integrations, content readiness and how much custom design you want."
+  },
+  {
+    question: "How long does a Lucknow business website take to build?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO site normally takes three to five weeks once content and images are with us. Ecommerce and custom applications run six to ten weeks depending on payment, inventory and login requirements. Slow content approval is the single biggest cause of delay, not development."
+  },
+  {
+    question: "Do you have an office in Lucknow?",
+    answer: "No. We are a small freelance engineering group and we work with businesses in Lucknow remotely. Calls, WhatsApp, email and screen sharing cover everything from the first requirement discussion to handover training. Clients in Hazratganj, Gomti Nagar and Indira Nagar are served exactly the same way as clients anywhere else in Uttar Pradesh."
+  },
+  {
+    question: "What is included in the 5 months free maintenance?",
+    answer: "After your site is hosted and live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security and plugin updates, backups, and regular uptime and speed checks. After those five months, ongoing maintenance is from ₹2,000 per month if you want us to keep handling it."
+  },
+  {
+    question: "Can you rank a Lucknow business in local search results?",
+    answer: "We can build the foundation properly: an optimised Google Business Profile, area and service level pages, correct local schema, fast mobile pages and clean internal links. Rankings then depend on competition, review volume and consistency. Most local service businesses see meaningful movement in three to six months of steady work, not in three weeks."
+  },
+  {
+    question: "Do you redesign an existing Lucknow website or only build new ones?",
+    answer: "Both. Redesigns are common when a site loads slowly, breaks on phones, or was built years ago on a platform nobody can edit now. We audit what already ranks, keep those URLs and content, then rebuild the design and speed around them so existing search traffic is not thrown away during the switch."
+  },
+  {
+    question: "Who writes the website content?",
+    answer: "We can write it, or edit what you already have. Most Lucknow clients send us rough notes, service lists, price ideas and photos, and we turn that into structured page copy with proper headings and keywords. Product photos, staff photos and any legal or licence details need to come from you since only you can verify them."
+  },
+  {
+    question: "How do we get started?",
+    answer: "Email or call us with a short description of your business, what the site needs to do and roughly when you want it live. We reply with a scope outline, a fixed starting price and a timeline. Once you confirm, we begin with structure and design, and you review at each stage before development moves ahead."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Lucknow: Websites and SEO",
+  description: "Website design, web development and SEO services for businesses in Lucknow. End to end delivery from ₹5,000 with hosting and 5 months free maintenance included.",
+  canonicalPath: "/india/uttar-pradesh/lucknow/",
+  h1: "Website Design, Development and SEO for Lucknow Businesses",
+  intro: "We build and rank websites for businesses working across Lucknow, from small clinics and coaching centres to retailers and hospitality brands. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Uttar Pradesh", href: "/india/uttar-pradesh/" },
+    { label: "Lucknow", href: "/india/uttar-pradesh/lucknow/" }
+  ]),
+  keywords: [
+    "web development company in Lucknow",
+    "website designer Lucknow",
+    "SEO services Lucknow",
+    "website development cost in Lucknow",
+    "web design company Lucknow",
+    "website development Lucknow",
+    "ecommerce website development Lucknow",
+    "local SEO Lucknow",
+    "Google Business Profile Lucknow",
+    "website redesign Lucknow",
+    "static website Lucknow",
+    "business website Lucknow",
+    "website maintenance Lucknow",
+    "web developer Hazratganj",
+    "website design Gomti Nagar",
+    "SEO company Gomti Nagar",
+    "website designer Aliganj",
+    "web design Indira Nagar",
+    "website development Alambagh",
+    "school website design Lucknow",
+    "hospital website design Lucknow",
+    "hotel website design Lucknow",
+    "coaching institute website Lucknow",
+    "retail website design Lucknow",
+    "freelance web developer Lucknow",
+    "affordable website design Lucknow",
+    "Lucknow web development agency",
+    "Uttar Pradesh web development"
+  ]
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Lucknow</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Lucknow businesses actually struggle with online</h2>
+            <p>Lucknow has an unusual business mix. A large government and administrative base sits next to a dense education sector, a growing private healthcare cluster and an old retail and hospitality trade that has been running for decades. Most of those businesses already have customers. What they usually do not have is a website that helps a stranger find them, understand what they offer, and get in touch without calling first to ask basic questions.</p>
+            <p>The pattern repeats. A clinic in Gomti Nagar has a one page site built four years ago with a contact form that quietly stopped sending email. A coaching centre near Aliganj has a Facebook page and nothing else, so every admission enquiry costs a phone call. A retailer in Alambagh has a site that looks acceptable on a laptop and falls apart on a phone, which is where almost all of their traffic comes from.</p>
+          </article>
+          <article>
+            <h3>The gap is execution, not ambition</h3>
+            <p>Business owners here are not against the internet. They have usually paid for a website once, been handed login details they never used, and watched the site rot because nobody was responsible for it after launch. That experience makes people cautious, and reasonably so.</p>
+            <p>So the fix is boring and practical. Decide what the site must do, build only that, make it load fast on a mid range Android phone, connect it to a Google Business Profile that is filled in properly, and keep someone on the hook for maintenance afterwards. That is the entire approach on this page. If you want the wider technical work like automation, cloud and data, that sits on our <a href="/it-services/uttar-pradesh/lucknow/">IT services page for Lucknow</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Lucknow business</h2>
+            <p>Not every business needs the same build. Choosing the wrong type is how people end up paying for a platform they cannot use, or paying twice within a year because the first version could not grow. We usually talk through four routes in the first call and pick one based on how often your content changes and whether you sell online.</p>
+            <p>A static website suits a business with a stable service list and a small number of pages: an accountant, a clinic, a consultancy, a small hotel. It is fast, cheap to host and almost impossible to break. Static builds start from ₹5,000, and for most single location Lucknow businesses this is the honest recommendation rather than pushing something heavier.</p>
+          </article>
+          <article>
+            <h3>Dynamic sites, redesigns and ecommerce</h3>
+            <p>A dynamic or content managed site makes sense once you publish regularly: a school posting notices and results, a hospital adding doctor profiles, a coaching institute updating batch schedules. You get an admin panel and can edit without calling anybody. A 30 page SEO website handled from design through to deployment starts from ₹10,000.</p>
+            <p>A redesign is for sites that already get traffic but look dated or load slowly. We keep the URLs and content that rank and rebuild around them. Ecommerce starts from ₹25,000 and covers catalogue, cart, payment gateway and order flow. A custom web application with logins, dashboards or bookings starts from ₹40,000. Full details sit on the <a href="/services/web-development/">web development</a> page and the <a href="/pricing/">pricing</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Lucknow business website should include</h2>
+            <p>There is a short list of things that separate a website that generates enquiries from one that just exists. None of it is complicated, but it is skipped constantly. If your current site is missing four or more of these, that alone explains why it produces nothing.</p>
+            <ul class="it-list">
+              <li>A clear headline that says what you do and where you do it, visible without scrolling</li>
+              <li>A separate page for each real service, not one page listing everything in bullet points</li>
+              <li>A phone number that dials on tap and a WhatsApp link, placed on every page</li>
+              <li>Working hours, area served, and directions written for someone unfamiliar with the locality</li>
+              <li>Pages that load in under three seconds on mobile data, not just on office wifi</li>
+              <li>A contact form that actually delivers, tested after launch and after every change</li>
+              <li>Real photographs of your premises, team and work rather than stock images</li>
+              <li>Local business schema so search engines read your address, hours and contact correctly</li>
+            </ul>
+            <p>We treat that list as the minimum, not the target. Everything above it depends on your sector and how competitive your keywords are in Lucknow.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Lucknow searches</h2>
+            <p>Local search in Lucknow behaves the way it does everywhere: a map pack of three businesses sits above the regular results, and most clicks go there. Getting into that pack depends heavily on your Google Business Profile. That means the correct category, complete hours, service list, photos updated regularly, and a steady flow of genuine reviews. A profile filled in once and abandoned rarely holds position against one that is maintained.</p>
+            <p>Below the map pack, ordinary pages compete. This is where site structure decides everything. A single page trying to rank for every service in every locality will lose to a site with one focused page per service, supported by content that mentions the areas you actually serve. Searches here are specific, and people type them that way.</p>
+          </article>
+          <article>
+            <h3>Area keywords and service area targeting</h3>
+            <p>Somebody in Indira Nagar looking for a dentist rarely types just "dentist". They type the service plus the area. Those long tail searches have lower volume individually but far higher intent, and they are much easier to win than the broad city term. We map the phrases worth targeting, then decide which deserve their own page and which belong as sections within a larger one.</p>
+            <p>The honest limit: if you have no premises in an area, you should not pretend you do. Service area targeting is written as coverage, not as a fake branch. Monthly SEO work starts from ₹5,000 per month and covers keyword tracking, on page fixes, profile management and content. See <a href="/services/seo-services/">SEO services</a> for the full scope.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End to end delivery, including hosting and five free months</h2>
+            <p>We handle projects end to end. Planning and requirement gathering, structure and design, development, content and SEO setup, hosting configuration, and deployment to a live domain. You do not need to hire a separate designer, a separate developer and a separate person to configure DNS. That fragmentation is what leaves half finished websites sitting on staging servers.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because the first months after launch are when problems surface: a form that breaks on one browser, a slow image nobody compressed, a plugin update that changes a layout. After five months, ongoing maintenance is from ₹2,000 per month, and it is optional. If you would rather take it in house we hand over everything and show your team how to run it.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with in Lucknow</h2>
+            <p>Lucknow's strongest sectors each need something slightly different from a website, and treating them the same is a mistake. Government adjacent services and consultancies need clarity above everything: what documents are required, what the process is, what it costs. Long explanatory pages work well here and tend to rank because so few competitors bother writing them properly.</p>
+            <p>Education is the busiest category in the city. Schools, colleges and coaching institutes need admission enquiry forms that route to the right person, course and batch pages that can be updated without a developer, notice sections, and fast pages for parents browsing on phones during a short break. Healthcare needs doctor profiles, department pages, appointment enquiry flows and careful, non exaggerated claims.</p>
+          </article>
+          <article>
+            <h3>Retail and hospitality</h3>
+            <p>Retail businesses around Hazratganj and Alambagh split into two groups: those who want a catalogue site that drives footfall, and those ready to sell online. The first is cheaper and often smarter as a starting point. The second needs payment, delivery and returns handled properly before launch, not bolted on later.</p>
+            <p>Hospitality lives on photographs and speed. A hotel or restaurant site that loads slowly or hides the menu behind a PDF loses bookings to whichever competitor made it easy. We keep those sites light, put the menu and room details in plain readable pages, and connect them to your Google listing so photos and hours stay consistent everywhere.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with a remote team actually runs</h2>
+            <p>We are three engineers working as a freelance group and we do not have an office in Lucknow. In practice that changes very little. The first conversation is a call where you explain the business and we ask what the site has to achieve. We follow with a written scope, a fixed starting price and a timeline, so nothing depends on memory.</p>
+            <p>During the build you get a preview link and review at each stage: structure first, then design, then the working site. Feedback comes over WhatsApp, email or a call, whichever you prefer. Screen sharing handles anything hard to explain in text, including training your staff on the admin panel before handover. You get every login and own the hosting account, the domain and the code. Nothing is held hostage. Read more about how we work on the <a href="/about/">about</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Getting started and what to send us</h2>
+            <p>Send an email or call with three things: what your business does, what you want the website to achieve, and roughly when you need it live. A budget range helps but is not required. From that we can usually tell you within a day which build type suits you, what it starts at, and how long it will take.</p>
+            <p>To move quickly afterwards, gather your service list with any prices you are willing to publish, photographs of your premises and team, your exact address and hours as they should appear on Google, and any existing logo files. Missing content is what stretches a three week project into eight. If you do not have written content, we can draft it from a conversation and your notes, then you approve it before it goes live.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <ul class="it-list">
+              <li><a href="/it-services/uttar-pradesh/lucknow/">IT services in Lucknow</a></li>
+              <li><a href="/india/uttar-pradesh/">Web development across Uttar Pradesh</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Website development in Noida</a></li>
+              <li><a href="/india/">Services across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Common questions from Lucknow clients</h2>
+          <p>Straight answers on cost, timelines, maintenance and how the work is handled.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to plan your Lucknow website?</h2>
+          <p>Tell us what your business does and what the site needs to achieve. You will get a scope, a starting price and a timeline, with hosting, deployment and five months of free maintenance included.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

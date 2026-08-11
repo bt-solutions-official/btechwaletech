@@ -2,6 +2,7 @@ export interface PricingPlan {
   name: string;
   price: string;
   unit?: string;
+  timeline: string;
   summary: string;
   includes: string[];
 }
@@ -13,12 +14,14 @@ export interface PricingPlan {
 export const pricingPlans: PricingPlan[] = [
   {
     name: "Static website",
+    timeline: "1 to 2 weeks",
     price: "₹5,000",
     summary: "A fast, mobile-friendly site for a small business, landing page, or portfolio.",
     includes: ["Up to 5 pages", "Responsive design", "Contact form and enquiry setup", "Basic SEO tags and sitemap"],
   },
   {
     name: "SEO website (30 pages)",
+    timeline: "3 to 5 weeks",
     price: "₹10,000",
     summary: "A multi-page site built around search intent, from design through to deployment.",
     includes: [
@@ -30,24 +33,28 @@ export const pricingPlans: PricingPlan[] = [
   },
   {
     name: "Ecommerce store",
+    timeline: "4 to 8 weeks",
     price: "₹25,000",
     summary: "An online store with product pages, cart, checkout, and payment setup.",
     includes: ["Product and category pages", "Payment gateway setup", "Order and inventory basics", "Performance tuning"],
   },
   {
     name: "Custom web app or software",
+    timeline: "6 to 12 weeks",
     price: "₹40,000",
     summary: "Dashboards, portals, admin panels, and tools built around your workflow.",
     includes: ["Custom features and APIs", "User accounts and roles", "Admin panel", "Deployment and handover"],
   },
   {
     name: "AI automation",
+    timeline: "2 to 4 weeks",
     price: "₹15,000",
     summary: "Workflow automation and AI agents that remove repetitive manual work.",
     includes: ["Workflow mapping", "Tool and CRM integrations", "AI agent or automation build", "Testing and handover"],
   },
   {
     name: "Monthly SEO",
+    timeline: "Ongoing, monthly",
     price: "₹5,000",
     unit: "per month",
     summary: "Ongoing technical, on-page, local, and content SEO work with reporting.",
@@ -55,6 +62,7 @@ export const pricingPlans: PricingPlan[] = [
   },
   {
     name: "Maintenance and support",
+    timeline: "Ongoing, monthly",
     price: "₹2,000",
     unit: "per month",
     summary: "Updates, backups, fixes, and performance checks after launch.",

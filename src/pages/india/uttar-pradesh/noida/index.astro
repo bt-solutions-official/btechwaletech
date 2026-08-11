@@ -1,6 +1,259 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("uttar-pradesh", "noida");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does website development cost in Noida?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web app starts from ₹40,000. AI automation work starts from ₹15,000. The final cost depends on scope: page count, custom features, integrations and how much content you need written."
+  },
+  {
+    question: "How long does a Noida business website take to build?",
+    answer: "A small static site is usually live in one to two weeks. A 20 to 30 page SEO site takes roughly three to five weeks including content, on-page work and deployment. Ecommerce and custom applications run six to ten weeks. The single biggest delay is waiting on content, photos and approvals from your side, so we schedule those early."
+  },
+  {
+    question: "Do you have an office in Noida?",
+    answer: "No. We are a freelance team of three engineers and we work with businesses in Noida remotely. That is deliberate and it keeps costs low for you. We handle calls, screen shares, shared documents and staged preview links, so you see the site progressing exactly the way you would in a meeting room, without paying agency overheads."
+  },
+  {
+    question: "What is included in the 5 months of free maintenance?",
+    answer: "After your site goes live we cover content updates, bug fixes, security and plugin updates, backups, and uptime and speed checks for five months at no extra cost. That period covers the phase where most issues actually surface. After five months, ongoing maintenance is from ₹2,000 per month if you want us to keep looking after it."
+  },
+  {
+    question: "Can you rank my site for searches like web development company in Noida?",
+    answer: "We can build the foundation properly: correct page structure, area-level pages, Google Business Profile setup, schema, internal links and fast loading. Local rankings usually start moving in three to five months for realistic keywords. We do not promise a number one position by a fixed date, because nobody can control Google's ranking system."
+  },
+  {
+    question: "Do you work with businesses in Greater Noida and Noida Extension too?",
+    answer: "Yes. Sector 62, Sector 63, Sector 18, Greater Noida and Noida Extension are all part of the same search market and clients from all of them contact us. If your customers travel across the area, we set up service-area targeting so your pages speak to the whole region instead of only one sector."
+  },
+  {
+    question: "Will I own the website, domain and hosting?",
+    answer: "Yes. The domain and hosting accounts are registered in your name wherever possible, and you get full admin access along with the source code. Nothing is locked to us. If you decide later to move the site elsewhere or hire an in-house developer, you can do it without asking our permission or paying a release fee."
+  },
+  {
+    question: "How do we start?",
+    answer: "Email or call us with a short description of your business, what the site needs to do and any deadline you have. We reply with a scope note, a fixed starting price and a delivery timeline. Once you approve, we begin with structure and content planning before any design work starts."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Noida | Website & SEO",
+  description: "Website design, web development and SEO services for businesses in Noida and Greater Noida. Static sites from ₹5,000, SEO sites from ₹10,000, 5 months free maintenance.",
+  canonicalPath: "/india/uttar-pradesh/noida/",
+  h1: "Website Design, Development and SEO for Noida Businesses",
+  intro: "We build and rank websites for companies working in and around Noida, from Sector 62 software firms to retailers near Sector 18. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Uttar Pradesh", href: "/india/uttar-pradesh/" },
+    { label: "Noida", href: "/india/uttar-pradesh/noida/" }
+  ]),
+  keywords: [
+    "web development company in Noida",
+    "website designer Noida",
+    "SEO services Noida",
+    "website development cost in Noida",
+    "web design company Noida",
+    "website development Noida",
+    "ecommerce website development Noida",
+    "local SEO Noida",
+    "website maintenance Noida",
+    "website designer Sector 62 Noida",
+    "web development Sector 18 Noida",
+    "website design Sector 63 Noida",
+    "web development Greater Noida",
+    "website designer Noida Extension",
+    "SEO company Greater Noida",
+    "freelance web developer Noida",
+    "affordable website design Noida",
+    "business website Noida",
+    "Google Business Profile Noida",
+    "website redesign Noida",
+    "static website Noida",
+    "custom web application Noida",
+    "WordPress website Noida",
+    "digital marketing website Noida",
+    "SEO consultant Noida",
+    "web developer Uttar Pradesh",
+    "landing page design Noida",
+    "school website design Noida",
+    "real estate website Noida"
+  ]
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Noida</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="market-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="market-heading">What the Noida market actually looks like online</h2>
+            <p>Noida is one of the densest business clusters in Uttar Pradesh, and the competition online reflects that. A single search like "web development company in Noida" or "interior designer Sector 18" returns dozens of results, most of them from firms that have been publishing content for years. The businesses that struggle are rarely the ones with a bad product. They are the ones whose website was built once in 2018, never updated, and now loads slowly on a phone while a competitor two sectors away answers the same question in the first paragraph of their page.</p>
+            <p>We see a repeating pattern with clients here. A software services company in Sector 62 has a site full of stock imagery and no case detail. A coaching institute in Sector 63 has no page for the specific course parents are searching for. A manufacturer near the Noida Extension side has a brochure PDF instead of product pages. In each case the fix is structural, not cosmetic, and that is where a rebuild pays for itself.</p>
+          </article>
+          <article>
+            <h3>The three problems that come up most</h3>
+            <p>First, mobile speed. A large share of Noida traffic arrives on mid-range Android phones over patchy mobile data. A site that takes eight seconds to render loses most of those visitors before they see anything. Second, missing intent pages. Businesses publish a single "Services" page listing eleven things, then wonder why they rank for none of them. Third, no local signals at all: no Google Business Profile, no address consistency, no area references anywhere in the copy.</p>
+            <p>None of these are expensive to fix. They are just rarely fixed, because the people who built the original site were paid to deliver pages, not results. Our <a href="/services/web-development/">web development service</a> and <a href="/services/seo-services/">SEO service</a> are deliberately scoped to solve both at once.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="build-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="build-heading">Website development options for a Noida business</h2>
+            <p>Not every business needs the same build, and paying for a system you will never use is the most common waste we see. A static website suits a consultant, a small manufacturer or a professional services firm that needs five to ten solid pages, fast loading and a contact route. It starts from ₹5,000 and is genuinely the right answer more often than agencies admit. A dynamic site with a content management system makes sense once someone on your team will publish regularly, whether that is course updates, property listings or a blog.</p>
+            <p>A redesign is the third path, and often the cheapest route to a real improvement. If your existing site already has some search history, we keep the URLs that earn traffic, rewrite the pages that do not, and fix the technical layer underneath. Throwing away an aged domain's structure without a redirect plan is how businesses lose rankings they spent years building.</p>
+          </article>
+          <article>
+            <h3>Ecommerce and custom applications</h3>
+            <p>Retailers and D2C brands in the area usually need an ecommerce build, which starts from ₹25,000 and covers product pages, categories, cart, payment gateway integration and order handling. We keep the catalogue structure clean from day one, because a store with badly organised categories becomes almost impossible to optimise later.</p>
+            <p>Custom web applications start from ₹40,000. These are the internal tools: a dealer portal, a booking system, an admissions dashboard, a quotation engine. If part of your operation still runs on a chain of spreadsheets and WhatsApp messages, that is usually the piece worth automating first. AI automation work, such as document processing or lead qualification, starts from ₹15,000.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Noida business website should include</h2>
+            <p>A website that actually generates enquiries has a fairly predictable anatomy. It states what you do and where you do it above the fold, without decoration. It has one page per service, each written to answer the question a buyer types into Google, not a paragraph buried inside a combined page. It shows proof: real work, real numbers, real names of the industries you serve. It makes contact effortless, with a phone number that dials on tap and a form that does not demand nine fields before someone can ask a simple question.</p>
+            <ul class="it-list">
+              <li>Separate pages for each service, each targeting one clear search intent</li>
+              <li>Location context in the copy: the sectors and areas you actually serve</li>
+              <li>Fast mobile loading, compressed images, no unnecessary scripts</li>
+              <li>Clear pricing or at least a starting range, which filters out mismatched enquiries</li>
+              <li>Schema markup so search engines understand your business type and FAQs</li>
+              <li>Working analytics and Search Console, connected before launch, not after</li>
+              <li>An FAQ section answering the objections you already hear on calls</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Noida searches</h2>
+            <p>Local search in Noida has two separate battlegrounds and they need different work. The map pack, which is the block of three business listings with a map, is driven mainly by your Google Business Profile: correct category, complete service list, consistent name and phone number across the web, genuine photos, and a steady flow of real reviews from customers. We set the profile up properly and show you how to request reviews without breaching Google's rules. We do not buy reviews and we will not write them for you.</p>
+            <p>The organic results below the map are won with pages. That means area-level content that reads naturally, service pages built around what people actually type, internal links that pass relevance to your money pages, and a technical base that loads quickly. Monthly SEO work starts from ₹5,000 per month and covers content, on-page fixes, technical monitoring and reporting.</p>
+          </article>
+          <article>
+            <h3>Area-level keywords and service-area targeting</h3>
+            <p>Someone searching from Sector 62 and someone searching from Greater Noida often want the same service but phrase it differently, and Google treats those queries as distinct. Where the search volume justifies it, we build dedicated pages for an area or a service-plus-area combination. Where it does not, we weave the area naturally into an existing page rather than spinning up thin duplicates, which is a fast route to being ignored by search engines.</p>
+            <p>If you serve customers at their premises rather than yours, service-area settings on your profile matter more than a pin on a map. We configure the radius sensibly, covering Noida, Greater Noida and Noida Extension where that reflects reality, and leave out places you cannot realistically service. Overstating coverage dilutes relevance for the places that matter.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across Noida</h2>
+            <p>IT services and BPO firms make up a large share of enquiries here, and their websites usually need credibility rather than volume: clear capability pages, technology stacks stated plainly, careers pages that load fast, and case detail written without breaching client confidentiality. Education is the second big group, from coaching centres to schools and skill institutes, where course pages, admission timelines and parent-facing FAQs drive almost all the traffic.</p>
+            <p>Real estate is unusual because listings change constantly, so the build needs a content system a non-technical person can operate, plus fast image handling for property galleries. Manufacturing and industrial suppliers often have the opposite problem: excellent products with no product pages at all. Turning a catalogue into structured, searchable pages with specifications is frequently the single highest-return change we make for them. For work beyond websites, our broader <a href="/it-services/uttar-pradesh/noida/">IT services page for Noida</a> covers cloud, data and automation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery, and what happens after launch</h2>
+            <p>We handle projects from start to finish: planning, design, development, SEO setup, hosting and deployment. There is no point in the process where you are told to find your own hosting provider or hire someone else to configure DNS. That matters because handoffs are where projects stall, and a half-launched site earns nothing.</p>
+            <p>Once hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. Five months is chosen on purpose: it is long enough for the real-world issues to appear, and long enough for early SEO results to show. After that period, maintenance is from ₹2,000 per month if you want it. Full figures for every service are on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+          <article>
+            <h3>Timelines and how remote work actually runs</h3>
+            <p>Small static sites go live in one to two weeks. A 30-page SEO website, taken from design through to deployment, starts from ₹10,000 and typically takes three to five weeks. Ecommerce and custom applications run six to ten weeks depending on integrations. These are working estimates, not marketing numbers, and we tell you before starting if your deadline is unrealistic.</p>
+            <p>We are three engineers working remotely, not an office in a Noida sector, and we say that plainly. In practice you get a scheduled call at each milestone, a staging link you can open on your own phone, a shared document tracking open items, and replies on WhatsApp or email during working hours. Clients across <a href="/india/uttar-pradesh/">Uttar Pradesh</a> and the rest of <a href="/india/">India</a> work with us this way without a single in-person meeting.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">How to get started</h2>
+            <p>Send us a short email or call. Useful things to include: what your business does, whether you have an existing site, the services you most want enquiries for, any deadline, and a rough budget range. You do not need a specification document. Most clients start with a few paragraphs and a link to a competitor they like.</p>
+            <p>We reply with a scope note that states what is included, a fixed starting price based on the figures above, and a delivery timeline. If we think you need less than you asked for, we say so. Once you approve, the first stage is structure and content planning, because deciding which pages exist and what each one is for saves far more time than jumping straight into design.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing locations or services before getting in touch, these pages cover the rest of what we do and where we work.</p>
+            <ul class="it-list">
+              <li><a href="/it-services/uttar-pradesh/noida/">IT services in Noida</a></li>
+              <li><a href="/india/uttar-pradesh/">Web development and SEO in Uttar Pradesh</a></li>
+              <li><a href="/india/uttar-pradesh/lucknow/">Website and SEO services in Lucknow</a></li>
+              <li><a href="/india/delhi/">Web development in Delhi</a></li>
+              <li><a href="/india/haryana/gurgaon/">Web development in Gurgaon</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/about/">About our team</a></li>
+              <li><a href="/india/">All India locations</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+          <p>Common questions from businesses in Noida, Greater Noida and Noida Extension.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what your Noida business needs online</h2>
+          <p>Share your idea and we will come back with a scope, a starting price and a timeline. End-to-end delivery, hosting included, and five months of maintenance free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

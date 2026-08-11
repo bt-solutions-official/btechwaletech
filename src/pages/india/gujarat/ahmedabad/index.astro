@@ -1,6 +1,256 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("gujarat", "ahmedabad");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does website development cost in Ahmedabad?",
+    answer: "A static business website starts from ₹5,000. A 30-page SEO website taken from design through to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and a custom web application starts from ₹40,000. AI automation work starts from ₹15,000. The final cost depends on scope: page count, integrations, content readiness and how much design work you want from scratch.",
+  },
+  {
+    question: "How long does an Ahmedabad business website take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO site typically takes three to five weeks depending on how quickly content and product details arrive. Ecommerce runs four to seven weeks. The single biggest delay is always content, so we start collecting text, photos and product data on day one rather than at the end.",
+  },
+  {
+    question: "Do you have an office in Ahmedabad?",
+    answer: "No. We are a small freelance group of three engineers and we work remotely with businesses in Ahmedabad. That is deliberate and it keeps our prices where they are. You get direct access to the people writing the code instead of an account manager, and we handle calls, screen shares and WhatsApp updates through the whole build.",
+  },
+  {
+    question: "Is maintenance really free for five months?",
+    answer: "Yes. Once hosting goes live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security patches, backups, and uptime and speed checks. After those five months, maintenance is available from ₹2,000 per month. You are never locked in, and you own the hosting account and the domain throughout.",
+  },
+  {
+    question: "Can you rank my site for Ahmedabad searches?",
+    answer: "We can build the foundation that local ranking needs: clean technical SEO, service pages that match how people search, a properly filled Google Business Profile, and content that mentions the areas you actually serve. Monthly SEO starts from ₹5,000 per month. Nobody can guarantee a position, and anyone who does is selling you something they cannot control.",
+  },
+  {
+    question: "Do you work with textile and chemical traders?",
+    answer: "Yes, and those businesses often need something specific: a catalogue that is easy to browse, clear specification tables, downloadable product sheets and an enquiry form that reaches WhatsApp instantly. We build for that rather than forcing a generic template onto a trading business that sells on specification and relationship, not on impulse.",
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "A short call about what the business does and who buys from you, any existing logo or brand files, a rough list of the pages you want, and access to your domain if you already own one. If you do not have content yet, we draft it. We can start with far less than most people expect.",
+  },
+  {
+    question: "Will the site work properly on phones?",
+    answer: "Most traffic in Ahmedabad arrives on a phone, often on a patchy mobile connection, so mobile is where we build first and desktop follows. That means compressed images, lean code, tap targets sized for thumbs and a call button that is always reachable. We test on real devices before launch, not only in a browser window.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Ahmedabad, Gujarat",
+  description: "Web development, website design and SEO services for businesses in Ahmedabad. Static sites from ₹5,000, 30-page SEO sites from ₹10,000, with 5 months free maintenance.",
+  canonicalPath: "/india/gujarat/ahmedabad/",
+  h1: "Website Design, Development and SEO for Ahmedabad Businesses",
+  intro: "We are a freelance group of three engineers building websites and running SEO for businesses in Ahmedabad. Everything is handled end to end, from planning and design through to hosting and deployment, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Gujarat", href: "/india/gujarat/" }, { label: "Ahmedabad", href: "/india/gujarat/ahmedabad/" }]),
+  keywords: [
+    "web development company in Ahmedabad",
+    "website designer Ahmedabad",
+    "SEO services Ahmedabad",
+    "website development cost in Ahmedabad",
+    "web development Ahmedabad",
+    "website design company Ahmedabad",
+    "website development company Gujarat",
+    "ecommerce website development Ahmedabad",
+    "local SEO Ahmedabad",
+    "Google Business Profile Ahmedabad",
+    "website designer SG Highway",
+    "web development Prahlad Nagar",
+    "website design CG Road Ahmedabad",
+    "web developer Satellite Ahmedabad",
+    "website design Bopal",
+    "web development Naroda",
+    "textile website design Ahmedabad",
+    "chemical company website Ahmedabad",
+    "pharma website development Ahmedabad",
+    "trading company website Ahmedabad",
+    "school website design Ahmedabad",
+    "SME website Ahmedabad",
+    "static website Ahmedabad",
+    "website redesign Ahmedabad",
+    "website maintenance Ahmedabad",
+    "freelance web developer Ahmedabad",
+    "affordable website design Ahmedabad",
+    "monthly SEO services Ahmedabad",
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Ahmedabad</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Ahmedabad businesses actually struggle with online</h2>
+            <p>Ahmedabad is a city of operators. Textile houses that have traded for three generations, chemical and dye suppliers shipping across the country, pharma units, education groups, and thousands of small manufacturers and traders who built real revenue without ever needing a website. That works until a buyer in another state searches for a supplier and finds three competitors with clean websites and none of yours. The gap is rarely about ambition. It is about who was available to build the thing properly.</p>
+            <p>The pattern we see repeatedly is a site built five or six years ago by someone who has since stopped replying. It loads slowly, the phone number in the footer is wrong, half the product pages are images with text baked into them, and nobody has the login. The business has grown but the website froze. Meanwhile the enquiries that should be arriving through search are landing with whoever bothered to keep their pages current.</p>
+          </article>
+          <article>
+            <h3>Where the enquiries are actually going</h3>
+            <p>Search behaviour in Ahmedabad splits cleanly. B2B buyers looking for a dye intermediate or a fabric supplier search by product and specification, often from outside Gujarat entirely. Local service buyers, a family looking for a coaching class in Satellite or a clinic near Bopal, search with the area name attached and then check the map results before anything else. Those are two different problems and they need two different sets of pages.</p>
+            <p>Most sites we are asked to fix try to serve both with one homepage and a contact form. That homepage ranks for the company name, which people only search once they already know you. Everything else, the actual demand, goes uncaptured. Splitting the site so each product line and each service has its own real page is usually the single highest-return change we make.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options and what each one suits</h2>
+            <p>A static website is the right starting point for most small firms and professional practices. It is fast, cheap to host, almost impossible to break, and perfectly capable of ranking. If your content changes a few times a year, static is what you want. It starts from ₹5,000 and a straightforward one is usually live inside two weeks.</p>
+            <p>A dynamic site with a content editor makes sense once someone in your office will genuinely be updating things: a school posting notices, a trading firm adding products monthly, a clinic changing doctor timings. Our 30-page SEO website, taken from design through to deployment, starts from ₹10,000 and is the option most growing Ahmedabad businesses pick, because thirty well-written pages give search engines something to work with.</p>
+          </article>
+          <article>
+            <h3>Redesign, ecommerce and custom builds</h3>
+            <p>A redesign is not a repaint. When we rebuild an existing site we keep the URLs that already earn traffic, map anything we retire to its closest replacement, and carry the content forward so rankings survive the move. Businesses lose visibility in redesigns far more often than they gain it, almost always because nobody handled the redirects.</p>
+            <p>Ecommerce starts from ₹25,000 and covers catalogue, cart, payment gateway and order flow. For a custom web application, a dealer portal, a quotation system, an internal dashboard, pricing starts from ₹40,000. If you want automation layered on top, order alerts, WhatsApp notifications, document processing, AI automation work starts from ₹15,000. Read more about our approach on the <a href="/services/web-development/">web development</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What an Ahmedabad business website should include</h2>
+            <p>Before design comes the question of what the site has to do. For a supplier on the SG Highway corridor selling to buyers in other states, the site is a credibility check and a specification library. For a service business in Prahlad Nagar or Satellite, it is a phone call generator. For an institute near CG Road, it is an admissions funnel. The layout follows from that, not the other way round.</p>
+            <p>What we treat as non-negotiable on every build: a page per service or product line rather than one crowded list, a visible phone number and WhatsApp link on every screen, an enquiry form that reaches you within seconds, honest company information with a real address and GST details, and photographs of your actual premises and products. Stock images of foreign offices convince nobody and quietly cost you trust.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-seo-heading">How local SEO works for Ahmedabad searches</h2>
+            <p>Local ranking in Ahmedabad has three moving parts. The first is your Google Business Profile: correct category, complete hours, real photos, service areas listed, and a steady trickle of genuine reviews. For many local searches the map pack sits above every website on the page, so a neglected profile costs you more than a slow homepage does. We set it up properly and show you how to keep posting to it.</p>
+            <p>The second part is area-level content. Somebody searching from Bopal or Naroda often types the area name, and a page that never mentions those localities has nothing to match. That does not mean stuffing a list of pin codes into a footer. It means writing naturally about the areas you actually serve, inside sentences that a human would say out loud, on pages that deserve to exist.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting and the technical base</h3>
+            <p>The third part is the technical floor: pages that load quickly on a mobile connection, one clear title and description per page, headings in a sensible order, internal links that connect related pages, LocalBusiness structured data, and a sitemap that search engines can actually read. None of it is glamorous and all of it is checked before we hand a site over.</p>
+            <p>If you serve customers across Gujarat rather than only within the city, we build the structure to reflect that instead of pretending everything happens in one location. Ongoing work, keyword tracking, content additions, technical fixes and reporting, starts from ₹5,000 per month. Details are on the <a href="/services/seo-services/">SEO services</a> page, and city-wide context sits on our <a href="/india/gujarat/">Gujarat</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery, including five months of free maintenance</h2>
+            <p>We handle projects end to end. Planning and scoping, design, development, SEO setup, hosting configuration and deployment all come from the same three people, so there is nobody to chase between stages and nothing falls between two vendors. You are not asked to find a separate hosting provider or a separate SEO agency once the code is written.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That means content updates when your prices or team change, bug fixes, security updates, regular backups, and uptime and speed checks. After those five months, maintenance is available from ₹2,000 per month if you want it continued. Full figures for every service sit on the <a href="/pricing/">pricing</a> page, and final cost always depends on scope.</p>
+          </article>
+          <article>
+            <h3>Timelines you can plan around</h3>
+            <p>A static site: one to two weeks. A 30-page SEO site: three to five weeks. Ecommerce: four to seven weeks. A custom application: six weeks upward, depending on how much logic sits behind it. These are honest ranges from real projects, not sales numbers, and the variable is nearly always how fast content arrives from your side.</p>
+            <p>We work in visible stages. You see a structure document, then a design of the key pages, then a staging link you can open on your own phone and share with colleagues before anything goes public. Feedback happens at each stage rather than in one overwhelming review at the end, which is how projects avoid the rebuild-everything conversation.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for in Ahmedabad</h2>
+            <p>Ahmedabad's industrial mix shapes the kind of websites that work here. Textile businesses need catalogues that survive being browsed on a phone in a warehouse, with fabric specifications legible without pinch-zooming. Chemical and dye suppliers need product pages built around technical data, CAS numbers, packaging options and downloadable specification sheets, because their buyers compare on paper before they ever call.</p>
+            <p>Pharma companies carry compliance obligations, so their sites need careful, restrained claims and clean product listings. Trading and export firms need enquiry routing that reaches a person quickly, since the first supplier to reply usually wins the order. Education groups need admissions pages, fee transparency and a working notice section. And underneath all of it sits Ahmedabad's enormous SME base, where a five-page site done properly outperforms a fifty-page site done carelessly.</p>
+          </article>
+          <article>
+            <h3>Beyond websites</h3>
+            <p>Some businesses need more than a website: internal tools, automation between systems, cloud setup, or data work. Our team covers full stack development, AI and machine learning, AWS, data science and project management between the three of us. If your requirement runs wider than pages and rankings, start at our <a href="/it-services/gujarat/ahmedabad/">IT services in Ahmedabad</a> page instead.</p>
+            <p>We are also happy to say when something is outside what we do well. Three engineers cannot be experts at everything, and a clear no early is cheaper for you than a vague yes that unravels in week four. That is the same reason we quote from real scope instead of a flat headline number.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with us remotely actually goes</h2>
+            <p>We do not have an office in Ahmedabad and we will not pretend otherwise. We work with businesses across the city remotely, and in practice that changes very little about how a project runs. Calls happen on WhatsApp or Google Meet at a time that suits you, including evenings when the working day is already full. Designs and staging links arrive as URLs you can open on any device.</p>
+            <p>What you get in exchange for skipping the office visit is direct access to the person writing your code. No account manager relaying messages, no ticket queue, no three-day gap before a two-minute change gets made. If you would still rather meet face to face before committing, say so on the first call and we will talk it through honestly rather than talking you into something.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">How to get started</h2>
+            <p>Email or call and describe the business in a few lines: what you sell, who buys it, and what you want the website to do. We will ask a handful of questions, tell you which option fits, and give you a scoped quote with a timeline. If a static site solves your problem, we will say so rather than upselling you into a custom build you will never use.</p>
+            <p>There is no long proposal document and no pressure. If the fit is not right, we will tell you that too. When you are ready, the <a href="/contact/">contact page</a> has everything, or you can reach us directly on the details below.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <ul class="it-list">
+              <li><a href="/it-services/gujarat/ahmedabad/">IT services in Ahmedabad</a></li>
+              <li><a href="/india/gujarat/">Web development and SEO in Gujarat</a></li>
+              <li><a href="/india/">Services across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Web development in Mumbai</a></li>
+              <li><a href="/india/rajasthan/jaipur/">Web development in Jaipur</a></li>
+              <li><a href="/about/">About the team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Frequently asked questions</h2>
+            <div class="it-faq">
+              {faqs.map((faq) => (
+                <details>
+                  <summary>{faq.question}</summary>
+                  <p>{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build a website Ahmedabad buyers can find?</h2>
+          <p>Tell us what your business does and what you want the site to achieve. We handle planning, design, development, SEO setup, hosting and deployment, with five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

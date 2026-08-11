@@ -1,8 +1,256 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/usa/", "Digital Services in USA");
+const faqs = [
+  {
+    question: "How much does offshore web development for US businesses actually cost?",
+    answer: "A static marketing site starts from ₹5,000, a 30-page SEO website from design to deployment starts from ₹10,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. AI automation starts from ₹15,000 and monthly SEO from ₹5,000 per month. Those are starting points in rupees, which usually convert to a fraction of a US agency quote. Final cost depends on scope.",
+  },
+  {
+    question: "What does the lower price not buy me?",
+    answer: "It does not buy a fifty person account team, an in-person workshop in your city, or someone who can walk into your warehouse and photograph your inventory. It also does not buy legal or tax advice about US regulations. You get three engineers doing the actual build work, which is where most of your money should go anyway.",
+  },
+  {
+    question: "How do you handle the time difference with EST and PST?",
+    answer: "India is roughly nine and a half hours ahead of New York and twelve and a half ahead of Los Angeles. We keep calls in your morning, which is our evening, so an 8am to 11am Eastern slot works comfortably. For Pacific clients we take early calls at 8am Pacific, which is 8:30pm here. Everything else runs asynchronously over email and written updates.",
+  },
+  {
+    question: "Who owns the code and the design files?",
+    answer: "You do, in full, once the final invoice is paid. That includes source code, design files, content, database schemas and any automation scripts we write for you. We hand over repository access, hosting credentials and domain records. We keep no license and no lock-in, and we do not resell your build to anyone else.",
+  },
+  {
+    question: "How do US clients pay an Indian team?",
+    answer: "Most clients pay by international bank wire or through Wise, which handles USD to INR conversion at a fair rate with low fees. PayPal works too, though its conversion spread is wider. We invoice in USD, split payments into milestones rather than one lump sum, and send a proper invoice for your bookkeeping and tax records.",
+  },
+  {
+    question: "Do you build accessible websites that meet WCAG guidance?",
+    answer: "We build to WCAG 2.1 AA practices as a default: real semantic HTML, keyboard navigation, visible focus states, sufficient colour contrast, labelled form fields and alt text on meaningful images. That reduces ADA-related risk considerably. We are engineers, not attorneys, so we do not certify legal compliance, and we say so plainly before we start.",
+  },
+  {
+    question: "Can you do local SEO for a US city or service area?",
+    answer: "Yes. That means Google Business Profile setup and optimisation, consistent name, address and phone details across directories, city and service landing pages built on real content, LocalBusiness schema, review prompts and tracking in Search Console. Monthly SEO starts from ₹5,000 per month. Rankings move over months, not weeks, and we report progress honestly.",
+  },
+  {
+    question: "What happens after the site goes live?",
+    answer: "Five months of maintenance are included free: content updates, bug fixes, security patches, backups, and uptime and speed checks. After that period, maintenance is from ₹2,000 per month if you want us to keep looking after it. There is no obligation to continue, and you keep every credential either way.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Offshore Web Development for United States Businesses",
+  description: "Hire Indian web developers for US businesses. Websites, ecommerce, AI automation and SEO built end to end from India, with 5 months free maintenance included.",
+  canonicalPath: "/usa/",
+  h1: "Working With United States Businesses From India",
+  intro: "We are three freelance engineers in India who build websites, ecommerce stores, web applications and AI automation for companies across the United States. Everything runs end to end, from planning through hosting, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([{ label: "USA", href: "/usa/" }]),
+  keywords: [
+    "offshore web development for US businesses",
+    "hire Indian web developers USA",
+    "SEO services for US companies",
+    "offshore development team India",
+    "US web design outsourcing",
+    "affordable web developers for American businesses",
+    "web development agency for United States clients",
+    "ecommerce development USA",
+    "Shopify alternative custom store USA",
+    "WCAG accessibility web development",
+    "ADA compliant website development",
+    "Google Business Profile optimisation USA",
+    "local SEO for US cities",
+    "hire remote developers India USA timezone",
+    "EST timezone overlap development team",
+    "PST friendly offshore developers",
+    "AI automation for US small business",
+    "custom web application development USA",
+    "outsource website maintenance USA",
+    "monthly SEO retainer US business",
+    "wire transfer payment offshore developer",
+    "IP ownership offshore development contract",
+    "startup MVP development India for US founders",
+    "SaaS marketing site development",
+    "US small business website design cost",
+    "remote friendly delivery United States",
+    "technical SEO services United States",
+    "website redesign for American companies",
+  ],
+});
 ---
 
-<BaseLayout meta={{ ...page, robots: "noindex,follow" }}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">United States</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Who you are actually hiring</h2>
+            <p>BtechWaleTech is a small freelance group of three engineers based in India. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management alongside data science and automation work. That is the entire team. When you send a message, one of us reads it and replies, and the person who replies is the person who writes your code. There is no sales layer, no account manager passing notes to a delivery pod you never meet, and no junior developer quietly assigned to your build after the pitch call ends.</p>
+            <p>We have no office in the United States, no US entity, and no local branch. We say that up front because plenty of offshore vendors imply otherwise with a rented mailbox address in Delaware. We work with businesses across the US remotely, over email, calls and written updates, and we have found that being honest about the arrangement removes more friction than it creates. You can read more <a href="/about/">about how we work</a> before you commit to anything.</p>
+          </article>
+          <article>
+            <h3>What we build</h3>
+            <p>Marketing websites, ecommerce stores, custom web applications, internal dashboards, AI automation and search optimisation. Most US enquiries land in one of three buckets: a small business that needs a credible site and to be found locally, a founder who needs an MVP or a SaaS marketing site shipped quickly, or an established company that wants an outdated site rebuilt without paying agency rates for the privilege.</p>
+            <p>Everything runs end to end. Planning, design, development, SEO setup, hosting and deployment all sit with us, so you are not coordinating a designer in one place, a developer in another and a hosting company that answers nobody. Our full <a href="/services/">service list</a> covers the detail.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cost-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="cost-heading">The cost advantage, explained honestly</h2>
+            <p>The gap is real and it is not a trick. Engineering salaries, rent and living costs in India are a fraction of what they are in San Francisco, Austin or Boston, so the same hours of skilled work cost dramatically less to produce. A thirty page SEO website taken from design to deployment starts from ₹10,000. A static marketing site starts from ₹5,000. Ecommerce starts from ₹25,000, custom web applications from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Every one of those is a starting point, and the final number depends entirely on scope, page count, integrations and how much content you need written rather than supplied.</p>
+            <p>What that price buys is engineering time from people who have shipped this kind of work before, and a direct line to them. What it does not buy is equally worth stating. It does not buy a large account team, on-site workshops, someone photographing your storefront, or US legal and tax advice. It does not buy round the clock coverage from a rotating support desk. If your project genuinely needs a partner physically present in your city several times a month, hire locally. If it needs a site built well, launched properly and looked after, the distance costs you nothing.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="timezone-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="timezone-heading">How the time difference actually works</h2>
+            <p>India Standard Time sits about nine and a half hours ahead of Eastern Time and twelve and a half ahead of Pacific. That sounds awkward until you work with it deliberately. For East Coast clients we hold calls between 8am and 11am Eastern, which is late evening here and completely workable. For West Coast clients, an 8am Pacific call lands at 8:30pm in India. We do not ask you to take midnight meetings, and we do not pretend to be awake at 2am to look responsive.</p>
+            <p>The bigger benefit is the overnight cycle. You send feedback at the end of your working day, we work through our day, and a build with your changes applied is usually waiting when you get back to your desk. That rhythm suits projects with a lot of review iterations. It works because everything important is written down: decisions, questions, changes, blockers. Verbal-only agreements fall apart across a twelve hour gap, so we keep a written trail for everything that matters.</p>
+          </article>
+          <article>
+            <h3>Reporting and project management</h3>
+            <p>You get a written update at a fixed cadence, usually twice a week on longer builds and weekly on small ones. Each update covers what shipped, what is in progress, anything blocked and what we need from you. Blockers are flagged the day they appear, not saved for the next call.</p>
+            <p>Staging links go up early so you can click through real pages instead of imagining them from screenshots. On SEO retainers you get a monthly report tied to Search Console data, showing rankings, impressions, technical fixes made and what is planned next. If a month was slow, the report says so.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="contracts-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="contracts-heading">Contracts, payments and IP ownership</h2>
+            <p>Before any work starts you get a written scope covering deliverables, page count, timeline, milestones, revision rounds and price. That document is the contract as far as we are concerned. If scope changes mid-project, and it often does, we quote the change in writing and you approve it before we build it. Nobody gets a surprise line item at the end.</p>
+            <p>Payment is milestone based rather than a single upfront lump. A typical split is a deposit to begin, a payment when the build reaches staging review, and the balance on launch and handover. US clients most often pay by international wire or through Wise, which converts USD to INR at a fair rate with modest fees. PayPal works but carries a wider spread. We invoice in USD with proper documentation for your accountant. Our <a href="/pricing/">pricing page</a> and <a href="/refund-policy/">refund policy</a> spell out the commercial terms.</p>
+          </article>
+          <article>
+            <h3>Intellectual property</h3>
+            <p>You own everything on final payment. Source code, design files, copy, database structure, automation scripts. We transfer repository ownership, hosting access and DNS control directly to accounts in your name, not ours. No retained license, no hostage credentials.</p>
+            <p>We reuse our own generic patterns and helper code across projects, which is normal practice and keeps your build fast, but nothing specific to your business, brand or data is reused anywhere. The full terms sit in our <a href="/terms/">terms</a> and <a href="/privacy-policy/">privacy policy</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="accessibility-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="accessibility-heading">Accessibility, ADA exposure and WCAG practice</h2>
+            <p>US businesses face a real volume of website accessibility demand letters and lawsuits, most of them citing the Americans with Disabilities Act and pointing at WCAG as the practical yardstick. We take that seriously without overpromising. Our default build practice follows WCAG 2.1 level AA: semantic HTML structure with proper headings and landmarks, full keyboard navigation, visible focus indicators, colour contrast that clears the required ratios, labelled and described form fields, alt text on images that carry meaning, captions or transcripts where you supply video, and no reliance on colour alone to convey information.</p>
+            <p>We also avoid the overlay widgets that promise instant compliance in a line of JavaScript. They have a poor record with actual screen reader users and have not reliably prevented claims. Fixing the markup is slower and works. What we will not do is issue a compliance certificate or tell you that you are legally safe, because we are engineers rather than attorneys and no honest developer can make that promise. If accessibility is a priority for you, say so at the scoping stage and we will build audit checkpoints into the schedule rather than testing once at the end.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">SEO services for US companies</h2>
+            <p>Search in the US is competitive and slow to move, which makes shortcuts especially expensive. Our approach is unglamorous: fix the technical foundation, build pages that answer real questions, and earn relevance rather than buy it. Technical work covers crawlability, index control, page speed and Core Web Vitals, clean URL structure, internal linking, schema markup and clearing duplicate or thin pages. Content work means service pages, comparison pages and articles that match what people actually type, written by someone who understands the subject rather than spun from a template.</p>
+            <p>Local search gets its own track. That means a properly completed and categorised Google Business Profile, consistent name, address and phone data across the directories that feed the map pack, city and service area landing pages with genuinely different content rather than a find and replace, LocalBusiness schema, review generation prompts built into your follow-up, and Search Console plus Analytics configured so you can see what is working. Monthly SEO starts from ₹5,000 per month. Expect movement over three to six months, not three weeks, and expect us to tell you when a month underdelivered. More detail sits on our <a href="/services/seo-services/">SEO services page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="industries-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="industries-heading">Industries we commonly work with</h2>
+            <p>The US work that reaches us tends to cluster in a few places. Home services companies such as HVAC, roofing, plumbing and landscaping, where local search and a fast quote form drive most of the revenue. Professional services including law firms, accountants, consultants and clinics, where credibility and clear service pages matter more than visual flourish. Small ecommerce brands moving off a rigid template onto something they can actually control. Early stage SaaS founders who need a marketing site, documentation and a working MVP without burning half a seed round on it.</p>
+            <p>We also take on internal tools: dashboards, booking systems, quoting calculators, inventory views and the kind of automation that replaces a spreadsheet three people are editing at once. AI automation from ₹15,000 typically covers document processing, lead qualification, support triage or reporting pipelines. Our <a href="/industries/">industries page</a> and <a href="/case-studies/">case studies</a> go into more depth on what we have built.</p>
+          </article>
+          <article>
+            <h3>What happens after launch</h3>
+            <p>Five months of maintenance are included free once hosting goes live. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because a site that nobody touches for six months quietly rots, and because we would rather fix small issues than hand you a broken site later.</p>
+            <p>After those five months, maintenance is from ₹2,000 per month if you want it to continue. Plenty of clients take over themselves, and that is fine. You hold every credential, so nothing depends on us staying involved.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">How to start</h2>
+            <p>Email us with what you need, even roughly. A few sentences about your business, what the site or application has to do, any deadline you are working to, and a budget range if you have one. We reply with clarifying questions rather than a generic brochure. If we think your project is a poor fit for a remote team, or that you would be better served by an off the shelf platform, we will tell you and lose the sale.</p>
+            <p>From there we send a written scope with a fixed price and timeline. Once you approve it and the deposit clears, we start. Small sites often go from kickoff to launch in one to three weeks; larger ecommerce and application builds run four to twelve weeks depending on complexity and how quickly content and feedback arrive from your side. You can reach us through the <a href="/contact/">contact page</a> or by email and phone directly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you are comparing options or want to see how we handle other regions and services, these pages cover the rest of what we do.</p>
+            <ul class="it-list">
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting rates</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/it-services/">IT services overview</a></li>
+              <li><a href="/india/">Working with businesses in India</a></li>
+              <li><a href="/uae/">Working with businesses in the UAE</a></li>
+              <li><a href="/australia/">Working with businesses in Australia</a></li>
+              <li><a href="/blog/">Blog and guides</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/terms/">Terms of service</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions US clients ask us first</h2>
+          <p>Straight answers on cost, ownership, timezones and what happens after launch.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what you are trying to build</h2>
+          <p>End to end delivery from planning to hosting, five months of maintenance included free after launch, and full ownership of everything we build for you.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

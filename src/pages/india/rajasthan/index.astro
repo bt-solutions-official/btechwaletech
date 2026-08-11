@@ -1,8 +1,260 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { rajasthanCities } from "@data/countries/india/cities/rajasthan";
-const page = indiaRegionPage("rajasthan");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a business in Rajasthan?",
+    answer: "A static website starts from ₹5,000 and a 30-page SEO website taken from design to deployment starts from ₹10,000. An ecommerce store starts from ₹25,000, a custom web application from ₹40,000 and AI automation work from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope: page count, languages, product catalogue size and integrations.",
+  },
+  {
+    question: "How long does a Rajasthan business website take to build?",
+    answer: "A small static site is usually ready in one to two weeks. A 30-page SEO website normally takes three to five weeks including content structure, on-page work and deployment. Ecommerce and custom web applications run six to ten weeks depending on catalogue size and payment or logistics integrations. Delays almost always come from content and photos, not code.",
+  },
+  {
+    question: "Do you have an office in Jaipur or Jodhpur?",
+    answer: "No. We are a small freelance engineering group and we work fully remote, so we do not claim any office in Rajasthan. We work with businesses in Jaipur, Jodhpur, Kota, Udaipur, Ajmer and Bikaner over calls, WhatsApp and email, and share a live preview link from the first week so you can watch the site take shape.",
+  },
+  {
+    question: "Is maintenance really free after launch?",
+    answer: "Yes. After your hosting goes live you get five months of maintenance included at no extra cost. That covers content updates, bug fixes, security updates, backups and regular uptime and speed checks. After those five months, maintenance is from ₹2,000 per month if you want us to keep looking after the site, and you are free to stop at any point.",
+  },
+  {
+    question: "Can you rank a site in more than one Rajasthan city?",
+    answer: "Yes, but each city needs its own page with genuinely different content. A single page trying to rank in Jaipur, Kota and Udaipur at the same time usually ranks nowhere. We build one strong service page per city, connect them through internal links, and support them with a Google Business Profile and consistent name, address and phone details.",
+  },
+  {
+    question: "Do you build websites in Hindi as well as English?",
+    answer: "Yes. Many Rajasthan audiences read and search in Hindi, especially outside the metro-facing tourism and export trades. We can build a bilingual site with clean URLs for each language, or a Hindi-first site with an English section for outside buyers. The important part is real translated copy, not a browser translate widget bolted on top.",
+  },
+  {
+    question: "We already have a website. Can you fix it instead of rebuilding?",
+    answer: "Often yes. If the existing site loads reasonably fast and the content structure is sound, we can improve speed, fix mobile layout, correct meta titles and headings and add the missing pages. If it is a heavy page-builder template that takes eight seconds to load on mobile data, rebuilding is usually cheaper than repairing it repeatedly.",
+  },
+  {
+    question: "What do you need from us before starting?",
+    answer: "A short list of the services or products you sell, your business name, address and phone as they should appear everywhere, any logo files you have, and photographs of your work, shop or products. If photos do not exist yet, tell us early. We can plan the design around illustrations and text while you arrange a shoot.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Rajasthan for Growing Businesses",
+  description: "Website development and SEO services across Rajasthan. Remote-friendly delivery for Jaipur, Jodhpur, Kota, Udaipur, Ajmer and Bikaner, from ₹5,000 with 5 months free maintenance.",
+  canonicalPath: "/india/rajasthan/",
+  h1: "Website Design, Development and SEO Services Across Rajasthan",
+  intro: "We build and rank websites for businesses across Rajasthan, from Jaipur showrooms and Jodhpur exporters to Kota coaching institutes and Udaipur hotels. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Rajasthan", href: "/india/rajasthan/" },
+  ]),
+  keywords: [
+    "web development company in Rajasthan",
+    "website development Rajasthan",
+    "website design Rajasthan",
+    "SEO services Rajasthan",
+    "web development Jaipur",
+    "website designer Jaipur",
+    "SEO company Jaipur",
+    "website development Jodhpur",
+    "web design Kota",
+    "website development Udaipur",
+    "web design Ajmer",
+    "website development Bikaner",
+    "ecommerce website Rajasthan",
+    "handicraft export website",
+    "jewellery website design Jaipur",
+    "hotel website design Udaipur",
+    "coaching institute website Kota",
+    "tourism website development Rajasthan",
+    "local SEO Rajasthan",
+    "Hindi website design",
+    "small business website Rajasthan",
+    "website maintenance Rajasthan",
+    "freelance web developer Rajasthan",
+    "affordable website design Rajasthan",
+    "custom web application Rajasthan",
+    "Google Business Profile Rajasthan",
+  ],
+});
 ---
-<LocationLayout page={page}>{rajasthanCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Rajasthan</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Rajasthan business landscape and who needs a better website</h2>
+            <p>Rajasthan is not one market. It is half a dozen city economies that behave very differently, and the website that works for one of them can be badly wrong for another. Jaipur runs on jewellery, gemstones, hospitality, real estate and a growing services layer of clinics, IT firms and agencies. Jodhpur exports furniture and handicrafts to buyers who never set foot in India. Kota lives on coaching, hostels and the whole ecosystem around them. Udaipur sells destination weddings, hotels and tours. Ajmer and Bikaner hold steady regional retail, education and food businesses with strong local reputations.</p>
+            <p>The businesses that gain the most from a proper website are usually the ones already doing well offline with no digital shopfront at all. A Jodhpur furniture exporter with two decades of buyer relationships and no catalogue online loses enquiries to competitors who published a plain product page. A Jaipur clinic with a dozen daily walk-ins misses every person who searched at eleven at night. The demand already exists in Rajasthan. What is usually missing is a page for it to land on.</p>
+          </article>
+          <article>
+            <h3>Where the money is currently leaking</h3>
+            <p>Three patterns show up over and over. First, a site built years ago on a heavy template that now takes six to nine seconds to load on a mobile connection, which means most visitors leave before seeing anything. Second, a site that exists but never mentions the city or the service in plain language, so it never appears in search for the exact phrases customers type. Third, a social media page used as the only web presence, which works for reach but gives buyers nothing to evaluate, no price signal and no way to contact you at their own pace.</p>
+            <p>Fixing those three things is often more valuable than a redesign. We look at what you already have before recommending a rebuild, and if the existing site can be repaired we will say so. A faster, clearer version of your current site is frequently the cheapest win available, and we would rather do that honestly than sell you a project you do not need.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Rajasthan business website actually includes</h2>
+            <p>Start with speed. A large share of your visitors are on mobile data, sometimes patchy, and a page that takes under three seconds to become usable will outperform a prettier one that takes eight. We build lean pages, compress images properly, and avoid the plugin stack that drags most template sites down. Then structure: a clear homepage, one page per real service or product category, an honest about page that names the people behind the business, and a contact page with a phone number that works on a single tap.</p>
+            <p>After that come the details that convert. Photographs of your actual work, shop or products rather than stock images. Prices or at least price ranges, because buyers who cannot find any pricing signal usually leave. A simple enquiry form that also delivers to WhatsApp or email so nothing sits unread in a dashboard. Location and hours marked up correctly so Google can read them. None of this is exotic. It is just done properly, page by page.</p>
+          </article>
+          <article>
+            <h3>The pages most Rajasthan sites are missing</h3>
+            <ul class="it-list">
+              <li>A separate page for each service, instead of one page listing everything in bullet points</li>
+              <li>A city page for each market you genuinely serve, written differently for each</li>
+              <li>A pricing or estimate page, even if it only gives ranges and conditions</li>
+              <li>A work or gallery section with real photographs and short project notes</li>
+              <li>A frequently asked questions section answering what customers ask you on the phone</li>
+              <li>An enquiry path that reaches you within minutes, not a form nobody checks</li>
+            </ul>
+            <p>Our <a href="/services/web-development/">web development service</a> covers all of this as part of the build rather than as extras added later, and the same structure carries into the <a href="/services/seo-services/">SEO work</a> that follows.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="search-heading">How local search works across a state with several city markets</h2>
+            <p>Search in Rajasthan is stubbornly local. Someone in Kota searching for a website designer or a dentist gets results weighted heavily toward Kota, and a page optimised for Jaipur will rarely surface there. This is why one page trying to cover the whole state usually ranks for nothing in particular. The approach that works is a page per city, each written with different content, different examples and different local references, connected through sensible internal links back to a state page like this one.</p>
+            <p>Alongside the pages, a properly filled Google Business Profile does a great deal of the work for businesses with a physical location. Category, hours, service list, photographs updated occasionally, and reviews collected honestly from real customers. Keep the business name, address and phone number identical everywhere it appears online, because inconsistency between listings quietly suppresses local rankings. We set this up as part of the SEO scope and show you how to maintain it so you are not dependent on us for routine updates.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language, regional wording and who you are writing for</h2>
+            <p>Rajasthan sites often need to speak to two audiences at once. A Jodhpur handicraft exporter writes for buyers in Europe and the United States in careful English, with product specifications, material details, packing and shipping information. A Bikaner sweets shop or a Kota hostel writes for people down the road, many of whom search in Hindi or in Hinglish typed in Roman script. Those are different pages with different vocabulary, and squeezing both into one voice weakens both.</p>
+            <p>We handle bilingual builds with clean separate URLs for each language and genuine translated copy, not an automatic translation widget that produces awkward output and confuses search engines. Where clients search in Hinglish, we make sure the English pages use the phrasing people actually type rather than formal alternatives nobody searches for. Small wording choices such as writing "shaadi" alongside "wedding", or naming a neighbourhood the way locals name it, quietly change how findable a page is.</p>
+          </article>
+          <article>
+            <h3>Content you can supply, content we can shape</h3>
+            <p>You know your trade better than any writer we could hire. What we need from you is raw material: what you sell, what makes your work different, the questions customers repeat, the objections you answer weekly. That can arrive as voice notes on WhatsApp if writing is not your thing. We turn it into structured page copy, run it past you, and adjust until it sounds like your business rather than a template.</p>
+            <p>Photographs matter more than most people expect, particularly for tourism, jewellery, furniture and food. If good images do not exist, tell us at the start so we can plan a design that works with typography and colour while you organise a shoot. Retrofitting photographs into a layout designed around them is easy; rescuing a photo-heavy design with no photos is not.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we build for across Rajasthan</h2>
+            <p>Tourism and hospitality is the loudest sector in the state. Hotels, havelis, desert camps, tour operators and destination wedding planners in Udaipur, Jaisalmer and Jaipur all compete against large aggregator platforms that take a commission on every booking. A direct-booking website will not replace those platforms, but it can capture the meaningful share of travellers who look up a property by name before booking. Fast galleries, clear room and package pages, honest pricing and a working enquiry form usually matter more than animation.</p>
+            <p>Handicraft and jewellery exporters, concentrated in Jodhpur and Jaipur, need something different again: a catalogue that a foreign buyer can browse without an account, product specifications in the units their market uses, minimum order quantities stated plainly, and a contact route that respects time zones. We often build these as a catalogue site with enquiry forms rather than full ecommerce, because most export business closes over email after a sample, not through a checkout button.</p>
+          </article>
+          <article>
+            <h3>Coaching, education and retail</h3>
+            <p>Kota's coaching institutes, hostels and mess operators live in an intensely competitive search environment where parents research from other states months before arriving. Those sites need faculty credibility, batch and fee clarity, results presented without exaggeration, and a fast enquiry path. Hostels in particular benefit from honest photographs of rooms and facilities, because parents comparing options remotely trust visible detail more than adjectives.</p>
+            <p>Retail and services in Ajmer, Bikaner, Kota and smaller towns usually need less. A well-built site of five to fifteen pages, a strong Google Business Profile, and a handful of location and service pages tends to be enough to own local search in a way large national competitors cannot easily disturb. This is where the smallest budgets produce the clearest returns, and it is worth reading our <a href="/pricing/">pricing page</a> before assuming a project like this is expensive.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Starting prices and realistic timelines</h2>
+            <p>We publish starting prices because guessing wastes everyone's time. A static website starts from ₹5,000. A 30-page SEO website carried from design through to deployment starts from ₹10,000. AI automation work starts from ₹15,000, an ecommerce store from ₹25,000, and a custom web application from ₹40,000. Ongoing monthly SEO starts from ₹5,000 per month, and maintenance after your free period starts from ₹2,000 per month. Every one of these is a starting figure. Final cost depends on scope, and we quote properly once we understand what you actually need.</p>
+            <p>On timing, small static sites usually go live within one to two weeks. A 30-page SEO site typically takes three to five weeks. Ecommerce and custom applications run six to ten weeks depending on catalogue size, payment gateways and any logistics or inventory integration. SEO is slower by nature: expect meaningful movement in local search over three to six months, faster in less competitive towns and slower in Jaipur where competition for the obvious keywords is real.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery, and five months of maintenance included free</h2>
+            <p>We take projects from planning through to a live site. That means requirement discussion, structure and design, development, SEO setup, hosting and deployment, all handled by the same three people rather than passed between a designer, a developer and an agency account manager. You do not need to buy hosting separately, arrange a domain connection yourself, or find someone else to add meta titles afterwards. It goes live working, indexed and configured.</p>
+            <p>Once hosting is live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security updates, backups, and regular uptime and speed checks. It exists because the weeks straight after launch are when small problems appear, and a business owner should not be paying by the hour to have them fixed. After five months, maintenance is from ₹2,000 per month if you want it to continue, and stopping is a conversation rather than a contract dispute.</p>
+          </article>
+          <article>
+            <h3>How remote delivery works for Rajasthan clients</h3>
+            <p>We are a freelance group of three engineers working fully remote, and we do not claim an office anywhere in Rajasthan. In practice this changes very little. Requirements are collected over a call, questions run through WhatsApp and email, and a live preview link goes up early so you can watch the site develop instead of waiting for a reveal. Feedback on a preview link is far more precise than feedback on a description, and it removes most of the friction that distance would otherwise create.</p>
+            <p>You own everything at the end: the domain, the hosting account, the code and the content. We hand over credentials and a short written explanation of how to update the parts you will touch most. If you later want a different developer, nothing is locked to us. That is deliberate, and it is the arrangement we would want as clients ourselves.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>If you want the broader technology view for the state, including software, cloud and automation work rather than websites alone, see our <a href="/it-services/rajasthan/">IT services in Rajasthan</a> page. For city-level detail, start with Jaipur below.</p>
+            <ul class="it-list">
+              <li><a href="/india/rajasthan/jaipur/">Web development and SEO in Jaipur</a></li>
+              <li><a href="/it-services/rajasthan/jaipur/">IT services in Jaipur</a></li>
+              <li><a href="/it-services/rajasthan/">IT services across Rajasthan</a></li>
+              <li><a href="/india/">Web development and SEO across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting figures</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/india/gujarat/ahmedabad/">Website and SEO work in Ahmedabad</a></li>
+              <li><a href="/india/delhi/">Website and SEO work in Delhi</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Questions Rajasthan businesses ask us</h2>
+            <div class="it-faq">
+              {faqs.map((faq) => (
+                <details>
+                  <summary>{faq.question}</summary>
+                  <p>{faq.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what your Rajasthan business needs online</h2>
+          <p>Send a short note about your business, your city and what you want the website to do. We will reply with a realistic scope, a starting figure and a timeline, with five months of maintenance included after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

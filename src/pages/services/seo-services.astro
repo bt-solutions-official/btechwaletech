@@ -1,8 +1,302 @@
 ---
-import ServiceLayout from "@layouts/ServiceLayout.astro";
-import { getServiceBySlug } from "@data/services";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const service = getServiceBySlug("seo-services");
+const faqs = [
+  {
+    question: "How much do your SEO services cost?",
+    answer: "Monthly SEO starts from ₹5,000 per month and the final figure depends on how many pages we work on, how competitive your keywords are, and how much content writing you want each month. A one-time technical audit and fix pass can also be bought on its own. A 30-page SEO website, built and deployed, starts from ₹10,000.",
+  },
+  {
+    question: "How long before I see results from SEO?",
+    answer: "For a new domain, expect three to six months before organic traffic becomes meaningful, and longer for competitive commercial terms. An existing site with real content and links often moves faster, sometimes inside eight weeks, because we are fixing what already exists rather than building authority from zero. Anyone promising rankings in thirty days is guessing.",
+  },
+  {
+    question: "Can you guarantee a number one ranking on Google?",
+    answer: "No, and nobody honest can. Google does not sell placement in organic results and the ranking systems change constantly. What we can commit to is the work: a technically clean site, pages that match search intent, correct structured data, useful content, and monthly reporting that shows exactly what changed and what it moved.",
+  },
+  {
+    question: "What does an SEO audit actually cover?",
+    answer: "Crawl and indexation status, robots.txt and sitemap correctness, canonical tags, redirect chains, Core Web Vitals and mobile usability, title and meta structure across every template, heading hierarchy, internal linking depth, duplicate and thin content, structured data validity, and a keyword gap review against the sites already ranking for your terms.",
+  },
+  {
+    question: "Do you do local SEO for a specific city?",
+    answer: "Yes. That means a properly filled Google Business Profile, consistent name, address and phone details across directories, review handling, local schema, and city pages written with real service information rather than the same paragraph with the city name swapped. Doorway pages get filtered out and can drag the rest of the site down with them.",
+  },
+  {
+    question: "Do I need a new website before you start SEO?",
+    answer: "Not always. If the current site loads reasonably, can be crawled, and lets us edit titles, headings, content, and schema, we work with it. If it is locked down, painfully slow, or built on a page builder that fights every change, rebuilding is usually cheaper than fighting it. A static website starts from ₹5,000.",
+  },
+  {
+    question: "What is included after the website goes live?",
+    answer: "We deliver end to end: planning, design, development, SEO setup, hosting, and deployment. Once hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance is from ₹2,000 per month and SEO retainers are separate.",
+  },
+  {
+    question: "How do you report on progress each month?",
+    answer: "Search Console for impressions, clicks, average position, and indexation changes, plus GA4 for organic sessions, landing pages, and conversions. The monthly report lists what we shipped, what moved, what did not, and what is queued next. No vanity keyword screenshots and no metrics that cannot be traced back to Google data.",
+  },
+];
+
+const page = createPageSeo({
+  title: "SEO Services India: Technical, Local and Content SEO",
+  description: "SEO services in India covering technical SEO, on-page work, local SEO, content and schema. Monthly SEO from ₹5,000. Honest timelines, Search Console reporting.",
+  canonicalPath: "/services/seo-services/",
+  h1: "SEO built on technical fixes, real content and measurable search data",
+  intro: "We are three freelance engineers running SEO the way it actually works: fix what blocks crawling, make each page answer one real search, structure the data properly, then measure it in Search Console and GA4. No guaranteed rankings, no filler reports, no keyword stuffing.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Services", href: "/services/" },
+    { label: "SEO services", href: "/services/seo-services/" },
+  ]),
+  keywords: [
+    "SEO services India",
+    "technical SEO services",
+    "local SEO services India",
+    "SEO company India",
+    "SEO agency India",
+    "freelance SEO services",
+    "on-page SEO services",
+    "SEO audit India",
+    "Core Web Vitals optimisation",
+    "schema markup services",
+    "structured data SEO",
+    "Google Search Console setup",
+    "GA4 setup for SEO",
+    "keyword research services",
+    "topic cluster content",
+    "Google Business Profile optimisation",
+    "NAP consistency",
+    "location page SEO",
+    "ecommerce SEO India",
+    "monthly SEO retainer India",
+    "SEO pricing India",
+    "website migration SEO",
+    "internal linking strategy",
+    "indexation issues Google",
+    "crawl budget optimisation",
+    "content SEO services",
+    "SEO for small business India",
+    "affordable SEO services India",
+  ],
+});
 ---
 
-<ServiceLayout page={service.seo} />
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">SEO SERVICES</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="what-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="what-heading">What our SEO services in India actually include</h2>
+            <p>SEO is four jobs wearing one name. Technical work makes the site crawlable and fast. On-page work makes each URL clearly about one thing. Content work creates pages that deserve to rank for queries you do not have yet. Local work makes you findable in a city or service area. Most agencies sell you one of the four and invoice as if they sold all four. We run them together because they only pay off together: a brilliant article on a page Google cannot index earns nothing, and a technically perfect site with three thin pages has nothing to rank.</p>
+            <p>We are a small freelance group of three engineers, which changes how the work runs. The person who writes your title tags is the same person who edits the template, so a fix does not wait for a hand-off. We deliver end to end when you need it: planning, design, development, SEO setup, hosting, and deployment. Once hosting is live, five months of maintenance are included free, and SEO can run as a separate monthly engagement from ₹5,000 per month. Final cost always depends on scope.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="technical-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="technical-heading">Technical SEO services: crawling, indexing and speed</h2>
+            <p>Technical SEO is the part clients most often skip and most often bleed traffic to. We start with crawl and indexation. Can Googlebot reach every page you care about, and is it choosing to keep them? Search Console tells the truth here: pages excluded as "Discovered - currently not indexed" usually mean thin or duplicated content, while "Crawled - currently not indexed" often means the page is fine but unremarkable. Those two diagnoses need completely different fixes, and guessing wastes months.</p>
+            <p>From there we check robots.txt for rules that block CSS, JS, or whole directories by accident. We check the XML sitemap contains only canonical, indexable, status 200 URLs, because a sitemap full of redirects and 404s teaches Google to trust it less. We map redirect chains and flatten them to a single hop. We confirm every page self-canonicalises unless there is a deliberate reason not to, and that paginated, filtered, and parameter URLs are handled instead of quietly duplicating your catalogue a hundred times over.</p>
+          </article>
+          <article>
+            <h3>Core Web Vitals and mobile usability</h3>
+            <p>Speed is a ranking input, but the bigger effect is behavioural: slow pages lose the visitor before the content loads. We work against field data in Search Console rather than a single lab score, because a lab test on fast hardware hides what a mid-range Android phone on a patchy connection experiences. The usual wins are unglamorous and effective.</p>
+            <ul class="it-list">
+              <li>Compress and resize images, serve modern formats, set explicit width and height to stop layout shift</li>
+              <li>Cut render-blocking scripts and third-party tags that nobody remembers adding</li>
+              <li>Preload the font and hero image that decide largest contentful paint</li>
+              <li>Fix tap targets, viewport settings, and text that forces pinch-zoom on mobile</li>
+              <li>Cache and compress properly at the hosting layer instead of patching in the browser</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="onpage-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="onpage-heading">On-page SEO: intent, structure and internal links</h2>
+            <p>On-page SEO begins by deciding what a page is for. We look at what Google currently ranks for the target query, because the results tell you what searchers wanted. If the top results are comparison articles, a product page will not break in no matter how well written it is. Once intent is clear, the title tag leads with the primary keyword in natural language, the meta description earns the click without keyword stuffing, and the H1 says the same thing in different words so the two are not redundant.</p>
+            <p>Heading hierarchy matters more than people think. One H1, H2s that each answer a genuine sub-question, H3s only when they sit under a parent idea. That structure is what lets Google lift a passage into a featured snippet, and it is also what makes the page readable. Content depth follows intent rather than a word count target: some queries need four hundred words and a clear price, others need two thousand words and worked examples.</p>
+          </article>
+          <article>
+            <h3>Internal linking that moves rankings</h3>
+            <p>Internal links are the cheapest ranking lever most sites never pull. Every important page should be reachable in three clicks from the homepage, and the anchor text should describe the destination instead of saying "click here". We build hub pages that link down to detail pages and detail pages that link back up and sideways to siblings. That is how a new page inherits authority quickly instead of sitting orphaned in the sitemap for a quarter. Our own <a href="/services/web-development/">web development</a> and <a href="/it-services/">IT services</a> sections are wired this way, and you can see the same structure across our <a href="/india/">India</a> pages.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-heading">Local SEO services for Indian cities and service areas</h2>
+            <p>Local SEO is a different ranking system sitting next to the organic one. The map pack is driven by proximity, relevance, and prominence, and the single highest-return task is usually a complete Google Business Profile: correct primary category, real service list, business hours, service area, photos that are actually yours, and questions answered. After that, consistency. Your name, address, and phone number must match character for character across your website, your profile, and every directory that lists you. Mismatched NAP data splits the signals that should be reinforcing each other.</p>
+            <p>Reviews are the part clients avoid and competitors exploit. A steady trickle of genuine reviews with replies beats a burst of five-star entries that arrive in one week and look exactly like what they are. We will set up the request flow and the response templates. We will not write, buy, or invent reviews, and we will not claim an office in a city where we do not have one.</p>
+          </article>
+          <article>
+            <h3>Location pages done properly, not doorway pages</h3>
+            <p>A location page earns its place when it carries information specific to that place: which services you deliver there, how delivery works remotely or on site, what local businesses typically ask for, pricing context, and the contact route. A doorway page is the same template with the city name find-and-replaced, and Google has explicitly targeted that pattern for years. If we cannot write something genuinely different about a city, we tell you to skip that page. Look at how we handle <a href="/india/haryana/gurgaon/">Gurgaon</a> or <a href="/india/karnataka/bangalore/">Bangalore</a> and you will see the difference.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="content-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="content-heading">Content SEO: keyword research, clusters and briefs</h2>
+            <p>Keyword research is not a list of high-volume phrases. It is a map of the questions your buyers ask across the whole journey, sorted by how likely each one is to end in work. A term with 200 monthly searches and clear commercial intent beats a term with 20,000 searches and no intent at all, especially in the first year when you have limited authority to spend. We look at what the current results actually contain, how strong the ranking pages are, and whether you have any realistic chance of competing this quarter or next year.</p>
+            <p>Then we group those queries into topic clusters. One pillar page covers the broad subject and links out to specific supporting pages, each of which links back. This does two things: it stops five of your own pages competing for the same query, and it tells search engines the site has depth on a subject rather than one lucky article. Every piece we write gets a brief first, listing the target query, the intent, the questions to answer, the entities to mention, the internal links to include, and the word range. Writing without a brief is how sites end up with forty posts and no rankings.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="schema-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="schema-heading">Schema markup and structured data</h2>
+            <p>Structured data does not rank a page by itself. It makes the page eligible for richer results and makes the content machine-readable, which matters more every year as answer engines pull from the same signals. We implement JSON-LD because it is easier to maintain than inline markup and does not depend on your HTML structure surviving a redesign. The types worth having depend on what the page is: Organisation and WebSite sitewide, LocalBusiness where a genuine service area applies, Service on service pages, Product and Offer on ecommerce, Article and Author on the blog, FAQPage where real questions exist, and BreadcrumbList everywhere.</p>
+            <p>Two rules keep this safe. Markup must describe what a human sees on the page, or it is spam and gets ignored at best. And it must validate: we run every template through the Rich Results Test and Schema.org validator before shipping, then re-check in Search Console once Google has crawled it. Broken schema is silent, which is exactly why it goes unnoticed for months.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="audit-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="audit-heading">What an SEO audit covers before any work starts</h2>
+            <p>We do not sell a retainer before we know what is wrong. The audit takes about a week for a normal business site and produces a prioritised list, not a 90-page PDF that nobody reads. Priority is decided by impact divided by effort, so the things that take an afternoon and restore indexation go first.</p>
+            <ul class="it-list">
+              <li>Crawl of every reachable URL, with status codes, redirect chains, and orphan pages</li>
+              <li>Indexation reconciliation against Search Console coverage data</li>
+              <li>Robots.txt, XML sitemap, canonical and hreflang review</li>
+              <li>Core Web Vitals field data and mobile usability by template</li>
+              <li>Title, meta, and heading audit across every page type</li>
+              <li>Duplicate, thin, and cannibalising content detection</li>
+              <li>Structured data validation per template</li>
+              <li>Internal link depth and anchor distribution</li>
+              <li>Keyword and content gap against the sites currently ranking</li>
+              <li>Google Business Profile and citation consistency check for local businesses</li>
+            </ul>
+          </article>
+          <article>
+            <h3>Measurement in Search Console and GA4</h3>
+            <p>Before anything changes, we make sure measurement is real. Search Console verified with the correct property type, sitemaps submitted, and coverage baselined. GA4 configured with conversion events that reflect actual business outcomes, form submissions, calls, and checkout completions, rather than pageviews dressed up as goals. Internal traffic filtered out. Without this baseline, three months later nobody can say whether the work did anything, and that is where most SEO relationships quietly die. Our <a href="/case-studies/">case studies</a> show the reporting format.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="timeline-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="timeline-heading">Realistic SEO timelines: month one, three and six</h2>
+            <p>Month one is diagnosis and repair. Audit, measurement setup, technical fixes, title and meta rewrites across the important templates, schema implementation, and internal linking corrections. Traffic rarely jumps this month. What usually moves is indexation: pages that were excluded start getting crawled and stored, which is the precondition for everything else. If the site had serious technical faults, you can occasionally see a fast lift here, but treat that as luck rather than the plan.</p>
+            <p>By month three, the content work has compounded. Priority pages have been rewritten to match intent, the first cluster is published and internally linked, and Search Console shows impressions rising on queries you were invisible for. Average position often improves from page five to page two before clicks follow, so read impressions first. By month six, on a site with decent fundamentals and consistent publishing, organic sessions and enquiries should be clearly above baseline and you should know which pages drive the work. Competitive national commercial terms take longer. Anyone selling a shorter timeline is selling a story.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="limits-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="limits-heading">What SEO cannot promise, and common mistakes we fix</h2>
+            <p>We cannot guarantee a number one ranking, a fixed traffic figure, or protection from a core update. Google does not sell organic placement, and any vendor implying otherwise is either buying a low-competition term nobody searches or hoping you never check. What we can promise is that the work is done properly, documented, and reported against Google's own data. If something does not work, we say so and change approach rather than repackaging the same report.</p>
+            <p>The mistakes we see most often are avoidable. Keyword stuffing that reads like a machine wrote it. Twenty near-identical city pages that cannibalise each other. Buying links from a marketplace and inheriting a penalty. Blocking staging rules in robots.txt and forgetting to remove them at launch. Migrating a site without a redirect map and losing a decade of authority overnight. Publishing weekly with no cluster strategy so nothing accumulates. Ignoring Search Console for six months. Changing five things at once so no cause can be traced. Every one of these is cheaper to prevent than to repair.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">SEO pricing and what a monthly retainer covers</h2>
+            <p>Monthly SEO starts from ₹5,000 per month. That covers ongoing technical monitoring, on-page improvements to priority pages, an agreed volume of new content or rewrites, internal link maintenance, schema upkeep, Search Console and GA4 reporting, and a monthly call to decide what happens next. Larger sites, ecommerce catalogues, and competitive niches cost more because the work is genuinely bigger. Final cost always depends on scope, and we would rather quote after the audit than guess before it.</p>
+            <p>If the site itself needs building, we handle it end to end. A static website starts from ₹5,000. A 30-page SEO website taken from design through to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web app from ₹40,000, and AI automation from ₹15,000. Hosting and deployment are part of delivery, not an extra line. Once your hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance is from ₹2,000 per month. Full detail sits on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Who we are and who this suits</h2>
+            <p>Three engineers work on your account. Ankur Kumar handles full stack development, which is why template-level SEO fixes ship the same week instead of waiting for a developer queue. Santosh Sharma works in AI, machine learning, AWS, and data science, and owns the measurement side: Search Console exports, GA4 configuration, and the analysis that decides what we do next. Vedansh Shrivastava manages the project, keeps the content pipeline moving, and handles the automation that removes the repetitive parts of reporting.</p>
+            <p>This suits small and mid-size businesses that want the work done rather than the deck presented, founders who have been burned by a retainer with no visible output, and companies that need the website and the SEO from the same team so the two do not contradict each other. It suits you less if you want guaranteed rankings, bulk link buying, or 50 city pages built from one template. We will decline that work rather than take money for something that damages the site. Read more <a href="/about/">about us</a> or look through our <a href="/portfolio/">portfolio</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/india/haryana/gurgaon/seo-services/">SEO services in Gurgaon</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>
+              <li><a href="/india/telangana/hyderabad/">Hyderabad</a></li>
+              <li><a href="/india/uttar-pradesh/noida/">Noida</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/blog/">Blog</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">SEO services: frequently asked questions</h2>
+          <p>Straight answers on cost, timelines, and what we will and will not promise.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((item) => (
+            <details>
+              <summary>{item.question}</summary>
+              <p>{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us the site and the queries you want to win</h2>
+          <p>Send us your domain and the searches you think matter. We will tell you what is technically broken, what is realistic in six months, and what it costs, before you commit to anything. Monthly SEO from ₹5,000, and full delivery from planning through hosting with five months of maintenance included free.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

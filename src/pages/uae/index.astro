@@ -1,8 +1,266 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/uae/", "Digital Services in UAE");
+const faqs = [
+  {
+    question: "Do you have an office in Dubai or anywhere in the UAE?",
+    answer: "No. We are a small freelance engineering group based in India and we work with UAE clients remotely. There is no UAE office, licence or trade registration behind this page. What you get is direct access to the three people who actually build the work, over email, calls and shared project boards, with a delivery process built for remote clients."
+  },
+  {
+    question: "How much does a website cost for a UAE business?",
+    answer: "A static website starts from ₹5,000 and a 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web application from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and integrations."
+  },
+  {
+    question: "Can you build a website in both English and Arabic?",
+    answer: "Yes. We build bilingual sites where the Arabic version runs in a proper right to left layout, not a mirrored afterthought. That means direction aware CSS, correct Arabic typography and line height, mirrored navigation and icons, and separate URLs for each language so search engines can index both. Arabic copy is supplied by you or by a translator you trust."
+  },
+  {
+    question: "Is the time difference between India and the UAE a problem?",
+    answer: "It is only ninety minutes. India Standard Time runs one and a half hours ahead of Gulf Standard Time, so a 10am call in Dubai is 11.30am for us. Working hours overlap almost completely. You can send a question in the morning and expect an answer the same working day rather than the next one."
+  },
+  {
+    question: "What is included in the five months of free maintenance?",
+    answer: "After your site goes live we cover five months at no extra charge: content updates, bug fixes, security and plugin updates, backups, plus uptime and page speed checks. It is there so the site does not quietly rot in the months right after launch. Once those five months end, ongoing maintenance is from ₹2,000 per month."
+  },
+  {
+    question: "How long does a UAE project usually take?",
+    answer: "A small brochure site is typically two to three weeks. A 30-page SEO site with content structure and on-page work runs three to five weeks. Ecommerce with payment and shipping setup is four to eight weeks, and a custom web application depends entirely on the feature list. Bilingual Arabic versions add roughly a week for layout and testing."
+  },
+  {
+    question: "Can you handle hosting and deployment as well as the build?",
+    answer: "Yes, that is the normal way we work. We handle planning, design, development, SEO setup, hosting and deployment end to end. You do not need a separate agency to put the site live. If you already have hosting or a preferred provider in the region, we deploy there instead and hand over full access."
+  },
+  {
+    question: "Will the site rank for searches made inside the UAE?",
+    answer: "That is the goal of the SEO setup we include. We target UAE search intent with city and emirate level pages, sensible title tags, clean internal linking, fast loading on mobile networks, and schema markup. Ranking timelines depend on competition. Property and travel keywords in Dubai are hard fought and need ongoing monthly work, not a one-off launch."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Services UAE: Dubai Websites and SEO",
+  description: "Web development services UAE: websites, ecommerce and SEO for businesses in Dubai, Abu Dhabi and Sharjah. End to end delivery with 5 months free maintenance.",
+  canonicalPath: "/uae/",
+  h1: "Web design, development and SEO for businesses across the UAE",
+  intro: "We are a three person freelance engineering group in India working with companies in Dubai, Abu Dhabi, Sharjah and the wider UAE. We plan, design, build, optimise, host and deploy the whole thing, then look after it free for five months.",
+  breadcrumbs: createBreadcrumbs([{ label: "UAE", href: "/uae/" }]),
+  keywords: [
+    "web development services UAE",
+    "website development Dubai",
+    "SEO services UAE",
+    "web design Dubai",
+    "website designer Abu Dhabi",
+    "web development company Sharjah",
+    "ecommerce website UAE",
+    "Arabic website design",
+    "bilingual website Dubai",
+    "RTL website development",
+    "local SEO Dubai",
+    "SEO company Abu Dhabi",
+    "website maintenance UAE",
+    "AI automation UAE",
+    "custom web application Dubai",
+    "real estate website Dubai",
+    "hospitality website UAE",
+    "logistics website development UAE",
+    "trading company website Dubai",
+    "professional services website UAE",
+    "retail ecommerce Dubai",
+    "affordable web development UAE",
+    "freelance web developer Dubai",
+    "offshore web development UAE",
+    "WordPress development Dubai",
+    "Shopify development UAE",
+    "website hosting and deployment UAE",
+    "digital marketing UAE"
+  ]
+});
 ---
 
-<BaseLayout meta={{ ...page, robots: "noindex,follow" }}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">United Arab Emirates</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Who we are and how we work with UAE clients</h2>
+            <p>BtechWaleTech is a freelance group of three engineers working out of India. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management alongside data science and automation work. There is no sales layer between you and the people writing the code. When you ask a question about a database decision or a page speed problem, the answer comes from whoever built that part.</p>
+            <p>We are honest about what that means for a UAE client. We do not hold a trade licence in the Emirates, we do not maintain an address in Dubai Internet City, and we will not pretend otherwise. We work with UAE businesses remotely, invoice from India, and deliver the same way we would for a client in Bengaluru or London. Plenty of UAE companies already run their technical work this way because it costs less and moves faster.</p>
+          </article>
+          <article>
+            <h3>Everything from planning through to deployment</h3>
+            <p>Projects run end to end. That covers planning and scoping, design, development, the SEO setup, hosting, and the actual deployment to a live domain with SSL and email records pointed correctly. You do not hand off to a second vendor halfway through, and nobody gets to blame anybody else when something breaks between design and build.</p>
+            <p>Once your site is live, five months of maintenance are included free. Content updates, bug fixes, security patches, backups, and regular uptime and speed checks all sit inside that window. Most problems on a new site show up in the first few months, so that is exactly when the cover matters. After five months, maintenance continues from ₹2,000 per month if you want to keep it. Our <a href="/pricing/">pricing page</a> lays the numbers out plainly.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="market-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="market-heading">The UAE digital market and what it demands from a website</h2>
+            <p>The UAE has one of the highest smartphone and internet penetration rates anywhere, and buyers there research heavily before making contact. A property enquiry, a freight quote, a clinic booking or a restaurant reservation almost always begins with a phone search. That puts unusual pressure on two things: how fast your pages load on a mobile connection, and how quickly a visitor can find a phone number or a WhatsApp link without hunting.</p>
+            <p>It is also a market full of transient audiences. A large share of the population are expatriates, and a large share of visitors are tourists and business travellers who have never heard of your brand. They judge you almost entirely by the site in front of them. Vague copy, stock photos with no relation to the business, and a contact form that never confirms it was received all cost you enquiries. Concrete details, real photos, clear pricing signals and working contact paths keep them.</p>
+          </article>
+          <article>
+            <h3>Competition is tighter than the search volume suggests</h3>
+            <p>Dubai in particular is a small geography with an enormous number of businesses chasing the same keywords. Search for almost any commercial service there and you will find paid ads, aggregator directories, and a wall of established sites before you reach an ordinary company page. Getting past that is not a matter of stuffing "Dubai" into every heading.</p>
+            <p>What works is narrower targeting. Pages built around a specific service in a specific area, written by someone who understands the service, with genuinely useful detail on price ranges, timelines and what is included. That is the same approach we take across our <a href="/services/seo-services/">SEO services</a> work, and it applies just as well in Abu Dhabi and Sharjah as it does in India.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="bilingual-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="bilingual-heading">Bilingual English and Arabic websites, built right to left properly</h2>
+            <p>Most commercial activity in the UAE happens in English, but Arabic matters for government facing work, for parts of the retail and hospitality market, and for credibility with Emirati customers. The mistake we see repeatedly is an Arabic version that was bolted on: text translated, direction flipped with a single CSS rule, and everything else left alone. Icons point the wrong way, form fields fall out of order, numbers and dates render strangely, and the whole thing feels machine made.</p>
+            <p>We build the Arabic side as a real layout. That means direction aware styles rather than mirrored hacks, an Arabic typeface with a line height that suits the script, navigation and breadcrumbs that flow correctly, mixed direction handling where English brand names or phone numbers sit inside Arabic sentences, and forms that validate the same in both. Layout components get tested in both directions before launch, not after a client complains.</p>
+          </article>
+          <article>
+            <h3>Language structure that search engines can read</h3>
+            <p>Each language gets its own indexable URL path rather than a script that swaps text on the fly. Language annotations tell Google which version belongs to which audience, so an Arabic searcher lands on the Arabic page instead of the English one. Sitemaps list both. Titles, descriptions and structured data are written per language rather than translated word for word from the English.</p>
+            <p>We do not write the Arabic copy ourselves. You supply it, or a translator you trust does, and we handle everything technical around it. Being straight about that is better than promising native copywriting we cannot deliver. If you only need English for now, we can still build the structure so an Arabic version drops in later without a rebuild.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">SEO services for UAE searches</h2>
+            <p>SEO setup is part of every build, not a separate upsell. That baseline covers a sensible URL structure, unique titles and meta descriptions on every page, a clean heading hierarchy, internal links that actually help someone move through the site, image compression and modern formats, schema markup for the business and its services, an XML sitemap, and a robots file that does not accidentally block half the site. It also covers Core Web Vitals work, because a site that loads slowly on a phone in a car park loses the enquiry.</p>
+            <p>For UAE targeting specifically, we build out location intent properly: separate pages for the emirates and areas you genuinely serve, with distinct content on each rather than the same paragraph with the city name swapped. Google Business Profile setup, consistent business details across directories, and review prompts in your follow up emails do more for local visibility than most on-page tweaks. Search Console and analytics are connected before launch so you have data from day one.</p>
+          </article>
+          <article>
+            <h3>Ongoing monthly work when the launch setup is not enough</h3>
+            <p>For competitive UAE terms, a good launch gets you into the game but does not win it. Monthly SEO starts from ₹5,000 per month and covers content published on a schedule, technical fixes as they appear, internal link building across new pages, tracking of the keywords that actually generate enquiries, and a monthly report written in plain language rather than a dashboard export.</p>
+            <p>We will tell you when monthly work is not worth it. A niche B2B trading company with a handful of relevant search terms often needs a solid site and nothing more. A property or fit-out business competing across Dubai needs continuous content. Ask us on a call and you will get a straight opinion rather than a retainer pitch.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="ecom-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="ecom-heading">Ecommerce and payment considerations in the region</h2>
+            <p>Ecommerce builds start from ₹25,000. The technology choice depends on catalogue size and how much custom logic you need, but the regional details matter more than the platform argument. Prices need to display in dirhams with VAT handled correctly. Cash on delivery is still expected by a meaningful share of UAE shoppers and has to be a first class option, not a hidden checkbox, which means your order flow needs a plan for failed deliveries and cash reconciliation.</p>
+            <p>Payment gateway choice is a business decision we help you think through rather than make for you. Local and regional processors, international providers, and wallet options all differ in settlement time, supported currencies, and what documentation they want from a UAE registered entity. We integrate whichever one you sign with, test the full flow including refunds and partial captures, and make sure card details never touch your own server.</p>
+          </article>
+          <article>
+            <h3>Delivery, catalogue and checkout details that decide the sale</h3>
+            <p>Shipping rules in the Emirates are usually zone based, with same day or next day within Dubai and different timing for the northern emirates. Those rules belong in the checkout, calculated live, not as a note asking the customer to call. Arabic product names, size charts in the units your customers use, and a returns policy that states actual working days all reduce the questions your team has to answer by phone.</p>
+            <p>On the technical side we care about catalogue page speed, filters that do not create thousands of junk indexable URLs, product schema so listings show price and availability in search results, and abandoned cart recovery. We also wire up WhatsApp as a support channel, because in this region it is often the first thing a customer reaches for.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="timezone-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="timezone-heading">A ninety minute time gap makes remote work easy</h2>
+            <p>India Standard Time runs one and a half hours ahead of Gulf Standard Time. That is the entire difference. A 9am start in Dubai is 10.30am for us, and the working day overlaps almost end to end, which removes the single biggest friction in offshore delivery. You are not writing an email at 5pm and waiting until the following afternoon for a reply, and you are not scheduling calls at awkward hours for either side.</p>
+            <p>Practically, that means same day answers to most questions, calls booked inside normal UAE business hours, and a shared board where you can see what is in progress without asking. The Friday and weekend pattern differs slightly between the two countries, and we plan around whichever days your team actually works. Deployments get scheduled when your traffic is low, which for most UAE businesses is early morning local time.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="industries-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="industries-heading">Industries we build for in the UAE</h2>
+            <p>Real estate is the obvious one. Property sites live or die on listing structure, filterable search, agent pages, and lead forms that push straight into a CRM rather than an inbox nobody checks. Hospitality needs fast photo heavy pages, a booking path that works on a phone, menu and offer pages that update without a developer, and multilingual content for a mixed guest base. Both benefit heavily from schema markup, because rich results in a crowded search page are worth more than another paragraph of copy.</p>
+            <p>Trading and general commerce companies usually need a credible catalogue site with clear product categories, downloadable specification sheets, and an enquiry flow their sales team can work from. Logistics and freight businesses need tracking integrations, quote calculators, and pages built around specific routes and services. Professional services firms, consultancies, accountants, legal advisers and clinics need trust signals: real team pages, clear service explanations, and honest pricing indicators. Retail spans everything from a simple storefront to a full ecommerce build.</p>
+          </article>
+          <article>
+            <h3>AI automation for repetitive work</h3>
+            <p>AI automation starts from ₹15,000 and is worth considering when the same task is eating hours every week. Common cases in this market: sorting and routing enquiry emails, extracting data from supplier invoices and delivery notes, generating first drafts of product descriptions in two languages, summarising long documents, and answering routine customer questions from your own documentation instead of a generic chatbot.</p>
+            <p>We scope these against the hours they actually save. If a task happens twice a month, automating it is a waste of money and we will say so. If your operations team is retyping shipment details from PDFs every day, the maths works quickly. You can read more on our <a href="/services/">services page</a> or bring a specific process to a call and we will estimate it.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">What projects cost and how the engagement runs</h2>
+            <p>Starting prices are published rather than quoted on request. A static website starts from ₹5,000. A 30-page SEO website taken from design through to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month and maintenance after the free window is from ₹2,000 per month. Final cost depends on scope, so a heavily custom build sits well above the starting figure and we will tell you that before you commit.</p>
+            <p>The process is deliberately short. First a call or email exchange where you describe the business and what the site needs to do. Then a written scope with a fixed price, a timeline and a clear list of what is not included. Then design, which you review before any real development starts. Then the build, with a staging link you can open at any point. Then SEO setup, hosting and deployment, followed by handover of all accounts and credentials. Then five months of free maintenance. Payment is split across milestones, never demanded up front in full.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>More detail on what we build, what it costs, and the other regions and cities we work with:</p>
+            <ul class="it-list">
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting figures</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/india/">Web development across India</a></li>
+              <li><a href="/usa/">Working with clients in the USA</a></li>
+              <li><a href="/australia/">Working with clients in Australia</a></li>
+              <li><a href="/it-services/">IT services by state and city</a></li>
+              <li><a href="/contact/">Contact us</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions from UAE clients</h2>
+          <p>Straight answers on cost, timelines, language support and how remote delivery actually works.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what your UAE business needs online</h2>
+          <p>Send a short description of the project, whether you need Arabic alongside English, and roughly when you want to be live. You will get a written scope with a fixed price, not a sales sequence.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

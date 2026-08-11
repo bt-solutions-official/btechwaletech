@@ -1,8 +1,290 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/terms/", "Terms");
+const faqs = [
+  {
+    question: "When do these terms apply to my project?",
+    answer: "They apply the moment you accept a written quotation, pay an advance, or ask us to begin work. The quotation and these terms are read together. If a signed agreement or a written scope document says something different, that document takes priority for the points it covers, and these terms cover everything else."
+  },
+  {
+    question: "Is the quoted price final?",
+    answer: "A quotation is fixed for the scope written in it and stays valid for thirty days unless we state otherwise. Published figures such as a static website from ₹5,000 or a custom web app from ₹40,000 are starting points, not final prices. Anything outside the written scope is treated as a change request and quoted separately before we build it."
+  },
+  {
+    question: "Who owns the website once it is finished?",
+    answer: "You do, once the final invoice is cleared. On full payment we transfer ownership of the custom code, page content, and design work produced for your project, along with repository and hosting access. Before full payment we retain ownership, and any files shared for review are for review only, not for production use."
+  },
+  {
+    question: "Do you guarantee a particular Google ranking?",
+    answer: "No. We guarantee the work: technical setup, page structure, internal linking, schema, content, and reporting. Search rankings depend on Google algorithms, competitors, and your market, none of which any provider controls. Anyone promising a fixed position for a keyword is guessing. We share what we implemented and what the data shows instead."
+  },
+  {
+    question: "What does the five months of included maintenance cover?",
+    answer: "After your site goes live we include five months of maintenance at no extra cost: content updates, bug fixes, security updates, backups, and uptime and speed checks. It does not cover new features, redesigns, or new page templates. Those are quoted as fresh work. After the five months, maintenance is available from ₹2,000 per month."
+  },
+  {
+    question: "What happens if I delay content or approvals?",
+    answer: "Timelines assume you reply to review requests within a reasonable period, usually a few working days. If content, logins, or approvals are delayed, the delivery date moves by at least the length of the delay, since we schedule other work in that window. Milestone invoices already raised remain payable during a delay."
+  },
+  {
+    question: "Can either side end the project early?",
+    answer: "Yes. Either side may end the engagement with written notice. You pay for work completed and any third-party costs already incurred on your behalf, and we hand over the completed deliverables for the paid milestones. Refunds, where they apply, are handled under our refund policy rather than under these terms."
+  },
+  {
+    question: "Which law applies to a dispute?",
+    answer: "Indian law governs these terms, and the courts at Gurugram, Haryana have jurisdiction. Before anything formal, both sides agree to raise the issue in writing and attempt a practical resolution, because most disagreements on software projects come from scope wording rather than genuine conflict."
+  }
+];
+
+const page = createPageSeo({
+  title: "Terms of Service for IT and Web Development Projects",
+  description: "Terms of service for BtechWaleTech: scope, quotations, payment milestones, ownership, warranties, maintenance, liability, termination and governing law in India.",
+  canonicalPath: "/terms/",
+  h1: "Terms of Service",
+  intro: "These terms explain how we work with clients: what a quotation covers, how scope and change requests are handled, when payment is due, who owns the finished work, what we warrant, and what we do not. Plain language, no hidden clauses.",
+  breadcrumbs: createBreadcrumbs([{ label: "Terms", href: "/terms/" }]),
+  keywords: [
+    "terms of service",
+    "terms and conditions",
+    "website development terms",
+    "IT services agreement",
+    "freelance developer terms",
+    "web design contract terms",
+    "project scope terms",
+    "payment milestones",
+    "intellectual property transfer",
+    "software ownership transfer",
+    "SEO service terms",
+    "no ranking guarantee",
+    "limitation of liability",
+    "warranty disclaimer",
+    "confidentiality clause",
+    "third party licences",
+    "hosting and deployment terms",
+    "website maintenance terms",
+    "free maintenance period",
+    "change request policy",
+    "revision policy",
+    "client responsibilities",
+    "termination clause",
+    "refund cross reference",
+    "governing law India",
+    "jurisdiction Haryana",
+    "BtechWaleTech terms",
+    "IT services India terms"
+  ],
+});
 ---
 
-<BaseLayout meta={page}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Legal</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="acceptance-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="acceptance-heading">Acceptance of these terms</h2>
+            <p>BtechWaleTech is a freelance IT services group made up of three engineers: Ankur Kumar, Santosh Sharma and Vedansh Shrivastava. In these terms, "we" and "us" mean BtechWaleTech, and "you" and "the client" mean the person or organisation engaging us. These terms apply to every engagement unless we have signed a separate written agreement that says otherwise.</p>
+            <p>You accept these terms when you approve a written quotation, pay an advance, or instruct us in writing to start work. Acceptance by email, message, or any other written channel counts. If you are accepting on behalf of a company, you confirm you are authorised to bind that company. If you do not agree with any part of these terms, do not instruct us to begin, and tell us before work starts so we can discuss the point.</p>
+          </article>
+          <article>
+            <h3>How these documents fit together</h3>
+            <p>Three documents usually govern a project: the quotation, these terms, and the refund policy published at <a href="/refund-policy/">refund policy</a>. The quotation defines what we are building and what it costs. These terms define how the working relationship operates. The refund policy defines what happens to money already paid if the engagement ends early.</p>
+            <p>Where the quotation and these terms conflict on a specific point, the quotation wins for that point only. Everything not addressed in the quotation is governed here. Verbal discussions, call notes, and casual messages do not change scope on their own. A scope change becomes binding only when it is confirmed in writing by both sides.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="services-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="services-heading">Description of the services</h2>
+            <p>We deliver projects end to end: planning, design, development, SEO setup, hosting, and deployment. Depending on what you engage us for, this can include static and multi-page websites, ecommerce builds, custom web applications, AI automation work, ongoing search engine optimisation, and post-launch maintenance. Details of each service are described on our <a href="/services/">services</a> pages, and indicative starting prices are listed on the <a href="/pricing/">pricing</a> page.</p>
+            <p>We work remotely with clients across India and overseas. We do not operate branch offices and do not claim a physical presence in any city we serve. Delivery, review, and handover happen over email, calls, and shared repositories or project tools agreed at the start.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="quotes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="quotes-heading">Quotations, estimates and pricing</h2>
+            <p>Prices published on this website are starting prices, quoted as "from" figures: static website from ₹5,000, a 30-page SEO website taken from design to deployment from ₹10,000, AI automation from ₹15,000, ecommerce from ₹25,000, a custom web app from ₹40,000, monthly SEO from ₹5,000 per month, and maintenance from ₹2,000 per month. The final cost always depends on scope. A quotation issued for your project supersedes any published figure.</p>
+            <p>A written quotation lists deliverables, assumptions, exclusions, timeline, and payment schedule. It stays valid for thirty days from the date of issue unless stated otherwise. An estimate given verbally or in a chat before a written quotation is indicative only and is not binding on either side. Taxes, domain fees, hosting charges, paid plugins, and third-party subscriptions are separate unless the quotation says they are included.</p>
+          </article>
+          <article>
+            <h3>Scope and change requests</h3>
+            <p>The scope is what the quotation says it is. Work outside it, including extra pages, new integrations, additional design directions, migrations, or feature ideas that appear mid-build, is treated as a change request. We will tell you the cost and the schedule impact in writing before we start on it, and you decide whether to proceed.</p>
+            <p>Small adjustments that take a few minutes are usually absorbed without a fuss. We raise a change request when the work materially adds effort or shifts the delivery date. This protects both sides: you avoid surprise invoices, and we avoid an open-ended build. Change requests approved in writing become part of the project scope for all purposes under these terms.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="client-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="client-heading">Client responsibilities</h2>
+            <p>Projects move at the speed of the slower side. You are responsible for providing content, brand assets, logos, product data, and any legal or compliance text that must appear on the site. You are also responsible for giving us the access we need: domain registrar login or DNS control, existing hosting credentials, analytics accounts, payment gateway details for ecommerce, and any third-party API keys the build depends on.</p>
+            <p>You confirm that any material you supply is yours to use, or is properly licensed, and does not infringe anyone else's rights. We do not verify ownership of client-supplied text, images, or data. You are responsible for reviewing deliverables at each review point and giving consolidated, written feedback. Approval given in writing, or silence beyond an agreed review window, is treated as acceptance of that stage.</p>
+          </article>
+          <article>
+            <h3>Delays and dependencies</h3>
+            <p>Timelines in a quotation assume prompt responses, usually within a few working days at each review point. Where content, credentials, or approvals are outstanding, the delivery date shifts by at least the length of the delay, because that slot is scheduled to other work once it passes. We flag pending items in writing rather than letting a project drift quietly.</p>
+            <p>We are not responsible for delays outside our control: registrar or hosting provider outages, third-party API changes, payment gateway approval timelines, app store or marketplace reviews, or force majeure events. If a project stays inactive on your side for more than sixty days, we may close it, invoice for completed work, and requote if you want to restart later.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="payment-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="payment-heading">Payment terms and milestones</h2>
+            <p>Most projects run on milestones stated in the quotation. A typical structure is an advance to reserve the schedule and begin planning, one or more payments at agreed build stages, and a final payment before launch and handover. Retainer services such as monthly SEO and maintenance are billed in advance for each month. Invoices are payable within seven days of issue unless the quotation sets a different period.</p>
+            <p>We may pause work on an overdue invoice after written notice, and we may hold deployment or handover until amounts due are cleared. Bank charges, currency conversion costs, and payment gateway fees are borne by the payer. Any taxes applicable under Indian law are added where required. Third-party costs paid on your behalf, such as domain renewals or paid licences, are billed at cost and are non-refundable once purchased.</p>
+          </article>
+          <article>
+            <h3>Revisions</h3>
+            <p>Each project stage includes a reasonable number of revision rounds, stated in the quotation. Revisions mean refinements within the approved direction: copy edits, spacing, colour and layout adjustments, and corrections to agreed functionality. They exist so the work lands correctly, and we would rather you use them than accept something you are unhappy with.</p>
+            <p>A revision is not a redesign. Requesting a fresh design direction after a concept has been approved, or rebuilding a feature to a different specification, is new work and is quoted as a change request. Rounds beyond those included in the quotation are charged at our then-current rate, which we confirm in writing before starting.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="ip-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="ip-heading">Intellectual property and ownership</h2>
+            <p>On receipt of the final payment for a project, ownership of the custom deliverables built specifically for you transfers to you. That includes the custom source code, page templates, written content we produced for the project, design files, and configuration created for your build. We hand over repository access, hosting and deployment access, and any credentials created in your name.</p>
+            <p>Until final payment is received, we retain ownership of all deliverables. Files, previews, and staging links shared during the project are for review only and must not be used in production. We keep the right to reuse our general knowledge, techniques, and any reusable components, libraries, or boilerplate we owned before the project or developed independently of it. These are licensed to you for use within your deliverable, not assigned.</p>
+          </article>
+          <article>
+            <h3>Third-party services and licences</h3>
+            <p>Projects often depend on third-party components: open-source frameworks, hosting platforms, analytics tools, payment gateways, email providers, paid themes, plugins, fonts, stock images, and AI or automation APIs. Each is governed by its own licence and terms, which apply directly between you and that provider once ownership and accounts sit with you.</p>
+            <p>We select reputable providers and configure them properly, but we do not control their pricing, uptime, policy changes, or feature removals. Recurring costs for those services are yours from the point they are set up in your name, unless the quotation says we are covering them for a defined period. Where we buy a licence on your behalf, it is registered to you wherever the licence allows.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="warranty-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="warranty-heading">Confidentiality, warranties and disclaimers</h2>
+            <p>We treat your business information, credentials, data, and unreleased plans as confidential and do not disclose them to third parties except where a service provider needs them to deliver the project, or where disclosure is required by law. We ask the same of you for anything we share, including our internal methods and pricing structures. This obligation continues after the project ends. Unless you tell us otherwise in writing, we may list the finished public work as a project example in our <a href="/portfolio/">portfolio</a>.</p>
+            <p>We warrant that the work will be performed with reasonable skill and care, and that deliverables will substantially match the approved scope. Defects reported during the included maintenance period are fixed at no charge. Beyond that, deliverables are provided on an "as is" basis, without any other warranty, express or implied, including implied warranties of merchantability or fitness for a particular purpose.</p>
+          </article>
+          <article>
+            <h3>No guarantee of search rankings or business results</h3>
+            <p>For SEO and content work described on our <a href="/services/seo-services/">SEO services</a> page, we do not guarantee any specific keyword position, traffic volume, lead count, conversion rate, or revenue outcome. Search engines control their own algorithms and change them frequently, competitors act independently, and market demand is outside anyone's control. What we commit to is the work itself, delivered properly and reported honestly.</p>
+            <p>Similarly, we do not guarantee uninterrupted or error-free operation of any website or application, since hosting providers, networks, browsers, and third-party services all sit outside our control. We do not provide legal, tax, financial, or regulatory advice. You are responsible for ensuring your site content and business practices comply with the laws that apply to you.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="liability-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="liability-heading">Limitation of liability</h2>
+            <p>To the extent permitted by law, our total aggregate liability arising out of or connected with a project, whether in contract, tort, negligence, or otherwise, is limited to the total fees you have actually paid us for that project in the twelve months before the claim arose. For retainer services, it is limited to the fees paid for the three months before the claim.</p>
+            <p>We are not liable for indirect, incidental, special, or consequential loss, including loss of profit, revenue, goodwill, business opportunity, anticipated savings, or data, even if the possibility was raised. We are not liable for loss caused by your own content, your instructions, third-party service failures, unauthorised access to accounts you control, or changes made to a delivered project by you or another provider after handover. Nothing here limits liability that cannot be limited by law, including liability for fraud.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="maintenance-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="maintenance-heading">Included maintenance after launch</h2>
+            <p>Every project we host and deploy includes five months of maintenance at no extra cost, starting from the date the site goes live. During that period we handle content updates, bug fixes, security and dependency updates, backups, and uptime and speed checks. Requests are handled during normal working days, and we prioritise anything that affects availability or security.</p>
+            <p>The included period covers upkeep of what was delivered. It does not cover new features, additional page templates, redesigns, new integrations, content writing beyond routine updates, or recovery from changes made by another party. Those are quoted separately as new work. Third-party costs such as hosting, domains, and paid licences remain payable during the included period. After five months, maintenance continues from ₹2,000 per month under a separate rolling arrangement, and you are free to take it, decline it, or move to another provider.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="termination-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="termination-heading">Termination and refunds</h2>
+            <p>Either side may end an engagement by written notice. If you end it, you pay for all work completed up to the notice date plus any third-party costs already incurred on your behalf, and we hand over deliverables for the milestones you have paid for. If we end it, for example because a project has become unworkable or instructions conflict with these terms, we invoice only for completed work and hand over the same way.</p>
+            <p>We may suspend or end an engagement immediately if invoices remain unpaid after notice, if we are asked to build something unlawful, or if the working relationship involves abusive conduct. Retainer services such as monthly SEO or maintenance can be stopped with notice before the next billing cycle. Refund eligibility, timelines, and the process for claiming one are set out in our <a href="/refund-policy/">refund policy</a>, which applies instead of these terms on refund questions. How we handle personal data is covered in the <a href="/privacy-policy/">privacy policy</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="law-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="law-heading">Governing law and updates to these terms</h2>
+            <p>These terms are governed by the laws of India. The courts at Gurugram, Haryana have exclusive jurisdiction over any dispute arising from them. Before starting any formal proceeding, both sides agree to set out the issue in writing and spend a reasonable period trying to resolve it directly, since most disputes on software projects trace back to scope wording rather than genuine disagreement.</p>
+            <p>We may update these terms as our services change. The version published on this page at the time you accept a quotation is the version that governs that project. Changes are not applied retroactively to work already agreed. If any clause here is found unenforceable, the rest continues to apply. Our failure to enforce a clause on one occasion is not a waiver of it. Questions about anything on this page can go to our <a href="/contact/">contact</a> page or straight to the email and phone number listed above.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <ul class="it-list">
+              <li><a href="/refund-policy/">Refund policy</a></li>
+              <li><a href="/privacy-policy/">Privacy policy</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+              <li><a href="/services/">Services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/about/">About the team</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/it-services/">IT services</a></li>
+              <li><a href="/india/">Work with businesses in India</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Common questions about these terms</h2>
+          <p>Short answers to the points clients ask about most before signing off a quotation.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Have a question about these terms?</h2>
+          <p>Ask before you sign, not after. Send us the clause you want clarified, or share your project idea and we will send a written quotation with scope, timeline, and payment milestones spelled out.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,6 +1,269 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("tamil-nadu", "chennai");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does website development cost in Chennai?",
+    answer: "A static website starts from Rs 5,000 and a 30-page SEO website handled from design to deployment starts from Rs 10,000. Ecommerce builds start from Rs 25,000 and custom web applications from Rs 40,000. AI automation work starts from Rs 15,000. The final cost depends on scope, page count, integrations and how much content writing you need from us."
+  },
+  {
+    question: "Do you have an office in Chennai?",
+    answer: "No. We are a small freelance engineering group and we work remotely with businesses in Chennai and across Tamil Nadu. Everything runs over calls, WhatsApp, email and shared documents. Not having an office is why our pricing stays low, and it has never stopped us from delivering a site for a Velachery clinic or an OMR software firm."
+  },
+  {
+    question: "How long does a Chennai business website take?",
+    answer: "A static brochure site is usually ready in five to eight working days. A 30-page SEO website takes roughly two to four weeks depending on how quickly content and photos arrive. Ecommerce stores take three to six weeks. Custom web applications are scoped individually. Content delays are the single biggest reason projects slip past the estimate."
+  },
+  {
+    question: "Is maintenance included after the site goes live?",
+    answer: "Yes. Five months of maintenance are included free once hosting is live. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months you can continue on maintenance from Rs 2,000 per month, or simply stop. There is no lock-in and no cancellation charge either way."
+  },
+  {
+    question: "Can you rank my business for Chennai area searches?",
+    answer: "We optimise for realistic area-level phrases rather than promising a number one spot. That means a properly set up Google Business Profile, service pages that mention the areas you actually serve such as T Nagar or Anna Nagar, clean technical SEO, and steady content. Local rankings usually start moving in three to five months for a site with no prior history."
+  },
+  {
+    question: "Do you redesign existing Chennai websites?",
+    answer: "Often. Many Chennai businesses have an old site that loads slowly, breaks on phones or was built on a platform nobody can edit anymore. We audit what exists, keep the URLs and content that already earn traffic, rebuild the front end, and migrate carefully so search rankings survive the switch. A redesign is usually cheaper than a full rebuild."
+  },
+  {
+    question: "Who actually works on the project?",
+    answer: "Three engineers. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, automation and data work. You talk directly to the people writing the code. There is no account manager layer and no outsourcing of your build to a third party."
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "Your business name, the services you want on the site, any logo or photos you have, and a rough idea of pages. If you do not have content ready we can draft it and send it back for approval. Domain and hosting can be bought by you or arranged by us. A short call is usually enough to scope the whole thing."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Chennai, Tamil Nadu",
+  description: "Web development, website design and SEO services for businesses in Chennai. End-to-end delivery from Rs 5,000 with 5 months free maintenance after launch.",
+  canonicalPath: "/india/tamil-nadu/chennai/",
+  h1: "Website Design, Development and SEO for Chennai Businesses",
+  intro: "We build and rank websites for businesses across Chennai, from the OMR software corridor to retail on T Nagar. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Tamil Nadu", href: "/india/tamil-nadu/" },
+    { label: "Chennai", href: "/india/tamil-nadu/chennai/" }
+  ]),
+  keywords: [
+    "web development company in Chennai",
+    "website designer Chennai",
+    "SEO services Chennai",
+    "website development cost in Chennai",
+    "web design company Chennai",
+    "website design Chennai Tamil Nadu",
+    "ecommerce website development Chennai",
+    "local SEO Chennai",
+    "Google Business Profile Chennai",
+    "website developer OMR Chennai",
+    "web design T Nagar",
+    "website company Anna Nagar",
+    "SEO company Velachery",
+    "web developer Guindy Chennai",
+    "website design Adyar",
+    "static website Chennai",
+    "business website Chennai",
+    "website redesign Chennai",
+    "freelance web developer Chennai",
+    "affordable website design Chennai",
+    "website maintenance Chennai",
+    "healthcare website design Chennai",
+    "manufacturing website Chennai",
+    "export company website Chennai",
+    "education website design Chennai",
+    "custom web application Chennai",
+    "mobile friendly website Chennai",
+    "SEO agency Tamil Nadu"
+  ],
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Chennai</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Chennai market a website has to compete in</h2>
+            <p>Chennai is not one market. It is a software belt running down OMR, a dense retail and jewellery trade around T Nagar, a manufacturing and automotive spine heading out towards Sriperumbudur, hospitals and diagnostic chains scattered through Anna Nagar and Adyar, and an export trade tied to the port. Each of those groups searches differently. A CNC job shop is looked up by a procurement executive comparing three vendors on a laptop. A dental clinic in Velachery is found by someone on a phone at eleven at night. The same generic five page website cannot serve both, and most of the ones we are asked to fix were built as if it could.</p>
+            <p>The competition here is also unusually deep. Chennai has thousands of agencies and freelancers, which means almost every business already has something online. The bar is not having a website. The bar is having one that loads fast on a patchy mobile connection, says clearly what you do, and answers the two or three questions a buyer has before they call. That is a content and structure problem more than a design problem, and it is where most budgets get spent in the wrong place.</p>
+          </article>
+          <article>
+            <h3>What Chennai businesses actually struggle with online</h3>
+            <p>The complaints repeat. The site was built years ago by someone unreachable, and nobody can change a phone number without paying for it. It looks acceptable on a desktop and falls apart on an Android phone, which is where most of the traffic is. It takes six seconds to load because the homepage carries eight uncompressed banner images. There is no Google Business Profile, or there is one with a wrong address and no photos. Service pages exist but read like a company brochure from 2011, with no mention of price, timeline or coverage area.</p>
+            <p>Underneath all of that is a tracking gap. Owners cannot say how many enquiries the site produced last month because nothing was ever measured. We fix that early, because without it every later decision about SEO or content is guesswork dressed up as strategy.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Chennai business</h2>
+            <p>There are four builds we do most often, and picking the right one saves more money than any discount. A static website suits a business that needs credibility and a contact route: a few service pages, an about page, a location page, a contact form. It is fast, cheap to host, almost impossible to break, and starts from Rs 5,000. A dynamic or content-driven website suits anyone who will publish regularly or wants to edit pages themselves. That is where the 30-page SEO website sits, handled from design through to deployment, starting from Rs 10,000.</p>
+            <p>A redesign applies when a site already ranks for something worth keeping. We audit the existing pages, keep the URLs that earn traffic, rebuild the front end and migrate with redirects in place so nothing drops. Ecommerce starts from Rs 25,000 and covers catalogue, cart, payment gateway and order flow. A custom web application, such as a booking system, dealer portal or internal dashboard, starts from Rs 40,000. Every figure is a starting point and the final cost depends on scope.</p>
+            <ul class="it-list">
+              <li>Static brochure website from Rs 5,000, live in about a week</li>
+              <li>30-page SEO website from Rs 10,000, design to deployment</li>
+              <li>Redesign and migration of an existing Chennai website</li>
+              <li>Ecommerce store from Rs 25,000 with payment gateway setup</li>
+              <li>Custom web application from Rs 40,000</li>
+              <li>AI automation and workflow tools from Rs 15,000</li>
+            </ul>
+            <p>If you are unsure which fits, our <a href="/services/web-development/">web development service page</a> breaks down the stack we use, and <a href="/pricing/">pricing</a> lists every starting figure in one place.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Chennai business website should include</h2>
+            <p>Start with the phone number in the header, visible without scrolling, and clickable on mobile. It sounds obvious. It is missing from a surprising number of sites we audit. Then one page per service, written properly, rather than one page listing everything you do in bullet points. If you fabricate sheet metal, do precision machining and offer powder coating, that is three pages, and each can rank for its own search. A single services page ranks for none of them well.</p>
+            <p>Add a coverage section that names the areas you genuinely serve, whether that is Guindy and Ambattur for an industrial supplier or the neighbourhoods around Adyar for a clinic. Include real photographs of your unit, team or shop rather than stock imagery, because Chennai buyers use those to judge whether you are a real operation. Put pricing indications where you can, even ranges. Add a short FAQ block answering what people ask on the phone anyway.</p>
+          </article>
+          <article>
+            <h3>The technical baseline we ship with every build</h3>
+            <p>Every site we deliver goes out mobile first, because the majority of Chennai traffic arrives on a phone, often on a mid-range Android over mobile data. Images are compressed and served in modern formats. Pages are built to load in about two seconds on a normal connection. An SSL certificate is installed. Titles, descriptions and heading structure are written per page rather than duplicated. Schema markup is added so search engines understand what the business is.</p>
+            <p>Google Analytics and Search Console are connected before launch, an XML sitemap is submitted, and the contact form is tested end to end so enquiries actually land in your inbox instead of a spam folder. None of this is charged as an extra. It is what a working website means.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Chennai searches</h2>
+            <p>Chennai search results split into two layers. The map pack at the top is driven almost entirely by your Google Business Profile: correct category, complete service list, real photos, consistent name and phone across the web, and a steady flow of genuine reviews. If your profile is thin, no amount of on-page work will lift you into that block. We set the profile up properly, write the service descriptions, add posts, and show you how to ask customers for reviews without it feeling forced.</p>
+            <p>Below that sit the organic results, which respond to page structure and content. Here we target area-level phrases that people actually type, things like a web designer near T Nagar or a diagnostic lab in Anna Nagar, mapped to pages that genuinely serve that intent. Chasing the single broadest keyword in the city is usually a waste of a small budget. Ten specific area and service combinations bring better enquiries than one head term you will not reach.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting without faking a presence</h3>
+            <p>Plenty of Chennai sites list twenty neighbourhoods on a footer strip and hope Google rewards it. It does not, and it can hurt. The honest version works better: write a page for an area only when you have something real to say about serving it, and otherwise mention coverage naturally inside your service copy. If you deliver to Velachery in a day and to Sriperumbudur twice a week, say exactly that. Specificity is both more useful to the reader and a stronger ranking signal than a keyword list.</p>
+            <p>Monthly SEO starts from Rs 5,000 per month and covers technical fixes, on-page work, content, profile management and reporting. Expect the first movement in three to five months on a site with no history. Anyone promising Chennai page one in thirty days is selling something else. The full approach is on our <a href="/services/seo-services/">SEO services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery and five months of free maintenance</h2>
+            <p>We handle projects end to end. Planning, design, development, SEO setup, hosting and deployment are all ours, which means you are not stitching together a designer, a developer and a hosting provider who each blame the other when something breaks. One conversation, one team, one point of responsibility. For a Chennai owner already running a factory or a clinic, that coordination saving is usually worth more than the money saved.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, uptime checks and speed checks. Five months is long enough to catch the problems that only appear in real use, and long enough for you to see whether the site is producing enquiries before spending anything further. After that period maintenance continues from Rs 2,000 per month, or you can stop. Nothing is locked in.</p>
+          </article>
+          <article>
+            <h3>Timelines you can plan around</h3>
+            <p>A static site is usually live in five to eight working days. A 30-page SEO website takes two to four weeks. An ecommerce store takes three to six weeks depending on catalogue size and payment gateway approval, which is often the slowest external step. Custom applications are scoped case by case after a proper requirements call.</p>
+            <p>The honest caveat is that these clocks depend on you. Content, logos, product photos and approvals are the usual delay, not development. We send a short checklist at the start so you know exactly what is needed and when, and we keep building the parts that are not blocked while you gather the rest.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Chennai sectors we build for</h2>
+            <p>IT and software companies along the OMR corridor usually need a credibility site rather than a lead machine: clear capability pages, case-style write-ups, careers, and a fast clean front end that survives scrutiny from enterprise buyers. Automotive and engineering suppliers need product and capability pages with real specifications, tolerances, certifications and downloadable documents, because a procurement team shortlists on detail rather than design.</p>
+            <p>Healthcare providers, from single-doctor clinics to diagnostic chains, need appointment routes, doctor profiles, department pages and a Google Business Profile that is impeccable, because patients search on a phone with intent to act immediately. Education institutions need admissions flows, course pages and a site that survives an enquiry rush during admission season. Exporters need clean English product catalogues, certification pages and enquiry forms that work for buyers in other time zones.</p>
+          </article>
+          <article>
+            <h3>Beyond websites</h3>
+            <p>Websites and SEO are what this page covers, but they are not everything we do. If you need cloud setup, AI automation, data work, internal tools or ongoing technical support, our broader <a href="/it-services/tamil-nadu/chennai/">IT services page for Chennai</a> covers that side. AI automation starts from Rs 15,000 and typically pays for itself where a team is manually moving data between systems or answering the same enquiry twenty times a week.</p>
+            <p>Plenty of Chennai clients start with a website and add automation later, once they can see which part of the workflow is actually costing them hours. There is no reason to buy both at once.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How working with us remotely actually goes</h2>
+            <p>We are a freelance group of three engineers with remote-friendly delivery for Chennai. There is no office here and we will not pretend otherwise. What replaces it is direct access. You have the phone numbers and email addresses of the people building your site, not a ticket queue. Most projects run on a WhatsApp thread for quick questions, scheduled calls for decisions, and a shared document tracking scope, content and status.</p>
+            <p>You see a staging link early and keep seeing it as pages get built, so there is no reveal at the end where the design turns out to be nothing like what you pictured. Feedback is collected in rounds rather than one message at a time, which keeps things moving. Working hours overlap fully with Chennai, so a question in the morning gets an answer the same morning.</p>
+          </article>
+          <article>
+            <h3>Getting started</h3>
+            <p>Email <a href={siteContact.emailHref}>{siteContact.email}</a> or call {siteContact.phone} with a short description of your business and what you want the site to do. We reply with questions, then a call of twenty to thirty minutes to scope properly. After that you get a fixed written quote with the scope, timeline and price spelled out, so there are no revisions to the number halfway through.</p>
+            <p>If you already have a website, send the link. A free look at what is working and what is broken is usually more useful than a sales pitch, and it tells you whether you need a rebuild or just a few fixes. Sometimes the answer is that your current site is fine and the problem is your Google Business Profile. We will say so.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <p>Other pages that may help while you compare options across Tamil Nadu and the rest of India.</p>
+            <ul class="it-list">
+              <li><a href="/india/tamil-nadu/">Web development and SEO in Tamil Nadu</a></li>
+              <li><a href="/it-services/tamil-nadu/chennai/">IT services in Chennai</a></li>
+              <li><a href="/it-services/tamil-nadu/trichy/">IT services in Trichy</a></li>
+              <li><a href="/india/">Services across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/india/karnataka/bangalore/">Bangalore web development</a></li>
+              <li><a href="/india/telangana/hyderabad/">Hyderabad web development</a></li>
+              <li><a href="/india/kerala/kochi/">Kochi web development</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/about/">About our team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Chennai website and SEO questions</h2>
+          <p>Straight answers to what Chennai business owners ask us before starting.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((item) => (
+            <details>
+              <summary>{item.question}</summary>
+              <p>{item.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to start your Chennai website?</h2>
+          <p>Tell us what your business does and what you want the site to achieve. You get a scoped quote, a fixed timeline, end-to-end delivery and five months of maintenance included free after launch.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

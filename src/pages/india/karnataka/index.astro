@@ -1,8 +1,264 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import LocationCard from "@components/sections/LocationCard.astro";
-import { indiaRegionPage } from "@data/page-seo/static-pages";
-import { karnatakaCities } from "@data/countries/india/cities/karnataka";
-const page = indiaRegionPage("karnataka");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "What does a website cost for a business in Karnataka?",
+    answer: "A static website starts from ₹5,000. A 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web app from ₹40,000 and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and how much content we write for you.",
+  },
+  {
+    question: "How long does a Karnataka website project take?",
+    answer: "A small static site is usually live in one to two weeks. A 30-page SEO site takes about three to five weeks, because most of that time goes into writing pages that deserve to rank. Ecommerce runs four to eight weeks depending on catalogue size and payment setup. Custom web apps are scoped individually after we agree on the feature list.",
+  },
+  {
+    question: "Do you have an office in Bengaluru?",
+    answer: "No. We are a small freelance engineering group and we work fully remote, so we do not claim an office anywhere in Karnataka. That has never blocked delivery. We work with businesses across Bengaluru, Mysuru, Mangaluru, Hubballi and Belagavi over calls, email and shared documents, and you get direct access to the engineer building your site.",
+  },
+  {
+    question: "Is five months of free maintenance really included?",
+    answer: "Yes. Once your site is hosted and live, five months of maintenance are included at no extra cost. That covers content updates, bug fixes, security patches, backups, and uptime and speed checks. After those five months, maintenance is from ₹2,000 per month if you want us to keep looking after the site.",
+  },
+  {
+    question: "Can you rank a Bengaluru business against big local competitors?",
+    answer: "In competitive Bengaluru categories we usually start with area and service combinations rather than the broadest state level keyword. Pages for specific neighbourhoods and specific services rank sooner and bring buyers who are ready to call. Once those pages earn traffic and links, the broader terms become realistic. It is a sequence, not a shortcut.",
+  },
+  {
+    question: "Do you build sites in Kannada as well as English?",
+    answer: "We build English sites by default, and we can add Kannada versions of key pages when your customers search that way. Retail, healthcare, education and service businesses outside the tech corridor often benefit most. We keep the URL structure clean so both language versions are indexed properly instead of competing with each other.",
+  },
+  {
+    question: "What do you need from me to start?",
+    answer: "A short description of the business, the services you want to sell, any existing website or domain details, and photos or documents you already have. If you do not have written content, we draft it and you review. We share a scope and price before any work begins so there are no surprise line items later.",
+  },
+  {
+    question: "Do you handle hosting and deployment too?",
+    answer: "Yes. We handle the project end to end: planning, design, development, SEO setup, hosting and deployment. You do not have to coordinate between a designer, a developer and a hosting vendor. One team ships the whole thing, hands over the logins, and stays on for the free maintenance window afterwards.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Karnataka | Website and SEO",
+  description: "Web development company in Karnataka building websites and SEO for Bengaluru, Mysuru, Mangaluru and Hubballi. Static sites from ₹5,000, end to end delivery.",
+  canonicalPath: "/india/karnataka/",
+  h1: "Website Development and SEO Services Across Karnataka",
+  intro: "We are a small freelance engineering group building websites and running SEO for businesses across Karnataka, from Bengaluru software firms to Mangaluru traders and Mysuru clinics. Planning, design, development, hosting and deployment are handled end to end, with five months of maintenance included free.",
+  breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }, { label: "Karnataka", href: "/india/karnataka/" }]),
+  keywords: [
+    "web development company in Karnataka",
+    "website development Karnataka",
+    "SEO services Karnataka",
+    "website designer Karnataka",
+    "web design company Bengaluru",
+    "website development Bengaluru",
+    "SEO company Bengaluru",
+    "web development Mysuru",
+    "website designer Mysuru",
+    "web development Mangaluru",
+    "website design Mangaluru",
+    "web development Hubballi",
+    "website design Belagavi",
+    "ecommerce website Karnataka",
+    "custom web application Karnataka",
+    "AI automation Karnataka",
+    "local SEO Karnataka",
+    "Google Business Profile Bengaluru",
+    "Kannada website design",
+    "small business website Karnataka",
+    "startup website design Bengaluru",
+    "website maintenance Karnataka",
+    "website redesign Karnataka",
+    "affordable website Karnataka",
+    "freelance web developer Karnataka",
+    "IT services Karnataka",
+    "website hosting and deployment Karnataka",
+    "healthcare website Karnataka",
+  ],
+});
 ---
-<LocationLayout page={page}>{karnatakaCities.map((city) => <LocationCard title={city.name} href={city.path} />)}</LocationLayout>
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Karnataka</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">The Karnataka business landscape and who needs a better website</h2>
+            <p>Karnataka is the strongest technology market in India, and that fact quietly distorts how business owners here think about websites. In Bengaluru, everyone knows someone who codes, so a lot of firms end up with a half finished site a friend built between jobs. Outside Bengaluru the pattern flips. Mysuru clinics, Mangaluru exporters and Hubballi distributors often run entirely on phone calls and a Google Business Profile, with either no website or a template page that has not been touched since 2019. Both situations lose the same thing: search traffic that a competitor is currently collecting.</p>
+            <p>The businesses that gain the most from a proper site are the ones with a real service to explain and a price a buyer needs to understand before calling. Interior contractors, diagnostic labs, coaching institutes, equipment suppliers, logistics operators, dental and physiotherapy clinics, D2C brands shipping out of Bengaluru warehouses, and B2B manufacturers around Belagavi and Hubballi. If your customer researches for a week before choosing, your website is doing the selling whether you maintain it or not. Our <a href="/services/web-development/">web development service</a> is built around that reality rather than around visual novelty.</p>
+          </article>
+          <article>
+            <h3>Why state level thinking beats city level thinking here</h3>
+            <p>Karnataka is not one market wearing five names. Bengaluru buyers compare four vendors and read your pricing page twice. Mangaluru trade buyers want a phone number, a product list and proof you actually ship. Mysuru and Belagavi sit somewhere between, with strong word of mouth and lighter online competition, which is exactly why ranking there is cheaper and faster.</p>
+            <p>We plan a Karnataka site so it can serve all of those without becoming a mess. One clear services structure, then city and area pages layered on top where the search volume justifies them. That way you are not paying to build pages nobody looks for, and you are not stuck with a site that only speaks to one city when your business grows into three.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="includes-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="includes-heading">What a good Karnataka business website actually includes</h2>
+            <p>Strip away the trends and a website that earns its cost does five things: it loads fast on a mid range Android phone over a patchy connection, it says what you sell within the first screen, it makes contacting you a single tap, it gives search engines clean structured pages to index, and it can be updated without a developer for routine content. Everything else is decoration. We build on that base and then add whatever your category genuinely needs, whether that is an appointment form, a product catalogue, a quote calculator or a payment gateway.</p>
+            <p>In practice a typical build includes a home page that qualifies visitors quickly, individual pages for each service instead of one crowded list, an about page that names the people behind the business, location pages where you actually operate, a contact page with a working form and a map, and a blog or resources area if you plan to publish. We set up analytics, search console, sitemaps, schema markup and Google Business Profile links during the build rather than treating SEO as a later purchase.</p>
+          </article>
+          <article>
+            <h3>Performance is a Karnataka specific concern</h3>
+            <p>A lot of your traffic arrives on mobile data outside the metro core, in Hubballi, Davanagere, Shivamogga or Kalaburagi, where connections are inconsistent. A heavy site with six web fonts and a video header will lose those visitors before the page paints. We keep pages light, compress images properly, avoid unnecessary scripts and test on real budget devices.</p>
+            <ul class="it-list">
+              <li>Pages targeted to load in under three seconds on 4G</li>
+              <li>Images served in modern formats at the size actually displayed</li>
+              <li>Tap targets and forms sized for one handed phone use</li>
+              <li>Clean HTML structure so Google understands the page without guessing</li>
+              <li>No third party widgets that block rendering</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="search-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="search-heading">How local search works across several distinct city markets</h2>
+            <p>Google treats Karnataka as a set of local markets, not one region. Someone searching in Jayanagar sees a different map pack from someone searching the same words in Mangaluru. That means a single page saying you serve all of Karnataka will rank for almost nothing. The structure that works is a service page describing what you do in depth, then a city page for each market where you have genuine demand, each one written with details a local reader recognises rather than the same paragraph with the city name swapped.</p>
+            <p>For Bengaluru specifically, the state name is rarely the winning keyword. Buyers search by area, by service and by intent: a service plus Indiranagar, a service plus near me, a service plus price. So we build the depth where the searches are, and let the state page act as the hub that ties it together. Our <a href="/services/seo-services/">SEO services</a> follow that pattern, and the <a href="/india/karnataka/bangalore/">Bangalore page</a> shows how the city layer is handled.</p>
+          </article>
+          <article>
+            <h3>Google Business Profile still decides a lot</h3>
+            <p>For any business a customer can visit or call, the map pack sends more leads than the blue links do. That means categories chosen correctly, service areas set honestly, real photos rather than stock, posts published occasionally, and questions answered. We connect the profile to matching pages on your site so the signals agree with each other.</p>
+            <p>Reviews matter more in Karnataka than most owners expect, particularly in healthcare, education and home services where trust decides the call. We will set up a simple way to request reviews after a job, but we will not fabricate them or invent counts. Honest signals compound; fake ones eventually cost you the listing.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="language-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="language-heading">Language and regional considerations for Karnataka</h2>
+            <p>English carries most commercial search in Bengaluru, and for a B2B or technology business an English only site is usually the right call. Move outside that corridor and the picture changes. In Mysuru, Hubballi, Belagavi and much of north Karnataka, a meaningful share of buyers search and read in Kannada, and voice search in Kannada has grown quickly on Android. Mangaluru adds another layer, with Tulu and Konkani speakers who nonetheless search in English or Kannada. Belagavi sits close to the Maharashtra border, so Marathi appears in the mix too.</p>
+            <p>Our practical recommendation is rarely a full bilingual site on day one. It is usually an English site built cleanly, with Kannada versions of the two or three pages that convert, published on their own indexable URLs. That gets the language benefit without doubling your content maintenance forever. Transliteration matters as well: people type Kannada place names in Roman script in many different spellings, and we account for those variations in page copy and metadata rather than pretending only one spelling exists.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Sectors we work with across the state</h2>
+            <p>Karnataka gives us a wider mix than most states. Bengaluru brings software firms, startups, consultancies, recruitment agencies and D2C brands that need a site to look credible to investors and customers simultaneously. Coastal Karnataka around Mangaluru and Udupi brings trade, shipping, cashew and food processing, and export focused businesses that need product catalogues, specification sheets and enquiry forms that actually route to the right person.</p>
+            <p>Education is a category of its own here. Coaching centres, engineering and management colleges, training institutes and skill programmes all compete on admissions season traffic, and they need course pages, faculty pages and enquiry funnels that hold up under a seasonal spike. Healthcare is similar: multi speciality clinics, diagnostic labs, dental practices and physiotherapy centres in Bengaluru, Mysuru and Hubballi need clear treatment pages, doctor profiles, appointment forms and a site that respects patient privacy in how forms are handled.</p>
+          </article>
+          <article>
+            <h3>The other steady categories</h3>
+            <ul class="it-list">
+              <li>Manufacturing and industrial suppliers around Hubballi, Belagavi and Peenya</li>
+              <li>Real estate developers, brokers and interior contractors</li>
+              <li>Logistics, warehousing and transport operators</li>
+              <li>Retail chains moving part of their catalogue online</li>
+              <li>Hotels, homestays and tourism operators around Coorg, Chikkamagaluru and Hampi</li>
+              <li>Professional services: chartered accountants, lawyers, architects, consultants</li>
+            </ul>
+            <p>If your category is not listed, that is not a problem. The underlying work is the same: understand what your buyer searches, build pages that answer it properly, and make contacting you effortless.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="pricing-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="pricing-heading">Timelines and starting prices for Karnataka projects</h2>
+            <p>We quote from published starting points instead of inventing a number after we hear your turnover. A static website starts from ₹5,000. A 30-page SEO website taken from design all the way to deployment starts from ₹10,000. AI automation work starts from ₹15,000, an ecommerce store from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month, and maintenance beyond the free window is from ₹2,000 per month. Final cost always depends on scope: page count, how much content we write, integrations and how many revision rounds you want.</p>
+            <p>Timelines follow the same logic. A small static site is typically live inside one to two weeks. A 30-page SEO site takes three to five weeks because writing thirty pages worth reading is the slow part, not the code. Ecommerce runs four to eight weeks depending on catalogue size, payment gateway and shipping rules. SEO is different again: expect movement on long tail and area terms in two to three months, and competitive Bengaluru terms considerably later. Full detail sits on our <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End to end delivery and five months of free maintenance</h2>
+            <p>We handle projects end to end, which means one team covers planning, design, development, SEO setup, hosting and deployment. You are not chasing a designer for files, a developer for a fix and a hosting vendor for a DNS change while nobody takes responsibility for the outcome. We scope the project, agree the price, build it, put it live on hosting we configure, and hand over every login that belongs to you.</p>
+            <p>After the site goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because month one is when real problems surface: a form that misbehaves on one browser, an image someone wants swapped, a plugin update that needs applying. Charging for that period would only push clients to leave issues unfixed. After five months, maintenance continues from ₹2,000 per month if you want it, and there is no penalty if you take the site in house instead.</p>
+          </article>
+          <article>
+            <h3>How remote delivery works for Karnataka clients</h3>
+            <p>We are three freelance engineers and we do not have an office in Karnataka or anywhere else, so we will never tell you otherwise. Delivery is remote by design: a short call to understand the business, a written scope you approve, a staging link you can open on your own phone, feedback collected in one place, then launch. Most clients speak directly to the person writing the code.</p>
+            <p>Broader infrastructure, cloud and automation work for the state is covered on our <a href="/it-services/karnataka/">Karnataka IT services page</a>, while this page stays focused on websites and search. Both are delivered the same way, by the same small team.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="faq-heading">Karnataka website and SEO questions we get asked</h2>
+            <div class="it-faq">
+              {faqs.map((item) => (
+                <details>
+                  <summary>{item.question}</summary>
+                  <p>{item.answer}</p>
+                </details>
+              ))}
+            </div>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="related-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="related-heading">Related pages</h2>
+            <ul class="it-list">
+              <li><a href="/india/karnataka/bangalore/">Web development and SEO in Bangalore</a></li>
+              <li><a href="/it-services/karnataka/">IT services in Karnataka</a></li>
+              <li><a href="/it-services/karnataka/bengaluru/">IT services in Bengaluru</a></li>
+              <li><a href="/india/">Web development across India</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting costs</a></li>
+              <li><a href="/india/telangana/hyderabad/">Web development in Hyderabad</a></li>
+              <li><a href="/india/tamil-nadu/chennai/">Web development in Chennai</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Web development in Mumbai</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/portfolio/">Portfolio</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Start your Karnataka website or SEO project</h2>
+          <p>Tell us the business, the city and what you want the site to do. We will come back with a scope, a starting price and a realistic timeline, with hosting, deployment and five months of maintenance included.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

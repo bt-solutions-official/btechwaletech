@@ -1,6 +1,267 @@
 ---
-import LocationLayout from "@layouts/LocationLayout.astro";
-import { getIndiaCity } from "@data/countries/india/cities";
-const city = getIndiaCity("karnataka", "bangalore");
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "How much does website development cost in Bangalore?",
+    answer: "A static business website starts from Rs 5,000. A 30-page SEO website taken from design to deployment starts from Rs 10,000. Ecommerce starts from Rs 25,000, a custom web app from Rs 40,000 and AI automation from Rs 15,000. The final cost always depends on scope: page count, integrations, content readiness and how much design work you want."
+  },
+  {
+    question: "Do you have an office in Bangalore?",
+    answer: "No. We are a freelance team of three engineers and we work remotely with businesses in Bangalore. That means no travel cost is baked into your quote and no waiting for a meeting slot. We handle calls, screen shares and shared documents, and most Bangalore clients tell us it is faster than agency meetings across the city."
+  },
+  {
+    question: "How long does a Bangalore business website take?",
+    answer: "A small static site is usually live in seven to twelve working days. A 30-page SEO website normally takes three to five weeks. Ecommerce and custom web apps run four to eight weeks depending on payment flows, catalogue size and integrations. The single biggest delay is content, so we start collecting text, photos and logos on day one."
+  },
+  {
+    question: "What is included in the five months of free maintenance?",
+    answer: "After your site is hosted and live, five months of maintenance are included at no cost. That covers content updates, bug fixes, security patches, backups, plus uptime and page speed checks. After the five months, ongoing maintenance is from Rs 2,000 per month. Nothing is locked, so you can also take the site elsewhere."
+  },
+  {
+    question: "Can you rank a site for searches like web designer in Koramangala?",
+    answer: "Area-level searches are usually easier to win than the citywide term because competition is thinner. We build area intent into service pages, headings and body copy where it reads naturally, keep your Google Business Profile consistent, and support it with local citations. Timelines vary, but area terms often move within two to four months."
+  },
+  {
+    question: "Do you handle hosting and domain setup too?",
+    answer: "Yes. Delivery is end to end: planning, design, development, SEO setup, hosting and deployment. If you already own a domain we point it correctly and set up SSL. If not, we help you buy one in your own name so you always control the asset. You get every login when the project goes live."
+  },
+  {
+    question: "Do you work with early-stage Bangalore startups?",
+    answer: "Often. A pre-funding startup usually needs a fast marketing site, a clear product explanation and analytics, not a bloated platform. We start at the Rs 5,000 static tier or the Rs 10,000 SEO website tier, ship quickly, then expand as the product matures. Monthly SEO starts from Rs 5,000 per month if you want ongoing growth work."
+  },
+  {
+    question: "How do we start the project?",
+    answer: "Email or call us with your business, your city area and what the site needs to achieve. We reply with a scope note, a fixed starting price and a timeline. Once you confirm, we collect content and branding, share a first build for review, then move to hosting and deployment with the maintenance window starting from launch day."
+  }
+];
+
+const page = createPageSeo({
+  title: "Web Development Company in Bangalore | Websites and SEO",
+  description: "Web development, website design and SEO services for businesses in Bangalore. End-to-end delivery from Rs 5,000, hosting included and 5 months free maintenance.",
+  canonicalPath: "/india/karnataka/bangalore/",
+  h1: "Website Development and SEO Services for Businesses in Bangalore",
+  intro: "We are a three-engineer freelance team building websites and running SEO for businesses across Bangalore, from Koramangala startups to Jayanagar clinics. Every project runs end to end, from planning to hosting, with five months of maintenance included free after launch.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: "Karnataka", href: "/india/karnataka/" },
+    { label: "Bangalore (Bengaluru)", href: "/india/karnataka/bangalore/" }
+  ]),
+  keywords: [
+    "web development company in Bangalore",
+    "web development company in Bengaluru",
+    "website designer Bangalore",
+    "website designer Bengaluru",
+    "SEO services Bangalore",
+    "SEO services Bengaluru",
+    "website development cost in Bangalore",
+    "website design company Bangalore",
+    "freelance web developer Bangalore",
+    "ecommerce website development Bangalore",
+    "local SEO Bangalore",
+    "Google Business Profile Bangalore",
+    "web designer Koramangala",
+    "website design Indiranagar",
+    "web development Whitefield",
+    "SEO company Electronic City",
+    "website designer HSR Layout",
+    "web development Jayanagar",
+    "website design Marathahalli",
+    "startup website design Bangalore",
+    "SaaS website development Bangalore",
+    "D2C website development Bangalore",
+    "clinic website design Bangalore",
+    "restaurant website Bangalore",
+    "coworking website design Bangalore",
+    "website redesign Bangalore",
+    "static website Bangalore",
+    "website maintenance Bangalore",
+    "affordable website design Bengaluru"
+  ]
+});
 ---
-<LocationLayout page={city.seo} />
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Bangalore (Bengaluru)</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="landscape-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="landscape-heading">What Bangalore businesses actually struggle with online</h2>
+            <p>Bangalore is the most crowded digital market in India, and that changes what a website has to do here. A cafe in Indiranagar is not competing with the cafe next door for attention, it is competing with aggregator listings, delivery apps and a hundred Instagram pages. A B2B services firm in Whitefield sends its proposal to a client who will open the website in a second tab before replying. The site is not decoration. It is the thing that decides whether the enquiry continues.</p>
+            <p>The pattern we see most often is a site that was built years ago by someone who has since moved on. Nobody has the hosting login. The theme is heavy, the phone number in the footer is old, and the pages load slowly on a mid-range Android phone on mobile data, which is how most of your visitors will actually see them. Traffic exists but does not convert, and nobody can say why because analytics was never installed properly.</p>
+          </article>
+          <article>
+            <h3>Two problems that show up again and again</h3>
+            <p>The first is invisibility outside the brand name. The business ranks when someone types its exact name and disappears for the service term. Somebody searching for a physiotherapist in HSR Layout never sees it, because the site has one generic services page instead of pages that match how people actually search.</p>
+            <p>The second is a broken handoff. Someone finds the business on Google Maps, clicks through, lands on a slow page with no clear next step, and leaves. The Google Business Profile and the website are treated as separate things when they should reinforce each other. Fixing that handoff is often the cheapest win available in the first month of work.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="options-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="options-heading">Website development options for a Bangalore business</h2>
+            <p>Not every business needs the same build, and paying for the wrong tier is the most common way money gets wasted. A static website, starting from Rs 5,000, is the right answer when you need five to eight pages that rarely change: who you are, what you do, proof, and a way to contact you. Static sites are fast, cheap to host and almost impossible to break, which matters more than it sounds when nobody in the company is technical.</p>
+            <p>A 30-page SEO website, from Rs 10,000 taken from design all the way to deployment, suits businesses with several services or several areas to cover. This is what a multi-service agency in Marathahalli or a clinic chain with branches in Jayanagar and Koramangala usually needs, because each service and each area gets its own page instead of being crammed into one.</p>
+          </article>
+          <article>
+            <h3>Ecommerce, custom apps and redesigns</h3>
+            <p>Ecommerce starts from Rs 25,000 and covers catalogue, cart, payment gateway, shipping rules and order notifications. Bangalore D2C brands usually come to us after outgrowing a marketplace-only presence and wanting margin back. A custom web app starts from Rs 40,000 and is for booking systems, dashboards, member portals and anything with real logic behind it. AI automation work starts from Rs 15,000 when you want lead routing, chat handling or reporting to run without a person doing it manually.</p>
+            <p>Redesigns are their own category. If the existing site ranks for anything, we keep the URLs, preserve the content that earns traffic and redirect the rest properly. A redesign that throws away URL structure can erase years of ranking in a week. More detail on the build side sits on our <a href="/services/web-development/">web development services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="include-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="include-heading">What a Bangalore business website should include</h2>
+            <p>Strip away the fashion and a website that works in this city has a short list of non-negotiables. It loads fast on a phone, because a large share of Bangalore traffic arrives on mobile between commutes. It says what you do and where you serve within the first screen, without the visitor scrolling to find out. It gives one obvious next action, whether that is a call button, a WhatsApp link or a short form. And it survives being opened by a client who has three other tabs open with your competitors.</p>
+            <p>Beyond that, the details are what separate a site that ranks from one that just exists. These are what we set up as standard on every build:</p>
+            <ul class="it-list">
+              <li>Separate pages for each service, not one combined services page</li>
+              <li>Area-relevant content where you genuinely serve, written into sentences rather than stuffed lists</li>
+              <li>A visible phone number and email in the header, footer and on mobile</li>
+              <li>Clean title tags and descriptions written per page, not auto-generated</li>
+              <li>Schema markup so search engines understand your business type and services</li>
+              <li>An XML sitemap, robots file and correct canonical tags</li>
+              <li>Analytics and Search Console connected and verified before launch</li>
+              <li>Compressed images and lazy loading so pages stay light</li>
+              <li>SSL, backups and a hosting setup you actually hold the login for</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="seo-heading">How local SEO works for Bangalore searches</h2>
+            <p>Local search in Bangalore behaves differently from a smaller city because the area matters as much as the city. Almost nobody searches for a dentist in Bangalore. They search for a dentist near Indiranagar, or a gym in HSR Layout, or a CA office in Jayanagar, because crossing the city for a routine service is not realistic. That is good news for a smaller business: the area-level term is winnable in a way the citywide term often is not.</p>
+            <p>The work splits into three parts. Your Google Business Profile has to be complete, correctly categorised, with real photos, accurate hours and a steady flow of genuine reviews, because it drives the map results. Your website needs pages that match the way people phrase those area searches, with the intent written into headings and body copy naturally. Then citations and directory listings need the same business name, number and details everywhere, since inconsistency quietly suppresses local rankings.</p>
+          </article>
+          <article>
+            <h3>Service-area targeting when you have no shopfront</h3>
+            <p>Plenty of Bangalore businesses have no walk-in location at all: consultants, home services, agencies, freelancers working out of coworking spaces in Koramangala or offices in Electronic City. Google supports this properly through service-area configuration, where you define where you deliver rather than pinning a public address. We set that up honestly instead of inventing a location, which is the approach that survives Google's own verification checks.</p>
+            <p>Monthly SEO starts from Rs 5,000 per month and covers keyword tracking, on-page fixes, content additions, profile management and reporting you can actually read. Most Bangalore clients see meaningful movement on area terms inside two to four months, with citywide competitive terms taking longer. The full scope is on our <a href="/services/seo-services/">SEO services</a> page.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="delivery-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="delivery-heading">End-to-end delivery with five months of free maintenance</h2>
+            <p>We handle projects from end to end: planning, design, development, SEO setup, hosting and deployment. There is no point in the process where we hand you a folder of files and tell you to find a hosting provider. The site goes live under your domain, on hosting configured properly, with SSL, backups and analytics working before we call it finished. Every credential is handed to you in writing at launch.</p>
+            <p>After hosting goes live, five months of maintenance are included free. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. This exists because the most common failure we see is a site that was fine at launch and neglected afterwards until something broke. After the five months, ongoing maintenance is from Rs 2,000 per month, and it stays optional. Full price detail across every service sits on the <a href="/pricing/">pricing page</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="sectors-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="sectors-heading">Bangalore sectors we work with most</h2>
+            <p>Startups and SaaS companies form the biggest share. The need is usually a fast marketing site that explains the product clearly, a documentation or changelog area, working analytics and enough SEO groundwork that content published later has something to build on. Early-stage teams do not need a heavy platform in month one, they need something live this month that can grow.</p>
+            <p>D2C brands come next. The work is catalogue structure, product pages that rank for their own terms, a checkout that does not lose people on mobile, and honest page speed on product images. Clinics and healthcare practices need appointment enquiries, doctor profiles and area pages, since patients search by neighbourhood far more than by city.</p>
+          </article>
+          <article>
+            <h3>Restaurants, cafes and coworking spaces</h3>
+            <p>Restaurants and cafes in Indiranagar, Koramangala and Whitefield usually already have delivery app listings but no owned channel. A direct website with menu, location, timings, reservation contact and a well-maintained Google Business Profile recovers customers who would otherwise be routed through an aggregator that takes a cut of every order.</p>
+            <p>Coworking spaces and office providers need location pages, transparent pricing, photos that load quickly and a tour-booking enquiry path. With operators clustered around Koramangala, HSR Layout and Marathahalli, being the result someone finds for their specific area is often what decides the enquiry. If your needs go beyond websites and SEO into broader technical work, our <a href="/it-services/karnataka/bengaluru/">IT services in Bengaluru</a> page covers that side.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="remote-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="remote-heading">How remote work with a Bangalore client actually runs</h2>
+            <p>We are a freelance team of three engineers: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation. We do not have an office in Bangalore and we do not pretend otherwise. What we do have is a working process that removes the parts of agency work most clients dislike.</p>
+            <p>You get one point of contact rather than an account manager relaying messages. Requirements go into a shared written document so nothing depends on somebody remembering a phone call. Progress is shown on a live preview link you can open at any time, not in a slide deck. Calls happen when a call is genuinely faster than typing. Bangalore traffic being what it is, most clients quickly prefer this to scheduling meetings across the city, and reviewing a working build in a browser beats reviewing a mockup in a PDF.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Timelines and how to get started</h2>
+            <p>Small static sites are usually live within seven to twelve working days. A 30-page SEO website takes three to five weeks. Ecommerce and custom applications run four to eight weeks depending on integrations. SEO work is different in shape: setup happens in the first two weeks, then results build month over month rather than arriving on a fixed date. Anyone promising you a ranking date for a competitive Bangalore term is guessing.</p>
+            <p>To begin, email or call us with three things: what your business does, which part of Bangalore your customers come from, and what the site needs to achieve. We reply with a scope note, a fixed starting price and a realistic timeline, usually within a day. If it fits, we collect content and branding and start building. If it does not fit, we say so instead of stretching the scope to make it work.</p>
+          </article>
+          <article>
+            <h3>Related pages</h3>
+            <p>Other locations and services you may want to look at:</p>
+            <ul class="it-list">
+              <li><a href="/india/karnataka/">Website and SEO services across Karnataka</a></li>
+              <li><a href="/india/">Our work with businesses across India</a></li>
+              <li><a href="/it-services/karnataka/bengaluru/">IT services in Bengaluru</a></li>
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing and starting rates</a></li>
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/india/telangana/hyderabad/">Websites and SEO in Hyderabad</a></li>
+              <li><a href="/india/tamil-nadu/chennai/">Websites and SEO in Chennai</a></li>
+              <li><a href="/india/maharashtra/mumbai/">Websites and SEO in Mumbai</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/about/">About our team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Bangalore website and SEO questions</h2>
+          <p>Straight answers to what businesses in Bangalore ask before starting a project.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Ready to build or fix your Bangalore website?</h2>
+          <p>Tell us what your business does and which part of the city your customers come from. You get a scope note, a fixed starting price and a timeline, with hosting, deployment and five months of maintenance included.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

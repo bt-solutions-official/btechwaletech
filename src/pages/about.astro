@@ -1,8 +1,243 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/about/", "About Btechwale");
+const faqs = [
+  {
+    question: "Who exactly is BtechWaleTech?",
+    answer: "We are three computer science engineers working together as a freelance group: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning, AWS and data science, and Vedansh Shrivastava on project management, data science, AI and automation. There is no sales team and no account layer. The people who scope your project are the people who build it.",
+  },
+  {
+    question: "Are you an agency or freelancers?",
+    answer: "We are freelancers who work as a small team, which is deliberately in between. A solo freelancer can stall when one skill is missing or one person gets busy. An agency adds account managers, sales calls and overhead you pay for. Three engineers covering web, cloud, AI and delivery gives you agency-level range at freelance rates.",
+  },
+  {
+    question: "What does a project cost to start?",
+    answer: "Static websites start from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000 and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month and maintenance after the free period is from ₹2,000 per month. Final cost always depends on scope.",
+  },
+  {
+    question: "What is included in the five months of free maintenance?",
+    answer: "Once your site is hosted and live, the first five months of maintenance are included at no extra charge. That covers content updates, bug fixes, security updates, backups, and regular uptime and speed checks. After those five months you can continue on a maintenance plan from ₹2,000 per month, or simply stop. There is no automatic renewal trap.",
+  },
+  {
+    question: "Do I own the code and the accounts?",
+    answer: "Yes. Domain, hosting, repository, analytics and search console all sit in accounts you own, and we work inside them with access you can revoke. On handover you get the source code, deployment instructions and a short walkthrough. If you later hire someone else, nothing about our setup is designed to make leaving painful.",
+  },
+  {
+    question: "Can you guarantee first page rankings?",
+    answer: "No, and we will say so before you ask. Nobody controls Google's ranking systems, so any guarantee is either a coincidence waiting to happen or a lie. What we do control is technical quality, page speed, clean structure, useful content and consistent publishing. Those are the inputs that move rankings over months, and we report on them honestly.",
+  },
+  {
+    question: "How do we communicate during a project?",
+    answer: "WhatsApp or email for day to day questions, and a call when something needs a real conversation. We work Indian Standard Time and overlap comfortably with the Gulf, Europe, Australia and early or late United States hours. You get a short written update at each milestone so progress is visible without you chasing anyone for it.",
+  },
+  {
+    question: "How do I start working with you?",
+    answer: "Email or call us with a short description of what you need, roughly when you need it, and any budget range you have in mind. We reply with questions, then a written scope with a fixed starting price, a timeline and a payment split. Nothing begins until you have that document and agree to it.",
+  },
+];
+
+const page = createPageSeo({
+  title: "About Our Freelance IT Services Team Based in India",
+  description: "A freelance IT services team of three engineers in India. End to end delivery, honest scope, transparent pricing and 5 months of free maintenance after launch.",
+  canonicalPath: "/about/",
+  h1: "Three Engineers, One Freelance IT Services Group",
+  intro: "BtechWaleTech is a freelance IT services company in India built by three computer science engineers. We plan, design, develop, optimise, host and deploy digital work end to end, then maintain it free for five months, with pricing and scope written down before anything starts.",
+  breadcrumbs: createBreadcrumbs([{ label: "About", href: "/about/" }]),
+  keywords: [
+    "about BtechWaleTech",
+    "freelance IT services company India",
+    "BtechWaleTech team",
+    "freelance web developers India",
+    "freelance IT group",
+    "small IT team India",
+    "website development company India",
+    "freelance full stack developer India",
+    "AI automation freelancers India",
+    "SEO website design India",
+    "end to end web development",
+    "affordable website development India",
+    "remote IT services India",
+    "custom web application developers",
+    "ecommerce website developers India",
+    "website maintenance India",
+    "free website maintenance",
+    "transparent website pricing India",
+    "hire freelance engineers India",
+    "static website developers India",
+    "data science freelancers India",
+    "AWS freelancers India",
+    "project management IT India",
+    "website hosting and deployment India",
+    "IT services for small business India",
+    "startup website developers India",
+  ],
+});
 ---
 
-<BaseLayout meta={page}><h1>{page.h1}</h1><p>{page.intro}</p></BaseLayout>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">About</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="who-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="who-heading">Who we are and what we actually do</h2>
+            <p>BtechWaleTech is a group of three engineers who freelance together instead of separately. Ankur Kumar is our full stack developer and handles most of the front end and back end build work, from static marketing sites to database driven applications. Santosh Sharma works on AI and machine learning, AWS infrastructure and data science, which covers everything from cloud hosting and deployment pipelines to model integration and reporting. Vedansh Shrivastava runs project management alongside data science, AI and automation work, so scope, timelines and client communication stay with a person rather than a process document nobody reads.</p>
+            <p>Between us we cover the whole path a digital project has to travel: planning, design, development, SEO setup, hosting and deployment. That is the part most clients underestimate. Plenty of people will build you a website. Fewer will point the domain, configure the mail records, set up analytics and Search Console, submit the sitemap, check the Core Web Vitals and then still answer the phone in month four when something breaks. We treat delivery as the job, not the handover as the finish line.</p>
+          </article>
+          <article>
+            <h3>Why we started this way</h3>
+            <p>Each of us had already done freelance work individually, and the same pattern kept showing up. A client would come with a website request that quietly contained an automation problem, or a small business would need hosting help that turned into a full rebuild. Working alone, you either turn that away or you fake competence outside your lane. Neither felt right.</p>
+            <p>Grouping up solved it. Three specialisations that genuinely complement each other means a project can shift shape mid conversation without needing a new vendor. It also means nobody is a single point of failure. If one of us is heads down on a build, another can take the client call. We kept the freelance structure on purpose, because it is what keeps prices honest and decisions fast. There is no office lease to fund and no sales quota that pushes us to sell you a bigger project than you need.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="different-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="different-heading">How we differ from an agency and from a lone freelancer</h2>
+            <p>A large agency gives you range but adds layers. You speak to a salesperson, then an account manager, then eventually a junior developer who was briefed by someone who was briefed by someone. The cost of those layers lands in your invoice, and the person who understood your business best is usually not the person writing your code. Timelines stretch because the work sits in a queue behind bigger retainers.</p>
+            <p>A lone freelancer fixes the cost problem and creates a coverage problem. One person cannot be equally strong at React, AWS, SEO strategy and machine learning, and one person cannot be available when they are ill, travelling or buried in another client. Work stops and you have no fallback.</p>
+            <p>We sit deliberately between the two. You get three engineers with different specialisations, direct access to all of us, and no account layer to pay for. Our <a href="/pricing/">pricing page</a> shows the same starting figures we quote on a call, because there is nobody in between adding margin.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="philosophy-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="philosophy-heading">The way we build: static first, SEO ready, no lock-in</h2>
+            <p>Most business websites do not need a heavy content management system, a plugin stack and a monthly licence bill. They need fast pages, clean markup and content that is easy to update. So we default to static first builds using modern frameworks that ship mostly HTML and CSS to the browser. The result loads quickly on a mid range Android phone on patchy mobile data, which is how a large share of Indian traffic actually arrives. Speed is not a vanity metric here. It affects bounce rate, conversions and crawl efficiency together.</p>
+            <p>SEO is built in from the first commit rather than bolted on later. That means one clear H1 per page, a sensible heading order, unique titles and descriptions, canonical tags, structured data, internal linking that reflects real topic relationships, a working XML sitemap and a robots file that does not accidentally block half the site. Retrofitting all of that onto a finished site costs more than doing it correctly the first time.</p>
+          </article>
+          <article>
+            <h3>Honest scope and full ownership</h3>
+            <p>Before a project starts you get a written scope with a fixed starting price, a timeline, a payment split and a plain list of what is not included. If something falls outside it, we say so and quote it separately rather than absorbing it quietly and resenting it later. Scope creep hurts both sides, and pretending otherwise just produces a bad final month.</p>
+            <p>Ownership is equally simple. Your domain, hosting, repository, analytics and Search Console all live in accounts registered to you. We work inside them with access you grant and can revoke at any time. On completion you receive the source code, deployment notes and a walkthrough. Nothing is engineered to trap you. If you want to move to another developer in a year, you should be able to do it in an afternoon.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="services-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="services-heading">The full range of work we take on</h2>
+            <p>Our work sits in a few clear groups, and most projects combine two or three of them. Everything below is delivered end to end, which means we take it from the first planning conversation through design, development, SEO setup, hosting and deployment, and then maintain it free for five months after it goes live.</p>
+            <ul class="it-list">
+              <li>Static business and portfolio websites, from ₹5,000, for teams that need a fast, credible presence without a CMS to babysit.</li>
+              <li>Larger SEO focused websites, from ₹10,000 for a 30-page build handled design to deployment, with keyword mapping and schema included.</li>
+              <li>AI automation, from ₹15,000, covering chat assistants, document and data processing, lead routing and internal workflow automation.</li>
+              <li>Ecommerce stores, from ₹25,000, with payment gateway integration, product schema and a checkout flow tuned for mobile.</li>
+              <li>Custom web applications, from ₹40,000, including dashboards, booking systems, portals and internal tools with proper authentication.</li>
+              <li>Monthly SEO, from ₹5,000 per month, covering technical fixes, content, internal linking and reporting you can actually read.</li>
+              <li>Maintenance after the free five months, from ₹2,000 per month, covering updates, backups, security patches and monitoring.</li>
+            </ul>
+            <p>Final cost always depends on scope. A five page site with supplied content behaves very differently from a thirty page site where we are writing everything, and we would rather price the real thing than advertise a number we quietly walk back. Full detail sits on our <a href="/services/">services page</a>, with deeper explanations under <a href="/services/web-development/">web development</a> and <a href="/services/seo-services/">SEO services</a>.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="fit-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="fit-heading">Who we are a good fit for</h2>
+            <p>We work best with small and mid sized businesses, founders, professional practices, local service companies, educational institutions and startups who want one team to handle the whole technical side. If your current situation is a slow site nobody can edit, a developer who stopped replying, or an idea that has never left a notes app, that is squarely our territory.</p>
+            <p>We are also a good fit for people who want to understand what is being built. Clients who ask why a decision was made, who read the scope document, and who send content on time get noticeably better results, because a website is a collaboration whether or not anyone admits it. Businesses across India work with us remotely, and our <a href="/it-services/">IT services hub</a> covers the states and cities we serve most often.</p>
+          </article>
+          <article>
+            <h3>Who we are honestly not for</h3>
+            <p>Very large enterprises with formal procurement processes are not a good match. Vendor onboarding portals, multi stage tender documents, compliance questionnaires and legal negotiation cycles take months, and three freelancers cannot absorb that overhead without either raising prices unreasonably or letting other clients suffer. You will get better service from a firm structured for it.</p>
+            <p>Anyone who wants guaranteed rankings should also look elsewhere. We will not promise a position we cannot control, and anybody who does is selling you a story. Finally, if the goal is the absolute cheapest possible price with no involvement from your side, we are the wrong choice. Our prices are fair rather than rock bottom, and good work needs someone on your side who can answer questions about the business. A project where the client disappears after payment produces a website nobody wanted.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="process-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="process-heading">How an engagement runs from first message to live site</h2>
+            <p>It starts with a conversation, not a form. You tell us what the business does, who you are trying to reach and what is not working now. We ask questions, look at your existing site and competitors, and come back with a written scope that lists deliverables, timeline, starting price and payment split. Usually an advance to begin, a milestone payment mid build and the balance on going live. You approve that document before anything is written.</p>
+            <p>Then planning: sitemap, page structure, keyword mapping and a content plan showing what you supply and what we write. Design comes next, usually as a homepage and one inner page for approval so direction is settled before volume work begins. Development follows in visible stages, deployed to a preview link you can open any time rather than a mystery revealed at the end. Before launch we run the checks that matter: mobile behaviour, page speed, forms, broken links, schema validity, analytics, Search Console and the sitemap. Then we host it, point the domain and go live.</p>
+          </article>
+          <article>
+            <h3>After launch, and how we communicate</h3>
+            <p>The five months of free maintenance start when hosting goes live. During that window we handle content updates, bug fixes, security updates, backups and regular uptime and speed checks at no extra charge. It exists because problems surface in months two and three, not week one, and a client should not be paying extra to discover them. After that period you can continue from ₹2,000 per month or stop, with no automatic renewal.</p>
+            <p>Communication is deliberately plain. WhatsApp and email for day to day questions, calls when a conversation is faster than typing, and a short written update at every milestone so you always know where things stand. We work Indian Standard Time and overlap easily with clients in the Gulf, Europe and Australia, and we schedule early or late for United States hours. We reply in plain language and explain the reasoning rather than hiding behind terminology. If a request is a bad idea, we will tell you why and suggest the alternative.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="start-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="start-heading">Where to go next</h2>
+            <p>If you are still deciding, the useful next step is usually reading how we price things and what a specific service includes, then sending a short brief. You do not need a finished specification. A paragraph about the business, a rough timeline and a budget range is enough for us to reply with real questions and a realistic starting figure.</p>
+            <ul class="it-list">
+              <li><a href="/services/">Services</a> for the full list of what we build and support.</li>
+              <li><a href="/pricing/">Pricing</a> for starting figures and what changes the final number.</li>
+              <li><a href="/services/web-development/">Web development</a> for build approach, stack choices and timelines.</li>
+              <li><a href="/services/seo-services/">SEO services</a> for how monthly optimisation actually runs.</li>
+              <li><a href="/industries/">Industries</a> for the sectors we work with most often.</li>
+              <li><a href="/portfolio/">Portfolio</a> and <a href="/case-studies/">case studies</a> for examples of delivered work.</li>
+              <li><a href="/blog/">Blog</a> for practical write-ups on web performance, SEO and automation.</li>
+              <li><a href="/it-services/">IT services</a> for state and city coverage across India.</li>
+              <li><a href="/india/">India</a>, <a href="/usa/">USA</a>, <a href="/uae/">UAE</a> and <a href="/australia/">Australia</a> for regional delivery details.</li>
+              <li><a href="/terms/">Terms</a>, <a href="/privacy-policy/">privacy policy</a> and <a href="/refund-policy/">refund policy</a> for the commercial fine print.</li>
+              <li><a href="/contact/">Contact</a> to send your brief and get a written scope back.</li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions people ask before working with us</h2>
+          <p>Short, direct answers to what usually comes up in a first conversation.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what you are trying to build</h2>
+          <p>Send a short brief and we will reply with questions, a written scope and a starting price. End to end delivery, five months of free maintenance after launch, and everything owned by you.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>
