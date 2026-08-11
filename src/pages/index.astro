@@ -749,10 +749,10 @@ const locations = [
   }
 
   h1 {
-    margin-bottom: 1.3rem;
-    max-width: 12.5ch;
-    font-size: clamp(2.35rem, 4.45vw, 4.05rem);
-    line-height: 1.04;
+    margin-bottom: 1rem;
+    max-width: 15ch;
+    font-size: clamp(2.25rem, 3.75vw, 3.45rem);
+    line-height: 1.06;
   }
 
   h2 {
@@ -767,6 +767,7 @@ const locations = [
     font-weight: 480;
     letter-spacing: -0.01em;
     color: var(--teal);
+    white-space: nowrap;
   }
 
   .accent-warm {
@@ -774,10 +775,10 @@ const locations = [
   }
 
   .lede {
-    max-width: 34rem;
+    max-width: 30rem;
     color: var(--muted);
-    font-size: clamp(1.05rem, 1.8vw, 1.22rem);
-    line-height: 1.7;
+    font-size: clamp(1rem, 1.35vw, 1.12rem);
+    line-height: 1.65;
   }
 
   .eyebrow {
@@ -821,7 +822,7 @@ const locations = [
     display: flex;
     flex-wrap: wrap;
     gap: 0.85rem;
-    margin-top: 2.3rem;
+    margin-top: 1.8rem;
   }
 
   .button {
@@ -908,23 +909,24 @@ const locations = [
   /* ================= hero ================= */
   .hero {
     display: grid;
-    grid-template-columns: minmax(0, 0.9fr) minmax(20rem, 1fr);
-    gap: clamp(2rem, 6vw, 5.5rem);
+    grid-template-columns: minmax(0, 0.96fr) minmax(20rem, 0.9fr);
+    gap: clamp(2rem, 5vw, 4.5rem);
     align-items: center;
-    min-height: calc(88dvh - 4.5rem);
-    padding-top: clamp(2.5rem, 5vw, 4.5rem);
-    padding-bottom: clamp(3.5rem, 6vw, 5.5rem);
+    min-height: calc(78dvh - 4.5rem);
+    padding-top: clamp(2.2rem, 4vw, 3.5rem);
+    padding-bottom: clamp(3rem, 5vw, 4.5rem);
+    overflow: hidden;
   }
 
   .hero-copy {
-    max-width: 36rem;
+    max-width: 34rem;
   }
 
   .signal-row {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.6rem 0;
-    margin: 1.9rem 0 0;
+    gap: 0.55rem;
+    margin: 1.55rem 0 0;
     padding: 0;
     list-style: none;
     color: var(--muted);
@@ -935,12 +937,15 @@ const locations = [
   .signal-row li {
     display: inline-flex;
     align-items: center;
+    min-height: 2rem;
+    padding: 0 0.75rem;
+    border: 1px solid rgba(22, 36, 46, 0.08);
+    border-radius: 999px;
+    background: rgba(255, 255, 255, 0.58);
   }
 
   .signal-row li + li::before {
-    margin: 0 0.9rem;
-    color: rgba(22, 36, 46, 0.25);
-    content: "/";
+    content: none;
   }
 
   .globe-stage {
@@ -948,7 +953,7 @@ const locations = [
     display: grid;
     place-items: center;
     justify-self: center;
-    width: min(100%, 34rem);
+    width: min(100%, 28rem);
     aspect-ratio: 1;
     touch-action: pan-y;
   }
@@ -1512,14 +1517,16 @@ const locations = [
     .hero {
       grid-template-columns: 1fr;
       min-height: 0;
+      gap: 2rem;
+      padding-top: 2.5rem;
     }
 
     h1 {
-      max-width: 13.5ch;
+      max-width: 14.5ch;
     }
 
     .globe-stage {
-      max-width: 28rem;
+      width: min(82vw, 24rem);
       margin: 0 auto;
     }
 
@@ -1562,8 +1569,44 @@ const locations = [
     }
 
     h1 {
-      max-width: 11.5ch;
-      font-size: clamp(2.2rem, 12vw, 3.4rem);
+      max-width: 100%;
+      font-size: clamp(2.05rem, 10vw, 2.95rem);
+      line-height: 1.08;
+    }
+
+    .eyebrow {
+      font-size: 0.68rem;
+      letter-spacing: 0.1em;
+    }
+
+    .hero-actions {
+      gap: 0.65rem;
+      margin-top: 1.45rem;
+    }
+
+    .button {
+      min-height: 3rem;
+      padding-left: 1.15rem;
+      font-size: 0.92rem;
+    }
+
+    .globe-stage {
+      width: min(78vw, 20rem);
+    }
+
+    .globe-tag {
+      bottom: 0;
+      font-size: 0.72rem;
+    }
+
+    .signal-row {
+      gap: 0.45rem;
+    }
+
+    .signal-row li {
+      min-height: 1.85rem;
+      padding-inline: 0.65rem;
+      font-size: 0.78rem;
     }
 
     .service-points {
