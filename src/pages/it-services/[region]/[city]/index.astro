@@ -2,6 +2,7 @@
 import "@styles/it-services.css";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import PricingSection from "@components/sections/PricingSection.astro";
 import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
 import { cityFaqs, cityItServicesSeo } from "@lib/seo/it-services-pages";
 import {
@@ -254,6 +255,11 @@ const nearbyCities = getNearbyCities(region, city);
           </article>
         </div>
       </section>
+
+      <PricingSection
+        heading={`IT and website pricing for ${city.name}`}
+        intro={`Starting prices for businesses in ${city.name}. The final quote depends on your page count, features, and content, so you get an itemised estimate rather than a guess.`}
+      />
 
       <section class="it-section" aria-labelledby="links-heading">
         <div class="it-section-head">

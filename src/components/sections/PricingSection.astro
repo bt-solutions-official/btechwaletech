@@ -1,0 +1,39 @@
+---
+import { pricingNote, pricingPlans } from "@data/pricing/plans";
+
+interface Props {
+  heading?: string;
+  intro?: string;
+  headingId?: string;
+}
+
+const {
+  heading = "Starting prices",
+  intro = "Clear starting points so you know the ballpark before you enquire.",
+  headingId = "pricing-heading",
+} = Astro.props;
+---
+
+<section class="it-section" aria-labelledby={headingId}>
+  <div class="it-section-head">
+    <h2 id={headingId}>{heading}</h2>
+    <p class="it-section-note">{intro}</p>
+  </div>
+  <div class="it-grid">
+    {pricingPlans.map((plan) => (
+      <article class="it-card it-price-card">
+        <h3>{plan.name}</h3>
+        <p class="it-price">
+          <span class="it-price-from">from</span>
+          <span class="it-price-value">{plan.price}</span>
+          {plan.unit && <span class="it-price-unit">{plan.unit}</span>}
+        </p>
+        <p>{plan.summary}</p>
+        <ul class="it-list">
+          {plan.includes.map((item) => <li>{item}</li>)}
+        </ul>
+      </article>
+    ))}
+  </div>
+  <p class="it-price-note">{pricingNote}</p>
+</section>

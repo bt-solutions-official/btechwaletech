@@ -2,6 +2,7 @@
 import "@styles/it-services.css";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import PricingSection from "@components/sections/PricingSection.astro";
 import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
 import { nationalItServicesSeo } from "@lib/seo/it-services-pages";
 import { itServicesOfferings, itServicesRegions, regionLabel, regionPath } from "@data/it-services/locations";
@@ -94,6 +95,11 @@ const faqs = [
           ))}
         </div>
       </section>
+
+      <PricingSection
+        heading="IT and website pricing in India"
+        intro="Starting prices so you know the ballpark before you enquire. Final cost depends on pages, features, and content scope."
+      />
 
       <section class="it-section" aria-labelledby="faq-heading">
         <div class="it-section-head">

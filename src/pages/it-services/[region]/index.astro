@@ -2,6 +2,7 @@
 import "@styles/it-services.css";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import PricingSection from "@components/sections/PricingSection.astro";
 import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
 import { regionFaqs, regionItServicesSeo } from "@lib/seo/it-services-pages";
 import {
@@ -196,6 +197,11 @@ const label = regionLabel(region);
           </article>
         </div>
       </section>
+
+      <PricingSection
+        heading={`IT and website pricing in ${region.name}`}
+        intro={`Starting prices for businesses across ${region.name}. Final cost depends on scope, so you get an itemised estimate after sharing your requirement.`}
+      />
 
       <section class="it-section" aria-labelledby="faq-heading">
         <div class="it-section-head">
