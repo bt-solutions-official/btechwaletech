@@ -42,7 +42,7 @@ const page = createPageSeo({
   description:
     "Freelance IT services in India for web development, web design, SEO, ecommerce, AI automation, AI agents, data analysis, deployment, and support.",
   canonicalPath: "/",
-  h1: "Freelance IT services for websites, AI automation, data analysis, and digital growth",
+  h1: "Freelance IT services for websites, AI automation, and data analysis",
   intro:
     "BtechWaleTech is a small freelance services group helping businesses plan, design, build, deploy, optimize, and maintain practical digital systems without heavy agency overhead.",
   breadcrumbs: createBreadcrumbs([]),
@@ -207,7 +207,7 @@ const locations = [
     <div class="hero-copy">
       <p class="eyebrow load" style="--d: 0ms">India-first freelance IT services group</p>
       <h1 id="home-heading" class="load" style="--d: 90ms">
-        Freelance IT services for websites, AI automation, data analysis, and <em class="accent">digital growth</em>
+        Freelance IT services for websites, AI automation, and <em class="accent">data analysis</em>
       </h1>
       <p class="lede load" style="--d: 180ms">{page.intro}</p>
       <div class="hero-actions load" style="--d: 270ms" aria-label="Primary actions">
@@ -750,8 +750,9 @@ const locations = [
 
   h1 {
     margin-bottom: 1.3rem;
-    font-size: clamp(2.5rem, 5.4vw, 4.6rem);
-    line-height: 1.02;
+    max-width: 12.5ch;
+    font-size: clamp(2.35rem, 4.45vw, 4.05rem);
+    line-height: 1.04;
   }
 
   h2 {
@@ -907,18 +908,23 @@ const locations = [
   /* ================= hero ================= */
   .hero {
     display: grid;
-    grid-template-columns: minmax(0, 1.02fr) minmax(0, 0.98fr);
-    gap: clamp(2rem, 5vw, 4rem);
+    grid-template-columns: minmax(0, 0.9fr) minmax(20rem, 1fr);
+    gap: clamp(2rem, 6vw, 5.5rem);
     align-items: center;
-    min-height: calc(100dvh - 5.5rem);
-    padding-top: clamp(2rem, 4vw, 3.5rem);
+    min-height: calc(88dvh - 4.5rem);
+    padding-top: clamp(2.5rem, 5vw, 4.5rem);
+    padding-bottom: clamp(3.5rem, 6vw, 5.5rem);
+  }
+
+  .hero-copy {
+    max-width: 36rem;
   }
 
   .signal-row {
     display: flex;
     flex-wrap: wrap;
     gap: 0.6rem 0;
-    margin: 2.6rem 0 0;
+    margin: 1.9rem 0 0;
     padding: 0;
     list-style: none;
     color: var(--muted);
@@ -941,6 +947,9 @@ const locations = [
     position: relative;
     display: grid;
     place-items: center;
+    justify-self: center;
+    width: min(100%, 34rem);
+    aspect-ratio: 1;
     touch-action: pan-y;
   }
 
@@ -965,7 +974,7 @@ const locations = [
 
   .globe-tag {
     position: absolute;
-    bottom: 2%;
+    bottom: 4%;
     z-index: 2;
     padding: 0.5rem 1rem;
     border: 1px solid var(--hairline);
@@ -1045,8 +1054,8 @@ const locations = [
   /* ================= services bento ================= */
   .bento {
     display: grid;
-    grid-template-columns: repeat(12, minmax(0, 1fr));
-    gap: 0.9rem;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 1rem;
   }
 
   .card,
@@ -1093,16 +1102,10 @@ const locations = [
     opacity: 1;
   }
 
-  .card-lg {
-    grid-column: span 7;
-  }
-
-  .card-md {
-    grid-column: span 5;
-  }
-
+  .card-lg,
+  .card-md,
   .card-sm {
-    grid-column: span 3;
+    grid-column: auto;
   }
 
   .card h3 {
@@ -1116,7 +1119,7 @@ const locations = [
   }
 
   .card-lg h3 {
-    font-size: clamp(1.5rem, 2.6vw, 2.1rem);
+    font-size: clamp(1.25rem, 2vw, 1.65rem);
   }
 
   .card p {
@@ -1155,10 +1158,6 @@ const locations = [
     content: "";
   }
 
-  .card-sm .service-points {
-    grid-template-columns: 1fr;
-  }
-
   .card-arrow {
     position: absolute;
     right: 1.3rem;
@@ -1193,8 +1192,9 @@ const locations = [
   }
 
   .card-lg .card-core,
-  .card-md .card-core {
-    min-height: 12rem;
+  .card-md .card-core,
+  .card-sm .card-core {
+    min-height: 18rem;
   }
 
   /* ================= static vs dynamic ================= */
@@ -1514,18 +1514,13 @@ const locations = [
       min-height: 0;
     }
 
+    h1 {
+      max-width: 13.5ch;
+    }
+
     .globe-stage {
-      max-width: 30rem;
+      max-width: 28rem;
       margin: 0 auto;
-    }
-
-    .card-lg,
-    .card-md {
-      grid-column: span 12;
-    }
-
-    .card-sm {
-      grid-column: span 6;
     }
 
     .build-grid {
@@ -1535,6 +1530,18 @@ const locations = [
     .stat-band {
       grid-template-columns: 1fr 1fr;
       gap: 2rem 1rem;
+    }
+  }
+
+  @media (max-width: 760px) {
+    .bento {
+      grid-template-columns: 1fr;
+    }
+
+    .card-lg .card-core,
+    .card-md .card-core,
+    .card-sm .card-core {
+      min-height: 0;
     }
   }
 
@@ -1554,8 +1561,13 @@ const locations = [
       grid-template-columns: 1fr;
     }
 
-    .card-sm {
-      grid-column: span 12;
+    h1 {
+      max-width: 11.5ch;
+      font-size: clamp(2.2rem, 12vw, 3.4rem);
+    }
+
+    .service-points {
+      grid-template-columns: 1fr;
     }
 
     .build-points {
