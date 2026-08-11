@@ -46,12 +46,8 @@ const columns = [
   },
 ];
 
-const socials = [
-  ["LinkedIn", "#"],
-  ["Instagram", "#"],
-  ["X / Twitter", "#"],
-  ["GitHub", "#"],
-];
+/* Social profiles are intentionally omitted until real URLs exist —
+   placeholder "#" links are dead ends for users and crawlers. */
 ---
 
 <footer class="site-footer">
@@ -66,10 +62,9 @@ const socials = [
           Freelance IT services for websites, software, SEO, AI automation, and data workflows - built in India,
           delivered worldwide.
         </p>
-        <ul class="footer-social" aria-label="Social links">
-          {socials.map(([name, href]) => (
-            <li><a href={href} rel="noopener">{name}</a></li>
-          ))}
+        <ul class="footer-social" aria-label="Contact">
+          <li><a href={siteContact.emailHref}>{siteContact.email}</a></li>
+          <li><a href={siteContact.phoneHref}>{siteContact.phone}</a></li>
         </ul>
       </div>
 

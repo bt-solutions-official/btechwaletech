@@ -469,6 +469,20 @@ export const itServicesRegions: ItServicesRegion[] = [
     ],
   },
   {
+    name: "Delhi",
+    slug: "delhi",
+    type: "union-territory",
+    intro: "Delhi is one of India's densest business markets, covering trade, professional services, education, healthcare, hospitality, startups, and government-adjacent work.",
+    businessContext: "Competition for search visibility in Delhi is high, so businesses need well-structured websites, genuine local relevance, and systems that convert enquiries rather than just look presentable.",
+    cities: [
+      city("New Delhi", "new-delhi", "The central business and institutional district where consultancies, professional firms, and established businesses need credible, fast websites.", ["Corporate websites", "Professional service pages", "Lead capture"]),
+      city("Dwarka", "dwarka", "A large residential and commercial sub-city where clinics, institutes, retailers, and local service providers compete for nearby customers.", ["Local SEO", "Clinic and institute websites", "Booking flows"]),
+      city("Rohini", "rohini", "A dense North Delhi market where coaching centres, healthcare providers, and retailers rely on local discovery.", ["Local landing pages", "Admission enquiry flows", "Mobile-first websites"]),
+      city("Saket", "saket", "A South Delhi commercial and retail hub where hospitality, wellness, and premium services need polished digital presence.", ["Brand websites", "Booking and enquiry", "Ecommerce"]),
+      city("Nehru Place", "nehru-place", "A major IT and electronics trade centre where B2B suppliers and technology resellers need catalogues and quotation flows.", ["B2B websites", "Product catalogues", "Quotation systems"]),
+    ],
+  },
+  {
     name: "Jammu and Kashmir",
     slug: "jammu-and-kashmir",
     type: "union-territory",

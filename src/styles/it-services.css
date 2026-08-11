@@ -331,15 +331,35 @@
   background: #ffffff;
 }
 
-/* a lone article spans the full row instead of leaving a gap beside it */
-.it-text-block article:only-child {
+/* Any article that would be left alone on its final row spans the full width,
+   so an odd count never leaves an empty half-row beside it. */
+.it-text-block article:last-child:nth-child(odd) {
   grid-column: 1 / -1;
 }
 
-.it-text-block article:only-child p,
-.it-text-block article:only-child h2,
-.it-text-block article:only-child h3 {
-  max-width: 68ch;
+/* Full-width articles flow their body text in two columns so the row is filled
+   instead of leaving dead space on the right, while keeping line length readable. */
+.it-text-block article:last-child:nth-child(odd) > p,
+.it-text-block article:last-child:nth-child(odd) > ul {
+  margin-top: 0;
+}
+
+@media (min-width: 62rem) {
+  .it-text-block article:last-child:nth-child(odd) {
+    column-count: 2;
+    column-gap: 2.5rem;
+  }
+
+  .it-text-block article:last-child:nth-child(odd) > h2,
+  .it-text-block article:last-child:nth-child(odd) > h3 {
+    column-span: all;
+  }
+
+  .it-text-block article:last-child:nth-child(odd) > p,
+  .it-text-block article:last-child:nth-child(odd) > ul {
+    margin-bottom: 0.95rem;
+    break-inside: avoid;
+  }
 }
 
 .it-text-block h3 {
