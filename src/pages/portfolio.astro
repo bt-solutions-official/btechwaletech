@@ -14,6 +14,7 @@ const team = [
     batch: "2025 batch",
     initials: "AK",
     focus: "Full stack developer",
+    linkedin: "https://www.linkedin.com/in/ankur-kumar-74061b234/",
     body:
       "Handles both ends of the build: frontend interfaces and the backend, databases, and APIs underneath them. Takes a page structure through to a working, responsive site or web application, then deploys it with hosting, domains, and production checks in place.",
   },
@@ -23,6 +24,7 @@ const team = [
     batch: "2025 batch",
     initials: "SS",
     focus: "AI/ML engineer, AWS and data science",
+    linkedin: "https://www.linkedin.com/in/santosh-sharma-ai/",
     body:
       "Works on machine learning and AI systems, cloud infrastructure and deployment on AWS, and the data science side of projects. Also plans site architecture and technical SEO, so search engines and people can both navigate what gets built.",
   },
@@ -32,6 +34,7 @@ const team = [
     batch: "2024 batch",
     initials: "VS",
     focus: "Project manager, data science, AI and automation",
+    linkedin: "https://www.linkedin.com/in/vedanshs22/",
     body:
       "Runs the project side: scope, milestones, and keeping delivery on schedule. Also builds the AI and automation layer, along with the data science work that turns scattered spreadsheets into dashboards and reporting a manager can act on.",
   },
@@ -115,7 +118,7 @@ const faqs = [
   },
   {
     question: "How do I start a project?",
-    answer: `Email ${siteContact.email} or call ${siteContact.phone} with your goal, the type of project, a rough timeline, and any existing website. You get a scope summary and an itemised estimate rather than a sales call.`,
+    answer: `Email ${siteContact.email} or message us on WhatsApp at ${siteContact.phone} with your goal, the type of project, a rough timeline, and any existing website. You get a scope summary and an itemised estimate rather than a sales call.`,
   },
 ];
 
@@ -163,6 +166,7 @@ const teamSchema = {
     "@type": "Person",
     name: member.name,
     jobTitle: member.focus,
+    sameAs: [member.linkedin],
     alumniOf: {
       "@type": "EducationalOrganization",
       name: "B.Tech Computer Science and Engineering",
@@ -183,8 +187,8 @@ const teamSchema = {
         <div class="it-contact-block">
           <p class="it-contact-lead">Contact us and share your project idea</p>
           <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
           </div>
         </div>
       </section>
@@ -208,6 +212,9 @@ const teamSchema = {
                 <span class="it-team-batch">{member.batch}</span>
               </p>
               <p>{member.body}</p>
+              <a class="it-team-link" href={member.linkedin} target="_blank" rel="noopener noreferrer">
+                LinkedIn profile
+              </a>
             </article>
           ))}
         </div>
@@ -354,8 +361,8 @@ const teamSchema = {
             and what it would cost.
           </p>
           <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
           </div>
           <div class="it-trust-links">
             <a href="/contact/">Contact page</a>
@@ -425,5 +432,18 @@ const teamSchema = {
     font-weight: 700;
     letter-spacing: 0.12em;
     text-transform: uppercase;
+  }
+
+  .it-team-link {
+    display: inline-flex;
+    align-items: center;
+    margin-top: 1rem;
+    color: #12907c;
+    font-weight: 700;
+  }
+
+  .it-team-link:hover,
+  .it-team-link:focus-visible {
+    text-decoration: underline;
   }
 </style>

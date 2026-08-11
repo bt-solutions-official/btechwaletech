@@ -1,4 +1,4 @@
-import { siteBrand, siteContact } from "@data/site/site-config";
+import { siteBrand, siteContact, teamSocialProfiles } from "@data/site/site-config";
 import type { BreadcrumbItem, FaqItem, SeoMeta } from "@app-types/seo";
 import { canonicalUrl } from "@lib/urls/url-utils";
 
@@ -10,6 +10,7 @@ export function organizationSchema() {
     url: siteBrand.domain,
     email: siteContact.email,
     telephone: siteContact.phone,
+    sameAs: [...teamSocialProfiles],
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "customer support",

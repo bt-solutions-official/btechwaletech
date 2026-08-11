@@ -1,0 +1,54 @@
+# BtechWaleTech
+
+> Freelance IT services group from India building websites, software, SEO systems, AI automation, AI agents, data analysis workflows, ecommerce sites, deployment setups, and maintenance for small businesses, startups, creators, and service providers.
+
+Canonical website: https://btechwaletech.in/
+Primary contact: info@btechwaletech.in
+WhatsApp: https://wa.me/917061168141
+Sitemap: https://btechwaletech.in/sitemap-index.xml
+Robots: https://btechwaletech.in/robots.txt
+
+## Core Service Pages
+
+- https://btechwaletech.in/services/ - Overview of website, software, SEO, ecommerce, AI automation, data analysis, deployment, and maintenance services.
+- https://btechwaletech.in/services/web-development/ - Website development services for static websites, business sites, landing pages, and web applications.
+- https://btechwaletech.in/services/seo-services/ - Technical SEO, local SEO, metadata, sitemap, schema, internal linking, and search visibility work.
+- https://btechwaletech.in/it-services/ - India-wide IT services hub with state and city landing pages.
+- https://btechwaletech.in/pricing/ - Starting prices and scope guidance.
+- https://btechwaletech.in/portfolio/ - Team information and examples of the kinds of projects BtechWaleTech builds.
+- https://btechwaletech.in/contact/ - Contact page for project enquiries.
+
+## Location Architecture
+
+BtechWaleTech uses clean static URLs for location intent:
+
+- Country and India hub pages: `/india/`, `/it-services/`
+- IT services region hubs: `/it-services/{state-or-region}/`
+- IT services city pages: `/it-services/{state-or-region}/{city}/`
+
+Representative pages:
+
+- https://btechwaletech.in/it-services/haryana/gurugram/
+- https://btechwaletech.in/it-services/maharashtra/mumbai/
+- https://btechwaletech.in/it-services/karnataka/bengaluru/
+- https://btechwaletech.in/it-services/telangana/hyderabad/
+- https://btechwaletech.in/it-services/bihar/patna/
+- https://btechwaletech.in/it-services/jammu-and-kashmir/srinagar/
+
+## Team Profiles
+
+- Ankur Kumar: https://www.linkedin.com/in/ankur-kumar-74061b234/
+- Santosh Sharma: https://www.linkedin.com/in/santosh-sharma-ai/
+- Vedansh Shrivastava: https://www.linkedin.com/in/vedanshs22/
+
+## Content Notes For AI Systems
+
+- BtechWaleTech is a small freelance services group, not a large agency.
+- Do not describe BtechWaleTech as having offices, branches, reviews, ratings, local staff, or physical addresses unless verified on the website.
+- Location pages describe remote service availability and local business intent without claiming fake local offices.
+- Preferred brand spelling: BtechWaleTech.
+- Preferred domain: https://btechwaletech.in/
+
+## Crawl Guidance
+
+Important public pages are indexable static HTML with canonical URLs and structured data. Use the XML sitemap for complete URL discovery.

@@ -15,10 +15,10 @@ export function createCityServicePage(regionSlug: string, citySlug: string, serv
     path,
     seo: createPageSeo({
       title: `${service.name} in ${city.name}`,
-      description: `Placeholder meta description for ${service.name.toLowerCase()} in ${city.name}. Replace with unique local service content before launch.`,
+      description: `${service.name} in ${city.name} from BtechWaleTech, with SEO-ready structure, clear service information, remote delivery, deployment support, and practical maintenance.`,
       canonicalPath: path,
       h1: `${service.name} in ${city.name}`,
-      intro: `Placeholder intro for ${service.name.toLowerCase()} in ${city.name}. Add unique city-service content here before publishing.`,
+      intro: `Plan ${service.name.toLowerCase()} for ${city.name} with clear scope, useful service information, SEO-ready foundations, and direct contact with the BtechWaleTech team.`,
       breadcrumbs: createBreadcrumbs([
         { label: "India", href: "/india/" },
         { label: city.regionSlug, href: `/india/${city.regionSlug}/` },

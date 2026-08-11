@@ -92,8 +92,8 @@ const page = createPageSeo({
         <div class="it-contact-block">
           <p class="it-contact-lead">Contact us and share your project idea</p>
           <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
           </div>
         </div>
       </section>
@@ -102,7 +102,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="reach-heading">How To Reach BtechWaleTech</h2>
-            <p>There are two ways in, and both land with the same three people. Email is best for anything with detail attached: a page list, a screenshot of a competitor site, a spreadsheet of products, a half-written brief. Write to <a href={siteContact.emailHref}>{siteContact.email}</a> and you will have a written trail from the very first message, which matters later when we are agreeing scope. Phone or WhatsApp on <a href={siteContact.phoneHref}>{siteContact.phone}</a> suits quick questions: are you free in September, do you build in WordPress or Astro, is ₹15,000 realistic for what I described. Call during Indian business hours where you can, and if we are heads-down in a build we will call back the same day.</p>
+            <p>There are two ways in, and both land with the same three people. Email is best for anything with detail attached: a page list, a screenshot of a competitor site, a spreadsheet of products, a half-written brief. Write to <a href={siteContact.emailHref}>{siteContact.email}</a> and you will have a written trail from the very first message, which matters later when we are agreeing scope. WhatsApp on <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a> suits quick questions: are you free in September, do you build in WordPress or Astro, is ₹15,000 realistic for what I described. Message during Indian business hours where you can, and if we are heads-down in a build we will reply the same day.</p>
             <p>We do not run a call centre and there is no account manager who takes your brief and passes it along. The person who reads your email is the person who will estimate the job and, in most cases, write the code. That keeps the conversation short and the answers accurate. It also means we occasionally say no. If your project needs a team of ten, a native mobile app, or a technology none of us has shipped, we will tell you plainly rather than learn on your budget.</p>
           </article>
         </div>
@@ -228,8 +228,8 @@ const page = createPageSeo({
           <h2>Send Us The Rough Version Of Your Idea</h2>
           <p>It does not need to be tidy. Tell us the goal, roughly what pages or features you imagine, when you want it live, and what you can spend. You will get a real reply, a free scope note, and an itemised estimate, with five months of maintenance included free once the site goes live.</p>
           <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
           </div>
           <div class="it-trust-links">
             <a href="/about/">About</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>

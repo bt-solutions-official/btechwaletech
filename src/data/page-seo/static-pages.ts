@@ -7,7 +7,7 @@ export function staticPage(path: string, title: string, h1 = title): PageSeoConf
   return {
     ...createBasicSeo(path, title, h1),
     breadcrumbs: createBreadcrumbs(path === "/" ? [] : [{ label: h1, href: path }]),
-    intro: "Placeholder page body. Add final content before launch.",
+    intro: "BtechWaleTech provides freelance IT services for websites, SEO, software, AI automation, data analysis, ecommerce, deployment, and maintenance.",
   };
 }
 
@@ -17,10 +17,10 @@ export function indiaRegionPage(regionSlug: string): PageSeoConfig {
 
   return createPageSeo({
     title: `Digital Services in ${region.name}`,
-    description: `Placeholder meta description for Btechwale services in ${region.name}. Replace with unique regional content before launch.`,
+    description: `Digital and IT services in ${region.name} from BtechWaleTech, including website development, SEO, software, AI automation, data analysis, ecommerce, deployment, and support.`,
     canonicalPath: region.path,
     h1: `Digital Services in ${region.name}`,
-    intro: `Placeholder intro for ${region.name}. Add unique regional content, cities, services, FAQs, and internal links here.`,
+    intro: `Explore BtechWaleTech digital and IT services in ${region.name}, with clean page structure, service information, contact paths, and internal links ready for location-specific growth.`,
     breadcrumbs: createBreadcrumbs([
       { label: "India", href: "/india/" },
       { label: region.name, href: region.path },
@@ -30,9 +30,11 @@ export function indiaRegionPage(regionSlug: string): PageSeoConfig {
 
 export const indiaPageSeo = createPageSeo({
   title: "Digital Services in India",
-  description: "Placeholder meta description for Btechwale India. Replace with country-level SEO content before launch.",
+  description:
+    "Digital and IT services in India from BtechWaleTech, including website development, SEO, software, AI automation, data analysis, ecommerce, deployment, and support.",
   canonicalPath: "/india/",
   h1: "Digital Services in India",
-  intro: "Placeholder India overview. Add original country-level content and internal links before launch.",
+  intro:
+    "BtechWaleTech provides freelance digital and IT services across India with static-first websites, structured SEO pages, software, automation, data analysis, deployment, and support.",
   breadcrumbs: createBreadcrumbs([{ label: "India", href: "/india/" }]),
 });

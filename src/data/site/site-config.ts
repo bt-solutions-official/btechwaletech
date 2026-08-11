@@ -1,19 +1,25 @@
 import type { SiteBrand, SiteNavigationItem } from "@app-types/site";
 
 export const siteBrand: SiteBrand = {
-  name: "Btechwale",
+  name: "BtechWaleTech",
   domain: "https://btechwaletech.in",
   defaultLocale: "en_IN",
   supportedLocales: ["en_IN"],
 };
 
 export const siteDefaults = {
-  titleTemplate: "%s | Btechwale",
-  defaultTitle: "Btechwale",
+  titleTemplate: "%s | BtechWaleTech",
+  defaultTitle: "BtechWaleTech",
   defaultDescription:
-    "Placeholder description for Btechwale digital, IT, and freelancing services. Replace before launch.",
+    "BtechWaleTech provides freelance IT services for websites, software, SEO, AI automation, data analysis, ecommerce, deployment, and support.",
   defaultOgImage: "/banner_logo.png",
 };
+
+export const teamSocialProfiles = [
+  "https://www.linkedin.com/in/ankur-kumar-74061b234/",
+  "https://www.linkedin.com/in/santosh-sharma-ai/",
+  "https://www.linkedin.com/in/vedanshs22/",
+] as const;
 
 export const siteContact = {
   email: "info@btechwaletech.in",

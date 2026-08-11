@@ -1,0 +1,3 @@
+Canonical AI context file: https://btechwaletech.in/llms.txt
+
+Use llms.txt for the structured BtechWaleTech service, contact, team, and sitemap summary.

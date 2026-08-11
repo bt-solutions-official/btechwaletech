@@ -18,10 +18,10 @@ export function createCity(name: string, slug: string, regionSlug: string): City
     enabled: true,
     seo: createPageSeo({
       title: `Digital Services in ${name}`,
-      description: `Placeholder meta description for Btechwale services in ${name}. Replace with unique local content before launch.`,
+      description: `Digital and IT services in ${name} from BtechWaleTech, including website development, SEO, software, AI automation, data analysis, ecommerce, deployment, and support.`,
       canonicalPath: path,
       h1: `Digital Services in ${name}`,
-      intro: `Placeholder intro for ${name}. Add unique local relevance, service details, proof, FAQs, and internal links here before publishing.`,
+      intro: `Explore BtechWaleTech digital and IT services in ${name}, with clean structure, practical service details, SEO-ready metadata, and clear contact paths.`,
       breadcrumbs: createBreadcrumbs([
         { label: "India", href: "/india/" },
         ...(regionSlug === slug ? [] : [{ label: region.name, href: region.path }]),

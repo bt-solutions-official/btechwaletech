@@ -94,8 +94,8 @@ const page = createPageSeo({
         <div class="it-contact-block">
           <p class="it-contact-lead">Contact us and share your project idea</p>
           <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
           </div>
         </div>
       </section>
@@ -188,7 +188,7 @@ const page = createPageSeo({
           <article>
             <h2 id="rights-heading">Your rights and how to exercise them</h2>
             <p>You can ask us for a copy of the personal data we hold about you, ask us to correct anything inaccurate, ask us to delete it, object to a particular use, ask us to restrict processing while a question is resolved, or withdraw a consent you previously gave. Withdrawing consent does not undo anything done lawfully before you withdrew it, and if you withdraw consent while we are mid-project we may not be able to continue the work.</p>
-            <p>To exercise any of these, email <a href={siteContact.emailHref}>{siteContact.email}</a> with "Privacy request" in the subject line and say plainly what you want. You may also call <a href={siteContact.phoneHref}>{siteContact.phone}</a>, though we will ask for the request in writing so there is a record of it. We acknowledge requests within seven working days and complete them within thirty days. There is no charge. We may ask one verification question so we do not hand your data to someone else pretending to be you. If we cannot fulfil part of a request, we will tell you which part and why.</p>
+            <p>To exercise any of these, email <a href={siteContact.emailHref}>{siteContact.email}</a> with "Privacy request" in the subject line and say plainly what you want. You may also message us on <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">WhatsApp</a>, though we will ask for the request in writing so there is a record of it. We acknowledge requests within seven working days and complete them within thirty days. There is no charge. We may ask one verification question so we do not hand your data to someone else pretending to be you. If we cannot fulfil part of a request, we will tell you which part and why.</p>
           </article>
         </div>
       </section>
@@ -222,7 +222,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="contact-heading">Contact for privacy questions and complaints</h2>
-            <p>Privacy questions, data requests and complaints all go to the same place: <a href={siteContact.emailHref}>{siteContact.email}</a>, or call <a href={siteContact.phoneHref}>{siteContact.phone}</a>. There is no separate privacy department to route you through. If you are unhappy with how we handled a request, reply and say so, and one of the three of us will look at it again. You also retain the right to complain to the relevant data protection authority in your country.</p>
+            <p>Privacy questions, data requests and complaints all go to the same place: <a href={siteContact.emailHref}>{siteContact.email}</a>, or <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">WhatsApp us</a>. There is no separate privacy department to route you through. If you are unhappy with how we handled a request, reply and say so, and one of the three of us will look at it again. You also retain the right to complain to the relevant data protection authority in your country.</p>
             <p>If you are here to plan a project rather than to file a request, the practical details live elsewhere on the site. Our <a href="/services/">services page</a> lists what we build, and pricing starts from ₹5,000 for a static website, ₹10,000 for a 30-page SEO website taken from design to deployment, ₹15,000 for AI automation, ₹25,000 for ecommerce and ₹40,000 for a custom web application. Monthly SEO starts from ₹5,000 per month and maintenance beyond the five free months is from ₹2,000 per month. Final cost always depends on scope, so send us the details and we will quote properly.</p>
           </article>
         </div>
@@ -271,8 +271,8 @@ const page = createPageSeo({
           <h2>Have a privacy question, or a project to discuss?</h2>
           <p>Write to us either way. Data requests are answered within seven working days, and project enquiries usually get a reply the same day with a clear scope and a written starting price.</p>
           <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
           </div>
           <div class="it-trust-links">
             <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>

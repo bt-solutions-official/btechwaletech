@@ -19,10 +19,12 @@ const ogImageUrl = new URL(ogImage, siteBrand.domain).toString();
 <title>{title}</title>
 <meta name="description" content={meta.description} />
 <meta name="robots" content={meta.robots} />
+<meta name="googlebot" content={meta.robots} />
 {meta.keywords && meta.keywords.length > 0 && (
   <meta name="keywords" content={meta.keywords.join(", ")} />
 )}
 <link rel="canonical" href={canonical} />
+<link rel="sitemap" type="application/xml" href="/sitemap-index.xml" />
 <link rel="icon" href="/mainlogo.png" type="image/png" />
 <link rel="apple-touch-icon" href="/mainlogo.png" />
 <meta property="og:site_name" content={siteBrand.name} />
