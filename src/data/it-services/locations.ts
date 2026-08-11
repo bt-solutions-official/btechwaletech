@@ -381,7 +381,7 @@ export const itServicesRegions: ItServicesRegion[] = [
       city("Namchi", "namchi", "A tourism and local services market where clear pages can help visitors and residents take action.", ["Tour pages", "Service websites", "Contact forms"]),
       city("Singtam", "singtam", "A local trade centre where small businesses can use mobile-first websites and enquiry systems.", ["Mobile websites", "Lead forms", "Updates"]),
       city("Rangpo", "rangpo", "A gateway town where logistics, hospitality, and services need practical online visibility.", ["Service pages", "Business websites", "SEO basics"]),
-      city("Gyalshing", "gyalshing", "A tourism and local business area where lightweight websites can improve discovery.", ["Tourism pages", "Local SEO", "Maintenance"]),
+      city("Gyalshing", "gayzing", "A tourism and local business area where lightweight websites can improve discovery.", ["Tourism pages", "Local SEO", "Maintenance"]),
     ],
   },
   {
@@ -394,7 +394,7 @@ export const itServicesRegions: ItServicesRegion[] = [
       city("Chennai", "chennai", "A major IT, manufacturing, healthcare, and services hub where businesses need credible websites and digital systems.", ["Corporate websites", "Web apps", "SEO strategy"]),
       city("Coimbatore", "coimbatore", "A manufacturing and SME market where B2B websites and automation can support growth.", ["B2B websites", "Automation", "Dashboards"]),
       city("Madurai", "madurai", "A tourism, education, and services city where local SEO and mobile-first pages help discovery.", ["Local SEO", "Tourism pages", "Service websites"]),
-      city("Tiruchirappalli", "tiruchirappalli", "An education and industrial market where websites and workflow tools can support operations.", ["Institution websites", "Business tools", "Lead forms"]),
+      city("Tiruchirappalli", "trichy", "An education and industrial market where websites and workflow tools can support operations.", ["Institution websites", "Business tools", "Lead forms"]),
       city("Salem", "salem", "A trade and manufacturing city where product pages, ecommerce, and B2B enquiries matter.", ["Catalogues", "Ecommerce", "B2B pages"]),
     ],
   },

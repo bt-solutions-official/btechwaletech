@@ -53,10 +53,12 @@ const nearbyCities = getNearbyCities(region, city);
         <p class="it-eyebrow">Local IT services</p>
         <h1>{page.h1}</h1>
         <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-actions">
-          <a class="it-button it-button-primary" href="/contact/">Contact for {city.name}</a>
-          <a class="it-button it-button-secondary" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
-          <a class="it-button it-button-secondary" href={regionPath(region)}>IT services in {region.name}</a>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
         </div>
       </section>
 
@@ -158,6 +160,101 @@ const nearbyCities = getNearbyCities(region, city);
         </div>
       </section>
 
+      <section class="it-section" aria-labelledby="web-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="web-heading">Website development for {city.name} businesses</h2>
+            <p>
+              Most projects in {city.name} begin with the website, because it is the one asset every other channel
+              points back to. A search result, a printed card, a WhatsApp message, or a listing profile all end with
+              someone opening your site and deciding within a few seconds whether your business looks credible.
+            </p>
+            <p>
+              There are two broad routes. A static website renders as plain HTML, loads almost instantly, costs very
+              little to host, and is the right answer for business sites, service pages, portfolios, and content that
+              changes occasionally. A dynamic website or web application adds logins, databases, dashboards, bookings,
+              payments, or admin panels, and is the right answer when your business runs on data and workflows rather
+              than pages. We help you pick before any code is written, because rebuilding on the wrong foundation is
+              the most expensive mistake in this work.
+            </p>
+            <p>
+              Every build includes responsive layouts that work on the phones most visitors actually use, semantic
+              HTML that search engines can read, sensible page speed, title and description tags for each page, a
+              sitemap, schema markup, and a clean deployment. Those are foundations, not extras, so they are not
+              billed as an upgrade. The <a href="/services/web-development/">web development service page</a> has the
+              full breakdown of what is included.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="local-seo-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="local-seo-heading">Local SEO and search visibility in {city.name}</h2>
+            <p>
+              Being online is not the same as being findable. Local search work makes your business appear when someone
+              nearby searches for what you sell, and it rests on a few unglamorous fundamentals: a properly filled
+              Google Business Profile, business details that match everywhere they appear, service pages written around
+              what people actually type, and a site structure search engines can crawl without getting lost.
+            </p>
+            <p>
+              For {city.name}, that usually means separate pages for each service you want to be found for rather than
+              one page listing everything, genuine detail on those pages instead of thin copy, internal links that
+              connect related pages, and technical hygiene such as canonical tags, redirects, and fast mobile
+              performance. Results build over months, not days. Anyone promising a first-place ranking by a fixed date
+              is guessing. Our <a href="/services/seo-services/">SEO services page</a> explains the audit, the on-page
+              work, and how progress gets measured in Search Console.
+            </p>
+          </article>
+          <article>
+            <h3>Automation, software, and data work in {city.name}</h3>
+            <p>
+              Once the website earns enquiries, the next bottleneck is usually operations. Teams end up re-typing the
+              same information between forms, spreadsheets, invoices, and follow-up messages. Automation removes that
+              repetition by connecting the tools you already use, so an enquiry can land, get logged, trigger a reply,
+              and appear in a report without anyone copying anything by hand.
+            </p>
+            <p>
+              Beyond automation we build custom tools where off-the-shelf software does not fit: admin panels, internal
+              dashboards, quotation systems, booking flows, inventory views, and reporting that turns raw spreadsheets
+              into something a manager can actually read. AI agents fit here too, handling defined tasks such as
+              sorting enquiries, drafting replies, or pulling information out of documents. The test is always whether
+              it saves real hours, not whether it sounds impressive.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cost-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="cost-heading">Cost, timelines, and how projects run</h2>
+            <p>
+              Pricing follows scope rather than city. What moves the number is the page count, whether the site is
+              static or dynamic, how many custom features and integrations you need, how much content has to be
+              written, and how deep the SEO work goes. A small static business site is the entry point. A larger
+              multi-page site with service and location pages sits in the middle. Custom applications, ecommerce
+              builds, and automation systems sit higher because they involve more moving parts and more testing.
+            </p>
+            <p>
+              Timelines follow the same logic. A straightforward static site is usually a one to three week build once
+              content is ready. A larger SEO-focused site runs three to six weeks. Software, ecommerce, and automation
+              projects get planned in milestones so you review working pieces along the way rather than waiting until
+              the end. Content readiness is the single biggest cause of delay, so we agree early on who is writing
+              what.
+            </p>
+            <p>
+              Work is remote and organised around clear checkpoints: requirement notes, a scope summary, review points
+              during the build, and a handover at launch. There is no local office in {city.name} and this site does
+              not pretend otherwise. What you get instead is direct contact with the people doing the work, and pricing
+              that is not carrying agency overhead. The <a href="/pricing/">pricing page</a> sets out indicative ranges
+              and what falls outside a quote.
+            </p>
+          </article>
+        </div>
+      </section>
+
       <section class="it-section" aria-labelledby="links-heading">
         <div class="it-section-head">
           <h2 id="links-heading">Related IT services and locations</h2>
@@ -206,10 +303,9 @@ const nearbyCities = getNearbyCities(region, city);
             software, AI automation, SEO, ecommerce, data analysis, deployment, and maintenance for businesses in
             {` ${city.name}, ${region.name}`}.
           </p>
-          <div class="it-actions">
-            <a class="it-button it-button-secondary" href="/contact/">Contact BtechWaleTech</a>
-            <a class="it-button it-button-secondary" href={siteContact.emailHref}>{siteContact.email}</a>
-            <a class="it-button it-button-secondary" href={siteContact.phoneHref}>{siteContact.phone}</a>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
           </div>
           <div class="it-trust-links">
             <a href={regionPath(region)}>IT services in {region.name}</a>

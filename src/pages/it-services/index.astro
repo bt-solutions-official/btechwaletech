@@ -46,10 +46,12 @@ const faqs = [
         <p class="it-eyebrow">India IT services</p>
         <h1>{page.h1}</h1>
         <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-actions">
-          <a class="it-button it-button-primary" href="/contact/">Discuss an IT project</a>
-          <a class="it-button it-button-secondary" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
-          <a class="it-button it-button-secondary" href="/services/">View service pages</a>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
         </div>
       </section>
 
@@ -114,10 +116,9 @@ const faqs = [
             Share your requirement and location. BtechWaleTech can help with websites, software, AI automation, SEO,
             ecommerce, data workflows, deployment, and maintenance.
           </p>
-          <div class="it-actions">
-            <a class="it-button it-button-secondary" href="/contact/">Contact BtechWaleTech</a>
-            <a class="it-button it-button-secondary" href={siteContact.emailHref}>{siteContact.email}</a>
-            <a class="it-button it-button-secondary" href={siteContact.phoneHref}>{siteContact.phone}</a>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
           </div>
           <div class="it-trust-links">
             <a href="/terms/">Terms</a>

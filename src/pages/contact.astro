@@ -1,93 +1,351 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import { staticPage } from "@data/page-seo/static-pages";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
 import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/contact/", "Contact Btechwale");
+const faqs = [
+  {
+    question: "How quickly will I get a reply after I contact BtechWaleTech?",
+    answer:
+      "Most enquiries get a first reply within one working day. If you write over a weekend or a public holiday, expect the reply on the next working day. The first response is a real answer from the person who would do the work, not an automated acknowledgement. If your message includes your goal, your page list and a rough timeline, that first reply usually already contains a scope view and a price range.",
+  },
+  {
+    question: "Do I need a finished brief before I email you?",
+    answer:
+      "No. A short paragraph in plain language is enough to start. Tell us what the business does, what you want the website or software to achieve, and when you would like it live. If you have a document, a slide deck, a competitor link or a rough sketch, send it. If you have nothing written down, we will ask a short set of questions instead and shape the brief together during the first call.",
+  },
+  {
+    question: "Can we start with something small before committing to a full project?",
+    answer:
+      "Yes, and it is often the sensible route. Many clients begin with a single landing page, a technical SEO fix, one automation, or a small dashboard, then extend once they have seen how the work runs. Starting small keeps your risk low and gives both sides a real sample of communication and delivery quality before a larger scope and a larger budget are agreed.",
+  },
+  {
+    question: "Will you sign an NDA before I share my project details?",
+    answer:
+      "Yes. If your project involves unreleased products, internal data, customer records or anything else you would rather keep private, send your NDA and we will review and sign it before detailed discussion. If you do not have a document ready, say so in your first email and share only the outline until the paperwork is done. Client work is never used as a public example without written permission.",
+  },
+  {
+    question: "How does working remotely with a freelance team actually work?",
+    answer:
+      "Everything runs over email, phone, WhatsApp and scheduled video calls, with a shared board or document for the task list. You get a named point of contact, an agreed update rhythm, and a staging link where you can watch the build take shape instead of waiting for a big reveal. Remote delivery is how the group has always worked, so timezone and travel are not obstacles.",
+  },
+  {
+    question: "What information makes a quote accurate rather than a guess?",
+    answer:
+      "Four things: the page or feature list, whether content and images already exist, any system the project must connect to, and your target launch date. With those, a quote can be given as a tight range. Without them, any number is speculation. If you are unsure about a detail, write down your assumption and we will confirm or correct it before the estimate is issued.",
+  },
+  {
+    question: "Do you work with small businesses and single-founder companies?",
+    answer:
+      "Yes. A large share of the work is for small businesses, independent professionals, local service companies and early-stage founders. There is no minimum retainer and no requirement to buy a bundle. If the budget you have is genuinely too small for the scope you described, you will be told directly and given a smaller first phase that still moves the business forward.",
+  },
+  {
+    question: "Which services can you quote on from a single enquiry?",
+    answer:
+      "Website development, web design, ecommerce builds, custom software and web apps, SEO services, AI automation and AI agents, data analysis, deployment, and ongoing maintenance. One enquiry can cover several of these at once. If part of your request falls outside what the group does well, you will be told that rather than sold a version of it that would disappoint you later.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Contact BtechWaleTech: Hire a Freelance Web Team",
+  description:
+    "Contact BtechWaleTech by email or phone for websites, ecommerce, SEO, custom software and AI automation. Hire a freelance web developer in India with clear scope and pricing.",
+  canonicalPath: "/contact/",
+  h1: "Contact BtechWaleTech about your website, software or SEO project",
+  intro:
+    "Email or call to start a project, ask for a price range, or get a second opinion on work already in progress. This page explains what to include in your enquiry, what happens after you send it, and how quickly you will hear back.",
+  breadcrumbs: createBreadcrumbs([{ label: "Contact", href: "/contact/" }]),
+  keywords: [
+    "contact BtechWaleTech",
+    "BtechWaleTech contact",
+    "hire freelance web developer India",
+    "freelance web developer contact India",
+    "freelance IT services India",
+    "website development enquiry India",
+    "get a website quote India",
+    "web design enquiry",
+    "ecommerce development enquiry",
+    "custom software development enquiry",
+    "SEO services enquiry India",
+    "AI automation enquiry",
+    "AI agent development contact",
+    "data analysis services contact",
+    "website maintenance support contact",
+    "website development cost India",
+    "hire freelance developer for small business",
+    "freelance web team India",
+    "remote web development India",
+    "request a project quote",
+    "book a discovery call",
+    "web development company contact",
+    "start a website project",
+    "NDA freelance developer India",
+    "website redesign enquiry",
+    "deployment and hosting help India",
+  ],
+});
 ---
 
-<BaseLayout meta={page}>
-  <main class="contact-page">
-    <section class="contact-shell" aria-labelledby="contact-heading">
-      <p class="contact-eyebrow">Project enquiries</p>
-      <h1 id="contact-heading">{page.h1}</h1>
-      <p>
-        Contact BtechWaleTech for websites, software development, SEO, AI automation, ecommerce, data analysis,
-        deployment, and maintenance work.
-      </p>
-      <div class="contact-actions" aria-label="Contact options">
-        <a href={siteContact.emailHref}>{siteContact.email}</a>
-        <a href={siteContact.phoneHref}>{siteContact.phone}</a>
-      </div>
-      <p class="contact-note">
-        Please share your project type, business goal, preferred timeline, location, and any existing website or app link.
-      </p>
-    </section>
-  </main>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Contact</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-actions">
+          <a class="it-button it-button-primary" href={siteContact.emailHref}>Email {siteContact.email}</a>
+          <a class="it-button it-button-secondary" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+          <a class="it-button it-button-secondary" href="/pricing/">See pricing ranges</a>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-text-block">
+          <article>
+            <h2>How to contact BtechWaleTech</h2>
+            <p>
+              There are two direct routes and neither one puts you in a queue behind a sales team. Email
+              <a href={siteContact.emailHref}>{siteContact.email}</a> if you want to write things down, attach a
+              document, or send links to sites you like. Call or message
+              <a href={siteContact.phoneHref}>{siteContact.phone}</a> if it is faster to talk it through, especially when
+              something is already broken and you need an opinion the same day.
+            </p>
+            <p>
+              BtechWaleTech is a freelance IT services group, not a large agency with account managers between you and
+              the build. That matters for how you should write to us. You do not need formal procurement language or a
+              tender document. You need to say what your business does, what you want to happen, and when. The person who
+              reads your message is the person who will scope the work, so plain detail travels much further than polish.
+            </p>
+            <p>
+              If you are still comparing options and not ready to talk numbers, that is fine too. Plenty of enquiries
+              start as questions about approach, hosting choices, or whether a rebuild is even necessary. Ask the
+              question. If the honest answer is that you do not need to spend money yet, you will be told that.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-section-head">
+          <h2>What to include in your enquiry so the reply is actually useful</h2>
+          <p class="it-section-note">Five short lines are enough. Each one removes a round of back and forth.</p>
+        </div>
+        <ul class="it-list">
+          <li><strong>The goal.</strong> More enquiries, online orders, fewer manual hours, better search rankings, a working internal tool. Say what success looks like in business terms, not feature terms.</li>
+          <li><strong>The page or feature list.</strong> Even a rough one. "Home, services, six service pages, about, contact, blog" tells us more than "a small website" ever will.</li>
+          <li><strong>The timeline.</strong> A launch date, an event, a season, or an honest "no fixed deadline". Timelines change scope, and a rushed build costs more than a planned one.</li>
+          <li><strong>A budget range.</strong> Not an exact figure. A range lets the reply propose a scope that fits instead of a proposal you have to reject on price alone.</li>
+          <li><strong>Your existing site or system.</strong> A URL, a platform name, an admin login you can share later, or a note that you are starting from zero. Existing constraints shape the estimate heavily.</li>
+          <li><strong>Anything it has to connect to.</strong> Payment gateway, CRM, shipping provider, accounting software, WhatsApp, an internal database. Integrations are the most common reason a quote moves.</li>
+        </ul>
+        <p>
+          If you have content and photos ready, mention it. If you do not, mention that too, because content readiness is
+          usually the single largest factor in whether a project launches on schedule. You can see how scope translates
+          into price on the <a href="/pricing/">pricing page</a>, and what a finished build looks like on the
+          <a href="/portfolio/">portfolio</a>.
+        </p>
+      </section>
+
+      <section class="it-section">
+        <div class="it-text-block">
+          <article>
+            <h2>What happens after you contact us</h2>
+            <p>
+              The first reply lands within one working day and it responds to what you actually asked. If your enquiry
+              contained enough detail, that reply will already include a scope reading, a price range, and any question
+              that needs answering before a firmer number is possible. If it was a two-line message, the reply will be a
+              short set of questions rather than a generic brochure.
+            </p>
+            <p>
+              Next comes a discovery call, usually thirty to forty five minutes on phone or video. This is where the
+              project gets pinned down: what pages exist, what the site or software must do, who maintains it afterwards,
+              what has failed for you before. Bring a colleague if the decision is shared. Nobody is asked to commit on
+              that call.
+            </p>
+            <p>
+              After the call you get a written scope note. It lists what is included, what is explicitly excluded, the
+              phase order, and the estimated timeline. The estimate sits alongside it, either as a fixed figure for a
+              well defined build or as a range with the variables named. You read it, you ask for changes, and only when
+              it matches what you actually want does anything get scheduled or invoiced.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-text-block">
+          <article>
+            <h2>What we can quote on</h2>
+            <p>
+              A single enquiry can cover any mix of static and dynamic
+              <a href="/services/web-development/">website development</a>, web design, ecommerce builds, custom software
+              and web applications, <a href="/services/seo-services/">SEO services</a>, AI automation, AI agents, data
+              analysis, deployment, and ongoing maintenance and support. Most real projects are a combination. A
+              restaurant needs a site, local search visibility and an ordering flow. A manufacturer needs a catalogue, an
+              enquiry pipeline and a report that stops someone rebuilding a spreadsheet every Monday.
+            </p>
+            <p>
+              Quotes are also given for work that is already half built. Taking over a stalled project, auditing a site
+              that is slow or falling out of search results, migrating from one platform to another, or fixing a
+              deployment nobody documented. That work needs a look at the existing code or account before a number is
+              possible, so expect a short review step first rather than an instant figure.
+            </p>
+            <p>
+              What is not offered is padding. If your requirement is genuinely a five-page brochure site, you will not be
+              steered toward a custom application. If a plugin already solves your problem, you will be told to use the
+              plugin. Browse the <a href="/services/">full service list</a> or the
+              <a href="/industries/">industries covered</a> if you want to see the range before writing.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-section-head">
+          <h2>Service areas across India and internationally</h2>
+          <p class="it-section-note">Remote-friendly delivery. We work with businesses in these regions; we do not claim an office in any of them.</p>
+        </div>
+        <div class="it-grid it-grid-three">
+          <div class="it-card">
+            <h3>North India</h3>
+            <p>
+              Delhi NCR, Gurgaon, Noida, Faridabad, Lucknow, Jaipur and Chandigarh. Frequent work with local service
+              businesses, education providers and small manufacturers. Start at <a href="/india/haryana/">Haryana</a> or
+              <a href="/india/delhi/">Delhi</a>.
+            </p>
+          </div>
+          <div class="it-card">
+            <h3>West and South India</h3>
+            <p>
+              Mumbai, Pune, Ahmedabad, Bangalore, Hyderabad, Chennai and Kochi. Ecommerce, SaaS marketing sites and
+              internal tooling dominate here. See <a href="/india/maharashtra/">Maharashtra</a> and
+              <a href="/india/karnataka/">Karnataka</a>.
+            </p>
+          </div>
+          <div class="it-card">
+            <h3>Outside India</h3>
+            <p>
+              Clients in the <a href="/usa/">United States</a>, <a href="/uae/">UAE</a> and
+              <a href="/australia/">Australia</a> work with us across timezones, with calls scheduled in their morning or
+              evening and written updates covering the gap.
+            </p>
+          </div>
+        </div>
+        <p>
+          Coverage is national. If your city is not named above, the answer is still yes, and the
+          <a href="/it-services/">IT services directory</a> lists state and city pages across India, from
+          <a href="/it-services/punjab/">Punjab</a> to <a href="/it-services/odisha/">Odisha</a>.
+        </p>
+      </section>
+
+      <section class="it-section">
+        <div class="it-text-block">
+          <article>
+            <h2>Common mistakes that slow an enquiry down</h2>
+            <p>
+              The first is asking only "how much for a website" with no other information. The honest answer is a range
+              so wide it helps nobody. The second is hiding the budget, on the theory that naming it invites a higher
+              price. In practice it invites a proposal aimed at the wrong scope, which wastes a week for both sides.
+            </p>
+            <p>
+              The third is treating content as an afterthought. Text, product data and photographs are the most common
+              reason a build sits idle at ninety percent complete. If you know content will be slow, say so, and the plan
+              can be phased around it with a launchable first version. The fourth is sending the enquiry from an address
+              nobody monitors, so the reply is missed and the project stalls before it began.
+            </p>
+            <p>
+              The last is comparing quotes purely on price without checking what each one includes. One quote may exclude
+              hosting setup, content migration, on-page SEO and post-launch fixes while another includes all four. Ask
+              every quote you receive for its exclusion list, not just its total.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-text-block">
+          <article>
+            <h2>How to get started today</h2>
+            <p>
+              Write one email to <a href={siteContact.emailHref}>{siteContact.email}</a> with your goal, your rough page
+              or feature list, your timeline and your budget range. Attach or link anything that helps: an existing site,
+              a competitor you admire, a document you have already written. If you would rather talk first, call
+              <a href={siteContact.phoneHref}>{siteContact.phone}</a> and a call slot will be agreed on the spot.
+            </p>
+            <p>
+              You will hear back within a working day with either a scope reading and a range, or the specific questions
+              needed to produce one. From there it is a discovery call, a written scope note, an estimate you approve,
+              and then work begins in phases with something visible early. No obligation attaches to any step before you
+              approve the estimate, and nothing is invoiced before scope is agreed in writing.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-section-head">
+          <h2>Related services and pages</h2>
+          <p class="it-section-note">Useful reading before you send your enquiry.</p>
+        </div>
+        <ul class="it-list">
+          <li><a href="/services/">All services offered by BtechWaleTech</a></li>
+          <li><a href="/services/web-development/">Website development, static and dynamic builds</a></li>
+          <li><a href="/services/seo-services/">SEO services for Indian and international businesses</a></li>
+          <li><a href="/pricing/">Pricing ranges and what changes a quote</a></li>
+          <li><a href="/portfolio/">Portfolio of delivered work</a></li>
+          <li><a href="/case-studies/">Case studies and delivery approach</a></li>
+          <li><a href="/industries/">Industries we work with</a></li>
+          <li><a href="/blog/">Blog: guides on websites, SEO and automation</a></li>
+          <li><a href="/about/">About the freelance group behind BtechWaleTech</a></li>
+          <li><a href="/india/">IT services for businesses across India</a></li>
+          <li><a href="/it-services/">IT services by state and city</a></li>
+          <li><a href="/india/karnataka/bangalore/">Web development in Bangalore</a></li>
+          <li><a href="/india/maharashtra/mumbai/">Web development in Mumbai</a></li>
+          <li><a href="/india/uttar-pradesh/noida/">Web development in Noida</a></li>
+        </ul>
+      </section>
+
+      <section class="it-section">
+        <div class="it-section-head">
+          <h2>Contact FAQs</h2>
+          <p class="it-section-note">Response times, NDAs, remote working and starting small.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Send the enquiry and get a real answer</h2>
+          <p>
+            One email with your goal, page list, timeline and budget range is enough to get a scope reading and a price
+            range back within a working day. No forms to fill, no sales sequence, no obligation.
+          </p>
+          <div class="it-actions">
+            <a class="it-button it-button-primary" href={siteContact.emailHref}>Email {siteContact.email}</a>
+            <a class="it-button it-button-secondary" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/pricing/">Pricing</a>
+            <a href="/services/">Services</a>
+            <a href="/portfolio/">Portfolio</a>
+            <a href="/about/">About</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
 </BaseLayout>
-
-<style>
-  .contact-page {
-    min-height: 58vh;
-    padding: clamp(5rem, 10vw, 8rem) clamp(1rem, 5vw, 3rem);
-    background: #f8f5ef;
-  }
-
-  .contact-shell {
-    max-width: 760px;
-    margin: 0 auto;
-  }
-
-  .contact-eyebrow {
-    margin: 0 0 0.8rem;
-    color: #0f9b86;
-    font-size: 0.8rem;
-    font-weight: 800;
-    letter-spacing: 0.12em;
-    text-transform: uppercase;
-  }
-
-  .contact-shell h1 {
-    margin: 0 0 1rem;
-    color: #142330;
-    font-size: clamp(2.4rem, 6vw, 4.5rem);
-    line-height: 0.96;
-  }
-
-  .contact-shell p {
-    max-width: 640px;
-    color: #52616b;
-    font-size: clamp(1rem, 2vw, 1.18rem);
-    line-height: 1.8;
-  }
-
-  .contact-actions {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.75rem;
-    margin: 1.8rem 0;
-  }
-
-  .contact-actions a {
-    display: inline-flex;
-    align-items: center;
-    min-height: 2.9rem;
-    padding: 0 1rem;
-    border: 1px solid rgba(20, 35, 48, 0.12);
-    border-radius: 999px;
-    color: #142330;
-    background: #ffffff;
-    font-weight: 750;
-    text-decoration: none;
-  }
-
-  .contact-actions a:hover,
-  .contact-actions a:focus-visible {
-    border-color: rgba(15, 155, 134, 0.35);
-    color: #0f9b86;
-  }
-
-  .contact-note {
-    font-size: 0.95rem;
-  }
-</style>

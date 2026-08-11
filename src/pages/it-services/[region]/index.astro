@@ -49,10 +49,12 @@ const label = regionLabel(region);
         <p class="it-eyebrow">{label} IT services</p>
         <h1>{page.h1}</h1>
         <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-actions">
-          <a class="it-button it-button-primary" href="/contact/">Discuss a project in {region.name}</a>
-          <a class="it-button it-button-secondary" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
-          <a class="it-button it-button-secondary" href="/it-services/">All India IT services</a>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
         </div>
       </section>
 
@@ -108,6 +110,93 @@ const label = regionLabel(region);
         </div>
       </section>
 
+      <section class="it-section" aria-labelledby="how-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="how-heading">How IT projects work for {region.name} businesses</h2>
+            <p>
+              Every project starts with a conversation about the outcome rather than the technology. What should this
+              website, tool, or automation actually change for the business? More enquiries, fewer manual hours,
+              clearer reporting, easier ordering. Once that is clear the technical decisions get much simpler, because
+              there is a standard to judge them against.
+            </p>
+            <p>
+              From there the work runs in visible stages. A scope note lists the pages, features, and integrations so
+              nothing is assumed. The build happens with review points along the way, so you see progress instead of
+              waiting for a reveal at the end. Then comes deployment, a check on performance and search readiness, and
+              a handover that explains how to update things yourself. Support afterwards is optional rather than a
+              locked-in contract.
+            </p>
+            <p>
+              City pages exist for {region.cities.map((c) => c.name).join(", ")}, and each one covers the local
+              business context rather than repeating the same text with a different name swapped in. If your town is
+              not listed yet, the services still apply and the same process is followed, so send your requirement
+              through the <a href="/contact/">contact page</a> and it gets handled the same way.
+            </p>
+            <p>
+              Delivery across {region.name} is remote. That is stated plainly because it is the honest description:
+              there is no branch office in each city, and pretending otherwise would be the sort of claim this site
+              avoids. In practice remote delivery means faster communication, lower cost, and direct access to the
+              person doing the work rather than an account manager relaying messages.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="choose-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="choose-heading">Choosing the right service for your business</h2>
+            <p>
+              If customers cannot find you, start with the website and local SEO. A fast, well-structured site with
+              real service pages does more for a small business than any other single investment, because it feeds
+              search results, listings, ads, and every link you share. See
+              the <a href="/services/web-development/">web development</a> and
+              <a href="/services/seo-services/">SEO services</a> pages for what each involves.
+            </p>
+            <p>
+              If customers already find you but your team is drowning in repetitive work, start with automation and
+              internal tools instead. Re-typing data between forms, spreadsheets, and invoices is invisible cost, and
+              it grows with the business. If you sell products, ecommerce structure and checkout performance matter
+              more than anything else. If decisions are being made on guesswork, dashboards and data cleanup come
+              first.
+            </p>
+            <p>
+              Most businesses in {region.name} do not need everything at once, and no honest provider should sell that
+              way. Start with the bottleneck that is costing you the most, confirm the working relationship on a
+              smaller scope, then expand. The <a href="/pricing/">pricing page</a> explains how scope drives cost and
+              what is included as standard.
+            </p>
+          </article>
+          <article>
+            <h3>Industries we build for in {region.name}</h3>
+            <p>
+              The work spans local service businesses, retailers and ecommerce sellers, coaching institutes and
+              schools, clinics and healthcare practices, manufacturers and B2B suppliers, consultants and professional
+              firms, hospitality and travel operators, real estate agencies, and logistics companies. Each has a
+              different definition of a successful website. A clinic needs appointment enquiries and trust signals. A
+              manufacturer needs a credible catalogue and quotation flow. A coaching institute needs admission
+              enquiries that do not get lost in WhatsApp.
+            </p>
+            <p>
+              Because of that, the same template is not reused across industries. The structure of the site follows
+              how customers in that sector actually decide, which is also what makes the pages rank: search engines
+              reward pages that answer a specific question well, not pages that describe a business in general terms.
+              The <a href="/industries/">industries page</a> covers this in more detail.
+            </p>
+          </article>
+          <article>
+            <h3>What every build includes as standard</h3>
+            <p>
+              Responsive layouts for mobile-first traffic, semantic HTML that search engines can parse, page titles and
+              meta descriptions, canonical URLs, an XML sitemap, schema markup, sensible Core Web Vitals, and a clean
+              production deployment. These are not upsells. A site without them is not finished, so they are part of
+              the base scope on every project across {region.name}.
+            </p>
+          </article>
+        </div>
+      </section>
+
       <section class="it-section" aria-labelledby="faq-heading">
         <div class="it-section-head">
           <h2 id="faq-heading">FAQs about IT services in {region.name}</h2>
@@ -129,10 +218,9 @@ const label = regionLabel(region);
             Share your requirement, target city, and business goal. We will suggest a practical scope for your website,
             software, SEO, automation, ecommerce, data analysis, or deployment work.
           </p>
-          <div class="it-actions">
-            <a class="it-button it-button-secondary" href="/contact/">Contact BtechWaleTech</a>
-            <a class="it-button it-button-secondary" href={siteContact.emailHref}>{siteContact.email}</a>
-            <a class="it-button it-button-secondary" href={siteContact.phoneHref}>{siteContact.phone}</a>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
           </div>
           <div class="it-trust-links">
             <a href="/it-services/">IT services in India</a>
