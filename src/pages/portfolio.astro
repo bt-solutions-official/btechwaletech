@@ -1,0 +1,424 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { siteBrand, siteContact } from "@data/site/site-config";
+
+const team = [
+  {
+    name: "Ankur Kumar",
+    qualification: "B.Tech, Computer Science and Engineering",
+    batch: "2025 batch",
+    initials: "AK",
+    focus: "Web development and deployment",
+    body:
+      "Works across frontend and backend development, turning page structures into working, responsive builds and getting them deployed cleanly with hosting, domains, and production checks in place.",
+  },
+  {
+    name: "Santosh Sharma",
+    qualification: "B.Tech, Computer Science and Engineering",
+    batch: "2025 batch",
+    initials: "SS",
+    focus: "SEO, site architecture and content structure",
+    body:
+      "Plans how a site is organised so search engines and people can both navigate it: keyword and page planning, technical SEO, schema and sitemaps, internal linking, and the content structure behind location and service pages.",
+  },
+  {
+    name: "Vedansh Shrivastava",
+    qualification: "B.Tech, Computer Science and Engineering",
+    batch: "2024 batch",
+    initials: "VS",
+    focus: "Software, automation and data work",
+    body:
+      "Builds the parts that run behind the interface: custom tools and dashboards, APIs and integrations, workflow and AI automation, plus the data cleaning and reporting that turns scattered spreadsheets into usable numbers.",
+  },
+];
+
+const capabilities = [
+  {
+    name: "Business and service websites",
+    scope: "Static, 5 to 30 pages",
+    body:
+      "Multi-page sites for businesses that need to be found and contacted. Typically a homepage, individual service pages rather than one combined list, an about page carrying credibility, location pages where local search matters, and contact paths that work on a phone. Built static so pages load fast and stay cheap to host.",
+    stack: ["Astro static build", "Semantic HTML and schema", "Sitemap and canonical setup", "Contact and enquiry forms"],
+  },
+  {
+    name: "SEO content sites",
+    scope: "30+ structured pages",
+    body:
+      "Sites where the page structure is the strategy. Service pages crossed with location pages, each written for one search intent rather than duplicated with a name swapped, connected by internal links and supported by schema. This site itself is built that way, with a hub for IT services and pages for individual states and cities.",
+    stack: ["Keyword and intent mapping", "Hub and spoke structure", "FAQ and breadcrumb schema", "Search Console setup"],
+  },
+  {
+    name: "Ecommerce stores",
+    scope: "Storefront and checkout",
+    body:
+      "Product and category structures, payment gateway integration, cart and checkout flow, order and inventory basics, and product schema so listings can appear correctly in search results. Performance work matters most here, because slow product pages on mobile data cost orders directly.",
+    stack: ["Product and category pages", "Payment gateway setup", "Product schema", "Speed optimisation"],
+  },
+  {
+    name: "Dashboards and internal tools",
+    scope: "Custom web applications",
+    body:
+      "Admin panels, customer portals, quotation systems, booking flows, and inventory views built around an existing workflow instead of forcing a team onto generic software. Includes user accounts and roles, a database layer, and a handover so the tool can be maintained after launch.",
+    stack: ["User accounts and roles", "Database and API layer", "Admin interfaces", "Deployment and handover"],
+  },
+  {
+    name: "AI automation and agents",
+    scope: "Workflow systems",
+    body:
+      "Automations connecting the tools a business already uses so enquiries get logged, acknowledged, and reported without manual copying. AI agents handle the steps needing judgement, such as sorting incoming messages, drafting replies, or extracting details from documents into a structured format.",
+    stack: ["Workflow mapping", "CRM and form integrations", "AI agent build", "Testing and monitoring"],
+  },
+  {
+    name: "Data analysis and reporting",
+    scope: "Dashboards and pipelines",
+    body:
+      "Cleaning and joining data that lives across several spreadsheets and tools, automating the repetitive steps, and building reporting that answers recurring questions: what sold, what is pending, where enquiries come from, and what changed since last month.",
+    stack: ["Data cleaning and merging", "Spreadsheet automation", "Dashboards", "Scheduled reporting"],
+  },
+];
+
+const faqs = [
+  {
+    question: "Who is behind BtechWaleTech?",
+    answer:
+      "Three Computer Science engineers: Ankur Kumar and Santosh Sharma, both B.Tech CSE 2025 batch, and Vedansh Shrivastava, B.Tech CSE 2024 batch. It is a small freelance group rather than an agency, so you talk directly to the people building your project.",
+  },
+  {
+    question: "Can I see examples of your work?",
+    answer:
+      "This website is itself a working example: a static Astro build with a structured multi-page architecture, schema markup, sitemaps, and internal linking across service and location pages. Beyond that, relevant work samples can be shared on request once we know what type of project you have in mind.",
+  },
+  {
+    question: "Why does this page not list client names?",
+    answer:
+      "Because we will not publish client names, logos, or results we cannot evidence, and we would rather show you what we can actually build than pad a page with borrowed credibility. Where a client has agreed to be referenced, we share that directly during a conversation.",
+  },
+  {
+    question: "You are a young team. Why should I hire you?",
+    answer:
+      "For the same reason people hire small teams generally: you deal directly with the person writing the code, decisions happen in hours instead of weeks, and pricing is not carrying office overhead. A static website starting from ₹5,000 lets you test the working relationship on a small scope before committing to anything bigger.",
+  },
+  {
+    question: "What technology do you build with?",
+    answer:
+      "Static sites are built with Astro, producing plain HTML that loads fast and is easy for search engines to crawl. Dynamic work uses standard web application stacks with a database layer and APIs. Hosting is usually on modern platforms such as Cloudflare Pages, and everything is handed over in accounts you own.",
+  },
+  {
+    question: "How do I start a project?",
+    answer: `Email ${siteContact.email} or call ${siteContact.phone} with your goal, the type of project, a rough timeline, and any existing website. You get a scope summary and an itemised estimate rather than a sales call.`,
+  },
+];
+
+const page = createPageSeo({
+  title: "Portfolio and Team: What We Build and Who We Are",
+  description:
+    "The BtechWaleTech portfolio and team. Three CSE engineers building websites, SEO content sites, ecommerce, dashboards, AI automation, and data reporting.",
+  canonicalPath: "/portfolio/",
+  h1: "What we build, and the team who builds it",
+  intro:
+    "BtechWaleTech is run by three Computer Science engineers. Here is the work we take on, how it is built, and who is behind each part of it.",
+  breadcrumbs: createBreadcrumbs([{ label: "Portfolio", href: "/portfolio/" }]),
+  keywords: [
+    "BtechWaleTech portfolio",
+    "web development portfolio India",
+    "freelance web developer portfolio",
+    "website development examples",
+    "Astro website developer India",
+    "static website portfolio",
+    "SEO website portfolio",
+    "ecommerce development portfolio",
+    "custom dashboard development",
+    "AI automation portfolio",
+    "data analysis portfolio",
+    "freelance developer team India",
+    "hire freelance web developers",
+    "CSE engineers web development",
+    "small web development team India",
+    "web development team Gurgaon",
+    "website developers for startups",
+    "affordable website developers India",
+    "web app development examples",
+    "IT freelancer team India",
+  ],
+});
+
+const teamSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: siteBrand.name,
+  url: `${siteBrand.domain}/`,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  employee: team.map((member) => ({
+    "@type": "Person",
+    name: member.name,
+    jobTitle: member.focus,
+    alumniOf: {
+      "@type": "EducationalOrganization",
+      name: "B.Tech Computer Science and Engineering",
+    },
+  })),
+};
+---
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), teamSchema]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Portfolio and team</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="team-heading">
+        <div class="it-section-head">
+          <h2 id="team-heading">The three of us</h2>
+          <p class="it-section-note">
+            BtechWaleTech is a freelance group of three Computer Science engineers. No account managers, no layers.
+            The person you brief is the person who builds it.
+          </p>
+        </div>
+        <div class="it-team-grid">
+          {team.map((member) => (
+            <article class="it-card it-team-card">
+              <span class="it-team-avatar" aria-hidden="true">{member.initials}</span>
+              <h3>{member.name}</h3>
+              <p class="it-team-focus">{member.focus}</p>
+              <p class="it-team-meta">
+                {member.qualification}
+                <span class="it-team-batch">{member.batch}</span>
+              </p>
+              <p>{member.body}</p>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="how-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="how-heading">How a three-person team works on your project</h2>
+            <p>
+              Between the three of us the work splits naturally: structure and search planning first, then the build,
+              then the software or automation layer where a project needs one. Because the group is small, that
+              handover happens in a conversation rather than a ticketing system, and nothing gets lost between
+              departments that do not exist.
+            </p>
+            <p>
+              It also sets an honest boundary. We take on a limited number of projects at a time, and we say so when we
+              are full rather than accepting work and delivering it late. If a project needs a specialism outside what
+              the three of us do well, the right answer is to tell you that at the start.
+            </p>
+          </article>
+          <article>
+            <h3>What you get working with a small team</h3>
+            <p>
+              Direct contact with whoever is writing the code, decisions in hours instead of weeks, and pricing without
+              an office overhead built into it. A static website starting from ₹5,000 means you can test how we work on
+              a small scope before committing to anything larger.
+            </p>
+            <p>
+              You also keep everything. Code, content, domain, and hosting accounts are yours once the final payment
+              clears, with no lock-in forcing you to stay for updates. See <a href="/pricing/">pricing</a> for how scope
+              drives cost.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="work-heading">
+        <div class="it-section-head">
+          <h2 id="work-heading">The kinds of projects we build</h2>
+          <p class="it-section-note">
+            What each project type actually involves, in terms of scope and technology rather than vague claims.
+          </p>
+        </div>
+        <div class="it-grid">
+          {capabilities.map((item) => (
+            <article class="it-card">
+              <p class="it-work-scope">{item.scope}</p>
+              <h3>{item.name}</h3>
+              <p>{item.body}</p>
+              <ul class="it-list">
+                {item.stack.map((entry) => <li>{entry}</li>)}
+              </ul>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="proof-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="proof-heading">This website is the working sample</h2>
+            <p>
+              Rather than list client logos we cannot evidence, the most useful sample is the site you are reading. It
+              is a static Astro build that ships plain HTML, with a structured architecture covering service pages, an
+              IT services hub, and individual pages for states and cities across India, all connected by internal
+              links.
+            </p>
+            <p>
+              Underneath it there is breadcrumb, FAQ, organisation, and service schema, canonical URLs on every page,
+              an automatically generated XML sitemap, mobile-first responsive layouts, and deployment on Cloudflare
+              Pages. You can inspect any of it: view the source of
+              the <a href="/it-services/karnataka/bengaluru/">Bengaluru IT services page</a> and you will see the same
+              structure we would build for you.
+            </p>
+            <p>
+              Beyond this site, work samples relevant to your project type can be shared directly once we know what you
+              are planning. If a past client has agreed to be referenced, we mention it in conversation rather than
+              publishing claims here.
+            </p>
+          </article>
+          <article>
+            <h3>How to judge any developer portfolio</h3>
+            <p>
+              Open a site they built on your phone and time it. Check whether the pages have distinct titles, whether
+              headings describe the content, and whether the site is genuinely readable on a small screen. Search a
+              phrase from their client site in Google and see whether it is indexed at all.
+            </p>
+            <p>
+              Those four checks tell you more than any gallery of screenshots, and they work on our sites too. Apply
+              them here before you contact us.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="links-heading">
+        <div class="it-section-head">
+          <h2 id="links-heading">Related pages</h2>
+        </div>
+        <div class="it-grid">
+          <article class="it-card">
+            <h3>Services and pricing</h3>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Starting prices</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+            </ul>
+          </article>
+          <article class="it-card">
+            <h3>Company and locations</h3>
+            <ul class="it-list">
+              <li><a href="/about/">About BtechWaleTech</a></li>
+              <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
+              <li><a href="/contact/">Contact</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Want to see something closer to your project</h2>
+          <p>
+            Tell us what you are planning and we will walk you through how we would build it, what it would include,
+            and what it would cost.
+          </p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact page</a>
+            <a href="/services/">Services</a>
+            <a href="/pricing/">Pricing</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .it-team-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 18rem), 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+
+  .it-team-card {
+    height: 100%;
+  }
+
+  .it-team-avatar {
+    display: inline-grid;
+    place-items: center;
+    width: 3.4rem;
+    height: 3.4rem;
+    margin-bottom: 1rem;
+    border-radius: 50%;
+    color: #ffffff;
+    background: linear-gradient(140deg, #16242e, #12907c);
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 0.02em;
+  }
+
+  .it-team-focus {
+    margin: 0 0 0.5rem;
+    color: #12907c;
+    font-size: 0.95rem;
+    font-weight: 650;
+  }
+
+  .it-team-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+    margin: 0 0 0.9rem;
+    padding-bottom: 0.9rem;
+    border-bottom: 1px solid rgba(22, 36, 46, 0.1);
+    color: #5c6a70;
+    font-size: 0.9rem;
+  }
+
+  .it-team-batch {
+    color: #16242e;
+    font-weight: 650;
+  }
+
+  .it-work-scope {
+    margin: 0 0 0.5rem;
+    color: #12907c;
+    font-size: 0.75rem;
+    font-weight: 700;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+  }
+</style>

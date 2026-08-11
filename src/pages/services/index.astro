@@ -1,14 +1,409 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import ServiceCard from "@components/sections/ServiceCard.astro";
-import { staticPage } from "@data/page-seo/static-pages";
-import { services } from "@data/services";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import PricingSection from "@components/sections/PricingSection.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
 
-const page = staticPage("/services/", "Services");
+const faqs = [
+  {
+    question: "Which IT services does BtechWaleTech provide?",
+    answer:
+      "Website development for static and dynamic sites, web design, SEO services, ecommerce development, custom software and web applications, AI automation, AI agents, data analysis and dashboards, deployment, and ongoing maintenance. Most clients start with one service and add others as the business grows.",
+  },
+  {
+    question: "Can I start with just one service?",
+    answer:
+      "Yes, and most people should. Starting with a single website or a technical SEO audit keeps the first invoice small and lets you judge the working relationship before committing to anything larger. Services are not bundled or locked together.",
+  },
+  {
+    question: "How much do your services cost?",
+    answer:
+      "A static website starts from ₹5,000 and a 30-page SEO website from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, custom applications from ₹40,000, monthly SEO from ₹5,000 per month, and maintenance from ₹2,000 per month. Final cost depends on scope.",
+  },
+  {
+    question: "How long does a project take?",
+    answer:
+      "A small static website usually takes one to three weeks once content is ready. A larger SEO-focused site runs three to six weeks. Software, ecommerce, and automation projects are planned in milestones so you see working pieces along the way instead of waiting until the end.",
+  },
+  {
+    question: "Do you work with businesses outside India?",
+    answer:
+      "Yes. Delivery is remote and we work with clients in the USA, UAE, UK, Australia, and Singapore alongside businesses across India. Calls are scheduled in whatever timezone overlap works for you.",
+  },
+  {
+    question: "Who owns the website and code after the project?",
+    answer:
+      "You do, once the final payment is made. That includes the code, content, domain, and hosting accounts. There is no lock-in that forces you to stay for updates, and you can move the project to another developer at any point.",
+  },
+  {
+    question: "Do you provide support after launch?",
+    answer:
+      "Yes, and it is optional rather than a mandatory contract. Maintenance covers content updates, bug fixes, backups, security checks, and performance monitoring. Some clients take a monthly plan, others contact us only when something needs changing.",
+  },
+];
+
+const page = createPageSeo({
+  title: "IT Services: Web Development, SEO, Software & AI",
+  description:
+    "Full IT services from BtechWaleTech: website development, web design, SEO, ecommerce, custom software, AI automation, data analysis, deployment, and maintenance.",
+  canonicalPath: "/services/",
+  h1: "IT services for websites, software, SEO, and automation",
+  intro:
+    "Everything BtechWaleTech builds, in one place. Start with the service that solves your current bottleneck, then add more as the business grows.",
+  breadcrumbs: createBreadcrumbs([{ label: "Services", href: "/services/" }]),
+  keywords: [
+    "IT services India",
+    "IT services company",
+    "web development services India",
+    "website development company",
+    "website design services",
+    "static website development",
+    "dynamic website development",
+    "custom web application development",
+    "software development services India",
+    "SEO services India",
+    "technical SEO services",
+    "local SEO services",
+    "ecommerce website development",
+    "online store development",
+    "AI automation services",
+    "AI agent development",
+    "business process automation",
+    "data analysis services",
+    "dashboard development",
+    "website maintenance services",
+    "website deployment services",
+    "website redesign services",
+    "hire web developer India",
+    "freelance IT services India",
+    "affordable web development India",
+  ],
+});
+
+const services = [
+  {
+    name: "Website development",
+    href: "/services/web-development/",
+    lead: "Static sites, dynamic sites, and web applications built to load fast and rank cleanly.",
+    body:
+      "Static websites render as plain HTML, load almost instantly, and cost very little to host. They suit business sites, landing pages, portfolios, and content that changes occasionally. Dynamic websites add logins, databases, dashboards, bookings, and payments, and suit businesses that run on data rather than pages. We help you pick the right one before any code is written, because rebuilding on the wrong foundation is the most expensive mistake in this work.",
+    points: ["Business and service websites", "Landing pages", "Dynamic web apps", "Hosting and deployment"],
+  },
+  {
+    name: "SEO services",
+    href: "/services/seo-services/",
+    lead: "Technical, on-page, local, and content SEO built on foundations search engines can actually read.",
+    body:
+      "SEO work starts with an audit: can search engines crawl the site, is anything blocked or duplicated, are canonicals and redirects correct, and how does the site perform on mobile. From there it moves to page structure, titles and descriptions, internal linking, content built around real search intent, schema markup, and local signals such as Google Business Profile. Progress is tracked in Search Console, and nobody honest guarantees a ranking position.",
+    points: ["Technical SEO audits", "Local SEO and listings", "Schema and sitemaps", "Content and keyword planning"],
+  },
+  {
+    name: "Ecommerce development",
+    lead: "Online stores where the product pages, checkout, and speed all pull their weight.",
+    body:
+      "An online store lives or dies on three things: how quickly pages load, how clear the product information is, and how few steps stand between wanting something and paying for it. We build storefronts with structured product and category pages, payment gateway setup, order and inventory basics, and the performance work that stops customers abandoning a slow cart. Product schema is included so listings can appear properly in search results.",
+    points: ["Product and category pages", "Payment gateway setup", "Cart and checkout flow", "Performance tuning"],
+  },
+  {
+    name: "Custom software and web apps",
+    lead: "Dashboards, portals, admin panels, and internal tools shaped around how you actually work.",
+    body:
+      "Off-the-shelf software fits most businesses about eighty percent of the way, and the remaining twenty percent is where the daily frustration lives. Custom tools close that gap: quotation systems, booking flows, inventory views, admin panels, customer portals, and reporting built for how your team works rather than how a generic product assumes you work. Everything is built with user accounts, roles, and a clean handover.",
+    points: ["Admin panels and portals", "Internal business tools", "APIs and integrations", "User accounts and roles"],
+  },
+  {
+    name: "AI automation and AI agents",
+    lead: "Automation that removes repetitive manual work, measured in hours saved rather than novelty.",
+    body:
+      "Most teams lose hours re-typing the same information between forms, spreadsheets, invoices, and follow-up messages. Automation connects the tools you already use so an enquiry can arrive, get logged, trigger a reply, and land in a report without anyone copying anything by hand. AI agents extend that to tasks needing judgement, such as sorting enquiries, drafting replies, or pulling details out of documents. The test is always whether it saves real time.",
+    points: ["Workflow automation", "CRM and form flows", "AI assistants and agents", "Email and chat automation"],
+  },
+  {
+    name: "Data analysis and dashboards",
+    lead: "Turning messy spreadsheets into numbers a manager can act on.",
+    body:
+      "Plenty of businesses collect data and still make decisions on instinct, because the data sits in five different files and nobody has time to reconcile them. This work covers cleaning and joining those sources, automating the repetitive spreadsheet steps, and building dashboards that answer the questions you actually ask: what sold, what is pending, where enquiries come from, and what changed since last month.",
+    points: ["Data cleaning and merging", "Spreadsheet automation", "Dashboards and reports", "Recurring reporting"],
+  },
+  {
+    name: "Website design and UI/UX",
+    lead: "Interfaces that look credible and get out of the way of the task.",
+    body:
+      "Design here means clarity before decoration: a layout that guides someone to the thing they came for, typography that stays readable on a phone, contrast that meets accessibility basics, and a structure that still works when your content grows. Every design is built mobile-first, because that is where most Indian web traffic arrives, and it is handed over as working pages rather than a static mockup you then have to pay someone else to build.",
+    points: ["Mobile-first layouts", "Accessible colour and type", "Design to working pages", "Redesign of existing sites"],
+  },
+  {
+    name: "Deployment, maintenance and support",
+    lead: "Getting it live properly, then keeping it that way.",
+    body:
+      "Deployment covers production builds, hosting setup, domain and SSL configuration, redirects from any old site, and the checks that confirm search engines can index the new pages. After launch, maintenance keeps things healthy: content updates, bug fixes, dependency and security updates, backups, uptime and speed monitoring, and periodic SEO health checks. It is optional and month to month, never a locked-in contract.",
+    points: ["Hosting and deployment", "Content updates and fixes", "Backups and security", "Speed and uptime checks"],
+  },
+];
 ---
 
-<BaseLayout meta={page}>
-  <h1>{page.h1}</h1>
-  <p>{page.intro}</p>
-  {services.map((service) => <ServiceCard title={service.name} href={service.path} summary={service.summary} />)}
+<BaseLayout
+  meta={page}
+  schema={[
+    breadcrumbListSchema(page.breadcrumbs),
+    faqSchema(faqs),
+    serviceSchema("IT Services", page.description, "/services/"),
+  ]}
+>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Services</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="intro-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="intro-heading">One partner instead of five</h2>
+            <p>
+              Most small businesses end up with a website from one place, hosting from another, SEO from a third, and
+              nobody willing to own the result. When something breaks, each one points at the others. Keeping the
+              website, search visibility, automation, and support with the same people removes that gap, because the
+              person who built the site is the person fixing it.
+            </p>
+            <p>
+              BtechWaleTech is a small freelance group rather than an agency. That means you talk directly to the people
+              doing the work, there is no account manager relaying messages, and the pricing is not carrying an office
+              overhead. It also means we are honest about capacity: if something is outside what we do well, we say so
+              instead of taking the project anyway.
+            </p>
+          </article>
+          <article>
+            <h3>How to choose where to start</h3>
+            <p>
+              If customers cannot find you, start with the website and SEO. If they find you but your team is buried in
+              repetitive admin, start with automation and internal tools. If you sell products, the store structure and
+              checkout speed matter more than anything else. If decisions are being made on guesswork, start with data
+              and reporting.
+            </p>
+            <p>
+              You do not need everything at once and no honest provider should sell it that way. Fix the bottleneck
+              costing you the most, confirm the working relationship on a smaller scope, then expand. Not sure which one
+              that is? Describe the problem on the <a href="/contact/">contact page</a> and you will get a straight
+              recommendation, including "you do not need us for this" where that is the honest answer.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="services-heading">
+        <div class="it-section-head">
+          <h2 id="services-heading">Every service we offer</h2>
+          <p class="it-section-note">
+            Each one solves a specific problem. Read the detail pages where they exist, or ask which combination fits
+            your situation.
+          </p>
+        </div>
+        <div class="it-service-list">
+          {services.map((service) => (
+            <article class="it-service-row">
+              <div class="it-service-head">
+                <h3>{service.href ? <a href={service.href}>{service.name}</a> : service.name}</h3>
+                <p class="it-service-lead">{service.lead}</p>
+              </div>
+              <div class="it-service-body">
+                <p>{service.body}</p>
+                <ul class="it-list">
+                  {service.points.map((point) => <li>{point}</li>)}
+                </ul>
+                {service.href && (
+                  <p class="it-service-more">
+                    <a href={service.href}>Read more about {service.name.toLowerCase()}</a>
+                  </p>
+                )}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="process-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="process-heading">How a project runs</h2>
+            <p>
+              Every project starts with the outcome rather than the technology. What should this change for the
+              business: more enquiries, fewer manual hours, clearer reporting, easier ordering? Once that is agreed the
+              technical decisions get simpler, because there is a standard to judge them against.
+            </p>
+            <p>
+              Then comes a scope note listing the pages, features, and integrations so nothing is assumed on either
+              side. The build runs with review points along the way, so you see progress instead of waiting for a
+              reveal at the end. Launch covers deployment, performance and indexing checks, and a handover that shows
+              you how to update things yourself. Support afterwards is optional.
+            </p>
+            <p>
+              The single biggest cause of delay is content. Photos, service descriptions, and business details usually
+              take longer to gather than anyone expects, so we agree early on who is writing what and work in parallel
+              where possible.
+            </p>
+          </article>
+          <article>
+            <h3>What every project includes as standard</h3>
+            <p>
+              Responsive layouts for mobile-first traffic, semantic HTML search engines can parse, page titles and meta
+              descriptions, canonical URLs, an XML sitemap, schema markup, sensible Core Web Vitals, and a clean
+              production deployment. These are not upsells. A site without them is not finished, so they are part of the
+              base scope on every project.
+            </p>
+            <p>
+              You also get ownership. The code, content, domain, and hosting accounts are yours once the final payment
+              clears, with no lock-in that forces you to stay for updates.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <PricingSection />
+
+      <section class="it-section" aria-labelledby="links-heading">
+        <div class="it-section-head">
+          <h2 id="links-heading">Related pages</h2>
+        </div>
+        <div class="it-grid">
+          <article class="it-card">
+            <h3>Service details</h3>
+            <ul class="it-list">
+              <li><a href="/services/web-development/">Web development services</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/industries/">Industries we work with</a></li>
+              <li><a href="/pricing/">Pricing and what drives cost</a></li>
+            </ul>
+          </article>
+          <article class="it-card">
+            <h3>Locations and company</h3>
+            <ul class="it-list">
+              <li><a href="/india/">IT services in India</a></li>
+              <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
+              <li><a href="/it-services/maharashtra/mumbai/">IT services in Mumbai</a></li>
+              <li><a href="/it-services/karnataka/bengaluru/">IT services in Bengaluru</a></li>
+              <li><a href="/about/">About BtechWaleTech</a></li>
+              <li><a href="/portfolio/">Portfolio and team</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us what you are trying to fix</h2>
+          <p>
+            Share the goal, rough timeline, and whether you need a website, software, SEO, ecommerce, automation, or
+            support. You get a straight answer on scope and an itemised estimate, not a sales call.
+          </p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact page</a>
+            <a href="/pricing/">Pricing</a>
+            <a href="/terms/">Terms</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
 </BaseLayout>
+
+<style>
+  .it-service-list {
+    border-top: 1px solid rgba(22, 36, 46, 0.1);
+  }
+
+  .it-service-row {
+    display: grid;
+    grid-template-columns: minmax(0, 0.85fr) minmax(0, 1.15fr);
+    gap: clamp(1rem, 4vw, 3rem);
+    padding: clamp(1.6rem, 3vw, 2.4rem) 0;
+    border-bottom: 1px solid rgba(22, 36, 46, 0.1);
+  }
+
+  .it-service-row h3 {
+    margin: 0 0 0.5rem;
+    color: #16242e;
+    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-size: clamp(1.25rem, 2.2vw, 1.6rem);
+    letter-spacing: -0.015em;
+    line-height: 1.2;
+  }
+
+  .it-service-row h3 a {
+    color: inherit;
+  }
+
+  .it-service-row h3 a:hover,
+  .it-service-row h3 a:focus-visible {
+    color: #12907c;
+  }
+
+  .it-service-lead {
+    margin: 0;
+    color: #12907c;
+    font-size: 0.98rem;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+
+  .it-service-body p {
+    margin: 0 0 0.9rem;
+    color: #5c6a70;
+    line-height: 1.75;
+  }
+
+  .it-service-more {
+    margin: 0.9rem 0 0;
+  }
+
+  .it-service-more a {
+    color: #12907c;
+    font-weight: 650;
+  }
+
+  .it-service-more a:hover,
+  .it-service-more a:focus-visible {
+    text-decoration: underline;
+  }
+
+  @media (max-width: 860px) {
+    .it-service-row {
+      grid-template-columns: 1fr;
+      gap: 0.9rem;
+    }
+  }
+</style>

@@ -1,0 +1,400 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+
+const faqs = [
+  {
+    question: "Which industries does BtechWaleTech build for?",
+    answer:
+      "Software and SaaS companies, IT services and consulting firms, startups, ecommerce and D2C brands, healthcare clinics, education and coaching institutes, manufacturing and B2B suppliers, real estate, travel and hospitality, professional services, logistics, and local trades. The common thread is a business that needs to be found online and needs its operations to run with less manual work.",
+  },
+  {
+    question: "Do you build differently for each industry?",
+    answer:
+      "Yes. The same template is not reused with a different name swapped in. A clinic needs appointment enquiries and trust signals, a manufacturer needs a credible catalogue and quotation flow, and a SaaS company needs a product story with clear pricing. The page structure follows how customers in that sector actually decide.",
+  },
+  {
+    question: "My industry is not listed. Can you still help?",
+    answer:
+      "Almost certainly. The list below covers the sectors we see most often, not a restriction. What matters is the underlying problem, and website, SEO, automation, and data work translate across industries. Describe your business on the contact page and you will get a straight answer on whether we are a good fit.",
+  },
+  {
+    question: "Do you work with startups and very small businesses?",
+    answer:
+      "Yes. Many projects start with a single website or landing page and grow later into SEO, ecommerce, automation, or custom tools. A static website starts from ₹5,000, which keeps the first step affordable for a business that is still proving the idea.",
+  },
+  {
+    question: "Can you work with an existing website instead of rebuilding it?",
+    answer:
+      "Often, yes. If the existing site is structurally sound, improving speed, page structure, SEO, and content is cheaper than starting over. If it is built on something that fights back at every change, rebuilding costs less in the long run. An audit tells you which situation you are in before you spend anything.",
+  },
+  {
+    question: "Which industries benefit most from AI automation?",
+    answer:
+      "Any business with repetitive, rules-based admin. In practice that means clinics handling appointments, institutes handling admissions, ecommerce handling orders and support, manufacturers handling quotations, and professional services handling document-heavy intake. If your team re-types the same information between tools, automation pays for itself quickly.",
+  },
+];
+
+const page = createPageSeo({
+  title: "Industries We Build IT Solutions For",
+  description:
+    "IT services by industry: software and SaaS, IT consulting, startups, ecommerce, healthcare, education, manufacturing, real estate, travel, logistics, and professional services.",
+  canonicalPath: "/industries/",
+  h1: "Industries we build websites, software, and automation for",
+  intro:
+    "Every sector defines a successful website differently. These are the industries we work with most, and what actually matters digitally in each one.",
+  breadcrumbs: createBreadcrumbs([{ label: "Industries", href: "/industries/" }]),
+  keywords: [
+    "IT services by industry",
+    "industry specific web development",
+    "software company website development",
+    "SaaS website development India",
+    "IT consulting website design",
+    "startup website development India",
+    "ecommerce website development",
+    "healthcare website development India",
+    "clinic website design",
+    "education website development",
+    "coaching institute website design",
+    "manufacturing website development",
+    "B2B website development India",
+    "real estate website development",
+    "travel website development India",
+    "hotel website design",
+    "logistics website development",
+    "professional services website design",
+    "restaurant website development",
+    "fitness website development",
+    "IT solutions for small business",
+    "custom software by industry",
+    "AI automation for business",
+    "local business website India",
+  ],
+});
+
+const industries = [
+  {
+    name: "Software, SaaS and IT products",
+    icon: "code",
+    lead: "Product sites where the value has to land in one screen.",
+    body:
+      "Software buyers decide fast and compare in tabs. A SaaS or product site needs the problem stated plainly above the fold, pricing that is visible rather than hidden behind a form, documentation that loads quickly, and a signup path with no unnecessary steps. We build marketing sites, docs sites, changelogs, and pricing pages, plus the dashboards and admin panels behind them.",
+    needs: ["Product and pricing pages", "Documentation sites", "Signup and trial flows", "Dashboards and admin panels"],
+  },
+  {
+    name: "IT services and consulting firms",
+    icon: "network",
+    lead: "Credibility first, because you are selling expertise rather than a product.",
+    body:
+      "An IT services buyer is judging whether you can be trusted with something important. That means clear service pages rather than one page listing everything, evidence of how you work, structured case detail, and a site that is itself fast and well built. A slow, broken website from a company selling technical services answers the question before anyone reads a word.",
+    needs: ["Service and capability pages", "Case study structure", "Technical credibility signals", "Lead capture and enquiry flows"],
+  },
+  {
+    name: "Startups and founders",
+    icon: "rocket",
+    lead: "Something credible now, built so it can change next month.",
+    body:
+      "Early-stage businesses need to look legitimate before they can afford to look polished, and they need to change direction without paying to rebuild. A static landing page that loads instantly, states the offer clearly, and captures enquiries is usually the right first step at ₹5,000. Structure comes later, once the market has told you what actually sells.",
+    needs: ["Landing pages", "MVP web apps", "Waitlist and enquiry capture", "Fast iteration on messaging"],
+  },
+  {
+    name: "Ecommerce and D2C brands",
+    icon: "cart",
+    lead: "Speed and clarity, because every extra second costs orders.",
+    body:
+      "Online stores fail on three things: slow product pages, unclear product information, and too many steps at checkout. We build structured product and category pages, set up payment gateways, handle order and inventory basics, add product schema so listings appear properly in search, and do the performance work that stops customers abandoning carts on mobile data.",
+    needs: ["Product and category pages", "Payment and checkout setup", "Product schema for search", "Speed optimisation"],
+  },
+  {
+    name: "Healthcare, clinics and diagnostics",
+    icon: "health",
+    lead: "Trust signals and a frictionless way to book.",
+    body:
+      "Patients choose on confidence. Clear practitioner information, qualifications, treatment explanations in plain language, timings, directions, and an appointment enquiry that works on a phone matter far more than visual flourish. Local search is critical here, because most searches are location-led and urgent. Automation helps with appointment reminders and follow-ups.",
+    needs: ["Appointment enquiry flows", "Practitioner and treatment pages", "Local SEO and Google Business Profile", "Reminder automation"],
+  },
+  {
+    name: "Education, coaching and institutes",
+    icon: "education",
+    lead: "Admission enquiries that do not get lost.",
+    body:
+      "Institutes lose more leads to disorganised follow-up than to weak marketing. Enquiries arrive across forms, calls, and WhatsApp, and nobody is sure which were answered. The fix is a structured course and admission page set, a single enquiry pipeline, and automated acknowledgement and follow-up so no parent or student waits three days for a reply.",
+    needs: ["Course and admission pages", "Enquiry capture and pipeline", "Follow-up automation", "Batch and result portals"],
+  },
+  {
+    name: "Manufacturing and B2B suppliers",
+    icon: "factory",
+    lead: "A catalogue buyers can search, and a quotation flow that works.",
+    body:
+      "B2B buyers arrive knowing roughly what they need and leave if they cannot confirm specifications. Product catalogues buried in PDFs are invisible to search engines and painful on a phone. Structured product pages with real specifications, downloadable datasheets, and a clean quotation request flow turn a brochure site into something that generates enquiries.",
+    needs: ["Searchable product catalogues", "Specification and datasheet pages", "Quotation request flows", "Dealer and distributor portals"],
+  },
+  {
+    name: "Real estate and property",
+    icon: "building",
+    lead: "Listings that load fast and filter properly.",
+    body:
+      "Property buyers browse dozens of listings on a phone, often on patchy connections. Image-heavy pages that take eight seconds lose them. We build listing systems with proper filtering, compressed responsive images, location and locality pages that rank for area-level searches, and enquiry forms attached to each property rather than one generic contact page.",
+    needs: ["Property listing systems", "Locality and area pages", "Image performance", "Per-listing enquiry capture"],
+  },
+  {
+    name: "Travel, hotels and hospitality",
+    icon: "travel",
+    lead: "Photos that sell, and a booking path with no dead ends.",
+    body:
+      "Hospitality is decided visually, then confirmed logistically. Rooms, packages, and itineraries need strong images that still load fast, honest inclusions, and availability or enquiry paths that work on mobile. Local and seasonal search matters heavily, and structured data helps listings appear with the right details in results.",
+    needs: ["Room and package pages", "Booking and enquiry flows", "Gallery performance", "Local and seasonal SEO"],
+  },
+  {
+    name: "Professional services",
+    icon: "briefcase",
+    lead: "For accountants, lawyers, architects, and consultants selling judgement.",
+    body:
+      "Professional services buyers are risk-averse and research quietly before contacting anyone. Detailed service pages that answer the real question, clear credentials, plain-language explanations of process and fees, and content that demonstrates expertise all do more than a polished homepage. Document-heavy intake is also a strong candidate for automation.",
+    needs: ["Detailed service pages", "Credential and process pages", "Consultation booking", "Document intake automation"],
+  },
+  {
+    name: "Logistics and transport",
+    icon: "truck",
+    lead: "Tracking, quotes, and coverage information without a phone call.",
+    body:
+      "Logistics customers want three answers: do you cover this route, what will it cost, and where is my shipment. Putting service area pages, a rate enquiry flow, and tracking access on the website removes a large share of inbound calls. Behind the scenes, dashboards and automated status updates cut the manual coordination that eats operational hours.",
+    needs: ["Service area and route pages", "Rate enquiry flows", "Tracking access", "Operations dashboards"],
+  },
+  {
+    name: "Local trades and home services",
+    icon: "tools",
+    lead: "Show up in local search, then make calling easy.",
+    body:
+      "For electricians, plumbers, interior teams, cleaners, and repair services, nearly all demand is local and urgent. What matters is appearing in map results, a phone number tappable on every screen, service area pages for each locality you cover, honest pricing indications, and photos of real work. A simple site done properly beats an elaborate one that is invisible in local search.",
+    needs: ["Google Business Profile setup", "Locality service pages", "Tap-to-call layout", "Review and photo signals"],
+  },
+];
+
+const icons: Record<string, string> = {
+  code: "M8.5 7.5 4 12l4.5 4.5M15.5 7.5 20 12l-4.5 4.5M13.5 5l-3 14",
+  network: "M12 4v5m0 6v5M7.5 12h9M6 6.5 9.5 10M18 6.5 14.5 10M6 17.5 9.5 14M18 17.5 14.5 14",
+  rocket: "M12 3c3 2 5 5.5 5 9l-5 4-5-4c0-3.5 2-7 5-9ZM7 15l-2 5 5-2M17 15l2 5-5-2",
+  cart: "M4 5h2l2.2 9.4A2 2 0 0 0 10.1 16h6.6a2 2 0 0 0 2-1.6L20 8H7M10 20h.01M17 20h.01",
+  health: "M12 20s-7-4.4-7-9a4 4 0 0 1 7-2.6A4 4 0 0 1 19 11c0 4.6-7 9-7 9Z",
+  education: "M3 9l9-4 9 4-9 4-9-4Zm3 5v4c0 1 2.7 2 6 2s6-1 6-2v-4",
+  factory: "M4 20V10l5 3V10l5 3V6l6 3v11H4Zm4-3h2m4 0h2",
+  building: "M5 20V5h9v15M14 10h5v10M8 8h3M8 12h3M8 16h3M17 13h1M17 17h1",
+  travel: "M3 15h18M6 15l1-4h10l1 4M9 11V7h6v4M8 19h2m4 0h2",
+  briefcase: "M4 8h16v11H4V8Zm5-3h6v3H9V5Zm-5 7h16",
+  truck: "M3 7h11v9H3V7Zm11 3h4l3 3v3h-7v-6ZM7 19a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm10 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z",
+  tools: "M14.5 5.5a4 4 0 0 1 5 5l-9 9-5-5 9-9ZM6 14l4 4M4 20l2-2",
+};
+---
+
+<BaseLayout
+  meta={page}
+  schema={[
+    breadcrumbListSchema(page.breadcrumbs),
+    faqSchema(faqs),
+    serviceSchema("IT Services by Industry", page.description, "/industries/"),
+  ]}
+>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Industries</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="why-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="why-heading">Why industry context changes the build</h2>
+            <p>
+              A website is not a neutral container. The order of the sections, the words in the headings, and the thing
+              you are asked to do next should all follow how customers in that sector actually decide. A patient
+              searching for a clinic at 9pm wants timings and a number. A procurement manager wants specifications and a
+              quotation. A founder evaluating software wants pricing without booking a demo.
+            </p>
+            <p>
+              Building the same template for all three and swapping the photos is why so many business websites feel
+              hollow. It is also why they struggle in search: search engines reward pages that answer one specific
+              question well, not pages that describe a business in general terms.
+            </p>
+          </article>
+          <article>
+            <h3>What stays the same across every industry</h3>
+            <p>
+              The foundations do not change. Fast loading, mobile-first layout, semantic HTML, correct title and meta
+              tags, canonical URLs, a sitemap, schema markup, accessible contrast and type, and a clean deployment are
+              part of every project regardless of sector.
+            </p>
+            <p>
+              What changes is the structure built on top: which pages exist, what each one has to prove, and what
+              action it asks for. That is the part we work out with you before anything gets designed.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="industries-heading">
+        <div class="it-section-head">
+          <h2 id="industries-heading">Industries we work with</h2>
+          <p class="it-section-note">
+            The sectors we see most often, and what genuinely matters digitally in each. Not a restriction, just where
+            we have the most context.
+          </p>
+        </div>
+        <div class="it-industry-grid">
+          {industries.map((industry) => (
+            <article class="it-card it-industry-card">
+              <span class="it-industry-icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+                  <path d={icons[industry.icon]} />
+                </svg>
+              </span>
+              <h3>{industry.name}</h3>
+              <p class="it-industry-lead">{industry.lead}</p>
+              <p>{industry.body}</p>
+              <ul class="it-list">
+                {industry.needs.map((need) => <li>{need}</li>)}
+              </ul>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="fit-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="fit-heading">Not sure your industry fits</h2>
+            <p>
+              The list above is where we have the most context, not a list of who we accept. Underneath the sector
+              labels the problems repeat: people cannot find the business, the site does not convert the visitors it
+              does get, the team wastes hours on repetitive admin, or nobody can see the numbers clearly enough to
+              decide anything.
+            </p>
+            <p>
+              If that describes your situation, the industry label matters less than the specifics. Send a short
+              description through the <a href="/contact/">contact page</a> and you will get an honest answer, including
+              a recommendation to look elsewhere if that serves you better. You can also browse
+              the <a href="/services/">services overview</a> or check <a href="/pricing/">starting prices</a> first.
+            </p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="links-heading">
+        <div class="it-section-head">
+          <h2 id="links-heading">Related pages</h2>
+        </div>
+        <div class="it-grid">
+          <article class="it-card">
+            <h3>Services</h3>
+            <ul class="it-list">
+              <li><a href="/services/">All services</a></li>
+              <li><a href="/services/web-development/">Web development</a></li>
+              <li><a href="/services/seo-services/">SEO services</a></li>
+              <li><a href="/pricing/">Pricing</a></li>
+            </ul>
+          </article>
+          <article class="it-card">
+            <h3>Locations and company</h3>
+            <ul class="it-list">
+              <li><a href="/it-services/">IT services across India</a></li>
+              <li><a href="/it-services/karnataka/bengaluru/">IT services in Bengaluru</a></li>
+              <li><a href="/it-services/telangana/hyderabad/">IT services in Hyderabad</a></li>
+              <li><a href="/portfolio/">Portfolio and team</a></li>
+              <li><a href="/about/">About BtechWaleTech</a></li>
+            </ul>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Frequently asked questions</h2>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Tell us about your business</h2>
+          <p>
+            Share your industry, what is not working online, and roughly what you want to achieve. You get a straight
+            recommendation and an itemised estimate.
+          </p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
+            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact page</a>
+            <a href="/services/">Services</a>
+            <a href="/pricing/">Pricing</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .it-industry-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 21rem), 1fr));
+    gap: 1rem;
+    align-items: start;
+  }
+
+  .it-industry-card {
+    height: 100%;
+  }
+
+  .it-industry-icon {
+    display: inline-grid;
+    place-items: center;
+    width: 3rem;
+    height: 3rem;
+    margin-bottom: 1rem;
+    border-radius: 0.9rem;
+    color: #12907c;
+    background: rgba(18, 144, 124, 0.1);
+  }
+
+  .it-industry-icon svg {
+    width: 1.6rem;
+    height: 1.6rem;
+  }
+
+  .it-industry-lead {
+    margin: 0 0 0.7rem;
+    color: #12907c;
+    font-size: 0.95rem;
+    font-weight: 600;
+    line-height: 1.6;
+  }
+
+  .it-industry-card p {
+    margin-bottom: 0.9rem;
+  }
+</style>
