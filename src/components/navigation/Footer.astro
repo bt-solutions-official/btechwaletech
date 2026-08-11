@@ -1,6 +1,6 @@
 ---
 import { Image } from "astro:assets";
-import { siteBrand } from "@data/site/site-config";
+import { siteBrand, siteContact } from "@data/site/site-config";
 import logo from "../../assets/images/mainlogo.png";
 
 const columns = [
@@ -9,9 +9,9 @@ const columns = [
     links: [
       ["Web development", "/services/web-development/"],
       ["SEO services", "/services/seo-services/"],
+      ["IT services", "/it-services/"],
       ["All services", "/services/"],
       ["Industries", "/industries/"],
-      ["Pricing", "/pricing/"],
     ],
   },
   {
@@ -61,7 +61,7 @@ const socials = [
           <span class="footer-brand-wordmark">BtechWaleTech</span>
         </a>
         <p class="footer-blurb">
-          Your partner in digital growth. Static and dynamic websites, software, SEO, and automation — built in India,
+          Freelance IT services for websites, software, SEO, AI automation, and data workflows - built in India,
           delivered worldwide.
         </p>
         <ul class="footer-social" aria-label="Social links">
@@ -86,9 +86,9 @@ const socials = [
     </div>
 
     <div class="footer-contact" aria-label="Contact details">
-      <a href="mailto:hello@btechwaletech.in">hello@btechwaletech.in</a>
-      <a href="tel:+919876543210">+91 98765 43210</a>
-      <span>Gurgaon, Haryana, India</span>
+      <a href={siteContact.emailHref}>{siteContact.email}</a>
+      <a href={siteContact.phoneHref}>{siteContact.phone}</a>
+      <span>Remote IT services across India</span>
     </div>
 
     <div class="footer-bottom">

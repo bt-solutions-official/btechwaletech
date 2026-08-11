@@ -15,6 +15,13 @@ export const siteDefaults = {
   defaultOgImage: "/banner_logo.png",
 };
 
+export const siteContact = {
+  email: "info@btechwaletech.in",
+  emailHref: "mailto:info@btechwaletech.in",
+  phone: "+91 70611 68141",
+  phoneHref: "tel:+917061168141",
+};
+
 export const supportedCountrySlugs = ["india", "uae", "australia", "usa"] as const;
 
 export const coreServiceSlugs = [

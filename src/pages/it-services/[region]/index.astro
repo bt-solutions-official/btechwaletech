@@ -1,0 +1,146 @@
+---
+import "@styles/it-services.css";
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
+import { regionFaqs, regionItServicesSeo } from "@lib/seo/it-services-pages";
+import {
+  cityPath,
+  itServicesOfferings,
+  itServicesRegions,
+  regionLabel,
+  regionPath,
+  type ItServicesRegion,
+} from "@data/it-services/locations";
+import { siteContact } from "@data/site/site-config";
+
+export function getStaticPaths() {
+  return itServicesRegions.map((region) => ({
+    params: { region: region.slug },
+    props: { region },
+  }));
+}
+
+interface Props {
+  region: ItServicesRegion;
+}
+
+const { region } = Astro.props;
+const page = regionItServicesSeo(region);
+const faqs = regionFaqs(region);
+const label = regionLabel(region);
+---
+
+<BaseLayout
+  meta={page}
+  schema={[
+    breadcrumbListSchema(page.breadcrumbs),
+    faqSchema(faqs),
+    serviceSchema(`IT Services in ${region.name}`, page.description, regionPath(region)),
+  ]}
+>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb">
+        <Breadcrumbs items={page.breadcrumbs} />
+      </div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">{label} IT services</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-actions">
+          <a class="it-button it-button-primary" href="/contact/">Discuss a project in {region.name}</a>
+          <a class="it-button it-button-secondary" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+          <a class="it-button it-button-secondary" href="/it-services/">All India IT services</a>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="region-context-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="region-context-heading">Why businesses in {region.name} need reliable IT services</h2>
+            <p>{region.intro}</p>
+          </article>
+          <article>
+            <h3>Useful digital systems for {region.name}</h3>
+            <p>{region.businessContext}</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="cities-heading">
+        <div class="it-section-head">
+          <h2 id="cities-heading">City pages in {region.name}</h2>
+          <p class="it-section-note">
+            Each city page focuses on commercial service intent, local business context, available IT services, process,
+            FAQs, and clear next steps.
+          </p>
+        </div>
+        <div class="it-grid">
+          {region.cities.map((city) => (
+            <a class="it-card it-card-link" href={cityPath(region, city)}>
+              <h3>IT services in {city.name}</h3>
+              <p>{city.businessContext}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="services-heading">
+        <div class="it-section-head">
+          <h2 id="services-heading">IT services available in {region.name}</h2>
+          <p class="it-section-note">
+            BtechWaleTech supports practical digital work for local businesses, service providers, ecommerce sellers,
+            institutes, consultants, and growing teams.
+          </p>
+        </div>
+        <div class="it-grid">
+          {itServicesOfferings.map((service) => (
+            <article class="it-card">
+              <h3>{service.name}</h3>
+              <p>{service.summary}</p>
+              <ul class="it-list">
+                {service.points.map((point) => <li>{point}</li>)}
+              </ul>
+            </article>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">FAQs about IT services in {region.name}</h2>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Plan an IT project for {region.name}</h2>
+          <p>
+            Share your requirement, target city, and business goal. We will suggest a practical scope for your website,
+            software, SEO, automation, ecommerce, data analysis, or deployment work.
+          </p>
+          <div class="it-actions">
+            <a class="it-button it-button-secondary" href="/contact/">Contact BtechWaleTech</a>
+            <a class="it-button it-button-secondary" href={siteContact.emailHref}>{siteContact.email}</a>
+            <a class="it-button it-button-secondary" href={siteContact.phoneHref}>{siteContact.phone}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/it-services/">IT services in India</a>
+            <a href="/terms/">Terms</a>
+            <a href="/privacy-policy/">Privacy policy</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

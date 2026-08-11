@@ -1,4 +1,4 @@
-import { siteBrand } from "@data/site/site-config";
+import { siteBrand, siteContact } from "@data/site/site-config";
 import type { BreadcrumbItem, FaqItem, SeoMeta } from "@app-types/seo";
 import { canonicalUrl } from "@lib/urls/url-utils";
 
@@ -8,6 +8,16 @@ export function organizationSchema() {
     "@type": "Organization",
     name: siteBrand.name,
     url: siteBrand.domain,
+    email: siteContact.email,
+    telephone: siteContact.phone,
+    contactPoint: {
+      "@type": "ContactPoint",
+      contactType: "customer support",
+      email: siteContact.email,
+      telephone: siteContact.phone,
+      areaServed: "IN",
+      availableLanguage: ["en", "hi"],
+    },
   };
 }
 
@@ -44,6 +54,8 @@ export function serviceSchema(name: string, description: string, path: string) {
       "@type": "Organization",
       name: siteBrand.name,
       url: siteBrand.domain,
+      email: siteContact.email,
+      telephone: siteContact.phone,
     },
   };
 }
