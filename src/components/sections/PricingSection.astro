@@ -1,5 +1,5 @@
 ---
-import { pricingNote, pricingPlans } from "@data/pricing/plans";
+import { endToEndOffer, pricingNote, pricingPlans } from "@data/pricing/plans";
 
 interface Props {
   heading?: string;
@@ -19,6 +19,9 @@ const {
     <h2 id={headingId}>{heading}</h2>
     <p class="it-section-note">{intro}</p>
   </div>
+  <p class="it-offer-banner">
+    <strong>End to end, and 5 months free maintenance.</strong> {endToEndOffer}
+  </p>
   <div class="it-grid">
     {pricingPlans.map((plan) => (
       <article class="it-card it-price-card">

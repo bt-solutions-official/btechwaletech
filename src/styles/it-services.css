@@ -93,6 +93,22 @@
   font-weight: 600;
 }
 
+.it-offer-banner {
+  max-width: 68ch;
+  margin: 0 0 1.4rem;
+  padding: 1rem 1.15rem;
+  border: 1px solid rgba(18, 144, 124, 0.28);
+  border-radius: 1rem;
+  color: #4f5f66;
+  background: rgba(18, 144, 124, 0.07);
+  font-size: 0.95rem;
+  line-height: 1.7;
+}
+
+.it-offer-banner strong {
+  color: #12907c;
+}
+
 .it-price-note {
   max-width: 52rem;
   margin: 1.4rem 0 0;
@@ -303,8 +319,9 @@
 
 .it-text-block {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(min(100%, 27rem), 1fr));
   gap: 1rem;
+  align-items: start;
 }
 
 .it-text-block article {
@@ -314,15 +331,39 @@
   background: #ffffff;
 }
 
+/* a lone article spans the full row instead of leaving a gap beside it */
+.it-text-block article:only-child {
+  grid-column: 1 / -1;
+}
+
+.it-text-block article:only-child p,
+.it-text-block article:only-child h2,
+.it-text-block article:only-child h3 {
+  max-width: 68ch;
+}
+
 .it-text-block h3 {
   margin: 0 0 0.65rem;
   font-size: 1.15rem;
 }
 
+.it-text-block h2 {
+  margin: 0 0 0.8rem;
+}
+
 .it-text-block p {
   margin: 0;
   color: #5c6a70;
-  line-height: 1.7;
+  line-height: 1.75;
+}
+
+.it-text-block p + p {
+  margin-top: 0.95rem;
+}
+
+.it-text-block ul + p,
+.it-text-block p + ul {
+  margin-top: 0.95rem;
 }
 
 .it-breadcrumb {

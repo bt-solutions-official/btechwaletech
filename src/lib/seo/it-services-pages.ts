@@ -9,6 +9,7 @@ import {
   type ItServicesRegion,
 } from "@data/it-services/locations";
 import { siteContact } from "@data/site/site-config";
+import { endToEndFaq, freeMaintenanceFaq } from "@data/pricing/plans";
 
 export function nationalItServicesSeo(): PageSeoConfig {
   return createPageSeo({
@@ -144,6 +145,8 @@ export function regionFaqs(region: ItServicesRegion): FaqItem[] {
       question: `Do you work remotely with clients across ${region.name}?`,
       answer: `Yes. Everything runs remotely through email, calls, and shared documents, with agreed checkpoints so you can review progress. Working this way keeps costs lower than a traditional agency and means businesses anywhere in ${region.name} get the same delivery process.`,
     },
+    endToEndFaq,
+    freeMaintenanceFaq,
     {
       question: `Which services are most useful for businesses in ${region.name}?`,
       answer: `Most ${region.name} businesses start with a fast, search-friendly website and local SEO so customers can find and contact them. From there the common additions are ecommerce, enquiry and follow-up automation, dashboards or internal tools, and ongoing maintenance that keeps the site secure and up to date.`,
@@ -184,6 +187,8 @@ export function cityFaqs(region: ItServicesRegion, city: ItServicesCity): FaqIte
       question: `Can you help a ${city.name} business rank in local search results?`,
       answer: `Yes. Local search work for ${city.name} covers Google Business Profile setup and optimisation, consistent business details across listings, location and service pages built around real search intent, internal linking, schema markup, and technical fixes that let search engines crawl and index the site properly. Rankings take time and no honest provider guarantees a position.`,
     },
+    endToEndFaq,
+    freeMaintenanceFaq,
     {
       question: `Do you work with small businesses and new startups in ${city.name}?`,
       answer:
