@@ -8,6 +8,7 @@ import logo from "../../assets/images/mainlogo.png";
   <nav class="site-nav" aria-label="Primary navigation">
     <a class="brand" href="/" aria-label={`${siteBrand.name} home`}>
       <Image src={logo} alt={siteBrand.name} height={88} densities={[1, 2]} loading="eager" />
+      <span class="brand-wordmark">BtechWaleTech</span>
     </a>
 
     <ul class="nav-links">
@@ -122,6 +123,7 @@ import logo from "../../assets/images/mainlogo.png";
   .brand {
     display: inline-flex;
     align-items: center;
+    gap: 0.65rem;
     min-width: 0;
   }
 
@@ -129,6 +131,15 @@ import logo from "../../assets/images/mainlogo.png";
     display: block;
     width: auto;
     height: 2.6rem;
+  }
+
+  .brand-wordmark {
+    color: #12313b;
+    font-size: clamp(1rem, 1.8vw, 1.22rem);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 1;
+    white-space: nowrap;
   }
 
   .nav-links {
@@ -337,6 +348,10 @@ import logo from "../../assets/images/mainlogo.png";
       height: 2.2rem;
     }
 
+    .brand-wordmark {
+      font-size: 1rem;
+    }
+
     .nav-links,
     .desktop-cta {
       display: none;
@@ -354,6 +369,10 @@ import logo from "../../assets/images/mainlogo.png";
   @media (max-width: 360px) {
     .brand img {
       height: 1.9rem;
+    }
+
+    .brand-wordmark {
+      font-size: 0.9rem;
     }
   }
 
