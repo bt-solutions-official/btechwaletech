@@ -171,7 +171,7 @@ export function cityFaqs(region: ItServicesRegion, city: ItServicesCity): FaqIte
     },
     {
       question: `How can someone from ${city.name} contact BtechWaleTech?`,
-      answer: `Use the contact page, email ${siteContact.email}, or call ${siteContact.phone} to share your requirements. Include the project type, business goal, preferred timeline, and whether you need a website, software tool, AI automation, SEO, ecommerce, or maintenance.`,
+      answer: `Use the contact page, email ${siteContact.email}, or WhatsApp ${siteContact.phone} to share your requirements. Include the project type, business goal, preferred timeline, and whether you need a website, software tool, AI automation, SEO, ecommerce, or maintenance.`,
     },
     {
       question: `How much does a website cost for a business in ${city.name}?`,

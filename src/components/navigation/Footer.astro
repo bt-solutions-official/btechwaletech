@@ -1,5 +1,6 @@
 ---
 import { Image } from "astro:assets";
+import WhatsAppIcon from "@components/common/WhatsAppIcon.astro";
 import { siteBrand, siteContact } from "@data/site/site-config";
 import { itServicesRegions, regionPath } from "@data/it-services/locations";
 import logo from "../../assets/images/mainlogo.png";
@@ -64,7 +65,12 @@ const columns = [
         </p>
         <ul class="footer-social" aria-label="Contact">
           <li><a href={siteContact.emailHref}>{siteContact.email}</a></li>
-          <li><a href={siteContact.phoneHref}>{siteContact.phone}</a></li>
+          <li>
+            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
+              <WhatsAppIcon />
+              <span>{siteContact.whatsappLabel}</span>
+            </a>
+          </li>
         </ul>
       </div>
 
@@ -93,7 +99,10 @@ const columns = [
 
     <div class="footer-contact" aria-label="Contact details">
       <a href={siteContact.emailHref}>{siteContact.email}</a>
-      <a href={siteContact.phoneHref}>{siteContact.phone}</a>
+      <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
+        <WhatsAppIcon />
+        <span>{siteContact.whatsappLabel}</span>
+      </a>
       <span>Remote IT services across India</span>
     </div>
 
@@ -170,6 +179,7 @@ const columns = [
   .footer-social a {
     display: inline-flex;
     align-items: center;
+    gap: 0.45rem;
     min-height: 2.2rem;
     padding: 0 0.85rem;
     border: 1px solid rgba(242, 239, 233, 0.12);
@@ -263,6 +273,9 @@ const columns = [
   }
 
   .footer-contact a {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
     color: #c8cfd3;
     text-decoration: none;
     transition: color 400ms cubic-bezier(0.32, 0.72, 0, 1);

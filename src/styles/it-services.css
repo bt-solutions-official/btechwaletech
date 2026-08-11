@@ -161,6 +161,11 @@
   content: attr(data-icon);
 }
 
+.it-contact-links a svg {
+  flex: 0 0 auto;
+  color: #12907c;
+}
+
 .it-contact-links-invert {
   margin-top: 1.6rem;
 }
@@ -172,6 +177,10 @@
 }
 
 .it-contact-links-invert a::before {
+  color: #7fd6c6;
+}
+
+.it-contact-links-invert a svg {
   color: #7fd6c6;
 }
 

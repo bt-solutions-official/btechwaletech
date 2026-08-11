@@ -20,6 +20,9 @@ export const siteContact = {
   emailHref: "mailto:info@btechwaletech.in",
   phone: "+91 70611 68141",
   phoneHref: "tel:+917061168141",
+  whatsappLabel: "WhatsApp us",
+  whatsappHref:
+    "https://wa.me/917061168141?text=Hello%20BtechWaleTech%2C%20I%20want%20to%20discuss%20an%20IT%20services%20project.",
 };
 
 export const supportedCountrySlugs = ["india", "uae", "australia", "usa"] as const;

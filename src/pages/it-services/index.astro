@@ -2,6 +2,7 @@
 import "@styles/it-services.css";
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import WhatsAppIcon from "@components/common/WhatsAppIcon.astro";
 import PricingSection from "@components/sections/PricingSection.astro";
 import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
 import { nationalItServicesSeo } from "@lib/seo/it-services-pages";
@@ -51,7 +52,10 @@ const faqs = [
           <p class="it-contact-lead">Contact us and share your project idea</p>
           <div class="it-contact-links">
             <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
+              <WhatsAppIcon />
+              <span>{siteContact.whatsappLabel}</span>
+            </a>
           </div>
         </div>
       </section>
@@ -124,7 +128,10 @@ const faqs = [
           </p>
           <div class="it-contact-links it-contact-links-invert">
             <a href={siteContact.emailHref} data-icon="✉">{siteContact.email}</a>
-            <a href={siteContact.phoneHref} data-icon="☏">{siteContact.phone}</a>
+            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
+              <WhatsAppIcon />
+              <span>{siteContact.whatsappLabel}</span>
+            </a>
           </div>
           <div class="it-trust-links">
             <a href="/terms/">Terms</a>
