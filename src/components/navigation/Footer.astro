@@ -58,6 +58,7 @@ const socials = [
       <div class="footer-brand-col">
         <a class="footer-brand" href="/" aria-label={`${siteBrand.name} home`}>
           <Image src={logo} alt={siteBrand.name} height={96} densities={[1, 2]} />
+          <span class="footer-brand-wordmark">BtechWaleTech</span>
         </a>
         <p class="footer-blurb">
           Your partner in digital growth. Static and dynamic websites, software, SEO, and automation — built in India,
@@ -121,7 +122,10 @@ const socials = [
   }
 
   .footer-brand {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.75rem;
+    text-decoration: none;
   }
 
   .footer-brand img {
@@ -130,6 +134,15 @@ const socials = [
     height: 3rem;
     filter: brightness(0) invert(1);
     opacity: 0.95;
+  }
+
+  .footer-brand-wordmark {
+    color: #f2efe9;
+    font-size: clamp(1.05rem, 2vw, 1.3rem);
+    font-weight: 800;
+    letter-spacing: 0;
+    line-height: 1;
+    white-space: nowrap;
   }
 
   .footer-blurb {
