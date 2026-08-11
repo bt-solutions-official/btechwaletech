@@ -24,11 +24,11 @@ export const teamSocialProfiles = [
 export const siteContact = {
   email: "info@btechwaletech.in",
   emailHref: "mailto:info@btechwaletech.in",
-  phone: "+91 70611 68141",
-  phoneHref: "tel:+917061168141",
+  phone: "+91 62069 86683",
+  phoneHref: "tel:+916206986683",
   whatsappLabel: "WhatsApp us",
   whatsappHref:
-    "https://wa.me/917061168141?text=Hello%20BtechWaleTech%2C%20I%20want%20to%20discuss%20an%20IT%20services%20project.",
+    "https://wa.me/916206986683?text=Hello%20BtechWaleTech%2C%20I%20want%20to%20discuss%20an%20IT%20services%20project.",
 };
 
 export const supportedCountrySlugs = ["india", "uae", "australia", "usa"] as const;
