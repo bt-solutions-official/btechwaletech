@@ -8,47 +8,49 @@ const faqs = [
   {
     question: "Do you build both static and dynamic websites?",
     answer:
-      "Yes. We build static-first websites for speed and SEO — marketing sites, landing pages, and content platforms — and fully dynamic websites and web applications with dashboards, logins, databases, and APIs when your business needs them.",
+      "Yes. We build static websites for SEO pages, portfolios, landing pages, and business sites, plus dynamic websites and web apps with dashboards, logins, databases, APIs, payments, and admin panels.",
   },
   {
     question: "Which IT services does Btechwale provide?",
     answer:
-      "Btechwale is a full-stack IT services partner: web development (static and dynamic), custom software and web applications, SEO services, ecommerce development, AI development, business automation, UI/UX design, and ongoing website maintenance and support.",
+      "BtechWaleTech is a freelance IT services group providing website development, web design, deployment, SEO, ecommerce, custom software, AI automation, AI agents, multi-agent workflows, data analysis, and long-term support.",
   },
   {
     question: "Do you work with businesses outside India?",
     answer:
-      "Yes. We are an India-first studio serving clients globally — including the USA, UAE, UK, Australia, and Singapore — with remote-friendly delivery, clear communication, and timezone-overlap working hours.",
+      "Yes. We are India-first and remote-friendly, so we can support clients in India first and expand delivery for the USA, UAE, UK, Australia, Singapore, and other global markets.",
   },
   {
-    question: "Will my website be SEO-ready from day one?",
+    question: "Will my website be SEO friendly from day one?",
     answer:
-      "Every build ships with clean semantic HTML, fast Core Web Vitals, canonical URLs, XML sitemaps, structured data (schema), and metadata foundations — so search engines can crawl, understand, and rank your pages from launch.",
+      "Every website is planned with clean URLs, semantic HTML, title tags, meta descriptions, canonical URLs, sitemap support, schema foundations, performance basics, and crawlable static content where possible.",
   },
   {
-    question: "How much does website development cost in India?",
+    question: "Can you handle design to deployment?",
     answer:
-      "It depends on scope: a static business website costs far less than a dynamic web application with custom features. Share your requirements through the contact page and we will send a clear, itemized estimate — no hidden costs.",
+      "Yes. We can handle the full delivery flow from requirements, page structure, web design, frontend and backend development, SEO setup, hosting, deployment, testing, and post-launch updates.",
   },
   {
-    question: "Do you provide website maintenance and support?",
+    question: "Do you provide AI automation and data analysis services?",
     answer:
-      "Yes. We offer ongoing maintenance plans covering updates, security, backups, performance monitoring, content changes, and SEO health checks so your website keeps improving after launch.",
+      "Yes. We build practical AI automations, AI agents, workflow automation, dashboards, reporting systems, data cleaning, data analysis, and integrations that reduce manual work and improve decisions.",
   },
 ];
 
 const page = createPageSeo({
-  title: "IT Services, Web Development & SEO Company in India",
+  title: "Freelance IT Services, Web Development & AI Automation",
   description:
-    "Complete IT services for businesses in India and worldwide — static & dynamic website development, custom software, SEO, ecommerce, AI, automation, UI/UX design, and maintenance.",
+    "Freelance IT services in India for web development, web design, SEO, ecommerce, AI automation, AI agents, data analysis, deployment, and support.",
   canonicalPath: "/",
-  h1: "Digital services built for Indian businesses ready to grow globally",
+  h1: "Freelance IT services for websites, AI automation, data analysis, and digital growth",
   intro:
-    "Plan, design, build, optimize, and maintain fast static and dynamic websites, custom software, and digital systems with a clean SEO foundation.",
+    "BtechWaleTech is a small freelance services group helping businesses plan, design, build, deploy, optimize, and maintain practical digital systems without heavy agency overhead.",
   breadcrumbs: createBreadcrumbs([]),
   keywords: [
-    "IT services company India",
-    "web development company India",
+    "freelance IT services India",
+    "freelance web development India",
+    "website development services India",
+    "website design and development India",
     "static website development",
     "dynamic website development",
     "custom web application development",
@@ -59,9 +61,13 @@ const page = createPageSeo({
     "ecommerce website development",
     "online store development India",
     "AI development services",
-    "business automation services",
-    "UI UX design services",
+    "AI automation services India",
+    "AI agents development",
+    "multi agent AI workflows",
+    "data analysis services India",
+    "business automation services India",
     "website maintenance services",
+    "website deployment services",
     "website redesign services",
     "hire web developers India",
     "web development Gurgaon",
@@ -83,43 +89,47 @@ const page = createPageSeo({
 
 const services = [
   {
-    name: "Web development",
+    name: "Website development",
     summary:
-      "Static and dynamic websites — fast, accessible, SEO-ready sites and landing pages that load instantly and rank cleanly.",
+      "Static and dynamic websites, landing pages, portfolios, business sites, and web apps built from design to deployment.",
     href: "/services/web-development/",
     size: "lg",
   },
   {
     name: "SEO services",
-    summary: "Technical, local, and content SEO foundations for sustainable visibility in India and worldwide.",
+    summary: "Technical SEO, local SEO, metadata, sitemap, schema, page structure, and content planning for search visibility.",
     href: "/services/seo-services/",
     size: "md",
   },
-  { name: "Software & web apps", summary: "Custom dashboards, portals, APIs, and internal tools.", size: "sm" },
-  { name: "Ecommerce", summary: "Storefronts, product pages, payments, and performance.", size: "sm" },
-  { name: "AI development", summary: "Practical AI features, assistants, and integrations.", size: "sm" },
-  { name: "Automation", summary: "Lean workflows that reduce manual work.", size: "sm" },
-  { name: "UI/UX design", summary: "Interfaces that feel clear, premium, and easy to trust.", size: "sm" },
-  { name: "Maintenance & support", summary: "Updates, security, backups, and SEO health checks.", size: "sm" },
+  { name: "AI automation", summary: "Automated workflows, AI-powered task handling, chat flows, and process automation.", size: "sm" },
+  { name: "AI agents", summary: "Custom AI agents, meta-agent systems, assistant workflows, and tool-based automations.", size: "sm" },
+  { name: "Data analysis", summary: "Dashboards, reports, data cleaning, spreadsheet automation, and decision-ready insights.", size: "sm" },
+  { name: "Software & web apps", summary: "Custom dashboards, portals, APIs, admin panels, and internal business tools.", size: "sm" },
+  { name: "Ecommerce", summary: "Online stores, product pages, payment setup, checkout flows, and performance tuning.", size: "sm" },
+  { name: "Maintenance & support", summary: "Updates, bug fixes, deployment help, backups, SEO checks, and ongoing improvements.", size: "sm" },
 ];
 
 const marquee = [
   "Static websites",
   "Dynamic web apps",
+  "Website design",
+  "Deployment",
   "Custom software",
   "SEO & content",
   "Ecommerce",
-  "AI solutions",
-  "Automation",
-  "UI/UX design",
+  "AI automation",
+  "AI agents",
+  "Meta agents",
+  "Data analysis",
+  "Workflow automation",
   "Maintenance & support",
   "Performance & Core Web Vitals",
   "Schema & sitemaps",
-  "India & worldwide",
+  "Freelance IT services",
 ];
 
 const stats = [
-  { value: 50, suffix: "+", label: "Projects delivered" },
+  { value: 2, suffix: "+", label: "Projects delivered" },
   { value: 12, suffix: "+", label: "Indian cities covered" },
   { value: 95, suffix: "+", label: "Average Lighthouse score" },
   { value: 100, suffix: "%", label: "SEO-ready builds" },
@@ -129,21 +139,21 @@ const builds = [
   {
     name: "Static websites",
     tag: "Speed-first",
-    summary: "Marketing sites, landing pages, portfolios, and content platforms rendered as pure HTML.",
-    points: ["Instant load times", "Best-in-class SEO", "Near-zero hosting cost", "Rock-solid security"],
+    summary: "Business websites, landing pages, portfolios, and SEO pages rendered as fast, crawlable HTML.",
+    points: ["Fast loading", "Clean SEO structure", "Simple hosting", "Secure static output"],
   },
   {
     name: "Dynamic websites & web apps",
     tag: "Feature-first",
-    summary: "Logins, dashboards, databases, bookings, payments — full applications built around your workflow.",
-    points: ["Custom features & APIs", "User accounts & roles", "Admin panels & CMS", "Scales with your business"],
+    summary: "Dashboards, databases, forms, bookings, payments, and custom tools built around real workflows.",
+    points: ["Custom APIs", "User accounts", "Admin panels", "Deployment support"],
   },
 ];
 
 const process = [
-  ["Plan", "Define service, audience, location, and SEO intent before a line is written."],
-  ["Build", "Ship static-first pages with clean semantic HTML that search engines read."],
-  ["Grow", "Add unique city, service, industry, and article content over time."],
+  ["Understand", "Clarify your goal, users, service intent, pages, features, data, and expected business outcome."],
+  ["Build", "Create the website, web app, automation, AI agent, or data workflow with clean structure and SEO basics."],
+  ["Deploy", "Set up hosting, production build, tracking basics, sitemap, performance checks, and post-launch support."],
 ];
 
 const locations = [
@@ -163,9 +173,9 @@ const locations = [
 
   <section class="hero" aria-labelledby="home-heading">
     <div class="hero-copy">
-      <p class="eyebrow load" style="--d: 0ms">India-first digital services studio</p>
+      <p class="eyebrow load" style="--d: 0ms">India-first freelance IT services group</p>
       <h1 id="home-heading" class="load" style="--d: 90ms">
-        Digital services built for Indian businesses ready to grow <em class="accent">globally</em>
+        Freelance IT services for websites, AI automation, data analysis, and <em class="accent">digital growth</em>
       </h1>
       <p class="lede load" style="--d: 180ms">{page.intro}</p>
       <div class="hero-actions load" style="--d: 270ms" aria-label="Primary actions">
@@ -176,9 +186,9 @@ const locations = [
         <a class="button button-ghost" href="/services/">Explore services</a>
       </div>
       <ul class="signal-row load" style="--d: 360ms" aria-label="Homepage focus areas">
-        <li>Static &amp; dynamic builds</li>
-        <li>SEO foundations built in</li>
-        <li>India &amp; worldwide delivery</li>
+        <li>Design to deployment</li>
+        <li>SEO-ready development</li>
+        <li>AI, automation &amp; data work</li>
       </ul>
     </div>
 
@@ -207,10 +217,10 @@ const locations = [
   <section class="services" aria-labelledby="services-heading">
     <div class="section-head" data-reveal>
       <p class="eyebrow">Core services</p>
-      <h2 id="services-heading">Every IT service your business needs to <em class="accent">grow</em></h2>
+      <h2 id="services-heading">Practical IT services for businesses that need work done <em class="accent">properly</em></h2>
       <p class="section-note">
-        One partner for the full stack — from your first landing page to custom software, search visibility, and
-        long-term maintenance.
+        We help with the full digital work stack: website planning, design, development, SEO setup, AI automation,
+        AI agents, data analysis, ecommerce, deployment, and maintenance.
       </p>
     </div>
     <div class="bento">
@@ -240,8 +250,8 @@ const locations = [
       <p class="eyebrow">Static &amp; dynamic</p>
       <h2 id="builds-heading">Every kind of website, built the <em class="accent">right</em> way</h2>
       <p class="section-note">
-        Some businesses need pure speed. Others need features. We build both — and help you choose the right
-        architecture before writing a line of code.
+        Some businesses need a fast static website. Others need a dynamic web app, dashboard, automation, or AI-powered
+        workflow. We help choose the right setup before development starts.
       </p>
     </div>
     <div class="build-grid">
@@ -277,7 +287,7 @@ const locations = [
   <section class="process" aria-labelledby="process-heading">
     <div class="section-head" data-reveal>
       <p class="eyebrow">How work stays clean</p>
-      <h2 id="process-heading">Strategy, build, visibility, maintenance</h2>
+      <h2 id="process-heading">Clear requirement, clean build, smooth deployment</h2>
     </div>
     <ol class="steps">
       {process.map(([step, detail], i) => (
@@ -295,8 +305,8 @@ const locations = [
       <p class="eyebrow">Local reach</p>
       <h2 id="locations-heading">India pages are ready to grow city by city</h2>
       <p class="section-note">
-        Start with priority Indian markets, then expand into deeper city and service coverage with original local
-        content.
+        We are starting with India-focused service pages and can expand location-wise with useful, original content
+        for each city and service area.
       </p>
     </div>
     <div class="city-cloud" data-reveal>
@@ -327,10 +337,10 @@ const locations = [
   <section class="closing" aria-labelledby="cta-heading">
     <div class="closing-panel" data-reveal>
       <p class="eyebrow eyebrow-light">Next step</p>
-      <h2 id="cta-heading">Build the pages that turn visitors into <em class="accent accent-warm">enquiries</em></h2>
+      <h2 id="cta-heading">Need a website, automation, AI agent, or data workflow?</h2>
       <p class="closing-note">
-        Tell us what you are building — a static site, a dynamic web app, or the SEO to grow one you already have —
-        and we will reply within a day with a clear plan and an honest estimate.
+        Tell us what you want to build or fix. We will reply with a clear scope, honest estimate, and practical delivery
+        plan for your website, SEO setup, AI automation, data analysis, or custom IT work.
       </p>
       <a class="button button-cream" href="/contact/">
         <span>Discuss the project</span>
