@@ -259,17 +259,12 @@ const stateHubs = [
       </ul>
     </div>
 
-    <div class="globe-stage" aria-hidden="true">
+    <div class="globe-stage" data-globe-stage>
       <div class="globe-halo" aria-hidden="true"></div>
-      <div class="globe-static">
-        <span class="globe-dot dot-home"></span>
-        <span class="globe-dot dot-one"></span>
-        <span class="globe-dot dot-two"></span>
-        <span class="globe-dot dot-three"></span>
-        <span class="globe-arc arc-one"></span>
-        <span class="globe-arc arc-two"></span>
-        <span class="globe-arc arc-three"></span>
-      </div>
+      <canvas
+        data-globe
+        aria-label="Rotating globe showing delivery routes from India to Dubai, London, New York, Singapore and Sydney"
+      ></canvas>
       <p class="globe-tag" aria-hidden="true">Delivering from India &rarr; worldwide</p>
     </div>
   </section>
@@ -433,6 +428,222 @@ const stateHubs = [
   </section>
 </BaseLayout>
 
+<script>
+  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
+  const stage = document.querySelector("[data-globe-stage]");
+  const canvas = document.querySelector("[data-globe]");
+
+  if (stage && canvas) {
+    const ctx = canvas.getContext("2d");
+    const TILT = -0.42;
+    const BASE_SPEED = 0.00012;
+
+    /* quasi-uniform sphere points via a fibonacci lattice */
+    const DOTS = 1500;
+    const points = [];
+    const golden = Math.PI * (3 - Math.sqrt(5));
+    for (let i = 0; i < DOTS; i++) {
+      const y = 1 - (i / (DOTS - 1)) * 2;
+      const r = Math.sqrt(1 - y * y);
+      const t = golden * i;
+      points.push([Math.cos(t) * r, y, Math.sin(t) * r]);
+    }
+
+    const ll = (lat, lon) => {
+      const la = (lat * Math.PI) / 180;
+      const lo = (lon * Math.PI) / 180;
+      return [Math.cos(la) * Math.cos(lo), Math.sin(la), Math.cos(la) * Math.sin(lo)];
+    };
+
+    const delhi = ll(28.6, 77.2);
+    const homes = [delhi, ll(19.1, 72.9), ll(12.97, 77.6)];
+    const abroad = [ll(25.2, 55.3), ll(51.5, -0.1), ll(40.7, -74), ll(1.35, 103.8), ll(-33.9, 151.2)];
+    const arcs = abroad.map((dest, i) => ({ a: delhi, b: dest, offset: i / abroad.length }));
+
+    const slerp = (a, b, t) => {
+      const dot = Math.min(1, Math.max(-1, a[0] * b[0] + a[1] * b[1] + a[2] * b[2]));
+      const ang = Math.acos(dot);
+      if (ang < 1e-4) return a;
+      const s = Math.sin(ang);
+      const w1 = Math.sin((1 - t) * ang) / s;
+      const w2 = Math.sin(t * ang) / s;
+      return [a[0] * w1 + b[0] * w2, a[1] * w1 + b[1] * w2, a[2] * w1 + b[2] * w2];
+    };
+
+    let rotY = -0.223; // starts with India facing the viewer
+    let vel = BASE_SPEED;
+    let dragging = false;
+    let lastX = 0;
+    let lastT = 0;
+    let W = 0, H = 0, R = 0, CX = 0, CY = 0;
+
+    const resize = () => {
+      const rect = stage.getBoundingClientRect();
+      const dpr = Math.min(2, window.devicePixelRatio || 1);
+      W = rect.width;
+      H = rect.width;
+      canvas.width = W * dpr;
+      canvas.height = H * dpr;
+      canvas.style.width = W + "px";
+      canvas.style.height = H + "px";
+      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
+      R = W * 0.4;
+      CX = W / 2;
+      CY = H / 2;
+    };
+
+    const rot = (p) => {
+      const cy = Math.cos(rotY), sy = Math.sin(rotY);
+      const cx = Math.cos(TILT), sx = Math.sin(TILT);
+      const x = p[0] * cy + p[2] * sy;
+      const z0 = -p[0] * sy + p[2] * cy;
+      const y = p[1] * cx - z0 * sx;
+      const z = p[1] * sx + z0 * cx;
+      return [x, y, z];
+    };
+
+    const draw = (now) => {
+      ctx.clearRect(0, 0, W, H);
+
+      ctx.beginPath();
+      ctx.arc(CX, CY, R, 0, Math.PI * 2);
+      ctx.strokeStyle = "rgba(22, 36, 46, 0.09)";
+      ctx.lineWidth = 1;
+      ctx.stroke();
+
+      for (const p of points) {
+        const [x, y, z] = rot(p);
+        const depth = (z + 1) / 2;
+        const alpha = z > 0 ? 0.08 + depth * 0.4 : 0.05;
+        const size = 0.5 + depth * 1.2;
+        ctx.beginPath();
+        ctx.arc(CX + x * R, CY - y * R, size, 0, Math.PI * 2);
+        ctx.fillStyle = "rgba(31, 58, 82, " + alpha + ")";
+        ctx.fill();
+      }
+
+      for (const arc of arcs) {
+        const SEG = 42;
+        ctx.beginPath();
+        let visible = false;
+        for (let i = 0; i <= SEG; i++) {
+          const t = i / SEG;
+          const p = slerp(arc.a, arc.b, t);
+          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
+          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
+          const px = CX + x * R;
+          const py = CY - y * R;
+          if (i === 0) ctx.moveTo(px, py);
+          else ctx.lineTo(px, py);
+          if (z > -0.15) visible = true;
+        }
+        if (visible) {
+          ctx.strokeStyle = "rgba(224, 138, 0, 0.34)";
+          ctx.lineWidth = 1.1;
+          ctx.stroke();
+
+          const t = (now * 0.00011 + arc.offset) % 1;
+          const p = slerp(arc.a, arc.b, t);
+          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
+          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
+          if (z > -0.15) {
+            const px = CX + x * R;
+            const py = CY - y * R;
+            const g = ctx.createRadialGradient(px, py, 0, px, py, 8);
+            g.addColorStop(0, "rgba(224, 138, 0, 0.95)");
+            g.addColorStop(1, "rgba(224, 138, 0, 0)");
+            ctx.beginPath();
+            ctx.arc(px, py, 8, 0, Math.PI * 2);
+            ctx.fillStyle = g;
+            ctx.fill();
+          }
+        }
+      }
+
+      const marker = (p, color, glow, size) => {
+        const [x, y, z] = rot(p);
+        if (z < -0.05) return;
+        const px = CX + x * R;
+        const py = CY - y * R;
+        const g = ctx.createRadialGradient(px, py, 0, px, py, size * 4);
+        g.addColorStop(0, glow);
+        g.addColorStop(1, "rgba(255,255,255,0)");
+        ctx.beginPath();
+        ctx.arc(px, py, size * 4, 0, Math.PI * 2);
+        ctx.fillStyle = g;
+        ctx.fill();
+        ctx.beginPath();
+        ctx.arc(px, py, size, 0, Math.PI * 2);
+        ctx.fillStyle = color;
+        ctx.fill();
+      };
+      for (const h of homes) marker(h, "rgba(224, 138, 0, 1)", "rgba(224, 138, 0, 0.3)", 2.6);
+      for (const d of abroad) marker(d, "rgba(18, 144, 124, 0.95)", "rgba(18, 144, 124, 0.24)", 2);
+    };
+
+    let raf = null;
+    let prev = 0;
+    let running = false;
+
+    const loop = (now) => {
+      const dt = prev ? Math.min(48, now - prev) : 16;
+      prev = now;
+      if (!dragging) {
+        rotY += vel * dt;
+        vel += (BASE_SPEED - vel) * 0.015;
+      }
+      draw(now);
+      if (running) raf = requestAnimationFrame(loop);
+    };
+
+    const start = () => {
+      if (!running) {
+        running = true;
+        prev = 0;
+        raf = requestAnimationFrame(loop);
+      }
+    };
+    const stop = () => {
+      running = false;
+      if (raf !== null) cancelAnimationFrame(raf);
+      raf = null;
+    };
+
+    resize();
+    draw(0);
+    window.addEventListener("resize", () => {
+      resize();
+      if (!running) draw(performance.now());
+    });
+
+    if (!reduced) {
+      /* only animate while the globe is actually on screen */
+      new IntersectionObserver((entries) => {
+        entries[0].isIntersecting ? start() : stop();
+      }, { threshold: 0.05 }).observe(stage);
+
+      canvas.addEventListener("pointerdown", (e) => {
+        dragging = true;
+        lastX = e.clientX;
+        lastT = e.timeStamp;
+        canvas.setPointerCapture(e.pointerId);
+      });
+      canvas.addEventListener("pointermove", (e) => {
+        if (!dragging) return;
+        const dx = e.clientX - lastX;
+        const dt = Math.max(1, e.timeStamp - lastT);
+        rotY += dx * 0.005;
+        vel = Math.max(-0.004, Math.min(0.004, (dx * 0.005) / dt));
+        lastX = e.clientX;
+        lastT = e.timeStamp;
+      });
+      const release = () => { dragging = false; };
+      canvas.addEventListener("pointerup", release);
+      canvas.addEventListener("pointercancel", release);
+    }
+  }
+</script>
+
 <style>
   /* ================= tokens ================= */
   .hero,
@@ -486,8 +697,8 @@ const stateHubs = [
 
   h1 {
     margin-bottom: 1rem;
-    max-width: 15ch;
-    font-size: clamp(2.25rem, 3.75vw, 3.45rem);
+    max-width: 19ch;
+    font-size: clamp(2.25rem, 3.9vw, 3.55rem);
     line-height: 1.06;
   }
 
@@ -657,8 +868,8 @@ const stateHubs = [
   /* ================= hero ================= */
   .hero {
     display: grid;
-    grid-template-columns: minmax(0, 0.96fr) minmax(20rem, 0.9fr);
-    gap: clamp(2rem, 5vw, 4.5rem);
+    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.8fr);
+    gap: clamp(1.25rem, 2.5vw, 2.75rem);
     align-items: center;
     min-height: calc(78dvh - 4.5rem);
     padding-top: clamp(2.2rem, 4vw, 3.5rem);
@@ -701,26 +912,22 @@ const stateHubs = [
     display: grid;
     place-items: center;
     justify-self: center;
-    width: min(100%, 28rem);
+    width: min(100%, 26rem);
+    max-width: 100%;
     aspect-ratio: 1;
   }
 
-  .globe-static {
+  .globe-stage canvas {
     position: relative;
     z-index: 1;
-    width: min(100%, 26rem);
-    aspect-ratio: 1;
-    border: 1px solid rgba(22, 36, 46, 0.1);
-    border-radius: 50%;
-    background:
-      radial-gradient(circle at 42% 34%, rgba(15, 118, 110, 0.12), transparent 0.55rem),
-      radial-gradient(circle at 58% 24%, rgba(168, 97, 0, 0.16), transparent 0.45rem),
-      radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.18) 64%, transparent 65%),
-      radial-gradient(circle at center, rgba(22, 36, 46, 0.34) 1px, transparent 1.35px);
-    background-size: auto, auto, auto, 15px 15px;
-    box-shadow:
-      inset 0 0 0 1px rgba(255, 255, 255, 0.45),
-      0 24px 70px -42px rgba(22, 36, 46, 0.42);
+    display: block;
+    max-width: 100%;
+    cursor: grab;
+    touch-action: pan-y;
+  }
+
+  .globe-stage canvas:active {
+    cursor: grabbing;
   }
 
   .globe-halo {
@@ -729,69 +936,6 @@ const stateHubs = [
     border-radius: 50%;
     background: radial-gradient(circle at 38% 32%, rgba(18, 144, 124, 0.1), rgba(18, 144, 124, 0.02) 55%, transparent 72%);
     filter: blur(6px);
-  }
-
-  .globe-dot,
-  .globe-arc {
-    position: absolute;
-    display: block;
-    pointer-events: none;
-  }
-
-  .globe-dot {
-    z-index: 3;
-    width: 0.55rem;
-    height: 0.55rem;
-    border-radius: 50%;
-    background: var(--saffron);
-    box-shadow: 0 0 0 0.38rem rgba(168, 97, 0, 0.12);
-  }
-
-  .dot-home {
-    top: 34%;
-    left: 46%;
-  }
-
-  .dot-one {
-    top: 22%;
-    left: 57%;
-    background: var(--teal);
-    box-shadow: 0 0 0 0.32rem rgba(15, 118, 110, 0.12);
-  }
-
-  .dot-two {
-    top: 42%;
-    left: 26%;
-  }
-
-  .dot-three {
-    right: 18%;
-    bottom: 34%;
-    background: var(--teal);
-    box-shadow: 0 0 0 0.32rem rgba(15, 118, 110, 0.12);
-  }
-
-  .globe-arc {
-    z-index: 2;
-    border: 1px solid rgba(168, 97, 0, 0.26);
-    border-color: rgba(168, 97, 0, 0.28) transparent transparent rgba(168, 97, 0, 0.28);
-    border-radius: 50%;
-    transform-origin: center;
-  }
-
-  .arc-one {
-    inset: 8% 13% 29% 7%;
-    transform: rotate(18deg);
-  }
-
-  .arc-two {
-    inset: 17% 4% 23% 22%;
-    transform: rotate(-28deg);
-  }
-
-  .arc-three {
-    inset: 27% 18% 11% 4%;
-    transform: rotate(42deg);
   }
 
   .globe-tag {
