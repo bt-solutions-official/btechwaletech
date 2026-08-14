@@ -1,6 +1,7 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import ProjectCard from "@components/sections/ProjectCard.astro";
 import "@styles/it-services.css";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
@@ -273,6 +274,31 @@ const teamSchema = {
         </div>
       </section>
 
+      <section class="it-section" aria-labelledby="projects-heading">
+        <div class="it-section-head">
+          <h2 id="projects-heading">Featured Projects</h2>
+          <p class="it-section-note">
+            A selection of recent projects showcasing our work across different domains.
+          </p>
+        </div>
+        <div class="projects-grid">
+          <ProjectCard
+            title="CricketTaken.in"
+            href="https://crickettaken.in"
+            image="/images/projects/crc1.png"
+            description="An online platform dedicated to cricket fans, offering real-time updates, match statistics, live scores, and insightful coverage of national and international cricket tournaments. From Indian Premier League (IPL) updates and player performance analysis to match previews and breaking cricket news, the website serves as a handy hub for followers looking to stay updated on the latest developments in the world of cricket."
+            technologies={["HTML5", "CSS3", "JavaScript", "React", "Node.js", "MongoDB"]}
+          />
+          <ProjectCard
+            title="Commitive"
+            href="https://commitive.vercel.app/"
+            image="/images/projects/comc.png"
+            description="A centralized developer dashboard designed to eliminate tab-switching and notification fatigue. It aggregates open-source Pull Requests (PRs), issues, and tracked repositories across multiple organizations into a single unified view, allowing developers to prioritize critical reviews, track activity, and jump directly into code threads."
+            technologies={["React", "TypeScript", "Tailwind CSS", "Vercel", "LocalStorage"]}
+          />
+        </div>
+      </section>
+
       <section class="it-section" aria-labelledby="proof-heading">
         <div class="it-text-block">
           <article>
@@ -445,5 +471,106 @@ const teamSchema = {
   .it-team-link:hover,
   .it-team-link:focus-visible {
     text-decoration: underline;
+  }
+
+  /* Project Card Styles */
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(min(100%, 20rem), 1fr));
+    gap: 2rem;
+    margin-top: 2rem;
+  }
+
+  .project-card {
+    background: var(--background, #ffffff);
+    border: 1px solid var(--border-color, #e0e0e0);
+    border-radius: var(--border-radius, 8px);
+    padding: var(--spacing-md, 1.5rem);
+    box-shadow: var(--shadow-sm, 0 2px 4px rgba(0,0,0,0.05));
+    transition: var(--transition, all 0.2s ease);
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .project-card:hover {
+    box-shadow: var(--shadow-md, 0 4px 8px rgba(0,0,0,0.1));
+    transform: translateY(-2px);
+  }
+
+  .project-image {
+    width: 100%;
+    height: auto;
+    border-radius: var(--border-radius, 6px);
+    margin-bottom: var(--spacing-sm, 1rem);
+    object-fit: cover;
+  }
+
+  .project-title {
+    margin: 0 0 var(--spacing-xs, 0.5rem) 0;
+    font-size: var(--font-size-lg, 1.25rem);
+    font-weight: 600;
+    color: var(--text-primary, #22242e);
+  }
+
+  .project-title a {
+    color: var(--text-primary, #22242e);
+    text-decoration: none;
+  }
+
+  .project-title a:hover {
+    text-decoration: underline;
+  }
+
+  .project-description {
+    margin: 0 0 var(--spacing-sm, 1rem) 0;
+    color: var(--text-secondary, #5c6a70);
+    line-height: 1.5;
+    flex-grow: 1;
+  }
+
+  .project-technologies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--spacing-xs, 0.5rem);
+    margin-bottom: var(--spacing-sm, 1rem);
+  }
+
+  .tech-tag {
+    background: var(--background-muted, #f8f9fa);
+    color: var(--text-muted, #6c757d);
+    padding: var(--spacing-xxs, 0.25rem) var(--spacing-sm, 0.5rem);
+    border-radius: var(--border-radius, 4px);
+    font-size: var(--font-size-sm, 0.875rem);
+    font-weight: 500;
+  }
+
+  .project-links {
+    display: flex;
+    gap: var(--spacing-sm, 1rem);
+    margin-top: var(--spacing-sm, 1rem);
+  }
+
+  .project-link {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--spacing-xxs, 0.25rem);
+    color: var(--text-primary, #22242e);
+    text-decoration: none;
+    font-weight: 500;
+    padding: var(--spacing-xs, 0.5rem) var(--spacing-sm, 0.75rem);
+    border: 1px solid var(--border-color, #e0e0e0);
+    border-radius: var(--border-radius, 4px);
+    font-size: var(--font-size-sm, 0.875rem);
+    transition: var(--transition, all 0.2s ease);
+  }
+
+  .project-link:hover {
+    background: var(--background-muted, #f8f9fa);
+    border-color: var(--border-color-hover, #ccc);
+  }
+
+  .source-link {
+    border-style: dashed;
   }
 </style>
