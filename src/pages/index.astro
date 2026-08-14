@@ -1,4 +1,4 @@
----
+﻿---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
@@ -33,12 +33,12 @@ const faqs = [
   {
     question: "What is included in the 5 months of free maintenance?",
     answer:
-      "After your site is hosted and live, the next 5 months of maintenance cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After that you can continue on a monthly plan from ₹2,000 or just contact us when something needs changing.",
+      "After your site is hosted and live, the next 5 months of maintenance cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After that you can continue on a monthly plan from â‚¹2,000 or just contact us when something needs changing.",
   },
   {
     question: "How much does a website cost?",
     answer:
-      "A static website starts from ₹5,000 and a 30-page SEO website handled from design through to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and custom web applications from ₹40,000. These are starting points: the final cost depends on pages, features, integrations, and content, so you get an itemised estimate.",
+      "A static website starts from â‚¹5,000 and a 30-page SEO website handled from design through to deployment starts from â‚¹10,000. Ecommerce starts from â‚¹25,000 and custom web applications from â‚¹40,000. These are starting points: the final cost depends on pages, features, integrations, and content, so you get an itemised estimate.",
   },
   {
     question: "Do you provide AI automation and data analysis services?",
@@ -238,35 +238,38 @@ const stateHubs = [
 ---
 
 <BaseLayout meta={page} schema={[faqSchema(faqs)]}>
-  <div class="ambient" aria-hidden="true"></div>
-
   <section class="hero" aria-labelledby="home-heading">
     <div class="hero-copy">
-      <p class="eyebrow load" style="--d: 0ms">India-first freelance IT services group</p>
-      <h1 id="home-heading" class="load" style="--d: 90ms">
+      <p class="eyebrow">India-first freelance IT services group</p>
+      <h1 id="home-heading">
         Freelance IT services for websites, AI automation, and <em class="accent">data analysis</em>
       </h1>
-      <p class="lede load" style="--d: 180ms">{page.intro}</p>
-      <div class="hero-actions load" style="--d: 270ms" aria-label="Primary actions">
+      <p class="lede">{page.intro}</p>
+      <div class="hero-actions" aria-label="Primary actions">
         <a class="button button-primary" href="/contact/">
           <span>Start a project</span>
           <span class="button-orb" aria-hidden="true">&rarr;</span>
         </a>
         <a class="button button-ghost" href="/services/">Explore services</a>
       </div>
-      <ul class="signal-row load" style="--d: 360ms" aria-label="Homepage focus areas">
+      <ul class="signal-row" aria-label="Homepage focus areas">
         <li>Design to deployment</li>
         <li>SEO-ready development</li>
         <li>AI, automation &amp; data work</li>
       </ul>
     </div>
 
-    <div class="globe-stage load" style="--d: 200ms" data-globe-stage>
+    <div class="globe-stage" aria-hidden="true">
       <div class="globe-halo" aria-hidden="true"></div>
-      <canvas
-        data-globe
-        aria-label="Animated globe with connection arcs reaching out from India to cities around the world"
-      ></canvas>
+      <div class="globe-static">
+        <span class="globe-dot dot-home"></span>
+        <span class="globe-dot dot-one"></span>
+        <span class="globe-dot dot-two"></span>
+        <span class="globe-dot dot-three"></span>
+        <span class="globe-arc arc-one"></span>
+        <span class="globe-arc arc-two"></span>
+        <span class="globe-arc arc-three"></span>
+      </div>
       <p class="globe-tag" aria-hidden="true">Delivering from India &rarr; worldwide</p>
     </div>
   </section>
@@ -284,7 +287,7 @@ const stateHubs = [
   </div>
 
   <section class="services" aria-labelledby="services-heading">
-    <div class="section-head" data-reveal>
+    <div class="section-head">
       <p class="eyebrow">Core services</p>
       <h2 id="services-heading">Practical IT services for businesses that need work done <em class="accent">properly</em></h2>
       <p class="section-note">
@@ -293,7 +296,7 @@ const stateHubs = [
       </p>
     </div>
     <div class="bento">
-      {services.map((s, i) => {
+      {services.map((s) => {
         const inner = (
           <div class="card-core">
             <h3>{s.name}</h3>
@@ -307,11 +310,11 @@ const stateHubs = [
           </div>
         );
         return s.href ? (
-          <a class={`card card-${s.size}`} href={s.href} data-reveal data-tilt-card style={`--d: ${i * 60}ms`}>
+          <a class={`card card-${s.size}`} href={s.href}>
             {inner}
           </a>
         ) : (
-          <div class={`card card-${s.size}`} data-reveal data-tilt-card style={`--d: ${i * 60}ms`}>
+          <div class={`card card-${s.size}`}>
             {inner}
           </div>
         );
@@ -320,7 +323,7 @@ const stateHubs = [
   </section>
 
   <section class="builds" aria-labelledby="builds-heading">
-    <div class="section-head" data-reveal>
+    <div class="section-head">
       <p class="eyebrow">Static &amp; dynamic</p>
       <h2 id="builds-heading">Every kind of website, built the <em class="accent">right</em> way</h2>
       <p class="section-note">
@@ -329,8 +332,8 @@ const stateHubs = [
       </p>
     </div>
     <div class="build-grid">
-      {builds.map((b, i) => (
-        <a class="build-card" href="/services/web-development/" data-reveal data-tilt-card style={`--d: ${i * 110}ms`}>
+      {builds.map((b) => (
+        <a class="build-card" href="/services/web-development/">
           <div class="card-core">
             <p class="build-tag">{b.tag}</p>
             <h3>{b.name}</h3>
@@ -348,10 +351,10 @@ const stateHubs = [
   </section>
 
   <section class="stats" aria-label="Btechwale in numbers">
-    <ul class="stat-band" data-reveal>
+    <ul class="stat-band">
       {stats.map((s) => (
         <li>
-          <span class="stat-num" data-count={s.value} data-suffix={s.suffix}>0{s.suffix}</span>
+          <span class="stat-num">{s.value}{s.suffix}</span>
           <span class="stat-label">{s.label}</span>
         </li>
       ))}
@@ -359,13 +362,13 @@ const stateHubs = [
   </section>
 
   <section class="process" aria-labelledby="process-heading">
-    <div class="section-head" data-reveal>
+    <div class="section-head">
       <p class="eyebrow">How work stays clean</p>
       <h2 id="process-heading">Clear requirement, clean build, smooth deployment</h2>
     </div>
     <ol class="steps">
       {process.map(([step, detail], i) => (
-        <li data-reveal style={`--d: ${i * 110}ms`}>
+        <li>
           <span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
           <h3>{step}</h3>
           <p>{detail}</p>
@@ -375,7 +378,7 @@ const stateHubs = [
   </section>
 
   <section class="locations" aria-labelledby="locations-heading">
-    <div class="section-head" data-reveal>
+    <div class="section-head">
       <p class="eyebrow">Local reach</p>
       <h2 id="locations-heading">Local pages for 150+ cities across India</h2>
       <p class="section-note">
@@ -383,13 +386,13 @@ const stateHubs = [
         name swapped in. Start with your city, or browse the full directory.
       </p>
     </div>
-    <div class="city-cloud" data-reveal>
+    <div class="city-cloud">
       {locations.map(([name, href]) => (
         <a class="city-chip" href={href}>{name}</a>
       ))}
     </div>
-    <p class="cloud-label" data-reveal>Browse by state</p>
-    <div class="city-cloud city-cloud-muted" data-reveal>
+    <p class="cloud-label">Browse by state</p>
+    <div class="city-cloud city-cloud-muted">
       {stateHubs.map(([name, href]) => (
         <a class="city-chip" href={href}>{name}</a>
       ))}
@@ -397,11 +400,11 @@ const stateHubs = [
   </section>
 
   <section class="faq" aria-labelledby="faq-heading">
-    <div class="section-head" data-reveal>
+    <div class="section-head">
       <p class="eyebrow">Questions</p>
       <h2 id="faq-heading">Answers before you even ask</h2>
     </div>
-    <div class="faq-list" data-reveal>
+    <div class="faq-list">
       {faqs.map((f) => (
         <details class="faq-item">
           <summary>
@@ -415,7 +418,7 @@ const stateHubs = [
   </section>
 
   <section class="closing" aria-labelledby="cta-heading">
-    <div class="closing-panel" data-reveal>
+    <div class="closing-panel">
       <p class="eyebrow eyebrow-light">Next step</p>
       <h2 id="cta-heading">Need a website, automation, AI agent, or data workflow?</h2>
       <p class="closing-note">
@@ -430,297 +433,6 @@ const stateHubs = [
   </section>
 </BaseLayout>
 
-<script>
-  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  document.documentElement.classList.add("js");
-
-  /* ------- scroll reveal ------- */
-  const revealed = document.querySelectorAll("[data-reveal]");
-  if (reduced || !("IntersectionObserver" in window)) {
-    revealed.forEach((el) => el.classList.add("in"));
-  } else {
-    const io = new IntersectionObserver(
-      (entries) => {
-        for (const e of entries) {
-          if (e.isIntersecting) {
-            e.target.classList.add("in");
-            io.unobserve(e.target);
-          }
-        }
-      },
-      { threshold: 0.05, rootMargin: "0px 0px -6% 0px" }
-    );
-    revealed.forEach((el) => io.observe(el));
-  }
-
-  /* ------- count-up stats ------- */
-  const nums = document.querySelectorAll<HTMLElement>(".stat-num");
-  const setFinal = (el: HTMLElement) => {
-    el.textContent = `${el.dataset.count}${el.dataset.suffix ?? ""}`;
-  };
-  if (reduced || !("IntersectionObserver" in window)) {
-    nums.forEach(setFinal);
-  } else {
-    const cio = new IntersectionObserver(
-      (entries) => {
-        for (const e of entries) {
-          if (!e.isIntersecting) continue;
-          cio.unobserve(e.target);
-          const el = e.target as HTMLElement;
-          const target = Number(el.dataset.count);
-          const suffix = el.dataset.suffix ?? "";
-          const t0 = performance.now();
-          const tick = (now: number) => {
-            const t = Math.min(1, (now - t0) / 1400);
-            const eased = 1 - Math.pow(1 - t, 3);
-            el.textContent = `${Math.round(target * eased)}${suffix}`;
-            if (t < 1) requestAnimationFrame(tick);
-          };
-          requestAnimationFrame(tick);
-        }
-      },
-      { threshold: 0.4 }
-    );
-    nums.forEach((el) => cio.observe(el));
-  }
-
-  /* ------- tactile card tilt + spotlight ------- */
-  if (!reduced && matchMedia("(pointer: fine)").matches) {
-    document.querySelectorAll<HTMLElement>("[data-tilt-card]").forEach((card) => {
-      card.addEventListener("pointermove", (e) => {
-        const r = card.getBoundingClientRect();
-        const px = (e.clientX - r.left) / r.width - 0.5;
-        const py = (e.clientY - r.top) / r.height - 0.5;
-        card.style.setProperty("--ry", `${(px * 4).toFixed(2)}deg`);
-        card.style.setProperty("--rx", `${(-py * 3.2).toFixed(2)}deg`);
-        card.style.setProperty("--mx", `${e.clientX - r.left}px`);
-        card.style.setProperty("--my", `${e.clientY - r.top}px`);
-      });
-      card.addEventListener("pointerleave", () => {
-        card.style.setProperty("--ry", "0deg");
-        card.style.setProperty("--rx", "0deg");
-      });
-    });
-  }
-
-  /* ------- particle globe (light mode) ------- */
-  const stage = document.querySelector<HTMLElement>("[data-globe-stage]");
-  const canvas = document.querySelector<HTMLCanvasElement>("[data-globe]");
-  if (stage && canvas) {
-    const ctx = canvas.getContext("2d")!;
-    const TILT = -0.42;
-    const BASE_SPEED = 0.00012;
-
-    type V3 = [number, number, number];
-
-    const DOTS = 1500;
-    const points: V3[] = [];
-    const golden = Math.PI * (3 - Math.sqrt(5));
-    for (let i = 0; i < DOTS; i++) {
-      const y = 1 - (i / (DOTS - 1)) * 2;
-      const r = Math.sqrt(1 - y * y);
-      const t = golden * i;
-      points.push([Math.cos(t) * r, y, Math.sin(t) * r]);
-    }
-
-    const ll = (lat: number, lon: number): V3 => {
-      const la = (lat * Math.PI) / 180;
-      const lo = (lon * Math.PI) / 180;
-      return [Math.cos(la) * Math.cos(lo), Math.sin(la), Math.cos(la) * Math.sin(lo)];
-    };
-
-    const delhi = ll(28.6, 77.2);
-    const homes = [delhi, ll(19.1, 72.9), ll(12.97, 77.6)];
-    const abroad = [ll(25.2, 55.3), ll(51.5, -0.1), ll(40.7, -74), ll(1.35, 103.8), ll(-33.9, 151.2)];
-    const arcs = abroad.map((dest, i) => ({ a: delhi, b: dest, offset: i / abroad.length }));
-
-    const slerp = (a: V3, b: V3, t: number): V3 => {
-      const dot = Math.min(1, Math.max(-1, a[0] * b[0] + a[1] * b[1] + a[2] * b[2]));
-      const ang = Math.acos(dot);
-      if (ang < 1e-4) return a;
-      const s = Math.sin(ang);
-      const w1 = Math.sin((1 - t) * ang) / s;
-      const w2 = Math.sin(t * ang) / s;
-      return [a[0] * w1 + b[0] * w2, a[1] * w1 + b[1] * w2, a[2] * w1 + b[2] * w2];
-    };
-
-    let rotY = 4.2;
-    let vel = BASE_SPEED;
-    let dragging = false;
-    let lastX = 0;
-    let lastT = 0;
-    let W = 0, H = 0, R = 0, CX = 0, CY = 0;
-
-    const resize = () => {
-      const rect = stage.getBoundingClientRect();
-      const dpr = Math.min(2, window.devicePixelRatio || 1);
-      W = rect.width;
-      H = rect.width;
-      canvas.width = W * dpr;
-      canvas.height = H * dpr;
-      canvas.style.width = `${W}px`;
-      canvas.style.height = `${H}px`;
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      R = W * 0.395;
-      CX = W / 2;
-      CY = H / 2;
-    };
-
-    const rot = (p: V3): V3 => {
-      const cy = Math.cos(rotY), sy = Math.sin(rotY);
-      const cx = Math.cos(TILT), sx = Math.sin(TILT);
-      const x = p[0] * cy + p[2] * sy;
-      const z0 = -p[0] * sy + p[2] * cy;
-      const y = p[1] * cx - z0 * sx;
-      const z = p[1] * sx + z0 * cx;
-      return [x, y, z];
-    };
-
-    const draw = (now: number) => {
-      ctx.clearRect(0, 0, W, H);
-
-      ctx.beginPath();
-      ctx.arc(CX, CY, R, 0, Math.PI * 2);
-      ctx.strokeStyle = "rgba(22, 36, 46, 0.08)";
-      ctx.lineWidth = 1;
-      ctx.stroke();
-
-      for (const p of points) {
-        const [x, y, z] = rot(p);
-        const depth = (z + 1) / 2;
-        const alpha = z > 0 ? 0.07 + depth * 0.34 : 0.04;
-        const size = 0.6 + depth * 1.1;
-        ctx.beginPath();
-        ctx.arc(CX + x * R, CY - y * R, size, 0, Math.PI * 2);
-        ctx.fillStyle = `rgba(31, 58, 82, ${alpha})`;
-        ctx.fill();
-      }
-
-      for (const arc of arcs) {
-        const SEG = 42;
-        ctx.beginPath();
-        let visible = false;
-        for (let i = 0; i <= SEG; i++) {
-          const t = i / SEG;
-          const p = slerp(arc.a, arc.b, t);
-          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
-          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
-          const px = CX + x * R;
-          const py = CY - y * R;
-          if (i === 0) ctx.moveTo(px, py);
-          else ctx.lineTo(px, py);
-          if (z > -0.15) visible = true;
-        }
-        if (visible) {
-          ctx.strokeStyle = "rgba(224, 138, 0, 0.3)";
-          ctx.lineWidth = 1;
-          ctx.stroke();
-
-          const t = (now * 0.00011 + arc.offset) % 1;
-          const p = slerp(arc.a, arc.b, t);
-          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
-          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
-          if (z > -0.15) {
-            const px = CX + x * R;
-            const py = CY - y * R;
-            const g = ctx.createRadialGradient(px, py, 0, px, py, 7);
-            g.addColorStop(0, "rgba(224, 138, 0, 0.9)");
-            g.addColorStop(1, "rgba(224, 138, 0, 0)");
-            ctx.beginPath();
-            ctx.arc(px, py, 7, 0, Math.PI * 2);
-            ctx.fillStyle = g;
-            ctx.fill();
-          }
-        }
-      }
-
-      const marker = (p: V3, color: string, glow: string, size: number) => {
-        const [x, y, z] = rot(p);
-        if (z < -0.05) return;
-        const px = CX + x * R;
-        const py = CY - y * R;
-        const g = ctx.createRadialGradient(px, py, 0, px, py, size * 4);
-        g.addColorStop(0, glow);
-        g.addColorStop(1, "rgba(255,255,255,0)");
-        ctx.beginPath();
-        ctx.arc(px, py, size * 4, 0, Math.PI * 2);
-        ctx.fillStyle = g;
-        ctx.fill();
-        ctx.beginPath();
-        ctx.arc(px, py, size, 0, Math.PI * 2);
-        ctx.fillStyle = color;
-        ctx.fill();
-      };
-      for (const h of homes) marker(h, "rgba(224, 138, 0, 1)", "rgba(224, 138, 0, 0.28)", 2.4);
-      for (const d of abroad) marker(d, "rgba(18, 144, 124, 0.95)", "rgba(18, 144, 124, 0.22)", 1.8);
-    };
-
-    let raf: number | null = null;
-    let prev = 0;
-    let running = false;
-
-    const loop = (now: number) => {
-      const dt = prev ? Math.min(48, now - prev) : 16;
-      prev = now;
-      if (!dragging) {
-        rotY += vel * dt;
-        vel += (BASE_SPEED - vel) * 0.015;
-      }
-      draw(now);
-      if (running) raf = requestAnimationFrame(loop);
-    };
-
-    const start = () => {
-      if (!running) {
-        running = true;
-        prev = 0;
-        raf = requestAnimationFrame(loop);
-      }
-    };
-    const stop = () => {
-      running = false;
-      if (raf !== null) cancelAnimationFrame(raf);
-      raf = null;
-    };
-
-    resize();
-    window.addEventListener("resize", () => {
-      resize();
-      if (!running) draw(performance.now());
-    });
-
-    if (reduced) {
-      draw(0);
-    } else {
-      new IntersectionObserver(
-        (entries) => {
-          entries[0].isIntersecting ? start() : stop();
-        },
-        { threshold: 0.05 }
-      ).observe(stage);
-
-      canvas.addEventListener("pointerdown", (e) => {
-        dragging = true;
-        lastX = e.clientX;
-        lastT = e.timeStamp;
-        canvas.setPointerCapture(e.pointerId);
-      });
-      canvas.addEventListener("pointermove", (e) => {
-        if (!dragging) return;
-        const dx = e.clientX - lastX;
-        const dt = Math.max(1, e.timeStamp - lastT);
-        rotY += dx * 0.005;
-        vel = Math.max(-0.004, Math.min(0.004, (dx * 0.005) / dt));
-        lastX = e.clientX;
-        lastT = e.timeStamp;
-      });
-      const release = () => (dragging = false);
-      canvas.addEventListener("pointerup", release);
-      canvas.addEventListener("pointercancel", release);
-    }
-  }
-</script>
-
 <style>
   /* ================= tokens ================= */
   .hero,
@@ -734,10 +446,10 @@ const stateHubs = [
     --paper: #f8f5ef;
     --card: #ffffff;
     --ink: #16242e;
-    --muted: #5c6a70;
+    --muted: #46555c;
     --hairline: rgba(22, 36, 46, 0.1);
-    --teal: #12907c;
-    --saffron: #e08a00;
+    --teal: #0f766e;
+    --saffron: #8d5100;
     --ease: cubic-bezier(0.32, 0.72, 0, 1);
     position: relative;
     z-index: 1;
@@ -753,26 +465,7 @@ const stateHubs = [
 
   :global(::selection) {
     color: #ffffff;
-    background: #12907c;
-  }
-
-  .ambient {
-    position: fixed;
-    inset: 0;
-    z-index: 0;
-    pointer-events: none;
-    background:
-      radial-gradient(46rem 34rem at 16% -8%, rgba(18, 144, 124, 0.07), transparent 68%),
-      radial-gradient(40rem 30rem at 90% 4%, rgba(224, 138, 0, 0.06), transparent 70%),
-      radial-gradient(52rem 40rem at 50% 112%, rgba(18, 144, 124, 0.05), transparent 72%);
-  }
-
-  .ambient::after {
-    position: absolute;
-    inset: 0;
-    opacity: 0.04;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='160' height='160'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='2'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");
-    content: "";
+    background: #0f766e;
   }
 
   /* ================= type ================= */
@@ -786,7 +479,7 @@ const stateHubs = [
   h1,
   h2 {
     color: var(--ink);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-weight: 640;
     letter-spacing: -0.028em;
   }
@@ -805,7 +498,7 @@ const stateHubs = [
   }
 
   .accent {
-    font-family: "Fraunces", Georgia, serif;
+    font-family: Georgia, "Times New Roman", serif;
     font-style: italic;
     font-weight: 480;
     letter-spacing: -0.01em;
@@ -858,6 +551,18 @@ const stateHubs = [
     margin-top: 1.1rem;
     color: var(--muted);
     line-height: 1.7;
+  }
+
+  .marquee,
+  .services,
+  .builds,
+  .stats,
+  .process,
+  .locations,
+  .faq,
+  .closing {
+    content-visibility: auto;
+    contain-intrinsic-size: auto 44rem;
   }
 
   /* ================= buttons ================= */
@@ -998,18 +703,24 @@ const stateHubs = [
     justify-self: center;
     width: min(100%, 28rem);
     aspect-ratio: 1;
-    touch-action: pan-y;
   }
 
-  .globe-stage canvas {
+  .globe-static {
     position: relative;
     z-index: 1;
-    max-width: 100%;
-    cursor: grab;
-  }
-
-  .globe-stage canvas:active {
-    cursor: grabbing;
+    width: min(100%, 26rem);
+    aspect-ratio: 1;
+    border: 1px solid rgba(22, 36, 46, 0.1);
+    border-radius: 50%;
+    background:
+      radial-gradient(circle at 42% 34%, rgba(15, 118, 110, 0.12), transparent 0.55rem),
+      radial-gradient(circle at 58% 24%, rgba(168, 97, 0, 0.16), transparent 0.45rem),
+      radial-gradient(circle at 50% 50%, rgba(255, 255, 255, 0.45), rgba(255, 255, 255, 0.18) 64%, transparent 65%),
+      radial-gradient(circle at center, rgba(22, 36, 46, 0.34) 1px, transparent 1.35px);
+    background-size: auto, auto, auto, 15px 15px;
+    box-shadow:
+      inset 0 0 0 1px rgba(255, 255, 255, 0.45),
+      0 24px 70px -42px rgba(22, 36, 46, 0.42);
   }
 
   .globe-halo {
@@ -1018,6 +729,69 @@ const stateHubs = [
     border-radius: 50%;
     background: radial-gradient(circle at 38% 32%, rgba(18, 144, 124, 0.1), rgba(18, 144, 124, 0.02) 55%, transparent 72%);
     filter: blur(6px);
+  }
+
+  .globe-dot,
+  .globe-arc {
+    position: absolute;
+    display: block;
+    pointer-events: none;
+  }
+
+  .globe-dot {
+    z-index: 3;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--saffron);
+    box-shadow: 0 0 0 0.38rem rgba(168, 97, 0, 0.12);
+  }
+
+  .dot-home {
+    top: 34%;
+    left: 46%;
+  }
+
+  .dot-one {
+    top: 22%;
+    left: 57%;
+    background: var(--teal);
+    box-shadow: 0 0 0 0.32rem rgba(15, 118, 110, 0.12);
+  }
+
+  .dot-two {
+    top: 42%;
+    left: 26%;
+  }
+
+  .dot-three {
+    right: 18%;
+    bottom: 34%;
+    background: var(--teal);
+    box-shadow: 0 0 0 0.32rem rgba(15, 118, 110, 0.12);
+  }
+
+  .globe-arc {
+    z-index: 2;
+    border: 1px solid rgba(168, 97, 0, 0.26);
+    border-color: rgba(168, 97, 0, 0.28) transparent transparent rgba(168, 97, 0, 0.28);
+    border-radius: 50%;
+    transform-origin: center;
+  }
+
+  .arc-one {
+    inset: 8% 13% 29% 7%;
+    transform: rotate(18deg);
+  }
+
+  .arc-two {
+    inset: 17% 4% 23% 22%;
+    transform: rotate(-28deg);
+  }
+
+  .arc-three {
+    inset: 27% 18% 11% 4%;
+    transform: rotate(42deg);
   }
 
   .globe-tag {
@@ -1032,24 +806,6 @@ const stateHubs = [
     backdrop-filter: blur(12px);
     font-size: 0.82rem;
     font-weight: 550;
-  }
-
-  .load {
-    animation: rise 950ms var(--ease) both;
-    animation-delay: var(--d, 0ms);
-  }
-
-  @keyframes rise {
-    from {
-      opacity: 0;
-      transform: translateY(24px);
-      filter: blur(6px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-      filter: blur(0);
-    }
   }
 
   /* ================= marquee ================= */
@@ -1079,8 +835,8 @@ const stateHubs = [
   }
 
   .marquee-item {
-    color: rgba(22, 36, 46, 0.55);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    color: #46555c;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 0.95rem;
     font-weight: 560;
     letter-spacing: 0.02em;
@@ -1160,7 +916,7 @@ const stateHubs = [
   .card h3 {
     margin-bottom: 0.65rem;
     color: var(--ink);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: clamp(1.15rem, 1.8vw, 1.4rem);
     font-weight: 620;
     letter-spacing: -0.015em;
@@ -1273,7 +1029,7 @@ const stateHubs = [
   .build-card h3 {
     margin-bottom: 0.7rem;
     color: var(--ink);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: clamp(1.4rem, 2.2vw, 1.8rem);
     font-weight: 630;
     letter-spacing: -0.015em;
@@ -1335,7 +1091,7 @@ const stateHubs = [
 
   .stat-num {
     color: var(--ink);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: clamp(2.2rem, 4.5vw, 3.4rem);
     font-weight: 680;
     letter-spacing: -0.03em;
@@ -1367,7 +1123,7 @@ const stateHubs = [
 
   .step-num {
     color: var(--saffron);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 0.82rem;
     font-weight: 700;
     letter-spacing: 0.14em;
@@ -1375,7 +1131,7 @@ const stateHubs = [
 
   .steps h3 {
     color: var(--ink);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 1.32rem;
     font-weight: 630;
     letter-spacing: -0.01em;
@@ -1468,7 +1224,7 @@ const stateHubs = [
     gap: 1.5rem;
     padding: 1.35rem 0.25rem;
     color: var(--ink);
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: clamp(1.05rem, 1.8vw, 1.25rem);
     font-weight: 600;
     letter-spacing: -0.01em;
@@ -1548,30 +1304,6 @@ const stateHubs = [
     color: rgba(248, 245, 239, 0.72);
     font-size: 1.03rem;
     line-height: 1.7;
-  }
-
-  /* ================= scroll reveal ================= */
-  :global(html.js) [data-reveal] {
-    opacity: 0;
-    transform: translateY(28px);
-    filter: blur(6px);
-    transition:
-      opacity 950ms var(--ease),
-      transform 950ms var(--ease),
-      filter 950ms var(--ease);
-    transition-delay: var(--d, 0ms);
-  }
-
-  :global(html.js) [data-reveal].in {
-    opacity: 1;
-    transform: translateY(0);
-    filter: blur(0);
-  }
-
-  /* tilt cards need their own transform once revealed */
-  :global(html.js) .card[data-reveal].in,
-  :global(html.js) .build-card[data-reveal].in {
-    transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(var(--lift, 0px));
   }
 
   /* ================= responsive ================= */
@@ -1686,19 +1418,8 @@ const stateHubs = [
 
   /* ================= preference guards ================= */
   @media (prefers-reduced-motion: reduce) {
-    .load {
-      animation: none;
-    }
-
     .marquee-track {
       animation: none;
-    }
-
-    :global(html.js) [data-reveal] {
-      opacity: 1;
-      transform: none;
-      filter: none;
-      transition: none;
     }
 
     .button,
@@ -1728,3 +1449,10 @@ const stateHubs = [
     }
   }
 </style>
+
+
+
+
+
+
+

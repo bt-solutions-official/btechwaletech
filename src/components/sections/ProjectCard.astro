@@ -22,8 +22,8 @@ const { title, href, image, description, technologies, source } = Astro.props;
 
   {technologies.length > 0 && (
     <div class="project-technologies">
-      {technologies.map((tech, index) => (
-        <span key={index} class="tech-tag">{tech}</span>
+      {technologies.map((tech) => (
+        <span class="tech-tag">{tech}</span>
       ))}
     </div>
   )}

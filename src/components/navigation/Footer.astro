@@ -1,4 +1,4 @@
----
+﻿---
 import { Image } from "astro:assets";
 import WhatsAppIcon from "@components/common/WhatsAppIcon.astro";
 import { siteBrand, siteContact } from "@data/site/site-config";
@@ -47,7 +47,7 @@ const columns = [
   },
 ];
 
-/* Social profiles are intentionally omitted until real URLs exist —
+/* Social profiles are intentionally omitted until real URLs exist â€”
    placeholder "#" links are dead ends for users and crawlers. */
 ---
 
@@ -56,7 +56,7 @@ const columns = [
     <div class="footer-top">
       <div class="footer-brand-col">
         <a class="footer-brand" href="/" aria-label={`${siteBrand.name} home`}>
-          <Image src={logo} alt={siteBrand.name} height={96} densities={[1, 2]} />
+          <Image src={logo} alt="" height={96} densities={[1, 2]} />
           <span class="footer-brand-wordmark">BtechWaleTech</span>
         </a>
         <p class="footer-blurb">
@@ -66,7 +66,7 @@ const columns = [
         <ul class="footer-social" aria-label="Contact">
           <li><a href={siteContact.emailHref}>{siteContact.email}</a></li>
           <li>
-            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
+            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp us on BtechWaleTech">
               <WhatsAppIcon />
               <span>{siteContact.whatsappLabel}</span>
             </a>
@@ -99,7 +99,7 @@ const columns = [
 
     <div class="footer-contact" aria-label="Contact details">
       <a href={siteContact.emailHref}>{siteContact.email}</a>
-      <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
+      <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp us on BtechWaleTech">
         <WhatsAppIcon />
         <span>{siteContact.whatsappLabel}</span>
       </a>
@@ -117,7 +117,7 @@ const columns = [
   .site-footer {
     position: relative;
     z-index: 1;
-    color: #93a0a6;
+    color: #b7c3c9;
     background: #101c26;
     border-top: 1px solid rgba(248, 245, 239, 0.08);
   }
@@ -210,7 +210,7 @@ const columns = [
   .footer-col-title {
     margin: 0 0 1rem;
     color: #f2efe9;
-    font-family: "Bricolage Grotesque", ui-sans-serif, system-ui, sans-serif;
+    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
     font-size: 0.82rem;
     font-weight: 650;
     letter-spacing: 0.14em;
@@ -226,7 +226,7 @@ const columns = [
   }
 
   .footer-col a {
-    color: #8b959c;
+    color: #b7c3c9;
     font-size: 0.92rem;
     text-decoration: none;
     transition: color 400ms cubic-bezier(0.32, 0.72, 0, 1);
@@ -252,7 +252,7 @@ const columns = [
   }
 
   .footer-states a {
-    color: #8b959c;
+    color: #b7c3c9;
     font-size: 0.86rem;
     text-decoration: none;
     transition: color 400ms cubic-bezier(0.32, 0.72, 0, 1);
@@ -300,7 +300,7 @@ const columns = [
   }
 
   .footer-made {
-    color: #6b757c;
+    color: #b7c3c9;
   }
 
   @media (max-width: 900px) {
@@ -314,3 +314,7 @@ const columns = [
     }
   }
 </style>
+
+
+
+

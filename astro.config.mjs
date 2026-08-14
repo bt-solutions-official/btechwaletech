@@ -6,6 +6,9 @@ export default defineConfig({
   site: "https://btechwaletech.in",
   output: "static",
   trailingSlash: "always",
+  build: {
+    inlineStylesheets: "always",
+  },
   integrations: [
     sitemap({
       filter: (page) => !page.includes("/drafts/"),

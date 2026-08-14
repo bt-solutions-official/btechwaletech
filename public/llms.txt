@@ -1,54 +1,61 @@
 # BtechWaleTech
 
-> Freelance IT services group from India building websites, software, SEO systems, AI automation, AI agents, data analysis workflows, ecommerce sites, deployment setups, and maintenance for small businesses, startups, creators, and service providers.
+> BtechWaleTech is a small freelance IT services group from India. The group builds websites, software, SEO systems, AI automations, AI agents, data analysis workflows, ecommerce sites, deployment setups, and maintenance plans for small businesses, startups, creators, and service providers.
 
-Canonical website: https://btechwaletech.in/
-Primary contact: info@btechwaletech.in
-WhatsApp: https://wa.me/916206986683
-Sitemap: https://btechwaletech.in/sitemap-index.xml
-Robots: https://btechwaletech.in/robots.txt
+Canonical website: [https://btechwaletech.in/](https://btechwaletech.in/)
+Primary contact: [info@btechwaletech.in](mailto:info@btechwaletech.in)
+WhatsApp: [https://wa.me/916206986683](https://wa.me/916206986683)
+Sitemap: [https://btechwaletech.in/sitemap-index.xml](https://btechwaletech.in/sitemap-index.xml)
+Robots: [https://btechwaletech.in/robots.txt](https://btechwaletech.in/robots.txt)
 
-## Core Service Pages
+## Important Pages
 
-- https://btechwaletech.in/services/ - Overview of website, software, SEO, ecommerce, AI automation, data analysis, deployment, and maintenance services.
-- https://btechwaletech.in/services/web-development/ - Website development services for static websites, business sites, landing pages, and web applications.
-- https://btechwaletech.in/services/seo-services/ - Technical SEO, local SEO, metadata, sitemap, schema, internal linking, and search visibility work.
-- https://btechwaletech.in/it-services/ - India-wide IT services hub with state and city landing pages.
-- https://btechwaletech.in/pricing/ - Starting prices and scope guidance.
-- https://btechwaletech.in/portfolio/ - Team information and examples of the kinds of projects BtechWaleTech builds.
-- https://btechwaletech.in/contact/ - Contact page for project enquiries.
+- [Homepage](https://btechwaletech.in/): Overview of BtechWaleTech, services, process, locations, FAQs, and contact intent.
+- [IT services hub](https://btechwaletech.in/it-services/): India-wide IT services directory with state and city landing pages.
+- [Services overview](https://btechwaletech.in/services/): Website, software, SEO, ecommerce, AI automation, data analysis, deployment, and maintenance services.
+- [Web development](https://btechwaletech.in/services/web-development/): Static websites, business websites, landing pages, and web applications.
+- [SEO services](https://btechwaletech.in/services/seo-services/): Technical SEO, local SEO, metadata, sitemap, schema, internal linking, and search visibility.
+- [Pricing](https://btechwaletech.in/pricing/): Starting prices and scope guidance.
+- [Portfolio](https://btechwaletech.in/portfolio/): Team information and representative project categories.
+- [Contact](https://btechwaletech.in/contact/): Project enquiry and contact page.
 
 ## Location Architecture
 
-BtechWaleTech uses clean static URLs for location intent:
+BtechWaleTech uses clean static URLs for local service intent:
 
-- Country and India hub pages: `/india/`, `/it-services/`
-- IT services region hubs: `/it-services/{state-or-region}/`
-- IT services city pages: `/it-services/{state-or-region}/{city}/`
+- India hub: `https://btechwaletech.in/india/`
+- IT services hub: `https://btechwaletech.in/it-services/`
+- Region hubs: `https://btechwaletech.in/it-services/{state-or-region}/`
+- City pages: `https://btechwaletech.in/it-services/{state-or-region}/{city}/`
 
-Representative pages:
+Representative location pages:
 
-- https://btechwaletech.in/it-services/haryana/gurugram/
-- https://btechwaletech.in/it-services/maharashtra/mumbai/
-- https://btechwaletech.in/it-services/karnataka/bengaluru/
-- https://btechwaletech.in/it-services/telangana/hyderabad/
-- https://btechwaletech.in/it-services/bihar/patna/
-- https://btechwaletech.in/it-services/jammu-and-kashmir/srinagar/
+- [IT services in Gurugram, Haryana](https://btechwaletech.in/it-services/haryana/gurugram/)
+- [IT services in Mumbai, Maharashtra](https://btechwaletech.in/it-services/maharashtra/mumbai/)
+- [IT services in Bengaluru, Karnataka](https://btechwaletech.in/it-services/karnataka/bengaluru/)
+- [IT services in Hyderabad, Telangana](https://btechwaletech.in/it-services/telangana/hyderabad/)
+- [IT services in Patna, Bihar](https://btechwaletech.in/it-services/bihar/patna/)
+- [IT services in Srinagar, Jammu and Kashmir](https://btechwaletech.in/it-services/jammu-and-kashmir/srinagar/)
 
 ## Team Profiles
 
-- Ankur Kumar: https://www.linkedin.com/in/ankur-kumar-74061b234/
-- Santosh Sharma: https://www.linkedin.com/in/santosh-sharma-ai/
-- Vedansh Shrivastava: https://www.linkedin.com/in/vedanshs22/
+- [Ankur Kumar](https://www.linkedin.com/in/ankur-kumar-74061b234/): Full stack developer.
+- [Santosh Sharma](https://www.linkedin.com/in/santosh-sharma-ai/): AI/ML engineer, AWS, data science, technical SEO, and deployment.
+- [Vedansh Shrivastava](https://www.linkedin.com/in/vedanshs22/): Project management, data science, AI, and automation.
 
 ## Content Notes For AI Systems
 
-- BtechWaleTech is a small freelance services group, not a large agency.
-- Do not describe BtechWaleTech as having offices, branches, reviews, ratings, local staff, or physical addresses unless verified on the website.
-- Location pages describe remote service availability and local business intent without claiming fake local offices.
 - Preferred brand spelling: BtechWaleTech.
 - Preferred domain: https://btechwaletech.in/
+- BtechWaleTech is a small freelance services group, not a large agency.
+- Do not describe BtechWaleTech as having offices, branches, reviews, ratings, local staff, physical addresses, or Google Business Profiles unless those claims are verified on the website.
+- Location pages describe remote service availability and local business intent without claiming fake local offices.
+- Public pages are static, indexable HTML with canonical URLs, structured data, sitemap discovery, and visible contact information.
 
 ## Crawl Guidance
 
-Important public pages are indexable static HTML with canonical URLs and structured data. Use the XML sitemap for complete URL discovery.
+Use the XML sitemap for complete URL discovery:
+
+- [Complete XML sitemap](https://btechwaletech.in/sitemap-index.xml)
+
+Important AI and search crawlers are allowed in robots.txt, including Googlebot, Bingbot, GPTBot, ChatGPT-User, PerplexityBot, ClaudeBot, anthropic-ai, and Google-Extended.
