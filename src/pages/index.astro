@@ -1,8 +1,12 @@
-﻿---
+---
 import BaseLayout from "@layouts/BaseLayout.astro";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { faqSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+import { Image } from "astro:assets";
+import heroImage from "../assets/images/heromain.png";
+import cricketTakenImg from "../assets/images/crickettaken.png";
 
 const faqs = [
   {
@@ -33,12 +37,12 @@ const faqs = [
   {
     question: "What is included in the 5 months of free maintenance?",
     answer:
-      "After your site is hosted and live, the next 5 months of maintenance cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After that you can continue on a monthly plan from â‚¹2,000 or just contact us when something needs changing.",
+      "After your site is hosted and live, the next 5 months of maintenance cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After that you can continue on a monthly plan from ₹2,000 or just contact us when something needs changing.",
   },
   {
     question: "How much does a website cost?",
     answer:
-      "A static website starts from â‚¹5,000 and a 30-page SEO website handled from design through to deployment starts from â‚¹10,000. Ecommerce starts from â‚¹25,000 and custom web applications from â‚¹40,000. These are starting points: the final cost depends on pages, features, integrations, and content, so you get an itemised estimate.",
+      "A static website starts from ₹5,000 and a 30-page SEO website handled from design through to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and custom web applications from ₹40,000. These are starting points: the final cost depends on pages, features, integrations, and content, so you get an itemised estimate.",
   },
   {
     question: "Do you provide AI automation and data analysis services?",
@@ -198,6 +202,39 @@ const process = [
   ["Deploy", "Set up hosting, production build, tracking basics, sitemap, performance checks, and post-launch support."],
 ];
 
+const comparison = [
+  {
+    aspect: "Who you speak to",
+    agency: "Account managers & coordinators",
+    cheap: "Unknown freelancer, no guarantee",
+    us: "Recently graduated engineers directly",
+  },
+  {
+    aspect: "Project clarity",
+    agency: "Briefs passed down, detail lost",
+    cheap: "Vague scope, frequent surprises",
+    us: "Itemised scope before work starts",
+  },
+  {
+    aspect: "Post-launch support",
+    agency: "Paid retainer required",
+    cheap: "Usually disappears",
+    us: "5 months free maintenance",
+  },
+  {
+    aspect: "Code ownership",
+    agency: "Often locked to their systems",
+    cheap: "Varies, often no handover",
+    us: "100% yours from day one",
+  },
+  {
+    aspect: "SEO from the start",
+    agency: "Separate SEO team, extra cost",
+    cheap: "Rarely considered",
+    us: "Built into every project",
+  },
+];
+
 const locations = [
   ["Gurgaon", "/india/haryana/gurgaon/"],
   ["Faridabad", "/india/haryana/faridabad/"],
@@ -238,37 +275,56 @@ const stateHubs = [
 ---
 
 <BaseLayout meta={page} schema={[faqSchema(faqs)]}>
-  <section class="hero" aria-labelledby="home-heading">
-    <div class="hero-copy">
-      <p class="eyebrow">India-first freelance IT services group</p>
-      <h1 id="home-heading">
-        Freelance IT services for websites, AI automation, and <em class="accent">data analysis</em>
-      </h1>
-      <p class="lede">{page.intro}</p>
-      <div class="hero-actions" aria-label="Primary actions">
-        <a class="button button-primary" href="/contact/">
-          <span>Start a project</span>
-          <span class="button-orb" aria-hidden="true">&rarr;</span>
-        </a>
-        <a class="button button-ghost" href="/services/">Explore services</a>
-      </div>
-      <ul class="signal-row" aria-label="Homepage focus areas">
-        <li>Design to deployment</li>
-        <li>SEO-ready development</li>
-        <li>AI, automation &amp; data work</li>
-      </ul>
-    </div>
 
-    <div class="globe-stage" data-globe-stage>
-      <div class="globe-halo" aria-hidden="true"></div>
-      <canvas
-        data-globe
-        aria-label="Rotating globe showing delivery routes from India to Dubai, London, New York, Singapore and Sydney"
-      ></canvas>
-      <p class="globe-tag" aria-hidden="true">Delivering from India &rarr; worldwide</p>
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="home-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <p class="eyebrow">India-first freelance IT services group</p>
+        <h1 id="home-heading">
+          Freelance IT services for websites, AI automation, and data analysis
+        </h1>
+        <p class="lede">{page.intro}</p>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp Us</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href="#proof-of-work">See our work</a>
+        </div>
+
+        <!-- Service pills -->
+        <ul class="hero-pills" aria-label="What we do">
+          <li>Websites</li>
+          <li>AI Automation</li>
+          <li>Data Systems</li>
+          <li>Internal Tools</li>
+        </ul>
+
+        <!-- Based in India tagline -->
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Based in India &middot; Working remotely worldwide
+        </p>
+      </div>
+
+      <!-- Hero Image -->
+      <div class="hero-image-panel">
+        <div class="hero-img-wrap">
+          <Image
+            src={heroImage}
+            alt="BtechWaleTech workspace — laptop showing digital solutions, branded coffee mug, notebooks and office setup"
+            loading="eager"
+            class="hero-img"
+            widths={[640, 960, 1440]}
+            sizes="(max-width: 768px) 100vw, 55vw"
+          />
+        </div>
+      </div>
     </div>
   </section>
 
+  <!-- ===================== MARQUEE ===================== -->
   <div class="marquee" aria-hidden="true">
     <div class="marquee-track">
       {[0, 1].map(() => (
@@ -281,906 +337,1343 @@ const stateHubs = [
     </div>
   </div>
 
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li>
+            <span class="stat-num">{s.value}{s.suffix}</span>
+            <span class="stat-label">{s.label}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
   <section class="services" aria-labelledby="services-heading">
-    <div class="section-head">
-      <p class="eyebrow">Core services</p>
-      <h2 id="services-heading">Practical IT services for businesses that need work done <em class="accent">properly</em></h2>
-      <p class="section-note">
-        We help with the full digital work stack: website planning, design, development, SEO setup, AI automation,
-        AI agents, data analysis, ecommerce, deployment, and maintenance.
-      </p>
-    </div>
-    <div class="bento">
-      {services.map((s) => {
-        const inner = (
-          <div class="card-core">
-            <h3>{s.name}</h3>
-            <p>{s.summary}</p>
-            <ul class="service-points">
-              {s.points.map((point) => (
-                <li>{point}</li>
-              ))}
-            </ul>
-            {s.href && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
-          </div>
-        );
-        return s.href ? (
-          <a class={`card card-${s.size}`} href={s.href}>
-            {inner}
-          </a>
-        ) : (
-          <div class={`card card-${s.size}`}>
-            {inner}
-          </div>
-        );
-      })}
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Core services</p>
+        <h2 id="services-heading">Practical IT services for businesses that need work done properly</h2>
+        <p class="section-note">
+          We help with the full digital work stack: website planning, design, development, SEO setup, AI automation,
+          AI agents, data analysis, ecommerce, deployment, and maintenance.
+        </p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.summary}</p>
+              <ul class="service-points">
+                {s.points.map((point) => (
+                  <li>{point}</li>
+                ))}
+              </ul>
+              {s.href && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return s.href ? (
+            <a class={`card card-${s.size}`} href={s.href}>
+              {inner}
+            </a>
+          ) : (
+            <div class={`card card-${s.size}`}>
+              {inner}
+            </div>
+          );
+        })}
+      </div>
     </div>
   </section>
 
+  <!-- ===================== OUR WORKS / PROOF OF WORK ===================== -->
+  <section class="proof-of-work" id="proof-of-work" aria-labelledby="works-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Our works / Proof of work</p>
+        <h2 id="works-heading">Featured live project: CricketTaken</h2>
+        <p class="section-note">
+          A high-performance cricket records, dynamic scorecards & tournament analytics platform engineered for speed, deep data archiving, and organic sports search capture.
+        </p>
+      </div>
+
+      <div class="work-showcase">
+        <!-- Left: Project Information & Interactive Animated Tabs -->
+        <div class="work-details">
+          <div class="work-status-row">
+            <span class="live-pulse-badge">
+              <span class="pulse-dot"></span>
+              Live in production
+            </span>
+            <span class="work-category">Web Platform &middot; Sports Intelligence</span>
+          </div>
+
+          <h3 class="work-title">CricketTaken &mdash; All Cricket Records &amp; Live Match History</h3>
+          <p class="work-desc">
+            Engineered from the ground up as a lightning-fast static-first sports database. Powers deep tournament records (IPL, ICC World Cup, SA20, BBL, The Ashes), head-to-head match histories, player career breakdowns, and interactive real-time fan polls.
+          </p>
+
+          <!-- Interactive Tabs -->
+          <div class="work-tabs" role="tablist" aria-label="Project details">
+            <button class="work-tab active" data-work-tab="overview" role="tab" aria-selected="true" type="button">
+              Overview
+            </button>
+            <button class="work-tab" data-work-tab="features" role="tab" aria-selected="false" type="button">
+              Key Features
+            </button>
+            <button class="work-tab" data-work-tab="stack" role="tab" aria-selected="false" type="button">
+              Technical Stack
+            </button>
+          </div>
+
+          <!-- Tab Panels -->
+          <div class="work-panels">
+            <div class="work-panel active" data-work-panel="overview" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Comprehensive Record Archives:</strong> Instant access to historical scorecards, tournament records, and player statistics across 15+ international leagues.
+                </li>
+                <li>
+                  <strong>Sub-second Navigation:</strong> Pre-rendered static pages combined with reactive islands for zero layout shift and instant page transitions.
+                </li>
+                <li>
+                  <strong>High-Intent Search Architecture:</strong> 1,000+ programmatic SEO routes driving organic search capture for player queries and match archives.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="features" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Interactive Fan Polls:</strong> Real-time voting widgets with instant client-side updates and anti-spam verification.
+                </li>
+                <li>
+                  <strong>Playing XI Builder:</strong> Dynamic team constructor with balance analysis and custom match simulations.
+                </li>
+                <li>
+                  <strong>Live Dark/Light Editorial Theme:</strong> High-contrast sports UI tailored for live match viewing in any environment.
+                </li>
+              </ul>
+            </div>
+
+            <div class="work-panel" data-work-panel="stack" role="tabpanel">
+              <ul class="work-checklist">
+                <li>
+                  <strong>Astro &amp; TypeScript:</strong> Island architecture delivering 100/100 Core Web Vitals score.
+                </li>
+                <li>
+                  <strong>TailwindCSS Design System:</strong> Custom dark-theme sports palette with responsive container queries.
+                </li>
+                <li>
+                  <strong>Optimized Production Hosting:</strong> Edge deployment with automated cache invalidation and Schema.org rich results.
+                </li>
+              </ul>
+            </div>
+          </div>
+
+          <!-- Actions -->
+          <div class="work-actions">
+            <a class="btn-primary" href="https://crickettaken.in/" target="_blank" rel="noopener noreferrer">
+              <span>Visit crickettaken.in</span>
+              <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+            </a>
+            <a class="btn-ghost" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+              <span>Discuss a similar project</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Right: Browser Mockup Showcase Cover -->
+        <div class="work-mockup-wrapper">
+          <div class="browser-frame">
+            <!-- Browser Header -->
+            <div class="browser-bar">
+              <div class="browser-dots" aria-hidden="true">
+                <span></span>
+                <span></span>
+                <span></span>
+              </div>
+              <div class="browser-url">
+                <span class="lock-icon material-symbols-outlined" aria-hidden="true">lock</span>
+                https://crickettaken.in
+              </div>
+              <a class="browser-external-link" href="https://crickettaken.in/" target="_blank" rel="noopener noreferrer" title="Open crickettaken.in in new tab">
+                <span class="material-symbols-outlined" aria-hidden="true">open_in_new</span>
+              </a>
+            </div>
+
+            <!-- Browser Content Image -->
+            <a class="browser-viewport" href="https://crickettaken.in/" target="_blank" rel="noopener noreferrer">
+              <Image
+                src={cricketTakenImg}
+                alt="CricketTaken — Cricket records, scorecards and match history platform"
+                loading="lazy"
+                class="work-cover-img"
+                widths={[640, 960, 1280]}
+                sizes="(max-width: 768px) 100vw, 50vw"
+              />
+              <div class="browser-overlay">
+                <span class="overlay-cta">
+                  <span>Open Live Project</span>
+                  <span class="btn-arrow">&rarr;</span>
+                </span>
+              </div>
+            </a>
+          </div>
+
+          <!-- Quick Metrics Bar -->
+          <div class="work-metrics">
+            <div class="metric-item">
+              <span class="metric-val">15+</span>
+              <span class="metric-lbl">Leagues Tracked</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">&lt;400ms</span>
+              <span class="metric-lbl">Page Speed</span>
+            </div>
+            <div class="metric-item">
+              <span class="metric-val">100%</span>
+              <span class="metric-lbl">Responsive</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== HERITAGE ADVANTAGE ===================== -->
+  <section class="advantage" aria-labelledby="advantage-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">The heritage advantage</p>
+        <h2 id="advantage-heading">Engineering ethics over speed, shortcuts, and hand-offs</h2>
+        <p class="section-note">
+          We are not a large agency with layers of management, nor a cheap freelancer who disappears post-launch.
+          We are a focused group of recently graduated engineers who own your project from start to finish.
+        </p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table" role="table">
+          <thead>
+            <tr>
+              <th scope="col" class="col-aspect">What matters</th>
+              <th scope="col" class="col-agency">Traditional agency</th>
+              <th scope="col" class="col-cheap">Cheap freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map((row) => (
+              <tr>
+                <td class="td-aspect">{row.aspect}</td>
+                <td class="td-agency">{row.agency}</td>
+                <td class="td-cheap">{row.cheap}</td>
+                <td class="td-us">
+                  <span class="td-us-inner">
+                    <span class="td-check material-symbols-outlined" aria-hidden="true">check_circle</span>
+                    {row.us}
+                  </span>
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== BUILD TYPES ===================== -->
   <section class="builds" aria-labelledby="builds-heading">
-    <div class="section-head">
-      <p class="eyebrow">Static &amp; dynamic</p>
-      <h2 id="builds-heading">Every kind of website, built the <em class="accent">right</em> way</h2>
-      <p class="section-note">
-        Some businesses need a fast static website. Others need a dynamic web app, dashboard, automation, or AI-powered
-        workflow. We help choose the right setup before development starts.
-      </p>
-    </div>
-    <div class="build-grid">
-      {builds.map((b) => (
-        <a class="build-card" href="/services/web-development/">
-          <div class="card-core">
-            <p class="build-tag">{b.tag}</p>
-            <h3>{b.name}</h3>
-            <p class="build-summary">{b.summary}</p>
-            <ul class="build-points">
-              {b.points.map((p) => (
-                <li>{p}</li>
-              ))}
-            </ul>
-            <span class="card-arrow" aria-hidden="true">&rarr;</span>
-          </div>
-        </a>
-      ))}
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Static &amp; dynamic</p>
+        <h2 id="builds-heading">Every kind of website, built the right way</h2>
+        <p class="section-note">
+          Some businesses need a fast static website. Others need a dynamic web app, dashboard, automation, or AI-powered
+          workflow. We help choose the right setup before development starts.
+        </p>
+      </div>
+      <div class="build-grid">
+        {builds.map((b) => (
+          <a class="build-card" href="/services/web-development/">
+            <div class="card-core">
+              <p class="build-tag">{b.tag}</p>
+              <h3>{b.name}</h3>
+              <p class="build-summary">{b.summary}</p>
+              <ul class="build-points">
+                {b.points.map((p) => (
+                  <li>{p}</li>
+                ))}
+              </ul>
+              <span class="card-arrow" aria-hidden="true">&rarr;</span>
+            </div>
+          </a>
+        ))}
+      </div>
     </div>
   </section>
 
-  <section class="stats" aria-label="Btechwale in numbers">
-    <ul class="stat-band">
-      {stats.map((s) => (
-        <li>
-          <span class="stat-num">{s.value}{s.suffix}</span>
-          <span class="stat-label">{s.label}</span>
-        </li>
-      ))}
-    </ul>
-  </section>
-
+  <!-- ===================== PROCESS ===================== -->
   <section class="process" aria-labelledby="process-heading">
-    <div class="section-head">
-      <p class="eyebrow">How work stays clean</p>
-      <h2 id="process-heading">Clear requirement, clean build, smooth deployment</h2>
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How work stays clean</p>
+        <h2 id="process-heading">Clear requirement, clean build, smooth deployment</h2>
+      </div>
+      <ol class="steps">
+        {process.map(([step, detail], i) => (
+          <li>
+            <span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
+            <h3>{step}</h3>
+            <p>{detail}</p>
+          </li>
+        ))}
+      </ol>
     </div>
-    <ol class="steps">
-      {process.map(([step, detail], i) => (
-        <li>
-          <span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span>
-          <h3>{step}</h3>
-          <p>{detail}</p>
-        </li>
-      ))}
-    </ol>
   </section>
 
+  <!-- ===================== LOCATIONS ===================== -->
   <section class="locations" aria-labelledby="locations-heading">
-    <div class="section-head">
-      <p class="eyebrow">Local reach</p>
-      <h2 id="locations-heading">Local pages for 150+ cities across India</h2>
-      <p class="section-note">
-        Every state and major city has its own page covering the local business context, not the same text with a
-        name swapped in. Start with your city, or browse the full directory.
-      </p>
-    </div>
-    <div class="city-cloud">
-      {locations.map(([name, href]) => (
-        <a class="city-chip" href={href}>{name}</a>
-      ))}
-    </div>
-    <p class="cloud-label">Browse by state</p>
-    <div class="city-cloud city-cloud-muted">
-      {stateHubs.map(([name, href]) => (
-        <a class="city-chip" href={href}>{name}</a>
-      ))}
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pan-India coverage</p>
+        <h2 id="locations-heading">Covering 150+ cities across all 30 states in India</h2>
+        <p class="section-note">
+          We provide full-stack IT services, web development, SEO, and AI automation to clients across major metro hubs, tier-2 cities, and businesses throughout India.
+        </p>
+      </div>
+      <div class="city-cloud">
+        {locations.map(([name, href]) => (
+          <a class="city-chip" href={href}>{name}</a>
+        ))}
+      </div>
+      <p class="cloud-label">Browse by state</p>
+      <div class="city-cloud city-cloud-muted">
+        {stateHubs.map(([name, href]) => (
+          <a class="city-chip" href={href}>{name}</a>
+        ))}
+      </div>
     </div>
   </section>
 
+  <!-- ===================== FAQ ===================== -->
   <section class="faq" aria-labelledby="faq-heading">
-    <div class="section-head">
-      <p class="eyebrow">Questions</p>
-      <h2 id="faq-heading">Answers before you even ask</h2>
-    </div>
-    <div class="faq-list">
-      {faqs.map((f) => (
-        <details class="faq-item">
-          <summary>
-            <span>{f.question}</span>
-            <span class="faq-mark" aria-hidden="true">+</span>
-          </summary>
-          <p>{f.answer}</p>
-        </details>
-      ))}
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Answers before you even ask</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary>
+              <span>{f.question}</span>
+              <span class="faq-mark" aria-hidden="true">+</span>
+            </summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
     </div>
   </section>
 
+  <!-- ===================== CLOSING CTA ===================== -->
   <section class="closing" aria-labelledby="cta-heading">
-    <div class="closing-panel">
-      <p class="eyebrow eyebrow-light">Next step</p>
-      <h2 id="cta-heading">Need a website, automation, AI agent, or data workflow?</h2>
-      <p class="closing-note">
-        Tell us what you want to build or fix. We will reply with a clear scope, honest estimate, and practical delivery
-        plan for your website, SEO setup, AI automation, data analysis, or custom IT work.
-      </p>
-      <a class="button button-cream" href="/contact/">
-        <span>Discuss the project</span>
-        <span class="button-orb" aria-hidden="true">&rarr;</span>
-      </a>
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Need a website, automation, AI agent, or data workflow?</h2>
+        <p class="closing-note">
+          Tell us what you want to build or fix. We will reply with a clear scope, honest estimate, and practical delivery
+          plan for your website, SEO setup, AI automation, data analysis, or custom IT work.
+        </p>
+        <div class="closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp Us</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </div>
     </div>
   </section>
+
 </BaseLayout>
 
 <script>
-  const reduced = matchMedia("(prefers-reduced-motion: reduce)").matches;
-  const stage = document.querySelector("[data-globe-stage]");
-  const canvas = document.querySelector("[data-globe]");
+  // Interactive Tab Switcher for Proof of Work Section
+  const initWorkTabs = () => {
+    const tabs = document.querySelectorAll<HTMLButtonElement>('[data-work-tab]');
+    const panels = document.querySelectorAll<HTMLElement>('[data-work-panel]');
 
-  if (stage && canvas) {
-    const ctx = canvas.getContext("2d");
-    const TILT = -0.42;
-    const BASE_SPEED = 0.00012;
-
-    /* quasi-uniform sphere points via a fibonacci lattice */
-    const DOTS = 1500;
-    const points = [];
-    const golden = Math.PI * (3 - Math.sqrt(5));
-    for (let i = 0; i < DOTS; i++) {
-      const y = 1 - (i / (DOTS - 1)) * 2;
-      const r = Math.sqrt(1 - y * y);
-      const t = golden * i;
-      points.push([Math.cos(t) * r, y, Math.sin(t) * r]);
-    }
-
-    const ll = (lat, lon) => {
-      const la = (lat * Math.PI) / 180;
-      const lo = (lon * Math.PI) / 180;
-      return [Math.cos(la) * Math.cos(lo), Math.sin(la), Math.cos(la) * Math.sin(lo)];
-    };
-
-    const delhi = ll(28.6, 77.2);
-    const homes = [delhi, ll(19.1, 72.9), ll(12.97, 77.6)];
-    const abroad = [ll(25.2, 55.3), ll(51.5, -0.1), ll(40.7, -74), ll(1.35, 103.8), ll(-33.9, 151.2)];
-    const arcs = abroad.map((dest, i) => ({ a: delhi, b: dest, offset: i / abroad.length }));
-
-    const slerp = (a, b, t) => {
-      const dot = Math.min(1, Math.max(-1, a[0] * b[0] + a[1] * b[1] + a[2] * b[2]));
-      const ang = Math.acos(dot);
-      if (ang < 1e-4) return a;
-      const s = Math.sin(ang);
-      const w1 = Math.sin((1 - t) * ang) / s;
-      const w2 = Math.sin(t * ang) / s;
-      return [a[0] * w1 + b[0] * w2, a[1] * w1 + b[1] * w2, a[2] * w1 + b[2] * w2];
-    };
-
-    let rotY = -0.223; // starts with India facing the viewer
-    let vel = BASE_SPEED;
-    let dragging = false;
-    let lastX = 0;
-    let lastT = 0;
-    let W = 0, H = 0, R = 0, CX = 0, CY = 0;
-
-    const resize = () => {
-      const rect = stage.getBoundingClientRect();
-      const dpr = Math.min(2, window.devicePixelRatio || 1);
-      W = rect.width;
-      H = rect.width;
-      canvas.width = W * dpr;
-      canvas.height = H * dpr;
-      canvas.style.width = W + "px";
-      canvas.style.height = H + "px";
-      ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
-      R = W * 0.4;
-      CX = W / 2;
-      CY = H / 2;
-    };
-
-    const rot = (p) => {
-      const cy = Math.cos(rotY), sy = Math.sin(rotY);
-      const cx = Math.cos(TILT), sx = Math.sin(TILT);
-      const x = p[0] * cy + p[2] * sy;
-      const z0 = -p[0] * sy + p[2] * cy;
-      const y = p[1] * cx - z0 * sx;
-      const z = p[1] * sx + z0 * cx;
-      return [x, y, z];
-    };
-
-    const draw = (now) => {
-      ctx.clearRect(0, 0, W, H);
-
-      ctx.beginPath();
-      ctx.arc(CX, CY, R, 0, Math.PI * 2);
-      ctx.strokeStyle = "rgba(22, 36, 46, 0.09)";
-      ctx.lineWidth = 1;
-      ctx.stroke();
-
-      for (const p of points) {
-        const [x, y, z] = rot(p);
-        const depth = (z + 1) / 2;
-        const alpha = z > 0 ? 0.08 + depth * 0.4 : 0.05;
-        const size = 0.5 + depth * 1.2;
-        ctx.beginPath();
-        ctx.arc(CX + x * R, CY - y * R, size, 0, Math.PI * 2);
-        ctx.fillStyle = "rgba(31, 58, 82, " + alpha + ")";
-        ctx.fill();
-      }
-
-      for (const arc of arcs) {
-        const SEG = 42;
-        ctx.beginPath();
-        let visible = false;
-        for (let i = 0; i <= SEG; i++) {
-          const t = i / SEG;
-          const p = slerp(arc.a, arc.b, t);
-          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
-          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
-          const px = CX + x * R;
-          const py = CY - y * R;
-          if (i === 0) ctx.moveTo(px, py);
-          else ctx.lineTo(px, py);
-          if (z > -0.15) visible = true;
-        }
-        if (visible) {
-          ctx.strokeStyle = "rgba(224, 138, 0, 0.34)";
-          ctx.lineWidth = 1.1;
-          ctx.stroke();
-
-          const t = (now * 0.00011 + arc.offset) % 1;
-          const p = slerp(arc.a, arc.b, t);
-          const lift = 1 + 0.28 * Math.sin(Math.PI * t);
-          const [x, y, z] = rot([p[0] * lift, p[1] * lift, p[2] * lift]);
-          if (z > -0.15) {
-            const px = CX + x * R;
-            const py = CY - y * R;
-            const g = ctx.createRadialGradient(px, py, 0, px, py, 8);
-            g.addColorStop(0, "rgba(224, 138, 0, 0.95)");
-            g.addColorStop(1, "rgba(224, 138, 0, 0)");
-            ctx.beginPath();
-            ctx.arc(px, py, 8, 0, Math.PI * 2);
-            ctx.fillStyle = g;
-            ctx.fill();
-          }
-        }
-      }
-
-      const marker = (p, color, glow, size) => {
-        const [x, y, z] = rot(p);
-        if (z < -0.05) return;
-        const px = CX + x * R;
-        const py = CY - y * R;
-        const g = ctx.createRadialGradient(px, py, 0, px, py, size * 4);
-        g.addColorStop(0, glow);
-        g.addColorStop(1, "rgba(255,255,255,0)");
-        ctx.beginPath();
-        ctx.arc(px, py, size * 4, 0, Math.PI * 2);
-        ctx.fillStyle = g;
-        ctx.fill();
-        ctx.beginPath();
-        ctx.arc(px, py, size, 0, Math.PI * 2);
-        ctx.fillStyle = color;
-        ctx.fill();
-      };
-      for (const h of homes) marker(h, "rgba(224, 138, 0, 1)", "rgba(224, 138, 0, 0.3)", 2.6);
-      for (const d of abroad) marker(d, "rgba(18, 144, 124, 0.95)", "rgba(18, 144, 124, 0.24)", 2);
-    };
-
-    let raf = null;
-    let prev = 0;
-    let running = false;
-
-    const loop = (now) => {
-      const dt = prev ? Math.min(48, now - prev) : 16;
-      prev = now;
-      if (!dragging) {
-        rotY += vel * dt;
-        vel += (BASE_SPEED - vel) * 0.015;
-      }
-      draw(now);
-      if (running) raf = requestAnimationFrame(loop);
-    };
-
-    const start = () => {
-      if (!running) {
-        running = true;
-        prev = 0;
-        raf = requestAnimationFrame(loop);
-      }
-    };
-    const stop = () => {
-      running = false;
-      if (raf !== null) cancelAnimationFrame(raf);
-      raf = null;
-    };
-
-    resize();
-    draw(0);
-    window.addEventListener("resize", () => {
-      resize();
-      if (!running) draw(performance.now());
+    tabs.forEach((tab) => {
+      tab.addEventListener('click', () => {
+        const target = tab.getAttribute('data-work-tab');
+        tabs.forEach((t) => {
+          const isActive = t === tab;
+          t.classList.toggle('active', isActive);
+          t.setAttribute('aria-selected', isActive ? 'true' : 'false');
+        });
+        panels.forEach((panel) => {
+          const isMatch = panel.getAttribute('data-work-panel') === target;
+          panel.classList.toggle('active', isMatch);
+        });
+      });
     });
+  };
 
-    if (!reduced) {
-      /* only animate while the globe is actually on screen */
-      new IntersectionObserver((entries) => {
-        entries[0].isIntersecting ? start() : stop();
-      }, { threshold: 0.05 }).observe(stage);
-
-      canvas.addEventListener("pointerdown", (e) => {
-        dragging = true;
-        lastX = e.clientX;
-        lastT = e.timeStamp;
-        canvas.setPointerCapture(e.pointerId);
-      });
-      canvas.addEventListener("pointermove", (e) => {
-        if (!dragging) return;
-        const dx = e.clientX - lastX;
-        const dt = Math.max(1, e.timeStamp - lastT);
-        rotY += dx * 0.005;
-        vel = Math.max(-0.004, Math.min(0.004, (dx * 0.005) / dt));
-        lastX = e.clientX;
-        lastT = e.timeStamp;
-      });
-      const release = () => { dragging = false; };
-      canvas.addEventListener("pointerup", release);
-      canvas.addEventListener("pointercancel", release);
-    }
-  }
+  initWorkTabs();
 </script>
 
+
+
 <style>
-  /* ================= tokens ================= */
-  .hero,
-  .services,
-  .builds,
-  .stats,
-  .process,
-  .locations,
-  .faq,
-  .closing {
-    --paper: #f8f5ef;
-    --card: #ffffff;
-    --ink: #16242e;
-    --muted: #46555c;
-    --hairline: rgba(22, 36, 46, 0.1);
-    --teal: #0f766e;
-    --saffron: #8d5100;
-    --ease: cubic-bezier(0.32, 0.72, 0, 1);
-    position: relative;
-    z-index: 1;
-    max-width: 1180px;
-    margin: 0 auto;
-    padding: clamp(4rem, 8vw, 7.5rem) clamp(1rem, 4vw, 3rem);
+  /* ================== TOKENS ================== */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --gold-light: #FAF5E8;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
   }
 
   :global(body) {
-    color: #16242e;
-    background: #f8f5ef;
+    background: var(--paper);
+    color: var(--midnight);
   }
 
   :global(::selection) {
-    color: #ffffff;
-    background: #0f766e;
+    background: var(--gold);
+    color: var(--midnight);
   }
 
-  /* ================= type ================= */
-  h1,
-  h2,
-  h3,
-  p {
+  h1, h2, h3 {
     margin: 0;
-  }
-
-  h1,
-  h2 {
-    color: var(--ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-weight: 640;
-    letter-spacing: -0.028em;
-  }
-
-  h1 {
-    margin-bottom: 1rem;
-    max-width: 19ch;
-    font-size: clamp(2.25rem, 3.9vw, 3.55rem);
-    line-height: 1.06;
-  }
-
-  h2 {
-    max-width: 24ch;
-    font-size: clamp(1.85rem, 3.8vw, 3rem);
-    line-height: 1.08;
-  }
-
-  .accent {
-    font-family: Georgia, "Times New Roman", serif;
-    font-style: italic;
-    font-weight: 480;
-    letter-spacing: -0.01em;
-    color: var(--teal);
-    white-space: nowrap;
-  }
-
-  .accent-warm {
-    color: var(--saffron);
-  }
-
-  .lede {
-    max-width: 30rem;
-    color: var(--muted);
-    font-size: clamp(1rem, 1.35vw, 1.12rem);
-    line-height: 1.65;
-  }
-
-  .eyebrow {
-    display: flex;
-    align-items: center;
-    gap: 0.7rem;
-    width: fit-content;
-    margin: 0 0 1.3rem;
-    color: var(--teal);
-    font-size: 0.78rem;
+    font-family: 'Hanken Grotesk', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    color: var(--midnight);
+    letter-spacing: -0.02em;
     font-weight: 700;
+  }
+
+  p { margin: 0; }
+
+  /* ================== LAYOUT WRAPPER ================== */
+  .section-wrap {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 clamp(1.25rem, 5vw, 5rem);
+  }
+
+  /* ================== EYEBROW ================== */
+  .eyebrow {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.65rem;
+    margin: 0 0 1.25rem;
+    color: var(--gold-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
     letter-spacing: 0.12em;
     text-transform: uppercase;
   }
 
   .eyebrow::before {
-    width: 1.8rem;
-    height: 2px;
-    border-radius: 2px;
-    background: currentColor;
+    display: inline-block;
+    width: 1.75rem;
+    height: 1px;
+    background: var(--gold-muted);
     content: "";
+    flex-shrink: 0;
   }
 
   .eyebrow-light {
-    color: #7fd6c6;
+    color: rgba(212, 175, 55, 0.7);
+  }
+  .eyebrow-light::before {
+    background: rgba(212, 175, 55, 0.7);
   }
 
+
+
+  /* ================== SECTION HEAD ================== */
   .section-head {
-    max-width: 46rem;
-    margin-bottom: clamp(2.2rem, 4vw, 3.4rem);
+    max-width: 48rem;
+    margin-bottom: clamp(2.5rem, 5vw, 4rem);
+  }
+
+  .section-head h2 {
+    font-size: clamp(1.85rem, 3.5vw, 2.75rem);
+    line-height: 1.15;
+    font-weight: 600;
+    margin-bottom: 1rem;
   }
 
   .section-note {
-    margin-top: 1.1rem;
-    color: var(--muted);
+    color: var(--slate);
+    font-size: 1.05rem;
     line-height: 1.7;
+    margin-top: 0.75rem;
   }
 
-  .marquee,
-  .services,
-  .builds,
-  .stats,
-  .process,
-  .locations,
-  .faq,
-  .closing {
-    content-visibility: auto;
-    contain-intrinsic-size: auto 44rem;
-  }
-
-  /* ================= buttons ================= */
+  /* ================== BUTTONS ================== */
   .hero-actions {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.85rem;
-    margin-top: 1.8rem;
+    gap: 1rem;
+    margin-top: 2rem;
   }
 
-  .button {
+  .btn-primary, .btn-ghost, .btn-cream {
     display: inline-flex;
     align-items: center;
     gap: 0.75rem;
-    min-height: 3.3rem;
-    padding: 0 0.5rem 0 1.5rem;
-    border-radius: 999px;
-    font-size: 0.98rem;
-    font-weight: 650;
+    padding: 0.9375rem 1.75rem;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.8125rem;
+    font-weight: 600;
+    letter-spacing: 0.07em;
+    text-transform: uppercase;
     text-decoration: none;
-    transition:
-      transform 550ms var(--ease),
-      background-color 550ms var(--ease),
-      box-shadow 550ms var(--ease),
-      border-color 550ms var(--ease);
+    border-radius: 2px;
+    border: 1px solid;
+    transition: all 250ms var(--ease);
+    white-space: nowrap;
   }
 
-  .button:active {
-    transform: scale(0.97);
+  .btn-primary {
+    background: var(--midnight);
+    color: var(--paper);
+    border-color: var(--midnight);
+  }
+  .btn-primary:hover { background: var(--slate); border-color: var(--slate); transform: translateY(-1px); box-shadow: 0 6px 20px rgba(15,23,42,0.15); }
+
+  .btn-ghost {
+    background: transparent;
+    color: var(--midnight);
+    border-color: var(--midnight);
+  }
+  .btn-ghost:hover { background: var(--surface-low); transform: translateY(-1px); }
+
+  .btn-cream {
+    background: var(--paper);
+    color: var(--midnight);
+    border-color: var(--paper);
+    box-shadow: 0 4px 20px rgba(0,0,0,0.2);
+  }
+  .btn-cream:hover { background: #fff; transform: translateY(-1px); box-shadow: 0 8px 28px rgba(0,0,0,0.25); }
+
+  .btn-arrow {
+    display: inline-block;
+    transition: transform 300ms var(--ease);
+  }
+  .btn-primary:hover .btn-arrow,
+  .btn-cream:hover .btn-arrow {
+    transform: translateX(4px);
   }
 
-  .button-orb {
-    display: inline-grid;
-    place-items: center;
-    width: 2.15rem;
-    height: 2.15rem;
-    border-radius: 50%;
-    transition: transform 550ms var(--ease);
-  }
-
-  .button:hover .button-orb,
-  .button:focus-visible .button-orb {
-    transform: translateX(3px);
-  }
-
-  .button-primary {
-    color: #f8f5ef;
-    background: var(--ink);
-    box-shadow: 0 18px 40px -12px rgba(22, 36, 46, 0.4);
-  }
-
-  .button-primary:hover,
-  .button-primary:focus-visible {
-    background: var(--teal);
-    box-shadow: 0 18px 44px -10px rgba(18, 144, 124, 0.45);
-  }
-
-  .button-primary .button-orb {
-    color: var(--ink);
-    background: #f8f5ef;
-  }
-
-  .button-ghost {
-    padding-inline: 1.5rem;
-    color: var(--ink);
-    border: 1px solid var(--hairline);
-    background: rgba(255, 255, 255, 0.65);
-  }
-
-  .button-ghost:hover,
-  .button-ghost:focus-visible {
-    border-color: rgba(22, 36, 46, 0.25);
-    background: #ffffff;
-  }
-
-  .button-cream {
-    color: var(--ink);
-    background: #f8f5ef;
-    box-shadow: 0 18px 40px -12px rgba(0, 0, 0, 0.45);
-  }
-
-  .button-cream:hover,
-  .button-cream:focus-visible {
-    background: #ffffff;
-  }
-
-  .button-cream .button-orb {
-    color: #f8f5ef;
-    background: var(--ink);
-  }
-
-  /* ================= hero ================= */
+  /* ================== HERO ================== */
   .hero {
-    display: grid;
-    grid-template-columns: minmax(0, 1.05fr) minmax(0, 0.8fr);
-    gap: clamp(1.25rem, 2.5vw, 2.75rem);
-    align-items: center;
-    min-height: calc(78dvh - 4.5rem);
-    padding-top: clamp(2.2rem, 4vw, 3.5rem);
-    padding-bottom: clamp(3rem, 5vw, 4.5rem);
+    padding: clamp(2rem, 4vw, 3.5rem) 0 clamp(2.5rem, 5vw, 4rem);
+    border-bottom: 1px solid var(--hairline);
     overflow: hidden;
+  }
+
+  .hero-inner {
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 clamp(1.25rem, 5vw, 5rem);
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+    gap: clamp(2rem, 4vw, 3.5rem);
+    align-items: center;
   }
 
   .hero-copy {
-    max-width: 34rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
   }
 
-  .signal-row {
+  h1 {
+    font-size: clamp(2.2rem, 4vw, 3.25rem);
+    line-height: 1.12;
+    font-weight: 700;
+    margin-bottom: 1.25rem;
+  }
+
+  .lede {
+    color: var(--slate);
+    font-size: clamp(0.95rem, 1.3vw, 1.05rem);
+    line-height: 1.7;
+    max-width: 32rem;
+  }
+
+  /* Service pills row */
+  .hero-pills {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.55rem;
-    margin: 1.55rem 0 0;
-    padding: 0;
+    gap: 0.65rem 1.25rem;
+    margin: 1.75rem 0 0;
+    padding: 1.5rem 0 0;
+    border-top: 1px solid var(--hairline);
     list-style: none;
-    color: var(--muted);
-    font-size: 0.86rem;
-    font-weight: 550;
   }
 
-  .signal-row li {
+  .hero-pills li {
     display: inline-flex;
     align-items: center;
-    min-height: 2rem;
-    padding: 0 0.75rem;
-    border: 1px solid rgba(22, 36, 46, 0.08);
-    border-radius: 999px;
-    background: rgba(255, 255, 255, 0.58);
-  }
-
-  .signal-row li + li::before {
-    content: none;
-  }
-
-  .globe-stage {
-    position: relative;
-    display: grid;
-    place-items: center;
-    justify-self: center;
-    width: min(100%, 26rem);
-    max-width: 100%;
-    aspect-ratio: 1;
-  }
-
-  .globe-stage canvas {
-    position: relative;
-    z-index: 1;
-    display: block;
-    max-width: 100%;
-    cursor: grab;
-    touch-action: pan-y;
-  }
-
-  .globe-stage canvas:active {
-    cursor: grabbing;
-  }
-
-  .globe-halo {
-    position: absolute;
-    inset: 6%;
-    border-radius: 50%;
-    background: radial-gradient(circle at 38% 32%, rgba(18, 144, 124, 0.1), rgba(18, 144, 124, 0.02) 55%, transparent 72%);
-    filter: blur(6px);
-  }
-
-  .globe-tag {
-    position: absolute;
-    bottom: 4%;
-    z-index: 2;
-    padding: 0.5rem 1rem;
-    border: 1px solid var(--hairline);
-    border-radius: 999px;
-    color: var(--muted);
-    background: rgba(255, 255, 255, 0.75);
-    backdrop-filter: blur(12px);
+    gap: 0.35rem;
+    color: var(--slate);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
     font-size: 0.82rem;
-    font-weight: 550;
+    font-weight: 500;
+    white-space: nowrap;
   }
 
-  /* ================= marquee ================= */
-  .marquee {
+  .pill-icon {
+    font-size: 1.1rem;
+    color: var(--gold);
+    font-variation-settings: 'FILL' 0, 'wght' 400;
+  }
+
+  /* Based in India tagline */
+  .hero-origin {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 1.25rem;
+    color: var(--slate-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.78rem;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  .origin-dot {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: var(--gold);
+    flex-shrink: 0;
+  }
+
+  /* ================== HERO IMAGE PANEL ================== */
+  .hero-image-panel {
     position: relative;
-    z-index: 1;
+    width: 100%;
+  }
+
+  .hero-img-wrap {
+    position: relative;
+    width: 100%;
+    border-radius: 6px;
+    overflow: hidden;
+    border: 1px solid var(--hairline);
+    box-shadow: 0 20px 45px -15px rgba(15, 23, 42, 0.12);
+    background: var(--surface-low);
+  }
+
+  .hero-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 600ms var(--ease);
+  }
+
+  .hero-image-panel:hover .hero-img {
+    transform: scale(1.012);
+  }
+
+
+
+  /* ================== MARQUEE ================== */
+  .marquee {
     overflow: hidden;
     padding: 1.1rem 0;
-    border-top: 1px solid rgba(22, 36, 46, 0.09);
-    border-bottom: 1px solid rgba(22, 36, 46, 0.09);
+    border-top: 1px solid var(--hairline);
+    border-bottom: 1px solid var(--hairline);
+    background: var(--surface-low);
     mask-image: linear-gradient(90deg, transparent, #000 8%, #000 92%, transparent);
   }
 
   .marquee-track {
     display: flex;
     width: max-content;
-    animation: slide 36s linear infinite;
+    animation: slide 40s linear infinite;
   }
 
-  .marquee:hover .marquee-track {
-    animation-play-state: paused;
-  }
+  .marquee:hover .marquee-track { animation-play-state: paused; }
 
-  .marquee-set {
-    display: flex;
-    align-items: center;
-  }
+  .marquee-set { display: flex; align-items: center; }
 
   .marquee-item {
-    color: #46555c;
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 0.95rem;
-    font-weight: 560;
-    letter-spacing: 0.02em;
+    color: var(--slate);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.85rem;
+    font-weight: 500;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
     white-space: nowrap;
   }
 
   .marquee-item::after {
-    margin: 0 1.6rem;
-    color: rgba(224, 138, 0, 0.6);
-    content: "\2726";
+    margin: 0 1.75rem;
+    color: var(--gold);
+    content: "◆";
+    font-size: 0.45rem;
+    vertical-align: middle;
   }
 
-  @keyframes slide {
-    to {
-      transform: translateX(-50%);
-    }
+  @keyframes slide { to { transform: translateX(-50%); } }
+
+  /* ================== STATS ================== */
+  .stats-section {
+    padding: clamp(4rem, 7vw, 6rem) 0;
+    background: var(--midnight);
+    border-top: 1px solid rgba(255,255,255,0.04);
   }
 
-  /* ================= services bento ================= */
+  .stat-band {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    background: rgba(255,255,255,0.06);
+    border: 1px solid rgba(255,255,255,0.06);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+
+  .stat-band li {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: center;
+    text-align: center;
+    padding: clamp(2rem, 4vw, 3rem) clamp(1rem, 3vw, 2rem);
+    background: var(--midnight);
+    position: relative;
+  }
+
+  .stat-band li::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 2.5rem;
+    height: 2px;
+    background: var(--gold);
+    opacity: 0;
+    transition: opacity 300ms ease;
+  }
+
+  .stat-band li:hover::after { opacity: 1; }
+
+  .stat-num {
+    color: #F8F9FA;
+    font-family: 'Hanken Grotesk', system-ui, -apple-system, sans-serif;
+    font-size: clamp(2.5rem, 5vw, 3.5rem);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    line-height: 1;
+  }
+
+  .stat-label {
+    color: var(--slate-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.85rem;
+    font-weight: 400;
+    line-height: 1.4;
+    max-width: 12rem;
+  }
+
+  /* ================== SERVICES ================== */
+  .services {
+    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    background: var(--surface);
+    border-top: 1px solid var(--hairline);
+  }
+
   .bento {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(min(100%, 19rem), 1fr));
-    gap: 1rem;
-    align-items: start;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 1px;
+    background: var(--hairline);
+    border: 1px solid var(--hairline);
+    border-radius: 2px;
+    overflow: hidden;
   }
 
-  .card,
-  .build-card {
+  .card {
     display: block;
-    padding: 0.45rem;
-    border: 1px solid var(--hairline);
-    border-radius: 1.7rem;
-    background: rgba(22, 36, 46, 0.03);
+    background: var(--paper);
     text-decoration: none;
-    transform: perspective(900px) rotateX(var(--rx, 0deg)) rotateY(var(--ry, 0deg)) translateY(var(--lift, 0px));
-    transition:
-      transform 350ms var(--ease),
-      border-color 600ms var(--ease),
-      box-shadow 600ms var(--ease);
+    transition: background-color 250ms ease;
   }
+
+  .card:hover { background: #fff; }
 
   .card-core {
     position: relative;
-    overflow: hidden;
+    padding: clamp(1.25rem, 2vw, 1.6rem);
     height: 100%;
-    padding: clamp(1.4rem, 2.5vw, 1.9rem);
-    border-radius: calc(1.7rem - 0.45rem);
-    background: var(--card);
-    box-shadow:
-      inset 0 1px 0 rgba(255, 255, 255, 0.9),
-      0 1px 2px rgba(22, 36, 46, 0.04);
+    display: flex;
+    flex-direction: column;
   }
 
-  /* cursor spotlight */
-  .card .card-core::before,
-  .build-card .card-core::before {
-    position: absolute;
-    inset: 0;
-    opacity: 0;
-    background: radial-gradient(13rem circle at var(--mx, 50%) var(--my, 50%), rgba(18, 144, 124, 0.07), transparent 65%);
-    transition: opacity 500ms var(--ease);
-    content: "";
-    pointer-events: none;
+  .card-core h3 {
+    font-size: clamp(1.05rem, 1.4vw, 1.2rem);
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+    line-height: 1.25;
+    padding-right: 1.75rem;
   }
 
-  .card:hover .card-core::before,
-  .build-card:hover .card-core::before {
-    opacity: 1;
-  }
-
-  .card-lg,
-  .card-md,
-  .card-sm {
-    grid-column: auto;
-  }
-
-  .card h3 {
-    margin-bottom: 0.65rem;
-    color: var(--ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: clamp(1.15rem, 1.8vw, 1.4rem);
-    font-weight: 620;
-    letter-spacing: -0.015em;
-    line-height: 1.15;
-  }
-
-  .card-lg h3 {
-    font-size: clamp(1.25rem, 2vw, 1.65rem);
-  }
-
-  .card p {
-    max-width: 34rem;
+  .card-core > p {
+    color: var(--slate);
+    font-size: 0.84rem;
+    line-height: 1.55;
     margin-bottom: 1rem;
-    color: var(--muted);
-    font-size: 0.95rem;
-    line-height: 1.6;
+    flex: 1;
   }
 
   .service-points {
     display: grid;
-    grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.45rem 0.9rem;
+    grid-template-columns: 1fr;
+    gap: 0.35rem;
     margin: 0;
     padding: 0;
     list-style: none;
+    border-top: 1px solid var(--hairline);
+    padding-top: 0.85rem;
   }
 
   .service-points li {
     position: relative;
-    padding-left: 1rem;
-    color: #52616a;
-    font-size: 0.86rem;
+    padding-left: 0.85rem;
+    color: var(--slate-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.78rem;
     line-height: 1.35;
   }
 
   .service-points li::before {
     position: absolute;
-    top: 0.58em;
     left: 0;
-    width: 0.35rem;
-    height: 0.35rem;
+    top: 0.5em;
+    width: 0.28rem;
+    height: 0.28rem;
     border-radius: 50%;
-    background: var(--teal);
+    background: var(--gold);
     content: "";
   }
 
   .card-arrow {
     position: absolute;
-    right: 1.3rem;
-    bottom: 1.2rem;
+    top: clamp(1.25rem, 2vw, 1.6rem);
+    right: clamp(1.25rem, 2vw, 1.6rem);
     display: inline-grid;
     place-items: center;
-    width: 2.3rem;
-    height: 2.3rem;
+    width: 1.75rem;
+    height: 1.75rem;
     border: 1px solid var(--hairline);
+    border-radius: 1px;
+    color: var(--slate-muted);
+    font-size: 0.85rem;
+    transition: all 250ms var(--ease);
+  }
+
+  a.card:hover .card-arrow {
+    background: var(--midnight);
+    border-color: var(--midnight);
+    color: var(--paper);
+    transform: translate(2px, -2px);
+  }
+
+  /* ================== PROOF OF WORK ================== */
+  .proof-of-work {
+    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    background: var(--paper);
+    border-top: 1px solid var(--hairline);
+  }
+
+  .work-showcase {
+    display: grid;
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1.15fr);
+    gap: clamp(2.5rem, 5vw, 4.5rem);
+    align-items: center;
+  }
+
+  .work-details {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .work-status-row {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .live-pulse-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.45rem;
+    padding: 0.25rem 0.75rem;
+    background: rgba(34, 197, 94, 0.1);
+    border: 1px solid rgba(34, 197, 94, 0.25);
+    border-radius: 999px;
+    color: #166534;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.03em;
+  }
+
+  .pulse-dot {
+    width: 6px;
+    height: 6px;
     border-radius: 50%;
-    color: var(--teal);
-    background: rgba(18, 144, 124, 0.06);
-    transition: transform 600ms var(--ease), background-color 600ms var(--ease), color 600ms var(--ease);
+    background: #22c55e;
+    box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7);
+    animation: pulse-ring 2s infinite;
   }
 
-  a.card:hover,
-  a.card:focus-visible,
-  .build-card:hover,
-  .build-card:focus-visible {
-    --lift: -5px;
-    border-color: rgba(18, 144, 124, 0.35);
-    box-shadow: 0 30px 60px -24px rgba(22, 36, 46, 0.25);
+  @keyframes pulse-ring {
+    0% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0.7); }
+    70% { transform: scale(1); box-shadow: 0 0 0 6px rgba(34, 197, 94, 0); }
+    100% { transform: scale(0.95); box-shadow: 0 0 0 0 rgba(34, 197, 94, 0); }
   }
 
-  a.card:hover .card-arrow,
-  a.card:focus-visible .card-arrow,
-  .build-card:hover .card-arrow,
-  .build-card:focus-visible .card-arrow {
-    transform: translate(3px, -3px);
-    color: #ffffff;
-    background: var(--teal);
+  .work-category {
+    color: var(--slate-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.8rem;
+    font-weight: 500;
   }
 
-  .card-lg .card-core,
-  .card-md .card-core,
-  .card-sm .card-core {
-    min-height: 18rem;
+  .work-title {
+    font-size: clamp(1.4rem, 2.2vw, 1.85rem);
+    font-weight: 700;
+    margin-bottom: 0.75rem;
+    line-height: 1.25;
   }
 
-  /* ================= static vs dynamic ================= */
+  .work-desc {
+    color: var(--slate);
+    font-size: 0.92rem;
+    line-height: 1.65;
+    margin-bottom: 1.5rem;
+  }
+
+  /* Tabs */
+  .work-tabs {
+    display: flex;
+    gap: 0.5rem;
+    border-bottom: 1px solid var(--hairline);
+    margin-bottom: 1.25rem;
+    padding-bottom: 0.25rem;
+  }
+
+  .work-tab {
+    padding: 0.5rem 1rem;
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid transparent;
+    color: var(--slate-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.84rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 200ms ease;
+    margin-bottom: -1px;
+  }
+
+  .work-tab:hover {
+    color: var(--midnight);
+  }
+
+  .work-tab.active {
+    color: var(--midnight);
+    border-bottom-color: var(--gold);
+  }
+
+  /* Panels */
+  .work-panels {
+    min-height: 10.5rem;
+    margin-bottom: 1.75rem;
+  }
+
+  .work-panel {
+    display: none;
+    animation: fadeInTab 250ms ease;
+  }
+
+  .work-panel.active {
+    display: block;
+  }
+
+  @keyframes fadeInTab {
+    from { opacity: 0; transform: translateY(4px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  .work-checklist {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: grid;
+    gap: 0.75rem;
+  }
+
+  .work-checklist li {
+    position: relative;
+    padding-left: 1.35rem;
+    color: var(--slate);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.55;
+  }
+
+  .work-checklist li::before {
+    position: absolute;
+    left: 0;
+    color: var(--gold);
+    content: "✓";
+    font-weight: 700;
+  }
+
+  .work-checklist strong {
+    color: var(--midnight);
+  }
+
+  .work-actions {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    gap: 0.75rem;
+  }
+
+  .work-actions .btn-primary,
+  .work-actions .btn-ghost {
+    padding: 0.85rem 1.25rem;
+    font-size: 0.78rem;
+    letter-spacing: 0.05em;
+    white-space: nowrap;
+    flex: 0 0 auto;
+  }
+
+  /* Mockup Frame */
+  .work-mockup-wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+  }
+
+  .browser-frame {
+    border-radius: 8px;
+    overflow: hidden;
+    background: #111827;
+    border: 1px solid rgba(15, 23, 42, 0.15);
+    box-shadow: 0 25px 60px -20px rgba(15, 23, 42, 0.25);
+    transition: transform 400ms var(--ease), box-shadow 400ms var(--ease);
+  }
+
+  .browser-frame:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 30px 70px -20px rgba(15, 23, 42, 0.35);
+  }
+
+  .browser-bar {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.65rem 1rem;
+    background: #1e293b;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .browser-dots {
+    display: flex;
+    gap: 5px;
+  }
+
+  .browser-dots span {
+    width: 9px;
+    height: 9px;
+    border-radius: 50%;
+    background: rgba(255, 255, 255, 0.2);
+  }
+
+  .browser-dots span:nth-child(1) { background: #ef4444; }
+  .browser-dots span:nth-child(2) { background: #f59e0b; }
+  .browser-dots span:nth-child(3) { background: #10b981; }
+
+  .browser-url {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 0.35rem;
+    padding: 0.25rem 0.75rem;
+    background: rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    color: #94a3b8;
+    font-family: 'Hanken Grotesk', system-ui, monospace;
+    font-size: 0.75rem;
+    letter-spacing: 0.02em;
+  }
+
+  .lock-icon {
+    font-size: 0.85rem;
+    color: #10b981;
+  }
+
+  .browser-external-link {
+    color: #94a3b8;
+    display: inline-flex;
+    align-items: center;
+    transition: color 200ms ease;
+  }
+
+  .browser-external-link:hover {
+    color: #f8fafc;
+  }
+
+  .browser-viewport {
+    position: relative;
+    display: block;
+    overflow: hidden;
+    text-decoration: none;
+  }
+
+  .work-cover-img {
+    display: block;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    transition: transform 600ms var(--ease);
+  }
+
+  .browser-viewport:hover .work-cover-img {
+    transform: scale(1.02);
+  }
+
+  .browser-overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(15, 23, 42, 0.6);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 300ms ease;
+  }
+
+  .browser-viewport:hover .browser-overlay {
+    opacity: 1;
+  }
+
+  .overlay-cta {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.75rem 1.4rem;
+    background: #f8f9fa;
+    color: #0f172a;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.82rem;
+    font-weight: 700;
+    border-radius: 2px;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+  }
+
+  /* Metrics Bar */
+  .work-metrics {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1px;
+    background: var(--hairline);
+    border: 1px solid var(--hairline);
+    border-radius: 4px;
+    overflow: hidden;
+  }
+
+  .metric-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 0.75rem 0.5rem;
+    background: var(--surface-low);
+  }
+
+  .metric-val {
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 1.15rem;
+    font-weight: 700;
+    color: var(--midnight);
+    line-height: 1.2;
+  }
+
+  .metric-lbl {
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.72rem;
+    color: var(--slate-muted);
+  }
+
+  /* ================== ADVANTAGE ================== */
+  .advantage {
+    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    border-top: 1px solid var(--hairline);
+  }
+
+  .comparison-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--hairline);
+    border-radius: 2px;
+  }
+
+  .comparison-table {
+    width: 100%;
+    border-collapse: collapse;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.9rem;
+  }
+
+  .comparison-table thead th {
+    padding: 1rem 1.25rem;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    border-bottom: 1px solid var(--hairline);
+    text-align: left;
+  }
+
+  .col-aspect { background: var(--surface-low); color: var(--midnight); width: 18%; }
+  .col-agency { background: var(--surface-low); color: var(--slate-muted); width: 27%; }
+  .col-cheap  { background: var(--surface-low); color: var(--slate-muted); width: 27%; }
+  .col-us     { background: var(--midnight); color: var(--gold); width: 28%; }
+
+  .comparison-table tbody tr {
+    border-bottom: 1px solid var(--hairline);
+    transition: background 200ms ease;
+  }
+  .comparison-table tbody tr:last-child { border-bottom: none; }
+  .comparison-table tbody tr:hover { background: var(--surface-low); }
+
+  .comparison-table td {
+    padding: 1rem 1.25rem;
+    vertical-align: top;
+    line-height: 1.5;
+  }
+
+  .td-aspect {
+    font-weight: 600;
+    color: var(--midnight);
+    font-size: 0.875rem;
+  }
+
+  .td-agency, .td-cheap {
+    color: var(--slate-muted);
+    font-size: 0.875rem;
+  }
+
+  .td-us {
+    background: rgba(15, 23, 42, 0.02);
+  }
+
+  .td-us-inner {
+    display: flex;
+    align-items: flex-start;
+    gap: 0.5rem;
+    color: var(--midnight);
+    font-weight: 600;
+    font-size: 0.875rem;
+  }
+
+  .td-check {
+    font-size: 1rem;
+    color: var(--gold);
+    flex-shrink: 0;
+    margin-top: 0.1rem;
+    font-variation-settings: 'FILL' 1, 'wght' 400;
+  }
+
+  /* ================== BUILDS ================== */
+  .builds {
+    padding: clamp(5rem, 9vw, 8rem) 0;
+    background: var(--surface);
+    border-top: 1px solid var(--hairline);
+  }
+
   .build-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 0.9rem;
+    gap: 1px;
+    background: var(--hairline);
+    border: 1px solid var(--hairline);
+    border-radius: 2px;
+    overflow: hidden;
   }
 
+  .build-card {
+    display: block;
+    background: var(--paper);
+    text-decoration: none;
+    transition: background 250ms ease;
+  }
+
+  .build-card:hover { background: #fff; }
+
   .build-card .card-core {
-    padding-bottom: 4rem;
+    padding-bottom: 4.5rem;
+    min-height: 22rem;
   }
 
   .build-tag {
     width: fit-content;
-    margin-bottom: 1rem;
-    padding: 0.28rem 0.7rem;
-    border: 1px solid rgba(224, 138, 0, 0.35);
-    border-radius: 999px;
-    color: var(--saffron);
-    font-size: 0.68rem;
+    margin-bottom: 1.25rem;
+    padding: 0.3rem 0.85rem;
+    border: 1px solid rgba(212, 175, 55, 0.3);
+    border-radius: 1px;
+    color: var(--gold-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.7rem;
     font-weight: 700;
-    letter-spacing: 0.16em;
+    letter-spacing: 0.12em;
     text-transform: uppercase;
   }
 
   .build-card h3 {
-    margin-bottom: 0.7rem;
-    color: var(--ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: clamp(1.4rem, 2.2vw, 1.8rem);
-    font-weight: 630;
-    letter-spacing: -0.015em;
+    font-size: clamp(1.5rem, 2.5vw, 2rem);
+    font-weight: 600;
+    margin-bottom: 0.85rem;
+    line-height: 1.15;
   }
 
   .build-summary {
-    color: var(--muted);
+    color: var(--slate);
+    font-size: 0.95rem;
     line-height: 1.65;
   }
 
@@ -1188,171 +1681,157 @@ const stateHubs = [
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0.55rem 1rem;
-    margin: 1.3rem 0 0;
-    padding: 0;
+    margin: 1.5rem 0 0;
+    padding: 1.5rem 0 0;
+    border-top: 1px solid var(--hairline);
     list-style: none;
   }
 
   .build-points li {
     position: relative;
-    padding-left: 1.4rem;
-    color: var(--muted);
-    font-size: 0.92rem;
-    line-height: 1.5;
+    padding-left: 1.2rem;
+    color: var(--slate);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.875rem;
+    line-height: 1.4;
   }
 
   .build-points li::before {
     position: absolute;
     left: 0;
-    color: var(--teal);
+    color: var(--gold);
     font-weight: 700;
-    content: "\2713";
+    content: "✓";
+    font-size: 0.8rem;
   }
 
-  /* ================= stats ================= */
-  .stats {
-    padding-top: 0;
+  /* ================== PROCESS ================== */
+  .process {
+    padding: clamp(5rem, 9vw, 8rem) 0;
+    border-top: 1px solid var(--hairline);
   }
 
-  .stat-band {
-    display: grid;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1rem;
-    margin: 0;
-    padding: clamp(2rem, 4vw, 3rem) clamp(1.5rem, 3vw, 3rem);
-    border: 1px solid var(--hairline);
-    border-radius: 2rem;
-    background: var(--card);
-    box-shadow: 0 30px 70px -30px rgba(22, 36, 46, 0.18);
-    list-style: none;
-  }
-
-  .stat-band li {
-    display: grid;
-    gap: 0.35rem;
-    text-align: center;
-  }
-
-  .stat-num {
-    color: var(--ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: clamp(2.2rem, 4.5vw, 3.4rem);
-    font-weight: 680;
-    letter-spacing: -0.03em;
-    line-height: 1;
-    font-variant-numeric: tabular-nums;
-  }
-
-  .stat-label {
-    color: var(--muted);
-    font-size: 0.9rem;
-  }
-
-  /* ================= process ================= */
   .steps {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: clamp(1.5rem, 3vw, 3rem);
+    gap: 0;
     margin: 0;
-    padding: clamp(1.8rem, 3vw, 2.4rem) 0 0;
-    border-top: 1px solid var(--hairline);
+    padding: 0;
     list-style: none;
+    border: 1px solid var(--hairline);
+    border-radius: 2px;
+    overflow: hidden;
+    background: var(--hairline);
+    counter-reset: steps;
   }
 
   .steps li {
     display: grid;
-    gap: 0.6rem;
+    gap: 0.75rem;
     align-content: start;
+    padding: clamp(2rem, 4vw, 3rem) clamp(1.5rem, 3vw, 2.5rem);
+    background: var(--paper);
+    position: relative;
   }
 
+  .steps li + li {
+    border-left: 1px solid var(--hairline);
+  }
+
+  .steps li::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 2px;
+    background: var(--gold);
+    opacity: 0;
+    transition: opacity 300ms ease;
+  }
+
+  .steps li:hover::before { opacity: 1; }
+
   .step-num {
-    color: var(--saffron);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 0.82rem;
+    color: var(--gold-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.75rem;
     font-weight: 700;
-    letter-spacing: 0.14em;
+    letter-spacing: 0.12em;
   }
 
   .steps h3 {
-    color: var(--ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: 1.32rem;
-    font-weight: 630;
-    letter-spacing: -0.01em;
+    font-size: 1.3rem;
+    font-weight: 600;
+    line-height: 1.2;
   }
 
   .steps p {
-    color: var(--muted);
+    color: var(--slate);
+    font-size: 0.9rem;
     line-height: 1.65;
   }
 
-  /* ================= locations ================= */
+  /* ================== LOCATIONS ================== */
+  .locations {
+    padding: clamp(5rem, 9vw, 8rem) 0;
+    background: var(--surface);
+    border-top: 1px solid var(--hairline);
+  }
+
   .city-cloud {
     display: flex;
     flex-wrap: wrap;
-    gap: 0.7rem;
+    gap: 0.6rem;
   }
 
   .city-chip {
     display: inline-flex;
     align-items: center;
-    min-height: 2.9rem;
-    padding: 0 1.3rem;
+    min-height: 2.6rem;
+    padding: 0 1.1rem;
     border: 1px solid var(--hairline);
-    border-radius: 999px;
-    color: var(--ink);
-    background: var(--card);
-    font-size: 0.96rem;
-    font-weight: 600;
+    border-radius: 2px;
+    color: var(--midnight);
+    background: var(--paper);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.875rem;
+    font-weight: 500;
     text-decoration: none;
-    box-shadow: 0 10px 24px -14px rgba(22, 36, 46, 0.25);
-    transition:
-      transform 550ms var(--ease),
-      border-color 550ms var(--ease),
-      background-color 550ms var(--ease),
-      color 550ms var(--ease),
-      box-shadow 550ms var(--ease);
+    transition: all 250ms var(--ease);
   }
 
-  .city-chip:nth-child(odd) {
-    transform: rotate(-0.7deg);
-  }
-
-  .city-chip:nth-child(even) {
-    transform: rotate(0.6deg);
-  }
-
-  .city-chip:hover,
-  .city-chip:focus-visible {
-    transform: translateY(-3px) rotate(0deg);
-    border-color: rgba(18, 144, 124, 0.4);
-    color: var(--teal);
-    box-shadow: 0 18px 34px -14px rgba(18, 144, 124, 0.35);
-  }
-
-  .city-chip:active {
-    transform: scale(0.97);
+  .city-chip:hover {
+    border-color: var(--gold);
+    color: var(--midnight);
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(212, 175, 55, 0.15);
   }
 
   .cloud-label {
     margin: 2rem 0 0.9rem;
-    color: var(--muted);
-    font-size: 0.8rem;
-    font-weight: 700;
-    letter-spacing: 0.14em;
+    color: var(--slate-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
     text-transform: uppercase;
   }
 
   .city-cloud-muted .city-chip {
-    min-height: 2.5rem;
-    padding: 0 1.05rem;
+    min-height: 2.25rem;
+    padding: 0 0.9rem;
     background: transparent;
     box-shadow: none;
-    font-size: 0.9rem;
-    font-weight: 550;
+    font-size: 0.825rem;
   }
 
-  /* ================= faq ================= */
+  /* ================== FAQ ================== */
+  .faq {
+    padding: clamp(5rem, 9vw, 8rem) 0;
+    border-top: 1px solid var(--hairline);
+  }
+
   .faq-list {
     border-top: 1px solid var(--hairline);
   }
@@ -1366,24 +1845,19 @@ const stateHubs = [
     align-items: center;
     justify-content: space-between;
     gap: 1.5rem;
-    padding: 1.35rem 0.25rem;
-    color: var(--ink);
-    font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-    font-size: clamp(1.05rem, 1.8vw, 1.25rem);
+    padding: 1.35rem 0;
+    color: var(--midnight);
+    font-family: 'Hanken Grotesk', system-ui, -apple-system, sans-serif;
+    font-size: clamp(1rem, 1.4vw, 1.15rem);
     font-weight: 600;
     letter-spacing: -0.01em;
     list-style: none;
     cursor: pointer;
-    transition: color 400ms var(--ease);
+    transition: color 300ms ease;
   }
 
-  .faq-item summary::-webkit-details-marker {
-    display: none;
-  }
-
-  .faq-item summary:hover {
-    color: var(--teal);
-  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-item summary:hover { color: var(--slate); }
 
   .faq-mark {
     display: inline-grid;
@@ -1392,211 +1866,119 @@ const stateHubs = [
     width: 2rem;
     height: 2rem;
     border: 1px solid var(--hairline);
-    border-radius: 50%;
-    color: var(--teal);
+    border-radius: 1px;
+    color: var(--gold-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
     font-size: 1.1rem;
-    font-weight: 500;
-    transition: transform 500ms var(--ease), background-color 500ms var(--ease), color 500ms var(--ease);
+    font-weight: 300;
+    transition: all 400ms var(--ease);
   }
 
   .faq-item[open] .faq-mark {
     transform: rotate(45deg);
-    color: #ffffff;
-    background: var(--teal);
+    background: var(--midnight);
+    border-color: var(--midnight);
+    color: var(--paper);
   }
 
   .faq-item p {
-    max-width: 52rem;
-    padding: 0 0.25rem 1.4rem;
-    color: var(--muted);
-    line-height: 1.75;
+    max-width: 54rem;
+    padding: 0 0 1.5rem;
+    color: var(--slate);
+    font-size: 0.95rem;
+    line-height: 1.8;
   }
 
-  /* ================= closing ================= */
+  /* ================== CLOSING CTA ================== */
   .closing {
-    padding-bottom: clamp(5rem, 9vw, 8rem);
-  }
-
-  .closing-panel {
-    position: relative;
-    overflow: hidden;
-    padding: clamp(3rem, 7vw, 5.5rem) clamp(1.5rem, 5vw, 5rem);
-    border-radius: 2.4rem;
-    background:
-      radial-gradient(38rem 22rem at 50% -35%, rgba(18, 144, 124, 0.28), transparent 70%),
-      linear-gradient(180deg, #1a2f3c, #121e28);
-    box-shadow:
-      inset 0 1px 0 rgba(248, 245, 239, 0.1),
-      0 40px 90px -35px rgba(22, 36, 46, 0.5);
+    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    background: var(--surface-low);
+    border-top: 1px solid var(--hairline);
     text-align: center;
   }
 
-  .closing-panel .eyebrow,
-  .closing-panel h2 {
-    margin-inline: auto;
+  .closing-inner {
+    max-width: 44rem;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
-  .closing-panel h2 {
-    max-width: 22ch;
-    margin-bottom: 1.1rem;
-    color: #f8f5ef;
+  .closing-inner h2 {
+    color: var(--midnight);
+    font-size: clamp(1.85rem, 3vw, 2.5rem);
+    max-width: 24ch;
+    margin: 0 auto 1rem;
+    line-height: 1.18;
+    font-weight: 700;
   }
 
   .closing-note {
-    max-width: 44rem;
-    margin: 0 auto 2.3rem;
-    color: rgba(248, 245, 239, 0.72);
-    font-size: 1.03rem;
+    max-width: 38rem;
+    margin: 0 auto 2rem;
+    color: var(--slate);
+    font-size: 0.95rem;
     line-height: 1.7;
   }
 
-  /* ================= responsive ================= */
-  @media (max-width: 980px) {
-    .hero {
-      grid-template-columns: 1fr;
-      min-height: 0;
-      gap: 2rem;
-      padding-top: 2.5rem;
-    }
-
-    h1 {
-      max-width: 14.5ch;
-    }
-
-    .globe-stage {
-      width: min(82vw, 24rem);
-      margin: 0 auto;
-    }
-
-    .build-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .stat-band {
-      grid-template-columns: 1fr 1fr;
-      gap: 2rem 1rem;
-    }
+  .closing-actions {
+    display: flex;
+    justify-content: center;
   }
 
-  @media (max-width: 760px) {
+  /* ================== RESPONSIVE ================== */
+  @media (max-width: 1024px) {
+    .hero-inner {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+    .hero-image-panel {
+      justify-self: center;
+      max-width: 28rem;
+    }
+    .hero-badge-tr { right: 0.5rem; }
+    .hero-badge-bl { left: 0.5rem; }
+    .bento {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .work-showcase {
+      grid-template-columns: 1fr;
+      gap: 2.5rem;
+    }
+    .stat-band {
+      grid-template-columns: 1fr 1fr;
+    }
+    .comparison-table { font-size: 0.82rem; }
+  }
+
+  @media (max-width: 768px) {
+    h1 { font-size: clamp(2rem, 9vw, 2.75rem); max-width: 100%; }
+    .build-grid { grid-template-columns: 1fr; }
+    .steps { grid-template-columns: 1fr; }
+    .steps li + li { border-left: none; border-top: 1px solid var(--hairline); }
+    .service-points { grid-template-columns: 1fr; }
+    .build-points { grid-template-columns: 1fr; }
+    .col-agency, .col-cheap { display: none; }
+    .col-aspect { width: 45%; }
+    .col-us { width: 55%; }
+    .closing-inner { text-align: center; }
+  }
+
+  @media (max-width: 640px) {
     .bento {
       grid-template-columns: 1fr;
     }
-
-    .card-lg .card-core,
-    .card-md .card-core,
-    .card-sm .card-core {
-      min-height: 0;
-    }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { width: 100%; justify-content: center; }
+    .work-actions { flex-wrap: wrap; }
   }
 
-  @media (max-width: 620px) {
-    .hero,
-    .services,
-    .builds,
-    .stats,
-    .process,
-    .locations,
-    .faq,
-    .closing {
-      padding-inline: 1rem;
-    }
-
-    .steps {
-      grid-template-columns: 1fr;
-    }
-
-    h1 {
-      max-width: 100%;
-      font-size: clamp(2.05rem, 10vw, 2.95rem);
-      line-height: 1.08;
-    }
-
-    .eyebrow {
-      font-size: 0.68rem;
-      letter-spacing: 0.1em;
-    }
-
-    .hero-actions {
-      gap: 0.65rem;
-      margin-top: 1.45rem;
-    }
-
-    .button {
-      min-height: 3rem;
-      padding-left: 1.15rem;
-      font-size: 0.92rem;
-    }
-
-    .globe-stage {
-      width: min(78vw, 20rem);
-    }
-
-    .globe-tag {
-      bottom: 0;
-      font-size: 0.72rem;
-    }
-
-    .signal-row {
-      gap: 0.45rem;
-    }
-
-    .signal-row li {
-      min-height: 1.85rem;
-      padding-inline: 0.65rem;
-      font-size: 0.78rem;
-    }
-
-    .service-points {
-      grid-template-columns: 1fr;
-    }
-
-    .build-points {
-      grid-template-columns: 1fr;
-    }
-
-    .closing-panel {
-      border-radius: 1.6rem;
-    }
-  }
-
-  /* ================= preference guards ================= */
   @media (prefers-reduced-motion: reduce) {
-    .marquee-track {
-      animation: none;
-    }
-
-    .button,
-    .button-orb,
-    .card,
-    .build-card,
-    .card-arrow,
-    .city-chip,
-    .faq-mark {
-      transition-duration: 1ms;
-    }
-  }
-
-  @media (prefers-reduced-transparency: reduce) {
-    .globe-tag {
-      background: #ffffff;
-      backdrop-filter: none;
-    }
-  }
-
-  @media (prefers-contrast: more) {
-    .card,
-    .build-card,
-    .city-chip,
-    .button-ghost {
-      border-color: rgba(22, 36, 46, 0.45);
-    }
+    .marquee-track { animation: none; }
+    .btn-primary, .btn-ghost, .btn-cream,
+    .city-chip, .card, .build-card,
+    .card-arrow, .faq-mark { transition-duration: 1ms; }
   }
 </style>
-
-
-
-
-
-
-
