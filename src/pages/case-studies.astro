@@ -10,7 +10,7 @@ import { siteContact } from "@data/site/site-config";
 const faqs = [
   {
     question: "Are these real client case studies?",
-    answer: "No, and we will not pretend otherwise. Every scenario on this page is an illustrative walkthrough built from common problems Indian businesses bring to us. We have not published client case studies yet because we would need written permission and verified numbers first. If you want proof of work, ask us for project references and we will arrange a direct conversation."
+    answer: "No, and we will not pretend otherwise. Every scenario on this page is an illustrative walkthrough built from common problems businesses in India and abroad bring to us. We have not published client case studies yet because we would need written permission and verified numbers first. If you want proof of work, ask us for project references and we will arrange a direct conversation."
   },
   {
     question: "Why publish scenarios instead of just waiting for real results?",
@@ -22,15 +22,19 @@ const faqs = [
   },
   {
     question: "What does a project like these cost?",
-    answer: "Starting figures: a static website from ₹5,000, a 30-page SEO website from design to deployment from ₹10,000, AI automation from ₹15,000, ecommerce from ₹25,000, and a custom web app from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count, integrations and how much content you already have ready."
+    answer: "Starting figures, in INR for India and USD for international clients: a static website of up to 100 pages from ₹10,000 (US$150), a 700+ page SEO website from design to deployment from ₹20,000 (US$300), AI automation from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750), and a custom web app from ₹60,000 (US$900). Monthly SEO starts from ₹10,000 (US$150) per month. Final cost always depends on scope, page count, integrations and how much content you already have ready."
   },
   {
     question: "How long does a project usually take?",
-    answer: "A small static site is normally two to three weeks. A 30-page SEO website runs four to six weeks including content, structure and deployment. Ecommerce and custom web apps take six to twelve weeks depending on payment flows, integrations and review cycles. Content approval on your side is usually the slowest step, so we plan around it early."
+    answer: "A static site is normally one to two weeks. A 700+ page SEO website runs three to five weeks including content, structure and deployment. Ecommerce and custom web apps take six to twelve weeks depending on payment flows, integrations and review cycles. Content approval on your side is usually the slowest step, so we plan around it early."
   },
   {
     question: "Do you handle hosting and deployment or just the build?",
-    answer: "We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. You do not need a separate agency for launch. After hosting goes live we include five months of maintenance free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that maintenance is from ₹2,000 per month."
+    answer: "We handle projects end to end: planning, design, development, SEO setup, hosting and deployment. You do not need a separate agency for launch. After hosting goes live we include five months of maintenance free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that maintenance is from ₹8,000 (US$120) per month."
+  },
+  {
+    question: "Do these scenarios apply to businesses outside India?",
+    answer: "Yes. The problems are the same whether the business is in Texas, Manchester, Toronto, Sydney, Dubai or Pune: pages that are not indexed, enquiries that go unanswered, slow product pages and spreadsheet admin. We work remotely from India with clients in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India, schedule calls in your business hours, and quote international projects in USD."
   },
   {
     question: "What do you measure after launch?",
@@ -43,13 +47,19 @@ const faqs = [
 ];
 
 const page = createPageSeo({
-  title: "Web Development Case Studies India: How We Work",
-  description: "Honest web development case studies from India: six anonymised scenario walkthroughs showing what we investigate, what we build, and what we measure after launch.",
+  title: "Web Development Case Studies: How We Work",
+  description: "Six illustrative web development and SEO scenarios for businesses in the USA, UK, Australia & India: what we investigate, build and measure after launch.",
   canonicalPath: "/case-studies/",
   h1: "How we diagnose, build and measure client projects",
-  intro: "We have not published client case studies yet, so instead of inventing them we wrote something more useful. Below are six anonymised scenarios drawn from problems Indian businesses bring us, each showing the diagnosis, the build, and the numbers worth watching afterwards.",
+  intro: "We have not published client case studies yet, so instead of inventing them we wrote something more useful. Below are six anonymised scenarios drawn from problems businesses in the USA, UK, Canada, Australia, the UAE and India bring us, each showing the diagnosis, the build, and the numbers worth watching afterwards.",
   breadcrumbs: createBreadcrumbs([{ label: "Case studies", href: "/case-studies/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "web development case studies",
+    "web development company case studies",
+    "SEO case study USA UK",
+    "outsourced web development case study",
     "web development case studies India",
     "website case study India",
     "SEO case study India",
@@ -78,9 +88,11 @@ const page = createPageSeo({
     "website audit India"
   ]
 });
+
+const areaServed = ["US", "GB", "CA", "AU", "AE", "SG", "IN"].map((name) => ({ "@type": "Country", name }));
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), { ...serviceSchema(page.title, page.description, page.canonicalPath), areaServed }]}>
   <div class="it-location">
     <div class="it-wrap">
       <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
@@ -102,7 +114,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="honest-heading">Why this page has no client logos on it</h2>
-            <p>Most case study pages in the Indian web development market are decoration. A logo, a number with no baseline, a sentence about growth, and no explanation of what actually changed. You cannot learn anything from that, and you certainly cannot predict whether the same team would help you. We are a three person freelance group, we have been building for a while, and we do have work we are proud of. What we do not have is a set of published case studies with client permission, verified before and after figures, and honest notes about what did not work. Until we do, this page will not carry any.</p>
+            <p>Most case study pages in the web development market, in India and everywhere else, are decoration. A logo, a number with no baseline, a sentence about growth, and no explanation of what actually changed. You cannot learn anything from that, and you certainly cannot predict whether the same team would help you. We are a three person freelance group, we have been building for a while, and we do have work we are proud of. What we do not have is a set of published case studies with client permission, verified before and after figures, and honest notes about what did not work. Until we do, this page will not carry any.</p>
             <p>So we wrote the next most useful thing. Six scenarios, clearly labelled as illustrative, each following the same shape: what the business was experiencing, what we would look at before touching any code, what we would build, and what we would measure once it was live. If you recognise your own situation in one of them, that is the point. Project references are available on request, and we will connect you with someone directly rather than quote them selectively.</p>
           </article>
         </div>
@@ -113,7 +125,7 @@ const page = createPageSeo({
           <article>
             <h2 id="method-heading">How we diagnose a problem before quoting a build</h2>
             <p>Nearly every enquiry we receive arrives as a solution rather than a problem. "We need a new website." "We need SEO." Sometimes that is right. Often the real issue is narrower and cheaper to fix. So the first conversation is diagnostic. Where do enquiries currently come from, and how many? What happens to an enquiry after it arrives, and who picks it up? Which pages does search traffic land on, and what do those visitors do next? What does the business actually earn per customer, because that decides how much a website is worth building.</p>
-            <p>Then we look at the site as it exists. Not aesthetically, but structurally. Is it indexed. Does it load acceptably on a mid-range Android phone on mobile data. Does every service have a page worth ranking. Is there a phone number visible without scrolling. Are forms reaching an inbox anyone checks. Half the time this audit produces a list of small fixes that beat a rebuild, and we say so, because quoting a ₹40,000 web app for a problem solved by a ₹10,000 site helps nobody twice.</p>
+            <p>Then we look at the site as it exists. Not aesthetically, but structurally. Is it indexed. Does it load acceptably on a mid-range Android phone on mobile data. Does every service have a page worth ranking. Is there a phone number visible without scrolling. Are forms reaching an inbox anyone checks. Half the time this audit produces a list of small fixes that beat a rebuild, and we say so, because quoting a ₹60,000 (US$900) web app for a problem solved by a ₹10,000 (US$150) site helps nobody twice.</p>
           </article>
           <article>
             <h3>What we agree on before starting</h3>
@@ -139,7 +151,7 @@ const page = createPageSeo({
             <h3 id="scenario-one-heading">Scenario one: a local service business getting no online enquiries</h3>
             <p>An air conditioning repair and installation business covering three neighbourhoods has a site built four years ago. It looks fine. It produces roughly one enquiry a month, all from people who already knew the company name. The owner assumes the site needs redesigning. It usually does not.</p>
             <p>What we would investigate first: whether the site is indexed at all, whether there is a page for each service and each area served, and what people in that city actually type when their AC stops cooling in May. Very often the entire business sits on one page listing seven services, competing against nobody in particular. We would also check whether the phone number is clickable on mobile, because a surprising number are not.</p>
-            <p>What we would build: separate pages per service and per service area, each written for how people phrase the problem, with the phone number above the fold and a short form underneath. Clear pricing bands where the business is comfortable publishing them. Proper local structured data and a Google Business Profile that matches the site exactly. This is typically a 30-page SEO website from design to deployment, starting from ₹10,000, often paired with monthly SEO from ₹5,000 per month while rankings build.</p>
+            <p>What we would build: separate pages per service and per service area, each written for how people phrase the problem, with the phone number above the fold and a short form underneath. Clear pricing bands where the business is comfortable publishing them. Proper local structured data and a Google Business Profile that matches the site exactly. This is typically a static website of up to 100 pages from ₹10,000 (US$150), or a 700+ page SEO website from ₹20,000 (US$300) where the business covers many areas, often paired with monthly SEO from ₹10,000 (US$150) per month while rankings build.</p>
             <p>What to measure afterwards: calls and form submissions separately, by month, split by which page the visitor landed on. Indexed page count in the first six weeks. Rankings for eight to ten commercial phrases, not vanity terms. If service-area pages are not producing calls by month three, the problem is the copy or the competition, and we adjust rather than wait. Our <a href="/services/seo-services/">SEO services</a> page explains that cycle in more detail.</p>
           </article>
         </div>
@@ -163,7 +175,7 @@ const page = createPageSeo({
             <h3 id="scenario-three-heading">Scenario three: a coaching institute losing leads across WhatsApp and phone</h3>
             <p>A competitive exam coaching institute gets steady interest. Enquiries arrive on two WhatsApp numbers, one landline, an Instagram inbox and a website form nobody has checked since December. Three staff members reply when they can. Nobody knows how many enquiries came in last month, how many converted, or which channel produced the students who actually enrolled.</p>
             <p>What we would investigate first: not the website. We would trace one enquiry end to end. Who sees it, how fast, what they say, and where it is recorded. Then we would count last month's enquiries by hand across every channel, which usually takes an afternoon and produces the most useful number the institute has ever had. Only then does it become clear whether the problem is lead volume or lead handling. In this scenario it is almost always handling.</p>
-            <p>What we would build: a single intake path. Every channel, including the WhatsApp click-to-chat links, feeds one shared record with course interest, batch preference and source. Automated first response within seconds so nobody waits an hour. A simple dashboard showing enquiries, follow-ups pending and enrolments by source. Website pages per course and per exam, since parents research course fees and batch timings before they ever message. Automation work of this kind starts from ₹15,000, with the website portion quoted separately.</p>
+            <p>What we would build: a single intake path. Every channel, including the WhatsApp click-to-chat links, feeds one shared record with course interest, batch preference and source. Automated first response within seconds so nobody waits an hour. A simple dashboard showing enquiries, follow-ups pending and enrolments by source. Website pages per course and per exam, since parents research course fees and batch timings before they ever message. Automation work of this kind starts from ₹40,000 (US$600), with the website portion quoted separately.</p>
             <p>What to measure afterwards: total enquiries, median first response time, follow-up completion rate, and enrolments attributed to source. The response time number moves fastest and predicts the rest.</p>
           </article>
         </div>
@@ -175,7 +187,7 @@ const page = createPageSeo({
             <h3 id="scenario-four-heading">Scenario four: an ecommerce store with slow product pages</h3>
             <p>A homeware store on a common platform has healthy traffic and a disappointing conversion rate. Product pages take five or six seconds to become usable on a mid-range phone. The owner has been told to buy faster hosting. Hosting is rarely the culprit.</p>
             <p>What we would investigate first: a waterfall trace of a real product page on a throttled mobile connection. Usually the findings are unglamorous. Eleven marketing scripts, four of them for tools nobody uses any more. Hero images shipped at 3000 pixels wide and scaled down in the browser. Three chat widgets. A review app loading a font. Layout shifting as the price block arrives late, so customers tap the wrong thing. We would also check the checkout separately, since a fast product page feeding a broken payment step fixes nothing.</p>
-            <p>What we would build, or more accurately remove: unused scripts deleted, remaining third-party tags deferred, images converted to modern formats and served at the size actually displayed, critical styles inlined, and space reserved for late-arriving elements so nothing jumps. Then the product page itself gets attention, since specifications, delivery timing and return terms visible without scrolling do more for conversion than shaving another half second. Full ecommerce builds start from ₹25,000; a focused speed and conversion pass is quoted on scope.</p>
+            <p>What we would build, or more accurately remove: unused scripts deleted, remaining third-party tags deferred, images converted to modern formats and served at the size actually displayed, critical styles inlined, and space reserved for late-arriving elements so nothing jumps. Then the product page itself gets attention, since specifications, delivery timing and return terms visible without scrolling do more for conversion than shaving another half second. Full ecommerce builds start from ₹50,000 (US$750); a focused speed and conversion pass is quoted on scope.</p>
             <p>What to measure afterwards: time to interactive on a mid-range Android, layout shift, add-to-cart rate, checkout completion rate, and revenue per session. Track revenue per session above all, because speed work that does not move money is a hobby.</p>
           </article>
         </div>
@@ -199,7 +211,7 @@ const page = createPageSeo({
             <h3 id="scenario-six-heading">Scenario six: a team drowning in spreadsheet admin</h3>
             <p>A twelve person logistics coordination team runs on shared spreadsheets. One file per client, one master tracker, and a daily hour of copying between them. Two people maintain formulas nobody else understands. Every month someone overwrites a column and a day disappears reconstructing it.</p>
             <p>What we would investigate first: which parts of the process are genuinely repetitive and which need judgement. Automating a decision that needs a human produces confident wrong answers at speed. We would sit with the team, record the actual steps rather than the documented ones, and time them. Then we would find the two or three transfers that consume the most hours and carry the most error risk. Those get automated first, and the rest waits.</p>
-            <p>What we would build: usually not a giant internal platform. Often a small tool that replaces the copying, validates entries at the point of entry, keeps an edit history so a bad paste is recoverable, and generates the reports someone currently assembles by hand every Friday. Where documents and emails need reading, that is where AI automation earns its place, starting from ₹15,000. A fuller internal tool with roles and permissions becomes a custom web app, from ₹40,000.</p>
+            <p>What we would build: usually not a giant internal platform. Often a small tool that replaces the copying, validates entries at the point of entry, keeps an edit history so a bad paste is recoverable, and generates the reports someone currently assembles by hand every Friday. Where documents and emails need reading, that is where AI automation earns its place, starting from ₹40,000 (US$600). A fuller internal tool with roles and permissions becomes a custom web app, from ₹60,000 (US$900).</p>
             <p>What to measure afterwards: hours per week on manual transfer, error corrections per month, and how long a new joiner takes to become productive. If the tool does not save hours within a month of launch, it was the wrong tool and we would rather find that out quickly.</p>
           </article>
         </div>
@@ -214,16 +226,16 @@ const page = createPageSeo({
           </article>
           <article>
             <h3>What we include and what it costs</h3>
-            <p>Every project runs end to end: planning, design, development, SEO setup, hosting and deployment, handled by the same three people throughout. Once hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from ₹2,000 per month.</p>
+            <p>Every project runs end to end: planning, design, development, SEO setup, hosting and deployment, handled by the same three people throughout. Once hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from ₹8,000 (US$120) per month.</p>
             <ul class="it-list">
-              <li>Static website from ₹5,000</li>
-              <li>30-page SEO website, design to deployment, from ₹10,000</li>
-              <li>AI automation from ₹15,000</li>
-              <li>Ecommerce from ₹25,000</li>
-              <li>Custom web app from ₹40,000</li>
-              <li>Monthly SEO from ₹5,000 per month</li>
+              <li>Static website, up to 100 pages, from ₹10,000 (US$150)</li>
+              <li>700+ page SEO website, design to deployment, from ₹20,000 (US$300)</li>
+              <li>AI automation from ₹40,000 (US$600)</li>
+              <li>Ecommerce from ₹50,000 (US$750)</li>
+              <li>Custom web app from ₹60,000 (US$900)</li>
+              <li>Monthly SEO from ₹10,000 (US$150) per month</li>
             </ul>
-            <p>Final cost always depends on scope. Full detail sits on the <a href="/pricing/">pricing</a> page.</p>
+            <p>INR prices apply in India and USD prices to international clients. Final cost always depends on scope: pages, features, integrations and content. Full detail sits on the <a href="/pricing/">pricing</a> page.</p>
           </article>
         </div>
       </section>
@@ -232,7 +244,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="related-heading">Related pages</h2>
-            <p>If one of the scenarios above matched your situation, these pages go into the relevant detail. We work with businesses across India and remotely with clients in the USA, UAE and Australia.</p>
+            <p>If one of the scenarios above matched your situation, these pages go into the relevant detail. We work remotely from India with clients in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India.</p>
             <ul class="it-list">
               <li><a href="/services/">All services</a></li>
               <li><a href="/services/web-development/">Web development</a></li>
@@ -241,6 +253,10 @@ const page = createPageSeo({
               <li><a href="/portfolio/">Portfolio</a></li>
               <li><a href="/pricing/">Pricing</a></li>
               <li><a href="/about/">About the team</a></li>
+              <li><a href="/countries/">Countries we serve</a></li>
+              <li><a href="/usa/">Web development for US businesses</a></li>
+              <li><a href="/uk/">Web development for UK businesses</a></li>
+              <li><a href="/canada/">Canada</a>, <a href="/australia/">Australia</a> and <a href="/uae/">UAE</a></li>
               <li><a href="/it-services/">IT services across India</a></li>
               <li><a href="/india/">Web development in India</a></li>
               <li><a href="/india/maharashtra/mumbai/">Mumbai</a></li>

@@ -5,4 +5,6 @@ export const countries: Country[] = [
   { name: "United Arab Emirates", slug: "uae", isoCode: "AE", path: "/uae/", enabled: false },
   { name: "Australia", slug: "australia", isoCode: "AU", path: "/australia/", enabled: false },
   { name: "United States", slug: "usa", isoCode: "US", path: "/usa/", enabled: false },
+  { name: "United Kingdom", slug: "uk", isoCode: "GB", path: "/uk/", enabled: false },
+  { name: "Canada", slug: "canada", isoCode: "CA", path: "/canada/", enabled: false },
 ];

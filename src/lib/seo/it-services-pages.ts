@@ -139,7 +139,7 @@ export function regionFaqs(region: ItServicesRegion): FaqItem[] {
     {
       question: `What does a website cost for a business in ${region.name}?`,
       answer:
-        "Static websites start from ₹5,000 and a 30-page SEO website from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, custom web applications from ₹40,000, monthly SEO from ₹5,000 per month, and maintenance from ₹2,000 per month. Pricing follows scope, not postcode, so you get an itemised estimate after sharing your page and feature list.",
+        "Static websites start from ₹10,000 and a 700+ page SEO website from design to deployment starts from ₹20,000. Ecommerce starts from ₹50,000, custom web applications from ₹60,000, monthly SEO from ₹10,000 per month, and maintenance from ₹8,000 per month. Pricing follows scope, not postcode, so you get an itemised estimate after sharing your page and feature list.",
     },
     {
       question: `Do you work remotely with clients across ${region.name}?`,
@@ -176,7 +176,7 @@ export function cityFaqs(region: ItServicesRegion, city: ItServicesCity): FaqIte
     {
       question: `How much does a website cost for a business in ${city.name}?`,
       answer:
-        "A static business website starts from ₹5,000, and a 30-page SEO website handled from design through to deployment starts from ₹10,000. Ecommerce stores start from ₹25,000 and custom web applications from ₹40,000. These are starting points, not fixed quotes: the final cost depends on page count, features, integrations, and content, so you get an itemised estimate after sharing your requirement.",
+        "A static business website starts from ₹10,000, and a 700+ page SEO website handled from design through to deployment starts from ₹20,000. Ecommerce stores start from ₹50,000 and custom web applications from ₹60,000. These are starting points, not fixed quotes: the final cost depends on page count, features, integrations, and content, so you get an itemised estimate after sharing your requirement.",
     },
     {
       question: `How long does a project take for a client in ${city.name}?`,

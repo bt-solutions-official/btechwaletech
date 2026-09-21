@@ -1,0 +1,1104 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteContact } from "@data/site/site-config";
+import { pricingPlans } from "@data/pricing/plans";
+import { usd, priceRows, countryOgImage, countryServiceSchema } from "@data/countries/international";
+
+const path = "/germany/";
+const url = canonicalUrl(path);
+const countryName = "Germany";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a German web agency?",
+    answer: "No. BtechWaleTech is a team of three engineers based in India who work with German companies remotely. We have no office, GmbH, address or employees in Germany, and we do not claim otherwise. You work directly with the engineers who build your project, at starting prices that reflect our costs rather than German agency overheads.",
+  },
+  {
+    question: "What does a website cost for a German business?",
+    answer: `Our starting prices are ${usd("Static")} for a static company website, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an online shop and ${usd("Custom web app")} for a custom web application. Ongoing SEO is from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. All of these are starting prices, and your quote is based on your actual requirements.`,
+  },
+  {
+    question: "Can you invoice in euros?",
+    answer: "Yes, on request. We publish prices in USD, but we can issue the invoice in EUR at a rate fixed in the written quote, payable by Wise or SEPA-compatible bank transfer through Wise, or by international wire. The amount is agreed before work starts, so exchange rate changes during the project do not affect you.",
+  },
+  {
+    question: "Do you charge German VAT?",
+    answer: "No. We are a service provider outside the EU and are not registered for German VAT. For B2B services supplied to a German business, the reverse charge mechanism usually means the recipient accounts for the VAT in its own return. Your Steuerberater can confirm the correct treatment; we are engineers, not tax advisers.",
+  },
+  {
+    question: "Do you write the German text for the website?",
+    answer: "No, and we are upfront about it. Our team works in English. We build German-language sites with correct structure, hreflang, umlauts, compound-word handling and German date and number formats, but the German copy should be written or reviewed by a native speaker: your team, a copywriter or a translator you trust. We can build English versions directly.",
+  },
+  {
+    question: "Can you sign a data processing agreement under GDPR?",
+    answer: "Yes. Where we may access personal data, for example while maintaining a shop or CRM, we sign an Auftragsverarbeitungsvertrag with you. Because we are in India, which has no EU adequacy decision, transfers are covered with the EU Standard Contractual Clauses. We also keep our access to personal data to a minimum and work with test data wherever possible.",
+  },
+  {
+    question: "How do you handle cookie consent under the TTDSG?",
+    answer: "Non-essential cookies and similar technologies such as analytics and marketing pixels are only set after the visitor actively consents, as the TTDSG, now renamed TDDDG, requires. We implement a consent tool with equally prominent accept and reject options, block tags until consent, and prefer analytics setups that need no consent at all where that fits. Legal review of your texts remains your adviser's job.",
+  },
+  {
+    question: "Will my website have a correct Impressum?",
+    answer: "We build the Impressum page and link it from every page so it is easy to find, as German law expects. The content, such as your company name, address, legal representative, register court and number and VAT ID, must come from you, and a lawyer or a legal text service should confirm it. We are engineers, not lawyers.",
+  },
+  {
+    question: "Does the BFSG accessibility law apply to my online shop?",
+    answer: "Since 28 June 2025 the Barrierefreiheitsstärkungsgesetz, Germany's implementation of the European Accessibility Act, applies to many ecommerce services offered to consumers. Micro-enterprises providing services are exempt. We build shops to WCAG 2.1 AA as the practical benchmark, which is the level the related European standard points to. Whether the law applies to you is a question for your legal adviser.",
+  },
+  {
+    question: "Which payment methods can you set up for a German online shop?",
+    answer: "PayPal, Klarna including pay by invoice and instalments, SEPA direct debit, cards, Apple Pay and Google Pay are the usual mix. Stripe covers most of these in one integration, and Shopify Payments or PayPal Commerce can be used on Shopify. Giropay was shut down at the end of 2024; its bank-backed successor is Wero, and we check whether your provider supports it when we build.",
+  },
+  {
+    question: "Do you build Shopware and Shopify shops?",
+    answer: "Yes. Shopify suits most small and mid-sized merchants who want a managed platform. Shopware, developed in Germany, suits merchants who want deeper B2B features, German-market extensions or self-hosting in Germany. We also build WooCommerce and headless shops. We recommend a platform in the quote and explain why.",
+  },
+  {
+    question: "Can you do SEO for google.de?",
+    answer: `Yes. Monthly SEO starts from ${usd("Monthly SEO")} and covers technical work, on-page optimisation, content structure and local search for Germany, including hreflang for de-DE, de-AT, de-CH and English versions. German keywords are researched with native-speaker review of the final copy. Nobody can guarantee rankings on google.de, and we do not.`,
+  },
+  {
+    question: "What hours are you available in German time?",
+    answer: "India is four and a half hours ahead of Germany in winter and three and a half hours ahead in summer. Our day runs 9 am to 9 pm IST, which is 4:30 am to 4:30 pm CET in winter and 5:30 am to 5:30 pm CEST in summer. Your whole German business day is covered, with the best window for calls from mid-morning to late afternoon.",
+  },
+  {
+    question: "Where will my website be hosted?",
+    answer: "Usually in Germany or at least in the EU. Static sites can run on a CDN configured for EU delivery, and applications go to Frankfurt cloud regions such as AWS eu-central-1 or Google Cloud europe-west3, or to German hosts like Hetzner or IONOS. The hosting account is opened in your company's name.",
+  },
+  {
+    question: "Who owns the code and the rights to the website?",
+    answer: "You receive the source code, all accounts and logins, and a written grant of exclusive, unlimited usage rights to the work we create for you once it is paid. Under German copyright law authorship itself cannot be transferred, which is why the contract should spell out usage rights explicitly. Third-party fonts, images and plugins are licensed in your name.",
+  },
+  {
+    question: "How long does a project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an online shop four to eight weeks and a custom web app six to twelve weeks. German projects often add time for legal texts, translation and a formal acceptance step, which we plan into the schedule.",
+  },
+  {
+    question: "What happens after launch?",
+    answer: `After hosting goes live you get five months of maintenance included free: content updates, bug fixes, security and plugin updates, backups and speed checks. Afterwards, maintenance continues from ${usd("Maintenance")}, or you simply get in touch when a change is needed.`,
+  },
+  {
+    question: "Can we meet in person in Germany?",
+    answer: "No. We are a remote team in India and work over video calls, email and WhatsApp, with a private staging link you can check at any time. All decisions are documented in writing, which suits German project culture well.",
+  },
+  {
+    question: "How do we get started?",
+    answer: "Send a WhatsApp message or email describing your company, what you want built and a few websites you like. You receive our questions first, then a written scope with timeline and price, normally within two working days. We begin once you have approved it.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company Germany | Web Developers",
+  description: `Web development for German companies: GDPR-ready websites, Shopware and Shopify shops, google.de SEO and web apps by a remote team in India. From ${usd("Static")}.`,
+  canonicalPath: path,
+  h1: "Web development company for German businesses",
+  intro: "BtechWaleTech is an India-based team of three engineers. We build websites, online shops, SEO systems, web applications and automations for companies across Germany, working remotely with a working day that covers yours. Every price is a starting price, and you speak directly with the engineers who build your project.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Germany", href: path },
+  ]),
+  locale: "en_DE",
+  ogImage: countryOgImage("BtechWaleTech, a remote web development and SEO team in India serving German companies"),
+  keywords: [
+    "web development company Germany",
+    "web developers Germany",
+    "website development Germany",
+    "web design agency Germany",
+    "offshore web development Germany",
+    "outsource web development India Germany",
+    "GDPR compliant website",
+    "DSGVO website",
+    "Shopware developer",
+    "Shopify developer Germany",
+    "ecommerce website Germany",
+    "SEO services Germany",
+    "SEO google.de",
+    "hreflang de-DE",
+    "custom software development Germany",
+    "web app development Germany",
+    "AI automation Germany",
+    "web development Berlin",
+    "web developer Munich Bavaria",
+    "web design Hamburg",
+    "website development Frankfurt Hesse",
+    "web agency Cologne Düsseldorf NRW",
+    "web development Stuttgart Baden-Württemberg",
+    "web design Leipzig Dresden Saxony",
+    "Webentwicklung Agentur",
+    "Webdesign Agentur",
+    "Website erstellen lassen",
+    "Webentwickler beauftragen",
+    "Onlineshop erstellen lassen",
+    "Webentwicklung Indien",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Germany · Remote team in India";
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Time difference", "IST is 4.5 h ahead in winter, 3.5 h in summer"],
+  ["Billing", "USD, or EUR on request, via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "All 16 federal states, from Berlin to Bavaria"],
+];
+const pills = ["GDPR-ready websites", "Shopware and Shopify", "SEO for google.de", "German and English with hreflang", "Klarna, PayPal, SEPA", "Custom web apps"];
+const heroOrigin = "Team based in India · Serving Germany remotely · No German office";
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "4.5 h", label: "India ahead of Germany in winter, 3.5 h in summer" },
+];
+
+const answerHeading = "Looking for a web development company for your German business?";
+const quickAnswer = `BtechWaleTech is a three-engineer team in India that builds websites, Shopware and Shopify shops, SEO systems, web applications and automations for German companies, entirely remotely. Websites start from ${usd("Static")}, online shops from ${usd("Ecommerce")} and custom software from ${usd("Custom web app")}, all as starting prices. You get a written scope, a private staging link, a data processing agreement where needed and five months of free maintenance.`;
+const answerMore = "Our working day starts before yours and ends in your late afternoon, so questions sent at 9 am German time are usually answered within the hour, and changes requested before lunch are often on the staging link the same day.";
+const snapshot = [
+  { label: "Who we are", value: "Ankur, Santosh and Vedansh in India: development, AI and cloud, delivery" },
+  { label: "How we work", value: "Remotely over video calls, email and WhatsApp, with a private staging link" },
+  { label: "What we build", value: "Websites, online shops, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Payments we set up", value: "PayPal, Klarna, SEPA direct debit, cards and wallets via Stripe or Shopify" },
+  { label: "Languages", value: "English in-house; German sites built with your native-speaker text" },
+  { label: "Data protection", value: "GDPR-minded builds, DPA with Standard Contractual Clauses on request" },
+  { label: "Our hours in German time", value: "4:30 am to 4:30 pm CET, 5:30 am to 5:30 pm CEST" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "Websites, shops, SEO and software for German companies, from one small team";
+const services = [
+  { name: "Website design & development", note: "Fast, privacy-conscious company websites on Astro, Next.js or WordPress, with self-hosted fonts and no unnecessary trackers.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO for google.de", note: "Technical SEO, German keyword structure, hreflang for DACH markets and local search for German cities.", href: "/services/seo-services/", size: "md" },
+  { name: "Online shops", note: "Shopware, Shopify, WooCommerce or headless shops with PayPal, Klarna, SEPA and the legally required checkout steps.", size: "sm" },
+  { name: "Custom software", note: "Customer portals, configurators, dashboards and admin tools built around your processes.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Installable web applications for field teams and customers, without app store dependencies.", size: "sm" },
+  { name: "AI automation", note: "CRM, ERP and email workflows, document extraction and AI assistants with data protection in mind.", size: "sm" },
+  { name: "Multilingual sites", note: "German, English and further EU languages with clean URL structures and hreflang.", size: "sm" },
+  { name: "Maintenance & support", note: "Security updates, bug fixes, backups and performance checks; the first 5 months after launch are free.", size: "sm" },
+] as const;
+
+// ---------- Pricing ----------
+
+const pricingHeading = "Website, shop and software prices for German companies";
+const pricingIntro = "We quote international clients in US dollars. Every figure is a starting price for a clearly scoped first version, and the final quote depends on your requirements. EUR invoicing via Wise or international wire is available on request.";
+const pricingFine = "All figures are starting prices, not fixed quotes, and are shown without VAT; B2B services to German companies are normally subject to the reverse charge. Final cost depends on pages, features, integrations, languages and timelines. Third-party costs such as domains, hosting, Shopware or Shopify plans, legal text services and payment fees are paid by you directly to those providers.";
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface Article {
+  id: string;
+  heading: string;
+  paragraphs: string[];
+  list?: string[];
+  after?: string[];
+  blocks?: { name: string; text: string }[];
+  table?: { caption: string; head: string[]; rows: string[][]; hide?: number };
+}
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are, and what working with a team in India means for a German company",
+    paragraphs: [
+      "BtechWaleTech consists of three engineers in India. Ankur Kumar is a full stack developer responsible for front ends, back ends and integrations. Santosh Sharma covers AI and machine learning, AWS, data, technical SEO and deployment. Vedansh Shrivastava leads project delivery and works on data science, AI and automation. A German client speaks to these three people from the first call to the final handover. There is no sales layer, no project manager relaying messages, and no silent subcontractor.",
+      "It is worth being explicit about what we are not. We are not a German agency. We have no office in Germany, no GmbH, no German address and no German-speaking staff. Some offshore providers present themselves with a Berlin virtual office or a German phone number that forwards abroad; we think German buyers deserve to know exactly who they are contracting with. You would be hiring a small remote team in India, and this page describes honestly how that works, including where it fits and where it does not.",
+      "German companies tend to value what remote work needs most: clear written specifications, agreed milestones, documented decisions and predictable delivery. We work that way by default. Every project starts with a scope document, the equivalent of a compact Pflichtenheft, listing pages, functions, interfaces, languages, responsibilities for content and legal texts, and what is out of scope. You approve it before anything is invoiced. During the build you get a password-protected staging environment and a shared list of feedback items, each with a status.",
+      "Language is the most important limitation to understand. Our team works in English. We build German websites every day in the technical sense: umlauts and ß handled correctly, German date, number and currency formats, long compound words that wrap properly on phones, and a German URL structure. But we do not write German marketing copy or legal texts, and we would not want you to publish German text that no native speaker has read. The usual arrangement is that your team, a German copywriter or a translation agency supplies the German text, and we build everything around it. For many Mittelstand companies whose buyers are international, an English site with a German version supplied by the client works very well.",
+      "Remote work also means we cannot visit your factory to film production, attend a trade fair stand or train your staff in a meeting room. We recommend a local photographer where visuals matter, and we record short screen videos in English for training, which new staff can watch whenever they need them.",
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "Our services for German businesses, in detail",
+    paragraphs: [
+      "<strong>Web development.</strong> Company websites, product microsites and landing pages built with Astro, Next.js and React, or with WordPress where your marketing team wants to edit content independently. For most German service firms and industrial suppliers we recommend a static site: it is fast, needs little maintenance, has a very small attack surface and can be hosted in the EU for very little. The static plan covers up to 100 pages, responsive layouts, contact forms and deployment. See the <a href=\"/services/web-development/\">web development service page</a> for the technical details.",
+      "<strong>Design for German buyers.</strong> German B2B and B2C audiences read more before they contact anyone. They look for specifications, certifications, delivery terms, contact persons with names and clear information about the company. Design therefore prioritises structure and legibility over effects: clean typography, generous tables for technical data, downloadable data sheets, and navigation that makes the Impressum, privacy policy and contact details easy to find from every page.",
+      "<strong>Online shops.</strong> Shopware, Shopify, WooCommerce or headless builds with the payment methods German customers expect and the checkout steps German law requires. The ecommerce section below goes into payments, legal requirements and ERP connections.",
+      "<strong>SEO.</strong> Search engine optimisation for google.de and the wider German-speaking market: technical health, German keyword structure, content planning, local search and multilingual setup with hreflang. The SEO section below explains how we handle German-language search when our team writes in English. Our general approach is described on the <a href=\"/services/seo-services/\">SEO services page</a>.",
+      "<strong>Custom software and web applications.</strong> Customer portals for reorders and documents, product configurators, dealer and partner portals, internal dashboards, booking tools and admin panels. Typical German examples: a machine builder that wants customers to find spare parts by serial number, a Handwerk business that needs appointment scheduling and job documentation, or a B2B wholesaler that wants customer-specific price lists online.",
+      "<strong>AI automation.</strong> Automations that connect CRM, ERP, email and accounting, extract data from incoming documents such as orders and delivery notes, route enquiries, and power assistants that answer routine questions from your own documentation. For German clients we pay particular attention to where data is processed and which AI providers are used, and we document it for your records of processing.",
+      "<strong>Maintenance.</strong> Five months of maintenance are included after hosting goes live: content changes, bug fixes, security and plugin updates, backups, uptime and speed checks. After that, maintenance continues from " + usd("Maintenance") + ", or you contact us only when needed.",
+    ],
+  },
+  {
+    id: "ecommerce-germany",
+    heading: "Online shops in Germany: Stripe, Klarna, PayPal, SEPA, Shopware and Shopify",
+    paragraphs: [
+      "Germany is one of Europe's largest ecommerce markets and one of its most demanding. Customers are price-aware and careful, return rates in categories such as fashion are high, trust signals matter, and the legal framework for online selling is detailed. A shop that ignores German payment habits or legal requirements loses sales and, worse, can attract costly Abmahnungen, the formal warning letters competitors and associations send for legal errors.",
+      "<strong>Payment methods.</strong> German shoppers are notably cautious about paying before they receive goods. PayPal is widely used, and purchase on invoice, Kauf auf Rechnung, remains popular, usually offered through a provider such as Klarna that takes the credit risk. SEPA direct debit is common for subscriptions and repeat purchases. Cards, Apple Pay and Google Pay complete the mix. Stripe can provide cards, wallets, SEPA direct debit and Klarna in a single integration; Shopify merchants can use Shopify Payments and PayPal; Shopware integrates PayPal, Mollie, Stripe and others through plugins. Sofort has been folded into Klarna's payment options, and giropay was discontinued at the end of 2024. Its successor from the European Payments Initiative, Wero, is being rolled out for online payments, and we check at build time which of your providers support it. Every merchant account is opened in your company's name.",
+      "<strong>Choosing a platform.</strong> Shopify is the fastest route for most small and mid-sized D2C brands: hosting, security and updates are managed, and the app ecosystem covers German needs such as legal text plugins and invoice payment. Shopware is a German platform with strong B2B features, customer-specific pricing, rule-based promotions and a large German plugin ecosystem, and it can be self-hosted in Germany, which some companies prefer for data protection reasons. WooCommerce suits businesses already on WordPress. Headless builds suit high-traffic brands and complex catalogues that need maximum speed and a custom front end. We recommend one in the quote, with reasons.",
+      "<strong>Legal elements in the checkout.</strong> German and EU consumer law shape the shop in concrete ways. Prices shown to consumers include VAT, with shipping costs clearly stated before checkout; products sold by weight, volume or length need a unit price; the order button must make clear that the order is binding and payable, for example with the wording zahlungspflichtig bestellen; customers need the withdrawal information and model withdrawal form for their 14-day right of withdrawal; and terms and conditions, privacy policy and Impressum must be reachable. Most merchants use legally reviewed texts from a specialised service or a lawyer and update them when the law changes; we integrate those texts and the checkout elements correctly. We are engineers, not lawyers, so the legal content itself is your adviser's responsibility.",
+      "<strong>Shipping and returns.</strong> DHL, Hermes, DPD, GLS and UPS are the usual carriers, with Packstation and parcel shop delivery as popular options. We connect the shop to your shipping tool or carrier accounts so labels, tracking emails and return labels are generated automatically. For categories with frequent returns, a self-service returns flow saves customer service time and gives you data about why items come back.",
+      "<strong>ERP and merchandise management.</strong> Many German merchants run JTL-Wawi, Xentral, plentymarkets, weclapp or an older ERP. Connecting the shop so orders, stock levels and invoices flow both ways is often more valuable than any design feature. We scope these interfaces carefully, using official APIs or established connectors, and test them with real order scenarios before launch.",
+      "<strong>Marketplaces.</strong> Amazon.de, Otto and eBay are important sales channels in Germany. Your own shop remains where you own the customer relationship and margin. We can keep product data consistent across channels and design the own-shop experience around what marketplaces cannot offer: full product information, bundles, customer accounts with order history and B2B pricing.",
+    ],
+  },
+  {
+    id: "seo-germany",
+    heading: "SEO for google.de: German-language search and hreflang for de-DE and English",
+    paragraphs: [
+      "Google holds the large majority of search in Germany, and German searchers write longer, more specific queries in many B2B fields. Good German SEO depends on three things: a technically clean site, a content structure that matches how German buyers phrase their needs, and German text that reads naturally. We handle the first two directly and work with your native speakers on the third.",
+      "<strong>Technical SEO.</strong> Every build ships with clean URLs, unique titles and meta descriptions, structured data for organisation, products, services and FAQs, XML sitemaps, correct canonicals and redirects for any changed URLs. We connect Google Search Console and check indexing actively. For relaunches, a Relaunch in German marketing jargon, we export every URL that currently receives traffic or links and map each one to its new address, because broken URLs are the main cause of lost rankings after a new website goes live.",
+      "<strong>German keyword structure.</strong> German forms compound nouns, so one concept can appear as a single long word or as separate words: Webdesign Agentur and Webdesignagentur, Edelstahl Rohr and Edelstahlrohr. Singular and plural, regional terms and English loanwords all compete. Many industrial buyers search with precise technical terms, standards and material grades. We build the keyword map from search data, your Search Console queries and your sales team's vocabulary, then structure pages so each one targets a distinct intent rather than several pages competing for the same term.",
+      "<strong>Hreflang for DACH and English.</strong> If you serve Germany, Austria and Switzerland, or also sell internationally in English, the language setup matters. We use separate URLs per language and region, hreflang annotations such as de-DE, de-AT, de-CH and en, a sensible x-default, and a visible language switcher that does not redirect visitors automatically based on IP address. Austrian and Swiss variants only make sense where the content really differs, for example in prices, shipping, legal information or vocabulary. Otherwise a single German version targeted at de is often better.",
+      "<strong>Form of address and tone.</strong> Whether a site addresses readers with Sie or du is a brand decision that affects every page, button and email. Most B2B and professional services use Sie; many consumer brands and startups use du. We ask this early so templates, form labels and system emails are consistent.",
+      "<strong>Local search.</strong> For businesses serving specific cities, local pages with real substance, such as service areas, response times and completed projects, work much better than lists of city names. Your Google Business Profile must be owned and verified by you at your real German address; we guide the setup and categories but never create profiles for addresses you do not operate from.",
+      "<strong>Reporting.</strong> Monthly SEO starts from " + usd("Monthly SEO") + ". Each month you receive a concise English report from Search Console and analytics data with what changed, what we did and what comes next. Nobody can guarantee positions on google.de, and a provider that promises them is a warning sign.",
+    ],
+  },
+  {
+    id: "automation-germany",
+    heading: "AI automation for German companies, with data protection built in",
+    paragraphs: [
+      "German companies often have well-defined processes that still involve a lot of manual transfer between systems: orders arriving as PDF by email and being typed into the ERP, service requests forwarded from an inbox to the right technician, quotation data copied from a CRM into a document template. These are good candidates for automation because the rules are already known.",
+      "<strong>Document processing.</strong> Incoming orders, delivery notes and supplier invoices can be read automatically, key fields extracted and validated, and the result passed to your ERP or accounting system for a human to approve. For electronic invoices in formats such as XRechnung or ZUGFeRD the structured data can be read directly, which is more reliable than reading PDFs.",
+      "<strong>Enquiry routing and follow-up.</strong> Web forms, emails and phone notes can be classified by product, region and urgency and assigned to the right person in your CRM, whether that is HubSpot, Pipedrive, Salesforce or a German system. Automatic acknowledgements and reminders make sure nothing is forgotten over a holiday period.",
+      "<strong>Assistants for internal knowledge.</strong> An AI assistant can answer staff or customer questions from your manuals, product data and FAQs. We design these so the model only accesses approved content, answers include references to the source document, and anything that commits the company, such as a price or delivery date, goes to a person.",
+      "<strong>Data protection.</strong> Before building, we document which data flows where, which providers process it and in which region, so you can update your records of processing and, where necessary, conclude data processing agreements. Where possible we choose EU-hosted services and configurations that do not use your data for model training. AI automation starts from " + usd("AI automation") + " for one clearly defined workflow.",
+    ],
+  },
+  {
+    id: "germany-regions",
+    heading: "Germany by region: industries and what businesses need online",
+    paragraphs: [
+      "Germany is a federal country without a single dominant business capital. Each region has its own industries, company sizes and digital habits, and a website that works for a Berlin startup would look out of place for a Swabian machine builder. We serve every state remotely from India; the notes below describe the patterns we plan for.",
+    ],
+    blocks: [
+      { name: "Berlin", text: "Berlin is Germany's startup capital and a centre for digital businesses, creative agencies, media, research and the public sector. Teams are international and often work in English, which makes collaboration with an English-speaking team straightforward. Typical projects are product marketing sites with a headless CMS, SaaS pricing and documentation pages, investor and recruiting pages, and first versions of web products built quickly with a clean architecture that a growing in-house team can take over." },
+      { name: "Bavaria and Munich", text: "Bavaria combines global automotive and engineering groups, insurers, technology firms around Munich and a strong base of family-owned Mittelstand companies in Franconia and Swabia, plus tourism in the Alps. Suppliers here sell to demanding corporate purchasing departments. Useful builds include multilingual product sites with technical data sheets, supplier and partner portals, career sites for hard-to-fill engineering roles, and booking-focused sites for hotels and tourism businesses." },
+      { name: "Hamburg", text: "Hamburg's economy revolves around the port, logistics, international trade, media, publishing and advertising, as well as aviation manufacturing. Trading and logistics firms need quote request flows that capture the right shipment details, tracking and customer portals, and English and German content for international partners. Media and agency clients often want editorial sites with strong content management and fast performance." },
+      { name: "Hesse and Frankfurt", text: "Frankfurt is continental Europe's leading financial centre, home to the European Central Bank, the Bundesbank, the stock exchange and many banks, alongside a large airport and a growing fintech scene. Financial and professional services firms need restrained, precise websites, secure client areas, careful handling of regulated statements and strong data protection. Beyond finance, Hesse has chemicals, pharmaceuticals and logistics companies around the Rhine-Main area." },
+      { name: "North Rhine-Westphalia: Cologne, Düsseldorf and the Ruhr", text: "North Rhine-Westphalia is Germany's most populous state. Cologne is strong in media, insurance and trade fairs; Düsseldorf in fashion, advertising, telecommunications and consulting, with a notable Japanese business community; and the Ruhr region in energy, logistics, chemicals and a transforming industrial base. The sheer number of mid-sized firms makes NRW a large market for B2B websites, dealer portals, ERP-connected shops and multilingual sites for export business." },
+      { name: "Baden-Württemberg and Stuttgart", text: "Baden-Württemberg is home to automotive manufacturers and suppliers, mechanical engineering, electrical equipment and many of the specialised world-market leaders often called hidden champions, spread across towns rather than concentrated in one city. Their websites must present complex products clearly to international engineers: product finders, spare-part search, configurators, downloads with CAD data and data sheets, and English and German content that is kept in sync." },
+      { name: "Saxony: Leipzig and Dresden", text: "Saxony has grown into a significant technology region. Dresden is the centre of Silicon Saxony, Europe's largest microelectronics cluster, while Leipzig has become a logistics hub and a lively location for startups, media and trade fairs. Tech companies here need recruiting sites that attract international talent, clear product and research pages, and fast-moving marketing sites; logistics and trade businesses need quote and tracking tools." },
+      { name: "The rest of Germany", text: "We work equally with companies in Lower Saxony, Bremen, Schleswig-Holstein, Rhineland-Palatinate, Saarland, Thuringia, Saxony-Anhalt, Brandenburg and Mecklenburg-Western Pomerania. Across the country the same principles apply: structure content for careful readers, make legal information easy to find, respect data protection, and build fast sites that work well on phones as well as office desktops." },
+    ],
+    after: [
+      "The region table further down summarises these patterns. None of these locations are offices; they are markets we serve remotely.",
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "GDPR, TTDSG cookie consent, Impressum, BFSG accessibility and VAT",
+    paragraphs: [
+      "German websites face some of the strictest rules in Europe and an active warning-letter culture that enforces them. The points below describe how we build to reduce risk. This is not legal or tax advice: we are engineers, not lawyers, and your legal texts and compliance decisions should be reviewed by a qualified adviser in Germany.",
+      "<strong>GDPR (DSGVO) in the build.</strong> Forms collect only the data needed for their purpose and link to the privacy policy. Nothing is pre-ticked. Form submissions are stored in access-controlled systems within the EU where possible, not forwarded to unknown third-party services. Admin areas use strong authentication and role-based access. Server logs are kept only as long as needed. We document the processors involved, such as the hosting provider, email service and analytics tool, so that your privacy policy and records of processing can list them accurately.",
+      "<strong>Data processing agreement and transfers to India.</strong> Where our work gives us access to personal data, for example when maintaining a shop with customer accounts, we sign an Auftragsverarbeitungsvertrag under Article 28 GDPR. India does not have an adequacy decision from the European Commission, so the transfer is covered by the EU Standard Contractual Clauses, supported by technical measures. In practice we minimise access: development happens with test data, production access is limited to what a specific task needs, and personal data is not copied to our machines.",
+      "<strong>Cookie consent under the TTDSG.</strong> Section 25 of the Telecommunications Telemedia Data Protection Act, renamed in 2024 as the TDDDG, requires consent before storing or reading information on a visitor's device unless it is strictly necessary for the service. That covers most analytics, marketing pixels, embedded videos and maps. We implement a consent management tool that blocks such scripts until consent is given, offers accept and reject with equal prominence, and records consent. Where you only need basic statistics, we recommend a cookieless analytics setup hosted in the EU, which often avoids the banner question for analytics altogether.",
+      "<strong>Third-party embeds and fonts.</strong> German courts have treated loading Google Fonts from Google's servers without consent as a data protection violation, which triggered a wave of warning letters in 2022. We self-host all fonts, load YouTube videos and Google Maps only after a click with a notice, and avoid third-party scripts that are not necessary.",
+      "<strong>Impressum.</strong> Commercial websites in Germany need a provider identification, the Impressum, now required under section 5 of the Digital Services Act implementation law, the DDG, which replaced the old section 5 TMG in 2024. It typically includes the company name and legal form, a serviceable address, legal representatives, contact details including email, register court and registration number, and VAT identification number where applicable. We build the page and link it from every page so it is reachable in no more than two clicks; you supply the content and have it checked.",
+      "<strong>BFSG and the European Accessibility Act.</strong> The Barrierefreiheitsstärkungsgesetz transposes the European Accessibility Act and has applied since 28 June 2025. It covers certain products and services for consumers, including many ecommerce services, while micro-enterprises providing services are exempt. The harmonised European standard for digital accessibility refers to WCAG 2.1 level AA. We build to that level in practice: semantic HTML, keyboard operation, visible focus, sufficient contrast, text alternatives, labelled form fields, accessible error messages and an accessibility statement page where required. Whether and how the law applies to your company is a legal question for your adviser.",
+      "<strong>VAT and our invoices.</strong> The German standard VAT rate is 19 percent, with a reduced rate of 7 percent for certain goods. For B2B services we supply from India to a German business, the place of supply is generally Germany and the reverse charge applies, meaning our invoice shows no German VAT and your company accounts for it in its return. We include your VAT ID on the invoice. Your shop's own VAT settings, including EU one-stop-shop rules for cross-border consumer sales, should be confirmed by your Steuerberater; we configure the shop accordingly.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours: German time and India time",
+    paragraphs: [
+      "Germany uses Central European Time, UTC+1, in winter and Central European Summer Time, UTC+2, from the last Sunday in March to the last Sunday in October. India does not change its clocks and stays on UTC+5:30. The difference is therefore four and a half hours in the German winter and three and a half hours in summer.",
+      "Our working day of 9 am to 9 pm IST starts before German offices open and ends in the German late afternoon. That has a useful effect: we can read messages you sent the previous evening and deliver changes before your day begins, then be available live during your morning and early afternoon for calls, reviews and acceptance tests. Late German afternoon meetings, after 4:30 pm in winter, are the only slot that needs special arrangement.",
+    ],
+    table: {
+      caption: "India time compared with German winter and summer time",
+      head: ["India (IST)", "Germany winter (CET)", "Germany summer (CEST)", "What usually happens"],
+      hide: 3,
+      rows: [
+        ["9:00 am", "4:30 am", "5:30 am", "We start: overnight messages read, fixes deployed before you arrive"],
+        ["1:30 pm", "9:00 am", "10:00 am", "Your morning: quick questions answered live"],
+        ["3:30 pm to 7:30 pm", "11:00 am to 3:00 pm", "12:00 pm to 4:00 pm", "Best window for calls, reviews and acceptance tests"],
+        ["9:00 pm", "4:30 pm", "5:30 pm", "Our day ends; urgent issues by prior arrangement"],
+      ],
+    },
+  },
+  {
+    id: "payments",
+    heading: "How you pay us: USD or EUR via Wise or international wire",
+    paragraphs: [
+      "We quote German clients in US dollars, using the starting prices on this page. If your accounting prefers euros, we issue the invoice in EUR at a rate fixed in the quote, so the amount does not move during the project. Payment is by Wise, which lets you pay from a German account with a local euro transfer and transparent fees, or by international bank wire. Invoices include your company details and VAT ID and note that the reverse charge applies.",
+      "Payments follow milestones rather than full prepayment: typically a share on order, a share on design approval and the balance at acceptance, the Abnahme, before go-live. The exact split and the acceptance criteria are written into the quote. Monthly SEO and maintenance plans are invoiced monthly and can be cancelled with notice; the five free months of maintenance after launch do not commit you to anything.",
+      "Costs for third parties are paid by you directly: domain registration with a registrar of your choice, hosting, Shopware or Shopify plans, paid plugins, legal text subscriptions, consent management tools and payment provider fees. We list expected running costs in the quote, and keeping all these contracts in your company's name ensures you own and control everything.",
+    ],
+  },
+  {
+    id: "preparation",
+    heading: "What to prepare before a website project with a German company",
+    paragraphs: [
+      "Most delays in German web projects have nothing to do with programming. They come from waiting for text, for legal approval, for a translation or for an internal decision. Preparing a few things before the project starts keeps the timeline short and the budget predictable, whichever provider you choose.",
+    ],
+    list: [
+      "<strong>One decision-maker.</strong> Name the person who approves the scope, the design and the final acceptance. Feedback from several departments should be consolidated before it reaches the developers.",
+      "<strong>Text ownership.</strong> Decide who writes the German text and, if needed, the English version, and when it will be delivered. Agree whether you address readers with Sie or du before anyone writes a line.",
+      "<strong>Legal texts.</strong> Decide whether your lawyer or a legal text service provides the Impressum, privacy policy, terms and, for shops, the withdrawal information, and how updates will reach the website later.",
+      "<strong>Tools and processors.</strong> List the tools the site must connect to, such as CRM, newsletter service, ERP, booking system or analytics, and check that data processing agreements exist or can be concluded for each.",
+      "<strong>Images and media.</strong> Collect photos and videos you have the rights to use, including the rights of any people shown. Stock images should be licensed in your company's name.",
+      "<strong>Existing site data.</strong> For a relaunch, provide access to Search Console and analytics so we can protect the pages that already bring visitors and enquiries.",
+      "<strong>Acceptance criteria.</strong> Agree up front what must work for the project to be accepted: browsers and devices, key user journeys, accessibility level and performance targets.",
+    ],
+    after: [
+      "With these points settled, the actual build tends to move quickly: the scope stays stable, design reviews focus on substance, and the formal acceptance at the end becomes a checklist rather than a negotiation. We send a short preparation checklist with every quote so nothing on this list comes as a surprise halfway through the project.",
+    ],
+  },
+  {
+    id: "cost-explained",
+    heading: "What a website costs in Germany, and why ours starts lower",
+    paragraphs: [
+      "German agency rates reflect German costs: salaries, social contributions, office rent, sales and account management. Those rates buy real benefits, including German-language copywriting, on-site workshops and a contract partner under German law. Our starting prices are lower because we are three engineers in India without those overheads. The difference lies in cost structure, not in the care taken over code, performance or security.",
+      "Here is what each starting price typically covers for a German company, and what increases it.",
+    ],
+    list: [
+      `<strong>From ${usd("Static")}, static website:</strong> a company website for a service firm, practice, craftsman business or industrial supplier with home, services, references, about, contact, Impressum and privacy pages, up to 100 pages, using text you supply.`,
+      `<strong>From ${usd("SEO website")}, SEO website with 700+ pages:</strong> a structured site planned around search intent, such as a product catalogue with many material and dimension variants or a service company covering many specialisations, built with keyword mapping, schema and internal linking.`,
+      `<strong>From ${usd("AI automation")}, AI automation:</strong> one defined workflow, for example incoming orders by email being extracted, checked and handed to your ERP for approval.`,
+      `<strong>From ${usd("Ecommerce")}, online shop:</strong> product and category pages, cart and checkout with German payment methods and required legal elements, order and stock basics and performance tuning, for a catalogue you supply as a structured file.`,
+      `<strong>From ${usd("Custom web app")}, custom web application:</strong> a focused first version of a customer portal, configurator, dashboard or internal tool with user roles, an admin area and deployment.`,
+      `<strong>From ${usd("Monthly SEO")} for SEO, from ${usd("Maintenance")} for maintenance:</strong> monthly work and reporting; maintenance costs nothing for the first five months after go-live.`,
+    ],
+    after: [
+      "Typical cost drivers for German projects are several languages, ERP or merchandise management interfaces, B2B price logic, product configurators, extensive accessibility requirements, and content that needs repeated review cycles with legal or translation partners. Budgets stay lean when text and images are ready, one person decides, and the first version is focused. Full scope guidance is on the <a href=\"/pricing/\">pricing page</a>.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "How to hire an offshore web developer from Germany",
+    paragraphs: [
+      "Nearshoring to Eastern Europe and offshoring to India are both common in German IT. Offshore projects that fail usually fail for the same reasons: an unclear specification, no single responsible person, no visibility of progress, and unresolved questions about data protection and rights. This checklist addresses them. Use it with any provider, including us.",
+    ],
+    list: [
+      "<strong>Know who builds it.</strong> Ask for the names of the developers and whether anything is subcontracted. Speak to them before signing.",
+      "<strong>Specify in writing.</strong> A scope document listing pages, functions, interfaces, languages, browser support, accessibility level, responsibilities for text and legal content, and exclusions.",
+      "<strong>Clarify the contract type.</strong> A project with a defined result is typically treated as a Werkvertrag with a formal acceptance, while ongoing support is closer to a Dienstvertrag. Define acceptance criteria and the acceptance process explicitly.",
+      "<strong>Secure usage rights.</strong> German copyright law does not allow authorship to be transferred, so the contract should grant you exclusive, unrestricted usage rights to the code, designs and texts created for you, and list any open-source and third-party licences.",
+      "<strong>Settle data protection first.</strong> Agree whether the provider will access personal data, sign a data processing agreement with Standard Contractual Clauses if so, and require that development uses test data.",
+      "<strong>Keep all accounts in your name.</strong> Domain, hosting, shop platform, payment providers, Search Console and analytics must belong to your company.",
+      "<strong>Demand a staging environment.</strong> A password-protected preview from the first weeks, not a presentation at the end.",
+      "<strong>Agree availability.</strong> Hours in German time, response times and a named contact person, written into the agreement.",
+      "<strong>Pay by milestones.</strong> Order, design approval, acceptance. Full prepayment is a warning sign.",
+    ],
+    after: [
+      "<strong>Warning signs:</strong> guaranteed top positions on google.de; domains or hosting registered in the provider's name; no written scope; pirated premium themes or plugins; Google Fonts or tracking scripts loaded without consent in their own sites; references that cannot be verified; and a German address that turns out to be a mail forwarding service.",
+      "<strong>When a German agency is the better choice:</strong> if you need German copywriting from the same provider, regular on-site workshops, a contract partner under German jurisdiction, or public-sector tenders that require local presence, a German agency will likely serve you better, and we will say so if that is the case.",
+    ],
+  },
+  {
+    id: "hosting",
+    heading: "Hosting, speed and domains for German websites",
+    paragraphs: [
+      "For German companies, hosting location is both a performance and a trust question. We usually recommend hosting in Germany or elsewhere in the EU: AWS and Google Cloud both run regions in Frankfurt, Microsoft Azure has a Germany West Central region, and German hosts such as Hetzner and IONOS offer strong price-performance with data centres in Germany. Static sites can be served from a CDN with European edge locations. The hosting contract, including the data processing agreement with the host, is concluded in your company's name.",
+      "Speed still matters on German mobile networks, where coverage outside cities can be patchy. We aim for Google's Core Web Vitals thresholds: Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint within 200 milliseconds and Cumulative Layout Shift below 0.1. We get there with static HTML where possible, modern image formats in correct sizes, self-hosted subset fonts, lazy loading and minimal third-party scripts, which also simplifies cookie consent.",
+      "A .de domain is the natural choice for the German market. It is registered in your company's name through a registrar of your choice; DENIC's rules require a German address for the registrant or an authorised representative, which your company provides. We configure DNS, SSL and email authentication with SPF, DKIM and DMARC so your emails reach inboxes reliably. If you also operate in Austria or Switzerland, .at and .ch domains can redirect or host country versions, depending on your hreflang strategy.",
+    ],
+  },
+];
+
+const tocExtra = [
+  { id: "pricing-heading", heading: "Starting prices in USD" },
+  { id: "regions-heading", heading: "Region-by-region table" },
+  { id: "industries-heading", heading: "Industries" },
+  { id: "why-heading", heading: "Comparison" },
+  { id: "process-heading", heading: "Process and timelines" },
+  { id: "faq-heading", heading: "FAQs" },
+];
+
+// ---------- Region table ----------
+
+const regionsHeading = "Germany region by region: industries and web needs";
+const regionsNote = "A quick reference for the regional patterns described above. We serve all 16 federal states remotely from India; none of these are office locations.";
+const regionHead = ["State or region", "Main cities", "Key industries", "What we usually build"];
+const regionHide = [1, 2];
+const regionTable = [
+  ["Berlin", "Berlin", "Startups, digital, creative, public sector", "Headless CMS sites, SaaS pages, docs, first product versions"],
+  ["Bavaria", "Munich, Nuremberg, Augsburg", "Automotive, engineering, insurance, tourism", "Multilingual product sites, supplier portals, career sites, booking sites"],
+  ["Hamburg", "Hamburg", "Port, logistics, trade, media", "Quote and tracking tools, editorial sites, English and German content"],
+  ["Hesse", "Frankfurt, Wiesbaden, Darmstadt", "Finance, fintech, pharma, logistics", "Restrained corporate sites, secure client areas, compliance-aware content"],
+  ["North Rhine-Westphalia", "Cologne, Düsseldorf, Dortmund, Essen", "Media, insurance, fashion, energy, chemicals", "B2B sites, dealer portals, ERP-connected shops, export sites"],
+  ["Baden-Württemberg", "Stuttgart, Karlsruhe, Mannheim", "Automotive, machinery, hidden champions", "Product finders, spare-part search, configurators, CAD downloads"],
+  ["Saxony", "Leipzig, Dresden, Chemnitz", "Microelectronics, logistics, startups", "Recruiting sites, research and product pages, logistics tools"],
+  ["Other states", "Hanover, Bremen, Kiel, Mainz, Erfurt and more", "Mittelstand, Handwerk, services", "Fast company sites, local SEO, shops and portals"],
+];
+
+// ---------- Industries ----------
+
+const industriesHeading = "What we build for Germany's main industries";
+const industries = [
+  { name: "Mechanical engineering and manufacturing", need: "Technical specifications, certifications, spare parts, a named contact and English versions", build: "Product catalogues with filters, spare-part search, data sheet and CAD downloads, RFQ forms" },
+  { name: "Automotive suppliers", need: "Capabilities, quality certifications, locations and careers for engineers", build: "Capability pages, certificate downloads, supplier portals, career sites with job feeds" },
+  { name: "Ecommerce and D2C brands", need: "Invoice payment, fast delivery, easy returns and trustworthy shop signals", build: "Shopify or Shopware shops, Klarna and PayPal, returns flows, ERP and carrier integration" },
+  { name: "Handwerk and trades", need: "Service area, references with photos, availability and a simple enquiry", build: "Fast local sites, project galleries, appointment requests, local SEO for real service areas" },
+  { name: "Healthcare and practices", need: "Services explained plainly, opening hours, appointments and strict data protection", build: "Practice sites, online appointment integration, consent-aware forms, accessible design" },
+  { name: "Professional services", need: "Partner profiles, practice areas, publications and discreet contact options", build: "Restrained sites, publication archives, secure document exchange, bilingual content" },
+  { name: "Logistics and trade", need: "Services, lanes, certifications and quick quotes", build: "Quote request tools, tracking pages, customer portals, English and German sites" },
+  { name: "Tech startups and SaaS", need: "A site marketing can change weekly, documentation, pricing and clean analytics", build: "Astro or Next.js with a headless CMS, docs portals, consent-aware analytics, first product versions" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "German agency, nearshore freelancer or BtechWaleTech";
+const comparisonNote = "Each option has its place. This overview shows the usual differences so you can decide based on your project, not on marketing.";
+const compHead = ["Typical German agency", "Freelance platform hire", "BtechWaleTech"];
+const comparison = [
+  ["Starting price", "Higher, reflects German salaries and overheads", "Varies widely, scope often unclear", `Websites from ${usd("Static")}, with an itemised quote`],
+  ["Who does the work", "Often a team behind a project manager", "One person, skills vary", "The three engineers you talk to"],
+  ["German copywriting", "Usually included or available", "Sometimes", "No: text from your native speaker"],
+  ["Meeting in person", "Yes", "Rarely", "No: remote, via video call and a staging environment"],
+  ["Hours in German time", "Office hours", "Depends on location", "From early morning to 4:30 pm CET / 5:30 pm CEST"],
+  ["GDPR and DPA", "Standard", "Often unclear", "DPA with Standard Contractual Clauses on request"],
+  ["After launch", "Paid support contract", "Hard to reach once paid", "5 months of maintenance free"],
+  ["Rights and accounts", "Varies by contract", "Sometimes held back", "Usage rights granted in writing, all accounts in your name"],
+];
+
+// ---------- Process ----------
+
+const process = [
+  ["Talk", "A video call or email exchange about your company, customers, markets and budget. No charge."],
+  ["Scope & quote", "A written scope with pages, functions, interfaces, languages, acceptance criteria and an itemised USD or EUR quote."],
+  ["Design", "Sitemap and wireframes first, then visual design for key pages, reviewed on desktop and mobile."],
+  ["Build on staging", "The site is built on a password-protected staging environment. Morning feedback usually lands the same day."],
+  ["Test & acceptance", "Consent, forms, checkout, legal pages, redirects, accessibility, speed and SEO checked, then formal acceptance."],
+  ["Launch & support", "Domain connected, Search Console set up, access handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Related links ----------
+
+const relatedHeading = "Websites, SEO, software and AI automation: other countries we serve";
+const related = [
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "IT services in Singapore", href: "/singapore/" },
+  { name: "IT services in the UK", href: "/uk/" },
+  { name: "IT services in the USA", href: "/usa/" },
+  { name: "IT services in Canada", href: "/canada/" },
+  { name: "IT services in the UAE", href: "/uae/" },
+  { name: "IT services in Australia", href: "/australia/" },
+  { name: "IT services in India", href: "/india/" },
+];
+
+const processHeading = "From first call to go-live";
+const quoteFoot = "Starting prices in USD, shown without VAT. Your quote follows your requirements, and the first 5 months of maintenance are free.";
+const timelineFine = "Timelines assume text, legal content and approvals arrive on schedule. Translations, ERP interfaces and formal acceptance testing can extend shop and software projects.";
+const closingHeading = "Tell us about your project in Germany";
+const closingNote = "Send a short description of your company and what you need by email or WhatsApp. You get questions first, then a written scope, a timeline and an itemised quote in USD or EUR, usually within two working days. Nothing is invoiced until you approve the scope.";
+
+// ---------- Structured data ----------
+
+const regionsServed = [
+  "Baden-Württemberg", "Bavaria", "Berlin", "Brandenburg", "Bremen", "Hamburg", "Hesse", "Lower Saxony",
+  "Mecklenburg-Western Pomerania", "North Rhine-Westphalia", "Rhineland-Palatinate", "Saarland", "Saxony",
+  "Saxony-Anhalt", "Schleswig-Holstein", "Thuringia",
+];
+const citiesServed = [
+  "Berlin", "Hamburg", "Munich", "Cologne", "Frankfurt am Main", "Stuttgart", "Düsseldorf", "Leipzig",
+  "Dresden", "Dortmund", "Essen", "Bremen", "Hanover", "Nuremberg",
+];
+const country = { "@type": "Country", name: countryName };
+
+const baseService = countryServiceSchema({ path, description: page.description, country: countryName, cities: citiesServed });
+const professionalServiceSchema = {
+  ...baseService,
+  "@id": `${url}#service`,
+  currenciesAccepted: "USD, EUR",
+  paymentAccepted: "Wise, Bank wire",
+  areaServed: [
+    country,
+    ...regionsServed.map((name) => ({ "@type": "State", name, containedInPlace: country })),
+    ...citiesServed.map((name) => ({ "@type": "City", name, containedInPlace: country })),
+  ],
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-DE",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">{heroEyebrow}</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>Email {siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          {heroOrigin}
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label={`Starting prices for ${countryName}`}>
+        <p class="quote-kicker">{countryName} starting prices</p>
+        <ul class="quote-rows">
+          {priceRows.slice(0, 5).map((r) => (
+            <li><span>{r.service}</span><strong><small>from </small>{r.usd}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">{quoteFoot}</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">{answerHeading}</h2>
+        <p id="quick-answer" class="answer-text">{quickAnswer}</p>
+        <p class="answer-more">{answerMore}</p>
+      </div>
+      <table class="snapshot">
+        <caption>{countryName} at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services</p>
+        <h2 id="services-heading">{servicesHeading}</h2>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">{pricingHeading}</h2>
+        <p class="section-note">{pricingIntro}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col" class="hide-sm">Typical timeline</th><th scope="col" class="hide-sm">What is included</th></tr>
+          </thead>
+          <tbody>
+            {priceRows.map((r) => (
+              <tr>
+                <th scope="row">{r.service}</th>
+                <td class="price">{r.usd}</td>
+                <td class="hide-sm">{r.timeline}</td>
+                <td class="hide-sm">{r.includes}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingFine} See the <a href="/pricing/">pricing page</a> for full scope guidance.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label={`Guide to web development for ${countryName}`}>
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guide.map((g) => <li><a href={`#${g.id}`}>{g.heading}</a></li>)}
+          {tocExtra.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.blocks && g.blocks.map((b) => (
+              <div class="state-block">
+                <h3>{b.name}</h3>
+                <p>{b.text}</p>
+              </div>
+            ))}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={i === g.table!.hide ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={i === g.table!.hide ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="regions-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Coverage</p>
+        <h2 id="regions-heading">{regionsHeading}</h2>
+        <p class="section-note">{regionsNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr>{regionHead.map((h, i) => <th scope="col" class={regionHide.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+          <tbody>
+            {regionTable.map((row) => (
+              <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={regionHide.includes(i) ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">{industriesHeading}</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr><th scope="col">Industry</th><th scope="col" class="hide-sm">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td class="hide-sm">{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COMPARISON ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Compare</p>
+        <h2 id="why-heading">{comparisonHeading}</h2>
+        <p class="section-note">{comparisonNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">{compHead[0]}</th>
+              <th scope="col" class="col-other">{compHead[1]}</th>
+              <th scope="col" class="col-us">{compHead[2]}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">{processHeading}</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{timelineFine}</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">{countryName} web development questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other locations</p>
+        <h2 id="related-heading">{relatedHeading}</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">{closingHeading}</h2>
+        <p class="closing-note">{closingNote}</p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); min-width: 0; }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 700; line-height: 1; overflow-wrap: anywhere; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .prose-table { margin-top: 1.5rem; }
+  .prose-table + p { margin-top: 1.5rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p, .prose .state-block + p { margin-top: 1.5rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table .col-other { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.9rem, 8vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

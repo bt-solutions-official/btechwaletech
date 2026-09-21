@@ -31,7 +31,7 @@ export const siteContact = {
     "https://wa.me/916206986683?text=Hello%20BtechWaleTech%2C%20I%20want%20to%20discuss%20an%20IT%20services%20project.",
 };
 
-export const supportedCountrySlugs = ["india", "uae", "australia", "usa"] as const;
+export const supportedCountrySlugs = ["india", "usa", "uk", "canada", "australia", "uae"] as const;
 
 export const coreServiceSlugs = [
   "web-development",
@@ -48,6 +48,7 @@ export const coreServiceSlugs = [
 
 export const primaryNavigation: SiteNavigationItem[] = [
   { label: "Services", href: "/services/" },
+  { label: "Countries", href: "/countries/" },
   { label: "India", href: "/india/" },
   { label: "Industries", href: "/industries/" },
   { label: "Portfolio", href: "/portfolio/" },

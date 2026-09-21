@@ -1,266 +1,1428 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import Breadcrumbs from "@components/common/Breadcrumbs.astro";
-import "@styles/it-services.css";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
-import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
-import { siteContact } from "@data/site/site-config";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { usd } from "@data/countries/international";
+
+const path = "/uae/";
+const url = canonicalUrl(path);
+const updated = "2026-09-21";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
 
 const faqs = [
   {
-    question: "Do you have an office in Dubai or anywhere in the UAE?",
-    answer: "No. We are a small freelance engineering group based in India and we work with UAE clients remotely. There is no UAE office, licence or trade registration behind this page. What you get is direct access to the three people who actually build the work, over email, calls and shared project boards, with a delivery process built for remote clients."
+    question: "Do you have an office, trade licence or staff in the UAE?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India and we work with UAE businesses remotely. We have no office in Dubai or any other emirate, no UAE trade licence and no local staff. You deal directly with the engineers who build your project, over WhatsApp, email and video calls.",
   },
   {
-    question: "How much does a website cost for a UAE business?",
-    answer: "A static website starts from ₹5,000 and a 30-page SEO website taken from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, a custom web application from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and integrations."
+    question: "How much does a website cost for a business in the UAE?",
+    answer: `Our starting prices for UAE clients are ${usd("Static")} for a static website of up to 100 pages, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices; the final quote depends on your requirements, including whether you need Arabic alongside English.`,
   },
   {
-    question: "Can you build a website in both English and Arabic?",
-    answer: "Yes. We build bilingual sites where the Arabic version runs in a proper right to left layout, not a mirrored afterthought. That means direction aware CSS, correct Arabic typography and line height, mirrored navigation and icons, and separate URLs for each language so search engines can index both. Arabic copy is supplied by you or by a translator you trust."
+    question: "Can you build a bilingual Arabic and English website with proper RTL?",
+    answer: "Yes. The Arabic version gets its own right-to-left layout built with direction-aware CSS, an Arabic typeface with suitable line height, mirrored navigation and icons where mirroring makes sense, and correct handling of phone numbers and English brand names inside Arabic sentences. Each language has its own URL so both can be indexed. The Arabic copy itself is written or reviewed by you or a translator you trust.",
   },
   {
-    question: "Is the time difference between India and the UAE a problem?",
-    answer: "It is only ninety minutes. India Standard Time runs one and a half hours ahead of Gulf Standard Time, so a 10am call in Dubai is 11.30am for us. Working hours overlap almost completely. You can send a question in the morning and expect an answer the same working day rather than the next one."
+    question: "Do you write the Arabic content?",
+    answer: "No. We are not native Arabic writers and we will not pass off machine translation as finished copy. You or your translator supply the Arabic text, and we handle everything technical around it: layout, fonts, forms, metadata, hreflang tags and testing. We can prepare a structured content sheet so your translator knows exactly which strings to write.",
   },
   {
-    question: "What is included in the five months of free maintenance?",
-    answer: "After your site goes live we cover five months at no extra charge: content updates, bug fixes, security and plugin updates, backups, plus uptime and page speed checks. It is there so the site does not quietly rot in the months right after launch. Once those five months end, ongoing maintenance is from ₹2,000 per month."
+    question: "Which payment gateways can you integrate for a UAE online store?",
+    answer: "We integrate the gateway you sign up with, including Stripe, Checkout.com, Telr, PayTabs and Network International, plus Apple Pay and Google Pay where the gateway supports them. Tabby and Tamara can be added for buy now, pay later. Cash on delivery can also be offered with order confirmation. The gateway contract, fees and merchant approval are between your company and the provider.",
   },
   {
-    question: "How long does a UAE project usually take?",
-    answer: "A small brochure site is typically two to three weeks. A 30-page SEO site with content structure and on-page work runs three to five weeks. Ecommerce with payment and shipping setup is four to eight weeks, and a custom web application depends entirely on the feature list. Bilingual Arabic versions add roughly a week for layout and testing."
+    question: "Can you build on Shopify, WooCommerce or a custom platform?",
+    answer: "Yes. Shopify suits most small and mid-sized UAE stores that want low maintenance. WooCommerce suits businesses that want content and commerce in one WordPress site. A custom build makes sense for unusual pricing, B2B ordering, or deep integration with an ERP. We recommend one after looking at your catalogue, order volume and team.",
   },
   {
-    question: "Can you handle hosting and deployment as well as the build?",
-    answer: "Yes, that is the normal way we work. We handle planning, design, development, SEO setup, hosting and deployment end to end. You do not need a separate agency to put the site live. If you already have hosting or a preferred provider in the region, we deploy there instead and hand over full access."
+    question: "How do you handle SEO for google.ae and Arabic searches?",
+    answer: "We research English and Arabic keywords separately, because UAE customers phrase searches differently in each language. Each language version gets its own titles, descriptions and headings, hreflang tags tell Google which page serves which audience, and pages are planned around emirates and areas you actually serve. Monthly SEO then covers content, technical fixes and Search Console reporting.",
   },
   {
-    question: "Will the site rank for searches made inside the UAE?",
-    answer: "That is the goal of the SEO setup we include. We target UAE search intent with city and emirate level pages, sensible title tags, clean internal linking, fast loading on mobile networks, and schema markup. Ranking timelines depend on competition. Property and travel keywords in Dubai are hard fought and need ongoing monthly work, not a one-off launch."
-  }
+    question: "What is the time difference between India and the UAE?",
+    answer: "The UAE is one and a half hours behind India all year, because neither country uses daylight saving time. Our hours of 9am to 9pm IST cover 7.30am to 7.30pm in Dubai, so almost the entire UAE business day overlaps with ours. Questions sent in the morning are normally answered the same day.",
+  },
+  {
+    question: "Do you work on Fridays and weekends?",
+    answer: "We reply on WhatsApp seven days a week. Most UAE private companies now follow a Saturday and Sunday weekend with a shorter Friday, while some keep Friday off, and Sharjah government bodies follow a longer weekend. We plan calls and launches around the days your team actually works, and we avoid pushing big changes just before your weekend.",
+  },
+  {
+    question: "Which currency do you invoice in, and how do UAE clients pay?",
+    answer: "We quote and invoice in US dollars by default. If you prefer dirhams, we can invoice in AED on request, using the fixed dirham to dollar peg to convert. Payment is by international bank transfer or Wise, split into milestones: a deposit to start, a payment at staging review and the balance at launch.",
+  },
+  {
+    question: "Is UAE VAT added to your invoices?",
+    answer: "We invoice from India as a foreign supplier, so we do not charge UAE VAT on our invoices. Whether your company has to account for VAT on imported services under the reverse charge depends on your own VAT registration, so please confirm the treatment with your accountant. For your online store, we set up VAT-inclusive pricing and tax invoice fields as your accountant specifies.",
+  },
+  {
+    question: "Does our website need to comply with the UAE data protection law?",
+    answer: "If your website collects personal data, the federal Personal Data Protection Law is relevant, and companies in DIFC or ADGM have their own data protection rules. We build forms that collect only what you need, show a clear notice, record consent and link to a privacy policy. We are engineers, not lawyers, so please take legal advice on your specific obligations.",
+  },
+  {
+    question: "Can you host the website inside the UAE?",
+    answer: "Yes, if you need it. Major cloud providers have regions in the UAE, and we can deploy there when your data or sector requires local hosting. For most marketing websites a global CDN is fast enough in the Gulf and cheaper to run. We explain the trade-off and deploy wherever you choose, on accounts in your company's name.",
+  },
+  {
+    question: "Which domain should we use: .ae or .com?",
+    answer: "A .ae domain is a strong local signal and is geotargeted to the UAE, which helps if nearly all your customers are there. It is registered through accredited registrars and has its own eligibility rules. If you sell across the Gulf or internationally, a .com with UAE-specific pages often works better. Many businesses register both and redirect one to the other.",
+  },
+  {
+    question: "How long does a UAE website project take?",
+    answer: "A static website typically takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. A full Arabic version usually adds about a week for layout, testing and fixes once the translated copy arrives.",
+  },
+  {
+    question: "Who owns the website, code and accounts after launch?",
+    answer: "You do. The domain, hosting, analytics, Search Console and payment accounts are set up in your company's name, and at handover you receive the source code and every login. We keep no licence over your build and nothing you cannot change without us.",
+  },
+  {
+    question: "What does the five months of free maintenance cover?",
+    answer: `Once your site is hosted and live, the next five months of maintenance are included: content and text updates, bug fixes, security and dependency updates, backups, and uptime and speed checks. After that you can continue from ${usd("Maintenance")} or contact us only when something needs changing.`,
+  },
+  {
+    question: "Can you guarantee first-page rankings in Dubai?",
+    answer: "No, and nobody honestly can. Dubai search results for property, travel and services are crowded with portals, ads and established brands. We commit to a technically sound site, pages built around real search demand in English and Arabic, honest reporting from Search Console and steady improvements based on the data.",
+  },
+  {
+    question: "How do we start a project?",
+    answer: "Send a WhatsApp message or email describing your business, the emirates you serve, whether you need Arabic, and any sites you like. We reply with questions, then a written scope, timeline and itemised quote, usually within two working days. Work starts only after you approve the scope and pay the first milestone.",
+  },
 ];
 
+// ---------- Page meta ----------
+
 const page = createPageSeo({
-  title: "Web Development Services UAE: Dubai Websites and SEO",
-  description: "Web development services UAE: websites, ecommerce and SEO for businesses in Dubai, Abu Dhabi and Sharjah. End to end delivery with 5 months free maintenance.",
-  canonicalPath: "/uae/",
-  h1: "Web design, development and SEO for businesses across the UAE",
-  intro: "We are a three person freelance engineering group in India working with companies in Dubai, Abu Dhabi, Sharjah and the wider UAE. We plan, design, build, optimise, host and deploy the whole thing, then look after it free for five months.",
-  breadcrumbs: createBreadcrumbs([{ label: "UAE", href: "/uae/" }]),
+  title: "Web Development Company UAE | Dubai Website Design",
+  description: `Web development company for UAE businesses: Arabic and English websites, ecommerce, SEO and AI automation. Remote team in India, from ${usd("Static")}.`,
+  canonicalPath: path,
+  h1: "Web development company for the UAE: Dubai, Abu Dhabi and every emirate",
+  intro: `BtechWaleTech is a small team of engineers based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automations for businesses across the UAE. We work remotely, invoice in US dollars or dirhams, and publish our starting prices: websites start from ${usd("Static")}.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "UAE", href: path },
+  ]),
+  locale: "en_AE",
+  alternateLocales: ["ar_AE"],
+  ogImage: { url: "/banner_logo.png", alt: "BtechWaleTech, a remote web development and SEO team from India serving businesses across the UAE", width: 1536, height: 1024 },
   keywords: [
-    "web development services UAE",
-    "website development Dubai",
+    "web development company UAE",
+    "website design UAE",
+    "web development company Dubai",
+    "website design Dubai",
+    "website development Abu Dhabi",
+    "web design Sharjah",
+    "website design Ajman",
+    "web developer Ras Al Khaimah",
+    "website design Fujairah",
+    "web development Al Ain",
     "SEO services UAE",
-    "web design Dubai",
-    "website designer Abu Dhabi",
-    "web development company Sharjah",
-    "ecommerce website UAE",
+    "SEO company Dubai",
     "Arabic website design",
-    "bilingual website Dubai",
+    "bilingual Arabic English website",
     "RTL website development",
-    "local SEO Dubai",
-    "SEO company Abu Dhabi",
+    "ecommerce website development UAE",
+    "Shopify developer Dubai",
+    "Tabby Tamara integration",
+    "Telr PayTabs integration",
+    "custom software development UAE",
+    "AI automation Dubai",
     "website maintenance UAE",
-    "AI automation UAE",
-    "custom web application Dubai",
-    "real estate website Dubai",
-    "hospitality website UAE",
-    "logistics website development UAE",
-    "trading company website Dubai",
-    "professional services website UAE",
-    "retail ecommerce Dubai",
-    "affordable web development UAE",
-    "freelance web developer Dubai",
     "offshore web development UAE",
-    "WordPress development Dubai",
-    "Shopify development UAE",
-    "website hosting and deployment UAE",
-    "digital marketing UAE"
-  ]
+    "hire web developer Dubai",
+    "تصميم مواقع",
+    "تصميم مواقع دبي",
+    "شركة تطوير مواقع",
+    "برمجة مواقع",
+    "تصميم متجر إلكتروني",
+    "تحسين محركات البحث",
+  ],
 });
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Languages", "English, with Arabic RTL builds"],
+  ["Billing", "USD, or AED on request"],
+  ["Time gap", "UAE is 1.5 hours behind IST"],
+  ["After launch", "5 months of maintenance free"],
+];
+
+const pills = ["Arabic and English sites", "Ecommerce with Tabby and Telr", "SEO for google.ae", "Shopify and WooCommerce", "AI automation", "Custom web apps"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "1.5h", label: "Behind India, no daylight saving" },
+  { value: "5", label: "Months maintenance free" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers based in India, working remotely with UAE businesses" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Languages", value: "English in-house; Arabic RTL layouts with copy from you or your translator" },
+  { label: "Gateways we integrate", value: "Stripe, Checkout.com, Telr, PayTabs, Network International, Tabby, Tamara" },
+  { label: "Working hours overlap", value: "7.30am to 7.30pm UAE time, replies seven days a week" },
+  { label: "Billing", value: "USD by default, AED on request, via bank transfer or Wise" },
+  { label: "Office in the UAE", value: "None. Remote delivery from India only" },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Fast business websites on Astro, Next.js or WordPress, in English, Arabic or both, with WhatsApp and form enquiries routed to your team.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO for google.ae", note: "English and Arabic keyword research, hreflang, emirate-level pages, schema and monthly content work.", href: "/services/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with VAT-inclusive pricing, card gateways, BNPL and cash on delivery.", size: "sm" },
+  { name: "Bilingual Arabic sites", note: "True right-to-left layouts, Arabic typography and separate indexable URLs per language.", size: "sm" },
+  { name: "Custom software", note: "Booking systems, broker portals, dashboards and admin panels built around your workflow.", size: "sm" },
+  { name: "AI automation", note: "Lead routing, invoice extraction, WhatsApp flows and assistants trained on your own documents.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Installable web apps for field teams, customers and partners, without app store overhead.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, backups, fixes and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Higher, covers a local office, licence and sales team", "Low bids, scope often vague", `From ${usd("Static")}, with an itemised written quote`],
+  ["Who does the work", "Often a junior team behind an account manager", "One person, sometimes subcontracted onward", "The three engineers you speak to"],
+  ["Arabic and RTL", "Usually offered, quality varies", "Often a mirrored copy of the English layout", "Separate RTL layout, tested in both directions"],
+  ["Meeting in person", "Yes, a real advantage", "Rarely", "No. Video calls, WhatsApp and a staging link"],
+  ["Working hours", "UAE business hours", "Depends on the individual's time zone", "9am to 9pm IST, which is 7.30am to 7.30pm UAE"],
+  ["SEO setup", "Often a separate package", "Frequently skipped", "Titles, schema, hreflang and sitemap in every build"],
+  ["Ownership", "Usually yours, check the contract", "Logins sometimes withheld", "Domain, hosting, code and accounts in your name"],
+  ["After launch", "Paid retainer", "Often unreachable", "5 months of maintenance included free"],
+];
+
+// ---------- Emirates ----------
+
+const emirates = [
+  { name: "Dubai", cities: "Dubai city, Jebel Ali, Hatta", market: "Trade, real estate, tourism, retail, logistics and professional services. The most competitive search market in the country.", build: "Listing portals, booking flows, bilingual corporate sites, ecommerce, area-level SEO pages" },
+  { name: "Abu Dhabi", cities: "Abu Dhabi city, Al Ain, Al Dhafra towns", market: "Energy, government suppliers, healthcare, education, culture and tourism, with Al Ain as a separate inland market.", build: "Formal bilingual corporate sites, tender-ready company profiles, clinic and school sites" },
+  { name: "Sharjah", cities: "Sharjah city, Khor Fakkar, Kalba", market: "Manufacturing, education, family businesses, affordable housing and a strong cultural and publishing scene.", build: "Catalogue sites for manufacturers and traders, school and institute sites, local service pages" },
+  { name: "Ajman", cities: "Ajman city, Masfout", market: "Small traders, clinics, property, and a busy free zone serving startups and light industry.", build: "Low-cost static sites, lead-focused landing pages, small online stores" },
+  { name: "Ras Al Khaimah", cities: "RAK city, Al Hamra, Al Marjan Island", market: "Hospitality and resorts, ceramics and industry, property, and a large economic zone for international companies.", build: "Hotel and tourism sites, industrial catalogues, investor-facing company sites" },
+  { name: "Fujairah", cities: "Fujairah city, Dibba Al Fujairah", market: "Port, shipping, bunkering and oil storage, plus east coast tourism and diving.", build: "Shipping and marine service sites, B2B enquiry systems, tourism booking pages" },
+  { name: "Umm Al Quwain", cities: "UAQ city, Falaj Al Mualla", market: "Small businesses, leisure and marine activities, and a free trade zone popular with small companies.", build: "Compact business sites, maps and directions pages, simple booking forms" },
+  { name: "Free zones", cities: "DMCC, DIFC, ADGM, Dubai Internet City, SAIF, RAKEZ and others", market: "Trading houses, fintech, consultancies and tech startups serving the region and the world.", build: "International-facing corporate sites, SaaS dashboards, investor pages, compliance-aware forms" },
+];
+
+// ---------- Industries ----------
+
+const industries = [
+  { name: "Real estate", need: "Searchable listings, off-plan project pages, agent profiles, fast WhatsApp contact", build: "Listing databases with filters, project microsites, CRM-connected lead forms, Arabic and English pages" },
+  { name: "Hospitality & tourism", need: "Rich photos that still load fast, clear rates, booking on a phone, several languages", build: "Hotel and tour sites, booking engine integration, offer pages staff can edit, schema for rich results" },
+  { name: "Retail & ecommerce", need: "VAT-inclusive prices in AED, trusted checkout, BNPL, cash on delivery, quick delivery info", build: "Shopify, WooCommerce or custom stores with Tabby, Tamara, card gateways and courier integration" },
+  { name: "Healthcare & clinics", need: "Doctor profiles, insurance information, appointment requests, careful data handling", build: "Clinic sites with booking forms, minimal data collection, consent notices and bilingual service pages" },
+  { name: "Education", need: "Admissions information for expat families, curriculum details, fee enquiries, events", build: "School and training institute sites, enquiry and admissions forms, course catalogues" },
+  { name: "Logistics & trade", need: "Quote requests, route and service pages, tracking, document downloads", build: "B2B sites with quote calculators, tracking lookups, product catalogues and spec sheet libraries" },
+  { name: "Food & beverage", need: "Menus that update easily, delivery links, reservations, location and hours", build: "Restaurant and cloud kitchen sites, menu CMS, reservation forms, Google Business Profile guidance" },
+];
+
+// ---------- Process and timelines ----------
+
+const process = [
+  ["Talk", "A WhatsApp chat or video call about your business, the emirates you serve, your languages and your goal. No charge."],
+  ["Scope & quote", "A written page plan, keyword list, timeline and itemised USD or AED quote, usually within two working days."],
+  ["Design", "Layouts for key pages in English, with the Arabic RTL versions designed alongside rather than after."],
+  ["Build & review", "Development on a private staging link you can open any time. Small changes usually land the same day."],
+  ["Launch", "Hosting, domain, SSL, Search Console, analytics and sitemap set up, then a scheduled go-live at a quiet hour."],
+  ["Support", "Five months of free maintenance, then an optional monthly plan or pay-as-needed changes."],
+];
+
+// ---------- Schema ----------
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development and IT services for the UAE`,
+  description: page.description,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${usd("Maintenance")} - ${usd("Custom web app")}+`,
+  currenciesAccepted: "USD, AED",
+  paymentAccepted: "Bank transfer, Wise",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  areaServed: [
+    { "@type": "Country", name: "United Arab Emirates" },
+    ...["Dubai", "Abu Dhabi", "Sharjah", "Ajman", "Ras Al Khaimah", "Fujairah", "Umm Al Quwain"].map((name) => ({ "@type": "State", name: `${name} emirate` })),
+    ...["Dubai", "Abu Dhabi", "Sharjah", "Al Ain", "Ajman", "Ras Al Khaimah", "Fujairah", "Umm Al Quwain", "Khor Fakkan"].map((name) => ({ "@type": "City", name })),
+  ],
+  knowsLanguage: ["en"],
+  parentOrganization: { "@type": "Organization", name: siteBrand.name, url: siteBrand.domain },
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Web development and IT services for UAE businesses (starting prices, USD)",
+    itemListElement: pricingPlans.map((plan) => {
+      const price = Number(usdPrice(plan.price).replace(/[^\d]/g, ""));
+      return {
+        "@type": "Offer",
+        itemOffered: { "@type": "Service", name: plan.name, description: plan.summary, areaServed: "United Arab Emirates" },
+        priceSpecification: {
+          "@type": "PriceSpecification",
+          price,
+          minPrice: price,
+          priceCurrency: "USD",
+          ...(plan.unit ? { unitText: plan.unit } : {}),
+        },
+      };
+    }),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-AE",
+  dateModified: updated,
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+
+const toc = [
+  ["who-we-are", "Who we are and how remote delivery works"],
+  ["uae-market", "What UAE customers expect online"],
+  ["arabic-rtl", "Bilingual Arabic and English websites"],
+  ["ecommerce", "Ecommerce and payments in the UAE"],
+  ["seo", "SEO for google.ae in two languages"],
+  ["software", "Custom software and AI automation"],
+  ["emirates", "Emirate by emirate"],
+  ["compliance", "Data protection, VAT and rules"],
+  ["time-zones", "Time zones and the working week"],
+  ["payments", "How UAE clients pay us"],
+  ["buying-guide", "Hiring an offshore developer"],
+  ["cost", "What a UAE website really costs"],
+];
+
+const related = [
+  { name: "Web development services", href: "/services/web-development/" },
+  { name: "SEO services", href: "/services/seo-services/" },
+  { name: "Pricing", href: "/pricing/" },
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "IT services in Saudi Arabia", href: "/saudi-arabia/" },
+  { name: "IT services in India", href: "/india/" },
+  { name: "IT services in the USA", href: "/usa/" },
+  { name: "IT services in the UK", href: "/uk/" },
+  { name: "IT services in Canada", href: "/canada/" },
+  { name: "IT services in Australia", href: "/australia/" },
+];
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
-  <div class="it-location">
-    <div class="it-wrap">
-      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+<BaseLayout meta={page} schema={[webPageSchema, serviceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
 
-      <section class="it-hero">
-        <p class="it-eyebrow">United Arab Emirates</p>
-        <h1>{page.h1}</h1>
-        <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-contact-block">
-          <p class="it-contact-lead">Contact us and share your project idea</p>
-          <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
-          </div>
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">United Arab Emirates · All seven emirates</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts for UAE clients">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
         </div>
-      </section>
+        <ul class="hero-pills" aria-label="What we build for UAE businesses">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Serving the UAE remotely &middot; <span lang="ar" dir="rtl">تصميم مواقع وبرمجة مواقع</span>
+        </p>
+      </div>
 
-      <section class="it-section" aria-labelledby="who-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="who-heading">Who we are and how we work with UAE clients</h2>
-            <p>BtechWaleTech is a freelance group of three engineers working out of India. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management alongside data science and automation work. There is no sales layer between you and the people writing the code. When you ask a question about a database decision or a page speed problem, the answer comes from whoever built that part.</p>
-            <p>We are honest about what that means for a UAE client. We do not hold a trade licence in the Emirates, we do not maintain an address in Dubai Internet City, and we will not pretend otherwise. We work with UAE businesses remotely, invoice from India, and deliver the same way we would for a client in Bengaluru or London. Plenty of UAE companies already run their technical work this way because it costs less and moves faster.</p>
-          </article>
-          <article>
-            <h3>Everything from planning through to deployment</h3>
-            <p>Projects run end to end. That covers planning and scoping, design, development, the SEO setup, hosting, and the actual deployment to a live domain with SSL and email records pointed correctly. You do not hand off to a second vendor halfway through, and nobody gets to blame anybody else when something breaks between design and build.</p>
-            <p>Once your site is live, five months of maintenance are included free. Content updates, bug fixes, security patches, backups, and regular uptime and speed checks all sit inside that window. Most problems on a new site show up in the first few months, so that is exactly when the cover matters. After five months, maintenance continues from ₹2,000 per month if you want to keep it. Our <a href="/pricing/">pricing page</a> lays the numbers out plainly.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="market-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="market-heading">The UAE digital market and what it demands from a website</h2>
-            <p>The UAE has one of the highest smartphone and internet penetration rates anywhere, and buyers there research heavily before making contact. A property enquiry, a freight quote, a clinic booking or a restaurant reservation almost always begins with a phone search. That puts unusual pressure on two things: how fast your pages load on a mobile connection, and how quickly a visitor can find a phone number or a WhatsApp link without hunting.</p>
-            <p>It is also a market full of transient audiences. A large share of the population are expatriates, and a large share of visitors are tourists and business travellers who have never heard of your brand. They judge you almost entirely by the site in front of them. Vague copy, stock photos with no relation to the business, and a contact form that never confirms it was received all cost you enquiries. Concrete details, real photos, clear pricing signals and working contact paths keep them.</p>
-          </article>
-          <article>
-            <h3>Competition is tighter than the search volume suggests</h3>
-            <p>Dubai in particular is a small geography with an enormous number of businesses chasing the same keywords. Search for almost any commercial service there and you will find paid ads, aggregator directories, and a wall of established sites before you reach an ordinary company page. Getting past that is not a matter of stuffing "Dubai" into every heading.</p>
-            <p>What works is narrower targeting. Pages built around a specific service in a specific area, written by someone who understands the service, with genuinely useful detail on price ranges, timelines and what is included. That is the same approach we take across our <a href="/services/seo-services/">SEO services</a> work, and it applies just as well in Abu Dhabi and Sharjah as it does in India.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="bilingual-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="bilingual-heading">Bilingual English and Arabic websites, built right to left properly</h2>
-            <p>Most commercial activity in the UAE happens in English, but Arabic matters for government facing work, for parts of the retail and hospitality market, and for credibility with Emirati customers. The mistake we see repeatedly is an Arabic version that was bolted on: text translated, direction flipped with a single CSS rule, and everything else left alone. Icons point the wrong way, form fields fall out of order, numbers and dates render strangely, and the whole thing feels machine made.</p>
-            <p>We build the Arabic side as a real layout. That means direction aware styles rather than mirrored hacks, an Arabic typeface with a line height that suits the script, navigation and breadcrumbs that flow correctly, mixed direction handling where English brand names or phone numbers sit inside Arabic sentences, and forms that validate the same in both. Layout components get tested in both directions before launch, not after a client complains.</p>
-          </article>
-          <article>
-            <h3>Language structure that search engines can read</h3>
-            <p>Each language gets its own indexable URL path rather than a script that swaps text on the fly. Language annotations tell Google which version belongs to which audience, so an Arabic searcher lands on the Arabic page instead of the English one. Sitemaps list both. Titles, descriptions and structured data are written per language rather than translated word for word from the English.</p>
-            <p>We do not write the Arabic copy ourselves. You supply it, or a translator you trust does, and we handle everything technical around it. Being straight about that is better than promising native copywriting we cannot deliver. If you only need English for now, we can still build the structure so an Arabic version drops in later without a rebuild.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="seo-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="seo-heading">SEO services for UAE searches</h2>
-            <p>SEO setup is part of every build, not a separate upsell. That baseline covers a sensible URL structure, unique titles and meta descriptions on every page, a clean heading hierarchy, internal links that actually help someone move through the site, image compression and modern formats, schema markup for the business and its services, an XML sitemap, and a robots file that does not accidentally block half the site. It also covers Core Web Vitals work, because a site that loads slowly on a phone in a car park loses the enquiry.</p>
-            <p>For UAE targeting specifically, we build out location intent properly: separate pages for the emirates and areas you genuinely serve, with distinct content on each rather than the same paragraph with the city name swapped. Google Business Profile setup, consistent business details across directories, and review prompts in your follow up emails do more for local visibility than most on-page tweaks. Search Console and analytics are connected before launch so you have data from day one.</p>
-          </article>
-          <article>
-            <h3>Ongoing monthly work when the launch setup is not enough</h3>
-            <p>For competitive UAE terms, a good launch gets you into the game but does not win it. Monthly SEO starts from ₹5,000 per month and covers content published on a schedule, technical fixes as they appear, internal link building across new pages, tracking of the keywords that actually generate enquiries, and a monthly report written in plain language rather than a dashboard export.</p>
-            <p>We will tell you when monthly work is not worth it. A niche B2B trading company with a handful of relevant search terms often needs a solid site and nothing more. A property or fit-out business competing across Dubai needs continuous content. Ask us on a call and you will get a straight opinion rather than a retainer pitch.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="ecom-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="ecom-heading">Ecommerce and payment considerations in the region</h2>
-            <p>Ecommerce builds start from ₹25,000. The technology choice depends on catalogue size and how much custom logic you need, but the regional details matter more than the platform argument. Prices need to display in dirhams with VAT handled correctly. Cash on delivery is still expected by a meaningful share of UAE shoppers and has to be a first class option, not a hidden checkbox, which means your order flow needs a plan for failed deliveries and cash reconciliation.</p>
-            <p>Payment gateway choice is a business decision we help you think through rather than make for you. Local and regional processors, international providers, and wallet options all differ in settlement time, supported currencies, and what documentation they want from a UAE registered entity. We integrate whichever one you sign with, test the full flow including refunds and partial captures, and make sure card details never touch your own server.</p>
-          </article>
-          <article>
-            <h3>Delivery, catalogue and checkout details that decide the sale</h3>
-            <p>Shipping rules in the Emirates are usually zone based, with same day or next day within Dubai and different timing for the northern emirates. Those rules belong in the checkout, calculated live, not as a note asking the customer to call. Arabic product names, size charts in the units your customers use, and a returns policy that states actual working days all reduce the questions your team has to answer by phone.</p>
-            <p>On the technical side we care about catalogue page speed, filters that do not create thousands of junk indexable URLs, product schema so listings show price and availability in search results, and abandoned cart recovery. We also wire up WhatsApp as a support channel, because in this region it is often the first thing a customer reaches for.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="timezone-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="timezone-heading">A ninety minute time gap makes remote work easy</h2>
-            <p>India Standard Time runs one and a half hours ahead of Gulf Standard Time. That is the entire difference. A 9am start in Dubai is 10.30am for us, and the working day overlaps almost end to end, which removes the single biggest friction in offshore delivery. You are not writing an email at 5pm and waiting until the following afternoon for a reply, and you are not scheduling calls at awkward hours for either side.</p>
-            <p>Practically, that means same day answers to most questions, calls booked inside normal UAE business hours, and a shared board where you can see what is in progress without asking. The Friday and weekend pattern differs slightly between the two countries, and we plan around whichever days your team actually works. Deployments get scheduled when your traffic is low, which for most UAE businesses is early morning local time.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="industries-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="industries-heading">Industries we build for in the UAE</h2>
-            <p>Real estate is the obvious one. Property sites live or die on listing structure, filterable search, agent pages, and lead forms that push straight into a CRM rather than an inbox nobody checks. Hospitality needs fast photo heavy pages, a booking path that works on a phone, menu and offer pages that update without a developer, and multilingual content for a mixed guest base. Both benefit heavily from schema markup, because rich results in a crowded search page are worth more than another paragraph of copy.</p>
-            <p>Trading and general commerce companies usually need a credible catalogue site with clear product categories, downloadable specification sheets, and an enquiry flow their sales team can work from. Logistics and freight businesses need tracking integrations, quote calculators, and pages built around specific routes and services. Professional services firms, consultancies, accountants, legal advisers and clinics need trust signals: real team pages, clear service explanations, and honest pricing indicators. Retail spans everything from a simple storefront to a full ecommerce build.</p>
-          </article>
-          <article>
-            <h3>AI automation for repetitive work</h3>
-            <p>AI automation starts from ₹15,000 and is worth considering when the same task is eating hours every week. Common cases in this market: sorting and routing enquiry emails, extracting data from supplier invoices and delivery notes, generating first drafts of product descriptions in two languages, summarising long documents, and answering routine customer questions from your own documentation instead of a generic chatbot.</p>
-            <p>We scope these against the hours they actually save. If a task happens twice a month, automating it is a waste of money and we will say so. If your operations team is retyping shipment details from PDFs every day, the maths works quickly. You can read more on our <a href="/services/">services page</a> or bring a specific process to a call and we will estimate it.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="pricing-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="pricing-heading">What projects cost and how the engagement runs</h2>
-            <p>Starting prices are published rather than quoted on request. A static website starts from ₹5,000. A 30-page SEO website taken from design through to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month and maintenance after the free window is from ₹2,000 per month. Final cost depends on scope, so a heavily custom build sits well above the starting figure and we will tell you that before you commit.</p>
-            <p>The process is deliberately short. First a call or email exchange where you describe the business and what the site needs to do. Then a written scope with a fixed price, a timeline and a clear list of what is not included. Then design, which you review before any real development starts. Then the build, with a staging link you can open at any point. Then SEO setup, hosting and deployment, followed by handover of all accounts and credentials. Then five months of free maintenance. Payment is split across milestones, never demanded up front in full.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="related-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="related-heading">Related pages</h2>
-            <p>More detail on what we build, what it costs, and the other regions and cities we work with:</p>
-            <ul class="it-list">
-              <li><a href="/services/web-development/">Web development services</a></li>
-              <li><a href="/services/seo-services/">SEO services</a></li>
-              <li><a href="/pricing/">Pricing and starting figures</a></li>
-              <li><a href="/about/">About the team</a></li>
-              <li><a href="/industries/">Industries we work with</a></li>
-              <li><a href="/portfolio/">Portfolio</a></li>
-              <li><a href="/case-studies/">Case studies</a></li>
-              <li><a href="/india/">Web development across India</a></li>
-              <li><a href="/usa/">Working with clients in the USA</a></li>
-              <li><a href="/australia/">Working with clients in Australia</a></li>
-              <li><a href="/it-services/">IT services by state and city</a></li>
-              <li><a href="/contact/">Contact us</a></li>
-            </ul>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="faq-heading">
-        <div class="it-section-head">
-          <h2 id="faq-heading">Questions from UAE clients</h2>
-          <p>Straight answers on cost, timelines, language support and how remote delivery actually works.</p>
-        </div>
-        <div class="it-faq">
-          {faqs.map((faq) => (
-            <details>
-              <summary>{faq.question}</summary>
-              <p>{faq.answer}</p>
-            </details>
+      <aside class="quote-card" aria-label="Starting prices for UAE clients">
+        <p class="quote-kicker">UAE starting prices (USD)</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usd(plan.name)}</strong></li>
           ))}
-        </div>
-      </section>
-
-      <section class="it-section">
-        <div class="it-cta">
-          <h2>Tell us what your UAE business needs online</h2>
-          <p>Send a short description of the project, whether you need Arabic alongside English, and roughly when you want to be live. You will get a written scope with a fixed price, not a sales sequence.</p>
-          <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
-          </div>
-          <div class="it-trust-links">
-            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
-          </div>
-        </div>
-      </section>
+        </ul>
+        <p class="quote-foot">Starting prices; your quote depends on requirements. AED invoicing on request. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my UAE quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
     </div>
-  </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for UAE clients in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking for a web development company in the UAE?</h2>
+        <p id="quick-answer" class="answer-text">
+          BtechWaleTech is a three-engineer team based in India that builds websites, bilingual Arabic and English sites,
+          ecommerce stores, SEO systems, custom software and AI automations for businesses in Dubai, Abu Dhabi, Sharjah and
+          the other emirates. We work remotely, overlap almost the whole UAE working day, bill in US dollars or dirhams, and
+          start from {usd("Static")} for a website.
+        </p>
+        <p class="answer-more">
+          We are not a Dubai agency and do not pretend to be one. There is no showroom on Sheikh Zayed Road and no local
+          sales team. What you get instead is direct access to the people writing the code, published starting prices,
+          written scopes and a staging link you can open from your phone at any time. For many UAE companies, especially
+          small firms, startups and businesses that already work with teams abroad, that trade-off is exactly the point.
+        </p>
+        <p class="updated">Last updated <time datetime={updated}>21 September 2026</time></p>
+      </div>
+      <table class="snapshot">
+        <caption>Working with us from the UAE, at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for the UAE</p>
+        <h2 id="services-heading">Websites, stores, SEO and software for UAE businesses, from one team</h2>
+        <p class="section-note">
+          Planning, design, development, SEO setup, hosting and deployment are handled end to end, so you are not chasing a
+          designer, a developer and an SEO consultant who each blame the other. See the full
+          <a href="/services/web-development/">web development</a> and <a href="/services/seo-services/">SEO services</a> pages,
+          or jump to <a href="/pricing/">pricing</a>.
+        </p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">A remote engineering team compared with the usual UAE options</h2>
+        <p class="section-note">
+          A fair comparison of typical trade-offs, not a claim about any particular company. Good Dubai agencies exist and
+          meeting face to face is a genuine advantage they have over us. What we offer is lower cost, direct access to
+          engineers and plain written terms.
+        </p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a UAE agency, a marketplace freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Typical UAE agency</th>
+              <th scope="col" class="col-other">Marketplace freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Starting prices for UAE clients, in US dollars</h2>
+        <p class="section-note">
+          Every figure below is a starting price. The final quote depends on your requirements: number of pages, whether you
+          need an Arabic version, integrations, content work and deadlines. We can invoice in AED on request, paid by bank
+          wire or Wise. Full details are on the <a href="/pricing/">pricing page</a>.
+        </p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Starting prices in USD for BtechWaleTech services in the UAE</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col" class="hide-sm">Typical timeline</th><th scope="col" class="hide-sm">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td class="hide-sm">{plan.timeline}</td>
+                <td class="hide-sm">{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">
+        These are starting prices, not fixed quotes. UAE VAT is not charged on our invoices because we bill from India;
+        ask your accountant how imported services are treated for your company. Third-party costs such as domains, hosting,
+        Shopify plans, paid plugins and gateway fees are billed by those providers directly to you.
+      </p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to web development for UAE businesses">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {toc.map(([id, heading]) => <li><a href={`#${id}`}>{heading}</a></li>)}
+          <li><a href="#emirates-heading">Emirates table</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#process-heading">Process and timelines</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+
+        <article aria-labelledby="who-we-are">
+          <h2 id="who-we-are">Who we are and how remote delivery works for UAE clients</h2>
+          <p>
+            BtechWaleTech is three engineers based in India. Ankur Kumar is a full stack developer who builds the front ends,
+            back ends and integrations. Santosh Sharma works on AI and machine learning, AWS, data, technical SEO and
+            deployment. Vedansh Shrivastava runs project management and works on data science, AI and automation. When a
+            UAE client asks why a page is slow, how an enquiry reaches their CRM or what happens when a payment fails, the
+            answer comes from the person who built that part, not from an account manager relaying a message.
+          </p>
+          <p>
+            We are open about what we are not. We do not have an office in Dubai Internet City or anywhere else in the
+            Emirates, we do not hold a UAE trade licence, and we do not have staff who can visit your premises. We have not
+            won awards we can point to and we will not quote review scores or client logos on this page. What we can offer
+            is a clear process, published starting prices, and a time zone that sits only ninety minutes away from yours.
+          </p>
+          <h3>What remote delivery looks like day to day</h3>
+          <p>
+            Most UAE businesses already run a good part of their operations remotely. Suppliers sit in China, accountants
+            file from another emirate, and marketing freelancers work from Cairo, Beirut or Karachi. Working with us fits that
+            pattern. A project starts with a WhatsApp conversation or a video call on Google Meet, Zoom or Teams. We follow
+            up with a written scope, so there is a document both sides can point to later. During the build you get a
+            private staging link, which means you can review progress on your phone between meetings rather than waiting for
+            a formal presentation.
+          </p>
+          <p>
+            Communication happens in English. For Arabic content we work with text that you or your translator provide,
+            and we are careful to say so upfront. Decisions are written down in the same thread where they were agreed, so
+            nothing depends on someone remembering a phone call. When we need something from you, such as logo files, photos,
+            product data or access to a domain registrar, we ask for it in one consolidated list rather than drip-feeding
+            requests over several weeks.
+          </p>
+          <h3>End to end, including hosting and deployment</h3>
+          <p>
+            We take a project from planning through design, development, SEO setup, hosting and deployment. You do not need
+            a second provider to put the site live, point the domain, install SSL certificates or set up email records so
+            your messages stop landing in spam. After launch, five months of maintenance are included free: content updates,
+            bug fixes, security updates, backups, and speed and uptime checks. Problems on a new site tend to surface in the
+            first few months, which is exactly when that cover matters.
+          </p>
+        </article>
+
+        <article aria-labelledby="uae-market">
+          <h2 id="uae-market">What UAE customers expect from a business website</h2>
+          <p>
+            The UAE is an unusually mixed audience. Emiratis, long-term expatriate residents from dozens of countries,
+            short-term workers, tourists and business visitors all search for the same services, often on a phone and often
+            in a hurry. A single website has to work for a Filipino nurse looking for a clinic in Deira, an Indian family
+            comparing schools in Sharjah, a European investor researching off-plan property and an Emirati customer who would
+            rather read in Arabic. That is why clarity beats cleverness. Clear service names, visible prices or price
+            ranges, a map, opening hours and a WhatsApp button do more for enquiries than an elaborate animation.
+          </p>
+          <p>
+            WhatsApp deserves a special mention. In the UAE it is often the first thing a customer reaches for, ahead of a
+            contact form or an email. A site that hides its WhatsApp number in the footer loses enquiries. We place a
+            click-to-chat link where it is easy to find, pre-fill a short message so the customer does not have to type the
+            first line, and, where it helps, pass the page they were viewing so your team knows which service they asked
+            about. For higher volumes, the WhatsApp Business Platform can send booking confirmations and order updates
+            automatically.
+          </p>
+          <h3>Trust signals matter more when buyers do not know you</h3>
+          <p>
+            Much of the audience is new to the country or visiting, so they cannot rely on word of mouth. They judge a
+            business by details: a real address and a location pin, a trade name that matches the licence, photos of the
+            actual premises rather than stock images, the names and qualifications of the people who will serve them, and a
+            clear returns or cancellation policy. We build pages that make these details easy to find, and we will not invent
+            testimonials or badges for you. If you have genuine reviews on Google, we can link to them.
+          </p>
+          <p>
+            Speed is part of trust too. UAE mobile networks are fast, but a page stuffed with uncompressed hero videos,
+            half a dozen chat widgets and several tracking scripts still feels sluggish. We build light pages, compress
+            images into modern formats, load scripts only where they are needed, and check Core Web Vitals before launch so
+            the site feels quick on an ordinary phone, not just on a developer's laptop.
+          </p>
+        </article>
+
+        <article aria-labelledby="arabic-rtl">
+          <h2 id="arabic-rtl">Bilingual Arabic and English websites with proper RTL</h2>
+          <p>
+            English is the working language of most UAE business, but Arabic matters. It is the official language, it is
+            expected for government-facing work and many public-sector suppliers, and it builds credibility with Emirati
+            customers and with visitors from across the Arab world. An Arabic version also opens up search demand that
+            English pages simply do not reach: people searching for <span lang="ar" dir="rtl">تصميم مواقع</span> (website
+            design) or <span lang="ar" dir="rtl">عيادة أسنان في دبي</span> (dental clinic in Dubai) are not typing the English
+            phrase.
+          </p>
+          <p>
+            The common failure is an Arabic version that was bolted on at the end. The text was translated, a single rule
+            flipped the page direction, and everything else was left alone. Arrows point backwards, the logo sits on the wrong
+            side, form labels drift away from their fields, and English brand names or phone numbers scramble in the middle
+            of Arabic sentences. Visitors notice immediately, and it signals that Arabic readers were an afterthought.
+          </p>
+          <h3>How we build the Arabic side</h3>
+          <ul>
+            <li>The page declares <code>lang="ar"</code> and <code>dir="rtl"</code> at the document level, so browsers, screen readers and search engines all know what they are reading.</li>
+            <li>Layouts use CSS logical properties such as inline start and end instead of fixed left and right, so one stylesheet serves both directions without a pile of overrides.</li>
+            <li>We pick an Arabic typeface that pairs with your English font and has proper weights, then set a larger line height, because Arabic script needs more vertical room to stay readable.</li>
+            <li>Letter spacing and uppercase transforms are removed for Arabic text, since they break the joined letterforms.</li>
+            <li>Directional icons such as arrows, chevrons and progress steps are mirrored, while logos, media controls and brand marks are not.</li>
+            <li>Phone numbers, prices, product codes and English brand names inside Arabic text are isolated so they display in the correct order.</li>
+            <li>Forms, validation messages, date pickers and email notifications are tested in Arabic, not only the page content.</li>
+          </ul>
+          <p>
+            We also make a deliberate choice about numerals. Many UAE sites use Western digits in both languages because
+            that is what customers see on price tags and phone numbers, while some formal sites prefer Eastern Arabic digits
+            such as <span lang="ar" dir="rtl">١٢٣</span> in Arabic text. Either is fine; mixing them randomly is not. We agree
+            the rule with you once and apply it everywhere, including in the checkout and invoices.
+          </p>
+          <h3>Who writes the Arabic</h3>
+          <p>
+            We are honest about this: nobody on our team is a native Arabic copywriter, and machine translation is not good
+            enough for a customer-facing site in a market where readers are sensitive to tone. You supply the Arabic text,
+            or a translator you trust does. To make that easier, we export every string that needs translating into a single
+            sheet, including button labels, error messages, page titles and meta descriptions, so nothing is left in English
+            by accident. If you only need English today, we still structure the site so an Arabic version can be added later
+            without a rebuild.
+          </p>
+        </article>
+
+        <article aria-labelledby="ecommerce">
+          <h2 id="ecommerce">Ecommerce and payments for UAE online stores</h2>
+          <p>
+            Ecommerce builds start from {usd("Ecommerce")}. The platform matters less than people think; the details of
+            payment, delivery and tax matter more. A UAE store has to show prices in dirhams with VAT handled correctly,
+            offer the payment methods local shoppers trust, promise delivery times it can actually meet, and let customers
+            reach a person quickly when something goes wrong. Big marketplaces such as Amazon and noon have trained shoppers
+            to expect fast delivery and simple returns, so an independent store needs to be clear and dependable to compete.
+          </p>
+          <h3>Payment gateways we integrate</h3>
+          <p>
+            We integrate whichever gateway your company signs up with. Common choices for UAE businesses include Stripe,
+            Checkout.com, Telr, PayTabs and Network International. Each differs in onboarding requirements, settlement times,
+            supported currencies and fees, and each will ask for your trade licence and bank details during approval. Apple
+            Pay and Google Pay can usually be switched on through the gateway and are popular on mobile. We test the full
+            flow on staging, including declined cards, 3D Secure challenges, refunds and partial refunds, and card details
+            never touch your own server.
+          </p>
+          <div class="comparison-table-wrap table-in-prose">
+            <table class="price-table fit-sm">
+              <caption class="sr-only">Payment options for UAE online stores</caption>
+              <thead><tr><th scope="col">Option</th><th scope="col">Where it fits</th><th scope="col" class="hide-sm">What to plan for</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">Card gateways (Stripe, Checkout.com, Telr, PayTabs, Network International)</th><td>Core online payments by card, Apple Pay and Google Pay</td><td class="hide-sm">Merchant approval with your licence, fees, settlement time, refund workflow</td></tr>
+                <tr><th scope="row">Tabby and Tamara</th><td>Buy now, pay later on higher-value baskets such as fashion, electronics and furniture</td><td class="hide-sm">Provider approval, minimum and maximum order values, how returns are refunded</td></tr>
+                <tr><th scope="row">Cash on delivery</th><td>First-time buyers and categories where trust is still being built</td><td class="hide-sm">Order confirmation by WhatsApp or call, courier cash collection, failed delivery handling</td></tr>
+                <tr><th scope="row">Bank transfer and payment links</th><td>B2B orders, custom quotes and large invoices</td><td class="hide-sm">Manual reconciliation, clear order status until payment clears</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <h3>Buy now, pay later</h3>
+          <p>
+            Tabby and Tamara are widely recognised by UAE shoppers, and showing an instalment option on product pages can
+            make a higher price feel manageable. Both have their own approval process and rules about which products and
+            order values qualify. We add their checkout option and on-page messaging according to each provider's guidelines,
+            and we make sure returns and partial refunds flow back correctly, which is where many stores get into trouble.
+          </p>
+          <h3>Shopify, WooCommerce or custom</h3>
+          <p>
+            Shopify is the right answer for most small and mid-sized UAE stores. It handles hosting, security and updates,
+            supports Arabic storefront themes, and works with the major gateways and BNPL providers through apps.
+            WooCommerce suits businesses that want a content-heavy site, such as a brand with a blog, recipes or guides,
+            with a store inside it. A custom build makes sense when pricing is unusual, when you sell B2B with customer-specific
+            price lists, or when the store has to talk to an ERP in real time. We recommend one after looking at your
+            catalogue, order volume and the people who will run the store.
+          </p>
+          <h3>Delivery, catalogue and checkout details</h3>
+          <p>
+            Delivery promises need to be specific. Same-day or next-day delivery within Dubai is common, while the northern
+            emirates, Al Ain and remote areas may take longer. We build shipping rules by emirate or area into the checkout
+            so customers see the real cost and timing before paying, rather than a vague note asking them to call. Couriers
+            such as Aramex and Emirates Post, and local same-day services, can be connected so tracking links reach the
+            customer automatically.
+          </p>
+          <p>
+            On the catalogue side, we care about product schema so listings can show price and availability in search, filters
+            that do not create thousands of junk URLs for Google to crawl, size guides in the units your customers use, and
+            product names that work in both languages. Abandoned cart emails, a clear returns page with actual working days,
+            and a WhatsApp support link on every product page all reduce the number of customers who give up at the last step.
+          </p>
+        </article>
+
+        <article aria-labelledby="seo">
+          <h2 id="seo">SEO for google.ae in English and Arabic</h2>
+          <p>
+            SEO setup is part of every build: clean URLs, unique titles and descriptions, a logical heading structure,
+            internal links, compressed images, schema markup for your business and services, an XML sitemap and a sensible
+            robots file. Search Console and analytics are connected before launch so you have data from day one. For ongoing
+            work, monthly SEO starts from {usd("Monthly SEO")}. The <a href="/services/seo-services/">SEO services page</a>
+            explains what that covers in general; here is what changes for the UAE.
+          </p>
+          <h3>Arabic keyword research is its own project</h3>
+          <p>
+            Translating an English keyword list into Arabic does not work. Arabic searchers use different words, different
+            word order and a mix of Modern Standard Arabic and Gulf dialect. Some search in Arabic script, some in English,
+            and some in Latin-letter Arabic. The same need might be searched as <span lang="ar" dir="rtl">شركة تطوير مواقع</span>,
+            <span lang="ar" dir="rtl">برمجة مواقع</span> or <span lang="ar" dir="rtl">تصميم متجر إلكتروني</span> depending on
+            what the person has in mind. We research each language separately using search data, autocomplete and the pages
+            that already rank on google.ae, then map keywords to pages so the Arabic page is written for Arabic searchers, not
+            just translated from English.
+          </p>
+          <h3>hreflang and URL structure</h3>
+          <p>
+            Each language lives on its own URL, typically a folder such as <code>/ar/</code> for Arabic and the root or
+            <code>/en/</code> for English. We add hreflang annotations so Google shows the Arabic page to Arabic searchers and
+            the English page to English searchers, with region codes such as ar-AE and en-AE if you also target other Gulf
+            countries. We never swap languages with a script on a single URL, because search engines then only see one
+            version. Titles, meta descriptions and structured data are written per language.
+          </p>
+          <h3>Local and emirate-level search</h3>
+          <p>
+            A lot of UAE searches are local: a clinic near Al Barsha, a plumber in Khalifa City, a car repair garage in
+            Industrial Area Sharjah. We plan pages around the emirates and areas you genuinely serve, with content specific
+            to each, rather than cloning one paragraph and swapping the place name. We also help you set up or clean up your
+            Google Business Profile, keep your name, address and phone number consistent across listings, and add LocalBusiness
+            schema. Maps visibility often matters more than organic rankings for walk-in businesses.
+          </p>
+          <h3>Competition is intense, so focus wins</h3>
+          <p>
+            Dubai search results for property, travel, cars and financial services are dominated by portals, aggregators,
+            paid ads and long-established brands. Trying to rank for a broad term like "apartments Dubai" is usually a waste of
+            budget for a small firm. Narrower pages built around a specific service, area and buyer, with real detail on
+            price ranges, process and timelines, have a far better chance. We will tell you plainly when monthly SEO is worth
+            it and when a well-built site plus a good Google Business Profile is enough.
+          </p>
+        </article>
+
+        <article aria-labelledby="software">
+          <h2 id="software">Custom software and AI automation for UAE operations</h2>
+          <p>
+            Many UAE businesses run on a mix of spreadsheets, WhatsApp groups and email threads that worked when the company
+            was small and now cost hours every week. That is where custom software and automation earn their keep. A custom
+            web app starts from {usd("Custom web app")} and AI automation from {usd("AI automation")}; both are scoped against
+            the time and errors they remove, not against a wish list.
+          </p>
+          <h3>Typical UAE use cases</h3>
+          <ul>
+            <li>A broker portal where agents add listings once and they appear on your site, with enquiries routed to the right agent by area.</li>
+            <li>A booking and scheduling system for a clinic, salon or car service centre, with reminders sent over WhatsApp.</li>
+            <li>A dealer or distributor portal for a trading company, showing customer-specific prices, stock levels and order history.</li>
+            <li>An operations dashboard pulling orders, deliveries and payments into one view for a founder who is tired of asking for reports.</li>
+            <li>AI extraction of data from supplier invoices, bills of lading and delivery notes, so staff check figures instead of retyping them.</li>
+            <li>An assistant that answers routine customer questions in English and Arabic from your own documents, and hands anything unusual to a person.</li>
+          </ul>
+          <p>
+            We start by mapping the current workflow with the people who actually do the work, because the manager's version
+            and the reality often differ. Then we build the smallest version that removes the biggest pain, put it in front of
+            real users on a staging link, and extend it from there. Integrations are common: Zoho, HubSpot and Salesforce CRMs,
+            Google Workspace and Microsoft 365, accounting tools, property portals and courier APIs.
+          </p>
+          <p>
+            We will also tell you when automation is not worth it. If a task happens twice a month, a checklist is cheaper than
+            software. If the process itself is unclear, automating it just makes the confusion faster. For AI features, we
+            explain where the model can make mistakes, keep a human review step where errors would be costly, and avoid sending
+            sensitive personal or health data to third-party AI services without your explicit decision and your adviser's
+            agreement.
+          </p>
+        </article>
+
+        <article aria-labelledby="emirates">
+          <h2 id="emirates">Emirate by emirate: what businesses need online</h2>
+          <p>
+            The seven emirates share federal laws but differ a lot in economy, audience and competition. We serve all of
+            them remotely. A short summary is in the emirates table further down the page; here is more context on how
+            each market shapes a website.
+          </p>
+          <h3>Dubai</h3>
+          <p>
+            Dubai is the country's commercial centre and its most competitive online market. Real estate, tourism, retail,
+            trading, logistics through Jebel Ali and a dense layer of professional services all compete for attention in the
+            same search results. Websites here need to be fast, bilingual where the audience warrants it, and very clear
+            about location, because a customer in Dubai Marina will not drive to Deira for a routine service. Area-level
+            pages, strong Google Business Profiles and WhatsApp-first contact work well.
+          </p>
+          <h3>Abu Dhabi and Al Ain</h3>
+          <p>
+            Abu Dhabi, the capital, has a more formal business culture shaped by government, energy, healthcare, education
+            and culture. Companies supplying government entities or large groups often need a polished bilingual corporate
+            site with a downloadable company profile, clear certifications and leadership pages. Al Ain, inland near the
+            Omani border, behaves like its own market with a more local, family-oriented customer base, so we treat it as a
+            separate target rather than a footnote to the capital.
+          </p>
+          <h3>Sharjah</h3>
+          <p>
+            Sharjah combines manufacturing and industrial areas, many schools and universities, a large residential
+            population that commutes to Dubai, and a strong cultural identity. Manufacturers and traders need clear
+            catalogue sites with specification downloads and enquiry forms their sales team can work from. Education
+            providers need admissions information that answers parents' questions without a phone call. Sharjah also
+            includes east coast towns such as Khor Fakkan and Kalba, which are different markets again.
+          </p>
+          <h3>Ajman and Umm Al Quwain</h3>
+          <p>
+            Ajman and Umm Al Quwain are smaller emirates with many small traders, clinics, workshops and property firms,
+            plus free zones that attract startups because of lower setup costs. Budgets are tighter, so a fast static site
+            starting from {usd("Static")}, a strong Google Business Profile and a clear WhatsApp link usually deliver more
+            value than a large custom build. We keep these projects lean.
+          </p>
+          <h3>Ras Al Khaimah</h3>
+          <p>
+            Ras Al Khaimah has grown into a tourism and resort destination alongside its industrial base in ceramics, cement
+            and manufacturing, and its economic zone hosts many international companies. Hospitality businesses need
+            photo-rich pages that still load quickly and a direct booking path. Industrial firms need export-ready catalogue
+            sites. Companies registered in the economic zone but trading worldwide often need an international-facing
+            corporate site rather than a local one.
+          </p>
+          <h3>Fujairah</h3>
+          <p>
+            Fujairah, on the east coast, is centred on its port, shipping, bunkering and storage industries, with tourism
+            around its beaches, mountains and diving sites. Marine and shipping service companies need credible B2B sites
+            that explain services, certifications and contact routes clearly for an international audience. Tourism businesses
+            need seasonal offer pages and booking forms that work well on mobile.
+          </p>
+          <h3>Free zones</h3>
+          <p>
+            Free zone companies, from DMCC trading houses and Dubai Internet City tech firms to DIFC and ADGM financial
+            businesses and companies in SAIF Zone or RAKEZ, often sell far beyond the UAE. Their websites need to speak to
+            international buyers, investors and partners as much as to local customers. Financial free zones also have their
+            own data protection regimes, covered in the next section, which affects how forms and analytics are set up.
+          </p>
+        </article>
+
+        <article aria-labelledby="compliance">
+          <h2 id="compliance">Data protection, VAT and rules that affect UAE websites</h2>
+          <p>
+            A short but important disclaimer first: we are engineers, not lawyers or tax advisers. What follows is a general
+            description of rules that often come up when we build UAE websites, so you know what to ask your legal and tax
+            advisers. It is not legal advice, and rules change, so always confirm the current position for your company.
+          </p>
+          <h3>Federal Personal Data Protection Law</h3>
+          <p>
+            The UAE issued a federal Personal Data Protection Law (PDPL) in 2021. In broad terms it sets expectations around
+            having a lawful basis, usually consent, for processing personal data, telling people how their data will be used,
+            keeping data secure, and respecting individuals' rights over their data. It also addresses sending data outside
+            the country. Check with your adviser how it applies to your company and the current status of its implementing
+            regulations. On the technical side, we build forms that collect only the fields you need, show a plain-language
+            notice near the submit button, record consent where needed, and link to a privacy policy page.
+          </p>
+          <h3>DIFC and ADGM</h3>
+          <p>
+            Companies in the Dubai International Financial Centre and Abu Dhabi Global Market fall under their own data
+            protection laws and regulators, which are modelled closely on international standards. If your company sits in
+            one of these free zones, your privacy notice, cookie approach and any data sent to overseas service providers,
+            including analytics and email tools, should follow those rules. We set up cookie consent and analytics
+            configuration to match whatever approach your adviser recommends.
+          </p>
+          <h3>Health and sector rules</h3>
+          <p>
+            Some sectors have extra requirements. Health information is treated with particular care in the UAE, and there are
+            rules limiting where certain health data may be stored and processed. For clinics, we keep website forms to
+            appointment requests, avoid collecting medical details through the site, and can deploy on UAE-region cloud
+            hosting if your adviser or regulator requires it. Financial services, education and government suppliers can
+            also have sector-specific expectations worth checking.
+          </p>
+          <h3>VAT and e-invoicing</h3>
+          <p>
+            The UAE has charged VAT at a standard rate of 5 percent since 2018. For your online store, that usually means
+            showing consumer prices inclusive of VAT, issuing tax invoices with your tax registration number, and handling
+            VAT correctly on shipping and discounts. We configure the store to match what your accountant specifies. The UAE
+            has also announced a mandatory e-invoicing programme that is being phased in for businesses; if your store or
+            billing system will need to connect to an accredited e-invoicing provider, tell us early so we plan the
+            integration. Confirm the dates and requirements that apply to you with your accountant.
+          </p>
+          <h3>Consumer protection and licensing</h3>
+          <p>
+            UAE consumer protection rules expect clear pricing, honest descriptions and transparent terms for returns and
+            refunds. Selling online also generally needs the right activity on your trade licence, which is a matter for your
+            licensing authority, not your web developer. We make sure the site shows your legal trade name, contact details,
+            terms of sale and returns policy clearly, and we avoid fake urgency timers and pre-ticked boxes.
+          </p>
+        </article>
+
+        <article aria-labelledby="time-zones">
+          <h2 id="time-zones">Time zones and the working week</h2>
+          <p>
+            Gulf Standard Time is four hours ahead of UTC and India Standard Time is five and a half hours ahead, and neither
+            country uses daylight saving. So the UAE is always exactly one and a half hours behind India. Our working hours of
+            9am to 9pm IST run from 7.30am to 7.30pm in the UAE, which covers the whole of a normal Dubai office day with time
+            to spare on both ends. This is one of the easiest offshore arrangements there is: no midnight calls and no
+            overnight wait for a reply.
+          </p>
+          <div class="comparison-table-wrap table-in-prose">
+            <table class="price-table fit-sm">
+              <caption class="sr-only">India and UAE time comparison</caption>
+              <thead><tr><th scope="col">UAE time (GST)</th><th scope="col">India time (IST)</th><th scope="col">What usually happens</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">7.30am</th><td>9.00am</td><td>We start; overnight WhatsApp messages answered</td></tr>
+                <tr><th scope="row">9.00am</th><td>10.30am</td><td>Your office opens; good time for a quick call</td></tr>
+                <tr><th scope="row">1.00pm</th><td>2.30pm</td><td>Midday check-in or review of the staging link</td></tr>
+                <tr><th scope="row">5.00pm</th><td>6.30pm</td><td>End-of-day update with what changed today</td></tr>
+                <tr><th scope="row">7.30pm</th><td>9.00pm</td><td>Our day ends; urgent issues still reach us on WhatsApp</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <h3>Weekends</h3>
+          <p>
+            Since 2022, UAE federal government bodies have worked Monday to Friday with a shorter Friday and a Saturday and
+            Sunday weekend, and many private companies have followed. Some businesses still close on Friday, and Sharjah's
+            government follows a longer weekend. India's working week is generally Monday to Saturday or Monday to Friday. In
+            practice the two calendars overlap almost completely, and we reply on WhatsApp seven days a week. We schedule
+            launches and major changes early in your working week so there is time to fix anything before your weekend, and
+            we plan around Ramadan working hours, Eid holidays and UAE National Day when timing a launch.
+          </p>
+        </article>
+
+        <article aria-labelledby="payments">
+          <h2 id="payments">How UAE clients pay us</h2>
+          <p>
+            We quote and invoice in US dollars by default, because our international pricing is set in dollars. If your
+            finance team prefers dirhams, we can invoice in AED on request. The dirham has been pegged to the dollar for
+            decades, so the conversion is predictable and the amount does not drift between quote and payment. Payment is by
+            international bank wire or Wise. We do not ask for card details and we do not use crypto.
+          </p>
+          <p>
+            Payments are split into milestones: a deposit to start work, a payment when you approve the staging site, and the
+            balance at launch. Each milestone has a proper invoice showing our details and the scope it covers. Monthly SEO and
+            maintenance plans are invoiced monthly in advance and can be stopped with notice. Third-party costs such as your
+            domain, hosting, Shopify plan, premium plugins and gateway fees are paid by your company directly to those
+            providers, so the accounts stay in your name.
+          </p>
+          <p>
+            Because we are a foreign supplier billing from India, we do not add UAE VAT to our invoices. Whether your company
+            needs to self-account for VAT on imported services depends on your registration, so ask your accountant. If you
+            need specific wording or a purchase order number on our invoice for your records, tell us before the first
+            invoice is issued.
+          </p>
+        </article>
+
+        <article aria-labelledby="buying-guide">
+          <h2 id="buying-guide">A buying guide: hiring an offshore web developer from the UAE</h2>
+          <p>
+            Many UAE businesses hire developers outside the country, and plenty of those projects go well. The ones that go
+            badly usually fail for predictable reasons: an unclear scope, a low bid that grows later, a developer who
+            disappears after launch, or logins that were never handed over. Here is how to avoid those problems, whether you
+            hire us or someone else.
+          </p>
+          <h3>Ask for a written scope before you pay</h3>
+          <p>
+            A proper scope lists the pages, features, integrations, languages and what is not included. It should say who
+            supplies content and photos, how many rounds of revisions are included, and what happens if you want to add
+            something midway. If a provider will only quote a single number without a scope, the number is not reliable.
+          </p>
+          <h3>Check who actually does the work</h3>
+          <p>
+            Ask directly whether the people you speak to will build the site or whether it will be passed to another team or
+            subcontractor. There is nothing wrong with a larger team, but you should know who is responsible. With us, the
+            three engineers named on this page do the work.
+          </p>
+          <h3>Look at live work, not just screenshots</h3>
+          <p>
+            Screenshots and design mockups are easy to borrow. Ask for live links, open them on your phone, and check how
+            fast they load and whether forms work. If the provider claims Arabic experience, look at a live Arabic page and
+            check whether it is genuinely right to left or just translated text in a left-to-right layout.
+          </p>
+          <h3>Insist on ownership from day one</h3>
+          <p>
+            Your domain, hosting, analytics, Search Console, payment gateway and email accounts should be registered in your
+            company's name, with the developer given access rather than the other way round. At the end of the project you
+            should receive the source code and every login. A website held hostage for renewal fees is one of the most common
+            complaints about cheap providers.
+          </p>
+          <h3>Pay in milestones</h3>
+          <p>
+            Avoid paying the full amount upfront. Milestones tied to visible progress, such as an approved design, a working
+            staging site and the final launch, protect both sides. Use traceable payment methods such as bank transfer or
+            Wise and keep invoices for every payment.
+          </p>
+          <h3>Agree on support after launch</h3>
+          <p>
+            Ask what happens when something breaks a month after launch. Is there a support period, what does it cover, and
+            what does ongoing maintenance cost? Our answer is five months of maintenance included free, then an optional
+            monthly plan from {usd("Maintenance")} or pay-as-needed changes.
+          </p>
+          <h3>Be realistic about SEO promises</h3>
+          <p>
+            Be wary of anyone guaranteeing first-page rankings in Dubai within a fixed number of weeks. Nobody controls
+            Google. A trustworthy provider explains what they will do, how they will report progress and what realistic
+            results look like for your competition.
+          </p>
+        </article>
+
+        <article aria-labelledby="cost">
+          <h2 id="cost">What a website really costs for a UAE business</h2>
+          <p>
+            Prices for websites in the UAE vary enormously, from very cheap template sites to large agency projects. The
+            difference is rarely just profit margin; it reflects scope, quality, languages, integrations and who does the
+            work. Our starting prices give you a reference point: {usd("Static")} for a static website, {usd("SEO website")}
+            for a 700+ page SEO website, {usd("AI automation")} for AI automation, {usd("Ecommerce")} for an ecommerce store
+            and {usd("Custom web app")} for a custom web app. Here is what moves a quote above the starting price.
+          </p>
+          <div class="comparison-table-wrap table-in-prose">
+            <table class="price-table fit-sm">
+              <caption class="sr-only">Factors that change the cost of a UAE website</caption>
+              <thead><tr><th scope="col">Cost factor</th><th scope="col">Why it adds cost</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">Arabic version</th><td>A second layout direction, fonts, testing every template in RTL, and bilingual metadata and hreflang</td></tr>
+                <tr><th scope="row">Number of unique templates</th><td>Each distinct page design needs building and testing; many pages on one template cost far less</td></tr>
+                <tr><th scope="row">Integrations</th><td>CRMs, property portals, booking engines, ERPs and couriers each need setup, testing and error handling</td></tr>
+                <tr><th scope="row">Payments</th><td>Every gateway, BNPL option and cash on delivery flow adds checkout logic and test cases</td></tr>
+                <tr><th scope="row">Content work</th><td>Writing, editing, product data entry and image preparation take time if we handle them</td></tr>
+                <tr><th scope="row">Deadlines</th><td>A launch fixed to an event, a trade show or a season may need more hours in a short window</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p>
+            Running costs matter too. Budget for your domain renewal, hosting or a Shopify plan, any premium plugins or
+            apps, gateway transaction fees, WhatsApp Business Platform messaging charges if you use them, and optional
+            monthly SEO or maintenance. A static website is usually the cheapest to run because it needs very little server
+            power and has fewer moving parts to update. We list expected running costs in the quote so there are no
+            surprises after launch.
+          </p>
+          <p>
+            One practical tip: if budget is tight, launch a smaller English site first, structured so Arabic and ecommerce can
+            be added later without rebuilding. Many businesses get more value from a fast, clear site live next month than from
+            a perfect site six months from now. For current figures and what each package includes, see our
+            <a href="/pricing/">pricing page</a>.
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== EMIRATES TABLE ===================== -->
+  <section class="industries" aria-labelledby="emirates-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Coverage</p>
+        <h2 id="emirates-heading">All seven emirates and the free zones, served remotely</h2>
+        <p class="section-note">Main towns, the kind of economy we usually see there, and what businesses most often ask us to build.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">UAE emirates with key cities, market notes and common website needs</caption>
+          <thead><tr><th scope="col">Emirate</th><th scope="col" class="hide-sm">Key towns</th><th scope="col">Market notes</th><th scope="col" class="hide-sm">What we usually build</th></tr></thead>
+          <tbody>
+            {emirates.map((e) => (
+              <tr><th scope="row">{e.name}</th><td class="hide-sm">{e.cities}</td><td>{e.market}</td><td class="hide-sm">{e.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for the UAE's main industries</h2>
+        <p class="section-note">Concrete needs by sector. The <a href="/industries/">industries page</a> goes into more detail.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Industries in the UAE, what buyers look for and what we build</caption>
+          <thead><tr><th scope="col">Industry</th><th scope="col">What customers look for</th><th scope="col" class="hide-sm">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td class="hide-sm">{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first WhatsApp message to a live UAE website</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">
+        Timelines assume content, Arabic translations and approvals arrive on time. A full Arabic version usually adds about a
+        week. Gateway and BNPL approvals are handled by the providers and can take longer than the build itself, so apply early.
+      </p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Questions from UAE businesses, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Related</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other markets</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((r) => <a class="city-chip" href={r.href}>{r.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us about your UAE project</h2>
+        <p class="closing-note">
+          Send a few lines about your business, the emirates you serve, whether you need Arabic and when you want to launch.
+          You get a page plan, a timeline and an itemised quote, usually within two working days. Nothing is billed until you
+          approve it.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+        </div>
+        <p class="closing-links"><a href="/services/">All services</a> · <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/contact/">Contact</a></p>
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+  [lang="ar"] { font-family: 'Noto Sans Arabic', 'Segoe UI', Tahoma, sans-serif; letter-spacing: 0; unicode-bidi: isolate; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; overflow-wrap: anywhere; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .updated { margin-top: 1rem; font-size: 0.8rem; color: var(--slate-muted); }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .table-in-prose { margin: 1.5rem 0; }
+  .table-in-prose .price-table { min-width: 0; font-size: 0.86rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin: 1.8rem 0 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose code { font-size: 0.9em; padding: 0.05rem 0.3rem; background: var(--surface-low); border-radius: 2px; }
+  .prose a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose strong { color: var(--midnight); }
+
+  /* Related links */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones, for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table .col-other { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+    .price-table .price { white-space: normal; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.75rem, 7vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

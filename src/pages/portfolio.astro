@@ -44,14 +44,14 @@ const team = [
 const capabilities = [
   {
     name: "Business and service websites",
-    scope: "Static, 5 to 30 pages",
+    scope: "Static, up to 100 pages",
     body:
       "Multi-page sites for businesses that need to be found and contacted. Typically a homepage, individual service pages rather than one combined list, an about page carrying credibility, location pages where local search matters, and contact paths that work on a phone. Built static so pages load fast and stay cheap to host.",
     stack: ["Astro static build", "Semantic HTML and schema", "Sitemap and canonical setup", "Contact and enquiry forms"],
   },
   {
     name: "SEO content sites",
-    scope: "30+ structured pages",
+    scope: "700+ structured pages",
     body:
       "Sites where the page structure is the strategy. Service pages crossed with location pages, each written for one search intent rather than duplicated with a name swapped, connected by internal links and supported by schema. This site itself is built that way, with a hub for IT services and pages for individual states and cities.",
     stack: ["Keyword and intent mapping", "Hub and spoke structure", "FAQ and breadcrumb schema", "Search Console setup"],
@@ -105,7 +105,12 @@ const faqs = [
   {
     question: "You are a young team. Why should I hire you?",
     answer:
-      "For the same reason people hire small teams generally: you deal directly with the person writing the code, decisions happen in hours instead of weeks, and pricing is not carrying office overhead. A static website starting from ₹5,000 lets you test the working relationship on a small scope before committing to anything bigger.",
+      "For the same reason people hire small teams generally: you deal directly with the person writing the code, decisions happen in hours instead of weeks, and pricing is not carrying office overhead. A static website starting from ₹10,000 (US$150) lets you test the working relationship on a small scope before committing to anything bigger; the final quote depends on your pages, features and content.",
+  },
+  {
+    question: "Do you take on projects from outside India?",
+    answer:
+      "Yes. We are based in India and work remotely with clients in the USA, UK, Canada, Australia, the UAE, Singapore and Europe as well as India. Calls are scheduled in your business hours, international work is quoted in USD and paid by wire, Wise or PayPal, and you own the code, domain and hosting accounts from launch.",
   },
   {
     question: "Do you handle the project end to end?",
@@ -124,15 +129,21 @@ const faqs = [
 ];
 
 const page = createPageSeo({
-  title: "Portfolio and Team: What We Build and Who We Are",
+  title: "Web Development Portfolio & Team: Hire Developers",
   description:
-    "The BtechWaleTech portfolio and team. Three CSE engineers building websites, SEO content sites, ecommerce, dashboards, AI automation, and data reporting.",
+    "Our portfolio and team. Three India-based engineers building websites, SEO sites, ecommerce, dashboards and AI automation for clients worldwide.",
   canonicalPath: "/portfolio/",
   h1: "What we build, and the team who builds it",
   intro:
-    "BtechWaleTech is run by three Computer Science engineers. Here is the work we take on, how it is built, and who is behind each part of it.",
+    "BtechWaleTech is run by three Computer Science engineers in India who work remotely with clients in the USA, UK, Canada, Australia, the UAE and India. Here is the work we take on, how it is built, and who is behind each part of it.",
   breadcrumbs: createBreadcrumbs([{ label: "Portfolio", href: "/portfolio/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "web development company portfolio",
+    "hire web developers",
+    "hire web developers from India",
+    "offshore web development team",
     "BtechWaleTech portfolio",
     "web development portfolio India",
     "freelance web developer portfolio",
@@ -163,6 +174,7 @@ const teamSchema = {
   url: `${siteBrand.domain}/`,
   email: siteContact.email,
   telephone: siteContact.phone,
+  areaServed: ["US", "GB", "CA", "AU", "AE", "SG", "IN"].map((name) => ({ "@type": "Country", name })),
   employee: team.map((member) => ({
     "@type": "Person",
     name: member.name,
@@ -241,8 +253,8 @@ const teamSchema = {
             <h3>What you get working with a small team</h3>
             <p>
               Direct contact with whoever is writing the code, decisions in hours instead of weeks, and pricing without
-              an office overhead built into it. A static website starting from ₹5,000 means you can test how we work on
-              a small scope before committing to anything larger.
+              an office overhead built into it. A static website starting from ₹10,000 (US$150) means you can test how we work on
+              a small scope before committing to anything larger, wherever your business is based.
             </p>
             <p>
               You also keep everything. Code, content, domain, and hosting accounts are yours once the final payment
@@ -357,6 +369,8 @@ const teamSchema = {
             <ul class="it-list">
               <li><a href="/about/">About BtechWaleTech</a></li>
               <li><a href="/case-studies/">Case studies</a></li>
+              <li><a href="/countries/">Countries we serve</a></li>
+              <li><a href="/usa/">USA</a>, <a href="/uk/">UK</a> and <a href="/canada/">Canada</a></li>
               <li><a href="/it-services/">IT services across India</a></li>
               <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
               <li><a href="/contact/">Contact</a></li>

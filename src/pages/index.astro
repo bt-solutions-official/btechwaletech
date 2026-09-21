@@ -4,9 +4,12 @@ import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
 import { faqSchema } from "@lib/schema/schema";
 import { siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
 import { Image } from "astro:assets";
 import heroImage from "../assets/images/heromain.png";
 import cricketTakenImg from "../assets/images/crickettaken.png";
+import cities from "@data/cities/cities.json";
+import type { CityListing } from "@data/cities/types";
 
 const faqs = [
   {
@@ -20,9 +23,24 @@ const faqs = [
       "BtechWaleTech is a freelance IT services group providing website development, web design, deployment, SEO, ecommerce, custom software, AI automation, AI agents, multi-agent workflows, data analysis, and long-term support.",
   },
   {
-    question: "Do you work with businesses outside India?",
+    question: "Do you work with businesses in the USA, UK, Canada, Australia, and other countries?",
     answer:
-      "Yes. We are India-first and remote-friendly, so we can support clients in India first and expand delivery for the USA, UAE, UK, Australia, Singapore, and other global markets.",
+      "Yes. We work remotely with businesses in the USA, UK, Canada, Australia, UAE, Singapore, Europe, and India. You get the same engineers, the same written scope, and the same 5 months of free maintenance wherever you are. Calls are scheduled in your business hours, and all communication is in English over WhatsApp, email, Google Meet, or Zoom.",
+  },
+  {
+    question: "Why hire website developers from India instead of a local agency?",
+    answer:
+      "Cost and directness. A business website from a US or UK agency commonly runs into thousands of dollars or pounds, while our static websites start from US$150 and custom web apps from US$900. You also talk to the engineers building your site, not an account manager. You keep 100% ownership of the code, domain, and hosting accounts.",
+  },
+  {
+    question: "How do international clients pay, and in which currency?",
+    answer:
+      "International projects are invoiced in USD (or your local currency on request) and paid by bank wire, Wise, or PayPal. Indian clients pay in INR by UPI or bank transfer. Payments are split into milestones: a deposit to start, a payment at staging review, and the balance on launch.",
+  },
+  {
+    question: "How do you handle time zones with US, UK, and Australian clients?",
+    answer:
+      "We work from India (IST) and keep a fixed overlap window for each region: US Eastern mornings, UK business hours from late morning, and Australian afternoons. Async updates, a shared staging link, and written progress notes mean work moves forward while you sleep.",
   },
   {
     question: "Will my website be SEO friendly from day one?",
@@ -37,12 +55,12 @@ const faqs = [
   {
     question: "What is included in the 5 months of free maintenance?",
     answer:
-      "After your site is hosted and live, the next 5 months of maintenance cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After that you can continue on a monthly plan from ₹2,000 or just contact us when something needs changing.",
+      "After your site is hosted and live, the next 5 months of maintenance cost nothing extra. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After that you can continue on a monthly plan from ₹8,000 (US$120) or just contact us when something needs changing.",
   },
   {
     question: "How much does a website cost?",
     answer:
-      "A static website starts from ₹5,000 and a 30-page SEO website handled from design through to deployment starts from ₹10,000. Ecommerce starts from ₹25,000 and custom web applications from ₹40,000. These are starting points: the final cost depends on pages, features, integrations, and content, so you get an itemised estimate.",
+      "A static website of up to 100 pages starts from ₹10,000 (US$150) and a 700+ page SEO website from ₹20,000 (US$300). Ecommerce starts from ₹50,000 (US$750), AI automation from ₹40,000 (US$600), and custom web applications from ₹60,000 (US$900). These are starting points: the final cost depends on pages, features, integrations, and content, so you get an itemised estimate.",
   },
   {
     question: "Do you provide AI automation and data analysis services?",
@@ -52,15 +70,33 @@ const faqs = [
 ];
 
 const page = createPageSeo({
-  title: "Freelance IT Services, Web Development & AI Automation",
+  title: "Website Development & IT Services for USA, UK & India",
   description:
-    "Freelance IT services in India for web development, web design, SEO, ecommerce, AI automation, AI agents, data analysis, deployment, and support.",
+    "Hire website developers for businesses in the USA, UK, Canada, Australia, UAE & India. Web design, SEO, ecommerce, web apps & AI automation from US$150.",
   canonicalPath: "/",
-  h1: "Freelance IT services for websites, AI automation, and data analysis",
+  h1: "Website development & IT services for businesses worldwide",
   intro:
-    "BtechWaleTech is a small freelance services group helping businesses plan, design, build, deploy, optimize, and maintain practical digital systems without heavy agency overhead.",
+    "BtechWaleTech is a team of engineers building fast, SEO-ready websites, web apps, ecommerce stores, and AI automations for businesses in the USA, UK, Canada, Australia, UAE, and India, at a fraction of typical agency cost.",
   breadcrumbs: createBreadcrumbs([]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "website development company",
+    "web development services",
+    "hire website developers",
+    "hire web developers from India",
+    "offshore website development",
+    "outsource web development",
+    "affordable web design company",
+    "website development USA",
+    "website design company UK",
+    "web developers Canada",
+    "web development Australia",
+    "website development Dubai UAE",
+    "SEO services USA UK",
+    "custom web application development company",
+    "ecommerce website developers",
+    "IT outsourcing India",
     "freelance IT services India",
     "freelance web development India",
     "website development services India",
@@ -177,7 +213,7 @@ const marquee = [
 const stats = [
   { value: 3, suffix: "", label: "Engineers you work with directly" },
   { value: 5, suffix: "", label: "Months maintenance included free" },
-  { value: 150, suffix: "+", label: "Indian cities with local pages" },
+  { value: 1000, suffix: "+", label: "Indian cities covered" },
   { value: 100, suffix: "%", label: "Code and content ownership" },
 ];
 
@@ -203,6 +239,12 @@ const process = [
 ];
 
 const comparison = [
+  {
+    aspect: "Typical cost",
+    agency: "US/UK agency rates, thousands per site",
+    cheap: "Low, but hidden costs later",
+    us: "From ₹10,000 (US$150), quoted to your scope",
+  },
   {
     aspect: "Who you speak to",
     agency: "Account managers & coordinators",
@@ -235,54 +277,71 @@ const comparison = [
   },
 ];
 
-const locations = [
-  ["Gurgaon", "/india/haryana/gurgaon/"],
-  ["Faridabad", "/india/haryana/faridabad/"],
-  ["Delhi", "/it-services/delhi/new-delhi/"],
-  ["Noida", "/india/uttar-pradesh/noida/"],
-  ["Mumbai", "/india/maharashtra/mumbai/"],
-  ["Pune", "/india/maharashtra/pune/"],
-  ["Bangalore", "/india/karnataka/bangalore/"],
-  ["Hyderabad", "/india/telangana/hyderabad/"],
-  ["Chennai", "/india/tamil-nadu/chennai/"],
-  ["Kolkata", "/india/west-bengal/kolkata/"],
-  ["Ahmedabad", "/india/gujarat/ahmedabad/"],
-  ["Jaipur", "/india/rajasthan/jaipur/"],
-  ["Lucknow", "/india/uttar-pradesh/lucknow/"],
-  ["Kochi", "/india/kerala/kochi/"],
-  ["Indore", "/it-services/madhya-pradesh/indore/"],
-  ["Patna", "/it-services/bihar/patna/"],
-  ["Bhubaneswar", "/it-services/odisha/bhubaneswar/"],
-  ["Ludhiana", "/it-services/punjab/ludhiana/"],
-  ["Guwahati", "/it-services/assam/guwahati/"],
-  ["Dehradun", "/it-services/uttarakhand/dehradun/"],
+// Every city with a live /{city}/ page, biggest first. Grows automatically as content files are added.
+const builtCitySlugs = new Set(
+  Object.keys(import.meta.glob("../data/cities/content/*.ts")).map((p) => p.split("/").pop()!.replace(/\.ts$/, "")),
+);
+const locations = (cities as CityListing[]).filter((c) => builtCitySlugs.has(c.slug));
+
+const priceTable = pricingPlans.map((p) => {
+  const per = p.unit ? "/mo" : "";
+  return { service: p.name, includes: p.includes.join(", "), timeline: p.timeline, inr: p.price + per, usd: usdPrice(p.price) + per };
+});
+
+const markets = [
+  { country: "United States", code: "US", overlap: "US Eastern mornings (IST evenings)", billing: "USD · wire, Wise, PayPal", href: "/usa/" },
+  { country: "United Kingdom", code: "UK", overlap: "UK business day from late morning", billing: "USD or GBP · Wise, wire", href: "/uk/" },
+  { country: "Canada", code: "CA", overlap: "Eastern & Pacific mornings", billing: "USD or CAD · Wise, wire", href: "/canada/" },
+  { country: "Australia & NZ", code: "AU", overlap: "Australian afternoons (IST mornings)", billing: "USD or AUD · Wise, wire", href: "/australia/" },
+  { country: "UAE & Middle East", code: "AE", overlap: "Near full working day", billing: "USD or AED · Wise, wire", href: "/uae/" },
+  { country: "Singapore & Asia", code: "SG", overlap: "Near full working day", billing: "USD or SGD · Wise, wire", href: "/singapore/" },
+  { country: "Europe", code: "EU", overlap: "European business day from late morning", billing: "USD or EUR · Wise, wire", href: "/germany/" },
+  { country: "India", code: "IN", overlap: "Same time zone (IST)", billing: "INR · UPI, bank transfer", href: "/india/" },
 ];
 
-const stateHubs = [
-  ["Delhi", "/india/delhi/"],
-  ["Haryana", "/india/haryana/"],
-  ["Maharashtra", "/india/maharashtra/"],
-  ["Karnataka", "/india/karnataka/"],
-  ["Uttar Pradesh", "/india/uttar-pradesh/"],
-  ["Telangana", "/india/telangana/"],
-  ["Tamil Nadu", "/india/tamil-nadu/"],
-  ["Rajasthan", "/india/rajasthan/"],
-  ["Gujarat", "/india/gujarat/"],
-  ["West Bengal", "/india/west-bengal/"],
-  ["Kerala", "/india/kerala/"],
-  ["All 30 states", "/it-services/"],
+const techStack = [
+  "Astro", "React", "Next.js", "Node.js", "TypeScript", "Tailwind CSS", "WordPress", "Shopify",
+  "Python", "PostgreSQL", "MongoDB", "AWS", "Cloudflare", "Vercel", "OpenAI & Claude APIs", "Google Analytics 4",
 ];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  name: "BtechWaleTech",
+  url: "https://btechwaletech.in/",
+  image: "https://btechwaletech.in/banner_logo.png",
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: "₹8,000 – ₹60,000+ (US$120 – US$900+)",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  areaServed: ["US", "GB", "CA", "AU", "NZ", "AE", "SG", "IN", "DE", "IE", "NL"].map((c) => ({ "@type": "Country", name: c })),
+  knowsLanguage: ["en", "hi"],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development and IT services",
+    itemListElement: priceTable.map((p) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: p.service, description: p.includes },
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(p.inr.replace(/[^\d]/g, "")),
+        priceCurrency: "INR",
+      },
+    })),
+  },
+};
 ---
 
-<BaseLayout meta={page} schema={[faqSchema(faqs)]}>
+<BaseLayout meta={page} schema={[professionalServiceSchema, faqSchema(faqs)]}>
 
   <!-- ===================== HERO ===================== -->
   <section class="hero" aria-labelledby="home-heading">
     <div class="hero-inner">
       <div class="hero-copy">
-        <p class="eyebrow">India-first freelance IT services group</p>
+        <p class="eyebrow">Web development company · Worldwide</p>
         <h1 id="home-heading">
-          Freelance IT services for websites, AI automation, and data analysis
+          Website development &amp; <span class="h1-accent">IT services</span> for businesses worldwide
         </h1>
         <p class="lede">{page.intro}</p>
         <div class="hero-actions">
@@ -293,18 +352,9 @@ const stateHubs = [
           <a class="btn-ghost" href="#proof-of-work">See our work</a>
         </div>
 
-        <!-- Service pills -->
-        <ul class="hero-pills" aria-label="What we do">
-          <li>Websites</li>
-          <li>AI Automation</li>
-          <li>Data Systems</li>
-          <li>Internal Tools</li>
-        </ul>
-
-        <!-- Based in India tagline -->
         <p class="hero-origin">
           <span class="origin-dot" aria-hidden="true"></span>
-          Based in India &middot; Working remotely worldwide
+          Built in India &middot; Delivering to clients worldwide
         </p>
       </div>
 
@@ -373,7 +423,7 @@ const stateHubs = [
                   <li>{point}</li>
                 ))}
               </ul>
-              {s.href && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+              {s.href && <span class="card-link">Learn more <span aria-hidden="true">&rsaquo;</span></span>}
             </div>
           );
           return s.href ? (
@@ -387,6 +437,52 @@ const stateHubs = [
           );
         })}
       </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING TABLE ===================== -->
+  <section class="pricing-band" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow eyebrow-light">Transparent pricing</p>
+        <h2 id="pricing-heading">Website development cost, timelines &amp; starting prices</h2>
+        <p class="section-note">
+          Agency-quality websites and web apps without agency overhead. Prices are quoted in INR for India and USD for international clients,
+          so clients in the USA, UK, Canada, Australia, and the UAE can compare at a glance. Every figure is a starting price:
+          you get an itemised quote based on your requirements before work starts.
+        </p>
+      </div>
+      <div class="price-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices and timelines for BtechWaleTech services</caption>
+          <thead>
+            <tr>
+              <th scope="col">Service</th>
+              <th scope="col">What's included</th>
+              <th scope="col">Typical timeline</th>
+              <th scope="col">Starts from</th>
+            </tr>
+          </thead>
+          <tbody>
+            {priceTable.map((p) => (
+              <tr>
+                <th scope="row">{p.service}</th>
+                <td>{p.includes}</td>
+                <td class="nowrap">{p.timeline}</td>
+                <td class="price-cell"><strong><small>from</small> {p.inr}</strong><span>from {p.usd}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="table-foot">
+        All figures are starting prices. USD applies to clients outside India, and your final quote depends on pages, features, integrations, and content.
+        <a href="/pricing/">See full pricing &rarr;</a>
+      </p>
+      <p class="cloud-label cloud-label-light">Technologies we build with</p>
+      <ul class="tech-list">
+        {techStack.map((t) => <li>{t}</li>)}
+      </ul>
     </div>
   </section>
 
@@ -609,7 +705,7 @@ const stateHubs = [
                   <li>{p}</li>
                 ))}
               </ul>
-              <span class="card-arrow" aria-hidden="true">&rarr;</span>
+              <span class="card-link">Learn more <span aria-hidden="true">&rsaquo;</span></span>
             </div>
           </a>
         ))}
@@ -640,21 +736,46 @@ const stateHubs = [
   <section class="locations" aria-labelledby="locations-heading">
     <div class="section-wrap">
       <div class="section-head">
-        <p class="eyebrow">Pan-India coverage</p>
-        <h2 id="locations-heading">Covering 150+ cities across all 30 states in India</h2>
+        <p class="eyebrow">Global delivery</p>
+        <h2 id="locations-heading">Web development services for clients around the world</h2>
         <p class="section-note">
-          We provide full-stack IT services, web development, SEO, and AI automation to clients across major metro hubs, tier-2 cities, and businesses throughout India.
+          Whether you are a startup in New York, an agency in London, a retailer in Toronto, a clinic in Sydney, or a
+          trading company in Dubai, we work in your business hours, invoice in your currency, and ship to the same
+          standard. Here is how working with us looks in each region, or <a href="/countries/">see all countries we serve</a>.
         </p>
       </div>
-      <div class="city-cloud">
-        {locations.map(([name, href]) => (
-          <a class="city-chip" href={href}>{name}</a>
-        ))}
+      <div class="price-table-wrap market-table-wrap">
+        <table class="price-table market-table">
+          <caption class="sr-only">Countries served, working-hour overlap and billing options</caption>
+          <thead>
+            <tr>
+              <th scope="col">Region</th>
+              <th scope="col">Working-hour overlap</th>
+              <th scope="col">Billing &amp; payment</th>
+            </tr>
+          </thead>
+          <tbody>
+            {markets.map((m) => (
+              <tr>
+                <th scope="row">
+                  <span class="cc">{m.code}</span>
+                  {m.href ? <a href={m.href}>{m.country}</a> : m.country}
+                </th>
+                <td>{m.overlap}</td>
+                <td>{m.billing}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
       </div>
-      <p class="cloud-label">Browse by state</p>
-      <div class="city-cloud city-cloud-muted">
-        {stateHubs.map(([name, href]) => (
-          <a class="city-chip" href={href}>{name}</a>
+
+      <h3 class="india-head">Covering 1000+ cities across all 30 states in India</h3>
+      <p class="section-note india-note">
+        In India we provide web development, SEO, and AI automation to businesses in metro hubs and tier-2 cities alike.
+      </p>
+      <div class="city-cloud">
+        {locations.map((c) => (
+          <a class="city-chip" href={`/${c.slug}/`}>{c.name}</a>
         ))}
       </div>
     </div>
@@ -686,7 +807,7 @@ const stateHubs = [
     <div class="section-wrap">
       <div class="closing-inner">
         <p class="eyebrow">Next step</p>
-        <h2 id="cta-heading">Need a website, automation, AI agent, or data workflow?</h2>
+        <h2 id="cta-heading">Need a website, web app, or AI automation, wherever you are?</h2>
         <p class="closing-note">
           Tell us what you want to build or fix. We will reply with a clear scope, honest estimate, and practical delivery
           plan for your website, SEO setup, AI automation, data analysis, or custom IT work.
@@ -734,16 +855,21 @@ const stateHubs = [
   /* ================== TOKENS ================== */
   :root {
     --paper: #FDFCFB;
-    --surface: #F8F9FA;
+    --surface: #F5F5F7;
     --surface-low: #F3F4F5;
     --midnight: #0F172A;
     --slate: #334155;
     --slate-muted: #64748B;
     --gold: #D4AF37;
-    --gold-muted: #C5A059;
+    --gold-muted: #8A6516;
     --gold-light: #FAF5E8;
     --hairline: rgba(15, 23, 42, 0.10);
     --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --radius: 22px;
+    --radius-sm: 14px;
+    --card-border: rgba(15, 23, 42, 0.06);
+    --shadow: 0 1px 2px rgba(15, 23, 42, 0.04), 0 8px 24px -12px rgba(15, 23, 42, 0.12);
+    --shadow-hover: 0 2px 4px rgba(15, 23, 42, 0.05), 0 22px 44px -18px rgba(15, 23, 42, 0.22);
   }
 
   :global(body) {
@@ -808,13 +934,14 @@ const stateHubs = [
   /* ================== SECTION HEAD ================== */
   .section-head {
     max-width: 48rem;
-    margin-bottom: clamp(2.5rem, 5vw, 4rem);
+    margin-bottom: clamp(1.75rem, 3.5vw, 2.75rem);
   }
 
   .section-head h2 {
     font-size: clamp(1.85rem, 3.5vw, 2.75rem);
-    line-height: 1.15;
-    font-weight: 600;
+    line-height: 1.12;
+    font-weight: 700;
+    letter-spacing: -0.025em;
     margin-bottom: 1rem;
   }
 
@@ -836,15 +963,13 @@ const stateHubs = [
   .btn-primary, .btn-ghost, .btn-cream {
     display: inline-flex;
     align-items: center;
-    gap: 0.75rem;
-    padding: 0.9375rem 1.75rem;
+    gap: 0.6rem;
+    padding: 0.875rem 1.6rem;
     font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.8125rem;
+    font-size: 0.95rem;
     font-weight: 600;
-    letter-spacing: 0.07em;
-    text-transform: uppercase;
     text-decoration: none;
-    border-radius: 2px;
+    border-radius: 999px;
     border: 1px solid;
     transition: all 250ms var(--ease);
     white-space: nowrap;
@@ -860,7 +985,7 @@ const stateHubs = [
   .btn-ghost {
     background: transparent;
     color: var(--midnight);
-    border-color: var(--midnight);
+    border-color: rgba(15, 23, 42, 0.2);
   }
   .btn-ghost:hover { background: var(--surface-low); transform: translateY(-1px); }
 
@@ -905,8 +1030,9 @@ const stateHubs = [
   }
 
   h1 {
-    font-size: clamp(2.2rem, 4vw, 3.25rem);
+    font-size: clamp(2.1rem, 3.6vw, 3rem);
     line-height: 1.12;
+    text-wrap: balance;
     font-weight: 700;
     margin-bottom: 1.25rem;
   }
@@ -916,28 +1042,6 @@ const stateHubs = [
     font-size: clamp(0.95rem, 1.3vw, 1.05rem);
     line-height: 1.7;
     max-width: 32rem;
-  }
-
-  /* Service pills row */
-  .hero-pills {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.65rem 1.25rem;
-    margin: 1.75rem 0 0;
-    padding: 1.5rem 0 0;
-    border-top: 1px solid var(--hairline);
-    list-style: none;
-  }
-
-  .hero-pills li {
-    display: inline-flex;
-    align-items: center;
-    gap: 0.35rem;
-    color: var(--slate);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.82rem;
-    font-weight: 500;
-    white-space: nowrap;
   }
 
   .pill-icon {
@@ -977,7 +1081,7 @@ const stateHubs = [
   .hero-img-wrap {
     position: relative;
     width: 100%;
-    border-radius: 6px;
+    border-radius: var(--radius);
     overflow: hidden;
     border: 1px solid var(--hairline);
     box-shadow: 0 20px 45px -15px rgba(15, 23, 42, 0.12);
@@ -1040,9 +1144,8 @@ const stateHubs = [
 
   /* ================== STATS ================== */
   .stats-section {
-    padding: clamp(4rem, 7vw, 6rem) 0;
+    padding: clamp(1.75rem, 3.5vw, 2.5rem) 0;
     background: var(--midnight);
-    border-top: 1px solid rgba(255,255,255,0.04);
   }
 
   .stat-band {
@@ -1054,7 +1157,7 @@ const stateHubs = [
     list-style: none;
     background: rgba(255,255,255,0.06);
     border: 1px solid rgba(255,255,255,0.06);
-    border-radius: 2px;
+    border-radius: var(--radius);
     overflow: hidden;
   }
 
@@ -1064,7 +1167,7 @@ const stateHubs = [
     gap: 0.5rem;
     align-items: center;
     text-align: center;
-    padding: clamp(2rem, 4vw, 3rem) clamp(1rem, 3vw, 2rem);
+    padding: clamp(1.25rem, 2.5vw, 1.75rem) clamp(1rem, 3vw, 2rem);
     background: var(--midnight);
     position: relative;
   }
@@ -1094,17 +1197,16 @@ const stateHubs = [
   }
 
   .stat-label {
-    color: var(--slate-muted);
+    color: #94A3B8;
     font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.85rem;
-    font-weight: 400;
+    font-size: 0.875rem;
     line-height: 1.4;
-    max-width: 12rem;
+    max-width: 14rem;
   }
 
   /* ================== SERVICES ================== */
   .services {
-    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     background: var(--surface);
     border-top: 1px solid var(--hairline);
   }
@@ -1112,36 +1214,35 @@ const stateHubs = [
   .bento {
     display: grid;
     grid-template-columns: repeat(4, minmax(0, 1fr));
-    gap: 1px;
-    background: var(--hairline);
-    border: 1px solid var(--hairline);
-    border-radius: 2px;
-    overflow: hidden;
+    gap: 1rem;
   }
 
   .card {
     display: block;
-    background: var(--paper);
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
     text-decoration: none;
-    transition: background-color 250ms ease;
+    transition: transform 350ms var(--ease), box-shadow 350ms var(--ease);
   }
 
-  .card:hover { background: #fff; }
+  a.card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
 
   .card-core {
     position: relative;
-    padding: clamp(1.25rem, 2vw, 1.6rem);
+    padding: clamp(1.4rem, 2vw, 1.75rem);
     height: 100%;
     display: flex;
     flex-direction: column;
   }
 
   .card-core h3 {
-    font-size: clamp(1.05rem, 1.4vw, 1.2rem);
-    font-weight: 600;
+    font-size: clamp(1.1rem, 1.4vw, 1.25rem);
+    font-weight: 700;
+    letter-spacing: -0.015em;
     margin-bottom: 0.5rem;
     line-height: 1.25;
-    padding-right: 1.75rem;
   }
 
   .card-core > p {
@@ -1159,8 +1260,8 @@ const stateHubs = [
     margin: 0;
     padding: 0;
     list-style: none;
-    border-top: 1px solid var(--hairline);
-    padding-top: 0.85rem;
+    border-top: 1px solid var(--card-border);
+    padding-top: 0.9rem;
   }
 
   .service-points li {
@@ -1183,31 +1284,24 @@ const stateHubs = [
     content: "";
   }
 
-  .card-arrow {
-    position: absolute;
-    top: clamp(1.25rem, 2vw, 1.6rem);
-    right: clamp(1.25rem, 2vw, 1.6rem);
-    display: inline-grid;
-    place-items: center;
-    width: 1.75rem;
-    height: 1.75rem;
-    border: 1px solid var(--hairline);
-    border-radius: 1px;
-    color: var(--slate-muted);
-    font-size: 0.85rem;
-    transition: all 250ms var(--ease);
+  .card-link {
+    margin-top: 1.1rem;
+    color: var(--gold-muted);
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 600;
   }
 
-  a.card:hover .card-arrow {
-    background: var(--midnight);
-    border-color: var(--midnight);
-    color: var(--paper);
-    transform: translate(2px, -2px);
+  .card-link span {
+    display: inline-block;
+    transition: transform 300ms var(--ease);
   }
+
+  a:hover .card-link span { transform: translateX(3px); }
 
   /* ================== PROOF OF WORK ================== */
   .proof-of-work {
-    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     background: var(--paper);
     border-top: 1px solid var(--hairline);
   }
@@ -1285,25 +1379,26 @@ const stateHubs = [
 
   /* Tabs */
   .work-tabs {
-    display: flex;
-    gap: 0.5rem;
-    border-bottom: 1px solid var(--hairline);
+    display: inline-flex;
+    align-self: flex-start;
+    gap: 2px;
+    padding: 4px;
     margin-bottom: 1.25rem;
-    padding-bottom: 0.25rem;
+    background: rgba(15, 23, 42, 0.06);
+    border-radius: 999px;
   }
 
   .work-tab {
-    padding: 0.5rem 1rem;
+    padding: 0.5rem 1.1rem;
     background: transparent;
     border: none;
-    border-bottom: 2px solid transparent;
-    color: var(--slate-muted);
+    border-radius: 999px;
+    color: var(--slate);
     font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.84rem;
+    font-size: 0.875rem;
     font-weight: 600;
     cursor: pointer;
-    transition: all 200ms ease;
-    margin-bottom: -1px;
+    transition: background 200ms ease, color 200ms ease, box-shadow 200ms ease;
   }
 
   .work-tab:hover {
@@ -1312,7 +1407,8 @@ const stateHubs = [
 
   .work-tab.active {
     color: var(--midnight);
-    border-bottom-color: var(--gold);
+    background: #fff;
+    box-shadow: 0 1px 3px rgba(15, 23, 42, 0.12);
   }
 
   /* Panels */
@@ -1374,8 +1470,7 @@ const stateHubs = [
   .work-actions .btn-primary,
   .work-actions .btn-ghost {
     padding: 0.85rem 1.25rem;
-    font-size: 0.78rem;
-    letter-spacing: 0.05em;
+    font-size: 0.9rem;
     white-space: nowrap;
     flex: 0 0 auto;
   }
@@ -1388,7 +1483,7 @@ const stateHubs = [
   }
 
   .browser-frame {
-    border-radius: 8px;
+    border-radius: var(--radius-sm);
     overflow: hidden;
     background: #111827;
     border: 1px solid rgba(15, 23, 42, 0.15);
@@ -1510,11 +1605,7 @@ const stateHubs = [
   .work-metrics {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-    gap: 1px;
-    background: var(--hairline);
-    border: 1px solid var(--hairline);
-    border-radius: 4px;
-    overflow: hidden;
+    gap: 0.75rem;
   }
 
   .metric-item {
@@ -1522,8 +1613,11 @@ const stateHubs = [
     flex-direction: column;
     align-items: center;
     text-align: center;
-    padding: 0.75rem 0.5rem;
-    background: var(--surface-low);
+    padding: 0.85rem 0.5rem;
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius-sm);
+    box-shadow: var(--shadow);
   }
 
   .metric-val {
@@ -1542,14 +1636,16 @@ const stateHubs = [
 
   /* ================== ADVANTAGE ================== */
   .advantage {
-    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     border-top: 1px solid var(--hairline);
   }
 
   .comparison-table-wrap {
     overflow-x: auto;
-    border: 1px solid var(--hairline);
-    border-radius: 2px;
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
   }
 
   .comparison-table {
@@ -1621,7 +1717,7 @@ const stateHubs = [
 
   /* ================== BUILDS ================== */
   .builds {
-    padding: clamp(5rem, 9vw, 8rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     background: var(--surface);
     border-top: 1px solid var(--hairline);
   }
@@ -1629,33 +1725,32 @@ const stateHubs = [
   .build-grid {
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    gap: 1px;
-    background: var(--hairline);
-    border: 1px solid var(--hairline);
-    border-radius: 2px;
-    overflow: hidden;
+    gap: 1rem;
   }
 
   .build-card {
     display: block;
-    background: var(--paper);
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
     text-decoration: none;
-    transition: background 250ms ease;
+    transition: transform 350ms var(--ease), box-shadow 350ms var(--ease);
   }
 
-  .build-card:hover { background: #fff; }
+  .build-card:hover { transform: translateY(-4px); box-shadow: var(--shadow-hover); }
 
   .build-card .card-core {
-    padding-bottom: 4.5rem;
-    min-height: 22rem;
+    padding: clamp(1.75rem, 3vw, 2.5rem);
   }
 
   .build-tag {
     width: fit-content;
     margin-bottom: 1.25rem;
     padding: 0.3rem 0.85rem;
-    border: 1px solid rgba(212, 175, 55, 0.3);
-    border-radius: 1px;
+    border: none;
+    background: var(--gold-light);
+    border-radius: 999px;
     color: var(--gold-muted);
     font-family: 'Hanken Grotesk', system-ui, sans-serif;
     font-size: 0.7rem;
@@ -1671,7 +1766,7 @@ const stateHubs = [
     line-height: 1.15;
   }
 
-  .build-summary {
+  .build-card .build-summary {
     color: var(--slate);
     font-size: 0.95rem;
     line-height: 1.65;
@@ -1707,57 +1802,42 @@ const stateHubs = [
 
   /* ================== PROCESS ================== */
   .process {
-    padding: clamp(5rem, 9vw, 8rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     border-top: 1px solid var(--hairline);
   }
 
   .steps {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
-    gap: 0;
+    gap: 1rem;
     margin: 0;
     padding: 0;
     list-style: none;
-    border: 1px solid var(--hairline);
-    border-radius: 2px;
-    overflow: hidden;
-    background: var(--hairline);
-    counter-reset: steps;
   }
 
   .steps li {
     display: grid;
-    gap: 0.75rem;
+    gap: 0.65rem;
     align-content: start;
-    padding: clamp(2rem, 4vw, 3rem) clamp(1.5rem, 3vw, 2.5rem);
-    background: var(--paper);
-    position: relative;
+    padding: clamp(1.5rem, 3vw, 2rem);
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
   }
 
-  .steps li + li {
-    border-left: 1px solid var(--hairline);
-  }
-
-  .steps li::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    height: 2px;
-    background: var(--gold);
-    opacity: 0;
-    transition: opacity 300ms ease;
-  }
-
-  .steps li:hover::before { opacity: 1; }
 
   .step-num {
+    display: inline-grid;
+    place-items: center;
+    width: 2.25rem;
+    height: 2.25rem;
+    border-radius: 50%;
+    background: var(--gold-light);
     color: var(--gold-muted);
     font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.75rem;
+    font-size: 0.8rem;
     font-weight: 700;
-    letter-spacing: 0.12em;
   }
 
   .steps h3 {
@@ -1774,38 +1854,35 @@ const stateHubs = [
 
   /* ================== LOCATIONS ================== */
   .locations {
-    padding: clamp(5rem, 9vw, 8rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     background: var(--surface);
     border-top: 1px solid var(--hairline);
   }
 
   .city-cloud {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 0.6rem;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.95rem;
+    line-height: 2;
   }
 
   .city-chip {
-    display: inline-flex;
-    align-items: center;
-    min-height: 2.6rem;
-    padding: 0 1.1rem;
-    border: 1px solid var(--hairline);
-    border-radius: 2px;
-    color: var(--midnight);
-    background: var(--paper);
-    font-family: 'Hanken Grotesk', system-ui, sans-serif;
-    font-size: 0.875rem;
-    font-weight: 500;
+    color: var(--slate);
     text-decoration: none;
-    transition: all 250ms var(--ease);
+    white-space: nowrap;
+    transition: color 200ms ease;
+  }
+
+  .city-chip:not(:last-child)::after {
+    content: "·";
+    display: inline-block;
+    margin: 0 0.6rem;
+    color: var(--slate-muted);
   }
 
   .city-chip:hover {
-    border-color: var(--gold);
-    color: var(--midnight);
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(212, 175, 55, 0.15);
+    color: var(--gold-muted);
+    text-decoration: underline;
+    text-underline-offset: 3px;
   }
 
   .cloud-label {
@@ -1818,26 +1895,24 @@ const stateHubs = [
     text-transform: uppercase;
   }
 
-  .city-cloud-muted .city-chip {
-    min-height: 2.25rem;
-    padding: 0 0.9rem;
-    background: transparent;
-    box-shadow: none;
-    font-size: 0.825rem;
-  }
 
   /* ================== FAQ ================== */
   .faq {
-    padding: clamp(5rem, 9vw, 8rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     border-top: 1px solid var(--hairline);
   }
 
   .faq-list {
-    border-top: 1px solid var(--hairline);
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
+    overflow: hidden;
   }
 
   .faq-item {
-    border-bottom: 1px solid var(--hairline);
+    padding: 0 clamp(1.25rem, 3vw, 1.75rem);
+    border-bottom: 1px solid var(--card-border);
   }
 
   .faq-item summary {
@@ -1856,6 +1931,7 @@ const stateHubs = [
     transition: color 300ms ease;
   }
 
+  .faq-item:last-child { border-bottom: none; }
   .faq-item summary::-webkit-details-marker { display: none; }
   .faq-item summary:hover { color: var(--slate); }
 
@@ -1866,7 +1942,7 @@ const stateHubs = [
     width: 2rem;
     height: 2rem;
     border: 1px solid var(--hairline);
-    border-radius: 1px;
+    border-radius: 50%;
     color: var(--gold-muted);
     font-family: 'Hanken Grotesk', system-ui, sans-serif;
     font-size: 1.1rem;
@@ -1891,18 +1967,23 @@ const stateHubs = [
 
   /* ================== CLOSING CTA ================== */
   .closing {
-    padding: clamp(3.5rem, 6vw, 5.5rem) 0;
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
     background: var(--surface-low);
     border-top: 1px solid var(--hairline);
     text-align: center;
   }
 
   .closing-inner {
-    max-width: 44rem;
+    max-width: 60rem;
     margin: 0 auto;
+    padding: clamp(2.5rem, 5vw, 3.5rem) clamp(1.25rem, 4vw, 3rem);
     display: flex;
     flex-direction: column;
     align-items: center;
+    background: #fff;
+    border: 1px solid var(--card-border);
+    border-radius: 28px;
+    box-shadow: var(--shadow);
   }
 
   .closing-inner h2 {
@@ -1926,6 +2007,160 @@ const stateHubs = [
     display: flex;
     justify-content: center;
   }
+
+  /* ================== HERO ACCENTS ================== */
+  .h1-accent {
+    background: linear-gradient(100deg, var(--gold-muted), var(--gold) 60%, #b8860b);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  .cc {
+    display: inline-grid;
+    place-items: center;
+    min-width: 1.6rem;
+    height: 1.15rem;
+    padding: 0 0.25rem;
+    margin-right: 0.4rem;
+    border: 1px solid rgba(212, 175, 55, 0.45);
+    border-radius: 2px;
+    color: var(--gold-muted);
+    font-size: 0.62rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+  }
+
+  .sr-only {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+    white-space: nowrap;
+  }
+
+  /* ================== PRICING TABLE ================== */
+  .pricing-band {
+    padding: clamp(3rem, 5vw, 4.5rem) 0;
+    background:
+      radial-gradient(60rem 30rem at 85% -10%, rgba(212, 175, 55, 0.12), transparent 60%),
+      var(--midnight);
+  }
+
+  .pricing-band h2 { color: #F8F9FA; }
+  .pricing-band .section-note { color: #94A3B8; }
+
+  .price-table-wrap {
+    overflow-x: auto;
+    border: 1px solid var(--card-border);
+    border-radius: var(--radius);
+    background: #fff;
+    box-shadow: var(--shadow);
+  }
+
+  .pricing-band .price-table-wrap {
+    border-color: rgba(255, 255, 255, 0.08);
+    background: rgba(255, 255, 255, 0.03);
+    box-shadow: none;
+  }
+
+  .price-table {
+    width: 100%;
+    min-width: 40rem;
+    border-collapse: collapse;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.9rem;
+    text-align: left;
+  }
+
+  .price-table thead th {
+    padding: 0.95rem 1.25rem;
+    font-size: 0.72rem;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: var(--slate-muted);
+    background: var(--surface-low);
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .price-table tbody th,
+  .price-table td {
+    padding: 1rem 1.25rem;
+    vertical-align: top;
+    line-height: 1.5;
+    border-bottom: 1px solid var(--hairline);
+  }
+
+  .price-table tbody tr:last-child > * { border-bottom: none; }
+  .price-table tbody th { font-weight: 600; color: var(--midnight); }
+  .price-table td { color: var(--slate); }
+  .price-table tbody tr { transition: background 200ms ease; }
+  .price-table tbody tr:hover { background: var(--surface-low); }
+  .price-table a { color: var(--midnight); text-underline-offset: 3px; text-decoration-color: var(--gold); }
+  .nowrap { white-space: nowrap; }
+
+  .pricing-band .price-table thead th {
+    background: rgba(255, 255, 255, 0.04);
+    color: rgba(212, 175, 55, 0.85);
+    border-color: rgba(255, 255, 255, 0.08);
+  }
+  .pricing-band .price-table tbody th { color: #F8F9FA; }
+  .pricing-band .price-table td { color: #CBD5E1; border-color: rgba(255, 255, 255, 0.06); }
+  .pricing-band .price-table tbody th { border-color: rgba(255, 255, 255, 0.06); }
+  .pricing-band .price-table tbody tr:hover { background: rgba(255, 255, 255, 0.04); }
+
+  .price-cell strong {
+    display: block;
+    color: var(--gold);
+    font-size: 1.05rem;
+    white-space: nowrap;
+  }
+  .price-cell small { font-size: 0.72rem; font-weight: 500; color: #94A3B8; }
+  .price-cell span { font-size: 0.78rem; color: #94A3B8; white-space: nowrap; }
+
+  .table-foot {
+    margin-top: 1rem;
+    color: #94A3B8;
+    font-size: 0.82rem;
+    line-height: 1.6;
+  }
+  .table-foot a { color: var(--gold); font-weight: 600; text-decoration: none; margin-left: 0.35rem; }
+  .table-foot a:hover { text-decoration: underline; }
+
+  .cloud-label-light { color: rgba(212, 175, 55, 0.75); margin-top: 2.5rem; }
+
+  .tech-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .tech-list li {
+    padding: 0.4rem 0.85rem;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 999px;
+    color: #CBD5E1;
+    font-family: 'Hanken Grotesk', system-ui, sans-serif;
+    font-size: 0.8rem;
+    transition: border-color 200ms ease, color 200ms ease;
+  }
+  .tech-list li:hover { border-color: var(--gold); color: #fff; }
+
+  /* ================== MARKETS ================== */
+  .market-table-wrap { margin-bottom: clamp(2.5rem, 5vw, 3.5rem); }
+  .market-table { min-width: 34rem; }
+  .market-table tbody th { white-space: nowrap; }
+
+  .india-head {
+    font-size: clamp(1.25rem, 2vw, 1.5rem);
+    font-weight: 600;
+  }
+  .india-note { margin: 0.5rem 0 1.5rem; }
 
   /* ================== RESPONSIVE ================== */
   @media (max-width: 1024px) {
@@ -1956,10 +2191,9 @@ const stateHubs = [
     h1 { font-size: clamp(2rem, 9vw, 2.75rem); max-width: 100%; }
     .build-grid { grid-template-columns: 1fr; }
     .steps { grid-template-columns: 1fr; }
-    .steps li + li { border-left: none; border-top: 1px solid var(--hairline); }
     .service-points { grid-template-columns: 1fr; }
     .build-points { grid-template-columns: 1fr; }
-    .col-agency, .col-cheap { display: none; }
+    .col-agency, .col-cheap, .td-agency, .td-cheap { display: none; }
     .col-aspect { width: 45%; }
     .col-us { width: 55%; }
     .closing-inner { text-align: center; }
@@ -1979,6 +2213,6 @@ const stateHubs = [
     .marquee-track { animation: none; }
     .btn-primary, .btn-ghost, .btn-cream,
     .city-chip, .card, .build-card,
-    .card-arrow, .faq-mark { transition-duration: 1ms; }
+    .faq-mark { transition-duration: 1ms; }
   }
 </style>

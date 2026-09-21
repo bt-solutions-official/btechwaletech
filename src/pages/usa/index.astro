@@ -1,256 +1,1220 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import Breadcrumbs from "@components/common/Breadcrumbs.astro";
-import "@styles/it-services.css";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
-import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
-import { siteContact } from "@data/site/site-config";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { countryOgImage, usd } from "@data/countries/international";
+
+// Starting prices in USD, always derived from the single pricing source.
+const P = {
+  site: usd("Static"),
+  seoSite: usd("SEO website"),
+  shop: usd("Ecommerce"),
+  app: usd("Custom web app"),
+  ai: usd("AI automation"),
+  seo: usd("Monthly SEO"),
+  care: usd("Maintenance"),
+};
+const updated = "2026-09-21";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
 
 const faqs = [
   {
-    question: "How much does offshore web development for US businesses actually cost?",
-    answer: "A static marketing site starts from ₹5,000, a 30-page SEO website from design to deployment starts from ₹10,000, ecommerce from ₹25,000, and a custom web application from ₹40,000. AI automation starts from ₹15,000 and monthly SEO from ₹5,000 per month. Those are starting points in rupees, which usually convert to a fraction of a US agency quote. Final cost depends on scope.",
+    question: "Are you a US company, and do you have an office in the United States?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India, and every US project is delivered remotely. We have no US office, no US mailing address, no US entity and no local staff, and we will not borrow a virtual address to look local. You work directly with the engineers who build your project, over email, WhatsApp, video calls and a shared staging link.",
   },
   {
-    question: "What does the lower price not buy me?",
-    answer: "It does not buy a fifty person account team, an in-person workshop in your city, or someone who can walk into your warehouse and photograph your inventory. It also does not buy legal or tax advice about US regulations. You get three engineers doing the actual build work, which is where most of your money should go anyway.",
+    question: "How much does it cost to hire a web developer for a US business?",
+    answer: `With us, a static business website starts from ${P.site}, a 700+ page SEO website from ${P.seoSite}, AI automation from ${P.ai}, an ecommerce store from ${P.shop} and a custom web app from ${P.app}. Monthly SEO starts from ${P.seo} and maintenance from ${P.care}. These are all starting prices in US dollars; the final quote depends on your requirements and arrives itemized before any work begins.`,
   },
   {
-    question: "How do you handle the time difference with EST and PST?",
-    answer: "India is roughly nine and a half hours ahead of New York and twelve and a half ahead of Los Angeles. We keep calls in your morning, which is our evening, so an 8am to 11am Eastern slot works comfortably. For Pacific clients we take early calls at 8am Pacific, which is 8:30pm here. Everything else runs asynchronously over email and written updates.",
+    question: "Why are your prices so much lower than a US agency?",
+    answer: "Mostly because salaries, rent and living costs in India are far lower than in New York, San Francisco or Austin, and because we have no sales team, account managers or office to pay for. The engineering is the same kind of work. What the lower price does not buy is in-person workshops, a large team on call around the clock, or legal and tax advice about US rules.",
   },
   {
-    question: "Who owns the code and the design files?",
-    answer: "You do, in full, once the final invoice is paid. That includes source code, design files, content, database schemas and any automation scripts we write for you. We hand over repository access, hosting credentials and domain records. We keep no license and no lock-in, and we do not resell your build to anyone else.",
+    question: "How do you handle the time difference with Eastern and Pacific time?",
+    answer: "India is 9.5 hours ahead of New York during US daylight time and 10.5 hours ahead in winter, and 12.5 hours ahead of Los Angeles in summer. We keep live calls in your morning, which is our evening: roughly 8 to 11 a.m. Eastern, 7 to 10 a.m. Central, and 7 to 9 a.m. Mountain or Pacific. Everything else runs in writing, and feedback you send in the afternoon is usually applied on staging by your next morning.",
   },
   {
-    question: "How do US clients pay an Indian team?",
-    answer: "Most clients pay by international bank wire or through Wise, which handles USD to INR conversion at a fair rate with low fees. PayPal works too, though its conversion spread is wider. We invoice in USD, split payments into milestones rather than one lump sum, and send a proper invoice for your bookkeeping and tax records.",
+    question: "How do US clients pay an India-based team?",
+    answer: "We invoice in US dollars. Most clients pay through Wise, which is usually the cheapest route and often lets you pay by a domestic transfer, or by international wire. PayPal also works, with higher fees. Payments are split into milestones rather than one lump sum, and every payment gets a proper invoice. Your accountant may ask us for a Form W-8BEN or W-8BEN-E instead of a W-9; we supply whatever they need.",
   },
   {
-    question: "Do you build accessible websites that meet WCAG guidance?",
-    answer: "We build to WCAG 2.1 AA practices as a default: real semantic HTML, keyboard navigation, visible focus states, sufficient colour contrast, labelled form fields and alt text on meaningful images. That reduces ADA-related risk considerably. We are engineers, not attorneys, so we do not certify legal compliance, and we say so plainly before we start.",
+    question: "Will you sign an NDA and a written contract?",
+    answer: "Yes. We are happy to sign your mutual NDA before you share details, and every project starts with a written scope listing pages, features, integrations, milestones, revision rounds, price and exclusions. If your company has a standard contractor agreement, send it over and we will review it; otherwise we use our own terms.",
   },
   {
-    question: "Can you do local SEO for a US city or service area?",
-    answer: "Yes. That means Google Business Profile setup and optimisation, consistent name, address and phone details across directories, city and service landing pages built on real content, LocalBusiness schema, review prompts and tracking in Search Console. Monthly SEO starts from ₹5,000 per month. Rankings move over months, not weeks, and we report progress honestly.",
+    question: "Who owns the code, design and domain after the project?",
+    answer: "You do, in full, once the final invoice is paid: source code, design files, content, database, automation scripts and documentation. The domain, hosting, Stripe or Shopify account and Google accounts are opened in your company's name from the start, and every credential is handed over at launch. We keep no license and no lock-in.",
+  },
+  {
+    question: "Can you make my website ADA compliant?",
+    answer: "We build to WCAG 2.1 AA practices by default: semantic HTML, keyboard navigation, visible focus, sufficient contrast, labeled forms, alt text and captions where you supply video, and we test with a screen reader before launch. That meaningfully reduces accessibility risk. We are engineers, not lawyers, so we do not certify ADA compliance, and we do not install accessibility overlay widgets.",
+  },
+  {
+    question: "Do you handle CCPA, CPRA and cookie consent?",
+    answer: "We build the technical side: notices at the point of collection, a Do Not Sell or Share link where your practices call for one, consent handling that honors Global Privacy Control signals, and analytics and ad tags that load only when they should. Whether a given state law applies to your business, and what your privacy policy says, is for your attorney to decide.",
+  },
+  {
+    question: "Can you set up sales tax on my online store?",
+    answer: "Yes, as a checkout rule. We configure Stripe Tax, Shopify's tax settings or a service such as TaxJar or Avalara to collect tax in the states where you tell us you are registered, and show it clearly on the cart, receipt and order email. Which states you must register in after the Wayfair decision is a question for your accountant, not for us.",
+  },
+  {
+    question: "Should my store use Shopify, Stripe, PayPal or Square?",
+    answer: "Shopify suits most product brands that want a managed platform and a large app ecosystem. Stripe on a custom or WooCommerce build suits subscriptions, unusual pricing and B2B ordering. Square makes sense when you also sell in person and want one inventory. PayPal is best added as a second checkout option. We explain the trade-offs for your case and set up whichever you choose in your name.",
+  },
+  {
+    question: "Can you do local SEO for one US city, or for several?",
+    answer: "Both. For one location we focus on your Google Business Profile, consistent listings, reviews, LocalBusiness schema and a strong set of service pages. For a service area or several branches we build location pages with genuinely different content for each market, not a template with the city name swapped. Local results usually take several months to move.",
+  },
+  {
+    question: "Can you build a website in English and Spanish?",
+    answer: "Yes. Each language gets its own URLs, correct lang attributes, en-US and es-US hreflang tags, translated titles and structured data, and a switcher that keeps visitors on the equivalent page. We do not rely on browser translation for pages you want to rank. The Spanish copy comes from you or a translator you trust; we handle the build and test both versions.",
+  },
+  {
+    question: "Can you guarantee a first-page ranking on Google?",
+    answer: "No, and be wary of anyone who does. Nobody controls Google's results. We commit to a technically sound site, pages built around what your customers actually search, honest monthly reporting from Search Console, and steady improvement based on that data. Competitive US markets typically take three to six months or more to show real movement.",
+  },
+  {
+    question: "Where will my website be hosted?",
+    answer: "Static marketing sites usually run on a global CDN, so pages load quickly from Boston to Honolulu. Apps with a database are deployed to a US cloud region on AWS, Google Cloud or a similar provider, in an account you own. If your policies require data to stay in the US or restrict who can access production systems, tell us at the start and we will plan around it.",
+  },
+  {
+    question: "How long does a website project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Content arriving on time and quick approvals on your side are the biggest factors in hitting these timelines.",
+  },
+  {
+    question: "Can you work alongside our in-house developers or marketing agency?",
+    answer: "Yes. We regularly work inside an existing repository, follow your branching and review rules, and hand over pull requests rather than zip files. If an agency runs your ads or brand, we can own the build and technical SEO while they keep creative and media, with a clear written split of responsibilities.",
+  },
+  {
+    question: "Can you redesign my site without losing rankings?",
+    answer: "Yes, if the migration is done carefully. Before launch we export every URL that gets traffic or links, keep URLs where possible, map 301 redirects where they must change, carry over titles and content that rank, and watch Search Console closely for several weeks afterward. Most post-redesign ranking drops come from skipping those steps.",
   },
   {
     question: "What happens after the site goes live?",
-    answer: "Five months of maintenance are included free: content updates, bug fixes, security patches, backups, and uptime and speed checks. After that period, maintenance is from ₹2,000 per month if you want us to keep looking after it. There is no obligation to continue, and you keep every credential either way.",
+    answer: `Five months of maintenance are included free once hosting is live: content updates, bug fixes, security patches, backups, and uptime and speed checks. After that, maintenance starts from ${P.care} if you want us to keep looking after it. There is no obligation, and you keep every credential either way.`,
+  },
+  {
+    question: "How do we get started?",
+    answer: "Send a WhatsApp message or email with what your business does, what you want built, your deadline and a budget range if you have one. We reply with questions, then a written scope, timeline and itemized quote, usually within two working days. Work starts after you approve the scope, and you see progress on a staging link from early in the build.",
   },
 ];
 
+// ---------- Page meta ----------
+
 const page = createPageSeo({
-  title: "Offshore Web Development for United States Businesses",
-  description: "Hire Indian web developers for US businesses. Websites, ecommerce, AI automation and SEO built end to end from India, with 5 months free maintenance included.",
+  title: "Web Development Company USA | Hire Web Developers",
+  description: `Hire web developers for your US business: websites from ${P.site}, ecommerce, SEO, custom software and AI automation. Remote team in India, US-morning calls.`,
   canonicalPath: "/usa/",
-  h1: "Working With United States Businesses From India",
-  intro: "We are three freelance engineers in India who build websites, ecommerce stores, web applications and AI automation for companies across the United States. Everything runs end to end, from planning through hosting, with five months of maintenance included free after launch.",
+  h1: "Web development company for US businesses, built by engineers in India",
+  intro: `BtechWaleTech is a small team of engineers based in India. We design and build websites, ecommerce stores, web apps, SEO systems and AI automation for businesses across all 50 states, working remotely from the first call to launch. Websites start from ${P.site}, calls happen in your morning, and you deal directly with the people who write your code.`,
   breadcrumbs: createBreadcrumbs([{ label: "USA", href: "/usa/" }]),
+  locale: "en_US",
+  ogImage: countryOgImage("BtechWaleTech, an India-based team building websites, ecommerce, SEO and software for US businesses"),
   keywords: [
-    "offshore web development for US businesses",
-    "hire Indian web developers USA",
-    "SEO services for US companies",
-    "offshore development team India",
-    "US web design outsourcing",
-    "affordable web developers for American businesses",
-    "web development agency for United States clients",
-    "ecommerce development USA",
-    "Shopify alternative custom store USA",
-    "WCAG accessibility web development",
-    "ADA compliant website development",
-    "Google Business Profile optimisation USA",
-    "local SEO for US cities",
-    "hire remote developers India USA timezone",
-    "EST timezone overlap development team",
-    "PST friendly offshore developers",
-    "AI automation for US small business",
-    "custom web application development USA",
-    "outsource website maintenance USA",
-    "monthly SEO retainer US business",
-    "wire transfer payment offshore developer",
-    "IP ownership offshore development contract",
-    "startup MVP development India for US founders",
-    "SaaS marketing site development",
-    "US small business website design cost",
-    "remote friendly delivery United States",
-    "technical SEO services United States",
-    "website redesign for American companies",
+    "web development company USA",
+    "hire web developers USA",
+    "web developers for US business",
+    "website development company United States",
+    "offshore web development for US companies",
+    "hire Indian web developers",
+    "outsource web development to India",
+    "website design company USA",
+    "small business website design USA",
+    "ecommerce website development USA",
+    "Shopify developer USA",
+    "Stripe integration developer",
+    "SEO services USA",
+    "local SEO services for US businesses",
+    "custom software development USA",
+    "web app development for startups",
+    "AI automation agency USA",
+    "website maintenance services USA",
+    "ADA compliant website design",
+    "WCAG accessibility development",
+    "CCPA compliant website",
+    "web developers California",
+    "web development Texas",
+    "website design New York",
+    "web developers Florida",
+    "web design Illinois",
+    "web developers Washington state",
+    "website design New York City",
+    "web development Los Angeles",
+    "web developers San Francisco",
+    "web design Chicago",
+    "web developers Houston",
+    "website design Dallas",
+    "web development Austin",
+    "web design Miami",
+    "web developers Atlanta",
+    "website design Seattle",
+    "web development Boston",
+    "web design Denver",
+    "web developers Phoenix",
   ],
 });
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${P.site}`],
+  ["Call hours", "Your morning, ET through PT"],
+  ["Billing", "USD via Wise, wire or PayPal"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "All 50 states and DC"],
+];
+
+const pills = ["Business websites", "Shopify & Stripe stores", "SEO for Google US", "WCAG-minded builds", "SaaS MVPs & web apps", "AI automation"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: P.site, label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "50", label: "States served remotely, plus DC" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers based in India: full stack, AI and cloud, and project delivery" },
+  { label: "How we work", value: "Remotely: US-morning calls, written updates, a private staging link" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Payments we set up", value: "Stripe, Shopify Payments, PayPal and Square, with state sales tax rules you confirm" },
+  { label: "Standards we build to", value: "WCAG 2.1 AA practices, consent handling for state privacy laws, Core Web Vitals" },
+  { label: "Starting prices", value: `From ${P.site} for a website; every figure is a starting price in USD` },
+  { label: "After launch", value: `5 months of free maintenance, then from ${P.care} or pay-as-needed` },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Fast marketing sites on Astro, Next.js or WordPress, with forms routed to your inbox, CRM or Slack.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO & local SEO", note: "Technical SEO, content and local search for Google in the US, including Spanish-language pages.", href: "/services/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with Stripe, PayPal or Square and state sales tax rules.", size: "sm" },
+  { name: "Custom software", note: "Client portals, quoting tools, booking systems and dashboards on top of your data.", size: "sm" },
+  { name: "SaaS MVPs & web apps", note: "Auth, billing through Stripe, admin panels and a data model that can grow.", size: "sm" },
+  { name: "AI automation", note: "Document intake, lead qualification, support drafts and reporting, with a human in the loop.", size: "sm" },
+  { name: "Website design", note: "Mobile-first layouts built around what a US buyer needs to see before calling you.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Higher, reflecting US salaries, rent and account management", "Lowest bids, scope often thin", `From ${P.site} for a website, itemized quote`],
+  ["Who does the work", "Often a team behind an account manager", "One person, sometimes subcontracted", "The three engineers you talk to"],
+  ["Time zone", "Same or nearby US time zone", "Anywhere, availability varies", "Your morning for calls, overnight build cycle"],
+  ["Written scope", "Formal statement of work", "Often a job post and a chat thread", "Itemized scope before any payment"],
+  ["SEO and accessibility", "Often separate packages", "Frequently skipped", "Schema, sitemap and WCAG practices in every build"],
+  ["After launch", "Paid retainer from day one", "Often ends when the contract closes", "5 months of maintenance free"],
+  ["Ownership", "Usually transferred, check licensed themes", "Varies by marketplace terms", "Code, domain and accounts in your name"],
+  ["Meeting in person", "Possible if local", "Rarely", "Remote only: video calls and a staging link"],
+];
+
+// ---------- Process and timelines ----------
+
+const process = [
+  ["Talk", "A call in your morning or a WhatsApp chat about your business, customers, competitors and budget. No charge."],
+  ["Scope & quote", "Pages, features, integrations, milestones and an itemized USD quote in writing, usually within two working days."],
+  ["Design", "Sitemap and wireframes first, then visual design for key pages, reviewed on your own phone and laptop."],
+  ["Build on staging", "A private staging link you can open at any time. Changes sent in your afternoon usually land by your next morning."],
+  ["Test & SEO", "Titles, schema, redirects, speed, accessibility, forms, payments in test mode and sales tax checked before launch."],
+  ["Launch & support", "DNS switched at a quiet hour for your market, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Industries table ----------
+
+const industries = [
+  { name: "Home services and trades", need: "A fast mobile page, click-to-call, license and insurance details, reviews and a short quote form", build: "Service and suburb pages that match real service areas, quote forms into your CRM, call tracking, seasonal landing pages" },
+  { name: "Law, accounting and professional firms", need: "Credentials, practice areas explained plainly, fees or fee structure, and a confidential way to make contact", build: "Restrained, fast sites with attorney or partner profiles, practice pages, articles, secure intake forms" },
+  { name: "Clinics, dental and med spas", need: "Providers, treatments, insurance accepted, hours and fast appointment requests", build: "Provider pages, booking links into your practice software, minimal forms that avoid collecting health details" },
+  { name: "Ecommerce and DTC brands", need: "Clear product detail, shipping and returns, trustworthy checkout and fast mobile pages", build: "Shopify or custom stores, Stripe or PayPal checkout, sales tax rules, Google Merchant Center feeds, Klaviyo flows" },
+  { name: "SaaS and startups", need: "A marketing site the team can edit, pricing, docs, analytics that can be trusted and a working product", build: "Astro or Next.js sites with a headless CMS, docs, product analytics, and MVPs with auth and Stripe billing" },
+  { name: "Real estate", need: "Listings, neighborhood information, mortgage context and fast responses to leads", build: "IDX-connected sites where your MLS permits, neighborhood guides, lead routing to agents" },
+  { name: "Manufacturing, logistics and B2B", need: "Specifications, capabilities, certifications, lead times and a named contact for procurement", build: "Searchable catalogs, spec sheets, RFQ forms that accept drawings, customer and carrier portals" },
+  { name: "Restaurants, hospitality and events", need: "Menus that load as text, hours, reservations, directions and event details", build: "Fast menu pages, reservation or ordering links, event pages, Google Business Profile guidance" },
+  { name: "Nonprofits and education", need: "A simple way to donate or enroll, accessible pages and event calendars", build: "Stripe or PayPal donation flows, course catalogs, enrollment forms, accessible calendars" },
+];
+
+// ---------- Time zones ----------
+
+const zones = [
+  { zone: "Eastern (New York, Atlanta, Miami)", gap: "9h 30m (10h 30m in winter)", window: "8–11 a.m. ET", ist: "5:30–8:30 p.m. IST" },
+  { zone: "Central (Chicago, Dallas, Houston)", gap: "10h 30m (11h 30m in winter)", window: "7–10 a.m. CT", ist: "5:30–8:30 p.m. IST" },
+  { zone: "Mountain (Denver, Salt Lake City)", gap: "11h 30m (12h 30m in winter)", window: "7–9 a.m. MT", ist: "6:30–8:30 p.m. IST" },
+  { zone: "Arizona (Phoenix, no daylight saving)", gap: "12h 30m all year", window: "7–9 a.m. MST", ist: "7:30–9:30 p.m. IST" },
+  { zone: "Pacific (Los Angeles, San Francisco, Seattle)", gap: "12h 30m (13h 30m in winter)", window: "7–9 a.m. PT", ist: "7:30–9:30 p.m. IST" },
+  { zone: "Alaska (Anchorage)", gap: "13h 30m (14h 30m in winter)", window: "Late afternoon AKT", ist: "Early morning IST, next day" },
+  { zone: "Hawaii (Honolulu, no daylight saving)", gap: "15h 30m all year", window: "3–5 p.m. HST", ist: "6:30–8:30 a.m. IST, next day" },
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+const guide = [
+  {
+    id: "who-we-are",
+    heading: "Who we are and how remote delivery works for US clients",
+    paragraphs: [
+      `BtechWaleTech is three engineers in India. Ankur Kumar is a full stack developer. Santosh Sharma works on AI and machine learning, AWS, data science, technical SEO and deployment. Vedansh Shrivastava runs project management alongside data science, AI and automation work. That is the whole team. When you send a message, one of us reads it, and the person who replies is one of the people who will build your project. There is no sales layer, no account manager relaying notes, and no junior developer quietly assigned after the pitch call.`,
+      `We have no office in the United States, no US entity, no mailing address in Delaware and no local staff. Plenty of offshore vendors blur that line with a rented address and a US phone number that forwards overseas. We would rather say it plainly: every US project is delivered remotely from India, and the process is designed so that distance does not cost you anything that matters. You can read more <a href="/about/">about the team</a> before deciding anything.`,
+      `<strong>How a remote project actually runs.</strong> It starts with a call in your morning, which is our evening, plus a short written questionnaire about goals, audience, pages, integrations and deadlines. We send a written scope and an itemized quote. Once you approve it, a private staging link goes up early in the build and stays live until launch, so you review real pages on your own devices instead of static mockups. You get a written update at a fixed cadence, usually twice a week on larger builds and weekly on small ones, covering what shipped, what is next, anything blocked and anything we need from you.`,
+      `<strong>Why the time difference helps.</strong> Most feedback arrives from US clients in the afternoon. We work through it during our day, which is your night, and a build with your changes applied is usually waiting when you open your laptop the next morning. That overnight cycle suits projects with a lot of review rounds, and it works because everything important is written down: decisions, open questions, scope changes and blockers. Verbal-only agreements fall apart across a ten-hour gap, so we keep a written trail for everything that matters.`,
+      `<strong>Tools you already use.</strong> We work over email, WhatsApp, Slack, Google Meet, Zoom or Microsoft Teams, whichever your team prefers, and we can work inside your GitHub or GitLab organization, your Jira or Linear board, and your existing cloud accounts. Nothing is hosted in an account we control unless you explicitly ask us to manage it.`,
+      `<strong>When we are the wrong choice.</strong> If your project needs someone physically present in your office several times a month, a US-based contracting entity for a government bid, or a large team on call around the clock, a local agency is the better fit, and we will tell you so in the first conversation. If it needs a site or application built well, launched properly and looked after, the distance is a scheduling detail.`,
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "Services for the US market, in detail",
+    paragraphs: [
+      `<strong>Web development.</strong> Most US marketing sites we build are static or statically generated pages served from a CDN, which keeps them fast on both coasts, cheap to host and hard to hack. A static site of up to 100 pages starts from ${P.site}. When your marketing team needs to publish without us, we connect a headless CMS or build on WordPress with a lean theme instead of a heavy page builder. Forms route to the tools you already use, such as HubSpot, Salesforce, Pipedrive, a shared inbox or a Slack channel, with spam protection and a clear confirmation message. The <a href="/services/web-development/">web development service page</a> describes the stack in more depth.`,
+      `<strong>Website design.</strong> US buyers compare quickly. A visitor arriving from a Google search usually decides on the first screen whether you look like the right fit, so we design around what they need to see first: what you do, where you do it, proof that you are real, and one clear next step. For a service business that means a visible phone number and a short quote form; for SaaS it means the product, the price and a sign-up; for a store it means the product, shipping terms and returns. Layouts are designed mobile first, because a large share of local searches happen on a phone, and typography and color are chosen for readability and contrast rather than fashion.`,
+      `<strong>Ecommerce.</strong> Stores on Shopify, WooCommerce or a custom stack, starting from ${P.shop}, with Stripe, Shopify Payments, PayPal or Square at checkout. The ecommerce section below covers platform choice, payments, shipping and state sales tax in detail.`,
+      `<strong>SEO for Google in the US.</strong> National and local rankings are won on different pages. We handle technical SEO, on-page work, content and local search, and set up hreflang properly when you serve Spanish-speaking customers or sell into Canada as well. Monthly SEO starts from ${P.seo}; the <a href="/services/seo-services/">SEO services page</a> lists the full scope, and the SEO section below explains our approach for the US market.`,
+      `<strong>Custom software and web apps.</strong> Custom web applications start from ${P.app}. Typical US requests include customer portals, booking and scheduling systems, quoting and estimating tools, multi-tenant SaaS MVPs with Stripe billing, admin dashboards on top of an existing database, and integrations between tools that do not talk to each other, such as a CRM, QuickBooks and a field service app. We host on AWS or a comparable provider in a US region, in your account, and document the setup so another developer can take over later if you choose.`,
+      `<strong>AI automation.</strong> AI automation starts from ${P.ai}. Useful projects are usually specific: reading incoming PDFs and invoices into structured data, drafting first replies to support tickets for a person to approve, qualifying inbound leads against your criteria, summarizing call notes into the CRM, or assembling a weekly report from several data sources. We keep a person in the loop wherever a mistake would cost money or trust, log what the system did, and do not send sensitive customer data to third-party AI models unless you have approved that path in writing.`,
+      `<strong>Maintenance.</strong> The first five months after launch are included free: content and price updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks in Search Console. After that, maintenance starts from ${P.care}, or you contact us only when something needs changing. You can stop at any time and keep every credential. Full details are on the <a href="/pricing/">pricing page</a>.`,
+    ],
+  },
+  {
+    id: "ecommerce-us",
+    heading: "Ecommerce for US customers: Stripe, Shopify, PayPal, Square and sales tax",
+    paragraphs: [
+      `Selling online in the United States looks simple from the outside and gets detailed quickly. Buyers expect card payments, Apple Pay and Google Pay on mobile, clear shipping costs before checkout, and a returns policy they can find. Behind the scenes, the store has to collect the right sales tax for the right addresses, send tidy order emails and hand orders to whatever ships them. An ecommerce store with us starts from ${P.shop}.`,
+      `<strong>Shopify.</strong> The right default for most product brands. It is a managed platform, so hosting, security and PCI compliance for card data are handled by Shopify, and its app ecosystem covers reviews, subscriptions, bundles, loyalty and wholesale. We build custom themes that load quickly rather than stacking apps that each add a script. Shopify Payments, Shop Pay, PayPal and other wallets can all run on one checkout.`,
+      `<strong>Stripe on a custom or WooCommerce build.</strong> Better when you need something Shopify makes awkward: subscriptions with usage-based pricing, quotes that turn into invoices, B2B accounts with net terms, marketplaces with split payouts, or a checkout embedded inside a web app. Stripe Checkout or Payment Elements keep card data off your server entirely, and Stripe Billing handles recurring plans, trials and dunning.`,
+      `<strong>Square.</strong> The natural choice when you also sell in person, at a counter, a market stall or a pop-up, and want one inventory and one set of reports across online and offline sales. We connect Square Online or a custom storefront to your existing Square catalog.`,
+      `<strong>PayPal and wallets.</strong> PayPal is best added as an additional option rather than the only one; some customers trust it more than typing a card number into an unfamiliar store. Apple Pay and Google Pay are usually a setting away on Shopify and Stripe and noticeably shorten mobile checkout.`,
+      `<strong>Sales tax.</strong> Since the Supreme Court's 2018 decision in South Dakota v. Wayfair, states can require online sellers to collect sales tax once they pass that state's economic nexus threshold, even without a physical presence there. Rates and rules vary by state, county and city, a handful of states have no statewide sales tax, and some products are taxed differently from others. We treat all of this as configuration: Stripe Tax, Shopify Tax, TaxJar or Avalara set to collect in the states where you are registered, with tax shown on the cart, receipt and order email. Where you need to register, and how your products are classified, is a decision for you and your accountant. We do not give tax advice.`,
+      `<strong>Shipping and fulfillment.</strong> We set up rates by zone, weight or flat tiers, live carrier rates from USPS, UPS or FedEx where your plan supports them, free-shipping thresholds, local pickup, and label printing through Shopify Shipping, ShipStation or your 3PL. Order data can flow to your warehouse system, and tracking links reach the customer automatically.`,
+      `<strong>Marketing plumbing.</strong> Product feeds for Google Merchant Center, Meta catalog sync, Klaviyo or Mailchimp flows for abandoned carts and post-purchase emails, and server-side conversion tracking where it improves accuracy. Marketing sign-ups at checkout use an unticked box, and every marketing email carries an unsubscribe link, in line with CAN-SPAM.`,
+    ],
+  },
+  {
+    id: "seo-us",
+    heading: "SEO for Google in the United States: national, local and multilingual",
+    paragraphs: [
+      `US search is competitive and slow to move, which makes shortcuts expensive. Our approach is deliberately unglamorous: fix the technical foundation, build pages that genuinely answer what buyers search for, and earn relevance rather than buy it. Every site we build ships with clean URLs, unique titles and descriptions, structured data, an XML sitemap, sensible internal linking and fast mobile pages that pass Core Web Vitals.`,
+      `<strong>National SEO.</strong> A business that sells across the country, such as a SaaS product, an online store or a B2B supplier, should not create a page for every city just because it can. Those pages end up thin and compete with each other. National sites do better with strong category, product and use-case pages, honest comparison and pricing content, and articles that earn links because they are useful. For B2B and SaaS, that often means pages for each integration, industry and job to be done.`,
+      `<strong>Local SEO.</strong> A business with a physical location or service area wins or loses in the map results. That means a fully completed Google Business Profile, owned and verified by you, with the most specific primary category, accurate hours, services and real photographs; consistent name, address and phone across the directories that feed local results, such as Apple Business Connect, Bing Places, Yelp, the BBB and industry-specific listings; LocalBusiness schema; review requests built into your follow-up process; and one location or service-area page per real market, each with details a visitor would actually find useful, such as neighborhoods covered, typical jobs, local permits or response times. We never create fake locations or buy reviews, which also protects you from profile suspensions.`,
+      `<strong>Spanish-language SEO.</strong> Tens of millions of people in the US speak Spanish at home, and in markets such as Miami, Houston, San Antonio, Los Angeles, Phoenix and much of the Southwest, a real Spanish section can reach customers competitors ignore. We build it as its own set of URLs with en-US and es-US hreflang pairs, translated titles, descriptions and structured data, and keyword research done in Spanish rather than translated from English, because people search differently in each language.`,
+      `<strong>Selling into Canada too.</strong> If you ship to Canada, we can add en-CA pages where prices, shipping or regulations genuinely differ, with hreflang that tells Google which version is meant for whom and an x-default fallback. If the pages would be nearly identical, we will usually recommend keeping one version rather than creating near-duplicates. See our <a href="/canada/">Canada page</a> for how we approach that market.`,
+      `<strong>AI search and answer engines.</strong> More US buyers now meet brands through AI Overviews in Google, ChatGPT search and Perplexity. The fundamentals that help there are the same ones that help classic SEO: clear, factual pages that answer specific questions, visible authorship and business details, structured data, and crawlable HTML rather than content hidden behind scripts. We build with that in mind and allow reputable AI crawlers unless you prefer otherwise.`,
+      `<strong>Reporting.</strong> Monthly SEO starts from ${P.seo} and comes with a report built on Search Console and analytics data: impressions, clicks, queries gaining ground, technical fixes made and what is planned next. If a month was flat, the report says so. More detail is on the <a href="/services/seo-services/">SEO services page</a>.`,
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "Compliance: ADA and WCAG, CCPA and state privacy laws, CAN-SPAM, TCPA and sales tax",
+    paragraphs: [
+      `This section describes how we build, not legal advice. We are engineers, not lawyers. We do not certify compliance with any law, and we recommend that your attorney reviews your policies and anything that depends on how a law applies to your business. What we can do is build the site so that review has very little left to fix.`,
+      `<strong>ADA and WCAG accessibility.</strong> US businesses receive a steady volume of website accessibility demand letters and lawsuits, most citing the Americans with Disabilities Act and pointing to WCAG as the practical yardstick. For state and local government websites, the Department of Justice adopted WCAG 2.1 AA as the technical standard under Title II in 2024, and many private organizations use the same benchmark. Our default practice follows WCAG 2.1 AA: semantic HTML with proper headings and landmarks, full keyboard navigation, visible focus states, contrast that clears the required ratios, labeled and described form fields, meaningful alt text, captions or transcripts where you supply video, and no information conveyed by color alone. We test key templates with automated tools, a keyboard and a screen reader before launch.`,
+      `We also avoid accessibility overlay widgets that promise instant compliance with a line of JavaScript. They have a poor record with real screen reader users and have not reliably prevented claims. Fixing the markup is slower and actually works. If accessibility is a priority, say so at scoping and we will add audit checkpoints to the schedule rather than testing only at the end.`,
+      `<strong>CCPA and CPRA in California.</strong> If your business meets the thresholds of the California Consumer Privacy Act, as amended by the CPRA, your site generally needs a notice at collection wherever personal information is gathered, a privacy policy describing your practices, and, if you sell or share personal information, including through some advertising and tracking tags, a "Do Not Sell or Share My Personal Information" link. California's regulations also expect businesses to treat a browser's Global Privacy Control signal as a valid opt-out. On the build side we load advertising and analytics tags through a consent layer, detect GPC and suppress the relevant tags when it is present, place notices beside forms, and set up a request route for access and deletion requests.`,
+      `<strong>Other state privacy laws.</strong> California is no longer alone. More than a dozen states, including Virginia, Colorado, Connecticut, Utah, Texas and Oregon, have passed comprehensive consumer privacy laws, each with its own thresholds, and more keep arriving. The practical pattern for websites is similar: say what you collect, offer a way to opt out of targeted advertising and data sales, and honor recognized opt-out signals where required. We build sites so these controls can be switched on per state or nationwide without a redesign.`,
+      `<strong>Health information.</strong> Clinics and health businesses need extra care. If a project touches protected health information under HIPAA, we will discuss hosting, vendors and business associate agreements with you, keep general web forms from collecting health details, and connect to your practice software rather than storing records ourselves. Your compliance lead should sign off; we do not certify HIPAA compliance.`,
+      `<strong>CAN-SPAM for marketing email.</strong> Newsletters and promotional email sent from the forms and automations we build should follow CAN-SPAM: accurate sender and subject lines, your valid physical postal address in each message, and a working unsubscribe that is honored promptly. We connect forms to platforms such as Mailchimp, Klaviyo or HubSpot that handle unsubscribes properly, and never add people to a marketing list from a contact form without a clear opt-in.`,
+      `<strong>TCPA and SMS.</strong> Text message marketing carries more risk in the US than email. The Telephone Consumer Protection Act and carrier rules generally require prior express written consent for marketing texts, and business texting over US carriers usually requires registering your brand and campaign. When a project includes SMS, we build a separate, unticked consent checkbox with clear wording, store when and how consent was given, and support STOP replies. Confirm your consent language with counsel before launch.`,
+      `<strong>Sales tax.</strong> As covered in the ecommerce section, we configure tax collection for the states you are registered in; your accountant decides where that is.`,
+    ],
+  },
+  {
+    id: "time-zones",
+    heading: "Time-zone overlap between the US and India",
+    paragraphs: [
+      `India Standard Time is UTC+5:30 and never changes its clocks. The United States spans six main time zones, and most of the country moves its clocks forward on the second Sunday in March and back on the first Sunday in November. So the gap between New York and India is 9 hours 30 minutes in summer and 10 hours 30 minutes in winter, and each zone further west adds an hour. Arizona (outside the Navajo Nation) and Hawaii do not observe daylight saving time, so their gap stays the same all year.`,
+      `We make this work with a fixed call window in your morning, which is our evening. East Coast clients usually meet between 8 and 11 a.m. Eastern; Central clients between 7 and 10 a.m.; Mountain and Pacific clients early in their morning. For Hawaii and Alaska we pick a late-afternoon slot on your side that falls early the next morning in India. The table below shows the usual windows. Outside them, everything runs in writing, and urgent production issues are handled through the escalation route agreed in your maintenance plan.`,
+      `A practical tip: book recurring calls in the calendar of whoever is in the US, and let the calendar handle daylight saving. Twice a year the IST end of the call moves by an hour, and that is our problem to absorb, not yours.`,
+    ],
+  },
+  {
+    id: "payments",
+    heading: "Paying from the US: USD invoices, Wise, wire and milestones",
+    paragraphs: [
+      `All international prices are set and invoiced in US dollars, so there is no currency guesswork on your side. Most US clients pay through Wise, which is usually the cheapest route and often lets you pay by an ordinary domestic bank transfer instead of an international wire. Wire transfer works for companies whose finance teams prefer it, and PayPal is available, though its fees are higher. If you would rather be invoiced in another currency, ask when you request the quote and we will confirm what is possible.`,
+      `Payments are tied to milestones, not paid in one lump sum. A typical split is a deposit to begin, a payment when the build reaches staging review, and the balance at launch and handover. Monthly SEO and maintenance are billed monthly and can be stopped with notice. Every payment gets an invoice with our business details for your records. US accountants often ask foreign contractors for a Form W-8BEN or W-8BEN-E rather than a W-9; tell us what yours needs and we will supply it. How you record payments to a contractor outside the US is a question for your accountant.`,
+      `Scope changes are quoted in writing and approved before they are built, so there is no surprise line item at the end. The <a href="/pricing/">pricing page</a>, <a href="/terms/">terms</a> and <a href="/refund-policy/">refund policy</a> spell out the commercial details.`,
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "How to hire an offshore web developer without regrets",
+    paragraphs: [
+      `Hiring a development team on another continent is normal now, and most of the horror stories come from the same few avoidable mistakes: no written scope, credentials held by the vendor, a sales team that disappears after signing, and nobody testing on a real phone before launch. A short checklist prevents almost all of them. Use it with anyone you are considering, including us.`,
+    ],
+    list: [
+      `<strong>Who exactly will build it?</strong> Ask for names and roles. If the person selling is not the person building, find out who is, and whether any part of the work is subcontracted to someone you have never spoken to.`,
+      `<strong>Can I see live work and test it?</strong> Open their live sites on your phone over cellular data and run them through Google PageSpeed Insights. Screenshots and mockups prove very little.`,
+      `<strong>When are you actually available?</strong> Ask for a specific recurring call window in your time zone and how quickly written messages are answered.`,
+      `<strong>What exactly is in the quote?</strong> Number of pages and templates, design revision rounds, who writes the content, what SEO setup includes, which integrations, what testing is done, and what is explicitly excluded.`,
+      `<strong>In whose name are the domain, hosting and payment accounts?</strong> The only acceptable answer is yours, from day one.`,
+      `<strong>How are payments staged?</strong> A fair structure ties each payment to something you can see, such as a staging review or a launch, rather than asking for everything upfront.`,
+      `<strong>What happens after launch?</strong> Who fixes bugs, how quickly, for how long, and what ongoing support costs.`,
+    ],
+    after: [
+      `<strong>Red flags worth walking away from:</strong> a guaranteed first-page ranking; a domain or hosting account registered in the developer's name; no written scope; full payment demanded upfront; pirated or "nulled" premium themes and plugins, which often carry malware; no staging link until launch day; reviews, client logos or awards that cannot be verified; a US address that turns out to be a virtual mailbox presented as an office; and a vendor who cannot explain why they chose a platform for your case.`,
+      `<strong>Ownership checklist before you sign:</strong> the scope lists every page and feature; you own the domain, hosting, source code, design files and content; paid licenses for themes, plugins, fonts and images are bought in your name or clearly transferred; the Git repository lives in your organization or is transferred at launch; admin credentials are handed over in writing and the vendor's access can be removed; and the agreement says what happens to your data and backups if you part ways.`,
+    ],
+  },
+  {
+    id: "cost-explained",
+    heading: "What a website costs for a US business, explained",
+    paragraphs: [
+      `Ask five US providers what a website costs and you will hear five very different numbers, because "website" covers everything from a five-page brochure to a marketplace. Price follows scope. Our figures are starting prices in US dollars for a clearly defined first version, and the final quote depends on your requirements. Here is what each starting price typically covers.`,
+    ],
+    list: [
+      `<strong>From ${P.site}, static website:</strong> a service business, practice or consultancy with a home page, service pages, about, contact and a gallery, up to 100 pages, using content you supply, with forms, basic SEO tags and a sitemap.`,
+      `<strong>From ${P.seoSite}, SEO website of 700+ pages:</strong> a structured site built around search intent, such as a home services company with many service and suburb combinations, or a catalog of product types, planned with keywords, schema and internal linking.`,
+      `<strong>From ${P.ai}, AI automation:</strong> one well-defined workflow, for example inbound leads from your site and ads qualified, routed into the CRM and followed up automatically, with a person approving anything customer-facing.`,
+      `<strong>From ${P.shop}, ecommerce store:</strong> product and category pages, cart, checkout, payment setup, sales tax configuration, order and inventory basics and performance tuning, for a catalog you supply in a structured sheet.`,
+      `<strong>From ${P.app}, custom web app:</strong> a focused first version of a portal, dashboard, booking tool or SaaS MVP with user accounts, roles, an admin panel and deployment.`,
+      `<strong>From ${P.seo}, SEO; from ${P.care}, maintenance:</strong> ongoing monthly work with reporting, after the five free months of maintenance.`,
+    ],
+    after: [
+      `What pushes a quote up: many unique page designs rather than reusable templates, content we write from scratch, product catalogs with complex variants, integrations with older software, a second language, strict accessibility audit requirements, and tight deadlines. What keeps it down: ready content and photography, one decision-maker, and a sensible first version that can grow later.`,
+      `Also budget for costs that go to third parties rather than to us: domain renewal, hosting, paid plugins or a Shopify plan, payment processing fees, email marketing and SMS platform fees, and any tax service subscription. We list expected running costs in the quote so nothing surprises you later. The full breakdown is on the <a href="/pricing/">pricing page</a>.`,
+    ],
+  },
+];
+
+// ---------- Regions (visible region-by-region coverage) ----------
+
+const regions = [
+  {
+    id: "northeast",
+    name: "Northeast and Mid-Atlantic",
+    intro: "The Northeast packs finance, law, healthcare, universities, biotech and media into a dense corridor from Boston to Washington, D.C. Search competition for professional services is among the toughest in the country, buyers read carefully, and credibility beats decoration. Everything here runs on Eastern time, which gives the cleanest overlap with our evening.",
+    states: [
+      { name: "New York", text: "New York City is one of the hardest local search markets anywhere. A law firm, dental practice or accountant in Manhattan competes with dozens of firms within a few blocks, and borough searches for Brooklyn or Queens behave almost like separate cities. Sites here need tightly written service or practice pages, clear credentials, fast mobile pages and a fully built Google Business Profile. Upstate, Buffalo, Rochester and Albany bring manufacturers, healthcare systems, universities and tourism businesses in the Finger Lakes and Adirondacks, where local SEO is far more winnable." },
+      { name: "New Jersey", text: "New Jersey combines pharmaceutical and life-science companies, logistics firms along the Turnpike corridor, and a large base of professional practices serving commuters to New York and Philadelphia. Newark, Jersey City and Princeton each behave as their own market. Many businesses here serve customers in two or three states, so location pages and consistent listings across state lines matter." },
+      { name: "Pennsylvania", text: "Philadelphia brings healthcare systems, universities, law and financial services; Pittsburgh has robotics, healthcare, universities and a strong manufacturing base; Harrisburg, Lancaster and Allentown add logistics, food producers and family businesses. Manufacturers here often need to turn old PDF catalogs into searchable product pages with request-for-quote forms." },
+      { name: "Massachusetts", text: "Boston and Cambridge concentrate hospitals, universities, biotech and research organizations, which produce sites with a lot of structured content: departments, programs, clinical services, publications and people. Information architecture, search and accessibility matter more than visual effects. Worcester and the suburbs add manufacturing and professional services." },
+      { name: "Connecticut, Rhode Island and northern New England", text: "Hartford is known for insurance, Stamford for finance and corporate offices, and New Haven for its university and health sector. Providence has design, education and healthcare. In Vermont, New Hampshire and Maine, the typical online businesses are tourism operators, craft producers, maple, seafood and outdoor brands that sell nationally from small towns, so a fast store and seasonal content ranked before the season starts are the priorities." },
+      { name: "Maryland, Delaware and Washington, D.C.", text: "The capital region runs on federal agencies, contractors, associations, think tanks and law firms, alongside Maryland's biotech corridor and Baltimore's healthcare and port economy. Sites here often act as a credibility check during procurement, so capability statements, accessible markup and clear security practices matter. Delaware hosts many corporate and financial services firms around Wilmington. Note that we do not hold a US entity, so we are not a fit where a contract requires one." },
+    ],
+  },
+  {
+    id: "southeast",
+    name: "Southeast",
+    intro: "The Southeast is one of the fastest-growing regions in the country, with booming metros in Florida, Georgia, the Carolinas and Tennessee. Home services, healthcare, real estate, hospitality and logistics dominate the enquiries we see, and in Florida a Spanish-language version is often a practical requirement. Most of the region is on Eastern time, with Alabama, Mississippi, Arkansas, Louisiana and parts of Tennessee, Kentucky and the Florida Panhandle on Central.",
+    states: [
+      { name: "Florida", text: "Florida sites often serve two audiences at once. In Miami and South Florida, English and Spanish versions are frequently both needed, built as separate pages with proper hreflang. Orlando and the coasts run on tourism, vacation rentals, restaurants and tour operators that need booking integrations, seasonal pricing and photography that does not slow the page. Tampa and Jacksonville add financial services, logistics and healthcare, and across the state real estate brokerages, clinics, med spas and senior services are common. Storm season also means contractors need landing pages they can switch on quickly." },
+      { name: "Georgia", text: "Atlanta is a major logistics and distribution hub, with freight, warehousing and supply chain businesses that need quoting tools, shipment tracking, carrier onboarding forms and customer portals more than brochure sites. The metro also has a large film and media sector and fast-growing service businesses in suburbs such as Marietta, Alpharetta and Decatur. Savannah adds port logistics and tourism." },
+      { name: "North and South Carolina", text: "Charlotte is a banking and financial services center, and Raleigh-Durham's Research Triangle brings software, life sciences and universities. Greenville and Spartanburg in South Carolina have automotive and advanced manufacturing suppliers; Charleston has tourism, hospitality and a growing tech scene. B2B suppliers here need capability pages and spec sheets; hospitality businesses need direct booking to reduce commission paid to booking platforms." },
+      { name: "Tennessee and Kentucky", text: "Nashville is known for healthcare management companies, music and entertainment, and a wave of new small businesses; Memphis for logistics; Knoxville and Chattanooga for manufacturing and outdoor tourism. Louisville and Lexington bring healthcare, logistics, bourbon and equine businesses. Parts of both states sit on Central time and parts on Eastern, which we account for when scheduling." },
+      { name: "Virginia and West Virginia", text: "Northern Virginia is dense with government contractors, data centers and technology firms, while Richmond has financial services and Virginia Beach tourism, defense and real estate. West Virginia's businesses are more often tourism, outdoor recreation, healthcare and local services that benefit from simple, fast sites and consistent listings." },
+      { name: "Alabama, Mississippi, Louisiana and Arkansas", text: "Huntsville has aerospace and defense suppliers, Birmingham healthcare and banking, and Mobile port and shipbuilding businesses. New Orleans runs on tourism, food and events; Baton Rouge on petrochemicals and government. Northwest Arkansas around Bentonville has a large community of retail suppliers and consumer brands, and Little Rock healthcare and services. Many businesses across these states are underserved online, which makes local SEO very winnable." },
+    ],
+  },
+  {
+    id: "midwest",
+    name: "Midwest",
+    intro: "The Midwest is the country's manufacturing, agriculture, insurance and logistics heartland, with a lot of family-owned B2B companies whose websites have not kept pace with their businesses. Buyers search for specific part types, materials and capabilities, so precise technical content outperforms broad marketing language. Most of the region is on Central time, with Ohio, Michigan and most of Indiana on Eastern.",
+    states: [
+      { name: "Illinois", text: "Chicago and its suburbs have a deep base of manufacturers, distributors, logistics firms, trading and financial businesses and professional services. Their websites are often old, with product information locked in PDFs. The work usually means turning a catalog into searchable product and category pages, adding request-for-quote and distributor-locator features, and connecting forms to the sales team's CRM. Naperville, Rockford, Peoria and Springfield add healthcare, manufacturing and agriculture businesses." },
+      { name: "Ohio", text: "Columbus has insurance, retail headquarters, logistics and a growing tech scene; Cleveland healthcare and manufacturing; Cincinnati consumer goods, financial services and logistics. Ohio's many mid-sized manufacturers need capability pages that procurement teams can scan quickly, with certifications, equipment lists and downloadable spec sheets." },
+      { name: "Michigan and Indiana", text: "Detroit and its suburbs are home to automotive manufacturers and a large supplier base, while Grand Rapids has furniture, healthcare and manufacturing and Ann Arbor research and software. Indianapolis brings life sciences, logistics and motorsport-related businesses; Fort Wayne and Evansville manufacturing and healthcare. Supplier sites need clear quality certifications and a fast route to a named contact." },
+      { name: "Wisconsin and Minnesota", text: "Milwaukee has manufacturing and brewing heritage, Madison government, universities and software, and much of Wisconsin food, dairy and paper businesses. Minneapolis and Saint Paul host medical device makers, retail headquarters, financial services and agribusiness, with Rochester anchored by healthcare. Direct-to-consumer food and outdoor brands from both states often need fast Shopify stores that ship nationally." },
+      { name: "Missouri, Iowa and Kansas", text: "Kansas City, which spans the Missouri and Kansas state line, has logistics, engineering, agriculture and a strong startup community, while St. Louis brings healthcare, bioscience and manufacturing. Des Moines is known for insurance and financial services, Cedar Rapids for food processing, and Wichita for aviation manufacturing and its suppliers. Businesses here often compete across a whole region rather than one city, so regional service pages work well." },
+      { name: "Nebraska and the Dakotas", text: "Omaha has insurance, financial services, transportation and agribusiness, and Lincoln government and universities. Fargo has a strong software and agriculture technology scene, Sioux Falls financial services and healthcare, and Bismarck and Rapid City energy, government and tourism near the Black Hills. Western parts of Nebraska and the Dakotas sit on Mountain time." },
+    ],
+  },
+  {
+    id: "southwest",
+    name: "Southwest",
+    intro: "The Southwest combines the enormous Texas economy with fast-growing Arizona, Nevada and New Mexico markets. Home services, energy, real estate, healthcare, hospitality and startups dominate, and Spanish-language content matters across much of the region. Texas and Oklahoma are mostly on Central time; Arizona and New Mexico on Mountain, with most of Arizona skipping daylight saving; Nevada on Pacific.",
+    states: [
+      { name: "Texas", text: "Texas is a strong home services market. Roofing, HVAC, plumbing, pest control, pool and solar companies across Dallas-Fort Worth, Houston and San Antonio live on local search, click-to-call and fast quote forms, and often need separate pages for the suburbs they actually serve. Houston adds energy, petrochemical and industrial suppliers and the Texas Medical Center's healthcare ecosystem, where sites work more like technical catalogs. Austin has a dense startup and software scene, so MVPs and SaaS marketing sites are common. San Antonio and El Paso bring healthcare, military-related suppliers and large bilingual audiences; El Paso runs on Mountain time. Texas also has its own comprehensive privacy law, which we account for in consent setup." },
+      { name: "Arizona", text: "Phoenix, Scottsdale, Mesa, Chandler and Tempe are growing quickly, with semiconductor and advanced manufacturing investment, real estate, healthcare, golf and hospitality, and home services that are busiest in the extreme summer heat. Tucson adds aerospace, universities and tourism. Because most of Arizona does not observe daylight saving time, our call window there shifts by an hour relative to Denver during the summer months." },
+      { name: "Nevada", text: "Las Vegas runs on hospitality, events, conventions and entertainment, with a large community of vendors, production companies and service businesses supporting them. Reno and the surrounding region have grown in logistics, data centers and manufacturing. Event and hospitality businesses need fast pages that handle traffic spikes, clear packages and direct booking." },
+      { name: "New Mexico", text: "Albuquerque has national-laboratory-related research, film production, healthcare and aerospace suppliers; Santa Fe is known for art galleries, tourism and hospitality; Las Cruces has agriculture and a university. Galleries and tourism businesses need photography-led sites that stay fast, and bilingual English and Spanish content is common." },
+      { name: "Oklahoma", text: "Oklahoma City and Tulsa bring energy, aviation and aerospace maintenance, healthcare and a growing base of small businesses. Energy service companies need capability and safety pages; local service businesses benefit from well-structured sites and consistent listings in markets that are often less saturated than Dallas or Houston." },
+    ],
+  },
+  {
+    id: "west",
+    name: "West Coast, Mountain West, Alaska and Hawaii",
+    intro: "The West includes the country's largest state economy in California, the technology centers of the Bay Area and Seattle, the fast-growing Mountain West, and two states that sit far from everything else. Clients here tend to be technically literate, and conversations move quickly to performance budgets, analytics and integrations. Pacific time gives us an early-morning overlap on your side, which works well once it is on the calendar.",
+    states: [
+      { name: "California", text: "In San Francisco, San Jose and the wider Bay Area, the common request is speed: a SaaS marketing site, documentation and a working MVP that a founder can put in front of users or investors without spending months on it. We build those so they can grow into a real product, with auth, Stripe billing and a sensible data model from day one. Los Angeles leans toward direct-to-consumer ecommerce, creative services, wellness and entertainment, where product photography, page speed and Shopify flexibility carry the site. San Diego adds biotech, defense-related firms and tourism, and Sacramento government and healthcare. Across California, CCPA and CPRA shape how forms, cookies and analytics are set up." },
+      { name: "Washington", text: "Seattle and Bellevue businesses tend to be comfortable with cloud services, and many already run on AWS or Azure. Requests often involve web applications, internal tools, data dashboards and stores with more complex inventory or subscription logic. Santosh's AWS and data work is useful here, whether that means a serverless backend, tidying an overgrown cloud bill or wiring analytics into a warehouse. Tacoma and Spokane add logistics, healthcare and manufacturing, and smaller outdoor and food brands across the state mostly want fast Shopify stores." },
+      { name: "Oregon", text: "Portland is home to many outdoor, athletic and apparel brands, a strong food and beverage scene, and design-minded small businesses that care about how a site feels as much as how it performs. The Hillsboro area hosts semiconductor manufacturing, while Bend and Eugene bring tourism, craft producers and outdoor businesses. Oregon also has its own consumer privacy law." },
+      { name: "Colorado and Utah", text: "Denver and Boulder combine outdoor and lifestyle brands, aerospace, cannabis-adjacent businesses where state law allows, real estate and software. Salt Lake City, Lehi and Provo, sometimes called Silicon Slopes, have a large software and SaaS community and many direct-sales and ecommerce companies. Both states have their own privacy laws, and both sit on Mountain time with daylight saving." },
+      { name: "Idaho, Montana and Wyoming", text: "Boise has grown quickly with technology, semiconductor and food-processing employers, and Coeur d'Alene tourism. Montana's Bozeman, Missoula and Billings bring outdoor recreation, ranching, real estate and a growing number of remote-first companies, and Wyoming's Jackson and Cheyenne tourism, energy and ranching. Seasonal tourism businesses need content and booking ranked before the season starts and light pages for visitors on rural connections." },
+      { name: "Alaska and Hawaii", text: "Anchorage, Fairbanks and Juneau businesses are mostly tourism operators, fisheries, aviation and local services, with highly seasonal demand and visitors planning months ahead. Honolulu and the neighbor islands run on tourism, hospitality, real estate and local retail, and Hawaii does not observe daylight saving time. For both we schedule calls in your late afternoon, which is early morning the next day in India." },
+    ],
+  },
+];
+
+// ---------- State table (all 50 states and DC) ----------
+
+const stateRows = [
+  ["Alabama", "Southeast", "Birmingham, Huntsville, Mobile, Montgomery", "Central"],
+  ["Alaska", "West", "Anchorage, Fairbanks, Juneau", "Alaska"],
+  ["Arizona", "Southwest", "Phoenix, Tucson, Scottsdale, Mesa", "Mountain, no DST (most of state)"],
+  ["Arkansas", "Southeast", "Little Rock, Fayetteville, Bentonville", "Central"],
+  ["California", "West", "Los Angeles, San Francisco, San Diego, San Jose, Sacramento", "Pacific"],
+  ["Colorado", "West", "Denver, Colorado Springs, Boulder, Fort Collins", "Mountain"],
+  ["Connecticut", "Northeast", "Hartford, Stamford, New Haven", "Eastern"],
+  ["Delaware", "Northeast", "Wilmington, Dover", "Eastern"],
+  ["District of Columbia", "Northeast", "Washington", "Eastern"],
+  ["Florida", "Southeast", "Miami, Tampa, Orlando, Jacksonville", "Eastern (western Panhandle Central)"],
+  ["Georgia", "Southeast", "Atlanta, Savannah, Augusta", "Eastern"],
+  ["Hawaii", "West", "Honolulu, Hilo", "Hawaii, no DST"],
+  ["Idaho", "West", "Boise, Coeur d'Alene", "Mountain (north Pacific)"],
+  ["Illinois", "Midwest", "Chicago, Naperville, Rockford, Springfield", "Central"],
+  ["Indiana", "Midwest", "Indianapolis, Fort Wayne, Evansville", "Eastern (some counties Central)"],
+  ["Iowa", "Midwest", "Des Moines, Cedar Rapids, Davenport", "Central"],
+  ["Kansas", "Midwest", "Wichita, Overland Park, Kansas City", "Central"],
+  ["Kentucky", "Southeast", "Louisville, Lexington", "Eastern and Central"],
+  ["Louisiana", "Southeast", "New Orleans, Baton Rouge, Shreveport", "Central"],
+  ["Maine", "Northeast", "Portland, Bangor", "Eastern"],
+  ["Maryland", "Northeast", "Baltimore, Bethesda, Annapolis", "Eastern"],
+  ["Massachusetts", "Northeast", "Boston, Cambridge, Worcester", "Eastern"],
+  ["Michigan", "Midwest", "Detroit, Grand Rapids, Ann Arbor", "Eastern"],
+  ["Minnesota", "Midwest", "Minneapolis, Saint Paul, Rochester", "Central"],
+  ["Mississippi", "Southeast", "Jackson, Gulfport", "Central"],
+  ["Missouri", "Midwest", "Kansas City, St. Louis, Springfield", "Central"],
+  ["Montana", "West", "Billings, Missoula, Bozeman", "Mountain"],
+  ["Nebraska", "Midwest", "Omaha, Lincoln", "Central (west Mountain)"],
+  ["Nevada", "Southwest", "Las Vegas, Henderson, Reno", "Pacific"],
+  ["New Hampshire", "Northeast", "Manchester, Nashua, Portsmouth", "Eastern"],
+  ["New Jersey", "Northeast", "Newark, Jersey City, Princeton", "Eastern"],
+  ["New Mexico", "Southwest", "Albuquerque, Santa Fe, Las Cruces", "Mountain"],
+  ["New York", "Northeast", "New York City, Buffalo, Rochester, Albany", "Eastern"],
+  ["North Carolina", "Southeast", "Charlotte, Raleigh, Durham", "Eastern"],
+  ["North Dakota", "Midwest", "Fargo, Bismarck", "Central (southwest Mountain)"],
+  ["Ohio", "Midwest", "Columbus, Cleveland, Cincinnati", "Eastern"],
+  ["Oklahoma", "Southwest", "Oklahoma City, Tulsa", "Central"],
+  ["Oregon", "West", "Portland, Eugene, Bend", "Pacific"],
+  ["Pennsylvania", "Northeast", "Philadelphia, Pittsburgh, Harrisburg", "Eastern"],
+  ["Rhode Island", "Northeast", "Providence", "Eastern"],
+  ["South Carolina", "Southeast", "Charleston, Columbia, Greenville", "Eastern"],
+  ["South Dakota", "Midwest", "Sioux Falls, Rapid City", "Central and Mountain"],
+  ["Tennessee", "Southeast", "Nashville, Memphis, Knoxville, Chattanooga", "Central and Eastern"],
+  ["Texas", "Southwest", "Houston, Dallas, Austin, San Antonio", "Central (El Paso Mountain)"],
+  ["Utah", "West", "Salt Lake City, Provo, Ogden", "Mountain"],
+  ["Vermont", "Northeast", "Burlington", "Eastern"],
+  ["Virginia", "Southeast", "Virginia Beach, Richmond, Arlington", "Eastern"],
+  ["Washington", "West", "Seattle, Spokane, Tacoma, Bellevue", "Pacific"],
+  ["West Virginia", "Southeast", "Charleston, Morgantown", "Eastern"],
+  ["Wisconsin", "Midwest", "Milwaukee, Madison, Green Bay", "Central"],
+  ["Wyoming", "West", "Cheyenne, Casper, Jackson", "Mountain"],
+];
+
+// Regions at a glance (cards, not links: we have no US city pages).
+const regionCards = [
+  { name: "Northeast & Mid-Atlantic", note: "Finance, law, healthcare, universities and biotech from Boston to D.C. Eastern time, best call overlap." },
+  { name: "Southeast", note: "Home services, real estate, hospitality and logistics; Spanish pages often needed in Florida." },
+  { name: "Midwest", note: "Manufacturers, distributors, insurers and agribusiness moving catalogs off PDFs." },
+  { name: "Southwest", note: "Texas home services and energy, Arizona growth, Las Vegas hospitality, bilingual audiences." },
+  { name: "West Coast & Mountain West", note: "SaaS MVPs, DTC ecommerce and cloud apps; early-morning Pacific calls." },
+  { name: "Alaska & Hawaii", note: "Seasonal tourism and local services; late-afternoon calls on your side." },
+];
+
+const siblingLinks = [
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "Canada", href: "/canada/" },
+  { name: "United Kingdom", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "UAE", href: "/uae/" },
+  { name: "India", href: "/india/" },
+];
+
+const guideToc = guide.map((g) => ({ id: g.id, heading: g.heading }));
+const regionToc = regions.map((r) => ({ id: `region-${r.id}`, heading: r.name }));
+
+// ---------- Structured data ----------
+
+const url = canonicalUrl(page.canonicalPath);
+const usa = { "@type": "Country", name: "United States" };
+const allStates = stateRows.map(([name]) => name);
+const topMetros = [
+  "New York City", "Los Angeles", "Chicago", "Houston", "Dallas", "Austin", "San Antonio", "Phoenix", "Philadelphia",
+  "San Diego", "San Jose", "San Francisco", "Seattle", "Denver", "Boston", "Washington", "Atlanta", "Miami",
+  "Tampa", "Orlando", "Charlotte", "Nashville", "Minneapolis", "Detroit", "Salt Lake City", "Las Vegas", "Portland",
+];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development for US businesses`,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${P.care} – ${P.app}+`,
+  currenciesAccepted: "USD",
+  paymentAccepted: "Wise, Bank wire, PayPal",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  knowsLanguage: ["en"],
+  areaServed: [
+    usa,
+    ...allStates.map((name) => ({ "@type": "State", name, containedInPlace: usa })),
+    ...topMetros.map((name) => ({ "@type": "City", name, containedInPlace: usa })),
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development, SEO and IT services for US businesses (starting prices)",
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
+      areaServed: usa,
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(usdPrice(plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: "USD",
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-US",
+  dateModified: updated,
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
-  <div class="it-location">
-    <div class="it-wrap">
-      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
 
-      <section class="it-hero">
-        <p class="it-eyebrow">United States</p>
-        <h1>{page.h1}</h1>
-        <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-contact-block">
-          <p class="it-contact-lead">Contact us and share your project idea</p>
-          <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
-          </div>
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="usa-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">United States · All 50 states</p>
+        <h1 id="usa-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
         </div>
-      </section>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Remote delivery to the US &middot; No US office
+        </p>
+      </div>
 
-      <section class="it-section" aria-labelledby="who-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="who-heading">Who you are actually hiring</h2>
-            <p>BtechWaleTech is a small freelance group of three engineers based in India. Ankur Kumar handles full stack development, Santosh Sharma works on AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management alongside data science and automation work. That is the entire team. When you send a message, one of us reads it and replies, and the person who replies is the person who writes your code. There is no sales layer, no account manager passing notes to a delivery pod you never meet, and no junior developer quietly assigned to your build after the pitch call ends.</p>
-            <p>We have no office in the United States, no US entity, and no local branch. We say that up front because plenty of offshore vendors imply otherwise with a rented mailbox address in Delaware. We work with businesses across the US remotely, over email, calls and written updates, and we have found that being honest about the arrangement removes more friction than it creates. You can read more <a href="/about/">about how we work</a> before you commit to anything.</p>
-          </article>
-          <article>
-            <h3>What we build</h3>
-            <p>Marketing websites, ecommerce stores, custom web applications, internal dashboards, AI automation and search optimisation. Most US enquiries land in one of three buckets: a small business that needs a credible site and to be found locally, a founder who needs an MVP or a SaaS marketing site shipped quickly, or an established company that wants an outdated site rebuilt without paying agency rates for the privilege.</p>
-            <p>Everything runs end to end. Planning, design, development, SEO setup, hosting and deployment all sit with us, so you are not coordinating a designer in one place, a developer in another and a hosting company that answers nobody. Our full <a href="/services/">service list</a> covers the detail.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="cost-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="cost-heading">The cost advantage, explained honestly</h2>
-            <p>The gap is real and it is not a trick. Engineering salaries, rent and living costs in India are a fraction of what they are in San Francisco, Austin or Boston, so the same hours of skilled work cost dramatically less to produce. A thirty page SEO website taken from design to deployment starts from ₹10,000. A static marketing site starts from ₹5,000. Ecommerce starts from ₹25,000, custom web applications from ₹40,000, and AI automation from ₹15,000. Monthly SEO starts from ₹5,000 per month. Every one of those is a starting point, and the final number depends entirely on scope, page count, integrations and how much content you need written rather than supplied.</p>
-            <p>What that price buys is engineering time from people who have shipped this kind of work before, and a direct line to them. What it does not buy is equally worth stating. It does not buy a large account team, on-site workshops, someone photographing your storefront, or US legal and tax advice. It does not buy round the clock coverage from a rotating support desk. If your project genuinely needs a partner physically present in your city several times a month, hire locally. If it needs a site built well, launched properly and looked after, the distance costs you nothing.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="timezone-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="timezone-heading">How the time difference actually works</h2>
-            <p>India Standard Time sits about nine and a half hours ahead of Eastern Time and twelve and a half ahead of Pacific. That sounds awkward until you work with it deliberately. For East Coast clients we hold calls between 8am and 11am Eastern, which is late evening here and completely workable. For West Coast clients, an 8am Pacific call lands at 8:30pm in India. We do not ask you to take midnight meetings, and we do not pretend to be awake at 2am to look responsive.</p>
-            <p>The bigger benefit is the overnight cycle. You send feedback at the end of your working day, we work through our day, and a build with your changes applied is usually waiting when you get back to your desk. That rhythm suits projects with a lot of review iterations. It works because everything important is written down: decisions, questions, changes, blockers. Verbal-only agreements fall apart across a twelve hour gap, so we keep a written trail for everything that matters.</p>
-          </article>
-          <article>
-            <h3>Reporting and project management</h3>
-            <p>You get a written update at a fixed cadence, usually twice a week on longer builds and weekly on small ones. Each update covers what shipped, what is in progress, anything blocked and what we need from you. Blockers are flagged the day they appear, not saved for the next call.</p>
-            <p>Staging links go up early so you can click through real pages instead of imagining them from screenshots. On SEO retainers you get a monthly report tied to Search Console data, showing rankings, impressions, technical fixes made and what is planned next. If a month was slow, the report says so.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="contracts-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="contracts-heading">Contracts, payments and IP ownership</h2>
-            <p>Before any work starts you get a written scope covering deliverables, page count, timeline, milestones, revision rounds and price. That document is the contract as far as we are concerned. If scope changes mid-project, and it often does, we quote the change in writing and you approve it before we build it. Nobody gets a surprise line item at the end.</p>
-            <p>Payment is milestone based rather than a single upfront lump. A typical split is a deposit to begin, a payment when the build reaches staging review, and the balance on launch and handover. US clients most often pay by international wire or through Wise, which converts USD to INR at a fair rate with modest fees. PayPal works but carries a wider spread. We invoice in USD with proper documentation for your accountant. Our <a href="/pricing/">pricing page</a> and <a href="/refund-policy/">refund policy</a> spell out the commercial terms.</p>
-          </article>
-          <article>
-            <h3>Intellectual property</h3>
-            <p>You own everything on final payment. Source code, design files, copy, database structure, automation scripts. We transfer repository ownership, hosting access and DNS control directly to accounts in your name, not ours. No retained license, no hostage credentials.</p>
-            <p>We reuse our own generic patterns and helper code across projects, which is normal practice and keeps your build fast, but nothing specific to your business, brand or data is reused anywhere. The full terms sit in our <a href="/terms/">terms</a> and <a href="/privacy-policy/">privacy policy</a>.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="accessibility-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="accessibility-heading">Accessibility, ADA exposure and WCAG practice</h2>
-            <p>US businesses face a real volume of website accessibility demand letters and lawsuits, most of them citing the Americans with Disabilities Act and pointing at WCAG as the practical yardstick. We take that seriously without overpromising. Our default build practice follows WCAG 2.1 level AA: semantic HTML structure with proper headings and landmarks, full keyboard navigation, visible focus indicators, colour contrast that clears the required ratios, labelled and described form fields, alt text on images that carry meaning, captions or transcripts where you supply video, and no reliance on colour alone to convey information.</p>
-            <p>We also avoid the overlay widgets that promise instant compliance in a line of JavaScript. They have a poor record with actual screen reader users and have not reliably prevented claims. Fixing the markup is slower and works. What we will not do is issue a compliance certificate or tell you that you are legally safe, because we are engineers rather than attorneys and no honest developer can make that promise. If accessibility is a priority for you, say so at the scoping stage and we will build audit checkpoints into the schedule rather than testing once at the end.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="seo-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="seo-heading">SEO services for US companies</h2>
-            <p>Search in the US is competitive and slow to move, which makes shortcuts especially expensive. Our approach is unglamorous: fix the technical foundation, build pages that answer real questions, and earn relevance rather than buy it. Technical work covers crawlability, index control, page speed and Core Web Vitals, clean URL structure, internal linking, schema markup and clearing duplicate or thin pages. Content work means service pages, comparison pages and articles that match what people actually type, written by someone who understands the subject rather than spun from a template.</p>
-            <p>Local search gets its own track. That means a properly completed and categorised Google Business Profile, consistent name, address and phone data across the directories that feed the map pack, city and service area landing pages with genuinely different content rather than a find and replace, LocalBusiness schema, review generation prompts built into your follow-up, and Search Console plus Analytics configured so you can see what is working. Monthly SEO starts from ₹5,000 per month. Expect movement over three to six months, not three weeks, and expect us to tell you when a month underdelivered. More detail sits on our <a href="/services/seo-services/">SEO services page</a>.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="industries-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="industries-heading">Industries we commonly work with</h2>
-            <p>The US work that reaches us tends to cluster in a few places. Home services companies such as HVAC, roofing, plumbing and landscaping, where local search and a fast quote form drive most of the revenue. Professional services including law firms, accountants, consultants and clinics, where credibility and clear service pages matter more than visual flourish. Small ecommerce brands moving off a rigid template onto something they can actually control. Early stage SaaS founders who need a marketing site, documentation and a working MVP without burning half a seed round on it.</p>
-            <p>We also take on internal tools: dashboards, booking systems, quoting calculators, inventory views and the kind of automation that replaces a spreadsheet three people are editing at once. AI automation from ₹15,000 typically covers document processing, lead qualification, support triage or reporting pipelines. Our <a href="/industries/">industries page</a> and <a href="/case-studies/">case studies</a> go into more depth on what we have built.</p>
-          </article>
-          <article>
-            <h3>What happens after launch</h3>
-            <p>Five months of maintenance are included free once hosting goes live. That covers content updates, bug fixes, security updates, backups, and uptime and speed checks. It exists because a site that nobody touches for six months quietly rots, and because we would rather fix small issues than hand you a broken site later.</p>
-            <p>After those five months, maintenance is from ₹2,000 per month if you want it to continue. Plenty of clients take over themselves, and that is fine. You hold every credential, so nothing depends on us staying involved.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="start-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="start-heading">How to start</h2>
-            <p>Email us with what you need, even roughly. A few sentences about your business, what the site or application has to do, any deadline you are working to, and a budget range if you have one. We reply with clarifying questions rather than a generic brochure. If we think your project is a poor fit for a remote team, or that you would be better served by an off the shelf platform, we will tell you and lose the sale.</p>
-            <p>From there we send a written scope with a fixed price and timeline. Once you approve it and the deposit clears, we start. Small sites often go from kickoff to launch in one to three weeks; larger ecommerce and application builds run four to twelve weeks depending on complexity and how quickly content and feedback arrive from your side. You can reach us through the <a href="/contact/">contact page</a> or by email and phone directly.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="related-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="related-heading">Related pages</h2>
-            <p>If you are comparing options or want to see how we handle other regions and services, these pages cover the rest of what we do.</p>
-            <ul class="it-list">
-              <li><a href="/services/web-development/">Web development services</a></li>
-              <li><a href="/services/seo-services/">SEO services</a></li>
-              <li><a href="/pricing/">Pricing and starting rates</a></li>
-              <li><a href="/portfolio/">Portfolio</a></li>
-              <li><a href="/case-studies/">Case studies</a></li>
-              <li><a href="/it-services/">IT services overview</a></li>
-              <li><a href="/india/">Working with businesses in India</a></li>
-              <li><a href="/uae/">Working with businesses in the UAE</a></li>
-              <li><a href="/australia/">Working with businesses in Australia</a></li>
-              <li><a href="/blog/">Blog and guides</a></li>
-              <li><a href="/about/">About the team</a></li>
-              <li><a href="/terms/">Terms of service</a></li>
-            </ul>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="faq-heading">
-        <div class="it-section-head">
-          <h2 id="faq-heading">Questions US clients ask us first</h2>
-          <p>Straight answers on cost, ownership, timezones and what happens after launch.</p>
-        </div>
-        <div class="it-faq">
-          {faqs.map((faq) => (
-            <details>
-              <summary>{faq.question}</summary>
-              <p>{faq.answer}</p>
-            </details>
+      <aside class="quote-card" aria-label="Starting prices in USD">
+        <p class="quote-kicker">US starting prices</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}{plan.unit ? <small> /mo</small> : null}</strong></li>
           ))}
-        </div>
-      </section>
-
-      <section class="it-section">
-        <div class="it-cta">
-          <h2>Tell us what you are trying to build</h2>
-          <p>End to end delivery from planning to hosting, five months of maintenance included free after launch, and full ownership of everything we build for you.</p>
-          <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
-          </div>
-          <div class="it-trust-links">
-            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
-          </div>
-        </div>
-      </section>
+        </ul>
+        <p class="quote-foot">All figures are starting prices in USD; your quote depends on requirements. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
     </div>
-  </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for US businesses in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking to hire web developers for a US business?</h2>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automations for US businesses, working remotely. Websites start from {P.site}, ecommerce from {P.shop} and custom web apps from {P.app}. Every price is a starting price in USD, calls happen in your morning, and the first five months of maintenance after launch are free.</p>
+        <p class="answer-more">The US is not one market. A roofing company in Dallas, a law firm in Manhattan and a SaaS founder in San Francisco need very different things from a website, and they sit up to six time zones apart. This page covers what we build, what it costs, how the time difference works, what US compliance topics we build around, and what businesses in each region typically need.</p>
+        <p class="updated">Last updated <time datetime={updated}>September 21, 2026</time></p>
+      </div>
+      <table class="snapshot">
+        <caption>BtechWaleTech for US clients at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for US businesses</p>
+        <h2 id="services-heading">Everything your US business needs online, from one team</h2>
+        <p class="section-note">Planning, design, development, SEO setup, hosting and deployment are handled end to end, so you are not coordinating a designer, a developer and an SEO consultant who each blame the other two.</p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">US agency vs freelancer vs BtechWaleTech</h2>
+        <p class="section-note">A fair comparison of typical trade-offs, not a judgment on any particular firm. Good agencies and good freelancers exist; this is about how the models usually work.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a local US agency, a freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Local US agency</th>
+              <th scope="col" class="col-other hide-sm">Freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, freelancer, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other hide-sm">{freelancer}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">If you need in-person workshops, a US contracting entity or a large team on call around the clock, a local agency is the better choice, and we will say so.</p>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Web development cost for US businesses: starting prices in USD</h2>
+        <p class="section-note">Every figure below is a starting price. The final quote depends on your requirements: pages, content, payments, logins, integrations, languages and deadlines. You get an itemized quote before any work begins.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices in USD for BtechWaleTech services</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">All prices are starting points, not fixed quotes; the final cost depends on requirements. Invoiced in USD and paid by Wise, wire or PayPal; invoicing in another currency through Wise or wire is available on request. <a href="/pricing/">See full pricing</a>.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to hiring web developers for a US business">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guideToc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          {regionToc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          <li><a href="#states-heading">State-by-state table</a></li>
+          <li><a href="#zones-heading">Time-zone table</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#process-heading">Process and timelines</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {"list" in g && g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {"after" in g && g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+
+        {regions.map((r) => (
+          <article aria-labelledby={`region-${r.id}`}>
+            <h2 id={`region-${r.id}`}>{r.name}: what businesses need online</h2>
+            <p>{r.intro}</p>
+            {r.states.map((s) => (
+              <div class="state-block">
+                <h3>{s.name}</h3>
+                <p>{s.text}</p>
+              </div>
+            ))}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGIONS AT A GLANCE ===================== -->
+  <section class="locations" aria-labelledby="areas-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Areas we serve</p>
+        <h2 id="areas-heading">IT services, websites, SEO and AI automation across the US</h2>
+        <p class="section-note">Every region is served remotely from India. There are no US offices behind these cards, just the same team and process wherever you are.</p>
+      </div>
+      <ul class="area-grid">
+        {regionCards.map((c) => <li><h3>{c.name}</h3><p>{c.note}</p></li>)}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== STATE TABLE ===================== -->
+  <section class="industries" aria-labelledby="states-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">State by state</p>
+        <h2 id="states-heading">All 50 states and D.C.: main metros and time zones</h2>
+        <p class="section-note">Where each state sits in our regional grouping, its main metro areas and its time zone, which decides your call window with us.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">US states with region, main metros and time zone</caption>
+          <thead>
+            <tr><th scope="col">State</th><th scope="col" class="hide-sm">Region</th><th scope="col">Main metros</th><th scope="col">Time zone</th></tr>
+          </thead>
+          <tbody>
+            {stateRows.map(([state, region, metros, tz]) => (
+              <tr><th scope="row">{state}</th><td class="hide-sm">{region}</td><td>{metros}</td><td>{tz}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== TIME ZONES ===================== -->
+  <section class="pricing" aria-labelledby="zones-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Time zones</p>
+        <h2 id="zones-heading">Call windows for every US time zone</h2>
+        <p class="section-note">India does not change its clocks, so the gap moves by an hour when the US switches between daylight and standard time in March and November. The IST column assumes US daylight time.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Time difference and call windows between US time zones and India</caption>
+          <thead><tr><th scope="col">US time zone</th><th scope="col" class="hide-sm">India is ahead by</th><th scope="col">Call window (your time)</th><th scope="col">Same window in India</th></tr></thead>
+          <tbody>
+            {zones.map((z) => (
+              <tr><th scope="row">{z.zone}</th><td class="hide-sm">{z.gap}</td><td>{z.window}</td><td>{z.ist}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for US industries</h2>
+        <p class="section-note">Concrete website and SEO needs by sector. The <a href="/industries/">industries page</a> goes further.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Industry</th><th scope="col">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first message to a live site</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Timelines assume content and approvals arrive on time. Payments, sales tax rules, user accounts and accessibility audits add testing time to ecommerce and custom builds.</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Hiring web developers for a US business: questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other markets</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other countries</h2>
+      </div>
+      <div class="city-cloud">
+        {siblingLinks.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us what you want built, wherever you are in the US</h2>
+        <p class="closing-note">
+          Send a few lines about your business on WhatsApp or email. You get questions first, then a page plan, a timeline and an itemized quote in USD.
+          Nothing is billed until you approve it, and five months of maintenance are included after launch.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> ·
+          <a href="/india/">India</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .updated { margin-top: 1rem; font-size: 0.8rem; color: var(--slate-muted); }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p { margin-top: 1.1rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .area-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: var(--hairline); border: 1px solid var(--hairline); }
+  .area-grid li { padding: 1.4rem; background: var(--paper); }
+  .area-grid h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.4rem; }
+  .area-grid p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .area-grid { grid-template-columns: 1fr 1fr; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .area-grid, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+    .quote-rows li { flex-wrap: wrap; gap: 0.25rem 1rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.75rem, 7.5vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

@@ -1,0 +1,68 @@
+/* Tables for the international country pages (/usa/, /uk/, /canada/, /australia/, /uae/, /countries/).
+   Builds on it-services.css tokens. */
+.ct-wrap {
+  overflow-x: auto;
+  border: 1px solid rgba(22, 36, 46, 0.1);
+  border-radius: 1rem;
+  background: #ffffff;
+}
+
+.ct-table {
+  width: 100%;
+  min-width: 36rem;
+  border-collapse: collapse;
+  font-size: 0.95rem;
+  line-height: 1.55;
+}
+
+.ct-table th,
+.ct-table td {
+  padding: 0.85rem 1.1rem;
+  border-bottom: 1px solid rgba(22, 36, 46, 0.08);
+  color: #4f5f66;
+  text-align: left;
+  vertical-align: top;
+}
+
+.ct-table thead th {
+  color: #16242e;
+  background: rgba(18, 144, 124, 0.07);
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.ct-table tbody th {
+  color: #16242e;
+  font-weight: 700;
+}
+
+.ct-table tbody tr:last-child > * {
+  border-bottom: 0;
+}
+
+.ct-table a {
+  color: #12907c;
+  font-weight: 700;
+}
+
+.ct-price strong {
+  display: block;
+  color: #12907c;
+  white-space: nowrap;
+}
+
+.ct-price span {
+  color: #5c6a70;
+  font-size: 0.85rem;
+  white-space: nowrap;
+}
+
+.ct-note {
+  max-width: 52rem;
+  margin: 1rem 0 0;
+  color: #5c6a70;
+  font-size: 0.92rem;
+  line-height: 1.7;
+}

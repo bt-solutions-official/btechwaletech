@@ -1,0 +1,1148 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { usd } from "@data/countries/international";
+
+const path = "/uk/";
+const url = canonicalUrl(path);
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a UK web development company?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India, and we work with UK businesses remotely. There is no UK office, no UK registered address and no local staff behind this page. You deal directly with the engineers who build your site, over email, WhatsApp, Google Meet, Zoom or Microsoft Teams.",
+  },
+  {
+    question: "How much does a website cost for a UK business?",
+    answer: `Our starting prices for UK clients are set in US dollars: a static website of up to 100 pages starts from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")}. These are starting prices; the final quote depends on your requirements.`,
+  },
+  {
+    question: "Can you invoice in pounds sterling?",
+    answer: "Yes. Quotes are in USD by default, and we can invoice in GBP on request at the rate agreed on the day of the quote. Most UK clients pay through Wise, which accepts an ordinary UK bank transfer to a local account at low cost. International wire transfer also works. Payment is split into milestones rather than taken in full upfront.",
+  },
+  {
+    question: "Do your invoices include UK VAT?",
+    answer: "No. We are not UK VAT registered and our invoices do not carry UK VAT. If your business is VAT registered, buying services from a supplier outside the UK usually falls under the reverse charge, which your accountant accounts for in your VAT return. Please confirm the treatment for your business with your accountant.",
+  },
+  {
+    question: "What hours can we reach you from the UK?",
+    answer: "India is five and a half hours ahead of the UK during GMT and four and a half hours ahead during British Summer Time. We are available from 9am to 9pm India time, which covers roughly 3:30am to 3:30pm in a UK winter and 4:30am to 4:30pm in a UK summer. Calls between 9am and about 3pm UK time are easy to book all year.",
+  },
+  {
+    question: "Will my website handle UK GDPR and cookie consent properly?",
+    answer: "We build with UK GDPR and PECR in mind: non-essential cookies and tracking scripts stay off until a visitor agrees, rejecting is as easy as accepting, forms collect only the fields you need, and there is a clear privacy notice page. We are engineers, not lawyers, so your privacy policy wording should be checked by a qualified adviser.",
+  },
+  {
+    question: "Can you build a Shopify store that takes Stripe, PayPal and Klarna?",
+    answer: "Yes. For most UK product businesses we recommend Shopify with Shopify Payments, which runs on Stripe, plus PayPal and Klarna where they suit your customers. For custom builds we integrate Stripe directly, including Apple Pay and Google Pay. Card details are handled by the payment provider and never stored on your own server.",
+  },
+  {
+    question: "Do you write in British English?",
+    answer: "Yes. Everything is written and checked in British English: colour, optimise, enquiry, organisation, prices with the pound sign, UK date formats and phone numbers in the format your customers dial. American spellings on a UK site look careless to buyers and we treat them as bugs.",
+  },
+  {
+    question: "Can you do SEO for google.co.uk and local searches?",
+    answer: "Yes. We research what UK buyers actually type, including town, borough and county modifiers, build pages that answer those searches, add structured data and set up Google Search Console for the UK market. For service-area businesses we guide you through Google Business Profile, which you must own and verify yourself. We do not guarantee rankings; nobody can.",
+  },
+  {
+    question: "Do you build bilingual English and Welsh websites?",
+    answer: "Yes, on the technical side. We build the language switcher, separate URLs, hreflang tags for en-GB and cy-GB and a CMS where each language can be edited. We do not write Welsh ourselves, so the Welsh text should come from a qualified translator or a Welsh-speaking member of your team.",
+  },
+  {
+    question: "Can you sell into the Republic of Ireland and the EU from a UK site?",
+    answer: "Yes. We can add euro pricing, an en-IE version of key pages with its own hreflang, and shipping rules for Ireland and the EU. Customs, duties and VAT on goods moving from Great Britain to the EU are a business and tax question, so your accountant or customs adviser should confirm the approach before we build the checkout rules.",
+  },
+  {
+    question: "Is our website required to meet accessibility standards?",
+    answer: "Public sector bodies in the UK have specific accessibility regulations. Private businesses have duties under the Equality Act 2010 not to put disabled customers at a disadvantage, and WCAG 2.2 level AA is the practical benchmark. We build to that benchmark by default. It is not a legal certificate, and we are engineers, not lawyers.",
+  },
+  {
+    question: "What company details must a UK business show on its website?",
+    answer: "A UK limited company is generally expected to show its registered name, company number, the part of the UK it is registered in and its registered office address, and a VAT-registered business should show its VAT number. Sole traders and partnerships have their own rules. We build a footer and legal page structure for whichever applies, and your accountant or solicitor confirms the details.",
+  },
+  {
+    question: "How long does a UK website project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. The biggest factor is how quickly content, photos and feedback arrive from your side.",
+  },
+  {
+    question: "Who owns the website, domain and code?",
+    answer: "You do. Your .co.uk or .uk domain is registered in your name, hosting runs on an account you control, and on final payment we hand over the source code, design files and every login. We keep no licence over your build and no credentials you cannot change.",
+  },
+  {
+    question: "Where will our website be hosted?",
+    answer: "Wherever suits your site and your data. Static sites are usually served from a global CDN with an edge location in London. For applications that store personal data we can deploy to UK or EU cloud regions, such as the AWS London region, and we document which providers process which data so your own records stay accurate.",
+  },
+  {
+    question: "What happens after launch?",
+    answer: `Five months of maintenance are included free once the site is live: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance starts from ${usd("Maintenance")} if you want us to carry on, or you can take the site to any developer with every credential in hand.`,
+  },
+  {
+    question: "Can you work as a white-label development partner for a UK agency?",
+    answer: "Yes. Some UK design and marketing agencies need reliable development capacity behind their own client work. We can build to your designs, follow your coding standards and communicate through your project tools. We do not contact your clients directly unless you ask us to, and the scope, price and handover are agreed in writing.",
+  },
+  {
+    question: "Can we meet in person?",
+    answer: "Not usually. We are a remote team in India and we do not travel for routine projects. Everything runs through video calls, written scope documents, a shared task list and a private staging link you can open at any time, which in practice gives you more visibility than an occasional office meeting would.",
+  },
+  {
+    question: "How do we get started?",
+    answer: "Send a WhatsApp message or email with what your business does, what you want built, any sites you like and your deadline. We reply with questions, then a written scope, timeline and itemised quote in USD or GBP. Work starts only after you approve the scope and pay the first milestone.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company UK | Website Design & SEO",
+  description: `Web developers for UK businesses: websites, ecommerce, SEO for google.co.uk and custom software. Remote team in India, from ${usd("Static")}, GBP invoices.`,
+  canonicalPath: path,
+  h1: "Web development company for UK businesses, working remotely from India",
+  intro: `BtechWaleTech is a small team of engineers based in India. We design and build websites, ecommerce stores, web apps, SEO systems and AI automation for businesses across England, Scotland, Wales and Northern Ireland, entirely remotely. Websites start from ${usd("Static")}, the UK morning sits inside our working day, and you talk directly to the people who write your code.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "United Kingdom", href: path },
+  ]),
+  locale: "en_GB",
+  ogImage: { url: "/banner_logo.png", alt: "BtechWaleTech, an India-based team building websites, ecommerce and SEO for UK businesses", width: 1536, height: 1024 },
+  keywords: [
+    "web development company UK",
+    "website development company UK",
+    "web developers UK",
+    "website design UK",
+    "web design company UK",
+    "SEO services UK",
+    "SEO company UK",
+    "ecommerce website development UK",
+    "Shopify developer UK",
+    "custom software development UK",
+    "web app development UK",
+    "AI automation UK",
+    "website maintenance UK",
+    "affordable web design UK",
+    "small business website UK",
+    "offshore web developers for UK businesses",
+    "outsource web development UK",
+    "UK GDPR compliant website",
+    "web design England",
+    "web design Scotland",
+    "web design Wales",
+    "web design Northern Ireland",
+    "web design South East England",
+    "web developers Midlands",
+    "web design North West",
+    "web design Yorkshire",
+    "web design North East England",
+    "web design London",
+    "web developers Manchester",
+    "web design Birmingham",
+    "web developers Leeds",
+    "web design Bristol",
+    "web design Glasgow",
+    "web developers Edinburgh",
+    "web design Cardiff",
+    "web design Belfast",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote only"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Invoicing", "USD, or GBP on request"],
+  ["Payments", "Wise or international wire"],
+  ["UK overlap", "UK 9am to about 3pm, all year"],
+  ["After launch", "5 months of maintenance free"],
+];
+
+const pills = ["Business websites", "Shopify & Stripe stores", "SEO for google.co.uk", "UK GDPR-minded builds", "Custom web apps", "AI automation"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "4.5–5.5h", label: "Time difference, UK to India" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers in India: full stack development, AI and cloud, project delivery" },
+  { label: "Where we work", value: "Remotely from India. No UK office, address or local staff" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Payments we set up", value: "Stripe, Shopify Payments, PayPal, Klarna, Apple Pay and Google Pay" },
+  { label: "Search focus", value: "google.co.uk, en-GB hreflang, local and national UK search" },
+  { label: "Starting prices", value: `From ${usd("Static")} for a website; every figure is a starting price` },
+  { label: "Invoicing", value: "USD by default, GBP on request, via Wise or wire, in milestones" },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Fast, accessible business websites on Astro, Next.js or WordPress, written in British English and built for UK mobile users.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO for google.co.uk", note: "Technical SEO, content and local search for UK towns and regions, with en-GB hreflang and Search Console reporting.", href: "/services/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with Stripe, PayPal and Klarna, UK VAT display and Royal Mail or courier rates.", size: "sm" },
+  { name: "Custom software", note: "Client portals, booking and quoting tools, dashboards and admin panels built around your workflow.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Browser-based apps that install to the home screen without an app store review cycle.", size: "sm" },
+  { name: "AI automation", note: "Enquiry triage, document extraction and assistants grounded in your own content, scoped against hours saved.", size: "sm" },
+  { name: "Agency white-label", note: "Development capacity behind UK design and marketing agencies, built to your designs and standards.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Higher, reflects UK salaries and office costs", "Varies widely, scope often vague", `From ${usd("Static")} for a website, itemised quote`],
+  ["Who does the work", "Often a team behind an account manager", "One person, sometimes subcontracted", "The three engineers you talk to"],
+  ["Meeting in person", "Easy if they are nearby", "Rarely", "Not offered: video calls and a staging link"],
+  ["Time zone", "Same as yours", "Anywhere in the world", "UK morning and early afternoon overlap"],
+  ["Written scope", "Usually, after discovery meetings", "Often a short platform brief", "Always, before any payment is due"],
+  ["SEO and schema", "Often a separate package", "Frequently skipped", "Titles, schema and sitemap in every build"],
+  ["After launch", "Paid support contract", "Hard to reach once paid", "5 months of maintenance free"],
+  ["Ownership", "Varies by contract", "Sometimes held back", "Domain, hosting and code handed to you"],
+];
+
+// ---------- Process and timelines ----------
+
+const process = [
+  ["Talk", "A short call or WhatsApp chat in your working hours about your business, customers, competitors and budget. No charge."],
+  ["Scope & quote", "Pages, features, integrations, timeline and an itemised quote in USD or GBP, in writing, so both sides agree what is being built."],
+  ["Design", "Sitemap and wireframes first, then visual design for the key pages, reviewed on your own phone and laptop."],
+  ["Build on staging", "The site is built on a private staging link you can open at any time. Feedback sent in your afternoon is often applied by your next morning."],
+  ["Test & SEO", "Titles, schema, sitemap, redirects, cookie consent, accessibility checks, forms and payments tested end to end."],
+  ["Launch & support", "Domain connected, Search Console set up, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Region table ----------
+
+const regionRows = [
+  { region: "London", cities: "City of London, Westminster, Camden, Hackney, Croydon", focus: "Finance, fintech, law, creative agencies, property, hospitality", build: "Borough-level service pages, fast sites for crowded search results, secure client portals" },
+  { region: "South East & East", cities: "Reading, Oxford, Brighton, Southampton, Cambridge, Milton Keynes", focus: "Tech, life sciences, universities, ports, logistics, tourism", build: "Spin-out and B2B sites, recruitment pages, logistics quote tools" },
+  { region: "South West", cities: "Bristol, Bath, Exeter, Plymouth, Truro", focus: "Aerospace, creative media, tourism, food and drink producers", build: "Holiday-let booking sites, producer shops, engineering capability pages" },
+  { region: "Midlands", cities: "Birmingham, Coventry, Nottingham, Leicester, Derby, Stoke-on-Trent", focus: "Manufacturing, automotive, logistics, jewellery, ceramics, textiles", build: "Product catalogues with specifications, RFQ forms, trade ordering portals" },
+  { region: "North West", cities: "Manchester, Salford, Liverpool, Chester, Preston", focus: "Digital and media, professional services, tourism, manufacturing", build: "Agency white-label builds, event and venue sites, service-area SEO" },
+  { region: "Yorkshire & the Humber", cities: "Leeds, Sheffield, York, Hull, Bradford, Harrogate", focus: "Finance, legal, health, advanced manufacturing, offshore energy, tourism", build: "Firm and practice sites, supplier pages, visitor and events sites" },
+  { region: "North East", cities: "Newcastle, Gateshead, Sunderland, Middlesbrough, Durham", focus: "Automotive supply, chemicals, energy, digital, universities", build: "Supplier capability sites, training and course sites, local service SEO" },
+  { region: "Scotland", cities: "Edinburgh, Glasgow, Aberdeen, Dundee, Inverness", focus: "Finance, energy, games, whisky and food exports, tourism", build: "Export shops with Highlands shipping rules, festival-season content, energy supplier sites" },
+  { region: "Wales", cities: "Cardiff, Swansea, Newport, Wrexham, Bangor", focus: "Semiconductors, public services, tourism, creative industries", build: "Bilingual English and Welsh structure, visitor booking sites, B2B pages" },
+  { region: "Northern Ireland", cities: "Belfast, Derry~Londonderry, Newry, Lisburn", focus: "Cyber security, fintech, film, agri-food", build: "Sterling and euro pricing, en-GB and en-IE pages, all-island shipping rules" },
+];
+
+// ---------- Industries ----------
+
+const industries = [
+  { name: "Law firms and solicitors", need: "Practice areas, fee information where the SRA requires it, people profiles and a regulated-status badge", build: "Practice and service pages, the SRA digital badge placed correctly, price pages, secure enquiry forms" },
+  { name: "Accountants and financial advisers", need: "Services by client type, fixed-fee packages, credentials and plain answers to tax questions", build: "Service and sector pages, fee calculators, client onboarding forms, articles around tax year deadlines" },
+  { name: "Private clinics and healthcare", need: "Practitioner qualifications, treatments explained carefully, prices, availability and inspection rating where required", build: "Clinician profiles, treatment pages without outcome promises, online booking, CQC rating widget placement" },
+  { name: "Trades and home services", need: "Areas covered, proof of work, accreditations and a fast way to request a quote from a phone", build: "Service-area pages for real towns, photo galleries, quote forms with photo upload, Google Business Profile guidance" },
+  { name: "Retail and DTC brands", need: "Clear product data, delivery costs and dates, VAT-inclusive prices and simple returns", build: "Shopify or custom stores, Klarna and PayPal at checkout, Royal Mail and courier rates, product schema" },
+  { name: "Hospitality and tourism", need: "Real photos, availability, honest pricing and direct booking that avoids high marketplace commission", build: "Room, cottage and experience pages, booking integrations, seasonal content published before demand peaks" },
+  { name: "Property and estate agents", need: "Listings with the material information buyers and tenants expect, valuations and branch-free contact", build: "Listing pages fed from your property software, valuation request forms, area guides" },
+  { name: "Charities and community groups", need: "Mission, impact, donation routes and the registered charity details donors look for", build: "Donation pages, volunteer sign-ups, event listings and accessible layouts on a modest budget" },
+  { name: "Manufacturing and engineering", need: "Specifications, capabilities, certifications and a named contact for supplier approval", build: "Searchable catalogues, downloadable datasheets, RFQ forms that accept drawings" },
+  { name: "Startups and SaaS", need: "A marketing site the team can change weekly, pricing pages, documentation and reliable analytics", build: "Astro or Next.js with a headless CMS, docs, consent-aware analytics and often a first product version" },
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface GuideTable { caption: string; head: string[]; rows: string[][]; hide?: number[] }
+interface GuideBlock { name: string; places: string; text: string[] }
+interface GuideArticle { id: string; heading: string; paragraphs: string[]; list?: string[]; after?: string[]; table?: GuideTable; blocks?: GuideBlock[] }
+
+const guide: GuideArticle[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are and how remote delivery works for UK clients",
+    paragraphs: [
+      "BtechWaleTech is three engineers working from India. Ankur Kumar is a full stack developer who writes most of the front-end and application code. Santosh Sharma covers AI and machine learning, AWS, data science, technical SEO and deployment. Vedansh Shrivastava runs project management alongside data science, AI and automation work. When you send a question, one of us answers it, and the answer comes from the person doing the work rather than an account manager relaying it. More about the team is on the <a href=\"/about/\">about page</a>.",
+      "We want to be plain about what we are not. We do not have a UK office, a virtual address in London, a UK-registered company or any local staff, and this page does not pretend otherwise. We are not a large agency with a sales team. We are a small group of engineers who have organised our working day around clients in other time zones, and the UK is one of the easiest to work with because your morning is our afternoon.",
+      "Remote delivery changes less than most people expect. A website or web app is built in a code repository and reviewed on a staging link, not in a meeting room. What makes a remote project succeed is written clarity: a scope that lists what will and will not be built, a fixed update rhythm, decisions confirmed in writing, and a staging site you can open on your own phone whenever you like. We run every project that way, so you are never waiting for a meeting to find out where things stand.",
+      "Most UK enquiries that suit a team like ours fall into a few groups. Small firms and sole traders whose site was built on a page builder years ago, loads slowly and no longer describes what they sell. Growing businesses that need a proper store or a customer portal but cannot justify a London agency retainer. And UK design and marketing agencies that need dependable development capacity behind their own client relationships. If your project needs someone on site every week, or a supplier with UK professional indemnity insurance as a contract condition, a local agency is the better choice, and we will say so.",
+    ],
+  },
+  {
+    id: "services-uk",
+    heading: "Website, software and automation services for UK businesses",
+    paragraphs: [
+      "<strong>Web development.</strong> Business websites, landing pages and content sites built on Astro, Next.js or React, or on WordPress when your team wants to edit pages themselves in a familiar editor. For most service businesses we recommend a static site: it loads quickly on a train with patchy signal, costs very little to host and offers almost nothing for an attacker to break. The static plan covers up to 100 pages, responsive layouts, enquiry forms routed to email and WhatsApp, hosting, SSL and deployment. Details are on the <a href=\"/services/web-development/\">web development service page</a>.",
+      "<strong>Website design.</strong> Design starts from what a UK buyer checks before they contact anyone: what you do, where you work, what it roughly costs, whether you are properly registered and accredited, and how quickly they can reach you. We agree the page structure and wireframes before visual design, design the mobile layout first, and keep sliders, autoplay video and heavy animation off pages where they slow people down. Copy is written in British English, and we can work with your existing brand guidelines or propose a simple visual system if you do not have one.",
+      "<strong>Custom software and web apps.</strong> Client portals, booking systems, quoting tools, internal dashboards and admin panels built around the way your team already works: a job-sheet system for a trades business, a document portal for an accountancy practice, a stock and order dashboard for a small wholesaler. Many businesses that ask for a mobile app actually need a progressive web app that installs from the browser and updates without app store review. Custom web apps start from " + usd("Custom web app") + ".",
+      "<strong>AI automation.</strong> Automation starts from " + usd("AI automation") + " and suits work your team repeats every week: sorting enquiry emails, extracting data from invoices and delivery notes, drafting product descriptions for review, or answering routine customer questions from your own documentation. We map the current workflow first and scope the build against the hours it saves. If a task happens twice a month, we will tell you it is not worth automating.",
+      "<strong>Maintenance.</strong> Five months of maintenance are included free after launch: content updates, bug fixes, dependency and security updates, backups, and uptime and speed checks. After that, plans start from " + usd("Maintenance") + ", or you can contact us only when something needs changing. Nothing locks you in.",
+    ],
+  },
+  {
+    id: "ecommerce-uk",
+    heading: "Ecommerce for UK sellers: Shopify, Stripe, PayPal and Klarna",
+    paragraphs: [
+      "Ecommerce builds start from " + usd("Ecommerce") + ". The platform decision comes first. For most UK product businesses with a catalogue under a few thousand items, Shopify is the sensible default: hosting, security and card compliance are handled for you, and Shopify Payments, which runs on Stripe, takes cards, Apple Pay and Google Pay without a separate merchant account. WooCommerce suits businesses already invested in WordPress that want full control of their data. A custom build on Stripe makes sense when your pricing, product configuration or trade accounts do not fit a standard platform.",
+      "At checkout, UK shoppers expect the familiar options. Cards and digital wallets through Stripe or Shopify Payments cover most of them. PayPal is still a reassuring fallback for many buyers. Klarna and Clearpay let customers spread the cost; the provider carries the credit decision and supplies the wording and messaging it requires, and we place that messaging where the provider's rules say it should go. For trade customers we can add account pricing, invoice terms and minimum order quantities, and for subscriptions we use Stripe Billing or Shopify's subscription apps rather than building billing logic from scratch.",
+      "The UK-specific details are where generic templates tend to fall short:",
+    ],
+    list: [
+      "<strong>VAT display.</strong> Consumer prices shown including VAT, with trade prices shown excluding VAT where you sell to businesses, and VAT numbers captured for B2B orders.",
+      "<strong>Delivery rules.</strong> Royal Mail, Evri, DPD or Parcelforce rates at checkout, with separate rules for the Scottish Highlands and islands, the Isle of Man, the Channel Islands and Northern Ireland, where carriers often charge more or goods rules differ.",
+      "<strong>Returns and cancellations.</strong> Distance sales to consumers generally carry a cancellation period, so the returns page, the order confirmation email and the returns form need to be easy to find rather than buried in the terms.",
+      "<strong>Honest pricing and reviews.</strong> UK consumer law has tightened on hidden fees and fake reviews, so we build product pages that show the full price and connect only to genuine review sources.",
+      "<strong>Product data for Google.</strong> Product structured data and a Merchant Center feed so price and availability can appear in Google Shopping and free listings.",
+    ],
+    after: [
+      "We test the full purchase flow, including a real refund, before launch. Filters and collection pages are built so they do not generate thousands of thin, near-duplicate URLs that waste Google's attention, which is one of the most common SEO problems we see on UK stores that grew on a template.",
+    ],
+  },
+  {
+    id: "seo-uk",
+    heading: "SEO for google.co.uk: local, national and hreflang en-GB",
+    paragraphs: [
+      "UK searches are local and specific. People search for a service plus a town, a London borough, a county or sometimes a postcode area, and the results for an accountant in Leeds have almost nothing in common with the results for a national accountancy brand. Good UK SEO starts by deciding which of those games you are playing. A plumber in Salford needs service-area pages and a well-kept Google Business Profile. A software firm selling nationally needs strong product and comparison pages. A retailer needs category pages that match how people actually shop.",
+      "Every site we build ships with the technical groundwork: clean URLs, unique titles and descriptions written for UK queries, structured data describing your organisation and services, an XML sitemap, fast mobile pages and internal links that help both visitors and crawlers. We verify the site in Google Search Console and Bing Webmaster Tools, submit the sitemap and check indexing after launch. For local visibility we guide you through setting up or tidying your Google Business Profile, which must be owned and verified by you, and keep business details consistent across the UK directories that already list you.",
+      "Area pages are where many UK sites go wrong. Twenty pages that swap the town name in otherwise identical text are thin content, and Google treats them that way. We only build a page for a place when you genuinely serve it and have something specific to say: jobs you have done there, travel times, local regulations, prices that differ. One strong page often beats a dozen weak ones.",
+      "If you sell outside the UK, we set up hreflang annotations so Google shows the right version in each market: en-GB for the UK, en-IE for Ireland, en-US for the United States and cy-GB for Welsh pages. Each version needs its own URL, its own prices and its own spelling where it matters. A .co.uk or .uk domain is a clear UK signal; a .com with an /uk/ folder works well when you run several markets from one site.",
+      "Monthly SEO starts from " + usd("Monthly SEO") + " and covers technical fixes, new content on a schedule, internal linking, local listing work and a monthly report from Search Console data. In competitive UK markets, London above all, expect progress over months rather than weeks, and be wary of anyone who guarantees a position. More detail is on the <a href=\"/services/seo-services/\">SEO services page</a>.",
+    ],
+  },
+  {
+    id: "regions",
+    heading: "UK coverage, region by region",
+    paragraphs: [
+      "We work with businesses in every part of the UK, always remotely. The notes below are not a claim to local presence. They describe what businesses in each region commonly need online and the questions we ask early, because a holiday cottage in Cornwall, a tool maker in the Black Country and a fintech in Shoreditch start from very different places.",
+    ],
+    blocks: [
+      {
+        name: "London",
+        places: "City of London, Canary Wharf, Westminster, Shoreditch, Camden, Croydon",
+        text: [
+          "London is the most crowded search market in the country. Financial services cluster in the City and Canary Wharf, fintech and startups around Shoreditch and Old Street, law firms around Holborn and Chancery Lane, and creative, media and property businesses across every borough. For national phrases the competition is fierce and well funded, so smaller London businesses usually win by going narrow: a specific service in a specific borough, or a specialist offer that big firms do not bother to explain.",
+          "Buyers in London are often short of time and comparing several suppliers at once. Sites need to load quickly, answer the pricing question early and make contact easy from a phone. For finance and legal firms the credibility details matter: regulatory status, named people, clear fees where rules require them. Many London audiences are multilingual, so we can build language versions where the demand is real and the translated text comes from a qualified translator.",
+        ],
+      },
+      {
+        name: "South East and East of England",
+        places: "Reading, Oxford, Brighton, Southampton, Portsmouth, Cambridge, Milton Keynes, Kent",
+        text: [
+          "The Thames Valley around Reading and Slough is home to many technology and B2B firms that care about page speed, clean analytics and documentation. Oxford and Cambridge produce university spin-outs and life sciences companies that need credible sites for investors, recruits and partners, often with a careful line on what can be claimed about research. Brighton has a large digital and creative community, and Milton Keynes and the M1 corridor host logistics and distribution businesses that need quote tools and customer portals rather than brochures.",
+          "Along the coast, Southampton and Portsmouth bring port, marine and defence supply chains, while Kent, Sussex and the south coast have strong tourism, hospitality and food and drink producers. Commuter towns across the region are full of trades and professional services competing locally, where service-area pages and a well-maintained Google Business Profile do most of the work.",
+        ],
+      },
+      {
+        name: "South West",
+        places: "Bristol, Bath, Exeter, Plymouth, Cornwall, Devon, Dorset",
+        text: [
+          "Bristol combines aerospace engineering in the north of the city with one of the strongest creative and natural history filmmaking scenes in the country, and a busy startup community. Bath and the Cotswolds edge rely heavily on tourism, independent retail and professional services. Exeter and Plymouth bring universities, marine science and defence supply, while Cornwall, Devon and Dorset run on seasonal tourism, holiday lets and food and drink producers.",
+          "Seasonality shapes the work here. Holiday-let and attraction sites need their content refreshed and ranking before bookings start in winter and spring, and direct booking matters because marketplace commission is a large share of a small operator's margin. Producers selling cider, cheese, gin or seafood need shops with sensible delivery rules and clear information on perishable goods. Rural broadband and mobile coverage can be weak, so lightweight pages are a practical requirement, not a nicety.",
+        ],
+      },
+      {
+        name: "Midlands",
+        places: "Birmingham, Coventry, Wolverhampton, Nottingham, Leicester, Derby, Stoke-on-Trent",
+        text: [
+          "Birmingham is a major centre for professional services, retail and the historic Jewellery Quarter, surrounded by the Black Country's manufacturing and engineering firms. Coventry and Warwickshire have deep roots in automotive engineering, Derby in rail and aero engines, Stoke-on-Trent in ceramics, and Leicester in textiles and food manufacturing. The motorway network through the region makes it a centre for warehousing and logistics.",
+          "Much of the Midlands economy is B2B, and B2B buyers do not want a glossy brochure. They want specifications, tolerances, materials, certifications, capacity and a named contact who can answer a technical question. We build searchable product catalogues, downloadable datasheets, request-for-quote forms that accept drawings, and trade ordering portals for repeat customers. These sites rarely need to rank for huge national phrases; they need to be found for precise part and process terms and to convince a procurement team quickly.",
+        ],
+      },
+      {
+        name: "North West",
+        places: "Manchester, Salford, Liverpool, Chester, Preston, Lancaster",
+        text: [
+          "Manchester has one of the largest digital and tech communities outside London, and MediaCityUK in Salford anchors a big broadcast and media cluster. The city is also a centre for professional services, higher education and a crowded hospitality and events scene. Liverpool brings its port, a strong visitor economy built on music, football and culture, and a growing digital sector. Cheshire and Lancashire add manufacturing, chemicals, life sciences and many family-run firms.",
+          "The North West has a lot of design and marketing agencies, and some need extra development capacity without hiring. We can work white-label behind an agency, build to its designs and standards and stay out of client conversations unless invited. For local businesses, Greater Manchester's many towns, from Stockport to Bolton to Wigan, each have their own search patterns, so area pages have to reflect where you actually work.",
+        ],
+      },
+      {
+        name: "Yorkshire and the Humber",
+        places: "Leeds, Sheffield, York, Hull, Bradford, Harrogate",
+        text: [
+          "Leeds is one of the UK's largest financial and legal centres outside London, with a growing health and digital sector. Sheffield turned its steel heritage into advanced manufacturing and materials research, and its supply chains need detailed capability pages. York runs on tourism, heritage and rail, Harrogate on conferences and events, Bradford on textiles, food manufacturing and a large independent business community, and Hull on its port and the offshore wind industry.",
+          "Businesses here tend to value straight talking and fair prices, which suits the way we quote: itemised, with what is excluded written down. Event venues and visitor attractions need calendars that are easy to update. Manufacturers and energy suppliers need pages that pass a buyer's technical sniff test. Professional firms in Leeds compete hard on search, so their sites need depth on each practice area rather than a single services page.",
+        ],
+      },
+      {
+        name: "North East",
+        places: "Newcastle, Gateshead, Sunderland, Middlesbrough, Durham",
+        text: [
+          "The North East combines a large automotive manufacturing base around Sunderland and its supplier network, chemicals and process industries on Teesside, energy and offshore engineering, and a growing digital and software scene in Newcastle. Durham and Newcastle universities feed research and start-up activity, and the region has a strong base of training providers, colleges and public-facing organisations.",
+          "Many businesses here serve regional customers and compete with national providers who outspend them on advertising. A fast, well-structured site that ranks for local and trade searches can be one of the cheapest ways to hold ground. Suppliers to large manufacturers need clear quality accreditations and a straightforward way to request documents, and training providers need course pages with dates, funding notes and enrolment forms that are simple to keep current.",
+        ],
+      },
+      {
+        name: "Scotland",
+        places: "Edinburgh, Glasgow, Aberdeen, Dundee, Inverness, Stirling",
+        text: [
+          "Edinburgh is a major financial and investment centre and a tourist city whose population surges during the August festivals, so hospitality and events businesses need content live and ranking well before summer. Glasgow has a large professional services, retail, creative and engineering base. Aberdeen is the centre of the UK offshore energy industry and its move towards renewables. Dundee has a long history in video games, and Inverness is the gateway to the Highlands tourism economy. Whisky distilleries and food and drink producers sell to visitors and export markets from all over the country.",
+          "A few Scottish details affect the build. Scotland has its own legal system, so terms and conditions drafted for England and Wales should be checked by a Scottish solicitor if you sell to Scottish consumers. Couriers often apply surcharges for Highlands and Islands postcodes, which your checkout should show honestly rather than surprise customers with. Some organisations want Scottish Gaelic content or a .scot domain; we handle the technical side and you supply reviewed text.",
+        ],
+      },
+      {
+        name: "Wales",
+        places: "Cardiff, Swansea, Newport, Wrexham, Bangor, Aberystwyth",
+        text: [
+          "Cardiff is the capital and the centre of Welsh government, media and professional services, and South Wales around Newport has a compound semiconductor cluster. Swansea brings a university, marine and energy businesses and a busy visitor economy along the Gower. North and West Wales rely heavily on tourism, outdoor activities and farming, with Eryri and Pembrokeshire drawing visitors all year and especially in summer.",
+          "Language is the key Welsh consideration. Public bodies in Wales operate under Welsh Language Standards, and many private businesses choose to publish bilingually because their customers expect it. A good bilingual site gives each language its own URLs, uses hreflang for en-GB and cy-GB, lets visitors switch language on the same page and lets your team edit both versions easily. We build all of that; the Welsh text itself should come from a qualified translator or a Welsh-speaking member of your team.",
+        ],
+      },
+      {
+        name: "Northern Ireland",
+        places: "Belfast, Derry~Londonderry, Newry, Lisburn, Enniskillen",
+        text: [
+          "Belfast has become a notable centre for cyber security, software and fintech, alongside film and television production and a strong professional services base. Agri-food businesses are important across Northern Ireland, and many firms sell both into Great Britain and across the border into the Republic of Ireland.",
+          "That cross-border trade shapes the website. Businesses often need prices in both sterling and euros, en-GB and en-IE pages with correct hreflang, and delivery rules that reflect how goods move between Great Britain, Northern Ireland and the Republic under the Windsor Framework. Customs and VAT on goods are questions for your accountant, but once the rules are clear we build them into the checkout so customers see the right price and delivery option from the start.",
+        ],
+      },
+    ],
+  },
+  {
+    id: "compliance-uk",
+    heading: "UK GDPR, cookies, accessibility, company details and VAT",
+    paragraphs: [
+      "UK websites that handle personal data sit under UK GDPR and the Data Protection Act 2018, and cookies and similar tracking fall under the Privacy and Electronic Communications Regulations, usually called PECR. The Data (Use and Access) Act 2025 is changing parts of both in stages, including new exemptions for some low-risk analytics cookies, so check current Information Commissioner's Office guidance before relying on any of them. The practical build rule stays the same for now: advertising pixels and non-essential cookies should not load until a visitor actively agrees, and rejecting them should be as easy as accepting. We wire consent in from the start, holding scripts back until consent is given, rather than pasting a banner on top of a site that has already dropped every cookie.",
+      "Beyond cookies, we keep data collection deliberate. Contact and quote forms collect only the fields you need, submit over HTTPS to a destination you control, and are covered by a privacy notice that describes what actually happens to the data. Where enquiries flow into a CRM or email platform, we list which third parties receive what, which makes your own records easier to keep. Marketing emails need consent or a genuine existing-customer relationship under PECR, so sign-up forms get clear, unticked consent checkboxes.",
+      "<strong>Accessibility.</strong> Public sector bodies have specific accessibility regulations. Private businesses have duties under the Equality Act 2010 not to put disabled people at a substantial disadvantage, and WCAG 2.2 level AA is the practical benchmark most organisations use. We build to it by default: semantic structure, keyboard navigation, visible focus, sufficient colour contrast, labelled forms, captions where there is video and text alternatives for meaningful images. If you also sell to consumers in the EU, the European Accessibility Act may apply to parts of your service there.",
+      "<strong>Company details.</strong> UK limited companies are generally expected to show their registered name, company number, the part of the UK where they are registered and their registered office address on their website, and VAT-registered businesses should show their VAT number. Sole traders and partnerships have their own disclosure rules, and some professions add more: solicitors display the SRA digital badge, registered charities state their charity status, and CQC-registered care providers display their rating. We build a proper footer and legal page structure for whichever applies to you.",
+      "<strong>VAT.</strong> Your own prices to UK consumers should normally include VAT if you are registered. Our invoices come from India and do not include UK VAT; if your business is VAT registered, services bought from abroad usually fall under the reverse charge. Your accountant should confirm the treatment.",
+      "We are engineers, not lawyers, solicitors or data protection advisers. We will not write your privacy policy as legal advice, certify compliance or tell you that you are covered. What we do is build the site so that a qualified adviser has very little to fix, and apply the changes they recommend quickly.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Time zones: how the UK working day overlaps with India",
+    paragraphs: [
+      "India Standard Time is five and a half hours ahead of Greenwich Mean Time and four and a half hours ahead of British Summer Time. India does not change its clocks, so the gap narrows by an hour when the UK moves to summer time on the last Sunday in March and widens again on the last Sunday in October. We are available from 9am to 9pm India time, seven days a week on WhatsApp, which covers the whole UK morning and the first part of the afternoon in every season.",
+    ],
+    table: {
+      caption: "UK time and the matching time in India",
+      head: ["UK time", "India, UK winter (GMT)", "India, UK summer (BST)", "Good for"],
+      rows: [
+        ["9:00am", "2:30pm", "1:30pm", "Calls, reviews and decisions"],
+        ["11:00am", "4:30pm", "3:30pm", "Calls and screen-share walkthroughs"],
+        ["1:00pm", "6:30pm", "5:30pm", "Calls and quick questions"],
+        ["3:00pm", "8:30pm", "7:30pm", "Last call slot; messages answered same day"],
+        ["5:30pm", "11:00pm", "10:00pm", "Send feedback; it is picked up next morning India time"],
+      ],
+      hide: [3],
+    },
+    after: [
+      "In practice that gives a rhythm many UK clients like. You review the staging site and send feedback over lunch or in the afternoon; we apply it in our evening and the next morning; you see the changes when you start work. For an urgent production problem we pick up early in your morning, and we warn you in advance about Indian public holidays such as Diwali that affect the schedule.",
+    ],
+  },
+  {
+    id: "payments-uk",
+    heading: "Quotes, GBP invoicing and payment milestones",
+    paragraphs: [
+      "Before any work starts you get a written scope listing deliverables, page count, integrations, timeline, milestones, revision rounds and the quoted price, plus a clear list of what is not included. Changes during the project are quoted in writing and approved by you before we build them, so the final invoice matches what you agreed.",
+      "International prices are set in US dollars. If you prefer, we invoice in pounds sterling at the exchange rate agreed on the day of the quote, so a later currency movement does not change your price. Most UK clients pay through Wise, which lets you make an ordinary UK bank transfer to a local account at low cost; an international wire from your business bank also works. We do not ask for card payments over the phone or for payment to personal accounts.",
+      "Payment is split into milestones, typically a deposit to start, a payment when the staging site is ready for review and the balance at launch. For maintenance and monthly SEO we invoice monthly and you can stop with notice. The <a href=\"/pricing/\">pricing page</a>, <a href=\"/terms/\">terms</a> and <a href=\"/refund-policy/\">refund policy</a> set out the rest.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Buying guide: hiring an offshore web developer from the UK",
+    paragraphs: [
+      "Hiring a developer abroad can save a lot of money, and it can also go badly. Most failures come from vague scope, poor communication and missing handover rather than from the distance itself. Whether you choose us or someone else, these are the questions worth asking before you pay anything:",
+    ],
+    list: [
+      "<strong>Who exactly will do the work?</strong> Ask for names and profiles. A company that cannot tell you who will write the code may be reselling it.",
+      "<strong>Is the scope written down?</strong> A proper quote lists pages, features, integrations, revision rounds, timeline and exclusions. If it is one line, expect arguments later.",
+      "<strong>How are payments staged?</strong> Milestone payments tied to visible progress protect both sides. Be cautious about paying everything upfront.",
+      "<strong>Who owns the domain, hosting and code?</strong> The answer should be you, from day one for the domain and at final payment for the code.",
+      "<strong>When can you talk?</strong> Ask which UK hours they are available and how quickly they reply. A good overlap matters more than a promise of round-the-clock availability.",
+      "<strong>Can you see work in progress?</strong> A staging link you can open at any time is worth more than weekly screenshots.",
+      "<strong>What happens after launch?</strong> Ask how bugs are handled, what maintenance costs and whether you can leave with everything.",
+      "<strong>Do they understand UK expectations?</strong> British English, VAT display, cookie consent and company details are basic signs that a developer has thought about your market.",
+      "<strong>Are they honest about limits?</strong> Be wary of guaranteed first-page rankings, fake reviews or claims of offices that do not exist.",
+    ],
+    after: [
+      "You will notice that we answer each of these on this page. That is deliberate: if a remote supplier cannot answer them in writing before you sign, they will not get easier once the project is running.",
+    ],
+  },
+  {
+    id: "cost-uk",
+    heading: "What drives the cost of a UK website",
+    paragraphs: [
+      "Our starting prices are low compared with typical UK agency quotes for similar work, and the difference comes from our cost base in India rather than from cutting the deliverable. But a starting price is exactly that. The final quote depends on requirements, and it helps to know which requirements move it.",
+      "<strong>Pages and content.</strong> A ten-page service site with copy you supply is at the low end. Writing the copy, producing area pages with genuinely different content, or migrating hundreds of old posts adds time. Our 700+ page SEO website plan starts from " + usd("SEO website") + " because large sites are generated from structured data rather than written one page at a time, but the data and the quality checks still take work.",
+      "<strong>Features and integrations.</strong> Booking systems, customer logins, CRM integrations such as HubSpot or Salesforce, accounting links such as Xero or QuickBooks, and payment flows each add design, build and testing time. A store with a few simple products differs from one with variants, bundles, trade pricing and subscriptions.",
+      "<strong>Design depth.</strong> Working from your existing brand is quicker than creating one. Custom illustration, photography direction or animation are extras we will quote separately or suggest you source locally.",
+      "<strong>Running costs.</strong> Budget for the yearly domain renewal, hosting, any paid plugins or Shopify subscription, payment provider fees and email services. A static site is usually the cheapest to run. We list expected running costs in the quote so you are not surprised later.",
+      "When you compare quotes, compare what is included: hosting setup, SEO groundwork, cookie consent, accessibility checks, handover and aftercare. A cheaper quote that excludes these can end up costing more.",
+    ],
+  },
+  {
+    id: "redesign-uk",
+    heading: "Redesigning or moving an existing UK site without losing rankings",
+    paragraphs: [
+      "Plenty of UK businesses already have a website that ranks for something useful, even if it looks dated. The biggest risk in a redesign is throwing that away. Rankings usually drop after a relaunch for predictable reasons: URLs change without redirects, pages that earned links are deleted, titles are rewritten carelessly, or the new site is launched with a staging setting that tells search engines not to index it.",
+      "Before we touch the design, we export every URL that receives traffic or links from Search Console and analytics, and map each one to its new home. Where a URL has to change, it gets a permanent 301 redirect to the closest matching page, not a blanket redirect to the home page. Titles and body copy that rank are carried over or improved deliberately, and structured data is added rather than lost.",
+      "If you are leaving a website builder such as Wix or Squarespace, or a previous developer who controls your hosting, we also plan the handover of the domain, email records and any forms that feed your CRM, so nothing silently stops working on launch day. After launch we monitor Search Console for crawl errors and ranking changes, fix broken redirects quickly and report what moved.",
+    ],
+  },
+  {
+    id: "hosting-uk",
+    heading: "Domains, hosting and data location for UK sites",
+    paragraphs: [
+      "Your domain should be registered in your name, with the login in your hands. A .co.uk or .uk domain is the clearest signal to UK buyers and to Google that you serve the UK; a .com works well if you trade internationally, and many businesses register both and redirect one to the other so nobody else can take the name. We configure DNS, email records such as SPF, DKIM and DMARC so your emails are less likely to land in spam, and SSL on every domain.",
+      "Static sites are served from a global content delivery network with edge locations in London, so they load quickly across the UK. For applications that store personal data we can deploy to UK or EU cloud regions, for example the AWS London region, and document where data lives and which providers process it. If your sector has specific data residency rules, tell us at the start and we will design around them.",
+    ],
+  },
+];
+
+const tocItems = [
+  ...guide.map((g) => ({ id: g.id, heading: g.heading })),
+  { id: "region-table-heading", heading: "UK regions at a glance" },
+  { id: "industries-heading", heading: "Industries" },
+  { id: "process-heading", heading: "Process and timelines" },
+  { id: "faq-heading", heading: "FAQs" },
+];
+
+const related = [
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "India", href: "/india/" },
+  { name: "Netherlands", href: "/netherlands/" },
+  { name: "United States", href: "/usa/" },
+  { name: "Canada", href: "/canada/" },
+  { name: "Australia & New Zealand", href: "/australia/" },
+  { name: "UAE & Middle East", href: "/uae/" },
+];
+
+// ---------- Structured data ----------
+
+const uk = { "@type": "Country", name: "United Kingdom" };
+const nations = ["England", "Scotland", "Wales", "Northern Ireland"];
+const ukCities = ["London", "Birmingham", "Manchester", "Leeds", "Liverpool", "Bristol", "Sheffield", "Newcastle upon Tyne", "Nottingham", "Leicester", "Southampton", "Brighton", "Reading", "Glasgow", "Edinburgh", "Aberdeen", "Cardiff", "Swansea", "Belfast"];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development for UK businesses`,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${usd("Maintenance")} – ${usd("Custom web app")}+`,
+  currenciesAccepted: "USD, GBP",
+  paymentAccepted: "Bank transfer, Wise",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  knowsLanguage: ["en-GB", "en"],
+  areaServed: [
+    uk,
+    ...nations.map((name) => ({ "@type": "State", name, containedInPlace: uk })),
+    ...ukCities.map((name) => ({ "@type": "City", name, containedInPlace: uk })),
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development, SEO and IT services for UK businesses (starting prices)",
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
+      areaServed: uk,
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(usdPrice(plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: "USD",
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-GB",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">United Kingdom · Remote from India</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts for UK clients">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build for UK businesses">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Remote delivery to the UK &middot; No UK office
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label="Starting prices for UK clients">
+        <p class="quote-kicker">UK starting prices (USD)</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usd(plan.name)}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Starting prices; the final quote depends on your requirements. GBP invoices on request via Wise or wire. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my UK quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for UK clients in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking for a web development company for your UK business?</h2>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automation for UK businesses, working remotely. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}. Every price is a starting price, invoices can be in GBP, the UK morning overlaps our working day, and the first five months of maintenance after launch are free.</p>
+        <p class="answer-more">This page covers what we build for UK businesses, what it costs, how UK GDPR, cookies, VAT and company details affect a website, how the time difference works in practice, and what businesses in each part of England, Scotland, Wales and Northern Ireland typically need online. It also includes a buying guide for anyone weighing an offshore developer against a local agency.</p>
+      </div>
+      <table class="snapshot">
+        <caption>BtechWaleTech for UK clients at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for the UK market</p>
+        <h2 id="services-heading">Everything a UK business needs online, from one small team</h2>
+        <p class="section-note">Planning, design, development, SEO setup, hosting and deployment are handled end to end, so you are not coordinating a designer, a developer and an SEO consultant who each blame the other two. See <a href="/services/web-development/">web development</a>, <a href="/services/seo-services/">SEO services</a> and <a href="/pricing/">pricing</a>.</p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">UK agency, freelance marketplace or a remote team like ours</h2>
+        <p class="section-note">A fair comparison of typical trade-offs. Good UK agencies and good freelancers exist, and for some projects a local agency is the right call. This is about fit, not about any particular provider.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a UK agency, a freelance marketplace hire and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">UK agency</th>
+              <th scope="col" class="col-other hide-sm">Marketplace freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other hide-sm">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Website development cost for UK businesses: starting prices</h2>
+        <p class="section-note">Every figure below is a starting price in US dollars. The final quote depends on your requirements: pages, content, payments, logins, integrations and deadlines. GBP invoices are available on request via Wise or international wire, and you get an itemised quote before any work begins.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices in USD for UK clients</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Starting prices only; the final quote depends on requirements. Our invoices do not include UK VAT. Maintenance is free for the first 5 months after launch. <a href="/pricing/">See full pricing</a>.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to web development for UK businesses">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {tocItems.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={g.table?.hide?.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => i === 0 ? <th scope="row">{cell}</th> : <td class={g.table?.hide?.includes(i) ? "hide-sm" : undefined}>{cell}</td>)}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.blocks && g.blocks.map((b) => (
+              <div class="state-block">
+                <h3>{b.name}</h3>
+                <p class="block-places">{b.places}</p>
+                {b.text.map((t) => <p>{t}</p>)}
+              </div>
+            ))}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="region-table-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Region by region</p>
+        <h2 id="region-table-heading">UK regions at a glance</h2>
+        <p class="section-note">Main cities, the sectors that most often need websites and software there, and what we typically build. All served remotely from India.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">UK regions with main cities, common sectors and typical builds</caption>
+          <thead>
+            <tr><th scope="col">Region</th><th scope="col" class="hide-sm">Main cities</th><th scope="col">Common sectors</th><th scope="col" class="hide-sm">What we often build</th></tr>
+          </thead>
+          <tbody>
+            {regionRows.map((r) => (
+              <tr><th scope="row">{r.region}</th><td class="hide-sm">{r.cities}</td><td>{r.focus}</td><td class="hide-sm">{r.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for UK industries</h2>
+        <p class="section-note">Concrete website and software needs by sector. Regulatory details are noted where they affect the build; your adviser confirms what applies to you. The <a href="/industries/">industries page</a> goes further.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Industry</th><th scope="col">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first message to a live UK site</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Timelines assume content and approvals arrive on time. Payments, stock rules, user accounts and bilingual content add testing time.</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Questions UK businesses ask us</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other markets</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other countries</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((r) => <a class="city-chip" href={r.href}>{r.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us what your UK business needs</h2>
+        <p class="closing-note">
+          Send a few lines about your business, what you want built and any deadline. You get questions first, then a written scope,
+          a timeline and an itemised quote in USD or GBP. Nothing is billed until you approve it, and five months of maintenance are included after launch.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.4rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p, .prose-table + p { margin-top: 1.1rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .prose-table { margin-top: 1.5rem; }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+  .prose .block-places { margin-bottom: 0.8rem; color: var(--gold-muted); font-size: 0.82rem; font-weight: 600; line-height: 1.5; }
+
+  /* Related */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones, both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.8rem, 7.5vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

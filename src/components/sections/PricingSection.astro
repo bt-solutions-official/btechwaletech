@@ -1,5 +1,5 @@
 ---
-import { endToEndOffer, pricingNote, pricingPlans } from "@data/pricing/plans";
+import { endToEndOffer, pricingNote, pricingPlans, usdPrice } from "@data/pricing/plans";
 
 interface Props {
   heading?: string;
@@ -46,7 +46,7 @@ const {
             </th>
             <td data-label="Starting price">
               <span class="price-figure">{plan.price}</span>
-              <span class="price-unit">{plan.unit ?? "onwards"}</span>
+              <span class="price-unit">{usdPrice(plan.price)} international &middot; {plan.unit ?? "onwards"}</span>
             </td>
             <td data-label="Typical timeline">{plan.timeline}</td>
             <td data-label="What is included">

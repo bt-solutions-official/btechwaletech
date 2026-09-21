@@ -1,0 +1,685 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, pricingNote } from "@data/pricing/plans";
+import cities from "@data/cities/cities.json";
+import type { CityContent, CityListing } from "@data/cities/types";
+
+// A page is only generated once its hand-written content file exists, so no thin pages ship.
+export function getStaticPaths() {
+  const modules = import.meta.glob<{ default: CityContent }>("../data/cities/content/*.ts", { eager: true });
+  const list = cities as CityListing[];
+  return Object.values(modules).map(({ default: content }) => {
+    const city = list.find((c) => c.slug === content.slug);
+    if (!city) throw new Error(`City content "${content.slug}" has no entry in cities.json`);
+    const built = new Set(Object.values(modules).map((m) => m.default.slug));
+    const nearby = content.nearby
+      .map((slug) => list.find((c) => c.slug === slug))
+      .filter((c): c is CityListing => Boolean(c && built.has(c.slug)));
+    const sameState = list.filter((c) => c.state === city.state && c.slug !== city.slug && built.has(c.slug)).slice(0, 12);
+    return { params: { city: city.slug }, props: { city, content, nearby, sameState } };
+  });
+}
+
+interface Props {
+  city: CityListing;
+  content: CityContent;
+  nearby: CityListing[];
+  sameState: CityListing[];
+}
+
+const { city, content, nearby, sameState } = Astro.props;
+const path = `/${city.slug}/`;
+const url = canonicalUrl(path);
+
+const page = createPageSeo({
+  title: content.meta.title,
+  description: content.meta.description,
+  canonicalPath: path,
+  h1: content.hero.h1,
+  keywords: content.meta.keywords,
+  breadcrumbs: createBreadcrumbs([
+    { label: "India", href: "/india/" },
+    { label: city.name, href: path },
+  ]),
+  ogImage: { url: "/banner_logo.png", alt: `${siteBrand.name} IT services, websites, apps and AI automation in ${city.name}`, width: 1536, height: 1024 },
+});
+
+const services = [
+  { key: "web", name: "Website design & development", href: "/services/web-development/", size: "lg" },
+  { key: "seo", name: "SEO & local SEO", href: "/services/seo-services/", size: "md" },
+  { key: "ecommerce", name: "Ecommerce stores", size: "sm" },
+  { key: "software", name: "Custom software & web apps", size: "sm" },
+  { key: "ai", name: "AI automation & AI agents", size: "sm" },
+  { key: "data", name: "Data analysis & dashboards", size: "sm" },
+  { key: "app", name: "Mobile-first apps & PWAs", size: "sm" },
+  { key: "maintenance", name: "Maintenance & support", size: "sm" },
+] as const;
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: "₹10,000", label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "7", label: "Days a week on WhatsApp" },
+];
+
+const comparison = [
+  ["Starting price", "₹40,000+ for a basic site", "₹3,000 to ₹8,000, scope unclear", "From ₹10,000 static, from ₹20,000 for 700+ SEO pages"],
+  ["Availability", "Office hours, weekdays", "Replies when free", "7 days a week on WhatsApp and call, IST"],
+  ["Who does the work", "Account manager passes it on", "One person, unknown skills", "Three engineers, named, you talk to them"],
+  ["Written quote", "After several meetings", "Rarely", "Itemised quote within two working days"],
+  ["SEO and schema", "Separate team, extra fee", "Usually skipped", "Built into every page from day one"],
+  ["After launch", "Paid retainer only", "Often unreachable", "5 months maintenance included free"],
+  ["Code and logins", "Sometimes locked in", "Often not handed over", "100% yours: domain, hosting, code"],
+];
+
+const process = [
+  ["Talk", `A short call or WhatsApp chat about your ${city.name} business, customers and goal. No charge.`],
+  ["Plan & quote", "Page plan, keyword list, timeline and an itemised quote with starting prices, usually within two working days."],
+  ["Build & review", "You review a live preview link, not static mockups. Small changes land the same day."],
+  ["Launch & support", "Hosting, deployment, Search Console and sitemap set up, then 5 months of free maintenance."],
+];
+
+const stateLanguage: Record<string, string> = {
+  Maharashtra: "Marathi", Gujarat: "Gujarati", "Tamil Nadu": "Tamil", Puducherry: "Tamil", Karnataka: "Kannada",
+  Kerala: "Malayalam", Telangana: "Telugu", "Andhra Pradesh": "Telugu", "West Bengal": "Bengali", Tripura: "Bengali",
+  Odisha: "Odia", Punjab: "Punjabi", Assam: "Assamese", Goa: "Konkani", "Jammu and Kashmir": "Urdu",
+};
+const languages = ["English", "Hindi", stateLanguage[city.state]].filter(Boolean).join(", ").replace(/, ([^,]+)$/, " and $1");
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${pricingPlans[0].price}`],
+  ["Languages", languages],
+  ["Payments", "UPI and bank transfer, in INR"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", `${city.name} and all of ${city.state}`],
+];
+
+const toc = content.sections.map((s) => ({ id: s.id, heading: s.heading }));
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name} ${city.name}`,
+  description: content.meta.description,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: "₹8,000 - ₹60,000+",
+  currenciesAccepted: "INR",
+  paymentAccepted: "UPI, Bank transfer",
+  openingHoursSpecification: {
+    "@type": "OpeningHoursSpecification",
+    dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    opens: "09:00",
+    closes: "21:00",
+  },
+  areaServed: {
+    "@type": "City",
+    name: city.name,
+    geo: { "@type": "GeoCoordinates", latitude: content.geo.lat, longitude: content.geo.lng },
+    containedInPlace: { "@type": "State", name: city.state, containedInPlace: { "@type": "Country", name: "India" } },
+  },
+  parentOrganization: { "@type": "Organization", name: siteBrand.name, url: siteBrand.domain },
+  knowsLanguage: ["en", "hi"],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: `IT services in ${city.name}`,
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary, areaServed: city.name },
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        price: Number(plan.price.replace(/[^\d]/g, "")),
+        priceCurrency: "INR",
+        minPrice: Number(plan.price.replace(/[^\d]/g, "")),
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: content.meta.title,
+  description: content.meta.description,
+  inLanguage: "en-IN",
+  dateModified: content.updated,
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, serviceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(content.faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="city-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">{content.hero.eyebrow}</p>
+        <h1 id="city-heading">{content.hero.h1}</h1>
+        <p class="lede">{content.hero.lede}</p>
+        <ul class="facts" aria-label={`Quick facts for ${city.name}`}>
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+        </div>
+        <ul class="hero-pills" aria-label={`What we do in ${city.name}`}>
+          {content.hero.pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Freelance team &middot; Serving {city.name} remotely &middot; Replies 7 days a week
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label={`Starting prices in ${city.name}`}>
+        <p class="quote-kicker">{city.name} starting prices</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{plan.price}{plan.unit ? <small> /mo</small> : null}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">5 months maintenance free after launch. Itemised quote in 2 working days.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my {city.name} quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label={`BtechWaleTech for ${city.name} in numbers`}>
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking for IT services in {city.name}?</h2>
+        <p id="quick-answer" class="answer-text">{content.quickAnswer}</p>
+        <p class="updated">Last updated <time datetime={content.updated}>{new Date(content.updated).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}</time></p>
+      </div>
+      <table class="snapshot">
+        <caption>{city.name} at a glance for online business</caption>
+        <tbody>
+          {content.snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services in {city.name}</p>
+        <h2 id="services-heading">Everything your {city.name} business needs online, from one freelance team</h2>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{content.serviceNotes[s.key]}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">Why {city.name} businesses pick a freelance team over an agency</h2>
+        <p class="section-note">{content.whyUsIntro}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Typical {city.name} agency</th>
+              <th scope="col" class="col-other">Cheap freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Website and IT service prices in {city.name}</h2>
+        <p class="section-note">{content.pricingIntro}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starting price</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price">{plan.price}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingNote}</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label={`${city.name} guide`}>
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {toc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          <li><a href="#areas-heading">Areas we serve</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+        {content.sections.map((s) => (
+          <article aria-labelledby={s.id}>
+            <h2 id={s.id}>{s.heading}</h2>
+            {s.paragraphs.map((p) => <p set:html={p} />)}
+            {s.list && <ul>{s.list.map((li) => <li set:html={li} />)}</ul>}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== LOCALITIES ===================== -->
+  <section class="locations" aria-labelledby="areas-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Areas we serve</p>
+        <h2 id="areas-heading">Web design and SEO across {city.name}</h2>
+      </div>
+      <ul class="area-grid">
+        {content.localities.map((l) => (
+          <li><h3>{l.name}</h3><p>{l.note}</p></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for {city.name}'s main industries</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Industry</th><th scope="col">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {content.industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first message to a live site</h2>
+      </div>
+      <ol class="steps">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">{city.name} website and SEO questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {content.faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== NEARBY ===================== -->
+  {(nearby.length > 0 || sameState.length > 0) && (
+    <section class="locations" aria-labelledby="nearby-heading">
+      <div class="section-wrap">
+        <div class="section-head">
+          <p class="eyebrow">Nearby</p>
+          <h2 id="nearby-heading">Also serving businesses near {city.name}</h2>
+        </div>
+        <div class="city-cloud">
+          {[...new Map([...nearby, ...sameState].map((c) => [c.slug, c])).values()].map((c, i) => (
+            <a class="city-chip" href={`/${c.slug}/`}>{["IT services in", "Websites & SEO in", "Software & AI automation in", "Web, app & AI services in"][i % 4]} {c.name}</a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us about your {city.name} project</h2>
+        <p class="closing-note">
+          Send a few lines about your business and what you need. You get a page plan, a timeline and an itemised quote,
+          usually within two working days. Nothing is billed until you approve it.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links"><a href="/services/">All services</a> · <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/india/">India locations</a></p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/index.astro so city pages match the home page. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 { font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem; }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .updated { margin-top: 1rem; font-size: 0.8rem; color: var(--slate-muted); }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+
+  /* Localities */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .area-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: var(--hairline); border: 1px solid var(--hairline); }
+  .area-grid li { padding: 1.4rem; background: var(--paper); }
+  .area-grid h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.4rem; }
+  .area-grid p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: 1fr; }
+    .toc { position: static; }
+    .area-grid { grid-template-columns: 1fr 1fr; }
+    .steps { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(3) { border-left: none; }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  @media (max-width: 640px) {
+    .bento, .area-grid, .steps { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table tr > :nth-child(3) { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

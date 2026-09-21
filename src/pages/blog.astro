@@ -22,11 +22,11 @@ const faqs = [
   },
   {
     question: "What does a website cost if I hire you after reading this?",
-    answer: "A static website starts from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000 and a custom web app from ₹40,000. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and integrations.",
+    answer: "A static website of up to 100 pages starts from ₹10,000 (US$150). A 700+ page SEO website handled design to deployment starts from ₹20,000 (US$300). AI automation starts from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750) and a custom web app from ₹60,000 (US$900). Monthly SEO starts from ₹10,000 (US$150) per month. INR prices apply in India and USD prices to international clients. Final cost always depends on scope, page count and integrations.",
   },
   {
     question: "Is maintenance included after the site goes live?",
-    answer: "Yes. Once hosting is live we include five months of maintenance free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance is from ₹2,000 per month if you want us to keep handling it. You are never locked in, and the code stays yours.",
+    answer: "Yes. Once hosting is live we include five months of maintenance free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance is from ₹8,000 (US$120) per month if you want us to keep handling it. You are never locked in, and the code stays yours.",
   },
   {
     question: "Do you handle the whole project or only the build?",
@@ -34,7 +34,11 @@ const faqs = [
   },
   {
     question: "Where do you work from and who is on the team?",
-    answer: "We are a small freelance IT services group of three engineers: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation. Delivery is remote-friendly, so we work with businesses across India and overseas over email and calls.",
+    answer: "We are a small freelance IT services group of three engineers: Ankur Kumar on full stack development, Santosh Sharma on AI, machine learning and AWS, and Vedansh Shrivastava on project management, data science and automation. We are based in India and work remotely with businesses in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India over email, WhatsApp and video calls.",
+  },
+  {
+    question: "Do these guides apply outside India?",
+    answer: "Yes. Page speed, site structure, quote comparison and automation work the same way for a business in the USA, UK, Canada or Australia as in India. Where something is market specific, such as local search or payment gateways, the principle holds and only the platforms change. If you want the work done for you, we quote international projects in USD and schedule calls in your business hours.",
   },
   {
     question: "Can I use these guides to brief another developer?",
@@ -43,13 +47,19 @@ const faqs = [
 ];
 
 const page = createPageSeo({
-  title: "Web Development Blog India: SEO Tips for Businesses",
-  description: "Practical web development and SEO guides for Indian businesses: site speed, local SEO, quotes, automation, site structure and planning a website that gets enquiries.",
+  title: "Web Development & SEO Blog: Guides for Businesses",
+  description: "Practical web development and SEO guides for businesses in the USA, UK, Australia & India: site speed, local SEO, quotes, automation and site structure.",
   canonicalPath: "/blog/",
   h1: "Practical Guides on Websites, SEO and Automation",
   intro: "No filler posts and no borrowed opinions. This page collects short, usable guides drawn from real client projects: how to judge a quote, what actually makes a page fast, how local search works for a small business, and how to plan a website before anyone starts designing it.",
   breadcrumbs: createBreadcrumbs([{ label: "Blog", href: "/blog/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "web development blog",
+    "SEO tips for small business",
+    "how much does a website cost",
+    "hire web developers guide",
     "web development blog India",
     "SEO tips for small business India",
     "website planning guide India",
@@ -78,9 +88,11 @@ const page = createPageSeo({
     "on page SEO guide India",
   ],
 });
+
+const areaServed = ["US", "GB", "CA", "AU", "AE", "SG", "IN"].map((name) => ({ "@type": "Country", name }));
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), { ...serviceSchema(page.title, page.description, page.canonicalPath), areaServed }]}>
   <div class="it-location">
     <div class="it-wrap">
       <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
@@ -119,7 +131,7 @@ const page = createPageSeo({
             <h2 id="static-heading">Static or dynamic: which one do you actually need?</h2>
             <p>A static site ships pre-built HTML files. A dynamic site builds each page when someone requests it, usually pulling from a database. The honest rule is this: if your content changes a few times a month and there is no login, no cart and no user-generated data, static wins on almost every measure. It loads faster, costs less to host, has a far smaller attack surface, and rarely breaks because a plugin updated itself overnight.</p>
             <p>Dynamic becomes the right answer when the content is genuinely per-user or changes constantly: an ecommerce catalogue with live stock, a booking system, a dashboard, a portal with accounts. The mistake we see most often is a five-page brochure site running on a heavy dynamic stack with eight plugins, because that is what the previous developer knew. It costs more to host, more to maintain, and it is slower for no benefit.</p>
-            <p>There is also a middle path. Many sites are best built statically with a small dynamic piece bolted on, such as a form handler or a search endpoint. That keeps the fast, cheap core and adds complexity only where it earns its place. Our <a href="/services/web-development/">web development service</a> starts most brochure and SEO projects statically, from ₹5,000, and moves up only when the feature list demands it.</p>
+            <p>There is also a middle path. Many sites are best built statically with a small dynamic piece bolted on, such as a form handler or a search endpoint. That keeps the fast, cheap core and adds complexity only where it earns its place. Our <a href="/services/web-development/">web development service</a> starts most brochure and SEO projects statically, from ₹10,000 (US$150), and moves up only when the feature list demands it.</p>
           </article>
         </div>
       </section>
@@ -136,7 +148,7 @@ const page = createPageSeo({
             <h3>How local SEO works for a small business</h3>
             <p>Local search is a different game from national ranking. Google decides who appears in the map results using three broad signals: relevance, distance and prominence. You cannot change distance, so the work sits in the other two. Relevance comes from your Google Business Profile being filled properly, with the correct primary category, real services listed, working hours and photographs that show the actual business rather than stock images.</p>
             <p>Prominence comes from consistency and reputation. Your business name, address and phone number should be written identically everywhere they appear: your website footer, your profile, directories, social pages. Mismatched details split the signal. Reviews matter, and so do replies to them. On the website side, one clear page per service and per area you genuinely serve beats one page trying to mention every city in a paragraph.</p>
-            <p>Be honest about geography. If you are remote-friendly and serve clients in a city without an office there, say that. Claiming a physical presence you do not have is both a trust problem and a policy problem. Our own <a href="/it-services/">IT services pages</a> follow that rule and simply state where we work with businesses.</p>
+            <p>Be honest about geography. If you are remote-friendly and serve clients in a city without an office there, say that. Claiming a physical presence you do not have is both a trust problem and a policy problem. Our own <a href="/countries/">country pages</a> and <a href="/it-services/">IT services pages</a> follow that rule: we are based in India, work remotely, and simply state where we work with businesses.</p>
           </article>
         </div>
       </section>
@@ -147,7 +159,7 @@ const page = createPageSeo({
             <h2 id="automation-heading">When automation is worth paying for</h2>
             <p>Automation earns its cost when a task is repetitive, rule-based and frequent enough that the hours add up. Copying enquiry details from a form into a spreadsheet, generating the same invoice format every week, sorting incoming documents, sending follow-up messages on a fixed schedule: these are the shapes that pay back. Do the arithmetic before you commit. If a task takes twenty minutes a day, that is roughly two working weeks a year, and it is worth automating.</p>
             <p>What does not pay back is automating something that happens twice a month, or a process nobody has written down yet. Automating a messy process just makes the mess happen faster. Map the steps first, delete the ones that exist only out of habit, then automate what survives. That single step often cuts the build in half.</p>
-            <p>AI adds value where judgement is fuzzy but the stakes are low per item: classifying enquiries, summarising long documents, drafting first-pass replies a human then approves. Keep a human in the loop for anything that touches money or a customer commitment. Our AI automation work starts from ₹15,000 and depends heavily on how many systems have to talk to each other.</p>
+            <p>AI adds value where judgement is fuzzy but the stakes are low per item: classifying enquiries, summarising long documents, drafting first-pass replies a human then approves. Keep a human in the loop for anything that touches money or a customer commitment. Our AI automation work starts from ₹40,000 (US$600) and depends heavily on how many systems have to talk to each other.</p>
           </article>
         </div>
       </section>
@@ -173,7 +185,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="quote-heading">How to judge a web development quote</h2>
-            <p>Compare quotes on scope, not on the number at the bottom. A ₹15,000 quote and a ₹60,000 quote often describe entirely different projects, and the cheaper one frequently excludes the things that make a site work. Ask every developer the same set of questions and the comparison becomes straightforward.</p>
+            <p>Compare quotes on scope, not on the number at the bottom. A ₹20,000 quote and an ₹80,000 quote, or a US$300 quote and a US$1,200 one, often describe entirely different projects, and the cheaper one frequently excludes the things that make a site work. Ask every developer the same set of questions and the comparison becomes straightforward.</p>
             <ul class="it-list">
               <li>How many pages, and who writes the content for them?</li>
               <li>Is hosting and domain setup included, or billed separately later?</li>
@@ -182,7 +194,7 @@ const page = createPageSeo({
               <li>Who owns the code, the domain and the hosting account?</li>
               <li>How many revision rounds are included before extra charges start?</li>
             </ul>
-            <p>Watch for two warning signs. One is a quote with no page count, which almost guarantees a scope argument later. The other is ownership sitting with the developer, so you cannot move if the relationship ends. For reference, our own pricing starts from ₹5,000 for a static site and from ₹10,000 for a 30-page SEO website handled design to deployment, with the caveat that final cost always depends on scope.</p>
+            <p>Watch for two warning signs. One is a quote with no page count, which almost guarantees a scope argument later. The other is ownership sitting with the developer, so you cannot move if the relationship ends. For reference, our own pricing starts from ₹10,000 (US$150) for a static site of up to 100 pages and from ₹20,000 (US$300) for a 700+ page SEO website handled design to deployment, with the caveat that final cost always depends on scope.</p>
           </article>
         </div>
       </section>
@@ -208,8 +220,8 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="work-heading">How we work, in case you want the build too</h2>
-            <p>We take projects end to end so you are not stitching together a designer, a developer and a hosting vendor. That means planning and sitemap, design, development, SEO setup, hosting and deployment handled by the same three people. You get one point of contact and one timeline. Once hosting is live, five months of maintenance are included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period, maintenance is from ₹2,000 per month, and it stays optional.</p>
-            <p>Starting prices are straightforward. A static website starts from ₹5,000. A 30-page SEO website, design to deployment, starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000, and a custom web app from ₹40,000. Monthly SEO starts from ₹5,000 per month. Every one of those is a starting figure, and the final cost depends on the scope you settle on. Tell us what you need and we will give you a number and a timeline before you commit to anything.</p>
+            <p>We take projects end to end so you are not stitching together a designer, a developer and a hosting vendor. That means planning and sitemap, design, development, SEO setup, hosting and deployment handled by the same three people. You get one point of contact and one timeline. Once hosting is live, five months of maintenance are included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period, maintenance is from ₹8,000 (US$120) per month, and it stays optional.</p>
+            <p>Starting prices are straightforward, quoted in INR for India and USD for international clients. A static website of up to 100 pages starts from ₹10,000 (US$150). A 700+ page SEO website, design to deployment, starts from ₹20,000 (US$300). AI automation starts from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750), and a custom web app from ₹60,000 (US$900). Monthly SEO starts from ₹10,000 (US$150) per month. Every one of those is a starting figure, and the final cost depends on the scope you settle on. Tell us what you need and we will give you a number and a timeline before you commit to anything.</p>
           </article>
         </div>
       </section>
@@ -223,6 +235,8 @@ const page = createPageSeo({
               <li><a href="/services/web-development/">Web development services</a></li>
               <li><a href="/services/seo-services/">SEO services</a></li>
               <li><a href="/pricing/">Pricing and starting figures</a></li>
+              <li><a href="/countries/">Countries we serve</a></li>
+              <li><a href="/usa/">USA</a>, <a href="/uk/">UK</a>, <a href="/canada/">Canada</a>, <a href="/australia/">Australia</a> and <a href="/uae/">UAE</a></li>
               <li><a href="/it-services/">IT services across India</a></li>
               <li><a href="/india/">Web development in India</a></li>
               <li><a href="/india/karnataka/bangalore/">Bangalore</a></li>

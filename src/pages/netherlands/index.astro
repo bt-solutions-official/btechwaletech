@@ -1,0 +1,1164 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { usd } from "@data/countries/international";
+
+const path = "/netherlands/";
+const url = canonicalUrl(path);
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a Dutch web development company?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India, and we work with businesses in the Netherlands remotely. We have no office, KvK registration, postal address or staff in the Netherlands. You work directly with the three engineers who plan, build and maintain your website or software.",
+  },
+  {
+    question: "What does a website cost for a business in the Netherlands?",
+    answer: `Our starting prices for Dutch clients are in US dollars: a static website of up to 100 pages from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, a webshop from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")}. These are starting prices; the final quote depends on your requirements.`,
+  },
+  {
+    question: "Can we pay in euros?",
+    answer: "Yes. Quotes are in USD by default, and on request we invoice in EUR at the exchange rate fixed on the day of the quote. Through Wise you can pay into a euro account with an IBAN using an ordinary SEPA transfer, which is quick and cheap from any Dutch business bank. International wire transfer also works. Payment is split into milestones.",
+  },
+  {
+    question: "Do your invoices include Dutch VAT (BTW)?",
+    answer: "No. We are based outside the EU and our invoices carry no Dutch BTW. When a Dutch business buys services from a supplier outside the EU, the reverse charge (btw verlegd) usually applies and the business accounts for the VAT in its own return. Your accountant or boekhouder should confirm the treatment for your situation.",
+  },
+  {
+    question: "Can you build a webshop with iDEAL through Mollie?",
+    answer: "Yes. iDEAL is the payment method most Dutch shoppers expect, and we connect it through Mollie, Stripe, Adyen, Buckaroo or MultiSafepay depending on your platform and volumes. We also add cards, PayPal, Bancontact for Belgian customers, SEPA direct debit for subscriptions and pay-later options such as Klarna or Riverty where they fit your products.",
+  },
+  {
+    question: "What happens to iDEAL now that Wero is arriving?",
+    answer: "iDEAL is being brought into Wero, the wallet from the European Payments Initiative, in stages. For a webshop, the switch is handled mainly by your payment provider, so a store built on Mollie, Adyen, Stripe or a similar provider keeps working as they update their checkout. We keep the integration on the provider's supported plugin or API so those updates arrive without a rebuild.",
+  },
+  {
+    question: "Do you write websites in Dutch?",
+    answer: "We build fully Dutch websites, but we are honest about language: our team writes in English and does not write native Dutch. Dutch copy should come from you, a Dutch copywriter or a professional translator. We handle the Dutch URL structure, hreflang, keyword research in Dutch and all technical work, and we never publish unchecked machine translation.",
+  },
+  {
+    question: "Should our website be in Dutch, English or both?",
+    answer: "It depends on who buys from you. Consumer businesses and local services almost always need Dutch first. B2B exporters, tech companies and firms serving expats in Amsterdam, The Hague or Eindhoven often need English as well. We build separate URLs for each language with nl-NL and en hreflang tags, so Google shows the right version to each visitor.",
+  },
+  {
+    question: "What hours can we reach you from the Netherlands?",
+    answer: "India is four and a half hours ahead of the Netherlands in winter and three and a half hours ahead in summer. We are available from 9am to 9pm India time, which covers the Dutch working day from early morning until about 4:30pm in winter and 5:30pm in summer. Calls can be booked almost any time during Dutch office hours.",
+  },
+  {
+    question: "Is the website compliant with the AVG and the Dutch cookie rules?",
+    answer: "We build with the AVG (GDPR) and the Dutch cookie rules in mind: tracking cookies stay off until a visitor gives consent, refusing is as easy as accepting, forms collect only what you need, and your privacy statement page is in place. We are engineers, not lawyers, so your privacy statement and cookie texts should be checked by a legal adviser.",
+  },
+  {
+    question: "Does the European Accessibility Act apply to our webshop?",
+    answer: "Since 28 June 2025 the European Accessibility Act, implemented in Dutch law, applies to many consumer-facing digital services, including webshops. Micro-enterprises providing services are generally exempt. We build to WCAG 2.1 and 2.2 level AA practices by default, which is the practical benchmark. Whether the act applies to you is a legal question for your adviser.",
+  },
+  {
+    question: "What business details must appear on a Dutch website?",
+    answer: "A Dutch business website is generally expected to show the company name, visiting or postal address, email address, KvK number and, for businesses charging VAT, the BTW identification number. Webshops also need clear terms, withdrawal information and delivery costs before checkout. We build the footer and legal pages for these details, and your adviser confirms the specifics.",
+  },
+  {
+    question: "Can you do SEO for google.nl?",
+    answer: "Yes. We research Dutch search terms, including compound words and regional phrases, structure pages around what Dutch buyers actually search, add structured data and set up Google Search Console. For local businesses we help you manage your Google Business Profile, which you own and verify yourself. We never guarantee rankings.",
+  },
+  {
+    question: "Can you target Belgium (Flanders) as well as the Netherlands?",
+    answer: "Yes. We set up separate nl-NL and nl-BE versions with correct hreflang, prices and delivery rules for each country and Bancontact at checkout for Belgian buyers. Flemish customers notice Dutch-from-the-Netherlands wording, so the Belgian version should be reviewed by someone who writes Flemish Dutch.",
+  },
+  {
+    question: "Can you connect our website to Exact Online, Moneybird or other Dutch tools?",
+    answer: "Yes, where the tool offers an API. Common links include sending webshop orders and invoices to Exact Online or Moneybird, pushing leads into a CRM, syncing products to bol.com through a channel tool, and creating shipping labels in Sendcloud. AI automation starts from " + usd("AI automation") + " and is scoped after we map your current workflow.",
+  },
+  {
+    question: "How long does a project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, a webshop four to eight weeks and a custom web app six to twelve weeks. Bilingual Dutch and English sites add time for translation and review, so plan the copy early.",
+  },
+  {
+    question: "Who owns the website, domain and code?",
+    answer: "You do. Your .nl domain is registered in your name, hosting runs on an account you control, and at final payment we transfer the source code, design files and every login. There is no licence fee to us and no credential you cannot change.",
+  },
+  {
+    question: "Can our website and data be hosted in the Netherlands or the EU?",
+    answer: "Yes. Static sites run on a global CDN with edge servers in Amsterdam. Applications and databases can be deployed in EU cloud regions, including regions located in the Netherlands, and we document which providers process which personal data so your register of processing activities stays accurate.",
+  },
+  {
+    question: "What happens after launch?",
+    answer: `Five months of maintenance are included free after the site goes live: content changes, bug fixes, security updates, backups, and uptime and speed checks. After that, maintenance starts from ${usd("Maintenance")} if you want us to continue, or you take the site anywhere with every credential in hand.`,
+  },
+  {
+    question: "How do we start?",
+    answer: "Send a WhatsApp message or email about your business, what you want built, examples you like and your deadline. We reply with questions, then a written scope, planning and itemised quote in USD or EUR. Nothing starts until you approve the scope and pay the first milestone.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company Netherlands | Web Developers",
+  description: `Web developers for Dutch businesses: websites, webshops with iDEAL and Mollie, SEO for google.nl and custom software. Remote team in India, from ${usd("Static")}.`,
+  canonicalPath: path,
+  h1: "Web development company for businesses in the Netherlands, working remotely from India",
+  intro: `BtechWaleTech is a small team of engineers based in India. We build websites, webshops, web apps, SEO systems and AI automation for Dutch businesses, from the Randstad to Brainport Eindhoven and Groningen, entirely remotely. Websites start from ${usd("Static")}, your whole working day overlaps ours, and you work directly with the engineers who write the code.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Netherlands", href: path },
+  ]),
+  locale: "en_NL",
+  ogImage: { url: "/banner_logo.png", alt: "BtechWaleTech, an India-based team building websites, webshops and SEO for businesses in the Netherlands", width: 1536, height: 1024 },
+  keywords: [
+    "web development company Netherlands",
+    "web developers Netherlands",
+    "website development Netherlands",
+    "website design Netherlands",
+    "ecommerce development Netherlands",
+    "webshop development iDEAL",
+    "Mollie iDEAL integration",
+    "Shopify developer Netherlands",
+    "SEO services Netherlands",
+    "SEO google.nl",
+    "custom software development Netherlands",
+    "AI automation Netherlands",
+    "offshore web developers Netherlands",
+    "outsource web development Netherlands",
+    "website laten maken",
+    "webshop laten maken",
+    "webdesign bureau",
+    "webontwikkeling",
+    "SEO bureau",
+    "web development Randstad",
+    "web development North Holland",
+    "web development South Holland",
+    "web developers North Brabant",
+    "web design Utrecht province",
+    "web design Gelderland",
+    "web design Groningen province",
+    "web developers Amsterdam",
+    "web development Rotterdam",
+    "web design The Hague",
+    "web developers Utrecht",
+    "web development Eindhoven",
+    "web design Groningen",
+    "web development Tilburg",
+    "web design Nijmegen",
+    "web design Maastricht",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote only"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Invoicing", "USD, or EUR on request"],
+  ["Payments", "Wise (SEPA) or wire"],
+  ["Dutch overlap", "Most of the Dutch office day"],
+  ["After launch", "5 months of maintenance free"],
+];
+
+const pills = ["Business websites", "Webshops with iDEAL", "SEO for google.nl", "Dutch & English sites", "Exact Online & API links", "Custom web apps"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "3.5–4.5h", label: "Time difference, NL to India" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers in India: full stack development, AI and cloud, project delivery" },
+  { label: "Where we work", value: "Remotely from India. No Dutch office, KvK registration or local staff" },
+  { label: "What we build", value: "Websites, webshops, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Payments we set up", value: "iDEAL via Mollie, Stripe or Adyen, cards, PayPal, Bancontact, Klarna, Riverty" },
+  { label: "Search focus", value: "google.nl, nl-NL and nl-BE hreflang, English pages for international buyers" },
+  { label: "Language", value: "We work in English; Dutch copy comes from you or a native writer" },
+  { label: "Invoicing", value: "USD by default, EUR on request, via Wise (SEPA) or wire, in milestones" },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Fast, accessible sites on Astro, Next.js or WordPress, in Dutch, English or both, with clean language switching.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO for google.nl", note: "Dutch keyword research, technical SEO, local search and nl-NL / nl-BE hreflang, with Search Console reporting.", href: "/services/seo-services/", size: "md" },
+  { name: "Webshops", note: "Shopify, WooCommerce or custom stores with iDEAL through Mollie or Stripe, PostNL and Sendcloud shipping.", size: "sm" },
+  { name: "Custom software", note: "Customer portals, planning tools, quotation systems and dashboards for logistics, installers and B2B suppliers.", size: "sm" },
+  { name: "Integrations", note: "Links to Exact Online, Moneybird, CRMs, bol.com channel tools and shipping platforms, where APIs allow.", size: "sm" },
+  { name: "AI automation", note: "Order and invoice extraction, enquiry routing and assistants grounded in your own documents.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Browser apps for field staff and customers that install without an app store.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Higher, reflects Dutch salaries and office costs", "Varies, often hourly with open-ended totals", `From ${usd("Static")} for a website, itemised quote`],
+  ["Native Dutch copy", "Usually included", "Depends on the freelancer", "Not written by us; you or a native writer supply it"],
+  ["Who does the work", "Project manager plus a team", "One person, sometimes subcontracted", "The three engineers you talk to"],
+  ["Time zone", "Same as yours", "Anywhere", "Covers most of the Dutch working day"],
+  ["Written scope", "Usually, after an intake session", "Often a short brief", "Always, before any payment is due"],
+  ["Payments & iDEAL", "Standard", "Varies by experience", "Mollie, Stripe or Adyen with iDEAL, tested end to end"],
+  ["After launch", "Service contract", "Availability varies", "5 months of maintenance free"],
+  ["Ownership", "Varies by contract", "Sometimes unclear", "Domain, hosting and code handed to you"],
+];
+
+// ---------- Process and timelines ----------
+
+const process = [
+  ["Kick-off call", "A video call in Dutch office hours, in English, about your business, customers, languages and budget. No charge."],
+  ["Scope & quote", "A written scope with pages, languages, integrations, planning and an itemised quote in USD or EUR."],
+  ["Structure & design", "Sitemap per language and wireframes first, then visual design for the key templates, reviewed on your devices."],
+  ["Build on staging", "A private staging link you can open at any time. Dutch copy is placed as it arrives from you or your translator."],
+  ["Test & launch prep", "Payments with iDEAL, cookie consent, accessibility checks, hreflang, redirects, schema and forms tested end to end."],
+  ["Go live & aftercare", "Domain connected, Search Console set up, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Region table ----------
+
+const regionRows = [
+  { region: "North Holland", cities: "Amsterdam, Haarlem, Zaanstad, Hilversum, Alkmaar", focus: "Finance, tech scale-ups, creative agencies, media, tourism, flowers", build: "Dutch and English sites for international teams, SaaS marketing sites, booking sites" },
+  { region: "South Holland", cities: "Rotterdam, Delft, Leiden, Dordrecht, Westland", focus: "Port and logistics, maritime, horticulture, life sciences", build: "Quote and tracking portals, export catalogues in several languages, recruitment sites" },
+  { region: "The Hague", cities: "The Hague, Rijswijk, Zoetermeer", focus: "Government, international organisations, law, security, NGOs", build: "Accessible, multilingual information sites, secure forms, practice sites for law firms" },
+  { region: "Utrecht", cities: "Utrecht, Amersfoort, Nieuwegein, Zeist", focus: "Business services, education, health, IT, retail head offices", build: "Service sites, course platforms, customer portals, B2B lead generation" },
+  { region: "North Brabant", cities: "Eindhoven, Veldhoven, Tilburg, Breda, 's-Hertogenbosch", focus: "High-tech systems, supply chain, design, logistics, food", build: "Supplier capability sites, technical documentation, logistics tools, English career pages" },
+  { region: "Gelderland", cities: "Arnhem, Nijmegen, Apeldoorn, Wageningen, Ede", focus: "Agri-food research, health, energy, tourism on the Veluwe", build: "Research and product sites, holiday park booking, clinic and practice sites" },
+  { region: "Overijssel", cities: "Enschede, Zwolle, Deventer, Hengelo", focus: "Technology, manufacturing, logistics, retail", build: "B2B catalogues, webshops with Sendcloud, dealer portals" },
+  { region: "Groningen, Friesland & Drenthe", cities: "Groningen, Leeuwarden, Assen, Emmen", focus: "Energy transition, water technology, dairy, education, tourism", build: "Project and innovation sites, Frisian and Dutch structure, campsite booking" },
+  { region: "Limburg", cities: "Maastricht, Venlo, Heerlen, Roermond, Sittard-Geleen", focus: "Cross-border trade, chemicals, logistics, education, retail", build: "Dutch, German and French versions, cross-border shipping rules, B2B portals" },
+  { region: "Zeeland & Flevoland", cities: "Middelburg, Vlissingen, Goes, Almere, Lelystad", focus: "Coastal tourism, seafood, ports, agriculture, new-town services", build: "Seasonal booking sites, producer webshops, local service SEO" },
+];
+
+// ---------- Industries ----------
+
+const industries = [
+  { name: "Logistics and freight forwarding", need: "Services per mode and lane, certifications, fast quotes and shipment status without phoning", build: "Quote request tools, customer portals with tracking, multilingual service pages for international shippers" },
+  { name: "Horticulture and agri-food", need: "Product ranges, availability, quality certificates and export information in several languages", build: "B2B catalogues with specifications, trade login for prices, English and German versions" },
+  { name: "High-tech suppliers", need: "Capabilities, machine lists, quality systems and engineers who can answer a technical question", build: "Capability and case pages without confidential details, RFQ forms with drawing upload, English career pages" },
+  { name: "Webshops and DTC brands", need: "iDEAL at checkout, clear delivery costs and times, free returns rules and reviews that are genuine", build: "Shopify or WooCommerce stores, Mollie or Stripe, Sendcloud or PostNL, bol.com channel links" },
+  { name: "Installers and energy transition", need: "Heat pump, solar and insulation options explained plainly, subsidy information and a quick quote", build: "Service and product pages, quote configurators, planning tools for fitters, local SEO per region" },
+  { name: "Hospitality and holiday parks", need: "Real photos, availability, clear prices and direct booking to reduce platform commission", build: "Accommodation pages, booking system integration, Dutch, German and English versions" },
+  { name: "Professional services", need: "Expertise, named professionals, fees where possible and a straightforward way to book a first meeting", build: "Practice pages, profiles, appointment booking, knowledge articles in Dutch" },
+  { name: "Healthcare and wellness", need: "Practitioner registration, treatment information, reimbursement notes and online appointments", build: "Practitioner profiles, careful treatment pages, booking links, accessible layouts" },
+  { name: "Real estate", need: "Listings, neighbourhood information, valuations and quick viewings", build: "Listing pages fed from your property software, valuation forms, area guides" },
+  { name: "SaaS and scale-ups", need: "A marketing site the team edits weekly, pricing, documentation and consent-aware analytics", build: "Astro or Next.js with a headless CMS, docs, English and Dutch content, product dashboards" },
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface GuideTable { caption: string; head: string[]; rows: string[][]; hide?: number[] }
+interface GuideBlock { name: string; places: string; text: string[] }
+interface GuideArticle { id: string; heading: string; paragraphs: string[]; list?: string[]; after?: string[]; table?: GuideTable; blocks?: GuideBlock[] }
+
+const guide: GuideArticle[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are and how we work with Dutch businesses",
+    paragraphs: [
+      "BtechWaleTech is three engineers in India. Ankur Kumar is our full stack developer. Santosh Sharma handles AI and machine learning, AWS, data science, technical SEO and deployment. Vedansh Shrivastava leads project management and works on data science, AI and automation. There is no sales layer between you and us: the person who answers your email is one of the people building your project. You can read more on the <a href=\"/about/\">about page</a>.",
+      "To be completely clear: we have no office in the Netherlands, no KvK registration, no Dutch address and no local staff. We are not an Amsterdam agency with an offshore team hidden behind it. We are a remote team that works for clients abroad, and we say so on every page because Dutch buyers, in our experience of how business is done there, value directness over polish.",
+      "That directness suits remote work. Dutch clients tend to want a clear plan, honest answers and short meetings with decisions at the end, and that is how we run projects: a written scope before anything starts, a fixed weekly update, a staging link you can check whenever you like, and changes agreed in writing. If something is not possible within the budget, we say so early rather than discovering it at the end.",
+      "There are projects where a local agency is simply the better choice: when you need someone on site regularly, when your tender requires a Dutch-registered supplier, or when most of the value lies in native Dutch copywriting and brand work. For development-heavy work, such as a webshop with integrations, a customer portal, a large SEO site or an automation, a remote engineering team can offer good value, and that is where we focus.",
+    ],
+  },
+  {
+    id: "services-nl",
+    heading: "Website, webshop and software services for the Dutch market",
+    paragraphs: [
+      "<strong>Websites.</strong> Company websites, landing pages and content sites built on Astro, Next.js or React, or WordPress when your team wants a familiar editor. We usually recommend a static site for service businesses: it is very fast, cheap to host, and has a small attack surface. The static plan covers up to 100 pages, responsive layouts, contact forms routed to email and WhatsApp, hosting, SSL and deployment. See the <a href=\"/services/web-development/\">web development service</a> for details.",
+      "<strong>Design.</strong> Dutch websites tend to reward clarity over decoration: what you offer, what it costs or how pricing works, who is behind the company and how to get in touch. We start with a sitemap per language and wireframes, design mobile first, and keep pages light. If you already have a house style from a Dutch design studio, we build to it faithfully; if not, we propose a simple visual system you can grow into.",
+      "<strong>Custom software and web apps.</strong> Planning tools for installers, customer portals for logistics companies, quotation systems for suppliers, booking platforms and internal dashboards. Many Dutch SMEs run on a mix of Excel, email and a few SaaS tools, and a small web application that joins them up saves hours every week. Custom web apps start from " + usd("Custom web app") + ".",
+      "<strong>Integrations.</strong> Dutch businesses often rely on local software: Exact Online or Moneybird for accounting, AFAS for HR and finance, Sendcloud for shipping labels, and channel tools for selling on bol.com. We connect a website or webshop to these systems wherever they offer an API, so orders, invoices and customer records do not have to be retyped.",
+      "<strong>AI automation.</strong> Starting from " + usd("AI automation") + ", for repetitive work: reading order forms and invoices into your system, routing enquiries to the right colleague, summarising incoming documents, or answering common customer questions from your own documentation. We map the process first and tell you plainly if automation will not pay for itself.",
+      "<strong>Maintenance.</strong> The first five months after launch are free: content changes, fixes, updates, backups and uptime checks. After that, plans start from " + usd("Maintenance") + ", or you contact us only when you need something.",
+    ],
+  },
+  {
+    id: "ecommerce-nl",
+    heading: "Webshops for the Netherlands: iDEAL, Mollie, Klarna and delivery",
+    paragraphs: [
+      "Webshop builds start from " + usd("Ecommerce") + ". The first decision is the platform. Shopify is a strong default for most consumer brands: hosting and card security are handled, iDEAL is available through Shopify Payments or apps from Dutch payment providers, and the app ecosystem covers most needs. WooCommerce suits businesses already on WordPress that want full control. Dutch platforms such as CCV Shop and Mijnwebwinkel are common for small shops, and we can work with them or migrate away from them when a shop outgrows its template. A custom build makes sense for configurable products, B2B price agreements or complex order flows.",
+      "Checkout in the Netherlands revolves around iDEAL, the bank-transfer payment method most Dutch shoppers use online. iDEAL is being brought into Wero, the European Payments Initiative wallet, in stages, and your payment provider handles that migration. We connect iDEAL and the other methods through a provider such as Mollie, Stripe, Adyen, Buckaroo or MultiSafepay, chosen on fees, platform support and your volume. Around it we add cards and Apple Pay for international buyers, PayPal, Bancontact for Belgium, SEPA direct debit for subscriptions, and pay-later through Klarna or Riverty where your average order suits it.",
+      "The Dutch details that make a webshop work:",
+    ],
+    list: [
+      "<strong>Prices including BTW.</strong> Consumer prices shown including 21% or 9% VAT as applicable, and business prices excluding VAT when a customer logs in to a trade account.",
+      "<strong>Delivery and pick-up points.</strong> PostNL, DHL and DPD rates, delivery to home or a pick-up point, next-day delivery promises that match what your warehouse can actually do, and label creation through Sendcloud or the carrier's own tools.",
+      "<strong>Withdrawal and returns.</strong> Consumers generally have a 14-day withdrawal period for online purchases, a model withdrawal form and clear returns instructions, so we build these into the order emails and the account area rather than hiding them in the terms.",
+      "<strong>The order button.</strong> EU rules require the final button to make clear that ordering creates an obligation to pay, so it says something like 'bestelling met betalingsverplichting' or 'bestellen en betalen' rather than just 'volgende'.",
+      "<strong>Honest discounts.</strong> When you announce a price reduction, the reference price generally has to be the lowest price in the preceding 30 days, so we store price history where your platform does not already do it.",
+      "<strong>Marketplaces.</strong> Many Dutch brands also sell on bol.com or Amazon.nl, and we connect the shop through a channel tool so stock and orders stay in sync.",
+    ],
+    after: [
+      "Before launch we run real test orders through every payment method, including an iDEAL payment, a refund and a cancelled payment, and check that confirmation emails, invoices and stock levels behave correctly in each case.",
+    ],
+  },
+  {
+    id: "seo-nl",
+    heading: "SEO for google.nl: Dutch keywords, local search and hreflang nl-NL",
+    paragraphs: [
+      "Dutch search has its own habits. The language forms long compound words, and people search both the compound and the split form, so 'zonnepanelen installateur' and 'zonnepaneleninstallateur' can both matter. Searches often combine a service with a city or region, such as a web agency in Utrecht or a physiotherapist in Nijmegen. Dutch buyers also compare carefully and read practical detail, so thin pages rarely hold good positions for long.",
+      "We start with keyword research in Dutch using search data for the Netherlands, then map terms to pages so each page has one clear job. Technical groundwork is built into every site: clean Dutch URLs, unique titles and meta descriptions, structured data for your organisation, services and products, an XML sitemap per language, fast mobile pages and sensible internal linking. We verify the site in Google Search Console and Bing Webmaster Tools and check indexing after launch. For local visibility we help you keep your Google Business Profile complete, which you own and verify yourself.",
+      "Language targeting needs care. A Dutch page for the Netherlands uses hreflang nl-NL; a separate version for Flanders uses nl-BE with its own prices, delivery rules and wording, because Belgian customers notice Dutch-from-the-Netherlands phrasing. English pages for expats and international buyers get their own URLs and an English hreflang, often en or en-NL. Each version must be a real version, not a copy with one sentence changed, and every version links to the others.",
+      "Because we do not write native Dutch, our SEO work on Dutch pages covers research, structure, briefs, technical fixes and measurement, and the Dutch text is written or reviewed by a native speaker you trust. That keeps the content natural, which matters more to Dutch readers than any keyword density.",
+      "Monthly SEO starts from " + usd("Monthly SEO") + " and includes technical fixes, content briefs or English content, internal linking, local listings and a report from Search Console. Results take months, and we never promise a position on google.nl. More on the <a href=\"/services/seo-services/\">SEO services page</a>.",
+    ],
+  },
+  {
+    id: "language",
+    heading: "Dutch, English or both: choosing a language strategy",
+    paragraphs: [
+      "The Netherlands has one of the highest levels of English proficiency in Europe, which tempts some companies to publish only in English. For consumer businesses that is usually a mistake: Dutch customers search in Dutch, trust Dutch pages more, and expect terms, delivery information and customer service in their own language. English-only works mainly for businesses whose buyers are international, such as tech firms, research spin-outs and companies hiring international talent.",
+      "Many Dutch companies need both. A logistics company in Rotterdam may sell to Dutch shippers in Dutch and to foreign importers in English. A clinic in The Hague may serve both Dutch residents and the international community. A horticulture exporter may add German, French or Polish for its main markets. In those cases each language gets its own URL path, its own navigation labels and its own metadata, and the CMS lets your team edit each language independently.",
+      "In Friesland, Frisian is an official language alongside Dutch, and some organisations choose to publish Frisian content. In Limburg, cross-border businesses often add German and French. We build the structure for any of these; the content itself should come from people who write the language natively.",
+    ],
+  },
+  {
+    id: "regions",
+    heading: "Coverage across the Netherlands, region by region",
+    paragraphs: [
+      "We work with businesses throughout the Netherlands, always remotely from India. The notes below describe what companies in each region commonly need online and the questions we ask early. They are not a claim to local presence or local clients.",
+    ],
+    blocks: [
+      {
+        name: "Amsterdam and North Holland",
+        places: "Amsterdam, Zuidas, Haarlem, Zaanstad, Hilversum, Aalsmeer, Almere",
+        text: [
+          "Amsterdam is the country's commercial and creative capital: banks, insurers and law firms around the Zuidas, a large startup and scale-up scene, European headquarters of international companies, advertising and design studios, and a huge visitor economy. Hilversum is the centre of Dutch broadcasting and media, Haarlem has many creative and professional firms, and Aalsmeer is home to the world's best-known flower auction. Schiphol makes the region a hub for air freight and logistics.",
+          "Websites here often serve several audiences at once: Dutch customers, international clients and job candidates from around the world. That means Dutch and English versions from the start, careful hreflang, and recruitment pages that explain relocation practicalities honestly. Competition for Amsterdam search terms is fierce, so local businesses do better with specific pages per service and neighbourhood than with a single generic services page. For short-stay accommodation and tourism businesses, the city's rules change often, so booking and listing pages should be easy to update.",
+        ],
+      },
+      {
+        name: "Rotterdam and South Holland",
+        places: "Rotterdam, Delft, Leiden, Dordrecht, Gouda, Westland",
+        text: [
+          "Rotterdam's port, the largest in Europe, drives a regional economy of shipping, freight forwarding, storage, maritime services, chemicals and energy. Delft brings a major technical university and engineering spin-outs, Leiden a large life sciences park, and the Westland one of the densest greenhouse horticulture areas anywhere, exporting vegetables, flowers and growing technology worldwide. Dordrecht and the Drechtsteden have strong maritime and manufacturing companies.",
+          "These businesses are mostly B2B and international. They need clear service pages per transport mode or product group, quote requests that capture the right details the first time, customer portals for shipment or order status, and English, German or other language versions for export markets. Horticulture suppliers often need product catalogues with availability and specifications behind a trade login.",
+        ],
+      },
+      {
+        name: "The Hague",
+        places: "The Hague, Scheveningen, Rijswijk, Zoetermeer, Wassenaar",
+        text: [
+          "The Hague is the seat of the Dutch government and parliament and home to international courts, organisations and embassies, as well as a security cluster, law firms, consultancies and NGOs. Its international community is large, and many organisations work in English every day. Scheveningen adds a beach and hospitality economy.",
+          "Accessibility and clarity matter more here than almost anywhere. Government bodies must meet digital accessibility standards and publish accessibility statements, and suppliers and NGOs working with them tend to follow the same bar. We build accessible, multilingual information sites with secure contact forms, careful content structure and documentation your communications team can maintain. For law firms and consultancies, we build practice pages and profiles that explain expertise without overclaiming.",
+        ],
+      },
+      {
+        name: "Utrecht",
+        places: "Utrecht, Amersfoort, Nieuwegein, Zeist, Veenendaal",
+        text: [
+          "Utrecht sits at the centre of the country and its rail network, which has made it a base for business services, IT companies, head offices, education and healthcare. Utrecht Science Park combines a large university, a university medical centre and research companies. Amersfoort and Nieuwegein host many service companies and SMEs that serve customers across the whole country.",
+          "Because many Utrecht businesses sell nationally, their websites compete on national Dutch search terms rather than local ones. That calls for depth: strong service pages, comparison and pricing information where possible, and articles that answer real customer questions. Training providers need course calendars, registration and payment that are easy to manage, and healthcare organisations need calm, accessible pages that explain services and practical arrangements.",
+        ],
+      },
+      {
+        name: "Eindhoven, Brainport and North Brabant",
+        places: "Eindhoven, Veldhoven, Helmond, Tilburg, Breda, 's-Hertogenbosch",
+        text: [
+          "The Brainport region around Eindhoven is the country's high-tech centre, with semiconductor equipment, medical technology, automotive technology and a deep network of precision suppliers, plus a technical university and a strong design tradition celebrated at Dutch Design Week. Tilburg and the area along the motorways to Germany and Belgium are major logistics hubs, Breda has a mix of services, food and logistics, and 's-Hertogenbosch has many SMEs and professional firms.",
+          "High-tech suppliers need sites that pass an engineer's scrutiny: capabilities, machine lists, materials, tolerances, quality systems and cleanroom classes, without exposing confidential customer work. They also compete hard for technical staff, so English career pages that explain the work and the region well can matter as much as sales pages. Logistics companies need quote tools and portals, and food producers need product information that satisfies retailers and export buyers.",
+        ],
+      },
+      {
+        name: "Groningen, Friesland and Drenthe",
+        places: "Groningen, Leeuwarden, Assen, Emmen, Drachten, Wadden Islands",
+        text: [
+          "Groningen is a lively university city and a focal point for the energy transition, including hydrogen projects, now that gas extraction in the province has ended. Leeuwarden has a strong water technology cluster and Friesland a large dairy sector; Frisian is an official language there. Drenthe relies on tourism, with campsites, holiday parks and cycling, alongside manufacturing around Assen and Emmen. The Wadden Islands draw visitors throughout the season.",
+          "Energy and innovation projects need clear, credible information sites for partners, funders and residents. Tourism businesses need booking-focused sites that rank before the season and reduce dependence on large booking platforms. Organisations in Friesland sometimes want Frisian content next to Dutch, which we support structurally while a native speaker writes the text.",
+        ],
+      },
+      {
+        name: "Gelderland and Overijssel",
+        places: "Arnhem, Nijmegen, Wageningen, Apeldoorn, Enschede, Zwolle, Deventer",
+        text: [
+          "Gelderland combines Nijmegen's university and health sector, Arnhem's energy and creative sectors, Wageningen's world-renowned agri-food research at the heart of Food Valley, and the Veluwe's large tourism and holiday park economy. Overijssel has Enschede and Twente with a university of technology and a manufacturing tradition that grew out of textiles, Zwolle as a logistics and retail centre, and historic Deventer with many SMEs.",
+          "Here we see demand for B2B catalogues and dealer portals from manufacturers, webshops that ship through Sendcloud or PostNL, research and product sites for agri-food companies that need to explain technical work to non-specialists, and booking sites for holiday parks and recreation businesses. The region's German border also brings German-speaking customers, so a German version can be worthwhile.",
+        ],
+      },
+      {
+        name: "Limburg, Zeeland and Flevoland",
+        places: "Maastricht, Venlo, Heerlen, Middelburg, Vlissingen, Almere, Lelystad",
+        text: [
+          "South Limburg sits between Belgium and Germany: Maastricht is an international university city with a strong visitor economy, Venlo is a major logistics and distribution hub, and the Chemelot site near Sittard-Geleen is a large chemicals campus. Cross-border customers are normal, so Dutch, German and French versions, prices and delivery rules for three countries, and payment methods such as Bancontact are common requirements.",
+          "Zeeland's economy combines coastal tourism, seafood from places like Yerseke, agriculture and the ports around Vlissingen and Terneuzen. Seasonal tourism businesses need fast, easy-to-update booking sites, often in Dutch and German. Flevoland, built on reclaimed land, has fast-growing Almere with many commuters and new businesses, and Lelystad with logistics and agriculture; local service businesses there benefit from simple, well-structured sites with good local SEO.",
+        ],
+      },
+    ],
+  },
+  {
+    id: "compliance-nl",
+    heading: "AVG, cookies, accessibility, KvK details and BTW",
+    paragraphs: [
+      "Personal data on Dutch websites falls under the GDPR, known in Dutch as the AVG, together with the Dutch implementation act (UAVG), supervised by the Autoriteit Persoonsgegevens. Cookies and similar tracking fall under the Dutch Telecommunications Act, which requires consent for tracking cookies. Analytics cookies with little impact on privacy can be exempt if the tool is configured in a privacy-friendly way, which is why we often suggest privacy-friendly or carefully configured analytics. Dutch regulators have been actively checking cookie banners, so we build consent properly: no tracking before consent, a refuse option as prominent as accept, no pre-ticked boxes and a way to change the choice later.",
+      "For forms and data flows we collect only what you need, send it over HTTPS to systems you control, and list which processors receive which data, which helps with your processing register and data processing agreements. Newsletter sign-ups use a clear, unticked consent box.",
+      "<strong>Accessibility.</strong> The European Accessibility Act has applied since 28 June 2025 and is implemented in Dutch law. It covers many consumer-facing digital services, including ecommerce, with an exemption for micro-enterprises providing services. Government bodies already have their own digital accessibility requirements. We build to WCAG 2.1 and 2.2 level AA practices by default: semantic HTML, keyboard access, visible focus, contrast, labelled forms, text alternatives and captions. We can also help you draft the technical parts of an accessibility statement.",
+      "<strong>Business details.</strong> Dutch websites are generally expected to show the business name, address, email address and KvK number, plus the BTW identification number when VAT is charged. Webshops need general terms, withdrawal information, delivery costs and the total price clear before ordering. We build the footer, contact page and legal pages to hold these details and make them easy to keep current.",
+      "<strong>BTW.</strong> Consumer prices on your site normally include BTW. If you sell to consumers in other EU countries above the EU distance-selling threshold, you may use the One Stop Shop (OSS) scheme, which your platform needs to support. Our own invoices come from outside the EU without Dutch BTW, and for Dutch businesses the reverse charge usually applies. Your accountant confirms the details.",
+      "We are engineers, not lawyers or privacy officers. We do not give legal advice, certify compliance or write your privacy statement as a legal document. We build the site so that your adviser has as little as possible to change, and we implement their recommendations quickly.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Time zones: a near-complete overlap with the Dutch office day",
+    paragraphs: [
+      "The Netherlands uses Central European Time, which is four and a half hours behind India Standard Time in winter. From the last Sunday in March to the last Sunday in October the Netherlands is on summer time and the gap is three and a half hours. India does not use daylight saving time. We work from 9am to 9pm India time, seven days a week on WhatsApp, which in practice covers almost the entire Dutch office day.",
+    ],
+    table: {
+      caption: "Dutch time and the matching time in India",
+      head: ["Dutch time", "India, Dutch winter (CET)", "India, Dutch summer (CEST)", "Good for"],
+      rows: [
+        ["8:30", "13:00", "12:00", "Early stand-ups and quick decisions"],
+        ["10:00", "14:30", "13:30", "Kick-offs, design reviews, demos"],
+        ["13:00", "17:30", "16:30", "Calls after lunch, walkthroughs"],
+        ["16:00", "20:30", "19:30", "End-of-day questions and approvals"],
+        ["17:30", "22:00", "21:00", "Feedback sent now is picked up next morning India time"],
+      ],
+      hide: [3],
+    },
+    after: [
+      "Because the overlap is so large, projects with Dutch clients feel close to working with a team in the same country. You can review a staging build in the morning, discuss it after lunch and often see the changes the same afternoon. We share Indian public holidays such as Diwali in advance, and we note Dutch holidays like King's Day in the planning so a launch does not land on a day when your team is away.",
+    ],
+  },
+  {
+    id: "payments-nl",
+    heading: "Quotes, EUR invoicing and payment terms",
+    paragraphs: [
+      "Every project starts with a written scope: pages per language, features, integrations, planning, milestones, rounds of feedback and a fixed price, plus an explicit list of what is not included. Changes are quoted in writing and only built after your approval. This is the kind of clear agreement Dutch clients generally expect, and it protects both sides.",
+      "International prices are set in US dollars. On request we invoice in euros at the rate fixed on the day of the quote, so exchange rate movements during the project do not change your price. Through Wise you can pay into a euro account with an IBAN by normal SEPA transfer, which is fast and cheap from any Dutch business bank; an international wire also works. We never ask for payment to personal accounts.",
+      "Payment is split into milestones: typically a deposit at the start, a payment when the staging site is ready for review and the balance at go-live. Maintenance and monthly SEO are invoiced monthly and can be stopped with notice. The <a href=\"/pricing/\">pricing page</a>, <a href=\"/terms/\">terms</a> and <a href=\"/refund-policy/\">refund policy</a> set out the details.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Buying guide: hiring an offshore developer from the Netherlands",
+    paragraphs: [
+      "Outsourcing development abroad can work very well for Dutch companies, provided you check a few things before you commit. Most problems come from unclear agreements and language assumptions rather than from distance. Use these questions with any remote supplier, including us:",
+    ],
+    list: [
+      "<strong>Who writes the Dutch?</strong> Ask directly whether the supplier writes native Dutch. If not, plan and budget for a copywriter or translator from the start.",
+      "<strong>Is the supplier honest about where it is?</strong> A company presenting itself as Dutch while the work happens elsewhere is a warning sign about everything else.",
+      "<strong>Is there a fixed price and a written scope?</strong> Open-ended hourly billing without a cap can surprise you. A scope with exclusions and a change process keeps costs predictable.",
+      "<strong>Which payment providers have they integrated?</strong> Ask about iDEAL through Mollie, Stripe or Adyen specifically, and how they test refunds and failed payments.",
+      "<strong>How do they handle the AVG and cookies?</strong> Ask how tracking is blocked before consent and where personal data is stored.",
+      "<strong>Who owns everything at the end?</strong> Domain, hosting, code, designs and accounts should be yours, with no licence fees.",
+      "<strong>What does support look like after launch?</strong> Response times, costs and what happens if you want to switch suppliers.",
+      "<strong>Can you see the work while it is being built?</strong> A staging link and regular written updates are better than a big reveal at the end.",
+      "<strong>Do their claims hold up?</strong> Be wary of guaranteed rankings, unverifiable reviews or client lists you cannot check.",
+    ],
+    after: [
+      "We answer each of these questions on this page and in our quote. If a supplier cannot answer them in writing before the start, they rarely become easier once the project is under way.",
+    ],
+  },
+  {
+    id: "cost-nl",
+    heading: "What a website or webshop costs in the Netherlands, explained",
+    paragraphs: [
+      "Our prices are lower than typical Dutch agency rates because our costs are in India, not because we leave things out. A starting price is a starting point, though, and the final quote depends on requirements. These are the factors that move it most:",
+      "<strong>Languages.</strong> Each extra language adds structure, templates, hreflang, testing and content handling. A Dutch-only site is simpler than a Dutch, English and German site, even when the translations come from you.",
+      "<strong>Pages and content.</strong> A compact company site with supplied text is at the low end. Large sites with many product or location pages, migrations from an old CMS and redirects for existing URLs take more time. Our 700+ page SEO website plan starts from " + usd("SEO website") + " because such sites are generated from structured data, but the data model and quality checks remain real work.",
+      "<strong>Integrations.</strong> Linking Exact Online, Moneybird, AFAS, a CRM, Sendcloud or a bol.com channel tool each adds build and test time. The quality of the other system's API often determines the effort more than the website itself.",
+      "<strong>Webshop complexity.</strong> A shop with a few simple products differs from one with variants, B2B price agreements, subscriptions, multiple warehouses and several countries.",
+      "<strong>Running costs.</strong> Budget for the .nl domain, hosting, platform subscriptions such as Shopify, payment provider fees per transaction, email and any paid plugins. We list expected running costs in the quote so the total cost of ownership is clear from the start.",
+      "When comparing quotes, check what is included: hosting setup, SEO groundwork, cookie consent, accessibility, testing of payments, handover and aftercare. The cheapest quote can become the most expensive once the missing pieces are added.",
+    ],
+  },
+  {
+    id: "week-by-week",
+    heading: "How a typical Dutch webshop project runs, week by week",
+    paragraphs: [
+      "Abstract process diagrams say little, so here is how a mid-sized webshop project for a Dutch brand usually unfolds, assuming a Shopify or WooCommerce store with a few hundred products, iDEAL through Mollie or Stripe, Dutch and English versions and shipping through Sendcloud.",
+      "<strong>Week 1: intake and scope.</strong> A kick-off call covers your range, customers, current systems and what is not working today. We ask for exports of products and customers, access to your payment and shipping accounts, and examples of shops you like. You receive the written scope, the planning and an itemised quote, and agree the milestones.",
+      "<strong>Weeks 2 and 3: structure and design.</strong> We map categories, filters and URLs for both languages, agree redirects for your current URLs, and design the templates that matter most: home page, category page, product page, cart and checkout. Your Dutch copywriter or translator gets a clear list of texts needed, with character guidance for buttons and labels.",
+      "<strong>Weeks 3 to 6: build and data.</strong> Products are imported, templates are built on the staging site, and payment methods, shipping rules, BTW settings, order emails and the returns flow are configured. Integrations with your accounting software or a bol.com channel tool are connected and tested with sample orders. You review progress on the staging link and send feedback in one shared list.",
+      "<strong>Weeks 6 to 8: testing and go-live.</strong> We run test orders with every payment method, check cookie consent, accessibility basics, speed on mobile and hreflang, and then schedule the go-live on a quiet weekday morning Dutch time. After launch we watch orders, Search Console and error logs closely for the first weeks, inside the five months of free maintenance.",
+    ],
+  },
+  {
+    id: "common-problems",
+    heading: "Common problems we fix on Dutch websites and webshops",
+    paragraphs: [
+      "Many enquiries are not about a new site at all, but about an existing one that has stopped doing its job. These are the problems we come across most often when reviewing sites built for the Dutch market, and how we approach each one.",
+    ],
+    list: [
+      "<strong>A cookie banner that does not actually block anything.</strong> The banner appears, but analytics and advertising scripts have already loaded before the visitor chooses. We move every non-essential script behind the consent decision and test it with a clean browser.",
+      "<strong>Machine-translated English or German pages.</strong> Pages translated automatically and never checked read badly and rarely rank. We restructure them with proper hreflang and ask a native writer to rework the text, or remove versions that do not earn their keep.",
+      "<strong>A slow WordPress site weighed down by plugins.</strong> Page builders, sliders and a dozen marketing plugins can make a simple company site slow on mobile. We either slim it down or rebuild it as a static site with a simple editor.",
+      "<strong>Old iDEAL or payment plugins.</strong> Outdated payment modules break when the provider changes its API. We move the shop to the provider's current, supported integration and retest every payment method.",
+      "<strong>Duplicate city pages.</strong> Dozens of pages that differ only by the city name. We merge them into fewer, stronger pages and redirect the rest, which usually helps rather than hurts.",
+      "<strong>Missing KvK and BTW details or outdated terms.</strong> Footer and legal pages that no longer match the business. We rebuild them so the details are held in one place and updated everywhere at once.",
+      "<strong>No access to the domain or hosting.</strong> A previous supplier registered the .nl domain in its own name. We help you request the transfer and set everything up in accounts you control.",
+    ],
+    after: [
+      "A review of an existing site is usually the fastest way to decide whether to repair or rebuild. We give you a written list of findings with an estimate for each fix, so you can decide what to do with the facts in front of you.",
+    ],
+  },
+  {
+    id: "hosting-nl",
+    heading: "Domains, hosting and data location for Dutch websites",
+    paragraphs: [
+      "A .nl domain is the clearest signal to Dutch customers and search engines that you serve the Netherlands; it should be registered in your name with the login in your hands. International companies often run a .com with language or country folders instead. We set up DNS, SSL and email authentication records (SPF, DKIM and DMARC), which helps your emails reach Dutch inboxes rather than spam folders.",
+      "Amsterdam is one of Europe's major internet exchange and data centre hubs, so static sites served from a global CDN load quickly across the country. For applications and databases with personal data we can deploy in EU cloud regions, including regions located in the Netherlands, and document where data is stored and which providers process it. If your sector or customers have specific requirements on data location, tell us at the start and we design around them.",
+    ],
+  },
+];
+
+const tocItems = [
+  ...guide.map((g) => ({ id: g.id, heading: g.heading })),
+  { id: "region-table-heading", heading: "Dutch regions at a glance" },
+  { id: "industries-heading", heading: "Industries" },
+  { id: "process-heading", heading: "Process and timelines" },
+  { id: "faq-heading", heading: "FAQs" },
+];
+
+const related = [
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "India", href: "/india/" },
+  { name: "United Kingdom", href: "/uk/" },
+  { name: "United States", href: "/usa/" },
+  { name: "Canada", href: "/canada/" },
+  { name: "Australia & New Zealand", href: "/australia/" },
+  { name: "UAE & Middle East", href: "/uae/" },
+];
+
+// ---------- Structured data ----------
+
+const nl = { "@type": "Country", name: "Netherlands" };
+const provinces = ["North Holland", "South Holland", "Utrecht", "North Brabant", "Gelderland", "Overijssel", "Limburg", "Groningen", "Friesland", "Drenthe", "Flevoland", "Zeeland"];
+const nlCities = ["Amsterdam", "Rotterdam", "The Hague", "Utrecht", "Eindhoven", "Groningen", "Tilburg", "Almere", "Breda", "Nijmegen", "Arnhem", "Haarlem", "Enschede", "Apeldoorn", "Amersfoort", "Zwolle", "Leiden", "Delft", "Maastricht", "Leeuwarden"];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development for businesses in the Netherlands`,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${usd("Maintenance")} – ${usd("Custom web app")}+`,
+  currenciesAccepted: "USD, EUR",
+  paymentAccepted: "Bank transfer, SEPA transfer via Wise",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  knowsLanguage: ["en"],
+  areaServed: [
+    nl,
+    ...provinces.map((name) => ({ "@type": "State", name, containedInPlace: nl })),
+    ...nlCities.map((name) => ({ "@type": "City", name, containedInPlace: nl })),
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development, SEO and IT services for Dutch businesses (starting prices)",
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
+      areaServed: nl,
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(usdPrice(plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: "USD",
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">Netherlands · Remote from India</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts for Dutch clients">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build for Dutch businesses">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Remote delivery to the Netherlands &middot; No Dutch office
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label="Starting prices for Dutch clients">
+        <p class="quote-kicker">Netherlands starting prices (USD)</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usd(plan.name)}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Starting prices; the final quote depends on your requirements. EUR invoices on request via Wise (SEPA) or wire. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for Dutch clients in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking for web developers for your Dutch business?</h2>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, webshops with iDEAL, SEO systems, custom software and AI automation for businesses in the Netherlands, working remotely. Websites start from {usd("Static")}, webshops from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}. Every price is a starting price, invoices can be in EUR, our day overlaps almost all of the Dutch office day, and the first five months of maintenance are free.</p>
+        <p class="answer-more">This page explains what we build for Dutch companies, what it costs, how iDEAL and the other payment methods fit in, what the AVG, cookie rules, accessibility act and BTW mean for a website, and what businesses in each part of the country typically need. We also explain plainly what we do not do, starting with native Dutch copywriting.</p>
+      </div>
+      <table class="snapshot">
+        <caption>BtechWaleTech for Dutch clients at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for the Dutch market</p>
+        <h2 id="services-heading">Websites, webshops and software for Dutch companies</h2>
+        <p class="section-note">One team handles planning, design, development, SEO setup, hosting and deployment, so there is a single point of responsibility from intake to go-live. See <a href="/services/web-development/">web development</a>, <a href="/services/seo-services/">SEO services</a> and <a href="/pricing/">pricing</a>.</p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">Dutch web agency, freelancer or a remote team like ours</h2>
+        <p class="section-note">An honest comparison of typical trade-offs, including where a Dutch agency is stronger. Good agencies and freelancers exist in every city; this is about fit.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a Dutch web agency, a freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Dutch web agency</th>
+              <th scope="col" class="col-other hide-sm">Freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other hide-sm">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Website and webshop cost for Dutch businesses: starting prices</h2>
+        <p class="section-note">Every figure is a starting price in US dollars. The final quote depends on your requirements: languages, pages, integrations, payment methods and planning. EUR invoices are available on request via Wise (SEPA) or international wire, and you receive an itemised quote before any work starts.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices in USD for clients in the Netherlands</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Starting prices only; the final quote depends on requirements. Our invoices do not include Dutch BTW. Dutch copywriting or translation is not included unless agreed. <a href="/pricing/">See full pricing</a>.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to web development for Dutch businesses">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {tocItems.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={g.table?.hide?.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => i === 0 ? <th scope="row">{cell}</th> : <td class={g.table?.hide?.includes(i) ? "hide-sm" : undefined}>{cell}</td>)}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.blocks && g.blocks.map((b) => (
+              <div class="state-block">
+                <h3>{b.name}</h3>
+                <p class="block-places">{b.places}</p>
+                {b.text.map((t) => <p>{t}</p>)}
+              </div>
+            ))}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="region-table-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Region by region</p>
+        <h2 id="region-table-heading">Dutch regions at a glance</h2>
+        <p class="section-note">Main cities, the sectors that most often need websites and software, and what we typically build there. All served remotely from India.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Dutch regions and provinces with main cities, common sectors and typical builds</caption>
+          <thead>
+            <tr><th scope="col">Region</th><th scope="col" class="hide-sm">Main cities</th><th scope="col">Common sectors</th><th scope="col" class="hide-sm">What we often build</th></tr>
+          </thead>
+          <tbody>
+            {regionRows.map((r) => (
+              <tr><th scope="row">{r.region}</th><td class="hide-sm">{r.cities}</td><td>{r.focus}</td><td class="hide-sm">{r.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for Dutch industries</h2>
+        <p class="section-note">Typical website and software needs by sector in the Netherlands. The <a href="/industries/">industries page</a> goes into more depth.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Industry</th><th scope="col">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From intake to go-live</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Timelines assume copy, translations and approvals arrive on schedule. Every extra language and payment method adds review and test time.</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Questions Dutch businesses ask us</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other markets</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other countries</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((r) => <a class="city-chip" href={r.href}>{r.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us what your Dutch business needs</h2>
+        <p class="closing-note">
+          Send a short message about your company, the website, webshop or tool you have in mind, the languages you need and your deadline.
+          You get questions first, then a written scope, planning and an itemised quote in USD or EUR. Nothing is invoiced until you approve it.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.4rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p, .prose-table + p { margin-top: 1.1rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .prose-table { margin-top: 1.5rem; }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+  .prose .block-places { margin-bottom: 0.8rem; color: var(--gold-muted); font-size: 0.82rem; font-weight: 600; line-height: 1.5; }
+
+  /* Related */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones, both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.8rem, 7.5vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

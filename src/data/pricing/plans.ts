@@ -11,21 +11,28 @@ export interface PricingPlan {
  * Starting prices in INR. Every figure is a "from" price: the final quote
  * depends on page count, features, integrations, and content scope.
  */
+/** International price: ₹10,000 → US$150. */
+export const INR_TO_USD = 0.015;
+
+export function usdPrice(inr: string): string {
+  return `US$${Math.round(Number(inr.replace(/[^\d]/g, "")) * INR_TO_USD).toLocaleString("en-US")}`;
+}
+
 export const pricingPlans: PricingPlan[] = [
   {
     name: "Static website",
     timeline: "1 to 2 weeks",
-    price: "₹5,000",
-    summary: "A fast, mobile-friendly site for a small business, landing page, or portfolio.",
-    includes: ["Up to 5 pages", "Responsive design", "Contact form and enquiry setup", "Basic SEO tags and sitemap"],
+    price: "₹10,000",
+    summary: "A fast, mobile-friendly site of up to 100 pages for a business, portfolio, or service catalogue.",
+    includes: ["Up to 100 pages", "Responsive design", "Contact form and enquiry setup", "Basic SEO tags and sitemap"],
   },
   {
-    name: "SEO website (30 pages)",
+    name: "SEO website (700+ pages)",
     timeline: "3 to 5 weeks",
-    price: "₹10,000",
-    summary: "A multi-page site built around search intent, from design through to deployment.",
+    price: "₹20,000",
+    summary: "A large-scale SEO site of 700+ pages built around search intent, from design through to deployment.",
     includes: [
-      "Up to 30 SEO pages",
+      "700+ SEO pages",
       "Keyword and page planning",
       "Schema, sitemap, and internal linking",
       "Design to deployment included",
@@ -34,28 +41,28 @@ export const pricingPlans: PricingPlan[] = [
   {
     name: "Ecommerce store",
     timeline: "4 to 8 weeks",
-    price: "₹25,000",
+    price: "₹50,000",
     summary: "An online store with product pages, cart, checkout, and payment setup.",
     includes: ["Product and category pages", "Payment gateway setup", "Order and inventory basics", "Performance tuning"],
   },
   {
     name: "Custom web app or software",
     timeline: "6 to 12 weeks",
-    price: "₹40,000",
+    price: "₹60,000",
     summary: "Dashboards, portals, admin panels, and tools built around your workflow.",
     includes: ["Custom features and APIs", "User accounts and roles", "Admin panel", "Deployment and handover"],
   },
   {
     name: "AI automation",
     timeline: "2 to 4 weeks",
-    price: "₹15,000",
+    price: "₹40,000",
     summary: "Workflow automation and AI agents that remove repetitive manual work.",
     includes: ["Workflow mapping", "Tool and CRM integrations", "AI agent or automation build", "Testing and handover"],
   },
   {
     name: "Monthly SEO",
     timeline: "Ongoing, monthly",
-    price: "₹5,000",
+    price: "₹10,000",
     unit: "per month",
     summary: "Ongoing technical, on-page, local, and content SEO work with reporting.",
     includes: ["Technical fixes", "On-page and content work", "Local SEO and listings", "Search Console reporting"],
@@ -63,7 +70,7 @@ export const pricingPlans: PricingPlan[] = [
   {
     name: "Maintenance and support",
     timeline: "Ongoing, monthly",
-    price: "₹2,000",
+    price: "₹8,000",
     unit: "per month",
     summary: "Updates, backups, fixes, and performance checks after launch.",
     includes: ["Content updates", "Bug fixes", "Backups and security checks", "Speed and uptime checks"],
@@ -71,7 +78,7 @@ export const pricingPlans: PricingPlan[] = [
 ];
 
 export const pricingNote =
-  "All prices are starting points in INR, not fixed quotes. Final cost depends on the number of pages, features, integrations, content, and timelines. Share your requirement and you get an itemised estimate with nothing hidden.";
+  "All prices are starting points, quoted in INR for India and USD for international clients, not fixed quotes. Final cost depends on the number of pages, features, integrations, content, and timelines. Share your requirement and you get an itemised estimate with nothing hidden.";
 
 /** Shared offer wording so every page states the same thing. */
 export const endToEndOffer =
@@ -86,5 +93,5 @@ export const endToEndFaq = {
 export const freeMaintenanceFaq = {
   question: "What is included in the 5 months of free maintenance?",
   answer:
-    "After your site is hosted and live, the next 5 months of maintenance are included at no extra cost. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After those 5 months you can continue on a monthly plan from ₹2,000 or simply contact us when something needs changing.",
+    "After your site is hosted and live, the next 5 months of maintenance are included at no extra cost. That covers content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks. After those 5 months you can continue on a monthly plan from ₹8,000 (US$120) or simply contact us when something needs changing.",
 };

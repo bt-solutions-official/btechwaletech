@@ -18,11 +18,11 @@ const faqs = [
   },
   {
     question: "What does a project cost to start?",
-    answer: "Static websites start from ₹5,000. A 30-page SEO website handled design to deployment starts from ₹10,000. AI automation starts from ₹15,000, ecommerce from ₹25,000 and a custom web application from ₹40,000. Monthly SEO starts from ₹5,000 per month and maintenance after the free period is from ₹2,000 per month. Final cost always depends on scope.",
+    answer: "Static websites of up to 100 pages start from ₹10,000 (US$150). A 700+ page SEO website handled design to deployment starts from ₹20,000 (US$300). AI automation starts from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750) and a custom web application from ₹60,000 (US$900). Monthly SEO starts from ₹10,000 (US$150) per month and maintenance after the free period from ₹8,000 (US$120) per month. INR prices apply in India and USD prices to international clients. Final cost always depends on scope.",
   },
   {
     question: "What is included in the five months of free maintenance?",
-    answer: "Once your site is hosted and live, the first five months of maintenance are included at no extra charge. That covers content updates, bug fixes, security updates, backups, and regular uptime and speed checks. After those five months you can continue on a maintenance plan from ₹2,000 per month, or simply stop. There is no automatic renewal trap.",
+    answer: "Once your site is hosted and live, the first five months of maintenance are included at no extra charge. That covers content updates, bug fixes, security updates, backups, and regular uptime and speed checks. After those five months you can continue on a maintenance plan from ₹8,000 (US$120) per month, or simply stop. There is no automatic renewal trap.",
   },
   {
     question: "Do I own the code and the accounts?",
@@ -34,7 +34,11 @@ const faqs = [
   },
   {
     question: "How do we communicate during a project?",
-    answer: "WhatsApp or email for day to day questions, and a call when something needs a real conversation. We work Indian Standard Time and overlap comfortably with the Gulf, Europe, Australia and early or late United States hours. You get a short written update at each milestone so progress is visible without you chasing anyone for it.",
+    answer: "WhatsApp or email for day to day questions, and a Google Meet or Zoom call when something needs a real conversation. We work from India (IST) and keep a fixed overlap window for each region: US Eastern mornings, the UK and European business day from late morning, Australian afternoons, and most of the working day for the UAE and Singapore. You get a short written update at each milestone so progress is visible without you chasing anyone for it.",
+  },
+  {
+    question: "Do you work with clients outside India?",
+    answer: "Yes. We are based in India and work remotely with businesses in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India. The same three engineers, the same written scope and the same five months of free maintenance apply wherever you are. International projects are quoted in USD and paid by bank wire, Wise or PayPal; Indian clients pay in INR by UPI or bank transfer.",
   },
   {
     question: "How do I start working with you?",
@@ -43,13 +47,20 @@ const faqs = [
 ];
 
 const page = createPageSeo({
-  title: "About Our Freelance IT Services Team Based in India",
-  description: "A freelance IT services team of three engineers in India. End to end delivery, honest scope, transparent pricing and 5 months of free maintenance after launch.",
+  title: "About Us: Remote Web Development Team for Global Clients",
+  description: "Meet the three India-based engineers behind BtechWaleTech, building websites, SEO & AI automation for clients in the USA, UK, Canada, Australia & beyond.",
   canonicalPath: "/about/",
   h1: "Three Engineers, One Freelance IT Services Group",
-  intro: "BtechWaleTech is a freelance IT services company in India built by three computer science engineers. We plan, design, develop, optimise, host and deploy digital work end to end, then maintain it free for five months, with pricing and scope written down before anything starts.",
+  intro: "BtechWaleTech is a freelance IT services group of three computer science engineers based in India, working remotely with businesses in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India. We plan, design, develop, optimise, host and deploy digital work end to end, then maintain it free for five months, with pricing and scope written down before anything starts.",
   breadcrumbs: createBreadcrumbs([{ label: "About", href: "/about/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "web development company",
+    "hire web developers from India",
+    "remote web development team",
+    "offshore web development team",
+    "outsource web development",
     "about BtechWaleTech",
     "freelance IT services company India",
     "BtechWaleTech team",
@@ -78,9 +89,11 @@ const page = createPageSeo({
     "startup website developers India",
   ],
 });
+
+const areaServed = ["US", "GB", "CA", "AU", "AE", "SG", "IN"].map((name) => ({ "@type": "Country", name }));
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), { ...serviceSchema(page.title, page.description, page.canonicalPath), areaServed }]}>
   <div class="it-location">
     <div class="it-wrap">
       <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
@@ -128,7 +141,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="philosophy-heading">The way we build: static first, SEO ready, no lock-in</h2>
-            <p>Most business websites do not need a heavy content management system, a plugin stack and a monthly licence bill. They need fast pages, clean markup and content that is easy to update. So we default to static first builds using modern frameworks that ship mostly HTML and CSS to the browser. The result loads quickly on a mid range Android phone on patchy mobile data, which is how a large share of Indian traffic actually arrives. Speed is not a vanity metric here. It affects bounce rate, conversions and crawl efficiency together.</p>
+            <p>Most business websites do not need a heavy content management system, a plugin stack and a monthly licence bill. They need fast pages, clean markup and content that is easy to update. So we default to static first builds using modern frameworks that ship mostly HTML and CSS to the browser. The result loads quickly on a mid range Android phone on patchy mobile data, which is how a large share of real-world traffic actually arrives, in India and well beyond it. Speed is not a vanity metric here. It affects bounce rate, conversions and crawl efficiency together.</p>
             <p>SEO is built in from the first commit rather than bolted on later. That means one clear H1 per page, a sensible heading order, unique titles and descriptions, canonical tags, structured data, internal linking that reflects real topic relationships, a working XML sitemap and a robots file that does not accidentally block half the site. Retrofitting all of that onto a finished site costs more than doing it correctly the first time.</p>
           </article>
           <article>
@@ -145,15 +158,15 @@ const page = createPageSeo({
             <h2 id="services-heading">The full range of work we take on</h2>
             <p>Our work sits in a few clear groups, and most projects combine two or three of them. Everything below is delivered end to end, which means we take it from the first planning conversation through design, development, SEO setup, hosting and deployment, and then maintain it free for five months after it goes live.</p>
             <ul class="it-list">
-              <li>Static business and portfolio websites, from ₹5,000, for teams that need a fast, credible presence without a CMS to babysit.</li>
-              <li>Larger SEO focused websites, from ₹10,000 for a 30-page build handled design to deployment, with keyword mapping and schema included.</li>
-              <li>AI automation, from ₹15,000, covering chat assistants, document and data processing, lead routing and internal workflow automation.</li>
-              <li>Ecommerce stores, from ₹25,000, with payment gateway integration, product schema and a checkout flow tuned for mobile.</li>
-              <li>Custom web applications, from ₹40,000, including dashboards, booking systems, portals and internal tools with proper authentication.</li>
-              <li>Monthly SEO, from ₹5,000 per month, covering technical fixes, content, internal linking and reporting you can actually read.</li>
-              <li>Maintenance after the free five months, from ₹2,000 per month, covering updates, backups, security patches and monitoring.</li>
+              <li>Static business and portfolio websites of up to 100 pages, from ₹10,000 (US$150), for teams that need a fast, credible presence without a CMS to babysit.</li>
+              <li>Large SEO focused websites, from ₹20,000 (US$300) for a 700+ page build handled design to deployment, with keyword mapping and schema included.</li>
+              <li>AI automation, from ₹40,000 (US$600), covering chat assistants, document and data processing, lead routing and internal workflow automation.</li>
+              <li>Ecommerce stores, from ₹50,000 (US$750), with payment gateway integration, product schema and a checkout flow tuned for mobile.</li>
+              <li>Custom web applications, from ₹60,000 (US$900), including dashboards, booking systems, portals and internal tools with proper authentication.</li>
+              <li>Monthly SEO, from ₹10,000 (US$150) per month, covering technical fixes, content, internal linking and reporting you can actually read.</li>
+              <li>Maintenance after the free five months, from ₹8,000 (US$120) per month, covering updates, backups, security patches and monitoring.</li>
             </ul>
-            <p>Final cost always depends on scope. A five page site with supplied content behaves very differently from a thirty page site where we are writing everything, and we would rather price the real thing than advertise a number we quietly walk back. Full detail sits on our <a href="/services/">services page</a>, with deeper explanations under <a href="/services/web-development/">web development</a> and <a href="/services/seo-services/">SEO services</a>.</p>
+            <p>INR prices apply to clients in India and USD prices to clients everywhere else. Final cost always depends on scope. A ten page site with supplied content behaves very differently from a hundred page site where we are writing everything, and we would rather price the real thing than advertise a number we quietly walk back. Full detail sits on our <a href="/services/">services page</a>, with deeper explanations under <a href="/services/web-development/">web development</a> and <a href="/services/seo-services/">SEO services</a>.</p>
           </article>
         </div>
       </section>
@@ -163,7 +176,7 @@ const page = createPageSeo({
           <article>
             <h2 id="fit-heading">Who we are a good fit for</h2>
             <p>We work best with small and mid sized businesses, founders, professional practices, local service companies, educational institutions and startups who want one team to handle the whole technical side. If your current situation is a slow site nobody can edit, a developer who stopped replying, or an idea that has never left a notes app, that is squarely our territory.</p>
-            <p>We are also a good fit for people who want to understand what is being built. Clients who ask why a decision was made, who read the scope document, and who send content on time get noticeably better results, because a website is a collaboration whether or not anyone admits it. Businesses across India work with us remotely, and our <a href="/it-services/">IT services hub</a> covers the states and cities we serve most often.</p>
+            <p>We are also a good fit for people who want to understand what is being built. Clients who ask why a decision was made, who read the scope document, and who send content on time get noticeably better results, because a website is a collaboration whether or not anyone admits it. Businesses in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India work with us remotely. Our <a href="/countries/">countries page</a> explains how delivery works in each region, and our <a href="/it-services/">IT services hub</a> covers the Indian states and cities we serve most often.</p>
           </article>
           <article>
             <h3>Who we are honestly not for</h3>
@@ -182,8 +195,8 @@ const page = createPageSeo({
           </article>
           <article>
             <h3>After launch, and how we communicate</h3>
-            <p>The five months of free maintenance start when hosting goes live. During that window we handle content updates, bug fixes, security updates, backups and regular uptime and speed checks at no extra charge. It exists because problems surface in months two and three, not week one, and a client should not be paying extra to discover them. After that period you can continue from ₹2,000 per month or stop, with no automatic renewal.</p>
-            <p>Communication is deliberately plain. WhatsApp and email for day to day questions, calls when a conversation is faster than typing, and a short written update at every milestone so you always know where things stand. We work Indian Standard Time and overlap easily with clients in the Gulf, Europe and Australia, and we schedule early or late for United States hours. We reply in plain language and explain the reasoning rather than hiding behind terminology. If a request is a bad idea, we will tell you why and suggest the alternative.</p>
+            <p>The five months of free maintenance start when hosting goes live. During that window we handle content updates, bug fixes, security updates, backups and regular uptime and speed checks at no extra charge. It exists because problems surface in months two and three, not week one, and a client should not be paying extra to discover them. After that period you can continue from ₹8,000 (US$120) per month or stop, with no automatic renewal.</p>
+            <p>Communication is deliberately plain. WhatsApp and email for day to day questions, calls when a conversation is faster than typing, and a short written update at every milestone so you always know where things stand. We work from India (IST) and overlap easily with clients in the UAE, Singapore, the UK, Europe and Australia, and we schedule calls in US Eastern mornings for clients in the United States and Canada. We reply in plain language and explain the reasoning rather than hiding behind terminology. If a request is a bad idea, we will tell you why and suggest the alternative.</p>
           </article>
         </div>
       </section>
@@ -202,7 +215,7 @@ const page = createPageSeo({
               <li><a href="/portfolio/">Portfolio</a> and <a href="/case-studies/">case studies</a> for examples of delivered work.</li>
               <li><a href="/blog/">Blog</a> for practical write-ups on web performance, SEO and automation.</li>
               <li><a href="/it-services/">IT services</a> for state and city coverage across India.</li>
-              <li><a href="/india/">India</a>, <a href="/usa/">USA</a>, <a href="/uae/">UAE</a> and <a href="/australia/">Australia</a> for regional delivery details.</li>
+              <li><a href="/usa/">USA</a>, <a href="/uk/">UK</a>, <a href="/canada/">Canada</a>, <a href="/australia/">Australia</a>, <a href="/uae/">UAE</a> and <a href="/india/">India</a> for regional delivery details, or <a href="/countries/">all countries we serve</a>.</li>
               <li><a href="/terms/">Terms</a>, <a href="/privacy-policy/">privacy policy</a> and <a href="/refund-policy/">refund policy</a> for the commercial fine print.</li>
               <li><a href="/contact/">Contact</a> to send your brief and get a written scope back.</li>
             </ul>

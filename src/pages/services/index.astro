@@ -22,17 +22,27 @@ const faqs = [
   {
     question: "How much do your services cost?",
     answer:
-      "A static website starts from ₹5,000 and a 30-page SEO website from design to deployment starts from ₹10,000. Ecommerce starts from ₹25,000, custom applications from ₹40,000, monthly SEO from ₹5,000 per month, and maintenance from ₹2,000 per month. Final cost depends on scope.",
+      "A static website of up to 100 pages starts from ₹10,000 (US$150) and a 700+ page SEO website from design to deployment starts from ₹20,000 (US$300). AI automation starts from ₹40,000 (US$600), ecommerce from ₹50,000 (US$750), custom applications from ₹60,000 (US$900), monthly SEO from ₹10,000 (US$150) per month, and maintenance from ₹8,000 (US$120) per month. INR prices apply in India and USD prices to international clients. Final cost depends on pages, features, integrations and content.",
   },
   {
     question: "How long does a project take?",
     answer:
-      "A small static website usually takes one to three weeks once content is ready. A larger SEO-focused site runs three to six weeks. Software, ecommerce, and automation projects are planned in milestones so you see working pieces along the way instead of waiting until the end.",
+      "A static website usually takes one to two weeks once content is ready. A 700+ page SEO website runs three to five weeks. Software, ecommerce, and automation projects are planned in milestones so you see working pieces along the way instead of waiting until the end.",
   },
   {
     question: "Do you work with businesses outside India?",
     answer:
-      "Yes. Delivery is remote and we work with clients in the USA, UAE, UK, Australia, and Singapore alongside businesses across India. Calls are scheduled in whatever timezone overlap works for you.",
+      "Yes. We are based in India and deliver remotely to clients in the USA, UK, Canada, Australia, the UAE, Singapore and Europe alongside businesses across India. The services, written scope and 5 months of free maintenance are the same wherever you are.",
+  },
+  {
+    question: "How do you handle time zones with US, UK and Australian clients?",
+    answer:
+      "We work from India (IST) and keep a fixed overlap window per region: US Eastern mornings, the UK and European business day from late morning, and Australian afternoons. The UAE and Singapore overlap with most of our day. Written updates and a staging link keep work moving while you sleep.",
+  },
+  {
+    question: "How do international clients pay?",
+    answer:
+      "International projects are quoted in USD, or your local currency on request, and paid by bank wire, Wise or PayPal. Clients in India pay in INR by UPI or bank transfer. Payments follow milestones: a deposit to start, a payment at staging review, and the balance on launch.",
   },
   {
     question: "Who owns the website and code after the project?",
@@ -47,20 +57,29 @@ const faqs = [
   {
     question: "What is included in the 5 months of free maintenance?",
     answer:
-      "Content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks, for 5 months after your site goes live. After that you can continue on a monthly plan from ₹2,000 or contact us only when something needs changing.",
+      "Content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks, and basic SEO health checks, for 5 months after your site goes live. After that you can continue on a monthly plan from ₹8,000 (US$120) or contact us only when something needs changing.",
   },
 ];
 
 const page = createPageSeo({
-  title: "IT Services: Web Development, SEO, Software & AI",
+  title: "Web Development, SEO & AI Services for Global Clients",
   description:
-    "Full IT services from BtechWaleTech: website development, web design, SEO, ecommerce, custom software, AI automation, data analysis, deployment, and maintenance.",
+    "Web development, SEO, ecommerce, custom software and AI automation for businesses in the USA, UK, Canada, Australia, UAE & India. Starting from US$150.",
   canonicalPath: "/services/",
   h1: "IT services for websites, software, SEO, and automation",
   intro:
-    "Everything BtechWaleTech builds, in one place. Start with the service that solves your current bottleneck, then add more as the business grows.",
+    "Everything BtechWaleTech builds, in one place, for businesses in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India. Start with the service that solves your current bottleneck, then add more as the business grows.",
   breadcrumbs: createBreadcrumbs([{ label: "Services", href: "/services/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "web development company",
+    "hire web developers",
+    "hire web developers from India",
+    "outsource web development",
+    "SEO services USA UK",
+    "AI automation services USA",
+    "offshore software development",
     "IT services India",
     "IT services company",
     "web development services India",
@@ -138,7 +157,7 @@ const services = [
     name: "Website design and UI/UX",
     lead: "Interfaces that look credible and get out of the way of the task.",
     body:
-      "Design here means clarity before decoration: a layout that guides someone to the thing they came for, typography that stays readable on a phone, contrast that meets accessibility basics, and a structure that still works when your content grows. Every design is built mobile-first, because that is where most Indian web traffic arrives, and it is handed over as working pages rather than a static mockup you then have to pay someone else to build.",
+      "Design here means clarity before decoration: a layout that guides someone to the thing they came for, typography that stays readable on a phone, contrast that meets accessibility basics, and a structure that still works when your content grows. Every design is built mobile-first, because that is where most web traffic arrives, in India and worldwide, and it is handed over as working pages rather than a static mockup you then have to pay someone else to build.",
     points: ["Mobile-first layouts", "Accessible colour and type", "Design to working pages", "Redesign of existing sites"],
   },
   {
@@ -156,7 +175,7 @@ const services = [
   schema={[
     breadcrumbListSchema(page.breadcrumbs),
     faqSchema(faqs),
-    serviceSchema("IT Services", page.description, "/services/"),
+    { ...serviceSchema("IT Services", page.description, "/services/"), areaServed: ["US", "GB", "CA", "AU", "AE", "SG", "IN"].map((name) => ({ "@type": "Country", name })) },
   ]}
 >
   <div class="it-location">
@@ -187,7 +206,7 @@ const services = [
               person who built the site is the person fixing it.
             </p>
             <p>
-              BtechWaleTech is a small freelance group rather than an agency. That means you talk directly to the people
+              BtechWaleTech is a small freelance group based in India, working remotely with clients in the USA, UK, Canada, Australia, the UAE and India, rather than an agency. That means you talk directly to the people
               doing the work, there is no account manager relaying messages, and the pricing is not carrying an office
               overhead. It also means we are honest about capacity: if something is outside what we do well, we say so
               instead of taking the project anyway.
@@ -261,7 +280,7 @@ const services = [
               Once hosting is live, the next <strong>5 months of maintenance are included free</strong>. That covers
               content and text updates, bug fixes, dependency and security updates, backups, uptime and speed checks,
               and basic SEO health checks. Not a trial that quietly converts into a bill: it is part of the project
-              price. After those 5 months you can continue on a monthly plan from ₹2,000, or simply contact us when
+              price. After those 5 months you can continue on a monthly plan from ₹8,000 (US$120), or simply contact us when
               something needs changing.
             </p>
           </article>
@@ -325,6 +344,8 @@ const services = [
           <article class="it-card">
             <h3>Locations and company</h3>
             <ul class="it-list">
+              <li><a href="/countries/">Countries we serve</a></li>
+              <li><a href="/usa/">USA</a>, <a href="/uk/">UK</a>, <a href="/canada/">Canada</a>, <a href="/australia/">Australia</a> and <a href="/uae/">UAE</a></li>
               <li><a href="/india/">IT services in India</a></li>
               <li><a href="/it-services/haryana/gurugram/">IT services in Gurugram</a></li>
               <li><a href="/it-services/maharashtra/mumbai/">IT services in Mumbai</a></li>

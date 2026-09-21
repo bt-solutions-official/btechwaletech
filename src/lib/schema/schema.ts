@@ -10,13 +10,14 @@ export function organizationSchema() {
     url: siteBrand.domain,
     email: siteContact.email,
     telephone: siteContact.phone,
+    logo: `${siteBrand.domain}/icon-512.png`,
     sameAs: [...teamSocialProfiles],
     contactPoint: {
       "@type": "ContactPoint",
       contactType: "customer support",
       email: siteContact.email,
       telephone: siteContact.phone,
-      areaServed: "IN",
+      areaServed: ["US", "GB", "CA", "AU", "AE", "SG", "IN"],
       availableLanguage: ["en", "hi"],
     },
   };
@@ -51,6 +52,7 @@ export function serviceSchema(name: string, description: string, path: string) {
     name,
     description,
     url: canonicalUrl(path),
+    areaServed: ["US", "GB", "CA", "AU", "AE", "SG", "IN"],
     provider: {
       "@type": "Organization",
       name: siteBrand.name,

@@ -1,0 +1,1136 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, pricingNote, usdPrice } from "@data/pricing/plans";
+import { usd } from "@data/countries/international";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a New Zealand web design company?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India that works remotely with New Zealand businesses. We have no office, staff or address in New Zealand, and no NZBN. What you get instead is direct contact with the engineers who build your site, written scopes and starting prices well below typical local agency rates.",
+  },
+  {
+    question: "What does a website cost for a New Zealand business?",
+    answer: `A static website of up to 100 pages starts from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Ongoing SEO is from ${usd("Monthly SEO")} and ongoing maintenance from ${usd("Maintenance")}. All are starting prices in US dollars, and the final quote depends on your requirements.`,
+  },
+  {
+    question: "Can you invoice in New Zealand dollars?",
+    answer: "Yes, if you ask. The default is US dollars, and on request we issue the invoice in NZD using the exchange rate on the day we quote. Paying through Wise lets you send an ordinary domestic transfer from your NZ bank account; an international wire from your bank also works. Payments are split into milestones.",
+  },
+  {
+    question: "Is New Zealand GST included in your prices?",
+    answer: "No. Our starting prices are in US dollars and do not include New Zealand GST. We supply from overseas, so ask your accountant how an imported service should be treated in your GST return. We are happy to include your business name, NZBN or other details on the invoice.",
+  },
+  {
+    question: "New Zealand is 6.5 to 7.5 hours ahead of India. How do meetings work?",
+    answer: "Honestly, the live overlap is short, so we plan around it. Calls usually happen in your mid-to-late afternoon, which is our morning, and we can start from 7am IST by arrangement so a call lands around 1:30pm in winter or 2:30pm in summer. Most of the work runs asynchronously: you send feedback during your day and wake up to the changes and a written update.",
+  },
+  {
+    question: "Do you work with businesses outside Auckland?",
+    answer: "Yes. We work with businesses in every region, remotely: Auckland, Wellington, Canterbury and Christchurch, Waikato and Hamilton, Bay of Plenty and Tauranga, Otago, Dunedin and Queenstown, and everywhere else from Northland to Southland. Regional businesses get the same process and starting prices.",
+  },
+  {
+    question: "Can you set up Windcave, POLi, Stripe or Afterpay on our online store?",
+    answer: "Yes. We integrate the payment providers you choose, such as Windcave, Stripe, Shopify Payments or PayPal for cards, Afterpay for buy now pay later, and account-to-account bank payment options such as POLi where the provider currently supports your platform and bank. Merchant accounts are opened in your business name.",
+  },
+  {
+    question: "Can you help us rank on google.co.nz?",
+    answer: "We work on what we can control: technical SEO, site structure, page speed, content written for New Zealand searches, LocalBusiness schema, internal links and hreflang if you have separate New Zealand and Australian pages. We guide you through your Google Business Profile, which you verify yourself. Nobody can guarantee rankings, and we report honestly on what moved.",
+  },
+  {
+    question: "Does the Privacy Act 2020 apply to small businesses?",
+    answer: "Generally yes. Unlike Australia's law, New Zealand's Privacy Act 2020 has no small business exemption, so a sole trader collecting names and emails through a website form is covered. We build forms that collect only what you need, with clear notices and secure storage. We are engineers, not lawyers, so please get privacy wording checked by an adviser.",
+  },
+  {
+    question: "What do we need for email marketing sign-ups?",
+    answer: "The Unsolicited Electronic Messages Act 2007 requires consent before sending commercial emails or texts, accurate sender details and a working unsubscribe. We build sign-up forms with unticked consent boxes and plain wording, and connect them to email tools that handle unsubscribes automatically. Your adviser should confirm the details for your situation.",
+  },
+  {
+    question: "Can our website include te reo Māori?",
+    answer: "Yes. We support macrons properly in content, URLs and search, mark te reo Māori text with the correct language code so screen readers and search engines handle it well, and can build bilingual pages. The text itself should come from you or a fluent speaker or translator you trust; we do not machine-translate te reo Māori.",
+  },
+  {
+    question: "Can you register our .nz or .co.nz domain?",
+    answer: "You register it in your own name through a New Zealand or international registrar and give us DNS access, or we guide you through it. Registering .nz names does not require a New Zealand business, but the registrant should always be you. We then connect hosting, SSL and email records and document the setup.",
+  },
+  {
+    question: "Where will our website be hosted?",
+    answer: "Static sites usually run on a global CDN with edge locations close to New Zealand, so pages load quickly in Auckland and Invercargill alike. Apps with a database can run in an Australian or New Zealand cloud region where data location or latency matters. Hosting accounts are always opened in your name.",
+  },
+  {
+    question: "We sell to Australia too. Can the website handle both countries?",
+    answer: "Yes. We can build separate New Zealand and Australian versions with their own prices in NZD and AUD, GST treatment, delivery rules and spelling, linked with hreflang tags for en-NZ and en-AU so each country's Google shows the right version. Australian consumer law and privacy rules differ from New Zealand's, so your adviser should check both.",
+  },
+  {
+    question: "Can you connect our website to Xero, Tradify or Timely?",
+    answer: `Usually. Xero, Tradify, Timely, ServiceM8 and similar tools have APIs or automation connectors, so enquiries, bookings, jobs and invoices can move between your website and the software you use without retyping. We map the workflow before quoting. AI automation starts from ${usd("AI automation")}.`,
+  },
+  {
+    question: "Who owns the website when it is finished?",
+    answer: "You do. The code, content, design files, hosting account, domain and every admin login are handed over in accounts under your name. You can take the site to another developer at any time without asking our permission.",
+  },
+  {
+    question: "What does the five months of free maintenance cover?",
+    answer: `From the day hosting goes live, five months of maintenance are included: content and price updates, bug fixes, security updates, backups and uptime and speed checks. After that you can continue from ${usd("Maintenance")} or simply get in touch when something needs changing.`,
+  },
+  {
+    question: "How long will our project take?",
+    answer: "Typical timelines are one to two weeks for a static website, three to five weeks for a 700+ page SEO website, two to four weeks for AI automation, four to eight weeks for an ecommerce store and six to twelve weeks for a custom web app. Slow content and approvals delay projects far more than the time difference does.",
+  },
+  {
+    question: "Can we meet you in person in New Zealand?",
+    answer: "No. We are a remote team in India and do not travel to client sites. Everything happens over video calls, WhatsApp, email and a shared staging link, and every decision is confirmed in writing.",
+  },
+  {
+    question: "How do we start?",
+    answer: "Send us a WhatsApp message or an email describing your business, what you need and a few websites you like. Expect a few questions back, followed by a written scope, a timeline and an itemised quote, normally inside two working days. Work begins once you approve the scope and pay the first milestone.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company NZ | Website Design & SEO",
+  description: `Web developers for NZ businesses in Auckland, Wellington and Christchurch. Websites, ecommerce, SEO and apps from ${usd("Static")}, built remotely from India.`,
+  canonicalPath: "/new-zealand/",
+  h1: "Web development company for New Zealand businesses",
+  intro: `BtechWaleTech is a small team of engineers based in India. We design and build websites, online stores, web apps, SEO systems and AI automations for businesses across Aotearoa New Zealand, from Auckland and Wellington to Christchurch, Tauranga and Queenstown, working remotely. Websites start from ${usd("Static")}, and every figure here is a starting price.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "New Zealand", href: "/new-zealand/" },
+  ]),
+  locale: "en_NZ",
+  alternateLocales: ["en_AU"],
+  ogImage: { url: "/banner_logo.png", alt: "BtechWaleTech, a remote web development and SEO team serving businesses across New Zealand", width: 1536, height: 1024 },
+  keywords: [
+    "web development company NZ",
+    "web development company New Zealand",
+    "web developers NZ",
+    "website design NZ",
+    "website design New Zealand",
+    "SEO services NZ",
+    "local SEO New Zealand",
+    "ecommerce website development NZ",
+    "Shopify developer NZ",
+    "Windcave integration",
+    "custom software development NZ",
+    "offshore web developers New Zealand",
+    "small business website NZ",
+    "website cost NZ",
+    "AI automation NZ",
+    "website maintenance NZ",
+    "web design Auckland",
+    "web developers Wellington",
+    "website design Christchurch",
+    "web design Canterbury",
+    "web developer Hamilton",
+    "web design Waikato",
+    "website design Tauranga",
+    "web design Bay of Plenty",
+    "web developer Dunedin",
+    "website design Queenstown",
+    "web design Otago",
+    "web design Nelson",
+    "web design Hawke's Bay",
+    "web developer Palmerston North",
+    "web design Northland",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Call window", "Your afternoon, our early morning"],
+  ["Invoicing", "USD, or NZD on request via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "All 16 regions, North and South Island"],
+];
+
+const pills = ["Business websites", "Shopify & WooCommerce", "SEO for google.co.nz", "Windcave & Afterpay checkout", "Te reo Māori support", "Xero automation"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "16", label: "Regions served remotely" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers based in India: full stack, AI and cloud, and project delivery" },
+  { label: "How we work", value: "Mostly asynchronous, with calls in your afternoon and a private staging link" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Checkout options we set up", value: "Windcave, Stripe, Shopify Payments, PayPal, Afterpay and POLi where available" },
+  { label: "Language", value: "New Zealand English, with macrons and te reo Māori content supported" },
+  { label: "Starting prices", value: `From ${usd("Static")} for a website; every figure is a starting price in USD` },
+  { label: "After launch", value: `5 months of free maintenance, then from ${usd("Maintenance")} or as needed` },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Quick, mobile-first sites on Astro, Next.js or WordPress, in New Zealand English, with enquiries delivered to your inbox, phone or CRM.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO & local SEO", note: "Technical SEO, content and town-level local search for google.co.nz, with en-NZ and en-AU hreflang for trans-Tasman sites.", href: "/services/seo-services/", size: "md" },
+  { name: "Online stores", note: "Shopify, WooCommerce or custom builds with Windcave, Stripe or Afterpay, GST-inclusive NZD pricing and NZ Post or courier rates.", size: "sm" },
+  { name: "Custom software", note: "Booking systems, portals, quoting tools and dashboards for teams that have outgrown spreadsheets.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Installable apps for staff in the field or customers, updated without app store review.", size: "sm" },
+  { name: "AI automation", note: "Enquiries, jobs, bookings and invoices flowing between your website, Xero, Tradify or Timely.", size: "sm" },
+  { name: "Bilingual content", note: "Te reo Māori and English pages with correct macrons, language tags and navigation.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with the first 5 months after launch included.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Highest, covering NZ salaries, premises and account management", "Lowest headline price, very uneven quality", `From ${usd("Static")} for a website, itemised in writing`],
+  ["Who builds it", "A team, often behind a project manager", "One person, sometimes subcontracting", "The three engineers on your calls"],
+  ["Live contact", "Your whole working day", "Unpredictable", "Your afternoon, plus written async updates"],
+  ["Scope in writing", "Usually, after a paid discovery", "Often just a job post", "Always, before the first payment"],
+  ["SEO basics", "Frequently an add-on", "Often left out", "Titles, schema, sitemap and Search Console included"],
+  ["After launch", "Retainer or hourly from day one", "Contact often lapses", "5 months of maintenance included"],
+  ["Ownership", "Varies by contract", "Check the terms carefully", "Code, domain, hosting and logins in your name"],
+  ["Face-to-face", "Yes, if nearby", "No", "No: remote only, stated upfront"],
+];
+
+// ---------- Process ----------
+
+const process = [
+  ["Talk", "A video call in your afternoon or a WhatsApp conversation about your business, customers and budget. Free."],
+  ["Scope & quote", "Page list, features, integrations, timeline and an itemised quote in USD or NZD, agreed in writing."],
+  ["Design", "Sitemap and wireframes, then visual designs for the key pages, checked on your own phone."],
+  ["Build on staging", "A private staging link you can open any time, with a written note whenever it changes."],
+  ["Test & SEO", "Titles, schema, redirects, macrons, speed, forms, GST display and payments tested before launch."],
+  ["Launch & support", "Domain pointed, Search Console verified, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Industries table ----------
+
+const industries = [
+  { name: "Trades and construction", need: "Proof of work, licensing such as LBP status where relevant, areas covered and a quick way to request a quote", build: "Fast sites with click-to-call, project galleries, quote forms feeding Tradify or ServiceM8, review request flows" },
+  { name: "Tourism and hospitality", need: "Seasonal availability, honest inclusions, real photos and booking that works for overseas visitors", build: "Tour and accommodation sites, booking engine links, multi-currency display, content timed for the season" },
+  { name: "Agriculture and agritech", need: "Product specifications, dealer or rep contacts, compliance details and technical documentation", build: "Catalogue sites, dealer locators, product data sheets, B2B enquiry and ordering portals" },
+  { name: "Food, wine and producers", need: "Where the product comes from, how to buy it, shipping rules and age checks for alcohol", build: "Direct-to-consumer stores, wine clubs, R18 age confirmation, courier and rural delivery rules" },
+  { name: "Health, wellness and beauty", need: "Practitioner details, services and prices, and online booking without phone tag", build: "Clinic and salon sites, booking links to Timely or practice software, accessible layouts, careful health claims" },
+  { name: "Professional services", need: "Credentials, specialist areas, clear fees where possible and answers to first questions", build: "Clean, quick sites with team profiles, insights articles and secure document upload" },
+  { name: "Education and training", need: "Programme details, intakes, fees, entry requirements and a clear path to enrol", build: "Course pages, enquiry and enrolment flows, international student information, CRM integration" },
+  { name: "Retail and online brands", need: "Product detail, GST-inclusive NZD prices, delivery times including rural, and returns", build: "Shopify or WooCommerce stores, Afterpay, NZ Post and courier integration, Xero sync" },
+  { name: "Community and not-for-profit", need: "Plain explanations, event listings, volunteer sign-ups and a simple way to donate", build: "Accessible sites, donation pages, event calendars, bilingual te reo Māori and English content" },
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface GuideTable { caption: string; head: string[]; rows: string[][]; hideSm?: number[] }
+interface GuideSection { id: string; heading: string; paragraphs: string[]; list?: string[]; after?: string[]; table?: GuideTable }
+
+const guide: GuideSection[] = [
+  {
+    id: "who-we-are",
+    heading: "A remote engineering team for New Zealand businesses",
+    paragraphs: [
+      "We are three engineers working from India. Ankur Kumar builds the websites and applications as our full stack developer. Santosh Sharma covers AI and machine learning, AWS and cloud deployment, data science and technical SEO. Vedansh Shrivastava looks after project management, data science, AI and automation. That is the whole team. When you talk to us, you are talking to the people who will write your code, set up your hosting and fix the bug you report next month.",
+      "Everything we do for New Zealand clients is done remotely. We do not have an office in Auckland, a registered New Zealand company or a local phone number, and we are not going to imply otherwise with a virtual address. If your procurement policy requires a New Zealand entity, on-site workshops or staff with local security vetting, we are the wrong choice and we will tell you so early.",
+      "Where we fit well is with small and growing businesses, sole traders, charitable trusts, startups and internal teams who need solid engineering at a price that makes sense for a New Zealand-sized market. A local agency may be priced for businesses with larger budgets; a cheap marketplace freelancer may disappear after the final payment. We sit between those: a small, accountable team with a documented process and published starting prices.",
+      "Working with us looks like this. We agree a written scope before any money changes hands. Early in the project you get a private staging link where the real website takes shape, and you can check it on your phone at the cafe or on the desktop in the office. Every change we make is summarised in writing. Calls are short and happen in your afternoon, and the bulk of the collaboration runs through written comments, which suits the time difference and leaves you with a clear record of every decision.",
+      "The time difference is the main thing to understand before hiring us. New Zealand is 6.5 to 7.5 hours ahead of India, which is the biggest gap of any market we serve in the Asia-Pacific. It is manageable, and in some ways useful, but it does mean we rely on asynchronous work more than we would with an Australian or Singaporean client. The time-zone section below sets out exactly how it works.",
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "What we build for New Zealand businesses",
+    paragraphs: [
+      "<strong>Websites.</strong> Business websites, landing pages and content-led sites on Astro or Next.js, or on WordPress when your team wants to edit pages without a developer. For most service businesses we suggest a static site because it is quick on rural broadband and mobile networks, inexpensive to host, and has very little attack surface. The static plan covers up to 100 pages, responsive design, enquiry forms, hosting, SSL and deployment. Copy is set in New Zealand English: organisation, colour, enquiry and programme, prices in NZD with GST included for consumers, dates in day-month-year order and phone numbers in the +64 format. Details are on the <a href=\"/services/web-development/\">web development service page</a>.",
+      "<strong>Large SEO websites.</strong> A 700+ page site makes sense for a small number of New Zealand businesses: a national service with genuine regional detail, a directory or listings site, or a large product range. The plan includes keyword and page planning, schema, a sitemap and internal linking, from design through to deployment. In a country with fewer towns and less search volume than larger markets, we are careful not to produce hundreds of near-identical pages that nobody searches for. Scale only helps when each page answers a real query.",
+      "<strong>Online stores.</strong> Shopify, WooCommerce or custom ecommerce with the payment providers New Zealand shoppers expect, GST-inclusive NZD pricing, shipping rules that account for rural delivery and the Cook Strait, and orders synced to Xero. The ecommerce section below goes deeper.",
+      "<strong>SEO for google.co.nz.</strong> Monthly SEO covers technical fixes, on-page work, content and local search. For businesses serving a town or region we focus on service pages, Google Business Profile guidance and the directories New Zealanders use. Stores that ship nationwide get the attention on category and product pages instead. More on the <a href=\"/services/seo-services/\">SEO services page</a>.",
+      "<strong>Custom software and web apps.</strong> Booking systems for tour operators, quoting tools for manufacturers, portals for clients to upload documents to an accountant, dashboards that pull data from several systems, and internal tools for teams that have outgrown spreadsheets. When a business asks for a mobile app, we often suggest a progressive web app instead: it installs from the browser, works on iPhone and Android, and updates without app store review or fees.",
+      "<strong>AI automation.</strong> Practical automations that remove admin: an enquiry from the website becomes a job in Tradify with an acknowledgement text to the customer; a paid order creates an invoice in Xero; a booking in Timely triggers a reminder and a follow-up review request; an AI assistant drafts replies to common questions or sorts incoming emails, with a person checking anything important. We map the process first and automate second.",
+      "<strong>Maintenance.</strong> Once hosting goes live, five months of maintenance are included: content edits, bug fixes, security updates, backups, uptime and speed monitoring and basic SEO health checks. After that, maintenance starts from " + usd("Maintenance") + ", or you can simply contact us when something needs doing. Full starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
+    ],
+  },
+  {
+    id: "ecommerce-nz",
+    heading: "Ecommerce in New Zealand: Windcave, POLi, Stripe, Afterpay and delivery",
+    paragraphs: [
+      "New Zealand online shoppers are used to buying from large Australian and international stores, so a local store has to match their checkout experience while offering something they cannot get elsewhere: local stock, faster delivery, New Zealand-made products or better service. A clumsy checkout undoes all of that.",
+      "<strong>Choosing a platform.</strong> Shopify is the usual recommendation for small and mid-sized stores because it is managed, reliable and easy for staff to run, and it has apps for New Zealand couriers and accounting. WooCommerce suits businesses already invested in WordPress or wanting to avoid platform subscription fees. A custom build suits B2B ordering with account pricing, unusual product configuration, or a catalogue that platforms handle poorly. We explain the trade-offs for your case and recommend one.",
+      "<strong>Windcave.</strong> Windcave, the New Zealand payment company formerly known as Payment Express, is widely used by New Zealand merchants, especially those that also take in-person payments on its terminals. It integrates with WooCommerce, many other platforms and custom builds, and supports hosted payment pages that keep card data off your website. If you already use Windcave in store, keeping online payments with them often simplifies reconciliation.",
+      "<strong>Stripe, Shopify Payments and PayPal.</strong> Stripe and Shopify Payments are straightforward to set up for card payments, Apple Pay and Google Pay, which matter because much New Zealand shopping happens on phones. PayPal is still expected by some buyers, particularly overseas customers. Compare current fees, payout timing and dispute handling before choosing; every merchant account is opened and verified in your name.",
+      "<strong>POLi and bank payments.</strong> Some New Zealand shoppers prefer paying directly from their bank account rather than by card. Account-to-account options such as POLi have been used for this, but provider coverage and platform support change over time, so we check what is currently available for your bank mix and platform before recommending it. For B2B orders, a plain bank transfer with the order held until payment is confirmed still works well.",
+      "<strong>Afterpay.</strong> Buy now pay later is common in fashion, beauty, homeware and electronics, and Afterpay operates in New Zealand with plugins for the main platforms. Afterpay reviews your merchant application and sets the fees, which are usually higher than card fees, so weigh the likely lift in conversion against your margins. We add the checkout option and the product-page messaging, and test purchases and refunds end to end.",
+      "<strong>Shipping and rural delivery.</strong> Shipping in New Zealand has its own quirks: rural delivery addresses and surcharges, inter-island freight, and customers on Waiheke, Stewart Island or the Chatham Islands. We configure rates by zone and address type, connect NZ Post and CourierPost, NZ Couriers, Aramex or an aggregator where you use one, and show realistic delivery times. Address autocomplete based on New Zealand address data reduces failed deliveries caused by typos.",
+      "<strong>GST and Xero.</strong> GST in New Zealand is 15 per cent, and consumer prices are normally shown inclusive of it. GST-registered businesses need correct taxable supply information on their invoices, and we configure the store to your accountant's instructions. Most New Zealand small businesses use Xero, so we connect orders, fees and refunds so they flow into your books instead of being keyed in by hand. Your accountant confirms the tax settings; we implement them.",
+      "<strong>Consumer protection.</strong> The Consumer Guarantees Act and the Fair Trading Act apply online as they do in a shop. Returns pages cannot suggest customers have fewer rights than the law gives them, and claims about products must be accurate and able to be backed up. We build honest, clear checkout and policy templates, and you confirm the wording with your adviser.",
+    ],
+  },
+  {
+    id: "seo-nz",
+    heading: "SEO for google.co.nz: local search, towns and hreflang",
+    paragraphs: [
+      "New Zealand is a small search market compared with Australia or the United States, and that changes the strategy. Search volumes for many service terms are modest, the same national chains and Australian retailers compete for product searches, and in many towns a well-built site with a properly maintained Google Business Profile can reach the top of local results sooner than it would in a bigger city. The opportunity is real, but it rewards precision rather than volume.",
+      "<strong>Technical groundwork.</strong> Every site we launch has clean URLs, a single H1 per page, unique titles and descriptions, canonical tags, an XML sitemap submitted to Search Console, structured data for your business type and images compressed in modern formats. We test on throttled mobile connections, because rural broadband and mobile coverage outside the main centres still vary a lot, and a page that loads slowly in Taupō or on the West Coast loses the customer before they read anything.",
+      "<strong>Google Business Profile and local directories.</strong> For a business serving local customers, the Google Business Profile is often the most valuable listing it has. We guide you through choosing the right category, setting service areas if you travel to customers, adding services, hours and photos, and linking to the best page on your site. The profile must be verified and owned by you. We also check that your name, address and phone number are consistent on your website, your profile, Finda, Yellow, NoCowboys, Builderscrack, industry associations and social profiles.",
+      "<strong>Towns, suburbs and service areas.</strong> A tradie in Christchurch might cover Rolleston, Rangiora and Lincoln; an Auckland business might serve the North Shore but not South Auckland. Pages for the areas you genuinely serve can help, provided each one has something specific to say. Thin pages with only the town name changed are a liability. We usually start with a handful of the most valuable areas and expand only when there is real content.",
+      "<strong>Macrons and Māori place names.</strong> Many New Zealand places have Māori names written with macrons, such as Taupō, Whangārei, Ōtautahi and Kaikōura, and people search both with and without them. We use the correct spelling on the page, make sure URLs and internal search handle both forms, and write naturally so the page reads well to people and search engines alike.",
+      "<strong>.nz, .co.nz and country signals.</strong> Google no longer lets you choose a target country in Search Console, so it reads other signals: a .nz or .co.nz domain, New Zealand addresses and phone numbers where you have them, NZD prices and content clearly written for New Zealanders. A .co.nz or .nz domain is a strong local signal; a .com works too, but then the content and hreflang have to do more of the work.",
+      "<strong>hreflang for en-NZ and en-AU.</strong> Many New Zealand businesses also sell to Australia. Serving both countries from one set of pages leads to confused customers: wrong currency, wrong GST, wrong delivery times. We build separate en-NZ and en-AU versions, either in folders or on .co.nz and .com.au domains, with hreflang tags linking them and an x-default for everyone else, so google.co.nz shows the New Zealand pages and google.com.au shows the Australian ones.",
+      "<strong>Reporting.</strong> Monthly SEO starts from " + usd("Monthly SEO") + " and comes with a straightforward monthly summary from Search Console: impressions, clicks, growing queries, what we changed and what comes next. We never promise rankings; anyone who guarantees a first-page position on google.co.nz is selling something they cannot control.",
+    ],
+  },
+  {
+    id: "te-reo-maori",
+    heading: "Te reo Māori, macrons and bilingual websites",
+    paragraphs: [
+      "Te reo Māori is an official language of New Zealand, and more businesses, iwi organisations, schools, councils and community groups now use it on their websites, from greetings and headings to fully bilingual content. Doing it well is partly a technical job and partly a matter of respect, and we take care with both.",
+      "On the technical side, macrons must display correctly in every font and on every device, which means choosing typefaces that include the characters and testing them, not assuming. Text in te reo Māori should be marked with the language code mi so screen readers pronounce it properly and search engines understand which language the content is in. Fully bilingual sites need a sensible structure, usually separate URLs for each language with a clear switcher and matching navigation, rather than a toggle that swaps text in the browser where search engines cannot see it.",
+      "On the content side, we do not machine-translate te reo Māori and we do not invent translations. Wording should come from you, from a fluent speaker in your organisation, or from a translator you trust, and where content relates to a particular iwi or hapū, from the people it belongs to. Our job is to make sure that text is presented correctly, loads quickly and works for everyone who reads it.",
+      "The same care applies to other languages. Auckland in particular is home to large Pacific and Asian communities, and some businesses benefit from pages in Samoan, Tongan, Chinese, Hindi or Korean. We build the multilingual structure and language tags; you or your translator supply and check the words.",
+    ],
+  },
+  {
+    id: "trans-tasman",
+    heading: "Selling across the Tasman: New Zealand and Australian customers",
+    paragraphs: [
+      "For many New Zealand businesses, Australia is the first export market. The shared language makes it feel close, but the details differ in ways that matter on a website, and customers notice when a store treats them as an afterthought.",
+      "Prices need to be shown in AUD for Australian visitors, with Australian GST at 10 per cent rather than New Zealand's 15 per cent, and GST obligations in Australia depend on your sales there, so an accountant should advise before you launch. Delivery times and costs across the Tasman are different from domestic rates and should be stated clearly before checkout. Australian consumer law, including its own consumer guarantees and rules about how prices are displayed, applies to sales to Australian consumers, and Australia's Privacy Act and Spam Act sit alongside New Zealand's equivalents.",
+      "Technically, we usually recommend separate country versions: /nz/ and /au/ folders on one domain, or a .co.nz site paired with a .com.au site. Each version has its own currency, tax settings, shipping rules and spelling where it differs, and hreflang tags tell Google which one belongs to which country. Shopify Markets and similar features can handle part of this for stores; custom sites handle it in the build. Afterpay works in both countries, which keeps checkout familiar on both sides. If you are selling into Australia, our <a href=\"/australia/\">Australia page</a> covers that market in more depth.",
+    ],
+  },
+  {
+    id: "compliance-nz",
+    heading: "Compliance basics: Privacy Act 2020, the UEM Act, Fair Trading Act, accessibility and GST",
+    paragraphs: [
+      "We are engineers, not lawyers or accountants, so none of this is legal or tax advice. It is the practical groundwork we build into New Zealand websites so that when your adviser reviews them, there is less to fix. Please have a qualified professional confirm what applies to your business and approve the final wording of policies.",
+      "<strong>Privacy Act 2020 and the information privacy principles.</strong> The Act sets out information privacy principles that cover why and how personal information is collected, how people are told about it, how it is stored and kept secure, and how people can see and correct what is held about them. A key difference from Australia is that there is no small business exemption: a one-person business collecting enquiries through a website form is covered. A newer principle about collecting personal information indirectly, from someone other than the person it is about, was added in recent amendments. We build forms that collect only the fields you need, show a plain-language notice at the point of collection, link to a real privacy statement and send data to storage with proper access controls.",
+      "<strong>Cross-border disclosure.</strong> The Act has a specific principle about sending personal information overseas, and because our team is in India, it is worth planning for. Our default is to build and test with dummy data, keep customer data in your own systems and hosting accounts, and access live personal information only when a task genuinely needs it and you have agreed. If your adviser wants particular contract terms about how we handle data, we will sign them.",
+      "<strong>Privacy breaches.</strong> Serious privacy breaches must be notified to the Office of the Privacy Commissioner and to affected people. Engineering choices make those breaches less likely: HTTPS everywhere, patched software, two-factor authentication for admin accounts, least-privilege access, tested backups and no personal data sitting in unprotected spreadsheets or inboxes.",
+      "<strong>Unsolicited Electronic Messages Act 2007.</strong> Commercial emails and texts need the recipient's consent, must identify the sender accurately, and must include a working unsubscribe that is actioned promptly. The Department of Internal Affairs enforces the Act. We build sign-up forms with unticked consent boxes and clear wording, connect them to email platforms that manage unsubscribes automatically, and record when and how each person opted in.",
+      "<strong>Fair Trading Act 1986 and the Consumer Guarantees Act 1993.</strong> The Fair Trading Act prohibits misleading and deceptive conduct and unsubstantiated claims, and its unfair contract terms rules apply to standard form consumer contracts and, since recent changes, to many small trade contracts as well. The Consumer Guarantees Act gives consumers rights that cannot be signed away in ordinary consumer sales. On a website that affects product claims, pricing, reviews, returns pages and terms and conditions. The Commerce Commission enforces these laws.",
+      "<strong>Accessibility.</strong> The Human Rights Act 1993 prohibits disability discrimination in providing goods and services, and government agencies follow the New Zealand Government Web Accessibility Standard, which is based on WCAG. We build to WCAG 2.2 level AA as a working target for every site: meaningful headings, keyboard navigation, visible focus, labelled form fields, strong colour contrast, text alternatives and error messages that screen readers announce. If you supply to government or funded organisations with their own requirements, share them and we will build to them.",
+      "<strong>GST.</strong> GST is 15 per cent, and businesses must register once their turnover passes the registration threshold. For your website that means GST-inclusive consumer prices, correct invoice information and matching settings in your store and in Xero or your accounting software. For your purchase from us, our starting prices are in US dollars without New Zealand GST; your accountant can confirm how an imported service is treated.",
+      "<strong>Sector rules.</strong> Some industries have their own advertising requirements. Health and wellness businesses should be careful with therapeutic claims and follow the Advertising Standards Authority's codes. Licensed building practitioners, real estate agents and financial advice providers have registration details that belong on their sites. Alcohol sellers need age verification and must follow licensing conditions. We build the structure; you supply the regulated wording.",
+    ],
+  },
+  {
+    id: "time-zones",
+    heading: "Working across a 6.5 to 7.5 hour time difference",
+    paragraphs: [
+      "India Standard Time is UTC+5:30 all year. New Zealand Standard Time is UTC+12, so New Zealand is 6.5 hours ahead of India through the winter. From the last Sunday in September to the first Sunday in April, New Zealand Daylight Time applies and the gap grows to 7.5 hours. The Chatham Islands run 45 minutes ahead of the mainland. For a week or so each spring, New Zealand has switched to daylight time while Australia has not, which is why the gap to Sydney briefly looks unusual.",
+      "The practical effect is that your working day starts while it is still night in India, and our working morning falls in your afternoon. We reply between 9am and 9pm IST, seven days a week, which on its own gives only a short live window near the end of your day. So for calls we start earlier: by arrangement we are available from 7am IST, which puts a meeting at about 1:30pm in winter or 2:30pm in summer in Auckland, Wellington or Christchurch. Some owners prefer an early-evening call after their own day's work, which lands in our late morning and suits us well.",
+    ],
+    table: {
+      caption: "Time difference and call windows between India (IST) and New Zealand",
+      head: ["Your time zone", "When it applies", "Ahead of IST", "Our 7am IST is your", "Our 9am IST is your"],
+      rows: [
+        ["NZST (UTC+12)", "Mainland New Zealand, early April to late September", "6.5 hours", "1:30pm", "3:30pm"],
+        ["NZDT (UTC+13)", "Mainland New Zealand, late September to early April", "7.5 hours", "2:30pm", "4:30pm"],
+        ["CHAST (UTC+12:45)", "Chatham Islands, winter", "7.25 hours", "2:15pm", "4:15pm"],
+        ["CHADT (UTC+13:45)", "Chatham Islands, summer", "8.25 hours", "3:15pm", "5:15pm"],
+      ],
+      hideSm: [1],
+    },
+    after: [
+      "Because the live overlap is short, New Zealand projects run on a mostly asynchronous rhythm, and it works better than people expect. You review the staging site and leave comments during your day. We pick them up in our morning, which is your afternoon, work through them across our day while you are at home, and leave a written summary. When you start work the next morning the changes are ready to check. In effect you get a full working day of progress overnight, every night. For something urgent on a live site, such as a payment failure, message us on WhatsApp; our working hours cover your afternoon, evening and night.",
+    ],
+  },
+  {
+    id: "payments-invoicing",
+    heading: "Paying us from New Zealand: USD, NZD, Wise and wire",
+    paragraphs: [
+      "All international prices on this site are listed in US dollars and come from the same price list we use in India. If you would rather be billed in New Zealand dollars, ask, and the invoice will be issued in NZD at the exchange rate on the day of the quote. The NZD amount you approve is the amount you pay.",
+      "Wise is usually the simplest and cheapest option for New Zealand clients: you pay Wise by a normal domestic bank transfer in NZD, it converts at the mid-market rate with a clear fee, and the money reaches us in India. An international wire from your bank also works, although banks often build a margin into the exchange rate and intermediary banks can deduct fees along the way. We never ask for payment in cryptocurrency or gift cards, and neither should anyone else you hire.",
+      "Projects are paid in milestones linked to work you can see: typically a deposit to begin, a payment once the design is approved on staging, and the balance at launch, with extra milestones on larger builds. Monthly SEO and maintenance are billed monthly in advance and can be stopped with notice. Work outside the approved scope is quoted and agreed before it starts, so an invoice never contains a surprise.",
+    ],
+  },
+  {
+    id: "cost-explained",
+    heading: "What a website costs in New Zealand, explained",
+    paragraphs: [
+      "Website quotes in New Zealand vary enormously, from a few hundred dollars for a template to tens of thousands for an agency build, and both ends can be the right answer for someone. The difference is almost always scope: how many pages, who writes the content, how much is custom, and what happens after launch. Our starting prices are low because we run a small team in India, not because we leave out hosting, SEO setup or testing. The final quote depends on your requirements. Here is what each starting price typically covers.",
+    ],
+    list: [
+      `<strong>From ${usd("Static")}, static website:</strong> a tradie, consultant, clinic, cafe or local service business with a home page, service pages, about, contact and a gallery, up to 100 pages, using text and photos you provide. Includes an enquiry form, tap-to-call buttons, basic SEO tags, a sitemap, hosting setup and going live.`,
+      `<strong>From ${usd("SEO website")}, SEO website of 700+ pages:</strong> a large, structured site built around search intent, such as a national service with real regional detail or a big product range, with keyword planning, schema and internal linking.`,
+      `<strong>From ${usd("AI automation")}, AI automation:</strong> one clearly defined workflow, for example website enquiries created as jobs in Tradify, an automatic text to the customer, and a reminder to you if the job has not been quoted within a day.`,
+      `<strong>From ${usd("Ecommerce")}, ecommerce store:</strong> product and category pages, cart and checkout, a payment provider such as Windcave or Stripe, GST settings, shipping rules including rural delivery, order basics and performance tuning.`,
+      `<strong>From ${usd("Custom web app")}, custom web app:</strong> a focused first version of a booking system, client portal, dashboard or internal tool, with user accounts, roles, an admin panel and deployment.`,
+      `<strong>From ${usd("Monthly SEO")}, monthly SEO; from ${usd("Maintenance")}, maintenance:</strong> continuing care billed monthly with a written report, starting once the five included months end.`,
+    ],
+    after: [
+      "Quotes go up with many unique page layouts, copy written from scratch, complex product variants, integrations with older software that lacks a good API, bilingual or multi-country versions, and tight deadlines. They stay down when content and photos are ready, one person can make decisions, and the first version is kept focused.",
+      "Remember the running costs paid to other providers: domain renewals, hosting, email, premium plugins or a Shopify plan, payment and Afterpay fees, SMS credits and any paid apps. We list expected running costs in the quote. See the <a href=\"/pricing/\">pricing page</a> for the full list of starting prices.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Hiring an offshore web developer from New Zealand: a checklist",
+    paragraphs: [
+      "Going offshore can stretch a New Zealand budget a long way, but the savings disappear quickly if the project goes wrong. Most problems come from the same few causes: vague scope, poor communication across time zones, code nobody else can maintain, and accounts registered in the developer's name. Use these questions with any provider, including us.",
+    ],
+    list: [
+      "<strong>Who exactly will work on it?</strong> Ask for names and roles, and whether any part will be handed to another contractor.",
+      "<strong>How will we work across the time difference?</strong> A good answer names specific call times in your time zone and explains how feedback is handled overnight. A vague promise of availability is a warning sign.",
+      "<strong>Can I see and test live work?</strong> Load their sites on your phone, run them through PageSpeed Insights, and try them with a keyboard only.",
+      "<strong>Whose name goes on the accounts?</strong> The domain, hosting, code repository, payment provider and every paid licence must be yours.",
+      "<strong>What is in the scope, and what is not?</strong> Pages, design rounds, content writing, SEO setup, integrations, exclusions and how extra work is priced, all in writing.",
+      "<strong>Do they understand New Zealand specifics?</strong> GST at 15 per cent, NZD pricing, rural delivery, Windcave, macrons, the Privacy Act 2020 and the UEM Act. If none of that is familiar, you will be paying for them to learn it.",
+      "<strong>How are payments staged?</strong> Milestones linked to visible progress on staging, never the full amount upfront.",
+      "<strong>What happens after launch?</strong> Who fixes problems, how quickly, for how long and at what cost.",
+    ],
+    after: [
+      "<strong>Walk away if you see:</strong> guaranteed rankings on google.co.nz; the domain registered to the developer; pirated or nulled themes and plugins; testimonials, awards or client logos you cannot verify; no staging link until the day of launch; pressure to pay everything in advance; or an offshore team presenting itself as a New Zealand company.",
+      "<strong>A fair agreement covers:</strong> the scope and deliverables, milestones and payment terms, intellectual property passing to you on payment, confidentiality, how personal information is handled, how changes are requested and priced, what support is included, and what happens to your data, backups and access if the relationship ends.",
+    ],
+  },
+];
+
+// ---------- Regions ----------
+
+const regions = [
+  {
+    name: "Auckland",
+    maori: "Tāmaki Makaurau",
+    cities: "Auckland CBD, North Shore, Manukau, Henderson, Pukekohe, Waiheke",
+    industries: "Retail and ecommerce, professional services, construction, hospitality",
+    text: "Auckland is New Zealand's largest commercial centre and its most competitive search market. Professional firms in the CBD, importers and distributors around East Tāmaki and Penrose, construction and trades businesses spread from Silverdale to Pukekohe, and a large share of the country's online stores all compete here. Auckland is also the most culturally diverse city in the country, with large Pacific, Chinese, Indian and Korean communities, so multilingual pages can make a real difference for businesses serving those customers. Because the city is geographically spread out, service-area clarity matters: a plumber based in Albany does not want enquiries from Papakura, and a website that states the areas it covers saves everyone time. Waiheke Island's wineries, accommodation and event venues need booking-led sites with ferry and transport information.",
+  },
+  {
+    name: "Wellington",
+    maori: "Te Whanganui-a-Tara",
+    cities: "Wellington, Lower Hutt, Upper Hutt, Porirua, Kāpiti Coast, Masterton",
+    industries: "Government suppliers, consultancies, film and screen, tech and fintech",
+    text: "Wellington is the capital and the centre of central government, so many of its businesses are consultancies, contractors, professional associations and not-for-profits that work with or alongside government agencies. Their websites are read by policy advisers and procurement teams who value clear capability statements, plain language and accessibility over visual effects, and government work often comes with formal accessibility and security requirements that we build to when you share them. We cannot hold New Zealand security clearances, so work requiring vetted staff or access to government systems is not something we can take on. Wellington also has a strong film, screen and creative sector around Miramar, a cluster of software and fintech companies, and Xero began here, which says something about the local software culture. The Hutt Valley has manufacturing and science organisations, and Kāpiti and the Wairarapa have growing lifestyle, food and wine businesses.",
+  },
+  {
+    name: "Canterbury",
+    maori: "Waitaha",
+    cities: "Christchurch, Rolleston, Rangiora, Ashburton, Timaru, Kaikōura",
+    industries: "Construction, agritech, manufacturing, tourism, education",
+    text: "Christchurch, or Ōtautahi, was substantially rebuilt after the 2010 and 2011 earthquakes, and construction, engineering, architecture and property businesses remain a large part of the economy. The city also has a notable technology and advanced manufacturing sector, and Lincoln University and the University of Canterbury feed agritech and engineering firms. Around the city, fast-growing towns such as Rolleston and Rangiora have many new trades, childcare, health and retail businesses that need a first website that ranks locally. Mid and South Canterbury, including Ashburton and Timaru, depend on dairy, arable farming, irrigation and food processing, where B2B catalogues and dealer information matter. Kaikōura, Hanmer Springs and Akaroa bring tourism operators who need seasonal booking content.",
+  },
+  {
+    name: "Waikato",
+    maori: "Waikato",
+    cities: "Hamilton, Cambridge, Te Awamutu, Taupō, Thames, Raglan",
+    industries: "Dairy and agritech, education, manufacturing, tourism",
+    text: "Hamilton, or Kirikiriroa, is the service centre for one of the most productive dairy regions in the country, and agritech, farm services, rural contractors, veterinary practices and machinery dealers are common here. The national agricultural field days at Mystery Creek draw exhibitors from across the country, and many businesses time website and product launches around them. The University of Waikato and Wintec support education and research businesses. Cambridge is known for horse breeding and training, Te Awamutu and Matamata for farming and tourism, Raglan for surfing and small hospitality businesses, and Taupō for lake and adventure tourism. Rural customers often search on phones with patchy coverage, so light pages and clear phone contact matter more than elaborate design.",
+  },
+  {
+    name: "Bay of Plenty",
+    maori: "Te Moana-a-Toi",
+    cities: "Tauranga, Mount Maunganui, Rotorua, Te Puke, Whakatāne, Katikati",
+    industries: "Horticulture and kiwifruit, port logistics, tourism, construction",
+    text: "Tauranga is one of New Zealand's fastest-growing cities, and its port at Mount Maunganui is one of the country's busiest export gateways, supporting freight, logistics and customs businesses. The surrounding region is the heart of the kiwifruit industry, centred on Te Puke, with avocados and other horticulture across the western Bay of Plenty, which creates demand for orchard services, packhouses, contractors and agritech suppliers. Rotorua is a major tourism destination for geothermal attractions, Māori cultural experiences and mountain biking, where operators need booking-led sites that work for international visitors. Growth in Tauranga also brings a large construction, trades and retirement living sector, and Whakatāne and the eastern Bay have fishing, forestry and tourism businesses.",
+  },
+  {
+    name: "Otago",
+    maori: "Ōtākou",
+    cities: "Dunedin, Queenstown, Wānaka, Oamaru, Alexandra, Cromwell",
+    industries: "Tourism, education and health research, wine and fruit, hospitality",
+    text: "Otago combines two very different markets. Dunedin, or Ōtepoti, is a university city built around the University of Otago and Otago Polytechnic, with health research, education, student accommodation and a strong independent retail and hospitality scene; some well-known New Zealand software companies started here too. Queenstown and Wānaka are international tourism destinations for skiing, adventure activities, weddings and luxury travel, where websites must work for visitors browsing from Sydney, Singapore or London and bookings need to be made in advance of the season. Central Otago is known for pinot noir and summerfruit, especially cherries around Cromwell, which suits cellar-door bookings and direct-to-consumer stores. Oamaru has heritage tourism and food producers.",
+  },
+];
+
+const otherRegions = [
+  { name: "Northland", industries: "Tourism, horticulture, marine", cities: "Whangārei, Kerikeri, Paihia, Kaitaia", note: "Tourism in the Bay of Islands, horticulture including avocados and kiwifruit, marine businesses and a large rural area where mobile-first, light pages matter." },
+  { name: "Hawke's Bay", industries: "Wine, orchards, food processing", cities: "Napier, Hastings, Havelock North", note: "Wine, orchards and food processing, art deco tourism in Napier, and businesses still recovering from Cyclone Gabrielle in 2023." },
+  { name: "Taranaki", industries: "Energy services, dairy, engineering", cities: "New Plymouth, Hāwera, Stratford", note: "Energy and engineering services, dairy, and outdoor tourism around Taranaki Maunga, with B2B suppliers needing capability pages." },
+  { name: "Manawatū-Whanganui", industries: "Education, agri-food research, logistics", cities: "Palmerston North, Whanganui, Feilding", note: "Massey University, agri-food research, defence and logistics around Palmerston North, and arts and heritage in Whanganui." },
+  { name: "Nelson and Tasman", industries: "Seafood, horticulture, wine, tourism", cities: "Nelson, Richmond, Motueka, Golden Bay", note: "Seafood, hops, apples and wine, arts and crafts, and tourism around Abel Tasman National Park." },
+  { name: "Marlborough", industries: "Wine, aquaculture, tourism", cities: "Blenheim, Picton, Havelock", note: "The centre of New Zealand sauvignon blanc, with wineries, vineyard contractors, aquaculture and Marlborough Sounds tourism." },
+  { name: "Southland", industries: "Farming, food processing, tourism", cities: "Invercargill, Gore, Te Anau, Stewart Island", note: "Farming, food processing and aluminium, plus Fiordland tourism gateways such as Te Anau for Milford Sound." },
+  { name: "Gisborne, West Coast and beyond", industries: "Forestry, horticulture, tourism, mining", cities: "Gisborne, Greymouth, Westport, Hokitika", note: "Forestry, horticulture and wine in Tairāwhiti; tourism, mining and small business on the West Coast, where pages must stay very light." },
+];
+
+const guideToc = guide.map((g) => ({ id: g.id, heading: g.heading }));
+
+// ---------- Structured data ----------
+
+const url = canonicalUrl(page.canonicalPath);
+const newZealand = { "@type": "Country", name: "New Zealand" };
+const regionNames = [
+  "Northland", "Auckland", "Waikato", "Bay of Plenty", "Gisborne", "Hawke's Bay", "Taranaki", "Manawatū-Whanganui",
+  "Wellington", "Tasman", "Nelson", "Marlborough", "West Coast", "Canterbury", "Otago", "Southland",
+];
+const majorCities = ["Auckland", "Wellington", "Christchurch", "Hamilton", "Tauranga", "Dunedin", "Queenstown", "Palmerston North", "Napier", "Hastings", "Nelson", "Rotorua", "New Plymouth", "Whangārei", "Invercargill", "Lower Hutt"];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development for New Zealand`,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${usd("Maintenance")} – ${usd("Custom web app")}+`,
+  currenciesAccepted: "USD, NZD",
+  paymentAccepted: "Bank transfer, Wise",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  knowsLanguage: ["en"],
+  areaServed: [
+    newZealand,
+    ...regionNames.map((name) => ({ "@type": "State", name, containedInPlace: newZealand })),
+    ...majorCities.map((name) => ({ "@type": "City", name, containedInPlace: newZealand })),
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development, SEO and IT services for New Zealand businesses (starting prices)",
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
+      areaServed: newZealand,
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(usdPrice(plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: "USD",
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-NZ",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+
+const relatedLinks = [
+  { name: "All countries", href: "/countries/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "India", href: "/india/" },
+  { name: "USA", href: "/usa/" },
+  { name: "United Kingdom", href: "/uk/" },
+  { name: "Canada", href: "/canada/" },
+  { name: "UAE", href: "/uae/" },
+  { name: "Web development", href: "/services/web-development/" },
+  { name: "SEO services", href: "/services/seo-services/" },
+  { name: "All services", href: "/services/" },
+  { name: "Pricing", href: "/pricing/" },
+  { name: "Portfolio", href: "/portfolio/" },
+];
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="nz-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">New Zealand · North and South Island</p>
+        <h1 id="nz-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Remote delivery to New Zealand &middot; No NZ office
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label="Starting prices for New Zealand businesses">
+        <p class="quote-kicker">New Zealand starting prices (USD)</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Starting prices; your quote depends on requirements. NZD invoicing on request. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for New Zealand in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Need a web development company for your New Zealand business?</h2>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team in India that builds websites, online stores, SEO systems, custom software and AI automations for New Zealand businesses, working remotely with calls in your afternoon and progress overnight. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}, priced in US dollars with NZD invoicing on request. Hosting and deployment are included, with five months of free maintenance after launch.</p>
+        <p class="answer-more">A kiwifruit contractor in Te Puke, a Queenstown tour operator and a Wellington policy consultancy need very different websites. This page covers what we build, how New Zealand payments, SEO, te reo Māori content and compliance fit in, what it costs, how we handle the biggest time difference of any market we serve, and how to hire an offshore developer without regrets.</p>
+      </div>
+      <table class="snapshot">
+        <caption>BtechWaleTech for New Zealand at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for New Zealand</p>
+        <h2 id="services-heading">Websites, stores, SEO and software for New Zealand businesses</h2>
+        <p class="section-note">One small team takes the project from plan to launch: design, development, SEO setup, hosting and deployment, so there is no handover gap between separate suppliers.</p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">NZ agency vs marketplace freelancer vs BtechWaleTech</h2>
+        <p class="section-note">Typical trade-offs, stated fairly. There are excellent New Zealand agencies and excellent freelancers; this compares the usual shape of each option, not any named provider.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a New Zealand agency, a marketplace freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">NZ agency</th>
+              <th scope="col" class="col-other hide-sm">Marketplace freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other hide-sm">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Website development cost for New Zealand businesses: starting prices</h2>
+        <p class="section-note">Each figure is a starting price in US dollars, and your quote depends on your requirements: number of pages, content, payments, user accounts, integrations and deadline. On request we invoice in New Zealand dollars at the rate on the quote date, paid through Wise or bank wire.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices in USD for BtechWaleTech services for New Zealand clients</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingNote} New Zealand GST is not included; your accountant can advise how an imported service is treated. <a href="/pricing/">See full pricing</a>.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to web development for New Zealand businesses">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guideToc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          <li><a href="#regions-guide">Region by region</a></li>
+          <li><a href="#regions-heading">Regions table</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#process-heading">Process and timelines</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={g.table!.hideSm?.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => i === 0
+                        ? <th scope="row">{cell}</th>
+                        : <td class={g.table!.hideSm?.includes(i) ? "hide-sm" : undefined}>{cell}</td>)}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+
+        <article aria-labelledby="regions-guide">
+          <h2 id="regions-guide">Region by region: what New Zealand businesses need online</h2>
+          <p>We work with every region remotely, on the same process and starting prices. What changes is the local economy, how crowded search results are, who your customers are and how they reach you. These notes describe typical needs in each region; they are not a list of clients.</p>
+          {regions.map((r) => (
+            <div class="state-block">
+              <h3>{r.name} <small class="ut-tag" lang="mi">{r.maori}</small></h3>
+              <p>{r.text}</p>
+            </div>
+          ))}
+          <div class="state-block">
+            <h3>The rest of the country</h3>
+            <p>Smaller regions often have less online competition, which means a well-built site can stand out quickly. A few typical patterns:</p>
+            <ul>
+              {otherRegions.map((r) => <li><strong>{r.name}</strong> ({r.cities}): {r.note}</li>)}
+            </ul>
+          </div>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="regions-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Regions</p>
+        <h2 id="regions-heading">Where we work in New Zealand</h2>
+        <p class="section-note">Main centres and towns, and the sectors that most often need websites and software there. Every region is served remotely from India, on New Zealand time for calls.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">New Zealand regions with main towns and common industries</caption>
+          <thead>
+            <tr><th scope="col">Region</th><th scope="col">Main centres</th><th scope="col" class="hide-sm">Common industries</th></tr>
+          </thead>
+          <tbody>
+            {regions.map((r) => (
+              <tr><th scope="row">{r.name}</th><td>{r.cities}</td><td class="hide-sm">{r.industries}</td></tr>
+            ))}
+            {otherRegions.map((r) => (
+              <tr><th scope="row">{r.name}</th><td>{r.cities}</td><td class="hide-sm">{r.industries}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for New Zealand's main industries</h2>
+        <p class="section-note">Practical needs by sector, and the websites, stores and tools that meet them. The <a href="/industries/">industries page</a> has more.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Industries, what their customers look for, and what we build</caption>
+          <thead><tr><th scope="col">Industry</th><th scope="col">What customers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first message to a live site</h2>
+        <p class="section-note">Six stages, each ending in something you can check. Live calls are short and in your afternoon; the rest happens in writing, overnight.</p>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Timelines assume content and approvals arrive on time. Payment providers approve merchant accounts on their own schedule, so apply for Windcave, Stripe or Afterpay early in an ecommerce project.</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Web development for New Zealand businesses: questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Related</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation for other markets</h2>
+        <p class="section-note">Other countries we serve remotely, plus our service and pricing pages.</p>
+      </div>
+      <div class="city-cloud">
+        {relatedLinks.map((l) => <a class="city-chip" href={l.href}>{l.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us what you want built, from Northland to Southland</h2>
+        <p class="closing-note">
+          Message us on WhatsApp or email a short description of your business. We reply with questions, then a page plan, a timeline and an
+          itemised quote in USD or NZD. You pay nothing until the scope is approved, and the first five months of maintenance after launch cost nothing.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .prose-table { margin: 1.5rem 0; }
+  .prose-table .price-table { font-size: 0.88rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p { margin-top: 1.1rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+  .ut-tag { margin-left: 0.4rem; color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(2rem, 7vw, 3.5rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

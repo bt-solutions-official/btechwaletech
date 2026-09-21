@@ -1,0 +1,1444 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { usd } from "@data/countries/international";
+
+const path = "/saudi-arabia/";
+const url = canonicalUrl(path);
+const updated = "2026-09-21";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a Saudi company or do you have an office in Riyadh?",
+    answer: "No. We are a small team of engineers based in India and we serve clients in Saudi Arabia remotely. We have no office, commercial registration, MISA licence or employees in the Kingdom. You work directly with the three engineers who build your project, over WhatsApp, email and video calls.",
+  },
+  {
+    question: "What does a website cost for a Saudi business?",
+    answer: `Starting prices for Saudi clients are ${usd("Static")} for a static website of up to 100 pages, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. The final quote depends on your requirements, such as an Arabic-first design, integrations and content.`,
+  },
+  {
+    question: "Can the website be Arabic-first, with English as the second language?",
+    answer: "Yes, and for most consumer-facing Saudi sites we recommend it. We design the Arabic right-to-left layout as the primary version, then adapt it for English, rather than translating an English site at the end. Both languages get their own URLs, metadata and hreflang tags so each can rank on its own.",
+  },
+  {
+    question: "Who writes the Arabic text on the site?",
+    answer: "You, your team or a translator you trust. Nobody on our team is a native Arabic copywriter, and we do not present machine translation as final copy. We give you a structured sheet of every string that needs Arabic, from headings to error messages, and we handle the layout, fonts, forms and search setup around it.",
+  },
+  {
+    question: "Do you integrate mada, Apple Pay and STC Pay?",
+    answer: "Yes, through the payment gateway you contract with. Gateways such as HyperPay, Moyasar, PayTabs, Checkout.com and Tap support mada cards, and most support Apple Pay; STC Pay availability depends on the provider. We connect the gateway, test the full checkout including refunds, and make sure card data never touches your own server. Merchant approval and fees are between your company and the provider.",
+  },
+  {
+    question: "Can you add Tabby or Tamara instalments to our store?",
+    answer: "Yes. Both are widely used buy now, pay later options in Saudi Arabia. Once your company is approved by the provider, we add the checkout option and the instalment messaging on product pages according to their guidelines, and we test how returns and partial refunds flow back to the customer.",
+  },
+  {
+    question: "Should we use Salla, Zid, Shopify or a custom store?",
+    answer: "Salla and Zid are Saudi platforms with Arabic dashboards, local payment and shipping options built in, and they suit many small and mid-sized stores. Shopify suits brands that sell across several countries or want its app ecosystem. A custom build suits B2B ordering, unusual pricing or deep ERP integration. We recommend one after looking at your catalogue, team and growth plans.",
+  },
+  {
+    question: "How do you approach SEO on google.com.sa?",
+    answer: "We research Arabic and English keywords separately, including the Saudi dialect phrasing people actually type, then map them to pages. Each language version has its own titles, headings and hreflang tags. For local businesses we plan city and district pages only where you really serve customers, and help with your Google Business Profile. Monthly SEO covers content, technical fixes and reporting.",
+  },
+  {
+    question: "What is the time difference between India and Saudi Arabia?",
+    answer: "Saudi Arabia is two and a half hours behind India all year, since neither country changes its clocks. Our hours of 9am to 9pm IST run from 6.30am to 6.30pm in Riyadh, so we cover the Saudi morning and afternoon fully, and WhatsApp messages sent in the Saudi evening are seen and answered promptly.",
+  },
+  {
+    question: "Do you work on Sundays, the start of the Saudi working week?",
+    answer: "Yes. The Saudi weekend is Friday and Saturday, so Sunday is a normal working day for you. We reply on WhatsApp seven days a week and schedule calls on Sunday to Thursday to match your team. We avoid launching large changes on a Thursday afternoon, just before your weekend.",
+  },
+  {
+    question: "Which currency do you invoice in, and how do Saudi clients pay?",
+    answer: "We quote and invoice in US dollars by default, and we can invoice in Saudi riyals on request, converted at the riyal's fixed peg to the dollar. Payment is by international bank transfer or Wise, in milestones: a deposit to start, a payment at staging approval and the balance at launch.",
+  },
+  {
+    question: "Is VAT or withholding tax involved when a Saudi company pays you?",
+    answer: "We invoice from India and do not charge Saudi VAT. Saudi companies paying foreign suppliers may need to self-account for VAT and may have withholding tax obligations on payments for services. Rules depend on your situation, so please confirm the treatment with your tax adviser before the first payment. We are engineers, not tax advisers.",
+  },
+  {
+    question: "Does our online store need ZATCA e-invoicing?",
+    answer: "Businesses registered for VAT in Saudi Arabia fall under ZATCA's e-invoicing requirements, which have been rolled out in phases. Your store or order system may need to connect to a compliant e-invoicing solution that issues invoices in the required format. We integrate with the solution your accountant chooses. Confirm your own phase and deadlines with your adviser.",
+  },
+  {
+    question: "Does the Saudi Personal Data Protection Law affect our website?",
+    answer: "If your site collects names, phone numbers, emails or other personal data, the PDPL overseen by SDAIA is relevant, including rules on consent, privacy notices and transferring data outside the Kingdom. We build forms that collect only what you need, show a clear Arabic and English notice, and link to your privacy policy. Please take legal advice on your specific obligations.",
+  },
+  {
+    question: "Can the site be hosted inside Saudi Arabia?",
+    answer: "Yes, when your sector, data or clients require it. Several major cloud providers operate data centre regions in the Kingdom, and we can deploy there on accounts in your company's name. For most marketing sites a global CDN with points of presence in the Gulf is fast and cheaper. We explain the trade-off and deploy where you decide.",
+  },
+  {
+    question: "Can forms handle the Saudi National Address and Hijri dates?",
+    answer: "Yes. Checkout and registration forms can use the National Address structure, with building number, street, district, city, postal code and additional number, which helps couriers deliver first time. Where your customers expect it, dates can be shown in both the Gregorian and Hijri calendars, and mobile number fields validate the +966 format.",
+  },
+  {
+    question: "How long does a project for a Saudi client take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. An Arabic-first design adds time for RTL testing, and gateway approvals can take longer than the build, so we start them early.",
+  },
+  {
+    question: "Who owns the website and accounts when the project ends?",
+    answer: `You do. Domain, hosting, analytics, Search Console, store and gateway accounts are set up in your company's name, and at handover you receive the source code and every login. After launch you get five months of maintenance free, then an optional plan from ${usd("Maintenance")} a month.`,
+  },
+  {
+    question: "How do we start?",
+    answer: "Send a WhatsApp message or email about your business, the cities or regions you serve, your preferred languages and any sites you admire. We reply with questions, then a written scope, timeline and itemised quote, usually within two working days. Nothing starts until you approve the scope.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company Saudi Arabia | Riyadh & Jeddah",
+  description: `Web development for Saudi businesses: Arabic-first websites, Salla, Zid and Shopify stores with mada, and SEO. Remote team in India, from ${usd("Static")}.`,
+  canonicalPath: path,
+  h1: "Web development company for Saudi Arabia: Riyadh, Jeddah, Dammam and beyond",
+  intro: `BtechWaleTech is a small team of engineers based in India that builds Arabic-first websites, online stores, SEO systems, custom software and AI automations for businesses across the Kingdom. We work remotely, bill in US dollars or riyals, and publish our starting prices: websites start from ${usd("Static")}.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Saudi Arabia", href: path },
+  ]),
+  locale: "en_SA",
+  alternateLocales: ["ar_SA"],
+  ogImage: { url: "/banner_logo.png", alt: "BtechWaleTech, a remote web development and SEO team from India serving businesses in Saudi Arabia", width: 1536, height: 1024 },
+  keywords: [
+    "web development company Saudi Arabia",
+    "website design Saudi Arabia",
+    "web development company KSA",
+    "web development company Riyadh",
+    "website design Riyadh",
+    "website design Jeddah",
+    "web development Dammam",
+    "website design Khobar",
+    "website development Makkah",
+    "website design Madinah",
+    "web developer Eastern Province",
+    "SEO services Saudi Arabia",
+    "SEO company Riyadh",
+    "Arabic website design",
+    "RTL website development",
+    "ecommerce website development Saudi Arabia",
+    "Salla store design",
+    "Zid store setup",
+    "Shopify developer Saudi Arabia",
+    "mada payment gateway integration",
+    "HyperPay Moyasar integration",
+    "Tabby Tamara integration",
+    "custom software development Saudi Arabia",
+    "AI automation Riyadh",
+    "offshore web development Saudi Arabia",
+    "تصميم مواقع",
+    "تصميم مواقع الرياض",
+    "شركة تصميم مواقع في السعودية",
+    "برمجة مواقع",
+    "تصميم متجر إلكتروني",
+    "تحسين محركات البحث",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Languages", "Arabic-first RTL builds, English in-house"],
+  ["Billing", "USD, or SAR on request"],
+  ["Time gap", "KSA is 2.5 hours behind IST"],
+  ["After launch", "5 months of maintenance free"],
+];
+
+const pills = ["Arabic-first RTL sites", "Salla, Zid and Shopify", "mada, Apple Pay, STC Pay", "SEO for google.com.sa", "AI automation", "Custom web apps"];
+
+const stats = [
+  { value: "3", label: "Engineers you deal with directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "2.5h", label: "Behind India, all year round" },
+  { value: "5", label: "Months maintenance included free" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers based in India, serving Saudi businesses remotely" },
+  { label: "What we build", value: "Websites, online stores, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Language approach", value: "Arabic-first RTL layouts; Arabic copy from you or your translator" },
+  { label: "Payments we integrate", value: "mada, Visa, Mastercard, Apple Pay, STC Pay, Tabby, Tamara via your gateway" },
+  { label: "Store platforms", value: "Salla, Zid, Shopify, WooCommerce or a custom build" },
+  { label: "Working hours overlap", value: "6.30am to 6.30pm Riyadh time, Sunday to Thursday calls" },
+  { label: "Office in Saudi Arabia", value: "None. Remote delivery from India only" },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Arabic-first business websites on Astro, Next.js or WordPress, with an English version, WhatsApp contact and fast mobile pages.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO for google.com.sa", note: "Saudi Arabic keyword research, hreflang, city pages where you really operate, schema and monthly content.", href: "/services/seo-services/", size: "md" },
+  { name: "Online stores", note: "Salla, Zid, Shopify or custom stores with mada, Apple Pay, BNPL, cash on delivery and local couriers.", size: "sm" },
+  { name: "Arabic RTL engineering", note: "Right-to-left layouts, Arabic typography, Hijri dates and National Address forms done properly.", size: "sm" },
+  { name: "Custom software", note: "Contractor portals, booking systems, fleet dashboards and admin panels for your team.", size: "sm" },
+  { name: "AI automation", note: "Arabic and English document extraction, lead routing, WhatsApp flows and internal assistants.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Installable web apps for staff and customers, without the cost of native app stores.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, backups, fixes and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Higher, reflects local offices, licences and sales staff", "Cheap bids, scope and quality uncertain", `From ${usd("Static")}, with an itemised written quote`],
+  ["Arabic quality", "Strong in-house Arabic writing is common", "Mixed; RTL often an afterthought", "Arabic-first RTL engineering; copy from your translator"],
+  ["Local presence", "Face-to-face meetings in the Kingdom", "Usually none", "None. Video calls, WhatsApp and a staging link"],
+  ["Who builds it", "Varies, often a team behind a manager", "One person, sometimes subcontracting", "The three engineers you talk to"],
+  ["Sunday availability", "Yes", "Depends on the person", "Yes; replies seven days a week"],
+  ["Payment integrations", "Usually experienced", "Often Stripe-only habits", "mada, Apple Pay, STC Pay, Tabby, Tamara via your gateway"],
+  ["Ownership", "Usually yours, check the contract", "Logins sometimes kept back", "Every account in your company's name"],
+  ["After launch", "Paid support contract", "Often unreachable", "5 months of maintenance included free"],
+];
+
+// ---------- Regions ----------
+
+const regions = [
+  { name: "Riyadh region", cities: "Riyadh, Al Kharj, Diriyah", market: "Capital, headquarters of government bodies and large companies, fast-growing tech and events sector.", build: "Corporate bilingual sites, B2G supplier profiles, SaaS dashboards, event and venue pages" },
+  { name: "Makkah region", cities: "Jeddah, Makkah, Taif, Rabigh", market: "Jeddah's port, trade and retail; Umrah and Hajj hospitality and transport around Makkah; Taif's tourism and agriculture.", build: "Ecommerce, hotel and Umrah service sites, multilingual booking flows, trading catalogues" },
+  { name: "Eastern Province", cities: "Dammam, Khobar, Dhahran, Jubail, Al Ahsa", market: "Energy, petrochemicals, industrial contractors and suppliers, plus retail and dining in Khobar.", build: "B2B contractor sites, capability statements, tender-ready profiles, restaurant and retail sites" },
+  { name: "Madinah region", cities: "Madinah, Yanbu, AlUla", market: "Pilgrim hospitality, Yanbu's industrial city, and AlUla's heritage tourism.", build: "Hotel and tour sites, visitor information pages, industrial supplier catalogues" },
+  { name: "Qassim", cities: "Buraydah, Unaizah, Ar Rass", market: "Agriculture, dates and food trade, family businesses and regional retail.", build: "Product catalogues, wholesale enquiry systems, small online stores" },
+  { name: "Asir", cities: "Abha, Khamis Mushait", market: "Mountain tourism, summer visitors, local services and a growing hospitality sector.", build: "Tourism and chalet booking sites, local service pages, seasonal offer pages" },
+  { name: "Tabuk and NEOM", cities: "Tabuk, Duba, NEOM area", market: "Giga-project suppliers, construction, logistics and new tourism destinations on the Red Sea.", build: "Supplier and subcontractor sites, recruitment pages, project-facing company profiles" },
+  { name: "Other regions", cities: "Hail, Jazan, Najran, Al Bahah, Al Jawf, Northern Borders", market: "Regional trade, agriculture, local services and government-linked projects.", build: "Lean static sites, Google Business Profile guidance, simple ordering and booking" },
+];
+
+// ---------- Industries ----------
+
+const industries = [
+  { name: "Real estate", need: "Arabic listings with district filters, off-plan project pages, financing information, instant WhatsApp contact", build: "Listing platforms, developer project sites, CRM-linked lead forms, Arabic and English district pages" },
+  { name: "Hospitality & tourism", need: "Umrah, leisure and event visitors, seasonal rates, several languages, booking on a phone", build: "Hotel and tour operator sites, booking engine links, multilingual pages, event landing pages" },
+  { name: "Retail & ecommerce", need: "mada and Apple Pay, BNPL, clear delivery times by city, easy returns in Arabic", build: "Salla, Zid, Shopify or custom stores with gateways, courier integration and e-invoicing hooks" },
+  { name: "Healthcare", need: "Doctor profiles, insurance acceptance, appointment requests, privacy-conscious forms", build: "Clinic and medical centre sites, booking forms with minimal data, bilingual service pages" },
+  { name: "Education & training", need: "Admissions details, programme pages, fee enquiries, parent and student information", build: "School, training centre and course sites, enquiry and registration forms, course catalogues" },
+  { name: "Logistics & industry", need: "Service scope, certifications, quote requests, tracking and document downloads", build: "B2B sites with quote forms, tracking lookups, capability statements and tender documents" },
+  { name: "Food & beverage", need: "Menus in Arabic and English, delivery app links, branch locations, late opening hours", build: "Café and restaurant sites, branch pages, menu CMS, ordering links and Google Business Profile setup" },
+];
+
+// ---------- Process ----------
+
+const process = [
+  ["Conversation", "A WhatsApp chat or video call on a Sunday to Thursday slot about your business, regions, languages and goals. Free."],
+  ["Scope & quote", "A written page plan, Arabic and English keyword list, timeline and itemised quote in USD or SAR, usually within two working days."],
+  ["Arabic-first design", "Key page layouts designed right-to-left first, then adapted for English, reviewed by you before development."],
+  ["Build on staging", "Development on a private staging link, with gateway, courier and form testing in both languages."],
+  ["Go live", "Hosting, domain, SSL, Search Console, analytics and sitemap set up, and launch timed early in your working week."],
+  ["Aftercare", "Five months of maintenance free, then an optional monthly plan or changes only when you need them."],
+];
+
+// ---------- Schema ----------
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development and IT services for Saudi Arabia`,
+  description: page.description,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${usd("Maintenance")} - ${usd("Custom web app")}+`,
+  currenciesAccepted: "USD, SAR",
+  paymentAccepted: "Bank transfer, Wise",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  areaServed: [
+    { "@type": "Country", name: "Saudi Arabia" },
+    ...["Riyadh Province", "Makkah Province", "Eastern Province", "Madinah Province", "Qassim Province", "Asir Province", "Tabuk Province"].map((name) => ({ "@type": "State", name })),
+    ...["Riyadh", "Jeddah", "Mecca", "Medina", "Dammam", "Khobar", "Dhahran", "Jubail", "Taif", "Buraydah", "Abha", "Tabuk", "Yanbu", "Al Ahsa"].map((name) => ({ "@type": "City", name })),
+  ],
+  knowsLanguage: ["en"],
+  parentOrganization: { "@type": "Organization", name: siteBrand.name, url: siteBrand.domain },
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Web development and IT services for Saudi businesses (starting prices, USD)",
+    itemListElement: pricingPlans.map((plan) => {
+      const price = Number(usdPrice(plan.price).replace(/[^\d]/g, ""));
+      return {
+        "@type": "Offer",
+        itemOffered: { "@type": "Service", name: plan.name, description: plan.summary, areaServed: "Saudi Arabia" },
+        priceSpecification: {
+          "@type": "PriceSpecification",
+          price,
+          minPrice: price,
+          priceCurrency: "USD",
+          ...(plan.unit ? { unitText: plan.unit } : {}),
+        },
+      };
+    }),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-SA",
+  dateModified: updated,
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+
+const toc = [
+  ["who-we-are", "Who we are and how we deliver remotely"],
+  ["ksa-market", "The Saudi market online"],
+  ["arabic-first", "Arabic-first websites and RTL"],
+  ["ecommerce", "Online stores and payments"],
+  ["seo", "SEO for google.com.sa"],
+  ["software", "Custom software and AI automation"],
+  ["regions", "Region by region"],
+  ["visitors", "Sites for pilgrims and visitors"],
+  ["compliance", "PDPL, VAT and ZATCA"],
+  ["time-zones", "Time zones and the Saudi week"],
+  ["payments", "How Saudi clients pay us"],
+  ["buying-guide", "Hiring an offshore developer"],
+  ["cost", "What drives the cost"],
+];
+
+const related = [
+  { name: "Web development services", href: "/services/web-development/" },
+  { name: "SEO services", href: "/services/seo-services/" },
+  { name: "Pricing", href: "/pricing/" },
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "IT services in the UAE", href: "/uae/" },
+  { name: "IT services in India", href: "/india/" },
+  { name: "IT services in the USA", href: "/usa/" },
+  { name: "IT services in the UK", href: "/uk/" },
+  { name: "IT services in Canada", href: "/canada/" },
+  { name: "IT services in Australia", href: "/australia/" },
+];
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, serviceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">Saudi Arabia · All 13 regions</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts for Saudi clients">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build for Saudi businesses">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Serving the Kingdom remotely &middot; <span lang="ar" dir="rtl">تصميم مواقع ومتاجر إلكترونية</span>
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label="Starting prices for Saudi clients">
+        <p class="quote-kicker">Saudi starting prices (USD)</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usd(plan.name)}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Starting prices; the final quote depends on your requirements. SAR invoicing on request. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my Saudi quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for Saudi clients in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Need a web development company for a Saudi business?</h2>
+        <p id="quick-answer" class="answer-text">
+          BtechWaleTech is a three-engineer team based in India that builds Arabic-first websites, Salla, Zid, Shopify and
+          custom online stores, SEO systems, custom software and AI automations for companies in Riyadh, Jeddah, Dammam,
+          Khobar, Makkah, Madinah and the rest of the Kingdom. We work remotely, answer seven days a week, bill in US dollars
+          or riyals, and start from {usd("Static")} for a website.
+        </p>
+        <p class="answer-more">
+          We are not a Saudi agency, we hold no commercial registration in the Kingdom and we will never suggest otherwise.
+          Our offer is simpler: the engineers who write your code are the people you talk to, prices are published as
+          starting figures, every scope is written down, and you can watch the site take shape on a staging link. That suits
+          founders, small and mid-sized companies and teams already used to working with suppliers abroad.
+        </p>
+        <p class="updated">Last updated <time datetime={updated}>21 September 2026</time></p>
+      </div>
+      <table class="snapshot">
+        <caption>Working with us from Saudi Arabia, at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for Saudi Arabia</p>
+        <h2 id="services-heading">Arabic-first websites, stores, SEO and software, handled by one small team</h2>
+        <p class="section-note">
+          We cover planning, design, development, SEO setup, hosting and deployment, so there is one team responsible from
+          start to finish. Read more about our <a href="/services/web-development/">web development</a> and
+          <a href="/services/seo-services/">SEO services</a>, or compare packages on the <a href="/pricing/">pricing page</a>.
+        </p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">How a remote team from India compares with your other options in the Kingdom</h2>
+        <p class="section-note">
+          General trade-offs, not a verdict on any specific provider. A good Riyadh or Jeddah agency brings local meetings and
+          native Arabic writing, and those are real strengths. We compete on cost, direct engineering access and clear terms.
+        </p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a Saudi agency, a marketplace freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Typical Saudi agency</th>
+              <th scope="col" class="col-other">Marketplace freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Starting prices for Saudi clients, in US dollars</h2>
+        <p class="section-note">
+          Each figure is a starting price. Your final quote depends on requirements such as an Arabic-first design, the number
+          of templates, store platform, integrations with gateways, couriers or e-invoicing tools, and content. Invoices can be
+          issued in SAR on request and paid by bank wire or Wise. See the <a href="/pricing/">pricing page</a> for more detail.
+        </p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Starting prices in USD for BtechWaleTech services in Saudi Arabia</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col" class="hide-sm">Typical timeline</th><th scope="col" class="hide-sm">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td class="hide-sm">{plan.timeline}</td>
+                <td class="hide-sm">{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">
+        Starting prices, not fixed quotes. Our invoices come from India and carry no Saudi VAT; your own VAT and withholding tax
+        treatment is a question for your tax adviser. Salla, Zid or Shopify subscriptions, domains, hosting, apps and gateway
+        fees are paid by you directly to those providers.
+      </p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to web development for Saudi businesses">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {toc.map(([id, heading]) => <li><a href={`#${id}`}>{heading}</a></li>)}
+          <li><a href="#regions-heading">Regions table</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#process-heading">Process and timelines</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+
+        <article aria-labelledby="who-we-are">
+          <h2 id="who-we-are">Who we are, and how we deliver to Saudi clients from India</h2>
+          <p>
+            There are three of us, all engineers, all based in India. Ankur Kumar is the full stack developer who builds
+            interfaces, APIs and integrations. Santosh Sharma handles AI and machine learning, AWS infrastructure, data work,
+            technical SEO and deployments. Vedansh Shrivastava manages projects and works across data science, AI and
+            automation. A Saudi client who asks why mada payments are failing, or why the Arabic menu wraps badly on an
+            iPhone, gets an answer from whoever wrote that code.
+          </p>
+          <p>
+            It is worth being precise about what we are not. We have no office in Riyadh, Jeddah or Khobar. We hold no
+            commercial registration or investment licence in the Kingdom, we have no Saudi employees, and we cannot attend
+            meetings in person. We have no awards, ratings or client logos to display here. If a local presence or face-to-face
+            workshops are essential for your project, a Saudi agency is the better fit, and we would rather say so now.
+          </p>
+          <h3>A working rhythm built for remote projects</h3>
+          <p>
+            Most of our Saudi conversations start on WhatsApp, which is where business in the Kingdom increasingly happens
+            anyway. From there we move to a video call on Google Meet, Zoom or Microsoft Teams to understand the business,
+            then send a written scope. Everything that matters is written down: pages, features, languages, integrations, who
+            supplies content, what is excluded and when each milestone is due. That document protects you more than any
+            handshake.
+          </p>
+          <p>
+            During the build you get a private staging link. You can open it on your phone during a meeting, forward it to a
+            partner in another city, or send it to your translator to check how the Arabic reads in context. Feedback comes
+            back in the same WhatsApp or email thread, we group it into a change list, and small fixes usually appear the same
+            day. Weekly written updates summarise what was done, what is next and what we are waiting for from you.
+          </p>
+          <h3>From planning to deployment, then five months of care</h3>
+          <p>
+            We do not hand you a zip file and disappear. We plan the site, design it, build it, set up the SEO foundations,
+            configure hosting, point the domain, install SSL and set up email authentication records so your mail reaches
+            inboxes. After launch, five months of maintenance are included: text and content edits, bug fixes, security and
+            dependency updates, backups, and uptime and speed checks. After that you can choose a monthly plan or pay only for
+            changes you request.
+          </p>
+        </article>
+
+        <article aria-labelledby="ksa-market">
+          <h2 id="ksa-market">The Saudi market online: what has changed and what customers expect</h2>
+          <p>
+            Saudi Arabia has changed quickly. Vision 2030 has pushed entertainment, tourism, sport, logistics and a broader
+            private sector into the economy, and government services have moved online to a degree that sets a high bar for
+            everyone else. People who renew documents and book appointments through smooth government apps expect the same
+            ease from a clinic, a furniture shop or a training centre. A slow website, a form that rejects a Saudi mobile number,
+            or an Arabic page that looks broken now feels out of date rather than merely inconvenient.
+          </p>
+          <p>
+            The audience is also more Arabic-first than in some neighbouring markets. English is widely used in business,
+            especially in Riyadh and the Eastern Province and in sectors with international staff, but most consumers search,
+            browse and buy in Arabic. A Saudi site built English-first with Arabic added later sends the wrong signal to the
+            majority of its visitors. For most consumer brands, the Arabic version should be the main one.
+          </p>
+          <h3>Mobile, social and WhatsApp first</h3>
+          <p>
+            Discovery in the Kingdom often starts on social platforms such as Snapchat, TikTok, Instagram and X, and ends on a
+            phone. Many visitors land on a product or service page from a social post rather than your home page, so every page
+            has to stand on its own: clear offer, price or price range, delivery or booking details, and a way to reach you.
+            WhatsApp is the default channel for questions. We place click-to-chat links prominently, pre-fill messages with the
+            page or product the customer was viewing, and for higher volumes connect the WhatsApp Business Platform for order
+            and appointment updates.
+          </p>
+          <h3>Credibility for a cautious buyer</h3>
+          <p>
+            Saudi customers are wary of unknown online sellers, and with good reason. They look for signs that a business is
+            real and accountable: a commercial registration number, a VAT number on invoices, a physical address in the National
+            Address format, a clear return and exchange policy in Arabic, and contact details that answer. We build pages that
+            present these details cleanly. We will not invent reviews, trust badges or client logos, but we can link to your
+            genuine Google reviews or your listing on a recognised marketplace.
+          </p>
+        </article>
+
+        <article aria-labelledby="arabic-first">
+          <h2 id="arabic-first">Arabic-first websites and proper RTL engineering</h2>
+          <p>
+            An Arabic-first site is designed from the start for right-to-left reading. The navigation starts on the right, the
+            visual hierarchy follows an Arabic reader's eye, and the English version is the adaptation rather than the other way
+            round. It is a different mindset from translating an English site, and it shows in the details: headlines that fit
+            the Arabic wording rather than an English-length box, buttons sized for Arabic labels, and imagery chosen with Saudi
+            customers in mind.
+          </p>
+          <p>
+            It also matters for search. People looking for a web designer in the capital type
+            <span lang="ar" dir="rtl">تصميم مواقع الرياض</span>, not the English phrase, and someone hunting for a flat searches
+            <span lang="ar" dir="rtl">شقق للإيجار في الرياض</span>. Arabic pages written and structured for these queries reach an
+            audience that English pages never will.
+          </p>
+          <h3>The engineering details we get right</h3>
+          <ul>
+            <li>Arabic pages declare <code>lang="ar"</code> and <code>dir="rtl"</code>, and the stylesheet uses logical properties so spacing, borders and alignment flip correctly without duplicate CSS.</li>
+            <li>Arabic fonts are chosen for readability on phones, with enough weights for headings and body text and a generous line height for the script.</li>
+            <li>Letter spacing, uppercase styling and fake bold are removed from Arabic text, because they damage connected letterforms.</li>
+            <li>Directional icons, sliders, breadcrumbs and step indicators mirror; logos, video controls and numbers do not.</li>
+            <li>Mixed content such as English brand names, model numbers, prices in riyals and <code>+966</code> phone numbers is isolated so it reads in the right order inside Arabic sentences.</li>
+            <li>Validation messages, empty states, confirmation emails, invoices and WhatsApp templates exist in Arabic, not just the page body.</li>
+          </ul>
+          <h3>Saudi-specific form and date handling</h3>
+          <p>
+            Forms are where many Arabic sites fail. For Saudi customers we support the National Address structure, known in
+            Arabic as <span lang="ar" dir="rtl">العنوان الوطني</span>, with building number, street, district, city, postal code
+            and additional number, because couriers deliver more reliably with it. Mobile fields accept the local format and
+            the international <code>+966</code> prefix. Name fields allow for full multi-part names without forcing a Western
+            first-name and surname split.
+          </p>
+          <p>
+            Dates need a decision too. Many Saudi customers are comfortable with the Gregorian calendar in commerce, but the
+            Hijri calendar still matters for religious occasions, some official contexts and customer expectations around
+            Ramadan and the Hajj season. Where it helps, we show both. We also agree on numerals: Western digits, Eastern Arabic
+            digits such as <span lang="ar" dir="rtl">٢٠٢٦</span>, or one in each language, and then apply the choice everywhere.
+          </p>
+          <h3>Who supplies the Arabic words</h3>
+          <p>
+            We are clear about this from the first call: none of us is a native Arabic writer. Your marketing team, an agency
+            copywriter or a translator you trust writes the Arabic. We make that easy by exporting every string, from page
+            headings to form error messages, SEO titles and alt text, into a single sheet, then importing the finished text and
+            checking that nothing is left in English. Tone matters in Saudi Arabic, and a native writer will get it right in a
+            way machine translation will not.
+          </p>
+        </article>
+
+        <article aria-labelledby="ecommerce">
+          <h2 id="ecommerce">Online stores and payments for Saudi shoppers</h2>
+          <p>
+            An ecommerce store starts from {usd("Ecommerce")}. In the Kingdom, the decisions that make or break a store are
+            payments, delivery and trust, more than the choice of theme. Shoppers expect to pay with mada, their local debit
+            card network, or with Apple Pay, to see instalment options on bigger purchases, to know exactly when the parcel will
+            arrive in their city, and to find an Arabic returns policy that sounds fair.
+          </p>
+          <h3>Salla, Zid, Shopify or a custom build</h3>
+          <p>
+            Salla and Zid are Saudi ecommerce platforms. They offer Arabic dashboards, Saudi payment methods and local shipping
+            companies out of the box, and they are often the fastest route for a small or mid-sized Saudi store run by a team
+            that prefers to work in Arabic. We set up the store, configure payments, shipping zones, tax settings and pages, and
+            customise the theme within what each platform allows. Shopify suits brands selling across the Gulf or beyond, or those
+            that need specific apps, and it supports Arabic storefronts well with the right theme. WooCommerce fits brands with a
+            lot of content. A custom build is worth it for B2B ordering with customer-specific prices, subscription logic, complex
+            bundles or live ERP integration.
+          </p>
+          <h3>Gateways, mada, wallets and BNPL</h3>
+          <p>
+            Payment gateways commonly used by Saudi businesses include HyperPay, Moyasar, PayTabs, Checkout.com and Tap. They
+            support mada alongside Visa and Mastercard, and most offer Apple Pay; STC Pay support varies by provider. Stripe is
+            a common choice elsewhere, but check whether it supports a company registered in Saudi Arabia before planning around
+            it. If your company is registered in another country, such as the UAE, the options differ. Whatever gateway you
+            choose, we integrate it, test declined and challenged payments, refunds and partial refunds, and keep card data off
+            your server.
+          </p>
+          <div class="comparison-table-wrap table-in-prose">
+            <table class="price-table fit-sm">
+              <caption class="sr-only">Payment options for Saudi online stores</caption>
+              <thead><tr><th scope="col">Payment method</th><th scope="col">Why it matters in the Kingdom</th><th scope="col" class="hide-sm">What to plan for</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">mada</th><td>The national debit card network; many shoppers pay this way first</td><td class="hide-sm">Gateway must support mada; test mada cards specifically, not just Visa</td></tr>
+                <tr><th scope="row">Apple Pay</th><td>Very common on iPhones, fastest checkout on mobile</td><td class="hide-sm">Domain verification with the gateway, testing on real devices</td></tr>
+                <tr><th scope="row">STC Pay and wallets</th><td>Popular digital wallet option for some customers</td><td class="hide-sm">Availability depends on the gateway contract</td></tr>
+                <tr><th scope="row">Tabby and Tamara</th><td>Instalments on fashion, electronics, furniture and other larger baskets</td><td class="hide-sm">Provider approval, order value limits, refunds through the BNPL provider</td></tr>
+                <tr><th scope="row">Cash on delivery</th><td>Still expected by some first-time buyers</td><td class="hide-sm">Order confirmation, COD fees, courier cash settlement, return-to-origin costs</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <h3>Tabby and Tamara</h3>
+          <p>
+            Buy now, pay later is well established in Saudi retail. Tabby and Tamara each approve merchants separately and set
+            rules on eligible products and order values. We add their checkout options and the instalment messaging on product
+            and cart pages as their guidelines require, and we test the return path carefully, because refunds that go wrong
+            through a BNPL provider are a common source of angry customer messages.
+          </p>
+          <h3>Delivery across a very large country</h3>
+          <p>
+            The Kingdom is big, and delivery times from a Riyadh warehouse to Jeddah, Abha or Tabuk differ. We set up shipping
+            rules by city or region so customers see realistic costs and dates before paying. Couriers such as SMSA, Aramex,
+            Naqel and Saudi Post (SPL) can be connected for label creation and tracking, and collecting the National Address at
+            checkout reduces failed deliveries. For stores with branches, click and collect by city is often worth adding.
+          </p>
+          <h3>Store details that raise conversion</h3>
+          <p>
+            Prices shown inclusive of VAT, your commercial registration and VAT numbers in the footer, an Arabic returns and
+            exchange page with real timeframes, product schema so listings can show prices in search, filters that do not
+            flood Google with duplicate URLs, and abandoned cart reminders by email or WhatsApp. For big seasonal moments such as
+            Ramadan, Eid, Saudi National Day, Founding Day and White Friday, we can prepare campaign pages in advance so the
+            store is not being edited in a hurry during peak traffic.
+          </p>
+        </article>
+
+        <article aria-labelledby="seo">
+          <h2 id="seo">SEO for google.com.sa in Arabic and English</h2>
+          <p>
+            Every site we build includes an SEO foundation: sensible URLs, unique titles and descriptions, a clean heading
+            structure, internal links, compressed images, schema markup, an XML sitemap and a correct robots file, with Search
+            Console and analytics connected before launch. Monthly SEO starts from {usd("Monthly SEO")}; our
+            <a href="/services/seo-services/">SEO services page</a> lists what it covers. For Saudi Arabia, the work leans
+            heavily towards Arabic.
+          </p>
+          <h3>Keyword research in Saudi Arabic</h3>
+          <p>
+            Saudi searchers mix Modern Standard Arabic with local phrasing, and the words differ between Najd, Hejaz and the
+            Eastern Province. Spelling varies too: the same word may be typed with or without hamza, with taa marbuta or haa at
+            the end. Someone looking for an online store developer might search <span lang="ar" dir="rtl">تصميم متجر إلكتروني</span>,
+            while a business owner comparing providers might type <span lang="ar" dir="rtl">شركة تصميم مواقع في السعودية</span>.
+            We build the Arabic keyword list from search data, autocomplete and the pages ranking on google.com.sa today, then
+            map terms to pages. We do not translate the English list and hope for the best.
+          </p>
+          <h3>hreflang, URLs and language versions</h3>
+          <p>
+            Arabic and English versions live at separate URLs, for example the root for Arabic and <code>/en/</code> for English
+            on an Arabic-first site. hreflang tags such as ar-SA and en-SA tell Google which version to show to whom, and an
+            x-default covers everyone else. Each version has its own titles, meta descriptions and structured data, written for
+            that language. We never switch languages with JavaScript on one URL, because search engines then see only one of
+            them.
+          </p>
+          <h3>City and district pages done honestly</h3>
+          <p>
+            Local searches in Saudi Arabia are often district-specific: a dentist in Al Olaya, a car service centre in Al
+            Rawdah in Jeddah, or a café in Khobar's Corniche area. We create location pages only for places you actually serve,
+            with content that is specific to each, and we help you set up and maintain your Google Business Profile with Arabic
+            and English details. For multi-branch businesses, each branch gets its own profile and landing page with accurate
+            hours, including Ramadan hours.
+          </p>
+          <h3>What to expect</h3>
+          <p>
+            Competition on Saudi Arabic keywords is often lighter than on English ones in the UAE, but it is growing fast as
+            more brands invest in Arabic content. Good Arabic pages, a fast site and steady monthly work usually show progress
+            over months, not days. Nobody can promise a ranking position, and we will tell you if a simpler plan, such as a
+            well-built site plus an active Google Business Profile, is enough for your business.
+          </p>
+        </article>
+
+        <article aria-labelledby="software">
+          <h2 id="software">Custom software and AI automation for Saudi teams</h2>
+          <p>
+            Growing Saudi companies often reach a point where spreadsheets, WhatsApp groups and paper forms cannot keep up. A
+            custom web app starts from {usd("Custom web app")} and AI automation from {usd("AI automation")}. We scope both
+            against the hours and errors they remove, and we build in small, testable steps.
+          </p>
+          <ul>
+            <li>A contractor or subcontractor portal for a construction supplier working on large projects, with document uploads, approvals and status tracking.</li>
+            <li>A booking system for an Umrah operator, a clinic or a training centre, with Arabic and English confirmations and reminders.</li>
+            <li>A fleet and delivery dashboard for a logistics company, pulling courier status and driver updates into one view.</li>
+            <li>A wholesale ordering portal for a Qassim dates or food trader, with customer-specific pricing and order history.</li>
+            <li>AI extraction of fields from Arabic and English invoices, delivery notes and forms, with a human review step before anything is saved.</li>
+            <li>An internal assistant that answers staff questions from your own policies and manuals, in Arabic or English.</li>
+          </ul>
+          <p>
+            Integrations are usually the heart of these projects: CRMs such as Zoho, HubSpot and Salesforce, accounting and ERP
+            systems, your e-invoicing solution, courier APIs and WhatsApp. For AI features we are cautious. Arabic document
+            extraction and Arabic language models have improved a lot, but they still make mistakes, so we design review steps
+            where errors would be expensive, and we do not send sensitive personal data to external AI services without your
+            clear decision and your adviser's approval.
+          </p>
+        </article>
+
+        <article aria-labelledby="regions">
+          <h2 id="regions">Region by region: how the Kingdom's markets differ online</h2>
+          <p>
+            Saudi Arabia has 13 administrative regions, and they are not one market. We serve all of them remotely. The regions
+            table below gives a summary; here is the context that shapes what a website in each area needs to do.
+          </p>
+          <h3>Riyadh</h3>
+          <p>
+            The capital is the centre of government, finance and corporate headquarters, and many international companies have
+            chosen it for their regional base. It has a large professional workforce, a growing startup scene and a busy calendar
+            of events and entertainment. Riyadh businesses often need polished bilingual corporate sites, supplier profiles
+            that procurement teams can review quickly, SaaS dashboards, and event or venue pages that handle sudden spikes in
+            traffic.
+          </p>
+          <h3>Makkah region: Jeddah, Makkah and Taif</h3>
+          <p>
+            Jeddah is the Kingdom's great trading city on the Red Sea, with a major port, a strong retail and fashion culture and
+            a long history of family businesses. Ecommerce, trading catalogues and brand sites are common requests. Makkah is
+            defined by Hajj and Umrah, which drive hotels, transport, catering and pilgrim services that need multilingual sites
+            for visitors from many countries. Taif, in the mountains, has its own tourism and agricultural products, including
+            its well-known roses.
+          </p>
+          <h3>Eastern Province: Dammam, Khobar, Dhahran, Jubail and Al Ahsa</h3>
+          <p>
+            The Eastern Province is the heart of the energy and petrochemical industry. Contractors, engineering firms and
+            industrial suppliers need clear B2B sites with capability statements, certifications, project histories they are
+            allowed to share and downloadable company profiles. Khobar and Dammam also have busy retail, dining and residential
+            markets, and Al Ahsa is a large oasis region with agriculture, dates and a distinct local identity.
+          </p>
+          <h3>Madinah region, including AlUla and Yanbu</h3>
+          <p>
+            Madinah welcomes visitors all year, supporting hotels, transport and pilgrim services much like Makkah. AlUla has
+            become one of the Kingdom's flagship heritage and tourism destinations, with tour operators and hospitality
+            businesses that need strong visuals and simple booking. Yanbu combines an industrial city with a Red Sea coastline,
+            so industrial catalogues and tourism sites sit side by side.
+          </p>
+          <h3>Qassim and Asir</h3>
+          <p>
+            Qassim, around Buraydah and Unaizah, is known for agriculture, dates and trade, with many family-run companies moving
+            from phone orders to online catalogues and wholesale portals. Asir, around Abha and Khamis Mushait, is a mountain
+            region with cooler summers that draws domestic tourists; chalet rentals, hotels and tour providers need seasonal
+            offer pages and bookings that work well on mobile.
+          </p>
+          <h3>Tabuk, NEOM and the Red Sea projects</h3>
+          <p>
+            The northwest has become known for NEOM and other large projects along the Red Sea coast. They have created demand
+            from suppliers, contractors, recruitment firms and logistics providers who want to present themselves professionally
+            to project teams and procurement departments. For these companies, a credible corporate site, clear service pages and
+            a document library usually matter more than consumer features. Plans for giga-projects change over time, so we keep
+            project references on your site factual and easy to update.
+          </p>
+          <h3>The other regions</h3>
+          <p>
+            Hail, Jazan, Najran, Al Bahah, Al Jawf and the Northern Borders have smaller but real online markets: regional
+            traders, agricultural producers, clinics, schools, car services and government-linked contractors. Budgets tend to be
+            modest, so a fast static website from {usd("Static")}, a well-kept Google Business Profile and a clear WhatsApp link
+            usually give the best return.
+          </p>
+        </article>
+
+        <article aria-labelledby="visitors">
+          <h2 id="visitors">Websites for pilgrims, tourists and international visitors</h2>
+          <p>
+            Hotels, transport companies, caterers and tour operators around Makkah and Madinah serve visitors from across the
+            Muslim world, and newer tourism destinations such as AlUla, the Red Sea coast and Riyadh's event venues attract
+            international guests too. For these businesses, Arabic and English are only the start. Guests may be more
+            comfortable in Urdu, Indonesian, Malay, Turkish, French, Bengali or Persian, depending on your market.
+          </p>
+          <p>
+            We build the multilingual structure so each language has its own URL, metadata and hreflang tag, with right-to-left
+            layouts for Urdu and Persian as well as Arabic. As with Arabic, the translations come from you or translators you
+            trust. We keep booking forms short, show prices clearly with what is and is not included, and display distances,
+            transfer times and check-in rules in plain language, because a pilgrim booking from Jakarta or Lahore cannot pop in
+            to ask.
+          </p>
+          <p>
+            Religious travel also has official channels. Permits and certain bookings for Hajj and Umrah go through official
+            government platforms such as Nusuk, and your website should explain how your service fits alongside them, link to
+            them where relevant and never imitate them. We are careful with wording here so your site informs visitors
+            accurately and does not promise anything only the authorities can provide.
+          </p>
+          <p>
+            Peak periods are extreme. Ramadan, the Hajj season and major events bring traffic surges that can bring down a
+            poorly hosted site at exactly the wrong moment. We use static pages where possible, put a CDN in front of the site,
+            compress images heavily for visitors on roaming data, and load-test booking pages before the season rather than
+            during it.
+          </p>
+        </article>
+
+        <article aria-labelledby="compliance">
+          <h2 id="compliance">PDPL, VAT, ZATCA e-invoicing and other rules to know about</h2>
+          <p>
+            First, a clear limit: we are engineers, not lawyers or tax advisers. This section describes, in general terms, the
+            rules that most often affect the websites and stores we build for Saudi clients, so you know what to raise with your
+            advisers. It is not legal or tax advice, and requirements change, so confirm the current position for your company.
+          </p>
+          <h3>Personal Data Protection Law (PDPL)</h3>
+          <p>
+            Saudi Arabia's Personal Data Protection Law is overseen by the Saudi Data and Artificial Intelligence Authority
+            (SDAIA) and has been enforceable since 2023, after a transition period. In broad terms it covers the legal basis
+            for processing personal data, notices explaining how data is used, security, the rights of individuals, and
+            restrictions on transferring personal data outside the Kingdom. For a website, that affects contact and checkout
+            forms, analytics, marketing tools, chat widgets and where your data is hosted. We build forms that collect only the
+            fields you need, show a clear notice in Arabic and English, capture consent where required and link to your privacy
+            policy. Your adviser should confirm what else applies, such as registration or record-keeping duties.
+          </p>
+          <h3>VAT at 15 percent</h3>
+          <p>
+            The standard VAT rate in Saudi Arabia is 15 percent. Stores typically show consumer prices inclusive of VAT, issue
+            tax invoices with the seller's VAT number, and treat shipping, discounts and refunds correctly for VAT purposes. We
+            configure your store's tax settings according to your accountant's instructions and make sure your VAT and
+            commercial registration numbers appear where they should.
+          </p>
+          <h3>ZATCA e-invoicing</h3>
+          <p>
+            The Zakat, Tax and Customs Authority (ZATCA) runs the e-invoicing programme known as
+            <span lang="ar" dir="rtl">فاتورة</span> (Fatoora). It started with requirements to generate electronic invoices and
+            has moved in waves to integration, where invoices are shared with ZATCA's systems. If your store or billing system
+            issues invoices, it may need to work with a compliant e-invoicing solution. Salla and Zid address this within their
+            platforms in their own ways, while Shopify and custom stores usually connect to a third-party e-invoicing provider.
+            We integrate with whichever solution your accountant selects. Tell us early which wave applies to you so the
+            integration is planned rather than rushed.
+          </p>
+          <h3>E-commerce and consumer rules</h3>
+          <p>
+            Saudi e-commerce rules expect online sellers to identify themselves clearly, describe products accurately, show
+            prices and fees transparently, and explain return, exchange and cancellation terms. Consumer information in Arabic is
+            expected and in some cases required. We make sure your legal name, commercial registration number, contact details,
+            terms and returns policy are easy to find, and we avoid tactics such as fake countdown timers or pre-ticked add-ons.
+          </p>
+          <h3>Hosting and sector requirements</h3>
+          <p>
+            Some sectors and data types, including government work, health, finance and critical infrastructure, have rules
+            about where data may be stored and processed. Several major cloud providers now run data centre regions inside the
+            Kingdom, so local hosting is practical when it is required. For an ordinary marketing site, a global CDN is usually
+            fine. Your adviser, regulator or client contract should decide; we deploy accordingly.
+          </p>
+        </article>
+
+        <article aria-labelledby="time-zones">
+          <h2 id="time-zones">Time zones and the Saudi working week</h2>
+          <p>
+            Arabia Standard Time is UTC+3 and India Standard Time is UTC+5:30. Neither country uses daylight saving, so Riyadh is
+            always two and a half hours behind us. Our working hours of 9am to 9pm IST map to 6.30am to 6.30pm in the Kingdom,
+            which covers the Saudi morning and afternoon in full. Many Saudi retailers and restaurants stay busy late into the
+            evening; messages sent then reach us on WhatsApp and are picked up quickly, and anything urgent on a live site is
+            handled.
+          </p>
+          <div class="comparison-table-wrap table-in-prose">
+            <table class="price-table fit-sm">
+              <caption class="sr-only">India and Saudi Arabia time comparison</caption>
+              <thead><tr><th scope="col">Riyadh time (AST)</th><th scope="col">India time (IST)</th><th scope="col">Typical use</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">6.30am</th><td>9.00am</td><td>Our day starts; your overnight messages are read and answered</td></tr>
+                <tr><th scope="row">9.00am</th><td>11.30am</td><td>Your office opens; a good slot for a short call</td></tr>
+                <tr><th scope="row">12.30pm</th><td>3.00pm</td><td>Review of new work on the staging link</td></tr>
+                <tr><th scope="row">4.00pm</th><td>6.30pm</td><td>Daily progress summary sent</td></tr>
+                <tr><th scope="row">6.30pm</th><td>9.00pm</td><td>Our scheduled day ends; WhatsApp stays monitored for urgent issues</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <h3>Friday and Saturday weekends</h3>
+          <p>
+            The Saudi weekend is Friday and Saturday, so your week runs Sunday to Thursday. We work on Sundays and hold calls on
+            Sunday to Thursday to match your team. Because Thursday afternoon is the end of your week, we avoid launching large
+            changes then and prefer Sunday or Monday so there is a full working week to watch the results. During Ramadan,
+            working hours in the Kingdom shift and evening activity rises; we adjust call times and avoid risky deployments
+            during the busiest shopping nights. We also plan around Eid al-Fitr, Eid al-Adha, Saudi National Day on 23 September
+            and Founding Day on 22 February.
+          </p>
+        </article>
+
+        <article aria-labelledby="payments">
+          <h2 id="payments">How Saudi clients pay us</h2>
+          <p>
+            We quote and invoice in US dollars by default. If your finance team prefers riyals, we can invoice in SAR on request.
+            The riyal has been pegged to the dollar at a fixed rate for many years, so a SAR quote stays stable between approval
+            and payment. As a rough guide, our {usd("Static")} starting price for a website is a little over SAR 560. Payment is
+            by international bank transfer or Wise; we do not take card payments or crypto.
+          </p>
+          <p>
+            Projects are paid in milestones: a deposit to begin, a payment when you approve the staging site, and the balance at
+            launch, each with an invoice that names the scope it covers. Monthly SEO and maintenance plans are billed monthly in
+            advance and can be stopped with notice. Third-party costs such as Salla, Zid or Shopify subscriptions, domains, apps,
+            hosting and gateway fees are billed to your company directly by those providers.
+          </p>
+          <p>
+            Cross-border payments from Saudi companies can involve withholding tax and self-assessed VAT on imported services.
+            We cannot advise on your position, but we are happy to provide whatever documents your accountant needs, such as a
+            tax residency statement or a specific invoice format, and to agree in advance how any withholding will be handled so
+            the milestone amounts are clear on both sides.
+          </p>
+        </article>
+
+        <article aria-labelledby="buying-guide">
+          <h2 id="buying-guide">Buying guide: hiring an offshore web developer for a Saudi business</h2>
+          <p>
+            Hiring a developer outside the Kingdom can save money and give you access to good engineers, but it needs a slightly
+            different checklist from hiring locally. These are the questions we would ask if we were in your position, whether
+            you choose us or another provider.
+          </p>
+          <h3>Can they really do Arabic RTL?</h3>
+          <p>
+            Ask for live Arabic pages they built, open them on your phone and look closely. Is navigation on the right? Do icons
+            and sliders mirror correctly? Do phone numbers and prices display properly inside Arabic sentences? Does the checkout
+            work in Arabic from start to finish, including error messages? An English-only portfolio is a warning sign for an
+            Arabic-first project.
+          </p>
+          <h3>Have they worked with Saudi payments and platforms?</h3>
+          <p>
+            A developer who only knows Stripe may struggle with mada testing, Apple Pay domain verification through a regional
+            gateway, or BNPL refund flows. Ask which gateways they have integrated and how they test them. If you plan to use
+            Salla or Zid, ask whether they understand what those platforms allow and where a custom build would be needed.
+          </p>
+          <h3>Do they understand the compliance questions?</h3>
+          <p>
+            You do not need legal advice from your developer, but you do need someone who knows to ask about PDPL, VAT display
+            and ZATCA e-invoicing, and who will build forms and invoices that your advisers can approve. A provider who has never
+            heard of these topics will leave you to discover them after launch.
+          </p>
+          <h3>Is the scope written and the price itemised?</h3>
+          <p>
+            Insist on a written scope listing pages, templates, languages, integrations, content responsibilities, revision
+            rounds and exclusions, with an itemised price. Vague scopes lead to disputes, especially across borders where
+            meeting in person to resolve them is not easy.
+          </p>
+          <h3>Will you own everything?</h3>
+          <p>
+            Domains, hosting, store accounts, gateway accounts, analytics and Search Console should be registered to your
+            company, with the developer invited as a user. At the end you should receive the source code, design files and all
+            logins. Ask this before signing, not after launch.
+          </p>
+          <h3>How will you communicate and pay?</h3>
+          <p>
+            Agree on channels, response times and working days, including Sunday. Pay in milestones linked to visible progress
+            rather than all upfront, using traceable methods such as bank transfer or Wise, and keep every invoice for your
+            records and your tax adviser.
+          </p>
+          <h3>What happens after launch?</h3>
+          <p>
+            Ask what support is included, for how long and what it costs afterwards. With us, five months of maintenance are
+            included free, then an optional plan from {usd("Maintenance")} a month or changes billed only when you need them.
+          </p>
+        </article>
+
+        <article aria-labelledby="cost">
+          <h2 id="cost">What drives the cost of a website or store in Saudi Arabia</h2>
+          <p>
+            Quotes for Saudi websites range widely, from very cheap template installs to large agency projects, and the gap
+            usually reflects scope rather than just margin. Our starting prices are {usd("Static")} for a static website,
+            {usd("SEO website")} for a 700+ page SEO website, {usd("AI automation")} for AI automation, {usd("Ecommerce")} for an
+            ecommerce store and {usd("Custom web app")} for a custom web app. These factors move a quote above the starting point.
+          </p>
+          <div class="comparison-table-wrap table-in-prose">
+            <table class="price-table fit-sm">
+              <caption class="sr-only">Factors that change the cost of a Saudi website</caption>
+              <thead><tr><th scope="col">Factor</th><th scope="col">Effect on the quote</th></tr></thead>
+              <tbody>
+                <tr><th scope="row">Arabic-first design plus English</th><td>Two language versions, RTL design and testing on every template, bilingual SEO metadata and hreflang</td></tr>
+                <tr><th scope="row">Platform choice</th><td>Salla or Zid setup is usually quicker; Shopify apps and custom builds add development time</td></tr>
+                <tr><th scope="row">Payments and BNPL</th><td>Each gateway, wallet, BNPL provider and COD rule adds checkout logic and test cases</td></tr>
+                <tr><th scope="row">Integrations</th><td>ERP, CRM, courier APIs and e-invoicing solutions each need setup, error handling and testing</td></tr>
+                <tr><th scope="row">Custom forms</th><td>National Address capture, Hijri dates, file uploads and approval flows add build and QA work</td></tr>
+                <tr><th scope="row">Content and product data</th><td>Writing, product entry and image preparation take time if we do them rather than your team</td></tr>
+                <tr><th scope="row">Seasonal deadlines</th><td>Launching before Ramadan, National Day or White Friday may need more hours in a short window</td></tr>
+              </tbody>
+            </table>
+          </div>
+          <p>
+            Remember the running costs as well: domain renewals, hosting or a Salla, Zid or Shopify subscription, apps and
+            plugins, gateway and BNPL fees, courier charges, WhatsApp Business Platform messages if you use them, and your
+            e-invoicing provider. Static sites cost the least to run. We list the expected recurring costs in every quote.
+          </p>
+          <p>
+            If budget is limited, a sensible path is to launch a focused Arabic-first site with an English version for your key
+            pages, then add the store, more cities or automation once the site is bringing in enquiries. We structure the first
+            version so it can grow without a rebuild. Current figures are always on our <a href="/pricing/">pricing page</a>.
+          </p>
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGIONS TABLE ===================== -->
+  <section class="industries" aria-labelledby="regions-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Coverage</p>
+        <h2 id="regions-heading">Every Saudi region, served remotely from India</h2>
+        <p class="section-note">Main cities, the local economy we usually encounter, and the projects businesses there most often ask for.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Saudi regions with key cities, market notes and common website needs</caption>
+          <thead><tr><th scope="col">Region</th><th scope="col" class="hide-sm">Key cities</th><th scope="col">Market notes</th><th scope="col" class="hide-sm">What we usually build</th></tr></thead>
+          <tbody>
+            {regions.map((r) => (
+              <tr><th scope="row">{r.name}</th><td class="hide-sm">{r.cities}</td><td>{r.market}</td><td class="hide-sm">{r.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for Saudi Arabia's key industries</h2>
+        <p class="section-note">Practical needs sector by sector. More on the <a href="/industries/">industries page</a>.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Industries in Saudi Arabia, what customers look for and what we build</caption>
+          <thead><tr><th scope="col">Industry</th><th scope="col">What customers look for</th><th scope="col" class="hide-sm">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td class="hide-sm">{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From the first message to a live Saudi website</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">
+        Timelines assume Arabic copy, product data and approvals arrive when planned. Arabic-first designs need extra RTL testing
+        time, and approvals from gateways, BNPL providers and e-invoicing vendors run on their schedules, so we start them in week one.
+      </p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Questions from Saudi businesses, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Related</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other markets</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((r) => <a class="city-chip" href={r.href}>{r.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us about your Saudi project</h2>
+        <p class="closing-note">
+          Share what your business does, which cities or regions you serve, whether the site should be Arabic-first and when you
+          hope to launch. You will receive a page plan, timeline and itemised quote, usually within two working days, and
+          nothing is billed until you approve it.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+        </div>
+        <p class="closing-links"><a href="/services/">All services</a> · <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/contact/">Contact</a></p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+  [lang="ar"] { font-family: 'Noto Sans Arabic', 'Segoe UI', Tahoma, sans-serif; letter-spacing: 0; unicode-bidi: isolate; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; overflow-wrap: anywhere; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.8rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .updated { margin-top: 1rem; font-size: 0.8rem; color: var(--slate-muted); }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .table-in-prose { margin: 1.5rem 0; }
+  .table-in-prose .price-table { min-width: 0; font-size: 0.86rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin: 1.8rem 0 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose code { font-size: 0.9em; padding: 0.05rem 0.3rem; background: var(--surface-low); border-radius: 2px; }
+  .prose a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose strong { color: var(--midnight); }
+
+  /* Related links */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones, for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table .col-other { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+    .price-table .price { white-space: normal; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.75rem, 7vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

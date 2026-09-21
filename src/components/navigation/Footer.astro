@@ -5,6 +5,21 @@ import { siteBrand, siteContact } from "@data/site/site-config";
 import { itServicesRegions, regionPath } from "@data/it-services/locations";
 import logo from "../../assets/images/mainlogo.png";
 
+const countries = [
+  ["USA", "/usa/"],
+  ["United Kingdom", "/uk/"],
+  ["Canada", "/canada/"],
+  ["Australia", "/australia/"],
+  ["New Zealand", "/new-zealand/"],
+  ["UAE", "/uae/"],
+  ["Saudi Arabia", "/saudi-arabia/"],
+  ["Singapore", "/singapore/"],
+  ["Germany", "/germany/"],
+  ["Netherlands", "/netherlands/"],
+  ["India", "/india/"],
+  ["All countries", "/countries/"],
+];
+
 const columns = [
   {
     title: "Services",
@@ -80,6 +95,16 @@ const columns = [
         ))}
       </nav>
     </div>
+
+    <!-- Countries row -->
+    <nav class="footer-states" aria-label="IT services by country">
+      <p class="footer-col-title">IT services across countries</p>
+      <ul>
+        {countries.map(([name, href]) => (
+          <li><a href={href}>{name}</a></li>
+        ))}
+      </ul>
+    </nav>
 
     <!-- States row -->
     <nav class="footer-states" aria-label="IT services by state">

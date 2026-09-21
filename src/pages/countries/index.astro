@@ -1,0 +1,216 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import Breadcrumbs from "@components/common/Breadcrumbs.astro";
+import "@styles/it-services.css";
+import "@styles/country-pages.css";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+import { priceRows, regions, usd, inr } from "@data/countries/international";
+
+const countryPages = [
+  { name: "United States", href: "/usa/", summary: "Calls in US Eastern mornings and early Pacific hours, USD invoicing, WCAG-minded builds and local SEO for US cities." },
+  { name: "United Kingdom", href: "/uk/", summary: "The UK morning overlaps our working day. GBP invoicing on request, UK GDPR and cookie consent built in, British English throughout." },
+  { name: "Canada", href: "/canada/", summary: "English and French sites with proper fr-CA pages, CAD invoicing on request, and builds that respect PIPEDA, Quebec Law 25 and CASL." },
+  { name: "Australia", href: "/australia/", summary: "A wide daily overlap in your afternoon, AUD invoicing on request, and suburb-level local SEO for Australian search." },
+  { name: "New Zealand", href: "/new-zealand/", summary: "IST mornings meet your afternoon, NZD invoicing on request, and builds that respect the Privacy Act 2020 and NZ consumer rules." },
+  { name: "UAE", href: "/uae/", summary: "Only ninety minutes apart, so the working day overlaps almost fully. English and right-to-left Arabic sites, AED invoicing on request." },
+  { name: "Saudi Arabia", href: "/saudi-arabia/", summary: "Near full-day overlap, bilingual Arabic and English sites with proper RTL, mada and STC Pay checkout, and PDPL-aware builds." },
+  { name: "Singapore", href: "/singapore/", summary: "Just 2.5 hours ahead, SGD invoicing on request, PayNow checkout and PDPA-aware builds for Singapore businesses." },
+  { name: "Germany", href: "/germany/", summary: "German business-day overlap from late morning IST, EUR invoicing, GDPR/DSGVO, cookie consent and Impressum-ready sites." },
+  { name: "Netherlands", href: "/netherlands/", summary: "Dutch business-day overlap, EUR invoicing, iDEAL checkout via Mollie or Stripe, and GDPR/AVG-compliant builds." },
+  { name: "India", href: "/india/", summary: "Same time zone, INR pricing, UPI and bank transfer, and city pages across Indian states." },
+];
+
+const faqs = [
+  {
+    question: "Which countries do you work with?",
+    answer: "We work remotely with businesses in the USA, UK, Canada, Australia, New Zealand, the UAE and wider Middle East, Singapore and the rest of Asia, Europe and India. The team is three engineers based in India; we have no offices abroad, and every international project is delivered remotely.",
+  },
+  {
+    question: "Are prices the same in every country?",
+    answer: `Yes. International clients see one set of starting prices in US dollars, and Indian clients the same prices in rupees: a static website starts from ${usd("Static")} (${inr("Static")}), a 700+ page SEO website from ${usd("SEO website")}, ecommerce from ${usd("Ecommerce")}, AI automation from ${usd("AI automation")} and custom web apps from ${usd("Custom web app")}. Every final quote depends on pages, features, integrations and content.`,
+  },
+  {
+    question: "Can we pay in our local currency?",
+    answer: "International projects are invoiced in USD by default, or in GBP, CAD, AUD, AED, EUR or SGD on request at the rate on the day of the quote. Payment is by Wise, international bank wire or PayPal. Indian clients pay in INR by UPI or bank transfer. Payments are split into milestones: a deposit, a payment at staging review and the balance at launch.",
+  },
+  {
+    question: "How do you handle time zones?",
+    answer: "We work on India Standard Time and keep a fixed overlap window for each region: US Eastern mornings, the UK and European business day from late morning, Canadian Eastern and Pacific mornings, Australian afternoons, and almost the whole working day for the UAE and Singapore. Outside those windows, work continues from written feedback, so changes are often ready when you start your next day.",
+  },
+  {
+    question: "How do we communicate?",
+    answer: "In English, over email, WhatsApp, Google Meet, Zoom or Teams. You get written updates on a fixed schedule and a staging link early in the build, and you always talk to the engineers doing the work rather than an account manager.",
+  },
+  {
+    question: "Who owns the website and code?",
+    answer: "You do. On final payment we transfer source code, design files, content, hosting and domain access to accounts in your name, wherever you are. We keep no licence and no credentials you cannot change.",
+  },
+  {
+    question: "Is maintenance included for international clients?",
+    answer: `Yes. Every client, in every country, gets five months of maintenance included free after launch. After that, maintenance starts from ${usd("Maintenance")} (${inr("Maintenance")} in India), or you can manage the site yourself.`,
+  },
+];
+
+const page = createPageSeo({
+  title: "Web Development Services Worldwide: Countries We Serve",
+  description: `Remote web development for the USA, UK, Canada, Australia, UAE and India. Time-zone overlap, billing in USD or local currency, websites from ${usd("Static")}.`,
+  canonicalPath: "/countries/",
+  h1: "Web development services worldwide",
+  intro: `BtechWaleTech is a team of three engineers in India building websites, web apps, ecommerce stores, SEO and AI automation for businesses in the USA, UK, Canada, Australia, the UAE, Europe, Asia and India. Everything is delivered remotely, in your business hours, with websites starting from ${usd("Static")} and five months of free maintenance after launch.`,
+  breadcrumbs: createBreadcrumbs([{ label: "Countries", href: "/countries/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
+  keywords: [
+    "web development services worldwide",
+    "international web development company",
+    "remote web developers",
+    "hire web developers from India",
+    "offshore web development",
+    "website development USA UK Canada",
+    "web developers Australia UAE",
+    "outsource website development",
+    "global web design company",
+    "affordable web development for international clients",
+  ],
+});
+
+const itemList = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  name: "Countries served by BtechWaleTech",
+  itemListElement: countryPages.map((c, i) => ({
+    "@type": "ListItem",
+    position: i + 1,
+    name: `IT services for ${c.name}`,
+    url: canonicalUrl(c.href),
+  })),
+};
+---
+
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), itemList]}>
+  <div class="it-location">
+    <div class="it-wrap">
+      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+
+      <section class="it-hero">
+        <p class="it-eyebrow">Worldwide, remotely</p>
+        <h1>{page.h1}</h1>
+        <p class="it-hero-copy">{page.intro}</p>
+        <div class="it-contact-block">
+          <p class="it-contact-lead">Contact us and share your project idea</p>
+          <div class="it-contact-links">
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
+          </div>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="how-heading">
+        <div class="it-text-block">
+          <article>
+            <h2 id="how-heading">One small team, working with clients in many countries</h2>
+            <p>We are Ankur Kumar, Santosh Sharma and Vedansh Shrivastava, three engineers based in India. We have no offices, staff or addresses in other countries, and none of our country pages claim otherwise. What we do have is a delivery process built for remote clients: a written scope before work starts, calls in your business hours, written updates on a fixed schedule, a staging link you can open from anywhere, and a full handover of code and accounts at the end.</p>
+            <p>The work itself is the same wherever you are. Planning, design, development, SEO setup, hosting and deployment, then five months of maintenance included free. What changes from country to country is the detail: the currency on the invoice, the hours we hold calls, the privacy and consent rules your site should respect, the spelling and languages your customers expect, and how local search works in your market. Each country page covers those details for its region.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="regions-heading">
+        <div class="it-section-head">
+          <h2 id="regions-heading">Regions, working hours and billing</h2>
+          <p class="it-section-note">How the time-zone overlap and payment options look in each region we serve.</p>
+        </div>
+        <div class="ct-wrap">
+          <table class="ct-table" aria-labelledby="regions-heading">
+            <thead>
+              <tr><th scope="col">Region</th><th scope="col">Working-hour overlap</th><th scope="col">Billing &amp; payment</th></tr>
+            </thead>
+            <tbody>
+              {regions.map((r) => (
+                <tr>
+                  <th scope="row">{r.href ? <a href={r.href}>{r.country}</a> : r.country}</th>
+                  <td>{r.overlap}</td>
+                  <td>{r.billing}</td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="ct-note">Singapore, the rest of Asia and Europe are served under the same terms; talk to us about your time zone and preferred currency.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="pages-heading">
+        <div class="it-section-head">
+          <h2 id="pages-heading">Country guides</h2>
+          <p class="it-section-note">Market-specific detail on time zones, payments, compliance and local search.</p>
+        </div>
+        <div class="it-grid it-grid-three">
+          {countryPages.map((c) => (
+            <a class="it-card it-card-link" href={c.href}>
+              <h3>{c.name}</h3>
+              <p>{c.summary}</p>
+            </a>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section" aria-labelledby="price-heading">
+        <div class="it-section-head">
+          <h2 id="price-heading">Starting prices in USD and INR</h2>
+          <p class="it-section-note">US dollar prices apply to every client outside India; rupee prices apply in India. All figures are starting points, and the final quote depends on pages, features, integrations and content.</p>
+        </div>
+        <div class="ct-wrap">
+          <table class="ct-table" aria-labelledby="price-heading">
+            <thead>
+              <tr><th scope="col">Service</th><th scope="col">What's included</th><th scope="col">Typical timeline</th><th scope="col">Starts from</th></tr>
+            </thead>
+            <tbody>
+              {priceRows.map((p) => (
+                <tr>
+                  <th scope="row">{p.service}</th>
+                  <td>{p.includes}</td>
+                  <td>{p.timeline}</td>
+                  <td class="ct-price"><strong>{p.usd}</strong><span>{p.inr} in India</span></td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
+        </div>
+        <p class="ct-note">Every project gets an itemised quote before work starts. See <a href="/pricing/">full pricing</a> for scope guidance.</p>
+      </section>
+
+      <section class="it-section" aria-labelledby="faq-heading">
+        <div class="it-section-head">
+          <h2 id="faq-heading">Questions from international clients</h2>
+          <p>Countries, currencies, time zones and ownership.</p>
+        </div>
+        <div class="it-faq">
+          {faqs.map((faq) => (
+            <details>
+              <summary>{faq.question}</summary>
+              <p>{faq.answer}</p>
+            </details>
+          ))}
+        </div>
+      </section>
+
+      <section class="it-section">
+        <div class="it-cta">
+          <h2>Wherever you are, tell us what you need built</h2>
+          <p>Send a few lines about your business, your country and the project. You will get clarifying questions, then a written scope and an itemised quote in your preferred currency.</p>
+          <div class="it-contact-links it-contact-links-invert">
+            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
+            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
+          </div>
+          <div class="it-trust-links">
+            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
+          </div>
+        </div>
+      </section>
+    </div>
+  </div>
+</BaseLayout>

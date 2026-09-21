@@ -18,11 +18,11 @@ const faqs = [
   },
   {
     question: "Do you work fully remote, or do you need to meet in person?",
-    answer: "We work fully remote. Everything runs over email, phone, WhatsApp, and video calls, with written notes after each conversation so nothing depends on memory. That is how we serve clients across India and abroad without adding travel cost to your quote. We do not maintain offices, and we never claim a local presence we do not have.",
+    answer: "We work fully remote. Everything runs over email, phone, WhatsApp, and video calls, with written notes after each conversation so nothing depends on memory. That is how we serve clients in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India without adding travel cost to your quote. We do not maintain offices, and we never claim a local presence we do not have.",
   },
   {
     question: "Can we start with something small before committing to a big build?",
-    answer: "That is usually the sensible route. A static website from ₹5,000 or a small automation lets you see how we write, how we communicate, and how we handle revisions. If it goes well, the same code and hosting can grow into a larger site or app. Nothing about a small first project locks you into a bigger one later.",
+    answer: "That is usually the sensible route. A static website from ₹10,000 (US$150) or a small automation lets you see how we write, how we communicate, and how we handle revisions. If it goes well, the same code and hosting can grow into a larger site or app. Nothing about a small first project locks you into a bigger one later.",
   },
   {
     question: "Who owns the website, code, and accounts when the work is done?",
@@ -38,18 +38,33 @@ const faqs = [
   },
   {
     question: "What is included after the site goes live?",
-    answer: "Five months of maintenance come free with every hosted project: content updates, bug fixes, security patches, backups, and uptime and speed checks. After that, ongoing maintenance starts from ₹2,000 per month. Monthly SEO, if you want it, starts from ₹5,000 per month and is quoted separately so you can stop or continue as you like.",
+    answer: "Five months of maintenance come free with every hosted project: content updates, bug fixes, security patches, backups, and uptime and speed checks. After that, ongoing maintenance starts from ₹8,000 (US$120) per month. Monthly SEO, if you want it, starts from ₹10,000 (US$150) per month and is quoted separately so you can stop or continue as you like.",
+  },
+  {
+    question: "I am in the USA, UK, Canada or Australia. When can we talk?",
+    answer: "We work from India (IST) and schedule calls inside your business hours: US Eastern mornings, the UK and European business day from late morning, and Australian afternoons. The UAE and Singapore overlap with most of our working day. Between calls you get written updates and a shared staging link, so work keeps moving while you sleep.",
+  },
+  {
+    question: "How do international clients pay?",
+    answer: "International projects are quoted and invoiced in USD, or your local currency on request, and paid by bank wire, Wise or PayPal. Clients in India pay in INR by UPI or bank transfer. Payment is split into milestones, and nothing is invoiced until you approve the written scope.",
   },
 ];
 
 const page = createPageSeo({
-  title: "Contact Our Freelance Web Development Team In India",
-  description: "Contact BtechWaleTech by email or phone to hire freelance web developers in India. End-to-end builds, honest estimates, and 5 months free maintenance after launch.",
+  title: "Contact Us: Hire Web Developers for Your Next Project",
+  description: "Hire web developers for your business in the USA, UK, Canada, Australia, UAE or India. Email or WhatsApp for a free scope note and USD or INR estimate.",
   canonicalPath: "/contact/",
   h1: "Get In Touch With The BtechWaleTech Team",
   intro: "Three freelance engineers, one inbox, and no sales layer in between. Tell us what you want built, roughly when you need it live, and what you can spend. You will get a straight reply from the person who would actually do the work.",
   breadcrumbs: createBreadcrumbs([{ label: "Contact", href: "/contact/" }]),
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
+    "hire web developers",
+    "hire web developers from India",
+    "web development company contact",
+    "website quote USA UK",
+    "outsource web development",
     "contact BtechWaleTech",
     "hire freelance web developer India",
     "freelance web developer contact",
@@ -78,9 +93,11 @@ const page = createPageSeo({
     "international web development India",
   ],
 });
+
+const areaServed = ["US", "GB", "CA", "AU", "AE", "SG", "IN"].map((name) => ({ "@type": "Country", name }));
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
+<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), { ...serviceSchema(page.title, page.description, page.canonicalPath), areaServed }]}>
   <div class="it-location">
     <div class="it-wrap">
       <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
@@ -102,7 +119,7 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="reach-heading">How To Reach BtechWaleTech</h2>
-            <p>There are two ways in, and both land with the same three people. Email is best for anything with detail attached: a page list, a screenshot of a competitor site, a spreadsheet of products, a half-written brief. Write to <a href={siteContact.emailHref}>{siteContact.email}</a> and you will have a written trail from the very first message, which matters later when we are agreeing scope. WhatsApp on <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a> suits quick questions: are you free in September, do you build in WordPress or Astro, is ₹15,000 realistic for what I described. Message during Indian business hours where you can, and if we are heads-down in a build we will reply the same day.</p>
+            <p>There are two ways in, and both land with the same three people. Email is best for anything with detail attached: a page list, a screenshot of a competitor site, a spreadsheet of products, a half-written brief. Write to <a href={siteContact.emailHref}>{siteContact.email}</a> and you will have a written trail from the very first message, which matters later when we are agreeing scope. WhatsApp on <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a> suits quick questions: are you free in September, do you build in WordPress or Astro, is ₹20,000 (US$300) realistic for what I described. We work from India (IST) and reply to overseas messages at the start of our day or in your morning overlap window, and if we are heads-down in a build we will still reply the same day.</p>
             <p>We do not run a call centre and there is no account manager who takes your brief and passes it along. The person who reads your email is the person who will estimate the job and, in most cases, write the code. That keeps the conversation short and the answers accurate. It also means we occasionally say no. If your project needs a team of ten, a native mobile app, or a technology none of us has shipped, we will tell you plainly rather than learn on your budget.</p>
           </article>
         </div>
@@ -124,7 +141,7 @@ const page = createPageSeo({
           </article>
           <article>
             <h3>Why We Ask About Budget First</h3>
-            <p>A thirty-page SEO site from ₹10,000 and a custom web app from ₹40,000 are different jobs with different architectures, not the same job at two prices. If we guess your budget wrong, we spend a week designing something you were never going to buy, and you spend a week reading a proposal that was irrelevant from line one. Telling us "around ₹30,000, maybe ₹40,000 if it is worth it" is genuinely helpful. We will then tell you what fits inside that, what does not, and what could wait until phase two. Final cost always depends on scope, so the range is a starting point for a conversation rather than a quote.</p>
+            <p>A 700+ page SEO site from ₹20,000 (US$300) and a custom web app from ₹60,000 (US$900) are different jobs with different architectures, not the same job at two prices. If we guess your budget wrong, we spend a week designing something you were never going to buy, and you spend a week reading a proposal that was irrelevant from line one. Telling us "around ₹45,000, maybe ₹60,000 if it is worth it", or "around US$675, maybe US$900", is genuinely helpful. We will then tell you what fits inside that, what does not, and what could wait until phase two. Final cost always depends on scope, so the range is a starting point for a conversation rather than a quote.</p>
             <p>If your budget is below what the work realistically takes, we will say so and suggest a smaller first step instead of quietly cutting corners. A well-built five-page site beats a rushed thirty-page one every time, and the five-page version can grow later without being thrown away. Our <a href="/pricing/">pricing page</a> lists the starting figures openly so you can sanity-check your number before you even write to us.</p>
           </article>
         </div>
@@ -149,8 +166,8 @@ const page = createPageSeo({
         <div class="it-text-block">
           <article>
             <h2 id="quote-heading">What We Can Quote On, And What It Starts From</h2>
-            <p>We take projects end to end: planning, design, development, SEO setup, hosting, and deployment. One team owns the whole chain, so there is nobody to blame when the designer's file does not match the developer's build or the site goes live without a sitemap. After hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance is from ₹2,000 per month if you want to keep us on.</p>
-            <p>Starting prices: a static website from ₹5,000; a thirty-page SEO website taken from design to deployment from ₹10,000; AI automation from ₹15,000; ecommerce from ₹25,000; a custom web application from ₹40,000; monthly SEO from ₹5,000 per month; and maintenance from ₹2,000 per month. Every one of those is a starting point, and the final cost depends on scope, page count, integrations, and how much content we write rather than you supplying it. If you want detail on a specific line, the <a href="/services/web-development/">web development</a> and <a href="/services/seo-services/">SEO services</a> pages go deeper than a price list can.</p>
+            <p>We take projects end to end: planning, design, development, SEO setup, hosting, and deployment. One team owns the whole chain, so there is nobody to blame when the designer's file does not match the developer's build or the site goes live without a sitemap. After hosting goes live, five months of maintenance are included free, covering content updates, bug fixes, security updates, backups, and uptime and speed checks. After those five months, maintenance is from ₹8,000 (US$120) per month if you want to keep us on.</p>
+            <p>Starting prices, in INR for India and USD for international clients: a static website of up to 100 pages from ₹10,000 (US$150); a 700+ page SEO website taken from design to deployment from ₹20,000 (US$300); AI automation from ₹40,000 (US$600); ecommerce from ₹50,000 (US$750); a custom web application from ₹60,000 (US$900); monthly SEO from ₹10,000 (US$150) per month; and maintenance from ₹8,000 (US$120) per month. Every one of those is a starting point, and the final cost depends on scope, page count, integrations, and how much content we write rather than you supplying it. If you want detail on a specific line, the <a href="/services/web-development/">web development</a> and <a href="/services/seo-services/">SEO services</a> pages go deeper than a price list can.</p>
           </article>
         </div>
       </section>
@@ -168,9 +185,9 @@ const page = createPageSeo({
       <section class="it-section" aria-labelledby="coverage-heading">
         <div class="it-text-block">
           <article>
-            <h2 id="coverage-heading">Where We Work: Across India And Internationally</h2>
-            <p>We work with businesses across India, and delivery is remote-friendly by design. Clients in Delhi, Gurugram, Noida, Mumbai, Pune, Bengaluru, Hyderabad, Chennai, Jaipur, Ahmedabad, Kolkata, Lucknow, Indore, Patna, and Kochi all get the same process, the same response times, and the same prices, because none of it depends on somebody driving to a meeting. We do not have offices or branches anywhere and we will never tell you otherwise; what we have is a working rhythm that suits distributed work.</p>
-            <p>Internationally, we take projects from clients in the United States, the United Arab Emirates, and Australia. Time zones are handled with overlapping working hours and written updates, so you wake up to progress rather than chasing it. Payments, invoicing currency, and documentation are agreed before the project starts. For country-specific detail, see the <a href="/india/">India</a>, <a href="/usa/">USA</a>, <a href="/uae/">UAE</a>, and <a href="/australia/">Australia</a> pages.</p>
+            <h2 id="coverage-heading">Where We Work: Worldwide, Remotely From India</h2>
+            <p>We are based in India and deliver remotely by design, to clients in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India. In India, clients in Delhi, Gurugram, Noida, Mumbai, Pune, Bengaluru, Hyderabad, Chennai, Jaipur, Ahmedabad, Kolkata, Lucknow, Indore, Patna, and Kochi all get the same process, the same response times, and the same prices, because none of it depends on somebody driving to a meeting. We do not have offices or branches anywhere and we will never tell you otherwise; what we have is a working rhythm that suits distributed work.</p>
+            <p>Internationally, we take projects from startups, agencies and small businesses in the United States, the United Kingdom, Canada, Australia, the United Arab Emirates, Singapore and Europe. Time zones are handled with a fixed overlap window per region and written updates, so you wake up to progress rather than chasing it. International work is quoted in USD and paid by bank wire, Wise or PayPal, with invoicing and documentation agreed before the project starts. For country-specific detail, see the <a href="/usa/">USA</a>, <a href="/uk/">UK</a>, <a href="/canada/">Canada</a>, <a href="/australia/">Australia</a>, <a href="/uae/">UAE</a> and <a href="/india/">India</a> pages, or the full list of <a href="/countries/">countries we serve</a>.</p>
           </article>
         </div>
       </section>
@@ -195,6 +212,7 @@ const page = createPageSeo({
               <li><a href="/services/">All services we offer end to end</a></li>
               <li><a href="/services/web-development/">Web development services</a></li>
               <li><a href="/services/seo-services/">SEO services and monthly retainers</a></li>
+              <li><a href="/countries/">Countries we serve worldwide</a></li>
               <li><a href="/it-services/">IT services across Indian states and cities</a></li>
               <li><a href="/india/delhi/">Web development for businesses in Delhi</a></li>
               <li><a href="/india/haryana/gurgaon/">Web development in Gurgaon</a></li>

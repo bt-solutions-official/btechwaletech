@@ -1,247 +1,1132 @@
 ---
 import BaseLayout from "@layouts/BaseLayout.astro";
-import Breadcrumbs from "@components/common/Breadcrumbs.astro";
-import "@styles/it-services.css";
 import { createPageSeo } from "@lib/seo/seo-config";
 import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
-import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
-import { siteContact } from "@data/site/site-config";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, pricingNote, usdPrice } from "@data/pricing/plans";
+import { usd } from "@data/countries/international";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
 
 const faqs = [
   {
-    question: "Where is your team based, and do you have an Australian office?",
-    answer: "We are a freelance group of three engineers based in India. We do not have an Australian office, an ABN, or a local address, and we will never claim one. Everything is delivered remotely for clients in Sydney, Melbourne, Brisbane, Perth, Adelaide and regional towns, using email, phone, video calls and shared project boards.",
+    question: "Is BtechWaleTech an Australian web development company?",
+    answer: "No, and we will not pretend to be. We are a small team of engineers based in India who build websites, ecommerce stores, SEO systems, custom software and AI automations for Australian businesses, working remotely. We have no Australian office, no ABN and no local address. You deal directly with the engineers who plan and build your project.",
   },
   {
-    question: "How do you handle the time difference between India and Australia?",
-    answer: "IST runs roughly four and a half to five and a half hours behind Australian eastern time depending on daylight saving. That gives a wide daily overlap. Your morning is our early hours, so we schedule calls in your late morning or afternoon, which is our working day. Work you approve at 5pm often has progress waiting the next morning.",
+    question: "How much does a website cost for an Australian business?",
+    answer: `With us, a static website of up to 100 pages starts from ${usd("Static")}, a 700+ page SEO website from ${usd("SEO website")}, AI automation from ${usd("AI automation")}, an ecommerce store from ${usd("Ecommerce")} and a custom web app from ${usd("Custom web app")}. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices in US dollars; the final quote depends on your requirements.`,
   },
   {
-    question: "What does a website cost for an Australian business?",
-    answer: "Prices start from ₹5,000 for a static website, from ₹10,000 for a 30-page SEO website taken from design to deployment, from ₹15,000 for AI automation, from ₹25,000 for ecommerce and from ₹40,000 for a custom web app. Monthly SEO starts from ₹5,000 per month. Final cost always depends on scope, page count and integrations.",
+    question: "Can you invoice in Australian dollars?",
+    answer: "Yes, on request. We quote in US dollars by default and can issue the invoice in AUD at the rate on the day of the quote. Most Australian clients pay through Wise, which lets you pay with an ordinary local bank transfer, or by international wire. Payments are split into milestones and nothing is due before you approve a written scope.",
   },
   {
-    question: "Is maintenance included after launch?",
-    answer: "Yes. Once hosting goes live you get five months of maintenance included free: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that period maintenance is from ₹2,000 per month. There is no obligation to continue, and we hand over full access either way.",
+    question: "Do your prices include Australian GST?",
+    answer: "Our starting prices are quoted in US dollars and do not include Australian GST. We are an overseas supplier, so how an imported service is treated in your books, including any reverse-charge question, is for your accountant to confirm. We can put whatever business details you need on the invoice.",
   },
   {
-    question: "Can you improve our ranking in Australian search results?",
-    answer: "We work on the parts of SEO that are within our control: technical health, site structure, page speed, on-page content, schema markup and Google Business Profile setup for businesses with a service area. Rankings depend on competition and time, so we report on what changed and what moved rather than promising positions.",
+    question: "How does the time difference between India and Australia work?",
+    answer: "Australia is ahead of India all year: 2.5 hours in Perth, 4 to 5 hours in Adelaide and Darwin, and 4.5 to 5.5 hours on the east coast depending on daylight saving. Our morning in India lines up with your afternoon, so calls usually happen between about 1pm and 5pm on the east coast and late morning in Perth. Work continues through our day, so feedback sent in your afternoon is often actioned by your next morning.",
   },
   {
-    question: "Do you understand Australian privacy and accessibility expectations?",
-    answer: "We build with common expectations in mind: a clear privacy policy page, honest cookie and analytics disclosure, secure form handling, and accessibility basics such as keyboard navigation, colour contrast and alt text. We are engineers, not lawyers, so we do not give legal advice or certify compliance. Have your adviser review policy wording.",
+    question: "Which Australian cities and states do you work with?",
+    answer: "All of them, remotely: Sydney and the rest of New South Wales, Melbourne and Victoria, Brisbane, the Gold Coast and Queensland, Perth and Western Australia, Adelaide and South Australia, Canberra, Hobart and Tasmania, and Darwin in the Northern Territory. Regional businesses get the same process and prices as capital-city ones.",
   },
   {
-    question: "How do payments work from Australia?",
-    answer: "We invoice in stages, usually an advance to start, a milestone at build completion, and the balance before or at deployment. International bank transfer works fine, and we can quote in Australian dollars converted from our rupee pricing at the rate on the day. Everything is documented in writing before work begins.",
+    question: "Can you set up Afterpay, Zip, Stripe or PayPal on our store?",
+    answer: "Yes. We connect the payment options you choose, such as Stripe, Shopify Payments, PayPal or Square for cards and wallets, and buy now pay later providers such as Afterpay or Zip where your platform supports them and the provider approves your merchant application. Merchant accounts are opened in your business name, never ours.",
   },
   {
-    question: "What if we already have a website we do not want to rebuild?",
-    answer: "That is common. We audit what you have, list what is worth keeping, and quote only for the parts that need work. Sometimes that is speed and mobile fixes, sometimes a content and SEO rebuild on the same platform. A rebuild is a recommendation, never a default answer.",
+    question: "Can you help us rank on google.com.au?",
+    answer: "We handle the parts of SEO that are within our control: technical health, site structure, speed, on-page content written for Australian searches, LocalBusiness schema, internal linking and hreflang when you run separate Australian and New Zealand pages. We also guide you through your Google Business Profile, which must be verified by you. Nobody can guarantee rankings, so we report what changed and what moved.",
+  },
+  {
+    question: "Will our website follow the Privacy Act and the Spam Act?",
+    answer: "We build with the Australian Privacy Principles and the Spam Act in mind: a clear privacy policy page, collection notices on forms, unticked consent boxes, working unsubscribe links and minimal data collection. We are engineers, not lawyers, so we do not give legal advice or certify compliance. Please have your adviser review the policy wording and confirm which obligations apply to your business.",
+  },
+  {
+    question: "Do you build accessible websites to WCAG standards?",
+    answer: "Yes. We build to WCAG 2.2 level AA as a working target: semantic headings, keyboard navigation, visible focus states, labelled form fields, sufficient colour contrast, captions where you supply them and alt text on meaningful images. Accessibility also matters under the Disability Discrimination Act. We test with automated tools and manual keyboard checks, but we do not issue formal certification.",
+  },
+  {
+    question: "Can you register our .com.au domain?",
+    answer: "A .com.au or .au domain has to be registered by an entity with an Australian presence, such as a business with an ABN, so you register it in your name with an Australian registrar and give us DNS access. We then connect it to hosting, set up SSL and email records, and document everything. The domain always stays yours.",
+  },
+  {
+    question: "Where will our website be hosted?",
+    answer: "Wherever suits the project. Static sites usually go on a global CDN with edge locations in Australia, which keeps pages fast in Perth and Sydney alike. Apps with a database can run in an Australian cloud region, such as the Sydney or Melbourne regions offered by major cloud providers, where data location or speed matters. Hosting accounts are opened in your name.",
+  },
+  {
+    question: "Do you work with tradies and NDIS providers?",
+    answer: "Yes. For trades we build fast mobile sites with click-to-call, suburb service-area pages and quote forms, and can connect enquiries to job management software. For NDIS providers we build clear service pages, accessible layouts and careful enquiry forms. We do not claim NDIS registration expertise; your registration details and wording should come from you.",
+  },
+  {
+    question: "Can you connect our website to Xero, MYOB, ServiceM8 or Cliniko?",
+    answer: `Usually, yes. These tools have APIs or integration platforms, so enquiries, bookings, invoices and customer records can flow between your website and the software you already use. We map your current workflow first, then scope the automation. AI automation starts from ${usd("AI automation")}.`,
+  },
+  {
+    question: "Who owns the website and code after launch?",
+    answer: "You do. Source code, content, design files, the hosting account, the domain and every admin login are handed over in accounts under your name. We keep no licence over your build and no credentials you cannot change.",
+  },
+  {
+    question: "Is maintenance really free for five months?",
+    answer: `Yes. Once hosting goes live, five months of maintenance are included: content updates, bug fixes, security updates, backups, and uptime and speed checks. After that you can continue from ${usd("Maintenance")} or contact us only when you need a change.`,
+  },
+  {
+    question: "How long does a website project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Content and approvals arriving on time matter more than anything else, including the time difference.",
+  },
+  {
+    question: "Can you redesign our existing site without losing Google rankings?",
+    answer: "Yes. Before the redesign we export the pages that get search traffic, keep their URLs where possible, set up 301 redirects where URLs must change, carry over titles and content that rank, and watch Search Console after launch. Most ranking losses after a rebuild come from skipping those steps.",
+  },
+  {
+    question: "Can we meet in person?",
+    answer: "No. We are a remote team in India and do not have staff in Australia. Everything runs over video calls, WhatsApp, email and a shared staging link, with written scopes and updates, so you always have a record of what was agreed.",
+  },
+  {
+    question: "How do we get started?",
+    answer: "Send a WhatsApp message or an email with what your business does, what you want built and a few sites you like. We reply with questions, then a written scope, timeline and itemised quote, usually within two working days. Work starts after you approve the scope and pay the first milestone.",
   },
 ];
 
+// ---------- Page meta ----------
+
 const page = createPageSeo({
-  title: "Web Development Services Australia | Remote IT Team",
-  description: "Web development services Australia from an India-based freelance team. Websites, ecommerce, AI automation, SEO, delivered end to end with 5 months free maintenance.",
+  title: "Web Development Company Australia | Web Developers",
+  description: `Web developers for Australian businesses in Sydney, Melbourne, Brisbane and Perth. Websites, ecommerce, SEO & apps from ${usd("Static")}, built remotely from India.`,
   canonicalPath: "/australia/",
-  h1: "IT, Web and SEO Services for Australian Businesses",
-  intro: "We are three freelance engineers in India who build websites, ecommerce stores, web apps and automation for Australian businesses. Planning, design, development, SEO setup, hosting and deployment are handled end to end, with five months of maintenance included free after launch.",
-  breadcrumbs: createBreadcrumbs([{ label: "Australia", href: "/australia/" }]),
+  h1: "Web development company for Australian businesses",
+  intro: `BtechWaleTech is a small team of engineers based in India. We design and build websites, ecommerce stores, web apps, SEO systems and AI automations for businesses across Australia, from Sydney and Melbourne to Perth, Adelaide, Hobart and Darwin, working remotely in your afternoon. Websites start from ${usd("Static")}, and every price on this page is a starting price.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Australia", href: "/australia/" },
+  ]),
+  locale: "en_AU",
+  alternateLocales: ["en_NZ"],
+  ogImage: { url: "/banner_logo.png", alt: "BtechWaleTech, a remote web development and SEO team serving businesses across Australia", width: 1536, height: 1024 },
   keywords: [
-    "web development services Australia",
-    "hire offshore developers Australia",
-    "SEO services Australia",
+    "web development company Australia",
+    "web developers Australia",
+    "website development Australia",
     "website design Australia",
-    "web developers for Australian business",
-    "offshore web development Australia",
-    "ecommerce development Australia",
-    "small business website Australia",
+    "SEO services Australia",
     "local SEO Australia",
-    "Google Business Profile Australia",
-    "web design Sydney",
-    "web design Melbourne",
-    "web developer Brisbane",
-    "website developer Perth",
-    "web development Adelaide",
-    "tradie website design",
-    "AI automation Australia",
-    "custom web application Australia",
-    "website maintenance Australia",
-    "affordable web design Australia",
-    "remote development team Australia",
+    "ecommerce website development Australia",
     "Shopify developer Australia",
-    "WordPress developer Australia",
-    "technical SEO Australia",
-    "website speed optimisation Australia",
-    "healthcare website Australia",
-    "hospitality website design Australia",
-    "professional services website Australia",
+    "custom software development Australia",
+    "offshore web developers Australia",
+    "hire offshore developer Australia",
+    "small business website Australia",
+    "website cost Australia",
+    "AI automation Australia",
+    "website maintenance Australia",
+    "tradie website design",
+    "NDIS provider website",
+    "web development New South Wales",
+    "web design Victoria",
+    "web developer Queensland",
+    "website design Western Australia",
+    "web development South Australia",
+    "web design Tasmania",
+    "web developer ACT",
+    "web design Sydney",
+    "web developers Melbourne",
+    "website design Brisbane",
+    "web design Gold Coast",
+    "web developer Perth",
+    "website development Adelaide",
+    "web design Canberra",
+    "web developer Hobart",
+    "website design Darwin",
+    "web design Newcastle",
   ],
 });
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Call window", "Your afternoon, our morning"],
+  ["Invoicing", "USD, or AUD on request via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "All 6 states and 2 mainland territories"],
+];
+
+const pills = ["Business websites", "Shopify & WooCommerce", "SEO for google.com.au", "Afterpay & Zip checkout", "Xero & ServiceM8 automation", "Custom web apps"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "8", label: "States and territories served remotely" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers based in India: full stack, AI and cloud, and project delivery" },
+  { label: "How we work", value: "Remotely over video calls, WhatsApp and email, with a private staging link" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Checkout options we set up", value: "Stripe, Shopify Payments, PayPal, Square, Afterpay and Zip, in your merchant name" },
+  { label: "Language", value: "Australian English: enquiry, optimise, colour, DD/MM/YYYY dates, +61 numbers" },
+  { label: "Starting prices", value: `From ${usd("Static")} for a website; every figure is a starting price in USD` },
+  { label: "After launch", value: `5 months of free maintenance, then from ${usd("Maintenance")} or pay as needed` },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Fast, mobile-first sites on Astro, Next.js or WordPress, written in Australian English, with enquiries routed to email, SMS or your CRM.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO & local SEO", note: "Technical SEO, content and suburb-level local search for google.com.au, plus hreflang for en-AU and en-NZ pages.", href: "/services/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with Stripe, PayPal, Afterpay or Zip, GST-inclusive pricing and Australia Post or Sendle shipping.", size: "sm" },
+  { name: "Custom software", note: "Client portals, booking systems, quoting tools and dashboards built around how your team already works.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Installable web apps for field staff and customers, without app store fees or review delays.", size: "sm" },
+  { name: "AI automation", note: "Enquiries, jobs and invoices flowing between your site, Xero or MYOB, ServiceM8 and your inbox.", size: "sm" },
+  { name: "Website redesigns", note: "Rebuilds that keep the URLs and content that already rank, with redirects mapped before launch.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months included free after launch.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Highest, reflecting Australian salaries, office and account management", "Lowest headline figure, wide variation in what is delivered", `From ${usd("Static")} for a website, itemised quote in writing`],
+  ["Who does the work", "Often a team behind an account manager", "One person, sometimes subcontracted onward", "The three engineers you talk to"],
+  ["Working hours", "Full overlap with your business day", "Can be close to zero overlap", "Your afternoon every weekday, async the rest"],
+  ["Written scope", "Usually, after a discovery phase", "Often a short job post", "Always, before any payment is due"],
+  ["SEO and schema", "Often a separate package", "Frequently skipped", "Titles, schema, sitemap and Search Console in every build"],
+  ["After launch", "Paid retainer from day one", "Ends when the contract closes", "5 months of maintenance included"],
+  ["Ownership", "Varies; some keep hosting or theme licences", "Check the platform terms", "Code, domain, hosting and logins in your name"],
+  ["Meeting in person", "Yes, if they are local", "No", "No: remote only, and we say so upfront"],
+];
+
+// ---------- Process ----------
+
+const process = [
+  ["Talk", "A short video call in your afternoon or a WhatsApp chat about your business, customers and budget. No charge."],
+  ["Scope & quote", "Pages, features, integrations, timeline and an itemised quote in USD or AUD, agreed in writing."],
+  ["Design", "Sitemap and wireframes first, then visual design for key pages, reviewed on your own phone."],
+  ["Build on staging", "The site is built on a private staging link you can open any time, with written progress updates."],
+  ["Test & SEO", "Titles, schema, redirects, speed, forms, GST display and payments checked end to end before launch."],
+  ["Launch & support", "Domain connected, Search Console set up, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Industries table ----------
+
+const industries = [
+  { name: "Trades and home services", need: "A number they can tap, the suburbs you cover, licence details, real job photos and a fast quote form", build: "Mobile-first sites with click-to-call, service-area pages, quote forms into ServiceM8, Tradify or simPRO, review requests" },
+  { name: "Allied health, dental and clinics", need: "Practitioners, fees and billing, Medicare or health fund details, parking and quick online booking", build: "Practitioner pages, booking links to Cliniko or HotDoc, AHPRA-aware copy without testimonials, accessible layouts" },
+  { name: "NDIS providers", need: "Plain-language service descriptions, service areas, registration status and an easy way to make contact", build: "Accessible, easy-read friendly pages, careful enquiry forms, content structure your team can update" },
+  { name: "Professional services", need: "Credentials, practice areas, fixed-fee options and answers to the questions clients ask first", build: "Restrained, fast sites with team profiles, practice pages, articles and secure document request forms" },
+  { name: "Retail and online brands", need: "Clear product detail, GST-inclusive prices, delivery times, returns and Afterpay or Zip at checkout", build: "Shopify or WooCommerce stores, Australia Post, Sendle or Shippit shipping rules, product schema, Xero sync" },
+  { name: "Hospitality and tourism", need: "Real photos, menus as text, seasonal hours, bookings that work first time on a phone", build: "Venue and tour sites, booking engine links, events pages, fast image handling, Google Business Profile guidance" },
+  { name: "Education and training", need: "Course details, intakes, fees, CRICOS or RTO codes where applicable and a short enrolment path", build: "Course pages, enquiry and enrolment flows, international student content, CRM integration" },
+  { name: "Mining services, construction and B2B", need: "Capabilities, safety and quality accreditations, project case notes and a named contact", build: "Capability sites, downloadable capability statements, tender-ready pages, RFQ forms that accept drawings" },
+  { name: "Wineries and food producers", need: "Cellar door hours, wine club sign-up, online orders and shipping rules that respect state restrictions", build: "Direct-to-consumer stores, club memberships, age confirmation, events and tasting bookings" },
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface GuideTable { caption: string; head: string[]; rows: string[][]; hideSm?: number[] }
+interface GuideSection { id: string; heading: string; paragraphs: string[]; list?: string[]; after?: string[]; table?: GuideTable }
+
+const guide: GuideSection[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are and how remote delivery works for Australian clients",
+    paragraphs: [
+      "BtechWaleTech is three engineers in India. Ankur Kumar is the full stack developer. Santosh Sharma handles AI and machine learning work, AWS infrastructure, data science, technical SEO and deployment. Vedansh Shrivastava runs project management, data science, AI and automation. There is no sales team, no account manager and no pool of juniors that your project disappears into. The people on your first call are the people who build the site.",
+      "We work with Australian businesses remotely, and only remotely. We do not have an office in Sydney or Melbourne, we do not have an ABN, and we do not have staff in Australia. Some offshore providers blur that line with a virtual office address or a local phone number that forwards overseas; we think that is a poor way to start a working relationship, so we state it plainly here and on every page of this site.",
+      "Remote delivery works well for web projects because almost everything that matters is visible and checkable online. Within the first week you get a private staging link where the real site is being built, not a set of static mockups. You open it on your own phone, on your office desktop and on the laptop at home, and you comment directly. Every decision is written down: the scope, the page list, what is included, what is excluded and what each milestone costs. If something is said on a call, it is confirmed in writing afterwards so nobody has to rely on memory.",
+      "The main adjustment for Australian clients is the time difference, which is smaller than most people expect. India is behind every Australian time zone, so our morning is your afternoon. A typical rhythm is a short call or a written review in your afternoon, then build work through our day while you are out of the office, and a written update waiting when you start the next morning. The time-zone section further down explains the exact overlap for each state, including daylight saving.",
+      "We are a good fit for small and mid-sized businesses, startups, sole traders, not-for-profits and in-house marketing teams that need reliable engineering without agency overheads. We are not the right fit if you need someone on site for workshops, if your procurement rules require an Australian entity with local insurance and security clearances, or if the project needs dozens of people at once. When that is the case we will say so on the first call rather than take a job we cannot deliver well.",
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "Our services for the Australian market, in detail",
+    paragraphs: [
+      "<strong>Website development.</strong> Business websites, landing pages and content sites built on modern frameworks such as Astro and Next.js, or on WordPress when your team wants to edit pages themselves. For most service businesses we recommend a static site: it loads quickly on a phone with one bar of 4G in a regional town, it is cheap to host, and there is very little to hack. The static plan covers up to 100 pages, responsive layouts, enquiry forms, hosting, SSL and deployment. Everything is written in Australian English, with enquiry rather than inquiry, optimise rather than optimize, prices shown with GST included where you sell to consumers, dates as DD/MM/YYYY and phone numbers formatted the way Australians dial them. The <a href=\"/services/web-development/\">web development service page</a> covers the technical detail.",
+      "<strong>SEO websites at scale.</strong> Some businesses genuinely need hundreds of pages: a trade that covers many suburbs, a directory, a comparison site, or a catalogue of products and variations. Our SEO website plan covers 700+ pages built around search intent, with keyword and page planning, schema, a sitemap and internal linking, taken from design to deployment. The key word is genuine. We only plan location pages for places you actually serve and have something specific to say about, because thin copies with the suburb name swapped are exactly what Google's helpful content and spam systems are designed to demote.",
+      "<strong>Ecommerce.</strong> Online stores on Shopify, WooCommerce or a custom stack, chosen according to your catalogue, budget and how much control you want. We set up Stripe, Shopify Payments, PayPal, Square, Afterpay and Zip where they suit your platform, configure GST-inclusive pricing and shipping rules that reflect what Australia Post, Sendle or your courier actually charge to regional and remote postcodes, and connect orders to Xero or MYOB. The ecommerce section below goes into payments and delivery in more depth.",
+      "<strong>SEO for google.com.au.</strong> Monthly SEO covers technical health, on-page work, content and local search. For businesses that serve a metro area or a region we focus on service pages, suburb pages where they are justified, and Google Business Profile guidance. For national online stores we focus on category and product pages. If you also trade in New Zealand, we set up separate en-AU and en-NZ pages with hreflang so each market sees the right prices and spelling. More on the <a href=\"/services/seo-services/\">SEO services page</a>.",
+      "<strong>Custom software and web apps.</strong> Client portals, booking and quoting tools, staff dashboards, job tracking for field teams, membership areas and internal admin panels. A common Australian example is a trades or facilities business that has outgrown spreadsheets but finds off-the-shelf job software too rigid for one part of its workflow. Another is an allied health practice that wants a patient intake form which writes directly into its practice management system. Many requests for a mobile app are better served by a progressive web app that installs from the browser and updates without app store review.",
+      "<strong>AI automation.</strong> Automations that remove repetitive admin: website enquiries created as jobs in ServiceM8 or Tradify, paid orders pushed into Xero as invoices, booking confirmations and reminders by SMS or email, lead summaries sent to the right person, and AI assistants that draft replies to common questions or classify incoming requests, with a human checking anything that matters. We map the current process first, because automating a messy workflow just produces mess faster.",
+      "<strong>Maintenance.</strong> After hosting goes live you get five months of maintenance included: content and price updates, bug fixes, security updates, backups, uptime and speed checks and basic SEO health checks. After that, maintenance continues from " + usd("Maintenance") + ", or you contact us only when something needs changing. See all starting prices on the <a href=\"/pricing/\">pricing page</a>.",
+    ],
+  },
+  {
+    id: "ecommerce-australia",
+    heading: "Ecommerce in Australia: Stripe, Shopify, PayPal, Afterpay, Zip and delivery",
+    paragraphs: [
+      "Selling online in Australia has a few features that stores built for other markets often get wrong. Buyers expect prices to include GST, they expect to see delivery costs to their postcode before they reach the last step, many expect a buy now pay later option in fashion, homewares, beauty and electronics, and anyone outside the capital cities has learned to check whether a store actually delivers to them.",
+      "<strong>Platform choice.</strong> Shopify suits most small and mid-sized stores: it is managed, secure, has solid Australian payment and shipping apps, and your team can run it without a developer. WooCommerce suits businesses that already run WordPress, want lower monthly platform fees or need unusual product logic. A custom build makes sense for B2B ordering with customer-specific price lists, complex configurators, subscriptions with unusual rules, or very large catalogues where platform limits start to bite. We recommend one for your situation and explain why, rather than using one tool for every job.",
+      "<strong>Card payments and wallets.</strong> Stripe, Shopify Payments, PayPal and Square all accept Visa, Mastercard and American Express, and most support Apple Pay and Google Pay, which matter because a large share of Australian online shopping now happens on phones. Fees, settlement times and dispute handling differ by provider and plan, so compare their current terms before you choose. Each merchant account needs business verification and is opened in your name; we never process payments through our own accounts.",
+      "<strong>Afterpay and Zip.</strong> Buy now pay later is widely used by Australian shoppers, and both Afterpay and Zip integrate with Shopify, WooCommerce and most custom checkouts. The provider approves your merchant application and sets your fees, which are typically higher than card fees, so it is worth checking whether your margins support them. We add the checkout option, the product-page messaging the provider requires, and test the full flow, including refunds, before launch.",
+      "<strong>Bank transfer and PayID.</strong> For B2B stores and high-value orders, bank transfer is still common. PayID makes it easier because customers can pay to an email address or phone number instead of a BSB and account number, and payments usually arrive quickly through the New Payments Platform. We can build order flows that hold stock while waiting for payment and mark the order paid when you confirm receipt.",
+      "<strong>Shipping and delivery.</strong> Australia is large, and delivery costs to Perth, Darwin, Tasmania or remote Queensland can be very different from Sydney to Melbourne. We configure shipping rules by postcode or zone, connect Australia Post, StarTrack, Sendle, CouriersPlease or an aggregator such as Shippit where you use them, show delivery estimates honestly, and handle click and collect if you have a shopfront. For bulky or fragile goods we set up quote-on-request flows rather than inventing a flat rate that loses money on half your orders.",
+      "<strong>GST, invoices and accounting.</strong> A GST-registered business selling to consumers should show GST-inclusive prices, and customers who ask for a tax invoice should get one that meets ATO requirements. We configure tax settings and invoice templates to your accountant's instructions and connect the store to Xero or MYOB so orders, fees and refunds do not have to be retyped. Please confirm your GST settings and product tax classes with your accountant before launch; we implement them, we do not decide them.",
+      "<strong>Consumer law at checkout.</strong> The Australian Consumer Law applies to online stores the same way it applies to shops. Returns and refund pages must not suggest customers have fewer rights than the consumer guarantees give them, prices must be shown as a total rather than drip-fed, and pre-ticked add-ons or hidden subscriptions are exactly what regulators have been pursuing. We write checkout flows and templates that avoid those traps, and you confirm the final policy wording with your adviser.",
+    ],
+  },
+  {
+    id: "seo-australia",
+    heading: "SEO for google.com.au: local search, suburbs and hreflang",
+    paragraphs: [
+      "Australian search is heavily local. People search for a service plus a suburb, or they tap the map results and call whichever business looks closest and most credible. A plumber in Parramatta, a physio in Fremantle and a family lawyer in Toowong are all competing in different small markets, even though they use the same Google. Good SEO for an Australian business starts by working out which of those small markets you actually want to win.",
+      "<strong>Technical foundations.</strong> Every site we build ships with a clean URL structure, one H1 per page, unique titles and meta descriptions, a sitemap submitted in Search Console, canonical tags, correct robots settings, compressed images in modern formats and structured data for your business type. Pages are tested against Core Web Vitals on a throttled mobile connection, because many Australian customers browse on the train, on a job site or in a regional town with patchy coverage.",
+      "<strong>Local SEO and Google Business Profile.</strong> For businesses that serve customers in an area, the Google Business Profile often drives more calls than the website itself. We guide you through setting it up or cleaning it up: the most specific primary category, accurate service areas for mobile businesses, hours, services, photos and a website link that goes to the most relevant page. The profile must be owned and verified by you. We also check that your business name, address and phone number read the same on your site, your profile, Yellow Pages, True Local, Hipages, industry directories and social profiles.",
+      "<strong>Suburb and service-area pages.</strong> A page for each area you really serve can rank if it says something specific: typical jobs in that area, travel or call-out details, local landmarks customers recognise, response times, or photos of work done nearby. Twenty identical pages with the suburb name swapped usually do not rank and can drag the rest of the site down. We start with your most valuable three to five areas and add more only when there is genuine content for them.",
+      "<strong>Content that answers Australian questions.</strong> The pages that win are usually the ones that answer the exact question a customer has. For a trades business that is call-out fees, after-hours availability, licence numbers and what a typical job costs. For a clinic it is fees, gap payments, bulk billing, health fund rebates, parking and what to bring. For an online store it is delivery times to each state, returns and whether Afterpay is available. We plan content around those questions, not around a keyword density target.",
+      "<strong>google.com.au and ccTLDs.</strong> Google no longer offers a manual country-targeting setting in Search Console, so it relies on signals such as a .com.au or .au domain, hreflang, Australian addresses and phone numbers where you have them, local currency and content that is clearly written for Australians. A .com.au domain is a strong local signal. If you use a .com instead, hreflang and clearly Australian content matter more.",
+      "<strong>hreflang for en-AU and en-NZ.</strong> Businesses that trade in both Australia and New Zealand often run one site with the same pages for both. That works until prices, GST rates, delivery rules and spelling differences start confusing customers. We can build separate en-AU and en-NZ versions, usually in /au/ and /nz/ folders or on .com.au and .co.nz domains, with hreflang tags pointing each version at the other and an x-default for everyone else. Each version gets its own currency, GST treatment and delivery information.",
+      "<strong>Reporting.</strong> Monthly SEO starts from " + usd("Monthly SEO") + " and includes a plain report from Search Console: which pages gained impressions and clicks, which queries are growing, what we changed and what we plan next. We do not promise positions, and you should be wary of anyone who does. Rankings move daily; we judge progress month on month.",
+    ],
+  },
+  {
+    id: "compliance-australia",
+    heading: "Compliance basics: Privacy Act, Spam Act, Australian Consumer Law, accessibility and GST",
+    paragraphs: [
+      "We are engineers, not lawyers or accountants, and nothing on this page is legal or tax advice. What follows is the practical groundwork we build into Australian websites so that your adviser has less to fix. Please have a qualified professional confirm which obligations apply to your business and approve any policy wording.",
+      "<strong>Privacy Act 1988 and the Australian Privacy Principles.</strong> The thirteen APPs cover how organisations collect, use, disclose, store and give access to personal information. They apply to Australian Government agencies and to businesses above the turnover threshold, and also to some smaller businesses, including health service providers and businesses that trade in personal information. The Act has been amended in recent years and further reform has been under active discussion, so check the current position with your adviser rather than relying on an old template. Whether or not the Act strictly applies to you, we build as if it does: a real privacy policy, a collection notice next to each form explaining what is collected and why, only the fields you actually need, and form data stored in access-controlled systems.",
+      "<strong>Cross-border disclosure and working with us.</strong> Because our team is in India, it is worth thinking about APP 8, which deals with disclosing personal information overseas. The simplest approach is the one we use by default: we build and test with dummy data on staging, customer data lives in your systems or your hosting accounts, and we only access live personal information when a task genuinely needs it and you have agreed. If your adviser wants specific contractual terms about data handling, we are happy to sign them.",
+      "<strong>Notifiable data breaches.</strong> Organisations covered by the Privacy Act must notify affected people and the Office of the Australian Information Commissioner about eligible data breaches. Good engineering reduces the chance of a breach in the first place: HTTPS everywhere, patched software, least-privilege accounts, two-factor authentication on admin logins, backups that are tested, and no personal data sitting in email inboxes or open spreadsheets.",
+      "<strong>Spam Act 2003.</strong> Commercial emails and SMS messages need consent, must identify the sender, and must include a functional unsubscribe option that is honoured promptly. We build newsletter and marketing sign-ups with unticked consent boxes and clear wording, connect them to tools that handle unsubscribes automatically, and keep a record of how and when each person opted in. The Australian Communications and Media Authority enforces these rules and has issued significant penalties.",
+      "<strong>Australian Consumer Law.</strong> The ACL prohibits misleading or deceptive conduct, requires consumer guarantees that cannot be excluded, and requires a single total price to be shown where a price is quoted. Unfair contract terms in standard form contracts can now attract penalties. For websites this affects pricing displays, returns pages, testimonials, comparison claims, subscription sign-ups and terms and conditions. We build honest defaults and you confirm the wording.",
+      "<strong>Accessibility, WCAG and the Disability Discrimination Act.</strong> The Disability Discrimination Act 1992 applies to goods and services, including websites, and the Australian Human Rights Commission's guidance points to the Web Content Accessibility Guidelines. The well-known Maguire v SOCOG case over the Sydney 2000 Olympics website showed that inaccessible websites can lead to real legal consequences. We build to WCAG 2.2 level AA as a working target: semantic headings, keyboard access, focus states, labelled fields, colour contrast, text alternatives and forms that announce errors clearly. Government and many funded organisations have their own formal requirements, which we follow when you share them.",
+      "<strong>GST.</strong> GST in Australia is 10 per cent, and businesses must register once their GST turnover reaches the registration threshold. For your website, that means GST-inclusive consumer prices, correct tax invoices and correct tax settings in your store and accounting software. For your purchase from us, we quote in US dollars without Australian GST, and your accountant should confirm how an imported service is treated for your business.",
+      "<strong>Industry rules.</strong> Some sectors have their own advertising rules that affect website copy. Registered health practitioners must follow AHPRA's advertising guidelines, which restrict testimonials about clinical care. International education providers show their CRICOS code, and registered training organisations show their RTO number. Financial and credit businesses have their own disclosure rules. We build the structure and you, or your adviser, supply the regulated wording.",
+    ],
+  },
+  {
+    id: "time-zones",
+    heading: "Working across time zones: India and Australia",
+    paragraphs: [
+      "India Standard Time is UTC+5:30 all year and India does not use daylight saving. Every Australian time zone is ahead of India, by between 2.5 and 5.5 hours depending on where you are and the time of year. That is a far easier gap than Australian businesses face working with Europe or the Americas, where the working days barely touch.",
+      "Daylight saving is the complication. New South Wales, Victoria, the ACT, Tasmania and South Australia move their clocks forward on the first Sunday in October and back on the first Sunday in April. Queensland, Western Australia and the Northern Territory do not. So between October and April, Sydney and Brisbane are an hour apart even though they share a standard time, and the gap to India widens by an hour for the southern states. Broken Hill in far western New South Wales follows South Australian time, which occasionally catches people out.",
+      "The overlap is simple to picture: our morning in India lines up with your afternoon. We reply between 9am and 9pm IST, seven days a week, so on the east coast we are online from early afternoon onwards, and in Perth from late morning. Calls are best booked between about 1pm and 5pm on the east coast, noon and 5pm in Adelaide and Darwin, and from 11:30am in Perth. For an important call we can start earlier in India by arrangement, which moves the window into your late morning.",
+    ],
+    table: {
+      caption: "Time difference and call overlap between India (IST) and Australian time zones",
+      head: ["Your time zone", "Where and when", "Ahead of IST", "Our 9am IST is your"],
+      rows: [
+        ["AWST (UTC+8)", "Perth and Western Australia, all year", "2.5 hours", "11:30am"],
+        ["ACST (UTC+9:30)", "Darwin all year; Adelaide from April to October", "4 hours", "1:00pm"],
+        ["ACDT (UTC+10:30)", "Adelaide and Broken Hill from October to April", "5 hours", "2:00pm"],
+        ["AEST (UTC+10)", "Brisbane all year; Sydney, Melbourne, Canberra and Hobart from April to October", "4.5 hours", "1:30pm"],
+        ["AEDT (UTC+11)", "Sydney, Melbourne, Canberra and Hobart from October to April", "5.5 hours", "2:30pm"],
+      ],
+      hideSm: [1],
+    },
+    after: [
+      "The rest of the work happens asynchronously, and that is where the time difference quietly helps. You review the staging site and send comments in your afternoon; we work through them during our day, which is your evening; and when you open your laptop the next morning, the changes are live on staging with a written note of what was done and anything we need you to decide. For urgent production problems, such as a checkout failing, you message us on WhatsApp and we respond within our working hours, which cover your afternoon and evening every day of the week.",
+    ],
+  },
+  {
+    id: "payments-invoicing",
+    heading: "Paying us from Australia: USD, AUD, Wise and bank transfer",
+    paragraphs: [
+      "International prices on this site are in US dollars, derived from the same price list we use in India. If you prefer, we issue the invoice in Australian dollars at the exchange rate on the day of the quote, so the figure you approve is the figure you pay.",
+      "Most Australian clients pay through Wise. You pay Wise with an ordinary domestic bank transfer or PayID in AUD, Wise converts the money at the mid-market rate with a small visible fee, and we receive it in India. International wire transfer from your bank also works, but banks often add a margin to the exchange rate and intermediary fees, so compare the total cost before you choose. We do not ask for payment in cryptocurrency or through gift cards, and you should be suspicious of any provider that does.",
+      "Payments are split into milestones tied to visible progress. A typical small website is a deposit to start, a second payment when the design is approved on staging, and the balance at launch. Larger projects add milestones at key features. Monthly SEO and maintenance are invoiced monthly in advance and can be stopped with notice. Every invoice lists what it covers, and nothing is billed that is not in the approved scope; changes are quoted separately before they are done.",
+    ],
+  },
+  {
+    id: "cost-explained",
+    heading: "What a website costs in Australia, explained",
+    paragraphs: [
+      "Ask five Australian providers what a website costs and you will get five very different numbers, because the word website covers everything from a one-page profile to a marketplace. Local agencies have Australian salaries, rent and insurance to cover. Marketplace freelancers range from excellent to disastrous. Our starting prices are low because our costs are low, not because we skip steps. Price still follows scope, and the final quote depends on your requirements. Here is what each starting price typically buys.",
+    ],
+    list: [
+      `<strong>From ${usd("Static")}, static website:</strong> a service business, clinic, consultant or tradie with a home page, service pages, about, contact and gallery, up to 100 pages, using content you supply. Enquiry form, click-to-call, basic SEO tags, sitemap, hosting setup and deployment included.`,
+      `<strong>From ${usd("SEO website")}, SEO website of 700+ pages:</strong> a structured site built around search intent, such as a service business with genuine service and location combinations or a large catalogue of product types, with keyword planning, schema and internal linking.`,
+      `<strong>From ${usd("AI automation")}, AI automation:</strong> one well-defined workflow, for example website enquiries created as jobs in ServiceM8 with an SMS acknowledgement and a follow-up reminder if nobody responds within an hour.`,
+      `<strong>From ${usd("Ecommerce")}, ecommerce store:</strong> product and category pages, cart and checkout, a payment provider, GST settings, shipping rules, order basics and performance tuning, for a catalogue you can supply in a structured spreadsheet.`,
+      `<strong>From ${usd("Custom web app")}, custom web app:</strong> a focused first version of a portal, dashboard or internal tool with user accounts, roles, an admin panel and deployment.`,
+      `<strong>From ${usd("Monthly SEO")}, monthly SEO; from ${usd("Maintenance")}, maintenance:</strong> ongoing work with monthly reporting, after the five free months of maintenance.`,
+    ],
+    after: [
+      "The things that most often push a quote up are many unique page designs rather than reusable templates, copy we write from scratch, catalogues with complex variants, integrations with older systems that lack a proper API, multiple languages or regions, and tight deadlines. The things that keep it down are ready content and photos, one decision-maker, and a sensible first version that can grow later.",
+      "Also budget for running costs paid to third parties rather than to us: domain renewal, hosting, email, premium plugins or a Shopify plan, payment and buy now pay later fees, SMS credits and any paid apps. We list expected running costs in the quote so there are no surprises in the second year. The full breakdown is on the <a href=\"/pricing/\">pricing page</a>.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "How to hire an offshore web developer from Australia",
+    paragraphs: [
+      "Hiring offshore can save a large share of the cost of a local agency, but only if you choose carefully. The risks are real: unclear scope, communication gaps, code you cannot maintain, and in the worst cases a site held hostage because the domain was registered in someone else's name. Use this checklist with anyone you are considering, including us.",
+    ],
+    list: [
+      "<strong>Ask who will actually build it.</strong> Get names and roles. If the person selling is not the person building, find out who is and whether any part will be subcontracted again.",
+      "<strong>Test live sites, not screenshots.</strong> Open their work on your phone over mobile data and run it through Google PageSpeed Insights. Check how it behaves with a keyboard and at large text sizes.",
+      "<strong>Confirm ownership in writing.</strong> The domain, hosting, source code, content and every paid licence must be in your name, with logins handed over at launch.",
+      "<strong>Insist on a written scope.</strong> The number of pages, design rounds, who writes content, what SEO setup includes, which integrations, what is excluded and how changes are priced.",
+      "<strong>Check the overlap window.</strong> Ask exactly when they can take calls in your time zone and how quickly they respond outside it. Vague answers here become frustrating later.",
+      "<strong>Ask how they handle Australian specifics.</strong> GST-inclusive pricing, Australian spelling, Afterpay or Zip, Australia Post rates, the Privacy Act and the Spam Act. A provider who has never heard of them will learn on your budget.",
+      "<strong>Agree staged payments.</strong> Milestones tied to visible progress on a staging site, not the full amount upfront.",
+      "<strong>Clarify support after launch.</strong> Who fixes bugs, how fast, for how long, and what ongoing support costs.",
+    ],
+    after: [
+      "<strong>Red flags worth walking away from:</strong> guaranteed first-page rankings; a domain registered in the developer's name; pirated or nulled premium themes and plugins, which often carry malware; reviews, awards or client logos that cannot be verified; no staging link until launch day; pressure to pay everything upfront; and an offshore team presenting itself as Australian with a virtual office address.",
+      "<strong>What a fair contract covers:</strong> scope and deliverables, milestones and payment terms, intellectual property transferring to you on payment, confidentiality, how personal information is handled, how changes are requested and priced, what support is included, and what happens to your data, backups and access if you part ways.",
+    ],
+  },
+  {
+    id: "redesign",
+    heading: "Redesigning an existing Australian website without losing traffic",
+    paragraphs: [
+      "Many Australian small businesses are running a site built five to ten years ago: a WordPress theme that has not been updated, a page builder that makes every change painful, or a site made by a developer who is no longer reachable. Replacing it is often the right decision, but a careless rebuild can wipe out search visibility that took years to earn.",
+      "Before any design work we export the pages that receive search traffic from Search Console, list the queries they rank for, and crawl the old site to capture every URL. Where possible those URLs stay the same. Where a URL has to change, a permanent 301 redirect sends visitors and search engines from the old address to the new one. Titles, headings and the content that ranks are carried across and improved rather than thrown away. Before launch we check for broken links, missing pages, accidental noindex tags and forms that no longer send.",
+      "After launch we submit the new sitemap, watch Search Console for crawl errors and 404s over the following weeks, and fix anything that slipped through. A short wobble while Google processes the change is normal; a lasting drop usually points to a missed redirect or removed content, which is exactly what the post-launch checks are there to catch.",
+    ],
+  },
+];
+
+// ---------- States and territories ----------
+
+const states = [
+  {
+    name: "New South Wales",
+    short: "NSW",
+    cities: "Sydney, Newcastle, Wollongong, Central Coast",
+    industries: "Professional and financial services, health, trades, tourism",
+    tz: "AEST / AEDT",
+    text: "Sydney is Australia's most competitive search market. Professional firms in the CBD and North Sydney, health and technology businesses around Macquarie Park, the second CBD in Parramatta and a very large trades sector across Western Sydney all compete for search terms that cost real money in Google Ads. The businesses that win organically usually narrow down: one service in a defined set of suburbs, explained properly. Newcastle and the Hunter mix health, education, engineering and the energy transition with Hunter Valley wine tourism. Wollongong and the Illawarra bring manufacturing, universities and health, and the Central Coast has a large base of trades and home services. Regional NSW businesses often need clear service-area information more than anything else, because customers want to know you will actually drive out to them.",
+  },
+  {
+    name: "Victoria",
+    short: "VIC",
+    cities: "Melbourne, Geelong, Ballarat, Bendigo",
+    industries: "Retail and fashion, hospitality, education, manufacturing",
+    tz: "AEST / AEDT",
+    text: "Melbourne has a strong retail, fashion and hospitality culture and a large number of independent online brands, which makes fast Shopify stores, good product photography and Afterpay or Zip at checkout common requests. It is also a major education city with universities, TAFEs and private colleges that need course pages and enrolment funnels. Geelong combines advanced manufacturing with a growing services economy and is home to the National Disability Insurance Agency's headquarters, and it has many NDIS providers. Ballarat and Bendigo have healthcare, education, trades and tourism businesses that often rank well locally with a modest, well-built site. The Yarra Valley and Mornington Peninsula bring wineries and hospitality businesses that need bookings and direct sales.",
+  },
+  {
+    name: "Queensland",
+    short: "QLD",
+    cities: "Brisbane, Gold Coast, Sunshine Coast, Townsville, Cairns, Toowoomba",
+    industries: "Construction, tourism, trades, agriculture, health",
+    tz: "AEST all year",
+    text: "Queensland does not use daylight saving, which makes Brisbane the most predictable east-coast city for us to schedule with: always 4.5 hours ahead of India. Brisbane is growing quickly, with construction, infrastructure and property businesses active ahead of the 2032 Olympic and Paralympic Games. The Gold Coast and Sunshine Coast bring tourism, hospitality, health and a very large trades sector, and Cairns and the tropical north depend on reef and rainforest tourism with strong international demand. Townsville has defence, health and resources services, and Toowoomba is an agricultural and logistics centre for the Darling Downs. Tour operators need booking engines and seasonal content that ranks before peak periods; trades need suburb-level pages that cover sprawling service areas honestly.",
+  },
+  {
+    name: "Western Australia",
+    short: "WA",
+    cities: "Perth, Mandurah, Bunbury, Geraldton, Kalgoorlie",
+    industries: "Mining services, engineering, trades, wine and tourism",
+    tz: "AWST all year",
+    text: "Perth is the easiest Australian city for us to work with. Western Australia is only 2.5 hours ahead of India and does not use daylight saving, so a Perth late-morning call is a normal working hour for us all year round. The state's economy is shaped by resources: mining equipment, technology and services suppliers, engineering consultancies, labour hire and FIFO-related businesses need capability websites, downloadable capability statements, safety and quality accreditations and tender-ready pages. Perth itself has a large trades and home services market spread across a long metropolitan area. The South West, including Margaret River and Bunbury, brings wineries, tourism and food producers, and Kalgoorlie and Geraldton have mining, agriculture and fishing businesses.",
+  },
+  {
+    name: "South Australia",
+    short: "SA",
+    cities: "Adelaide, Mount Gambier, Whyalla, Murray Bridge",
+    industries: "Defence and space, wine, food, health, education",
+    tz: "ACST / ACDT",
+    text: "Adelaide runs on half-hour time, 4 hours ahead of India in winter and 5 hours in summer. The city has a growing defence industry around naval shipbuilding, a space sector anchored by the Australian Space Agency at Lot Fourteen, and strong health, education and research institutions. Suppliers in those sectors need precise capability pages, certifications and a clear point of contact for procurement teams. South Australia is also wine country: the Barossa, McLaren Vale, Clare Valley and Coonawarra support cellar doors, wine clubs and direct-to-consumer stores that need age confirmation, club memberships and interstate shipping rules. Food producers, from the Riverland to the Eyre Peninsula, are good candidates for small online stores.",
+  },
+  {
+    name: "Australian Capital Territory",
+    short: "ACT",
+    cities: "Canberra, Queanbeyan (NSW) region",
+    industries: "Government suppliers, consultancies, associations, education",
+    tz: "AEST / AEDT",
+    text: "Canberra's economy is built around the federal government, and many local businesses are consultancies, contractors, associations and peak bodies that sell to government or represent members to it. Their websites are read by procurement officers and policy staff, so accessibility, clear capability information, plain language and fast, uncluttered pages matter more than visual flourish. Government clients often have formal accessibility and security expectations; if you supply to agencies, share the requirements and we build to them. We cannot hold Australian security clearances, so projects that require cleared staff or access to government systems are not a fit for us. Canberra's universities, schools and health services also need content-rich, well-structured sites.",
+  },
+  {
+    name: "Tasmania",
+    short: "TAS",
+    cities: "Hobart, Launceston, Devonport, Burnie",
+    industries: "Tourism, food and drink, aquaculture, small makers",
+    tz: "AEST / AEDT",
+    text: "Tasmania's online businesses are dominated by tourism, food and drink. Hobart draws visitors for MONA, the waterfront and winter festivals, and accommodation providers, tour operators and restaurants need direct bookings to reduce commission paid to third-party platforms. Distilleries, breweries, wineries, cheesemakers and other producers sell to mainland customers online, which means shipping rules that account for Bass Strait freight and clear delivery times. Salmon and other aquaculture businesses need B2B and export content. Many Tasmanian businesses are small and seasonal, so a fast, easy-to-update site with honest seasonal information usually beats an elaborate one.",
+  },
+  {
+    name: "Northern Territory",
+    short: "NT",
+    cities: "Darwin, Alice Springs, Katherine",
+    industries: "Tourism, defence services, remote services, construction",
+    tz: "ACST all year",
+    text: "The Northern Territory does not use daylight saving, so Darwin and Alice Springs are always 4 hours ahead of India. Tourism is central, with visitors planning trips to Kakadu, Litchfield, Uluru and Kings Canyon weeks or months ahead, so operators need content that ranks for planning searches and clearly explains seasons, access and what is included. Darwin also has defence, government, construction and services businesses, and remote communities rely on organisations that must be reachable by people on slow or intermittent connections. Pages here must be light, readable on older phones and usable without heavy scripts.",
+  },
+];
+
+const guideToc = guide.map((g) => ({ id: g.id, heading: g.heading }));
+
+// ---------- Structured data ----------
+
+const url = canonicalUrl(page.canonicalPath);
+const australia = { "@type": "Country", name: "Australia" };
+const majorCities = ["Sydney", "Melbourne", "Brisbane", "Perth", "Adelaide", "Gold Coast", "Canberra", "Newcastle", "Sunshine Coast", "Wollongong", "Geelong", "Hobart", "Townsville", "Cairns", "Darwin", "Toowoomba"];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development for Australia`,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${usd("Maintenance")} – ${usd("Custom web app")}+`,
+  currenciesAccepted: "USD, AUD",
+  paymentAccepted: "Bank transfer, Wise",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  knowsLanguage: ["en"],
+  areaServed: [
+    australia,
+    ...states.map((s) => ({ "@type": "State", name: s.name, containedInPlace: australia })),
+    ...majorCities.map((name) => ({ "@type": "City", name, containedInPlace: australia })),
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development, SEO and IT services for Australian businesses (starting prices)",
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
+      areaServed: australia,
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(usdPrice(plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: "USD",
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-AU",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+
+const relatedLinks = [
+  { name: "All countries", href: "/countries/" },
+  { name: "New Zealand", href: "/new-zealand/" },
+  { name: "India", href: "/india/" },
+  { name: "USA", href: "/usa/" },
+  { name: "United Kingdom", href: "/uk/" },
+  { name: "Canada", href: "/canada/" },
+  { name: "UAE", href: "/uae/" },
+  { name: "Web development", href: "/services/web-development/" },
+  { name: "SEO services", href: "/services/seo-services/" },
+  { name: "All services", href: "/services/" },
+  { name: "Pricing", href: "/pricing/" },
+  { name: "Portfolio", href: "/portfolio/" },
+];
 ---
 
-<BaseLayout meta={page} schema={[breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs), serviceSchema(page.title, page.description, page.canonicalPath)]}>
-  <div class="it-location">
-    <div class="it-wrap">
-      <div class="it-breadcrumb"><Breadcrumbs items={page.breadcrumbs} /></div>
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
 
-      <section class="it-hero">
-        <p class="it-eyebrow">Australia</p>
-        <h1>{page.h1}</h1>
-        <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-contact-block">
-          <p class="it-contact-lead">Contact us and share your project idea</p>
-          <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
-          </div>
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="au-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">Australia · All states and territories</p>
+        <h1 id="au-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
         </div>
-      </section>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Remote delivery to Australia &middot; No Australian office
+        </p>
+      </div>
 
-      <section class="it-section" aria-labelledby="market-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="market-heading">Web development services Australia: what the small business market actually looks like</h2>
-            <p>Most Australian businesses that come to us are not looking for a brand overhaul. They have a site that was built five or eight years ago, it loads slowly on a phone, the contact form goes to an inbox nobody checks, and the person who built it is no longer reachable. The site still ranks for the business name and nothing else. That is the honest starting point for a very large share of the market, from a two-van plumbing outfit in the outer suburbs to a three-partner accounting practice in a regional centre.</p>
-            <p>What matters commercially is narrow. Can a customer find you when they search for the service plus the suburb, does the page load fast enough on mobile data that they do not bounce, and is it obvious in the first screen how to call or book. Everything else is secondary. We build to that order of priority, which is why a straightforward site can start from ₹5,000 and a full 30-page SEO website taken from design to deployment starts from ₹10,000. Final cost depends on scope, but the shape of the work is predictable.</p>
-          </article>
-          <article>
-            <h3>Why Australian businesses hire offshore developers</h3>
-            <p>Local agency rates in Australia put a decent multi-page website well past the point where a small business can justify it, particularly when the same business needs ongoing SEO and someone to answer the phone when a plugin breaks. Hiring offshore developers closes that gap without cutting the deliverable. The code, the hosting setup, the schema markup and the deployment pipeline are the same work regardless of where the engineer sits.</p>
-            <p>The trade-off is coordination, and that is the part we take seriously. You get named people rather than an account manager and a rotating pool. Ankur Kumar handles full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and analytics. Three engineers, one thread, no handover losses. If you want to see how we structure engagements before talking, our <a href="/pricing/">pricing page</a> lays out the numbers.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="timezone-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="timezone-heading">How the IST and Australian time difference is used, not fought</h2>
-            <p>India Standard Time sits roughly four and a half hours behind Perth and five and a half hours behind Sydney, Melbourne and Brisbane, shifting by an hour when eastern states move to daylight saving. That is a much friendlier gap than the one Australian businesses face working with Europe or North America. There is a genuine shared working window every single day, not a narrow sliver at an unpleasant hour.</p>
-            <p>In practice we use two anchors. Calls and reviews happen in your late morning or early afternoon, which lands in our morning and gives everyone a clean head. Build work happens during our day, which is your afternoon and evening, so feedback you send at close of business is usually acted on before you open the laptop again. For an urgent production issue we will take a call at your 8am, and we say so up front rather than pretending we are online around the clock.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="seo-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="seo-heading">SEO services Australia: local search, suburbs and Google Business Profile</h2>
-            <p>Australian search behaviour is heavily local and heavily suburb-based. People do not search for "electrician Sydney", they search for the trade plus the suburb they live in, or they tap the map pack and call whoever is closest with reviews attached. That means the ranking work splits into two tracks that have to run together: the website itself, and the Google Business Profile that feeds the map results.</p>
-            <p>On the website side we handle technical health, crawlable structure, page titles and descriptions written for the actual query, internal linking so service pages support each other, image compression, and LocalBusiness or Service schema so search engines can read what you do and where you do it. On the profile side we set up or clean up the listing, fix name, address and phone consistency across the places it already appears, choose accurate categories, define the service area properly for mobile trades, and set up a review request habit that does not feel like begging. Monthly SEO starts from ₹5,000 per month, and we report on movement honestly, including the months where nothing much moved.</p>
-          </article>
-          <article>
-            <h3>Content that answers Australian queries</h3>
-            <p>Ranking pages are usually the ones that answer a specific question in plain language. For a trades business that is call-out fees, service areas, after-hours availability and what an emergency job actually costs. For a clinic it is bulk billing, wait times, parking and what to bring. We write pages around those real questions instead of stuffing suburb names into thin paragraphs, because thin location pages have been a liability in Google results for years now.</p>
-            <p>Spelling and terminology matter more than people expect. Australian users notice "optimise" versus "optimize", "enquiry" versus "inquiry", GST-inclusive pricing, and phone numbers formatted the way they dial them. We set the site to Australian English and keep it consistent. Our <a href="/services/seo-services/">SEO services page</a> covers the full scope of what an engagement includes.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="privacy-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="privacy-heading">Privacy and accessibility expectations we build around</h2>
-            <p>Australian users have become noticeably more sensitive about how their data is collected, and Australian organisations have become more careful about it after several large public breaches. We are engineers, not legal advisers, so we do not certify compliance with the Privacy Act or any standard, and we will tell you to have a qualified adviser review your policy wording. What we do is build with sensible defaults so the legal review has less to fix.</p>
-            <p>That means a real privacy policy page rather than a copied template with another company's name still in it, an honest description of what analytics and marketing scripts are loaded, form submissions sent over HTTPS to a destination you control, no collection of fields you have no reason to store, and clear consent wording where you are adding people to a mailing list. On accessibility we cover the basics that also happen to help SEO and general usability: proper heading order, alt text on images that carry meaning, colour contrast that holds up in sunlight, labels tied to form fields, visible focus states, and keyboard navigation that works without a mouse. These are not extras we quote separately. They are part of building the thing properly.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section-head">
-        <h2>Industries we work with across Australia</h2>
-        <p>Different sectors need different things from a website. These are the ones we see most.</p>
-      </section>
-
-      <section class="it-section" aria-labelledby="industries-heading">
-        <div class="it-text-block">
-          <article>
-            <h3 id="industries-heading">Trades, home services and field businesses</h3>
-            <p>Plumbers, electricians, builders, landscapers, pest control, cleaning and mobile mechanics. The website has one job: get the phone to ring from a mobile phone in under a minute. We build a fast single-purpose layout with the number pinned where a thumb can reach it, suburb-level service pages that say something real, a quote form that lands in a place you check, and photos of finished work rather than stock imagery. The Google Business Profile usually drives more calls than the site itself, so we set both up as one system.</p>
-            <p>Booking and follow-up are where automation pays. An enquiry that triggers an instant acknowledgement, a reminder to you if it is not answered within a set window, and a review request after the job closes will recover jobs that currently fall through. AI automation work starts from ₹15,000.</p>
-          </article>
-          <article>
-            <h3>Healthcare, education, hospitality, professional services and ecommerce</h3>
-            <p>Clinics, allied health and dental practices need accurate practitioner pages, clear information about fees and billing, online booking that connects to the software you already use, and careful handling of any information a patient submits. Education providers and tutoring businesses need course pages that rank, an enrolment path with as few steps as possible, and an honest FAQ. Hospitality needs speed, a menu that is real text rather than a PDF nobody can read on a phone, and booking links that work first try.</p>
-            <p>Professional services firms including accountants, lawyers, consultants and financial advisers usually win on trust signals and useful content rather than design flourish, so we put the effort into service pages, team credentials and clear enquiry paths. For ecommerce we build stores from ₹25,000 with sensible product structure, shipping rules that reflect Australian delivery costs, and payment integrations that suit local buyers. Where a business needs something bespoke, custom web apps start from ₹40,000. Our <a href="/industries/">industries page</a> goes deeper on each of these.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="pricing-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="pricing-heading">Honest pricing, and what the five free months actually cover</h2>
-            <p>Here is the full list, and these are starting figures rather than fixed quotes. A static website starts from ₹5,000. A 30-page SEO website taken all the way from design to deployment starts from ₹10,000. AI automation starts from ₹15,000. An ecommerce store starts from ₹25,000. A custom web app starts from ₹40,000. Monthly SEO starts from ₹5,000 per month. Maintenance, once the free period ends, starts from ₹2,000 per month. Final cost always depends on scope, the number of pages, the integrations involved and how much content you need written.</p>
-            <p>After hosting goes live you get five months of maintenance included at no cost. That covers content updates, bug fixes, security and dependency updates, backups, and uptime and speed checks. It exists because the first months after launch are when problems surface, and a business that has just paid for a website should not immediately be charged again to keep it working. When those five months end you can continue with us from ₹2,000 per month or take the site elsewhere with full access handed over. We do not hold hosting, domains or source code hostage.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="process-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="process-heading">How an engagement runs from first email to live site</h2>
-            <p>It starts with a conversation, usually a call in your afternoon. We ask what the business does, who the customer is, what the current site fails at, and what a good outcome looks like in numbers rather than adjectives. Then you get a written scope with a fixed starting price, a stage plan and a realistic timeline. A small site is typically two to three weeks. A 30-page SEO build runs four to six. Ecommerce and custom applications depend entirely on integrations, and we say so instead of inventing a date.</p>
-            <p>From there we work in visible stages. Structure and content plan first, then design on the real pages rather than an abstract mockup, then build, then SEO setup including titles, descriptions, schema, sitemap and search console, then hosting and deployment. You see a staging link throughout and can comment at any point. At launch we hand over hosting access, domain settings, admin logins and a short written guide to updating your own content, then the five free maintenance months begin. If you would rather just talk it through first, the <a href="/contact/">contact page</a> has everything you need.</p>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="faq-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="faq-heading">Frequently asked questions</h2>
-            <div class="it-faq">
-              {faqs.map((item) => (
-                <details>
-                  <summary>{item.question}</summary>
-                  <p>{item.answer}</p>
-                </details>
-              ))}
-            </div>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="related-heading">
-        <div class="it-text-block">
-          <article>
-            <h2 id="related-heading">Related pages</h2>
-            <p>More about how we work, what we charge, and the other regions we deliver to.</p>
-            <ul class="it-list">
-              <li><a href="/services/">All services</a></li>
-              <li><a href="/services/web-development/">Web development</a></li>
-              <li><a href="/services/seo-services/">SEO services</a></li>
-              <li><a href="/pricing/">Pricing</a></li>
-              <li><a href="/about/">About the team</a></li>
-              <li><a href="/portfolio/">Portfolio</a></li>
-              <li><a href="/case-studies/">Case studies</a></li>
-              <li><a href="/blog/">Blog</a></li>
-              <li><a href="/india/">India</a></li>
-              <li><a href="/usa/">USA</a></li>
-              <li><a href="/uae/">UAE</a></li>
-              <li><a href="/it-services/">IT services</a></li>
-            </ul>
-          </article>
-        </div>
-      </section>
-
-      <section class="it-section">
-        <div class="it-cta">
-          <h2>Tell us about your project</h2>
-          <p>Send a short description of your business and what you need. You will get an honest scope, a starting price and a realistic timeline, with five months of maintenance included free after launch.</p>
-          <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a class="whatsapp-link" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">{siteContact.whatsappLabel}</a>
-          </div>
-          <div class="it-trust-links">
-            <a href="/contact/">Contact</a><a href="/pricing/">Pricing</a><a href="/services/">Services</a>
-          </div>
-        </div>
-      </section>
+      <aside class="quote-card" aria-label="Starting prices for Australian businesses">
+        <p class="quote-kicker">Australia starting prices (USD)</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Starting prices; your quote depends on requirements. AUD invoicing on request. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
     </div>
-  </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for Australia in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking for a web development company for your Australian business?</h2>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automations for Australian businesses, working remotely during your afternoon. Websites start from {usd("Static")}, ecommerce from {usd("Ecommerce")} and custom web apps from {usd("Custom web app")}, in US dollars with AUD invoicing on request. Hosting and deployment are included, and the first five months of maintenance after launch are free.</p>
+        <p class="answer-more">Australia is not one market. A tradie in Penrith, a winery in McLaren Vale and a mining services supplier in Perth need different things from a website, and they work in different time zones. This page explains what we build, how Australian payments, SEO and compliance fit in, what it costs, how the time difference works and how to hire an offshore developer safely.</p>
+      </div>
+      <table class="snapshot">
+        <caption>BtechWaleTech for Australia at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for Australia</p>
+        <h2 id="services-heading">Everything your Australian business needs online, from one team</h2>
+        <p class="section-note">Planning, design, development, SEO setup, hosting and deployment are handled end to end, so you are not coordinating a designer, a developer and an SEO consultant who each blame the other two.</p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">Australian agency vs marketplace freelancer vs BtechWaleTech</h2>
+        <p class="section-note">A fair comparison of typical trade-offs. Good Australian agencies and good freelancers exist; this is about the usual shape of each option, not any particular provider.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of an Australian agency, a marketplace freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Australian agency</th>
+              <th scope="col" class="col-other hide-sm">Marketplace freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other hide-sm">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Website development cost for Australian businesses: starting prices</h2>
+        <p class="section-note">Every figure below is a starting price in US dollars. The final quote depends on your requirements: pages, content, payments, logins, integrations and deadlines. We can invoice in Australian dollars at the rate on the day of the quote, paid by Wise or bank wire.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices in USD for BtechWaleTech services for Australian clients</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingNote} Prices do not include Australian GST; ask your accountant how an imported service is treated for your business. <a href="/pricing/">See full pricing</a>.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to web development for Australian businesses">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guideToc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          <li><a href="#states-guide">State by state</a></li>
+          <li><a href="#states-heading">States and territories table</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#process-heading">Process and timelines</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={g.table!.hideSm?.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => i === 0
+                        ? <th scope="row">{cell}</th>
+                        : <td class={g.table!.hideSm?.includes(i) ? "hide-sm" : undefined}>{cell}</td>)}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+
+        <article aria-labelledby="states-guide">
+          <h2 id="states-guide">State by state: what Australian businesses need online</h2>
+          <p>We work with every state and territory remotely, on the same process and prices. What changes from place to place is the local economy, the competition in search, the customers you are trying to reach and the time zone. These notes describe typical needs, not a list of clients.</p>
+          {states.map((s) => (
+            <div class="state-block">
+              <h3>{s.name} <small class="ut-tag">{s.short}</small></h3>
+              <p>{s.text}</p>
+            </div>
+          ))}
+        </article>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== STATE TABLE ===================== -->
+  <section class="industries" aria-labelledby="states-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">States and territories</p>
+        <h2 id="states-heading">Where we work in Australia</h2>
+        <p class="section-note">Major cities, the sectors that most often need websites and software there, and the local time zone. Every location is served remotely from India.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Australian states and territories with major cities, common industries and time zones</caption>
+          <thead>
+            <tr><th scope="col">State / territory</th><th scope="col">Major cities</th><th scope="col" class="hide-sm">Common industries</th><th scope="col">Time zone</th></tr>
+          </thead>
+          <tbody>
+            {states.map((s) => (
+              <tr>
+                <th scope="row">{s.name}</th>
+                <td>{s.cities}</td>
+                <td class="hide-sm">{s.industries}</td>
+                <td>{s.tz}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for Australia's main industries</h2>
+        <p class="section-note">Concrete website, software and SEO needs by sector. The <a href="/industries/">industries page</a> goes further.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Industries, what their customers look for, and what we build</caption>
+          <thead><tr><th scope="col">Industry</th><th scope="col">What customers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first message to a live site</h2>
+        <p class="section-note">Six stages, each with something you can see and approve. Calls happen in your afternoon; everything else is written down.</p>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">Timelines assume content and approvals arrive on time. Payment providers such as Afterpay and Zip approve merchants on their own schedule, so apply early for ecommerce projects.</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Web development for Australian businesses: questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Related</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other countries</h2>
+        <p class="section-note">The same team and starting prices, with time-zone and billing details for each market.</p>
+      </div>
+      <div class="city-cloud">
+        {relatedLinks.map((l) => <a class="city-chip" href={l.href}>{l.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us what you want built, wherever you are in Australia</h2>
+        <p class="closing-note">
+          Send a few lines about your business on WhatsApp or email. You get questions first, then a page plan, a timeline and an itemised quote
+          in USD or AUD. Nothing is billed until you approve it, and five months of maintenance are included after launch.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
 </BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .prose-table { margin: 1.5rem 0; }
+  .prose-table .price-table { font-size: 0.88rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p { margin-top: 1.1rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+  .ut-tag { margin-left: 0.4rem; color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(2rem, 7vw, 3.5rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

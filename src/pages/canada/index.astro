@@ -1,0 +1,1209 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, usdPrice } from "@data/pricing/plans";
+import { countryOgImage, usd } from "@data/countries/international";
+
+// Starting prices in USD, always derived from the single pricing source.
+const P = {
+  site: usd("Static"),
+  seoSite: usd("SEO website"),
+  shop: usd("Ecommerce"),
+  app: usd("Custom web app"),
+  ai: usd("AI automation"),
+  seo: usd("Monthly SEO"),
+  care: usd("Maintenance"),
+};
+const updated = "2026-09-21";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a Canadian company, and do you have an office in Canada?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India, and we work with Canadian businesses remotely. We have no Canadian office, no business number, no local address and no staff in Canada, and we do not pretend otherwise. You deal directly with the engineers who build your site, over email, WhatsApp, Google Meet, Zoom or Microsoft Teams.",
+  },
+  {
+    question: "How much does a website cost for a Canadian business?",
+    answer: `Our starting prices are ${P.site} for a static business website, ${P.seoSite} for a 700+ page SEO website, ${P.ai} for AI automation, ${P.shop} for an ecommerce store and ${P.app} for a custom web app, with SEO from ${P.seo} and maintenance from ${P.care}. These are starting prices in US dollars; a bilingual English and French build adds pages and testing, and every final quote depends on your requirements.`,
+  },
+  {
+    question: "Can we be invoiced and pay in Canadian dollars?",
+    answer: "Yes. Our prices are set in US dollars, and on request we invoice in CAD at the exchange rate on the day of the quote, so the amount you approve is the amount you pay for that scope. Most Canadian clients pay through Wise, which usually works like an ordinary domestic transfer from your bank; international wire and PayPal also work. We cannot accept Interac e-Transfer, because it needs a Canadian bank account.",
+  },
+  {
+    question: "How should we treat GST or HST on an invoice from you?",
+    answer: "Ask your accountant. We are a supplier outside Canada, and whether you need to self-assess tax on imported services, and how to record the invoice, depends on your registration and how you use the service. We will supply whatever invoice details your accountant asks for. We do not give tax advice.",
+  },
+  {
+    question: "How does the time difference work from Toronto, Calgary or Vancouver?",
+    answer: "India is 9.5 hours ahead of Toronto, Ottawa and Montreal during daylight time and 10.5 hours in winter, 11.5 hours ahead of Calgary and 12.5 hours ahead of Vancouver in summer. We hold calls in your morning, which is our evening: roughly 8 to 11 a.m. Eastern, or 7 to 9 a.m. in Alberta and BC. Halifax and St. John's get the easiest overlap of all.",
+  },
+  {
+    question: "Can you build a bilingual English and French website?",
+    answer: "Yes. Each language gets its own indexable URLs, en-CA and fr-CA hreflang annotations, translated titles, descriptions and structured data, and a language switcher that takes visitors to the equivalent page rather than the home page. Layouts are designed and tested with French text from the first mock-up, because French usually runs longer than English.",
+  },
+  {
+    question: "Do you write the French content?",
+    answer: "No. Our team does not write professional French copy, and we would rather say so than hand you machine translation. You supply the French text, or a translator you trust does. We handle everything technical around it: structure, layout, forms, error messages, emails and testing in both languages.",
+  },
+  {
+    question: "Does my website have to be in French?",
+    answer: "If you do business in Quebec, the Charter of the French Language, as amended by Bill 96, generally expects commercial content, including websites, to be available in French, and French should not be the weaker version. Outside Quebec, French is usually a business decision rather than a legal one, except for federal institutions and some regulated sectors. Your lawyer should confirm what applies to you.",
+  },
+  {
+    question: "Do you understand PIPEDA, Quebec Law 25 and CASL?",
+    answer: "We build with them in mind: consent banners that genuinely block tracking until the visitor agrees where required, forms that collect only what you need over HTTPS, a clear privacy page naming your privacy contact, and explicit, unticked opt-in for marketing email with an unsubscribe in every message. We are engineers, not lawyers, so we do not certify compliance, and your adviser should review the policy wording.",
+  },
+  {
+    question: "We are a Quebec business. Is it a problem that your team is in India?",
+    answer: "It is something to plan for, not usually a blocker. Law 25 generally expects a privacy impact assessment before personal information is communicated outside Quebec, which can include giving a service provider elsewhere access to it. We keep our access to personal data minimal, can host data in a Canadian region, and will describe our access and security measures in writing so your privacy officer can complete that assessment.",
+  },
+  {
+    question: "Can you make our website AODA compliant?",
+    answer: "We build to WCAG 2.1 AA practices by default, which goes beyond the WCAG 2.0 AA level that Ontario's AODA sets for covered organizations: semantic structure, keyboard navigation, visible focus, sufficient contrast, labelled forms, alt text and captions where you supply video. We test key templates with a screen reader before launch. We do not certify legal compliance or file your accessibility report.",
+  },
+  {
+    question: "Can our website and data be hosted in Canada?",
+    answer: "Yes. We can deploy to Canadian cloud regions, such as AWS in Montreal or Calgary, Google Cloud in Montreal or Toronto, or Azure in Toronto or Quebec City, or to a Canadian host you already use, and keep form submissions and databases there. Whether Canadian hosting is required for you is a question for your adviser; tell us early if your policies restrict who can access production data.",
+  },
+  {
+    question: "Which payment providers do you set up for Canadian stores?",
+    answer: `Stripe, Shopify Payments, PayPal, Square and Moneris cover most Canadian projects, and we can work with Helcim or your bank's processor if you prefer. Ecommerce starts from ${P.shop}. Every merchant account is opened in your business name, and card details are handled by the processor, never stored on your server.`,
+  },
+  {
+    question: "Can you set up GST, HST, PST and QST at checkout?",
+    answer: "Yes, as checkout configuration. We set tax by the customer's shipping province: GST alone, HST, GST plus PST, or GST plus QST, using the rates and registrations your accountant confirms, and show taxes clearly on the cart, receipt and order email. Which taxes you must register for and how your products are treated is for you and your accountant to decide.",
+  },
+  {
+    question: "Can you do local SEO for several Canadian cities?",
+    answer: `Yes. We build one page per real location or service area with details specific to it, keep your business name, address and phone number consistent across listings, help you tidy each Google Business Profile, and add matching structured data. Monthly SEO starts from ${P.seo}. Fake addresses and bought reviews are off the table; they break Google's rules and put your profile at risk of suspension.`,
+  },
+  {
+    question: "Should we use a .ca domain?",
+    answer: "If most of your customers are in Canada, a .ca is a strong local signal for visitors and search engines. CIRA requires .ca registrants to meet Canadian presence requirements, so the domain must be registered by your business, which is how we handle every domain anyway. Many businesses also hold the matching .com and redirect it.",
+  },
+  {
+    question: "We sell to both Canada and the US. How should the site be set up?",
+    answer: "Where prices, shipping, taxes or regulations genuinely differ, we build separate pages for each market with en-CA, fr-CA and en-US hreflang annotations and an x-default fallback, and make sure canonicals and sitemaps agree. Where the pages would be nearly identical, we usually recommend one version that serves both, rather than near-duplicates that compete with each other.",
+  },
+  {
+    question: "How long does a Canadian website project take?",
+    answer: "Typical timelines are one to two weeks for a static website, three to five for a 700+ page SEO website, two to four for AI automation, four to eight for an ecommerce store and six to twelve for a custom web app. A bilingual build adds time, mostly waiting for translated copy. You get a written timeline with milestones before work starts.",
+  },
+  {
+    question: "Who owns the finished website?",
+    answer: "You do. The domain, hosting, payment and Google accounts are opened in your business name from the start, and on final payment we hand over the source code, design files, content and every credential. We keep no licence over your build and no access you cannot remove.",
+  },
+  {
+    question: "What happens after launch, and how do we start?",
+    answer: `Five months of maintenance are included free once hosting is live, then maintenance starts from ${P.care} if you want us to continue. To start, send a WhatsApp message or email with what your business does, the provinces you serve, the languages you need and any deadline. You get questions first, then a written scope and itemized quote, usually within two working days.`,
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company Canada | Hire Web Developers",
+  description: `Hire web developers for your Canadian business: bilingual websites from ${P.site}, ecommerce, SEO and custom software. Remote team in India, CAD invoices.`,
+  canonicalPath: "/canada/",
+  h1: "Web development company for Canadian businesses, in English and French",
+  intro: `BtechWaleTech is a small team of engineers based in India. We design and build websites, ecommerce stores, web apps, SEO systems and AI automation for businesses in every province and territory, working remotely from the first call to launch. Websites start from ${P.site}, bilingual builds are planned from day one, and you deal directly with the people who write your code.`,
+  breadcrumbs: createBreadcrumbs([{ label: "Canada", href: "/canada/" }]),
+  locale: "en_CA",
+  alternateLocales: ["fr_CA"],
+  ogImage: countryOgImage("BtechWaleTech, an India-based team building bilingual websites, ecommerce, SEO and software for Canadian businesses"),
+  keywords: [
+    "web development company Canada",
+    "hire web developers Canada",
+    "web developers for Canadian business",
+    "website development company Canada",
+    "website design Canada",
+    "outsource web development Canada",
+    "offshore web developers India for Canada",
+    "bilingual website English French",
+    "création de site web Canada",
+    "conception de site web Québec",
+    "small business website Canada",
+    "ecommerce website development Canada",
+    "Shopify developer Canada",
+    "Moneris integration",
+    "SEO services Canada",
+    "local SEO Canada",
+    "custom software development Canada",
+    "AI automation Canada",
+    "website maintenance Canada",
+    "PIPEDA compliant website",
+    "Quebec Law 25 cookie consent",
+    "CASL compliant email signup",
+    "AODA accessible website",
+    "web developers Ontario",
+    "web design Quebec",
+    "web developers British Columbia",
+    "website design Alberta",
+    "web design Manitoba",
+    "web developers Saskatchewan",
+    "web design Nova Scotia",
+    "website development Toronto",
+    "web design Montreal",
+    "web developers Vancouver",
+    "website design Calgary",
+    "web development Ottawa",
+    "web developers Edmonton",
+    "web design Winnipeg",
+    "website design Quebec City",
+    "web developers Mississauga",
+    "web design Halifax",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${P.site}`],
+  ["Languages", "English and French (fr-CA) sites"],
+  ["Billing", "USD, or CAD on request, via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "10 provinces and 3 territories"],
+];
+
+const pills = ["Bilingual EN/FR websites", "Shopify & Moneris stores", "SEO for Google.ca", "Law 25 consent setup", "AODA-minded builds", "Custom web apps"];
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: P.site, label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "13", label: "Provinces and territories served remotely" },
+];
+
+const snapshot = [
+  { label: "Who we are", value: "Three engineers based in India: full stack, AI and cloud, and project delivery" },
+  { label: "How we work", value: "Remotely: calls in your morning, written updates, a private staging link" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Languages", value: "English and French site structure; French copy from you or your translator" },
+  { label: "Payments we set up", value: "Stripe, Shopify Payments, PayPal, Square and Moneris, with GST/HST/PST/QST rules you confirm" },
+  { label: "Starting prices", value: `From ${P.site} for a website; every figure is a starting price in USD, CAD invoice on request` },
+  { label: "After launch", value: `5 months of free maintenance, then from ${P.care} or pay-as-needed` },
+];
+
+// ---------- Services bento ----------
+
+const services = [
+  { name: "Website design & development", note: "Fast, bilingual-ready business sites on Astro, Next.js or WordPress, with forms routed to your inbox or CRM.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO & local SEO", note: "Technical SEO, content and local search for Google in Canada, in English and French.", href: "/services/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with Moneris, Stripe or Square and provincial tax rules.", size: "sm" },
+  { name: "Custom software", note: "Booking systems, client portals, estimating tools and dashboards built around your workflow.", size: "sm" },
+  { name: "Web apps & MVPs", note: "Auth, billing, admin panels and hosting in a Canadian cloud region on request.", size: "sm" },
+  { name: "AI automation", note: "Enquiry routing, document intake and first-draft replies in the enquiry's language, with a human check.", size: "sm" },
+  { name: "Website design", note: "Layouts designed for both English and French text from the first mock-up.", size: "sm" },
+  { name: "Maintenance & support", note: "Bilingual content edits, security updates, backups and uptime checks; the first 5 months are free.", size: "sm" },
+] as const;
+
+// ---------- Comparison ----------
+
+const comparison = [
+  ["Starting price", "Higher, reflecting Canadian salaries, rent and account management", "Lowest bids, scope often thin", `From ${P.site} for a website, itemized quote`],
+  ["Who does the work", "Often a team behind an account manager", "One person, sometimes subcontracted", "The three engineers you talk to"],
+  ["French version", "Often available, sometimes in-house writers", "Frequently a translation plugin", "Proper fr-CA structure; copy from your translator"],
+  ["Written scope", "Formal proposal", "Often a job post and a chat thread", "Itemized scope before any payment"],
+  ["Privacy and accessibility", "Usually covered, sometimes extra", "Frequently skipped", "Consent, opt-in and WCAG practices in every build"],
+  ["After launch", "Paid retainer from day one", "Often ends when the contract closes", "5 months of maintenance free"],
+  ["Ownership", "Usually transferred, check licensed themes", "Varies by marketplace terms", "Code, .ca domain and accounts in your name"],
+  ["Meeting in person", "Possible if local", "Rarely", "Remote only: video calls and a staging link"],
+];
+
+// ---------- Process and timelines ----------
+
+const process = [
+  ["Talk", "A call in your morning or a WhatsApp chat about your business, the provinces you serve and the languages you need. No charge."],
+  ["Scope & quote", "Pages, languages, integrations, milestones and an itemized quote in USD or CAD, usually within two working days."],
+  ["Design", "Sitemap and wireframes first, then visual design for key pages, tested with French text where the site is bilingual."],
+  ["Build on staging", "A private staging link you can open at any time, updated overnight your time, so feedback lands by your next morning."],
+  ["Test & SEO", "Titles, hreflang, schema, redirects, speed, accessibility, consent, forms, payments and provincial taxes checked before launch."],
+  ["Launch & support", "Deployed to hosting in your name, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Industries table ----------
+
+const industries = [
+  { name: "Trades and home services", need: "Click-to-call, a short quote form, licence and insurance details, reviews and seasonal services", build: "Service-area pages for the towns you actually drive to, quote forms into your CRM, winter and summer landing pages" },
+  { name: "Professional firms", need: "Credentials, clear service pages, fee structure and a confidential way to make contact, often in both languages", build: "Restrained bilingual sites with profiles, practice pages, articles and secure intake forms" },
+  { name: "Clinics and health practices", need: "Practitioners, services and fees, direct billing information, hours and online booking", build: "Booking links into your practice software, minimal forms that avoid collecting health details, local SEO" },
+  { name: "Immigration consultants and law firms", need: "Accurate licence details, plain explanations of services and secure consultation booking", build: "Websites only: licence display, booking, secure intake. Your professional content stays yours to write and verify" },
+  { name: "Retail and DTC brands", need: "Prices in CAD, clear shipping and duties, honest returns and a trustworthy checkout", build: "Shopify or custom stores, provincial tax rules, Canada Post and courier rates, bilingual product pages for Quebec" },
+  { name: "Real estate", need: "Listings, neighbourhood information and fast responses to leads", build: "Listing integrations where your board permits, neighbourhood guides, lead routing to agents" },
+  { name: "Manufacturing, energy and industrial suppliers", need: "Capabilities, certifications, safety information and a named contact for procurement", build: "Searchable catalogues, spec sheets, RFQ forms that accept drawings, supplier portals" },
+  { name: "Tourism and hospitality", need: "Real photographs, honest inclusions, seasonal availability and direct booking", build: "Fast, photo-led pages, booking engines or enquiry forms, seasonal content ranked before the season" },
+  { name: "Startups, SaaS and nonprofits", need: "A site the team can edit, docs, pricing, donations or sign-ups, and analytics they trust", build: "Astro or Next.js with a headless CMS, docs, product analytics, donation flows and MVPs" },
+];
+
+// ---------- Time zones ----------
+
+const zones = [
+  { zone: "Newfoundland (St. John's)", gap: "8h (9h in winter)", window: "8:30–11:30 a.m. NT", ist: "4:30–7:30 p.m. IST" },
+  { zone: "Atlantic (Halifax, Moncton, Charlottetown)", gap: "8h 30m (9h 30m in winter)", window: "8:30 a.m.–noon AT", ist: "5:00–8:30 p.m. IST" },
+  { zone: "Eastern (Toronto, Ottawa, Montreal)", gap: "9h 30m (10h 30m in winter)", window: "8–11 a.m. ET", ist: "5:30–8:30 p.m. IST" },
+  { zone: "Central (Winnipeg)", gap: "10h 30m (11h 30m in winter)", window: "7–10 a.m. CT", ist: "5:30–8:30 p.m. IST" },
+  { zone: "Saskatchewan (Regina, Saskatoon, no clock change)", gap: "11h 30m all year", window: "7–9 a.m. CST", ist: "6:30–8:30 p.m. IST" },
+  { zone: "Mountain (Calgary, Edmonton, Yellowknife)", gap: "11h 30m (12h 30m in winter)", window: "7–9 a.m. MT", ist: "6:30–8:30 p.m. IST" },
+  { zone: "Yukon (Whitehorse, no clock change)", gap: "12h 30m all year", window: "7–9 a.m. MST", ist: "7:30–9:30 p.m. IST" },
+  { zone: "Pacific (Vancouver, Victoria, Kelowna)", gap: "12h 30m (13h 30m in winter)", window: "7–9 a.m. PT", ist: "7:30–9:30 p.m. IST" },
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+const guide = [
+  {
+    id: "who-we-are",
+    heading: "Who we are and how remote delivery works for Canadian clients",
+    paragraphs: [
+      `BtechWaleTech is three engineers in India. Ankur Kumar is a full stack developer. Santosh Sharma covers AI and machine learning, AWS, data science, technical SEO and deployment. Vedansh Shrivastava runs project management along with data science, AI and automation. That is the whole team, and the person who answers your email is one of the people who will write your code. There is no sales team and no hand-off to a delivery group you never meet.`,
+      `We have no Canadian office, no business number and no address in Toronto, Montreal or Vancouver. We would rather say that plainly than hide behind a forwarding address, and it matters for practical reasons too: a .ca domain, a Moneris merchant account and a Google Business Profile all have to be in your name, not ours, which is exactly how we set them up. Read more <a href="/about/">about the team</a> before you decide anything.`,
+      `<strong>How a remote project runs.</strong> It starts with a call in your morning, which is our evening, and a short written questionnaire covering goals, audience, provinces served, languages, pages, integrations and deadlines. You receive a written scope and an itemized quote. Once you approve it, a private staging link goes up early in the build and stays live until launch, so you and your colleagues review real pages on your own devices. Written updates arrive on a fixed schedule, weekly on small projects and twice weekly on larger ones, covering what shipped, what is next, anything blocked and anything we need from you.`,
+      `<strong>The time gap works in your favour.</strong> Canadian clients tend to send feedback in the afternoon. We work through it during our day, which is your night, and the changes are usually on staging before you are back at your desk. That cycle is especially useful on bilingual projects, where English and French versions of the same page often go through separate review rounds with different people.`,
+      `<strong>Tools and access.</strong> We work over email, WhatsApp, Slack, Google Meet, Zoom or Microsoft Teams, in English. We can work inside your GitHub or GitLab organization and your existing cloud accounts, and if your policies limit who can see personal data in production, we plan our access around that from the start rather than after launch.`,
+      `<strong>When we are the wrong fit.</strong> If you need someone on site several times a month, a Canadian entity to satisfy a procurement rule, French copywriting from the vendor itself, or a large team on call around the clock, a local agency is the better choice, and we will tell you so on the first call.`,
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "Services for the Canadian market, in detail",
+    paragraphs: [
+      `<strong>Web development.</strong> Most Canadian business sites we build are static or statically generated pages on a CDN, which keeps them fast on office fibre in downtown Toronto and on a patchy mobile signal on a highway outside Thunder Bay. A static site of up to 100 pages starts from ${P.site}, with custom design, mobile layouts, contact and quote forms, on-page SEO, structured data, hosting and deployment. Larger content sites built for search, with 700 or more pages generated from structured data such as services and towns, start from ${P.seoSite}. If your team wants to edit pages without us, we connect a headless CMS or build a lean WordPress site. The <a href="/services/web-development/">web development service page</a> has more on the stack.`,
+      `<strong>Website design.</strong> Good design for Canadian buyers is mostly about removing doubt. We show service areas plainly, format phone numbers and postal codes the way people expect, use Canadian spelling, and show prices in CAD with the tax wording your accountant approves. For bilingual sites, both languages are part of the design from the first mock-up, so French headings, buttons and navigation have room instead of being squeezed into an English-sized box. Accessibility is designed in, not bolted on: readable type, strong contrast, clear focus states and forms that work with a keyboard and a screen reader.`,
+      `<strong>Ecommerce.</strong> Stores on Shopify, WooCommerce or a custom stack, starting from ${P.shop}, with Stripe, Shopify Payments, PayPal, Square or Moneris, provincial sales tax rules and Canadian shipping. The ecommerce section below goes into detail.`,
+      `<strong>SEO for Google in Canada.</strong> Technical SEO, on-page work, content and local search, with en-CA and fr-CA hreflang done properly and, where you also sell into the US, en-US pages that do not cannibalize your Canadian ones. Monthly SEO starts from ${P.seo}; see the <a href="/services/seo-services/">SEO services page</a> and the SEO section below.`,
+      `<strong>Custom software and web apps.</strong> Custom web applications start from ${P.app}. Canadian projects we are suited to include booking and scheduling for clinics and trades, client portals for accounting and consulting firms, estimating tools for contractors, inventory dashboards for small manufacturers, volunteer and donor tools for nonprofits, and admin panels that replace a tangle of spreadsheets. We build the first useful version, put it in front of real users and extend it from there, hosted in a Canadian cloud region if you prefer.`,
+      `<strong>AI automation.</strong> AI automation starts from ${P.ai} and fits repetitive work: routing enquiries, extracting data from invoices and shipping documents, drafting product descriptions, or answering routine questions from your own documentation. For bilingual businesses, automation can detect whether an enquiry arrived in English or French, route it to the right person and draft a first reply in the same language for a human to check before it goes out. We keep a person in the loop for anything customer-facing and do not send personal information to third-party AI services unless you have approved it, which matters under Quebec's Law 25 in particular.`,
+      `<strong>Maintenance.</strong> The first five months after launch are included free: content updates in both languages, bug fixes, security updates, backups, uptime and speed checks, and basic SEO health checks. Once those months end, you can keep a plan from ${P.care} or simply message us when a change comes up. The <a href="/pricing/">pricing page</a> lists what each plan covers.`,
+    ],
+  },
+  {
+    id: "bilingual",
+    heading: "Bilingual English and French websites, built properly",
+    paragraphs: [
+      `If you sell to customers in Quebec, or to French speakers in New Brunswick, eastern and northern Ontario or Manitoba, French is not an afterthought. Quebec's language rules generally expect businesses operating there to make commercial content, including websites, available in French, and French speakers anywhere in the country trust a site more when it is written for them rather than machine-translated. Ask your adviser how the rules apply to your business; our job is to make sure the site can meet them without a rebuild.`,
+      `<strong>Structure.</strong> Each language lives on its own URLs, such as /en/ and /fr/, or on separate subdomains if you prefer. Each page carries en-CA and fr-CA hreflang annotations pointing at its equivalent, plus an x-default. Titles, meta descriptions, structured data, image alt text, sitemaps and even URL slugs exist in both languages, so a French searcher sees a French result with a French URL. The language switcher takes visitors to the equivalent page, not back to the home page, and the site remembers their choice.`,
+      `<strong>Design and testing.</strong> French text typically runs noticeably longer than English, which breaks cramped buttons, menus and card layouts designed only for English. We design with French strings from the first mock-up and test every template in both languages on narrow phone screens. Forms, validation and error messages, confirmation pages, transactional emails, PDF invoices, cookie banners and the privacy page all exist in both languages, because a French page with an English error message undermines the whole effort.`,
+      `<strong>Who writes the French.</strong> Not us. Our team does not write professional French copy, and we are upfront about that. You supply it, or a translator you trust does, and we provide a simple handover format so both language versions stay in sync. Canadian French also differs from European French in vocabulary and tone, so a Quebec-based translator is usually worth the cost.`,
+      `<strong>Starting in English only.</strong> If you only need English now, we structure the site so French can be added later without a rebuild. Retrofitting a second language into a site never designed for one costs far more than planning for it from the start.`,
+      `<strong>Other languages.</strong> Some businesses in the Greater Toronto Area and the Lower Mainland also serve large Punjabi-, Chinese-, Tagalog-, Arabic- or Spanish-speaking communities. We build the same multilingual structure for any additional language, with the text supplied and checked by fluent speakers.`,
+    ],
+  },
+  {
+    id: "ecommerce-ca",
+    heading: "Ecommerce in Canada: Moneris, Stripe, Shopify, sales taxes and shipping",
+    paragraphs: [
+      `Ecommerce builds start from ${P.shop}. For Canadian stores, three details decide whether checkout actually works: sales taxes by province, prices in Canadian dollars, and shipping to a very large country with expensive rural and northern delivery.`,
+      `<strong>Sales taxes.</strong> Tax depends on where the customer is. Alberta and the three territories charge GST only. Ontario, New Brunswick, Nova Scotia, Prince Edward Island and Newfoundland and Labrador use a single harmonized sales tax (HST). British Columbia, Saskatchewan and Manitoba charge GST plus a provincial sales tax, and Quebec charges GST plus QST. Rates change from time to time, some products are treated differently, and registration thresholds apply, so your accountant should confirm your registrations and product treatment. We configure the store to apply those rules by shipping address and show taxes clearly on the cart, receipt, invoice and confirmation email, with your registration numbers where your accountant says they should appear.`,
+      `<strong>Payment providers.</strong> Shopify, which started in Ottawa, is the default for most product brands, with Shopify Payments handling cards and wallets. Stripe suits subscriptions, B2B invoicing, marketplaces and checkouts embedded in web apps. Square suits businesses that also sell in person. Moneris, the large Canadian processor owned by two of the big banks, and Helcim are good choices when you want a Canadian processor or your bank already offers one. PayPal works well as a second option. We integrate whichever you choose, test refunds, failed cards and partial orders, and keep card details with the processor, never on your server.`,
+      `<strong>Shipping.</strong> Live rates from Canada Post, Purolator, UPS, FedEx or a shipping app such as ShipStation, flat-rate zones, free-shipping thresholds, local pickup and delivery for bricks-and-mortar shops, and sensible rules for rural, remote and northern postal codes where costs jump. For cross-border orders to the US, we can show duties and taxes clearly or offer delivered-duty-paid options through your shipping provider.`,
+      `<strong>Bilingual stores.</strong> Stores selling in Quebec need French product names, descriptions, checkout, emails and policies, not just a translated home page. Shopify Markets and multilingual WooCommerce setups both handle this when configured properly.`,
+      `<strong>Marketing plumbing.</strong> Google Merchant Center feeds with CAD prices, Meta catalogue sync, Klaviyo or Mailchimp flows for abandoned carts and post-purchase emails, and product structured data for price and availability. Marketing sign-ups at checkout use a separate, unticked box, in line with CASL.`,
+    ],
+  },
+  {
+    id: "seo-ca",
+    heading: "SEO for Google in Canada: local, national and bilingual",
+    paragraphs: [
+      `Canadian search results are local and often split by language. Someone in Mississauga searching for an accountant sees different results from someone in Laval, and a French query in Montreal pulls a different set again. Every site we build ships with the groundwork: clean URLs, unique titles and descriptions written for Canadian queries, business and service structured data, XML sitemaps per language, fast mobile pages and internal links that help crawlers understand what matters.`,
+      `<strong>Local SEO.</strong> For businesses with a location or service area, we help you set up or tidy your Google Business Profile, owned and verified by you, with the right primary category, service areas, hours, services and real photographs. We keep your business name, address and phone number identical across the listings that already mention you, such as Apple Business Connect, Bing Places, Yelp, Yellow Pages Canada and industry directories. We then build city and service pages with genuinely different content for each area you serve: the neighbourhoods covered, typical jobs, travel charges or response times. Spelling follows Canadian usage, prices show in CAD and phone numbers are formatted the way your customers dial them.`,
+      `<strong>French SEO.</strong> French keyword research is done in French, not translated from English, because people search differently in each language and Quebec French has its own vocabulary. A Montreal renovation company, for example, needs pages built around the words Quebecers actually use, which a literal translation of English keywords often misses.`,
+      `<strong>Canada and the US.</strong> Many Canadian businesses also sell into the United States, and the two markets can end up competing in search. Where prices, shipping or regulations differ, we build separate pages for each market with en-CA, fr-CA and en-US hreflang and an x-default, and make canonicals, sitemaps and internal links agree, which is where most multi-region setups quietly break. Where the versions would be nearly identical, we usually recommend one version that mentions both markets. Our <a href="/usa/">USA page</a> covers the American side.`,
+      `<strong>AI search.</strong> AI Overviews and answer engines increasingly summarize local and service results. Clear, factual pages that answer specific questions, visible business details, structured data and crawlable HTML help there as much as in classic search, and we build with that in mind in both languages.`,
+      `<strong>Monthly SEO and reporting.</strong> Monthly SEO starts from ${P.seo} and covers technical fixes, new content on a schedule, internal linking, listing work and a monthly report built on Search Console data. For bilingual sites, content can be planned for both languages, with the French supplied or approved by your translator. Expect movement over three to six months, and expect honest reports, including months where rankings stood still.`,
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "Compliance: PIPEDA, Quebec Law 25, CASL, AODA, French language rules and GST/HST",
+    paragraphs: [
+      `This section describes how we build, not legal advice. We are engineers, not lawyers. We do not certify compliance with any law, and we recommend a qualified adviser reviews your privacy policy, consent wording and anything that depends on how a law applies to your organization. What we do is build the site so that review has very little to fix.`,
+      `<strong>PIPEDA.</strong> The Personal Information Protection and Electronic Documents Act governs how private-sector organizations handle personal information in commercial activities across Canada, with Quebec, Alberta and British Columbia running their own substantially similar private-sector laws for activity within those provinces. It expects meaningful consent, collection limited to what you need, safeguards, a way for people to access their information, and reporting of breaches that pose a real risk of significant harm. For a website, that becomes concrete build decisions: forms that ask only for fields you use, HTTPS everywhere, access-controlled storage instead of an open spreadsheet, and a privacy page describing what actually happens to the data. Federal privacy reform has been proposed and stalled before; your adviser can tell you whether anything newer affects you.`,
+      `<strong>Quebec Law 25.</strong> Quebec's modernized privacy law, phased in between 2022 and 2024, goes further than most. Technologies that identify, locate or profile visitors are expected to be off by default until the person chooses otherwise, so we configure consent banners that genuinely block analytics, ad pixels and embedded trackers until consent is given, in French and English. Organizations need a person in charge of the protection of personal information, whose contact details are published, and a privacy policy written in clear terms. Law 25 also generally expects a privacy impact assessment before personal information is communicated outside Quebec, which is relevant when a supplier elsewhere, including us, can access it. We keep that access minimal and describe it in writing so your privacy officer can assess it.`,
+      `<strong>CASL.</strong> Canada's Anti-Spam Legislation generally requires consent before sending commercial electronic messages, clear identification of the sender in each message and an unsubscribe mechanism that is honoured promptly. We build marketing sign-ups as a separate, unticked checkbox with clear wording, store when and how consent was given, and connect forms to email platforms that handle unsubscribes properly. A contact form enquiry is never silently added to a newsletter list.`,
+      `<strong>AODA and accessibility.</strong> Ontario's Accessibility for Ontarians with Disabilities Act requires many organizations, including private and non-profit organizations with 50 or more employees in Ontario and the public sector, to make their websites meet WCAG 2.0 level AA, with some exceptions. Manitoba, Nova Scotia and British Columbia have their own accessibility laws with standards being phased in, and the federal Accessible Canada Act applies to federally regulated organizations. We build to WCAG 2.1 AA practices by default: semantic structure, keyboard navigation, visible focus, sufficient contrast, labelled forms, alt text and captions where you supply video, tested with a screen reader before launch. We do not install overlay widgets that promise instant compliance.`,
+      `<strong>French language requirements.</strong> In Quebec, the Charter of the French Language, strengthened by Bill 96, generally expects commercial content, websites included, to be available in French, and the French version should not be less complete than any other. Federal institutions have obligations under the Official Languages Act, and New Brunswick is officially bilingual. Our part is building sites where French is a full, first-class version; which rules apply to you is a question for your lawyer.`,
+      `<strong>GST/HST and provincial taxes.</strong> As covered in the ecommerce section, we configure checkout to apply the taxes your accountant confirms. How you treat our own invoices as a supplier outside Canada is also a question for your accountant.`,
+    ],
+    list: [
+      `Consent banner that blocks analytics, ad pixels and embedded trackers until the visitor agrees, with the choice stored and easy to change later.`,
+      `Banner, privacy page, cookie details and forms available in English and French for sites serving Quebec.`,
+      `Forms that ask only for fields you actually use, sent over HTTPS, with spam protection that does not rely on invasive tracking.`,
+      `A named privacy contact on the privacy page, using the person you designate.`,
+      `Marketing opt-in as a separate, unticked checkbox, with sender details and an unsubscribe link in every email template.`,
+      `Hosting and form storage in a Canadian region on request, and a written list of every third-party service that receives visitor data.`,
+      `Keyboard, screen reader and contrast checks on key templates and forms before launch.`,
+    ],
+    after: [
+      `This checklist is a set of engineering habits, not legal advice or a certificate. Your lawyer or privacy adviser decides what your organization needs; we make those decisions easy to implement.`,
+    ],
+  },
+  {
+    id: "time-zones",
+    heading: "Time-zone overlap between Canada and India",
+    paragraphs: [
+      `Canada spans six time zones, from Newfoundland at UTC−3:30 to Pacific at UTC−8, and India Standard Time at UTC+5:30 sits ahead of all of them. India never changes its clocks, while most of Canada moves forward in March and back in November, so the gap shifts by an hour twice a year. Two exceptions matter for scheduling: most of Saskatchewan stays on Central Standard Time all year, and Yukon has stayed on permanent Mountain Standard Time since 2020.`,
+      `The Atlantic provinces get the best overlap: a Halifax or St. John's morning meeting lands in our late afternoon. Toronto, Ottawa and Montreal meet between 8 and 11 a.m. Eastern, which is our evening. Winnipeg, the Prairies and Alberta meet early in their morning, and Vancouver and Victoria at 7 to 9 a.m. Pacific. The table below lists the usual windows. Outside them, everything runs in writing, and urgent production issues follow the escalation route agreed in your maintenance plan.`,
+      `For organizations with offices in several provinces, we usually anchor recurring calls to the easternmost team's morning and share a written summary afterwards, so western colleagues are not forced into a 6 a.m. call.`,
+    ],
+  },
+  {
+    id: "payments",
+    heading: "Paying from Canada: CAD or USD invoices, Wise, wire and milestones",
+    paragraphs: [
+      `Our international prices are set in US dollars. If you would rather pay in Canadian dollars, we invoice in CAD at the exchange rate on the day of the quote, so the amount you approve is the amount you pay for that scope, with no currency surprise at the end. Wise is usually the cheapest route from a Canadian bank account and typically works like a domestic transfer on your side. International wire works for finance teams that prefer it, and PayPal is available with higher fees. We cannot receive Interac e-Transfers, since they require a Canadian bank account.`,
+      `Payment is split into milestones, typically a deposit to begin, a payment at staging review and the balance at launch and handover. Ongoing SEO and maintenance plans are invoiced each month, and you can end them with notice. Every payment gets an invoice with our business details. How to record an invoice from a supplier outside Canada, and whether any GST/HST self-assessment applies to you, is a question for your accountant, and we will provide whatever details they ask for.`,
+      `Scope changes are quoted in writing and approved before they are built. The <a href="/pricing/">pricing page</a>, <a href="/terms/">terms</a> and <a href="/refund-policy/">refund policy</a> cover the commercial details.`,
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "How to hire an offshore web developer from Canada",
+    paragraphs: [
+      `Canadian businesses outsource web development for the same reason everyone does: skilled work at a lower cost. The projects that go wrong usually fail in predictable ways: a French version that was never really planned, accounts registered in the vendor's name, consent and privacy handled as an afterthought, or a vendor who goes quiet after the deposit. These questions filter most of that out. Ask them of anyone, including us.`,
+    ],
+    list: [
+      `<strong>Who will build it, by name?</strong> If the salesperson is not the developer, find out who is and whether any part is subcontracted.`,
+      `<strong>How will the French version work?</strong> Separate URLs, fr-CA hreflang, translated metadata and emails, and who supplies the translation. "We use a plugin" is not an answer.`,
+      `<strong>Where will data be hosted, and who can access it?</strong> Especially important for Quebec businesses and anyone with a Canadian data-residency policy.`,
+      `<strong>Which live sites can I open myself?</strong> Open live sites on your phone over mobile data and run them through PageSpeed Insights.`,
+      `<strong>What exactly is in the quote?</strong> Pages and templates, languages, revision rounds, content writing, SEO setup, integrations, testing and exclusions.`,
+      `<strong>In whose name are the .ca domain, hosting and payment accounts?</strong> Yours, from day one; CIRA's presence rules mean a .ca should never be in a foreign vendor's name anyway.`,
+      `<strong>What happens after launch?</strong> Who fixes bugs, how quickly, for how long, and what support costs.`,
+    ],
+    after: [
+      `<strong>Red flags:</strong> guaranteed first-page rankings; domains or merchant accounts registered in the vendor's name; no written scope; full payment upfront; nulled or pirated themes and plugins; a consent banner that looks right but does not actually block tracking; machine-translated French presented as professional; reviews, logos or awards you cannot verify; and a Canadian address that turns out to be a virtual mailbox.`,
+      `<strong>Ownership checklist:</strong> the scope lists every page, language and feature; you own the domain, hosting, source code, design files and content in both languages; paid licences for themes, plugins, fonts and images are in your name or transferred; the repository lives in your organization or is transferred at launch; credentials are handed over in writing and the vendor's access can be removed; and the agreement says what happens to personal data and backups if you part ways.`,
+    ],
+  },
+  {
+    id: "cost-explained",
+    heading: "What a website costs for a Canadian business, explained",
+    paragraphs: [
+      `Website quotes in Canada vary enormously because the word covers everything from a single-page profile to a bilingual store with provincial tax rules. Price follows scope. Our figures are starting prices in US dollars for a clearly defined first version, with CAD invoicing on request, and the final quote depends on your requirements.`,
+    ],
+    list: [
+      `<strong>From ${P.site}, static website:</strong> a contractor, clinic, consultancy or small manufacturer with home, services, about, contact and gallery pages, up to 100 pages, using content you supply.`,
+      `<strong>From ${P.seoSite}, SEO website of 700+ pages:</strong> a structured site built around search intent, such as a trades company covering many services across dozens of towns, planned with keywords, schema and internal linking.`,
+      `<strong>From ${P.ai}, AI automation:</strong> one well-defined workflow, for example bilingual enquiry routing with first-draft replies in the right language for a person to approve.`,
+      `<strong>From ${P.shop}, ecommerce store:</strong> product and category pages, cart, checkout, payment setup, provincial tax rules, shipping rates and performance tuning.`,
+      `<strong>From ${P.app}, custom web app:</strong> a focused first version of a booking system, client portal or dashboard with accounts, roles, an admin panel and deployment.`,
+      `<strong>From ${P.seo} a month for SEO and ${P.care} a month for maintenance:</strong> recurring work with a monthly report, starting after the five included maintenance months.`,
+    ],
+    after: [
+      `What pushes a quote up: a second language across every template and email, many unique page designs, content we write from scratch, complex product catalogues, integrations with older systems, strict accessibility audits and tight deadlines. What keeps it down: ready content and translations, one decision-maker, and a sensible first version that can grow.`,
+      `Also budget for costs paid to third parties: .ca and .com domains, hosting, a Shopify plan or paid plugins, payment processing fees, professional translation, email marketing platforms and any tax or shipping apps. We list expected running costs in the quote. The <a href="/pricing/">pricing page</a> has the full breakdown.`,
+    ],
+  },
+];
+
+// ---------- Regions (visible region-by-region coverage) ----------
+
+const regions = [
+  {
+    id: "ontario",
+    name: "Ontario",
+    intro: "Ontario is Canada's largest and most crowded search market, with finance and insurance in Toronto, federal government in Ottawa, manufacturing across the south and resource industries in the north. AODA shapes accessibility expectations for many organizations here, and Franco-Ontarian communities in the east and north make French pages worth considering well outside Quebec.",
+    states: [
+      { name: "Toronto and the GTA", text: "Toronto results for anything professional are competitive. Accountants, law firms, financial advisers, insurance brokers and consultancies compete on trust, so their sites need clear credentials, specific service pages and fast load times far more than decorative animation. Mississauga adds corporate head offices, pharmaceutical firms and logistics businesses around Pearson airport; Brampton and Vaughan bring trucking, construction and manufacturing; Markham and Richmond Hill technology firms. The GTA's large South Asian and Chinese-speaking communities mean some businesses benefit from an extra language on key pages." },
+      { name: "Ottawa", text: "Many Ottawa businesses sell to federal departments or to prime contractors, and their websites act as a credibility check during procurement: capabilities, security practices, the past work they are allowed to describe, and often an English and French version. Kanata's technology companies need product and documentation sites, and Ottawa's association and non-profit sector needs accessible, well-structured content. Gatineau across the river is covered in the Quebec section." },
+      { name: "Hamilton, Niagara and Southwestern Ontario", text: "Hamilton is known for steel, healthcare and McMaster University, and the Niagara region for wine, tourism and agriculture. Kitchener-Waterloo has a dense technology and startup community around the University of Waterloo, London has healthcare, education and manufacturing, and Windsor automotive suppliers and cross-border logistics. Suppliers here need searchable catalogues and capability pages; wineries and tourism operators need photography-led sites and bookings." },
+      { name: "Eastern and Northern Ontario", text: "Kingston has universities, healthcare and tourism, while Sudbury is a mining and mining-services centre and Thunder Bay a gateway for forestry, mining and outdoor tourism. Franco-Ontarian communities are strong in the east and north, so bilingual pages often pay off. Service businesses cover huge distances, so service-area pages for the towns they genuinely drive to matter more than city pages." },
+    ],
+  },
+  {
+    id: "quebec",
+    name: "Quebec",
+    intro: "In Quebec, French comes first. Websites are generally expected to be available in French under the Charter of the French Language, Law 25 changes how tracking and consent work, and QST sits alongside GST at checkout. Montreal is also one of the country's most important technology, AI, gaming and aerospace hubs.",
+    states: [
+      { name: "Montreal and Laval", text: "Montreal combines artificial intelligence research, video game studios, aerospace, pharmaceuticals, fashion and a very large creative sector. Tech and creative firms need product sites, portfolios and careers pages in both languages; retailers and restaurants need French-first sites with complete English versions for tourists and anglophone customers. Laval adds biotech, pharmaceutical and retail businesses serving the north shore. We build French-first where your audience is mostly francophone, with the French version as the default for Quebec visitors." },
+      { name: "Quebec City", text: "Quebec City has provincial government, insurance and financial cooperatives, video game studios and a strong tourism economy built around its historic centre and winter events. Tourism businesses need seasonal content and bookings in French and English; B2B and insurance firms need clear, accessible service content. Audiences are overwhelmingly francophone, so French keyword research matters most here." },
+      { name: "Gatineau, Sherbrooke and the regions", text: "Gatineau's economy is tied closely to the federal public service across the river in Ottawa. Sherbrooke has universities and healthcare, Trois-Rivières manufacturing, and the Saguenay–Lac-Saint-Jean region aluminium and forestry. Tourism operators in the Laurentians, Eastern Townships and Charlevoix need sites that rank for French and English destination searches before each season." },
+    ],
+  },
+  {
+    id: "bc",
+    name: "British Columbia",
+    intro: "British Columbia's economy mixes technology, film and visual effects, real estate, tourism, the Port of Vancouver, forestry and wine. BC businesses charge PST alongside GST, and the province's large multilingual communities make extra languages worth discussing for some sites. Most of the province is on Pacific time.",
+    states: [
+      { name: "Vancouver and the Lower Mainland", text: "Technology and SaaS firms need product sites with documentation, pricing and sign-up flows that connect cleanly to their app. Film and visual effects studios need portfolio sites that show heavy video without wrecking load times, which means proper video hosting, poster images and lazy loading. Real estate agents and developers need fast listing and project pages. Surrey has large Punjabi-speaking communities along with trucking, construction and agriculture businesses, and Richmond has Chinese-speaking communities and airport-related logistics, so an optional extra language on key pages can make a real difference." },
+      { name: "Victoria and Vancouver Island", text: "Victoria combines provincial government, tourism and a growing technology sector, while Nanaimo and communities up the island depend on tourism, marine businesses and local services. Tourism operators, from whale-watching tours to boutique hotels, need booking that works on a phone and seasonal content that can change quickly." },
+      { name: "The Okanagan and the Interior", text: "Kelowna has wineries, tourism and a growing tech scene; Kamloops and Prince George forestry, mining and regional services; and Whistler is a year-round tourism destination. Wineries need direct-to-consumer stores that handle the rules on shipping alcohol that apply to them, which is a question for their own advisers, while trades and services need service-area pages for the valleys they cover. The Kootenays and parts of northeastern BC keep Mountain time." },
+    ],
+  },
+  {
+    id: "alberta",
+    name: "Alberta",
+    intro: "Alberta has energy company head offices, industrial services, agriculture and a fast-growing technology sector. It charges GST but no provincial sales tax, which simplifies checkout for Alberta-based stores, though you still collect the right tax for customers in other provinces. Alberta is on Mountain time.",
+    states: [
+      { name: "Calgary", text: "Calgary hosts many energy company head offices and the engineering, environmental and consulting firms that serve them, alongside a growing technology and fintech community. Energy and industrial suppliers need sites where a procurement team can find capabilities, safety information, certifications and a named contact quickly, often with downloadable spec sheets. Home services companies across the fast-growing suburbs need quote forms and local SEO." },
+      { name: "Edmonton", text: "Edmonton is the provincial capital and a hub for industrial services, petrochemical processing in the Industrial Heartland, construction, health research and the University of Alberta. Industrial contractors need capability and safety pages; government suppliers need accessible, well-organized content; and many regional businesses serve all of northern Alberta from here." },
+      { name: "Red Deer, Lethbridge and the rest of Alberta", text: "Red Deer and Lethbridge anchor agricultural regions with equipment dealers, producers selling direct and agri-food processors. Fort McMurray serves the oil sands, and Banff and Canmore are tourism destinations with very seasonal demand. Agricultural businesses need simple sites and stores that work on a phone in a truck; tourism operators need booking and content ranked before the season." },
+    ],
+  },
+  {
+    id: "prairies",
+    name: "The Prairies: Manitoba and Saskatchewan",
+    intro: "Manitoba and Saskatchewan run on agriculture, mining, manufacturing, transportation and insurance. Businesses often compete across the whole Prairie region rather than one city, so regional service pages and consistent listings matter. Both provinces charge PST alongside GST, and most of Saskatchewan stays on Central Standard Time all year.",
+    states: [
+      { name: "Manitoba", text: "Winnipeg has a broad base of manufacturing, including bus and aerospace manufacturing, along with transportation, insurance and agriculture. Manitoba also has a long-established Franco-Manitoban community centred on Saint-Boniface, so some organizations want French pages even outside Quebec. Brandon serves the agricultural southwest, and Churchill has a unique northern tourism economy built on polar bear and beluga viewing." },
+      { name: "Saskatchewan", text: "Saskatoon is the centre of the province's potash and uranium mining activity, agricultural biotechnology and the University of Saskatchewan, while Regina has provincial government, insurance and agriculture. Mining and agricultural suppliers need capability pages and product catalogues; local service businesses benefit from regional pages that cover the towns they serve across long distances." },
+    ],
+  },
+  {
+    id: "atlantic",
+    name: "Atlantic Canada",
+    intro: "The Atlantic provinces combine ocean industries, seafood, universities, defence and a large seasonal tourism economy. All four use HST, New Brunswick is Canada's only officially bilingual province, and Newfoundland keeps its own time zone half an hour ahead of Atlantic time, which gives the easiest overlap of all with India.",
+    states: [
+      { name: "Nova Scotia", text: "Halifax combines universities, ocean technology, defence and shipbuilding suppliers, a busy port and a growing startup scene. Across the province, seafood exporters, Annapolis Valley wineries and tourism operators on routes such as the Cabot Trail need sites that serve international buyers and summer visitors. Tourism sites need content and booking switched on quickly for the season and kept useful through the winter." },
+      { name: "New Brunswick", text: "Moncton has logistics, transportation and customer-service businesses, and many firms there expect to serve customers in English and French from day one. Saint John has energy and port activity, and Fredericton provincial government, a university and a notable cybersecurity community. Bilingual structure is often part of the brief from the start here." },
+      { name: "Prince Edward Island", text: "Charlottetown and Summerside serve an economy built on tourism, agriculture, especially potatoes, fisheries and a bioscience cluster. Most online businesses are seasonal tourism operators, food producers and local services that need fast, simple sites and direct booking or ordering." },
+      { name: "Newfoundland and Labrador", text: "St. John's brings offshore energy, ocean technology, fisheries and a strong tourism draw, while Labrador has mining and remote communities. Tourism operators need planning information for visitors travelling long distances, and marine and energy suppliers need capability pages. Some remote communities have limited bandwidth, so lightweight pages matter." },
+    ],
+  },
+  {
+    id: "north",
+    name: "The North: Yukon, Northwest Territories and Nunavut",
+    intro: "The territories have small populations spread across enormous distances, and all three charge GST only. Internet connections in many communities are limited or satellite-based, so websites here need to be very light, readable without large images or scripts, and built around the information people need before they travel or order.",
+    states: [
+      { name: "Yukon", text: "Whitehorse and Dawson City businesses are mostly tourism operators, outfitters, mining services, government suppliers and local retail. Visitors plan months ahead for northern lights and wilderness trips, so clear planning information, honest pricing and simple booking matter more than heavy design. Yukon stays on Mountain Standard Time all year." },
+      { name: "Northwest Territories and Nunavut", text: "Yellowknife has government, diamond mining and aurora tourism, and Iqaluit territorial government, Inuit organizations and businesses serving communities across Nunavut. Organizations serving Inuit audiences may need Inuktitut or Inuinnaqtun content, supplied and checked by fluent speakers, alongside English and French. Nunavut spans several time zones, which we confirm per project." },
+    ],
+  },
+];
+
+// ---------- Province and territory table ----------
+
+const provinceRows = [
+  ["Alberta", "Alberta", "Calgary, Edmonton, Red Deer, Lethbridge", "Mountain", "GST"],
+  ["British Columbia", "British Columbia", "Vancouver, Surrey, Victoria, Kelowna", "Pacific (some areas Mountain)", "GST + PST"],
+  ["Manitoba", "Prairies", "Winnipeg, Brandon", "Central", "GST + PST"],
+  ["New Brunswick", "Atlantic", "Moncton, Saint John, Fredericton", "Atlantic", "HST"],
+  ["Newfoundland and Labrador", "Atlantic", "St. John's, Corner Brook", "Newfoundland (Labrador mostly Atlantic)", "HST"],
+  ["Nova Scotia", "Atlantic", "Halifax, Sydney, Truro", "Atlantic", "HST"],
+  ["Ontario", "Ontario", "Toronto, Ottawa, Mississauga, Hamilton, London", "Eastern (far northwest Central)", "HST"],
+  ["Prince Edward Island", "Atlantic", "Charlottetown, Summerside", "Atlantic", "HST"],
+  ["Quebec", "Quebec", "Montreal, Quebec City, Laval, Gatineau", "Eastern", "GST + QST"],
+  ["Saskatchewan", "Prairies", "Saskatoon, Regina", "Central Standard, no clock change", "GST + PST"],
+  ["Northwest Territories", "North", "Yellowknife, Hay River", "Mountain", "GST"],
+  ["Nunavut", "North", "Iqaluit, Rankin Inlet", "Eastern, Central and Mountain", "GST"],
+  ["Yukon", "North", "Whitehorse, Dawson City", "Mountain Standard, no clock change", "GST"],
+];
+
+// Regions at a glance (cards, not links: we have no Canadian city pages).
+const regionCards = [
+  { name: "Ontario", note: "Finance, government procurement, manufacturing and tech; AODA and Franco-Ontarian audiences." },
+  { name: "Quebec", note: "French-first sites, Law 25 consent, GST + QST; AI, gaming, aerospace and tourism." },
+  { name: "British Columbia", note: "Tech, film and VFX, real estate, tourism and wine; GST + PST; Pacific-morning calls." },
+  { name: "Alberta", note: "Energy and industrial suppliers, agriculture and tech; GST only at checkout." },
+  { name: "The Prairies", note: "Agriculture, mining, manufacturing and insurance across Manitoba and Saskatchewan." },
+  { name: "Atlantic & the North", note: "Ocean industries, seafood, bilingual New Brunswick, seasonal tourism and very light pages." },
+];
+
+const siblingLinks = [
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "United States", href: "/usa/" },
+  { name: "United Kingdom", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "UAE", href: "/uae/" },
+  { name: "India", href: "/india/" },
+];
+
+const guideToc = guide.map((g) => ({ id: g.id, heading: g.heading }));
+const regionToc = regions.map((r) => ({ id: `region-${r.id}`, heading: r.name }));
+
+// ---------- Structured data ----------
+
+const url = canonicalUrl(page.canonicalPath);
+const canada = { "@type": "Country", name: "Canada" };
+const allProvinces = provinceRows.map(([name]) => name);
+const topMetros = [
+  "Toronto", "Montreal", "Vancouver", "Calgary", "Edmonton", "Ottawa", "Winnipeg", "Quebec City", "Hamilton",
+  "Kitchener", "London", "Halifax", "Victoria", "Saskatoon", "Regina", "Mississauga", "Brampton", "Surrey",
+  "Laval", "Gatineau", "Kelowna", "Moncton", "St. John's", "Charlottetown", "Whitehorse", "Yellowknife", "Iqaluit",
+];
+
+const professionalServiceSchema = {
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "@id": `${url}#service`,
+  name: `${siteBrand.name}: web development for Canadian businesses`,
+  url,
+  image: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  description: page.description,
+  email: siteContact.email,
+  telephone: siteContact.phone,
+  priceRange: `${P.care} – ${P.app}+`,
+  currenciesAccepted: "USD, CAD",
+  paymentAccepted: "Wise, Bank wire, PayPal",
+  address: { "@type": "PostalAddress", addressCountry: "IN" },
+  knowsLanguage: ["en"],
+  areaServed: [
+    canada,
+    ...allProvinces.map((name) => ({ "@type": "State", name, containedInPlace: canada })),
+    ...topMetros.map((name) => ({ "@type": "City", name, containedInPlace: canada })),
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Website development, SEO and IT services for Canadian businesses (starting prices)",
+    itemListElement: pricingPlans.map((plan) => ({
+      "@type": "Offer",
+      itemOffered: { "@type": "Service", name: plan.name, description: plan.summary },
+      areaServed: canada,
+      priceSpecification: {
+        "@type": "PriceSpecification",
+        minPrice: Number(usdPrice(plan.price).replace(/[^\d]/g, "")),
+        priceCurrency: "USD",
+        ...(plan.unit ? { unitText: plan.unit } : {}),
+      },
+    })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-CA",
+  dateModified: updated,
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="canada-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">Canada · Every province and territory</p>
+        <h1 id="canada-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Team based in India &middot; Remote delivery to Canada &middot; No Canadian office
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label="Starting prices in USD">
+        <p class="quote-kicker">Canada starting prices</p>
+        <ul class="quote-rows">
+          {pricingPlans.slice(0, 5).map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}{plan.unit ? <small> /mo</small> : null}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Starting prices in USD; CAD invoice on request. Your quote depends on requirements. 5 months maintenance free after launch.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech for Canadian businesses in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking to hire web developers for a Canadian business?</h2>
+        <p id="quick-answer" class="answer-text">BtechWaleTech is a three-engineer team based in India that builds websites, ecommerce stores, SEO systems, custom software and AI automations for Canadian businesses, working remotely. A business website starts from {P.site}, an online store from {P.shop} and a custom web application from {P.app}. Each figure is a starting price in USD with CAD invoicing on request, bilingual English and French builds are planned from day one, and the first five months of maintenance are free.</p>
+        <p class="answer-more">Canada is several markets at once. A renovation company in Mississauga, a boutique in Montreal and an energy supplier in Calgary need different things from a website, in different languages, with different sales taxes at checkout. This page covers what we build, what it costs, how bilingual sites and provincial taxes work, the privacy and accessibility rules we build around, and what businesses in each province typically need.</p>
+        <p class="updated">Last updated <time datetime={updated}>September 21, 2026</time></p>
+      </div>
+      <table class="snapshot">
+        <caption>BtechWaleTech for Canadian clients at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services for Canadian businesses</p>
+        <h2 id="services-heading">Everything your Canadian business needs online, from one team</h2>
+        <p class="section-note">Planning, design, development, SEO setup, hosting and deployment are handled end to end, in one language or two, so you are not coordinating a designer, a developer and an SEO consultant separately.</p>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">Canadian agency vs freelancer vs BtechWaleTech</h2>
+        <p class="section-note">A fair comparison of typical trade-offs, not a judgment on any particular firm. Plenty of good Canadian agencies and freelancers exist; this is about how the models usually work.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <caption class="sr-only">Comparison of a local Canadian agency, a freelancer and BtechWaleTech</caption>
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Local Canadian agency</th>
+              <th scope="col" class="col-other hide-sm">Freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, freelancer, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other hide-sm">{freelancer}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">If you need French copywriting from the vendor, in-person workshops or a Canadian contracting entity, a local agency is the better choice, and we will say so.</p>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">Website development cost in Canada: starting prices in USD</h2>
+        <p class="section-note">Every figure below is a starting price. The final quote depends on your requirements: pages, languages, content, payments, integrations and deadlines. A bilingual build adds to page and testing scope. Nothing starts until you have approved an itemized quote.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <caption class="sr-only">Starting prices in USD for BtechWaleTech services for Canadian clients</caption>
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price"><small>from </small>{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">All prices are starting points, not fixed quotes; the final cost depends on requirements. Set in USD; invoicing in CAD through Wise or wire is available on request at the exchange rate on the day of the quote. <a href="/pricing/">See full pricing</a>.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Guide to hiring web developers for a Canadian business">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guideToc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          {regionToc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          <li><a href="#provinces-heading">Province-by-province table</a></li>
+          <li><a href="#zones-heading">Time-zone table</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#process-heading">Process and timelines</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {"list" in g && g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {"after" in g && g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+
+        {regions.map((r) => (
+          <article aria-labelledby={`region-${r.id}`}>
+            <h2 id={`region-${r.id}`}>{r.name}: what businesses need online</h2>
+            <p>{r.intro}</p>
+            {r.states.map((s) => (
+              <div class="state-block">
+                <h3>{s.name}</h3>
+                <p>{s.text}</p>
+              </div>
+            ))}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGIONS AT A GLANCE ===================== -->
+  <section class="locations" aria-labelledby="areas-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Areas we serve</p>
+        <h2 id="areas-heading">IT services, websites, SEO and AI automation across Canada</h2>
+        <p class="section-note">Every province and territory is served remotely from India. There are no Canadian offices behind these cards, just the same team and process wherever you are.</p>
+      </div>
+      <ul class="area-grid">
+        {regionCards.map((c) => <li><h3>{c.name}</h3><p>{c.note}</p></li>)}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== PROVINCE TABLE ===================== -->
+  <section class="industries" aria-labelledby="provinces-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Province by province</p>
+        <h2 id="provinces-heading">Provinces and territories: main cities, time zones and sales tax</h2>
+        <p class="section-note">The sales tax column shows which taxes a store typically configures for customers in each province, not rates; confirm current rates and your registrations with your accountant.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Canadian provinces and territories with region, main cities, time zone and sales tax type</caption>
+          <thead>
+            <tr><th scope="col">Province / territory</th><th scope="col" class="hide-sm">Region</th><th scope="col">Main cities</th><th scope="col" class="hide-sm">Time zone</th><th scope="col">Sales tax</th></tr>
+          </thead>
+          <tbody>
+            {provinceRows.map(([prov, region, cities, tz, tax]) => (
+              <tr><th scope="row">{prov}</th><td class="hide-sm">{region}</td><td>{cities}</td><td class="hide-sm">{tz}</td><td>{tax}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== TIME ZONES ===================== -->
+  <section class="pricing" aria-labelledby="zones-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Time zones</p>
+        <h2 id="zones-heading">Call windows for every Canadian time zone</h2>
+        <p class="section-note">India does not change its clocks, so the gap moves by an hour when most of Canada switches between daylight and standard time in March and November. The IST column assumes Canadian daylight time.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Time difference and call windows between Canadian time zones and India</caption>
+          <thead><tr><th scope="col">Canadian time zone</th><th scope="col" class="hide-sm">India is ahead by</th><th scope="col">Call window (your time)</th><th scope="col">Same window in India</th></tr></thead>
+          <tbody>
+            {zones.map((z) => (
+              <tr><th scope="row">{z.zone}</th><td class="hide-sm">{z.gap}</td><td>{z.window}</td><td>{z.ist}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">What we build for Canadian industries</h2>
+        <p class="section-note">Concrete website and SEO needs by sector. The <a href="/industries/">industries page</a> goes further.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Industry</th><th scope="col">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td>{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From first message to a live site</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">These estimates assume your content and sign-offs arrive when planned. A French version adds time, mostly waiting for translated copy; payments, provincial taxes and user accounts add testing time to ecommerce and custom builds.</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Hiring web developers for a Canadian business: questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other markets</p>
+        <h2 id="related-heading">IT services, websites, SEO and AI automation in other countries</h2>
+      </div>
+      <div class="city-cloud">
+        {siblingLinks.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us what your Canadian business needs</h2>
+        <p class="closing-note">
+          Send a few lines about your business, the provinces you serve and the languages you need. You get questions first, then a page plan,
+          a timeline and an itemized quote in USD or CAD. You pay nothing before approving the scope, and maintenance is free for the first five months after launch.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> ·
+          <a href="/india/">India</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .updated { margin-top: 1rem; font-size: 0.8rem; color: var(--slate-muted); }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p { margin-top: 1.1rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .area-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: var(--hairline); border: 1px solid var(--hairline); }
+  .area-grid li { padding: 1.4rem; background: var(--paper); }
+  .area-grid h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.4rem; }
+  .area-grid p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .area-grid { grid-template-columns: 1fr 1fr; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .area-grid, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+    .quote-rows li { flex-wrap: wrap; gap: 0.25rem 1rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.75rem, 7.5vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

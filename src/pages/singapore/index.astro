@@ -1,0 +1,1090 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteContact } from "@data/site/site-config";
+import { pricingPlans } from "@data/pricing/plans";
+import { usd, priceRows, countryOgImage, countryServiceSchema } from "@data/countries/international";
+
+const path = "/singapore/";
+const url = canonicalUrl(path);
+const countryName = "Singapore";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a Singapore web development company?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India, and we work with Singapore businesses remotely. We do not have an office, a registered entity or staff in Singapore, and we will not pretend otherwise. What you get is direct access to the three engineers who build your project, Singapore-friendly hours and starting prices well below typical local agency rates.",
+  },
+  {
+    question: "How much does a website cost for a Singapore business?",
+    answer: `Our starting prices are ${usd("Static")} for a static business website, ${usd("SEO website")} for a 700+ page SEO website, ${usd("AI automation")} for AI automation, ${usd("Ecommerce")} for an ecommerce store and ${usd("Custom web app")} for a custom web app. Monthly SEO starts from ${usd("Monthly SEO")} and maintenance from ${usd("Maintenance")}. These are starting prices; the final quote depends on your requirements.`,
+  },
+  {
+    question: "Can you invoice in Singapore dollars?",
+    answer: "Yes, on request. Prices are published in USD, but we can issue the invoice in SGD at an agreed rate and you pay by Wise or bank wire. The currency and amount are fixed in the written quote before any work starts, so exchange movements during the project do not change what you owe.",
+  },
+  {
+    question: "Do you charge Singapore GST?",
+    answer: "We are an India-based provider and are not registered for Singapore GST, so our invoices do not add Singapore GST. If your company is GST-registered, imported services can fall under the reverse charge rules in some cases. Your accountant can confirm how the invoice should be treated in your GST return; we are engineers, not tax advisers.",
+  },
+  {
+    question: "Can you set up PayNow, GrabPay and cards on my online store?",
+    answer: "Yes. Stripe supports cards, PayNow and GrabPay for Singapore merchants, and Shopify Payments covers cards and wallets for Shopify stores. Local gateways such as HitPay are also popular with small businesses. We integrate whichever provider you choose; the merchant account is opened and verified in your company's name.",
+  },
+  {
+    question: "Do you work with Shopify for Singapore stores?",
+    answer: "Yes. Shopify suits most small and mid-sized Singapore retailers because hosting, security and checkout are managed for you. We handle theme work, collections, shipping zones, GST display settings, payment setup and SEO. For unusual B2B pricing or very custom checkouts we may recommend WooCommerce or a custom build instead, and we explain why in the quote.",
+  },
+  {
+    question: "Can you build a website in English and Chinese, or add Malay and Tamil?",
+    answer: "Yes. We build the multilingual structure: separate URLs per language, a language switcher, hreflang tags such as en-SG and zh-SG, and fonts that render Chinese characters correctly. Our team writes in English; Chinese, Malay and Tamil text should be written or reviewed by you or a translator you trust, so it reads naturally to Singapore customers.",
+  },
+  {
+    question: "Will my website follow the PDPA?",
+    answer: "We build with the Personal Data Protection Act in mind: clear purpose notices on forms, consent that is not pre-ticked, only the fields you need, a privacy policy page, a contact for your data protection officer and access-controlled storage for submissions. We are engineers, not lawyers, so please have your own adviser review your policies and data practices.",
+  },
+  {
+    question: "What time are you available in Singapore time?",
+    answer: "Singapore is two and a half hours ahead of India. Our working day of 9 am to 9 pm IST runs from 11:30 am to 11:30 pm Singapore time, seven days a week on WhatsApp. That covers your whole afternoon for calls, and earlier morning calls can be arranged when needed.",
+  },
+  {
+    question: "Can our work qualify for the Productivity Solutions Grant?",
+    answer: "No. PSG support applies to pre-approved solutions from vendors listed on the government's approved list, and we are not a pre-approved PSG vendor. If a grant matters to your budget, check the current list and conditions with Enterprise Singapore before choosing a provider. We would rather tell you this upfront than have you discover it at claim time.",
+  },
+  {
+    question: "Can I register a .sg or .com.sg domain through you?",
+    answer: "The domain should be registered in your company's name through an accredited registrar, and SGNIC's eligibility rules for .sg domains require a Singapore presence, which your business has and we do not. We guide you through the registration, then connect DNS, email records and SSL. You keep full ownership of the domain.",
+  },
+  {
+    question: "Where will my website be hosted?",
+    answer: "For most Singapore sites we host static pages on a global CDN with Singapore edge locations, so pages load quickly locally. Apps with databases usually go to a Singapore cloud region, such as AWS ap-southeast-1 or Google Cloud asia-southeast1, which keeps latency low and data in Singapore where that matters to you.",
+  },
+  {
+    question: "How long does a project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Timelines assume content and approvals arrive on time.",
+  },
+  {
+    question: "Do you do SEO for google.com.sg?",
+    answer: `Yes. Monthly SEO starts from ${usd("Monthly SEO")} and covers technical fixes, on-page work, content and local search for Singapore. We research how your customers actually search, including English, Singlish phrasing and Chinese queries where relevant, and report from Search Console every month. Nobody can guarantee rankings, and we do not.`,
+  },
+  {
+    question: "Can you automate our WhatsApp enquiries and CRM?",
+    answer: `Yes. Common automations include website enquiries sent to WhatsApp and a CRM such as HubSpot or Zoho, booking confirmations, lead assignment, invoice data pushed to Xero or QuickBooks, and AI assistants that answer routine questions. AI automation starts from ${usd("AI automation")} and is scoped after we map your current workflow.`,
+  },
+  {
+    question: "Who owns the code, domain and hosting after launch?",
+    answer: "You do. The domain, hosting account, payment accounts and source code are in your name or handed over to you at launch, together with every login. We do not keep a site hostage for renewals or support contracts.",
+  },
+  {
+    question: "What happens after launch?",
+    answer: `After hosting goes live you get five months of maintenance included free: content updates, bug fixes, security updates, backups and speed checks. After that you can continue from ${usd("Maintenance")} or contact us only when something needs changing.`,
+  },
+  {
+    question: "Can we meet in person in Singapore?",
+    answer: "Not as a routine part of a project. We are a remote team in India and work over video calls, WhatsApp and email, with a private staging link you can open at any time. Everything agreed is written down, which many clients find clearer than in-person meetings anyway.",
+  },
+  {
+    question: "How do we get started?",
+    answer: "Send a WhatsApp message or email with what your business does, what you want built and a few sites you like. We reply with questions, then a written scope, timeline and quote, usually within two working days. Work starts only after you approve the scope.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company Singapore | Web Developers",
+  description: `Web development for Singapore businesses: websites, ecommerce with PayNow and Stripe, SEO and custom software from a remote team in India. From ${usd("Static")}.`,
+  canonicalPath: path,
+  h1: "Web development company for Singapore businesses",
+  intro: "BtechWaleTech is a small team of engineers based in India. We build websites, ecommerce stores, SEO systems, web apps and AI automations for Singapore companies, working remotely with a two-and-a-half-hour time difference. Every price below is a starting price, and you talk directly to the people who write your code.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Singapore", href: path },
+  ]),
+  locale: "en_SG",
+  ogImage: countryOgImage("BtechWaleTech, a remote web development and SEO team in India serving Singapore businesses"),
+  keywords: [
+    "web development company Singapore",
+    "web developers Singapore",
+    "website design Singapore",
+    "website development Singapore",
+    "web design agency Singapore",
+    "affordable website Singapore",
+    "ecommerce website Singapore",
+    "Shopify developer Singapore",
+    "PayNow payment website",
+    "Stripe PayNow integration",
+    "SEO services Singapore",
+    "SEO company Singapore",
+    "Chinese English website Singapore",
+    "custom software development Singapore",
+    "web app development Singapore",
+    "AI automation Singapore",
+    "offshore web developer Singapore",
+    "outsource web development Singapore",
+    "PDPA compliant website",
+    "website maintenance Singapore",
+    "web design Raffles Place",
+    "web developer one-north",
+    "website design Jurong",
+    "web design Tampines",
+    "website developer Woodlands",
+    "SME website Singapore",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Singapore · Remote team in India";
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}`],
+  ["Time difference", "Singapore is 2.5 hours ahead of IST"],
+  ["Billing", "USD, or SGD on request, via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "All of Singapore, from the CBD to Woodlands"],
+];
+const pills = ["Business websites", "Shopify with PayNow", "SEO for google.com.sg", "English and Chinese sites", "WhatsApp automation", "Custom web apps"];
+const heroOrigin = "Team based in India · Serving Singapore remotely · No Singapore office";
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: "Websites starting price" },
+  { value: "5", label: "Months maintenance free" },
+  { value: "2.5 h", label: "Singapore ahead of India" },
+];
+
+const answerHeading = "Looking for a web development company for your Singapore business?";
+const quickAnswer = `BtechWaleTech is a three-engineer team in India that builds websites, Shopify and custom stores, SEO systems, web apps and automations for Singapore companies, fully remotely. Websites start from ${usd("Static")}, ecommerce from ${usd("Ecommerce")} and custom software from ${usd("Custom web app")}, all as starting prices. You get a written quote, a private staging link and five months of free maintenance after launch.`;
+const answerMore = "Because India is only two and a half hours behind Singapore, our working day covers your entire afternoon and evening. You message on WhatsApp during lunch, and the fix is often live before you leave the office.";
+const snapshot = [
+  { label: "Who we are", value: "Three engineers in India: full stack, AI and cloud, and project delivery" },
+  { label: "How we work", value: "Remotely over WhatsApp, video calls and email, with a private staging link" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, custom software, web apps, AI automation, maintenance" },
+  { label: "Payments we set up", value: "Cards, PayNow and GrabPay via Stripe; Shopify Payments; HitPay and similar" },
+  { label: "Languages", value: "English in-house; Chinese, Malay and Tamil structure with your reviewed text" },
+  { label: "Starting prices", value: `From ${usd("Static")} for a website; every figure is a starting price` },
+  { label: "Our hours in SGT", value: "11:30 am to 11:30 pm, seven days a week on WhatsApp" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "Everything a Singapore business needs online, from one small team";
+const services = [
+  { name: "Website design & development", note: "Fast, mobile-first company websites on Astro, Next.js or WordPress, built for Singapore's phone-first buyers.", href: "/services/web-development/", size: "lg" },
+  { name: "SEO for google.com.sg", note: "Technical SEO, content and local search, with English and Chinese keyword research where your market needs it.", href: "/services/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with cards, PayNow and GrabPay, plus local delivery options.", size: "sm" },
+  { name: "Custom software", note: "Client portals, booking systems, dashboards and admin panels built around your workflow.", size: "sm" },
+  { name: "Web apps & PWAs", note: "Installable web apps that work well on phones without app store review cycles.", size: "sm" },
+  { name: "AI automation", note: "WhatsApp, CRM, Xero and Google Workspace flows, plus AI assistants for routine questions.", size: "sm" },
+  { name: "Multilingual sites", note: "English, Chinese, Malay or Tamil versions with proper hreflang and fonts.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Pricing ----------
+
+const pricingHeading = "Website and software prices for Singapore businesses";
+const pricingIntro = "Prices are published in US dollars because that is how we quote international clients. They are starting prices for a clearly scoped first version; the final quote depends on your requirements. SGD invoicing via Wise or bank wire is available on request.";
+const pricingFine = "All figures are starting prices, not fixed quotes. Final cost depends on pages, features, integrations, content and timelines. Third-party costs such as domains, hosting, Shopify plans, paid plugins and payment gateway fees are billed by those providers directly to you. Our invoices do not include Singapore GST.";
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface Article {
+  id: string;
+  heading: string;
+  paragraphs: string[];
+  list?: string[];
+  after?: string[];
+  blocks?: { name: string; text: string }[];
+  table?: { caption: string; head: string[]; rows: string[][]; hide?: number };
+}
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are, and how remote delivery from India works",
+    paragraphs: [
+      "BtechWaleTech is three engineers based in India. Ankur Kumar is a full stack developer who builds the front ends, back ends and integrations. Santosh Sharma works on AI and machine learning, AWS, data, technical SEO and deployment. Vedansh Shrivastava runs project delivery and works on data science, AI and automation. When a Singapore client messages us, one of those three people replies, and the same people write the code. There is no account manager in between and no hand-off to a subcontractor you never meet.",
+      "We are not a Singapore company. We do not have an office in Singapore, a registered entity there, local staff or a Google Business Profile with a Singapore address. Some offshore providers blur this by listing a virtual office or a co-working desk in Raffles Place; we would rather be plain about it. You are hiring a remote team in India, and the rest of this page explains how that works in practice and where it helps or does not help your business.",
+      "The practical side is simple. A first conversation happens on WhatsApp or a video call. We write down what you need as a scope document: pages, features, integrations, who supplies content, what is excluded, and a timeline. You approve it before anything is billed. During the build you get a private staging link that you can open on your own phone at any time, so you review real pages rather than static mock-ups. Feedback goes into a shared list, and small changes usually land the same day because our working hours cover your afternoon and evening.",
+      "Remote work suits most Singapore projects better than people expect. Singapore businesses are used to working with regional teams in Kuala Lumpur, Manila, Jakarta or Bangalore, and many already run their operations on Google Workspace or Microsoft 365, Slack or WhatsApp groups, and shared documents. What matters is that decisions are written down and that the people doing the work are reachable. We keep everything in writing, answer seven days a week, and never ask you to chase a sales contact for technical answers.",
+      "Where remote delivery is weaker, we say so. We cannot visit your shop to photograph products, attend a meeting at your office, or sit with your staff while they learn a new admin panel. For photography we recommend a local photographer and we tell you exactly which shots and sizes we need. For training we record short screen videos you can keep and share with new staff, which tends to outlast any single in-person session.",
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "Our services for Singapore businesses, in detail",
+    paragraphs: [
+      "<strong>Web development.</strong> Company websites, landing pages and content sites built on modern frameworks such as Astro, Next.js and React, or on WordPress when your team wants to edit pages without a developer. For most service businesses in Singapore, from renovation contractors to accounting firms, we recommend a static site: it loads quickly on mobile, costs little to host and has very little to hack. The static plan covers up to 100 pages, responsive layouts, enquiry forms routed to email and WhatsApp, and deployment. Details are on the <a href=\"/services/web-development/\">web development service page</a>.",
+      "<strong>Website design.</strong> Singapore buyers compare quickly and leave quickly. Design starts from what they need to see before contacting you: what you do, who you do it for, typical prices or price ranges where you can share them, proof of work, and a way to reach you in one tap. We agree the page structure and wireframes first, design the phone layout before the desktop one, and avoid the heavy hero videos and carousels that slow pages on busy mobile networks.",
+      "<strong>Ecommerce.</strong> Stores on Shopify, WooCommerce or a custom stack with cards, PayNow and GrabPay at checkout, local delivery and self-collection options, and GST shown correctly if you are registered. The ecommerce section below covers payment providers, marketplaces and logistics in detail.",
+      "<strong>SEO.</strong> Search engine optimisation for google.com.sg: technical health, on-page work, content and local search. For B2B firms we build service and industry pages that answer procurement questions; for consumer businesses we focus on neighbourhood and category searches. The SEO section below covers multilingual search in English, Chinese and Malay. Our general approach is on the <a href=\"/services/seo-services/\">SEO services page</a>.",
+      "<strong>Custom software and web apps.</strong> Client portals, booking and scheduling systems, quotation tools, inventory dashboards and admin panels. Typical Singapore examples: a tuition centre that needs class scheduling and parent notifications, a logistics firm that wants customers to track consignments, or a clinic group that needs an internal dashboard pulling data from several systems. Many requests for a mobile app are better served by a progressive web app that installs from the browser and updates without app store review.",
+      "<strong>AI automation.</strong> Automations that remove repetitive admin: enquiries from your website, Facebook and Instagram forms flowing into a CRM, WhatsApp confirmations for bookings, invoice data moving into Xero or QuickBooks, and AI assistants that answer routine customer questions from your own documents. We map the current process before automating it, because automating a confused process just makes the confusion faster.",
+      "<strong>Maintenance.</strong> After hosting goes live you get five months of maintenance included: content and price updates, bug fixes, security and dependency updates, backups, and uptime and speed checks. After that, maintenance continues from " + usd("Maintenance") + ", or you contact us only when something needs changing.",
+    ],
+  },
+  {
+    id: "ecommerce-singapore",
+    heading: "Ecommerce in Singapore: PayNow, Stripe, GrabPay and Shopify",
+    paragraphs: [
+      "Singapore shoppers are experienced online buyers. They compare prices across your site, Shopee, Lazada and Amazon.sg in the same minute, expect a checkout that works on a phone without friction, and assume delivery within a day or two because the whole country is small. A store that looks dated, loads slowly or hides the delivery fee until the last step loses those buyers to a marketplace listing.",
+      "<strong>Payments.</strong> Card payments remain essential, and PayNow has become an everyday way to pay: buyers scan an SGQR code or approve a transfer in their banking app, and the money reaches your business account through your UEN. Stripe supports cards, Apple Pay, Google Pay, PayNow and GrabPay for Singapore merchants in a single integration, which is why we often recommend it for custom stores. Shopify stores can use Shopify Payments for cards and wallets and add other methods through apps. Local gateways such as HitPay are popular with smaller merchants and market stalls that also sell in person. Fees, settlement times and supported methods change, so we check the current terms with you before choosing. Every merchant account is opened in your company's name, never ours.",
+      "<strong>Buy now, pay later.</strong> Instalment options such as Atome can lift conversion for higher-priced items like furniture, electronics and beauty treatments. They also add fees and a layer of customer-service questions, so we suggest adding them only where average order values justify it and only after the core checkout is reliable.",
+      "<strong>Platform choice.</strong> Shopify suits most small and mid-sized retailers: hosting, security, PCI compliance for payments and upgrades are handled for you, and staff can learn the admin in an afternoon. WooCommerce suits businesses that already run WordPress and want lower monthly platform costs and full control of their data. A custom build on a headless setup suits unusual cases: B2B price lists per customer, complex bundles, booking and retail in one flow, or catalogues that need to sync with an existing ERP. We will tell you which one fits, including when the answer is simply a well-configured Shopify store.",
+      "<strong>Delivery and self-collection.</strong> Singapore stores typically offer standard delivery, express or same-day delivery for a fee, and self-collection from the shop or a pickup locker network. We configure shipping zones and rates, delivery date and time-slot selection where you need it, and connect the store to your courier or delivery platform so orders and tracking links flow automatically. Free-delivery thresholds are worth testing: a clear threshold shown in the cart often raises average order value more than a discount code.",
+      "<strong>GST display.</strong> If your business is GST-registered, prices shown to consumers are generally expected to include GST, and tax invoices need the right details. We configure tax settings and invoice templates to your accountant's specification. If you are not registered, the store must not suggest that GST is being charged. As always, confirm the rules that apply to you with your accountant.",
+      "<strong>Marketplaces alongside your own store.</strong> Many Singapore brands sell on Shopee, Lazada or Amazon.sg as well as their own site. Marketplaces bring volume but also fees, price comparison and little customer data. Your own store is where repeat customers, email subscribers and higher margins live. We can connect product catalogues so stock levels stay consistent across channels, and we design the own-store experience to give buyers a reason to come back, such as bundles, member pricing or content the marketplaces do not allow.",
+    ],
+  },
+  {
+    id: "seo-singapore",
+    heading: "SEO for google.com.sg, in English, Chinese and Malay",
+    paragraphs: [
+      "Search in Singapore is dominated by Google, and competitive commercial terms are crowded with well-funded agencies, directories and marketplaces. Winning is less about tricks and more about building pages that answer specific questions better than anyone else, on a site that loads fast and is technically clean. That is the part we are good at, and it is the part many Singapore sites neglect.",
+      "<strong>Technical foundations.</strong> Every site we build ships with clean URLs, unique titles and descriptions, structured data for your organisation, services, products and FAQs, an XML sitemap, a sensible robots.txt, correct canonical tags and redirects from any old URLs. We connect Google Search Console and check that pages are actually indexed, not just published. For redesigns we map every URL that currently receives traffic and redirect it properly, because most ranking losses after a Singapore site revamp come from broken URLs rather than design.",
+      "<strong>Local and neighbourhood search.</strong> Many Singapore searches carry an area: aircon servicing in Tampines, physiotherapy near Novena, tuition in Bishan, a renovation contractor in Punggol. If you genuinely serve those areas, pages that describe your service there with real detail, such as travel times, parking or MRT access, and the jobs you do there, can rank well. Thin pages that only swap the area name do not, and can harm the whole site. Your Google Business Profile must be owned and verified by you at your real address; we guide you on categories, services and posts, but we never create or manage profiles at addresses you do not operate from.",
+      "<strong>English, Chinese, Malay and Tamil.</strong> Singapore has four official languages, and the right language mix depends on your customers. A B2B software firm may need only English. A traditional Chinese medicine clinic, a bak kwa brand or a property agent serving older buyers may need Simplified Chinese pages too. A halal food business or a Malay wedding vendor may benefit from Malay content. We set up separate URLs for each language, a visible language switcher, hreflang tags such as en-SG, zh-SG and ms-SG pointing between equivalent pages, and fonts that render Chinese characters cleanly without slowing the page. Machine translation alone rarely reads naturally, so the translated text should be written or reviewed by you or a translator you trust.",
+      "<strong>How Singaporeans actually search.</strong> Keyword research here needs local judgement. People search for HDB renovation, BTO interior design, condo aircon chemical wash, CCA coaching, or PSLE maths tuition, and use Singapore spellings and abbreviations that a generic tool may not suggest. We combine tool data with Search Console queries from your own site and the questions your staff hear every day, then plan pages around those real phrases.",
+      "<strong>Content and trust.</strong> For regulated or high-trust services such as clinics, financial advisers, lawyers and education providers, content needs to be accurate and restrained. We write or edit pages that explain services plainly, cite your qualifications and registrations where relevant, avoid promises about results, and keep advertising-sensitive claims out of the copy. You approve every page before it goes live.",
+      "<strong>Reporting.</strong> Monthly SEO starts from " + usd("Monthly SEO") + ". Each month you get a short report from Search Console and analytics showing what changed, what we did, and what we plan next. We do not guarantee rankings, because nobody controls Google's results, and we would be wary of any Singapore agency that does.",
+    ],
+  },
+  {
+    id: "automation-singapore",
+    heading: "AI automation and WhatsApp workflows for Singapore teams",
+    paragraphs: [
+      "Singapore salaries make repetitive admin expensive. A coordinator who spends two hours a day copying enquiries from email into a spreadsheet, chasing customers for booking confirmations and retyping invoice details into Xero is doing work software can do reliably. Automation is often the fastest return on a small technology budget, and it is where our AI and data background is most useful.",
+      "<strong>Where we usually start.</strong> WhatsApp is the default business channel for most Singapore consumers, so many workflows begin there. A tuition centre can send class reminders and make-up lesson links automatically. A renovation firm can send each new lead an acknowledgement, a short questionnaire about the unit type and budget, and a calendar link for a site visit. A clinic can confirm appointments and send pre-visit instructions. Official WhatsApp Business API messaging goes through an approved provider, uses message templates for outbound messages and carries per-conversation charges, which we explain before you commit.",
+      "<strong>Connecting the tools you already pay for.</strong> Most Singapore SMEs run a familiar stack: Google Workspace or Microsoft 365, a CRM such as HubSpot, Zoho or Pipedrive, Xero or QuickBooks for accounts, and Shopify or WooCommerce for sales. We connect them so a paid order creates an invoice, a won deal creates a project folder, and a new enquiry lands in the right salesperson's queue with the source recorded. That source tracking alone often changes how businesses spend their marketing budget.",
+      "<strong>AI assistants, used carefully.</strong> A language model can draft replies to common questions from your own price lists and policies, summarise long email threads, extract fields from supplier invoices or classify incoming requests. We keep a human approving anything that commits the business, such as a quotation or a refund, and we design prompts and data access so the assistant only sees what it needs. For personal data this also keeps you on the right side of PDPA purpose limits.",
+      "<strong>What it costs.</strong> AI automation starts from " + usd("AI automation") + " for one well-defined workflow, mapped with you before we build. Running costs such as API usage, automation platform plans and WhatsApp conversation charges are paid directly by you to those providers, and we estimate them in the quote.",
+    ],
+  },
+  {
+    id: "first-version",
+    heading: "What to put in the first version of a Singapore business website",
+    paragraphs: [
+      "Most small business sites try to do too much at launch and end up late, over budget and half-finished. A tight first version that is live and collecting enquiries beats a perfect site six months away. Here is what we recommend for a typical Singapore SME, and what can wait.",
+    ],
+    list: [
+      "<strong>A home page that answers three questions in the first screen:</strong> what you do, who you do it for, and how to contact you. Everything else supports those three answers.",
+      "<strong>One page per main service,</strong> with scope, typical price range or how pricing works, turnaround times, and the questions customers ask most often.",
+      "<strong>Proof you can back up:</strong> project photos you own, case notes with the client's permission, registrations and memberships you actually hold, and reviews linked to where they were posted.",
+      "<strong>Company details:</strong> your registered company name and UEN, business address, operating hours and a contact for data protection questions. Singapore buyers check these, especially for B2B work.",
+      "<strong>Contact that works on a phone:</strong> WhatsApp and call buttons, a short form with only the fields you need, and a clear note on how fast you reply.",
+      "<strong>Measurement from day one:</strong> Search Console, privacy-friendly analytics and enquiry tracking, so decisions about the next phase are based on data.",
+    ],
+    after: [
+      "What can usually wait: a blog, until you have someone to write for it regularly; a second language, until you know your non-English audience is significant; member accounts; and complex calculators. Each is easier to add to a clean, well-structured site later than to squeeze into a rushed launch.",
+    ],
+  },
+  {
+    id: "singapore-areas",
+    heading: "Singapore by area: where businesses cluster and what they need online",
+    paragraphs: [
+      "Singapore is one city, but its business districts behave very differently online. A fintech at one-north and a hardware supplier in Jurong buy different things, speak to different customers and need different websites. We serve every part of the island remotely; these notes describe the patterns we plan around.",
+    ],
+    blocks: [
+      { name: "CBD, Raffles Place, Marina Bay and Tanjong Pagar", text: "The Central Business District holds banks, insurers, law firms, consultancies, family offices, regional headquarters and a thick layer of professional services around them. Websites here are judged by procurement teams and senior partners who expect restraint, precise language and fast pages. Typical needs are practice or service pages that answer due-diligence questions, partner and team profiles, secure client portals or document exchange, and careful handling of regulated claims. For firms with regional coverage we often add country pages for Malaysia, Indonesia or Hong Kong, each with its own useful content." },
+      { name: "one-north and Buona Vista", text: "Fusionopolis, Biopolis and Mediapolis cluster technology companies, research institutes, biomedical firms, media businesses and many startups. These clients usually know exactly what they want technically and value developers who can talk about APIs, authentication and deployment pipelines. Common projects are marketing sites that the growth team can update weekly through a headless CMS, documentation portals, investor pages, dashboards for pilots with enterprise customers and first versions of a product that need to be built quickly without cutting corners on security." },
+      { name: "Jurong and the west", text: "Jurong's industrial estates, Jurong Island's energy and chemicals cluster, Tuas and the Jurong Lake District bring together manufacturers, engineering firms, marine and offshore suppliers, logistics operators and the growing commercial hub around Jurong East. Their buyers are engineers and purchasing managers who want specifications, certifications, capacity and a named contact. Useful builds include searchable product and parts catalogues, request-for-quotation forms that accept drawings, pages for certifications and industries served, and simple portals for repeat B2B orders." },
+      { name: "Changi and the airport cluster", text: "Changi Airport, Changi Business Park, the airfreight centre and the surrounding logistics parks host aviation services, freight forwarders, courier firms, data centres and regional operations teams. Their customers need to know lanes, service levels, cut-off times and how to get a quote without waiting a day. We build quote request flows that capture the details forwarders actually need, shipment tracking pages connected to existing systems, and multi-country service pages for firms that serve the wider region." },
+      { name: "Tampines and the east", text: "Tampines is one of Singapore's regional centres, with large residential estates, malls, Tampines Regional Centre offices and plenty of neighbourhood businesses: tuition and enrichment centres, clinics, dental practices, beauty salons, gyms and home service companies. Buyers here search on phones, often with an area in the query, and decide fast. Websites need clear prices or price ranges, real photos, class or appointment booking, WhatsApp contact and area pages only where the business genuinely serves that neighbourhood." },
+      { name: "Woodlands and the north", text: "Woodlands, with its regional centre, the Woodlands North Coast development and the Causeway to Johor Bahru, mixes residential estates, industrial parks and firms that operate on both sides of the border. Businesses here include manufacturers, logistics and warehousing firms, home service companies and retailers serving the northern estates. Cross-border businesses often need English and Malay content, pricing that is clear about which side of the Causeway a service applies to, and forms that route enquiries to the right team." },
+      { name: "Paya Lebar, Punggol and other growth areas", text: "Paya Lebar has grown into a commercial hub east of the city, and the Punggol Digital District is being developed around technology and education. Across the island, heartland towns such as Ang Mo Kio, Bishan, Toa Payoh, Bedok and Yishun support thousands of small businesses. The same principle applies everywhere: build for the specific buyer, show real information, and make contact effortless on a phone." },
+    ],
+    after: [
+      "Across these areas, Singapore's small and medium enterprises share a handful of sectors that we see most often in enquiries: food and beverage, retail and ecommerce, professional services such as accounting, legal and corporate secretarial firms, education and enrichment, clinics and wellness, renovation and interior design, logistics, and B2B trading. The region table further down summarises what each part of the island typically needs.",
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "PDPA, the Spam Control Act and GST: what your website must handle",
+    paragraphs: [
+      "This section describes the practical groundwork we build into Singapore websites. It is not legal or tax advice. We are engineers, not lawyers, and for formal questions you should speak to a qualified adviser in Singapore.",
+      "<strong>Personal Data Protection Act (PDPA).</strong> The PDPA governs how organisations in Singapore collect, use and disclose personal data, and the Personal Data Protection Commission enforces it. For a typical website that means contact and enquiry forms, newsletter signups, account registration, checkout, booking systems, analytics, chat widgets and marketing pixels. We build forms that state clearly why each piece of information is collected, ask for consent without pre-ticked boxes, collect only the fields you actually need, and link to a privacy policy that names how to contact your data protection officer. Organisations are expected to designate a DPO and make their business contact information available; we add that contact to the site so people can reach them.",
+      "<strong>Protecting what you collect.</strong> Form submissions go into access-controlled storage, not a public spreadsheet link. Admin panels use strong authentication and role-based access, so a part-time staff member sees only what they need. Backups are encrypted, and we avoid copying production customer data onto developer machines; for testing we use dummy data wherever possible. Where a system does hold significant personal data, we help you document where data lives and who can access it, which makes breach assessment and any required notification far easier if something goes wrong.",
+      "<strong>Do Not Call and marketing messages.</strong> The PDPA's Do Not Call provisions cover marketing messages sent to Singapore telephone numbers by call, SMS or messaging apps. If your website feeds leads into WhatsApp or SMS marketing, the workflow needs consent records and a way to check numbers against the DNC Registry where the rules require it. We build the plumbing, such as consent capture with timestamps and opt-out handling; the compliance decisions remain yours.",
+      "<strong>Spam Control Act.</strong> The Spam Control Act regulates unsolicited commercial electronic messages sent in bulk, including email. Among other things, such messages need an unsubscribe facility that works, accurate sender information, and an advertisement label in the subject line where the message is unsolicited. For newsletters and automated email sequences we set up providers that handle unsubscribe links and suppression lists properly, and we recommend confirmed opt-in for mailing lists so your list is clean from the start.",
+      "<strong>GST.</strong> Singapore's goods and services tax is currently 9 percent. Businesses above the registration threshold must register, and registered businesses need GST-correct invoices and price displays. For online stores we configure tax settings, GST-inclusive consumer prices and invoice templates to match your accountant's instructions. On our own invoices: we are an India-based provider and are not GST-registered in Singapore, so we do not add Singapore GST. Whether the reverse charge applies to services you import depends on your company's GST position; your accountant will know.",
+      "<strong>Accessibility.</strong> Singapore does not have a single accessibility law for private websites comparable to some other countries, but accessible sites are simply better for everyone, including older customers and anyone on a small phone in bright sunlight. We build to WCAG 2.2 AA as a working standard: sufficient colour contrast, keyboard navigation, meaningful link text, alt text on images, labelled form fields and readable font sizes.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours: Singapore time and India time",
+    paragraphs: [
+      "Singapore Standard Time is UTC+8 and India Standard Time is UTC+5:30. Neither country uses daylight saving, so the gap is a steady two and a half hours all year. That makes Singapore one of the easiest places for us to work with: our working day of 9 am to 9 pm IST runs from 11:30 am to 11:30 pm in Singapore, seven days a week on WhatsApp.",
+      "In practice, most Singapore clients send questions and feedback in the morning, before we start. By early afternoon Singapore time we are online, have read everything and have replied or started on changes. Calls, reviews and walkthroughs fit comfortably between 1 pm and 6 pm Singapore time. Changes requested in the afternoon are usually live on the staging link by the evening, so the next morning starts with progress rather than questions. For launches, migrations or urgent issues we can agree earlier start times in advance.",
+    ],
+    table: {
+      caption: "Singapore time compared with India time",
+      hide: 2,
+      head: ["Singapore (SGT)", "India (IST)", "What usually happens"],
+      rows: [
+        ["9:00 am", "6:30 am", "You send feedback or questions; we read them at the start of our day"],
+        ["11:30 am", "9:00 am", "We are online on WhatsApp, email and calls"],
+        ["1:00 pm to 6:00 pm", "10:30 am to 3:30 pm", "Best window for calls, demos and review sessions"],
+        ["6:00 pm to 9:00 pm", "3:30 pm to 6:30 pm", "Changes from the day's feedback go live on staging"],
+        ["11:30 pm", "9:00 pm", "End of our day; urgent issues handled as agreed"],
+      ],
+    },
+  },
+  {
+    id: "payments",
+    heading: "How you pay us: USD, SGD, Wise and bank wire",
+    paragraphs: [
+      "We quote Singapore clients in US dollars, using the starting prices shown on this page. If your finance team prefers Singapore dollars, we can issue the invoice in SGD at a rate agreed in the quote, so the amount is fixed before work starts. Payment is by Wise or international bank wire. Wise is usually the cheaper and faster option for transfers from Singapore bank accounts, with fees and exchange rates shown before you send.",
+      "Payments are staged against visible milestones rather than taken in full upfront. A typical structure is a part advance to start, a part when the design is approved, and the balance before launch, with the exact split written into the quote. Monthly SEO and maintenance plans are billed monthly and can be stopped with notice; the five free months of maintenance after launch cost nothing and do not lock you into a paid plan.",
+      "Third-party costs are paid by you directly to the provider: domain registration and renewal, hosting or cloud usage, Shopify or other platform subscriptions, paid themes and plugins, email services, and payment gateway fees. We list the expected running costs in the quote so your total cost of ownership is clear from the start. Keeping these accounts in your company's name is also what guarantees you own everything.",
+    ],
+  },
+  {
+    id: "cost-explained",
+    heading: "What a website costs in Singapore, and why ours starts lower",
+    paragraphs: [
+      "Singapore agency pricing reflects Singapore costs: office rent in the CBD, local salaries, account managers, sales teams and often a markup on subcontracted work. Those costs are real and some projects justify them, particularly when you need someone on site regularly. Our costs are lower because we are three engineers working remotely from India, without the office and sales layers. That is the honest reason our starting prices are lower, not a difference in the care we put into the work.",
+      "Here is what each starting price typically buys for a Singapore business, and what moves it up.",
+    ],
+    list: [
+      `<strong>From ${usd("Static")}, static website:</strong> a service firm, clinic, contractor, consultancy or small manufacturer with home, service, about, contact and project pages, up to 100 pages, using content you supply. Enquiry forms, a WhatsApp button, basic SEO tags and a sitemap are included.`,
+      `<strong>From ${usd("SEO website")}, SEO website of 700+ pages:</strong> a structured site planned around search intent, for example a home services company with many service types, or a distributor with a large catalogue of product categories, built with keyword planning, schema and internal linking.`,
+      `<strong>From ${usd("AI automation")}, AI automation:</strong> one well-defined workflow, such as enquiries from your website and social ads flowing into a CRM, assigned to the right salesperson and followed up automatically on WhatsApp.`,
+      `<strong>From ${usd("Ecommerce")}, ecommerce store:</strong> product and category pages, cart, checkout with cards and PayNow, order and inventory basics and performance tuning, for a catalogue you can supply in a structured sheet.`,
+      `<strong>From ${usd("Custom web app")}, custom web app:</strong> a focused first version of a portal, booking system, dashboard or internal tool, with user accounts, roles, an admin panel and deployment.`,
+      `<strong>From ${usd("Monthly SEO")} for SEO, from ${usd("Maintenance")} for maintenance:</strong> ongoing work with monthly reporting, with maintenance free for the first five months after launch.`,
+    ],
+    after: [
+      "The things that most often raise a quote are many unique page designs rather than reusable templates, copy we write from scratch, multiple languages, integrations with older software or ERPs, complex product variants and pricing rules, and tight deadlines. The things that keep it down are ready content and photographs, a single decision-maker, and a sensible first version that can grow later. Full scope guidance is on the <a href=\"/pricing/\">pricing page</a>.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "How to hire an offshore web developer from Singapore",
+    paragraphs: [
+      "Many Singapore companies already outsource development to the region, and many have a story about a project that went badly. Offshore work fails for predictable reasons: vague scope, the person selling is not the person building, no access to work in progress, and nobody reachable after the final payment. A short checklist avoids most of it. Use it with anyone you consider, including us.",
+    ],
+    list: [
+      "<strong>Ask who will build it, by name.</strong> Then ask whether any part will be subcontracted. If you cannot speak to the developer before signing, expect to struggle to reach them later.",
+      "<strong>Test live work, not screenshots.</strong> Open their live sites on your phone over mobile data and run them through Google PageSpeed Insights. Check whether the forms work.",
+      "<strong>Insist on a written scope.</strong> Pages, features, integrations, languages, revisions, who writes content, what SEO setup includes, and what is explicitly excluded.",
+      "<strong>Keep every account in your name.</strong> Domain, hosting, Shopify, Stripe, Google Search Console and analytics must belong to your company, with logins handed over.",
+      "<strong>Ask for a staging link from week one.</strong> You should see real progress throughout, not a big reveal at the end.",
+      "<strong>Agree the hours overlap.</strong> Ask exactly when they are online in Singapore time and how fast they respond. Get it in writing.",
+      "<strong>Stage payments against milestones.</strong> Advance, design approval, pre-launch balance is a fair structure. Full payment upfront is a warning sign.",
+      "<strong>Clarify ownership of the code.</strong> The contract should say that the code, designs and content created for you are yours once paid, and that licensed fonts, images and plugins are properly licensed in your name.",
+      "<strong>Ask about PDPA handling.</strong> Who will have access to your customer data, where it will be stored, and whether developers work with real data or test data.",
+    ],
+    after: [
+      "<strong>Red flags worth walking away from:</strong> guaranteed first-page rankings; a domain or hosting account registered in the developer's name; a quote without a scope; pirated or nulled premium themes, which often carry malware; reviews or client logos that cannot be verified; claims of a Singapore office that turns out to be a virtual address; and pressure to decide quickly because a discount is about to expire.",
+      "<strong>When a local agency is the better choice:</strong> if you need regular in-person workshops, on-site photography and video bundled with the build, or a vendor on the PSG pre-approved list for grant funding, a Singapore agency is likely to suit you better, and we will tell you so.",
+    ],
+  },
+  {
+    id: "hosting",
+    heading: "Hosting, speed and domains for Singapore websites",
+    paragraphs: [
+      "Singapore is one of Asia's main cloud and data centre hubs, which makes fast websites straightforward if they are built sensibly. AWS, Google Cloud and Microsoft Azure all operate regions in Singapore, and every major CDN has edge locations there. Static sites are served from a CDN close to your visitors; apps with databases go into a Singapore cloud region so that response times stay low and customer data stays in Singapore where you prefer that.",
+      "Speed matters because Singapore users are impatient and their alternatives are one tap away. Google's Core Web Vitals targets are a Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint within 200 milliseconds and Cumulative Layout Shift below 0.1. We meet them with static HTML where possible, correctly sized modern image formats, subset fonts, especially for Chinese character sets which can be very large, lazy-loaded media and very few third-party scripts. We test on mid-range phones with throttled connections, not only on office fibre.",
+      "For domains, a .sg or .com.sg address is a clear local signal to Singapore customers and to Google. SGNIC's eligibility rules require a Singapore presence, so the domain is registered in your company's name through an accredited registrar; we handle the DNS, email authentication records such as SPF, DKIM and DMARC, and SSL. If you also sell regionally, a .com with Singapore pages can work well. Registering both and redirecting one to the other protects your name for a small yearly cost.",
+    ],
+  },
+];
+
+const tocExtra = [
+  { id: "pricing-heading", heading: "Starting prices in USD" },
+  { id: "regions-heading", heading: "Area-by-area table" },
+  { id: "industries-heading", heading: "Industries" },
+  { id: "why-heading", heading: "Comparison" },
+  { id: "process-heading", heading: "Process and timelines" },
+  { id: "faq-heading", heading: "FAQs" },
+];
+
+// ---------- Region table ----------
+
+const regionsHeading = "Singapore area by area: what businesses need online";
+const regionsNote = "A quick reference for the patterns described in the guide above. We serve every area remotely from India; none of these are office locations.";
+const regionHead = ["Area", "Business character", "What we usually build"];
+const regionHide = [1];
+const regionTable = [
+  ["CBD, Raffles Place, Marina Bay", "Finance, law, consulting, regional headquarters", "Restrained corporate sites, partner profiles, client portals, regional country pages"],
+  ["one-north, Buona Vista", "Technology, biomedical, media, startups", "Headless CMS marketing sites, docs portals, dashboards, first product versions"],
+  ["Jurong, Tuas, Jurong Island", "Manufacturing, engineering, energy, marine", "Product catalogues, RFQ forms with drawings, certification pages, B2B reorder portals"],
+  ["Changi, Changi Business Park", "Aviation, freight, logistics, data centres", "Quote flows for forwarders, shipment tracking, multi-country service pages"],
+  ["Tampines, Bedok, Pasir Ris", "Retail, tuition, clinics, home services", "Booking and class schedules, price pages, WhatsApp contact, genuine area pages"],
+  ["Woodlands, Yishun, Sembawang", "Industrial parks, logistics, cross-border firms", "English and Malay pages, enquiry routing, clear cross-border service details"],
+  ["Paya Lebar, Punggol, heartland towns", "Growing commercial hubs, neighbourhood SMEs", "Fast mobile sites, local SEO, simple ecommerce and booking"],
+];
+
+// ---------- Industries ----------
+
+const industriesHeading = "What we build for Singapore's main industries";
+const industries = [
+  { name: "Food and beverage", need: "Menus with prices, outlets and hours, reservations, delivery links and catering enquiries", build: "Fast menu pages editable by staff, reservation or pre-order flows, catering forms, PayNow checkout for pre-orders" },
+  { name: "Retail and D2C brands", need: "Real product photos, stock availability, delivery dates, PayNow and card checkout", build: "Shopify or custom stores, delivery and self-collection options, marketplace stock sync, bundles" },
+  { name: "Education and enrichment", need: "Class schedules, levels, fees, teacher profiles and trial lessons, often for parents", build: "Class timetables, trial booking, parent notifications, English and Chinese pages" },
+  { name: "Clinics, dental and wellness", need: "Doctor credentials, treatment explanations, clinic hours and quick appointments", build: "Doctor profiles, carefully worded treatment pages, appointment requests, PDPA-aware forms" },
+  { name: "Professional services", need: "Credentials, practice areas, fees where possible and a discreet way to enquire", build: "Restrained sites with partner profiles, practice pages, secure document upload, articles" },
+  { name: "Renovation and interior design", need: "Portfolio with real projects, HDB, BTO and condo experience, clear quotation process", build: "Project galleries by home type, quotation request flows, reviews you can verify, fast image loading" },
+  { name: "Logistics and trading", need: "Lanes, service levels, capacity and quick quotes for regional shipments", build: "Quote request tools, tracking pages, product catalogues, customer portals" },
+  { name: "Technology and startups", need: "A site the team can change weekly, docs, pricing pages and trustworthy analytics", build: "Astro or Next.js with a headless CMS, docs, analytics, and often the first product version" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "Singapore agency, marketplace freelancer or BtechWaleTech";
+const comparisonNote = "Each option suits different projects. This is how they usually differ, so you can choose with open eyes.";
+const compHead = ["Typical Singapore agency", "Marketplace freelancer", "BtechWaleTech"];
+const comparison = [
+  ["Starting price", "Higher, covers CBD rent, sales and account teams", "Lowest upfront, scope often unclear", `From ${usd("Static")} for a website, itemised quote`],
+  ["Who does the work", "Often a junior team or a regional subcontractor", "One person, skills vary widely", "The three engineers you talk to"],
+  ["Meeting in person", "Yes, in Singapore", "Rarely", "No: remote only, video calls and staging link"],
+  ["Hours in Singapore time", "Office hours, weekdays", "Depends on their location", "11:30 am to 11:30 pm SGT, 7 days on WhatsApp"],
+  ["PSG grant eligibility", "Possible if a pre-approved vendor", "Usually not", "Not a pre-approved vendor"],
+  ["SEO setup", "Often a separate package", "Frequently skipped", "Titles, schema and sitemap in every build"],
+  ["After launch", "Paid support contract", "Hard to reach once paid", "5 months of maintenance free"],
+  ["Ownership of accounts and code", "Varies by contract", "Sometimes held back", "Everything in your company's name"],
+];
+
+// ---------- Process ----------
+
+const process = [
+  ["Talk", "A short WhatsApp chat or video call about your Singapore business, customers, competitors and budget. No charge."],
+  ["Scope & quote", "Pages, features, languages, integrations, timeline and an itemised USD or SGD quote in writing."],
+  ["Design", "Sitemap and wireframes first, then visual design for key pages, reviewed on your own phone."],
+  ["Build on staging", "The site is built on a private staging link you can open any time. Afternoon feedback usually lands the same evening."],
+  ["Test & SEO", "Payments, forms, PDPA notices, redirects, speed, schema and sitemap checked end to end before launch."],
+  ["Launch & support", "Domain connected, Search Console set up, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Related links ----------
+
+const relatedHeading = "IT services, websites, SEO and AI automation in other countries";
+const related = [
+  { name: "All countries we serve", href: "/countries/" },
+  { name: "IT services in Germany", href: "/germany/" },
+  { name: "IT services in the UAE", href: "/uae/" },
+  { name: "IT services in Australia", href: "/australia/" },
+  { name: "IT services in the UK", href: "/uk/" },
+  { name: "IT services in the USA", href: "/usa/" },
+  { name: "IT services in Canada", href: "/canada/" },
+  { name: "IT services in India", href: "/india/" },
+];
+
+const processHeading = "From first message to a live site";
+const quoteFoot = "All figures are starting prices in USD; your quote depends on requirements. 5 months maintenance free after launch.";
+const timelineFine = "Timelines assume content and approvals arrive on time. Payments, languages and user accounts add testing time to ecommerce and custom builds.";
+const closingHeading = "Tell us about your Singapore project";
+const closingNote = "Send a few lines on WhatsApp about your business and what you need. You get questions first, then a page plan, a timeline and an itemised quote in USD or SGD, usually within two working days. Nothing is billed until you approve the scope.";
+
+// ---------- Structured data ----------
+
+const regionsServed = ["Central Region", "East Region", "North Region", "North-East Region", "West Region"];
+const citiesServed = ["Singapore", "Downtown Core", "Jurong East", "Tampines", "Woodlands", "Changi", "Queenstown", "Punggol", "Paya Lebar"];
+const country = { "@type": "Country", name: countryName };
+
+const baseService = countryServiceSchema({ path, description: page.description, country: countryName, cities: citiesServed });
+const professionalServiceSchema = {
+  ...baseService,
+  "@id": `${url}#service`,
+  currenciesAccepted: "USD, SGD",
+  paymentAccepted: "Wise, Bank wire",
+  areaServed: [
+    country,
+    ...regionsServed.map((name) => ({ "@type": "State", name, containedInPlace: country })),
+    ...citiesServed.map((name) => ({ "@type": "City", name, containedInPlace: country })),
+  ],
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-SG",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">{heroEyebrow}</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>Email {siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          {heroOrigin}
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label={`Starting prices for ${countryName}`}>
+        <p class="quote-kicker">{countryName} starting prices</p>
+        <ul class="quote-rows">
+          {priceRows.slice(0, 5).map((r) => (
+            <li><span>{r.service}</span><strong><small>from </small>{r.usd}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">{quoteFoot}</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">{answerHeading}</h2>
+        <p id="quick-answer" class="answer-text">{quickAnswer}</p>
+        <p class="answer-more">{answerMore}</p>
+      </div>
+      <table class="snapshot">
+        <caption>{countryName} at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services</p>
+        <h2 id="services-heading">{servicesHeading}</h2>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">{pricingHeading}</h2>
+        <p class="section-note">{pricingIntro}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col" class="hide-sm">Typical timeline</th><th scope="col" class="hide-sm">What is included</th></tr>
+          </thead>
+          <tbody>
+            {priceRows.map((r) => (
+              <tr>
+                <th scope="row">{r.service}</th>
+                <td class="price">{r.usd}</td>
+                <td class="hide-sm">{r.timeline}</td>
+                <td class="hide-sm">{r.includes}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingFine} See the <a href="/pricing/">pricing page</a> for full scope guidance.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label={`Guide to web development for ${countryName}`}>
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guide.map((g) => <li><a href={`#${g.id}`}>{g.heading}</a></li>)}
+          {tocExtra.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.blocks && g.blocks.map((b) => (
+              <div class="state-block">
+                <h3>{b.name}</h3>
+                <p>{b.text}</p>
+              </div>
+            ))}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={i === g.table!.hide ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={i === g.table!.hide ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="regions-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Coverage</p>
+        <h2 id="regions-heading">{regionsHeading}</h2>
+        <p class="section-note">{regionsNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr>{regionHead.map((h, i) => <th scope="col" class={regionHide.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+          <tbody>
+            {regionTable.map((row) => (
+              <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={regionHide.includes(i) ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">{industriesHeading}</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr><th scope="col">Industry</th><th scope="col" class="hide-sm">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td class="hide-sm">{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COMPARISON ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Compare</p>
+        <h2 id="why-heading">{comparisonHeading}</h2>
+        <p class="section-note">{comparisonNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">{compHead[0]}</th>
+              <th scope="col" class="col-other">{compHead[1]}</th>
+              <th scope="col" class="col-us">{compHead[2]}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">{processHeading}</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{timelineFine}</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">{countryName} web development questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other locations</p>
+        <h2 id="related-heading">{relatedHeading}</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">{closingHeading}</h2>
+        <p class="closing-note">{closingNote}</p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); min-width: 0; }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 700; line-height: 1; overflow-wrap: anywhere; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .prose-table { margin-top: 1.5rem; }
+  .prose-table + p { margin-top: 1.5rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p, .prose .state-block + p { margin-top: 1.5rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table .col-other { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.9rem, 8vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>
