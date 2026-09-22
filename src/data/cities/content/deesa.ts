@@ -51,7 +51,7 @@ const deesa: CityContent = {
     software: "Chamber-wise stock, rent and dispatch registers for cold storages and lot-wise purchase ledgers for potato traders.",
     ai: "WhatsApp assistants that share approved rates, answer storage and appointment questions in Gujarati or Hindi and log every enquiry.",
     data: "Dashboards showing bags in storage, arrivals, dispatches, rent due and farmer balances drawn from your registers or Tally.",
-    app: "Installable web apps for loading supervisors, field buyers and hospital queues that need no app store download.",
+    app: "Android and iOS apps for loading supervisors, field buyers and hospital queues, from ₹40,000 and released on Google Play and the App Store.",
     maintenance: "Updates, backups, uptime checks and small edits, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

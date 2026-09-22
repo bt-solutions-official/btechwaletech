@@ -50,7 +50,7 @@ const bhavnagar: CityContent = {
     software: "Stock, dispatch and job-work software for re-rolling mills, polishing units and GIDC factories still working from registers.",
     ai: "WhatsApp assistants that answer stock and price questions in Gujarati or English and log every trade enquiry.",
     data: "Production, lot and sales dashboards built from Tally exports and the spreadsheets your staff already maintain.",
-    app: "Installable web apps for dealer orders, job-work tracking and field staff, used on any phone without an app store.",
+    app: "Android and iOS apps for dealer orders, job-work tracking and field staff, published on Google Play and the App Store and starting at ₹40,000.",
     maintenance: "Price and stock updates, backups and security patches, free for five months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:

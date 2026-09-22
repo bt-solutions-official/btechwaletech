@@ -51,7 +51,7 @@ const jharsuguda: CityContent = {
     software: "Job cards, trip sheets, attendance and running bills for contractors and transporters working inside large plants.",
     ai: "WhatsApp flows that capture enquiries, share rate lists and document checklists, and pass real negotiations to you.",
     data: "Trip, diesel, manpower and billing records turned into a monthly dashboard the owner can check on a phone.",
-    app: "Installable web apps for site supervisors to log work and photos without a Play Store app.",
+    app: "Android and iOS apps for site supervisors to log work and photos from plants and mines, released on Google Play and the App Store.",
     maintenance: "Five free months of updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

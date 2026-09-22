@@ -50,7 +50,7 @@ const nadiad: CityContent = {
     software: "Dispatch logs, job cards, dealer ordering and patient follow-up tools for Kheda manufacturers, distributors and clinics.",
     ai: "WhatsApp replies in Gujarati or English that share rate lists, product photos, OPD timings or admission details while you work.",
     data: "Sales, dispatch and seasonal demand figures turned into a simple dashboard, useful for snack makers facing Diwali peaks.",
-    app: "Installable web apps for sales staff, dealers or students that work in a phone browser without an app store listing.",
+    app: "Android and iPhone apps for sales staff, dealers or students, released on Google Play and the App Store, starting at ₹40,000.",
     maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

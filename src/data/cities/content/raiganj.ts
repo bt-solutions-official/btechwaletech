@@ -51,7 +51,7 @@ const raiganj: CityContent = {
     software: "Paddy purchase, milling and stock registers for rice mills and traders, and fee or admission systems for schools.",
     ai: "WhatsApp replies about rice rates, test prices, OPD days or batch timings in Bengali, with bulk buyers and urgent cases sent to you.",
     data: "Dashboards showing purchase rates, sales by variety and dues by buyer, built from the ledgers and sheets you already use.",
-    app: "Installable web apps for purchase agents, delivery staff and field workers covering Kaliaganj, Hemtabad and Itahar.",
+    app: "Android and iOS apps for purchase agents, delivery staff and field workers covering Kaliaganj, Hemtabad and Itahar, released on both stores.",
     maintenance: "Five months of free updates, backups and fixes after launch, then care from ₹8,000 a month or paid per change.",
   },
   whyUsIntro:

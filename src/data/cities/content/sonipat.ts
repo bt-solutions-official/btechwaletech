@@ -51,7 +51,7 @@ const sonipat: CityContent = {
     software: "Dispatch registers, dealer portals, warehouse inventory tools and hostel management systems for manufacturers, logistics firms and PG owners.",
     ai: "WhatsApp assistants that deal with repeat questions about rates, rooms, menus and order status in Hindi or English, handing the rest to your staff.",
     data: "Dashboards for production, dispatch, warehouse stock or occupancy that an owner can check on a phone between Delhi and the plant.",
-    app: "Progressive web apps for field sales, delivery tracking and tenant portals, installed from a link without app store listings.",
+    app: "Android and iOS apps for field sales, delivery tracking and tenant portals, one Flutter build published on both app stores from ₹40,000.",
     maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

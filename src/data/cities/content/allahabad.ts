@@ -51,7 +51,7 @@ const allahabad: CityContent = {
     software: "Admission portals, test-series platforms and case-tracking tools for institutes and legal practices that have outgrown registers.",
     ai: "WhatsApp replies and enquiry sorting for coaching centres, lodges and hotels whose phones ring nonstop in admission season and at Magh Mela.",
     data: "Admission funnels, fee collection and room occupancy reports built into simple dashboards the owner can read on a phone.",
-    app: "Installable web apps for student logins, mock tests and room bookings, without asking anyone to download from an app store.",
+    app: "Android and iOS apps for student logins, mock tests and room bookings, downloadable from Google Play and the App Store, starting at ₹40,000.",
     maintenance: "Result updates, notice uploads, backups and security fixes, free for five months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

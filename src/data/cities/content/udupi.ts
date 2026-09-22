@@ -50,7 +50,7 @@ const udupi: CityContent = {
     software: "Order, batch and dispatch systems for cashew processors, fish exporters and small manufacturers around Udupi and Brahmavar.",
     ai: "WhatsApp assistants answering room, table, appointment and product questions in Kannada, English or Hindi, with handover to a person.",
     data: "Dashboards for bookings, sales, catch landings or patient flow that owners and managers can read on a phone.",
-    app: "Installable web apps for students, members, delivery riders or field staff, without an app-store listing.",
+    app: "Android and iOS apps for students, members, delivery riders or field staff, released on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Five free months of fixes after launch, then plans from ₹8,000 a month or pay-per-change support.",
   },
   whyUsIntro:

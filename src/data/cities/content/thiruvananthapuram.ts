@@ -51,7 +51,7 @@ const thiruvananthapuram: CityContent = {
     software: "Portals, booking systems and admin dashboards for Technopark startups, training institutes and service companies outgrowing spreadsheets.",
     ai: "AI assistants on WhatsApp and the website that answer treatment, room, fee and admission questions in English or Malayalam around the clock.",
     data: "Clean reports and dashboards for hospitals, institutes and distributors, built so decisions do not depend on one person's Excel file.",
-    app: "Installable progressive web apps for patient bookings, student portals and guest check-ins that work without an app store.",
+    app: "Android and iOS apps for patient bookings, student portals and guest check-ins, built in Flutter or React Native and released on both stores.",
     maintenance: "Content changes, backups, security updates and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

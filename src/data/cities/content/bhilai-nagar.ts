@@ -50,7 +50,7 @@ const bhilai: CityContent = {
     software: "Job cards, work-order registers, admission systems and billing tools for ancillaries, contractors and institutes that still depend on files.",
     ai: "WhatsApp assistants that answer batch, fee, order-status and appointment questions in Hindi or English and hand real leads to staff.",
     data: "Dashboards for job-work status, collections, student enquiries and test scores, built from Excel, Tally and your existing forms.",
-    app: "Installable web apps for supervisors, faculty and field staff that work in the browser without an app store download.",
+    app: "Android and iOS apps for supervisors, faculty and field staff, one Flutter or React Native codebase listed on Google Play and the App Store.",
     maintenance: "Content changes, result updates, security patches and backups free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -264,7 +264,7 @@ const bhilai: CityContent = {
     {
       question: "Can you build an app for tracking contractor work and bills?",
       answer:
-        "Yes. Custom web apps start at ₹60,000 and can cover daily work reports, attendance, material issue, running bills and document expiry reminders. They run in the browser and install on phones, so supervisors do not need an app store download.",
+        "Yes. Custom web apps start at ₹60,000 and can cover daily work reports, attendance, material issue, running bills and document expiry reminders. They run in the browser, and if supervisors prefer a store app we also publish Android and iOS versions, from ₹40,000.",
     },
     {
       question: "Will I own the domain, hosting and code?",

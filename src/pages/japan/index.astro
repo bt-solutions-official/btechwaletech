@@ -1,0 +1,1257 @@
+---
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteContact } from "@data/site/site-config";
+import { pricingPlans } from "@data/pricing/plans";
+import { usd, priceRows, countryOgImage, countryServiceSchema } from "@data/countries/international";
+import { JPY_PER_USD, jpy, both, ja } from "@data/countries/japan";
+
+const path = "/japan/";
+const url = canonicalUrl(path);
+const countryName = "Japan";
+
+// ---------- FAQ (visible list and FAQPage schema share this array) ----------
+
+const faqs = [
+  {
+    question: "Are you a Japanese web development company?",
+    answer: "No. BtechWaleTech is a small team of engineers based in India, and we work with businesses in Japan remotely. We do not have an office in Japan, a Japanese kabushiki kaisha or godo kaisha, local staff or a Japanese address, and we will not pretend otherwise. What you get is direct access to the three engineers who build your project, working hours that cover the Japanese afternoon, and starting prices far below typical Japanese agency rates.",
+  },
+  {
+    question: "How much does a website cost in Japan?",
+    answer: `Published 2026 price guides from Japanese agencies put a small corporate website of five to ten pages at roughly ¥150,000 to ¥650,000, a basic Shopify store built by an agency at ¥300,000 to ¥1,000,000, and monthly SEO for a small business at ¥100,000 to ¥300,000. Our starting prices are ${both("Static")} for a static website, ${both("Ecommerce")} for an ecommerce store and ${both("Monthly SEO")} for monthly SEO. These are starting prices; the final quote depends on your requirements.`,
+  },
+  {
+    question: "Why are your prices so much lower than Japanese agencies?",
+    answer: "Because our costs are lower, not because we cut corners. Japanese agency prices cover Tokyo office rent, Japanese salaries, sales and direction teams, and often several layers of subcontracting where each company adds a margin. We are three engineers working remotely from India with no office, sales or subcontracting layers. The trade-off is real: we work in English and cannot meet you in person.",
+  },
+  {
+    question: "Can you invoice in Japanese yen?",
+    answer: `Yes, on request. Prices are published in USD, with approximate yen figures at ¥${JPY_PER_USD} per US dollar for comparison. If your finance team prefers yen, we issue the invoice in JPY at a rate fixed in the written quote, so exchange movements during the project do not change what you owe. Payment is by Wise or international bank wire.`,
+  },
+  {
+    question: "Do you charge Japanese consumption tax or issue qualified invoices?",
+    answer: "We are an India-based provider and are not registered in Japan as a qualified invoice issuer under the invoice system, so our invoices do not add Japanese consumption tax and are not qualified invoices. How cross-border services are treated for consumption tax, and whether any withholding applies, depends on the type of service and your company's position. Your tax accountant (zeirishi) should confirm the treatment; we are engineers, not tax advisers.",
+  },
+  {
+    question: "Do you work in Japanese?",
+    answer: "We work in English. Our team does not write natural Japanese, so we never write your Japanese copy ourselves or run it through machine translation and call it finished. We build the Japanese site properly, with the right fonts, line breaking, forms and structure, and the Japanese text is written or reviewed by you, a bilingual colleague or a translator you trust. Many clients in Japan simply add one bilingual team member to our chat.",
+  },
+  {
+    question: "Can you set up konbini payments, JCB and PayPay on my online store?",
+    answer: "Yes. Japanese shoppers expect credit cards including JCB, convenience store (konbini) payment, bank transfer and often code payments such as PayPay, cash on delivery or deferred payment. Stripe supports cards, konbini and bank transfer for Japanese businesses, and Japanese providers such as KOMOJU, GMO Payment Gateway, SB Payment Service and PAY.JP cover further methods. The merchant account is opened and screened in your company's name.",
+  },
+  {
+    question: "Do you build Shopify stores for Japan?",
+    answer: "Yes. Shopify suits most small and mid-sized stores selling in Japan: hosting, security and checkout are managed, the admin is available in Japanese, and there are apps for delivery date selection, noshi gift wrapping and Japanese payment methods. We handle theme work, collections, shipping and tax settings, the Specified Commercial Transactions Act page and SEO. For unusual B2B pricing or complex catalogues we may recommend a custom build and explain why.",
+  },
+  {
+    question: "Will my website comply with the APPI?",
+    answer: "We build with the Act on the Protection of Personal Information in mind: clear purposes of use, only the fields you need, a privacy policy, access-controlled storage and minimal staff access. Note that if we, as a team in India, can access your customers' personal data, that counts as providing data to a third party in a foreign country, which needs consent or an equivalent protection system. We keep our access to a minimum and sign data-handling terms, but please have your own adviser review this.",
+  },
+  {
+    question: "What time are you available in Japan time?",
+    answer: "Japan is three and a half hours ahead of India, and neither country uses daylight saving. Our working day of 9 am to 9 pm IST runs from 12:30 pm to 12:30 am Japan time, seven days a week on WhatsApp. That covers the whole Japanese afternoon for calls, and morning calls around 10 am JST can be arranged in advance.",
+  },
+  {
+    question: "Can you integrate LINE Official Account with our website?",
+    answer: `Yes. With the LINE Messaging API we can send booking confirmations and reminders, route enquiries, add rich menus, link LINE Login to member accounts and build small LIFF apps such as membership cards that open inside LINE. Since LINE Notify ended in 2025, internal alerts now go through the Messaging API, Slack, Chatwork or Teams. Automation work starts from ${both("AI automation")}.`,
+  },
+  {
+    question: "Can our project be covered by an IT subsidy?",
+    answer: "Probably not. Japanese programmes for IT adoption generally require registered support providers and pre-registered tools, and we are not registered under them. Some small business subsidies can cover website costs under strict conditions, but whether an overseas provider qualifies depends on the programme. Check with your local chamber of commerce or the programme office before choosing any vendor, including us.",
+  },
+  {
+    question: "Can I register a .jp or .co.jp domain through you?",
+    answer: "A .jp domain requires a postal address in Japan, and .co.jp is limited to companies registered in Japan, one per company. The domain should therefore be registered in your company's name through a registrar, which your business can do and we cannot. We guide the registration, then connect DNS, email authentication records and SSL. You keep full ownership.",
+  },
+  {
+    question: "Where will my website be hosted?",
+    answer: "For most sites in Japan we serve static pages from a global CDN with Tokyo and Osaka edge locations, so pages load quickly everywhere in Japan. Apps with databases usually go to a Tokyo cloud region such as AWS ap-northeast-1 or Google Cloud asia-northeast1, with backups in the Osaka region for disaster recovery. If you already use a Japanese host such as Xserver or Sakura Internet, we can work with it.",
+  },
+  {
+    question: "How long does a project take?",
+    answer: "A static website usually takes one to two weeks, a 700+ page SEO website three to five weeks, AI automation two to four weeks, an ecommerce store four to eight weeks and a custom web app six to twelve weeks. Japanese translation and approvals from several people inside your company are the most common reasons for extra time, so we plan for them in the schedule.",
+  },
+  {
+    question: "Do you do SEO for Google and Yahoo! JAPAN?",
+    answer: `Yes. Yahoo! JAPAN search uses Google's search technology, so good Google SEO covers both. Monthly SEO starts from ${both("Monthly SEO")} and covers technical fixes, on-page work, content structure, local search (often called MEO in Japan) and monthly Search Console reports. Japanese content should be written by a native writer. Nobody can guarantee rankings, and we do not.`,
+  },
+  {
+    question: "Can you build multilingual websites for inbound tourists?",
+    answer: "Yes. Inbound sites usually need Japanese plus English, Simplified Chinese, Traditional Chinese for Taiwan and Hong Kong, and Korean. We build separate URLs per language, a language switcher, hreflang tags and online booking that accepts overseas cards. The translations should come from native translators, and we connect your existing booking engine rather than rebuilding one.",
+  },
+  {
+    question: "Who owns the code, domain and hosting after launch?",
+    answer: "You do. The domain, hosting account, payment accounts and source code are in your name or handed over to you at launch, together with every login. We do not keep a site hostage for renewals or support contracts.",
+  },
+  {
+    question: "What happens after launch?",
+    answer: `After hosting goes live you get five months of maintenance included free: content updates, bug fixes, security updates, backups and speed checks. After that you can continue from ${both("Maintenance")}, or contact us only when something needs changing.`,
+  },
+  {
+    question: "Can we meet in person in Japan?",
+    answer: "Not as a routine part of a project. We are a remote team in India and work over video calls, WhatsApp and email, with a private staging link you can open at any time. Everything agreed is written down, which also makes it easy for colleagues to review decisions in translation.",
+  },
+  {
+    question: "How do we get started?",
+    answer: "Send a WhatsApp message or email in English with what your business does, what you want built and a few sites you like. We reply with questions, then a written scope, timeline and quote in USD or JPY, usually within two working days. Work starts only after you approve the scope.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Web Development Company Japan | Tokyo Web Developers",
+  description: `Affordable web development for Japan: websites, Shopify with konbini and JCB, SEO and apps from a remote team in India. Websites from ${usd("Static")} (about ${jpy("Static")}).`,
+  canonicalPath: path,
+  h1: "Web development company for Japan: Tokyo, Osaka and all 47 prefectures",
+  intro: "BtechWaleTech is a small team of engineers based in India. We build websites, Android and iOS apps, ecommerce stores, SEO systems, web apps and AI automations for businesses in Japan, working remotely in English with a three-and-a-half-hour time difference. Our starting prices sit far below typical Japanese agency rates, and you talk directly to the people who write your code.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Japan", href: path },
+  ]),
+  locale: "en_JP",
+  ogImage: countryOgImage("BtechWaleTech, a remote web development and SEO team in India serving businesses in Japan"),
+  keywords: [
+    "web development company Japan",
+    "web developers Tokyo",
+    "website design Japan",
+    "website development Osaka",
+    "web design agency Tokyo",
+    "affordable website Japan",
+    "website cost Japan",
+    "offshore development Japan",
+    "offshore web development India Japan",
+    "ecommerce website Japan",
+    "Shopify developer Japan",
+    "konbini payment integration",
+    "SEO services Japan",
+    "Japanese SEO",
+    "MEO Japan",
+    "English website for Japanese company",
+    "multilingual website Japan",
+    "inbound tourism website Japan",
+    "LINE Official Account integration",
+    "custom software development Japan",
+    "app development Japan",
+    "AI automation Japan",
+    "APPI compliant website",
+    "website maintenance Japan",
+    "web design Yokohama",
+    "web developer Nagoya",
+    "website design Fukuoka",
+    "web design Sapporo",
+    "web design Kyoto",
+    "ホームページ制作 格安",
+    "オフショア開発 インド",
+  ],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Japan · Remote team in India";
+const facts = [
+  ["Team", "Engineers based in India, remote delivery"],
+  ["Starting price", `Websites from ${usd("Static")}, about ${jpy("Static")}`],
+  ["Time difference", "Japan is 3.5 hours ahead of IST"],
+  ["Billing", "USD, or JPY on request, via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+  ["Coverage", "All 47 prefectures, Hokkaido to Okinawa"],
+];
+const pills = ["Business websites", "Shopify with konbini and JCB", "SEO for Google and Yahoo! JAPAN", "English, Chinese and Korean sites", "LINE and kintone automation", "Custom web apps"];
+const heroOrigin = "Team based in India · Serving Japan remotely · No Japan office";
+
+const stats = [
+  { value: "3", label: "Engineers you talk to directly" },
+  { value: usd("Static"), label: `Websites starting price, about ${jpy("Static")}` },
+  { value: "5", label: "Months maintenance free" },
+  { value: "3.5 h", label: "Japan ahead of India" },
+];
+
+const answerHeading = "Looking for an affordable web development company for your business in Japan?";
+const quickAnswer = `BtechWaleTech is a three-engineer team in India that builds websites, Shopify and custom stores, SEO systems, apps, web apps and automations for businesses in Japan, fully remotely and in English. Websites start from ${both("Static")}, ecommerce from ${both("Ecommerce")} and custom software from ${both("Custom web app")}, against typical Japanese agency prices of ¥150,000 and up for a small corporate site. You get a written quote, a private staging link and five months of free maintenance after launch.`;
+const answerMore = "Because India is three and a half hours behind Japan, our working day covers your entire afternoon and evening. You send feedback in the morning, we reply after lunch Japan time, and changes are usually on the staging link before the end of your day.";
+const snapshot = [
+  { label: "Who we are", value: "Three engineers in India: full stack, AI and cloud, and project delivery" },
+  { label: "How we work", value: "Remotely in English over WhatsApp, video calls and email, with a private staging link" },
+  { label: "What we build", value: "Websites, ecommerce, SEO, apps, custom software, web apps, AI automation, maintenance" },
+  { label: "Payments we set up", value: "Cards including JCB, konbini, bank transfer, PayPay and deferred payment via Japanese providers" },
+  { label: "Languages", value: "English in-house; Japanese, Chinese and Korean structure with your reviewed text" },
+  { label: "Starting prices", value: `From ${both("Static")} for a website; every figure is a starting price` },
+  { label: "Our hours in JST", value: "12:30 pm to 12:30 am, seven days a week on WhatsApp" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "Everything a business in Japan needs online, from one small team";
+const services = [
+  { name: "Website design & development", note: "Fast, mobile-first corporate sites, recruitment sites and landing pages on Astro, Next.js or WordPress, built for Japan's phone-first buyers.", href: "/japan/website-developer/", size: "lg" },
+  { name: "SEO for Google and Yahoo! JAPAN", note: "Technical SEO, content structure and MEO local search, with Japanese keyword research across kanji, kana and English terms.", href: "/japan/seo-services/", size: "md" },
+  { name: "Ecommerce stores", note: "Shopify, WooCommerce or custom stores with JCB, konbini, bank transfer and PayPay, delivery time slots and noshi options.", size: "sm" },
+  { name: "Custom software", note: "Booking systems, member portals, quotation tools and dashboards for work that has outgrown spreadsheets and kintone.", href: "/japan/software-development/", size: "sm" },
+  { name: "Android & iOS apps", note: `One Flutter or React Native app for iPhone and Android, published on the App Store and Google Play, from ${both("Android")}.`, href: "/japan/android-ios-developer/", size: "sm" },
+  { name: "LINE & AI automation", note: "LINE Official Account, kintone, freee, Chatwork and Google Workspace flows, plus AI-OCR for FAX and PDF orders.", href: "/japan/ai-automation-engineer/", size: "sm" },
+  { name: "Multilingual & inbound sites", note: "Japanese, English, Chinese and Korean versions with hreflang, correct fonts and overseas-card booking.", size: "sm" },
+  { name: "Maintenance & support", note: "Updates, fixes, backups and speed checks, with 5 months free after launch.", size: "sm" },
+] as const;
+
+// ---------- Pricing ----------
+
+const pricingHeading = "Website, app and software prices for businesses in Japan";
+const pricingIntro = `Prices are published in US dollars, with an approximate yen figure at ¥${JPY_PER_USD} per US dollar so you can compare them with Japanese quotes. They are starting prices for a clearly scoped first version; the final quote depends on your requirements. JPY invoicing via Wise or bank wire is available on request.`;
+const pricingFine = `All figures are starting prices, not fixed quotes. Yen amounts are approximate at ¥${JPY_PER_USD} per US dollar; the written quote fixes the real amount in USD or JPY. Third-party costs such as domains, hosting, Shopify plans, paid apps, translation and payment fees are billed by those providers directly to you. Our invoices do not include Japanese consumption tax.`;
+
+// ---------- Regions: one source for the guide blocks, the region table and schema ----------
+
+const japanRegions = [
+  {
+    name: "Hokkaido",
+    prefectures: ["Hokkaido"],
+    character: "Tourism, food and dairy, seafood, ski resorts, semiconductors around Chitose",
+    build: "Multilingual booking sites, food ecommerce with cool delivery, tour and ski school booking",
+    text: "Hokkaido is Japan's largest prefecture and its own region. Sapporo is the commercial centre, with retail, IT companies and a strong food and tourism economy. Niseko, Furano and Rusutsu draw skiers from Australia, Asia and further afield, which means many accommodation providers, ski schools and property managers need English and Chinese sites with booking months ahead of the season. Hakodate, Otaru and Asahikawa combine tourism with food producers who sell seafood, dairy and sweets across Japan by refrigerated delivery. Around Chitose, the Rapidus semiconductor project is bringing construction, engineering and supplier activity. Typical builds are multilingual accommodation and activity sites, food stores with cool delivery options and gift wrapping, and English pages for suppliers working with international partners.",
+  },
+  {
+    name: "Tohoku",
+    prefectures: ["Aomori", "Iwate", "Miyagi", "Akita", "Yamagata", "Fukushima"],
+    character: "Agriculture, sake, crafts, manufacturing, universities, regional tourism",
+    build: "Producer ecommerce, ryokan and onsen sites, B2B catalogues, recruitment sites",
+    text: "Tohoku covers six prefectures in northern Honshu. Sendai in Miyagi is the regional hub, with Tohoku University, regional offices of national companies and a growing startup scene. The region is known for rice, sake, apples from Aomori, cherries from Yamagata, peaches from Fukushima and crafts such as Nambu ironware from Iwate. Festivals like Aomori's Nebuta and Akita's Kanto bring visitors each summer, and hot spring towns and ski areas such as Zao draw inbound tourists. Fukushima's coastal areas host new energy and robotics projects. Many Tohoku businesses are small producers and manufacturers facing a shrinking local population, so their best growth often comes from selling directly to customers in Tokyo and abroad. We build producer stores with seasonal pre-orders, ryokan sites with direct booking, B2B catalogues for parts makers, and recruitment sites that help attract staff from outside the region.",
+  },
+  {
+    name: "Kanto",
+    prefectures: ["Ibaraki", "Tochigi", "Gunma", "Saitama", "Chiba", "Tokyo", "Kanagawa"],
+    character: "Headquarters, finance, technology, foreign companies, logistics, research",
+    build: "Corporate and recruitment sites, SaaS marketing sites, portals, English sites for foreign firms",
+    text: "Kanto is Japan's economic core. Greater Tokyo, including Kanagawa, Saitama and Chiba, is home to roughly a third of the country's population and most corporate headquarters. Tokyo's Marunouchi and Otemachi hold finance and major corporations, Shibuya is the centre of the startup and technology scene, and Roppongi, Toranomon and Akasaka host many foreign-owned companies. Yokohama and Kawasaki add research, electronics and port logistics; Chiba has Narita Airport and the Makuhari business district; Saitama is a commuter and logistics hub. Beyond the metropolis, Ibaraki has Tsukuba Science City and manufacturing, Tochigi has Nikko's tourism and strawberry farming, and Gunma has automotive manufacturing and hot spring resorts such as Kusatsu. Kanto clients typically need corporate sites that pass procurement checks, recruitment sites, SaaS marketing sites the team can edit weekly, English sites for Japanese subsidiaries of overseas companies, and portals or dashboards for internal teams.",
+  },
+  {
+    name: "Chubu",
+    prefectures: ["Niigata", "Toyama", "Ishikawa", "Fukui", "Yamanashi", "Nagano", "Gifu", "Shizuoka", "Aichi"],
+    character: "Automotive and precision manufacturing, crafts, tea, wine, ski and mountain tourism",
+    build: "Parts catalogues with RFQ forms, English export sites, craft ecommerce, ski resort booking",
+    text: "Chubu is Japan's manufacturing heartland. Aichi, with Nagoya and Toyota City, anchors the automotive supply chain, and thousands of small and mid-sized suppliers across Aichi, Gifu and Shizuoka make parts, tooling and machinery. Hamamatsu is known for motorcycles, musical instruments and photonics, and Shizuoka for green tea. On the Sea of Japan side, Niigata produces rice and sake and Tsubame-Sanjo is famous for metalwork and cutlery; Toyama has a long pharmaceutical tradition; Ishikawa's Kanazawa is a centre for crafts such as gold leaf and Kutani porcelain; and Fukui's Sabae makes most of Japan's eyeglass frames. Nagano and Yamanashi combine precision manufacturing with mountain tourism, wine and ski resorts such as Hakuba. Here we build searchable parts catalogues with quotation forms that accept drawings, English sites for manufacturers seeking overseas buyers, craft and food stores that sell nationally and abroad, and multilingual booking for mountain resorts.",
+  },
+  {
+    name: "Kansai",
+    prefectures: ["Mie", "Shiga", "Kyoto", "Osaka", "Hyogo", "Nara", "Wakayama"],
+    character: "Commerce and wholesale, pharmaceuticals, tourism, electronics, port logistics",
+    build: "Ecommerce, inbound tourism sites, wholesale B2B portals, corporate and recruitment sites",
+    text: "Kansai, also called Kinki, is Japan's second economic centre. Osaka is a merchant city with trading and wholesale firms, the pharmaceutical district around Doshomachi, and major retail and entertainment areas in Umeda and Namba; the Expo 2025 site at Yumeshima is also planned as the location of an integrated resort. Kyoto combines global companies in electronics and games with temples, ryokan, traditional crafts and heavy inbound tourism. Kobe in Hyogo has a major port, a biomedical cluster on Port Island, fashion and food brands, and Himeji Castle nearby. Nara and Wakayama are known for historic sites, the Kumano Kodo pilgrimage routes and Koyasan, while Mie has Ise Shrine and industry around Yokkaichi, and Shiga surrounds Lake Biwa with manufacturing plants. Typical Kansai projects include ecommerce for food and lifestyle brands, multilingual sites for tourism and experiences, B2B ordering portals for wholesalers, and corporate and recruitment sites for manufacturers.",
+  },
+  {
+    name: "Chugoku",
+    prefectures: ["Tottori", "Shimane", "Okayama", "Hiroshima", "Yamaguchi"],
+    character: "Automotive, shipbuilding, chemicals, denim, fruit, heritage tourism",
+    build: "Manufacturer sites, denim and food ecommerce, heritage tourism sites, logistics quote tools",
+    text: "Chugoku stretches across western Honshu. Hiroshima is the largest city, with automotive manufacturing, shipbuilding, the Peace Memorial and Miyajima drawing international visitors. Okayama is a transport hub between Kansai, Chugoku and Shikoku, known for fruit such as white peaches and Muscat grapes and for the denim industry around Kurashiki's Kojima. Yamaguchi has chemical and industrial complexes and Shimonoseki's fugu trade. Tottori and Shimane on the Sea of Japan side are the least populated prefectures, known for the Tottori Sand Dunes, Izumo Taisha and Matsue Castle. We usually build English and Japanese sites for manufacturers and shipbuilding suppliers, ecommerce for denim, fruit and seafood producers, and multilingual tourism sites for heritage destinations that want more direct bookings.",
+  },
+  {
+    name: "Shikoku",
+    prefectures: ["Tokushima", "Kagawa", "Ehime", "Kochi"],
+    character: "Towels, citrus, udon, shipbuilding, art islands, pilgrimage tourism",
+    build: "Producer and brand ecommerce, pilgrimage and art tourism sites, B2B export pages",
+    text: "Shikoku is the smallest of Japan's four main islands. Kagawa is famous for sanuki udon and, through Naoshima and the Setouchi art festival, contemporary art tourism. Ehime's Imabari produces most of Japan's towels and has a large shipbuilding industry, and the prefecture is known for mikan citrus and Dogo Onsen. Tokushima has the Awa Odori festival and LED manufacturing, and Kochi is known for bonito, yuzu and its outdoor scenery. The 88-temple Shikoku pilgrimage attracts walkers from Japan and abroad. Our Shikoku work is mostly brand and producer stores, such as towels, citrus and food gifts shipped nationwide, multilingual sites for pilgrimage lodging and art tourism, and English pages for exporters.",
+  },
+  {
+    name: "Kyushu and Okinawa",
+    prefectures: ["Fukuoka", "Saga", "Nagasaki", "Kumamoto", "Oita", "Miyazaki", "Kagoshima", "Okinawa"],
+    character: "Startups, semiconductors, ceramics, hot springs, food, resort tourism",
+    build: "Startup products, English supplier sites, onsen and resort booking, food ecommerce",
+    text: "Kyushu is often called Silicon Island because of its semiconductor industry, which has grown further since TSMC's Japanese subsidiary opened a fab in Kikuyo, Kumamoto. Fukuoka is one of Japan's most startup-friendly cities, with support programmes for founders and short flights to Seoul, Busan, Shanghai and Taipei; Kitakyushu has steel, robotics and environmental technology. Saga's Arita and Imari are famous for porcelain, Nagasaki for shipbuilding and international history, Oita for the hot springs of Beppu and Yufuin, Miyazaki for beef and mangoes, and Kagoshima for Sakurajima, shochu and black pork. Okinawa is a resort destination with its own culture and a growing IT and business services sector. Here we build first versions of startup products, English pages for semiconductor suppliers working with overseas customers, direct booking for onsen and resort accommodation, and food and craft stores that sell across Japan and abroad.",
+  },
+];
+const prefectureCount = japanRegions.reduce((n, r) => n + r.prefectures.length, 0);
+
+// ---------- Major cities ----------
+
+const cityRows = [
+  ["Tokyo (23 wards)", "Tokyo", "Finance in Marunouchi and Otemachi, startups in Shibuya, foreign companies in Roppongi and Toranomon, electronics in Akihabara"],
+  ["Yokohama", "Kanagawa", "Headquarters and R&D in Minato Mirai, port logistics, Chinatown and waterfront tourism"],
+  ["Osaka", "Osaka", "Trading and wholesale in Semba, pharmaceuticals in Doshomachi, retail in Umeda and Namba"],
+  ["Nagoya", "Aichi", "Automotive supply chain, machinery, Sakae and Meieki commercial districts"],
+  ["Sapporo", "Hokkaido", "Retail, IT companies, food brands and year-round tourism"],
+  ["Fukuoka", "Fukuoka", "Startups, Tenjin and Hakata commerce, gateway to Korea, Taiwan and China"],
+  ["Kobe", "Hyogo", "Port, biomedical cluster on Port Island, fashion, food and confectionery brands"],
+  ["Kawasaki", "Kanagawa", "Electronics and IT companies, research labs, waterfront industry"],
+  ["Kyoto", "Kyoto", "Electronics and games companies, crafts, ryokan, temples and inbound tourism"],
+  ["Saitama", "Saitama", "Commuter city, Omiya rail hub, logistics and retail"],
+  ["Hiroshima", "Hiroshima", "Automotive, shipbuilding suppliers, Peace Memorial and Miyajima tourism"],
+  ["Sendai", "Miyagi", "Tohoku's business hub, universities, regional offices and startups"],
+  ["Chiba", "Chiba", "Makuhari business district and convention centre, logistics near Narita"],
+  ["Kitakyushu", "Fukuoka", "Steel, robotics, sanitary ware and environmental technology"],
+  ["Sakai", "Osaka", "Traditional knives, bicycle components, UNESCO-listed kofun burial mounds"],
+  ["Niigata", "Niigata", "Rice and sake, Sea of Japan port, food processing"],
+  ["Hamamatsu", "Shizuoka", "Motorcycles, cars, musical instruments and photonics"],
+  ["Kumamoto", "Kumamoto", "Semiconductor supply chain around Kikuyo, agriculture, Kumamoto Castle"],
+  ["Sagamihara", "Kanagawa", "Manufacturing, space research campus, planned maglev station"],
+  ["Shizuoka", "Shizuoka", "Green tea, plastic model makers, views of Mount Fuji"],
+  ["Okayama", "Okayama", "Transport hub for Chugoku and Shikoku, fruit, nearby denim industry"],
+];
+
+// ---------- Long-form guide (paragraph strings may contain inline HTML) ----------
+
+interface Article {
+  id: string;
+  heading: string;
+  paragraphs: string[];
+  list?: string[];
+  after?: string[];
+  blocks?: { name: string; text: string }[];
+  table?: { caption: string; head: string[]; rows: string[][]; hide?: number };
+}
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are, and who we work best with in Japan",
+    paragraphs: [
+      "BtechWaleTech is three engineers based in India. Ankur Kumar is a full stack developer who builds the front ends, back ends and integrations. Santosh Sharma works on AI and machine learning, AWS, data, technical SEO and deployment. Vedansh Shrivastava runs project delivery and works on data science, AI and automation. When a client in Japan messages us, one of those three people replies, and the same people write the code. There is no director or account manager in between and no hand-off to a subcontractor you never meet.",
+      `We are not a Japanese company. We do not have an office in Japan, a registered ${ja("株式会社")} or ${ja("合同会社")}, local staff or a Google Business Profile with a Japanese address. Some offshore providers blur this with a virtual office in Shibuya or a rental desk in Minato; we would rather be plain about it. You are hiring a remote team in India, and the rest of this page explains how that works in practice, what it costs compared with Japanese agencies, and where it helps or does not help your business.`,
+      "We also work in English, and that matters more in Japan than in most markets. Our team does not write natural Japanese and cannot run a meeting in keigo. We are the right fit for foreign-owned companies and their Japanese subsidiaries; international startups in Tokyo and Fukuoka; hotels, ryokan, tour operators and experience providers that need English, Chinese and Korean sites for inbound visitors; Japanese manufacturers and food producers selling abroad who need English sites and cross-border stores; bilingual professionals such as visa specialists, international real estate agents, English schools and international schools; and Japanese companies whose teams already work in English with overseas partners.",
+      "If your team works only in Japanese, the project can still work well with one bilingual colleague or a translator in the loop. We write short, plain English messages that translation tools handle reliably, put every decision in writing, and use screenshots and staging links rather than long explanations. The Japanese text on your site is written or reviewed by a native speaker, never by us.",
+      "The practical side is simple. A first conversation happens on WhatsApp, email or a video call. We write down what you need as a scope document, similar to a short requirements definition: pages, features, integrations, languages, who supplies content, what is excluded, and a timeline. You approve it before anything is billed. During the build you get a private staging link that you can open on your own phone at any time, so you review real pages rather than static mock-ups. Small changes usually land the same day because our working hours cover your afternoon and evening.",
+      `Japan already relies heavily on outside engineering help. The Ministry of Economy, Trade and Industry estimated that the country could be short of up to 790,000 IT workers by 2030, and offshore development (${ja("オフショア開発")}) to Vietnam, the Philippines, China and India is common. Where remote delivery is weaker, we say so: we cannot visit your shop to photograph products, attend a meeting in your office or sit with your staff while they learn a new admin panel. For photography we recommend a local photographer and tell you exactly which shots and sizes we need. For training we record short screen videos your staff can keep and replay.`,
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "Our services for businesses in Japan, in detail",
+    paragraphs: [
+      `<strong>Web development.</strong> Corporate websites, recruitment sites, landing pages and content sites built on modern frameworks such as Astro, Next.js and React, or on WordPress, which is the most widely used CMS in Japan, when your team wants to edit pages without a developer. For most service businesses we recommend a static site: it loads quickly on phones, costs little to host and has very little to hack. The static plan covers up to 100 pages, responsive layouts, enquiry forms routed to email and chat, and deployment. Details are on the <a href="/services/web-development/">web development service page</a>.`,
+      `<strong>Website design.</strong> Japanese websites have their own conventions. B2B buyers expect a company profile page (${ja("会社概要")}) with capital, founding date, representative and address, a message from the president (${ja("代表挨拶")}), a company history, access directions from the nearest station and dated news posts. Consumer sites are often denser with information than Western sites, with banners, prices and campaign details visible at once. We agree the page structure first, design the phone layout before the desktop one, and balance that expected density with fast loading and clear hierarchy.`,
+      `<strong>Recruitment sites.</strong> With a shrinking working-age population, hiring is one of the biggest problems for Japanese companies, and a dedicated recruitment site (${ja("採用サイト")}) is often worth more than a redesign of the corporate site. We build job listings, staff interviews, workplace photos, application forms and job posting structured data so openings can appear in Google's job search features.`,
+      "<strong>Ecommerce.</strong> Stores on Shopify, WooCommerce or a custom stack with cards including JCB, konbini payment, bank transfer, PayPay and deferred payment, delivery date and time-slot selection, gift wrapping and tax-inclusive prices. The ecommerce section below covers payments, marketplaces and logistics in detail.",
+      `<strong>SEO.</strong> Search engine optimisation for Google and Yahoo! JAPAN: technical health, on-page work, content structure and local search. For B2B firms we build service and industry pages that answer procurement questions; for consumer businesses we focus on area and category searches. Our general approach is on the <a href="/services/seo-services/">SEO services page</a>.`,
+      `<strong>Apps.</strong> iPhone has a larger share of the smartphone market in Japan than in most countries, so apps must feel right on iOS first while still working well on Android. We build one Flutter or React Native app for both, from ${both("Android")}, and publish it to the App Store and Google Play. More detail is on the <a href="/it-services/android-ios-app/">Android and iOS app page</a>.`,
+      "<strong>Custom software and web apps.</strong> Booking and scheduling systems, member portals, quotation tools, inventory dashboards and admin panels. Many Japanese SMEs run on Excel files and kintone apps that worked well until the business grew; we build focused systems that replace the fragile parts and keep what works. Many requests for a mobile app are better served by a progressive web app that installs from the browser and updates without app store review.",
+      "<strong>AI automation.</strong> Automations that remove repetitive admin: enquiries flowing into kintone or a CRM, LINE confirmations for bookings, invoices moving into freee or Money Forward, and AI-OCR that turns FAX and PDF orders into structured data. We map the current process before automating it, because automating a confused process just makes the confusion faster.",
+      `<strong>Maintenance.</strong> After hosting goes live you get five months of maintenance included: content and price updates, bug fixes, security and dependency updates, backups, and uptime and speed checks. After that, maintenance continues from ${both("Maintenance")}, or you contact us only when something needs changing.`,
+    ],
+  },
+  {
+    id: "cost-japan",
+    heading: "What websites, apps and SEO cost in Japan in 2026, and what we charge",
+    paragraphs: [
+      `Before setting out our prices for Japan, we checked what Japanese companies actually pay. The ranges below come from 2026 price guides published by Japanese web agencies and comparison sites such as ${ja("Web幹事")}, ${ja("システム幹事")} and ${ja("発注ラウンジ")}, which summarise quotes from Japanese production companies. They are typical market ranges, not quotes from any single company, and every project varies with scope. Our figures are starting prices converted at ¥${JPY_PER_USD} per US dollar for comparison.`,
+    ],
+    table: {
+      caption: "Typical Japanese market prices in 2026 compared with BtechWaleTech starting prices",
+      head: ["Service", "Typical price in Japan (2026)", "BtechWaleTech starts from"],
+      rows: [
+        ["Small corporate website", "¥150,000 to ¥650,000 for 5 to 10 pages; about ¥300,000 for a 10-page template site", both("Static")],
+        ["Large SEO website", "¥3,000,000 and up for 60+ pages; over ¥10,000,000 for fully custom large sites", both("SEO website")],
+        ["Ecommerce store", "¥300,000 to ¥1,000,000 for a basic Shopify build by an agency", both("Ecommerce")],
+        ["Android & iOS app", "¥1,000,000 to ¥2,000,000 per platform; roughly double for both", both("Android")],
+        ["Custom web app", "¥500,000 to ¥2,000,000 for a small web system; ¥3,000,000+ for booking or member systems", both("Custom web app")],
+        ["AI automation", "¥200,000 to ¥1,000,000 per automation; AI chatbots ¥150,000 to ¥800,000", both("AI automation")],
+        ["Monthly SEO", "¥100,000 to ¥300,000 a month for small and mid-sized businesses", both("Monthly SEO")],
+        ["Maintenance", "¥20,000 to ¥50,000 a month when content updates are included", both("Maintenance")],
+      ],
+    },
+    after: [
+      "<strong>Why the gap is so large.</strong> Japanese agency prices reflect Japanese costs: office rent in Tokyo and Osaka, salaries for directors, designers, engineers and sales staff, and in the wider IT industry a multi-layer subcontracting structure where a prime contractor passes work to second and third-tier companies, each adding a margin. Those costs are real, and some projects justify them, especially when you need in-person workshops or a vendor who writes Japanese copy. Our costs are lower because we are three engineers working remotely from India, without office, sales or subcontracting layers. That is the honest reason our starting prices are lower, not a difference in the care we put into the work.",
+      `<strong>The exchange rate.</strong> We price in US dollars. The yen has been weak against the dollar, moving between roughly ¥153 and ¥157 per US dollar in September 2026, which makes any dollar price more expensive in yen than it was a few years ago. Even so, our starting prices sit well below the Japanese ranges above. If you prefer certainty in yen, we fix a JPY amount in the written quote.`,
+      `<strong>Maintenance is the closest comparison.</strong> Server-only plans in Japan can cost as little as ¥5,000 a month, but they do not include content updates or fixes. Our plan from ${both("Maintenance")} includes content updates, bug fixes, security updates, backups and speed checks, which Japanese agencies typically price at ¥20,000 to ¥50,000 a month, and the first five months after launch are free.`,
+    ],
+  },
+  {
+    id: "cost-breakdown",
+    heading: "What each starting price buys for a business in Japan",
+    paragraphs: [
+      "A starting price only means something if you know what it covers. Here is what each figure typically buys for a business in Japan, and what moves it up.",
+    ],
+    list: [
+      `<strong>From ${both("Static")}, static website:</strong> a service firm, clinic, manufacturer, school or consultancy with home, services, company profile, access, news and contact pages, up to 100 pages, using content you supply. Enquiry forms with postal code address lookup, basic SEO tags and a sitemap are included.`,
+      `<strong>From ${both("SEO website")}, SEO website of 700+ pages:</strong> a structured site planned around search intent, for example a real estate company with pages for many stations and property types, or a distributor with a large catalogue of product categories, built with keyword planning, schema and internal linking.`,
+      `<strong>From ${both("AI automation")}, AI automation:</strong> one well-defined workflow, such as enquiries from your website flowing into kintone, assigned to the right salesperson and followed up automatically on LINE.`,
+      `<strong>From ${both("Ecommerce")}, ecommerce store:</strong> product and category pages, cart, checkout with cards and konbini payment, delivery time slots, order and inventory basics and performance tuning, for a catalogue you can supply in a structured sheet.`,
+      `<strong>From ${both("Android")}, Android and iOS app:</strong> one app for iPhone and Android with login, forms, push notifications and an admin panel, published to both stores.`,
+      `<strong>From ${both("Custom web app")}, custom web app:</strong> a focused first version of a booking system, member portal, dashboard or internal tool, with user accounts, roles, an admin panel and deployment.`,
+      `<strong>From ${both("Monthly SEO")} for SEO, from ${both("Maintenance")} for maintenance:</strong> ongoing work with monthly reporting, with maintenance free for the first five months after launch.`,
+    ],
+    after: [
+      "The things that most often raise a quote are many unique page designs rather than reusable templates, several languages, integrations with older in-house systems, complex product variants and pricing rules, and tight deadlines. The things that keep it down are ready content and photographs, one decision-maker, and a sensible first version that can grow later. Budget separately for Japanese translation or copywriting if you need it, a domain, hosting, platform plans such as Shopify, paid apps and payment fees. Full scope guidance is on the <a href=\"/pricing/\">pricing page</a>.",
+    ],
+  },
+  {
+    id: "japanese-websites",
+    heading: "Japanese-language websites: typography, forms and the details that matter",
+    paragraphs: [
+      "A Japanese website is not an English website with the words swapped. Fonts, line breaking, forms, names and addresses all work differently, and Japanese visitors notice immediately when a site was built without understanding them. This is where an engineering team can add real value even when the words themselves come from a native writer.",
+      "<strong>Fonts and performance.</strong> Japanese fonts contain thousands of glyphs, so a full web font such as Noto Sans JP can weigh several megabytes and slow every page. We either use the system fonts Japanese devices already have, such as Hiragino on Apple devices and Yu Gothic or Meiryo on Windows, or load subset web fonts that contain only the characters the site uses. Japanese text also needs more generous line height than English, usually around 1.7 to 2.0, and should never use fake italics, because Japanese fonts do not have italic styles.",
+      `<strong>Line breaking.</strong> Japanese has no spaces between words, so browsers can break lines in awkward places, leaving a single character on a line or splitting a word in a heading. We apply strict line-breaking rules (${ja("禁則処理")}) so punctuation never starts a line, use phrase-aware breaking in headings where browsers support it, and check every key page on real phones. Vertical writing can be used for design accents, but body text stays horizontal for readability on screens.`,
+      `<strong>Forms.</strong> Japanese forms follow conventions that foreign templates break. Names are entered family name first, usually in separate fields, and a furigana field (${ja("フリガナ")}) records the reading so staff can pronounce and sort names. A seven-digit postal code should fill in the prefecture, city and district automatically, and addresses run from prefecture down to building and room number. Many people type full-width numbers such as ０３, so we normalise full-width and half-width characters rather than rejecting the input. A confirmation screen (${ja("確認画面")}) before submission is expected on many business sites, and required fields are marked clearly as ${ja("必須")}.`,
+      "<strong>Dates, prices and numbers.</strong> Dates are written year, month, day, and some audiences, especially in administrative or older-customer contexts, expect the Japanese era year such as Reiwa alongside the Western year. Consumer prices must be shown including consumption tax. Large numbers are often read in units of ten thousand (man), so price tables are easier to scan when they follow the way Japanese buyers read amounts.",
+      "<strong>URLs and structure.</strong> Japanese characters in URLs are percent-encoded when shared, which turns a short address into a long string of symbols. We usually recommend readable English or romaji URLs with Japanese page titles and headings, which works well for search and sharing. For bilingual sites, each language has its own URL path, such as /ja/ and /en/, with hreflang tags linking equivalent pages.",
+      "<strong>Translation and tone.</strong> Machine translation into Japanese is readable but rarely natural, and business Japanese uses levels of politeness that tools often get wrong. We keep all site text in a structured sheet so your translator or bilingual staff can work on it directly, then import it without copy-paste errors. We check that every page still fits once the Japanese text is in place, because Japanese and English text have very different lengths and shapes.",
+    ],
+  },
+  {
+    id: "ecommerce-japan",
+    heading: "Ecommerce in Japan: konbini, JCB, PayPay, Shopify and delivery",
+    paragraphs: [
+      "Japan is one of the world's largest ecommerce markets. According to the Ministry of Economy, Trade and Industry, consumer ecommerce reached ¥26.1 trillion in 2024, up 5.1 percent, while the online share of goods sales was still under 10 percent. Amazon.co.jp, Rakuten Ichiba and Yahoo! Shopping dominate, but more brands now run their own store alongside the marketplaces to keep customer relationships and margins.",
+      "<strong>Payments.</strong> Japanese shoppers use a wider mix of payment methods than most markets. Credit cards are essential, and that must include JCB, Japan's own card brand, alongside Visa, Mastercard, American Express and Diners. Konbini payment lets customers pay cash at convenience stores such as FamilyMart and Lawson using a payment number. Bank transfer (furikomi) is standard for B2B orders. Cash on delivery is still used, code payments such as PayPay, d Barai, au PAY and Rakuten Pay are everyday habits, Amazon Pay reduces form filling, and deferred payment services such as NP Atobarai and Paidy let customers pay after the goods arrive. Stripe supports cards, konbini and bank transfer for Japanese businesses; Japanese providers such as KOMOJU, GMO Payment Gateway, SB Payment Service and PAY.JP cover further methods. Japanese payment providers usually require a Japanese company and bank account and review your store before approval, so every merchant account is opened in your company's name, never ours.",
+      "<strong>Platform choice.</strong> Shopify suits most small and mid-sized stores: hosting, security, payments and upgrades are handled for you, the admin is in Japanese, and there are apps for delivery date selection, noshi wrapping and Japanese payment methods. WooCommerce suits businesses already on WordPress that want lower platform costs and full control of their data. A custom headless build suits unusual cases such as B2B price lists per customer, subscription food boxes with complex rules, or catalogues that sync with an existing core system. If you already use a Japanese cart such as BASE, STORES, MakeShop, futureshop or EC-CUBE, we will tell you honestly whether moving is worth it.",
+      "<strong>Delivery.</strong> Japanese customers expect to choose a delivery date and time slot, and they expect it to be met. We configure Yamato, Sagawa or Japan Post shipping, refrigerated and frozen delivery for food, leave-at-door options and tracking emails. Since overtime limits for truck drivers took effect in April 2024, shipping costs and delivery windows have changed across the industry, so free-shipping thresholds and delivery promises deserve a fresh look.",
+      "<strong>Gifts and seasons.</strong> Gift giving drives a large share of Japanese ecommerce, especially the summer ochugen and year-end oseibo seasons. Gift stores need noshi paper options with the correct inscription, gift messages, delivery to a different address, packing slips without prices and bulk orders to many recipients. Seasonal landing pages and early-order campaigns matter more here than discount codes.",
+      "<strong>Prices, receipts and tax.</strong> Prices shown to consumers must include consumption tax, and food products generally use the reduced 8 percent rate while most other goods use 10 percent. Business customers often ask for a downloadable receipt (ryoshusho) addressed to their company name, which is easy to offer and reduces support emails. Every Japanese store also needs a page under the Specified Commercial Transactions Act, covered in the compliance section below.",
+      "<strong>Selling abroad from Japan.</strong> Japanese products, from sake and tea to knives, ceramics and cosmetics, have strong demand overseas. Cross-border stores need English and often Chinese pages, multi-currency display, international shipping rates and clear information about import rules in each destination. We can run a cross-border store alongside your Japanese store with shared inventory.",
+    ],
+  },
+  {
+    id: "seo-japan",
+    heading: "SEO in Japan: Google, Yahoo! JAPAN, MEO and Japanese keywords",
+    paragraphs: [
+      "Google is the dominant search engine in Japan, and Yahoo! JAPAN, which many people still use, runs on Google's search technology. Good Google SEO therefore covers both. Bing is used on many Windows desktops through Edge, and we make sure sites are indexed there too, since it also powers several AI assistants.",
+      "<strong>Technical foundations.</strong> Every site we build ships with clean URLs, unique titles and descriptions, structured data for your organisation, services, products and FAQs, an XML sitemap, a sensible robots.txt, correct canonical tags and redirects from any old URLs. We connect Google Search Console and check that pages are actually indexed, not just published. For redesigns we map every URL that currently receives traffic and redirect it properly, because most ranking losses after a redesign come from broken URLs rather than design.",
+      `<strong>Japanese keyword research.</strong> The same idea can be written in kanji, hiragana, katakana, English and romaji, and each version has a different search volume. People looking for a website might search ${ja("ホームページ制作")}, ${ja("HP制作")}, ${ja("ホームページ作成")} or ${ja("Web制作")}. Japanese searchers also add words such as ${ja("費用")} or ${ja("料金")} (cost), ${ja("相場")} (market rate), ${ja("比較")} (comparison), ${ja("口コミ")} (reviews) and ${ja("おすすめ")} (recommended). We combine tool data with your Search Console queries and the questions your staff hear every day, and a native writer turns the plan into Japanese pages.`,
+      `<strong>Local search and MEO.</strong> Japanese marketers call local search optimisation MEO, map engine optimisation. Your Google Business Profile must be owned and verified by you at your real address; we guide you on categories, services, photos and posts, and we never create profiles at addresses you do not operate from. Portals such as ${ja("食べログ")} for restaurants, ${ja("ホットペッパービューティー")} for salons, SUUMO for real estate and ${ja("じゃらん")} for travel rank for many local searches, so your own site should work alongside those listings and give customers a reason to book directly without commission.`,
+      `<strong>Trust and expertise.</strong> For medical, legal, financial and other high-trust topics, Japanese search results favour clearly authored content. A common Japanese practice is to show that a qualified professional has supervised the content (${ja("監修")}), with their name, qualification and profile. We build author and supervisor profiles into the site structure and mark them up with structured data. We do not write claims about results, and regulated industries have extra advertising rules described in the compliance section.`,
+      "<strong>International search.</strong> For inbound tourism and exporters, we build separate language versions with hreflang tags for Japanese, English, Simplified Chinese, Traditional Chinese and Korean, so each audience lands on the right page.",
+      `<strong>Reporting.</strong> Monthly SEO starts from ${both("Monthly SEO")}, against a typical ¥100,000 to ¥300,000 a month for small businesses in Japan. Each month you get a short report from Search Console and analytics showing what changed, what we did and what we plan next. We do not guarantee rankings, because nobody controls Google's results.`,
+    ],
+  },
+  {
+    id: "inbound",
+    heading: "Websites for inbound tourism and overseas buyers",
+    paragraphs: [
+      "Inbound tourism is one of Japan's fastest-growing industries. The Japan National Tourism Organization reported a record 42.68 million international visitors in 2025, the first year above 40 million, up from 36.87 million in 2024. South Korea, mainland China and Taiwan were the largest markets. Those visitors research on their phones, in their own languages, long before they arrive.",
+      "<strong>What inbound sites need.</strong> Hotels, ryokan, restaurants, tour operators, ski schools and experience providers need clear pages in English, Simplified Chinese, Traditional Chinese for Taiwan and Hong Kong, and Korean. Prices in yen, online booking that accepts overseas cards, access directions from the nearest station or airport, house rules, cancellation policies and allergy or dietary information all reduce messages and no-shows. Mainland Chinese visitors often plan on platforms such as Xiaohongshu rather than Google, and Korean visitors use Naver alongside Google, so your site should be easy to link to from those channels.",
+      "<strong>Direct bookings.</strong> Online travel agencies such as Booking.com, Expedia, Agoda, Trip.com and Airbnb bring guests but charge commission. A fast, multilingual site with a clear booking button is how accommodation and activity businesses win repeat and direct bookings. We connect your existing booking engine or channel manager rather than rebuilding one, and add structured data so search engines understand your prices, location and reviews.",
+      "<strong>Tax-free shopping.</strong> Retailers that sell to visitors should keep an eye on the tax-free system, which Japan is changing to a refund model from November 2026. Product and store pages that explain tax-free purchases need to reflect the rules that apply at the time of purchase.",
+      "<strong>Overseas buyers for Japanese manufacturers.</strong> Many Japanese manufacturers and producers have excellent products but a Japanese-only website. Overseas procurement teams need English specifications, certifications, minimum order quantities, lead times and a way to request a quotation. An English B2B site with a searchable catalogue and a clear quotation form often produces enquiries from abroad within months, and we build it so your Japanese staff can update products without touching code.",
+      "<strong>Translation quality.</strong> We build the multilingual structure, but the Chinese, Korean and English text should be written or reviewed by native translators. Poor translation damages trust with exactly the visitors you want to attract.",
+    ],
+  },
+  {
+    id: "line-automation",
+    heading: "LINE, kintone, freee and AI automation for Japanese teams",
+    paragraphs: [
+      "Japan's working-age population is shrinking, and many businesses cannot hire enough staff at any salary. Automating repetitive admin, such as retyping orders, chasing booking confirmations and copying data between tools, is often the fastest return on a small technology budget, and it is where our AI and data background is most useful.",
+      `<strong>LINE.</strong> LINE is Japan's everyday messaging app, with more than 100 million monthly users in Japan according to LY Corporation. A LINE Official Account (${ja("LINE公式アカウント")}) lets businesses reach customers where they already are. With the Messaging API we can send booking confirmations and reminders for salons, clinics and restaurants, follow up on enquiries, build rich menus, link LINE Login to member accounts and create small LIFF apps, such as membership and stamp cards, that open inside LINE. Message volume affects the plan you pay LINE for, so we design flows that send useful messages rather than many. Since LINE Notify ended in March 2025, internal notifications now go through the Messaging API, Slack, Chatwork or Microsoft Teams.`,
+      "<strong>Connecting the tools Japanese teams use.</strong> Many Japanese SMEs run on kintone for business data, Chatwork or Slack for internal chat, freee or Money Forward Cloud for accounting, and Google Workspace or Microsoft 365. We connect them so a website enquiry creates a kintone record and a Chatwork alert, a paid Shopify order creates an invoice in freee, and a new customer is added to the right LINE segment.",
+      "<strong>FAX, PDF and paper.</strong> Many B2B orders in Japan still arrive by FAX or as PDF attachments. AI-OCR can read those orders, extract product codes, quantities and delivery dates into kintone or a spreadsheet, and flag anything uncertain for a person to check. Since the Electronic Books Maintenance Act requires electronic transaction records to be stored electronically from January 2024, automations can also file invoices with searchable date, amount and counterparty fields.",
+      "<strong>AI assistants, used carefully.</strong> Current language models handle Japanese well, including polite business forms, but tone still needs checking. We use AI to draft replies to common questions from your own price lists and policies, summarise long email threads and classify incoming requests, and we keep a person approving anything that commits the business, such as a quotation or a refund. Personal data access is limited to what each step needs.",
+      `<strong>What it costs.</strong> AI automation starts from ${both("AI automation")} for one well-defined workflow, compared with ¥200,000 to ¥1,000,000 typical in Japan. Running costs such as LINE plans, API usage and automation platform subscriptions are paid directly by you to those providers, and we estimate them in the quote.`,
+    ],
+  },
+  {
+    id: "first-version",
+    heading: "What to put in the first version of a website in Japan",
+    paragraphs: [
+      "Most small business sites try to do too much at launch and end up late, over budget and half-finished. A tight first version that is live and collecting enquiries beats a perfect site six months away. Here is what we recommend for a typical business in Japan, and what can wait.",
+    ],
+    list: [
+      "<strong>A home page that answers three questions in the first screen:</strong> what you do, who you do it for, and how to contact you. Everything else supports those three answers.",
+      `<strong>A company profile page (${ja("会社概要")}):</strong> company name, representative, founding date, capital, address, business description and, for B2B, main clients or banks where you can share them. Japanese buyers check this page before they call.`,
+      "<strong>One page per main service,</strong> with scope, typical prices or how pricing works, lead times, and the questions customers ask most often.",
+      "<strong>Access information:</strong> address, map, nearest stations with walking time, parking and business hours. Japanese visitors expect directions measured from the station.",
+      "<strong>Proof you can back up:</strong> project photos you own, case notes with the client's permission, certifications and memberships you actually hold, and reviews linked to where they were posted.",
+      "<strong>Contact that works on a phone:</strong> a short form with furigana and postal code lookup, a phone number that can be tapped, a LINE button if you use LINE, and a clear note on how fast you reply.",
+      "<strong>Legal pages:</strong> a privacy policy that states purposes of use, and for any store a Specified Commercial Transactions Act page.",
+      "<strong>Measurement from day one:</strong> Search Console, privacy-friendly analytics and enquiry tracking, so decisions about the next phase are based on data.",
+    ],
+    after: [
+      "What can usually wait: a blog, until someone can write for it regularly; extra languages, until you know how large your non-Japanese audience is; member accounts; and complex calculators. Each is easier to add to a clean, well-structured site later than to squeeze into a rushed launch.",
+    ],
+  },
+  {
+    id: "japan-regions",
+    heading: `Japan by region: all 8 regions and ${prefectureCount} prefectures`,
+    paragraphs: [
+      `We serve businesses in every one of Japan's ${prefectureCount} prefectures remotely, from Hokkaido in the north to Okinawa in the south. Each region has a different economy, different customers and different needs online. These notes describe the patterns we plan around; none of these places is an office location.`,
+    ],
+    blocks: japanRegions.map((r) => ({ name: `${r.name}: ${r.prefectures.join(", ")}`, text: r.text })),
+    after: [
+      "Across all regions, the sectors we see most often in enquiries are manufacturing and industrial suppliers, tourism and hospitality, food and drink producers, retail and ecommerce brands, real estate, education and language schools, clinics and wellness, professional services, and technology startups. The region table further down summarises what each part of Japan typically needs.",
+    ],
+  },
+  {
+    id: "major-cities",
+    heading: "Tokyo and Japan's 20 designated cities",
+    paragraphs: [
+      "Japan has 20 designated cities, large cities with powers similar to a prefecture, plus the 23 special wards of Tokyo. Together they hold a large share of the country's companies and consumers. This table summarises the business character of each, so you can see how your market compares. We serve all of them, and every smaller city and town, remotely from India.",
+    ],
+    table: {
+      caption: "Tokyo and Japan's designated cities by prefecture and business character",
+      hide: 1,
+      head: ["City", "Prefecture", "Business character"],
+      rows: cityRows,
+    },
+    after: [
+      "Outside these cities, prefectural capitals such as Kanazawa, Takamatsu, Matsuyama, Nagasaki, Kagoshima and Naha each anchor their own regional economy, and many of Japan's most distinctive producers and craft businesses are in smaller towns. For them, a good website and store are often the only affordable way to reach customers in Tokyo, Osaka and abroad.",
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "APPI, the Specified Commercial Transactions Act and other rules your site must handle",
+    paragraphs: [
+      "This section describes the practical groundwork we build into websites for Japan. It is not legal or tax advice. We are engineers, not lawyers, and for formal questions you should speak to a qualified adviser in Japan.",
+      `<strong>Act on the Protection of Personal Information (APPI).</strong> The APPI (${ja("個人情報保護法")}) governs how businesses handle personal information, and the Personal Information Protection Commission enforces it. Businesses must specify and publish the purposes for which they use personal information, keep it secure, and since the 2022 amendments report certain data breaches to the Commission and notify the people affected. We build forms that collect only the fields you need, link to a privacy policy that states purposes of use, store submissions in access-controlled systems and keep admin access role-based.`,
+      "<strong>Providing data to a team in India.</strong> This is the point most offshore providers skip. Under the APPI, giving a contractor in a foreign country access to personal data counts as provision to a third party in a foreign country. It generally requires either the individual's consent, after being told the country and its data protection system, or a contractor with a protection system that meets the APPI's standards. India has the Digital Personal Data Protection Act, 2023, which is being phased in. We design projects so we rarely need live personal data at all, use dummy data for testing, keep production access minimal and sign data-handling terms, but your adviser should decide the basis your company relies on.",
+      `<strong>Specified Commercial Transactions Act.</strong> Online stores are mail-order businesses under the Specified Commercial Transactions Act (${ja("特定商取引法")}) and must display a page with the seller's name, address and phone number, the person responsible, prices, shipping costs, payment methods and timing, delivery timing and the returns policy. Since June 2022 the final confirmation screen before an order must clearly show key terms such as quantity, price, payment, delivery and cancellation conditions, especially for subscriptions. We build that page and the confirmation screen into every Japanese store.`,
+      `<strong>Misleading representations and stealth marketing.</strong> The Act against Unjustifiable Premiums and Misleading Representations (${ja("景品表示法")}) prohibits exaggerated quality claims and misleading prices, such as fake reference prices. Since October 2023 it also covers stealth marketing: advertising that hides the fact that it is advertising, such as undisclosed paid influencer posts, is prohibited. We avoid unverifiable superlatives and label sponsored content clearly.`,
+      `<strong>Clinics, cosmetics and health products.</strong> Medical institution websites are regulated as advertising under the medical advertising guidelines (${ja("医療広告ガイドライン")}): patient testimonials about treatment are not allowed, and before-and-after photos need detailed explanations of the treatment, costs and risks. Cosmetics, supplements and health foods are restricted in what they can claim under the Pharmaceutical and Medical Device Act and related rules. We build pages that leave room for careful wording, and you or your adviser approve every claim.`,
+      `<strong>Marketing email.</strong> The Act on Regulation of Transmission of Specified Electronic Mail (${ja("特定電子メール法")}) generally requires prior opt-in consent for marketing email, records of that consent, the sender's details and a working way to opt out. We set up newsletter tools with confirmed opt-in, consent records and proper unsubscribe handling.`,
+      "<strong>External transmission rules.</strong> Since June 2023, the Telecommunications Business Act requires many online services to tell users what information is sent to third parties through tags and SDKs, such as analytics and advertising scripts. Simple corporate sites promoting your own business are generally outside the rule, but ecommerce platforms, apps and information services may be covered. If yours is in scope, we add a clear disclosure page listing each tool and what it receives.",
+      "<strong>Consumption tax and the invoice system.</strong> Consumer prices must be shown including consumption tax, currently 10 percent with a reduced 8 percent rate for most food. Since October 2023, businesses that want customers to claim input tax credits must issue qualified invoices, and registered stores need invoice templates with their registration number. On our own invoices: we are an India-based provider and are not registered as a qualified invoice issuer in Japan, so we do not add Japanese consumption tax. How imported services are treated depends on the service and your company's position; your tax accountant will know.",
+      "<strong>Accessibility.</strong> Japan's accessibility standard for websites is JIS X 8341-3, which is aligned with WCAG. Since April 2024, amendments to the Act for Eliminating Discrimination against Persons with Disabilities have made reasonable accommodation mandatory for private businesses. We build to WCAG 2.2 AA as a working standard: sufficient colour contrast, keyboard navigation, meaningful link text, alt text on images, labelled form fields and readable font sizes, which also helps Japan's large older population.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours: Japan time and India time",
+    paragraphs: [
+      "Japan Standard Time is UTC+9 and India Standard Time is UTC+5:30. Neither country uses daylight saving, so the gap is a steady three and a half hours all year. Our working day of 9 am to 9 pm IST runs from 12:30 pm to 12:30 am in Japan, seven days a week on WhatsApp.",
+      "In practice, most clients in Japan send questions and feedback in the morning, before we start. By 12:30 pm Japan time we are online, have read everything and have replied or started on changes. Calls, reviews and walkthroughs fit comfortably between 1 pm and 6 pm Japan time. Changes requested in the afternoon are usually live on the staging link by the evening, so the next morning starts with progress rather than questions. For launches, migrations or a call with your whole team in the morning, we agree earlier start times in advance.",
+    ],
+    table: {
+      caption: "Japan time compared with India time",
+      hide: 2,
+      head: ["Japan (JST)", "India (IST)", "What usually happens"],
+      rows: [
+        ["9:00 am", "5:30 am", "You send feedback or questions; we read them at the start of our day"],
+        ["10:00 am", "6:30 am", "Earliest time for a morning call, arranged in advance"],
+        ["12:30 pm", "9:00 am", "We are online on WhatsApp, email and calls"],
+        ["1:00 pm to 6:00 pm", "9:30 am to 2:30 pm", "Best window for calls, demos and review sessions"],
+        ["6:00 pm to 10:00 pm", "2:30 pm to 6:30 pm", "Changes from the day's feedback go live on staging"],
+        ["12:30 am", "9:00 pm", "End of our day; urgent issues handled as agreed"],
+      ],
+    },
+  },
+  {
+    id: "payments",
+    heading: "How you pay us: USD, JPY, Wise and bank wire",
+    paragraphs: [
+      `We quote clients in Japan in US dollars, using the starting prices on this page, with approximate yen figures at ¥${JPY_PER_USD} per dollar for comparison. If your finance team prefers yen, we issue the invoice in JPY at a rate fixed in the quote, so the amount is settled before work starts. Payment is by Wise or international bank wire. Wise is usually cheaper and faster for transfers from Japanese bank accounts, with fees and exchange rates shown before you send.`,
+      "Payments are staged against visible milestones rather than taken in full upfront. A typical structure is a part advance to start, a part when the design is approved, and the balance before launch, with the exact split written into the quote. In Japanese terms, builds work like a fixed-scope contract with a defined deliverable, while monthly SEO and maintenance work like an ongoing service agreement that can be stopped with notice. The five free months of maintenance after launch cost nothing and do not lock you into a paid plan.",
+      "Some Japanese companies ask whether withholding tax applies to payments to an overseas provider. That depends on whether a payment is treated as a service fee or as a royalty, and on the tax treaty between Japan and India, so your tax accountant should confirm it before the first payment. We provide clear invoices and company details to support that check.",
+      "Third-party costs are paid by you directly to the provider: domain registration and renewal, hosting or cloud usage, Shopify or other platform subscriptions, paid themes and apps, LINE plans, email services and payment fees. We list the expected running costs in the quote so your total cost of ownership is clear from the start. Keeping these accounts in your company's name is also what guarantees you own everything.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "How to hire an offshore web developer from Japan",
+    paragraphs: [
+      "Offshore development has a mixed reputation in Japan. Projects fail for predictable reasons: requirements that were never written down, handing everything over and waiting for the result, no bilingual person on the client side, the person selling is not the person building, no access to work in progress, and nobody reachable after the final payment. Large offshore firms solve the language problem with a bridge engineer; small projects rarely have one. A short checklist avoids most of the risk. Use it with anyone you consider, including us.",
+    ],
+    list: [
+      "<strong>Ask who will build it, by name.</strong> Then ask whether any part will be subcontracted. If you cannot speak to the developer before signing, expect to struggle to reach them later.",
+      "<strong>Decide who bridges the language gap.</strong> If your team works in Japanese, name one bilingual colleague or translator who reviews the scope and relays feedback.",
+      "<strong>Insist on a written scope.</strong> Pages, features, integrations, languages, revisions, who writes Japanese content, what SEO setup includes, and what is explicitly excluded.",
+      "<strong>Test live work, not screenshots.</strong> Open their live sites on your phone over mobile data and run them through Google PageSpeed Insights. Check whether the forms work.",
+      "<strong>Keep every account in your name.</strong> Domain, hosting, Shopify, payment providers, LINE Official Account, Google Search Console and analytics must belong to your company, with logins handed over.",
+      "<strong>Ask for a staging link from week one.</strong> You should see real progress throughout, not a big reveal at the end.",
+      "<strong>Agree the hours overlap.</strong> Ask exactly when they are online in Japan time and how fast they respond. Get it in writing.",
+      "<strong>Stage payments against milestones.</strong> Advance, design approval and pre-launch balance is a fair structure. Full payment upfront is a warning sign.",
+      "<strong>Clarify ownership and defects.</strong> The contract should say that the code, designs and content created for you are yours once paid, how defects found after delivery are fixed, and that fonts, images and plugins are properly licensed.",
+      "<strong>Ask about personal data.</strong> Who will have access to your customer data, where it will be stored, and how the APPI's rules on foreign third parties are handled.",
+    ],
+    after: [
+      "<strong>Red flags worth walking away from:</strong> guaranteed first-page rankings; a domain or hosting account registered in the developer's name; a quote without a scope; pirated or nulled premium themes, which often carry malware; reviews or client logos that cannot be verified; claims of a Japan office that turn out to be a virtual address; and pressure to decide quickly because a discount is about to expire.",
+      "<strong>When a Japanese agency is the better choice:</strong> if you need meetings in Japanese, in-person workshops, a vendor who writes your Japanese copy, on-site photography and video bundled with the build, or a registered provider for subsidy funding, a Japanese agency will suit you better, and we will tell you so.",
+    ],
+  },
+  {
+    id: "hosting",
+    heading: "Hosting, speed, email and domains for websites in Japan",
+    paragraphs: [
+      "Japan has excellent cloud infrastructure. AWS, Google Cloud and Microsoft Azure all run regions in Tokyo and Osaka, and every major CDN has edge locations across Japan. Static sites are served from a CDN close to your visitors; apps with databases go into a Tokyo region, with backups in Osaka so that an earthquake or regional outage does not take your data with it. Popular Japanese hosts such as Xserver and Sakura Internet are also fine for WordPress sites, and we work with whichever you already use.",
+      "Speed matters because Japanese mobile users are used to fast, well-built apps and sites. Google's Core Web Vitals targets are a Largest Contentful Paint within 2.5 seconds, Interaction to Next Paint within 200 milliseconds and Cumulative Layout Shift below 0.1. We meet them with static HTML where possible, correctly sized modern image formats, system or subset Japanese fonts, lazy-loaded media and very few third-party scripts. We test on mid-range phones with throttled connections, not only on office fibre.",
+      "<strong>Email that arrives.</strong> Contact form confirmations and order emails sent to Japanese mobile carrier addresses, such as docomo, au and SoftBank, are often filtered if the sending domain is not properly authenticated. Gmail and Yahoo also tightened their requirements for bulk senders. We set up SPF, DKIM and DMARC for your domain and send transactional email through a reputable provider so messages reach the inbox.",
+      "<strong>Domains.</strong> A .jp or .co.jp address is a strong local signal to Japanese customers and to search engines. A .jp domain requires a postal address in Japan, and .co.jp is limited to companies registered in Japan, one per company, so the domain is registered in your company's name. We handle DNS, email records and SSL. City domains such as .tokyo and .osaka are also available. If you also sell internationally, a .com with separate language paths works well, and registering both protects your name for a small yearly cost.",
+    ],
+  },
+];
+
+const tocExtra = [
+  { id: "pricing-heading", heading: "Starting prices in USD and yen" },
+  { id: "regions-heading", heading: "Region-by-region table" },
+  { id: "industries-heading", heading: "Industries" },
+  { id: "why-heading", heading: "Comparison" },
+  { id: "process-heading", heading: "Process and timelines" },
+  { id: "faq-heading", heading: "FAQs" },
+];
+
+// ---------- Region table ----------
+
+const regionsHeading = `Japan region by region: what businesses need online in all ${prefectureCount} prefectures`;
+const regionsNote = "A quick reference for the patterns described in the guide above. We serve every prefecture remotely from India; none of these are office locations.";
+const regionHead = ["Region", "Prefectures", "Business character", "What we usually build"];
+const regionHide = [1, 2];
+const regionTable = japanRegions.map((r) => [r.name, r.prefectures.join(", "), r.character, r.build]);
+
+// ---------- Industries ----------
+
+const industriesHeading = "What we build for Japan's main industries";
+const industries = [
+  { name: "Manufacturing and parts suppliers", need: "Specifications, certifications, capacity, lead times and a named contact, in Japanese and English", build: "Searchable catalogues, quotation forms that accept drawings, English export pages, recruitment sites" },
+  { name: "Hotels, ryokan and tourism", need: "Photos, prices, access, house rules and booking in their own language", build: "Multilingual sites, booking engine integration, structured data, direct booking offers" },
+  { name: "Restaurants and food producers", need: "Menus, reservations, allergens, gift sets and seasonal products", build: "Menu and reservation pages, food ecommerce with cool delivery and noshi, LINE reminders" },
+  { name: "Retail and D2C brands", need: "Real product photos, stock, delivery dates and familiar payment methods", build: "Shopify or custom stores with JCB, konbini and PayPay, marketplace stock sync, cross-border stores" },
+  { name: "Real estate", need: "Listings by station and area, clear costs, and for foreign buyers, English guidance", build: "Property search, station and area pages, enquiry routing, English pages for international clients" },
+  { name: "Education and language schools", need: "Courses, schedules, fees, visa information and trial lessons", build: "Course pages, trial booking, multilingual content for international students, LINE follow-up" },
+  { name: "Clinics, dental and beauty", need: "Qualified staff, treatment explanations, hours and easy appointments", build: "Guideline-aware treatment pages, supervisor profiles, appointment booking, LINE reminders" },
+  { name: "Professional services", need: "Credentials, practice areas, fees where possible and a discreet way to enquire", build: "Restrained bilingual sites, service pages, secure document upload, articles" },
+  { name: "Technology and startups", need: "A site the team can change weekly, docs, pricing pages and trustworthy analytics", build: "Astro or Next.js with a headless CMS, docs, analytics, and often the first product version" },
+  { name: "Logistics and trading", need: "Routes, service levels, cut-off times and quick quotes", build: "Quote request tools, tracking pages, B2B ordering portals, AI-OCR for FAX orders" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "Japanese agency, crowdsourcing freelancer or BtechWaleTech";
+const comparisonNote = "Each option suits different projects. This is how they usually differ, so you can choose with open eyes.";
+const compHead = ["Typical Japanese agency", "Crowdsourcing freelancer", "BtechWaleTech"];
+const comparison = [
+  ["Starting price", "Typically ¥150,000 to ¥650,000 for a small corporate site", "Lower, but scope and quality vary widely", `From ${both("Static")}, itemised quote`],
+  ["Who does the work", "Director and designers, parts often subcontracted", "One person from a platform such as Lancers or CrowdWorks", "The three engineers you talk to"],
+  ["Language", "Japanese", "Usually Japanese", "English; Japanese text from your team or translator"],
+  ["Meeting in person", "Yes", "Rarely", "No: remote only, video calls and staging link"],
+  ["Hours in Japan time", "Weekday office hours", "Depends on the person", "12:30 pm to 12:30 am JST, 7 days on WhatsApp"],
+  ["Subsidy eligibility", "Possible if a registered provider", "Usually not", "Not registered, not eligible"],
+  ["SEO setup", "Often a separate contract from ¥100,000 a month", "Frequently skipped", "Titles, schema and sitemap in every build"],
+  ["After launch", "Paid maintenance, often ¥20,000 to ¥50,000 a month", "Hard to reach once paid", "5 months of maintenance free"],
+  ["Ownership of accounts and code", "Varies; server or CMS sometimes held by agency", "Sometimes held back", "Everything in your company's name"],
+];
+
+// ---------- Process ----------
+
+const process = [
+  ["Talk", "A short WhatsApp chat or video call in English about your business, customers, competitors and budget. No charge."],
+  ["Scope & quote", "Pages, features, languages, integrations, timeline and an itemised USD or JPY quote in writing."],
+  ["Design", "Sitemap and wireframes first, then visual design for key pages, reviewed on your own phone."],
+  ["Build on staging", "The site is built on a private staging link you can open any time. Afternoon feedback usually lands the same evening."],
+  ["Test & SEO", "Payments, forms, Japanese text, legal pages, redirects, speed, schema and sitemap checked end to end."],
+  ["Launch & support", "Domain connected, Search Console set up, logins handed over, then 5 months of free maintenance."],
+];
+
+// ---------- Related links ----------
+
+const relatedHeading = "Websites, apps, AI automation, SEO and software for businesses across Japan";
+const related = [
+  { name: "Website developer in Japan", href: "/japan/website-developer/" },
+  { name: "AI automation engineer in Japan", href: "/japan/ai-automation-engineer/" },
+  { name: "Android & iOS app developer in Japan", href: "/japan/android-ios-developer/" },
+  { name: "SEO services in Japan", href: "/japan/seo-services/" },
+  { name: "Software development in Japan", href: "/japan/software-development/" },
+];
+
+const processHeading = "From first message to a live site";
+const quoteFoot = `All figures are starting prices in USD (about ¥${JPY_PER_USD} per dollar for comparison); your quote depends on requirements. 5 months maintenance free after launch.`;
+const timelineFine = "Timelines assume content, translations and approvals arrive on time. Payments, languages and user accounts add testing time to ecommerce and custom builds.";
+const closingHeading = "Tell us about your project in Japan";
+const closingNote = "Send a few lines in English on WhatsApp about your business and what you need. You get questions first, then a page plan, a timeline and an itemised quote in USD or JPY, usually within two working days. Nothing is billed until you approve the scope.";
+
+// ---------- Structured data ----------
+
+const regionsServed = japanRegions.flatMap((r) => r.prefectures).map((p) => (p === "Tokyo" ? "Tokyo Metropolis" : p === "Hokkaido" ? p : `${p} Prefecture`));
+const citiesServed = [...cityRows.map(([city]) => city.replace(" (23 wards)", "")), "Naha", "Kanazawa", "Kagoshima", "Matsuyama", "Takamatsu", "Nagasaki"];
+const country = { "@type": "Country", name: countryName };
+
+const baseService = countryServiceSchema({ path, description: page.description, country: countryName, cities: citiesServed });
+const professionalServiceSchema = {
+  ...baseService,
+  "@id": `${url}#service`,
+  currenciesAccepted: "USD, JPY",
+  paymentAccepted: "Wise, Bank wire",
+  areaServed: [
+    country,
+    ...regionsServed.map((name) => ({ "@type": "State", name, containedInPlace: country })),
+    ...citiesServed.map((name) => ({ "@type": "City", name, containedInPlace: country })),
+  ],
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en-JP",
+  about: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, professionalServiceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">{heroEyebrow}</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>Email {siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          {heroOrigin}
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label={`Starting prices for ${countryName}`}>
+        <p class="quote-kicker">{countryName} starting prices</p>
+        <ul class="quote-rows">
+          {priceRows.slice(0, 5).map((r) => (
+            <li><span>{r.service}</span><strong><small>from </small>{r.usd}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">{quoteFoot}</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">{answerHeading}</h2>
+        <p id="quick-answer" class="answer-text">{quickAnswer}</p>
+        <p class="answer-more">{answerMore}</p>
+      </div>
+      <table class="snapshot">
+        <caption>{countryName} at a glance</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services</p>
+        <h2 id="services-heading">{servicesHeading}</h2>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">{pricingHeading}</h2>
+        <p class="section-note">{pricingIntro}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">About in yen</th><th scope="col" class="hide-sm">Typical timeline</th><th scope="col" class="hide-sm">What is included</th></tr>
+          </thead>
+          <tbody>
+            {priceRows.map((r) => (
+              <tr>
+                <th scope="row">{r.service}</th>
+                <td class="price">{r.usd}</td>
+                <td class="price">{jpy(r.service)}</td>
+                <td class="hide-sm">{r.timeline}</td>
+                <td class="hide-sm">{r.includes}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingFine} See the <a href="/pricing/">pricing page</a> for full scope guidance.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label={`Guide to web development for ${countryName}`}>
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guide.map((g) => <li><a href={`#${g.id}`}>{g.heading}</a></li>)}
+          {tocExtra.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.blocks && g.blocks.map((b) => (
+              <div class="state-block">
+                <h3>{b.name}</h3>
+                <p>{b.text}</p>
+              </div>
+            ))}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={i === g.table!.hide ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={i === g.table!.hide ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="regions-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Coverage</p>
+        <h2 id="regions-heading">{regionsHeading}</h2>
+        <p class="section-note">{regionsNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr>{regionHead.map((h, i) => <th scope="col" class={regionHide.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+          <tbody>
+            {regionTable.map((row) => (
+              <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={regionHide.includes(i) ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">{industriesHeading}</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr><th scope="col">Industry</th><th scope="col" class="hide-sm">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td class="hide-sm">{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COMPARISON ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Compare</p>
+        <h2 id="why-heading">{comparisonHeading}</h2>
+        <p class="section-note">{comparisonNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">{compHead[0]}</th>
+              <th scope="col" class="col-other">{compHead[1]}</th>
+              <th scope="col" class="col-us">{compHead[2]}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">{processHeading}</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{timelineFine}</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">{countryName} web development questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services in Japan</p>
+        <h2 id="related-heading">{relatedHeading}</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">{closingHeading}</h2>
+        <p class="closing-note">{closingNote}</p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/[city].astro so country pages match the city pages. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); min-width: 0; }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 700; line-height: 1; overflow-wrap: anywhere; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .prose-table { margin-top: 1.5rem; }
+  .prose-table + p { margin-top: 1.5rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p, .prose .state-block + p { margin-top: 1.5rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table .col-other { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.9rem, 8vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

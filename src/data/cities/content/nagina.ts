@@ -51,7 +51,7 @@ const nagina: CityContent = {
     software: "Order books, karigar piece-rate records and dispatch trackers for workshops that still run everything from a register and memory.",
     ai: "WhatsApp assistants that send catalogue photos, sizes and starting rates to overseas and domestic buyers while the owner is at the bench.",
     data: "Simple dashboards showing which designs sell, which buyers repeat and which invoices are still unpaid, readable on a phone.",
-    app: "Installable web apps for buyer orders, school notices or clinic appointments, with no Play Store listing required.",
+    app: "Android and iOS apps for woodcraft buyer orders, school notices or clinic appointments, listed on both stores with builds from ₹40,000.",
     maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

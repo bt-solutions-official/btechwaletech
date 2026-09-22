@@ -51,7 +51,7 @@ const visakhapatnam: CityContent = {
     software: "Shipment trackers, vendor portals and quotation systems for logistics firms and industrial suppliers working around the port and steel plant.",
     ai: "Enquiry routing, WhatsApp replies and AI assistants that handle routine questions in English or Telugu and pass the rest to your team.",
     data: "Dashboards for container moves, dispatches, admissions or bookings, so an owner can see yesterday's numbers before the first call of the day.",
-    app: "Installable web apps for bookings, driver check-ins or student portals, usable from a phone browser without an app store listing.",
+    app: "Android and iOS apps for bookings, driver check-ins or student portals, built in Flutter or React Native and released on both stores from ₹40,000.",
     maintenance: "Updates, backups, security patches and edits, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

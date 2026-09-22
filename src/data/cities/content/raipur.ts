@@ -51,7 +51,7 @@ const raipur: CityContent = {
     software: "Dealer portals, dispatch registers and order systems for distributors and manufacturers who manage hundreds of accounts across the state.",
     ai: "WhatsApp assistants that handle rate enquiries, order updates and appointment bookings in Hindi and English before your staff step in.",
     data: "Dashboards for dispatch, receivables, rate trends and dealer performance, built from Tally, Excel and weighbridge records.",
-    app: "Progressive web apps for sales reps, dealers and site supervisors that install from the browser and work on patchy rural connections.",
+    app: "Android and iOS apps for sales reps, dealers and site supervisors on patchy rural connections, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Rate updates, catalogue changes, backups and security patches free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

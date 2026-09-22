@@ -51,7 +51,7 @@ const tirupati: CityContent = {
     software: "Booking systems, vendor portals, admissions tools and staff dashboards for Tirupati hotels, institutes and suppliers to the Renigunta and Sri City units.",
     ai: "WhatsApp auto-replies that answer the repetitive questions pilgrims and parents ask, from room rates to fee structures, in Telugu, Tamil, Hindi or English.",
     data: "Occupancy, sales and admissions dashboards that help owners plan staff and stock around festival rushes and exam seasons.",
-    app: "Progressive web apps for room bookings, cab requests and student portals that install from a link and work on modest phones.",
+    app: "Android and iOS apps for room bookings, cab requests and student portals that run on modest phones, listed on Google Play and the App Store.",
     maintenance: "Rate changes, festival updates, backups and security fixes, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

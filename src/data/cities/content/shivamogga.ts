@@ -51,7 +51,7 @@ const shivamogga: CityContent = {
     software: "Pattern and job tracking, dispatch logs and quality records for Machenahalli casting units and their subcontractors.",
     ai: "WhatsApp replies in Kannada or English for rate enquiries, room availability or admission questions, with each lead logged to a sheet.",
     data: "Dashboards showing mandi purchases, stock held, mill output or bookings by month, readable on a phone.",
-    app: "Installable web apps for trader ledgers, school notices or homestay guest check-in, with no app store needed.",
+    app: "Android and iOS apps for arecanut trader ledgers, school notices or homestay guest check-in, one codebase listed on both stores.",
     maintenance: "Free updates, backups and security patches for five months after launch, then from ₹8,000 a month or pay only when you need a change.",
   },
   whyUsIntro:

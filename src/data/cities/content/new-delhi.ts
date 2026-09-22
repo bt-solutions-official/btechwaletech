@@ -51,7 +51,7 @@ const newDelhi: CityContent = {
     software: "Grant, member and event portals for associations and non-profits, and vendor document systems for firms supplying government offices.",
     ai: "Assistants that answer routine enquiries in English and Hindi, draft replies for staff approval and route visa, booking or donation questions to the right desk.",
     data: "Dashboards that turn programme data, survey results or hotel bookings into clear charts a board or funder can read in minutes.",
-    app: "Installable web apps for field teams, event attendees and members that work without a Play Store listing.",
+    app: "Android and iOS apps for field teams, event attendees and members, published on Google Play and the App Store with builds starting at ₹40,000.",
     maintenance: "Five free months of updates, security patches and backups after launch, then care from ₹8,000 a month.",
   },
   whyUsIntro:

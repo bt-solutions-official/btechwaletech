@@ -51,7 +51,7 @@ const nagaur: CityContent = {
     software: "Stock, lot and dispatch tools for methi and spice processors and grain traders who still depend on paper registers.",
     ai: "WhatsApp assistants that send rate-request forms, product specs or fee details in Hindi and flag bulk buyers to the owner.",
     data: "Dashboards for purchase by farmer, stock by lot, sales by buyer or admissions by course, readable on one phone.",
-    app: "Installable web apps for field purchase, mandi-day entries or student attendance that work on weak networks.",
+    app: "Android and iOS apps for field purchase, mandi-day entries or student attendance that work on weak networks, released on Google Play and the App Store.",
     maintenance: "Five months of free updates after launch, then plans from ₹8,000 a month or payment per change.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const ramgarh: CityContent = {
     software: "Work order, labour, equipment and billing records for mining and plant contractors, and trip registers for coal and material transporters.",
     ai: "WhatsApp assistants that collect tender, quote, admission and appointment details in Hindi and pass serious enquiries to your staff.",
     data: "Dashboards that show work orders, bills pending with clients, trips, fuel and site costs pulled from your registers or Tally.",
-    app: "Installable web apps for site supervisors and drivers to log attendance, photos and deliveries without an app store download.",
+    app: "Android and iOS apps for site supervisors and drivers to log attendance, photos and deliveries, published on Google Play and the App Store.",
     maintenance: "Backups, updates, uptime checks and small edits, free for five months and from ₹8,000 a month after that.",
   },
   whyUsIntro:

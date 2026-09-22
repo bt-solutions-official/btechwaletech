@@ -50,7 +50,7 @@ const hoshiarpur: CityContent = {
     software: "Client files, document checklists and follow-up tools for consultants, dealers and institutes that still work from folders and diaries.",
     ai: "WhatsApp assistants that answer fee, stock and appointment questions any time of day, which matters when half your enquiries come from another time zone.",
     data: "Dashboards for mandi arrivals, dealer orders or patient flow, pulled into one screen an owner can read quickly.",
-    app: "Installable web apps for school notices, clinic bookings or field staff visits across the district, with no app-store listing needed.",
+    app: "Android and iOS apps for school notices, clinic bookings or field staff visits across the district, released on Google Play and the App Store.",
     maintenance: "Free updates, backups and fixes for five months after launch, then plans from ₹8,000 a month or pay-as-needed changes.",
   },
   whyUsIntro:

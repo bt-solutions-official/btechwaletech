@@ -52,7 +52,7 @@ const faridabad: CityContent = {
     software: "Vendor portals, PPAP and inspection record systems, job-card trackers and dealer order tools for Faridabad manufacturers.",
     ai: "WhatsApp assistants that answer part availability, delivery schedules, admission dates or appointment slots and pass the rest to staff.",
     data: "Production, rejection, dispatch and customer-wise sales reports pulled from spreadsheets and ERP exports into one dashboard.",
-    app: "Installable web apps for supervisors, field engineers and dealers, working on the shop floor without an app store listing.",
+    app: "Android and iOS apps for supervisors, field engineers and dealers working on the shop floor, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Product, price and content updates, backups and security patches, free for five months and from ₹8,000 a month after that.",
   },
   whyUsIntro:

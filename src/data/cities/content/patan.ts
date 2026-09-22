@@ -51,7 +51,7 @@ const patan: CityContent = {
     software: "Purchase, grading and dispatch records for cotton, castor and isabgol traders, and order tools for small factories.",
     ai: "WhatsApp replies in Gujarati, Hindi or English for rates, stock, admission and appointment questions, day or night.",
     data: "Dashboards that turn season-wise purchase and sales numbers into charts a trader can read in a minute.",
-    app: "Installable web apps for dealer orders, class notices or tour check-ins, with no app store listing needed.",
+    app: "Android and iOS apps for dealer orders, class notices or Rani ki Vav tour check-ins, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const firozabad: CityContent = {
     software: "Order books, dealer rate lists and dispatch trackers for units that currently manage hundreds of buyers through notebooks and phone contacts.",
     ai: "WhatsApp flows that answer rate and stock questions, collect bulk orders and send the owner a clean daily summary.",
     data: "Sales-by-buyer and design-by-season reports, so a trader can see which colours and sizes actually move before placing the next furnace order.",
-    app: "Installable web apps that let regular buyers browse the catalogue and reorder from their phones without an app store download.",
+    app: "Android and iPhone apps that let regular buyers browse the glassware and bangle catalogue and reorder from their phones, on both app stores.",
     maintenance: "Catalogue updates, backups, security and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

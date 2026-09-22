@@ -51,7 +51,7 @@ const kolar: CityContent = {
     software: "Vendor portals, job cards, quality logs and dispatch registers for units supplying Narasapura and Vemagal plants.",
     ai: "WhatsApp replies that share daily tomato rates, stock or appointment slots in Kannada, Telugu or English.",
     data: "Arrivals, rates, milk collection or production figures turned into a dashboard readable on a phone.",
-    app: "Installable web apps for dealer orders, patient tokens or student notices, no app store needed.",
+    app: "Android and iPhone apps for dealer orders, patient tokens or student notices, from ₹40,000 with release on both Google Play and the App Store.",
     maintenance: "Free updates, backups and checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

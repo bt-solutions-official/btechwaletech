@@ -51,7 +51,7 @@ const nagercoil: CityContent = {
     software: "Order books, artisan job trackers, auction and stock registers, and admissions portals for jewellers, flower and spice traders, and colleges.",
     ai: "WhatsApp assistants that reply to repeat questions about rates, stock, OPD timings and fees in Tamil or English, and pass unusual ones to your team.",
     data: "Dashboards for daily sales, orders by region, student enquiries or patient bookings that owners can read on a phone.",
-    app: "Progressive web apps for order taking, field sales and student portals, installed from a link without app store listings.",
+    app: "Android and iPhone apps for order taking, field sales and student portals, available on Google Play and the App Store in six to ten weeks.",
     maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

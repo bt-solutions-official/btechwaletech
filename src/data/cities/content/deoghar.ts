@@ -51,7 +51,7 @@ const deoghar: CityContent = {
     software: "Room registers, advance booking ledgers, guest ID records and staff rosters for hotels and dharamshalas that still run on paper.",
     ai: "WhatsApp replies in Hindi or English about room availability, darshan timings you publish, fees or stock, with a person taking over when needed.",
     data: "Season-by-season bookings, enquiries and sales in one dashboard, so a hotel or shop can plan staff and stock before Shravan.",
-    app: "Installable web apps for guest bookings, patient tokens or student tests that work from any phone browser without an app store.",
+    app: "Android and iPhone apps for guest bookings, patient tokens or student tests, released on Google Play and the App Store in six to ten weeks.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

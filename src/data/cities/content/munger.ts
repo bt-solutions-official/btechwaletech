@@ -50,7 +50,7 @@ const munger: CityContent = {
     software: "Fee management, admission registers, inventory and order tools for coaching centres, wholesalers and small manufacturers still working from notebooks.",
     ai: "WhatsApp assistants that answer repeated questions about fees, batches, timings, stock and appointments in Hindi or English, and hand anything complicated to your staff.",
     data: "Simple dashboards for student fees, enquiries, stock and sales that an owner can read on a phone between classes or customers.",
-    app: "Installable progressive web apps for student portals, clinic appointments and shop orders, shared with customers as a link.",
+    app: "Android and iPhone apps for student portals, clinic appointments and shop orders, released on Google Play and the App Store in six to ten weeks.",
     maintenance: "Updates, backups, security and speed checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

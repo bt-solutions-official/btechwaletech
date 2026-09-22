@@ -51,7 +51,7 @@ const jabalpur: CityContent = {
     software: "Order management, vendor documentation and inventory tools for garment units and for suppliers who work with the defence factories and the railways.",
     ai: "WhatsApp automation that logs wholesale orders from retailers in Katni, Mandla and Seoni and answers repeated tour-package questions without tying up staff.",
     data: "Production, dispatch and receivables dashboards for manufacturers who currently rely on registers and end-of-month Tally exports.",
-    app: "Mobile-first web apps for sales agents booking garment orders on the road and for guests checking safari and hotel bookings.",
+    app: "Android and iOS apps for sales agents booking garment orders on the road and for guests checking safari and hotel bookings, from ₹40,000.",
     maintenance: "Catalogue updates, festival offers, backups and security patches free for five months, and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

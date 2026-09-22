@@ -50,7 +50,7 @@ const morena: CityContent = {
     software: "Purchase, crushing and dispatch registers for oil mills and Banmore units that currently live in notebooks and scattered Excel files.",
     ai: "WhatsApp assistants that quote the day's oil rate or the next batch timing in Hindi, then hand real buyers to the owner.",
     data: "Simple dashboards comparing mustard purchase prices, oil and cake output and dealer payments week by week.",
-    app: "Installable web apps for dealer ordering, field staff visiting villages, or students checking test results at a coaching centre.",
+    app: "Android and iOS apps for dealer ordering, field staff visiting villages, or students checking coaching test results, released on both app stores.",
     maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or a per-job charge if changes are rare.",
   },
   whyUsIntro:

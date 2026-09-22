@@ -51,7 +51,7 @@ const yemmiganur: CityContent = {
     software: "Loom-wise production registers, yarn stock tracking and buyer ledgers for weaving units and small mills.",
     ai: "WhatsApp replies in Telugu or English that send product photos, sizes and starting rates to retailers and resellers at any hour.",
     data: "Dashboards showing monthly sales by product, pending dues from buyers and which designs keep selling.",
-    app: "Installable web apps for reseller orders, school notices or clinic tokens, with no app store download.",
+    app: "Android and iPhone apps for reseller orders, school notices or clinic tokens, one Flutter or React Native build released on both stores.",
     maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month if needed.",
   },
   whyUsIntro:

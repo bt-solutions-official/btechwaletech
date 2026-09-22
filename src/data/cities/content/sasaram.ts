@@ -51,7 +51,7 @@ const sasaram: CityContent = {
     software: "Dispatch, weighbridge and payment registers for rice mills and stone crushers, and billing tools for wholesale traders.",
     ai: "Hindi WhatsApp replies for fees, doctor days, rates and stock questions, with anything involving money or medicine handed to a person.",
     data: "Simple dashboards that show a mill's dispatches, a hospital's footfall or a coaching centre's admissions by week on your phone.",
-    app: "Installable web apps for attendance, truck entries or order booking that keep working on patchy data around the plateau villages.",
+    app: "Android and iOS apps for attendance, truck entries or order booking that keep working on patchy data around the plateau villages, from ₹40,000.",
     maintenance: "Updates, backups, uptime checks and small edits free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

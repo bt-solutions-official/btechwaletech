@@ -50,7 +50,7 @@ const pondicherry: CityContent = {
     software: "Booking calendars, room inventory and simple order systems for guesthouses, restaurants and industrial estate units.",
     ai: "WhatsApp assistants that answer room, menu and timing questions in English, Tamil or French and pass bookings to your staff.",
     data: "Dashboards for occupancy, booking sources, sales by product and seasonal demand, readable on a phone.",
-    app: "Installable web apps for café pre-orders, class and workshop bookings and patient appointment queues.",
+    app: "Android and iOS apps for café pre-orders, class and workshop bookings and patient appointment queues, listed on Google Play and the App Store.",
     maintenance: "Rate, menu and catalogue updates, backups, security patches and uptime checks, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

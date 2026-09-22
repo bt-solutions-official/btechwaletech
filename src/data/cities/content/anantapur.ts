@@ -51,7 +51,7 @@ const anantapur: CityContent = {
     software: "Stock, order and payment tracking for commission agents, input dealers and wholesalers who still keep ledgers by hand.",
     ai: "WhatsApp assistants that answer fee, stock or appointment questions in Telugu or English and pass the rest to your staff.",
     data: "Dashboards showing sales, collections or admissions by town and season, built from the spreadsheets you already keep.",
-    app: "Installable web apps for field sales, farmer registrations or attendance that work on ordinary Android phones.",
+    app: "Android and iPhone apps for field sales, farmer registrations or attendance that run on ordinary handsets, published on Google Play and the App Store.",
     maintenance: "Free updates, backups and security patches for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

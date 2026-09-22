@@ -50,7 +50,7 @@ const godhra: CityContent = {
     software: "Job-card, purchase-order and dispatch tools for vendors and contractors who serve plants in Halol and Kalol.",
     ai: "WhatsApp assistants that answer rates, stock, fees or booking questions in Gujarati or Hindi, and hand complex chats to your staff.",
     data: "Sales, collection and production dashboards that turn monthly spreadsheets into a page you can read on a phone.",
-    app: "Installable web apps for parents, patients or field staff, with no Play Store download required.",
+    app: "Android and iPhone apps for parents, patients or field staff, built once and released on Google Play and the App Store, from ₹40,000.",
     maintenance: "Updates, backups and fixes free for five months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:
@@ -115,7 +115,7 @@ const godhra: CityContent = {
       paragraphs: [
         "Godhra has become the education centre for eastern Gujarat's tribal belt. Shri Govind Guru University, set up in 2015, has its headquarters here and covers colleges in Panchmahal, Dahod, Mahisagar, Chhota Udepur and rural Vadodara. The town also has a government medical college and a government engineering college on the Lunawada road, along with many private schools, coaching classes and computer institutes.",
         "Students and parents from Lunawada, Shehera, Morva Hadaf and Dahod research these options online before travelling. An institute website should give them straight answers: courses, batches, fees or fee ranges, faculty, facilities, hostel details and location. For schools, admission steps, transport routes and circulars. We avoid invented toppers lists and inflated results, which damage trust once parents compare notes.",
-        "Admission and enquiry forms feed into WhatsApp and a shared sheet, so office staff can follow up properly during admission season. An installable web app can carry notices, timetables and fee reminders to parents without any app store download. Most institution sites start from ₹10,000 or ₹20,000 depending on size.",
+        "Admission and enquiry forms feed into WhatsApp and a shared sheet, so office staff can follow up properly during admission season. An Android and iOS app, published on Google Play and the App Store, can carry notices, timetables and fee reminders to parents. Most institution sites start from ₹10,000 or ₹20,000 depending on size.",
       ],
     },
     {

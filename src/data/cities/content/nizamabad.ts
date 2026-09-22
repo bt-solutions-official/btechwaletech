@@ -51,7 +51,7 @@ const nizamabad: CityContent = {
     software: "Stock, lot and payment registers for commission agents and rice mills that still reconcile accounts by hand.",
     ai: "WhatsApp replies that share daily rates, product lists or appointment slots in Telugu or English without anyone typing them each time.",
     data: "Arrivals, lots, sales and outstanding payments turned into a dashboard you can check after the market closes.",
-    app: "Installable web apps for hospital appointments, school circulars or trader ordering that work without the Play Store.",
+    app: "Android and iPhone apps for hospital appointments, school circulars or trader ordering, one Flutter build listed on Google Play and the App Store.",
     maintenance: "Five months of free updates, backups and security checks after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

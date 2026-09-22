@@ -50,7 +50,7 @@ const naihati: CityContent = {
     software: "Student fee registers, repair job cards and stock tools for Naihati tutors, workshops and wholesalers still using notebooks.",
     ai: "WhatsApp replies in Bengali or English that share fees, batch timings, menus or doctor schedules while you are busy with customers.",
     data: "Monthly sales, fees collected or patient visits turned into one simple chart you can check on your phone.",
-    app: "Installable web apps for coaching attendance, clinic tokens or home delivery orders, with no app store listing needed.",
+    app: "Android and iOS apps for coaching attendance, clinic tokens or home delivery orders, one codebase released on Google Play and the App Store.",
     maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

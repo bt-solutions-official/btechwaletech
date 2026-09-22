@@ -51,7 +51,7 @@ const bhuj: CityContent = {
     software: "Order, dyeing-batch and artisan-payment registers for craft units, and dispatch tools for suppliers serving the port belt.",
     ai: "WhatsApp replies that handle tariff, availability and craft-order questions in Gujarati, Hindi or English during the peak Rann season.",
     data: "Season-by-season booking, sales and stock figures laid out on a phone dashboard so owners can plan for the next winter.",
-    app: "Installable web apps for tour itineraries, guest check-ins, artisan catalogues or dealer orders, without an app store listing.",
+    app: "Android and iOS apps for tour itineraries, guest check-ins, artisan catalogues or dealer orders across Kutch, available on both stores from ₹40,000.",
     maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

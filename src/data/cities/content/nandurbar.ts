@@ -51,7 +51,7 @@ const nandurbar: CityContent = {
     software: "Purchase, grading and payment ledgers for chilli traders and stock and billing tools for wholesalers in the old market lanes.",
     ai: "WhatsApp assistants that answer rate, admission and appointment questions in Marathi, Hindi or Gujarati and hand complex chats to staff.",
     data: "Dashboards that turn daily arrivals, sales, dues and beneficiary records into clear summaries for owners and NGO managers.",
-    app: "Installable web apps for field workers, delivery staff and outreach teams that work offline and sync when the signal returns.",
+    app: "Android and iPhone apps for field workers, delivery staff and outreach teams that work offline and sync when the signal returns, from ₹40,000.",
     maintenance: "Backups, updates, uptime checks and small edits, free for five months and from ₹8,000 a month after that.",
   },
   whyUsIntro:

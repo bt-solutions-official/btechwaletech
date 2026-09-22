@@ -51,7 +51,7 @@ const mandsaur: CityContent = {
     software: "Purchase registers, lot tracking, commission accounts and dispatch logs for mandi traders and slate pencil units.",
     ai: "WhatsApp replies in Hindi that send daily rates, stock and dispatch updates to buyers who have opted in.",
     data: "Arrival, rate and sales records turned into a simple phone dashboard for traders and their partners.",
-    app: "Installable web apps for dealer ordering, student notices or patient tokens, without an app store listing.",
+    app: "Android and iOS apps for dealer ordering, student notices or patient tokens, one Flutter or React Native build listed on both app stores.",
     maintenance: "Five months of free updates, backups and security checks after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

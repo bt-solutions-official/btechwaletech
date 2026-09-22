@@ -51,7 +51,7 @@ const nagaon: CityContent = {
     software: "Stock, billing and dealer ledgers for Bara Bazar wholesalers and rice mills, and admission and fee systems for colleges and institutes.",
     ai: "WhatsApp assistants that answer timings, fees, stock and booking questions in Assamese, Bengali, Hindi or English and pass tricky ones to staff.",
     data: "Dashboards for wholesalers, schools and clinics showing sales, admissions or patient footfall by month instead of scattered registers.",
-    app: "Installable web apps for delivery staff, student attendance or patient queues that run on any Android phone without an app store.",
+    app: "Android and iOS apps for delivery staff, student attendance or patient queues, built in Flutter or React Native and published on both stores.",
     maintenance: "Price and notice updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

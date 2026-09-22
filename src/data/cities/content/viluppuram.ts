@@ -51,7 +51,7 @@ const viluppuram: CityContent = {
     software: "Procurement, weighbridge, stock and dispatch tools for mills and agri traders who still manage paddy arrivals in notebooks.",
     ai: "WhatsApp assistants that answer rate, stock, appointment and fee questions in Tamil or English and hand anything unusual back to you.",
     data: "Season-wise purchase, sales and payment figures turned into a phone-friendly dashboard a mill owner or distributor can read in a minute.",
-    app: "Installable web apps for school circulars, clinic tokens and dealer orders, with no Play Store download required.",
+    app: "Android and iOS apps for school circulars, clinic tokens and dealer orders, listed on both stores with prices from ₹40,000.",
     maintenance: "Backups, security patches, content edits and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const guntakal: CityContent = {
     software: "Job registers, material logs and billing tools for railway contractors, transporters and wholesale dealers who still juggle paper and phone calls.",
     ai: "WhatsApp assistants that answer routine questions in Telugu, Kannada, Urdu or English and pass real bookings and orders to a person.",
     data: "Simple dashboards for patient counts, admissions, stock movement or contract billing, readable on the owner's phone.",
-    app: "Installable web apps for delivery riders, field staff or parents of a coaching batch, with no app-store listing required.",
+    app: "Android and iOS apps for delivery riders, field staff or parents of a coaching batch, from ₹40,000 with Google Play and App Store release.",
     maintenance: "Five free months of fixes and updates after launch, then plans from ₹8,000 a month or payment only when you need a change.",
   },
   whyUsIntro:

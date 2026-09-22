@@ -50,7 +50,7 @@ const adilabad: CityContent = {
     software: "Cotton arrival and bale registers, dealer credit books, vehicle service job cards and fee systems for businesses running on paper.",
     ai: "WhatsApp assistants that answer routine questions on rates, stock, rooms or OP timings in Telugu, Marathi, Hindi or English, and hand over the rest.",
     data: "Dashboards for arrivals, bales pressed, dispatches, dealer dues and enquiry sources, easy to read on a phone during the busy season.",
-    app: "Installable web apps for field staff visiting villages, college students and patients, shared as a link rather than a store app.",
+    app: "Android and iOS apps for field staff visiting villages, college students and patients, published on Google Play and the App Store, from ₹40,000.",
     maintenance: "Free updates, backups and security checks for five months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

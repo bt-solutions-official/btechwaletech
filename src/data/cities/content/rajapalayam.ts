@@ -51,7 +51,7 @@ const rajapalayam: CityContent = {
     software: "Order, production and dispatch trackers for spinning, weaving, gauze and garment units still working from spreadsheets and registers.",
     ai: "WhatsApp assistants that share catalogues, MOQs and dispatch status with wholesale buyers in Tamil or English, even outside office hours.",
     data: "Dashboards showing orders, production and outstanding payments by buyer and product for mill owners and garment exporters.",
-    app: "Installable web apps for field sales, school updates or orchard pre-orders, with no app store listing needed.",
+    app: "Android and iOS apps for field sales, school updates or orchard pre-orders, published on both app stores and ready in six to ten weeks.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

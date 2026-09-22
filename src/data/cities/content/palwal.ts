@@ -50,7 +50,7 @@ const palwal: CityContent = {
     software: "Order, job-card, stock and dispatch software for Prithla and Baghola units supplying larger NCR manufacturers.",
     ai: "WhatsApp assistants that answer common questions, log every enquiry and pass serious buyers to the right person on your team.",
     data: "Production, sales and collection dashboards that let a factory owner see the day's numbers on a phone before reaching the unit.",
-    app: "Installable progressive web apps for field sales, site visits and service calls that work on any Android phone without an app store.",
+    app: "Android and iOS apps for field sales, site visits and service calls, built in Flutter or React Native and listed on both app stores from ₹40,000.",
     maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you choose to continue.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const hyderabad: CityContent = {
     software: "Portals, dashboards and internal tools for pharma suppliers, distributors and service companies still running on email chains and spreadsheets.",
     ai: "AI assistants and workflow automation that answer routine questions in Telugu, Hindi, Urdu or English and route the rest to your team.",
     data: "Dashboards that pull sales, stock and batch data from Tally, ERP or spreadsheets into one view, built by an engineer who works in data every day.",
-    app: "Progressive web apps for bookings, deliveries and field sales that install from the browser and run on low-cost phones.",
+    app: "Android and iOS apps for bookings, deliveries and field sales that run on low-cost phones, built once and listed on Google Play and the App Store.",
     maintenance: "Updates, backups, security patches and uptime monitoring, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

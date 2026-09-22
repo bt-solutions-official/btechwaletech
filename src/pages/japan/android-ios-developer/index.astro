@@ -1,0 +1,673 @@
+---
+import JapanServicePage from "@components/japan/JapanServicePage.astro";
+import type { Article } from "@components/japan/JapanServicePage.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { usd, countryOgImage } from "@data/countries/international";
+import { JPY_PER_USD, jpy, both, ja, japanRegions, japanServiceSchema } from "@data/countries/japan";
+
+const path = "/japan/android-ios-developer/";
+const prefectureCount = japanRegions.reduce((n, r) => n + r.prefectures.length, 0);
+
+// ---------- FAQ (visible list and FAQPage schema share this array; plain text only) ----------
+
+const faqs = [
+  {
+    question: "How much does it cost to build an app in Japan?",
+    answer: `Japanese 2026 price guides put contract app development at roughly ¥1,000,000 to ¥2,000,000 per platform, so an app built natively for both iPhone and Android often costs about twice that. Larger apps are quoted from ¥3,000,000, and very small apps from around ¥500,000. Our Android and iOS app plan starts from ${both("Android")} for one cross-platform app on both stores, including an admin panel. The final quote depends on screens, integrations, payments and the back end, and every figure here is a starting price rather than a fixed quote.`,
+  },
+  {
+    question: "Why is your app price so much lower than Japanese app companies?",
+    answer: "Two reasons. First, we build one Flutter or React Native codebase that runs on iPhone and Android instead of two separate native apps, which removes a large part of the work. Second, our costs are lower: we are three engineers in India with no Tokyo office, no sales team and no layers of subcontracting between you and the developers. You give something up for that price: everything happens in English and online, and your side has to write or check the Japanese text in the app.",
+  },
+  {
+    question: "Are you a Japanese app development company?",
+    answer: "No. We are three engineers in India, and every project with a Japanese business is handled remotely. We have no office, company registration, staff or address in Japan, and nobody on the team speaks business Japanese. You talk directly with Ankur, Santosh and Vedansh, the people who plan the architecture, write the code and publish the app. If you need a vendor that runs meetings in Japanese or visits your premises, a Japanese company will suit you better, and we would rather say so before you sign anything.",
+  },
+  {
+    question: "Do you build with Flutter or React Native?",
+    answer: "Both, and we choose per project. Flutter draws its own interface, so screens look the same on every phone and brand-heavy custom designs are straightforward. React Native uses native components and suits teams that already work in TypeScript or run a React website, because some logic can be shared. For most business apps in Japan either works well. We explain the choice in the scope document, and we recommend fully native Swift and Kotlin only when an app depends heavily on specialised device features.",
+  },
+  {
+    question: "Can you publish the app on the App Store and Google Play under our company name?",
+    answer: "Yes, and it should always be your company's name. You enrol in the Apple Developer Program and open a Google Play developer account as an organisation, then invite us as team members. We prepare builds, screenshots, privacy details and store listing fields, submit them for review and answer reviewer questions. Store fees are paid by you directly to Apple and Google. Because the accounts are yours, the listings, ratings and download history stay with your company if you ever change developer.",
+  },
+  {
+    question: "Can the app take payments with PayPay, JCB or konbini?",
+    answer: "For physical goods and real-world services, such as products, takeout orders, salon bookings or deliveries, yes. The app can take cards including JCB through a payment provider, and konbini payment or PayPay through providers that support them, with each merchant account applied for, and reviewed by the provider, under your company. Digital content used inside the app, such as premium features or subscriptions, has generally fallen under Apple and Google in-app purchase rules, although Japan's smartphone competition law has opened alternatives. We check the current store terms for your case before designing checkout.",
+  },
+  {
+    question: "What changed for apps under Japan's Mobile Software Competition Act?",
+    answer: "The Mobile Software Competition Act designates Apple and Google as providers of smartphone operating systems and app stores, and its main obligations took full effect on 18 December 2025. It is intended to allow alternative app stores and alternative payment options for apps distributed in Japan, and both companies have published Japan-specific terms, fees and conditions for using them. The details are complex and still being refined, so we read the current terms for your app type before recommending a payment or distribution approach. This is not legal advice.",
+  },
+  {
+    question: "How long does it take to build an Android and iOS app?",
+    answer: "A focused first version, such as a member app with login, a digital point card, news and push notifications, usually takes six to ten weeks from approved scope to store submission. Apps with bookings, payments, offline sync or several integrations take longer, and the quote includes a week-by-week plan. Store review adds time: Apple and Google often review within days, but a first submission can bring questions. Japanese text, approvals from several people and legal wording are the most common causes of delay.",
+  },
+  {
+    question: "Do you work in Japanese?",
+    answer: "English is our working language. Nobody on the team can produce Japanese that reads naturally, so your app's Japanese wording never comes from us, and machine translation is never shipped as final copy. We do build the Japanese interface properly, with Japanese fonts and glyph shapes, sensible line breaks, name and furigana fields, postal code lookup, kana-to-kanji input handling and correct date formats, and every string lives in one translation file. Your staff, a bilingual colleague or a translator writes or reviews the Japanese, and we import it without copy-paste errors.",
+  },
+  {
+    question: "Can you add LINE Login and LINE messages to our app?",
+    answer: "Yes. LINE Login lets customers sign in with the LINE account they already use, which removes a password step for many Japanese users, and the Messaging API can send booking reminders, order updates or point balances through your LINE Official Account. We link each LINE user to the member record on your server, respect opt-outs and keep message volume sensible, because LINE plans include a set number of messages. On iPhone, apps that offer third-party login may also need an additional privacy-focused login option under Apple's rules.",
+  },
+  {
+    question: "Should we build a store app or a progressive web app?",
+    answer: "If customers use you once or twice a year, a progressive web app or a fast mobile website is usually enough: no store review, no install and updates that go live instantly. A store app earns its cost when people return often, when you need dependable push notifications, a digital point card on the home screen, camera or Bluetooth features, or offline use for staff. A LINE-based mini app is a third option for shops whose customers already follow them on LINE. We recommend the cheapest option that meets the goal.",
+  },
+  {
+    question: "Who owns the app source code?",
+    answer: "You do. The source code sits in a Git repository owned by your company, the store listings are under your developer accounts, and the cloud, database, push notification and analytics accounts are opened in your name, with every credential handed over at launch. Once the project is paid, the code written for you is yours to keep, change or give to another developer. We also document how to build, sign and release the app, so a different team could take over without needing us.",
+  },
+  {
+    question: "What does app maintenance cost after launch?",
+    answer: `The first five months after release cost nothing and cover bug fixes, small changes, dependency and security updates, and help with store review questions on updates. From the sixth month, an ongoing plan starts from ${both("Maintenance")}. Apps need more upkeep than websites because Apple and Google release new operating system versions every year and periodically raise the SDK and API levels that updates must target. Servers, databases, push notifications and other outside services bill your company directly.`,
+  },
+  {
+    question: "Where will the app back end and user data be hosted?",
+    answer: "For apps whose users are mainly in Japan, we normally run the API and database in Tokyo on AWS or Google Cloud and copy backups to Osaka, so one regional outage cannot take everything down. Keeping data in Japan helps speed and keeps discussions with your advisers simple, although it does not change the APPI rules on who may access the data. Japanese price guides often quote around ¥20,000 a month for app servers; small apps can run on less, and the cloud provider bills your company directly.",
+  },
+  {
+    question: "Can our app comply with the APPI?",
+    answer: "The app is designed around the Act on the Protection of Personal Information: a stated purpose for each piece of data in the app and privacy policy, only the data each feature needs, encrypted connections, role-based admin access and account deletion on request. If our team in India can access personal data, that is provision to a third party in a foreign country under the APPI, which needs consent with information about India's system or an equivalent protection system. We minimise our access and test with dummy data. Your adviser should confirm the approach.",
+  },
+  {
+    question: "Do you charge Japanese consumption tax or issue qualified invoices?",
+    answer: "No. We have not registered as a qualified invoice issuer in Japan, which means our invoices contain no Japanese consumption tax and cannot be used as qualified invoices for input tax credits. The consumption tax treatment of services bought from an overseas developer, and any withholding question, depends on your company's situation, so please ask your tax accountant (zeirishi). Japanese IT adoption subsidies also require registered support providers, and we are not one, so an app built by us cannot be funded that way.",
+  },
+  {
+    question: "What hours are you available in Japan time?",
+    answer: "We are reachable on WhatsApp every day from 9 am to 9 pm India time, or from 12:30 pm until 12:30 am JST. India is 3.5 hours behind Japan and no daylight saving applies in either country, so the gap stays the same all year. Afternoon calls are easy to schedule, test builds based on your morning feedback usually arrive the same evening, and for release days or urgent store review problems we can book an earlier slot, around 10 am JST, ahead of time.",
+  },
+  {
+    question: "How do we pay, and can you invoice in yen?",
+    answer: `Prices are quoted in US dollars, with approximate yen at ¥${JPY_PER_USD} per dollar. If your accounts team prefers yen, the quote states a JPY amount and that is what the invoice shows, whatever the currency markets do. Transfers go through Wise or an international bank wire, split into three stages: a deposit when work begins, a second instalment once the designs are signed off, and the remainder just before release. Your Apple and Google developer fees, cloud bills, LINE plan and payment processing charges go straight from your company to each provider.`,
+  },
+  {
+    question: "Can you add AI features to an app?",
+    answer: `Yes, where they save real effort. Examples include a chat assistant that answers questions from your own FAQs and manuals, photo recognition that helps field staff log equipment, AI-OCR that reads receipts or paper orders, and summaries of customer feedback in the admin panel. AI calls run through your back end rather than the app, so keys stay private and usage can be capped. AI automation starts from ${both("AI automation")}, and model API usage is billed by the provider directly to you.`,
+  },
+  {
+    question: "Can you take over or rebuild an existing app?",
+    answer: "Often, yes. We first ask for access to the source code, store accounts and back end, then check the framework version, dependencies, build setup and crash reports. Sometimes an update is enough; sometimes an app built on outdated tools is cheaper to rebuild in Flutter or React Native than to repair. Either way you get a written assessment before any work is quoted. If a previous developer still controls your store accounts or signing keys, recovering them comes first.",
+  },
+  {
+    question: "What do you need from us to start an app project?",
+    answer: "Just a short English message by WhatsApp or email covering what the app should do, who will use it, which platforms matter and which systems it must connect to, such as a website, kintone, Shopify or a point-of-sale system. Screenshots of apps you like help a lot. Our reply comes with questions first; after that you receive a written scope, a screen list, a schedule and a USD or JPY quote, normally within two working days. Nothing starts until you approve that scope.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Android & iOS App Developer in Japan | Flutter Apps",
+  description: `Android and iOS apps for businesses in Japan: one Flutter or React Native codebase, LINE Login and App Store publishing. From ${usd("Android")} (about ${jpy("Android")}).`,
+  canonicalPath: path,
+  h1: "Android and iOS app developer in Japan, serving Tokyo, Osaka, Nagoya and all 47 prefectures",
+  intro: "BtechWaleTech is three engineers in India building Android and iOS apps for businesses in Japan: point card and member apps, booking apps for salons, clinics and restaurants, ecommerce and B2B ordering apps, and offline apps for field staff. We write one Flutter or React Native codebase for iPhone and Android, add the admin panel and API, and publish under your company's store accounts. We work remotely in English, with no account manager between you and the developers.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Japan", href: "/japan/" },
+    { label: "Android & iOS developer", href: path },
+  ]),
+  locale: "en_JP",
+  ogImage: countryOgImage("BtechWaleTech, a remote Android and iOS app development team in India serving businesses in Japan"),
+  keywords: [
+    "app developer Japan",
+    "Android app developer Japan",
+    "iOS developer Tokyo",
+    "iPhone app development Japan",
+    "mobile app development company Japan",
+    "hire app developer Japan",
+    "app development cost Japan",
+    "Flutter developer Japan",
+    "React Native developer Japan",
+    "cross-platform app development Japan",
+    "app developer Osaka",
+    "app developer Nagoya",
+    "app development Yokohama",
+    "app developer Fukuoka",
+    "app development Sapporo",
+    "app developer Kyoto",
+    "app development Kobe",
+    "app developer Sendai",
+    "point card app Japan",
+    "booking app development Japan",
+    "LINE Login app integration",
+    "ecommerce app Japan",
+    "field service app Japan",
+    "offshore app development India Japan",
+    "affordable app development Japan",
+    "English app developer Japan",
+    "startup MVP app Tokyo",
+    "App Store publishing Japan",
+    "アプリ開発 外注",
+    "アプリ開発 費用",
+    "スマホアプリ 制作",
+    "Flutter 開発",
+  ],
+});
+
+const schema = japanServiceSchema({
+  path,
+  title: page.title,
+  description: page.description,
+  serviceName: "Android and iOS app development for businesses in Japan",
+  serviceType: "Mobile app development",
+  plans: ["Android", "Custom web app", "Maintenance"],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Japan · Android & iOS apps · Remote team in India";
+const facts: [string, string][] = [
+  ["Team", "Three engineers in India, remote only"],
+  ["App starting price", `From ${usd("Android")}, about ${jpy("Android")}`],
+  ["Platforms", "iPhone and Android from one codebase"],
+  ["Japan time", "Online 12:30 pm to 12:30 am JST"],
+  ["Billing", "USD or fixed JPY, by Wise or bank wire"],
+  ["After launch", "Five free months of maintenance"],
+];
+const pills = ["Flutter and React Native", "Point card and member apps", "Salon, clinic and restaurant booking", "LINE Login and messaging", "Offline field apps", "App Store and Google Play publishing"];
+const heroOrigin = "Built by a remote team in India · No office in Japan · Serving all 47 prefectures";
+const quoteKicker = "App starting prices for Japan";
+const quotePlans = ["Android", "Custom web app", "AI automation", "Maintenance"];
+const quoteFoot = `USD starting prices; yen shown at ¥${JPY_PER_USD} to the dollar as a guide. Store fees, hosting and payment fees are paid by you directly. 5 months maintenance free after launch.`;
+
+const stats = [
+  { value: "1", label: "Codebase for iPhone and Android" },
+  { value: usd("Android"), label: `App starting price, about ${jpy("Android")}` },
+  { value: "5", label: "Months maintenance free after launch" },
+  { value: "3.5 h", label: "Time difference, India behind Japan" },
+];
+
+const answerHeading = "Looking for an Android and iOS app developer for your business in Japan?";
+const quickAnswer = `We are three engineers in India making Android and iOS apps for Japanese businesses: member and point card apps, booking apps, ecommerce and ordering apps, and field-work apps, all from one Flutter or React Native codebase with an admin panel and API. Apps start from ${both("Android")}, against 2026 Japanese price guides that put contract development at ¥1,000,000 to ¥2,000,000 per platform. We work remotely in English, publish under your company's store accounts and include five months of maintenance after launch.`;
+const answerMore = "Your team tests a new build in the morning, we come online at 12:30 pm Japan time, and fixes usually reach TestFlight and Google Play internal testing the same evening. The Japanese text is written or reviewed on your side, while we handle Japanese input, fonts and forms in the code.";
+const snapshotCaption = "Android and iOS apps for Japan at a glance";
+const snapshot = [
+  { label: "Who builds it", value: "Ankur (full stack), Santosh (AI, cloud and deployment) and Vedansh (delivery), in India" },
+  { label: "Frameworks", value: "Flutter or React Native, one codebase for iPhone and Android; native only when needed" },
+  { label: "Typical apps", value: "Point card and member apps, booking, ecommerce, B2B ordering, field-work and tourism apps" },
+  { label: "Store accounts", value: "Apple and Google developer accounts in your company's name; we publish as team members" },
+  { label: "Japanese language", value: "Fonts, furigana, postal code lookup and Japanese input handled; your side writes or reviews the text" },
+  { label: "Starting price", value: `From ${both("Android")} for an app on both stores` },
+  { label: "Our hours in JST", value: "12:30 pm to 12:30 am daily, via WhatsApp" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "App development services for businesses in Japan";
+const services: { name: string; note: string; href?: string; size: "lg" | "md" | "sm" }[] = [
+  { name: "Android & iOS apps from one codebase", note: `Flutter or React Native apps for iPhone and Android with an admin panel and API, published under your company's store accounts, from ${both("Android")}.`, href: "/it-services/android-ios-app/", size: "lg" },
+  { name: "Membership and point card apps", note: "Digital member cards with QR or barcodes, points, coupons, news and push notifications, with LINE Login if your customers prefer it.", size: "md" },
+  { name: "Booking apps", note: "Salon, clinic and restaurant bookings with staff and menu choice, reminders and cancellation rules.", size: "sm" },
+  { name: "Staff and field apps", note: "Offline checklists, photo reports, scanning and PDF output for construction, maintenance and logistics teams.", size: "sm" },
+  { name: "Admin panels and back ends", note: "APIs, databases and staff dashboards hosted in Tokyo, connected to kintone, Shopify or your existing systems.", href: "/japan/software-development/", size: "sm" },
+  { name: "AI features and automation", note: "Chat assistants on your own FAQs, AI-OCR for paper orders and workflow automation around the app.", href: "/japan/ai-automation-engineer/", size: "sm" },
+  { name: "Progressive web apps", note: "Installable web apps without store review, for internal tools, B2B ordering and occasional-use services.", href: "/japan/website-developer/", size: "sm" },
+  { name: "App maintenance", note: `OS updates, crash fixes and store review support, five months free after launch, then from ${both("Maintenance")}.`, size: "sm" },
+];
+
+// ---------- Pricing ----------
+
+const pricingHeading = "App, web app and maintenance prices for Japan in USD and yen";
+const pricingIntro = `All our starting prices in US dollars, with approximate yen at ¥${JPY_PER_USD} per dollar. For app projects the Android and iOS app plan is the main one; the custom web app, AI automation and maintenance plans cover heavier back ends, AI features and support after launch. Your written quote fixes the final amount in USD or JPY.`;
+const pricingFine = `These are entry prices for a clearly defined first release, and your written quote replaces them. Yen figures use ¥${JPY_PER_USD} to the US dollar as a guide. Apple and Google developer fees, cloud hosting, push and SMS services, LINE plans, API usage and payment fees are billed to you directly by those providers. No Japanese consumption tax is added to our invoices.`;
+
+// ---------- Regions: guide blocks and region table both come from japanRegions ----------
+
+const regionNotes: Record<string, { character: string; build: string; text: string }> = {
+  Hokkaido: {
+    character: "Tourism, ski resorts, food and dairy, seafood, semiconductors near Chitose",
+    build: "Multilingual resort and activity apps, food ecommerce apps, offline field apps for farms and winter crews",
+    text: "Hokkaido is one prefecture and a whole region, and its distances are long, which makes apps useful for businesses whose customers are spread thinly across a large area. Sapporo has retail chains, IT companies, food brands and tourism operators that run member programmes and want a digital card instead of plastic. Niseko, Furano and Rusutsu fill with international skiers each winter, so ski schools, rental shops, restaurants and lodges benefit from apps or web apps in English, Chinese and Korean with lesson bookings, maps and push alerts for weather and lift closures. In Hakodate, Otaru and Asahikawa, seafood, dairy and confectionery makers ship across Japan and can use an ecommerce app with repeat orders and delivery date choice. Farms and agricultural cooperatives need field apps that keep working offline across wide rural areas, snow-clearing and winter maintenance crews need photo reports, and the Rapidus semiconductor project around Chitose brings construction firms and suppliers that need inspection and staff apps.",
+  },
+  Tohoku: {
+    character: "Agriculture, sake, crafts, food processing, universities, hot spring tourism",
+    build: "Producer ordering and subscription apps, onsen and ski booking, offline field apps, staff apps for small factories",
+    text: "Tohoku's six prefectures cover northern Honshu, and Sendai in Miyagi is the business centre, with Tohoku University, branch offices of national firms and a startup community that needs MVP apps built on modest budgets. Growers of Aomori apples, Yamagata cherries, Fukushima peaches and Akita rice, and brewers of the region's sake, increasingly sell straight to consumers, and producers use apps for seasonal pre-orders, subscriptions and loyal customers in Tokyo. Iwate's ironware and other crafts attract overseas buyers who want English product screens. Zao and other onsen and ski resorts welcome overseas guests, who book more easily in their own language. Food processors and parts makers across Tohoku face a shrinking local workforce, so shift management, inspection checklists and training-video apps help small teams cover more ground. Fukushima's coastal energy and robotics projects need field data collection, and mountain valleys and wide farmland make offline mode a standard requirement for any field app in this region.",
+  },
+  Kanto: {
+    character: "Headquarters, finance, startups, foreign companies, retail chains, logistics",
+    build: "Startup MVPs, member apps for retail and restaurant chains, internal sales and field apps, bilingual apps",
+    text: "Kanto has the largest concentration of companies in Japan and, with it, the widest range of app projects. Shibuya's startups need consumer and SaaS apps that can be put in front of real users quickly. Marunouchi and Otemachi hold banks, insurers and large corporations with strict security reviews, and many overseas-owned firms keep offices in Roppongi, Akasaka and Toranomon and would rather work in English. In Kanagawa, Yokohama and Kawasaki add research labs, electronics firms and port logistics. Saitama's warehouses and distribution centres need handheld scanning and delivery apps, and Chiba adds Narita Airport's logistics and the Makuhari convention district. Beyond the metropolis, Tsukuba's research institutes in Ibaraki, factories and Nikko tourism in Tochigi, and automotive plants and onsen resorts in Gunma round out the region. Buyers in Kanto compare vendors carefully, so a written screen list, test builds from the first weeks and store accounts in the client's name matter as much as the price.",
+  },
+  Chubu: {
+    character: "Automotive and precision manufacturing, machinery, crafts, tea, mountain and ski tourism",
+    build: "Factory inspection and maintenance apps, B2B parts ordering, craft and food ecommerce, ski resort apps",
+    text: "Chubu spans central Honshu between two coasts and holds the country's densest manufacturing belt. Around Nagoya and Toyota City in Aichi, and across Gifu and Shizuoka, thousands of small and mid-sized companies supply parts, moulds, tooling and machinery to the car industry. For them the most valuable apps are rarely consumer apps: they are inspection checklists, maintenance logs, parts ordering and quality reports that replace paper on the shop floor, often on company-issued Android phones or tablets. Hamamatsu's motorcycle, instrument and photonics makers and Shizuoka's tea growers add both B2B and direct-to-consumer needs. On the Sea of Japan side, Niigata's rice and sake, Tsubame-Sanjo's cutlery and tools, Toyama's medicine makers, Kanazawa's crafts in Ishikawa and the eyeglass frame workshops of Sabae in Fukui sell nationally and abroad, where ordering apps and English catalogues help. Nagano and Yamanashi pair precision industry with Hakuba's ski slopes and wine tourism, which need seasonal multilingual guide and booking apps.",
+  },
+  Kansai: {
+    character: "Commerce and wholesale, pharmaceuticals, electronics, heavy inbound tourism, port logistics",
+    build: "Wholesale ordering apps, restaurant and retail member apps, multilingual tourism apps, clinic and salon booking",
+    text: "Kansai's seven prefectures make up the country's second-largest business region. Osaka's trading houses and wholesalers, the pharmaceutical companies around Doshomachi and the packed restaurant and shopping streets of Umeda and Namba make B2B ordering apps and point apps for restaurant groups everyday requests. Kyoto mixes electronics and game companies with temples, ryokan, craft workshops and very heavy visitor numbers, where multilingual ticketing, guide and booking apps take pressure off front-line staff. Kobe in Hyogo has a busy port, a biomedical cluster on Port Island and confectionery and food brands whose regular customers suit a member app. In Nara and Wakayama, visitors walk the Kumano Kodo and climb to Koyasan, where offline maps and audio guides matter because signal is patchy. Mie has Ise Shrine and the industrial zone around Yokkaichi, and Shiga's plants around Lake Biwa need factory and inspection apps. Clinics, dental practices and salons across the region commonly want booking apps that send reminders through LINE.",
+  },
+  Chugoku: {
+    character: "Car plants, shipyards, chemical complexes, denim workshops, fruit growers, heritage sites",
+    build: "Inspection and safety apps for heavy industry, producer and denim brand apps, heritage tourism guides",
+    text: "Chugoku covers five prefectures across western Honshu. Hiroshima, the region's biggest city, has car plants and shipbuilding suppliers that need inspection, maintenance and parts apps, while the Peace Memorial and Miyajima bring international visitors who benefit from guides in their own language. In Okayama, a rail and road junction for western Japan, fruit growers sell white peaches and Muscat grapes as gifts, and denim workshops in Kojima, Kurashiki, sell to fans at home and abroad through ecommerce apps with new-release alerts. Yamaguchi's chemical complexes and plants need safety checklists and offline reports, and Shimonoseki is known for its fugu trade. On the Sea of Japan coast, sparsely populated Tottori and Shimane draw visitors to the sand dunes, Izumo Taisha and Matsue Castle, and their small producers need ordering tools that do not cost millions of yen. For many businesses in Chugoku, a progressive web app or a LINE-based flow is a sensible first step, with a store app added once usage justifies it.",
+  },
+  Shikoku: {
+    character: "Towel makers, citrus farms, udon, shipyards, island art festivals, the 88-temple walk",
+    build: "Gift and producer ecommerce apps, pilgrimage and art tourism guides, shipyard and factory field apps",
+    text: "Shikoku's four prefectures have strong local brands and a tourism economy built around walking routes and islands. Visitors come to Kagawa for sanuki udon and for the art islands of Naoshima and the Setouchi Triennale, where multilingual guides, ferry details and tickets work well in an app or web app. Imabari in Ehime is Japan's best-known towel-making centre and also builds ships, which brings both gift ecommerce and shipyard field apps, and Matsuyama with Dogo Onsen draws domestic and overseas visitors. Tokushima pairs its famous summer dance festival with LED manufacturing, while Kochi sells bonito and yuzu products nationwide. Pilgrims walking the 88 temples of the Shikoku route rely on offline maps, lodging details and progress tracking in stretches with little signal, which suits an app that caches everything in advance. Citrus farms and food producers across the island send gift boxes all over Japan, where an app with repeat orders, delivery dates and noshi wrapping options fits the seasonal rhythm of Japanese gift giving.",
+  },
+  "Kyushu and Okinawa": {
+    character: "Chip supply chains, Fukuoka startups, porcelain, onsen towns, food producers, island resorts",
+    build: "Startup MVPs, shift and field apps for chip supply chains, onsen and resort booking, food ecommerce apps",
+    text: "Kyushu and Okinawa make up Japan's southern region. Fukuoka has built a reputation as a startup city, where founders build consumer and B2B apps, and its airport's short hops to Seoul, Busan, Shanghai and Taipei make multilingual apps a natural choice. Kitakyushu's steel, robotics and environmental technology companies need maintenance and inspection apps. Around Kikuyo in Kumamoto, where TSMC's Japanese subsidiary runs a chip plant, suppliers, builders and new staff use shift, logistics and field apps. Porcelain from Arita and Imari in Saga, shipyards and heritage tourism in Nagasaki, the hot spring towns of Beppu and Yufuin in Oita, beef and mangoes from Miyazaki, and shochu and black pork from Kagoshima all support producer ecommerce and tourism apps. Okinawa combines resort tourism with a growing IT sector, and its hotels, dive shops and tour operators want booking apps and guides for visitors from across Asia. Island logistics in Okinawa and Kagoshima also make offline-capable delivery and inspection apps genuinely useful.",
+  },
+};
+
+// ---------- Major cities ----------
+
+const cityRows = [
+  ["Tokyo (23 wards)", "Tokyo", "Startup MVPs in Shibuya, corporate and finance apps with strict security reviews, bilingual apps for foreign companies in Minato"],
+  ["Yokohama", "Kanagawa", "Retail and restaurant member apps, research and port logistics apps, visitor apps around Minato Mirai and Chinatown"],
+  ["Osaka", "Osaka", "Wholesale ordering apps, restaurant group point apps, staff tools for pharmaceutical and retail firms"],
+  ["Nagoya", "Aichi", "Inspection and maintenance apps for automotive suppliers, B2B ordering, retail apps in Sakae and Meieki"],
+  ["Sapporo", "Hokkaido", "Food brand ecommerce apps, visitor apps for Hokkaido tourism, point cards for local retail"],
+  ["Fukuoka", "Fukuoka", "Startup MVPs, multilingual apps for Korean, Taiwanese and Chinese visitors, Tenjin and Hakata retail"],
+  ["Kobe", "Hyogo", "Member apps for confectionery and food brands, port logistics apps, biomedical staff tools"],
+  ["Kawasaki", "Kanagawa", "Internal apps for electronics and IT companies, field apps for waterfront industry"],
+  ["Kyoto", "Kyoto", "Multilingual ticketing and guide apps, ryokan and restaurant booking, craft ecommerce"],
+  ["Saitama", "Saitama", "Warehouse scanning and delivery apps, commuter retail member apps around Omiya"],
+  ["Hiroshima", "Hiroshima", "Field apps for car and shipbuilding suppliers, visitor guides for Miyajima and the Peace Memorial"],
+  ["Sendai", "Miyagi", "MVPs for startups and university spin-offs, regional retail and clinic booking apps"],
+  ["Chiba", "Chiba", "Logistics apps near Narita, event and exhibitor apps around Makuhari"],
+  ["Kitakyushu", "Fukuoka", "Maintenance and inspection apps for steel, robotics and plant operators"],
+  ["Sakai", "Osaka", "Direct sales apps for knife and bicycle parts makers, local clinic and salon booking"],
+  ["Niigata", "Niigata", "Ordering and subscription apps for rice and sake producers, food processing staff tools"],
+  ["Hamamatsu", "Shizuoka", "Factory apps for motorcycle, car and instrument suppliers, multilingual staff apps"],
+  ["Kumamoto", "Kumamoto", "Shift and field apps for the chip supply chain around Kikuyo, farm produce ordering"],
+  ["Sagamihara", "Kanagawa", "Manufacturing inspection apps, local retail and clinic booking"],
+  ["Shizuoka", "Shizuoka", "Ecommerce apps for green tea producers, fan apps for hobby and model makers"],
+  ["Okayama", "Okayama", "Fruit gift ecommerce apps, denim brand apps, logistics apps for the western Japan hub"],
+];
+
+// ---------- Long-form guide (paragraph, list and after strings may contain inline HTML) ----------
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who builds your app, and which projects in Japan we suit",
+    paragraphs: [
+      `BtechWaleTech is a three-person engineering team in India. <strong>Ankur Kumar</strong> is our full stack developer and writes the app screens, the API and the integrations. <strong>Santosh Sharma</strong> covers AI and machine learning, AWS, data, deployment and technical SEO, which in app projects means the cloud back end, analytics and release pipelines. <strong>Vedansh Shrivastava</strong> owns delivery, keeping scope, schedule and testing on track, and also works on data science, AI and automation. When you message us about an app, one of the three answers, and the same three build and publish it. Nobody sits between you and the code, and nothing is passed to a subcontractor.`,
+      `Honesty matters more in app work than in most projects, because an app sits on your customers' phones under your company's name. So, plainly: we have no office, registered company, staff or address in Japan, and we do not meet clients in person. We work in English, and nobody on the team writes natural Japanese. This page does not list Japanese clients, testimonials, awards or partner badges, because we will not invent them. What we offer is direct access to the engineers, a written scope, test builds you can install on your own phone throughout the project, and starting prices well below typical Japanese ${ja("アプリ開発")} (app development) quotes.`,
+      "We suit companies that can work in English or have one bilingual person in the chat: Japanese arms of overseas groups, founders from abroad in Tokyo, Fukuoka and Osaka building a first product, inbound tourism businesses that need apps in English, Chinese and Korean, and Japanese small and mid-sized companies whose owners want a practical member, booking or ordering app without a multi-million-yen budget. We are a weaker fit if your team works only in Japanese and nobody can review text, if you need on-site requirement workshops, or if you need a subsidy-registered vendor.",
+      `App projects also need decisions that only you can make: which features matter at launch, how points or bookings work, who approves the store listing and who answers customers after release. We help you make those decisions in writing, with a screen list and feature list you approve before any code is written. For a wider view of what we build for Japan, including websites, SEO and custom software, see <a href="/japan/">our Japan page</a>.`,
+    ],
+  },
+  {
+    id: "apps-we-build",
+    heading: "Apps we build for businesses in Japan",
+    paragraphs: [
+      `Most business apps in Japan fall into a handful of patterns. Each one below is built as a single Flutter or React Native codebase for iPhone and Android, with an admin panel your staff use in a browser and an API that connects the two. Buyers often search for ${ja("スマホアプリ 制作")} (smartphone app production) or ${ja("アプリ開発 外注")} (outsourced app development) when they reach this stage, and these are the projects behind those searches.`,
+    ],
+    list: [
+      `<strong>Membership and point card apps (${ja("ポイントカードアプリ")}).</strong> A digital member card with a QR code or barcode scanned at the till, stamp or point balances, coupons, news and push notifications. Common for cafés, bakeries, salons, drugstores and regional supermarkets replacing paper stamp cards. Points rules, expiry and the link to your point-of-sale system are scoped first, because they decide most of the cost.`,
+      "<strong>Booking apps for salons, clinics and restaurants.</strong> Staff and menu selection, open slots, reminders, cancellation rules and a visit history. Many Japanese salons and restaurants already take bookings through portals, so the app usually focuses on regular customers and direct bookings rather than replacing every channel.",
+      "<strong>Ecommerce apps.</strong> A shopping app on top of an existing Shopify or custom store, with saved addresses, delivery date and time-slot choice, repeat orders and app-only coupons. Physical goods can be paid by card, konbini or code payment through a payment provider.",
+      "<strong>Staff and field-work apps.</strong> Inspection checklists, photo reports, timesheets, delivery confirmations and maintenance logs for construction, facility management, cleaning, logistics and care services, with offline mode for basements, tunnels and rural sites.",
+      "<strong>B2B ordering apps.</strong> Wholesale customers such as restaurants, shops and contractors reorder from their own price list, see delivery cut-off times and stop sending orders by FAX or phone.",
+      "<strong>Inbound tourism apps.</strong> Guides, maps, tickets, audio tours and coupons in English, Simplified Chinese, Traditional Chinese and Korean for attractions, shopping streets, ski resorts and transport operators.",
+      "<strong>Startup MVPs.</strong> A first version of a consumer or B2B product for founders in Tokyo, Fukuoka or Osaka, built to test demand with real users before a larger investment.",
+      "<strong>Progressive web apps.</strong> When store distribution adds cost without adding value, we build a web app that installs from the browser instead, covered in its own section below.",
+    ],
+    after: [
+      `Every app includes the admin panel and API behind it. If your project is mostly a browser-based system with a small app on top, the <a href="/japan/software-development/">software development in Japan</a> page explains how we scope custom systems, and our general <a href="/it-services/android-ios-app/">Android and iOS app development service</a> page describes the app plan in more detail.`,
+    ],
+  },
+  {
+    id: "cost-japan",
+    heading: "What app development costs in Japan in 2026, and what we charge",
+    paragraphs: [
+      `Japanese companies comparing quotes usually start with price guides published by agencies and comparison sites such as ${ja("Web幹事")}, ${ja("システム幹事")} and ${ja("発注ラウンジ")}, which gather typical ${ja("アプリ開発 費用")} (app development cost) figures from Japanese development companies. Their 2026 guides describe the ranges below. They are market ranges, not quotes from any particular company, and every app varies with scope. Our column shows starting prices, with yen worked out at ¥${JPY_PER_USD} to the dollar.`,
+    ],
+    table: {
+      caption: "Japanese app development price ranges for 2026 next to our starting prices",
+      head: ["App project", "Typical Japanese price (2026)", "Our starting price"],
+      rows: [
+        ["Small app with a few screens", "From about ¥500,000", `${both("Android")} for iPhone and Android together`],
+        ["One platform, iOS or Android, contract development", "¥1,000,000 to ¥2,000,000 per platform", `${both("Android")}, both platforms from one codebase`],
+        ["Both platforms built natively", "Roughly double the single-platform price", `${both("Android")}, one Flutter or React Native codebase`],
+        ["Overall range quoted for business apps", "¥1,000,000 to ¥5,000,000", "Itemised quote after scoping"],
+        ["Larger apps with complex back ends", "¥3,000,000 and up", `Itemised quote; admin systems from ${both("Custom web app")}`],
+        ["AI chatbot or AI-OCR features", "¥500,000 to ¥3,000,000 initial for AI chatbot or AI-OCR systems", both("AI automation")],
+        ["App server and hosting", "Commonly around ¥20,000 a month", "Billed to you directly by the cloud provider"],
+        ["Maintenance after launch", "Usually quoted monthly on top of the build", `5 months free, then from ${both("Maintenance")}`],
+      ],
+    },
+    after: [
+      `<strong>How to read the comparison.</strong> A Japanese quote for both platforms often means two native apps, one written in Swift for iPhone and one in Kotlin for Android, each with its own developers and test cycle. Our starting price assumes one cross-platform codebase, a clearly scoped first version and an admin panel built from proven components. Compare like with like: ask each vendor how many codebases they will write, who builds the back end, whether store submission is included and what maintenance costs after launch.`,
+      `<strong>Exchange rate.</strong> We price in US dollars, and the yen moved between roughly ¥153 and ¥157 per dollar in September 2026. If your budget is fixed in yen, we write a JPY amount into the quote, so the number you approve is the number you pay.`,
+      `<strong>Costs outside the build.</strong> Every app has running costs that go to other companies: Apple and Google developer fees, cloud hosting, push notification and email services, map or SMS APIs, LINE Official Account plans and payment fees. We list the expected ones in the quote so the full cost of owning the app is clear before you commit. Scope guidance for all our plans is on the <a href="/pricing/">pricing page</a>.`,
+    ],
+  },
+  {
+    id: "price-breakdown",
+    heading: "What our starting prices buy, and why they are lower",
+    paragraphs: [
+      "A starting price is only useful if you know what sits inside it. These are the plans that matter for app projects in Japan, and what each one typically covers.",
+    ],
+    list: [
+      `<strong>From ${both("Android")}, Android and iOS app:</strong> a single Flutter or React Native codebase serving both iPhone and Android, with login, a set of core screens, forms, push notifications, an admin panel for your staff, an API and publication on the App Store and Google Play under your developer accounts. A typical example is a member app with a digital card, points, coupons and news.`,
+      `<strong>From ${both("Custom web app")}, custom web app:</strong> the heavier back end some apps need, such as a booking engine with staff rosters, a B2B ordering system with customer-specific prices, or a dashboard several departments use every day.`,
+      `<strong>From ${both("AI automation")}, AI automation:</strong> one workflow around the app, such as enquiries from the app routed to kintone and Chatwork, AI-OCR for paper orders, or a support assistant that answers from your own FAQs.`,
+      `<strong>From ${both("Maintenance")}, maintenance:</strong> fixes, small changes, OS and dependency updates and store review support, with the first five months after launch free.`,
+    ],
+    after: [
+      "<strong>What raises an app quote.</strong> Payments inside the app, integration with an older point-of-sale or core system, offline sync, several user roles, real-time features such as chat or live location, many languages and a fixed launch date that compresses the schedule. <strong>What keeps it down.</strong> A clear first version, standard screen patterns, content and images supplied on time, one decision-maker and features that can wait for version two.",
+      "<strong>Why our prices are lower than Japanese quotes.</strong> Three things. We write one cross-platform codebase instead of two native apps. We have no office in Tokyo or Osaka, no sales staff and no directors between you and the engineers. And there is no multi-layer subcontracting, where a prime contractor passes development to second and third-tier firms and each layer adds its margin. We are three engineers working remotely, and the saving comes from that structure, not from skipping testing, documentation or security work.",
+      `<strong>What a lower price does not include.</strong> Japanese copywriting, professional photography, in-person training, on-site meetings and a Japanese-speaking support desk for your customers. If you need those, budget for them separately or choose a local vendor. If you are unsure which fits, ask through our <a href="/contact/">contact page</a> and we will give you a straight answer.`,
+    ],
+  },
+  {
+    id: "mobile-market",
+    heading: "Japan's mobile market: design for iPhone first, but never iPhone only",
+    paragraphs: [
+      "Japan stands out among large markets because the iPhone holds a larger share of smartphones there than in most countries. For a consumer app in Japan, the iPhone version is usually what customers judge first, and people used to well-made apps from banks, rail operators and convenience store chains notice clumsy scrolling, odd fonts or a web page pretending to be an app.",
+      "Android still matters. Many older customers, staff using company-issued phones and buyers of lower-priced models are on Android, and rugged Android handsets are common in logistics and field work. Skipping Android usually means losing a noticeable share of customers or staff. A cross-platform app gives both groups the same features from the first release, with iPhone-specific polish where it counts.",
+      "Screen sizes vary widely, from compact phones that people keep for years to large Android devices and the tablets used at shop counters. We design for small screens first, because tap targets, Japanese text and forms break there before anywhere else, and we test with the system font size turned up, since many older users enlarge text.",
+      "Everyday habits shape features. QR codes, which were invented in Japan by Denso Wave, are part of daily life, from code payments to event tickets, so scanning and showing codes is standard in member and ordering apps. Cashless payment by card, transit IC card and code payment is widespread, and LINE is how many customers already hear from shops, clinics and restaurants. A good app in Japan fits into those habits instead of asking people to learn new ones.",
+    ],
+  },
+  {
+    id: "cross-platform",
+    heading: "Flutter, React Native or native Swift and Kotlin?",
+    paragraphs: [
+      `Buyers searching for ${ja("Flutter 開発")} (Flutter development) or React Native development usually want to know one thing: can one codebase really feel right on both platforms? For the kind of apps most businesses in Japan need, yes. Member cards, bookings, catalogues, ordering, checklists and forms are all well within what cross-platform frameworks handle, and the saving over two native apps is large.`,
+      "<strong>Flutter</strong>, maintained by Google, renders its own widgets, so the interface looks identical on every device and custom designs, animations and brand-heavy screens are straightforward. It needs one extra detail for Japan: when an app does not declare Japanese as its locale, Flutter can fall back to Chinese glyph shapes for some kanji, because Chinese and Japanese share Unicode code points but draw certain characters differently. We set the locale and font fallbacks so Japanese users see the Japanese form of every character.",
+      "<strong>React Native</strong>, maintained by Meta with a large open-source community, uses each platform's native components and suits teams that already work in TypeScript or run a React website, because business logic can be shared. Expo, a popular React Native toolchain, speeds up builds, store submission and over-the-air updates for JavaScript changes within the stores' rules.",
+      "<strong>Native Swift and Kotlin</strong> remain the right choice for a small set of apps: heavy real-time audio or video processing, advanced augmented reality, deep use of brand-new operating system features on launch day, or projects that already have a large native codebase. If your app is in that group we will say so, and the quote will reflect two codebases.",
+      "Whatever the framework, the native layer still needs native knowledge: push notification keys, background location permissions, deep links, in-app purchase setup, privacy manifests and store signing. Those details, not the screens, are where cross-platform projects most often go wrong, and they are part of our standard build rather than an extra.",
+    ],
+  },
+  {
+    id: "pwa-line",
+    heading: "When a progressive web app or a LINE mini app beats a store app",
+    paragraphs: [
+      "Not every business needs an app in the App Store. An app costs money to build, carries yearly store fees and needs updates whenever Apple or Google changes something. Before quoting a store app, we ask how often a customer will open it. A restaurant that sees a customer twice a year, or a clinic with annual check-ups, rarely persuades people to download an app, however good it is.",
+      `<strong>Progressive web apps (PWAs)</strong> are websites that can be added to the home screen, keep working offline for cached screens and, on current iPhone and Android versions, receive web push notifications once installed. They need no store review, and every update is live immediately. For B2B ordering portals, internal tools on company phones and booking pages linked from Google Maps or Instagram, a PWA is often the better investment. The <a href="/japan/website-developer/">website developer in Japan</a> page covers the web side of these builds.`,
+      `<strong>LINE-based apps.</strong> Many Japanese customers would rather not install another app but already follow shops on LINE. With LIFF, the LINE Front-end Framework, a membership card, booking form or order screen opens inside LINE, and the Messaging API sends reminders through your ${ja("LINE公式アカウント")} (LINE Official Account). LINE also runs a separate LINE MINI App programme with its own review process. For a salon or café, a LINE-based member card can be a sensible first step, with a store app added later if usage justifies it.`,
+      "<strong>Store apps</strong> earn their cost when people use them weekly or daily, when dependable push notifications matter, when the app needs the camera, Bluetooth, NFC or background location, when staff work offline, or when being found in the App Store is part of your marketing. We are happy to recommend starting with a PWA or a LINE flow and building the store app once the numbers support it.",
+    ],
+  },
+  {
+    id: "store-publishing",
+    heading: "Publishing on the App Store and Google Play from Japan",
+    paragraphs: [
+      "Store accounts belong to your company, not to the developer. You enrol in the Apple Developer Program and open a Google Play developer account as an organisation, then add us as team members with the roles we need. Both stores ask organisations for a D-U-N-S number, the nine-digit business identifier from Dun &amp; Bradstreet, and Apple also checks that the person enrolling has authority to sign for the company. In Japan, D-U-N-S numbers are administered by Tokyo Shoko Research, where you can check whether your company already has one; Apple can also request one for you free of charge, which can take a week or two. Start this early, because a store account registered in a developer's personal name is very hard to move later.",
+      "The store fees are set by Apple and Google and paid by you directly: the Apple Developer Program costs US$99 a year (or the local price Apple sets for Japan), and Google Play charges a one-time US$25 registration fee. Neither is part of our price, and both accounts stay with your company whoever maintains the app.",
+      `<strong>Japanese store listings.</strong> Both stores let you localise the app name, subtitle, description, keywords, screenshots and preview video for Japanese. The listing is marketing copy, so it should be written by a native speaker; we prepare the structure, screenshot sizes and keyword fields, and your side writes or approves the Japanese. Store search behaves like web search, with kanji, katakana and English variants of the same idea, so the keyword field deserves the same care as a web page title.`,
+      "<strong>Review.</strong> Apple reviews every build against its App Review Guidelines, and Google Play combines automated checks with policy reviews. Common reasons for rejection include missing in-app account deletion, a login wall before users can see what the app does, incomplete privacy details, a demo account that does not work for the reviewer, and payment flows that break in-app purchase rules. We submit with reviewer notes and a working demo account, and we handle the back-and-forth if questions arrive.",
+      "<strong>Developer name and support contact.</strong> The developer name appears on every store listing, and Google Play shows developer contact details. Make sure the legal name and support email match your company profile, because Japanese users check who publishes an app before they trust it with points, payments or personal details.",
+    ],
+  },
+  {
+    id: "payments",
+    heading: "Payments in apps: store rules, Japan's smartphone act, PayPay and konbini",
+    paragraphs: [
+      "Payment design is where app projects in Japan most often need a careful decision, because the store rules depend on what is being sold. Under Apple's App Review Guidelines and Google Play's payments policy, digital goods and features used inside the app, such as premium content, subscriptions to app features or virtual currency, have generally had to use the store's in-app purchase system, with the store taking a commission. Physical goods and real-world services, such as products shipped to a home, takeout orders, salon appointments or event tickets, are paid through ordinary payment methods instead.",
+      `<strong>The Mobile Software Competition Act.</strong> Japan's ${ja("スマホソフトウェア競争促進法")} (Mobile Software Competition Act) designates Apple and Google as providers of smartphone operating systems and app stores, and it took full effect on 18 December 2025. It is intended to open the door to alternative app stores and alternative payment options for apps distributed in Japan, and both companies have published Japan-specific programmes with their own conditions and fees. The practical picture for a given app, including which commission applies when a user pays outside the store, depends on detailed terms that are still being refined. We read the current terms for your app type before recommending an approach, and your adviser should review anything contractual. This is not legal advice.`,
+      "<strong>Physical goods and services.</strong> For shopping, delivery, bookings and B2B orders, we connect a payment provider that supports Japanese methods. Cards must include JCB alongside Visa, Mastercard and American Express. For Japanese businesses, Stripe handles cards, konbini and bank transfer, while local providers add options such as code payments and deferred payment. With konbini payment, the app shows a payment number and deadline, and the order is confirmed only when the payment notification arrives, so the order flow has to handle a pending state for days rather than seconds.",
+      "<strong>PayPay and other code payments.</strong> PayPay is one of the most widely used code payment services in Japan, and d Barai, au PAY and Rakuten Pay are other familiar options. Each needs a merchant contract and screening in your company's name, and each hands the user over to its own app and back again, a flow we test on real devices. Apple Pay and Google Pay can shorten card checkout for physical goods.",
+      `<strong>Points and prepaid balances.</strong> Point programmes are a normal part of Japanese retail, but a balance that customers buy with money in advance can count as a prepaid payment instrument under the Payment Services Act (${ja("資金決済法")}), while points given free as a bonus on purchases generally do not. If your app will sell prepaid value or let customers buy points, ask your adviser early, because the answer changes how the feature, the records and the refund rules should be designed.`,
+    ],
+  },
+  {
+    id: "line-push",
+    heading: "LINE Login, LINE messaging and push notifications without fatigue",
+    paragraphs: [
+      "LINE has more than 100 million monthly users in Japan, according to LY Corporation's figures for the end of 2025, and for many customers it is the default way to hear from a business. Apps for Japan therefore often combine three channels: push notifications from the app itself, messages through a LINE Official Account, and email for receipts and account matters.",
+      "<strong>LINE Login.</strong> Signing in with LINE removes a password step and gives you a LINE user ID to link to the member record, which in turn lets you send LINE messages to the right person. We store that link on your server, request only the profile permissions the feature needs and let users unlink. On iPhone, Apple's guidelines generally require an app that offers third-party login to offer an equivalent privacy-focused option as well, and Sign in with Apple is the usual way to meet that.",
+      "<strong>LINE messaging.</strong> The Messaging API can send booking reminders, shipping updates, point balances and coupons, and can receive customer messages for a support flow. LINE Notify was shut down in March 2025, so staff alerts that relied on it have to be rebuilt on the Messaging API or moved to Slack, Chatwork or Microsoft Teams. LINE Official Account plans include a set number of messages, so we design flows that send fewer, more useful messages.",
+      "<strong>Push notifications.</strong> iPhone and recent Android versions both ask users for permission before showing notifications, and a refused permission is hard to win back. We ask at a moment when the benefit is obvious, such as right after a booking, rather than at first launch, and we split notifications into categories users can switch on or off: bookings, points, campaigns and news. Push goes through Apple Push Notification service and Firebase Cloud Messaging, with the sending logic on your server so staff can schedule messages from the admin panel.",
+      "<strong>Message fatigue.</strong> The fastest way to lose a customer is a daily campaign push. We set frequency caps, avoid late-night sends in Japan time and show opt-outs next to opens in the admin panel, so you can see when messages start to annoy people. Booking confirmations and other service messages stay separate from advertising, so customers never switch off reminders they actually need.",
+    ],
+  },
+  {
+    id: "localisation",
+    heading: "Japanese localisation inside an app: fonts, names, addresses and dates",
+    paragraphs: [
+      "An app for Japanese users has to handle the language in ways that go well beyond translated labels. These details are engineering work, which is why we can do them properly even though the Japanese words come from your side.",
+    ],
+    list: [
+      "<strong>Fonts and glyphs.</strong> iPhone uses Hiragino Sans for Japanese and Android uses Noto Sans CJK, so system fonts usually look right and add nothing to the download size. Custom Japanese fonts contain thousands of glyphs, so we bundle or subset them only when the brand needs it, and we set the Japanese locale so kanji render in their Japanese forms.",
+      `<strong>Line breaks and text length.</strong> Japanese has no spaces between words, so buttons, headings and notifications can break in awkward places. We apply line-breaking rules (${ja("禁則処理")}) so small kana and punctuation never start a line, and we check every screen with the final Japanese text, which often differs greatly in length from the English draft.`,
+      `<strong>Names.</strong> Family name first, in separate fields, with a reading field in katakana or hiragana (${ja("フリガナ")}) so staff can pronounce and sort names. Sorting in the admin panel follows the reading, not the kanji.`,
+      "<strong>Addresses and postal codes.</strong> A seven-digit postal code fills in the prefecture, city and district from Japan Post's postal code data, and the address continues down to block, building and room number. Delivery apps also keep a separate field for the building name, which couriers rely on.",
+      "<strong>Japanese input.</strong> Japanese keyboards type kana and then convert to kanji, and the return key often confirms a conversion rather than submitting. Forms must not validate or submit while text is still being composed, and search boxes should wait for the converted text. Full-width and half-width numbers, letters and katakana are normalised instead of rejected.",
+      `<strong>Dates, times and money.</strong> Dates run year, month, day, often with the day of the week in brackets, and some audiences expect the Japanese era year (Reiwa) as well. Booking screens usually use a 24-hour clock. Consumer prices are shown including consumption tax, with a ${ja("税込")} (tax included) label where it helps.`,
+      "<strong>Accessibility.</strong> Support for larger system text, VoiceOver and TalkBack labels, enough colour contrast and generous tap targets. Japan's large older population makes this practical rather than optional, and the Act for Eliminating Discrimination against Persons with Disabilities has obliged private businesses to provide reasonable accommodation since April 2024. We apply the WCAG principles behind Japan's JIS X 8341-3 web standard to app screens as well.",
+    ],
+    after: [
+      "Multilingual apps for inbound visitors add English, Simplified Chinese, Traditional Chinese and Korean, each with its own font fallbacks and text lengths. We keep all strings in translation files your translators can edit directly, and add a language switch inside the app so the phone's system language is not the only option.",
+    ],
+  },
+  {
+    id: "offline-field",
+    heading: "Offline mode for field staff and B2B ordering apps",
+    paragraphs: [
+      "Field-work apps are some of the most useful apps a Japanese company can build, and they are also where cheap builds fail first. Staff work in basements, plant rooms, tunnels, mountain sites and rural areas with weak signal, and an app that loses a half-finished inspection report when the connection drops will not be trusted twice.",
+      "<strong>How we build offline mode.</strong> The app stores data in a local database on the phone, writes every change to a queue and syncs with the server when the connection returns. Photos are compressed and uploaded in the background. Each record shows a clear status, such as saved on phone, sending or synced, so staff know what the office can see. Where two people can edit the same record, we agree conflict rules in advance, for example the newest change wins for notes but a supervisor's approval can never be overwritten.",
+      "<strong>Typical features.</strong> Checklists that follow your existing paper forms, photo capture with automatic timestamps, signatures on screen, barcode and QR scanning for equipment and parts, including JAN codes on products, GPS location where staff agree to share it, and PDF reports generated on the server in the layout your customers expect. Many Japanese companies still file stamped paper reports, so the PDF output often matters as much as the app.",
+      `<strong>B2B ordering.</strong> Restaurant owners, shop managers and contractors order from their own price list, repeat last week's order with one tap, see delivery cut-off times and get confirmation instantly. The supplier's staff see orders in the admin panel or in kintone instead of retyping FAX sheets. Where FAX orders continue, the <a href="/japan/ai-automation-engineer/">AI automation engineer in Japan</a> page explains how AI-OCR can read them into the same system.`,
+      "<strong>Company phones.</strong> Company-issued devices can be managed with mobile device management tools, and internal apps can be distributed privately instead of through a public store listing. We choose the distribution route that fits how many staff use the app and how your IT team manages devices.",
+    ],
+  },
+  {
+    id: "backend",
+    heading: "The admin panel, API and hosting behind the app",
+    paragraphs: [
+      "The app on the phone is the visible part. Behind it sit an API, a database, an admin panel for your staff, push notification services and often integrations with your website, point-of-sale system, kintone, Shopify or accounting tools. Japanese quotes sometimes price this back end separately; in ours it is part of the scope from the start.",
+      "<strong>Admin panel.</strong> Staff manage members, bookings, points, coupons, news, orders and push messages in a browser, with roles so a part-time employee cannot export the customer list. Labels can be in Japanese supplied by your team, and we keep screens simple enough for staff who are not technical.",
+      "<strong>Hosting in Japan.</strong> Tokyo and Osaka both have cloud regions from AWS, Google Cloud and Microsoft Azure. With users in Japan, the API and database sit in Tokyo for low latency, and backups are copied to Osaka as protection against an earthquake or a regional outage. Japanese price guides often quote around ¥20,000 a month for app servers; a small app can cost less and a busy one more, and the cloud provider bills your company directly.",
+      "<strong>Security basics.</strong> HTTPS everywhere, tokens kept in the phone's secure storage, no secret keys inside the app, rate limits on login and point redemption, server-side checks on every price and point calculation, and audit logs for admin actions. Point and coupon apps attract abuse, so points are always calculated on the server and never trusted from the phone.",
+      `<strong>Integrations and the web side.</strong> Common links include Shopify for products and orders, kintone for records staff already use, LINE for messaging, Google Maps for store finders, and freee or Money Forward Cloud for invoices. Most apps also need a landing page with store badges, deep links and a privacy policy, which we build alongside the app; our <a href="/services/web-development/">web development service</a> page covers that work.`,
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "APPI, store privacy rules, external transmission rules and other app rules",
+    paragraphs: [
+      "This section summarises the rules we design around when building apps for Japan. It is not legal advice; for formal questions, speak to a lawyer or adviser qualified in Japan.",
+      `<strong>APPI.</strong> Under the ${ja("個人情報保護法")} (Act on the Protection of Personal Information), your company must state why it collects personal information and handle it securely. In an app that means a privacy policy reachable from inside the app, collection limited to what each feature needs, permission prompts that explain the purpose in Japanese, and deletion of accounts and data on request.`,
+      "<strong>Our access from India.</strong> If our team can see your users' personal data, for example in the production database or admin panel, that counts as provision to a third party in a foreign country under the APPI. The usual bases are consent given after the user is told which country is involved and how its data protection works, or a recipient that maintains protection equivalent to the APPI's standards. India's own law, the Digital Personal Data Protection Act, 2023, is coming into force in stages. We build and test with dummy data, keep production access to a minimum, sign data-handling terms and leave the legal basis to your adviser.",
+      "<strong>Store privacy disclosures.</strong> Apple requires App Privacy details describing what data the app and its SDKs collect and whether it is used for tracking, and asks users for permission through App Tracking Transparency before tracking them across other companies' apps. Google Play requires a Data safety section. Both stores require apps that let users create an account to let them start account deletion inside the app. We check every SDK, from analytics to crash reporting, so the disclosures match what the app actually does.",
+      "<strong>External transmission rules.</strong> The external transmission rules added to the Telecommunications Business Act in June 2023 oblige services within their scope to disclose which user information SDKs and tags pass to outside companies, typically analytics and ad networks. Many apps that simply promote a company's own business fall outside the rule, but apps that provide services such as messaging, search, information or marketplaces may be covered. Where the rule applies, the app gets a disclosure screen naming each SDK, the data it receives and the purpose.",
+      `<strong>Selling through the app.</strong> Apps that sell goods online must show the seller information required by the ${ja("特定商取引法")} (Specified Commercial Transactions Act). Rules in force since June 2022 also require the last screen before an order is placed to spell out the quantity, total price, payment and delivery timing, and cancellation or contract terms, which is where subscription apps most often slip. Prices shown to consumers include consumption tax (10 percent in general, 8 percent for most food). Point campaigns and influencer promotions must also respect the Premiums and Representations Act, including the stealth marketing rules in force since October 2023.`,
+      "<strong>Health, finance and children.</strong> Apps for clinics, supplements, lending or children face extra advertising and platform rules. We flag them at scoping so your adviser can review wording and features before they are built.",
+    ],
+  },
+  {
+    id: "japan-regions",
+    heading: `Android and iOS app development across Japan: all 8 regions and ${prefectureCount} prefectures`,
+    paragraphs: [
+      `We work with businesses in all ${prefectureCount} prefectures remotely from India; none of the places below is an office location. App needs differ by region, from inbound tourism in Hokkaido and Kyoto to factory and field-work apps in Chubu and Kyushu. These notes describe the patterns we plan for in each region.`,
+    ],
+    blocks: japanRegions.map((r) => ({ name: `${r.name}: ${r.prefectures.join(", ")}`, text: regionNotes[r.name].text })),
+    after: [
+      `Across the country, the same few app types appear again and again: member and point card apps for local shops, booking apps for salons and clinics, field apps for construction and maintenance, ordering apps for wholesalers and multilingual guides for tourism. The region table further down summarises them, and our overview of <a href="/japan/">IT services in Japan</a> covers the websites, SEO and software that usually go alongside an app.`,
+    ],
+  },
+  {
+    id: "major-cities",
+    heading: "Tokyo and the 20 designated cities: app demand city by city",
+    paragraphs: [
+      "Japan's 20 designated cities are large municipalities that hold many powers normally reserved for prefectures, and together with Tokyo's 23 special wards they contain a large share of Japan's businesses and consumers. The table notes the kind of app projects each city typically generates. Every one of them, and any town between them, is covered by the same remote team.",
+    ],
+    table: {
+      caption: "Tokyo and Japan's 20 designated cities by prefecture and typical app demand",
+      hide: 1,
+      head: ["City", "Prefecture", "Typical app demand"],
+      rows: cityRows,
+    },
+    after: [
+      "Beyond the big cities, places such as Kanazawa, Matsuyama, Takamatsu, Naha, Kagoshima and Nagasaki have their own retail chains, tourism operators and manufacturers. For smaller businesses there, a well-scoped cross-platform app or a PWA is often the first realistic way to offer the kind of digital member card or booking flow customers already use with national chains.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Our hours in Japan time",
+    paragraphs: [
+      "The time difference is a fixed three and a half hours, because neither Japan nor India changes its clocks, so our hours in Japan time never move: 12:30 pm to 12:30 am JST, which is 9 am to 9 pm IST, every day of the week on WhatsApp. Calls fit best in the Japanese afternoon, and a morning call around 10 am can be arranged in advance.",
+      "For app projects this rhythm is useful. Your team tests the latest build during the morning and sends notes and screenshots, and we are online from lunchtime. Fixes usually reach a new test build on TestFlight for iPhone and Google Play internal testing before your day ends, so there is something new to install when you arrive the next day. For release days we agree the timing in advance, so we are online when the app goes live in Japan.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Hiring an offshore app developer from Japan: checklist and red flags",
+    paragraphs: [
+      "Offshore app projects fail for familiar reasons: a vague feature list, store accounts registered in the developer's name, no test builds until the end, a back end nobody documented, and a developer who disappears after launch, leaving an app that breaks after the next iOS update. Use this checklist with any vendor, including us.",
+    ],
+    list: [
+      "<strong>Meet the people who will build it.</strong> Ask for the developers' names and whether any work will be subcontracted.",
+      "<strong>Get a screen list and feature list in writing.</strong> Every screen, every user role, every integration, what the admin panel does and what is excluded from version one.",
+      "<strong>Ask how many codebases.</strong> One cross-platform app or two native apps changes both the price and the cost of maintenance.",
+      "<strong>Open the accounts yourself.</strong> Apple and Google developer accounts, Firebase, cloud hosting, the domain and the Git repository must belong to your company.",
+      "<strong>Ask for test builds from the first weeks.</strong> TestFlight and Google Play internal testing let you install real builds on your own phone.",
+      "<strong>Check payment design early.</strong> Ask how the vendor will handle Apple and Google payment rules for what you sell, and which Japanese payment methods they will connect.",
+      "<strong>Test their Japanese input handling.</strong> Ask to see how their apps deal with furigana, postal code lookup, kana-to-kanji conversion and Japanese fonts.",
+      "<strong>Agree maintenance before launch.</strong> Who updates the app for new iOS and Android versions, how fast crashes are fixed and what it costs per month.",
+      "<strong>Split payments against milestones.</strong> A vendor asking for the whole amount before any work is visible is a risk you do not need to take.",
+      "<strong>Ask where personal data goes.</strong> Which countries it can be viewed from, and what legal basis covers that access under the APPI.",
+    ],
+    after: [
+      "<strong>Red flags:</strong> a promise of guaranteed store approval or top rankings in store search; store accounts opened under the vendor's name; client logos and reviews you cannot verify; a price with no screen list; no answer on who maintains the app after launch; and a supposed Tokyo office that is only a mail-forwarding address.",
+      "<strong>Choose a Japanese developer instead</strong> if you need requirement sessions in Japanese at your office, a vendor that writes the Japanese copy and store listing for you, or a registered provider for subsidy funding. The higher price buys things we cannot offer, and we will point that out before you commit.",
+    ],
+  },
+  {
+    id: "maintenance",
+    heading: "After launch: OS updates, store policies and app maintenance",
+    paragraphs: [
+      "An app is never finished in the way a brochure website can be. Apple releases a major iOS version every year, usually in September, and Google ships a new Android version every year as well. Each release can change permissions, notification behaviour, background tasks or screen layouts, and both stores periodically raise the SDK and API levels that new submissions and updates must target. An app that goes a year or two without updates can stop meeting store requirements.",
+      "<strong>What maintenance covers.</strong> Crash monitoring and fixes, framework and dependency updates, adjustments for new OS versions, renewing push notification keys and certificates, answering store review questions on updates, small content or feature changes, and checking that integrations such as LINE, payments and maps still work after their providers change their APIs.",
+      `<strong>What it costs.</strong> The first five months after launch are included free. From month six, maintenance is available from ${both("Maintenance")}, or you can contact us only when changes are needed, although apps left without updates for a long time usually cost more to bring back to current standards. Cloud and third-party services continue to be billed to your company directly.`,
+      `<strong>Growing the app.</strong> Version two should come from data rather than guesses: which screens people use, where they drop out of bookings and which notifications they switch off. Store search and the app's own website both bring installs, so a simple landing page with store badges, deep links and good search visibility helps; our <a href="/japan/seo-services/">SEO services in Japan</a> page and the <a href="/services/seo-services/">SEO services</a> overview explain that side.`,
+    ],
+  },
+];
+
+// ---------- Region table ----------
+
+const regionsHeading = `Android and iOS app needs across Japan's ${prefectureCount} prefectures`;
+const regionsNote = "A summary of the regional patterns described in the guide. All of it is served remotely by the same team in India, and none of these regions is an office location.";
+const regionHead = ["Region", "Prefectures", "Business character", "Apps we usually build"];
+const regionHide = [1, 2];
+const regionTable = japanRegions.map((r) => [r.name, r.prefectures.join(", "), regionNotes[r.name].character, regionNotes[r.name].build]);
+
+// ---------- Industries ----------
+
+const industriesHeading = "Apps for Japan's main industries";
+const industries = [
+  { name: "Beauty and hair salons", need: "Easy rebooking, a favourite stylist, reminders and a points programme", build: "Booking app with staff and menu choice, LINE reminders and a digital point card" },
+  { name: "Clinics, dental and wellness", need: "Appointments, reminders, pre-visit questionnaires and clear notices", build: "Booking and questionnaire app with push reminders and carefully worded content screens" },
+  { name: "Restaurants and cafés", need: "Repeat visits, table bookings, takeout orders and seasonal menus", build: "Member app with stamps and coupons, takeout ordering and reservation links" },
+  { name: "Retail chains and D2C brands", need: "A card customers can show at the till, stock visibility, delivery dates and the payment methods they already use", build: "Member and ecommerce app with QR card, points, JCB, konbini and code payments" },
+  { name: "Wholesale and B2B distribution", need: "Customer-specific prices, cut-off times and an end to FAX orders", build: "B2B ordering app with repeat orders, admin panel and links to kintone or accounting" },
+  { name: "Construction and facility maintenance", need: "Photo reports, checklists and signatures that work without signal", build: "Offline field app with photo capture, scanning, signatures and PDF reports" },
+  { name: "Logistics and delivery", need: "Proof of delivery, route lists, scanning and live status", build: "Driver and warehouse apps with barcode scanning, an offline queue and status updates" },
+  { name: "Tourism, hotels and attractions", need: "Guides, tickets and bookings in visitors' own languages", build: "Multilingual guide and ticket apps or PWAs, offline maps and booking engine links" },
+  { name: "Schools and lesson businesses", need: "Schedules, notices to parents, attendance and lesson bookings", build: "School and lesson apps with notices, attendance, bookings and push messages" },
+  { name: "Startups", need: "A working product to test with real users before a larger raise", build: "Cross-platform MVP with admin panel, analytics and a clean path to version two" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "Japanese app development company, crowdsourcing freelancer or BtechWaleTech";
+const comparisonNote = "There is no single right choice. Here is how the three usually compare on the points that decide whether an app project goes well.";
+const compHead: [string, string, string] = ["Japanese app development company", "Freelancer via Lancers or CrowdWorks", "BtechWaleTech"];
+const comparison: [string, string, string, string][] = [
+  ["Typical price", "¥1,000,000 to ¥2,000,000 per platform in 2026 price guides", "Lower, with wide variation in scope and quality", `From ${both("Android")} for both platforms`],
+  ["Codebases", "Often two native apps, one per platform", "Depends on the individual's skills", "One Flutter or React Native codebase"],
+  ["Who builds it", "Director and engineers, sometimes with subcontracted layers", "One individual found through the platform", "The three engineers you talk to directly"],
+  ["Back end and admin panel", "Usually included, sometimes quoted separately", "Often limited or left to the client", "API and admin panel included in scope"],
+  ["Language and meetings", "Japanese, in person or online", "Usually Japanese, online", "English only, remote: video calls, chat and test builds"],
+  ["Hours in Japan time", "Usually weekday business hours", "Varies by individual", "12:30 pm to 12:30 am JST every day"],
+  ["Store accounts and code", "Usually the client's, occasionally held by the vendor", "Varies from job to job", "Always in your company's name"],
+  ["After launch", "Monthly maintenance quoted on top", "Hard to secure once the job ends", `5 months free, then from ${both("Maintenance")}`],
+  ["IT subsidy eligibility", "Possible when the vendor is a registered provider", "Rarely", "Not a registered IT support provider, so not eligible"],
+];
+
+// ---------- Process ----------
+
+const processHeading = "From first message to an app in the stores";
+const process: [string, string][] = [
+  ["Talk", "Tell us on WhatsApp or a video call what the app should do, who uses it and which systems it touches. Free, in English."],
+  ["Scope & quote", "Screen list, feature list, integrations, store and payment approach and schedule, with an itemised price in USD or JPY."],
+  ["Design", "User flows and wireframes, then visual design for key screens, reviewed as a clickable prototype on your phone."],
+  ["Build & test builds", "Development in short cycles, with TestFlight and Google Play internal test builds you install on your own phone."],
+  ["Store submission", "Japanese listing fields, screenshots, privacy details and reviewer notes prepared; builds submitted under your developer accounts."],
+  ["Launch & support", "Release, crash monitoring and handover of every login and document, then five months of free maintenance."],
+];
+const timelineFine = "Timelines assume Japanese text, approvals and store account verification arrive on time. Store review times vary, and payments, offline sync and integrations add testing time.";
+
+// ---------- FAQ, related links and closing ----------
+
+const faqHeading = "Android and iOS app development in Japan: common questions";
+const relatedHeading = "More IT services for businesses in Japan and other countries";
+const related = [
+  { name: "Japan: all IT services", href: "/japan/" },
+  { name: "Website developer in Japan", href: "/japan/website-developer/" },
+  { name: "AI automation engineer in Japan", href: "/japan/ai-automation-engineer/" },
+  { name: "SEO services in Japan", href: "/japan/seo-services/" },
+  { name: "Software development in Japan", href: "/japan/software-development/" },
+  { name: "All countries", href: "/countries/" },
+  { name: "Singapore", href: "/singapore/" },
+  { name: "USA", href: "/usa/" },
+  { name: "UK", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "India", href: "/india/" },
+];
+const closingHeading = "Tell us about the app you want to build for Japan";
+const closingNote = "Describe the app in a short English message on WhatsApp: what it should do, who will use it and what it must connect to. We reply with questions, then send a screen list, a schedule and an itemised USD or JPY quote, normally within two working days, and nothing is charged before you sign off the scope.";
+---
+
+<JapanServicePage
+  page={page}
+  schema={schema}
+  heroEyebrow={heroEyebrow}
+  facts={facts}
+  pills={pills}
+  heroOrigin={heroOrigin}
+  quoteKicker={quoteKicker}
+  quotePlans={quotePlans}
+  quoteFoot={quoteFoot}
+  stats={stats}
+  answerHeading={answerHeading}
+  quickAnswer={quickAnswer}
+  answerMore={answerMore}
+  snapshotCaption={snapshotCaption}
+  snapshot={snapshot}
+  servicesHeading={servicesHeading}
+  services={services}
+  pricingHeading={pricingHeading}
+  pricingIntro={pricingIntro}
+  pricingFine={pricingFine}
+  guideLabel="Guide to Android and iOS app development for businesses in Japan"
+  guide={guide}
+  regionsHeading={regionsHeading}
+  regionsNote={regionsNote}
+  regionHead={regionHead}
+  regionHide={regionHide}
+  regionTable={regionTable}
+  industriesHeading={industriesHeading}
+  industries={industries}
+  comparisonHeading={comparisonHeading}
+  comparisonNote={comparisonNote}
+  compHead={compHead}
+  comparison={comparison}
+  processHeading={processHeading}
+  process={process}
+  timelineFine={timelineFine}
+  faqHeading={faqHeading}
+  faqs={faqs}
+  relatedHeading={relatedHeading}
+  related={related}
+  closingHeading={closingHeading}
+  closingNote={closingNote}
+/>

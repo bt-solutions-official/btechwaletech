@@ -50,7 +50,7 @@ const loni: CityContent = {
     software: "Job-work, stock and dispatch trackers for small factories that currently run on a register, a calculator and the owner's memory.",
     ai: "WhatsApp assistants that reply in Hindi to price, catalogue and timing questions and hand serious buyers to the owner.",
     data: "Simple dashboards of orders, dues, job-work payments and GST figures, built from Tally or Excel and readable on a phone.",
-    app: "Installable web apps for delivery staff, school fee reminders and dealer ordering, without the cost of a Play Store app.",
+    app: "Android and iPhone apps for delivery staff, school fee reminders and dealer ordering, available on both app stores from ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
@@ -131,7 +131,7 @@ const loni: CityContent = {
       paragraphs: [
         "A young, growing population means Loni has many private schools, play schools, tuition centres and coaching classes for competitive exams. Parents compare fees, facilities, transport routes and results, often on a phone during a lunch break at work in Delhi. A school without clear information online loses these parents to one that has it.",
         "We build school websites with admission details, fee structure where you choose to publish it, class-wise information, transport routes and stops, facilities, a photo gallery of real events and a notices section that office staff can update themselves. An admission enquiry form sends details to the office on WhatsApp. For play schools, parents care most about safety, teacher details, timings and daycare options, so those appear first.",
-        "For coaching and tuition centres, each batch or course gets its own page with timings, subjects, fees and teachers. A simple installable app can send fee reminders, class timetables and test results to parents' phones without the cost of building a Play Store app. Everything is written in Hindi and English, because many parents are more comfortable reading school information in Hindi.",
+        "For coaching and tuition centres, each batch or course gets its own page with timings, subjects, fees and teachers. An Android and iOS app, from ₹40,000, can send fee reminders, class timetables and test results to parents' phones. Everything is written in Hindi and English, because many parents are more comfortable reading school information in Hindi.",
       ],
     },
     {

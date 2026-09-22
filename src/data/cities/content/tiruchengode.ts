@@ -51,7 +51,7 @@ const tiruchengode: CityContent = {
     software: "Rig fleet, drilling job, diesel and crew tracking tools for operators who run vehicles in several states from one office.",
     ai: "WhatsApp assistants that send spec sheets, answer drilling-rate or availability questions in Tamil or English and pass serious leads to you.",
     data: "Feet drilled, diesel used, jobs billed and payments pending, shown per rig in a dashboard you can check from anywhere.",
-    app: "Installable web apps for crew daily reports, dealer orders and college notices, with no app store download.",
+    app: "Android and iOS apps for rig crew daily reports, dealer orders and college notices, available on both stores with prices from ₹40,000.",
     maintenance: "Spec and price updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

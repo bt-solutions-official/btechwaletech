@@ -50,7 +50,7 @@ const vapi: CityContent = {
     software: "Dispatch, batch, inventory and document tools for GIDC units that outgrew spreadsheets.",
     ai: "WhatsApp and email automation that sorts enquiries by product, sends TDS or MSDS on request and logs every lead.",
     data: "Dashboards covering production, orders, dispatches and receivables for plant owners who travel between Vapi, Mumbai and Ahmedabad.",
-    app: "Installable web apps for gate passes, visitor logs, driver trips or school updates, without an app store.",
+    app: "Android and iOS apps for gate passes, visitor logs, driver trips or school updates, released on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security checks for five months, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

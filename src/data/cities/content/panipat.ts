@@ -51,7 +51,7 @@ const panipat: CityContent = {
     software: "Sample tracking, order status and buyer portals for export houses that juggle dozens of styles, colourways and shipments.",
     ai: "WhatsApp and email automation that sorts buyer enquiries, replies with the right catalogue and logs every lead.",
     data: "Order, production and shipment dashboards drawn from the Excel sheets your merchandising team already maintains.",
-    app: "Installable web apps for sales agents, dealer orders and factory attendance, working well on ordinary phones.",
+    app: "Android and iOS apps for textile sales agents, dealer orders and factory attendance on ordinary phones, released on Google Play and the App Store.",
     maintenance: "Catalogue updates, backups and security fixes free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

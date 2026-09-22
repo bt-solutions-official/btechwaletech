@@ -50,7 +50,7 @@ const solapur: CityContent = {
     software: "Order, production and dealer tracking systems for powerloom units and wholesale traders that currently run on registers and scattered Excel files.",
     ai: "WhatsApp assistants that answer dealer and customer questions in Marathi, Hindi or English, log orders and send dispatch updates automatically.",
     data: "Dashboards that show sales by dealer, product and season, built from Tally and order sheets and readable on a phone.",
-    app: "Installable web apps for field salesmen, pilgrim-town hotel bookings and customer order tracking, with no app store needed.",
+    app: "Android and iOS apps for field salesmen, pilgrim-town hotel bookings and customer order tracking, released on Google Play and the App Store.",
     maintenance: "Catalogue and price updates, backups, security patches and uptime checks, free for five months and from ₹8,000 a month thereafter.",
   },
   whyUsIntro:

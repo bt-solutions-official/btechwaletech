@@ -50,7 +50,7 @@ const vidisha: CityContent = {
     software: "Purchase registers, lot tracking and payment ledgers for grain traders, dal mills and stone dispatch yards.",
     ai: "WhatsApp replies that share today's rates, stock and dispatch timelines in Hindi, so buyers get answers while you are at the mandi.",
     data: "Dashboards of purchases, sales, outstanding dues and seasonal price movement, built from registers and Tally data you already keep.",
-    app: "Installable web apps for school notices, clinic appointments or dealer orders that open from a WhatsApp link.",
+    app: "Android and iOS apps for school notices, clinic appointments or dealer orders, with a store link you can share on WhatsApp, from ₹40,000.",
     maintenance: "Five months of free updates, backups and security checks after launch, and maintenance from ₹8,000 a month after that.",
   },
   whyUsIntro:

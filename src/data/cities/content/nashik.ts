@@ -52,7 +52,7 @@ const nashik: CityContent = {
     software: "Supplier portals, inspection logs, orchard and pack-house records, and dealer order systems for Nashik companies.",
     ai: "WhatsApp assistants that answer RFQ status, tour slot, room or appointment questions in Marathi, Hindi or English and hand off to staff.",
     data: "Production, rejection, dispatch and farm-to-export reports turned into simple dashboards you can check from the shop floor or the vineyard.",
-    app: "Installable web apps for field staff, farm supervisors and dealers that work on weak rural signal without an app store listing.",
+    app: "Android and iOS apps for field staff, farm supervisors and dealers that cope with weak rural signal, built in Flutter or React Native from ₹40,000.",
     maintenance: "Content, price and seasonal updates, backups and security fixes, free for five months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:

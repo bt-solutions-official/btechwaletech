@@ -1,4 +1,5 @@
-// Quality gate for src/data/cities/content/*.ts
+// Quality gate for src/data/cities/content/*.ts (/{city}/ pages) and src/data/locations/content/*.ts
+// (older /india/... and /it-services/... pages). Overlap is measured across both folders.
 // Usage: node scripts/check-city-content.mjs [slug ...]   (no args = check all)
 // Fails if a page is under the word target, reuses text from another city, or has broken fields.
 import { readdirSync, readFileSync } from "node:fs";
@@ -8,11 +9,11 @@ import { transformSync } from "esbuild";
 const MIN_PAGE_WORDS = 4500; // rendered <main> words, template included
 const TEMPLATE_WORDS = 750; // shared template words (measured ~790 on /indore/, rounded down)
 const MAX_OVERLAP = 0.12; // share of a page's 8-word phrases also found in any other single city
-const dir = join(process.cwd(), "src", "data", "cities", "content");
+const dirs = [join(process.cwd(), "src", "data", "cities", "content"), join(process.cwd(), "src", "data", "locations", "content")];
 const cities = JSON.parse(readFileSync(join(process.cwd(), "src", "data", "cities", "cities.json"), "utf8"));
 const slugs = new Set(cities.map((c) => c.slug));
 
-async function load(file) {
+async function load(dir, file) {
   const { code } = transformSync(readFileSync(join(dir, file), "utf8"), { loader: "ts", format: "esm" });
   return (await import(`data:text/javascript;base64,${Buffer.from(code).toString("base64")}`)).default;
 }
@@ -35,13 +36,15 @@ function shingles(t) {
   return set;
 }
 
-const files = readdirSync(dir).filter((f) => f.endsWith(".ts"));
 const all = [];
-for (const f of files) {
-  try {
-    all.push({ file: f, c: await load(f) });
-  } catch (e) {
-    all.push({ file: f, error: e.message });
+for (const [i, dir] of dirs.entries()) {
+  const files = readdirSync(dir).filter((f) => f.endsWith(".ts"));
+  for (const f of files) {
+    try {
+      all.push({ file: f, location: i === 1, c: await load(dir, f) });
+    } catch (e) {
+      all.push({ file: f, location: i === 1, error: e.message });
+    }
   }
 }
 const targets = process.argv.slice(2);
@@ -51,13 +54,18 @@ const index = new Map();
 for (const [slug, set] of sh) for (const s of set) (index.get(s) ?? index.set(s, []).get(s)).push(slug);
 
 let failed = 0;
-for (const { file, c, error } of all) {
+for (const { file, location, c, error } of all) {
   if (targets.length && !targets.includes(file.replace(/\.ts$/, ""))) continue;
   const problems = [];
   if (error) problems.push(`does not compile: ${error}`);
   else {
     if (`${c.slug}.ts` !== file) problems.push(`slug "${c.slug}" does not match file name`);
-    if (!slugs.has(c.slug)) problems.push(`slug "${c.slug}" not in cities.json`);
+    if (!location && !slugs.has(c.slug)) problems.push(`slug "${c.slug}" not in cities.json`);
+    // BtechWaleTech is a freelance group, never a company/agency/firm.
+    const notCompany = renderedText(c).match(/\b(?:our|this) (?:company|agency|firm|organi[sz]ation)\b|\bwe(?: are|'re) an? (?:\w+ )?(?:company|agency|firm)\b|\bBtechWaleTech (?:is|as) an? (?:\w+ )?(?:company|agency|firm)\b/gi);
+    if (location && notCompany) problems.push(`calls us a company; we are a freelance group, found: ${[...new Set(notCompany)].join(", ")}`);
+    // We are paid only by UPI QR code or bank transfer; old pages must not name third-party gateways.
+    if (location && /razorpay|paytm|cashfree|payu|stripe|paypal/i.test(renderedText(c) + c.meta.keywords.join(" "))) problems.push("names a payment gateway; we accept UPI QR and bank transfer only");
     const total = words(renderedText(c)).length + TEMPLATE_WORDS;
     if (total < MIN_PAGE_WORDS) problems.push(`~${total} page words, need ${MIN_PAGE_WORDS}+ (add ~${MIN_PAGE_WORDS - total} unique words)`);
     const tLen = `${c.meta.title} | BtechWaleTech`.length;

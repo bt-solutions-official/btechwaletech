@@ -51,7 +51,7 @@ const tumkur: CityContent = {
     software: "Job cards, dispatch logs and vendor portals for KIADB-estate units supplying larger plants in the corridor.",
     ai: "WhatsApp replies in Kannada or English that handle rate, stock, admission or appointment questions around the clock.",
     data: "Production, arrival and sales records turned into a phone-readable dashboard for owners and partners.",
-    app: "Installable web apps for student notices, patient tokens or dealer ordering, without an app store listing.",
+    app: "Android and iOS apps for student notices, patient tokens or dealer ordering, built in Flutter or React Native and listed on both stores.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

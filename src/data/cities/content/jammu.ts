@@ -51,7 +51,7 @@ const jammu: CityContent = {
     software: "Order portals, dealer ledgers and stock dashboards for Bari Brahmana and Gangyal manufacturers and the wholesalers who supply the Kashmir valley.",
     ai: "WhatsApp replies for room availability, yatra-season questions and price lists, answered in Hindi or English and handed to a person when a query gets unusual.",
     data: "Seasonal sales and occupancy reports that show how pilgrim months, winter and the summer holiday rush actually affect your numbers.",
-    app: "Installable web apps for taxi operators, tour desks and delivery services, opened from a link instead of an app store download.",
+    app: "Android and iOS apps for taxi operators, tour desks and delivery services, listed on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, including seasonal price and package changes.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const balangir: CityContent = {
     software: "Stock, credit and delivery records for wholesale dealers who supply shops in Patnagarh, Titlagarh, Kantabanji and villages.",
     ai: "WhatsApp replies that share prices, batch timings or doctor schedules in Odia or English and pass decisions back to you.",
     data: "Sales, dues and admissions pulled from registers and sheets into a phone-friendly dashboard.",
-    app: "Installable web apps for school notices, repeat orders or appointment requests with no Play Store listing needed.",
+    app: "Android and iOS apps for school notices, repeat orders or appointment requests, one Flutter or React Native build published on both stores.",
     maintenance: "Free fixes, updates and backups for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

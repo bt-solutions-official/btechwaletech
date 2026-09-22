@@ -51,7 +51,7 @@ const madurai: CityContent = {
     software: "Order books, dealer portals and job-card systems for Kappalur units and wholesalers on the Masi streets who have outgrown notebooks and Excel.",
     ai: "WhatsApp assistants that answer room availability, darshan-timing questions from guests or admission queries in Tamil and English, then hand the tricky ones to your staff.",
     data: "Daily sales, occupancy and collection figures pulled into one simple dashboard so the owner sees the numbers before the shop opens.",
-    app: "Installable web apps for table bookings, home delivery and customer loyalty, without paying for an app store listing.",
+    app: "Android and iPhone apps for table bookings, home delivery and customer loyalty, listed on Google Play and the App Store in six to ten weeks.",
     maintenance: "Content changes, backups, security fixes and uptime checks at no charge for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

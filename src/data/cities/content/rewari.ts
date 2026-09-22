@@ -50,7 +50,7 @@ const rewari: CityContent = {
     software: "Order, dispatch and quality-record tools for small vendors supplying plants in Bawal and Dharuhera.",
     ai: "WhatsApp assistants that share catalogues, batch timings or rate-request forms in Hindi and alert the owner about serious buyers.",
     data: "Simple dashboards for pending purchase orders, dispatches by customer or admissions by course, readable on a phone.",
-    app: "Installable web apps for PG and hostel bookings, attendance, or shop-floor checklists without Play Store costs.",
+    app: "Android and iOS apps for PG and hostel bookings, attendance, or shop-floor checklists, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free fixes and updates for five months after launch, then plans from ₹8,000 a month or per-change billing.",
   },
   whyUsIntro:

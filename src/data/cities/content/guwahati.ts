@@ -51,7 +51,7 @@ const guwahati: CityContent = {
     software: "Order portals, dealer ledgers and stock systems for distributors who supply shops across Assam, Meghalaya, Arunachal and the other northeastern states.",
     ai: "WhatsApp assistants that handle tour enquiries, room availability or stock questions in English, Hindi or Assamese, and pass unusual ones to your team.",
     data: "Sales, dispatch and collection reports combined into one dashboard, so an owner can see which districts are paying on time.",
-    app: "Installable web apps for bookings, delivery orders and retailer reorders, usable on basic Android phones without an app store download.",
+    app: "Android and iPhone apps for bookings, delivery orders and retailer reorders, usable on basic handsets and published on Google Play and the App Store.",
     maintenance: "Backups, security updates, content changes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

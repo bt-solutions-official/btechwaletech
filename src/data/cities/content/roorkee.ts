@@ -50,7 +50,7 @@ const roorkee: CityContent = {
     software: "Order tracking, calibration registers and dispatch tools for instrument makers and Bhagwanpur vendors who still run on ledgers.",
     ai: "WhatsApp replies that share price lists, stock and delivery estimates while you are on the shop floor or at a site.",
     data: "Sales, enquiry and dispatch figures pulled into one simple dashboard, so you can see which products and cities bring orders.",
-    app: "Installable web apps for coaching attendance, hostel rent collection or field-service bookings, with no app store needed.",
+    app: "Android and iOS apps for coaching attendance, hostel rent collection or field-service bookings, published on both app stores from ₹40,000.",
     maintenance: "Five free months of updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const ganjbasoda: CityContent = {
     software: "Purchase, stock and payment registers for mandi traders and quarry operators who still work from bahi-khatas and diaries.",
     ai: "WhatsApp replies that send stone photos, sizes and rates, collect order quantities and log every enquiry, answered in Hindi or English.",
     data: "Season-wise views of grain purchases, dispatches and dues, or of stone orders by size and finish, readable on your phone.",
-    app: "Installable web apps for loading slips, truck dispatch records or school notices, without an app store download.",
+    app: "Android and iOS apps for loading slips, truck dispatch records or school notices, starting at ₹40,000 and ready in six to ten weeks.",
     maintenance: "Free updates, fixes and backups for five months after launch, then from ₹8,000 a month if you want us to keep going.",
   },
   whyUsIntro:

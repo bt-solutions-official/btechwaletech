@@ -51,7 +51,7 @@ const mohali: CityContent = {
     software: "SaaS products, client portals and internal tools for Mohali startups, IT service firms and consultancies, built with clean code you own.",
     ai: "AI agents and WhatsApp bots that qualify property leads, pre-screen visa enquiries or book clinic slots without a person on every message.",
     data: "Dashboards joining CRM, ad spend and sales data for Mohali marketing teams and founders who want one honest number.",
-    app: "Installable PWAs for PG and hostel bookings, patient follow-ups or field sales, without app store approvals.",
+    app: "Android and iOS apps for PG and hostel bookings, patient follow-ups or field sales, published on Google Play and the App Store, from ₹40,000.",
     maintenance: "Free updates, backups and security patches for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -145,7 +145,7 @@ const mohali: CityContent = {
       paragraphs: [
         "Mohali draws students from across Punjab, Himachal, Haryana and Jammu to its universities, colleges, research institutes and coaching centres, and many more study at private universities just outside the city towards Kharar. That creates a large economy of PG accommodation, hostels, tiffin services, stationery shops, laptop repair and part-time tutoring.",
         "Schools need admissions pages, fee structures, transport routes, circulars and results published without the usual scramble on WhatsApp groups. We build these with a simple admin area so office staff can post notices themselves. For PG and hostel owners, room pages with real photos, rent from a starting figure, food details, rules and distance to the nearest campus or IT park bring enquiries that fit.",
-        "A PWA can handle rent reminders, complaint tickets and meal preferences for larger PG operators, replacing a mess of personal chats. It installs from the browser, so residents don't need to download anything from an app store.",
+        "A PWA can handle rent reminders, complaint tickets and meal preferences for larger PG operators, replacing a mess of personal chats. For a fuller experience we also build Android and iOS apps, published on Google Play and the App Store, from ₹40,000.",
       ],
     },
     {

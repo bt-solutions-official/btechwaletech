@@ -50,7 +50,7 @@ const agartala: CityContent = {
     software: "Order books, dealer ledgers and stock tools for rubber sheet traders and Bodhjungnagar processing units that still track lots on paper.",
     ai: "WhatsApp assistants that reply in Bengali or English, share price lists, collect booking details and hand tricky chats to a person.",
     data: "Phone-friendly dashboards that combine Tally exports, order sheets and daily sales so an Agartala owner sees the week at a glance.",
-    app: "Installable web apps for delivery tracking, clinic tokens and tour bookings, with no Play Store listing needed.",
+    app: "Android and iOS apps for delivery tracking, clinic tokens and tour bookings, from ₹40,000 and published under your own Play Store and App Store accounts.",
     maintenance: "Price updates, security patches, backups and uptime checks, free for five months after launch and ₹8,000 a month after that.",
   },
   whyUsIntro:

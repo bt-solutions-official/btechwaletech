@@ -51,7 +51,7 @@ const vadodara: CityContent = {
     software: "Quotation systems, job-work trackers and dealer portals for Makarpura and Waghodia units that have outgrown registers and shared Excel files.",
     ai: "Automated enquiry logging, WhatsApp replies and AI assistants that answer routine questions in Gujarati, Hindi or English and hand the rest to your staff.",
     data: "Dashboards for production, dispatch, sales or admissions numbers so a Vadodara owner can see the day's position on a phone.",
-    app: "Installable web apps for service bookings, field staff reports and student portals, without the cost of an app store release.",
+    app: "Android and iOS apps for service bookings, field staff reports and student portals, from ₹40,000 with Google Play and App Store release included.",
     maintenance: "Edits, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

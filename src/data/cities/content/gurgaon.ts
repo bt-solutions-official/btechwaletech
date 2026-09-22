@@ -51,7 +51,7 @@ const gurgaon: CityContent = {
     software: "SaaS MVPs, admin panels, vendor portals and internal tools for teams that need working software quickly without hiring a full in-house squad.",
     ai: "AI agents, lead qualification bots and document workflows built on your own data, with clear limits on what the model may say or do.",
     data: "Dashboards that join ad spend, CRM, marketplace and order data so founders can see acquisition cost and repeat rate without waiting on a spreadsheet.",
-    app: "Progressive web apps for bookings, field teams and customer accounts that install from the browser and work on patchy mobile networks.",
+    app: "Android and iOS apps for bookings, field teams and customer accounts that hold up on patchy mobile networks, built in Flutter or React Native from ₹40,000.",
     maintenance: "Dependency upgrades, uptime alerts, backups and small feature changes, free for five months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -214,7 +214,7 @@ const gurgaon: CityContent = {
     {
       question: "Gurgaon me startup ki website aur app kitne me banegi?",
       answer:
-        "Marketing website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO site ₹20,000 se. Agar product ka MVP ya dashboard chahiye to custom web app ₹60,000 se shuru hota hai, features ke hisaab se. Har page aur feature ka itemised quote do working days mein mil jata hai.",
+        "Marketing website ₹10,000 se shuru hoti hai aur 700+ pages wali SEO site ₹20,000 se. Android aur iOS app ₹40,000 se banta hai, aur product ka MVP ya dashboard chahiye to custom web app ₹60,000 se shuru hota hai, features ke hisaab se. Har page aur feature ka itemised quote do working days mein mil jata hai.",
     },
     {
       question: "Do you have an office in Gurugram?",

@@ -51,7 +51,7 @@ const mumbai: CityContent = {
     software: "Portals and admin panels for importers, freight forwarders and distributors whose orders now live across four WhatsApp groups and an Excel sheet.",
     ai: "AI assistants and WhatsApp workflows that answer rate, stock and appointment questions at 11 pm, when your staff have long since left for the train.",
     data: "Sales and inventory dashboards that pull from Tally or spreadsheets, so a trader in Masjid Bunder sees yesterday's numbers before the shutters go up.",
-    app: "Installable progressive web apps for bookings, loyalty and repeat orders, useful for salons, gyms and cloud kitchens across the western suburbs.",
+    app: "Android and iOS apps for bookings, loyalty and repeat orders at salons, gyms and cloud kitchens across the western suburbs, from ₹40,000.",
     maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

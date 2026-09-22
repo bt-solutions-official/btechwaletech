@@ -51,7 +51,7 @@ const bhubaneswar: CityContent = {
     software: "Portals, dashboards and internal tools for startups, consultancies and Mancheswar units that have outgrown spreadsheets.",
     ai: "AI assistants and WhatsApp flows that handle admission, appointment or order questions in Odia, Hindi or English and route the rest to staff.",
     data: "Sales, admissions and project data cleaned and shown in dashboards that suit weekly review meetings.",
-    app: "Progressive web apps for bookings, student portals and field teams, installable straight from the browser.",
+    app: "Android and iPhone apps for bookings, student portals and field teams, built once and released on Google Play and the App Store in six to ten weeks.",
     maintenance: "Updates, security patches, backups and speed checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

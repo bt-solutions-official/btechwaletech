@@ -51,7 +51,7 @@ const achalpur: CityContent = {
     software: "Purchase, grading and payment registers for cotton, tur and orange traders, and dispatch tools for ginning units.",
     ai: "WhatsApp replies in Marathi or Hindi for rates, fees, rooms and appointments, with unusual questions passed to you.",
     data: "Season dashboards that show arrivals, purchases, dues and dispatch on the owner's phone.",
-    app: "Installable web apps for dealer orders, class notices or guest check-ins, without an app store step.",
+    app: "Android and iOS apps for dealer orders, class notices or guest check-ins at Chikhaldara stays, listed on Google Play and the App Store, from ₹40,000.",
     maintenance: "Free for five months after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:

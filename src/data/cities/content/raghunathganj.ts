@@ -50,7 +50,7 @@ const raghunathganj: CityContent = {
     software: "Stock, supplier and wage-record tools for beedi manufacturers, wholesalers and distributors who currently keep everything in registers.",
     ai: "WhatsApp auto-replies and enquiry logging for clinics, coaching centres and shops that get the same questions every day.",
     data: "Sales, stock and payment dashboards built from the Excel files or registers you already maintain, readable on a phone.",
-    app: "Browser-based apps for bookings, orders or student attendance that install on a phone without the Play Store.",
+    app: "Android and iOS apps for bookings, orders or student attendance, available on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Five months of free upkeep after launch, including edits, backups and security updates, then from ₹8,000 a month.",
   },
   whyUsIntro:

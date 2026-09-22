@@ -51,7 +51,7 @@ const barmer: CityContent = {
     software: "Vehicle, equipment and manpower registers for contractors working on oil, lignite and power sites, replacing scattered spreadsheets.",
     ai: "WhatsApp assistants that answer rate, availability and admission questions in Hindi, and route serious enquiries to you at once.",
     data: "Dashboards for equipment utilisation, billing cycles, crop purchases or fee collections, built from records you already hold.",
-    app: "Installable web apps for site supervisors, drivers and field staff that keep working when the signal drops.",
+    app: "Android and iOS apps for site supervisors, drivers and field staff that keep working when the signal drops, released on Google Play and the App Store.",
     maintenance: "Free maintenance for five months after launch, then support from ₹8,000 a month or paid changes only when you need one.",
   },
   whyUsIntro:

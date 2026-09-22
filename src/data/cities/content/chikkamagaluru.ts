@@ -51,7 +51,7 @@ const chikkamagaluru: CityContent = {
     software: "Estate records for picking, labour, rainfall and lots, plus booking calendars for homestays and resorts.",
     ai: "WhatsApp assistants that answer booking, directions and product questions in Kannada or English and pass tricky ones to you.",
     data: "Dashboards linking harvest lots, curing returns and sales, or bookings by season and source for stays.",
-    app: "Installable web apps for estate writers and supervisors who record work in areas with poor mobile signal.",
+    app: "Android and iOS apps for estate writers and supervisors who record work in areas with poor mobile signal, syncing later, from ₹40,000.",
     maintenance: "Free fixes, updates and backups for five months; ongoing maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:

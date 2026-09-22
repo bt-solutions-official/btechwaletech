@@ -1,0 +1,287 @@
+import type { CityContent } from "../../cities/types";
+
+const content: CityContent = {
+  slug: "it-services--sikkim--singtam",
+  updated: "2026-09-21",
+  geo: { lat: 27.2336, lng: 88.4964 },
+  meta: {
+    title: "Freelance Software Developers in Singtam, Sikkim",
+    description:
+      "Need an IT company in Singtam? Hire a freelance group for wholesale order apps, produce trade tools, lead forms, mobile websites and WhatsApp automation.",
+    keywords: [
+      "Android app development Singtam",
+      "iOS app development Singtam",
+      "mobile app developers Singtam",
+      "iPhone app developers Singtam",
+      "software development company in Singtam",
+      "IT company in Singtam",
+      "IT solutions Singtam",
+      "freelance developer Singtam Sikkim",
+      "wholesale order app Sikkim",
+      "distributor software for hill towns",
+      "inventory software Singtam",
+      "produce trading software ginger cardamom",
+      "mobile website Singtam shop",
+      "lead form website Sikkim",
+      "WhatsApp order automation Singtam",
+      "AI chatbot for shops Sikkim",
+      "pharmacy software near Singtam hospital",
+      "transport booking software NH10",
+      "SEO services Singtam",
+      "website developer near me Singtam",
+      "website updates and maintenance Sikkim",
+      "business dashboard Pakyong district",
+      "सिंगताम में सॉफ्टवेयर डेवलपर",
+      "Singtam ma pasal ko website",
+    ],
+  },
+  hero: {
+    eyebrow: "Singtam · Gangtok and Pakyong districts · Freelance IT",
+    h1: "Freelance software developers in Singtam for traders, distributors and local service businesses",
+    lede:
+      "Businesses searching for a software development company in Singtam usually need something practical: order apps for wholesalers, stock and credit tracking, mobile websites with lead forms, and WhatsApp automation. BtechWaleTech is a freelance group of three engineers working remotely from India who build exactly that, keep it updated and hand you every login.",
+    pills: ["Wholesale order apps", "Stock and credit tracking", "Mobile websites from ₹10,000", "Lead forms to WhatsApp", "Regular updates included"],
+  },
+  quickAnswer:
+    "For Singtam traders and service businesses, BtechWaleTech, a freelance group of three remote engineers, builds mobile websites from ₹10,000 (1 to 2 weeks), WhatsApp and AI automation from ₹40,000 (2 to 4 weeks) and custom order or stock software from ₹60,000 (6 to 12 weeks). You get an itemised quote in about two working days and five months of free updates and maintenance.",
+  snapshot: [
+    { label: "Location", value: "About 30 km south of Gangtok, where the Rani Khola meets the Teesta; the town spans Gangtok and Pakyong districts" },
+    { label: "Road junction", value: "NH10 to Siliguri and Gangtok meets NH510 towards Temi, Namchi and the south, making Singtam a natural trading stop" },
+    { label: "Trade role", value: "A long-standing market for surrounding villages, handling agricultural produce, groceries, hardware and consumer goods" },
+    { label: "Produce", value: "Oranges, ginger, large cardamom and vegetables from nearby farms pass through local traders on their way out of the state" },
+    { label: "Healthcare", value: "Singtam District Hospital at Golitar serves Pakyong district, supporting pharmacies, labs and clinics around it" },
+    { label: "Neighbouring places", value: "Rorathang, Rongli, Makha, Khamdong, Sirwani, Majitar and Rangpo within easy driving distance" },
+    { label: "Languages", value: "Nepali for daily trade, with Hindi and English common in shops and offices" },
+    { label: "Payments", value: "UPI is widely used for retail; wholesale still relies heavily on credit, cash and handwritten ledgers" },
+    { label: "Digital behaviour", value: "Shopkeepers order by phone and WhatsApp; residents search for services on mobile, often in mixed Nepali and English" },
+  ],
+  serviceNotes: {
+    web: "Mobile websites for Singtam shops, clinics, transporters and service providers, with prices, timings, a WhatsApp button and a lead form on the first screen.",
+    seo: "Map and search visibility for searches such as “hardware shop Singtam”, “pharmacy near Singtam hospital” and “wholesale grocery Sikkim”, with regular listing updates.",
+    ecommerce: "Online ordering for wholesalers and produce traders, and small stores for ginger, cardamom and pickles, with UPI and card checkout in the seller's own name.",
+    software: "Order, stock, credit and delivery tools for distributors and wholesalers who supply shops across Gangtok, Pakyong and Namchi districts.",
+    ai: "WhatsApp assistants that take routine shop orders, share price lists, confirm stock and send payment reminders in Nepali, Hindi or English.",
+    data: "Dashboards showing sales by town and retailer, slow stock, outstanding credit and delivery routes for Singtam traders.",
+    app: "Android and iOS apps from ₹40,000 for Singtam wholesalers and traders: retailer reorder apps, salesman order-taking and delivery tracking, published on Google Play and the App Store.",
+    maintenance: "Regular updates to prices, photos and offers, plus backups and security checks, free for five months after launch and from ₹8,000 a month later.",
+  },
+  whyUsIntro:
+    "Singtam traders do not need an expensive agency pitch or a system built for a city supermarket. They need order and stock tools that match how the hill trade works, including credit. A freelance group of three engineers can build that at a sensible starting price and answer on WhatsApp every day.",
+  pricingIntro:
+    "For a Singtam business, every expense must show a return in saved time or extra orders. Our starting prices below range from a ₹10,000 mobile website to custom order software. The final cost depends on users, products and features, and every quote is itemised so you can start small.",
+  sections: [
+    {
+      id: "singtam-it-options",
+      heading: "Software development company or freelance group: what does a Singtam trader actually need?",
+      paragraphs: [
+        "A Singtam trader usually needs a small set of reliable tools, such as an order system, stock and credit tracking, a mobile website and WhatsApp automation, rather than the large packages a software development company might offer; a freelance group can build those pieces one at a time and keep them updated at a lower cost.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no shop or office in Singtam, and we are open about that. We build web applications, mobile apps and PWAs, AI and WhatsApp automation, dashboards, websites and SEO, ecommerce stores and cloud hosting, and we provide updates and support remotely.",
+        "If you need computers repaired, a billing machine installed or CCTV set up, a local technician is the right person. If you need software that saves hours each week, we can help. Read our <a href='/about/'>about page</a> or the <a href='/it-services/sikkim/'>Sikkim IT services hub</a> for more.",
+      ],
+    },
+    {
+      id: "singtam-wholesale-order-app",
+      heading: "Order apps for Singtam wholesalers and distributors",
+      paragraphs: [
+        "An order app for a Singtam wholesaler lets retailers in surrounding towns browse the current price list, place orders from their phones, see their credit balance and get delivery updates, replacing the evening phone calls and WhatsApp voice notes that are easy to mishear and hard to track.",
+        "Distributors here supply grocery stores, hardware shops and small hotels from Rorathang to Makha and beyond. Each retailer has a credit limit, a usual order pattern and a delivery day. We build ordering systems that remember these details, suggest repeat orders, block orders that exceed credit limits unless approved, and group deliveries by route.",
+        "Inside the business, staff see the day's orders, pick lists and dispatch status. Salesmen visiting shops can take orders on a PWA that works offline and syncs later. The owner gets a summary of orders, collections and dues each evening.",
+        "This is custom software, starting from ₹60,000, usually built in phases: order taking first, then credit and delivery, then reports.",
+      ],
+      list: [
+        "Retailer price list and one-tap repeat orders",
+        "Credit limits and outstanding balances",
+        "Route-wise delivery planning",
+        "Offline order taking for salesmen",
+      ],
+    },
+    {
+      id: "singtam-stock-credit",
+      heading: "Stock and credit tracking that fits the hill trade",
+      paragraphs: [
+        "Stock and credit tracking software for Singtam shops records what comes in, what goes out and who owes what, so owners can see low stock before it runs out and chase overdue payments before they become bad debts, instead of relying on memory and a notebook.",
+        "Credit is part of doing business in hill towns, where regular customers and village shops settle up after harvests or at month end. We build ledgers that record each sale on credit, send polite WhatsApp reminders on agreed dates, and show ageing so the owner knows which accounts need a personal call.",
+        "For stock, the system tracks products by unit, supplier and expiry where needed, flags slow-moving items and suggests reorders. Where the shop already uses Tally or a billing software, we connect or import data rather than replacing what the accountant relies on.",
+      ],
+    },
+    {
+      id: "singtam-produce-trade",
+      heading: "Software for ginger, cardamom and orange traders",
+      paragraphs: [
+        "Produce traders in Singtam can use simple software to record purchases from farmers by weight and grade, track advances paid, manage lots in storage and record dispatches to buyers outside Sikkim, which keeps farmers' payments accurate and gives the trader a clear margin picture for each season.",
+        "Ginger, large cardamom and oranges move through local traders from surrounding villages toward markets in Siliguri and beyond. Much of the record-keeping is on paper slips. A small web app with a mobile purchase screen, farmer ledger, lot tracking and buyer invoices reduces disputes and saves hours at season end.",
+        "Farmer producer organisations can use the same system with member records and payouts. For selling directly to consumers, we can add an online store for organic produce with UPI and card checkout through a payment gateway account in the seller's name. Store builds start from ₹50,000.",
+      ],
+    },
+    {
+      id: "singtam-mobile-websites",
+      heading: "What should a mobile website for a Singtam business include?",
+      paragraphs: [
+        "A mobile website for a Singtam business should show, on the first screen, what you sell or do, your location on a map, opening hours, a call button, a WhatsApp button and a short lead form, because most visitors are on a phone and want to contact you within seconds, not browse several pages.",
+        "Beyond that first screen, add one page per main service or product group, a few real photos, prices where you can share them, and a short page about the owner and history of the business. That is enough for most shops, clinics, transport operators and repair services.",
+        "We build static websites from ₹10,000 using fast frameworks such as Astro, so pages load quickly even on weak networks along the Teesta valley. Each site includes basic SEO, a sitemap and connection to your Google Business Profile. See our <a href='/services/web-development/'>web development page</a> for the approach.",
+      ],
+    },
+    {
+      id: "singtam-lead-forms",
+      heading: "Lead forms that turn Singtam website visitors into customers",
+      paragraphs: [
+        "A lead form turns a website visitor into a customer only if it is short, works every time and reaches someone who replies quickly; we build forms that ask for just a name, phone and need, send the lead to your WhatsApp and email instantly, save a copy in a list and send the visitor an automatic confirmation.",
+        "For a transporter, the form might ask for pickup, drop and date. For a clinic, the preferred doctor and time. For a hardware shop, the items and quantity. Tailored fields mean fewer back-and-forth calls.",
+        "We also add simple tracking so you can see how many leads arrived each month and from where, whether Google, Maps, Facebook or a QR code on your shop board. That tells you which efforts are worth continuing.",
+      ],
+    },
+    {
+      id: "singtam-whatsapp-ai",
+      heading: "How does WhatsApp automation help Singtam shops and distributors?",
+      paragraphs: [
+        "WhatsApp automation helps Singtam shops and distributors by sending price lists on request, taking routine orders in a set format, confirming stock and delivery dates, and reminding customers about payments, all automatically, so the owner spends time on sales and relationships rather than repetitive typing.",
+        "We use the official WhatsApp Business API with workflows built in n8n or Python. For common questions, an AI assistant trained on your price list and policies replies in Nepali, Hindi or English. Orders flow into your order system or a Google Sheet. Anything unusual, like a complaint or a special discount request, goes to you.",
+        "Automation projects start from ₹40,000 and take two to four weeks. We test every flow with real messages from your business before switching it on.",
+      ],
+    },
+    {
+      id: "singtam-health-services",
+      heading: "Software for pharmacies, labs and clinics around Singtam District Hospital",
+      paragraphs: [
+        "Pharmacies, diagnostic labs and clinics near Singtam District Hospital can use appointment booking, report delivery and stock-with-expiry software to serve patients from Pakyong and Gangtok districts better, cut waiting times and avoid losses from expired medicines.",
+        "Patients often travel from villages for a single visit, so a booking page and reminder message help them arrive at the right time. Labs can send reports by secure link instead of asking patients to return. Pharmacies can track batches and expiry dates, set reorder levels and share availability on WhatsApp.",
+        "We build these as small web applications with role-based access and daily backups, from ₹60,000 for custom software, or start with a simple website and WhatsApp automation for smaller practices.",
+      ],
+    },
+    {
+      id: "singtam-transport-logistics",
+      heading: "Booking and trip tools for transporters on NH10 and NH510",
+      paragraphs: [
+        "Transporters and taxi operators based in Singtam can use booking forms, trip logs and driver apps to manage passenger and goods trips along NH10 and NH510, recording each trip's route, fare, advance and driver, so owners know which vehicles earn and which sit idle.",
+        "Goods carriers supplying shops and construction sites need load details and delivery confirmations; passenger operators need pickup times and contact numbers. A PWA for drivers works offline and syncs when the signal returns, which matters on stretches affected by monsoon disruptions.",
+        "A dashboard summarises trips, fuel costs and collections by vehicle each week. Custom tools start from ₹60,000; a simple booking website with a WhatsApp flow can start much lower.",
+      ],
+    },
+    {
+      id: "singtam-dashboards",
+      heading: "Dashboards that show a Singtam owner where money is made and stuck",
+      paragraphs: [
+        "A dashboard shows a Singtam business owner, on one phone screen, sales by product and retailer, stock running low, credit outstanding by age and deliveries pending, updated automatically from the order and billing tools, so decisions come from numbers rather than guesswork.",
+        "We connect to what you already use: the order app we build, Tally exports, Google Sheets or a billing system. Views are kept to the handful of numbers that change what you do tomorrow.",
+        "Dashboards typically come with a custom software project from ₹60,000, or can be quoted separately as a reporting layer over existing sheets.",
+      ],
+      list: [
+        "Sales by product, retailer and town",
+        "Low stock and slow-moving items",
+        "Credit ageing and collections",
+        "Pending deliveries by route",
+      ],
+    },
+    {
+      id: "singtam-updates-maintenance",
+      heading: "Regular updates and maintenance without hiring IT staff",
+      paragraphs: [
+        "Regular updates keep a Singtam website or app useful: new prices, fresh photos, festival offers, changed timings and fixes to anything that breaks; BtechWaleTech includes five months of maintenance free after launch, covering these updates plus backups, security patches and uptime checks.",
+        "You simply send the change on WhatsApp and we make it, usually the same or next working day. We host on reliable cloud servers so local outages do not take the site down, and we keep a backup so nothing is lost.",
+        "After five months, plans start at ₹8,000 a month, or you can pay only for individual changes. We reply seven days a week.",
+      ],
+    },
+    {
+      id: "singtam-seo",
+      heading: "SEO and map visibility for Singtam businesses",
+      paragraphs: [
+        "SEO for Singtam businesses is mostly about Google Maps and local searches: a verified Google Business Profile, accurate address and hours, real photos, reviews and a website with clear service pages, so residents and travellers passing through on NH10 find you when they search for shops, clinics, food or transport.",
+        "We also make pages easy for AI assistants to understand, with clear business details and structured data, so tools like Google's AI Overviews describe your business correctly. Monthly SEO from ₹10,000 covers ongoing fixes, content and listing updates. Results usually take a few months and are never guaranteed. More on our <a href='/services/seo-services/'>SEO services page</a>.",
+        "Wholesalers aiming at retailers across Sikkim can add pages for each product category and delivery area, which also help salesmen share links instead of long messages.",
+      ],
+    },
+    {
+      id: "singtam-cost-timeline",
+      heading: "What does it cost, and how long does it take for a Singtam business?",
+      paragraphs: [
+        "A Singtam project with BtechWaleTech starts at ₹10,000 for a mobile website (1 to 2 weeks), ₹20,000 for an SEO website (3 to 5 weeks), ₹40,000 for WhatsApp and AI automation (2 to 4 weeks) or an Android and iOS app (6 to 10 weeks), ₹50,000 for an online store (4 to 8 weeks) and ₹60,000 for custom order or stock software (6 to 12 weeks).",
+        "These are starting prices; the final cost depends on scope. You receive an itemised quote in about two working days. Payments are in INR only, by UPI QR code or direct bank transfer, in milestones. Full details are on our <a href='/pricing/'>pricing page</a>.",
+        "We work in weekly steps with a test link, then train your staff and hand over the domain, hosting and code in your name. You can see sample work on our <a href='/portfolio/'>portfolio</a>, and nearby pages cover <a href='/it-services/sikkim/rangpo/'>Rangpo</a> and <a href='/it-services/sikkim/gangtok/'>Gangtok</a>.",
+      ],
+    },
+    {
+      id: "singtam-paper-to-software",
+      heading: "How can a Singtam shop move from paper ledgers to software without disruption?",
+      paragraphs: [
+        "A Singtam shop can move from paper ledgers to software without disruption by running both side by side for a few weeks, starting with one task such as credit tracking, entering only active customers first, and training one trusted staff member before the rest; this avoids the common mistake of switching everything at once during a busy season.",
+        "We usually begin by photographing or typing the current ledger balances into the new system, so opening figures match. For the first month, sales are recorded in both the register and the app. Once the numbers agree week after week, the register can be retired. Staff learn one screen at a time rather than a whole system.",
+        "Timing matters. The quieter monsoon months, when fewer tourists and trucks pass through, are usually easier than festival periods like Dashain and Tihar, when shops are busiest. Starting small also keeps the first bill small: a credit ledger or order form can be live in weeks, and stock, dashboards and salesman apps can follow once the first part is trusted.",
+      ],
+      list: [
+        "Pick one task to digitise first",
+        "Enter opening balances and active customers",
+        "Run paper and software together for a month",
+        "Train one staff member, then the rest",
+      ],
+    },
+    {
+      id: "singtam-data-safety",
+      heading: "Keeping a small business's data safe and backed up",
+      paragraphs: [
+        "A small Singtam business keeps its data safe by storing it on cloud servers with automatic daily backups, giving each staff member their own login with limited access, turning on two-step verification for email and WhatsApp Business, and keeping the domain and hosting accounts in the owner's name, not a helper's.",
+        "Paper ledgers can be lost to fire, water or a misplaced bag, and a single office computer can fail without warning. Cloud-hosted software with backups means records survive even if a phone is lost. Role-based logins stop a salesman from seeing the full customer list or changing prices.",
+        "We set these protections up as standard on every project and explain them in plain language at handover. We also advise owners to keep a written copy of important passwords in a safe place at home, because recovering a lost account can take weeks.",
+      ],
+    },
+    {
+      id: "singtam-android-ios-apps",
+      heading: "Android and iOS ordering apps for Singtam wholesalers: cost and features",
+      paragraphs: [
+        "A Singtam wholesaler can launch an Android and iOS ordering app from ₹40,000 with BtechWaleTech, usually in six to ten weeks. Retailers log in, see your current rates, reorder their usual items with a tap and check their credit balance, while you manage products, prices and orders from an admin panel. The app is built in Flutter or React Native and published on Google Play and the App Store.",
+        "Shops in Rorathang, Makha, Rongli and Khamdong can then order at night after closing instead of calling in the morning rush. Push notifications announce new stock, price changes or festival offers. A second view for salesmen lets them take orders at the counter during visits, even offline, and sync later. Delivery staff can mark orders delivered with a photo, which settles most disputes about what arrived.",
+        "Produce traders can use a similar app to record purchases from farmers by weight and grade at the collection point. Pharmacies near the district hospital can let regular customers request refills. Because most shopkeepers use budget Android phones, we keep the app light and the text large; iOS support covers the growing number of owners and customers with iPhones.",
+        "The Google Play and Apple developer accounts are opened in your business name. If a WhatsApp catalogue already handles your volume, we will suggest waiting before spending on an app.",
+      ],
+      list: [
+        "Retailer reorder app with credit balance",
+        "Salesman order-taking view, offline",
+        "Delivery confirmation with photo proof",
+        "Farmer purchase app for produce traders",
+      ],
+    },
+  ],
+  localities: [
+    { name: "Singtam Bazaar", note: "The main market street with grocery, hardware, clothing and electronics shops. Mobile websites, WhatsApp catalogues and credit tracking help shopkeepers serve regular customers and village buyers." },
+    { name: "Golitar", note: "Home to Singtam District Hospital, with pharmacies, labs and eateries nearby. Appointment pages, report delivery and stock-with-expiry tools suit healthcare businesses here." },
+    { name: "Teesta and Rani Khola confluence area", note: "The riverside stretch along the highway with transport operators, workshops and roadside hotels. Booking forms and map listings help travellers find them." },
+    { name: "Rorathang", note: "A village area on the Rangpo road with farms and small shops. Produce trading records and simple shop websites help growers and traders reach buyers." },
+    { name: "Rongli", note: "A town toward Pakyong district's eastern side with local markets and routes toward the old silk route area. Order apps and tourism pages suit its businesses." },
+    { name: "Makha", note: "A village and bazaar along the Teesta south of Singtam. Distributors supplying shops here benefit from route-wise delivery planning and retailer ordering." },
+    { name: "Khamdong", note: "A hill area with farming villages and schools. Farmer ledgers, school fee tools and mobile websites support local institutions and producers." },
+    { name: "Sirwani and Adampool", note: "Settlements along NH10 between Singtam and Ranipool with shops, hotels and workshops. Local SEO and WhatsApp ordering help catch highway traffic." },
+    { name: "Temi road (NH510)", note: "The route south toward Temi and Namchi with tea country homestays and farms. Booking pages and produce stores help businesses along this road reach visitors and buyers." },
+    { name: "Majitar and Rangpo", note: "Nearby towns with pharma units, a technology institute and the state's main entry checkpoint. Supplier portals and logistics tools link Singtam traders with this busy corridor." },
+  ],
+  industries: [
+    { name: "Wholesale and distribution", need: "Orders from many village shops, credit limits and route deliveries", build: "Retailer order apps, credit ledgers and route planning" },
+    { name: "Grocery and hardware retail", need: "Stock control, regular customers on credit and phone orders", build: "Stock tools, WhatsApp ordering and payment reminders" },
+    { name: "Produce traders and FPOs", need: "Purchases from farmers by grade, advances and dispatches", build: "Purchase and lot tracking apps, farmer ledgers and buyer invoices" },
+    { name: "Pharmacies and labs", need: "Expiry tracking, reorders, appointments and report delivery", build: "Stock-with-expiry tools, booking pages and report links" },
+    { name: "Transport and taxis", need: "Trip records, driver assignment and advances", build: "Booking forms, driver PWAs and vehicle dashboards" },
+    { name: "Clinics and service providers", need: "Appointments and enquiries from villages", build: "Mobile websites with lead forms and reminder automation" },
+    { name: "Schools", need: "Fees, attendance and parent updates", build: "Fee and attendance tools with WhatsApp notices" },
+    { name: "Roadside hotels and eateries", need: "Being found by travellers on NH10 and NH510", build: "Map listings, menu sites and simple booking forms" },
+  ],
+  faqs: [
+    { question: "Do you have a shop or office in Singtam?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Singtam or elsewhere in Sikkim. We work over WhatsApp, calls and video, and you can check progress on a test link from your phone. We never claim a local presence we do not have." },
+    { question: "How do we make payments?", answer: "Payments are accepted only in INR, by scanning our UPI QR code or through direct bank transfer to our bank account. Work is split into milestones for finished, working parts, and every payment comes with an invoice. For your own customers' online payments, we set up a gateway account in your name." },
+    { question: "How much does a wholesale order app cost?", answer: "Custom software such as an order app starts from ₹60,000. A basic retailer ordering system is near that starting point; adding credit limits, route deliveries, salesman apps and dashboards increases scope. We send an itemised quote in about two working days and can split it into phases." },
+    { question: "How long will it take?", answer: "A mobile website takes one to two weeks, WhatsApp automation two to four, an online store four to eight and custom order or stock software six to twelve weeks. We can launch the most urgent part first, such as order taking, and add the rest later." },
+    { question: "Can the system handle customers who buy on credit?", answer: "Yes. We build credit ledgers with limits per customer, ageing reports and automatic WhatsApp reminders on agreed dates. Orders beyond a limit can be held for your approval. This fits how most Singtam wholesalers and shops already work." },
+    { question: "Will the WhatsApp bot understand Nepali?", answer: "Yes. The AI assistant can reply in Nepali, Hindi or English, following the customer's language. It uses only your approved price lists and policies, and forwards complaints, special discounts and unusual requests to you." },
+    { question: "Can you connect with Tally?", answer: "Often, yes. We can import Tally exports, sync data on a schedule where practical, or export in formats your accountant uses. We prefer working with your existing accounts setup over replacing it, which reduces disruption." },
+    { question: "Who owns the website, software and data?", answer: "You do. Domain, hosting, source code and database are in your name or transferred at handover, and your customer and sales data stays with you. You can move to another developer at any time without losing anything." },
+    { question: "How often can we update prices and offers?", answer: "As often as you like. During the five free months of maintenance, send changes on WhatsApp and we update them, usually within a working day. With an admin panel, you can also change prices and photos yourself." },
+    { question: "How long before we appear on Google Maps?", answer: "A complete and verified Google Business Profile can start showing in local results within a few weeks. Website SEO usually takes three to six months to build steady traffic. We do not guarantee positions, but we report changes and results monthly." },
+    { question: "Can you build an Android and iOS app for our retailers and salesmen?", answer: "Yes. Ordering apps for Android and iOS start from ₹40,000 and take six to ten weeks. Retailers reorder and see balances, salesmen take orders offline, and you manage everything from an admin panel. The app runs well on budget Android phones and is published on Google Play and the App Store under your own name." },
+    { question: "Do you fix computers or billing machines?", answer: "No. We are remote software engineers and do not repair hardware or install equipment. A local technician handles that. We cover websites, software, apps, automation, hosting and online support." },
+    { question: "Which is the best IT company in Singtam?", answer: "That depends on your need. For hardware, choose a reliable local technician. For software, compare providers on past work, code and data ownership, itemised prices and after-launch support. We are a remote freelance group, so hold us to the same standard." },
+    { question: "Is a WhatsApp catalogue enough, or do we need a website?", answer: "A WhatsApp Business catalogue is a good start for existing customers, but it does not help new customers find you on Google. A small website from ₹10,000, linked to your Google Business Profile and catalogue, lets people searching for your products discover you, check timings and send a lead form at any hour." },
+    { question: "Can you build software for a produce trading season only?", answer: "Yes. Purchase and lot tracking for ginger, cardamom or oranges can be built before the season and paused afterwards, with data kept safely for the next year. Hosting and maintenance can be scaled down in the off-season to keep running costs low." },
+    { question: "How do we get started?", answer: "Message us on WhatsApp or use the <a href='/contact/'>contact page</a> with a few lines about your business and what slows you down. We usually arrange a short call, then send an itemised quote in about two working days. Work begins after approval and the first milestone payment." },
+  ],
+  nearby: ["siliguri", "darjiling", "jalpaiguri", "kishanganj", "raiganj", "guwahati"],
+};
+
+export default content;

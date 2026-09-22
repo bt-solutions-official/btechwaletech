@@ -51,7 +51,7 @@ const ranebennuru: CityContent = {
     software: "Grower contract, field inspection and seed lot registers for seed companies, and lot ledgers for APMC traders.",
     ai: "WhatsApp replies in Kannada or English for rates, stock, OPD timings and admissions, with bulk buyers sent to a person.",
     data: "Dashboards for seed production by grower and village, dealer sales, APMC arrivals or admissions, from your existing records.",
-    app: "Installable web apps for field inspectors, dealer reps and delivery staff that run on everyday Android phones.",
+    app: "Android and iOS apps for field inspectors, seed dealer reps and delivery staff on everyday phones, published on Google Play and the App Store.",
     maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:

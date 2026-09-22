@@ -51,7 +51,7 @@ const purnia: CityContent = {
     software: "Lot-wise purchase, grading and dispatch registers for makhana processors and maize traders who still reconcile everything by hand.",
     ai: "WhatsApp assistants that answer rate, stock, OPD and batch questions in Hindi, and pass genuine buyers and patients straight to a person.",
     data: "Dashboards that turn mandi purchase records, clinic footfall or fee collections into clear monthly figures you can act on.",
-    app: "Installable web apps for field purchase agents, sample collectors and delivery riders that run on basic Android phones.",
+    app: "Android and iOS apps for field purchase agents, sample collectors and delivery riders on basic phones, from ₹40,000 in six to ten weeks.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month or paid changes only when needed.",
   },
   whyUsIntro:

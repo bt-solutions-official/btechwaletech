@@ -51,7 +51,7 @@ const shivpuri: CityContent = {
     software: "Purchase, stock and payment registers for grain and oilseed traders and for stone tile suppliers working from paper books.",
     ai: "WhatsApp replies in Hindi for safari slots, room rates, fees or OPD timings, answering even when the counter is closed.",
     data: "Crop-season purchases, sales and dues turned into a clear phone dashboard for traders and small processors.",
-    app: "Installable web apps for coaching attendance, clinic tokens, dealer orders or safari bookings, without any app store step.",
+    app: "Android and iOS apps for coaching attendance, clinic tokens, dealer orders or safari bookings, from ₹40,000 in six to ten weeks.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

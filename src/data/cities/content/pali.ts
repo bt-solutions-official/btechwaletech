@@ -51,7 +51,7 @@ const pali: CityContent = {
     software: "Lot tracking, job-work registers and dispatch sheets for processing units that still move grey cloth and challans through paper books.",
     ai: "WhatsApp assistants that send shade cards, rate lists and minimum order quantities to traders in Surat, Delhi or Kolkata while you are on the factory floor.",
     data: "Dashboards that show which designs, shades or buyers bring in money each month, built from your Tally exports or existing sheets.",
-    app: "Installable web apps for agents and salesmen who visit markets across Rajasthan and Gujarat and need catalogues offline.",
+    app: "Android and iOS apps for agents and salesmen who visit markets across Rajasthan and Gujarat and need catalogues offline, from ₹40,000.",
     maintenance: "Backups, security patches, price updates and uptime checks at no charge for five months, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const moradabad: CityContent = {
     software: "Order, sampling and production tracking tools for export houses that currently juggle buyer POs, karigar job work and shipping dates in separate spreadsheets.",
     ai: "AI assistants and WhatsApp flows that answer routine enquiries, collect sample requests and log leads so the owner is not typing replies late into the night.",
     data: "Dashboards that show which buyers, product lines and shipments actually make money, built from your existing Tally exports and order sheets.",
-    app: "Installable web apps for sales agents and dealers to browse the catalogue offline at a trade fair and place orders without a separate app store download.",
+    app: "Android and iPhone apps for sales agents and dealers to browse the brassware catalogue offline at a trade fair and place orders, from ₹40,000.",
     maintenance: "Catalogue updates before each buying season, security patches, backups and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

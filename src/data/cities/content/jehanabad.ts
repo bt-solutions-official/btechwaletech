@@ -51,7 +51,7 @@ const jehanabad: CityContent = {
     software: "Purchase, stock and billing tools for grain traders and flour units, and simple fee and attendance systems for schools and coaching institutes.",
     ai: "WhatsApp replies in Hindi that answer price, timing and admission questions around the clock and forward serious enquiries to the owner.",
     data: "Weekly dashboards of sales, purchases or admissions that an owner can read on a phone without opening several registers.",
-    app: "Installable web apps for delivery rounds, test schedules or attendance that work on weak signal and need no app-store download.",
+    app: "Android and iOS apps for delivery rounds, test schedules or attendance that work on weak signal, published on both app stores from ₹40,000.",
     maintenance: "Backups, updates, security checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

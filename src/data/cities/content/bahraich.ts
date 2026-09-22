@@ -50,7 +50,7 @@ const bahraich: CityContent = {
     software: "Order, stock and credit tools for Bahraich wholesalers and border traders who currently run everything on paper registers and phone calls.",
     ai: "WhatsApp assistants that answer timing, fee and stock questions in Hindi and pass real negotiations and patient queries to a named person.",
     data: "Simple dashboards for cane supply payments, daily sales or admissions so an owner can see the week on one phone screen.",
-    app: "Installable web apps for delivery staff, field agents or school notices that work without a Play Store download and survive weak signal.",
+    app: "Android and iOS apps for delivery staff, field agents or school notices that survive weak signal, from ₹40,000 with Play Store and App Store release.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:

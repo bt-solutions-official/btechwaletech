@@ -51,7 +51,7 @@ const dharmavaram: CityContent = {
     software: "Loom-wise production, yarn issue and wage records for master weavers who still run the business from notebooks.",
     ai: "WhatsApp assistants that answer price-range, colour and delivery questions in Telugu or English and pass serious buyers to you.",
     data: "Sales dashboards that show which colours, borders and price bands actually sell before the wedding season.",
-    app: "Phone-friendly web apps for agents who collect sarees from weavers' homes and record pieces, advances and dues.",
+    app: "Android and iOS apps for agents who collect sarees from weavers' homes and record pieces, advances and dues, published on both stores.",
     maintenance: "Five months of free fixes and backups after launch, then care from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

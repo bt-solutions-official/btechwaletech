@@ -51,7 +51,7 @@ const dehradun: CityContent = {
     software: "Admission, fee, attendance and dispatch tools for Dehradun schools, academies and Selaqui manufacturers.",
     ai: "WhatsApp assistants that answer admission, room and product questions in Hindi or English and record every enquiry.",
     data: "Dashboards for admissions pipelines, occupancy, batch-wise production or sales, built from your existing spreadsheets.",
-    app: "Installable web apps for parent communication, student portals and field-sales orders, without an app store.",
+    app: "Android and iOS apps for parent communication, student portals and field-sales orders, published on both app stores with prices from ₹40,000.",
     maintenance: "Admission-season updates, security patches and backups, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

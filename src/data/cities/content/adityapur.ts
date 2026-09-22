@@ -51,7 +51,7 @@ const adityapur: CityContent = {
     software: "Job cards, production and rejection logs, dispatch and challan registers, and vendor-ledger tools that run in any browser.",
     ai: "WhatsApp and email assistants that sort RFQs, send drawings to the right person and answer routine status questions.",
     data: "Dashboards for output per shift, rejection rates, on-time dispatch and receivables by customer, built from existing sheets.",
-    app: "Installable shop-floor apps for supervisors and quality inspectors that work on tablets and cheap Android phones.",
+    app: "Shop-floor apps for Android phones, tablets and iPhones, so supervisors and quality inspectors log checks on the line; one Flutter build, from ₹40,000.",
     maintenance: "Five months of free fixes, updates and backups after launch, then support from ₹8,000 a month or charged per job.",
   },
   whyUsIntro:

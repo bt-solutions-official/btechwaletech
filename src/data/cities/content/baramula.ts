@@ -50,7 +50,7 @@ const baramula: CityContent = {
     software: "Orchard and cold-store records, grower payment ledgers and booking registers for businesses still working from paper diaries.",
     ai: "WhatsApp assistants that answer room, package and order questions in Urdu, Hindi or English, handing real bookings to a person.",
     data: "Dashboards showing boxes dispatched, rates by variety and grade, or bookings by month, so owners can plan the harvest and the ski season.",
-    app: "Installable web apps for delivery tracking, school notices or clinic appointments that work on basic phones.",
+    app: "Android and iOS apps for delivery tracking, school notices or clinic appointments that work on basic phones, published on both app stores.",
     maintenance: "Five months of free updates and fixes after launch, then plans from ₹8,000 a month or pay-per-change support.",
   },
   whyUsIntro:

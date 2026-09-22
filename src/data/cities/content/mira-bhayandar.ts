@@ -51,7 +51,7 @@ const miraBhayandar: CityContent = {
     software: "Order, job-card and stock tools for Bhayandar East gala units and distributors who still track everything in registers and WhatsApp chats.",
     ai: "WhatsApp assistants that answer fee, menu, slot and price questions in Hindi, English or Gujarati and pass the unusual ones to you.",
     data: "Simple dashboards for society-level service firms and traders showing which areas, products and channels actually bring money in.",
-    app: "Installable web apps for home delivery, class attendance and society service bookings, with no Play Store listing needed.",
+    app: "Android and iOS apps for home delivery, class attendance and society service bookings, listed on Google Play and the App Store from ₹40,000.",
     maintenance: "Price edits, new photos, backups and security fixes, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

@@ -1,0 +1,723 @@
+---
+import JapanServicePage from "@components/japan/JapanServicePage.astro";
+import type { Article } from "@components/japan/JapanServicePage.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { usd, countryOgImage } from "@data/countries/international";
+import { JPY_PER_USD, jpy, both, ja, japanRegions, japanServiceSchema } from "@data/countries/japan";
+
+const path = "/japan/website-developer/";
+
+// ---------- FAQ (visible list and FAQPage schema share this array; plain text only) ----------
+
+const faqs = [
+  {
+    question: "How much does it cost to have a website made in Japan?",
+    answer: `According to 2026 price guides from Japanese agencies and comparison sites, a corporate site of around five pages typically costs ¥150,000 to ¥650,000, about 30 pages costs ¥300,000 to ¥1,250,000, and a 10-page WordPress site is around ¥800,000. Our static websites start from ${both("Static")}, SEO websites of 700+ pages from ${both("SEO website")} and ecommerce storefronts from ${both("Ecommerce")}. Each is a starting price for a first version with an agreed scope. Your written quote depends on page count, features, languages and integrations, and third-party costs such as the domain and hosting are paid by you directly.`,
+  },
+  {
+    question: "Why is your website price lower than a Japanese web production company?",
+    answer: "A Japanese web production company carries Japanese costs: office rent, salaried directors and sales staff, and often a chain of subcontractors that each add a margin. We are three engineers in India who work remotely, with no office, no sales team and no subcontractors, so our costs are much lower. The trade-offs are real and we state them upfront: we work in English, we do not write your Japanese copy, and we cannot meet you in person or photograph your premises.",
+  },
+  {
+    question: "Do you have an office or staff in Japan?",
+    answer: "No. BtechWaleTech has no office, registered company, staff or address in Japan. We are three engineers based in India: Ankur Kumar builds front ends, back ends and integrations, Santosh Sharma handles AI, AWS, data, technical SEO and deployment, and Vedansh Shrivastava runs project delivery. You message and talk to them directly, with no account manager in between. All communication is remote, by WhatsApp, email and video call, and you can check progress whenever you like on a private staging site.",
+  },
+  {
+    question: "Can you write the Japanese text for our website?",
+    answer: "No, and it is worth being careful with any overseas developer who says yes. Our team works in English and does not write natural Japanese. We build the Japanese site correctly, with Japanese fonts, line breaking, furigana fields, postal code lookup and proper language attributes, and the words come from you, a bilingual colleague or a professional translator or copywriter. We keep all site text in one shared sheet so your writer can work without touching code, and we import it exactly as approved.",
+  },
+  {
+    question: "How long does it take to build a corporate website?",
+    answer: "A static corporate site usually takes one to two weeks of build time once the content is ready, and an SEO website of 700+ pages takes three to five weeks. What stretches a Japanese project is rarely the code: it is waiting for Japanese copy, photos and approval from several people inside the company, sometimes including the president. We agree dates for content and feedback in the scope, and we show progress on a staging link throughout, so nothing waits for a big reveal at the end.",
+  },
+  {
+    question: "Can you renew our existing website without losing Google rankings?",
+    answer: "Yes, if the renewal is planned around your URLs. Before any design work we crawl the current site, export the pages that receive search traffic or backlinks, and map every old URL to its new equivalent. On launch day we set permanent 301 redirects, update internal links, submit a new sitemap and then watch indexing and 404 errors for the following weeks. Most traffic lost in a site renewal comes from missing redirects and deleted content, not from the new design. Nobody can promise rankings, but we remove the avoidable risks.",
+  },
+  {
+    question: "Can you move our site from Wix, STUDIO, Jimdo or an old WordPress theme?",
+    answer: "Yes. Hosted builders such as Wix, Jimdo and STUDIO keep the design inside their platforms, so a move normally means rebuilding the design on the new stack and transferring the text, images and news posts. Old WordPress sites can be moved more directly, although outdated themes and plugins are often better replaced than patched. In every case we list the old URLs first and redirect them, keep your domain in your company's name, and switch DNS only after you approve the new site on staging.",
+  },
+  {
+    question: "Should our website use WordPress or be a static site?",
+    answer: "It depends on who edits the site and how often. If your staff publish news, columns or job openings every week, WordPress or a headless CMS makes sense, provided someone keeps plugins and PHP updated. If the site changes a few times a month, a static site is faster, cheaper to host and much harder to hack, and we can still add a simple editing screen for news. We recommend one after hearing how your team works, and we explain the running costs of each option before you decide.",
+  },
+  {
+    question: "Do your forms support furigana, postal code lookup and full-width input?",
+    answer: "Yes. Our Japanese forms put the family name first, include a furigana field, fill in the prefecture and city from a seven-digit postal code, and accept full-width numbers and letters by converting them instead of showing an error. Phone numbers work with or without hyphens. Where your audience expects it, we add a confirmation screen before sending, clear required labels, error messages next to each field and spam protection. Submissions go to email and, if you like, to Chatwork, Slack or Microsoft Teams.",
+  },
+  {
+    question: "Can you build a bilingual Japanese and English website?",
+    answer: "Yes, and it is one of the most useful things we do for foreign-owned companies, exporters and inbound tourism businesses. Every language lives in its own folder, for example /en/ beside /ja/, connected by hreflang tags so Google serves the right version; the language switcher opens the matching page, and each language gets suitable fonts. We never force visitors to another language by IP address. Chinese and Korean versions follow the same pattern. Translations come from native translators; we handle the structure, forms and publishing.",
+  },
+  {
+    question: "Can you invoice in yen, and how do we pay?",
+    answer: `Yes. Our prices are published in US dollars, with yen figures at about ¥${JPY_PER_USD} per dollar for comparison; in September 2026 the rate moved between about ¥153 and ¥157. When your accounts team would rather pay in yen, we fix a JPY amount in the written quote, and currency swings during the build leave it unchanged. You pay by Wise or international bank transfer in stages: part in advance, part on design approval and the rest before the site goes live.`,
+  },
+  {
+    question: "Do your invoices include Japanese consumption tax?",
+    answer: "No. Our company is based in India and has not registered in Japan as a qualified invoice issuer. Our invoices therefore carry no Japanese consumption tax and do not count as qualified invoices under the system Japan introduced in October 2023. The consumption tax treatment of a service bought from abroad, and any withholding question, depend on your company's situation, so your tax accountant (zeirishi) should make that call. We are happy to supply our company details and clear, itemised invoices to support that review.",
+  },
+  {
+    question: "Who owns the website, the domain and the code?",
+    answer: "Your company does. The domain, hosting or cloud account, analytics, Search Console and any CMS or Shopify account are registered in your company's name, or transferred to it before launch, and you receive every login. The source code is handed over, usually in a Git repository you control. We do not hold sites hostage for renewal fees. Fonts, images and plugins are properly licensed, and paid licences are bought in your name so they stay valid if you ever change developer.",
+  },
+  {
+    question: "Where will our website be hosted, and can we use a .co.jp domain?",
+    answer: "Static sites are usually served from a global CDN with edge servers in Japan, which keeps pages fast from Hokkaido to Okinawa. WordPress sites run well on Japanese hosts such as Xserver or Sakura Internet, and larger sites can use AWS, Google Cloud or Azure regions in Tokyo and Osaka. Registering .jp requires a Japanese postal address, and .co.jp is reserved for companies registered in Japan, with one per company, so the registration is done by your company; we then connect DNS, SSL and email records.",
+  },
+  {
+    question: "What are your working hours in Japan time?",
+    answer: "We are online from 12:30 pm to 12:30 am Japan time, which is 9 am to 9 pm in India, every day of the week on WhatsApp. The gap between the two countries is a fixed three and a half hours, because neither uses daylight saving time, so the schedule is the same in January and July. Feedback you send in the morning is waiting for us when we start, and most changes appear on the staging link before your evening. Calls around 10 am Japan time can be arranged in advance.",
+  },
+  {
+    question: "Can you build a recruitment site for our company?",
+    answer: `Yes. A recruitment site usually has a message from the company, job descriptions with working conditions, staff interviews, a day-in-the-life page, photos of the real workplace, an FAQ and an application or casual-interview form that works on a phone. JobPosting structured data makes your openings eligible for Google's job listings in search, and we can link to ads you already run on job boards. Recruitment sites can share the corporate site's design system, and a static build starts from ${both("Static")}.`,
+  },
+  {
+    question: "Will the website meet Japanese accessibility standards?",
+    answer: "We build to WCAG 2.2 level AA as a working target. JIS X 8341-3, Japan's web accessibility standard, is aligned with WCAG, and its 2016 edition uses the WCAG 2.0 success criteria, so a site built this way is well placed for a JIS conformance check. In practice that means readable contrast, keyboard access, visible focus, labelled form fields, meaningful alt text and headings, and text that can be enlarged without breaking layouts. Since April 2024, private businesses in Japan must provide reasonable accommodation for people with disabilities. For a formal test report, a specialist tester can audit the finished site.",
+  },
+  {
+    question: "Can our website be paid for with an IT subsidy?",
+    answer: "Not with IT adoption subsidies. Programmes such as the IT Introduction Subsidy and its successors require registered IT support providers and registered tools, and we are not registered, so our work is not subsidy-eligible. Other small business subsidies sometimes cover website or sales-promotion costs under strict conditions, but whether an overseas vendor qualifies depends on each programme's rules. Check with the programme office or your local chamber of commerce before choosing any vendor. If subsidy funding is essential, a registered Japanese provider is the safer choice.",
+  },
+  {
+    question: "What should we prepare before contacting a website developer?",
+    answer: "A short list is enough to start: what the business does and for whom, the pages you think you need, three to five websites you like and why, your logo files, and who approves decisions. If you are renewing a site, give us access to Google Search Console and analytics so we can protect the pages that bring traffic. Photos you own, Japanese text or a translator, and access to your domain registrar speed things up. Missing items are fine; we list them in the scope with dates.",
+  },
+  {
+    question: "What happens after the website launches?",
+    answer: `You receive five months of maintenance free after launch: text and image updates, bug fixes, CMS and plugin updates where relevant, backups and speed checks. From the sixth month you can keep a maintenance plan from ${both("Maintenance")}, or simply message us whenever a change is needed. Japanese maintenance plans that include content updates are commonly quoted at ¥20,000 to ¥50,000 a month, so compare what each plan includes, not only the monthly figure. Hosting, domain and platform fees are paid by you directly to those providers.`,
+  },
+  {
+    question: "Do you do SEO as part of the website build?",
+    answer: `Every build includes technical SEO basics: unique titles and descriptions, a clean heading structure, structured data, an XML sitemap, canonical tags, fast pages and redirects from old URLs. Ongoing SEO, such as Japanese keyword research with a native writer, content planning and monthly Search Console reports, is a separate plan from ${both("Monthly SEO")}, against about ¥100,000 to ¥300,000 a month for SME SEO consulting in Japan. Yahoo! JAPAN uses Google's search technology, so one strategy covers both. We do not guarantee rankings, because no one can.`,
+  },
+  {
+    question: "Can you build a Shopify store for selling in Japan?",
+    answer: `Yes. Japanese agencies typically charge ¥300,000 to ¥1,000,000 for a basic Shopify build, and moving from another cart often adds 20 to 50 percent; our storefronts start from ${both("Ecommerce")}. We set up the theme, collections, delivery date options, tax-inclusive prices, the Specified Commercial Transactions Act page and the payment methods Japanese shoppers expect, such as cards including JCB, konbini payment and bank transfer, through a payment provider approved in your company's name. Shopify plan fees, apps and payment fees are paid by you directly.`,
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Website Developer Japan | Tokyo & Osaka Web Design",
+  description: `Website developer for Japan: corporate, recruitment and Shopify sites for all 47 prefectures, built remotely from India. From ${usd("Static")} (about ${jpy("Static")}).`,
+  canonicalPath: path,
+  h1: "Website developer for Japan: corporate, recruitment and bilingual sites for all 47 prefectures",
+  intro: `Need a website developer for a business in Japan without Tokyo agency prices? BtechWaleTech's three engineers in India design and build corporate sites, recruitment sites, landing pages, Shopify storefronts and bilingual Japanese and English sites, and renews old WordPress, Wix or STUDIO sites without throwing away search traffic. We work remotely in English, your Japanese text comes from your own team or translator, and websites start from ${both("Static")}.`,
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Japan", href: "/japan/" },
+    { label: "Website developer", href: path },
+  ]),
+  locale: "en_JP",
+  ogImage: countryOgImage("BtechWaleTech, a remote website development team in India building websites for businesses in Japan"),
+  keywords: [
+    "website developer Japan",
+    "web developer Japan",
+    "hire web developer Japan",
+    "web developer Tokyo",
+    "website developer Tokyo",
+    "web developer Osaka",
+    "web developer Nagoya",
+    "web developer Yokohama",
+    "web developer Fukuoka",
+    "web developer Sapporo",
+    "web design Kyoto",
+    "web design Kobe",
+    "web design company Japan",
+    "affordable website Japan",
+    "English website developer Japan",
+    "bilingual website Japan",
+    "corporate website Japan",
+    "recruitment website Japan",
+    "WordPress developer Japan",
+    "Shopify website Japan",
+    "website renewal Japan",
+    "Wix to WordPress migration Japan",
+    "multilingual website Japan",
+    "inbound tourism website Japan",
+    "landing page design Japan",
+    "website cost Japan",
+    "offshore web development Japan",
+    "ホームページ制作 格安",
+    "ホームページ制作 外注",
+    "Web制作会社",
+    "コーポレートサイト制作",
+  ],
+});
+
+const schema = japanServiceSchema({
+  path,
+  title: page.title,
+  description: page.description,
+  serviceName: "Website development for businesses in Japan",
+  serviceType: "Website development",
+  plans: ["Static", "SEO website", "Ecommerce", "Maintenance"],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Japan · Website developer · Remote team in India";
+const facts: [string, string][] = [
+  ["Builds", "Corporate, recruitment, landing page and bilingual sites"],
+  ["From", `${usd("Static")} for a static site, about ${jpy("Static")}`],
+  ["Renewals", "URL redirect maps so search traffic survives"],
+  ["Japan time", "Online 12:30 pm to 12:30 am JST, 7 days"],
+  ["Billing", "USD or yen invoices, paid by Wise or wire"],
+  ["After launch", "Five free months of maintenance"],
+];
+const pills = ["Corporate sites", "Recruitment sites", "Landing pages", "Japanese and English sites", "WordPress and headless CMS", "Renewals from Wix, STUDIO and Jimdo"];
+const heroOrigin = "Engineers based in India · Websites for Japan built remotely · No Japan office";
+const quoteKicker = "Website starting prices for Japan";
+const quotePlans = ["Static", "SEO website", "Ecommerce", "Maintenance", "Monthly SEO"];
+const quoteFoot = `Starting prices in USD, with yen at about ¥${JPY_PER_USD} per dollar for comparison. Your written quote depends on pages, features and languages. 5 months of maintenance free after launch.`;
+
+const stats = [
+  { value: usd("Static"), label: `Website starting price, about ${jpy("Static")}` },
+  { value: "¥150,000+", label: "Typical Japanese price for a small corporate site in 2026 guides" },
+  { value: "12:30 pm", label: "When we come online in Japan time, 7 days a week" },
+  { value: "5 months", label: "Maintenance free after launch" },
+];
+
+const answerHeading = "Looking for an affordable website developer for your business in Japan?";
+const quickAnswer = `We are three engineers in India who design and build websites for businesses in Japan: corporate sites, recruitment sites, landing pages, Shopify storefronts and bilingual Japanese and English sites, plus renewals with full redirect mapping. A static website starts from ${both("Static")}; 2026 Japanese price guides put a small corporate site from a local production company at roughly ¥150,000 to ¥650,000. We work remotely in English, and your Japanese text comes from your own team or translator.`;
+const answerMore = "Before any payment you get a written scope. During the build you review a private staging link on your own phone, with Japanese forms that handle furigana and postal code lookup, and every account stays in your company's name. Our working day covers the Japanese afternoon and evening, seven days a week.";
+const snapshotCaption = "Website development for Japan at a glance";
+const snapshot = [
+  { label: "Who builds it", value: "Three engineers in India, with no account managers or subcontractors" },
+  { label: "Website types", value: "Corporate, recruitment, landing pages, storefronts, bilingual and inbound sites" },
+  { label: "Platforms", value: "Static sites on Astro, WordPress, headless CMS and Shopify" },
+  { label: "Japanese details", value: "Japanese fonts, line breaking, furigana, postal code lookup, full-width input" },
+  { label: "Language", value: "We work in English; Japanese text comes from your team or translator" },
+  { label: "Starting price", value: `From ${both("Static")} for a static website` },
+  { label: "Hours in JST", value: "WhatsApp every day, 12:30 pm until 12:30 am" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "Website development services for businesses in Japan";
+const services: { name: string; note: string; href?: string; size: "lg" | "md" | "sm" }[] = [
+  { name: "Corporate websites", note: "Company profile, representative message, history, access and news pages, built fast on a static stack or on WordPress when your team publishes often.", href: "/services/web-development/", size: "lg" },
+  { name: "Website renewal and migration", note: "Redesigns and moves away from Wix, Jimdo, STUDIO or old WordPress themes, with a full URL redirect map so search traffic survives.", size: "md" },
+  { name: "Recruitment sites", note: "Job details, working conditions, staff stories and a short application form that works on a phone.", size: "sm" },
+  { name: "Landing pages", note: "Campaign and advertising pages built with real text, fast loading and a clear enquiry form.", size: "sm" },
+  { name: "Bilingual and inbound sites", note: "Japanese, English, Chinese and Korean versions with hreflang and a switcher that keeps the visitor on the same page.", size: "sm" },
+  { name: "Ecommerce storefronts", note: `Shopify or custom stores with tax-inclusive prices and Japanese payment methods, from ${both("Ecommerce")}.`, size: "sm" },
+  { name: "SEO-ready builds", note: "Structured data, sitemaps, clean URLs and Core Web Vitals checks in every build, with ongoing SEO available.", href: "/japan/seo-services/", size: "sm" },
+  { name: "Maintenance", note: `Updates, fixes, backups and speed checks: 5 months free, then from ${both("Maintenance")}.`, size: "sm" },
+];
+
+// ---------- Pricing ----------
+
+const pricingHeading = "Website prices for businesses in Japan, in USD and yen";
+const pricingIntro = `Every figure is a starting price for a clearly scoped first version, shown in US dollars with an approximate yen amount at ¥${JPY_PER_USD} per dollar. The table lists all our plans; for most website projects the static website, SEO website, ecommerce and maintenance rows are the ones that matter. JPY invoicing is available on request.`;
+const pricingFine = `These are starting prices, not fixed quotes; the written quote fixes the amount in USD or JPY. Domains, hosting, CMS or Shopify plans, paid themes and fonts, translation and payment fees are paid by you directly to those providers. No Japanese consumption tax is added to our invoices.`;
+
+// ---------- Regions: one source for the guide blocks and the region table ----------
+
+const regionNotes: Record<string, { character: string; build: string; text: string }> = {
+  Hokkaido: {
+    character: "Sapporo services, food producers, ski and nature tourism, semiconductor suppliers near Chitose",
+    build: "Food stores with cool delivery, multilingual lodging and tour sites, bilingual supplier profiles",
+    text: "Hokkaido is a single prefecture and a region of its own, and its websites often serve two very different audiences. Sapporo, the largest city, has retailers, IT firms, universities and service businesses that need corporate and recruitment sites much like those in Tokyo. Across the rest of the island, websites sell Hokkaido itself: seafood, dairy, sweets and vegetables shipped nationwide from Hakodate, Obihiro, Kushiro and Asahikawa, and ski, hot spring and nature tourism in Niseko, Furano, Otaru and Shiretoko. That means product pages with refrigerated or frozen shipping options and seasonal order windows, and English, Chinese and Korean pages for lodges and tour operators whose guests book months ahead. Semiconductor investment around Chitose has brought construction and engineering suppliers who need bilingual company profiles. Winter access details, such as airport transfers and road conditions, are the kind of practical information Hokkaido visitors look for on a well-built site.",
+  },
+  Tohoku: {
+    character: "Sendai services, parts and food manufacturers, fruit and sake producers, onsen tourism",
+    build: "Recruitment sites, capability pages, harvest pre-order stores, ryokan booking sites",
+    text: "Tohoku's six prefectures pair Sendai, a regional business centre with universities, branch offices and a startup community, with smaller cities whose companies rely on their websites to reach Tokyo and beyond. Makers of electronic parts, machinery and processed food in Miyagi, Fukushima and Yamagata need clear product and capability pages, and often recruitment sites that persuade graduates to stay in the region or come back to it. Growers of rice, apples in Aomori, cherries in Yamagata and peaches in Fukushima, and sake breweries across all six prefectures, benefit from storefronts with pre-order windows timed to the harvest. Crafts such as Nambu ironware from Iwate and bentwood ware from Odate in Akita sell well to overseas buyers when an English page lists dimensions, care instructions and shipping options. Ryokan and hot spring towns in Iwate, Akita and Yamagata need direct booking and inbound-friendly pages, with access information for both Shinkansen stations and drivers.",
+  },
+  Kanto: {
+    character: "Headquarters, finance, startups, foreign subsidiaries, logistics, research",
+    build: "Corporate and recruitment sites, bilingual sites, landing pages, multi-branch location pages",
+    text: "Kanto generates more website work than any other region because it holds more companies than anywhere else in Japan. In Tokyo, financial firms around Marunouchi and Otemachi, technology companies and startups around Shibuya, and foreign-owned subsidiaries in Minato need corporate sites that pass procurement and compliance reviews, bilingual pages that head offices abroad can read, and recruitment sites that compete for scarce engineers and graduates. Yokohama and Kawasaki add R&D centres, electronics firms and port logistics companies, while Saitama and Chiba add warehouses, retailers and the clinics, dental offices and schools of commuter towns whose customers search by station name. Beyond the metropolis, Ibaraki has research institutes around Tsukuba and a strong manufacturing base, Tochigi has Nikko tourism and food production, and Gunma has car-related manufacturing and hot spring resorts such as Kusatsu. Typical Kanto builds are corporate and recruitment sites, service landing pages, station-by-station pages for multi-branch businesses and English sites for international companies.",
+  },
+  Chubu: {
+    character: "Automotive and precision manufacturing, metalwork, crafts, tea, wine, mountain resorts",
+    build: "B2B capability sites with quote forms, English export pages, craft stores, resort booking sites",
+    text: "Chubu stretches from the Sea of Japan coast to the Pacific and is built on manufacturing. Nagoya and the rest of Aichi sit at the centre of Japan's automotive supply chain, and suppliers across Aichi, Gifu and Shizuoka need websites that explain machining capabilities, equipment lists, the certifications they genuinely hold and quotation forms that accept drawings. Hamamatsu adds motorcycles, musical instruments and optical technology, and Shizuoka's tea farms sell directly online. On the Sea of Japan side, Niigata's rice and sake, the metalworking towns of Tsubame and Sanjo, Toyama's pharmaceutical firms, Kanazawa's crafts in Ishikawa and the eyeglass frame makers of Sabae in Fukui all benefit from English export pages and direct-to-consumer stores. Nagano and Yamanashi mix precision manufacturing with wineries, fruit growers and mountain resorts such as Hakuba, where international skiers expect English booking. In Chubu, a website often has to become the sales tool for a B2B firm that has always relied on personal introductions and now needs new buyers to find it.",
+  },
+  Kansai: {
+    character: "Wholesale and trading, manufacturing, crafts, heritage tourism, port and medical clusters",
+    build: "Renewals for long-established firms, B2B catalogues, lifestyle stores, inbound tourism sites",
+    text: "Kansai's economy is older and more varied than many outsiders expect. Osaka is a city of wholesalers, trading houses, manufacturers and retailers, many of them family firms with Japanese-only websites that are overdue for a renewal and an English section. Kyoto combines global technology companies with temples, traditional crafts, ryokan and restaurants that serve large numbers of overseas visitors, so multilingual pages with clear etiquette, reservation and cancellation information are essential. Kobe in Hyogo brings a major port, confectionery and fashion brands and a medical industry cluster, while Himeji and the rest of Hyogo add manufacturing and castle tourism. Nara and Wakayama need websites for historic sites, pilgrimage routes such as the Kumano Kodo and the lodging around them; Shiga has factories around Lake Biwa; and Mie has Ise Jingu and industry around Yokkaichi and Suzuka. Kansai builds are commonly renewals for long-established companies, B2B catalogues, food and lifestyle storefronts and inbound tourism sites.",
+  },
+  Chugoku: {
+    character: "Car and parts manufacturing, shipbuilding, fruit, denim, heritage tourism",
+    build: "Manufacturer and recruitment sites, gift and denim stores, multilingual tourism pages",
+    text: "Chugoku covers western Honshu, with Hiroshima and Okayama as its two largest cities. Hiroshima's economy leans on car manufacturing and a wide network of parts suppliers, plus shipbuilding and marine firms along the Seto Inland Sea, and many of those companies need recruitment sites and English capability pages more than consumer marketing. Visitors to the Peace Memorial Park and Miyajima look online for restaurants, guides and places to stay. Okayama sits where the Shinkansen meets the bridge route to Shikoku; its farms ship white peaches and Muscat grapes as premium gifts, and the jeans makers of Kojima in Kurashiki sell to denim enthusiasts in Japan and abroad. Yamaguchi has chemical plants and the fugu trade of Shimonoseki, while Tottori and Shimane, Japan's two least populous prefectures, depend on tourism around the Tottori Sand Dunes, Izumo Taisha and Matsue, and on small producers. Typical Chugoku work is manufacturer and recruitment sites, gift and craft storefronts and multilingual tourism pages.",
+  },
+  Shikoku: {
+    character: "Towels, shipbuilding, citrus, udon and art tourism, pilgrimage lodging",
+    build: "Brand and producer stores, multilingual guesthouse and ferry pages, recruitment sites",
+    text: "Shikoku's four prefectures are home to many small, specialised companies whose websites are their main way to reach customers on the mainland and abroad. Imabari in Ehime is Japan's best-known towel-making area and also a shipbuilding centre, so towel brands need storefronts with gift wrapping and English pages, and shipyards and marine suppliers need recruitment sites. Ehime's citrus growers and Kochi's yuzu, bonito and outdoor tourism businesses sell directly through their own stores. Kagawa draws visitors to its udon shops and to Naoshima and the other Setouchi art islands, where guesthouses, cafes and ferry services need clear English and Chinese information. Tokushima has LED and pharmaceutical manufacturers and the Awa Odori festival. Pilgrims walking the 88-temple route need lodging pages that load on a phone with a weak mountain signal, so in Shikoku simple, fast pages matter more than elaborate animation, and prices, maps and booking details should be readable within seconds.",
+  },
+  "Kyushu and Okinawa": {
+    character: "Startups, semiconductors, ceramics, hot springs, food producers, resort tourism",
+    build: "Bilingual startup sites, supplier and recruitment sites, onsen and resort booking, food stores",
+    text: "Kyushu and Okinawa combine one of Japan's liveliest startup cities with a growing semiconductor industry and strong tourism. Fukuoka has an active community of startups and foreign residents who often want bilingual websites and landing pages built quickly, and its short flights to Korea, Taiwan and China make Asian-language pages worthwhile. Kitakyushu has steel, robotics and environmental technology firms. The semiconductor investment around Kikuyo in Kumamoto, where TSMC's Japanese subsidiary opened a plant, has drawn suppliers, contractors and housing businesses that need Japanese and English company sites and recruitment pages. Saga's Arita and Imari porcelain, Nagasaki's shipbuilding and history, the hot springs of Beppu and Yufuin in Oita, Miyazaki's beef and mangoes and Kagoshima's shochu and black pork all sell through storefronts and tourism sites. Okinawa's resorts, diving shops and tour operators need English, Chinese and Korean booking pages, and its IT and contact-centre employers need recruitment sites.",
+  },
+};
+
+// ---------- Tokyo and the 20 designated cities ----------
+
+const cityRows = [
+  ["Tokyo (23 wards)", "Tokyo", "Procurement-ready corporate sites, recruitment sites for scarce engineers, bilingual sites for foreign subsidiaries"],
+  ["Yokohama", "Kanagawa", "Headquarters and R&D sites around Minato Mirai, port logistics services, Chinatown and waterfront restaurants"],
+  ["Osaka", "Osaka", "Renewals for long-established wholesalers and makers, retail storefronts, inbound pages for Namba and Umeda"],
+  ["Nagoya", "Aichi", "Automotive supplier capability pages with drawing-upload quote forms, recruitment sites"],
+  ["Sapporo", "Hokkaido", "Service and IT company sites, Hokkaido food storefronts, tourism pages"],
+  ["Fukuoka", "Fukuoka", "Bilingual startup sites and landing pages, Korean and Chinese pages for Hakata tourism"],
+  ["Kobe", "Hyogo", "Confectionery and fashion storefronts, medical cluster company sites, port services"],
+  ["Kawasaki", "Kanagawa", "Electronics and IT company sites, research lab recruitment, industrial services"],
+  ["Kyoto", "Kyoto", "Multilingual ryokan, restaurant and craft sites with etiquette and booking details"],
+  ["Saitama", "Saitama", "Station-based pages for clinics, schools and branches around Omiya and Urawa"],
+  ["Hiroshima", "Hiroshima", "Parts supplier and shipyard recruitment sites, Miyajima and Peace Park tourism pages"],
+  ["Sendai", "Miyagi", "Tohoku branch office sites, university spin-offs, recruitment for regional employers"],
+  ["Chiba", "Chiba", "Makuhari business district companies, logistics near Narita, commuter-town services"],
+  ["Kitakyushu", "Fukuoka", "Steel, robotics and environmental technology capability sites in Japanese and English"],
+  ["Sakai", "Osaka", "Knife and bicycle parts makers selling abroad, manufacturer renewals"],
+  ["Niigata", "Niigata", "Rice, sake and food storefronts, port and manufacturing company sites"],
+  ["Hamamatsu", "Shizuoka", "Motorcycle, instrument and photonics suppliers, English export pages"],
+  ["Kumamoto", "Kumamoto", "Semiconductor supplier and housing company sites, bilingual recruitment pages"],
+  ["Sagamihara", "Kanagawa", "Manufacturers and logistics firms, local services for a large residential city"],
+  ["Shizuoka", "Shizuoka", "Tea producer storefronts, plastic model makers, Mount Fuji tourism pages"],
+  ["Okayama", "Okayama", "Fruit gift storefronts, Kojima denim brands, regional service companies"],
+];
+
+// ---------- Long-form guide (paragraphs, list items and after may contain inline HTML) ----------
+
+const guide: Article[] = [
+  {
+    id: "who-we-suit",
+    heading: "Who builds your website, and which Japanese projects we suit",
+    paragraphs: [
+      "BtechWaleTech is a three-person engineering team in India. Ankur Kumar is the full stack developer who writes the front end, the back end and every integration on your site. Santosh Sharma covers deployment, AWS, data, technical SEO, and AI and machine learning, so the person who plans your redirects is also the person who launches the site. Vedansh Shrivastava leads project delivery and also handles data science, AI and automation work. Those three people answer your messages and write your code. Nobody sells the project to you and then hands it to a subcontractor.",
+      "Some things we are not, stated plainly so you can judge the fit before we talk:",
+    ],
+    list: [
+      `<strong>No office in Japan.</strong> We have no Tokyo address, no registered ${ja("株式会社")} (kabushiki kaisha), no local staff and no virtual office. Every project is remote.`,
+      "<strong>English is our working language.</strong> We do not write natural Japanese. Your Japanese copy is written or checked by you, a bilingual colleague or a translator, and we build everything around it.",
+      "<strong>No in-person meetings.</strong> Work happens on WhatsApp, email and video calls, with a staging link you can open from anywhere.",
+      "<strong>No borrowed credibility.</strong> You will not find Japanese client logos, testimonials, awards or partner badges on this page, because we would not be able to back them up. Judge us on live work we show you and on a small first milestone.",
+      "<strong>No ranking promises.</strong> We build sites that search engines can crawl and understand; we do not guarantee positions.",
+    ],
+    after: [
+      "The projects that suit us best in Japan are those where English is already part of the working day, or where a bilingual person sits on your side: Japanese subsidiaries of overseas companies that need a site both head office and local customers can read; international startups in Tokyo, Fukuoka and Osaka; hotels, ryokan and tour operators courting overseas guests; manufacturers and food producers looking for buyers abroad; and small Japanese firms that want a modern, fast site without Tokyo agency rates and have someone who can follow English messages with a translation tool.",
+      `We suit you less well if you need a partner who attends meetings at your office, writes persuasive Japanese sales copy, photographs your factory or qualifies for subsidy funding. In those cases a Japanese ${ja("Web制作会社")} (web production company) is the better choice, and we would rather say so now than halfway through a project. For the wider picture of how we work with Japanese businesses on websites, apps, automation and software, see <a href="/japan/">our Japan page</a>.`,
+    ],
+  },
+  {
+    id: "website-types",
+    heading: "Websites we build for businesses in Japan",
+    paragraphs: [
+      `<strong>Corporate websites (${ja("コーポレートサイト")}).</strong> The site a Japanese buyer, bank, job applicant or journalist checks before they contact you. We build it around the pages Japanese visitors expect, covered in detail below, on a fast static stack or on WordPress if your team publishes often. Our general build approach is described on the <a href="/services/web-development/">web development service page</a>.`,
+      `<strong>Recruitment sites (${ja("採用サイト")}).</strong> Hiring is hard across Japan, and applicants compare employers on their phones in the evening. A separate recruitment site, or a recruitment section with its own look, gives room for job details, working conditions, staff interviews and an application form short enough to finish on a train.`,
+      `<strong>Landing pages (${ja("ランディングページ")}, usually shortened to LP).</strong> Single pages for a campaign, a product launch, a seminar or an advertising keyword. Japanese landing pages are often long and image-heavy; we keep that persuasive structure but build it with real text instead of giant images, so the page loads fast, can be read by search engines and can be edited without redrawing banners.`,
+      "<strong>Ecommerce storefronts.</strong> Shopify, WooCommerce or custom storefronts for brands selling to Japanese consumers, with tax-inclusive prices, the Specified Commercial Transactions Act page, delivery date selection and payment methods such as cards including JCB, konbini payment and bank transfer. METI puts Japan's consumer ecommerce market at ¥26.1 trillion for 2024, 5.1 percent higher than the year before, and many brands now run their own store next to their Rakuten and Amazon listings.",
+      "<strong>Multilingual and inbound tourism sites.</strong> Japanese plus English, Chinese and Korean versions for hotels, ryokan, restaurants, experience providers and exporters, with language switchers, hreflang tags and booking links that work for visitors paying with overseas cards.",
+      "<strong>WordPress and headless builds.</strong> Custom WordPress themes without page-builder bloat, or a headless CMS feeding a static front end, when editors need a friendly admin screen but the public site must stay fast and secure.",
+      `<strong>Renewals and migrations (${ja("リニューアル")}).</strong> Rebuilding an outdated site, including moves away from Wix, Jimdo, STUDIO or an old WordPress theme, with a URL redirect map so search traffic survives the change.`,
+      `<strong>When a website becomes something bigger.</strong> If the site needs a booking system, member area or ordering portal, it turns into a web application, covered on our <a href="/japan/software-development/">software development page for Japan</a>. Mobile apps are on the <a href="/japan/android-ios-developer/">Android and iOS developer page for Japan</a>, with our general approach on the <a href="/it-services/android-ios-app/">Android and iOS app service page</a>, and automations such as sending form enquiries into kintone or a LINE Official Account are on the <a href="/japan/ai-automation-engineer/">AI automation engineer page</a>.`,
+    ],
+  },
+  {
+    id: "website-cost-japan",
+    heading: "How much a website costs in Japan in 2026, compared with our prices",
+    paragraphs: [
+      `Japanese businesses usually collect several quotes (${ja("相見積もり")}) before choosing a web production company, so here is the context those quotes sit in. The figures below are taken from price guides that Japanese agencies and comparison sites, including ${ja("Web幹事")}, ${ja("システム幹事")} and ${ja("発注ラウンジ")}, published in 2026 based on quotes from Japanese production companies. They are market ranges, not a quote from any one company, and real projects vary with scope. Our figures are starting prices in US dollars with yen at about ¥${JPY_PER_USD} per dollar.`,
+    ],
+    table: {
+      caption: "Typical Japanese website prices in 2026 compared with BtechWaleTech starting prices",
+      head: ["Website project", "Typical Japanese price (2026 guides)", "BtechWaleTech starts from"],
+      rows: [
+        ["Small corporate site, about 5 pages", "¥150,000 to ¥650,000", `${both("Static")}, static site`],
+        ["10-page site on a template", "About ¥300,000", `${both("Static")}, static site`],
+        ["10-page site on WordPress", "About ¥800,000", `${both("Static")} for a static build; WordPress quoted after scope`],
+        ["10-page site with marketing and lead-generation design", "¥1,500,000 and up", `${both("Static")} for the build, plus ${both("Monthly SEO")} for ongoing SEO`],
+        ["Corporate site of about 30 pages", "¥300,000 to ¥1,250,000", `${both("Static")}, up to 100 pages`],
+        ["Mid-size site with copy supplied by the client", "¥800,000 to ¥1,500,000", `${both("Static")} or ${both("SEO website")}, depending on size`],
+        ["Large site of 60+ pages", "¥3,000,000 and up; fully custom large sites can exceed ¥10,000,000", `${both("SEO website")}, 700+ pages`],
+        ["Basic Shopify store by an agency", "¥300,000 to ¥1,000,000; migration adds 20 to 50 percent", both("Ecommerce")],
+        ["Maintenance, general SME plan", "¥5,000 to ¥30,000 a month", `${both("Maintenance")}, first 5 months free`],
+        ["Maintenance with content updates", "¥20,000 to ¥50,000 a month; ¥50,000+ with marketing", `${both("Maintenance")}, updates included`],
+        ["SEO consulting for SMEs", "¥100,000 to ¥300,000 a month", both("Monthly SEO")],
+      ],
+    },
+    after: [
+      "<strong>Reading the Japanese ranges.</strong> The spread inside each range is mostly about who does the thinking. The low end is usually a template filled with your own text; the middle adds original design, a CMS and some copywriting; the top adds marketing strategy, customer interviews, photography and lead-generation design. The same page count can therefore cost ¥300,000 or ¥1,500,000 depending on how much planning and writing the agency does for you.",
+      "<strong>Reading our figures.</strong> Our starting prices cover design and development of a clearly scoped first version using content you supply. They do not include Japanese copywriting, translation or photography, which you can buy directly from specialists. For a like-for-like comparison, set our quote against the part of a Japanese quote that covers design, build, forms and technical SEO, then add what you would pay a translator or copywriter.",
+      `<strong>Where the gap is small.</strong> Basic maintenance is the one area where Japanese plans can come close to ours. Server-and-backup plans at ¥5,000 to ¥30,000 a month are common, and our plan from ${both("Maintenance")} sits within that band. The difference is what is inside: ours includes content updates, fixes and security work, which Japanese agencies more often price in the ¥20,000 to ¥50,000 band. Compare the contents of each plan, not only the monthly figure.`,
+    ],
+  },
+  {
+    id: "what-price-buys",
+    heading: "What our website starting prices buy, and why they are lower",
+    paragraphs: [
+      "A starting price is only useful if you know what it covers. These are the plans that matter for a website project in Japan, what a typical first version includes, and what pushes a quote above the starting figure.",
+    ],
+    list: [
+      `<strong>Static website, from ${both("Static")}:</strong> up to 100 pages built from reusable templates, such as a clinic, law office, manufacturer or school site with a top page, services, company profile, access, news, recruitment and contact pages. Includes responsive design, Japanese font setup, a contact form with furigana and postal code lookup, basic SEO tags, a sitemap and deployment.`,
+      `<strong>SEO website, from ${both("SEO website")}:</strong> a structured site of 700+ pages planned around search demand, for example a page for each station and ward for a real estate agency, or for each product category and material for an industrial distributor. Includes keyword planning, templates, schema, internal linking and indexing checks. Search strategy is covered on our <a href="/japan/seo-services/">SEO services page for Japan</a>.`,
+      `<strong>Ecommerce storefront, from ${both("Ecommerce")}:</strong> product and collection pages, cart and checkout with Japanese payment methods, delivery date and time slot options, tax-inclusive pricing, the Specified Commercial Transactions Act page and basic order management.`,
+      `<strong>Maintenance, from ${both("Maintenance")}:</strong> content changes, fixes, updates, backups and speed checks, with the first five months after launch free.`,
+      `<strong>Monthly SEO, from ${both("Monthly SEO")}:</strong> ongoing technical work, content planning with your native writer and monthly reports, for sites that need to grow search traffic after launch.`,
+    ],
+    after: [
+      `<strong>Why our prices are lower.</strong> A Japanese quote pays for an office in Tokyo or Osaka, salaried directors, designers and sales staff, and in much of the IT industry a multi-layer subcontracting chain (${ja("多重下請け")}), where the company you sign with passes the build to another company that may pass it on again. Each layer adds its margin and another round of communication. Our side of the ledger is short: three engineers working from India, no rented office, no sales staff and nobody further down a subcontracting chain. We also reuse tested components for forms, fonts, SEO and deployment instead of starting from zero each time. That is where the saving comes from, not from skipping testing or care.`,
+      `<strong>What raises a quote.</strong> Many unique page designs, several languages, animation-heavy layouts, a CMS with custom fields and user roles, migration of hundreds of old posts, integrations with booking or core systems, and short deadlines. What keeps it down: approved text and photos, one person who makes decisions, and a first version that can grow later. The full plan list and scope notes are on the <a href="/pricing/">pricing page</a>.`,
+    ],
+  },
+  {
+    id: "trust-pages",
+    heading: "Japanese website conventions: trust pages done right",
+    paragraphs: [
+      "Japanese visitors, especially B2B buyers and job applicants, judge a company by a predictable set of pages. Missing or thin versions of those pages cost enquiries, and foreign website templates rarely include them. We plan them into every Japanese corporate site from the first sitemap.",
+    ],
+    list: [
+      `<strong>Company profile (${ja("会社概要")}):</strong> legal name, the representative's name and title, date of establishment, capital, number of employees, address, phone, business activities and, where you are comfortable sharing them, main banks, business partners, licences and memberships. We lay it out as a clean two-column table that reads well on phones and mark it up with Organization structured data.`,
+      `<strong>Message from the representative (${ja("代表挨拶")}):</strong> a signed message from the president with a real photograph. It carries more weight in Japan than a mission statement, so it deserves a proper layout rather than a paragraph squeezed under the profile.`,
+      `<strong>Company history (${ja("沿革")}):</strong> a dated timeline of founding, relocations, new branches and milestones. A long history is a genuine trust signal in Japan, and we can show Japanese era years alongside Western years where you want them.`,
+      `<strong>Access (${ja("アクセス")}):</strong> the address, an embedded map, walking minutes from the nearest station exit, bus routes, parking and a photo of the building entrance. For offices in large buildings, the floor and reception instructions matter too.`,
+      `<strong>News (${ja("お知らせ")}):</strong> dated announcements such as holiday closures, new services and media coverage. A news list updated this year tells visitors the company is active; one frozen three years ago says the opposite, so we make posting quick and easy.`,
+      `<strong>Recruitment (${ja("採用情報")}):</strong> at minimum a page with open positions and working conditions, and often a full recruitment site.`,
+      `<strong>Privacy policy (${ja("プライバシーポリシー")}):</strong> purposes of use for personal information and a contact point for enquiries, written or approved by your adviser.`,
+      `<strong>Contact (${ja("お問い合わせ")}):</strong> a form, a phone number with business hours and, for many consumer businesses, a LINE button. LY Corporation reports more than 100 million people in Japan using LINE each month, and many customers would rather send a message than call.`,
+    ],
+    after: [
+      "<strong>Density and design.</strong> Japanese consumer sites often show more information per screen than Western ones: banners, campaign dates, prices and badges side by side. B2B sites tend to be calmer. We agree the level of density with you, then keep it readable with a clear type scale, generous line height for Japanese text and consistent spacing, and we design the phone layout first because that is where most visitors arrive.",
+      `<strong>Details that signal care.</strong> Consistent full-width punctuation in Japanese text, correct price formatting such as ¥110,000 (${ja("税込")}, tax included), phone numbers that can be tapped on a mobile, a footer with the company name and copyright, and no stray untranslated English in buttons or error messages. Visitors rarely notice these details when they are right, and almost always notice when they are wrong.`,
+    ],
+  },
+  {
+    id: "japanese-forms-efo",
+    heading: "Japanese contact forms and entry form optimisation (EFO)",
+    paragraphs: [
+      `The contact form is where a Japanese website either earns an enquiry or loses it. Japanese marketers call the work of reducing form abandonment ${ja("入力フォーム最適化")}, entry form optimisation or EFO, and specialist tools are sold just for it. Most of the gains, though, come from getting the Japanese basics right in the form itself, which is part of every site we build.`,
+    ],
+    list: [
+      `<strong>Name fields in Japanese order.</strong> Family name then given name, as two fields or one with clear guidance, followed by a furigana field (${ja("フリガナ")}) so staff can read the name correctly on the phone. We accept both katakana and hiragana, or convert one to the other if your back office needs a single format.`,
+      "<strong>Postal code lookup.</strong> Typing a seven-digit postal code fills in the prefecture, city and town automatically from Japan Post's postal code data, and the visitor only adds the block number, building and room. This alone removes most of the address typing on a phone.",
+      `<strong>Full-width and half-width normalisation.</strong> Japanese keyboards switch easily between full-width (${ja("全角")}) and half-width (${ja("半角")}) characters, so visitors type numbers like ０９０ or even email addresses in full-width without noticing. We convert the input quietly instead of rejecting it, and turn half-width katakana into full-width where your systems need it.`,
+      "<strong>Phone numbers with or without hyphens.</strong> 03-1234-5678, 0312345678 and mobile numbers starting 090, 080 or 070 are all accepted and stored in one consistent format.",
+      "<strong>Correct autocomplete attributes.</strong> Browser autofill for family name, given name, postal code, prefecture and city works only when fields carry the right HTML autocomplete values, and it saves many taps on iPhone and Android.",
+      `<strong>Clear required marks and inline errors.</strong> A visible ${ja("必須")} (required) label, optional fields marked as optional, and error messages beside the field in plain Japanese supplied by your team, shown as the visitor types rather than after pressing send.`,
+      `<strong>A confirmation screen where it helps.</strong> Many Japanese business forms show a confirmation screen (${ja("確認画面")}) before sending. It reassures older visitors and B2B users, although it adds a step, so we build it where your audience expects it and leave it out where speed matters more.`,
+      "<strong>A reply that arrives.</strong> Auto-reply emails are sent from your authenticated domain so they reach addresses at Japanese mobile carriers, and the thank-you page says how quickly you will respond.",
+    ],
+    after: [
+      `We also keep forms short. Every extra field, such as fax number, department or "how did you hear about us", costs completions, so we ask which fields your team actually uses. For a first B2B enquiry, company name, contact details and a free-text box are usually enough. Personal information collected through the form is limited to what you need under the APPI, and submissions can be routed to email, Chatwork, Slack or Microsoft Teams. If you want enquiries to create records in kintone or trigger a follow-up message automatically, that becomes a small automation, described on our <a href="/japan/ai-automation-engineer/">AI automation page for Japan</a>.`,
+    ],
+  },
+  {
+    id: "cms-choice",
+    heading: "Choosing a CMS in Japan: WordPress, Japanese tools, site builders or a static site",
+    paragraphs: [
+      "WordPress is the CMS behind a very large share of Japanese business websites; W3Techs reported in 2019 that it held over 80 percent of the CMS market among Japanese-language sites, and much of the Japanese web industry, from production companies to shared hosts, is organised around it. It is a sensible choice when several people publish news, columns or job openings every week and want a familiar editor. Its weakness is upkeep: themes, plugins and PHP need regular updates, and neglected WordPress sites are a common target for attacks. If you choose WordPress, budget for maintenance from the first day.",
+      "Japan also has tools you will rarely meet elsewhere. Movable Type, now developed by Six Apart in Japan, is still found on some corporate and public sector sites; a-blog cms, made by a Nagoya company, has a following among Japanese web agencies; and Studio (often written STUDIO) is a Japanese no-code site builder popular with designers. microCMS, a Japanese headless CMS from a Tokyo company, keeps content in an admin screen with a Japanese interface and delivers it to a separate front end through an API, which lets editors work comfortably while developers keep the public site fast. If your team already uses one of them, we look at whether keeping it or moving serves you better before recommending anything.",
+      "<strong>When a static site wins.</strong> For most small and mid-sized businesses the site changes a few times a month: a news post, a new job opening, updated prices. A static site built with Astro or a similar framework serves ready-made HTML from a CDN, so there is no database to break into, no plugins to update and very little to slow it down. Hosting costs are close to zero and speed on phones is excellent. When editors need a friendly interface, we connect a headless CMS so staff can publish news without touching code while the public site stays static.",
+      "<strong>When WordPress wins.</strong> Content-heavy sites with several editors, a blog published every week, features that depend on specific plugins, or an in-house team already trained on it. We build lean custom themes, keep the plugin list short, and set up automatic backups and updates on a Japanese host or a cloud server.",
+      "<strong>When to leave a site builder.</strong> Wix, Jimdo and STUDIO are good for getting started, and some businesses should stay on them. Moving makes sense when you need faster pages, full control of SEO, a proper bilingual structure, custom forms or integrations the builder cannot handle, or when monthly fees for add-on features keep growing. The honest test is simple: if the builder does everything you need and the site brings in enquiries, keep it.",
+    ],
+    list: [
+      "<strong>Static site, optionally with a headless CMS:</strong> fastest, most secure and cheapest to run; the best fit for corporate sites, recruitment sites and landing pages.",
+      "<strong>WordPress:</strong> the most familiar editing experience and a huge plugin choice, in exchange for ongoing updates.",
+      "<strong>A Japanese CMS or builder already in place:</strong> keep it if it works; we can improve speed, forms and SEO within it or plan a clean move when it no longer fits.",
+    ],
+  },
+  {
+    id: "core-web-vitals-fonts",
+    heading: "Fast Japanese websites: Core Web Vitals and Japanese fonts",
+    paragraphs: [
+      "Speed problems on Japanese sites usually start with fonts and images. A Latin font holds a few hundred characters; a Japanese font covers thousands of kanji, kana and symbols, so a complete web font file can run to several megabytes. Load two weights of Noto Sans JP carelessly and the text may appear late or jump when the font arrives, which hurts Google's Core Web Vitals and, more importantly, the visitor.",
+      "Google measures three things: Largest Contentful Paint (how quickly the main content appears, good at 2.5 seconds or less), Interaction to Next Paint (how quickly the page responds to a tap, good at 200 milliseconds or less) and Cumulative Layout Shift (how much the layout jumps, good at 0.1 or less). We check them in real-user field data in Search Console and PageSpeed Insights, not only in a lab test on a fast office connection.",
+    ],
+    list: [
+      "<strong>System fonts first.</strong> Hiragino Sans on iPhone and Mac and Yu Gothic or Meiryo on Windows are already installed and look good. For many corporate sites they are the right choice and cost zero bytes.",
+      "<strong>Subset web fonts when the brand needs them.</strong> Google Fonts delivers Japanese fonts in small slices split by Unicode range, so browsers download only the characters a page uses. For self-hosted brand fonts we create subsets for headings, which use few distinct characters, and keep system fonts for body text.",
+      "<strong>Fallbacks tuned to avoid jumps.</strong> We set font-display and match fallback font metrics, so the switch from a system font to the web font does not shift the layout.",
+      "<strong>Text, not pictures of text.</strong> Japanese banners and landing pages often put headlines inside images. Real text is lighter, sharper on high-density screens, readable by search engines and screen readers, and editable by your staff.",
+      "<strong>Modern images at the right size.</strong> AVIF or WebP files sized for each screen, with width and height set so nothing jumps while loading, and lazy loading for images further down the page.",
+      "<strong>Few third-party scripts.</strong> Chat widgets, heatmaps, several ad tags and social embeds add up quickly. Each one can also be an external transmission under Japan's Telecommunications Business Act rules, so we keep only the tools you actually use.",
+    ],
+    after: [
+      `We test on mid-range Android phones over throttled mobile connections as well as on iPhones, because a site that feels instant on office fibre in Marunouchi can crawl on a rural train line. Japanese text also needs its own typography care: comfortable line height, no fake italics, and line-breaking rules (${ja("禁則処理")}) so closing punctuation never starts a line. Speed and clean structure support search visibility, which our <a href="/services/seo-services/">SEO services</a> build on after launch.`,
+    ],
+  },
+  {
+    id: "website-renewal",
+    heading: "Website renewal without losing rankings: URL mapping, redirects and migrations",
+    paragraphs: [
+      `In Japan a website redesign is called a renewal (${ja("リニューアル")}), and many companies go through one every few years. The most common way a renewal goes wrong is not the design. It is changing URLs without redirects, dropping pages that quietly brought in traffic, or launching with a staging setting that tells search engines not to index the site. All three are avoidable with a disciplined checklist.`,
+    ],
+    list: [
+      "<strong>Inventory before design.</strong> We crawl the current site and export the pages with clicks and impressions from Search Console, plus pages that other sites link to. Pages that bring visitors are kept, merged or improved, never deleted by accident.",
+      "<strong>A redirect map.</strong> A spreadsheet listing every old URL and its new URL, including old WordPress addresses such as ?p=123, category and tag archives, PDF brochures and images that other sites link to, and URLs generated by site builders.",
+      "<strong>Permanent 301 redirects.</strong> Each old URL redirects in one step to the most relevant new page, not to the home page, and chains of redirects from earlier renewals are flattened.",
+      "<strong>Content parity.</strong> Titles, headings and main text on important pages move across without losing the words people searched for, and structured data is kept or added.",
+      "<strong>Launch day checks.</strong> Remove noindex tags and staging passwords, submit the new XML sitemap, test redirects in bulk, and check canonical tags, forms, analytics and Search Console verification.",
+      "<strong>The weeks after launch.</strong> We watch 404 errors, indexing and traffic for key pages and fix gaps quickly. Redirects stay in place long term; we recommend keeping them permanently where the host allows.",
+    ],
+    after: [
+      "<strong>Moving from Wix, Jimdo or STUDIO.</strong> Hosted builders generally do not hand over a design you can install elsewhere, so the design is rebuilt and the content moved page by page, or by export where the platform allows it. Builder URLs often follow the platform's own patterns, and blog posts may sit under paths the new site will not reproduce, so the redirect map matters even more. Your domain stays with you; we point it to the new host only after you approve the site on staging, which keeps any interruption short.",
+      "<strong>Moving from an old WordPress theme.</strong> Old themes built with heavy page builders and dozens of plugins are often slower and harder to secure than a fresh build. We export posts, pages and media, clean up the HTML, and either rebuild on a lean WordPress theme or move the content into a static site with a headless CMS. Shortcodes left over from old plugins are converted, not left on the page as broken text.",
+      "<strong>Changing domain at the same time.</strong> If you move from an old domain to a new .co.jp or .com, Search Console's change of address tool helps Google understand the move once redirects are in place. Even so, we advise changing as little as possible at once, because a new design, new URLs and a new domain together make any problem harder to diagnose.",
+    ],
+  },
+  {
+    id: "bilingual-architecture",
+    heading: "Bilingual Japanese and English website architecture",
+    paragraphs: [
+      "Many businesses in Japan must serve two audiences well at once: Japanese customers and staff, and overseas buyers, head offices, investors or visitors. Visitor numbers make the case: JNTO recorded 42.68 million international arrivals in 2025, a new high, against 36.87 million in 2024, and the three biggest source markets were South Korea, mainland China and Taiwan. For hospitality and retail, the second language is therefore often Korean or Chinese rather than English. Getting the structure right at the start costs far less than retrofitting it later.",
+    ],
+    list: [
+      "<strong>One domain, language folders.</strong> We usually recommend paths such as /ja/ and /en/, or Japanese at the root and English under /en/, on one domain, so the authority each language earns helps the other. Separate domains make sense only for genuinely separate businesses or markets.",
+      "<strong>hreflang and x-default.</strong> Each page declares its language versions with hreflang tags, including zh-Hans, zh-Hant and ko where used, plus an x-default for visitors who match none, so Google shows the right version in each market.",
+      "<strong>No forced redirects by location.</strong> Visitors and search engine crawlers must be able to reach every language. A banner suggesting the other language is fine; an automatic redirect based on IP address is not.",
+      "<strong>A switcher that lands on the same page.</strong> Switching from the Japanese access page should open the English access page, not the English home page.",
+      "<strong>Correct lang attributes and fonts per language.</strong> Japanese, Chinese and Korean share many characters but draw some of them differently, so marking each language properly lets browsers pick the right font.",
+      "<strong>Content written for each audience.</strong> English readers need different things from Japanese readers: how to reach you from the airport, how tax is shown in prices, which overseas cards you accept. We plan pages per audience, not only per language.",
+    ],
+    after: [
+      `We build the multilingual structure, forms and publishing workflow; the translations themselves come from native translators or your bilingual staff. Text is stored in structured files or a CMS with one field per language, so translators can work without breaking layouts, and every page is checked after the Japanese text goes in, because Japanese and English lines differ so much in length. For search strategy in each language, including Chinese and Korean keywords, see our <a href="/japan/seo-services/">Japan SEO page</a>.`,
+    ],
+  },
+  {
+    id: "regions",
+    heading: "Website development across Japan: all 8 regions and 47 prefectures",
+    paragraphs: [
+      "We build websites for businesses in every prefecture, remotely from India. The notes below describe what websites typically need to do in each part of Japan, based on the local economy and the kind of customers businesses there are trying to reach. We have no office in any of these places and claim no local clients there.",
+    ],
+    blocks: japanRegions.map((r) => ({ name: `${r.name}: ${r.prefectures.join(", ")}`, text: regionNotes[r.name].text })),
+    after: [
+      "Wherever you are, the working method is identical: the same written scope, staging link and working hours. What changes is the content strategy, such as station-based access pages in Kanto and Kansai, cool-delivery options for food producers in Hokkaido and Tohoku, English capability pages for manufacturers in Chubu and Chugoku, or fast, simple lodging pages for pilgrimage routes in Shikoku.",
+    ],
+  },
+  {
+    id: "major-cities",
+    heading: "Websites for Tokyo and Japan's 20 designated cities",
+    paragraphs: [
+      `Much of Japan's commercial activity is concentrated in Tokyo's 23 special wards and the 20 designated cities (${ja("政令指定都市")}), and each has its own mix of website needs. The table notes what websites in each city most often have to do. Every one of them, and every town in between, is served remotely.`,
+    ],
+    table: {
+      caption: "Tokyo and Japan's 20 designated cities with typical website needs",
+      hide: 1,
+      head: ["City", "Prefecture", "What websites there often need"],
+      rows: cityRows,
+    },
+    after: [
+      `Beyond the designated cities, regional centres such as Kanazawa, Matsuyama, Takamatsu, Kagoshima and Naha have their own clusters of family businesses, clinics and tourism operators, and in smaller towns a well-built website is often a producer's only shop window to the rest of Japan. For apps, automation and software alongside your website in any of these cities, see <a href="/japan/">IT services in Japan</a>.`,
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "Rules a Japanese website must follow: APPI, accessibility, pricing and online stores",
+    paragraphs: [
+      "This section is practical groundwork, not legal advice. We are engineers; for formal questions about your obligations, speak to a lawyer or another qualified adviser in Japan. These are the rules that most often shape how a Japanese website is built.",
+    ],
+    list: [
+      `<strong>Personal information (APPI).</strong> Under the Act on the Protection of Personal Information (${ja("個人情報保護法")}), a site that collects names, emails or phone numbers needs published purposes of use, secure storage and sensible access control. Our forms collect only the fields you need and link to your privacy policy.`,
+      "<strong>An offshore team and your data.</strong> Suppose our engineers in India can see personal data stored by your site. Under the APPI, that counts as handing data to a third party located in a foreign country, which normally requires either the individual's consent, given after they are informed about the destination country and its data protection rules, or a recipient that maintains a protection system equivalent to the APPI's standards. India's own law, the Digital Personal Data Protection Act, 2023, is coming into force in stages. We minimise our access, test with dummy data and sign data-handling terms; your adviser decides the legal basis.",
+      "<strong>Accessibility.</strong> JIS X 8341-3 is Japan's web accessibility standard and is aligned with WCAG: the current 2016 edition has the same success criteria as WCAG 2.0, and a revision following WCAG 2.2 is being prepared. From April 2024, an amendment to the Act for Eliminating Discrimination against Persons with Disabilities turned reasonable accommodation from a best-effort duty into an obligation for private businesses. Our working target is WCAG 2.2 level AA: contrast, keyboard use, focus states, labelled fields, alt text, captions for key videos and layouts that survive zooming.",
+      "<strong>Tax-inclusive prices.</strong> Consumer-facing prices have had to be displayed tax-inclusive since April 2021; the standard consumption tax rate is 10 percent, and most food is taxed at a reduced 8 percent. Price tables, menus and product pages are built to show the tax-inclusive figure clearly.",
+      `<strong>Online stores.</strong> The Specified Commercial Transactions Act (${ja("特定商取引法")}) requires a page with seller details, prices, delivery, payment and returns information, and since June 2022 it also sets rules for the final confirmation screen before an order. We build both into every storefront.`,
+      `<strong>Advertising claims and stealth marketing.</strong> Stealth marketing, meaning advertising disguised as independent opinion, became a regulated misleading representation under the Premiums and Representations Act (${ja("景品表示法")}) in October 2023. Testimonials, influencer content and "No.1" claims on your site should be real, sourced and labelled where they are advertising. We leave room for evidence notes and never invent reviews.`,
+      "<strong>External transmission.</strong> Since June 2023, the Telecommunications Business Act has required certain online services to disclose what user information their tags and SDKs send to third parties. Many corporate sites that promote the company's own business are out of scope, but stores and information services may not be. If yours is covered, we add a disclosure page listing each tool.",
+    ],
+    after: [
+      "<strong>Invoices and records.</strong> Japan has run a qualified invoice system since October 2023, and since January 2024 the Electronic Books Maintenance Act has required electronic transaction records to be kept electronically. That matters for stores that email receipts and for companies that receive our invoices. Our own position: we have no qualified invoice issuer registration in Japan, so our invoices carry no Japanese consumption tax, and the correct treatment on your side is for your tax accountant to confirm. We are also not a registered IT support provider for Japan's IT adoption subsidies, so our work is not subsidy-eligible.",
+    ],
+  },
+  {
+    id: "hosting-domains",
+    heading: "Hosting and domains for Japanese websites: Xserver, Sakura, Tokyo cloud regions, .jp and .co.jp",
+    paragraphs: [
+      "Where a website is hosted matters less than how it is built, but it still affects speed, cost and who can maintain it later. For businesses in Japan we choose between three set-ups.",
+    ],
+    list: [
+      "<strong>A CDN for static sites.</strong> Static pages are served from edge servers in Japan and around the world, so a visitor in Sapporo, Naha or Seoul gets the same quick response. Many static hosts have free or low-cost tiers for small sites, and there is no server to patch.",
+      "<strong>A Japanese shared host for WordPress.</strong> Xserver, Sakura Internet and similar Japanese hosts are popular, support customers in Japanese, bill in yen and handle most WordPress sites comfortably. If your site already lives there, we can keep it there.",
+      "<strong>Cloud regions in Tokyo and Osaka.</strong> Each of the three big clouds, AWS, Google Cloud and Microsoft Azure, operates a Tokyo region and an Osaka region. Larger sites, headless CMS back ends and sites whose forms store data in a database fit here, with backups kept in the second region.",
+    ],
+    after: [
+      "<strong>Domains.</strong> Registering a .jp name requires a postal address in Japan, while .co.jp is reserved for companies registered in Japan and allows only one per company. That is one more reason the domain should be registered by your company, in its name, through a registrar you control. We then set the DNS records, SSL certificate and redirects from www or older domains. Foreign companies without a Japanese entity can use a .com with a /ja/ section, which works well for search.",
+      "<strong>Email authentication.</strong> Form notifications and auto-replies need SPF, DKIM and DMARC records on your domain, or they may land in spam, particularly at Japanese mobile carrier addresses and large webmail providers. We configure these at launch and send through a transactional email service rather than from the web server itself.",
+      `<strong>Running costs.</strong> Domain renewal, hosting, CMS subscriptions, paid themes or fonts and email services are paid by you directly to each provider. We list the expected monthly and yearly costs in the quote, so nothing surprises you after launch. For systems that need servers and databases in Japan beyond a website, see <a href="/japan/software-development/">software development in Japan</a>.`,
+    ],
+  },
+  {
+    id: "prepare",
+    heading: "What to prepare before hiring a website developer",
+    paragraphs: [
+      `A Japanese web production company often spends its first weeks on hearing sessions (${ja("ヒアリング")}) and planning documents. With a remote team, a little preparation on your side replaces most of that and shortens the whole project. None of it needs to be perfect; a rough version is enough for an accurate quote.`,
+    ],
+    list: [
+      "<strong>A one-paragraph brief:</strong> what the business does, who the site is for, and the one action you want visitors to take, such as calling, booking or requesting a quote.",
+      "<strong>A draft sitemap:</strong> a list of the pages you think you need. We will refine it, but it shows the scope quickly.",
+      "<strong>Reference sites:</strong> three to five sites you like, Japanese or foreign, with a note on what you like about each. Competitor sites you want to outdo are useful too.",
+      "<strong>Content ownership:</strong> who writes the Japanese text and the English text, and whether you need a translator or copywriter. Settle this early; it is the most common cause of delay.",
+      "<strong>Photos and logo:</strong> original logo files and photos you own or have licensed, including the office, team, products and representative. Half a day with a local photographer often transforms a site.",
+      "<strong>Accounts and access:</strong> logins for your domain registrar, current hosting, Google Search Console, analytics and Google Business Profile, all in your company's name.",
+      "<strong>Decision process:</strong> who approves design and text, and whether the president or another department must sign off. We build their review time into the schedule.",
+      "<strong>Budget and date:</strong> a realistic range and any fixed launch date, such as the start of the fiscal year in April or an upcoming trade show.",
+    ],
+    after: [
+      `Share whatever you have ready on WhatsApp or through the <a href="/contact/">contact page</a>. Our reply starts with questions and ends with a written scope, a timeline and an itemised quote. If the project also needs an app, automation or ongoing SEO, the overview of everything we offer to businesses in Japan is on <a href="/japan/">IT services in Japan</a>.`,
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours across Japan and India on a website project",
+    paragraphs: [
+      "Japan runs three and a half hours ahead of India all year, since neither country observes daylight saving time. Our 9 am to 9 pm day in India translates to 12:30 pm until 12:30 am in Japan, and we are on WhatsApp every day of the week.",
+      "For a website project that rhythm works well. Your team reviews the staging site in the morning and sends comments before lunch; we pick them up when we come online at 12:30 pm JST, and most text, layout and form changes are on staging by your evening. Design reviews and launch calls fit into the Japanese afternoon. If your president or a department head can only meet in the morning, we arrange a call around 10 am JST in advance.",
+      "DNS switches for a launch are scheduled for quiet hours in Japan, usually late evening JST within our working day, so any transition happens while few customers are browsing. Everything agreed on a call is summarised in writing afterwards, which also helps colleagues who read English through a translation tool.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Hiring an offshore website developer from Japan: a buying guide and red flags",
+    paragraphs: [
+      "Japan is short of engineers; the Ministry of Economy, Trade and Industry has projected a shortfall of as many as 790,000 IT workers by 2030, and overseas developers are one way businesses fill the gap. Offshore website projects go wrong in familiar ways, though, and most of them can be prevented before anything is signed. Put these questions to any provider, including us.",
+    ],
+    list: [
+      "<strong>Who exactly builds the site?</strong> Ask for names and speak to those people before signing. If the salesperson cannot introduce the developer, expect the work to be subcontracted.",
+      "<strong>How is the language gap bridged?</strong> Agree who on your side reads English, or who translates. Large offshore firms use a bridge engineer; small projects need a named bilingual contact instead.",
+      "<strong>Is there a written scope?</strong> Page list, templates, languages, forms, CMS, SEO setup, redirects, rounds of revisions, who supplies text and photos, and what is excluded.",
+      "<strong>Can you see real, live work?</strong> Open their sites on your phone over mobile data, send a test enquiry and run a page through PageSpeed Insights. Screenshots prove little.",
+      "<strong>Do they know Japanese details?</strong> Ask how they handle furigana, postal code lookup, full-width input, Japanese fonts and line breaking. Vague answers are a warning.",
+      "<strong>Who owns the accounts?</strong> Domain, hosting, CMS, analytics and Search Console must be in your company's name from the start.",
+      "<strong>What happens to your old URLs?</strong> For a renewal, ask to see the redirect map before launch day.",
+      "<strong>How are payments staged?</strong> An advance, a payment on design approval and the balance before launch is fair. Full payment upfront is not.",
+      "<strong>What about personal data?</strong> Ask who will be able to read form submissions, and how the provider deals with the APPI's rules for sending data to third parties abroad.",
+    ],
+    after: [
+      `<strong>Red flags:</strong> a promise of top rankings (${ja("上位表示保証")}); your domain sitting in the developer's own account; a price with no page list behind it; reviews or logos you cannot trace to a real client; a Tokyo address that turns out to be a mail drop; themes or plugins from unofficial download sites; and a deadline invented to hurry your decision.`,
+      "<strong>When to choose a Japanese agency instead:</strong> when you need meetings in Japanese at your office, Japanese copywriting and photography bundled into the price, a registered provider for subsidy funding, or a vendor who can be on site within hours. If that describes your project, we will tell you so.",
+    ],
+  },
+];
+
+// ---------- Region table ----------
+
+const regionsHeading = "Website needs across Japan's 8 regions and 47 prefectures";
+const regionsNote = "A summary of the region notes in the guide above. We serve every prefecture remotely from India; none of these are office locations.";
+const regionHead = ["Region", "Prefectures", "Business character", "Typical website work"];
+const regionHide = [1, 2];
+const regionTable = japanRegions.map((r) => [r.name, r.prefectures.join(", "), regionNotes[r.name].character, regionNotes[r.name].build]);
+
+// ---------- Industries ----------
+
+const industriesHeading = "Websites for Japan's main industries";
+const industries = [
+  { name: "Manufacturing and B2B suppliers", need: "Capabilities, equipment lists, certifications actually held, lead times and a quote route", build: "Capability sites with drawing-upload quote forms, English export pages, recruitment sections" },
+  { name: "Clinics, dental and beauty", need: "Doctor profiles, treatment explanations, fees, hours and easy booking", build: "Guideline-aware treatment pages, supervisor profiles, booking links, access pages" },
+  { name: "Real estate", need: "Listings by station and area, costs explained, English help for foreign tenants", build: "Area and station pages, property search, enquiry routing, bilingual guides" },
+  { name: "Hotels, ryokan and tourism", need: "Photos, room types, access from stations and airports, booking in the guest's language", build: "Multilingual sites with booking engine links, house rules and structured data" },
+  { name: "Restaurants and food producers", need: "Menus, allergens, reservations, gift sets and seasonal products", build: "Menu and reservation pages, food storefronts with cool delivery and gift options" },
+  { name: "Construction and home builders", need: "Completed project photos, the builder's approach, model house visits", build: "Project galleries, event and model house booking forms, recruitment pages" },
+  { name: "Professional services", need: "Credentials, practice areas, fee guidance and a discreet contact route", build: "Restrained bilingual sites, service pages, secure enquiry forms, column articles" },
+  { name: "Schools and education", need: "Courses, schedules, fees, trial lessons and visa information", build: "Course pages, trial booking forms, multilingual pages for international students" },
+  { name: "Startups and SaaS", need: "A site the team edits weekly, pricing pages, docs and fast landing pages", build: "Astro or Next.js with a headless CMS, landing pages, analytics setup" },
+  { name: "Foreign-owned subsidiaries", need: "A site that head office and Japanese customers can both trust", build: "Bilingual corporate sites with Japanese trust pages and shared brand guidelines" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "Japanese web production company, crowdsourcing freelancer or BtechWaleTech";
+const comparisonNote = "Each option fits different projects and budgets. This is how they typically compare for a business website, so you can choose with clear expectations.";
+const compHead: [string, string, string] = ["Japanese web production company", "Freelancer via Lancers or CrowdWorks", "BtechWaleTech"];
+const comparison: [string, string, string, string][] = [
+  ["Price for a small corporate site", "About ¥150,000 to ¥650,000 for around 5 pages (2026 guides)", "Often lower; varies widely by freelancer", `From ${both("Static")}, itemised quote`],
+  ["Who builds it", "Director, designer and coder, sometimes subcontracted", "One individual whose skills vary", "The three engineers you talk to"],
+  ["Working language", "Japanese", "Usually Japanese", "English; Japanese text from you or a translator"],
+  ["Japanese copywriting and photos", "Often available as paid options", "Sometimes, depending on the person", "Not offered; we tell you how to brief a specialist"],
+  ["Face-to-face meetings", "Usually possible", "Uncommon", "None; video calls and a staging link instead"],
+  ["Renewal with redirect map", "Depends on the agency's SEO knowledge", "Often missing", "Standard in every renewal"],
+  ["Availability in JST", "Office hours on weekdays", "Whenever the individual works", "Every day, 12:30 pm to 12:30 am JST, on WhatsApp"],
+  ["After launch", "Paid maintenance, often ¥5,000 to ¥50,000 a month", "Hard to predict once the job closes", `5 months free, then from ${both("Maintenance")}`],
+  ["Accounts and code ownership", "Varies; some agencies keep the server or CMS", "Varies", "Domain, hosting, code and logins all registered to your company"],
+];
+
+// ---------- Process ----------
+
+const processHeading = "From first message to a live website";
+const process: [string, string][] = [
+  ["Brief", "Tell us in English, on WhatsApp or a video call, what the business does, who the site is for and the budget. No charge."],
+  ["Scope & quote", "You receive the page list, features, languages, who supplies which content, the schedule and a quote in USD or JPY, all in writing."],
+  ["Structure & design", "Sitemap and wireframes first, then designs for the key templates, reviewed on your own phone."],
+  ["Build on staging", "Pages appear on a private staging site as they are built, and comments sent in your morning are usually applied the same day."],
+  ["Test & migrate", "Before launch we test Japanese forms and fonts, speed, accessibility, structured data, every redirect and analytics."],
+  ["Launch & handover", "We switch the domain, verify Search Console, hand over every login and start your five free months of maintenance."],
+];
+const timelineFine = "Timelines assume Japanese text, photos and approvals arrive when agreed. Renewals with many old URLs and bilingual sites add time for mapping and review.";
+
+// ---------- FAQ, related links and closing ----------
+
+const faqHeading = "Website development in Japan: common questions";
+const relatedHeading = "More IT services for businesses in Japan and other countries";
+const related = [
+  { name: "Japan: all IT services", href: "/japan/" },
+  { name: "AI automation engineer in Japan", href: "/japan/ai-automation-engineer/" },
+  { name: "Android & iOS developer in Japan", href: "/japan/android-ios-developer/" },
+  { name: "SEO services in Japan", href: "/japan/seo-services/" },
+  { name: "Software development in Japan", href: "/japan/software-development/" },
+  { name: "All countries", href: "/countries/" },
+  { name: "Singapore", href: "/singapore/" },
+  { name: "USA", href: "/usa/" },
+  { name: "UK", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "India", href: "/india/" },
+];
+const closingHeading = "Tell us about the website you need in Japan";
+const closingNote = "Send a few lines in English on WhatsApp or email: what your business does, the pages you need and a couple of sites you like. We reply with questions, then a page plan, timeline and itemised quote in USD or JPY. Nothing is billed until you approve the scope.";
+---
+
+<JapanServicePage
+  page={page}
+  schema={schema}
+  heroEyebrow={heroEyebrow}
+  facts={facts}
+  pills={pills}
+  heroOrigin={heroOrigin}
+  quoteKicker={quoteKicker}
+  quotePlans={quotePlans}
+  quoteFoot={quoteFoot}
+  stats={stats}
+  answerHeading={answerHeading}
+  quickAnswer={quickAnswer}
+  answerMore={answerMore}
+  snapshotCaption={snapshotCaption}
+  snapshot={snapshot}
+  servicesHeading={servicesHeading}
+  services={services}
+  pricingHeading={pricingHeading}
+  pricingIntro={pricingIntro}
+  pricingFine={pricingFine}
+  guideLabel="Guide to hiring a website developer for a business in Japan"
+  guide={guide}
+  regionsHeading={regionsHeading}
+  regionsNote={regionsNote}
+  regionHead={regionHead}
+  regionHide={regionHide}
+  regionTable={regionTable}
+  industriesHeading={industriesHeading}
+  industries={industries}
+  comparisonHeading={comparisonHeading}
+  comparisonNote={comparisonNote}
+  compHead={compHead}
+  comparison={comparison}
+  processHeading={processHeading}
+  process={process}
+  timelineFine={timelineFine}
+  faqHeading={faqHeading}
+  faqs={faqs}
+  relatedHeading={relatedHeading}
+  related={related}
+  closingHeading={closingHeading}
+  closingNote={closingNote}
+/>

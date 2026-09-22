@@ -50,7 +50,7 @@ const eluru: CityContent = {
     software: "Dealer order books, pond and harvest registers, credit ledgers and fee systems for businesses still running on notebooks and phone calls.",
     ai: "WhatsApp assistants that answer repeated questions about feed stock, prices, timings and delivery in Telugu or English, and hand over anything complex.",
     data: "Dashboards for dealer sales, farmer dues, harvest dispatches and enquiry sources, easy to read on a phone at the shop or pond.",
-    app: "Installable progressive web apps for field staff visiting farms, college portals and clinic appointments, shared as a single link.",
+    app: "Android and iPhone apps for field staff visiting farms, college portals and clinic appointments, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security and speed checks free for five months after launch, then from ₹8,000 a month if you want ongoing care.",
   },
   whyUsIntro:

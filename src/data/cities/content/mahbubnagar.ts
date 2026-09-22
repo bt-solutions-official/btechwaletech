@@ -50,7 +50,7 @@ const mahbubnagar: CityContent = {
     software: "Admission portals, lab report systems and vendor management tools for colleges, hospitals and suppliers serving the Jadcherla belt.",
     ai: "WhatsApp assistants that answer routine questions in Telugu, Urdu or English and pass real enquiries to your staff without delay.",
     data: "Clear dashboards for distributors, fertiliser dealers and transporters who manage stock and payments across the district’s mandals.",
-    app: "Installable web apps for student logins, patient bookings and field staff reporting that work on basic Android phones.",
+    app: "Android and iOS apps for student logins, patient bookings and field staff reporting on basic phones, published on both stores from ₹40,000.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month, with admission and harvest seasons planned for.",
   },
   whyUsIntro:

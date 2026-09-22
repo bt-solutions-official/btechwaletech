@@ -51,7 +51,7 @@ const moga: CityContent = {
     software: "Student and lead management tools for IELTS centres and consultancies, and order and dispatch registers for implement makers.",
     ai: "WhatsApp flows that answer batch, fee and course questions, collect a student's profile and route warm leads to the right counsellor.",
     data: "Dashboards showing enquiries by source, conversion by counsellor, or implement sales by season and dealer.",
-    app: "Installable web apps for student attendance, mock test scores or dealer orders, with no app store needed.",
+    app: "Android and iOS apps for student attendance, mock test scores or dealer orders, available on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

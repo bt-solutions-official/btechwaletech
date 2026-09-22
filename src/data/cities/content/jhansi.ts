@@ -51,7 +51,7 @@ const jhansi: CityContent = {
     software: "Batch, fee and attendance systems for coaching institutes, and order and job-work trackers for toy and fabrication units.",
     ai: "WhatsApp assistants that answer admission, OPD or stock questions in Hindi and pass fee or price discussions to your staff.",
     data: "Dashboards for admissions, patient footfall, dealer orders and dues, fed from Excel or Tally and simple enough to read on a phone.",
-    app: "Installable web apps for students checking test results, patients booking slots and salesmen taking orders in nearby towns.",
+    app: "Android and iOS apps for students checking test results, patients booking slots and salesmen taking orders in nearby towns, from ₹40,000.",
     maintenance: "Content and fee updates, backups, security patches and uptime checks, free for five months and from ₹8,000 a month after.",
   },
   whyUsIntro:

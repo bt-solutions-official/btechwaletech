@@ -51,7 +51,7 @@ const satara: CityContent = {
     software: "RFQ trackers, job-work registers and dispatch logs for foundries, machine shops and die-casting units in the MIDC.",
     ai: "WhatsApp assistants that answer room availability, class batches, sweet orders or OPD timings in Marathi, Hindi or English.",
     data: "Dashboards of orders, rejections and dues by customer for MIDC vendors, drawn from Tally and shop-floor sheets.",
-    app: "Installable web apps for parents, field staff and dealers to check notices or place repeat orders without the Play Store.",
+    app: "Android and iOS apps for parents, field staff and dealers to check notices or place repeat orders, listed on Google Play and the App Store.",
     maintenance: "Rate updates, backups, security fixes and uptime checks, free for five months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

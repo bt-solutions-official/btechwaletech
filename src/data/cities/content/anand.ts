@@ -50,7 +50,7 @@ const anand: CityContent = {
     software: "Order, job-card and dispatch systems for Vitthal Udyognagar units, and admission and fee systems for Vidyanagar institutes.",
     ai: "WhatsApp assistants that answer admission, hostel, stock or appointment questions in Gujarati or English, then hand leads to your team.",
     data: "Dashboards for milk collection, supplier orders, student enquiries or clinic bookings, readable at a glance.",
-    app: "Installable web apps for hostel attendance, dealer ordering or field technicians visiting dairies and farms.",
+    app: "Android and iOS apps for hostel attendance, dealer ordering or field technicians visiting dairies and farms, from ₹40,000 in six to ten weeks.",
     maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay per change.",
   },
   whyUsIntro:

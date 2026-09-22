@@ -50,7 +50,7 @@ const ramagundam: CityContent = {
     software: "Shift attendance, wage sheets, trip logs and client billing for the manpower suppliers and transporters who work inside NTPC, Singareni and RFCL.",
     ai: "A WhatsApp assistant that handles the late-evening flood of fee, rate and OPD questions in Telugu and passes real orders to a person.",
     data: "One screen per day showing trips run, workers present, bills raised and money pending, instead of a clerk totalling registers.",
-    app: "Phone-installable web apps for supervisors at pit heads and plant gates, built to cope with patchy signal and entry-level Android handsets.",
+    app: "Android and iOS apps for supervisors at pit heads and plant gates, built for patchy signal and entry-level handsets, from ₹40,000 on both stores.",
     maintenance: "No charge for the first five months after launch; afterwards upkeep starts at ₹8,000 a month, or you call us only when something needs changing.",
   },
   whyUsIntro:
@@ -97,7 +97,7 @@ const ramagundam: CityContent = {
       paragraphs: [
         "Coal leaves the mines by rail and road, fly ash leaves the power stations for brick makers and cement plants, and urea and cement move out to dealers across Telangana. A good share of that tonnage rides on tippers and trailers owned by local operators, many of whom still track trips in a notebook and chase payments by phone.",
         "The public side of a transporter's website can be one or two pages: fleet list with capacities, the materials you haul, areas covered and a rate enquiry button. The part that earns its cost is private. Drivers or a munshi enter loading point, weight, unloading point and diesel on a phone; the system raises bills per party from those entries and shows who owes what and since when.",
-        "Such tools start at ₹60,000. If your accountant lives in Tally, the export matches what he imports. Owners see all vehicles and money, drivers see only their own trips, and because it runs in the browser there is no Play Store app to update or get rejected.",
+        "Such tools start at ₹60,000. If your accountant lives in Tally, the export matches what he imports. Owners see all vehicles and money, drivers see only their own trips, and it can run in the browser or ship as an Android and iOS app on Google Play and the App Store.",
       ],
     },
     {

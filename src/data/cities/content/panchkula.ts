@@ -51,7 +51,7 @@ const panchkula: CityContent = {
     software: "Client portals, booking systems, inventory and dispatch tools for industrial units, clinics, coaching centres and service companies.",
     ai: "AI assistants and WhatsApp workflows that answer routine questions, qualify leads and draft replies for busy professionals, with people handling judgement calls.",
     data: "Dashboards for appointments, sales, leads and production that owners and managers can check on a phone.",
-    app: "Installable progressive web apps for patient bookings, school parent portals and field sales teams, shared as a link.",
+    app: "Android and iPhone apps for patient bookings, school parent portals and field sales teams, available on both app stores from ₹40,000.",
     maintenance: "Updates, backups, security and speed checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

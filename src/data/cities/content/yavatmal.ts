@@ -51,7 +51,7 @@ const yavatmal: CityContent = {
     software: "Bale lot registers, farmer purchase slips, weighbridge entries and dealer ledgers for ginners and MIDC units that still depend on paper books.",
     ai: "WhatsApp assistants that answer rate, stock, timing and fee questions in Marathi, Hindi or English and hand anything sensitive to a real person.",
     data: "Season dashboards that show arrivals, purchase rates, ginning output and payments in one view instead of five spreadsheets and a diary.",
-    app: "Installable web apps for field sales staff, dealer orders or patient queues that run on an ordinary Android phone without any app store listing.",
+    app: "Android and iOS apps for field sales staff, dealer orders or patient queues on an ordinary phone, listed on Google Play and the App Store from ₹40,000.",
     maintenance: "Rate list edits, backups, updates and uptime checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

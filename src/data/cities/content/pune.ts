@@ -51,7 +51,7 @@ const pune: CityContent = {
     software: "Supplier portals, production trackers and dealer apps for Chakan and Pimpri-Chinchwad manufacturers that have outgrown email and Excel.",
     ai: "AI assistants and WhatsApp workflows that handle admission, appointment and order questions in Marathi, Hindi or English.",
     data: "Production, sales and admissions data turned into dashboards that a plant head or principal can open on a phone.",
-    app: "Progressive web apps for bookings, field service and dealer orders that install from the browser without an app store.",
+    app: "Android and iOS apps for bookings, field service and dealer orders, built in Flutter or React Native and published on both stores from ₹40,000.",
     maintenance: "Updates, backups, security patches and speed monitoring, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

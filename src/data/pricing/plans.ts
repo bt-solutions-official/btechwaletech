@@ -46,6 +46,13 @@ export const pricingPlans: PricingPlan[] = [
     includes: ["Product and category pages", "Payment gateway setup", "Order and inventory basics", "Performance tuning"],
   },
   {
+    name: "Android & iOS app",
+    timeline: "6 to 10 weeks",
+    price: "₹40,000",
+    summary: "A mobile app for Android and iPhone, for your customers or staff, published on Google Play and the App Store.",
+    includes: ["Android and iOS app (Flutter or React Native)", "Login, forms and push notifications", "Admin panel and API connection", "Google Play and App Store publishing"],
+  },
+  {
     name: "Custom web app or software",
     timeline: "6 to 12 weeks",
     price: "₹60,000",

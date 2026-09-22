@@ -51,7 +51,7 @@ const rajahmundry: CityContent = {
     software: "Order books, dispatch schedules and job-tracking tools for nurseries, KG basin service contractors and distributors across the Godavari districts.",
     ai: "WhatsApp assistants that send plant availability, gold rates, clinic timings or course details in Telugu or English and hand real conversations to you.",
     data: "Seasonal sales, dispatch and payment figures turned into a clear dashboard, so you know which plants, products or branches are really earning.",
-    app: "Installable web apps for dealer orders, patient bookings or student notices that work in any browser, with no app store needed.",
+    app: "Android and iOS apps for dealer orders, patient bookings or student notices, one Flutter or React Native build listed on both stores.",
     maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

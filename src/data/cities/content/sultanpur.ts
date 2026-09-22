@@ -50,7 +50,7 @@ const sultanpur: CityContent = {
     software: "Case diaries, billing, stock and fee-management tools for advocates, wholesalers and schools.",
     ai: "WhatsApp assistants that answer fee, OPD or stock questions in Hindi and hand serious enquiries to the right person.",
     data: "Dashboards for admissions by batch, dues by customer or patients by department, readable on a phone.",
-    app: "Installable web apps for student tests, attendance, delivery routes or field sales without Play Store fees.",
+    app: "Android and iOS apps for student tests, attendance, delivery routes or field sales, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free support for five months after launch, then plans from ₹8,000 a month or per-change charges.",
   },
   whyUsIntro:
@@ -88,7 +88,7 @@ const sultanpur: CityContent = {
       paragraphs: [
         "Every year thousands of young people in Sultanpur prepare for government jobs: UP police, SSC, railway, teacher eligibility, banking and state services. Coaching centres, study libraries, hostels and bookshops have grown around them. Competition among institutes is fierce, and most students choose after comparing options on a phone and asking friends.",
         "A coaching site should give each exam its own page with syllabus coverage, batch timings, faculty, fees from a starting figure and past results shared with student consent. Test series and current-affairs notes published regularly help the site appear in searches and give students a reason to return. A demo-class booking form that asks for the target exam and batch preference tells the counsellor who is calling.",
-        "Larger institutes benefit from a small web app for online tests, results and attendance, which parents in villages can check without visiting. We build these as installable web apps so students do not need to download anything from an app store, and the institute avoids paying store fees.",
+        "Larger institutes benefit from a small web app for online tests, results and attendance, which parents in villages can check without visiting. We build these as Android and iOS apps on Google Play and the App Store from ₹40,000, or as installable web apps if the budget is tighter.",
       ],
     },
     {
@@ -255,7 +255,7 @@ const sultanpur: CityContent = {
     {
       question: "Do you build websites for coaching institutes?",
       answer:
-        "Yes. We create exam-wise pages with syllabus, batches, faculty and fees from a starting figure, a results section shared with student consent and a demo-class form. An online test and results portal can be added as an installable web app, so students need nothing from an app store.",
+        "Yes. We create exam-wise pages with syllabus, batches, faculty and fees from a starting figure, a results section shared with student consent and a demo-class form. An online test and results portal can be added as an Android and iOS app, published on Google Play and the App Store.",
     },
     {
       question: "Can an advocate have a website?",

@@ -51,7 +51,7 @@ const ranchi: CityContent = {
     software: "Web apps for contractors, distributors, schools and hospitals that need billing, attendance, inventory or project tracking beyond Excel.",
     ai: "WhatsApp assistants and lead routing that answer routine questions in Hindi or English and pass real enquiries to your staff.",
     data: "Dashboards for project progress, site expenses, sales and collections that owners can open on a phone before visiting a site.",
-    app: "Installable web apps for field teams, site supervisors and delivery staff, working even where the signal on the highway is weak.",
+    app: "Android and iOS apps for field teams, site supervisors and delivery staff where highway signal is weak, built in Flutter or React Native from ₹40,000.",
     maintenance: "Content changes, backups, security updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

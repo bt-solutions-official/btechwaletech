@@ -51,7 +51,7 @@ const kancheepuram: CityContent = {
     software: "Order, loom and inventory tracking for master weavers and showrooms, and job-work records for factory suppliers.",
     ai: "WhatsApp replies in Tamil or English that send saree photos, room availability or clinic timings and log every enquiry.",
     data: "Dashboards covering saree stock, loom output, bookings and payments across festival and wedding seasons.",
-    app: "Installable web apps for weaver job cards, school notices or patient tokens, without an app store.",
+    app: "Android and iPhone apps for silk weaver job cards, school notices or patient tokens, from ₹40,000 and available on both app stores.",
     maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const modinagar: CityContent = {
     software: "Fee management, admission tracking, job cards and vendor records for schools, workshops and suppliers still running on registers.",
     ai: "WhatsApp replies for fee queries, OPD timings, batch schedules or stock questions in Hindi and English, with each lead saved to a sheet.",
     data: "Simple dashboards for admissions by class, fee collection, sales or pending orders, readable on a phone.",
-    app: "Installable web apps for school notices, coaching test schedules and customer reorders, without any app store download.",
+    app: "Android and iOS apps for school notices, coaching test schedules and customer reorders, built once and released on both stores.",
     maintenance: "Five months of free updates, backups and security fixes after launch, then from ₹8,000 a month or pay only when you need changes.",
   },
   whyUsIntro:

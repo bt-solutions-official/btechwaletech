@@ -51,7 +51,7 @@ const panaji: CityContent = {
     software: "Booking calendars, property lead trackers and client portals for Panaji's hospitality and professional firms.",
     ai: "WhatsApp replies that handle room, table and site-visit questions from tourists and outstation buyers at any hour.",
     data: "Season-wise booking, footfall and lead dashboards so owners can see how the monsoon lull and December peak really compare.",
-    app: "Installable web apps for guest check-in details, event passes and staff rosters, with no app store needed.",
+    app: "Android and iOS apps for guest check-in details, event passes and staff rosters, published on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Free care for five months after launch, then support from ₹8,000 a month, timed around the tourist season.",
   },
   whyUsIntro:

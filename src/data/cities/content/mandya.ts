@@ -51,7 +51,7 @@ const mandya: CityContent = {
     software: "Cane and paddy purchase records, grower payments and stock tracking for jaggery units and rice mills.",
     ai: "WhatsApp replies in Kannada or English that answer price, stock, admission or table-booking questions at any hour.",
     data: "Purchase, production and sales figures shaped into a phone dashboard for mill owners and partners.",
-    app: "Installable web apps for dealer ordering, patient tokens or student notices, no app store needed.",
+    app: "Android and iPhone apps for dealer ordering, patient tokens or student notices, released on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Free updates, backups and checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const hindupur: CityContent = {
     software: "Lot, weight and payment records for cocoon and tamarind trade, and order tracking for garment wholesalers.",
     ai: "WhatsApp replies in Telugu, Urdu or English for stock, rate and timing questions, with a person taking over when it matters.",
     data: "Simple dashboards for season-wise arrivals, sales by party or production output, fed from your existing sheets.",
-    app: "Installable web apps for salesmen, collection agents and factory attendance that run on ordinary Android phones.",
+    app: "Android and iOS apps for salesmen, collection agents and factory attendance that run on ordinary phones, from ₹40,000 on Google Play and the App Store.",
     maintenance: "Free fixes, updates and backups for five months after launch; ongoing care starts from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const bettiah: CityContent = {
     software: "Purchase, stock and payment registers for grain, sugarcane-linked and wholesale traders, replacing handwritten bahi-khatas.",
     ai: "WhatsApp replies in Hindi for fees, doctor timings, stock and delivery questions, with payments and medical matters passed to a person.",
     data: "Phone dashboards showing daily sales, pending dues, stock levels or admissions, built from the registers your staff already keep.",
-    app: "Installable web apps for delivery staff, field agents and school transport that work on weak signal and sync later.",
+    app: "Android and iOS apps for delivery staff, field agents and school transport that work on weak signal and sync later, from ₹40,000 on both stores.",
     maintenance: "Nothing to pay for upkeep during the first five months; later, ongoing care is ₹8,000 a month onwards, entirely optional.",
   },
   whyUsIntro:

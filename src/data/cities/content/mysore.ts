@@ -50,7 +50,7 @@ const mysore: CityContent = {
     software: "Portals, booking engines and admin systems for Mysuru hotels, training institutes, manufacturers at Hootagalli and property managers.",
     ai: "WhatsApp and web assistants that answer tourist, patient or student questions in Kannada and English and pass real enquiries to staff.",
     data: "Occupancy, sales and enquiry dashboards for hotels and retailers, so you can see which season and channel actually paid off.",
-    app: "Installable web apps for tour bookings, clinic appointments and member portals, without the cost of app store publishing.",
+    app: "Android and iOS apps for tour bookings, clinic appointments and member portals, published on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Updates, backups and security work free for five months after launch, then from ₹8,000 a month, with Dasara season changes planned in advance.",
   },
   whyUsIntro:

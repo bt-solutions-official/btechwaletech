@@ -51,7 +51,7 @@ const pilibhit: CityContent = {
     software: "Cane-supply logs, mill dispatch registers and dealer portals for agro-businesses that still keep everything in bound ledgers.",
     ai: "WhatsApp assistants that send flute price lists, safari availability or school fee details in Hindi when you are busy at the kiln or the counter.",
     data: "Dashboards that pull crushing-season purchases, mandi rates and sales into one screen you can read on your phone.",
-    app: "Installable web apps for gypsy bookings, coaching attendance or delivery tracking, with no Play Store listing needed.",
+    app: "Android and iPhone apps for tiger reserve gypsy bookings, coaching attendance or delivery tracking, released on Google Play and the App Store.",
     maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const raayachuru: CityContent = {
     software: "Weighbridge slips, lot registers, broker accounts and dispatch records for ginning units, rice mills and commission agents moved from paper to a web app.",
     ai: "WhatsApp replies that give rates, timings, stock and documents in Kannada or English, and pass tricky conversations to your own staff.",
     data: "Daily arrivals, procurement, sales and dues pulled into one dashboard so a mill owner or distributor can see the season at a glance.",
-    app: "Browser-based apps that install on a phone for farmer registrations, dealer orders or patient tokens, without going through an app store.",
+    app: "Android and iOS apps for farmer registrations, dealer orders or patient tokens, published on both app stores with builds starting at ₹40,000.",
     maintenance: "Five months of updates, backups and security fixes at no charge after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

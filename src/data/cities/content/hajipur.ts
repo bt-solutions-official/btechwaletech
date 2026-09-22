@@ -51,7 +51,7 @@ const hajipur: CityContent = {
     software: "Order, dispatch and invoicing tools for industrial-area units and railway suppliers, and stock registers for wholesale traders.",
     ai: "WhatsApp replies in Hindi or English for product, rate, fee and appointment questions, with people handling anything sensitive.",
     data: "Dashboards that bring production, sales, dues or admissions into one phone-friendly view for owners who travel between Hajipur and Patna.",
-    app: "Installable web apps for delivery tracking, attendance or field orders that work on mobile data without a Play Store download.",
+    app: "Android and iOS apps for delivery tracking, attendance or field orders on mobile data, from ₹40,000 and listed on both Google Play and the App Store.",
     maintenance: "Updates, backups, uptime checks and small changes free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

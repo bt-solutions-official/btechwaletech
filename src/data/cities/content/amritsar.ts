@@ -51,7 +51,7 @@ const amritsar: CityContent = {
     software: "Booking tools for hotels and taxi operators, order registers for wholesalers and client portals for firms handling NRI paperwork.",
     ai: "WhatsApp assistants that answer room, tour and order questions in Punjabi, Hindi or English and pass real bookings to your staff.",
     data: "Reports on bookings, stock, dispatches and receivables so a family business can see which products and seasons carry the year.",
-    app: "Installable web apps for guests, repeat buyers and field staff that work without an app store download.",
+    app: "Android and iOS apps for guests, repeat buyers and field staff, available on Google Play and the App Store, with prices starting at ₹40,000.",
     maintenance: "Rate changes, festival offers, backups and security updates free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

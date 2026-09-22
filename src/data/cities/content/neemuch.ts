@@ -51,7 +51,7 @@ const neemuch: CityContent = {
     software: "Purchase registers, lot tracking, stock and dispatch software for mandi traders and processors who still rely on handwritten records.",
     ai: "WhatsApp assistants that share specifications and minimum order details with buyers, log every lead and forward serious enquiries to you.",
     data: "Arrival, purchase and sales dashboards so a trader can compare commodities and seasons without digging through registers.",
-    app: "Installable progressive web apps for buying agents in villages to record lots and weights on a phone, syncing once they are back in range.",
+    app: "Android and iOS apps for buying agents in villages to record lots and weights, syncing once back in range, from ₹40,000 on both stores.",
     maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:

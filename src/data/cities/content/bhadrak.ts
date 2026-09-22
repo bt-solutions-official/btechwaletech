@@ -51,7 +51,7 @@ const bhadrak: CityContent = {
     software: "Paddy intake, milling yield, stock and dispatch registers for rice mills, and order books for wholesalers.",
     ai: "WhatsApp assistants that reply in Odia, Hindi or English with price lists, catch rates, admission details or OPD timings.",
     data: "Dashboards of paddy received, rice dispatched, dealer dues and sales by season, drawn from mill registers and Tally.",
-    app: "Installable web apps for college notices, field collection and dealer re-orders that work on basic phones.",
+    app: "Android and iOS apps for college notices, field collection and dealer re-orders that work on basic phones, published on Google Play and the App Store.",
     maintenance: "Price edits, backups, updates and uptime checks, free for five months and from ₹8,000 a month after that.",
   },
   whyUsIntro:

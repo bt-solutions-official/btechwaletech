@@ -1,0 +1,5 @@
+# Misspelled freelance URLs -> canonical pages
+/freelencers /freelancers/ 301
+/freelencers/ /freelancers/ 301
+/freelencing /freelancing/ 301
+/freelencing/ /freelancing/ 301

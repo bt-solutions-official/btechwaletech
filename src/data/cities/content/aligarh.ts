@@ -50,7 +50,7 @@ const aligarh: CityContent = {
     software: "Dealer order portals, production job cards and stock systems for lock units that still track castings, polishing and dispatch on paper.",
     ai: "WhatsApp assistants that answer dealer questions about models, finishes and rates, log orders and send dispatch updates without tying up office staff.",
     data: "Sales and dealer performance dashboards built from Tally and order sheets, so owners can see which regions and product lines are growing.",
-    app: "Installable web apps for field salesmen visiting hardware shops, with an offline catalogue, order booking and dealer ledger lookup.",
+    app: "Android and iOS apps for field salesmen visiting hardware shops, with an offline catalogue, order booking and dealer ledger lookup, from ₹40,000.",
     maintenance: "Price list and catalogue updates, backups, security patches and uptime monitoring, free for five months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

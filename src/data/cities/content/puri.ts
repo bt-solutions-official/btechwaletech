@@ -50,7 +50,7 @@ const puri: CityContent = {
     software: "Room availability, booking and guest records in one web app for hotels and dharamshalas that still juggle registers and calls.",
     ai: "WhatsApp assistants that answer tariff, check-in and darshan-timing questions in several languages and pass bookings to your desk.",
     data: "Season-by-season occupancy and enquiry dashboards so hotel owners can see which months, rooms and sources actually pay.",
-    app: "Installable web apps for guest check-in, tour bookings and staff duty rosters that run on ordinary Android phones.",
+    app: "Android and iOS apps for guest check-in, tour bookings and staff duty rosters on ordinary phones, listed on Google Play and the App Store.",
     maintenance: "Free updates and backups for five months after launch, then from ₹8,000 a month, with Rath Yatra and holiday peaks planned ahead.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const jamnagar: CityContent = {
     software: "RFQ trackers, order and job-work registers, and dealer portals for brass units and refinery contractors.",
     ai: "WhatsApp auto-replies and AI assistants that answer standard questions about part sizes, prices, stock or appointments and hand the rest to your team.",
     data: "Production, order and dispatch data from Excel sheets turned into dashboards the owner can read on a phone.",
-    app: "Installable web apps for sales staff, workshop supervisors and customers, usable on basic Android phones.",
+    app: "Android and iOS apps for sales staff, workshop supervisors and customers, usable on basic phones and released on Google Play and the App Store.",
     maintenance: "Free updates, backups, security fixes and speed checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

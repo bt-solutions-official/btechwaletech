@@ -51,7 +51,7 @@ const darjiling: CityContent = {
     software: "Booking calendars, guest registers and vehicle rosters for hotels, homestays and tour operators.",
     ai: "WhatsApp assistants that answer availability, tariff and pick-up questions in English, Hindi, Bengali or Nepali late into the night.",
     data: "Season dashboards comparing bookings, sources and room nights across spring, autumn and the quiet monsoon months.",
-    app: "Installable web apps for drivers and guides to check trips, guests and pick-up points on patchy hill connections.",
+    app: "Android and iOS apps for drivers and guides to check trips, guests and pick-up points on patchy hill connections, published on both stores.",
     maintenance: "Five months of free updates and backups after launch; later care starts from ₹8,000 a month.",
   },
   whyUsIntro:

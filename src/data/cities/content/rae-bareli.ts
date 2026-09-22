@@ -50,7 +50,7 @@ const raeBareli: CityContent = {
     software: "Job registers, billing tools and inventory systems for contractors, pharmacies and distributors still working from ledgers and diaries.",
     ai: "WhatsApp assistants that answer timings, fees and availability questions in Hindi and pass real appointments or orders to your staff.",
     data: "Dashboards for distributors and coaching centres that show sales, collections, batch strength and pending fees at a glance.",
-    app: "Installable web apps for students to see batch schedules and notices, or for salesmen to book orders in the tehsil markets.",
+    app: "Android and iOS apps for students seeing batch schedules and notices, or salesmen booking orders in the tehsil markets, from ₹40,000.",
     maintenance: "Content updates, security fixes and backups free for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

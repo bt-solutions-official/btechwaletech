@@ -50,7 +50,7 @@ const chilakaluripet: CityContent = {
     software: "Bale and lot registers, yarn order trackers and dealer ledgers for mills and traders who still work from notebooks.",
     ai: "WhatsApp replies in Telugu or English for rate, stock and appointment questions, passed to staff when judgement is needed.",
     data: "Dashboards of arrivals, production, dispatches and payments that a mill owner can read on a phone after hours.",
-    app: "Installable web apps for school parents, field agents or brokers, opened from a link with no Play Store listing.",
+    app: "Android and iOS apps for school parents, field agents or brokers, published on Google Play and the App Store in six to ten weeks.",
     maintenance: "Five free months of edits, updates and backups after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

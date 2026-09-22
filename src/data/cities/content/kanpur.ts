@@ -51,7 +51,7 @@ const kanpur: CityContent = {
     software: "Order tracking, batch records, dealer portals and dispatch dashboards for Panki and Dada Nagar units still running on paper challans.",
     ai: "Automations that turn WhatsApp order messages into proper orders, send price lists to new dealers and chase pending payments politely.",
     data: "Production, dispatch and outstanding-payment reports built into a dashboard that updates itself instead of being compiled every Saturday.",
-    app: "Installable web apps for field salesmen, dealers and students that work on cheap Android phones and patchy connections.",
+    app: "Android and iOS apps for field salesmen, dealers and students that handle cheap handsets and patchy connections, published on both stores from ₹40,000.",
     maintenance: "Five free months of fixes, backups, updates and speed checks after launch, then support from ₹8,000 a month.",
   },
   whyUsIntro:

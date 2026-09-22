@@ -51,7 +51,7 @@ const kakinada: CityContent = {
     software: "Shipment trackers, vendor portals and document registers for clearing agents, port contractors and seafood processors.",
     ai: "WhatsApp assistants that share catalogues, rates and dispatch status in Telugu or English to buyers in other states and countries.",
     data: "Pond, procurement and export data turned into dashboards that a partner can read on a phone in the evening.",
-    app: "Installable web apps for hospital tokens, student notices or farm-gate collection that need no app store listing.",
+    app: "Android and iOS apps for hospital tokens, student notices or farm-gate collection, published on both app stores with builds starting at ₹40,000.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

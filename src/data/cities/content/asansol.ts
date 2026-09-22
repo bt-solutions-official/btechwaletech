@@ -51,7 +51,7 @@ const asansol: CityContent = {
     software: "Tender trackers, fleet logs, vendor portals and billing tools for firms that supply the steel plant, the collieries and the railway workshops.",
     ai: "WhatsApp bots and AI assistants that answer the same questions about stock, rates and timings in Bengali, Hindi or English, and hand anything unusual to your staff.",
     data: "Truck trips, tonnage, dispatch and payment data pulled from scattered Excel files into one dashboard you can check before the day's first loading.",
-    app: "Installable web apps for site supervisors, delivery staff and patients, which work on budget Android phones without a Play Store listing.",
+    app: "Android and iOS apps for site supervisors, delivery staff and patients, tuned for budget phones and published on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security fixes and speed checks at no cost for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

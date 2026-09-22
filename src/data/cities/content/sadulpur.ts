@@ -50,7 +50,7 @@ const sadulpur: CityContent = {
     software: "Simple ledgers for mandi traders and transporters to track lots, advances, weighments and payments across the season.",
     ai: "WhatsApp replies in Hindi that share today's rates, shop timings or admission details while you deal with customers at the counter.",
     data: "Season-wise purchase and sale records turned into a phone-friendly dashboard for arhtiyas and wholesalers.",
-    app: "Installable web apps for school notices, coaching attendance or delivery rounds, with no Play Store step.",
+    app: "Android and iOS apps for school notices, coaching attendance or delivery rounds, available on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Five months of free updates and security fixes after launch, then maintenance from ₹8,000 a month if needed.",
   },
   whyUsIntro:

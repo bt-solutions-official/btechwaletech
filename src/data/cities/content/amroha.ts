@@ -51,7 +51,7 @@ const amroha: CityContent = {
     software: "Order registers, vendor portals and job-tracking tools for Gajraula suppliers, contractors and transporters still running on paper.",
     ai: "WhatsApp replies that share catalogues, rates and delivery timelines in Hindi, so enquiries from other states are answered even when you are in the workshop.",
     data: "Monthly sales, dispatch and payment records turned into a simple dashboard you can check on your phone.",
-    app: "Installable web apps for orders, school updates or clinic bookings that work without an app store download.",
+    app: "Android and iOS apps for orders, school updates or clinic bookings, built once in Flutter or React Native and published to both stores.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

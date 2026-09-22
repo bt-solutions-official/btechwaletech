@@ -51,7 +51,7 @@ const siliguri: CityContent = {
     software: "Booking systems, fleet schedulers, distributor order portals and stock trackers for Siliguri's travel and wholesale businesses.",
     ai: "WhatsApp assistants that answer package, permit-document and stock questions late into the evening and pass bookings to your team.",
     data: "Season-wise booking, vehicle use and distributor sales reports pulled into one dashboard you can check on your phone.",
-    app: "Installable web apps for drivers, field salesmen and repeat customers, working on the weak signal common on hill routes.",
+    app: "Android and iOS apps for drivers, field salesmen and repeat customers that cope with weak signal on hill routes, listed on Google Play and the App Store.",
     maintenance: "Package, rate and stock updates, backups and security checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

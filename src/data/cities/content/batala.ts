@@ -51,7 +51,7 @@ const batala: CityContent = {
     software: "Job cards, casting batch registers, dealer ledgers and dispatch trackers for workshops that still run on bahi-khata and phone calls.",
     ai: "WhatsApp replies that send price lists, machine specs and dispatch dates in Punjabi or Hindi while you are on the shop floor.",
     data: "Monthly dashboards of orders by state, dealer dues and raw material costs, built from the sheets and Tally exports you already keep.",
-    app: "Installable web apps for dealer orders, service requests or school notices, opened straight from a WhatsApp link.",
+    app: "Android and iOS apps for dealer orders, service requests or school notices, with a download link you can share on WhatsApp, from ₹40,000.",
     maintenance: "Five months of free updates, backups and security fixes after launch, then upkeep from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

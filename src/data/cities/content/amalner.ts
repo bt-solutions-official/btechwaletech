@@ -51,7 +51,7 @@ const amalner: CityContent = {
     software: "Purchase registers, ginning lot tracking, dealer portals and billing tools for agri businesses still running on paper books.",
     ai: "WhatsApp assistants that share rates, stock, fees or darshan-season details in Marathi or English and pass anything important to you.",
     data: "Season-wise buying, sales and outstanding payments shown in a simple dashboard you can check on your phone before the market opens.",
-    app: "Installable web apps for school notices, clinic tokens and dealer orders, without asking anyone to download from an app store.",
+    app: "Android and iOS apps for school notices, clinic tokens and dealer orders, from ₹40,000 and ready in six to ten weeks on both app stores.",
     maintenance: "Content edits, backups, security updates and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

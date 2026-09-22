@@ -51,7 +51,7 @@ const shillong: CityContent = {
     software: "Booking calendars, fee ledgers and stock records for guesthouses, institutes and Iewduh wholesalers who have outgrown the notebook.",
     ai: "WhatsApp assistants that answer the same twenty tourist questions every monsoon, in English or Hindi, and pass real bookings to you.",
     data: "Simple dashboards showing which months, sources and room types actually bring bookings, so pricing stops being guesswork.",
-    app: "Installable web apps for café pre-orders, class schedules or delivery rounds that work on ordinary Android phones.",
+    app: "Android and iOS apps for café pre-orders, class schedules or delivery rounds on ordinary phones, released on Google Play and the App Store.",
     maintenance: "Five months of free updates, backups and security fixes after launch, then plans from ₹8,000 a month.",
   },
   whyUsIntro:

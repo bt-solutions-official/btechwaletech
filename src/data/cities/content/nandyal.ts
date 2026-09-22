@@ -51,7 +51,7 @@ const nandyal: CityContent = {
     software: "Paddy procurement, milling, stock and dispatch records for rice mills, and credit ledgers for seed and fertiliser dealers, moved off paper.",
     ai: "WhatsApp replies in Telugu or English on timings, fees, stock or room availability, with your staff taking over when a person is needed.",
     data: "Season-wise arrivals, sales and dues in one dashboard, so a mill owner or dealer can plan before kharif and rabi begin.",
-    app: "Installable web apps for mango pre-orders, patient tokens or student portals that run in a phone browser without app store listings.",
+    app: "Android and iOS apps for mango pre-orders, patient tokens or student portals, published on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -1,0 +1,673 @@
+---
+/**
+ * Shared layout for /japan/<service>/ pages. Markup and styles mirror src/pages/japan/index.astro
+ * (and the other country pages); each page passes only its own content.
+ */
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { siteContact } from "@data/site/site-config";
+import { pricingPlans } from "@data/pricing/plans";
+import { priceRows } from "@data/countries/international";
+import { jpy } from "@data/countries/japan";
+import type { FaqItem, PageSeoConfig } from "@app-types/seo";
+
+export interface Article {
+  id: string;
+  heading: string;
+  /** Paragraph strings may contain inline HTML (links, strong, ja() spans). */
+  paragraphs: string[];
+  list?: string[];
+  after?: string[];
+  blocks?: { name: string; text: string }[];
+  table?: { caption: string; head: string[]; rows: string[][]; hide?: number };
+}
+
+export interface Props {
+  page: PageSeoConfig;
+  /** Page-specific schema (from japanServiceSchema); breadcrumb and FAQ schema are added here. */
+  schema: unknown[];
+  heroEyebrow: string;
+  facts: [string, string][];
+  pills: string[];
+  heroOrigin: string;
+  quoteKicker: string;
+  /** Plan-name prefixes shown in the hero price card, e.g. ["Static", "SEO website"]. */
+  quotePlans: string[];
+  quoteFoot: string;
+  stats: { value: string; label: string }[];
+  answerHeading: string;
+  quickAnswer: string;
+  answerMore: string;
+  snapshotCaption: string;
+  snapshot: { label: string; value: string }[];
+  servicesHeading: string;
+  services: { name: string; note: string; href?: string; size: "lg" | "md" | "sm" }[];
+  pricingHeading: string;
+  pricingIntro: string;
+  pricingFine: string;
+  guideLabel: string;
+  guide: Article[];
+  regionsHeading: string;
+  regionsNote: string;
+  regionHead: string[];
+  /** Column indexes hidden on phones. */
+  regionHide: number[];
+  regionTable: string[][];
+  industriesHeading: string;
+  industries: { name: string; need: string; build: string }[];
+  comparisonHeading: string;
+  comparisonNote: string;
+  compHead: [string, string, string];
+  /** Rows of [aspect, option 1, option 2, BtechWaleTech]. */
+  comparison: [string, string, string, string][];
+  processHeading: string;
+  process: [string, string][];
+  timelineFine: string;
+  faqHeading: string;
+  faqs: FaqItem[];
+  relatedHeading: string;
+  related: { name: string; href: string }[];
+  closingHeading: string;
+  closingNote: string;
+}
+
+const {
+  page, schema, heroEyebrow, facts, pills, heroOrigin, quoteKicker, quotePlans, quoteFoot, stats,
+  answerHeading, quickAnswer, answerMore, snapshotCaption, snapshot, servicesHeading, services,
+  pricingHeading, pricingIntro, pricingFine, guideLabel, guide, regionsHeading, regionsNote, regionHead,
+  regionHide, regionTable, industriesHeading, industries, comparisonHeading, comparisonNote, compHead,
+  comparison, processHeading, process, timelineFine, faqHeading, faqs, relatedHeading, related,
+  closingHeading, closingNote,
+} = Astro.props;
+
+const quoteRows = quotePlans.map((prefix) => {
+  const row = priceRows.find((r) => r.service.startsWith(prefix));
+  if (!row) throw new Error(`Unknown pricing plan: ${prefix}`);
+  return row;
+});
+
+const tocExtra = [
+  { id: "pricing-heading", heading: "Starting prices in USD and yen" },
+  { id: "regions-heading", heading: "Region-by-region table" },
+  { id: "industries-heading", heading: "Industries" },
+  { id: "why-heading", heading: "Comparison" },
+  { id: "process-heading", heading: "Process and timelines" },
+  { id: "faq-heading", heading: "FAQs" },
+];
+---
+
+<BaseLayout meta={page} schema={[...schema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="country-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">{heroEyebrow}</p>
+        <h1 id="country-heading">{page.h1}</h1>
+        <p class="lede">{page.intro}</p>
+        <ul class="facts" aria-label="Quick facts">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>Email {siteContact.email}</a>
+        </div>
+        <ul class="hero-pills" aria-label="What we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          {heroOrigin}
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label={quoteKicker}>
+        <p class="quote-kicker">{quoteKicker}</p>
+        <ul class="quote-rows">
+          {quoteRows.map((r) => (
+            <li><span>{r.service}</span><strong><small>from </small>{r.usd}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">{quoteFoot}</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my quote on WhatsApp</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="BtechWaleTech in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">{answerHeading}</h2>
+        <p id="quick-answer" class="answer-text">{quickAnswer}</p>
+        <p class="answer-more">{answerMore}</p>
+      </div>
+      <table class="snapshot">
+        <caption>{snapshotCaption}</caption>
+        <tbody>
+          {snapshot.map((row) => (
+            <tr><th scope="row">{row.label}</th><td>{row.value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Services</p>
+        <h2 id="services-heading">{servicesHeading}</h2>
+      </div>
+      <div class="bento">
+        {services.map((s) => {
+          const inner = (
+            <div class="card-core">
+              <h3>{s.name}</h3>
+              <p>{s.note}</p>
+              {"href" in s && <span class="card-arrow" aria-hidden="true">&rarr;</span>}
+            </div>
+          );
+          return "href" in s ? <a class={`card card-${s.size}`} href={s.href}>{inner}</a> : <div class={`card card-${s.size}`}>{inner}</div>;
+        })}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">{pricingHeading}</h2>
+        <p class="section-note">{pricingIntro}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">Starts from</th><th scope="col">About in yen</th><th scope="col" class="hide-sm">Typical timeline</th><th scope="col" class="hide-sm">What is included</th></tr>
+          </thead>
+          <tbody>
+            {priceRows.map((r) => (
+              <tr>
+                <th scope="row">{r.service}</th>
+                <td class="price">{r.usd}</td>
+                <td class="price">{jpy(r.service)}</td>
+                <td class="hide-sm">{r.timeline}</td>
+                <td class="hide-sm">{r.includes}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingFine} See the <a href="/pricing/">pricing page</a> for full scope guidance.</p>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label={guideLabel}>
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {guide.map((g) => <li><a href={`#${g.id}`}>{g.heading}</a></li>)}
+          {tocExtra.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+        </ol>
+      </nav>
+      <div class="prose">
+        {guide.map((g) => (
+          <article aria-labelledby={g.id}>
+            <h2 id={g.id}>{g.heading}</h2>
+            {g.paragraphs.map((p) => <p set:html={p} />)}
+            {g.list && <ul>{g.list.map((li) => <li set:html={li} />)}</ul>}
+            {g.blocks && g.blocks.map((b) => (
+              <div class="state-block">
+                <h3>{b.name}</h3>
+                <p>{b.text}</p>
+              </div>
+            ))}
+            {g.table && (
+              <div class="comparison-table-wrap prose-table">
+                <table class="price-table fit-sm">
+                  <caption class="sr-only">{g.table.caption}</caption>
+                  <thead><tr>{g.table.head.map((h, i) => <th scope="col" class={i === g.table!.hide ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+                  <tbody>
+                    {g.table.rows.map((row) => (
+                      <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={i === g.table!.hide ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            )}
+            {g.after && g.after.map((p) => <p set:html={p} />)}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== REGION TABLE ===================== -->
+  <section class="industries" aria-labelledby="regions-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Coverage</p>
+        <h2 id="regions-heading">{regionsHeading}</h2>
+        <p class="section-note">{regionsNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr>{regionHead.map((h, i) => <th scope="col" class={regionHide.includes(i) ? "hide-sm" : undefined}>{h}</th>)}</tr></thead>
+          <tbody>
+            {regionTable.map((row) => (
+              <tr>{row.map((cell, i) => (i === 0 ? <th scope="row">{cell}</th> : <td class={regionHide.includes(i) ? "hide-sm" : undefined}>{cell}</td>))}</tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">{industriesHeading}</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table fit-sm">
+          <thead><tr><th scope="col">Industry</th><th scope="col" class="hide-sm">What buyers look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map((i) => (
+              <tr><th scope="row">{i.name}</th><td class="hide-sm">{i.need}</td><td>{i.build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== COMPARISON ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Compare</p>
+        <h2 id="why-heading">{comparisonHeading}</h2>
+        <p class="section-note">{comparisonNote}</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">{compHead[0]}</th>
+              <th scope="col" class="col-other">{compHead[1]}</th>
+              <th scope="col" class="col-us">{compHead[2]}</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">{processHeading}</h2>
+      </div>
+      <ol class="steps steps-six">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+      <div class="comparison-table-wrap timeline-wrap">
+        <table class="price-table fit-sm">
+          <caption class="sr-only">Typical project timelines</caption>
+          <thead><tr><th scope="col">Project</th><th scope="col">Typical timeline</th><th scope="col" class="hide-sm">What it covers</th></tr></thead>
+          <tbody>
+            {pricingPlans.map((plan) => (
+              <tr><th scope="row">{plan.name}</th><td>{plan.timeline}</td><td class="hide-sm">{plan.summary}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{timelineFine}</p>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">{faqHeading}</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="related-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Other locations</p>
+        <h2 id="related-heading">{relatedHeading}</h2>
+      </div>
+      <div class="city-cloud">
+        {related.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">{closingHeading}</h2>
+        <p class="closing-note">{closingNote}</p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links">
+          <a href="/services/">All services</a> · <a href="/services/web-development/">Web development</a> · <a href="/services/seo-services/">SEO services</a> ·
+          <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/about/">About</a> · <a href="/countries/">Countries</a> · <a href="/contact/">Contact</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Tokens and section styles mirror src/pages/japan/index.astro so service pages match the country page. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+  .sr-only { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip: rect(0, 0, 0, 0); white-space: nowrap; border: 0; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+  .section-note a, .fine a { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease); max-width: 100%; overflow-wrap: anywhere;
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 {
+    font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem;
+    max-width: 100%; overflow-wrap: anywhere; text-wrap: balance;
+  }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); min-width: 0; }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(1.75rem, 4vw, 3rem); font-weight: 700; line-height: 1; overflow-wrap: anywhere; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .answer-more { margin-top: 1.1rem; color: var(--slate); line-height: 1.75; }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { max-width: 100%; overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+  .timeline-wrap { margin-top: 2rem; }
+  .prose-table { margin-top: 1.5rem; }
+  .prose-table + p { margin-top: 1.5rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; min-width: 0; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose h3 { font-size: 1.15rem; font-weight: 600; line-height: 1.3; margin-bottom: 0.6rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose ul + p, .prose .state-block + p { margin-top: 1.5rem; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+  .state-block { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px dashed var(--hairline); }
+
+  /* Locations */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+  .steps-six { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .steps-six li:nth-child(4) { border-left: none; }
+  .steps-six li:nth-child(n+4) { border-top: 1px solid var(--hairline); }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; line-height: 1.9; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: minmax(0, 1fr); }
+    .toc { position: static; }
+    .steps, .steps-six { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(odd) { border-left: none; }
+    .steps li:nth-child(even) { border-left: 1px solid var(--hairline); }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  /* Non-essential table columns hide on phones for both th and td. */
+  @media (max-width: 768px) {
+    .hide-sm { display: none; }
+    .fit-sm { min-width: 0; }
+  }
+  @media (max-width: 640px) {
+    .bento, .steps, .steps-six { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li, .steps li:nth-child(even) { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table .col-other { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+    .price-table td, .price-table th[scope="row"], .price-table thead th { padding: 0.8rem 0.75rem; }
+  }
+  @media (max-width: 520px) {
+    h1 { font-size: clamp(1.9rem, 8vw, 2.4rem); }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

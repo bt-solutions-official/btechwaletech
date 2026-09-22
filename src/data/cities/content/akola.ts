@@ -51,7 +51,7 @@ const akola: CityContent = {
     software: "Lot tracking, gate-pass registers and dealer ledgers for MIDC mills and ginning units that still run on handwritten books.",
     ai: "WhatsApp assistants that share daily dal rates, class batch timings or clinic slots in Marathi, Hindi or English and pass harder questions to you.",
     data: "Season-wise purchase, milling and dispatch figures pulled into one dashboard so you can see yields and margins without waiting for the accountant.",
-    app: "Installable web apps for dealer orders, student attendance or patient bookings that work on any Android phone without an app store.",
+    app: "Android and iPhone apps for dealer orders, student attendance or patient bookings, built in Flutter or React Native and listed on both stores from ₹40,000.",
     maintenance: "Rate list changes, backups, security updates and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

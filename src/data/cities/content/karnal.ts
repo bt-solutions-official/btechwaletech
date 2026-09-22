@@ -51,7 +51,7 @@ const karnal: CityContent = {
     software: "Procurement registers, dealer portals, admissions systems and billing tools for rice millers, agri-input dealers and institutes still running on paper.",
     ai: "WhatsApp auto-replies and AI assistants that handle the daily rush of questions about fees, rates, stock and appointments, and pass the tricky ones to your staff.",
     data: "Dashboards for paddy arrivals, sales, dealer orders and student enquiries, readable on a phone in the mandi or the office.",
-    app: "Progressive web apps for bookings, order taking and student portals, installable from a link without a Play Store listing.",
+    app: "Android and iOS apps for bookings, order taking and student portals, built in Flutter or React Native and published on Google Play and the App Store.",
     maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const delhi: CityContent = {
     software: "Order portals, dealer logins and stock panels for Sadar Bazaar distributors and Okhla manufacturers still running on registers and WhatsApp.",
     ai: "AI assistants that reply in Hindi or English to the same pricing and stock questions every Delhi retailer gets forty times a day.",
     data: "Dashboards that turn Tally exports and billing data into daily sales, dues and dealer reports you can read on a phone.",
-    app: "Installable progressive web apps for coaching batches, clinic bookings and repeat orders, with no app-store listing required.",
+    app: "Android and iOS apps for coaching batches, clinic bookings and repeat orders, built once and published on Google Play and the App Store from ₹40,000.",
     maintenance: "Content edits, backups, security updates and uptime monitoring, free for five months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const davanagere: CityContent = {
     software: "Stock, weighment and payment tracking for rice mills, maize traders and ginning units that still run on ledgers and memory.",
     ai: "WhatsApp assistants that answer admission, appointment and rate questions in Kannada and English and pass serious enquiries to your staff.",
     data: "Dashboards showing admissions by course, patients by department or purchases by season, built from spreadsheets and Tally.",
-    app: "Installable web apps for college attendance, hospital queues and field collection agents that work on any Android phone.",
+    app: "Android and iOS apps for college attendance, hospital queues and field collection agents, one Flutter build listed on Google Play and the App Store.",
     maintenance: "Content changes, notices, backups and security updates, free for five months and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

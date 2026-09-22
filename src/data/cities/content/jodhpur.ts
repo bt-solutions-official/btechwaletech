@@ -51,7 +51,7 @@ const jodhpur: CityContent = {
     software: "Order-tracking and production tools for export units that juggle container schedules, buyer samples and dozens of karigars.",
     ai: "WhatsApp automation that sends buyer enquiries, product codes and price requests to the right person and replies instantly to routine questions.",
     data: "Reports on orders, shipments, receivables and product-wise margins, built from Tally exports and the spreadsheets you already use.",
-    app: "Installable web apps for sales reps, hotel guests and repeat trade buyers, with no app store listing needed.",
+    app: "Android and iPhone apps for sales reps, hotel guests and repeat trade buyers, published on Google Play and the App Store in six to ten weeks.",
     maintenance: "Catalogue updates, seasonal offers, backups and security work covered free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

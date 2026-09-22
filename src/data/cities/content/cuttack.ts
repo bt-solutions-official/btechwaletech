@@ -51,7 +51,7 @@ const cuttack: CityContent = {
     software: "Order, stock and job-card software for Jagatpur and Khapuria units that still track production on registers and phone calls.",
     ai: "WhatsApp assistants that answer repeat questions in Odia or English, log enquiries and remind patients or clients of appointments and hearing dates.",
     data: "Sales and inventory dashboards for Cuttack wholesalers, built from the Excel and Tally exports you already keep.",
-    app: "Installable web apps for coaching batches, clinic bookings and distributor orders across Cuttack and Bhubaneswar, no app store needed.",
+    app: "Android and iOS apps for coaching batches, clinic bookings and distributor orders across Cuttack and Bhubaneswar, released on both stores from ₹40,000.",
     maintenance: "Updates before Durga Puja and wedding season, security patches and backups, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

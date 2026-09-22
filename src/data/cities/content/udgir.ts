@@ -50,7 +50,7 @@ const udgir: CityContent = {
     software: "Purchase, grading, stock and dispatch tools for dal mills, and ledgers for commission agents and traders.",
     ai: "WhatsApp assistants that share daily rates and answer order, fee or appointment questions in Marathi, Hindi or English.",
     data: "Dashboards for arrivals, purchase rates, mill output or sales by district, built from sheets you already maintain.",
-    app: "Installable web apps for buyers in the yard, delivery drivers and field staff that work on basic phones.",
+    app: "Android and iPhone apps for buyers in the market yard, delivery drivers and field staff on basic phones, available on both app stores.",
     maintenance: "Five months of free updates and security care after launch; afterwards maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:

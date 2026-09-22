@@ -51,7 +51,7 @@ const aurangabad: CityContent = {
     software: "Vendor portals, quality and dispatch logs, job-card and inventory tools for MIDC units that have outgrown spreadsheets and emailed PDFs.",
     ai: "AI assistants that read RFQs, draft quotes from your rate sheet, answer hotel and tour questions on WhatsApp and route anything unusual to your team.",
     data: "Production, rejection and sales dashboards pulled from Tally, spreadsheets or machine logs, readable on a supervisor's phone during a shift.",
-    app: "Progressive web apps for shop-floor checklists, field sales visits or guest check-in that install from a link and work on unsteady networks.",
+    app: "Android and iOS apps for shop-floor checklists, field sales visits or guest check-in that cope with unsteady networks, from ₹40,000 on both stores.",
     maintenance: "Security updates, backups, uptime checks and content edits free for five months after launch, then from ₹8,000 a month if you continue with us.",
   },
   whyUsIntro:

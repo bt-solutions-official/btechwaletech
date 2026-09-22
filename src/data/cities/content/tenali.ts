@@ -51,7 +51,7 @@ const tenali: CityContent = {
     software: "Stock, billing and weighbridge-linked records for grain traders and rice mills in the delta.",
     ai: "WhatsApp replies in Telugu that share today's rates, OPD timings or admission details and save every enquiry in one sheet.",
     data: "Dashboards that show purchases, stock and payments across seasons, useful for traders dealing with dozens of farmers.",
-    app: "Installable web apps for college notices, clinic tokens or customer orders, without a Play Store listing.",
+    app: "Android and iOS apps for college notices, clinic tokens or customer orders, one codebase published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const rajampet: CityContent = {
     software: "Purchase and payment registers for fruit traders and commission agents, and admission and fee tools for colleges and schools.",
     ai: "WhatsApp replies for daily rates, stock, admission and appointment questions, handing buyers, parents and patients to your staff.",
     data: "Dashboards showing arrivals and sales by crop and buyer, admissions by course, or enquiries by source.",
-    app: "Installable web apps for field agents, nursery orders or student notices that run on ordinary Android phones.",
+    app: "Android and iOS apps for field agents, nursery orders or student notices on ordinary phones, from ₹40,000 with Google Play and App Store release.",
     maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

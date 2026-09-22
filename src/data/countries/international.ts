@@ -37,6 +37,7 @@ export const regions = [
   { country: "Australia & NZ", code: "AU", overlap: "Australian afternoons (IST mornings)", billing: "USD or AUD · Wise, wire", href: "/australia/" },
   { country: "UAE & Middle East", code: "AE", overlap: "Near full working day", billing: "USD or AED · Wise, wire", href: "/uae/" },
   { country: "Singapore & Asia", code: "SG", overlap: "Near full working day", billing: "USD or SGD · Wise, wire", href: "/singapore/" },
+  { country: "Japan", code: "JP", overlap: "Japanese afternoons, from 12:30 pm JST", billing: "USD or JPY · Wise, wire", href: "/japan/" },
   { country: "Europe", code: "EU", overlap: "European business day from late morning", billing: "USD or EUR · Wise, wire", href: "/germany/" },
   { country: "India", code: "IN", overlap: "Same time zone (IST)", billing: "INR · UPI, bank transfer", href: "/india/" },
 ];

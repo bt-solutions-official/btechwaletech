@@ -51,7 +51,7 @@ const panvel: CityContent = {
     software: "Stock, dispatch, quotation and job-card tools for Kalamboli steel traders, Taloja fabricators and transport companies that have outgrown spreadsheets.",
     ai: "WhatsApp assistants that answer fees, availability, site-visit slots or product specs in English, Hindi or Marathi, then hand over to your team.",
     data: "Lead, sales and dispatch figures combined into a dashboard, so a builder, dealer or clinic chain in Panvel can see which source actually converts.",
-    app: "Installable web apps for society notices, dealer orders, patient tokens or student portals, used straight from a phone browser.",
+    app: "Android and iOS apps for society notices, dealer orders, patient tokens or student portals, published on both stores and starting at ₹40,000.",
     maintenance: "Content changes, updates, backups and monitoring free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

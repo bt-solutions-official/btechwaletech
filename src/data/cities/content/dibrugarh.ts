@@ -51,7 +51,7 @@ const dibrugarh: CityContent = {
     software: "Leaf purchase records, labour and attendance logs and job-work tracking for tea factories and oilfield contractors.",
     ai: "WhatsApp replies that answer room, tariff, stock or appointment questions in English, Assamese or Hindi, day and night.",
     data: "Green leaf arrivals, made-tea output and sales turned into a dashboard that estate managers can read on a phone.",
-    app: "Installable web apps for dealer orders, patient tokens or student notices, with no app store listing needed.",
+    app: "Android and iPhone apps for dealer orders, patient tokens or student notices, from ₹40,000 with release on Google Play and the App Store.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

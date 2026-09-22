@@ -50,7 +50,7 @@ const nabadwip: CityContent = {
     software: "Room registers, donation and receipt systems, and order books for ashrams, guest houses and wholesale traders.",
     ai: "WhatsApp assistants that answer room, timing and product questions in Bengali, Hindi or English and hand bookings to a person.",
     data: "Dashboards showing festival-season bookings, donations, sales by product or patient visits, so owners can plan the next season.",
-    app: "Installable web apps for devotee groups, delivery riders or school parents, with no app-store listing needed.",
+    app: "Android and iOS apps for devotee groups, delivery riders or school parents, listed on both app stores and priced from ₹40,000.",
     maintenance: "Five free months of fixes after launch, then plans from ₹8,000 a month or payment per change.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const nagpur: CityContent = {
     software: "Dispatch boards, fleet and warehouse tools, dealer portals and billing systems for the transport and distribution firms that Nagpur's location attracts.",
     ai: "WhatsApp assistants that quote freight, confirm appointments and answer stock questions in Marathi or Hindi, then hand real conversations to your team.",
     data: "Dashboards that pull trips, orders, collections and branch sales into one view for owners who currently wait for a weekly Excel sheet.",
-    app: "Installable web apps for drivers, field staff and repeat customers that work on low-cost phones along highways with weak signal.",
+    app: "Android and iOS apps for drivers, field staff and repeat customers on highways with weak signal, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free fixes, updates, backups and monitoring for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

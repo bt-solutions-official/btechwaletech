@@ -50,7 +50,7 @@ const khammam: CityContent = {
     software: "Lot, billing and payment registers for commission agents, and order and slab inventory tools for granite polishing units.",
     ai: "WhatsApp assistants that share rate lists, OP timings or admission details in Telugu and English and pass real negotiations to a person.",
     data: "Dashboards for arrivals, sales, dispatches or patient numbers, so an owner sees the season clearly without chasing staff.",
-    app: "Installable web apps for field staff, delivery boys or student notices that need no Play Store download.",
+    app: "Android and iOS apps for field staff, delivery boys or student notices, one codebase listed on both app stores in six to ten weeks.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:

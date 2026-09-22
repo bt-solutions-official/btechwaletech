@@ -51,7 +51,7 @@ const dhanbad: CityContent = {
     software: "Contractor portals, dispatch registers and job-tracking tools for firms that currently manage crews, trucks and bills through phone calls and notebooks.",
     ai: "WhatsApp assistants that sort tender queries, spare part requests and patient appointments before a staff member ever picks up the phone.",
     data: "Dashboards that pull together trip sheets, diesel logs, invoices and outstanding payments so an owner can see the whole business on one screen.",
-    app: "Progressive web apps for site supervisors and drivers to log trips, photos and attendance from the field, even on a weak signal.",
+    app: "Android and iOS apps for site supervisors and drivers to log trips, photos and attendance from the field, even on a weak signal, from ₹40,000.",
     maintenance: "Updates, backups and security patching free for five months after launch, then from ₹8,000 a month or on request.",
   },
   whyUsIntro:
@@ -243,7 +243,7 @@ const dhanbad: CityContent = {
     {
       question: "Can you build software to track trucks, trips and payments?",
       answer:
-        "Yes. Custom web applications start at ₹60,000. A typical transport tool lets supervisors log trips, challans and diesel from a phone, and shows the owner outstanding payments and profit by vehicle or route. It runs in the browser, so no app store installation is required.",
+        "Yes. Custom web applications start at ₹60,000. A typical transport tool lets supervisors log trips, challans and diesel from a phone, and shows the owner outstanding payments and profit by vehicle or route. It can run in the browser, or ship as an Android and iOS app on Google Play and the App Store from ₹40,000.",
     },
     {
       question: "How long does SEO take in Dhanbad?",

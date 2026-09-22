@@ -51,7 +51,7 @@ const salem: CityContent = {
     software: "Order books, loom-wise production trackers and dealer portals for textile units and sago mills that still run on notebooks.",
     ai: "WhatsApp assistants that reply to rate, stock and dispatch questions in Tamil or English and keep a log of every enquiry.",
     data: "Production, dispatch and payment data turned into dashboards the owner can read before the day's trading starts.",
-    app: "Installable web apps for dealer ordering, resort bookings and delivery tracking without an app store listing.",
+    app: "Android and iOS apps for dealer ordering, Yercaud resort bookings and delivery tracking, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Rate updates, new designs, backups and security fixes free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

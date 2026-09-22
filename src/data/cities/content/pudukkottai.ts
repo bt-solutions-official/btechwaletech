@@ -50,7 +50,7 @@ const pudukkottai: CityContent = {
     software: "Order books, job cards and dispatch registers for SIPCOT fabricators, rice mills and wholesale distributors on the highway.",
     ai: "WhatsApp assistants that reply in Tamil or English with price lists, OPD days, admission details or today's catch rates.",
     data: "Simple dashboards for sales by branch, dealer dues and seasonal stock, fed from Tally exports or daily sheets.",
-    app: "Installable web apps for school fee reminders, field sales visits and repeat orders that run without an app store listing.",
+    app: "Android and iOS apps for school fee reminders, field sales visits and repeat orders, one codebase released on Google Play and the App Store.",
     maintenance: "Price edits, backups, updates and uptime checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const sitapur: CityContent = {
     software: "Order, loom and payment tracking for durrie units, and stock and credit ledgers for wholesalers and agri dealers.",
     ai: "WhatsApp replies in Hindi or English for fee, booking and order questions, handing anything delicate to your staff.",
     data: "Dashboards for loom output, seasonal sales or school admissions, built from registers and spreadsheets you already keep.",
-    app: "Installable web apps for weaver job cards, dealer orders or staff attendance that run on basic Android phones.",
+    app: "Android and iPhone apps for durrie weaver job cards, dealer orders or staff attendance on basic phones, from ₹40,000 on both app stores.",
     maintenance: "Free updates, fixes and backups for five months after launch; later maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

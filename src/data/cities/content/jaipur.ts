@@ -51,7 +51,7 @@ const jaipur: CityContent = {
     software: "Order trackers, sample management and buyer portals for Sitapura and Mahindra World City exporters that juggle many overseas orders.",
     ai: "WhatsApp assistants that answer room, price and stock questions in Hindi or English and hand serious enquiries to your team.",
     data: "Sales, bookings and export shipment data brought together in dashboards an owner can check between buyer meetings.",
-    app: "Installable web apps for guest services, dealer orders and field staff that work on everyday Android phones.",
+    app: "Android and iOS apps for guest services, dealer orders and field staff on everyday phones, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security fixes and speed checks, free for five months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:

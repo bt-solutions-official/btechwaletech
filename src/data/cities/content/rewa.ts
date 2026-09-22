@@ -51,7 +51,7 @@ const rewa: CityContent = {
     software: "Trip logs, attendance and billing tools for transporters and contractors serving cement plants and the solar park.",
     ai: "WhatsApp replies that handle fee, stock and timing questions in Hindi and pass negotiations and complaints to you.",
     data: "Admissions, sales or dispatch registers turned into a dashboard you can check on your phone each evening.",
-    app: "Installable web apps for student updates, patient bookings or dealer re-orders without a Play Store listing.",
+    app: "Android and iOS apps for student updates, patient bookings or dealer re-orders, available on both app stores and ready in six to ten weeks.",
     maintenance: "Content edits, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

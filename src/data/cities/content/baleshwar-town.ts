@@ -50,7 +50,7 @@ const baleshwarTown: CityContent = {
     software: "Vendor order trackers, processing batch logs, room booking tools and fee systems for businesses still relying on registers and phone calls.",
     ai: "WhatsApp assistants that handle routine questions about rooms, tide timings, stock, rates or clinic slots in Odia, Bengali, Hindi or English.",
     data: "Dashboards for shipments, supplier dues, room occupancy and enquiry sources that an owner can check on a phone in the evening.",
-    app: "Installable web apps for field sales staff, college students and hotel guests, shared as a link instead of a Play Store download.",
+    app: "Android and iOS apps for field sales staff, college students and hotel guests at Chandipur, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:
@@ -120,7 +120,7 @@ const baleshwarTown: CityContent = {
       paragraphs: [
         "Balasore has become a regional education centre. Fakir Mohan University is here, Fakir Mohan Medical College and Hospital opened in 2018, and the town has Balasore Law College, engineering and management institutes, autonomous colleges, many higher secondary schools and coaching centres preparing students for OJEE, NEET, JEE and government job exams.",
         "Students arrive from Bhadrak, Mayurbhanj, Jaleswar and nearby Bengal, and their parents research carefully. They want courses, eligibility, fee ranges, faculty profiles, verifiable results, hostel and transport details and admission dates. We build course pages, an admissions page updated each year, an editable notice board and enquiry forms that forward straight to your counsellor on WhatsApp.",
-        "Coaching centres can add a student area for notes, recorded classes and test schedules, delivered as an installable web app instead of an expensive native one. We do not publish guaranteed selections or rank claims that cannot be checked.",
+        "Coaching centres can add a student area for notes, recorded classes and test schedules, delivered as an Android and iOS app from ₹40,000, or as a cheaper installable web app. We do not publish guaranteed selections or rank claims that cannot be checked.",
         "Hostels, messes and PG rooms near the colleges fill faster with a simple site showing photos, rules, meals, a rent range and a precise map location. Many students search in English, while parents often search in Odia, so the key pages carry both.",
       ],
     },

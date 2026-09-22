@@ -51,7 +51,7 @@ const buxar: CityContent = {
     software: "Stock, billing and truck dispatch tools for rice mills, grain traders and building material dealers who still run on registers and diaries.",
     ai: "WhatsApp auto-replies in Hindi that answer fee, timing, stock and rate questions, and pass anything unusual to the owner with the chat history.",
     data: "Simple dashboards for admissions, sales or mill output by week, so an owner in Buxar can compare this season with the last one on a phone.",
-    app: "Installable web apps for school notices, delivery rounds or site attendance that work offline and do not need a Play Store listing.",
+    app: "Android and iOS apps for school notices, delivery rounds or site attendance that keep working offline, released on Google Play and the App Store.",
     maintenance: "Updates, backups, security checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:

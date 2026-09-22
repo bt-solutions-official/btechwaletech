@@ -50,7 +50,7 @@ const jagdalpur: CityContent = {
     software: "Paddy, stock and dispatch registers for rice mills, order books for furniture units and job tracking for contractors near Nagarnar.",
     ai: "WhatsApp assistants answering booking, stock and appointment questions in Hindi or English and passing real orders to a person.",
     data: "Dashboards for paddy arrivals, milling output, room occupancy or patient flow, readable on the owner's phone.",
-    app: "Installable web apps for field staff, tour guides, delivery riders or school parents, with no app-store listing.",
+    app: "Android and iOS apps for field staff, tour guides, delivery riders or school parents, listed on Google Play and the App Store in six to ten weeks.",
     maintenance: "No upkeep bill for five months after launch; after that, support from ₹8,000 a month, or per change for quiet seasons.",
   },
   whyUsIntro:

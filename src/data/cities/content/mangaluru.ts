@@ -51,7 +51,7 @@ const mangaluru: CityContent = {
     software: "Export order trackers, dealer portals and inventory dashboards for Baikampady processors and port-linked logistics firms.",
     ai: "WhatsApp assistants for hospitals, colleges and shops that handle routine questions in English, Kannada or Hindi and pass complex cases to staff.",
     data: "Shipment, grading and sales dashboards that bring export paperwork and domestic orders into one view.",
-    app: "Installable web apps for admissions, patient appointments and delivery tracking, opened from a link without an app store.",
+    app: "Android and iOS apps for admissions, patient appointments and delivery tracking, available on Google Play and the App Store, starting at ₹40,000.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

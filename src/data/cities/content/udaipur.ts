@@ -50,7 +50,7 @@ const udaipur: CityContent = {
     software: "Booking, inventory and dispatch tools for hotels, event firms and Madri or Kaladwas units that run on registers today.",
     ai: "WhatsApp assistants that answer room, wedding-date and product questions in Hindi or English and log every enquiry.",
     data: "Occupancy, event and sales dashboards built from your booking exports and spreadsheets.",
-    app: "Installable web apps for guest check-in details, vendor coordination and dealer orders, without an app store.",
+    app: "Android and iOS apps for guest check-in details, wedding vendor coordination and dealer orders, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Rate and season updates, security patches and backups, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

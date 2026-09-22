@@ -51,7 +51,7 @@ const tiruvannamalai: CityContent = {
     software: "Room inventory, pooja booking and rice mill purchase registers for businesses still running on paper and memory.",
     ai: "WhatsApp replies in Tamil and English for room availability, full-moon dates, OPD times or saree stock, day and night.",
     data: "Full-moon and festival occupancy, sales and dues laid out on a phone dashboard for owners planning the next season.",
-    app: "Installable web apps for guest check-in, clinic tokens, college notices or dealer orders, without an app store listing.",
+    app: "Android and iOS apps for guest check-in, clinic tokens, college notices or dealer orders, published on both stores in six to ten weeks.",
     maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

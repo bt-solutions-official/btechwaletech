@@ -51,7 +51,7 @@ const bagaha: CityContent = {
     software: "Purchase, weighment and payment records for sugarcane, banana and grain traders, and stock tools for wholesalers.",
     ai: "WhatsApp replies in Hindi or Bhojpuri-friendly plain language for rates, stock, fees and bookings, handing hard cases to you.",
     data: "Season dashboards showing what was bought, sold, paid and pending, readable on the owner's phone.",
-    app: "Installable web apps for dealer orders, school notices or safari check-ins, without an app store listing.",
+    app: "Android and iOS apps for dealer orders, school notices or safari check-ins near Valmiki Nagar, published on both app stores from ₹40,000.",
     maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month with backups and security updates.",
   },
   whyUsIntro:

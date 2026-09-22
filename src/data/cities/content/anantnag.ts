@@ -50,7 +50,7 @@ const anantnag: CityContent = {
     software: "Order registers, packhouse stock sheets and dealer ledgers for fruit traders and bat workshops along the highway.",
     ai: "WhatsApp assistants that answer room availability, yatra dates, OPD timings and fruit rates in Urdu, Hindi or English.",
     data: "Season-by-season dashboards of bookings, fruit dispatches or bat orders, so owners plan winter stock with real numbers.",
-    app: "Installable web apps for guest bookings, school notices and dealer re-orders that keep working when the signal drops.",
+    app: "Android and iOS apps for guest bookings, school notices and dealer re-orders that keep working when the signal drops, from ₹40,000 on both stores.",
     maintenance: "Tariff and rate changes, backups, security updates and uptime checks, free for five months and from ₹8,000 a month after.",
   },
   whyUsIntro:

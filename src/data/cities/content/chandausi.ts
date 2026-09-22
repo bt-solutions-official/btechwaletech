@@ -50,7 +50,7 @@ const chandausi: CityContent = {
     software: "Stock, rate and ledger tools for mandi traders and wholesalers who still keep everything in bahi-khata registers.",
     ai: "WhatsApp replies in Hindi that share daily rates, stock or timings while you are busy at the mandi or in the shop.",
     data: "Purchases, sales and outstanding payments pulled into a simple dashboard you can check on your phone.",
-    app: "Installable web apps for school notices, coaching fee tracking or clinic token booking, with no app store needed.",
+    app: "Android and iOS apps for school notices, coaching fee tracking or clinic token booking, available on both app stores and priced from ₹40,000.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
@@ -115,7 +115,7 @@ const chandausi: CityContent = {
       paragraphs: [
         "N.K.B.M.G. Postgraduate College, the railway's training institute and a large number of private schools make Chandausi an education centre for the surrounding area. Coaching centres prepare students for board exams, UP police and SSC recruitment, railway exams, NEET and JEE, and many students travel in daily from villages across the tehsil.",
         "Parents and students compare options online, often in Hindi. A school website with admissions, fees, transport routes, facilities, circulars and a photo gallery answers their questions and reduces calls to the office. A coaching site with courses, batch timings, fees, faculty and a trial-class booking form helps students choose. We keep results pages factual and verifiable; parents here talk to each other, and inflated claims are quickly found out.",
-        "For coaching centres with many batches, a small installable web app can handle attendance, fee records and notices without asking students to download anything from an app store. Schools can use the same approach for homework and circulars instead of scattered WhatsApp groups.",
+        "For coaching centres with many batches, an Android and iOS app from ₹40,000 can handle attendance, fee records and notices, with a lighter installable web app as the cheaper option. Schools can use the same approach for homework and circulars instead of scattered WhatsApp groups.",
       ],
     },
     {

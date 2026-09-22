@@ -50,7 +50,7 @@ const sikar: CityContent = {
     software: "Fee, attendance and test-result systems for coaching institutes, and stock and billing tools for mandi traders and wholesalers.",
     ai: "WhatsApp assistants that answer batch, fee, hostel and room questions in Hindi at any hour and hand genuine leads to your counsellor.",
     data: "Dashboards for enquiries, admissions, test scores or daily arrivals, so owners can see the season's numbers without chasing staff.",
-    app: "Installable web apps for student notices, test schedules and hostel attendance that work without a Play Store download.",
+    app: "Android and iPhone apps for student notices, test schedules and hostel attendance, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:

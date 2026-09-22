@@ -50,7 +50,7 @@ const ballari: CityContent = {
     software: "Cutting, stitching and washing job trackers for denim units, and work order and billing tools for contractors in the steel belt.",
     ai: "WhatsApp assistants that send the latest jeans catalogue, lot sizes, OPD timings or fees in Kannada, Telugu or English and flag serious buyers to you.",
     data: "Production, dispatch and receivables pulled into one dashboard, so a unit owner can see which retailers are overdue before calling them.",
-    app: "Installable web apps for retailer re-orders, patient appointments or site reporting that run in the browser without an app store.",
+    app: "Android and iPhone apps for retailer re-orders, patient appointments or site reporting, published on Google Play and the App Store in six to ten weeks.",
     maintenance: "Catalogue refreshes, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

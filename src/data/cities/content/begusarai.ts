@@ -50,7 +50,7 @@ const begusarai: CityContent = {
     software: "Fleet, contractor billing and labour attendance tools for the trucking and service firms that work around the refinery and power plant.",
     ai: "WhatsApp assistants that reply to fee, appointment and stock questions in Hindi at any hour and hand real buyers to your staff.",
     data: "Simple dashboards that show trips, invoices, milk collection or admissions without someone adding up registers every evening.",
-    app: "Installable web apps for drivers, field staff and students that work on low-cost Android phones and patchy signal.",
+    app: "Android and iPhone apps for drivers, field staff and students that handle low-cost handsets and patchy signal, listed on both app stores from ₹40,000.",
     maintenance: "Five free months of fixes, content updates and backups after launch, then care from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
@@ -97,7 +97,7 @@ const begusarai: CityContent = {
       paragraphs: [
         "Barauni Junction and NH 31 make Begusarai a natural base for trucking. Tankers move petroleum products, trucks carry fertiliser and building material, and pick-up operators supply the markets of north Bihar. Many of these businesses still run on a diary, a phone and a pile of paper challans.",
         "A public website for a transporter should be short: the vehicles you run, the routes you cover, the loads you are licensed for, and a quick way to request a rate. The real value lies in a private tool behind it. We build trip registers where drivers or supervisors log loading, unloading and diesel from a phone, invoices generated from those trips, and a list of outstanding payments by party.",
-        "These tools start at ₹60,000 and are built around your current way of working, not a foreign logistics template. If your accountant uses Tally, we export the data in a format he can import. Drivers only see what they need, owners see everything, and nothing requires an expensive app store listing.",
+        "These tools start at ₹60,000 and are built around your current way of working, not a foreign logistics template. If your accountant uses Tally, we export the data in a format he can import. Drivers only see what they need, owners see everything, and drivers can use it as an Android or iPhone app from Google Play or the App Store.",
       ],
     },
     {

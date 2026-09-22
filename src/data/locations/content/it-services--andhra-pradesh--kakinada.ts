@@ -1,0 +1,291 @@
+import type { CityContent } from "../../cities/types";
+
+const content: CityContent = {
+  slug: "it-services--andhra-pradesh--kakinada",
+  updated: "2026-09-21",
+  geo: { lat: 16.9891, lng: 82.2475 },
+  meta: {
+    title: "Hire Freelance IT & Software Developers in Kakinada",
+    description:
+      "Hire freelance IT and software developers in Kakinada for seafood, port, KG basin and fertiliser suppliers: custom software, apps, AI agents and SEO. From ₹10,000.",
+    keywords: [
+      "software development company in Kakinada",
+      "IT company in Kakinada",
+      "IT solutions Kakinada",
+      "freelance software developers Kakinada",
+      "seafood export software Kakinada",
+      "shrimp processing plant software",
+      "port logistics software Kakinada",
+      "oil and gas vendor website KG basin",
+      "custom web application Kakinada",
+      "mobile app developers Kakinada",
+      "AI automation Kakinada",
+      "WhatsApp automation Kakinada",
+      "dashboard development Kakinada",
+      "Uppada saree online store",
+      "ecommerce website Kakinada",
+      "SEO services Kakinada",
+      "IT support Kakinada Main Road",
+      "software developers near Sarpavaram",
+      "కాకినాడ సాఫ్ట్‌వేర్ డెవలపర్స్",
+      "కాకినాడ వెబ్‌సైట్ తయారీ",
+      "Android app development Kakinada",
+      "iOS app development Kakinada",
+      "mobile app developers in Kakinada",
+      "iPhone app developers Kakinada",
+    ],
+  },
+  hero: {
+    eyebrow: "Kakinada · Andhra Pradesh",
+    h1: "Hire freelance IT and software developers in Kakinada for exporters, port users and industrial suppliers",
+    lede:
+      "Hire freelance IT and software developers in Kakinada from BtechWaleTech, a group of three independent engineers working remotely. We build procurement and export software for seafood processors, job files for port agents, vendor tools for KG basin and fertiliser suppliers, AI and WhatsApp automation, dashboards, apps, Uppada handloom stores and SEO.",
+    pills: ["Export software from ₹60,000", "Android and iOS apps from ₹40,000", "Port and seafood workflows", "Telugu and English", "UPI QR or bank transfer only"],
+  },
+  quickAnswer:
+    "To hire freelance IT and software developers in Kakinada, BtechWaleTech offers a remote group of three engineers. Custom software starts from ₹60,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and websites from ₹10,000. Projects take one to twelve weeks, quotes arrive in about two working days, and five months of maintenance are free.",
+  snapshot: [
+    { label: "Port", value: "Kakinada deep water port and the older anchorage port, handling rice, fertiliser, edible oil, cement and other bulk cargo" },
+    { label: "Energy", value: "Base for Krishna-Godavari (KG) basin offshore oil and gas operations and their service contractors" },
+    { label: "Fertiliser and chemicals", value: "Large fertiliser plants on the Vakalapudi and port side, supported by transport and maintenance vendors" },
+    { label: "Seafood", value: "Shrimp and fish processing and export units drawing on aquaculture across the Godavari districts" },
+    { label: "Education and health", value: "JNTU Kakinada, Rangaraya Medical College and the Government General Hospital, plus many private hospitals" },
+    { label: "Handloom and food", value: "Uppada Jamdani silk sarees from the nearby coast and the famous Kakinada kaja sweet" },
+    { label: "Commercial areas", value: "Main Road, Bhanugudi Junction, Jagannaickpur, Ramaraopeta, Sarpavaram and Gandhinagar" },
+    { label: "Nearby towns", value: "Samalkot, Peddapuram, Pithapuram, Tuni, Ramachandrapuram and the Konaseema delta" },
+    { label: "Natural landmarks", value: "Coringa mangrove wildlife sanctuary, Hope Island and the Uppada beach road" },
+  ],
+  serviceNotes: {
+    web: "Websites for Kakinada exporters, hospitals, colleges and industrial suppliers that read professionally for overseas buyers and load quickly on mobile.",
+    seo: "Kakinada local search by area, such as Sarpavaram or Jagannaickpur, plus English pages for seafood and industrial buyers outside Andhra.",
+    ecommerce: "Online stores for Uppada sarees, Kakinada kaja and coastal food products, with UPI and card checkout in your own gateway account.",
+    software: "Procurement, processing, export, port and vendor software for Kakinada businesses that currently run on Excel and WhatsApp groups.",
+    ai: "AI agents that read shipping and purchase documents, answer buyer or patient questions on WhatsApp, and route leads for Kakinada firms.",
+    data: "Dashboards for Kakinada processors and traders showing procurement, yield, shipments, dues and cash flow in one view.",
+    app: "Android and iOS apps from ₹40,000 for Kakinada agents, supervisors, drivers and patients, built in Flutter or React Native with offline sync and published on both app stores.",
+    maintenance: "Updates, fixes, backups and monitoring for Kakinada systems, five months free after launch and from ₹8,000 a month after that.",
+  },
+  whyUsIntro:
+    "Kakinada businesses often end up hiring developers from Vizag, Hyderabad or Chennai and paying for their overheads. We are a freelance group of three engineers who work remotely, publish prices, hand over every account and reply on WhatsApp seven days a week.",
+  pricingIntro:
+    "These starting prices apply to Kakinada and the rest of the Godavari districts. You receive an itemised quote in about two working days, broken down by module, so you can decide what goes in the first release.",
+  sections: [
+    {
+      id: "kakinada-it-overview",
+      heading: "Why do Kakinada businesses hire freelance IT and software developers?",
+      paragraphs: [
+        "Kakinada businesses hire freelance IT and software developers to replace the Excel sheets, WhatsApp groups and paper registers behind seafood procurement, port jobs, industrial supply and trading with focused software they own. The city's mix of a busy port, KG basin energy work, fertiliser plants and seafood exports creates many mid-size firms with complex paperwork and no in-house IT team.",
+        "These firms rarely need a huge enterprise system. They need a procurement register that calculates payments correctly, a job file that shows where each shipment stands, a quotation tool that responds within an hour, and a dashboard that tells the owner where cash is stuck. Freelance developers can build exactly that, quickly and at a price a mid-size business can approve.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have a Kakinada office; scoping, demos, training and support happen on video calls, screen shares and WhatsApp, and progress is visible on a shared preview link.",
+      ],
+      list: [
+        "Seafood procurement and export software",
+        "Port and logistics job files",
+        "Industrial vendor and quotation tools",
+        "AI and WhatsApp automation",
+        "Dashboards, cloud hosting and support",
+        "Websites, SEO and ecommerce",
+      ],
+    },
+    {
+      id: "seafood-processing-export-software",
+      heading: "Procurement and export software for Kakinada seafood processors",
+      paragraphs: [
+        "Seafood procurement and export software for Kakinada records every purchase from farms and agents by count, weight and rate, follows the material through processing, grading and packing, and ends with container-wise export documentation and buyer payments. It gives processors a single, reliable picture of cost and yield instead of numbers scattered across several spreadsheets.",
+        "Key modules include supplier and agent masters, purchase entry with count-wise rates and deductions, farmer and agent payment schedules, processing batches with raw-to-finished yield, cold store stock by grade and pack size, container planning with packing lists, and buyer invoices with payment tracking in foreign currency.",
+        "Owners get dashboards of procurement cost by count, yield by batch, stock ageing in cold store and realised margin per container. Lab test and certificate status can be tracked per lot with alerts when a clearance is pending.",
+        "We are software engineers, not export consultants or compliance auditors. We build around the process and documents your team already uses, and your quality and export staff stay in charge of what goes in them.",
+      ],
+    },
+    {
+      id: "port-logistics-kakinada",
+      heading: "Port and logistics software for Kakinada agents, CHAs and transporters",
+      paragraphs: [
+        "Port logistics software for Kakinada gives steamer agents, customs house agents, stevedores and transporters a job file for each vessel or consignment, with documents, milestones, costs and billing in one place. Kakinada's port handles large volumes of bulk cargo such as rice and fertiliser, which means many trucks, many documents and many phone calls per job.",
+        "We build vessel and cargo job files, document uploads, milestone updates with automatic customer messages, truck trip sheets with weighbridge and POD photos, cost capture per job, and billing that turns completed work into invoices. Owners see jobs in progress, pending bills and profit per job.",
+        "Where a partner offers structured data or an API, we pull it in; where documents arrive as PDFs, an AI extraction step reads the key fields for staff to confirm. We do not connect to government port or customs systems unless you already have authorised, documented access.",
+        "Logistics software is priced as custom software from ₹60,000 and typically takes six to twelve weeks for a first working version.",
+      ],
+    },
+    {
+      id: "kg-basin-fertiliser-vendors",
+      heading: "IT for KG basin, fertiliser and industrial vendors around Kakinada",
+      paragraphs: [
+        "Vendors serving KG basin energy operations, fertiliser plants and other large industries around Kakinada need IT that proves reliability: a professional English website with capabilities and certifications, fast accurate quotations, and clean records of work orders, manpower, equipment and compliance documents. Buyers in these sectors judge vendors heavily on documentation.",
+        "We build capability websites with services, equipment lists, safety credentials and project types described factually; quotation generators using your rate cards; work-order trackers with site, crew, equipment and progress photos; manpower deployment and attendance with billing per contract; and a document register for licences, insurance and certificates with expiry reminders.",
+        "Marine and offshore service firms often need equipment and crew certification tracking, since expired documents can stop work. A simple web app with reminders prevents that.",
+        "We only describe past work that you can verify, and we never invent client names or project claims for your website. Credibility in industrial buying comes from accurate details, not adjectives.",
+      ],
+    },
+    {
+      id: "ai-automation-kakinada",
+      heading: "AI automation for Kakinada: documents, enquiries and follow-up",
+      paragraphs: [
+        "AI automation for Kakinada businesses is most useful for reading documents and handling repetitive enquiries: extracting data from purchase bills, packing lists, invoices and lab reports; answering common customer or patient questions on WhatsApp; and summarising email threads with overseas buyers. It frees skilled staff for decisions that need judgment.",
+        "An exporter might use an AI step that reads supplier bills and buyer purchase orders and fills a checking sheet. A hospital might use an agent that answers questions about doctors, timings and tests and books appointments. A trader might use one that collects product, quantity and delivery location from new enquiries before a salesperson calls back.",
+        "We build with n8n or Python, connected to the WhatsApp Business API through a provider account in your name and a language model account billed to you. Agents are tested on real Telugu, English and mixed messages before going live.",
+        "AI automation starts from ₹40,000 and takes two to four weeks. Anything involving payments, commitments or medical questions keeps a person in control.",
+      ],
+    },
+    {
+      id: "whatsapp-crm-kakinada",
+      heading: "WhatsApp and CRM automation for Kakinada sales teams",
+      paragraphs: [
+        "WhatsApp and CRM automation for Kakinada businesses collects every enquiry in one pipeline, assigns an owner and follow-up date, and sends customers timely confirmations and reminders automatically. It fixes the familiar problem of leads living on individual salespeople's phones and disappearing when someone is on leave.",
+        "We connect website forms, Google Business Profile calls, IndiaMART and other lead emails, and social media forms. Approved WhatsApp templates handle order confirmations, dispatch updates, payment reminders and appointment alerts. The owner gets a morning summary of new leads, overdue follow-ups and conversions.",
+        "For B2B sellers, a structured enquiry flow collects the details your team needs before quoting, such as product, grade, quantity and destination, so the first call is productive.",
+        "We build opt-in messaging only. Bulk messages to purchased lists break WhatsApp's rules and get numbers blocked.",
+      ],
+    },
+    {
+      id: "android-ios-apps-kakinada",
+      heading: "What does an Android and iOS app cost in Kakinada, and who uses it?",
+      paragraphs: [
+        "An Android and iOS app for a Kakinada business starts from ₹40,000 and is usually ready in six to ten weeks. BtechWaleTech builds it once in Flutter or React Native for both Android phones and iPhones, with login, forms, push notifications, an admin panel connected by an API, and publishing on Google Play and the Apple App Store.",
+        "In Kakinada, the people who benefit most from an app work away from a desk. Procurement agents visiting ponds in Konaseema record counts, weights and photos. Processing plant supervisors log batches and shift output. Truck drivers at the port capture loading, weighbridge slips and delivery proof. Service crews for KG basin and fertiliser vendors fill job reports with photos and signatures. On the customer side, hospitals use booking and report apps and colleges use parent apps.",
+        "Pond bunds, plant floors and anchorage areas often have weak signal, so field apps save entries offline and sync when coverage returns. Most staff use Android phones, so we test on common budget models first and then on iPhones, with Telugu labels checked on real devices.",
+        "The quote grows with offline sync, GPS, camera-heavy workflows, several roles, or a connection to your procurement or export software. For simple customer information, a progressive web app can be cheaper, and we will recommend it when it fits. Store listings are created under your own developer accounts, so the app belongs to your business.",
+      ],
+      list: [
+        "Procurement agent apps",
+        "Plant supervisor apps",
+        "Driver and weighbridge apps",
+        "Service crew job-report apps",
+        "Patient and parent apps",
+      ],
+    },
+    {
+      id: "dashboards-cloud-kakinada",
+      heading: "Dashboards, cloud hosting and IT support for Kakinada systems",
+      paragraphs: [
+        "A dashboard for a Kakinada owner brings procurement, production, shipments, receivables and cash into one screen that updates automatically from your software, Tally and spreadsheets. Instead of waiting for month-end, the owner sees today's position, including which buyers owe money and which containers are pending.",
+        "Systems are hosted on AWS or comparable platforms in an Indian region with daily backups, HTTPS, uptime and error monitoring. Websites built with Astro are served from fast edge networks. Code lives in a Git repository registered to your business, and changes pass through a staging copy before going live.",
+        "Support covers bug fixes, updates, backups and small enhancements, free for five months after launch and from ₹8,000 a month afterwards. We work remotely and do not provide on-site hardware or network repairs.",
+      ],
+    },
+    {
+      id: "hospitals-colleges-kakinada",
+      heading: "Software for Kakinada hospitals, diagnostics and colleges",
+      paragraphs: [
+        "Kakinada hospitals and colleges need software for bookings, billing, admissions, fees and communication. The city is a medical and education centre for the Godavari districts, with a government medical college and hospital, JNTU Kakinada and many private hospitals, colleges and coaching institutes drawing people from Konaseema and the surrounding towns.",
+        "For hospitals and diagnostic centres we build doctor-wise booking with token status, OP and IP billing, report delivery on WhatsApp, and revenue dashboards. For colleges and coaching centres we build admission funnels with AI enquiry agents, fee ledgers with reminders, attendance with parent alerts and results publishing.",
+        "We do not build clinical decision tools. Patient and student data stays in your own cloud account with access by role.",
+      ],
+    },
+    {
+      id: "uppada-ecommerce-seo-kakinada",
+      heading: "Ecommerce and SEO for Uppada sarees, Kakinada kaja and local brands",
+      paragraphs: [
+        "Ecommerce works well for Kakinada-region products that buyers already search for by name, especially Uppada Jamdani silk sarees and Kakinada kaja, as well as coastal pickles and dry fish. An online store from ₹50,000 lets weavers, cooperatives and sweet shops sell across India and to the Telugu diaspora.",
+        "Stores include product and category pages, UPI and card checkout through a payment gateway account in your own name, courier integration, pin-code checks, GST invoices and WhatsApp order updates. Uppada listings need detailed photos, weave and zari notes and care instructions; sweets need shelf-life, packing and shipping limits clearly stated.",
+        "SEO for Kakinada combines national product pages with local pages for hospitals, schools, showrooms and services by area. Static websites start at ₹10,000, 700+ page SEO websites at ₹20,000 and monthly SEO at ₹10,000. More on our <a href='/services/seo-services/'>SEO services</a> page. We never guarantee rankings.",
+      ],
+    },
+    {
+      id: "rice-mills-agri-trade-kakinada",
+      heading: "Software for Kakinada rice mills, agri traders and fertiliser dealers",
+      paragraphs: [
+        "Rice mills and agri traders around Kakinada need software that ties paddy purchase, milling output, stock, dispatch and payments together, because the East Godavari and Konaseema belt moves large volumes of rice through Kakinada port and by road. A focused web application replaces the separate purchase book, production register and dispatch diary most mills still keep.",
+        "For mills we build paddy purchase entry by farmer or broker with moisture and weight deductions, milling batches with outturn of rice, broken rice and bran, godown stock by variety and bag size, dispatch with lorry and destination details, and party-wise receivables. Owners see outturn percentage by batch and variety, which is the number that decides profit in milling.",
+        "Fertiliser and agri-input dealers, many of them supplied from the plants on the Kakinada side, need counter billing with batch details, farmer credit accounts tied to the crop season, village-wise dues lists for collection trips and WhatsApp reminders timed around harvest.",
+        "A step any mill or dealer can take today, before talking to any developer: pick one week and write down every purchase, batch and dispatch in a single sheet with the same columns. That sheet shows exactly what the software must record, and it usually exposes a leak or two on its own.",
+      ],
+    },
+    {
+      id: "freelance-vs-it-company-kakinada",
+      heading: "Freelance IT developers vs an IT company for Kakinada projects",
+      paragraphs: [
+        "An IT company offers bigger teams, project managers and formal processes, which suits large enterprise or government projects, while freelance IT developers like BtechWaleTech suit Kakinada exporters, agents, vendors, hospitals and traders who want direct access to the engineers and quotes without office overhead. Most Kakinada projects are focused systems that a small, experienced group can build well.",
+        "The honest limit is capacity: three engineers cannot run a huge multi-team build. We will tell you early if your project needs more people than we have.",
+        "Either way, ask who writes the code, insist on an itemised written quote, keep every account in your business name and agree on support terms. See our <a href='/portfolio/'>portfolio</a>, read about us on the <a href='/about/'>about page</a> or compare <a href='/pricing/'>starting prices</a>.",
+      ],
+      list: [
+        "Direct contact with the engineers",
+        "Itemised written scope",
+        "All accounts in your name",
+        "Clear post-launch support",
+      ],
+    },
+    {
+      id: "cost-timeline-kakinada",
+      heading: "How much does software cost in Kakinada, and how long does it take?",
+      paragraphs: [
+        "Software in Kakinada with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for ecommerce, ₹20,000 for an SEO website and ₹10,000 for a static website. Custom systems take six to twelve weeks, automation two to four weeks, stores four to eight weeks and websites one to five weeks.",
+        "The final quote depends on modules, roles, integrations with Tally, WhatsApp or courier services, foreign-currency invoicing, data migration and how quickly sample documents and approvals arrive. Starting with procurement or job files, then adding modules, keeps the first release affordable.",
+        "Payment is accepted only by UPI, by scanning our QR code, or by direct bank transfer, in INR, against milestones in the quote. Five months of maintenance after launch are included.",
+      ],
+    },
+    {
+      id: "godavari-coverage-kakinada",
+      heading: "IT services across Kakinada district and the Godavari delta",
+      paragraphs: [
+        "BtechWaleTech works remotely with businesses across Kakinada district and neighbouring areas, including Samalkot, Peddapuram, Pithapuram, Tuni, Uppada, Ramachandrapuram, Amalapuram and Rajahmundry. The same engineers, process and starting prices apply in each town.",
+        "Samalkot's sugar and industrial units, Peddapuram's traders, Pithapuram's temple economy and the aquaculture belt of Konaseema each have distinct workflows, and we scope software around them rather than forcing a template.",
+        "For the wider state view, see the <a href='/it-services/andhra-pradesh/'>Andhra Pradesh hub</a> or the neighbouring <a href='/it-services/andhra-pradesh/visakhapatnam/'>Visakhapatnam</a> page.",
+      ],
+    },
+    {
+      "id": "kakinada-briefing-a-developer",
+      "heading": "How should a Kakinada business brief a freelance developer?",
+      "paragraphs": [
+        "A good brief for a Kakinada project fits on two pages: the problem that costs you money today, the people who will use the system, the documents it must produce, and what a successful first month looks like. With that in hand, a freelance developer can quote accurately and you can compare different quotes on the same basis.",
+        "Start with the current process rather than the software you imagine. A seafood processor might write: agents send count and weight on WhatsApp, the supervisor types them into Excel at night, and payment disputes arise because rates changed mid-week. A shipping agent working the Kakinada anchorage port might describe how a job file moves between the office, the customs broker and the transporter. Real samples beat descriptions, so attach a blank invoice, a filled register page with names hidden and a screenshot of the spreadsheet.",
+        "Next, name the users and their devices. Procurement staff at farm gates on basic Android phones with weak signal need a very different screen from an accountant on a desktop in the town office. Say which language each group reads, Telugu or English, and which existing tools must connect, such as Tally or a buyer's supplier portal.",
+        "Send the brief to us on WhatsApp and you get an itemised quote in about two working days. If the budget is tight, we suggest a first phase that fixes the costliest problem and leaves the rest for later, rather than a stripped-down version of everything."
+      ],
+      "list": [
+        "Describe today's process in about ten lines, step by step",
+        "Attach three to five sample documents with sensitive data masked",
+        "List user groups, their phones or computers, and their language",
+        "Mark must-have features separately from nice-to-have ideas",
+        "State a budget range and the season by which it must be live",
+        "Name one person who can answer questions within a day"
+      ]
+    },
+  ],
+  localities: [
+    { name: "Main Road and Bhanugudi Junction", note: "Kakinada's central commercial stretch with showrooms, banks, hospitals and offices that need professional websites, booking tools and local search pages." },
+    { name: "Port area and Jagannaickpur", note: "Home to steamer agents, CHAs, stevedores and transporters handling bulk cargo, who benefit from job files, trip sheets and automatic customer updates." },
+    { name: "Vakalapudi and the industrial belt", note: "Fertiliser, chemical and processing units with their contractors and suppliers, needing quotation tools, work-order tracking and document registers." },
+    { name: "Sarpavaram and Ramanayyapeta", note: "Growing residential and institutional areas with colleges, clinics and new businesses that want admission funnels, appointment apps and area SEO." },
+    { name: "Ramaraopeta and Gandhinagar", note: "Established neighbourhoods with retailers, sweet shops, tutors and professionals who benefit from simple bilingual websites and WhatsApp ordering." },
+    { name: "Uppada", note: "Coastal weaving village famous for Jamdani silk sarees; weavers and cooperatives need online stores, catalogue pages and direct buyer enquiries." },
+    { name: "Samalkot and Peddapuram", note: "Nearby industrial and trading towns with sugar, rice and small manufacturing units needing purchase registers, dispatch tracking and B2B websites." },
+    { name: "Pithapuram", note: "Temple town with pilgrims, lodges and traders who need booking flows, multilingual pages and WhatsApp enquiry automation." },
+    { name: "Tuni", note: "Trading town on NH16 with agri and cashew businesses, shops and schools that benefit from billing software and local SEO." },
+    { name: "Konaseema and Amalapuram", note: "Coconut and aquaculture delta where farms, traders and processors need procurement records, field apps and dues dashboards." },
+  ],
+  industries: [
+    { name: "Seafood processing and export", need: "Count-wise procurement, yield, cold store stock and container documents", build: "Procurement and export software, yield dashboards, lab-status alerts and exporter websites" },
+    { name: "Port agents and logistics", need: "Job status, documents, truck trips and billing", build: "Job-file portals, trip sheets, customer milestone messages and AI document extraction" },
+    { name: "Energy and industrial vendors", need: "Credible capability presentation, quotes, work orders and certificates", build: "Capability websites, quotation generators, work-order trackers and document registers" },
+    { name: "Fertiliser and agri-input trade", need: "Dealer orders, credit, stock and dispatch", build: "Dealer ordering apps, credit ledgers, dispatch tracking and dashboards" },
+    { name: "Hospitals and diagnostics", need: "Bookings, billing and report delivery", build: "Booking PWAs, OP/IP billing and WhatsApp report delivery" },
+    { name: "Colleges and coaching", need: "Admissions, fees and parent communication", build: "AI admission agents, fee ledgers and attendance apps" },
+    { name: "Handloom and sweets", need: "Direct buyers across India and trust in product quality", build: "Ecommerce stores, detailed product pages and courier integration" },
+    { name: "Rice mills and traders", need: "Purchase, milling output, stock and dispatch records", build: "Purchase and production registers, dispatch trackers and B2B enquiry sites" },
+  ],
+  faqs: [
+    { question: "Do you have an office in Kakinada?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Kakinada. All work happens over video calls, screen sharing and WhatsApp. That is how we keep the same starting prices for Kakinada as for bigger cities." },
+    { question: "Can you build software for a seafood processing and export unit?", answer: "Yes. We build count-wise procurement, agent and farmer payments, processing batches with yield, cold store stock by grade, container packing lists, buyer invoices and margin dashboards. We build around your existing process; your quality and export staff remain responsible for compliance decisions." },
+    { question: "Can you build an Android and iOS app for our field staff in Kakinada?", answer: "Yes. Android and iOS apps start from ₹40,000 and take six to ten weeks. One Flutter or React Native app covers both platforms, with login, forms, photos, push notifications, offline saving for weak-signal areas and an admin panel. We publish it on Google Play and the App Store under your developer accounts." },
+    { question: "Can you build a dashboard for our processing unit?", answer: "Yes. A dashboard can show procurement cost by count, yield by batch, cold store stock ageing, containers pending and buyer receivables on one phone-friendly screen, updated automatically from your software, Tally or spreadsheets. Smaller dashboards fit within the custom software starting price of ₹60,000." },
+    { question: "How do we pay you?", answer: "Payments are accepted only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in Indian rupees. We do not use any payment gateway for our own fees. Payments follow milestones in the written quote, and each one is acknowledged." },
+    { question: "Do you build software for port agents and transporters?", answer: "Yes. Vessel and cargo job files, document uploads, milestone updates with customer messages, truck trip sheets with weighbridge and POD photos, job costing and billing are all standard. We connect to official systems only where you already have authorised, documented access." },
+    { question: "How long will a project take?", answer: "Custom software usually takes six to twelve weeks, AI automation two to four weeks, online stores four to eight weeks and websites one to five weeks. The written schedule accounts for sample documents, approvals and any account verification." },
+    { question: "Can AI read our invoices and packing lists?", answer: "Yes, in most cases. An AI step can read PDFs or photos of bills, purchase orders, packing lists and lab reports and fill a checking sheet or your software. Staff confirm the extracted fields before they are saved. AI automation starts from ₹40,000." },
+    { question: "Can you make a website for our KG basin or industrial services firm?", answer: "Yes. We build English capability websites with services, equipment, safety credentials and project types described factually, plus RFQ forms that reach the right person. We never invent client names or claims; only details you can verify go on the site." },
+    { question: "Will we own the software and accounts?", answer: "Yes. Domain, hosting, cloud, WhatsApp Business and payment gateway accounts, and the code repository, are registered to your business wherever possible. You receive every credential and a short technical guide at handover." },
+    { question: "What is included in free maintenance?", answer: "Five months of maintenance after launch: bug fixes, small changes, security and dependency updates, backups, uptime monitoring and speed checks. After that, plans start from ₹8,000 a month, or you can pay per change." },
+    { question: "Can you sell Uppada sarees or Kakinada kaja online?", answer: "Yes. Stores start from ₹50,000 with product pages, UPI and card checkout through a gateway account in your name, courier integration and WhatsApp order updates. We plan detailed saree photos and care notes, and clear shipping limits for sweets." },
+    { question: "How long before SEO brings results in Kakinada?", answer: "Local visibility can improve within weeks of technical fixes and an optimised Google Business Profile, since competition in Kakinada is moderate. National product searches usually need three to six months or more. We report monthly and never guarantee rankings." },
+    { question: "Can the software be in Telugu?", answer: "Yes. Screens, messages and website pages can be in Telugu, English or both, with Telugu text written or reviewed by a native speaker you approve. AI agents are tested on Telugu and mixed-language messages before launch." },
+    { question: "Do you provide on-site IT support in Kakinada?", answer: "No. We support the software, websites and automations we build, remotely. Computers, printers, CCTV and office networks need a local technician. Many clients use a local hardware vendor alongside us." },
+    { question: "How do we start?", answer: "Message us on WhatsApp or use the contact page with a short description and a few sample documents, such as a purchase bill or job sheet. We reply seven days a week, schedule a call and send an itemised quote in about two working days." },
+    { "question":"What should we send before asking for a quote?","answer":"A short description of the problem, three to five sample documents with private details hidden, the number of people who will use the system and a rough budget. Voice notes in Telugu or English on WhatsApp are fine. From that, we send an itemised quote in about two working days and point out anything likely to push the cost up." },
+    { "question":"Can we start with a small first phase?","answer":"Yes, and we often recommend it. A Kakinada processor might first digitise procurement slips and agent payments, then add dispatch and export paperwork in a second phase once staff are comfortable. Each phase has its own quote and milestones, and the code is written so later phases extend it instead of replacing it." },
+  ],
+  nearby: ["kakinada", "rajahmundry", "visakhapatnam", "eluru", "bhimavaram", "tadepalligudem", "vizianagaram", "vijayawada"],
+};
+
+export default content;

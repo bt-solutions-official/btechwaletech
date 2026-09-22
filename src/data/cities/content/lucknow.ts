@@ -51,7 +51,7 @@ const lucknow: CityContent = {
     software: "Admission portals, vendor dashboards and field-staff apps for Lucknow institutes, contractors and distributors who have outgrown registers and Excel.",
     ai: "WhatsApp and website bots that answer fee, timing and stock questions in Hindi, log each lead and hand the serious ones to your staff.",
     data: "Sales, collection and branch reports pulled together into one dashboard that a Lucknow owner can check on a phone before leaving home.",
-    app: "Installable web apps for appointment booking, parent logins and repeat orders, with no Play Store approval to wait for.",
+    app: "Android and iOS apps for appointment booking, parent logins and repeat orders, built in Flutter or React Native and listed on both stores from ₹40,000.",
     maintenance: "Updates, backups, security fixes and speed checks at no cost for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const phagwara: CityContent = {
     software: "Order, inventory and dispatch systems for auto-parts units, and rent, room and fee tools for PG owners and coaching institutes.",
     ai: "WhatsApp assistants that answer room, fee, part-number and price-list questions in Punjabi, Hindi or English, day and night, and pass real decisions to you.",
     data: "Dashboards for sales by dealer, rejection rates or room occupancy, so an owner in Phagwara or abroad can see the numbers on a phone.",
-    app: "Installable web apps for dealer ordering, hostel check-in or attendance that open from a link and work on any phone.",
+    app: "Android and iOS apps for dealer ordering, hostel check-in or attendance, published on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Updates, backups, security and small edits free for five months after launch, then from ₹8,000 a month if you want us to keep looking after it.",
   },
   whyUsIntro:

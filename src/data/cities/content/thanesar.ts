@@ -51,7 +51,7 @@ const thanesar: CityContent = {
     software: "Booking registers for dharamshalas, attendance and fee tools for coaching centres, and purchase ledgers for grain traders.",
     ai: "WhatsApp replies that share room availability, batch timings or rates instantly, even during the Gita Mahotsav rush.",
     data: "Dashboards of bookings by season, admissions by course or grain purchases by week, built from records you already keep.",
-    app: "Installable web apps for hostel bookings, student notices or clinic appointments without an app store download.",
+    app: "Android and iOS apps for hostel bookings, student notices or clinic appointments near Kurukshetra, from ₹40,000 in six to ten weeks.",
     maintenance: "No upkeep charge in the first five months; later, plans begin at ₹8,000 monthly and cover backups, patches and small edits.",
   },
   whyUsIntro:

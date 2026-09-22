@@ -50,7 +50,7 @@ const kohima: CityContent = {
     software: "Record-keeping tools for contractors, suppliers and NGOs handling project files, bills and staff attendance across districts.",
     ai: "WhatsApp flows that answer room availability, fees or opening hours and hand anything unusual to you with the chat attached.",
     data: "Booking, sales and donor records turned into a simple dashboard you can check on your phone between meetings.",
-    app: "Installable web apps for church notices, school circulars or repeat orders that need no app store download.",
+    app: "Android and iOS apps for church notices, school circulars or repeat orders, listed on Google Play and the App Store and starting at ₹40,000.",
     maintenance: "Five months of free updates, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

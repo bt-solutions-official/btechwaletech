@@ -51,7 +51,7 @@ const vasaiVirar: CityContent = {
     software: "Order trackers, job-card systems and dealer portals for manufacturing galas in Waliv, Sativali and Gauraipada.",
     ai: "WhatsApp auto-replies and AI assistants that answer room availability, price and stock questions in Marathi, Hindi or English.",
     data: "Production, sales and booking data turned into simple dashboards you can check from home in Virar or on site in Waliv.",
-    app: "Installable web apps for repeat dealer orders, resort bookings and patient appointments without an app store listing.",
+    app: "Android and iOS apps for repeat dealer orders, resort bookings and patient appointments, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Content edits, backups, security updates and speed checks, free for five months after launch and ₹8,000 a month later.",
   },
   whyUsIntro:

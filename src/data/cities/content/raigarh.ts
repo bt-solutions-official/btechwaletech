@@ -51,7 +51,7 @@ const raigarh: CityContent = {
     software: "Vendor bill tracking, gate-pass and labour attendance tools for plant contractors, plus stock and dispatch registers for traders and transporters.",
     ai: "WhatsApp flows that tell customers about OPD hours, batch fees, spare-part stock or truck availability, with a staff member taking over when the question needs thought.",
     data: "Monthly dashboards linking work orders, invoices raised and payments received, so contractors know which plant owes them what at a glance.",
-    app: "Browser-installable apps for site supervisors, delivery drivers or hostel wardens that work offline for a while and sync once signal returns.",
+    app: "Android and iPhone apps for site supervisors, delivery drivers or hostel wardens that work offline for a while and sync once signal returns.",
     maintenance: "Upkeep free for the first five months, covering edits, patches, backups and monitoring; afterwards a plan from ₹8,000 per month if you want one.",
   },
   whyUsIntro:

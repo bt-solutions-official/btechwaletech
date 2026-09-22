@@ -50,7 +50,7 @@ const bhagalpur: CityContent = {
     software: "Loom, yarn and order registers for weaving units and wholesale traders, replacing notebooks that only the owner can read.",
     ai: "WhatsApp assistants that answer price and design questions in Hindi or English, share catalogues and log orders automatically.",
     data: "Simple dashboards showing sales by design, buyer and season, pulled from billing software and order sheets.",
-    app: "Installable web apps for coaching attendance, delivery tracking and dealer re-orders, without an app store listing.",
+    app: "Android and iPhone apps for coaching attendance, delivery tracking and dealer re-orders, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Catalogue updates, backups, security patches and uptime checks, free for five months and ₹8,000 a month after that.",
   },
   whyUsIntro:

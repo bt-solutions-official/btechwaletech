@@ -51,7 +51,7 @@ const karimnagar: CityContent = {
     software: "Quote, order and dispatch tools for granite processors and exporters, and billing or admission systems for colleges and rice mills.",
     ai: "WhatsApp assistants that share catalogues, OP timings or admission details in Telugu and English and hand real conversations to your staff.",
     data: "Dashboards that pull together dispatches, admissions or patient numbers so owners see the week's picture on one screen.",
-    app: "Installable web apps for staff attendance, quarry trip logs or student notices that work without an app store download.",
+    app: "Android and iOS apps for staff attendance, granite quarry trip logs or student notices, released on both app stores with prices from ₹40,000.",
     maintenance: "Free updates, backups, security patches and uptime checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

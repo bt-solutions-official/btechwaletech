@@ -50,7 +50,7 @@ const jalpaiguri: CityContent = {
     software: "Leaf intake registers, grower payment records and stock tracking for bought-leaf factories and small tea grower groups.",
     ai: "WhatsApp assistants that answer room availability, safari timing and tariff questions for Dooars stays and pass confirmed bookings to the owner.",
     data: "Dashboards that show leaf intake, made tea output, occupancy or sales by month, drawn from the registers you already keep.",
-    app: "Installable web apps for field staff to log leaf collection or for guests to see itineraries without an app store download.",
+    app: "Android and iOS apps for field staff logging tea leaf collection or for guests viewing Dooars itineraries, published on both stores.",
     maintenance: "Tariff and season changes, backups and security updates free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

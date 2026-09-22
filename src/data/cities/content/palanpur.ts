@@ -51,7 +51,7 @@ const palanpur: CityContent = {
     software: "Order, stock and dispatch tools for dairy suppliers, marble traders and GIDC units that currently run on registers and phone calls.",
     ai: "WhatsApp assistants that answer routine questions in Gujarati, Hindi or English and log every enquiry so none slip through.",
     data: "Sales, collection and inventory dashboards that let an owner see yesterday's numbers on a phone before opening the shop.",
-    app: "Installable progressive web apps for field sales, service visits and dealer orders across Banaskantha, without an app store listing.",
+    app: "Android and iOS apps for field sales, service visits and dealer orders across Banaskantha, released on Google Play and the App Store.",
     maintenance: "Five months of free fixes, updates and backups after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

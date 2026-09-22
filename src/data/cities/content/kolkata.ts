@@ -51,7 +51,7 @@ const kolkata: CityContent = {
     software: "Order books, dealer portals and stock tools for wholesale houses and distributors that still run on ledgers and phone calls.",
     ai: "WhatsApp assistants that answer rate, stock and appointment questions in Bengali, Hindi or English, and pass the unusual ones to your team.",
     data: "Tally, Excel and ledger data turned into sales and receivables dashboards an owner can check between meetings on Brabourne Road.",
-    app: "Installable web apps for salesmen, field staff and customers that work on ordinary Android phones without a Play Store listing.",
+    app: "Android and iOS apps for salesmen, field staff and customers on ordinary phones, published on Google Play and the App Store, starting at ₹40,000.",
     maintenance: "Content changes, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month thereafter.",
   },
   whyUsIntro:

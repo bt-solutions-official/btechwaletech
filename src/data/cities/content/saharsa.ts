@@ -51,7 +51,7 @@ const saharsa: CityContent = {
     software: "Purchase registers, grading records and payment ledgers for makhana and grain traders who buy from many small growers.",
     ai: "WhatsApp replies that share makhana grades, rates and dispatch times, or clinic and school timings, in Hindi around the clock.",
     data: "Dashboards of purchases, stock by grade, sales by state and pending dues, built from your registers and spreadsheets.",
-    app: "Installable web apps for patient appointments, coaching batch updates or retailer orders, with no app store download.",
+    app: "Android and iPhone apps for patient appointments, coaching batch updates or retailer orders, listed on both app stores in six to ten weeks.",
     maintenance: "Free upkeep for five months after launch, then maintenance from ₹8,000 a month, including backups and security updates.",
   },
   whyUsIntro:

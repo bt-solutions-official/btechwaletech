@@ -51,7 +51,7 @@ const balurghat: CityContent = {
     software: "Stock, paddy purchase and dispatch registers for rice mills and grain traders who still balance everything in handwritten books.",
     ai: "WhatsApp replies that answer rate, stock, fee or appointment questions in Bengali and save every enquiry to a sheet.",
     data: "Simple dashboards for mill output, mandi purchases, dues and seasonal sales, readable on a phone.",
-    app: "Installable web apps for school notices, clinic tokens or trader order books, with no app store step.",
+    app: "Android and iOS apps for school notices, clinic tokens or trader order books, starting at ₹40,000 and listed on both Google Play and the App Store.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:

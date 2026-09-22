@@ -51,7 +51,7 @@ const bharatpur: CityContent = {
     software: "Purchase, stock and dispatch tools for oil mills and traders who track seed arrivals, oil output and khal sales by hand.",
     ai: "WhatsApp replies that share room rates, park timings, oil prices or OPD schedules in Hindi and English and pass real bookings to you.",
     data: "Seasonal dashboards for mills, hotels and clinics, so you can see mustard arrivals, occupancy or patient numbers week by week.",
-    app: "Installable web apps for guide scheduling, order booking or staff attendance that run in a browser without an app store download.",
+    app: "Android and iOS apps for guide scheduling at Keoladeo, order booking or staff attendance, released on both stores in six to ten weeks.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

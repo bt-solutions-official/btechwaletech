@@ -50,7 +50,7 @@ const warangal: CityContent = {
     software: "Trade ledgers, lot trackers, dealer portals and job records for traders, cold storage operators and textile park suppliers.",
     ai: "WhatsApp assistants that answer rate, stock, fee or appointment questions in Telugu or English and pass the rest to your staff.",
     data: "Arrivals, sales and collection figures pulled into dashboards the owner can check before the market opens.",
-    app: "Installable web apps for student portals, trader ordering and appointment booking with no app store fees.",
+    app: "Android and iOS apps for student portals, trader ordering and appointment booking, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

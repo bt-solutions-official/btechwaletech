@@ -1,0 +1,276 @@
+import type { CityContent } from "../../cities/types";
+
+const content: CityContent = {
+  slug: "it-services--sikkim--gangtok",
+  updated: "2026-09-21",
+  geo: { lat: 27.3314, lng: 88.6138 },
+  meta: {
+    title: "Freelance Software Developers in Gangtok, Sikkim",
+    description:
+      "Looking for a software development company in Gangtok? Hire three freelance engineers for travel agency ERPs, hotel booking, AI chat, apps and SEO. From ₹10,000.",
+    keywords: [
+      "Android app development Gangtok",
+      "iOS app development Gangtok",
+      "mobile app developers Gangtok",
+      "iPhone app developers Gangtok",
+      "software development company in Gangtok",
+      "IT company in Gangtok",
+      "IT solutions Gangtok",
+      "freelance software developer Gangtok",
+      "travel agency software Gangtok",
+      "tour package costing software Sikkim",
+      "hotel booking engine Gangtok",
+      "website designer MG Marg Gangtok",
+      "web application development Gangtok",
+      "AI chatbot for travel agents Gangtok",
+      "WhatsApp Business API Gangtok",
+      "restaurant ordering app Gangtok",
+      "school management software Gangtok",
+      "SEO services Gangtok",
+      "website developer near me Tadong",
+      "IT support Gangtok",
+      "cloud hosting Gangtok business",
+      "गंगटोक में सॉफ्टवेयर डेवलपर",
+      "Gangtok ma software banaune manche",
+    ],
+  },
+  hero: {
+    eyebrow: "Gangtok · East Sikkim · Freelance software team",
+    h1: "Freelance software developers in Gangtok for travel desks, hotels and growing local businesses",
+    lede:
+      "Comparing a software development company in Gangtok with a freelance option? BtechWaleTech is a freelance group of three engineers working remotely from India. For Gangtok we build tour package and vehicle software, hotel booking engines, AI assistants that handle Nathu La and Tsomgo questions, school and restaurant systems, dashboards, apps and SEO websites.",
+    pills: ["Tour package builders", "Hotel booking engines", "AI chat for travel desks", "Custom software from ₹60,000", "Replies 7 days a week"],
+  },
+  quickAnswer:
+    "In Gangtok, BtechWaleTech, a freelance group of three remote engineers, builds custom software such as travel agency systems from ₹60,000 (6 to 12 weeks), AI and WhatsApp automation from ₹40,000 (2 to 4 weeks), online stores from ₹50,000 and websites from ₹10,000 (1 to 2 weeks). Quotes are itemised in about two working days, with five months of free maintenance.",
+  snapshot: [
+    { label: "Role", value: "Capital of Sikkim and headquarters of Gangtok district, with the state secretariat, courts and most head offices" },
+    { label: "Commercial heart", value: "MG Marg, Lal Bazaar, New Market, Tibet Road and the Deorali and Tadong corridors along NH10" },
+    { label: "Tourism base", value: "Starting point for Tsomgo Lake, Nathu La, Baba Mandir, Rumtek, and permit-based trips to Lachung, Lachen and Yumthang" },
+    { label: "Residential and growth areas", value: "Development Area, Arithang, Sichey, Tadong, Ranipool, Burtuk, Balwakhani and the 5th and 6th Mile belt" },
+    { label: "Education", value: "Sikkim University, Sikkim Government College at Tadong, several schools and professional institutes" },
+    { label: "Transport", value: "Pakyong Airport about an hour away; Bagdogra airport and New Jalpaiguri station reached via NH10 through Siliguri" },
+    { label: "Languages", value: "Nepali in daily business, with English, Hindi, Bhutia and Lepcha all common" },
+    { label: "Business mix", value: "Hotels, travel agencies, taxi operators, restaurants, retail, government contractors, banks, schools and clinics" },
+    { label: "Digital behaviour", value: "Tourists compare packages on phones months ahead; locals order, pay and chat through WhatsApp and UPI" },
+  ],
+  serviceNotes: {
+    web: "Quick-loading sites for Gangtok hotels, travel desks, cafés and clinics, laid out for visitors who arrive from Bagdogra with a phone and a patchy roaming connection.",
+    seo: "Visibility for searches like “hotel near MG Marg with view”, “Gangtok to Nathu La package” and “best momos Gangtok”, plus Google Business Profile and AI-answer-ready pages.",
+    ecommerce: "Stores for Gangtok retailers selling tea, cardamom, thangka, carpets and local foods, with UPI and card checkout through a payment gateway account in the seller's own name.",
+    software: "Tour package costing, hotel voucher and vehicle roster systems for travel agencies, plus billing and project tools for contractors and suppliers in the capital.",
+    ai: "AI assistants that explain permits, day-trip timings and package inclusions at midnight, collect traveller details and pass warm leads to the booking desk.",
+    data: "Dashboards showing packages sold by route, vehicle utilisation, hotel occupancy and seasonal revenue for Gangtok's travel and hospitality groups.",
+    app: "Android and iOS apps from ₹40,000 for Gangtok travel agencies, restaurants and schools: itinerary and driver apps, food ordering and parent updates, published on Google Play and the App Store.",
+    maintenance: "Backups, security updates and uptime checks through the spring and autumn rush, free for five months after launch, then from ₹8,000 a month.",
+  },
+  whyUsIntro:
+    "Gangtok businesses often choose between a small local IT shop focused on hardware and a relative's contact in Siliguri or Kolkata. A freelance group of engineers offers a third route: custom software written for your workflow, starting prices in writing, direct access to the people coding it, and support on WhatsApp every day.",
+  pricingIntro:
+    "Gangtok's rents and seasonal cash flow make every rupee of overhead count. Our starting prices below carry no office costs. The final figure depends on modules, users, integrations and languages, and you see an itemised quote before any work or payment begins.",
+  sections: [
+    {
+      id: "gangtok-freelance-vs-company",
+      heading: "Freelance developers vs a software development company in Gangtok: how do they differ?",
+      paragraphs: [
+        "Freelance developers give Gangtok businesses direct access to the engineers, lower overheads and flexible phasing, while a software development company in Gangtok typically offers an office you can visit, hardware and networking services and larger teams. The right choice depends on whether you need custom software written or physical IT work done.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have a Gangtok office, and we do not install CCTV, printers or networks. What we do is write software: travel agency systems, booking engines, web applications, mobile apps and PWAs, AI agents and WhatsApp automation, dashboards, ecommerce stores and SEO websites, with hosting and maintenance included.",
+        "For a hotel on MG Marg or a travel desk in Tadong, that usually means faster decisions and lower cost than a larger provider, as long as you are comfortable working over video calls. Our <a href='/about/'>about page</a> introduces the three of us, and the <a href='/it-services/sikkim/'>Sikkim hub</a> covers the wider state.",
+      ],
+      list: [
+        "Choose a freelance group for custom software, apps, automation and SEO",
+        "Choose a local IT shop for hardware, networking and on-site repairs",
+        "Always keep code, domain and data in your own name",
+      ],
+    },
+    {
+      id: "gangtok-travel-agency-software",
+      heading: "Travel agency software for Gangtok tour operators",
+      paragraphs: [
+        "Travel agency software for Gangtok tour operators builds package quotes from hotels, sightseeing days and vehicles, tracks bookings and advance payments, issues hotel vouchers and itineraries, and schedules drivers for Tsomgo, Nathu La, North Sikkim and Pelling trips, replacing the rate sheets and WhatsApp threads most agencies still rely on.",
+        "A typical Gangtok package mixes city sightseeing, a day trip to Tsomgo Lake and Baba Mandir, two nights in Lachung or Lachen, and perhaps Pelling or Darjeeling on the way out. Pricing changes with season, vehicle type and hotel category. We build costing screens where staff choose each element and the system calculates margin, then produces a branded itinerary PDF for the traveller.",
+        "Back-office modules track each booking's hotel confirmations, permit document status, driver assignment, advance received and balance due. A simple driver app shows the day's pickups from MG Marg or hotels in Development Area, with guest names and phone numbers.",
+        "This is custom software from ₹60,000, usually delivered in phases so costing and itineraries go live before the season, and driver scheduling follows.",
+      ],
+    },
+    {
+      id: "gangtok-hotel-booking",
+      heading: "Hotel booking engines and guest messaging for Gangtok properties",
+      paragraphs: [
+        "A hotel booking engine lets a Gangtok property take confirmed reservations with an advance on its own website, instead of paying commission on every OTA booking; paired with automated WhatsApp messages, it also handles pre-arrival directions, check-in times and checkout reminders without front-desk calls.",
+        "Many Gangtok hotels are compact buildings on steep roads, and guests often struggle to find them. Pre-arrival messages with a map pin, parking notes and the nearest taxi drop point save a lot of phone calls. We build engines with room types, seasonal rates, meal plans, advance payment by UPI or card into the hotel's own gateway account, and confirmation emails and messages.",
+        "If the hotel sells rooms on OTAs through a channel manager with an open API, we sync availability; otherwise we set up a request-to-book flow that staff confirm, which avoids double bookings. Owners get a monthly view of direct versus OTA bookings, which shows whether the effort is paying off.",
+      ],
+    },
+    {
+      id: "gangtok-ai-assistants",
+      heading: "Can an AI assistant answer Nathu La and Tsomgo questions for your desk?",
+      paragraphs: [
+        "Yes, within limits. An AI assistant trained on a Gangtok travel desk's own information can answer the questions that arrive hundreds of times each season, such as which documents a Nathu La permit needs, what time Tsomgo trips leave, what a North Sikkim package includes and whether children are allowed, in English, Hindi or Nepali, any hour of the day.",
+        "We build these assistants on the WhatsApp Business API and website chat, with workflows in n8n or Python. The assistant reads only from a knowledge base the agency controls, so when permit rules or prices change you update one document. It collects names, dates, group size and ID documents, then hands the lead to a person with everything already filled in.",
+        "The limits matter in the mountains. Road closures and weather change by the hour, so the assistant never invents road status; staff post updates that it can relay. Cancellations, refunds and safety questions always go to a human. Automation starts from ₹40,000 and takes two to four weeks.",
+      ],
+    },
+    {
+      id: "gangtok-contractors-web-apps",
+      heading: "Web applications for Gangtok contractors, suppliers and offices",
+      paragraphs: [
+        "Web applications help Gangtok contractors, suppliers, NGOs and professional offices track projects, bills, stock, staff and documents in one shared system, which is useful in a capital where much of the private economy serves government departments and where teams move between the city and sites across four other districts.",
+        "A civil contractor might need a project tracker with work orders, measurement books, bills raised and payments received. A supplier might need an order and delivery log with outstanding dues by department. A chartered accountant or legal practice might want a client document portal. An NGO might need beneficiary records and field reports from villages.",
+        "We build these with Next.js and React for the interface, Node.js or Python for the server and PostgreSQL for data, hosted on AWS or similar providers with daily backups and role-based access. Forms can save drafts offline for staff working in low-signal areas. See our <a href='/services/web-development/'>web development page</a>.",
+      ],
+    },
+    {
+      id: "gangtok-schools-education",
+      heading: "School, college and coaching software for Gangtok institutions",
+      paragraphs: [
+        "School software for Gangtok institutions manages admissions, fees, attendance, exams, report cards and parent communication in one system, and saves the most time on fee reminders and circulars, which go out automatically on WhatsApp instead of being copied into diaries or phoned through one by one.",
+        "Gangtok has a strong school culture, and many families live in other towns or work away while children study in the capital. A parent portal with attendance, results and notices, plus online fee payment into the school's own gateway account, gives them visibility without calling the office.",
+        "Coaching centres preparing students for state jobs, medical and engineering entrances or college exams can add online test series with bilingual questions and result analysis. Colleges can use admission CRMs to track enquiries from across Sikkim and North Bengal. We usually start with the most painful module and grow from there.",
+      ],
+    },
+    {
+      id: "gangtok-restaurants-retail",
+      heading: "Ordering systems for Gangtok restaurants, cafés and retailers",
+      paragraphs: [
+        "An ordering system lets a Gangtok restaurant or café take orders from its own website or WhatsApp, with a menu, cart, delivery or pickup choice and UPI payment, so it keeps more margin than delivery apps allow and builds a repeat-customer list it actually owns.",
+        "MG Marg, Tibet Road and the Development Area are full of momo shops, bakeries, cafés and restaurants serving both locals and tourists. For dine-in, QR menus that load instantly help during busy evenings. For delivery, a simple order page with area-based charges and a kitchen screen works well. Retailers in Lal Bazaar and New Market can use the same idea for grocery or produce orders.",
+        "Small setups can start with a static website from ₹10,000 plus a WhatsApp catalogue. Full ordering with a kitchen dashboard is custom software or ecommerce, starting from ₹50,000 to ₹60,000 depending on features.",
+      ],
+    },
+    {
+      id: "gangtok-dashboards",
+      heading: "Dashboards for Gangtok hotel groups and travel companies",
+      paragraphs: [
+        "A dashboard for a Gangtok hotel group or travel company shows occupancy, average rate, packages sold by route, vehicle use, advances collected and balances due on one screen, refreshed automatically, so owners can compare seasons and properties without asking staff for Excel sheets.",
+        "Many Gangtok owners run more than one business: a hotel plus a travel desk, or properties in both Gangtok and Pelling. We pull data from booking engines, the travel software, Google Sheets or Tally exports into a single mobile-friendly view.",
+        "Useful questions it answers: which routes bring the best margin, which months need discounts, which agents or OTAs send guests who cancel, and which drivers or vehicles sit idle. Dashboards are usually part of a custom software project from ₹60,000.",
+      ],
+      list: [
+        "Occupancy and average room rate by property",
+        "Packages and revenue by route and season",
+        "Vehicle and driver utilisation",
+        "Advances, balances and overdue payments",
+      ],
+    },
+    {
+      id: "gangtok-seo-ai-visibility",
+      heading: "SEO and AI search visibility for Gangtok businesses",
+      paragraphs: [
+        "SEO for Gangtok businesses means appearing when travellers search specific needs, such as “hotel with Kanchenjunga view Gangtok” or “Gangtok to Lachung package price”, ranking on Google Maps for local searches like “bakery near MG Marg”, and being described accurately when people ask ChatGPT or Google's AI Overviews for recommendations.",
+        "We build pages around those specific searches, add structured data for hotels, tours, restaurants and local businesses, and keep the name, address and phone consistent across Google Business Profile and directories. Clear pages that answer one question each are what both search engines and AI assistants quote.",
+        "The SEO website plan from ₹20,000 builds 700+ pages, useful for travel operators covering dozens of routes and add-ons. Monthly SEO from ₹10,000 adds technical fixes, content and Search Console reporting. We never guarantee rankings, especially against big travel portals. Read more on our <a href='/services/seo-services/'>SEO services page</a>.",
+      ],
+    },
+    {
+      id: "gangtok-ecommerce",
+      heading: "Ecommerce for Gangtok shops selling Sikkim products nationwide",
+      paragraphs: [
+        "Ecommerce lets Gangtok shops sell Sikkim tea, large cardamom, local pickles, churpi, thangka paintings, carpets and handloom to customers across India, including tourists who bought something on MG Marg and want to reorder after going home.",
+        "We build stores from ₹50,000 with product pages, origin notes, shipping rules that allow for longer transit from Sikkim, and UPI and card checkout through a gateway account in the seller's name. For art and carpets, detailed photography and dimensions reduce returns; for food, shelf-life and packaging notes build trust.",
+        "Gift boxes and corporate orders during festivals are a useful extra channel. If orders are still few, a catalogue site with WhatsApp ordering is a sensible first step.",
+      ],
+    },
+    {
+      id: "gangtok-cloud-support",
+      heading: "Hosting and IT support that keeps Gangtok sites online",
+      paragraphs: [
+        "BtechWaleTech hosts Gangtok websites and apps on cloud servers outside the state with a content delivery network, daily backups, SSL and uptime monitoring, so a local power cut, landslide-related network outage or office computer failure does not take your booking system offline.",
+        "Deployments go through a staging copy first and can be rolled back quickly. Security updates, dependency upgrades and bug fixes are handled by the engineers who built the system. The first five months of maintenance after launch are free; plans afterwards start at ₹8,000 a month.",
+        "Support is on WhatsApp seven days a week, including weekends in peak season. For hardware and office networks, a local technician in Gangtok remains the right call.",
+      ],
+    },
+    {
+      id: "gangtok-software-cost",
+      heading: "How much does software development cost in Gangtok?",
+      paragraphs: [
+        "Software development for Gangtok businesses with BtechWaleTech starts at ₹60,000 for custom software such as travel agency systems or school portals, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website, with monthly SEO from ₹10,000 and maintenance from ₹8,000.",
+        "These are starting prices. A single-hotel booking engine sits near the lower end; a travel company's package builder, voucher system, driver app and dashboard is a larger build, often split into phases. Every quote is itemised so you can decide what to do now and what to leave for later.",
+        "Payments are in INR only, by UPI QR code or direct bank transfer, tied to milestones. Details are on our <a href='/pricing/'>pricing page</a>.",
+      ],
+    },
+    {
+      id: "gangtok-process-timeline",
+      heading: "How long does a Gangtok software project take?",
+      paragraphs: [
+        "Most Gangtok software projects take six to twelve weeks for custom systems, two to four weeks for AI automation, four to eight weeks for online stores and one to two weeks for static websites; tourism businesses should start by January for the spring season or by July for autumn.",
+        "We follow five steps: discovery call, itemised quote in about two working days, weekly builds on a test link you can open on your phone, training on a video call, and handover with source code, logins, hosting and domain in your name. Then the five months of free maintenance begin.",
+        "You can see sample work on our <a href='/portfolio/'>portfolio</a>, compare nearby towns such as <a href='/it-services/sikkim/rangpo/'>Rangpo</a> and <a href='/it-services/sikkim/singtam/'>Singtam</a>, or start with a message through the <a href='/contact/'>contact page</a>.",
+      ],
+    },
+    {
+      id: "gangtok-prepare-before-project",
+      heading: "What should a Gangtok business prepare before starting a software project?",
+      paragraphs: [
+        "Before starting a software project, a Gangtok business should prepare three things: a written list of the tasks that waste the most staff time, sample documents such as rate sheets, vouchers, invoices or registers, and a clear decision-maker who can answer questions each week. With those ready, scoping takes days rather than weeks and the quote is far more accurate.",
+        "For a travel desk, useful samples include last season's rate sheet, a typical itinerary, a hotel voucher and a list of vehicles with capacities. For a hotel, it is the room list, seasonal tariffs, cancellation policy and a few real guest messages. For a school, it is the fee structure, a report card and a sample circular. Real examples reveal rules that owners forget to mention in a first call.",
+        "It also helps to decide what success looks like. Maybe it is fewer missed enquiries in May, faster itinerary quotes, or knowing exactly which balances are overdue. Measurable goals keep the project small and focused, and they tell both sides when the work is done.",
+        "Finally, gather access details: domain registrar, current hosting, Google Business Profile, WhatsApp Business number and social pages. Lost logins are one of the most common delays we see, and recovering them can take longer than building the first screens.",
+      ],
+      list: [
+        "List the most time-consuming daily tasks",
+        "Collect real rate sheets, vouchers, invoices or registers",
+        "Name one person who decides and replies weekly",
+        "Recover domain, hosting and profile logins early",
+      ],
+    },
+    {
+      id: "gangtok-android-ios-apps",
+      heading: "Android and iOS app development in Gangtok: what should travel agencies, restaurants and schools build?",
+      paragraphs: [
+        "Gangtok travel agencies, restaurants and schools get the most value from Android and iOS apps that customers or staff open daily. With BtechWaleTech an app starts from ₹40,000 and takes six to ten weeks, built once in Flutter or React Native and published on Google Play and the Apple App Store with login, push notifications and an admin panel.",
+        "For a travel agency, the guest app is the itinerary in the traveller's pocket: hotel vouchers, driver name and vehicle number, pickup times from MG Marg, permit status for Tsomgo or North Sikkim, and a button to reach the desk. A matching driver app shows each day's duties. Restaurants and bakeries around Tibet Road and Development Area can run their own ordering app with saved addresses, loyalty points and UPI payment into their own gateway account, instead of paying high commissions. Schools can send attendance, homework, results and fee reminders through a parent app.",
+        "Visitors from Kolkata, Delhi and abroad often use iPhones, while local staff mostly carry Android phones, so both platforms matter. We design for Gangtok's patchy upper-road signal by caching key screens and syncing later. Developer accounts on both stores are created in your business name.",
+        "When a mobile website would do the job, we recommend that instead. Store updates for new Android and iOS releases in the first five months are included in the free maintenance.",
+      ],
+      list: [
+        "Traveller app: itinerary, vouchers, driver details, permits",
+        "Driver duty app for tour vehicles",
+        "Restaurant ordering and loyalty app",
+        "School parent app",
+      ],
+    },
+  ],
+  localities: [
+    { name: "MG Marg and Lal Bazaar", note: "The pedestrian heart of Gangtok with hotels, cafés, souvenir shops and the main produce market. Booking engines, QR menus, WhatsApp ordering and map visibility matter most to businesses here." },
+    { name: "Tibet Road and New Market", note: "Dense with budget hotels, travel desks and restaurants catering to tourists. Package builders, AI chat for enquiries and fast mobile sites help these small operators compete." },
+    { name: "Development Area", note: "A central residential and commercial area with hotels, offices, clinics and eateries. Service websites, appointment systems and local SEO bring steady customers from residents and visitors." },
+    { name: "Deorali", note: "Home to government offices, the ropeway station and the Namgyal Institute of Tibetology. Contractors, offices and nearby hotels benefit from project trackers and professional websites." },
+    { name: "Tadong", note: "A busy stretch along NH10 with colleges, offices, shops and residences. Education software, retail tools and neighbourhood search pages suit businesses here." },
+    { name: "Ranipool", note: "The entry point to Gangtok from the south, with transport operators, workshops and wholesale trade. Order apps, vehicle booking tools and receivables tracking are practical fits." },
+    { name: "Arithang and Sichey", note: "Residential neighbourhoods with schools, local shops and homestays. School portals, delivery ordering and homestay booking pages help businesses serving these communities." },
+    { name: "Burtuk and Balwakhani", note: "Quieter residential areas above the town centre with growing numbers of homestays and small businesses. Simple booking sites and Google Business Profiles make them easier to find." },
+    { name: "5th Mile and 6th Mile", note: "Growth areas along the national highway with offices, showrooms and new housing. Business web apps, inventory tools and service websites fit expanding firms." },
+    { name: "Rumtek and Sang", note: "Monastery and rural areas across the valley with homestays and cafés. Photo-led booking sites and route pages help visitors plan day trips from Gangtok." },
+    { name: "Zero Point and Palzor Stadium Road", note: "Central areas with offices, sports facilities and shops. Event booking pages, club membership tools and local listings support organisations here." },
+  ],
+  industries: [
+    { name: "Travel agencies and tour operators", need: "Package costing, itineraries, permits, hotel vouchers and vehicle scheduling in peak season", build: "Travel agency software, driver PWAs and AI assistants on WhatsApp" },
+    { name: "Hotels and homestays", need: "Direct bookings, guest directions and fewer commission payments", build: "Booking engines, pre-arrival messaging and channel reports" },
+    { name: "Taxi and vehicle operators", need: "Trip scheduling, driver rosters and advance payments from tourists", build: "Booking forms, roster tools and trip log apps" },
+    { name: "Restaurants and cafés", need: "Direct orders, QR menus and repeat customers without heavy app commissions", build: "Ordering websites, WhatsApp catalogues and kitchen dashboards" },
+    { name: "Contractors and suppliers", need: "Project billing, work orders, deliveries and payments due from departments", build: "Project trackers, order logs and receivables dashboards" },
+    { name: "Schools and coaching", need: "Fees, attendance, results and parent communication for families across Sikkim", build: "School ERPs, parent portals and bilingual test series" },
+    { name: "Retail and local products", need: "Selling tea, spices, crafts and textiles beyond tourists' visits", build: "Ecommerce stores with UPI and card checkout and shipping integration" },
+    { name: "Clinics and diagnostics", need: "Appointments, reminders and report delivery for patients from distant villages", build: "Booking systems, reminder automation and report portals" },
+  ],
+  faqs: [
+    { question: "Is BtechWaleTech located in Gangtok?", answer: "No. We are a freelance group of three engineers working remotely from India, and we have no office in Gangtok. Projects run on WhatsApp, phone and video calls, with weekly test links so you can check progress from your own phone. You speak directly with the engineers writing the code." },
+    { question: "How are payments made?", answer: "Payments are made only in INR, by scanning our UPI QR code or by direct bank transfer to our bank account. Work is split into milestones tied to working deliverables, and every payment gets an invoice. For your guests or customers, we set up a payment gateway account in your own name." },
+    { question: "How much does travel agency software cost?", answer: "Custom travel agency software starts at ₹60,000. Package costing with itinerary PDFs sits near that point; adding hotel vouchers, permit document tracking, driver apps and dashboards expands the scope. We send an itemised quote in about two working days and can split it into phases." },
+    { question: "How long does it take?", answer: "Six to twelve weeks for custom software, two to four weeks for AI automation, four to eight for an online store, three to five for an SEO website and one to two for a static website. Tourism businesses should plan to launch before the spring or autumn season." },
+    { question: "Can the chatbot reply in Nepali and Hindi?", answer: "Yes. The assistant can reply in Nepali, Hindi and English, following the traveller's language. It only uses information you approve, never invents road or weather status, and passes refunds, cancellations and safety questions to your staff." },
+    { question: "Will the software handle permit documents for North Sikkim?", answer: "Yes, on the document side. It collects each traveller's ID and photos, flags anything missing and groups documents per trip, so staff can file permits quickly. We do not file permits or connect to government portals unless an official integration exists." },
+    { question: "Who owns the code and customer data?", answer: "You do. The domain, hosting, source code, database and all accounts are in your name or transferred at handover. Customer data stays with you, and you can move to another developer whenever you wish without losing anything." },
+    { question: "What does the free maintenance include?", answer: "Five months after launch at no charge: bug fixes, content updates, security patches, backups, uptime checks and performance monitoring. After that, maintenance starts at ₹8,000 a month, or you can pay only for specific changes. We reply on WhatsApp seven days a week." },
+    { question: "When will SEO start bringing enquiries?", answer: "Usually within three to six months for specific searches and map results, longer for broad terms. Big travel portals dominate generic searches, so we focus on routes, hotel features and local searches where a Gangtok business can win. We do not guarantee rankings." },
+    { question: "How much does an Android and iOS app cost in Gangtok?", answer: "Android and iOS apps start from ₹40,000 and usually take six to ten weeks. We build in Flutter or React Native and publish on Google Play and the Apple App Store under your developer accounts. Login, forms, push notifications and an admin panel are included in the starting plan; links to travel or booking software are itemised separately." },
+    { question: "Can you fix our office computers or network?", answer: "No. We are remote software engineers, so we do not repair hardware, install CCTV or set up office networks. A local technician in Gangtok is the right choice for that. We handle websites, software, apps, automation, hosting and online support." },
+    { question: "Do you build websites for small cafés and homestays?", answer: "Yes. A static website starts at ₹10,000 and includes mobile-friendly design, WhatsApp and call buttons, an enquiry form, basic SEO and a sitemap. It is a good first step, and it can later grow into online ordering or a booking engine." },
+    { question: "Which is the best IT company in Gangtok?", answer: "There is no single answer. Gangtok has IT providers focused on hardware and government work, web designers, and remote teams like ours. Choose based on relevant past work, ownership terms, itemised pricing, support after launch and who actually writes the code." },
+    { question: "How do we begin?", answer: "Send a WhatsApp message or use the <a href='/contact/'>contact page</a> with a short note on your business and what you need. We usually follow up with a call, then send a written scope and itemised quote in about two working days. Work starts after approval and the first milestone payment." },
+  ],
+  nearby: ["siliguri", "darjiling", "jalpaiguri", "kishanganj", "raiganj", "guwahati"],
+};
+
+export default content;

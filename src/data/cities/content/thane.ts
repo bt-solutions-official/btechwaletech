@@ -51,7 +51,7 @@ const thane: CityContent = {
     software: "Booking systems, society management tools, dealer portals and job trackers for Wagle Estate firms and service businesses.",
     ai: "WhatsApp assistants that confirm appointments, answer class and menu questions in Marathi, Hindi or English, and route real enquiries to your team.",
     data: "Dashboards that bring together bookings, sales, leads and collections across branches, so owners stop chasing staff for numbers every evening.",
-    app: "Installable web apps for class schedules, member logins and repeat orders that residents can add to their home screen.",
+    app: "Android and iPhone apps for class schedules, member logins and repeat orders for Thane residents, listed on Google Play and the App Store.",
     maintenance: "Five months of free updates, fixes, backups and speed checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

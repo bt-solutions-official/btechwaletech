@@ -51,7 +51,7 @@ const sivakasi: CityContent = {
     software: "Job cards, proof approvals, plate and paper stock records and dispatch tracking built for print units.",
     ai: "WhatsApp assistants in Tamil or English that collect print specs, quantities and deadlines before your estimator steps in.",
     data: "Dashboards that show seasonal order load, paper consumption and dues by customer ahead of the calendar and diary rush.",
-    app: "Installable web apps for sales agents booking calendar and diary orders from shops across South India.",
+    app: "Android and iOS apps for sales agents booking calendar and diary orders from shops across South India, published on Google Play and the App Store.",
     maintenance: "Free updates, fixes and backups for five months, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

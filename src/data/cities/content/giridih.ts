@@ -50,7 +50,7 @@ const giridih: CityContent = {
     software: "Dispatch, weighbridge, stock and billing tools for rolling mills, traders and transporters that still use paper registers.",
     ai: "WhatsApp replies that share today's rates, room availability or OPD timings in Hindi while you are busy on the floor.",
     data: "Production, dispatch and sales figures brought together in a dashboard you can check from your phone.",
-    app: "Installable web apps for school notices, coaching attendance or dharamshala bookings, without an app store download.",
+    app: "Android and iOS apps for school notices, coaching attendance or dharamshala bookings near Parasnath, available on Google Play and the App Store.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you need it.",
   },
   whyUsIntro:

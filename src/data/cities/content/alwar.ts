@@ -51,7 +51,7 @@ const alwar: CityContent = {
     software: "Dispatch logs, job cards and supplier portals for the fabricators, transporters and contractors who serve MIA and the Bhiwadi belt.",
     ai: "WhatsApp assistants that answer room rates, fee structures or product availability in Hindi while your staff handle walk-in customers.",
     data: "Sales, production and collection figures pulled into one phone-friendly dashboard instead of three registers and a diary.",
-    app: "Installable web apps for school notices, clinic tokens or dealer ordering that skip the app store entirely.",
+    app: "Android and iPhone apps for school notices, clinic tokens or dealer ordering, one codebase released to Google Play and the Apple App Store.",
     maintenance: "Five months of free updates, backups and security checks after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

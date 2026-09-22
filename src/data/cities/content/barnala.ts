@@ -51,7 +51,7 @@ const barnala: CityContent = {
     software: "Dealer, service and spare-parts systems for harvester makers, and arhtiya ledgers that replace thick bahi-khata registers at the grain market.",
     ai: "WhatsApp assistants that share spare-part availability, mandi arrival updates or visa-file checklists in Punjabi, Hindi or English and escalate to your staff.",
     data: "Season dashboards for machinery orders, dealer stock and service calls, so owners see what is selling in which district before the harvest starts.",
-    app: "Installable web apps for field mechanics, dealer order booking or student attendance that run on any Android phone without an app store.",
+    app: "Android and iOS apps for field mechanics, dealer order booking or student attendance, built once and published to Google Play and the App Store from ₹40,000.",
     maintenance: "Price list edits, backups, updates and uptime checks free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

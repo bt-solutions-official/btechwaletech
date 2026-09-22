@@ -50,7 +50,7 @@ const aurangabadBihar: CityContent = {
     software: "Labour, material and billing registers for contractors, and fee records for schools that still run on paper.",
     ai: "WhatsApp replies in Hindi for fees, stock, timings and site updates, with any unusual query handed to a person.",
     data: "Dashboards of admissions, orders, labour costs or site progress that an owner can check on a phone in the evening.",
-    app: "Installable web apps for school parents or site supervisors, opened from a link with no app store download.",
+    app: "Android and iPhone apps for school parents or site supervisors, available on both Google Play and the App Store, with builds starting at ₹40,000.",
     maintenance: "Five free months of fixes, edits and backups after launch, then maintenance from ₹8,000 a month if you wish.",
   },
   whyUsIntro:

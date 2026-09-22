@@ -50,7 +50,7 @@ const nanded: CityContent = {
     software: "Admission systems, dealer portals, stock and billing tools for Nanded classes, distributors and agri businesses that have outgrown registers.",
     ai: "WhatsApp auto-replies and AI assistants that handle routine questions about rooms, batches, fees or stock, and pass anything unusual to a person.",
     data: "Sales, admissions or procurement data turned into simple dashboards, so you can see what sold, what is pending and who owes what.",
-    app: "Installable web apps for students, patients, field staff and pilgrims, usable on basic Android phones without an app store.",
+    app: "Android and iOS apps for students, patients, field staff and pilgrims visiting the gurdwara, usable on basic phones, from ₹40,000 on both stores.",
     maintenance: "Content changes, backups, security updates and speed checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

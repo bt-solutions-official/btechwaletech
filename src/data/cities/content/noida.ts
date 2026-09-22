@@ -51,7 +51,7 @@ const noida: CityContent = {
     software: "MVPs, SaaS dashboards, vendor portals and internal tools for startups and SMEs that want working software without an agency retainer.",
     ai: "AI agents and WhatsApp bots that qualify leads, answer support questions and draft documents using your own data, with humans in the loop.",
     data: "Dashboards and data pipelines for sales, production and support metrics, built on your existing sheets, CRMs or databases.",
-    app: "Progressive web apps for society management, field service and delivery teams that install from the browser without app store approvals.",
+    app: "Android and iOS apps for society management, field service and delivery teams, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Dependency updates, security patches, backups and content changes free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

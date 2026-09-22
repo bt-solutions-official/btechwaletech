@@ -50,7 +50,7 @@ const motihari: CityContent = {
     software: "Order books, stock registers and billing tools for wholesalers, button units and border traders who still rely on paper and calls.",
     ai: "WhatsApp assistants answering admission, appointment and stock questions in Hindi or English and handing real deals to a person.",
     data: "Dashboards for admissions, patient visits, sales or orders that owners can read on a phone.",
-    app: "Installable web apps for students, delivery staff or field agents, with no app-store listing needed.",
+    app: "Android and iOS apps for students, delivery staff or field agents, starting at ₹40,000 and listed on both Google Play and the App Store.",
     maintenance: "No upkeep charges for five months, then support from ₹8,000 a month or on a per-change basis for quieter businesses.",
   },
   whyUsIntro:

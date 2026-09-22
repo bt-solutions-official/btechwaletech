@@ -51,7 +51,7 @@ const santipur: CityContent = {
     software: "Loom, yarn and job-work registers for mahajans who give work to dozens of weavers and still track it in khatas.",
     ai: "WhatsApp flows that send the latest design photos, collect wholesale quantities and log every retailer enquiry, answered in Bengali or English.",
     data: "Monthly views of which designs, counts and colours sold, and which retailers are overdue, built from the sales records you already keep.",
-    app: "Installable web apps for order-taking at the haat or for weavers to report finished pieces, with no app store download needed.",
+    app: "Android and iPhone apps for order-taking at the haat or for weavers reporting finished pieces, published on Google Play and the App Store.",
     maintenance: "Five months of free updates after launch, including new design uploads and price edits, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

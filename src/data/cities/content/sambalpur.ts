@@ -51,7 +51,7 @@ const sambalpur: CityContent = {
     software: "Order, job and vehicle tracking tools for contractors and transporters working around the coalfields and the Hirakud plant.",
     ai: "WhatsApp flows that share catalogues, fees or timings in Odia or English and pass real decisions to you with the chat attached.",
     data: "Stock, loom output and sales records pulled into a simple dashboard you can read on your phone.",
-    app: "Installable web apps for re-orders, student notices or patient bookings that need nothing from an app store.",
+    app: "Android and iOS apps for re-orders, student notices or patient bookings, released on both stores with builds starting at ₹40,000.",
     maintenance: "Free updates, backups, security fixes and uptime checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

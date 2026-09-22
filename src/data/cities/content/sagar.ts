@@ -50,7 +50,7 @@ const sagar: CityContent = {
     software: "Order, dispatch and payment registers for mills, agri-equipment makers and wholesale traders who still work from ledgers.",
     ai: "WhatsApp replies that answer fee, admission, OPD or price questions in Hindi, day and night, while your staff focus on walk-ins.",
     data: "Production, sales and collection records turned into a simple dashboard an owner can read on a phone.",
-    app: "Installable web apps for student attendance, hostel notices, clinic tokens or dealer orders, with no app store needed.",
+    app: "Android and iOS apps for student attendance, hostel notices, clinic tokens or dealer orders, released on Google Play and the App Store.",
     maintenance: "Updates, backups and security checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -89,7 +89,7 @@ const sagar: CityContent = {
         "With a central university, engineering and medical colleges and a steady stream of students preparing for government jobs, defence and police recruitment, Sagar has a large student economy. Coaching institutes, libraries with study seats, hostels, PGs, mess services, bookshops and stationery shops all compete for the same students, and most of those students choose by searching on their phones.",
         "A coaching institute needs more than a banner with a phone number. We build course pages with syllabus coverage, batch timings, fees, faculty details and a clear enquiry form that sends the student's name, course and preferred batch straight to WhatsApp. Demo-class booking and downloadable schedules help parents in other towns decide.",
         "Hostels and PGs need honest photos, room types, rent, food arrangements, rules, distance from the university and colleges, and a way to check vacancies. Self-study libraries benefit from seat availability and monthly plans on a single page. We avoid invented results and exaggerated selection claims, since students in a small city compare notes and trust is lost quickly.",
-        "For larger institutes, we also build simple web apps for attendance, test scores and fee reminders, starting from ₹60,000. Parents can check progress on their phones without installing anything from an app store.",
+        "For larger institutes, we also build simple web apps for attendance, test scores and fee reminders, starting from ₹60,000. Parents can check progress through an Android and iOS app, from ₹40,000 on Google Play and the App Store.",
       ],
     },
     {

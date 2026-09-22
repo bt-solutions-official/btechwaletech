@@ -50,7 +50,7 @@ const palakkad: CityContent = {
     software: "Job-card, vendor and dispatch tools for Kanjikode suppliers and purchase-and-milling registers for rice mills.",
     ai: "WhatsApp assistants that reply in Malayalam or English about stock, admissions or appointments, and pass real leads to your staff.",
     data: "Dashboards showing paddy procurement, milling output, vendor invoices or clinic bookings in one view.",
-    app: "Installable web apps for field sales teams, maintenance technicians or students checking schedules, without app store costs.",
+    app: "Android and iPhone apps for field sales teams, maintenance technicians or students checking schedules, published on both stores from ₹40,000.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month or per change.",
   },
   whyUsIntro:

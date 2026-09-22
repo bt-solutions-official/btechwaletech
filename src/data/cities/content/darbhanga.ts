@@ -51,7 +51,7 @@ const darbhanga: CityContent = {
     software: "Order books, stock registers and student management tools for traders, processors and institutes that have outgrown notebooks.",
     ai: "WhatsApp replies that answer routine questions on rates, admissions and OPD timings, and hand real leads to your staff.",
     data: "Procurement, stock and sales dashboards for makhana and agri businesses, visible on a phone at the godown.",
-    app: "Installable web apps for home-delivery orders, test series and appointment booking, with no app store needed.",
+    app: "Android and iPhone apps for home-delivery orders, test series and appointment booking, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security fixes for five months, then from ₹8,000 a month or pay per change.",
   },
   whyUsIntro:

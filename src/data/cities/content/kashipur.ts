@@ -51,7 +51,7 @@ const kashipur: CityContent = {
     software: "Gate pass, dispatch, weighbridge and maintenance logs for units in the industrial estates, built around your real process.",
     ai: "WhatsApp assistants that sort dealer enquiries, admission questions and hotel bookings in Hindi or English before a person steps in.",
     data: "Dashboards for daily production, reel or batch output, dispatch and collections pulled from the sheets your staff already fill.",
-    app: "Installable web apps for field sales, security guards and contractors that run on basic Android phones.",
+    app: "Android and iOS apps for field sales, security guards and contractors that run on basic handsets, published on both stores from ₹40,000.",
     maintenance: "Free updates, fixes and backups for five months after launch; ongoing support starts from ₹8,000 a month.",
   },
   whyUsIntro:

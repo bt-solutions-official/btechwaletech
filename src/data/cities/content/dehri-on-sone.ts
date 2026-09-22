@@ -51,7 +51,7 @@ const dehriOnSone: CityContent = {
     software: "Truck trip logs, material dispatch registers and party-wise ledgers for transporters, sand and aggregate suppliers and wholesale traders.",
     ai: "WhatsApp auto-replies in Hindi for rates, routes, doctor timings and batch schedules, with bookings and payments passed to a real person.",
     data: "Phone dashboards showing trips per truck, pending payments per party or admissions per batch, updated from the sheets your staff already fill.",
-    app: "Installable web apps for drivers, munshis and site supervisors that save entries offline and sync when the network returns.",
+    app: "Android and iOS apps for drivers, munshis and site supervisors that save entries offline and sync when the network returns, from ₹40,000.",
     maintenance: "Five months of free updates, backups and small edits after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

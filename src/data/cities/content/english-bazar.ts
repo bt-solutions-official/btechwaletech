@@ -50,7 +50,7 @@ const englishBazar: CityContent = {
     software: "Booking registers, orchard and packing trackers, fee systems for coaching centres and order tools for wholesalers who still keep everything in khatas.",
     ai: "WhatsApp assistants that answer the flood of mango season questions about varieties, box sizes, prices and delivery dates, in Bengali or English, and hand over the rest.",
     data: "Simple dashboards for orders by variety and pin code, courier status, fee collections and enquiry sources, readable on a phone.",
-    app: "Installable progressive web apps for pre-booking mango boxes, student portals and clinic appointments, shared with customers as one link.",
+    app: "Android and iOS apps for pre-booking mango boxes, student portals and clinic appointments, published on both stores and starting at ₹40,000.",
     maintenance: "Updates, backups, security and seasonal changes free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

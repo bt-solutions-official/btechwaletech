@@ -51,7 +51,7 @@ const ongole: CityContent = {
     software: "Block registers, slab inventory, dispatch challans and buyer ledgers for granite units, and lot and payment tracking for seafood and tobacco traders.",
     ai: "WhatsApp assistants that answer timings, fees, stock or specification questions in Telugu or English and hand the conversation to your staff when needed.",
     data: "Production, dispatch, sales and collections pulled into a dashboard so an owner can see which quarry, product or branch is really paying.",
-    app: "Installable web apps for patient tokens, dealer orders or student portals that work in a phone browser with no app store listing.",
+    app: "Android and iOS apps for patient tokens, dealer orders or student portals, released on both app stores with prices starting at ₹40,000.",
     maintenance: "Updates, backups, security patches and monitoring free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

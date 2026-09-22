@@ -51,7 +51,7 @@ const satna: CityContent = {
     software: "Trip sheets, diesel logs, gate-pass records and billing tools for transporters and contractors working with the cement plants.",
     ai: "WhatsApp assistants that answer freight rates, room availability or admission queries in Hindi at any hour and pass serious leads to you.",
     data: "Dashboards built from trip, dispatch or sales records so owners see which routes, customers or products earn and which lose money.",
-    app: "Installable web apps for drivers, site supervisors and field staff that work on low-cost Android phones without a Play Store listing.",
+    app: "Android and iOS apps for drivers, site supervisors and field staff on low-cost phones, built in Flutter or React Native and released on both stores.",
     maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay-per-change, as you prefer.",
   },
   whyUsIntro:

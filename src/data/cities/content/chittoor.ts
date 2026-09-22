@@ -51,7 +51,7 @@ const chittoor: CityContent = {
     software: "Order, batch and dispatch tracking for pulp units, granite yards and wholesale traders that still run on registers.",
     ai: "WhatsApp assistants that reply in Telugu, Tamil or English and hand real negotiations to your team.",
     data: "Season-wise dashboards for mango intake, milk collection or admissions, built from the sheets you already fill.",
-    app: "Installable web apps for field procurement, farmer payments or hostel attendance that run on basic Android phones.",
+    app: "Android and iOS apps for field procurement, farmer payments or hostel attendance that run on basic phones, from ₹40,000 on both stores.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const jalandhar: CityContent = {
     software: "Order trackers, sample registers and dealer portals for Focal Point and Basti Sheikh units that still run production on registers and WhatsApp groups.",
     ai: "Assistants that answer the same visa, admission, price or stock questions in Punjabi, Hindi or English and pass the serious enquiries to a person.",
     data: "Export shipments, order books and stitching-unit output pulled into one dashboard the owner can read on a phone.",
-    app: "Installable web apps for dealer ordering, student enquiries and appointment booking, with no app store fees.",
+    app: "Android and iPhone apps for dealer ordering, student enquiries and appointment booking, one codebase released on both app stores from ₹40,000.",
     maintenance: "Price updates, new product photos, backups and security fixes free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

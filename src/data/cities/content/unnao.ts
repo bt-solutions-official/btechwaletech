@@ -51,7 +51,7 @@ const unnao: CityContent = {
     software: "Batch, order and dispatch tracking for tanneries and leather units still managing production on registers and spreadsheets.",
     ai: "WhatsApp replies that share catalogues, fees or rates in Hindi or English and hand real negotiations back to you.",
     data: "Production, sales and export records combined into a dashboard you can read on your phone.",
-    app: "Installable web apps for dealer re-orders, school notices or clinic bookings with no app store needed.",
+    app: "Android and iOS apps for dealer re-orders, school notices or clinic bookings, one Flutter build listed on Google Play and the App Store.",
     maintenance: "Free updates, backups, security fixes and uptime checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

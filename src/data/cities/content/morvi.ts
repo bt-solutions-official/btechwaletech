@@ -51,7 +51,7 @@ const morvi: CityContent = {
     software: "Dealer order portals, dispatch and stock registers, and container-planning tools for ceramic units that run on spreadsheets today.",
     ai: "WhatsApp assistants that share catalogue PDFs, sizes and stock in Gujarati, Hindi or English, and pass real buyers to your sales team.",
     data: "Dashboards for sales by size, finish, dealer and state, or export orders by country, built from your existing records.",
-    app: "Installable web apps for sales representatives and dealers to check stock and place orders from their phones.",
+    app: "Android and iOS apps for sales representatives and tile dealers to check stock and place orders, published on Google Play and the App Store.",
     maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month or paid work only when you need a change.",
   },
   whyUsIntro:

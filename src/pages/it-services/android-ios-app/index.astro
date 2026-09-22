@@ -1,0 +1,960 @@
+---
+// Android & iOS app development service page. Markup and styles mirror
+// src/components/city/CityPage.astro so it looks like the location pages.
+import BaseLayout from "@layouts/BaseLayout.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { breadcrumbListSchema, faqSchema } from "@lib/schema/schema";
+import { canonicalUrl } from "@lib/urls/url-utils";
+import { siteBrand, siteContact } from "@data/site/site-config";
+import { pricingPlans, pricingNote, usdPrice } from "@data/pricing/plans";
+
+const path = "/it-services/android-ios-app/";
+const url = canonicalUrl(path);
+const updated = "2026-09-21";
+
+const page = createPageSeo({
+  title: "Android & iOS App Development Company",
+  description:
+    "Android & iOS app development for startups and businesses in the USA, UK, UAE, Australia & India. Flutter & React Native apps from US$600 / ₹40,000.",
+  canonicalPath: path,
+  h1: "Android & iOS app development for businesses worldwide",
+  locale: "en_US",
+  alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
+  keywords: [
+    "Android and iOS app development",
+    "mobile app development company",
+    "mobile app development company India",
+    "hire mobile app developers",
+    "hire app developers from India",
+    "offshore mobile app development",
+    "Flutter app development company",
+    "React Native app development company",
+    "iPhone app development",
+    "Android app development services",
+    "cross-platform app development",
+    "app development cost India",
+    "app development cost USA",
+    "startup MVP app development",
+    "ecommerce app development",
+    "on-demand delivery app development",
+    "booking app development",
+    "healthcare app development",
+    "education app development",
+    "app developers USA UK UAE",
+    "publish app on Google Play and App Store",
+    "app maintenance and support",
+  ],
+  breadcrumbs: createBreadcrumbs([
+    { label: "IT Services", href: "/it-services/" },
+    { label: "Android & iOS Apps", href: path },
+  ]),
+  ogImage: { url: "/banner_logo.png", alt: `${siteBrand.name} Android and iOS app development`, width: 1536, height: 1024 },
+});
+
+const appPlan = pricingPlans.find((p) => p.name === "Android & iOS app")!;
+const relatedPlans = ["Android & iOS app", "Custom web app or software", "AI automation", "Maintenance and support"]
+  .map((name) => pricingPlans.find((p) => p.name === name))
+  .filter((p): p is (typeof pricingPlans)[number] => Boolean(p));
+
+const facts = [
+  ["Platforms", "Android and iOS from one codebase"],
+  ["Tech", "Flutter or React Native"],
+  ["Starting price", `${appPlan.price} / ${usdPrice(appPlan.price)}`],
+  ["Timeline", appPlan.timeline],
+  ["Clients", "USA, UK, UAE, Australia, Europe, India"],
+  ["After launch", "5 months of maintenance free"],
+];
+
+const pills = ["Flutter apps", "React Native apps", "MVPs for startups", "Ecommerce apps", "Booking apps", "Delivery apps", "Staff & field apps", "Play Store & App Store publishing"];
+
+const stats = [
+  { value: "2", label: "Platforms from one codebase" },
+  { value: usdPrice(appPlan.price), label: `Apps starting price (${appPlan.price} in India)` },
+  { value: "6–10", label: "Weeks for a typical first release" },
+  { value: "5", label: "Months maintenance free" },
+];
+
+const snapshot = [
+  ["Global phone market", "Roughly 7 in 10 smartphones run Android and 3 in 10 run iOS (StatCounter, 2025)"],
+  ["USA, UK, Australia", "iPhone holds about half or more of the market, so iOS cannot be skipped"],
+  ["India", "Android runs on roughly 95% of phones, many of them budget devices"],
+  ["Store fees", "Apple: US$99 a year. Google Play: US$25 once"],
+  ["Store commission", "15% for most small developers on both stores, 30% above the thresholds"],
+  ["Our approach", "One Flutter or React Native codebase, shipped to both stores"],
+];
+
+const services = [
+  { name: "Custom Android & iOS apps", note: "Customer apps, staff apps and marketplace apps built in Flutter or React Native, shipped to Google Play and the App Store from one codebase.", size: "lg" },
+  { name: "Startup MVPs", note: "A focused first version with only the features you need to test demand, raise funds or sign the first paying customers.", size: "md" },
+  { name: "Ecommerce & ordering apps", note: "Catalogue, cart, checkout with Stripe, Razorpay, Apple Pay or Google Pay, order tracking and push offers.", size: "sm" },
+  { name: "Booking & appointment apps", note: "Slots, reminders, deposits and staff calendars for clinics, salons, gyms, tutors and consultants.", size: "sm" },
+  { name: "Admin panels & APIs", note: "A web admin panel to manage users, orders and content, plus the backend API the app talks to.", size: "sm" },
+  { name: "AI features in apps", note: "Chat assistants, document scanning, smart search and summaries using OpenAI, Claude or Gemini APIs.", size: "sm" },
+  { name: "App rescue & upgrades", note: "Take over an unfinished or broken app, fix crashes, update SDKs and get it back into the stores.", size: "sm" },
+  { name: "Maintenance & store updates", note: "OS updates, store policy changes, bug fixes and new features on a monthly plan after the free period.", size: "sm" },
+] as const;
+
+const comparison = [
+  ["Starting price", "US$15,000+ or ₹5 lakh+ for a basic app", "Low, but scope and quality unclear", `From ${usdPrice(appPlan.price)} / ${appPlan.price}, itemised`],
+  ["Platforms", "Often two teams for Android and iOS", "Often Android only", "Both stores from one Flutter or React Native codebase"],
+  ["Who does the work", "Account manager passes it on", "One person, unknown skills", "Engineers you talk to directly"],
+  ["Progress you can see", "Monthly status decks", "Screenshots on request", "Test builds on your phone every week"],
+  ["Store publishing", "Extra fee or left to you", "Often skipped", "Play Store and App Store submission included"],
+  ["After launch", "Paid retainer only", "Often unreachable", "5 months maintenance included free"],
+  ["Code and accounts", "Sometimes locked in", "Often not handed over", "100% yours: source code, store accounts, backend"],
+];
+
+const stackTable = [
+  ["Flutter", "One Dart codebase draws its own UI on Android and iOS. Very consistent look, smooth animation, strong for custom designs.", "Branded consumer apps, ecommerce, booking, fintech-style UIs"],
+  ["React Native", "One JavaScript/TypeScript codebase using native UI components. Shares logic and skills with a React website.", "Teams with a React web app, content apps, marketplaces, dashboards"],
+  ["Native (Kotlin / Swift)", "Two separate apps. Full access to every platform API on day one, but roughly double the build and upkeep.", "Heavy AR, low-level Bluetooth, advanced camera or audio processing"],
+  ["PWA (web app)", "A website that installs to the home screen. No store review, but limited push and hardware access on iPhone.", "Internal tools, quick pilots, content that must also rank on Google"],
+];
+
+const markets = [
+  { name: "United States", href: "/usa/", note: "iPhone-first audience, Stripe and Apple Pay checkout, US English copy, accessibility expectations, calls in US morning hours." },
+  { name: "United Kingdom", href: "/uk/", note: "UK GDPR consent flows, British English, Stripe or GoCardless payments, calls across the UK business day." },
+  { name: "Canada", href: "/canada/", note: "English and French text support, PIPEDA-aware data handling, calls in Eastern and Pacific mornings." },
+  { name: "Australia & New Zealand", href: "/australia/", note: "iPhone-heavy markets, AUD and NZD pricing, afternoon calls from India line up with the AU working day." },
+  { name: "UAE & Saudi Arabia", href: "/uae/", note: "Arabic right-to-left layouts, local payment gateways, cash-on-delivery flows and Gulf working-week calendars." },
+  { name: "Singapore", href: "/singapore/", note: "PDPA-aware data handling, PayNow and card payments, English-first apps for a high-iPhone market." },
+  { name: "Germany & Europe", href: "/germany/", note: "GDPR consent, EU data hosting, multi-language text and SEPA or card payments." },
+  { name: "India", href: "/it-services/", note: "Android-first builds tested on budget phones, UPI and Razorpay, Hindi and regional languages, OTP login." },
+  { name: "Indian metros", href: "/india/", note: "Apps for businesses in Delhi NCR, Mumbai, Bengaluru, Hyderabad, Chennai, Pune and Kolkata, delivered remotely." },
+];
+
+const industries = [
+  ["Retail & ecommerce", "Fast catalogue, easy checkout, order tracking, offers by push", "Shopping app with cart, wallet payments, loyalty points and admin panel"],
+  ["Food & delivery", "Live order status, rider tracking, simple reorder", "Customer, rider and restaurant apps with maps and order dispatch"],
+  ["Healthcare & clinics", "Appointments, reminders, records kept private", "Booking app, doctor schedules, video consult links, secure file sharing"],
+  ["Education & coaching", "Classes, recorded videos, tests, fee payment", "Student app with video lessons, quizzes, attendance and fee reminders"],
+  ["Real estate", "Listings with photos, filters, site visit booking", "Property app with map search, saved listings and lead capture to CRM"],
+  ["Fitness & wellness", "Plans, progress, class bookings, subscriptions", "Workout and booking app with in-app subscriptions and trainer chat"],
+  ["Logistics & field teams", "Job lists, photos, signatures, offline use", "Staff app with offline sync, GPS check-in, photo proof and reports"],
+  ["Startups & SaaS", "A working MVP fast, room to grow", "MVP app plus API and admin panel, analytics and crash reporting from day one"],
+];
+
+const process = [
+  ["Talk", "A short call or WhatsApp chat about your users, the core job the app must do, your budget and your launch date. No charge."],
+  ["Plan & quote", "Screen list, feature list, tech choice (Flutter or React Native) and an itemised quote, usually within two working days."],
+  ["Build & test", "Weekly test builds installed on your own Android phone and iPhone through TestFlight and Play testing tracks."],
+  ["Publish & support", "Store listings, screenshots, privacy forms and review submission, then 5 months of free maintenance."],
+];
+
+const sections = [
+  {
+    id: "what-we-build",
+    heading: "Android and iOS apps we build for businesses in India and worldwide",
+    paragraphs: [
+      "BtechWaleTech builds mobile apps for small businesses, startups and growing companies in the USA, UK, Canada, Australia, the UAE, Singapore, Europe and India. Most of our apps are written once in <strong>Flutter</strong> or <strong>React Native</strong> and published to both Google Play and the Apple App Store, so you pay for one build instead of two and every new feature reaches Android and iPhone users on the same day.",
+      "A typical project is one of three things. The first is a <strong>customer app</strong>: the app your buyers download to order, book, pay, track or learn. The second is a <strong>staff app</strong>: a tool your delivery riders, field technicians, sales team or teachers use every day, often with offline mode and photo proof. The third is a <strong>startup MVP</strong>: the smallest version of a new product that proves people will use it and pay for it.",
+      "Every app comes with the parts that make it run in the real world: a backend API, a database, a web admin panel so your team can manage users, orders and content without calling a developer, push notifications, crash reporting and analytics. We write the store listings, fill in Apple's privacy details and Google's Data safety form, and submit the app for review under your own developer accounts.",
+    ],
+    list: [
+      "<strong>Customer apps:</strong> ecommerce, food ordering, bookings, memberships, loyalty and subscriptions.",
+      "<strong>Marketplace apps:</strong> two-sided apps for buyers and sellers, customers and service providers, students and tutors.",
+      "<strong>Staff and field apps:</strong> job lists, GPS check-in, photo and signature capture, offline sync.",
+      "<strong>Startup MVPs:</strong> a lean first release with analytics built in, ready for investors and early users.",
+      "<strong>Companion apps:</strong> apps that sit next to an existing website, CRM or <a href=\"/services/web-development/\">web application</a> and use the same data.",
+    ],
+  },
+  {
+    id: "flutter-vs-react-native",
+    heading: "Flutter vs React Native vs native: which one your app should use",
+    paragraphs: [
+      "For most business apps, a cross-platform framework is the right call. Both Flutter (from Google) and React Native (from Meta) produce real installable apps that pass store review and feel native to users. They cover cameras, maps, payments, biometrics, push notifications, background location and in-app purchases through mature plugins, and where a plugin is missing we write a small native module for that one feature.",
+      "<strong>Choose Flutter</strong> when design matters and you want the app to look exactly the same on every phone. Flutter draws its own interface, which makes custom animations, brand-heavy screens and complex forms predictable across old Android phones and new iPhones. It is our default for consumer apps, ecommerce and booking apps.",
+      "<strong>Choose React Native</strong> when you already have a React or Next.js website, or your in-house team knows JavaScript and TypeScript. Business logic, API code and validation can be shared between the website and the app, and your own developers can maintain it later without learning a new language.",
+      "<strong>Choose fully native Kotlin and Swift</strong> only when the app is built around one deep platform feature, such as augmented reality, low-level Bluetooth hardware, heavy real-time audio or advanced camera processing. Native gives full control, but it means two codebases, two sets of bugs and roughly double the cost to build and maintain. We will tell you plainly if your idea is one of these cases.",
+      "A <strong>progressive web app (PWA)</strong> is the fourth option: a website that can be installed to the home screen. It skips store review and can rank on Google, but push notifications and hardware access on iPhone are still limited. For an internal tool or a quick pilot it can be the cheapest path, and we can build it alongside a proper app later.",
+    ],
+  },
+  {
+    id: "app-development-cost",
+    heading: "How much does it cost to build an Android and iOS app in 2026?",
+    paragraphs: [
+      `Our Android and iOS apps start from <strong>${appPlan.price} in India</strong> and <strong>${usdPrice(appPlan.price)} for international clients</strong>. That starting price covers a focused app with login, core screens, forms, push notifications, an admin panel, an API connection and publishing to both stores. You get an itemised quote after a short call, so you see what each feature adds before anything is billed.`,
+      "What moves the price is scope, not the platform count. The biggest cost drivers are the number of distinct screens and user roles, payments and subscriptions, real-time features like chat or live tracking, offline sync, third-party integrations (CRM, ERP, logistics, accounting), and how much custom design and animation you want. A single-role booking app is a very different project from a three-sided delivery marketplace with customer, rider and restaurant apps.",
+      "For comparison, app agencies in the USA, UK and Australia commonly quote five figures in dollars or pounds for a first release, and large Indian agencies often start in the lakhs. You pay less with us because a small team of engineers works on your app directly, with no sales layer and no office overhead, and because one cross-platform codebase replaces two native teams.",
+      "There are also a few running costs that belong to you, not to us: the Apple Developer Program at US$99 a year, a one-time US$25 Google Play registration, backend hosting (often a few dollars a month at launch on Firebase, Supabase or AWS), and any paid APIs such as maps, SMS or AI models. We set these up in your name so you keep full control.",
+    ],
+    list: [
+      `<strong>Simple app or MVP:</strong> from ${appPlan.price} / ${usdPrice(appPlan.price)}, about ${appPlan.timeline}.`,
+      "<strong>Ecommerce, booking or membership app:</strong> quoted on scope, usually more screens, payments and an admin panel.",
+      "<strong>Marketplace or delivery platform:</strong> quoted on scope, often two or three connected apps plus a dashboard.",
+      "<strong>Maintenance after the free 5 months:</strong> from ₹8,000 / US$120 a month.",
+    ],
+  },
+  {
+    id: "features",
+    heading: "Features we build into Android and iOS apps",
+    paragraphs: [
+      "Most apps are built from a common set of proven features. We pick only the ones your users need for the first release and keep the rest on a roadmap, which keeps the first version affordable and gets it into users' hands sooner.",
+    ],
+    list: [
+      "<strong>Login and accounts:</strong> email, phone OTP, Google, Apple sign-in, and account deletion inside the app as Apple requires.",
+      "<strong>Payments:</strong> Stripe, Razorpay, PayPal, UPI intent, Apple Pay, Google Pay, and in-app purchases or subscriptions through the stores where the rules require it.",
+      "<strong>Push notifications:</strong> order updates, reminders and offers through Firebase Cloud Messaging and Apple Push Notification service.",
+      "<strong>Maps and location:</strong> store finders, live rider tracking, geofenced check-ins and distance-based pricing.",
+      "<strong>Chat and calls:</strong> in-app chat between customers and staff, support chat, and video call links.",
+      "<strong>Media:</strong> camera, barcode and QR scanning, document upload, image compression and video playback.",
+      "<strong>Offline mode:</strong> data saved on the phone and synced when the network returns, which matters for field teams and patchy mobile networks.",
+      "<strong>Multi-language:</strong> English, Hindi, Arabic (right to left), French, German and Indian regional languages.",
+      "<strong>AI features:</strong> chat assistants, smart search, summaries and document reading using OpenAI, Claude or Gemini APIs. See our <a href=\"/services/\">AI automation services</a>.",
+      "<strong>Admin panel:</strong> a web dashboard for orders, users, content, reports and push campaigns.",
+      "<strong>Analytics and crash reporting:</strong> Firebase Analytics or GA4 plus Crashlytics or Sentry, so you see what users do and fix crashes before reviews suffer.",
+    ],
+  },
+  {
+    id: "publishing",
+    heading: "Publishing on Google Play and the Apple App Store",
+    paragraphs: [
+      "Getting an app approved is its own piece of work, and it is where many cheap projects stall. We handle it end to end under your own developer accounts, so the app, its reviews and its revenue always belong to your business.",
+      "On <strong>Google Play</strong>, we prepare the signed app bundle, the store listing, screenshots, the content rating questionnaire and the Data safety form, and we target a recent Android API level as Google requires. New personal developer accounts must run a closed test with at least 12 testers for 14 days before public release, so we plan that into the timeline. Organisation accounts need business verification, which we guide you through.",
+      "On the <strong>App Store</strong>, we set up App Store Connect, TestFlight builds, privacy nutrition labels, the App Privacy details, sign in with Apple where needed and in-app account deletion. Apple reviews every release by hand. Most of our submissions pass first time because we build to the App Review Guidelines from the start, and when a reviewer asks for changes we handle the reply and resubmission.",
+      "After launch we help with the basics of <strong>app store optimisation</strong>: a clear title and subtitle, keyword fields, screenshots that explain the app, and a short description written for the search terms your users actually type. If you also want your website to rank, our <a href=\"/services/seo-services/\">SEO services</a> tie the app and the site together with deep links and app banners.",
+    ],
+  },
+  {
+    id: "process-detail",
+    heading: "Our app development process, week by week",
+    paragraphs: [
+      "<strong>Week 1: scope and plan.</strong> We turn your idea into a screen list, user roles, a feature list split into \"launch\" and \"later\", and a data model. You approve the plan and the itemised quote before any build work begins.",
+      "<strong>Weeks 2 to 3: design and foundations.</strong> We design the key screens, set up the codebase, backend, database and admin panel, and wire up login. You get the first test build on your own phone early, not at the end.",
+      "<strong>Weeks 3 to 8: build in short cycles.</strong> Features land every week. You install each build through TestFlight on iPhone and a Play testing track on Android, send feedback on WhatsApp, and small changes usually land within a day.",
+      "<strong>Weeks 8 to 10: test, polish and publish.</strong> We test on real devices, including older and low-memory Android phones, fix crashes, tune performance, prepare the store listings and submit to both stores.",
+      "<strong>After launch: 5 months free maintenance.</strong> We fix bugs, handle store review questions, and keep the app working through Android and iOS updates. After that, maintenance continues from ₹8,000 / US$120 a month, or you take the code and run it yourself.",
+    ],
+  },
+  {
+    id: "global-clients",
+    heading: "Hiring app developers from India: how it works for USA, UK, UAE and Australian businesses",
+    paragraphs: [
+      "Most of our international clients hire us for one reason: they want an app built properly at a price that makes sense for a small business or a pre-seed startup. India has one of the deepest pools of mobile engineers in the world, and working with a small team directly removes the markup of an agency or a middle-man platform.",
+      "<strong>Time zones work in your favour.</strong> For US clients, we overlap with your morning and hand over progress while you sleep, so you wake up to a new build. The UK and Europe share most of the working day with India. Australia, Singapore and the UAE are only a few hours apart. Calls happen on Google Meet or Zoom, and day-to-day chat runs on WhatsApp, Slack or email.",
+      "<strong>Billing is simple.</strong> International projects are quoted in USD, or your local currency on request, and paid by bank wire, Wise or PayPal in milestones: a deposit to start, a payment when the first working build is on your phone, and the balance before store release. Clients in India pay in INR by UPI or bank transfer.",
+      "<strong>You own everything.</strong> The source code lives in a Git repository you control. The app is published under your Apple and Google developer accounts. The backend runs on hosting in your name. We sign an NDA before you share your idea if you want one. See how we work with clients in the <a href=\"/usa/\">USA</a>, <a href=\"/uk/\">UK</a>, <a href=\"/canada/\">Canada</a>, <a href=\"/australia/\">Australia</a> and the <a href=\"/uae/\">UAE</a>.",
+    ],
+  },
+  {
+    id: "india-apps",
+    heading: "App development for Indian businesses: built for Android-first users",
+    paragraphs: [
+      "In India the app your customers use is almost always an Android app on a budget or mid-range phone, often on a patchy mobile connection. We build for that reality: small download sizes, fast start-up on low-memory devices, images compressed for mobile data, and screens that stay usable offline.",
+      "Indian users expect <strong>phone number and OTP login</strong>, <strong>UPI payments</strong> through Razorpay, PhonePe, Paytm or Cashfree, <strong>WhatsApp</strong> order updates, and content in <strong>Hindi or their regional language</strong>. We build all of these as standard, and we still ship the iOS version from the same codebase for your premium and metro customers.",
+      "We work with shops, clinics, coaching institutes, schools, restaurants, real estate firms, manufacturers, distributors and D2C brands across every state, from Delhi NCR, Mumbai, Bengaluru, Hyderabad, Chennai, Pune and Kolkata to Tier-2 and Tier-3 cities. Everything is remote, so your city never limits who you can hire. Browse <a href=\"/it-services/\">IT services across India</a> or the <a href=\"/india/\">India locations hub</a>.",
+      "Apps that collect personal data in India should follow the Digital Personal Data Protection Act, 2023. We build clear consent screens, collect only the data the app needs, and add a way for users to delete their account and data.",
+    ],
+  },
+  {
+    id: "security-quality",
+    heading: "Security, privacy and quality we build in from day one",
+    paragraphs: [
+      "An app that leaks data or crashes on launch loses users and gets one-star reviews fast. We treat security and quality as part of the build, not an extra.",
+    ],
+    list: [
+      "HTTPS everywhere, tokens stored in the phone's secure storage (Keychain on iOS, Keystore on Android), and no secret keys shipped inside the app.",
+      "Server-side checks on every request, so the app cannot be tricked into showing another user's data.",
+      "Privacy by design for GDPR, UK GDPR, CCPA and India's DPDP Act: clear consent, minimal data, account deletion and a privacy policy that matches what the app actually does.",
+      "Crash reporting and performance monitoring from the first test build, not after launch.",
+      "Testing on real Android phones across price ranges and on current iPhones, plus automated tests for payments, login and other critical flows.",
+      "Accessibility basics: readable text sizes, screen reader labels, sufficient contrast and touch targets large enough to tap.",
+    ],
+  },
+  {
+    id: "after-launch",
+    heading: "After launch: updates, growth and long-term support",
+    paragraphs: [
+      "An app is never finished at launch. Apple and Google release new OS versions every year, store policies change, SDKs are deprecated, and your users will ask for features you did not predict. That is why every app includes <strong>5 months of free maintenance</strong> after it goes live.",
+      "During that period we fix bugs, keep the app compliant with store rules, respond to review feedback and make small improvements. After it ends, you can continue on a maintenance plan from ₹8,000 / US$120 a month that covers updates, fixes, backups and monitoring, or you can take the code to any other developer. Nothing is locked.",
+      "When you are ready to grow, we add features in small, priced releases: a loyalty programme, subscriptions, a second language, an AI assistant, or integrations with your CRM, ERP or accounting system. Many clients also pair the app with a fast <a href=\"/services/web-development/\">website</a> so they can be found on Google and send visitors to the stores.",
+    ],
+  },
+];
+
+const faqs = [
+  {
+    question: "How much does it cost to develop an Android and iOS app?",
+    answer: `Our Android and iOS apps start from ${appPlan.price} in India and ${usdPrice(appPlan.price)} for international clients. That covers a focused app with login, core screens, push notifications, an admin panel and publishing to both stores. Larger apps with payments, live tracking, chat or several user roles are quoted on scope, and you get an itemised quote before any work starts.`,
+  },
+  {
+    question: "How long does it take to build a mobile app?",
+    answer: `A typical first release takes ${appPlan.timeline}. A small MVP can be faster, and a marketplace with customer, provider and admin apps takes longer. Store review adds a few days on Apple, and new Google Play personal accounts need a 14-day closed test before public release, which we plan into the schedule.`,
+  },
+  {
+    question: "Do you build separate apps for Android and iPhone?",
+    answer: "Usually not. We build one codebase in Flutter or React Native and publish it to both Google Play and the App Store, which roughly halves the build and maintenance cost. If your app depends on a deep platform feature like AR or low-level Bluetooth, we recommend native Kotlin and Swift instead and explain why.",
+  },
+  {
+    question: "Should I choose Flutter or React Native?",
+    answer: "Choose Flutter for design-heavy consumer apps where the look must be identical on every phone. Choose React Native if you already have a React or Next.js website or an in-house JavaScript team, so code and skills can be shared. Both produce real native apps that pass store review. We recommend one after hearing your plans.",
+  },
+  {
+    question: "Can I hire your app developers from the USA, UK, Canada, Australia or the UAE?",
+    answer: "Yes. We are based in India and build apps remotely for clients in the USA, UK, Canada, Australia, the UAE, Singapore and Europe. Calls fit your business hours, progress updates arrive while you sleep, and you install new test builds on your own phone every week.",
+  },
+  {
+    question: "Will you publish the app on Google Play and the App Store?",
+    answer: "Yes. Store publishing is included. We prepare the listings, screenshots, privacy details, Google's Data safety form and content ratings, then submit under your own Apple Developer and Google Play accounts and handle any review questions. The Apple account costs US$99 a year and Google Play a one-time US$25, paid by you.",
+  },
+  {
+    question: "Who owns the app, the source code and the store accounts?",
+    answer: "You do. The source code is in a Git repository you control, the app is published under your developer accounts, and the backend runs on hosting in your name. If you later move to another developer or an in-house team, everything they need is handed over.",
+  },
+  {
+    question: "Can you build an MVP for my startup?",
+    answer: "Yes. We help you cut the idea down to the few features that prove people want it, then build and publish that version quickly with analytics and crash reporting built in. It is designed to grow, so the MVP code becomes the base of later versions rather than being thrown away.",
+  },
+  {
+    question: "Do you add payments, subscriptions and in-app purchases?",
+    answer: "Yes. We integrate Stripe, Razorpay, PayPal, UPI, Apple Pay and Google Pay for physical goods and services, and Apple and Google in-app purchases or subscriptions for digital content where the store rules require them. We set up the right option for each case so the app is not rejected at review.",
+  },
+  {
+    question: "Do you also build the backend and admin panel?",
+    answer: "Yes. Every app includes the backend API, database and a web admin panel where your team manages users, orders, content and push notifications. We use Firebase, Supabase, Node.js or Python backends depending on the app, and we can connect to your existing CRM, ERP or website instead.",
+  },
+  {
+    question: "Can you take over or fix an existing app?",
+    answer: "Yes. We review the current code, list what is broken and what is worth keeping, and give you a quote to fix, update or rebuild it. Common jobs include fixing crashes, updating old SDKs to meet store requirements, and republishing apps that were removed from the stores.",
+  },
+  {
+    question: "Can the app work in Hindi, Arabic or other languages?",
+    answer: "Yes. We build apps in English, Hindi, Arabic with right-to-left layouts, French, German and Indian regional languages. Text is kept separate from code so new languages can be added later without rebuilding screens.",
+  },
+  {
+    question: "Can you add AI features like a chatbot to my app?",
+    answer: "Yes. We add AI assistants, smart search, summaries, document reading and recommendations using OpenAI, Claude or Gemini APIs, with the API keys kept on the server rather than inside the app. AI features are priced as part of the app scope or as a separate automation project.",
+  },
+  {
+    question: "What happens after the 5 months of free maintenance?",
+    answer: "You can continue on a maintenance plan from ₹8,000 / US$120 a month that covers OS updates, store compliance, bug fixes, backups and monitoring, or you can stop and keep the app as it is. You own the code and accounts, so nothing expires when the free period ends.",
+  },
+  {
+    question: "How do international clients pay?",
+    answer: "International projects are quoted in USD, or your local currency on request, and paid by bank wire, Wise or PayPal in milestones: a deposit to start, a payment when the first working build is on your phone, and the balance before store release. Clients in India pay in INR by UPI or bank transfer.",
+  },
+  {
+    question: "Will you sign an NDA before I share my app idea?",
+    answer: "Yes. We are happy to sign a mutual NDA before you share details, and the development agreement states that the code, designs and intellectual property belong to you once the project is paid for.",
+  },
+];
+
+const links = [
+  { name: "Website development", href: "/services/web-development/" },
+  { name: "SEO services", href: "/services/seo-services/" },
+  { name: "All services", href: "/services/" },
+  { name: "Pricing", href: "/pricing/" },
+  { name: "IT services in India", href: "/it-services/" },
+  { name: "Apps & IT services in Mumbai", href: "/it-services/maharashtra/mumbai/" },
+  { name: "Apps & IT services in Hyderabad", href: "/it-services/telangana/hyderabad/" },
+  { name: "Apps & IT services in Delhi", href: "/india/delhi/" },
+  { name: "Apps & IT services in Bengaluru", href: "/india/karnataka/bangalore/" },
+  { name: "Apps & IT services in Gurugram", href: "/india/haryana/gurgaon/" },
+  { name: "Apps & IT services in Pune", href: "/india/maharashtra/pune/" },
+  { name: "Apps & IT services in Chennai", href: "/india/tamil-nadu/chennai/" },
+  { name: "Apps & IT services in USA", href: "/usa/" },
+  { name: "Apps & IT services in UK", href: "/uk/" },
+  { name: "Apps & IT services in Canada", href: "/canada/" },
+  { name: "Apps & IT services in Australia", href: "/australia/" },
+  { name: "Apps & IT services in UAE", href: "/uae/" },
+  { name: "Apps & IT services in Singapore", href: "/singapore/" },
+  { name: "Apps & IT services in Germany", href: "/germany/" },
+  { name: "Apps & IT services in Saudi Arabia", href: "/saudi-arabia/" },
+  { name: "Apps & IT services in New Zealand", href: "/new-zealand/" },
+  { name: "Apps & IT services in Netherlands", href: "/netherlands/" },
+];
+
+const toc = sections.map((s) => ({ id: s.id, heading: s.heading }));
+const areaServed = ["United States", "United Kingdom", "Canada", "Australia", "New Zealand", "United Arab Emirates", "Saudi Arabia", "Singapore", "Germany", "Netherlands", "India"]
+  .map((name) => ({ "@type": "Country", name }));
+const inr = (price: string) => Number(price.replace(/[^\d]/g, ""));
+
+const serviceSchema = {
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "@id": `${url}#service`,
+  name: "Android & iOS app development",
+  serviceType: "Mobile application development",
+  description: page.description,
+  url,
+  areaServed,
+  availableChannel: { "@type": "ServiceChannel", serviceUrl: url, servicePhone: siteContact.phone, availableLanguage: ["English", "Hindi"] },
+  provider: {
+    "@type": "Organization",
+    name: siteBrand.name,
+    url: siteBrand.domain,
+    email: siteContact.email,
+    telephone: siteContact.phone,
+    logo: new URL("/banner_logo.png", siteBrand.domain).toString(),
+  },
+  offers: [
+    { "@type": "Offer", name: "Android & iOS app (India)", price: inr(appPlan.price), priceCurrency: "INR", url, eligibleRegion: { "@type": "Country", name: "India" } },
+    { "@type": "Offer", name: "Android & iOS app (international)", price: inr(usdPrice(appPlan.price)), priceCurrency: "USD", url },
+  ],
+  hasOfferCatalog: {
+    "@type": "OfferCatalog",
+    name: "Mobile app development services",
+    itemListElement: services.map((s) => ({ "@type": "Offer", itemOffered: { "@type": "Service", name: s.name, description: s.note } })),
+  },
+};
+
+const webPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "@id": `${url}#webpage`,
+  url,
+  name: page.title,
+  description: page.description,
+  inLanguage: "en",
+  dateModified: updated,
+  about: { "@id": `${url}#service` },
+  mainEntity: { "@id": `${url}#service` },
+  speakable: { "@type": "SpeakableSpecification", cssSelector: ["#quick-answer", "h1"] },
+};
+---
+
+<BaseLayout meta={page} schema={[webPageSchema, serviceSchema, breadcrumbListSchema(page.breadcrumbs), faqSchema(faqs)]}>
+
+  <!-- ===================== HERO ===================== -->
+  <section class="hero" aria-labelledby="app-heading">
+    <div class="hero-inner">
+      <div class="hero-copy">
+        <nav class="crumbs" aria-label="Breadcrumb">
+          <ol>
+            {page.breadcrumbs.map((b, i) => (
+              <li>{i + 1 === page.breadcrumbs.length ? <span aria-current="page">{b.label}</span> : <a href={b.href}>{b.label}</a>}</li>
+            ))}
+          </ol>
+        </nav>
+        <p class="eyebrow">Mobile app development · Worldwide</p>
+        <h1 id="app-heading">{page.h1}</h1>
+        <p class="lede">
+          We design, build and publish Android and iOS apps in Flutter and React Native for startups and businesses in the USA, UK,
+          Canada, Australia, the UAE, Europe and India. One codebase, both app stores, a web admin panel, and code that is 100% yours.
+        </p>
+        <ul class="facts" aria-label="Quick facts about our app development">
+          {facts.map(([label, value]) => <li><strong>{label}</strong><span>{value}</span></li>)}
+        </ul>
+        <div class="hero-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp for a free app quote</span>
+            <span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.phoneHref}>Call {siteContact.phone}</a>
+        </div>
+        <ul class="hero-pills" aria-label="Apps we build">
+          {pills.map((p) => <li>{p}</li>)}
+        </ul>
+        <p class="hero-origin">
+          <span class="origin-dot" aria-hidden="true"></span>
+          Built in India &middot; Apps live for users worldwide &middot; Replies 7 days a week
+        </p>
+      </div>
+
+      <aside class="quote-card" aria-label="App development starting prices">
+        <p class="quote-kicker">Starting prices</p>
+        <ul class="quote-rows">
+          {relatedPlans.map((plan) => (
+            <li><span>{plan.name}</span><strong><small>from </small>{usdPrice(plan.price)}<small> / {plan.price}</small>{plan.unit ? <small> /mo</small> : null}</strong></li>
+          ))}
+        </ul>
+        <p class="quote-foot">Publishing to Google Play and the App Store included. 5 months maintenance free. Itemised quote in 2 working days.</p>
+        <a class="btn-primary btn-block" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+          <span>Get my app quote</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+        </a>
+      </aside>
+    </div>
+  </section>
+
+  <!-- ===================== STATS ===================== -->
+  <section class="stats-section" aria-label="App development in numbers">
+    <div class="section-wrap">
+      <ul class="stat-band">
+        {stats.map((s) => (
+          <li><span class="stat-num">{s.value}</span><span class="stat-label">{s.label}</span></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== QUICK ANSWER + SNAPSHOT ===================== -->
+  <section class="answer" aria-labelledby="answer-heading">
+    <div class="section-wrap answer-grid">
+      <div>
+        <p class="eyebrow">The short answer</p>
+        <h2 id="answer-heading">Looking for an Android and iOS app developer?</h2>
+        <p id="quick-answer" class="answer-text">
+          BtechWaleTech is an India-based team that builds Android and iOS apps in Flutter and React Native for businesses worldwide.
+          Apps start from {usdPrice(appPlan.price)} internationally or {appPlan.price} in India, take about {appPlan.timeline}, include
+          an admin panel and publishing to Google Play and the App Store, and come with 5 months of free maintenance.
+        </p>
+        <p class="updated">Last updated <time datetime={updated}>{new Date(updated).toLocaleDateString("en-IN", { day: "numeric", month: "long", year: "numeric" })}</time></p>
+      </div>
+      <table class="snapshot">
+        <caption>The mobile market at a glance</caption>
+        <tbody>
+          {snapshot.map(([label, value]) => (
+            <tr><th scope="row">{label}</th><td>{value}</td></tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+  </section>
+
+  <!-- ===================== SERVICES ===================== -->
+  <section class="services" aria-labelledby="services-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">App services</p>
+        <h2 id="services-heading">Everything your app needs, from first screen to store release</h2>
+      </div>
+      <div class="bento">
+        {services.map((s) => (
+          <div class={`card card-${s.size}`}>
+            <div class="card-core"><h3>{s.name}</h3><p>{s.note}</p></div>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== WHY US ===================== -->
+  <section class="advantage" aria-labelledby="why-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Why choose us</p>
+        <h2 id="why-heading">Why businesses hire us over an app agency</h2>
+        <p class="section-note">You get agency-grade engineering without paying for sales teams and offices, and you talk to the people writing your app.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="comparison-table">
+          <thead>
+            <tr>
+              <th scope="col">What matters</th>
+              <th scope="col" class="col-other">Typical app agency</th>
+              <th scope="col" class="col-other">Cheap freelancer</th>
+              <th scope="col" class="col-us">BtechWaleTech</th>
+            </tr>
+          </thead>
+          <tbody>
+            {comparison.map(([aspect, agency, cheap, us]) => (
+              <tr>
+                <th scope="row" class="td-aspect">{aspect}</th>
+                <td class="col-other">{agency}</td>
+                <td class="col-other">{cheap}</td>
+                <td class="td-us"><span class="td-us-inner"><span class="td-check" aria-hidden="true">✓</span>{us}</span></td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PRICING ===================== -->
+  <section class="pricing" aria-labelledby="pricing-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Pricing</p>
+        <h2 id="pricing-heading">App development prices in USD and INR</h2>
+        <p class="section-note">Starting prices for apps and the services that usually go with them. International clients pay in USD, clients in India in INR.</p>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead>
+            <tr><th scope="col">Service</th><th scope="col">International</th><th scope="col">India</th><th scope="col">Typical timeline</th><th scope="col">What is included</th></tr>
+          </thead>
+          <tbody>
+            {relatedPlans.map((plan) => (
+              <tr>
+                <th scope="row">{plan.name}</th>
+                <td class="price">{usdPrice(plan.price)}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td class="price">{plan.price}{plan.unit && <small> {plan.unit}</small>}</td>
+                <td>{plan.timeline}</td>
+                <td>{plan.includes.join(" · ")}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+      <p class="fine">{pricingNote} Apple Developer (US$99/year) and Google Play (US$25 once) fees are paid by you, under your own accounts.</p>
+    </div>
+  </section>
+
+  <!-- ===================== TECH STACK ===================== -->
+  <section class="industries" aria-labelledby="stack-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Technology</p>
+        <h2 id="stack-heading">Flutter, React Native, native or PWA: compared</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Approach</th><th scope="col">How it works</th><th scope="col">Best for</th></tr></thead>
+          <tbody>
+            {stackTable.map(([name, how, best]) => (
+              <tr><th scope="row">{name}</th><td>{how}</td><td>{best}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== LONG-FORM GUIDE ===================== -->
+  <section class="guide" aria-label="Android and iOS app development guide">
+    <div class="section-wrap guide-grid">
+      <nav class="toc" aria-label="On this page">
+        <p class="toc-title">On this page</p>
+        <ol>
+          {toc.map((t) => <li><a href={`#${t.id}`}>{t.heading}</a></li>)}
+          <li><a href="#areas-heading">Countries we serve</a></li>
+          <li><a href="#industries-heading">Industries</a></li>
+          <li><a href="#faq-heading">FAQs</a></li>
+        </ol>
+      </nav>
+      <div class="prose">
+        {sections.map((s) => (
+          <article aria-labelledby={s.id}>
+            <h2 id={s.id}>{s.heading}</h2>
+            {s.paragraphs.map((p) => <p set:html={p} />)}
+            {s.list && <ul>{s.list.map((li) => <li set:html={li} />)}</ul>}
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== MARKETS ===================== -->
+  <section class="locations" aria-labelledby="areas-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Countries we serve</p>
+        <h2 id="areas-heading">App development for clients around the world</h2>
+      </div>
+      <ul class="area-grid">
+        {markets.map((m) => (
+          <li><h3><a href={m.href}>{m.name}</a></h3><p>{m.note}</p></li>
+        ))}
+      </ul>
+    </div>
+  </section>
+
+  <!-- ===================== INDUSTRIES ===================== -->
+  <section class="industries" aria-labelledby="industries-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Industries</p>
+        <h2 id="industries-heading">Apps we build by industry</h2>
+      </div>
+      <div class="comparison-table-wrap">
+        <table class="price-table">
+          <thead><tr><th scope="col">Industry</th><th scope="col">What users look for</th><th scope="col">What we build</th></tr></thead>
+          <tbody>
+            {industries.map(([name, need, build]) => (
+              <tr><th scope="row">{name}</th><td>{need}</td><td>{build}</td></tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== PROCESS ===================== -->
+  <section class="process" aria-labelledby="process-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">How it works</p>
+        <h2 id="process-heading">From idea to an app in both stores</h2>
+      </div>
+      <ol class="steps">
+        {process.map(([step, detail], i) => (
+          <li><span class="step-num" aria-hidden="true">{String(i + 1).padStart(2, "0")}</span><h3>{step}</h3><p>{detail}</p></li>
+        ))}
+      </ol>
+    </div>
+  </section>
+
+  <!-- ===================== FAQ ===================== -->
+  <section class="faq" aria-labelledby="faq-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Questions</p>
+        <h2 id="faq-heading">Android and iOS app development questions, answered</h2>
+      </div>
+      <div class="faq-list">
+        {faqs.map((f) => (
+          <details class="faq-item">
+            <summary><span>{f.question}</span><span class="faq-mark" aria-hidden="true">+</span></summary>
+            <p>{f.answer}</p>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== RELATED ===================== -->
+  <section class="locations" aria-labelledby="nearby-heading">
+    <div class="section-wrap">
+      <div class="section-head">
+        <p class="eyebrow">Related</p>
+        <h2 id="nearby-heading">More services and locations</h2>
+      </div>
+      <div class="city-cloud">
+        {links.map((c) => <a class="city-chip" href={c.href}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <!-- ===================== CLOSING CTA ===================== -->
+  <section class="closing" aria-labelledby="cta-heading">
+    <div class="section-wrap">
+      <div class="closing-inner">
+        <p class="eyebrow">Next step</p>
+        <h2 id="cta-heading">Tell us about your app idea</h2>
+        <p class="closing-note">
+          Send a few lines about your users and what the app should do. You get a screen list, a timeline and an itemised quote,
+          usually within two working days. Nothing is billed until you approve it.
+        </p>
+        <div class="hero-actions closing-actions">
+          <a class="btn-primary" href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer">
+            <span>WhatsApp us</span><span class="btn-arrow" aria-hidden="true">&rarr;</span>
+          </a>
+          <a class="btn-ghost" href={siteContact.emailHref}>{siteContact.email}</a>
+        </div>
+        <p class="closing-links"><a href="/services/">All services</a> · <a href="/pricing/">Pricing</a> · <a href="/portfolio/">Portfolio</a> · <a href="/countries/">Countries</a></p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  /* Copied from src/components/city/CityPage.astro; keep the two in sync. */
+  :root {
+    --paper: #FDFCFB;
+    --surface: #F8F9FA;
+    --surface-low: #F3F4F5;
+    --midnight: #0F172A;
+    --slate: #334155;
+    --slate-muted: #64748B;
+    --gold: #D4AF37;
+    --gold-muted: #C5A059;
+    --hairline: rgba(15, 23, 42, 0.10);
+    --ease: cubic-bezier(0.16, 1, 0.3, 1);
+    --font: 'Hanken Grotesk', system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif;
+  }
+  :global(body) { background: var(--paper); color: var(--midnight); }
+
+  h1, h2, h3 { margin: 0; font-family: var(--font); color: var(--midnight); letter-spacing: -0.02em; font-weight: 700; }
+  p { margin: 0; }
+  section { scroll-margin-top: 5rem; }
+
+  .section-wrap { max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem); }
+
+  .eyebrow {
+    display: inline-flex; align-items: center; gap: 0.65rem; margin: 0 0 1.25rem;
+    color: var(--gold-muted); font-family: var(--font); font-size: 0.75rem; font-weight: 600;
+    letter-spacing: 0.12em; text-transform: uppercase;
+  }
+  .eyebrow::before { width: 1.75rem; height: 1px; background: var(--gold-muted); content: ""; flex-shrink: 0; }
+
+  .section-head { max-width: 48rem; margin-bottom: clamp(2rem, 4vw, 3rem); }
+  .section-head h2 { font-size: clamp(1.75rem, 3.5vw, 2.6rem); line-height: 1.15; font-weight: 600; margin-bottom: 1rem; }
+  .section-note { color: var(--slate); font-size: 1.05rem; line-height: 1.7; }
+
+  /* Buttons */
+  .hero-actions { display: flex; flex-wrap: wrap; gap: 0.85rem; margin-top: 2rem; }
+  .btn-primary, .btn-ghost {
+    display: inline-flex; align-items: center; gap: 0.6rem; min-height: 3.1rem; padding: 0 1.6rem;
+    border-radius: 2px; font-family: var(--font); font-size: 0.9rem; font-weight: 600; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .btn-primary { background: var(--midnight); color: var(--paper); border: 1px solid var(--midnight); }
+  .btn-primary:hover { background: #1E293B; transform: translateY(-1px); }
+  .btn-arrow { color: var(--gold); transition: transform 250ms var(--ease); }
+  .btn-primary:hover .btn-arrow { transform: translateX(3px); }
+  .btn-ghost { color: var(--midnight); border: 1px solid var(--hairline); background: transparent; }
+  .btn-ghost:hover { border-color: var(--gold); }
+  .btn-block { width: 100%; justify-content: center; }
+
+  /* Hero */
+  .hero { padding: clamp(1.5rem, 3vw, 2.5rem) 0 clamp(2.5rem, 5vw, 4rem); border-bottom: 1px solid var(--hairline); }
+  .hero-inner {
+    max-width: 1280px; margin: 0 auto; padding: 0 clamp(1rem, 5vw, 5rem);
+    display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 0.85fr); gap: clamp(2rem, 4vw, 4rem); align-items: center;
+  }
+  .crumbs ol { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0 0 1.5rem; padding: 0; list-style: none; font-size: 0.8rem; color: var(--slate-muted); }
+  .crumbs li + li::before { content: "/"; margin-right: 0.4rem; color: var(--hairline); }
+  .crumbs a { color: var(--slate-muted); text-decoration: none; }
+  .crumbs a:hover { color: var(--midnight); }
+  h1 { font-size: clamp(2.1rem, 4vw, 3.25rem); line-height: 1.12; margin-bottom: 1.25rem; }
+  .lede { color: var(--slate); font-size: clamp(1rem, 1.3vw, 1.1rem); line-height: 1.7; max-width: 38rem; }
+  .facts { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 12rem), 1fr)); gap: 0.6rem; max-width: 46rem; margin: 1.6rem 0 0; padding: 0; list-style: none; }
+  .facts li { display: grid; gap: 0.2rem; padding: 0.75rem 0.95rem; border: 1px solid var(--hairline); border-radius: 4px; background: #fff; }
+  .facts strong { color: var(--gold-muted); font-size: 0.7rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; }
+  .facts span { color: var(--midnight); font-weight: 600; font-size: 0.92rem; line-height: 1.4; }
+  .hero-pills { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.75rem 0 0; padding: 1.5rem 0 0; border-top: 1px solid var(--hairline); list-style: none; }
+  .hero-pills li { padding: 0.35rem 0.8rem; border: 1px solid var(--hairline); border-radius: 2px; color: var(--slate); font-size: 0.8rem; font-weight: 500; }
+  .hero-origin { display: flex; align-items: center; gap: 0.5rem; margin-top: 1.25rem; color: var(--slate-muted); font-size: 0.8rem; font-weight: 500; }
+  .origin-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--gold); flex-shrink: 0; }
+
+  .quote-card {
+    padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--midnight); color: #F8F9FA; border-radius: 4px;
+    box-shadow: 0 24px 50px -20px rgba(15, 23, 42, 0.45);
+  }
+  .quote-kicker { color: var(--gold); font-size: 0.75rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; margin-bottom: 1rem; }
+  .quote-rows { margin: 0 0 1.25rem; padding: 0; list-style: none; }
+  .quote-rows li { display: flex; justify-content: space-between; gap: 1rem; padding: 0.8rem 0; border-bottom: 1px solid rgba(255,255,255,0.08); font-size: 0.92rem; color: #CBD5E1; }
+  .quote-rows strong { color: #fff; font-weight: 700; white-space: nowrap; }
+  .quote-rows small { color: #94A3B8; font-weight: 400; }
+  .quote-foot { font-size: 0.82rem; line-height: 1.55; color: #94A3B8; margin-bottom: 1.25rem; }
+  .quote-card .btn-primary { background: var(--gold); color: var(--midnight); border-color: var(--gold); }
+  .quote-card .btn-primary .btn-arrow { color: var(--midnight); }
+
+  /* Stats */
+  .stats-section { padding: clamp(2.5rem, 5vw, 4rem) 0; background: var(--midnight); }
+  .stat-band { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: rgba(255,255,255,0.06); }
+  .stat-band li { display: flex; flex-direction: column; gap: 0.5rem; align-items: center; text-align: center; padding: clamp(1.5rem, 3vw, 2.25rem) 1rem; background: var(--midnight); }
+  .stat-num { color: #F8F9FA; font-family: var(--font); font-size: clamp(2rem, 4vw, 3rem); font-weight: 700; line-height: 1; }
+  .stat-label { color: #94A3B8; font-size: 0.85rem; line-height: 1.4; max-width: 12rem; }
+
+  /* Quick answer */
+  .answer { padding: clamp(3rem, 6vw, 5rem) 0; }
+  .answer-grid { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: clamp(2rem, 4vw, 4rem); align-items: start; }
+  .answer h2 { font-size: clamp(1.6rem, 3vw, 2.25rem); line-height: 1.2; margin-bottom: 1rem; font-weight: 600; }
+  .answer-text { font-size: 1.08rem; line-height: 1.75; color: var(--slate); padding-left: 1.1rem; border-left: 3px solid var(--gold); }
+  .updated { margin-top: 1rem; font-size: 0.8rem; color: var(--slate-muted); }
+  .snapshot { width: 100%; border-collapse: collapse; border: 1px solid var(--hairline); font-size: 0.9rem; }
+  .snapshot caption { text-align: left; padding: 0 0 0.75rem; font-size: 0.75rem; font-weight: 600; letter-spacing: 0.1em; text-transform: uppercase; color: var(--slate-muted); }
+  .snapshot th, .snapshot td { padding: 0.8rem 1rem; border-bottom: 1px solid var(--hairline); text-align: left; vertical-align: top; line-height: 1.5; }
+  .snapshot th { width: 38%; background: var(--surface-low); font-weight: 600; }
+  .snapshot td { color: var(--slate); }
+
+  /* Services bento */
+  .services { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .bento { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 1px; background: var(--hairline); border: 1px solid var(--hairline); }
+  .card { display: block; background: var(--paper); text-decoration: none; transition: background-color 250ms ease; }
+  .card:hover { background: #fff; }
+  .card-lg { grid-column: span 2; }
+  .card-md { grid-column: span 2; }
+  .card-core { position: relative; padding: clamp(1.25rem, 2vw, 1.6rem); height: 100%; }
+  .card-core h3 { font-size: clamp(1.05rem, 1.4vw, 1.2rem); font-weight: 600; margin-bottom: 0.5rem; line-height: 1.25; padding-right: 2rem; }
+  .card-core p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .card-arrow {
+    position: absolute; top: 1.4rem; right: 1.4rem; display: inline-grid; place-items: center; width: 1.75rem; height: 1.75rem;
+    border: 1px solid var(--hairline); color: var(--slate-muted); font-size: 0.85rem; transition: all 250ms var(--ease);
+  }
+  a.card:hover .card-arrow { background: var(--midnight); border-color: var(--midnight); color: var(--paper); }
+
+  /* Tables */
+  .advantage, .pricing, .industries { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .pricing { background: var(--surface); }
+  .comparison-table-wrap { overflow-x: auto; border: 1px solid var(--hairline); -webkit-overflow-scrolling: touch; }
+  .comparison-table, .price-table { width: 100%; min-width: 40rem; border-collapse: collapse; font-size: 0.9rem; background: var(--paper); }
+  .comparison-table thead th, .price-table thead th {
+    padding: 1rem 1.25rem; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase;
+    text-align: left; background: var(--surface-low); color: var(--midnight); border-bottom: 1px solid var(--hairline);
+  }
+  .comparison-table thead .col-us { background: var(--midnight); color: var(--gold); }
+  .comparison-table tbody tr, .price-table tbody tr { border-bottom: 1px solid var(--hairline); }
+  .comparison-table td, .comparison-table th[scope="row"], .price-table td, .price-table th[scope="row"] { padding: 1rem 1.25rem; vertical-align: top; line-height: 1.5; text-align: left; }
+  .td-aspect, .price-table th[scope="row"] { font-weight: 600; color: var(--midnight); }
+  td.col-other { color: var(--slate-muted); }
+  .td-us { background: rgba(212, 175, 55, 0.06); }
+  .td-us-inner { display: flex; gap: 0.5rem; color: var(--midnight); font-weight: 600; }
+  .td-check { color: var(--gold-muted); font-weight: 700; }
+  .price-table td { color: var(--slate); }
+  .price-table .price { color: var(--midnight); font-weight: 700; white-space: nowrap; }
+  .price-table small { color: var(--slate-muted); font-weight: 400; }
+  .fine { margin-top: 1rem; font-size: 0.85rem; color: var(--slate-muted); line-height: 1.6; max-width: 54rem; }
+
+  /* Long-form guide */
+  .guide { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .guide-grid { display: grid; grid-template-columns: 15rem minmax(0, 1fr); gap: clamp(2rem, 5vw, 5rem); align-items: start; }
+  .toc { position: sticky; top: 6rem; font-size: 0.85rem; }
+  .toc-title { font-size: 0.72rem; font-weight: 600; letter-spacing: 0.12em; text-transform: uppercase; color: var(--slate-muted); margin-bottom: 0.75rem; }
+  .toc ol { margin: 0; padding: 0; list-style: none; border-left: 1px solid var(--hairline); }
+  .toc a { display: block; padding: 0.4rem 0 0.4rem 1rem; color: var(--slate); text-decoration: none; line-height: 1.4; }
+  .toc a:hover { color: var(--midnight); box-shadow: inset 2px 0 0 var(--gold); }
+  .prose { max-width: 46rem; }
+  .prose article + article { margin-top: 3rem; padding-top: 3rem; border-top: 1px solid var(--hairline); }
+  .prose h2 { font-size: clamp(1.45rem, 2.6vw, 1.9rem); line-height: 1.25; font-weight: 600; margin-bottom: 1.1rem; scroll-margin-top: 5rem; }
+  .prose p { color: var(--slate); font-size: 1.02rem; line-height: 1.85; }
+  .prose p + p { margin-top: 1.1rem; }
+  .prose ul { margin: 1.1rem 0 0; padding-left: 1.2rem; color: var(--slate); line-height: 1.8; }
+  .prose li + li { margin-top: 0.4rem; }
+  .prose :global(a) { color: var(--midnight); text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .prose :global(strong) { color: var(--midnight); }
+
+  /* Localities */
+  .locations { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface); border-top: 1px solid var(--hairline); }
+  .area-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1px; margin: 0; padding: 0; list-style: none; background: var(--hairline); border: 1px solid var(--hairline); }
+  .area-grid li { padding: 1.4rem; background: var(--paper); }
+  .area-grid h3 { font-size: 1.05rem; font-weight: 600; margin-bottom: 0.4rem; }
+  .area-grid p { color: var(--slate); font-size: 0.88rem; line-height: 1.6; }
+  .area-grid h3 a { color: inherit; text-decoration-color: var(--gold); text-underline-offset: 3px; }
+  .city-cloud { display: flex; flex-wrap: wrap; gap: 0.6rem; }
+  .city-chip {
+    display: inline-flex; align-items: center; min-height: 2.6rem; padding: 0 1.1rem; border: 1px solid var(--hairline);
+    border-radius: 2px; color: var(--midnight); background: var(--paper); font-size: 0.875rem; font-weight: 500; text-decoration: none;
+    transition: all 250ms var(--ease);
+  }
+  .city-chip:hover { border-color: var(--gold); transform: translateY(-2px); }
+
+  /* Process */
+  .process { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .steps { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); margin: 0; padding: 0; list-style: none; border: 1px solid var(--hairline); }
+  .steps li { display: grid; gap: 0.75rem; align-content: start; padding: clamp(1.5rem, 3vw, 2.25rem); background: var(--paper); }
+  .steps li + li { border-left: 1px solid var(--hairline); }
+  .step-num { color: var(--gold-muted); font-size: 0.75rem; font-weight: 700; letter-spacing: 0.12em; }
+  .steps h3 { font-size: 1.2rem; font-weight: 600; }
+  .steps p { color: var(--slate); font-size: 0.9rem; line-height: 1.65; }
+
+  /* FAQ */
+  .faq { padding: clamp(3.5rem, 6vw, 5.5rem) 0; border-top: 1px solid var(--hairline); }
+  .faq-list { border-top: 1px solid var(--hairline); }
+  .faq-item { border-bottom: 1px solid var(--hairline); }
+  .faq-item summary {
+    display: flex; align-items: center; justify-content: space-between; gap: 1.5rem; padding: 1.35rem 0;
+    font-family: var(--font); font-size: clamp(1rem, 1.4vw, 1.12rem); font-weight: 600; list-style: none; cursor: pointer;
+  }
+  .faq-item summary::-webkit-details-marker { display: none; }
+  .faq-mark { display: inline-grid; place-items: center; flex-shrink: 0; width: 2rem; height: 2rem; border: 1px solid var(--hairline); color: var(--gold-muted); transition: all 400ms var(--ease); }
+  .faq-item[open] .faq-mark { transform: rotate(45deg); background: var(--midnight); color: var(--paper); }
+  .faq-item p { max-width: 54rem; padding: 0 0 1.5rem; color: var(--slate); font-size: 0.97rem; line-height: 1.8; }
+
+  /* Closing */
+  .closing { padding: clamp(3.5rem, 6vw, 5.5rem) 0; background: var(--surface-low); border-top: 1px solid var(--hairline); text-align: center; }
+  .closing-inner { max-width: 44rem; margin: 0 auto; display: flex; flex-direction: column; align-items: center; }
+  .closing-inner h2 { font-size: clamp(1.85rem, 3vw, 2.5rem); margin-bottom: 1rem; line-height: 1.18; }
+  .closing-note { color: var(--slate); font-size: 0.97rem; line-height: 1.7; }
+  .closing-actions { justify-content: center; }
+  .closing-links { margin-top: 1.5rem; font-size: 0.85rem; color: var(--slate-muted); }
+  .closing-links a { color: var(--slate); }
+
+  @media (max-width: 1024px) {
+    .hero-inner, .answer-grid { grid-template-columns: minmax(0, 1fr); }
+    .bento { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+    .stat-band { grid-template-columns: 1fr 1fr; }
+    .guide-grid { grid-template-columns: 1fr; }
+    .toc { position: static; }
+    .area-grid { grid-template-columns: 1fr 1fr; }
+    .steps { grid-template-columns: 1fr 1fr; }
+    .steps li:nth-child(3) { border-left: none; }
+    .steps li:nth-child(n+3) { border-top: 1px solid var(--hairline); }
+  }
+  @media (max-width: 640px) {
+    .bento, .area-grid, .steps { grid-template-columns: 1fr; }
+    .card-lg, .card-md { grid-column: auto; }
+    .steps li + li { border-left: none; border-top: 1px solid var(--hairline); }
+    .hero-actions { flex-direction: column; }
+    .btn-primary, .btn-ghost { justify-content: center; }
+    .comparison-table { min-width: 0; font-size: 0.82rem; }
+    .comparison-table tr > :nth-child(3) { display: none; }
+    .comparison-table td, .comparison-table th[scope="row"], .comparison-table thead th { padding: 0.8rem 0.7rem; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .btn-primary, .btn-ghost, .city-chip, .card, .card-arrow, .faq-mark { transition-duration: 1ms; }
+  }
+</style>

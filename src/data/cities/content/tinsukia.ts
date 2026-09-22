@@ -50,7 +50,7 @@ const tinsukia: CityContent = {
     software: "Dealer ordering, credit ledgers, route-wise delivery lists and stock tools for wholesalers who supply shops across the district.",
     ai: "WhatsApp flows that take repeat orders from retailers, confirm stock and share invoices without the owner typing each reply.",
     data: "Sales by retailer, route and brand turned into a phone dashboard, so slow payers and fast movers are visible at a glance.",
-    app: "Installable web apps for salesmen and delivery staff to record orders and collections in the field.",
+    app: "Android and iPhone apps for salesmen and delivery staff to record orders and collections in the field, published on Google Play and the App Store.",
     maintenance: "Five months of free support after launch, then maintenance from ₹8,000 a month, including price-list updates.",
   },
   whyUsIntro:

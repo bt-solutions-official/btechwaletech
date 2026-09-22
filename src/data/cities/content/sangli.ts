@@ -50,7 +50,7 @@ const sangli: CityContent = {
     software: "Lot, stock and dealer ledgers for turmeric godowns, raisin cold stores and foundries that still work from registers and Excel sheets.",
     ai: "WhatsApp assistants that answer rate, lot and availability questions in Marathi, Hindi or English and pass real negotiations to the owner.",
     data: "Phone-friendly dashboards showing arrivals, sales by buyer, cold storage stock and outstanding payments, fed from Tally and daily sheets.",
-    app: "Installable web apps for hospital appointment queues, field agents visiting grape growers and dealers checking order status.",
+    app: "Android and iOS apps for hospital appointment queues, field agents visiting grape growers and dealers checking order status, from ₹40,000.",
     maintenance: "Rate and catalogue updates, backups, security patches and uptime monitoring, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const nawada: CityContent = {
     software: "Order, dues and delivery records for wholesalers and distributors supplying shops across the fourteen blocks.",
     ai: "WhatsApp replies that give fees, timings or stock in Hindi and pass anything serious to you with the chat attached.",
     data: "Admission, sales and collection records from registers turned into a phone dashboard you can actually read.",
-    app: "Installable web apps for test series, school notices or repeat orders without a Play Store listing.",
+    app: "Android and iPhone apps for test series, school notices or repeat orders, published on Google Play and the App Store in six to ten weeks.",
     maintenance: "Five free months of edits, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

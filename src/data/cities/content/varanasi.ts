@@ -51,7 +51,7 @@ const varanasi: CityContent = {
     software: "Booking systems, weaver order trackers and admission portals for hotels, saree houses and institutes that run on registers today.",
     ai: "WhatsApp and AI assistants that answer room, price and stock questions in Hindi or English, day or night.",
     data: "Bookings, orders and admissions brought together into one dashboard so the owner can see the week at a glance.",
-    app: "Installable web apps for repeat buyer orders, guest check-ins and student portals, without an app store listing.",
+    app: "Android and iOS apps for repeat buyer orders, guest check-ins and student portals, built in Flutter or React Native and listed on both stores.",
     maintenance: "Content changes, backups, security patches and speed checks, free for five months after launch and ₹8,000 a month after.",
   },
   whyUsIntro:

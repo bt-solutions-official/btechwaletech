@@ -51,7 +51,7 @@ const kalyanDombivali: CityContent = {
     software: "Batch management, society billing and order tracking systems for classes, housing services and MIDC suppliers.",
     ai: "WhatsApp auto-replies and AI assistants that handle fee, timing and availability questions in Marathi, Hindi or English.",
     data: "Admissions, sales and production numbers pulled together into a dashboard the owner can open on the morning commute.",
-    app: "Installable web apps for student attendance, repeat orders and appointment booking, without an app store listing.",
+    app: "Android and iOS apps for student attendance, repeat orders and appointment booking, released on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security fixes and speed checks, free for five months after launch and ₹8,000 a month after.",
   },
   whyUsIntro:

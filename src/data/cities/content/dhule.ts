@@ -50,7 +50,7 @@ const dhule: CityContent = {
     software: "Trip, freight and fleet registers for transporters, and order and stock tools for textile and oil units in MIDC Avdhan.",
     ai: "WhatsApp assistants that answer freight, price and appointment questions in Marathi, Hindi or English and log every enquiry.",
     data: "Dashboards showing trips, freight earned, dealer sales and dues, drawn from Tally and daily registers.",
-    app: "Installable web apps for drivers, field salesmen and patient queues that need no app store listing.",
+    app: "Android and iOS apps for drivers, field salesmen and patient queues, listed on Google Play and the App Store and starting at ₹40,000.",
     maintenance: "Updates, backups, security patches and uptime checks, free for five months and ₹8,000 a month after that.",
   },
   whyUsIntro:

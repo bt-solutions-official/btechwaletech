@@ -50,7 +50,7 @@ const lakhisarai: CityContent = {
     software: "Fee records, batch attendance, stock registers and credit ledgers for coaching institutes and wholesale traders.",
     ai: "WhatsApp replies in Hindi that answer fee, batch, doctor-timing and stock questions while the owner is busy at the counter.",
     data: "Sales, dues and admission numbers turned into a phone dashboard, so owners stop adding figures in notebooks at night.",
-    app: "Installable web apps for student notices, test results and dealer orders, without needing a Play Store listing.",
+    app: "Android and iOS apps for student notices, test results and dealer orders, one codebase released to both app stores, priced from ₹40,000.",
     maintenance: "Five free months of updates after launch, then maintenance from ₹8,000 a month if you want us to keep going.",
   },
   whyUsIntro:

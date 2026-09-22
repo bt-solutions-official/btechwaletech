@@ -51,7 +51,7 @@ const thrissur: CityContent = {
     software: "Member portals, collection trackers and branch dashboards for chit firms, finance companies and multi-branch retailers.",
     ai: "AI assistants and WhatsApp workflows that answer routine customer questions in Malayalam or English and route everything else to the right staff member.",
     data: "Branch-wise sales, collections and stock reports turned into dashboards that owners can check from a phone.",
-    app: "Installable web apps for loyalty schemes, gold savings plans, appointments or member accounts, with no app store required.",
+    app: "Android and iOS apps for loyalty schemes, gold savings plans, appointments or member accounts, listed on both app stores from ₹40,000.",
     maintenance: "Free for five months after launch, then from ₹8,000 a month for content edits, rate updates, backups and security fixes.",
   },
   whyUsIntro:

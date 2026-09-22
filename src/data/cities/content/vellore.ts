@@ -50,7 +50,7 @@ const vellore: CityContent = {
     software: "Order, sample and shipment trackers for leather exporters, and room, billing and occupancy tools for lodges with many rooms.",
     ai: "WhatsApp assistants that answer room availability, OP timings or product questions in Tamil, English or Hindi and pass real conversations to your staff.",
     data: "Dashboards for export orders, occupancy or daily sales so owners can see the month's picture without calling five people.",
-    app: "Installable web apps for staff attendance, delivery rounds or student notices that open without an app store download.",
+    app: "Android and iOS apps for staff attendance, delivery rounds or student notices, available on both app stores with builds starting at ₹40,000.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want to continue.",
   },
   whyUsIntro:

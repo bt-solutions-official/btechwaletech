@@ -50,7 +50,7 @@ const adoni: CityContent = {
     software: "Lot registers, weighbridge and dispatch logs, and buyer ledgers for ginning mills and traders who still work from books and calls.",
     ai: "WhatsApp assistants that answer rate, stock and appointment questions in Telugu, Kannada, Urdu or English and hand real deals to a person.",
     data: "Dashboards showing arrivals, bales pressed, oil dispatched or patients seen, so owners can read the season at a glance.",
-    app: "Installable web apps for field buyers, delivery staff or school parents, without an app-store listing.",
+    app: "Android and iPhone apps for field buyers, delivery staff or school parents, built once and released on both Google Play and the App Store.",
     maintenance: "Free updates and fixes for five months after launch, then plans from ₹8,000 a month or pay-per-change support.",
   },
   whyUsIntro:

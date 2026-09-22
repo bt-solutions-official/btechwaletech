@@ -50,7 +50,7 @@ const thanjavur: CityContent = {
     software: "Paddy procurement registers, milling batch logs, hostel and college fee tools built for delta businesses that still run on notebooks.",
     ai: "WhatsApp replies in Tamil and English that send price lists, painting sizes or hotel availability while you are in the workshop or at the mandi.",
     data: "Season-by-season dashboards of paddy intake, milling output, room bookings or patient visits that you can read on your phone.",
-    app: "Installable web apps for hostel attendance, clinic tokens or dealer orders, without needing a Play Store listing.",
+    app: "Android and iOS apps for hostel attendance, clinic tokens or dealer orders, published on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Content changes, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

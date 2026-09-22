@@ -50,7 +50,7 @@ const ahmednagar: CityContent = {
     software: "Supplier portals, dispatch trackers and member systems for MIDC units, dairies and cooperative institutions.",
     ai: "WhatsApp assistants that answer booking, stock or timing questions in Marathi, Hindi or English and hand real leads to your team.",
     data: "Milk collection, sales and production dashboards that owners can check on a phone instead of waiting for month-end reports.",
-    app: "Installable web apps for field staff, milk collection centres, patients and students that work on basic Android phones.",
+    app: "Android and iPhone apps for field staff, milk collection centres, patients and students, tuned for basic handsets and published on both app stores.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, including the name-change updates many Nagar sites still need.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const ujjain: CityContent = {
     software: "Booking systems, stock registers and dealer portals for Ujjain hotels, mandi traders and manufacturers on Maksi Road.",
     ai: "WhatsApp auto-replies and AI assistants that answer the same questions about rooms, puja timings, prices or stock and pass the rest to a person.",
     data: "Bookings, sales and procurement data turned into clear dashboards, useful for planning staff and stock before festival peaks.",
-    app: "Installable web apps for guests, devotees and field staff that work on basic Android phones and weak networks.",
+    app: "Android and iOS apps for guests, devotees and field staff on basic phones and weak networks, published on both stores from ₹40,000.",
     maintenance: "Free content updates, backups, security fixes and speed checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

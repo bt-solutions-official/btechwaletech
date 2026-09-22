@@ -51,7 +51,7 @@ const jagtial: CityContent = {
     software: "Stock, lot and payment records for rice mills, cold storages and commission agents handling many farmers.",
     ai: "WhatsApp replies in Telugu or English for rates, timings and fees, with anything serious passed to you.",
     data: "Arrivals, sales and dues from registers pulled into a simple phone dashboard.",
-    app: "Installable web apps for school notices, farmer updates or repeat orders, without a Play Store listing.",
+    app: "Android and iOS apps for school notices, farmer updates or repeat orders, available on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Five months of free edits, backups and security fixes after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

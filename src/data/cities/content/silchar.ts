@@ -51,7 +51,7 @@ const silchar: CityContent = {
     software: "Stock, order and credit-tracking tools for wholesalers supplying retailers in Mizoram, Manipur and the district's smaller towns.",
     ai: "WhatsApp replies that confirm stock, timings and fees in Bengali or English and forward real negotiations to you.",
     data: "Sales, collections and dispatch sheets turned into a simple dashboard you can check from your phone after the shop closes.",
-    app: "Installable web apps for appointment booking, student notices or retailer re-orders without an app store download.",
+    app: "Android and iOS apps for appointment booking, student notices or retailer re-orders, released on both app stores with prices starting at ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks at no charge for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const bilaspur: CityContent = {
     software: "Order, dispatch and billing tools for rice mills, Sirgitti manufacturers and contractors who supply SECL, the railways and power plants.",
     ai: "WhatsApp auto-replies, lead sorting and AI assistants that answer routine questions in Hindi, freeing staff at hospitals, coaching centres and showrooms.",
     data: "Dashboards for paddy procurement, mill output, dealer sales or tender pipelines, built on the spreadsheets you already use.",
-    app: "Installable web apps for client updates, bookings and field staff reporting, opened from a browser without an app store.",
+    app: "Android and iOS apps for client updates, bookings and field staff reporting, listed on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Five months of free upkeep after launch, then from ₹8,000 a month for updates, backups, security fixes and monitoring.",
   },
   whyUsIntro:

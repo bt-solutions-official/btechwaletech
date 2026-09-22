@@ -50,7 +50,7 @@ const nagda: CityContent = {
     software: "Manpower, attendance, work-order and billing tools for contractors serving large process plants.",
     ai: "WhatsApp assistants that share fee details, room availability or service lists in Hindi and route real enquiries to the owner.",
     data: "Dashboards for bills pending with each plant, labour hours by site or admissions by class, readable on a phone.",
-    app: "Installable web apps for site attendance, safety checklists or student tests that work where mobile data is weak.",
+    app: "Android and iOS apps for site attendance, safety checklists or student tests where mobile data is weak, published on both app stores from ₹40,000.",
     maintenance: "Five months of free maintenance after launch, then plans from ₹8,000 a month or charges per change.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const imphal: CityContent = {
     software: "Fee systems, stock ledgers and order portals for institutes and Thangal Bazar distributors who still run on registers.",
     ai: "WhatsApp assistants that answer routine questions about courses, stock or clinic timings in English or Hinglish and forward the rest.",
     data: "Clear dashboards for sales, fee collection or patient flow, built on spreadsheets your staff already maintain.",
-    app: "Lightweight installable web apps that keep working offline and sync orders or attendance when the network returns.",
+    app: "Android and iPhone apps that keep working offline and sync orders or attendance when the network returns, released on Google Play and the App Store.",
     maintenance: "Free fixes, backups and updates for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const hubliDharwad: CityContent = {
     software: "Dealer portals, production trackers and order systems for Gokul Road and Tarihal manufacturers and Durgadbail distributors.",
     ai: "WhatsApp assistants that answer admission, stock or appointment questions in Kannada, Hindi or English and forward the harder ones to your staff.",
     data: "Sales, collection and production figures brought into one clear dashboard, instead of five spreadsheets updated by different people.",
-    app: "Installable web apps for bookings, reorders and student access that work without going through an app store.",
+    app: "Android and iOS apps for bookings, reorders and student access, published on both Google Play and the App Store with prices starting at ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

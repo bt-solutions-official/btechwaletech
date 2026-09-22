@@ -51,7 +51,7 @@ const azamgarh: CityContent = {
     software: "Order, stock and karigar payment records for saree traders, and billing and inventory tools for wholesalers in the old market.",
     ai: "WhatsApp assistants that answer fee, appointment, stock and visa-document questions in Hindi or Urdu and hand tricky chats to staff.",
     data: "Dashboards that show orders, sales, dues and branch performance drawn from Tally, registers or Google Sheets.",
-    app: "Installable web apps for delivery staff, field agents and patient queues that need no Play Store listing.",
+    app: "Android and iOS apps for delivery staff, field agents and patient queues, listed on Google Play and the App Store and priced from ₹40,000.",
     maintenance: "Updates, backups, uptime checks and small edits, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

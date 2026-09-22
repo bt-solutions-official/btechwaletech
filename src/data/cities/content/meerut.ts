@@ -51,7 +51,7 @@ const meerut: CityContent = {
     software: "Order books, dealer portals and production trackers for Meerut manufacturers who still manage everything in registers and Excel.",
     ai: "WhatsApp and AI assistants that handle price, stock and delivery questions so your staff can focus on the orders that need a person.",
     data: "Dealer-wise sales, seasonal demand and stock reports turned into one dashboard instead of five spreadsheets.",
-    app: "Progressive web apps for dealers to place repeat orders and check dispatch status from their phones.",
+    app: "Android and iPhone apps for dealers to place repeat orders and check dispatch status from their phones, published on both app stores from ₹40,000.",
     maintenance: "Content changes, backups, security patches and speed checks, free for five months and ₹8,000 a month after that.",
   },
   whyUsIntro:

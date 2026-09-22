@@ -51,7 +51,7 @@ const vizianagaram: CityContent = {
     software: "Admission trackers, fee registers, vendor job cards and billing tools for colleges, coaching centres and plant contractors.",
     ai: "WhatsApp replies in Telugu and English for admission, OPD or order questions, with anything unusual passed to a real person.",
     data: "Dashboards built from fee, admission, dispatch or sales records, so management sees trends without opening ten spreadsheets.",
-    app: "Installable web apps for student notices, patient reminders or field staff, with no Play Store publishing needed.",
+    app: "Android and iPhone apps for student notices, patient reminders or field staff, published on Google Play and the App Store in six to ten weeks.",
     maintenance: "Content changes, security updates, backups and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

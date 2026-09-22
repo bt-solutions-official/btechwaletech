@@ -51,7 +51,7 @@ const ranibennur: CityContent = {
     software: "Grower contract, plot inspection and seed lot registers for multiplication companies that currently merge field notebooks into spreadsheets every season.",
     ai: "WhatsApp assistants that answer the rate, stock and variety questions dealers and farmers repeat every day, and hand anything unusual to your staff.",
     data: "Season dashboards comparing plots, villages and varieties, so a seed production manager can see germination and yield patterns without waiting for month-end.",
-    app: "Installable phone apps for field supervisors who record plot visits, photos and GPS points from villages with patchy signal, syncing when they reach coverage.",
+    app: "Android and iOS apps for field supervisors who record plot visits, photos and GPS points in villages with patchy signal, syncing later, from ₹40,000.",
     maintenance: "Rate list changes, new variety pages and security updates, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:
@@ -237,7 +237,7 @@ const ranibennur: CityContent = {
     {
       question: "Can field staff use the grower register without good signal?",
       answer:
-        "Yes. The field app saves visit records, photos and GPS points on the phone when there is no signal and syncs them once the supervisor reaches coverage. It installs from the browser, so there is no app store step, and it works on ordinary Android phones.",
+        "Yes. The field app saves visit records, photos and GPS points on the phone when there is no signal and syncs them once the supervisor reaches coverage. We publish it as an Android and iOS app on Google Play and the App Store, and it works on ordinary Android phones.",
     },
     {
       question: "Can you build an order system for my cloth wholesale business?",

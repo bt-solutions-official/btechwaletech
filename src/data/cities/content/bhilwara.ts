@@ -50,7 +50,7 @@ const bhilwara: CityContent = {
     software: "Order books, dispatch trackers and agent-commission portals for mills that still reconcile orders between Tally, registers and WhatsApp chats.",
     ai: "WhatsApp assistants that answer shade, rate and stock questions from agents across India and hand serious enquiries to your sales desk.",
     data: "Dashboards that show loom output, pending orders and payment ageing by agent, readable on a phone while you are at the factory.",
-    app: "Installable web apps for travelling sales agents to show the season’s range and book orders, without an app store listing.",
+    app: "Android and iPhone apps for travelling sales agents to show the season's fabric range and book orders, published on both app stores from ₹40,000.",
     maintenance: "Rate list updates, new design uploads, backups and security fixes, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const raurkela: CityContent = {
     software: "Vendor document portals, job-card trackers and dispatch dashboards for steel plant ancillaries and Kalunga units.",
     ai: "WhatsApp assistants that answer repeat questions about rates, stock, batch timings or OPD hours in Odia, Hindi or English and pass the rest to your staff.",
     data: "Production, rejection and order-status dashboards built from the Excel files your plant office already maintains.",
-    app: "Installable web apps for service contractors, transporters and tuition centres that open from a link without an app store.",
+    app: "Android and iOS apps for service contractors, transporters and tuition centres, listed on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

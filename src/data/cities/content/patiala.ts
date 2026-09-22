@@ -51,7 +51,7 @@ const patiala: CityContent = {
     software: "Admission portals, stock systems and vendor dashboards for Patiala institutes, distributors and Focal Point manufacturers.",
     ai: "WhatsApp auto-replies, enquiry logging and AI assistants that answer routine questions in Punjabi, Hindi or English.",
     data: "Sales and admission figures pulled out of scattered Excel files and shown on one dashboard you can check from your phone.",
-    app: "Installable web apps for student portals, patient bookings and repeat orders, with no Play Store listing needed.",
+    app: "Android and iOS apps for student portals, patient bookings and repeat orders, available on Google Play and the App Store, starting at ₹40,000.",
     maintenance: "Updates, backups, security fixes and speed checks, free for five months after launch and ₹8,000 a month afterwards.",
   },
   whyUsIntro:

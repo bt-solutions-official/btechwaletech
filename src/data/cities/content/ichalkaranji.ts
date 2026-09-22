@@ -51,7 +51,7 @@ const ichalkaranji: CityContent = {
     software: "Job-work registers, beam and yarn tracking, dealer portals and billing tools for textile units whose records still live in notebooks and scattered Excel files.",
     ai: "WhatsApp flows that send daily rate updates to buyers, log incoming fabric enquiries and chase pending payments, with the owner approving anything unusual.",
     data: "Production, meterage and payment dashboards that show a loom owner or trader what was woven, dispatched and still unpaid, on a phone, each morning.",
-    app: "Progressive web apps that shed supervisors and agents can install from a link to record production, photos and dispatches without a Play Store download.",
+    app: "Android and iOS apps that shed supervisors and agents use to record loom production, photos and dispatches, published on both stores from ₹40,000.",
     maintenance: "Content changes, backups, security updates and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const malerkotla: CityContent = {
     software: "Order, production and dispatch tracking for roll makers, foundries and badge units, replacing loose registers and spreadsheets.",
     ai: "WhatsApp replies in Punjabi, Hindi or English for catalogue requests, order status and table bookings, with pricing and complaints handed to a person.",
     data: "Dashboards for pending orders, furnace or machine output, dispatch schedules and customer dues, readable on a phone.",
-    app: "Installable web apps for shop-floor entries, delivery staff and sales teams that work on weak signal and sync later.",
+    app: "Android and iPhone apps for shop-floor entries, delivery staff and sales teams that sync after weak signal, published on Google Play and the App Store.",
     maintenance: "Free updates, backups and edits for five months after launch, then maintenance from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

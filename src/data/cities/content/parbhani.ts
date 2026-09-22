@@ -51,7 +51,7 @@ const parbhani: CityContent = {
     software: "Stock, credit and dispatch tools for agri-input dealers, ginning and trading firms and distributors who still run on ledgers.",
     ai: "WhatsApp replies in Marathi and Hindi that handle routine questions about stock, rates, timings or fees and pass real conversations to you.",
     data: "Season-wise sales, credit and stock figures turned into a simple dashboard so you know what moved before the next sowing season.",
-    app: "Installable web apps for field staff, order booking or school notices that run in a phone browser without a Play Store download.",
+    app: "Android and iOS apps for field staff, order booking or school notices, one codebase listed on Google Play and the App Store in six to ten weeks.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

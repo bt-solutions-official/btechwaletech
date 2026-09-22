@@ -51,7 +51,7 @@ const sirsa: CityContent = {
     software: "Purchase, stock and payment tools for ginners, shellers and arhtiyas who deal with hundreds of farmers each season.",
     ai: "WhatsApp replies in Hindi or Punjabi that share today's rates, stock or OPD timings and keep every enquiry in one sheet.",
     data: "Season-wise dashboards of arrivals, purchases, output and dues for mill owners and traders.",
-    app: "Installable web apps for gate entries, truck trips, coaching attendance or clinic tokens, without an app store.",
+    app: "Android and iOS apps for gate entries, truck trips, coaching attendance or clinic tokens, built in Flutter or React Native and released on both stores.",
     maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

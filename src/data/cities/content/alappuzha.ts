@@ -51,7 +51,7 @@ const alappuzha: CityContent = {
     software: "Booking calendars for houseboat fleets, order and production trackers for coir units, and fee or appointment systems.",
     ai: "WhatsApp assistants that answer houseboat availability, starting rates and route questions, and pass confirmed guests to your team.",
     data: "Dashboards for bookings by season and channel, occupancy by boat, and coir orders by buyer, built from your existing records.",
-    app: "Installable web apps for boat crews, drivers and sales staff to see bookings and pickup details on their phones.",
+    app: "Android and iOS apps for boat crews, drivers and sales staff to see bookings and pickup details, published on Google Play and the App Store.",
     maintenance: "Free updates, backups and fixes for five months after launch, then support from ₹8,000 a month or paid per change.",
   },
   whyUsIntro:

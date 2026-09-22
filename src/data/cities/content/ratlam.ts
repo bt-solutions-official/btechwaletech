@@ -51,7 +51,7 @@ const ratlam: CityContent = {
     software: "Order books, dealer ledgers and batch records for namkeen units, wire makers and chemical suppliers who still work from registers.",
     ai: "WhatsApp replies that share price lists, today's designs or dispatch status in Hindi and log every trade enquiry to a sheet.",
     data: "Dashboards for daily sales, dispatch by city, dealer outstanding and best-selling products, read on your phone.",
-    app: "Installable web apps for distributor reorders, school notices or clinic appointments, with no app store involved.",
+    app: "Android and iPhone apps for distributor reorders, school notices or clinic appointments, one codebase released on both stores from ₹40,000.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then from ₹8,000 a month or pay only for the changes you need.",
   },
   whyUsIntro:

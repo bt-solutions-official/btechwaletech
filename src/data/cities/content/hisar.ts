@@ -51,7 +51,7 @@ const hisar: CityContent = {
     software: "Dealer order portals, dispatch registers and quotation tools for pipe and steel businesses that still run on registers and phone calls.",
     ai: "WhatsApp bots that answer admission, rate-list and appointment questions in Hindi, then pass serious leads to a person in your office.",
     data: "Dashboards that pull mandi rates, dealer orders or clinic bookings into one screen an owner can check between meetings.",
-    app: "Installable web apps for booking vet visits, tracking deliveries to dealers or sharing test series with coaching students.",
+    app: "Android and iPhone apps for booking vet visits, tracking deliveries to dealers or sharing test series with coaching students, from ₹40,000.",
     maintenance: "Updates, backups and security fixes free for five months, then from ₹8,000 a month or pay-per-change if you prefer.",
   },
   whyUsIntro:

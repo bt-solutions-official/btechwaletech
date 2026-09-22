@@ -50,7 +50,7 @@ const pathankot: CityContent = {
     software: "Booking registers, fleet trip sheets and wholesale order tools for businesses that still juggle notebooks, phone calls and WhatsApp groups.",
     ai: "WhatsApp assistants that answer fare, room and admission questions in Punjabi, Hindi or English, and pass real bookings to a person.",
     data: "Simple dashboards showing bookings by season, orders by town or patients by department, so owners can plan staff and stock.",
-    app: "Installable web apps for cab drivers' duty slips, hotel check-ins or fee reminders, with no app-store listing needed.",
+    app: "Android and iPhone apps for cab drivers' duty slips, hotel check-ins or fee reminders, released on both app stores with builds from ₹40,000.",
     maintenance: "Five months of free updates, backups and fixes after launch, then plans from ₹8,000 a month or pay-per-job changes.",
   },
   whyUsIntro:

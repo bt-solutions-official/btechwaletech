@@ -51,7 +51,7 @@ const veraval: CityContent = {
     software: "Catch intake, grading, cold-store and container tracking for processors, and ledgers for boat owners and agents.",
     ai: "WhatsApp assistants that reply in Gujarati, Hindi or English to room, rate and order questions and pass the rest to staff.",
     data: "Dashboards for season-wise catch, export shipments or hotel occupancy, built from spreadsheets you already maintain.",
-    app: "Installable web apps for boat crew records, dock purchases and mango orchard bookings that work on basic phones.",
+    app: "Android and iPhone apps for boat crew records, dock purchases and mango orchard bookings on basic phones, released on Google Play and the App Store.",
     maintenance: "Five months of free updates and security care after launch; afterwards maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

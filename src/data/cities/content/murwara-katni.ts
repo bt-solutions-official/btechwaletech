@@ -50,7 +50,7 @@ const murwaraKatni: CityContent = {
     software: "Truck trip logs, weighbridge records, kiln batch sheets and dealer order portals for Katni's mineral and milling firms.",
     ai: "WhatsApp auto-replies that send today's rate list, stock status or dispatch updates in Hindi while you are at the mill or the mine.",
     data: "Daily dispatch, tonnage and payment figures pulled into one phone-friendly dashboard instead of three registers.",
-    app: "Installable web apps for drivers, field staff and dealers that work in a phone browser without a Play Store listing.",
+    app: "Android and iOS apps for drivers, field staff and dealers, one Flutter or React Native codebase published on both stores from ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

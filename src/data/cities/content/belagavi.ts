@@ -51,7 +51,7 @@ const belagavi: CityContent = {
     software: "Job-card trackers, RFQ portals and dispatch dashboards for Udyambag and Macche foundries and machine shops.",
     ai: "WhatsApp assistants that reply to routine price, admission or appointment questions in English, Kannada or Hindi and escalate the rest to a person.",
     data: "Rejection-rate, furnace output and order-book dashboards built from the Excel sheets your plant already keeps.",
-    app: "Progressive web apps for college admissions, clinic bookings and dealer ordering that open from a link and install without an app store.",
+    app: "Android and iOS apps for college admissions, clinic bookings and dealer ordering, built in Flutter or React Native and released on both stores.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month for continued care.",
   },
   whyUsIntro:

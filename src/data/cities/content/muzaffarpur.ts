@@ -50,7 +50,7 @@ const muzaffarpur: CityContent = {
     software: "Order books, billing dashboards and distributor portals for Sutapatti wholesalers and Bela units that have outgrown registers.",
     ai: "WhatsApp assistants that answer stock, fee or timing questions in Hindi and pass serious enquiries to the owner straight away.",
     data: "Sales, credit and dispatch dashboards for traders who supply shops across Tirhut, Mithila and Champaran.",
-    app: "Installable web apps for salesmen, students and patients that run well on entry-level Android phones.",
+    app: "Android and iOS apps for salesmen, students and patients that run well on entry-level phones, available on Google Play and the App Store.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, including litchi-season and wedding-season changes.",
   },
   whyUsIntro:

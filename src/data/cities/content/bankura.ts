@@ -51,7 +51,7 @@ const bankura: CityContent = {
     software: "Paddy purchase, milling and stock records, and order tracking for craft clusters and wholesalers.",
     ai: "WhatsApp replies in Bengali or English that answer price, stock, admission or appointment questions at any hour.",
     data: "Purchase, production and sales figures turned into a simple dashboard an owner can read on a phone.",
-    app: "Installable web apps for dealer orders, patient tokens or student notices, with no app store needed.",
+    app: "Android and iOS apps for dealer orders, patient tokens or student notices, released on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Five months of free updates, backups and security checks, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const srinagar: CityContent = {
     software: "Booking calendars for houseboat groups, order registers for mandi traders and staff portals for firms that still run on handwritten ledgers.",
     ai: "WhatsApp replies and enquiry sorting for the summer rush, so a travel desk on Boulevard Road can answer package questions at midnight without hiring night staff.",
     data: "Season-by-season sales and booking reports that show which months, markets and channels actually pay, drawn from the records you already keep.",
-    app: "Installable web apps for guest check-in, repeat orders and tour itineraries that work offline once loaded, useful when a guest heads to Gulmarg or Sonamarg.",
+    app: "Android and iOS apps for guest check-in, repeat orders and tour itineraries that stay usable offline on trips to Gulmarg or Sonamarg, from ₹40,000.",
     maintenance: "Rate changes, seasonal offers, backups and security updates handled free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

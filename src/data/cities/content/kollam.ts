@@ -51,7 +51,7 @@ const kollam: CityContent = {
     software: "Order trackers, grading logs, container dashboards and supplier portals for processing units and exporters that have outgrown Excel sheets passed around on WhatsApp.",
     ai: "WhatsApp replies, enquiry sorting and AI assistants that answer routine questions in Malayalam or English, so staff at a clinic, showroom or tuition centre can focus on the people in front of them.",
     data: "Clean dashboards for batch yields, export shipments, dealer sales or patient footfall, built from the spreadsheets you already keep.",
-    app: "Installable web apps for bookings, delivery orders or member accounts that work from the browser on any phone, with no Play Store listing needed.",
+    app: "Android and iOS apps for bookings, delivery orders or member accounts, built in Flutter or React Native and released on both app stores.",
     maintenance: "Updates, backups, security fixes and speed checks at no cost for five months after launch, then from ₹8,000 a month if you want us to keep looking after it.",
   },
   whyUsIntro:

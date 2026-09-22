@@ -51,7 +51,7 @@ const bhimavaram: CityContent = {
     software: "Pond records, feed and medicine stock, harvest logs and dealer credit tools for aqua businesses still using notebooks.",
     ai: "WhatsApp replies in Telugu or English for seed availability, feed rates, fees or bookings, with complex questions passed to your team.",
     data: "Dashboards of stocking, feed use, survival, harvest counts and payments that an aqua farmer or dealer can read on a phone.",
-    app: "Installable web apps for college students, hospital patients or field technicians without an app store download.",
+    app: "Android and iOS apps for college students, hospital patients or field technicians visiting ponds, released on Google Play and the App Store.",
     maintenance: "Updates, backups and fixes free for five months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:

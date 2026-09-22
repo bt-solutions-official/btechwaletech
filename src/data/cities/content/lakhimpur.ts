@@ -51,7 +51,7 @@ const lakhimpur: CityContent = {
     software: "Stock, credit and payment tracking for fertiliser, seed and pesticide dealers and for cane transport contractors.",
     ai: "WhatsApp assistants answering fee, stock or booking questions in Hindi and passing tricky conversations to your team.",
     data: "Dashboards for crushing-season sales, admissions or clinic footfall, built from the registers and sheets you already keep.",
-    app: "Installable web apps for field staff, dealer orders and school attendance that run on everyday Android phones.",
+    app: "Android and iOS apps for field staff, dealer orders and school attendance on everyday phones, from ₹40,000 on Google Play and the App Store.",
     maintenance: "Five months of free fixes, backups and updates after launch, then maintenance from ₹8,000 a month if needed.",
   },
   whyUsIntro:

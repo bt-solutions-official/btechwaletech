@@ -51,7 +51,7 @@ const malappuram: CityContent = {
     software: "Booking, billing and customer-file tools for travel and visa agents, labs and wholesale distributors in the district.",
     ai: "WhatsApp assistants that answer package, fee or appointment questions in Malayalam, even when the owner is abroad or asleep.",
     data: "Dashboards showing enquiries by source, admissions by course or sales by branch, so a Gulf-based partner sees the same numbers as the manager.",
-    app: "Installable web apps for turf bookings, tuition attendance or field-staff orders that work on patchy mobile data.",
+    app: "Android and iOS apps for turf bookings, tuition attendance or field-staff orders that work on patchy mobile data, released on both app stores.",
     maintenance: "Five months of free fixes and updates after launch, then plans from ₹8,000 a month or pay-per-change.",
   },
   whyUsIntro:
@@ -159,7 +159,7 @@ const malappuram: CityContent = {
       paragraphs: [
         "Malappuram is widely described as the home of sevens football, the seven-a-side game played on compact grounds through the season. The Kottappadi stadium in town and the district sports complex at Payyanad in Manjeri have hosted national club tournaments, and five-a-side turfs have spread across the district.",
         "That creates steady demand for simple web tools. Turf owners need a booking page that shows free slots and takes an advance through UPI, so the ground is not double-booked. Academies need programme pages, coach details, age groups and trial dates. Sports shops need a catalogue of boots, jerseys and team kits with a quick way to order printed sets for a club.",
-        "We have built this kind of slot-booking app as an installable web app, which avoids Play Store fees and opens straight from a link shared in a team group. Tournament organisers can add fixture and results pages that update from a sheet during the event.",
+        "We build this kind of slot-booking app for Android and iOS, published on Google Play and the App Store, or as a cheaper web app that opens from a link shared in a team group. Tournament organisers can add fixture and results pages that update from a sheet during the event.",
       ],
     },
     {

@@ -51,7 +51,7 @@ const hapur: CityContent = {
     software: "Dealer order portals, dispatch registers and stock systems for manufacturers and traders still tracking everything in bahi khatas.",
     ai: "WhatsApp assistants that answer size, rate and minimum-order questions from buyers and pass serious enquiries to the owner.",
     data: "Dashboards that show which products, dealers and cities bring the most business, drawn from your billing data.",
-    app: "Installable web apps for salesmen to take orders at retailer counters without a separate app download.",
+    app: "Android and iPhone apps for salesmen to take orders at retailer counters, available on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Rate list changes, new products, backups and security updates free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const bhiwandi: CityContent = {
     software: "Inward-outward registers, dispatch trackers, loom production logs and billing dashboards to replace paper registers and scattered Excel files.",
     ai: "WhatsApp assistants that log orders, answer rate and stock questions in Hindi or English, and remind buyers about pending payments.",
     data: "Dashboards showing stock by godown, dispatches by client, loom output by shift and outstanding payments by buyer.",
-    app: "Installable web apps for drivers, supervisors and godown staff to update deliveries and stock from their phones.",
+    app: "Android and iOS apps for drivers, supervisors and godown staff to update deliveries and stock from their phones, starting at ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:
@@ -229,7 +229,7 @@ const bhiwandi: CityContent = {
     {
       question: "Can you build a tracking tool for my transport business?",
       answer:
-        "Yes. We build trip logs that drivers or supervisors update from their phones, proof-of-delivery photo records, a view where clients see their own shipments, and month-end billing reports. These are installable web apps, so there is no app store process. We design them around how your team already works so they actually get used.",
+        "Yes. We build trip logs that drivers or supervisors update from their phones, proof-of-delivery photo records, a view where clients see their own shipments, and month-end billing reports. We ship these as Android and iOS apps on Google Play and the App Store, or as a lighter web app if you prefer. We design them around how your team already works so they actually get used.",
     },
     {
       question: "How long does a project take?",

@@ -51,7 +51,7 @@ const hardoi: CityContent = {
     software: "Purchase, stock and dues tools for grain, sugarcane and groundnut traders, and order tracking for Sandila suppliers.",
     ai: "WhatsApp replies in Hindi for rates, stock, fees and appointments that run all day and pass unusual cases to you.",
     data: "Phone dashboards for owners that show sales, purchases, dues and stock without opening a register.",
-    app: "Installable web apps for dealer orders, school notices or patient tokens, with no app store step.",
+    app: "Android and iOS apps for dealer orders, school notices or patient tokens, starting at ₹40,000 and released on both app stores in six to ten weeks.",
     maintenance: "Five months of free maintenance after launch, then from ₹8,000 a month for updates, backups and security.",
   },
   whyUsIntro:

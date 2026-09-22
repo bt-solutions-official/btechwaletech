@@ -51,7 +51,7 @@ const aizawl: CityContent = {
     software: "Portals, booking tools and admin panels for Aizawl institutes, distributors and tour operators whose registers and spreadsheets have become hard to manage.",
     ai: "WhatsApp auto-replies and AI assistants that answer the questions an Aizawl shop, clinic or homestay hears every day, in English or Mizo, with a person taking over when needed.",
     data: "Sales, stock and booking data turned into simple dashboards for owners who manage suppliers in Silchar and Guwahati and customers across Mizoram.",
-    app: "Installable progressive web apps for orders, room bookings and student notices that work without an app store listing and cope with weak signal on the hills.",
+    app: "Android and iOS apps for orders, room bookings and student notices that cope with weak signal on the hills, released on Google Play and the App Store.",
     maintenance: "Updates, backups, security patches and speed checks, free for the first five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

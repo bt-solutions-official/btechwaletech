@@ -50,7 +50,7 @@ const robertsonPet: CityContent = {
     software: "Job tracking, billing and attendance tools for vendors, fabricators and contractors working with industrial units in and around KGF.",
     ai: "WhatsApp assistants that reply in Tamil, Kannada or English to routine questions and hand real enquiries to your staff promptly.",
     data: "Dashboards for distributors and dealers who supply shops across Robertsonpet, Bangarapet, Kolar and the Andhra border towns.",
-    app: "Installable web apps for school notices, clinic tokens and field staff reports that work on budget Android phones.",
+    app: "Android and iOS apps for school notices, clinic tokens and field staff reports on budget phones, released on both stores, starting at ₹40,000.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month, with school admission and festival months planned for.",
   },
   whyUsIntro:

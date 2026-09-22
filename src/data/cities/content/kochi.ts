@@ -51,7 +51,7 @@ const kochi: CityContent = {
     software: "Portals and internal tools for exporters, logistics firms near Willingdon Island and service companies at Infopark.",
     ai: "WhatsApp and email automations that answer guests, patients and buyers in Malayalam or English and log every enquiry.",
     data: "Dashboards for export shipments, room occupancy or clinic appointments, built from the spreadsheets you already keep.",
-    app: "Installable web apps for bookings, dealer orders and member accounts, used across Ernakulam without an app store listing.",
+    app: "Android and iOS apps for bookings, dealer orders and member accounts across Ernakulam, built once and published on Google Play and the App Store from ₹40,000.",
     maintenance: "Monsoon-season fixes, tariff and menu updates, backups and security patches, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

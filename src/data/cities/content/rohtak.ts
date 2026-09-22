@@ -51,7 +51,7 @@ const rohtak: CityContent = {
     software: "Supplier portals, PPAP and inspection record tools, and job-card systems for IMT component makers moving off paper.",
     ai: "AI replies and WhatsApp flows that handle routine questions from students, patients and buyers, handing complex ones to staff.",
     data: "Production, dispatch and sales dashboards built from the spreadsheets your plant team already keeps.",
-    app: "Installable web apps for attendance, service bookings and field sales, without an app store listing.",
+    app: "Android and iPhone apps for attendance, service bookings and field sales, built in Flutter or React Native and listed on Google Play and the App Store.",
     maintenance: "Backups, updates and small edits free for five months after go-live, then from ₹8,000 a month.",
   },
   whyUsIntro:

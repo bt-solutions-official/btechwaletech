@@ -1,0 +1,712 @@
+---
+import JapanServicePage from "@components/japan/JapanServicePage.astro";
+import type { Article } from "@components/japan/JapanServicePage.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { usd, countryOgImage } from "@data/countries/international";
+import { JPY_PER_USD, jpy, both, ja, japanRegions, japanServiceSchema } from "@data/countries/japan";
+
+const path = "/japan/software-development/";
+
+// ---------- FAQ (visible list and FAQPage schema share this array; plain text only) ----------
+
+const faqs = [
+  {
+    question: "How much does custom software development cost in Japan?",
+    answer: `2026 price guides from Japanese comparison sites put a small web system at about ¥500,000 to ¥2,000,000, a mid-size system at ¥2,000,000 to ¥5,000,000 and a full business system at ¥5,000,000 to ¥10,000,000 or more. Booking and membership systems are often quoted at ¥3,000,000 to ¥5,000,000. Our custom web apps start from ${both("Custom web app")} for a clearly scoped first version, and AI automation starts from ${both("AI automation")}. The final quote depends on screens, roles, integrations and data migration, and we itemise it in writing before any work starts.`,
+  },
+  {
+    question: "Why are your prices lower than Japanese system development companies?",
+    answer: "Japanese vendors carry Japanese costs: office rent, salaries for sales staff, project managers and engineers, and on larger projects a chain of subcontractors in which each layer adds a margin. We are three engineers in India working remotely, with no office, no sales team and no subcontractors, so the people who scope the work are the people who write the code. The trade-offs are real. We work in English, we cannot visit your site, and we are not certified under ISO 27001, so some procurement rules may exclude us.",
+  },
+  {
+    question: "Do you have an office or staff in Japan?",
+    answer: "No. BtechWaleTech has no office, company registration, staff or address in Japan, and we do not use a virtual office to suggest otherwise. We are three engineers based in India: Ankur Kumar for full stack development, Santosh Sharma for AI, AWS, data and deployment, and Vedansh Shrivastava for project delivery, data science and automation. All work is remote, over WhatsApp, video calls, email and a shared staging environment. If your project needs on-site work in Japan, a local vendor is the better choice.",
+  },
+  {
+    question: "Can you work from Japanese requirements documents?",
+    answer: "We work in English and do not read or write natural Japanese, so we cannot work directly from a long Japanese specification. What works well is a short English requirements document that we draft with you, with Japanese screen labels, field names and messages kept in a separate sheet that your bilingual colleague or translator maintains. Machine translation helps us understand existing Japanese documents, but anything that decides behaviour, such as a calculation rule or an approval flow, is confirmed in English in writing before we build it.",
+  },
+  {
+    question: "Do you work under ukeoi (fixed deliverable) or jun-inin (time-based) contracts?",
+    answer: "Both patterns are possible. New builds usually work like an ukeoi contract: a written scope, a fixed price, milestone payments and a defined deliverable that you accept after testing. Ongoing work such as maintenance, small improvements and exploratory phases works more like jun-inin, where we provide agreed effort or a monthly service rather than promising a specific result. We do not supply engineers under an SES arrangement to work under your direct instructions. Which contract form suits your company, and its legal wording, is for your own adviser to confirm.",
+  },
+  {
+    question: "Do we need a bridge SE for an offshore project?",
+    answer: "Large offshore projects often use a bridge SE, a bilingual engineer who translates requirements and manages the offshore team. On a small or mid-sized project that role is usually too expensive, and it adds a layer between you and the developers. What we ask for instead is one person on your side who can read and write English, even at a basic level, to approve the scope and relay feedback. We keep messages short, use screenshots and staging links, and write every decision down so it translates cleanly.",
+  },
+  {
+    question: "How do you handle requirements definition?",
+    answer: "We run a lighter version of the Japanese requirements definition phase. In one or two calls we map who uses the system, what they do today, which screens and reports they need, what data exists and which systems it must connect to. We then write a scope document listing features, user roles, integrations, data migration, exclusions and acceptance criteria, with rough screen sketches. You approve it before development starts, and changes after approval are quoted separately so the budget never drifts without you knowing.",
+  },
+  {
+    question: "How does acceptance testing work, and who fixes defects after delivery?",
+    answer: "Before handover we test against the acceptance criteria in the scope, and we write a test specification listing the main cases and their expected results, which fits Japanese acceptance (kenshu) routines. Your team then tests on the staging environment for an agreed period and signs off. Anything that does not match the agreed scope is fixed at no charge, and after launch you get five months of free maintenance. How long formal liability for non-conformity lasts should be written into the contract and checked by your adviser.",
+  },
+  {
+    question: "Can you integrate with kintone, freee and Money Forward Cloud?",
+    answer: `Yes. kintone, freee and Money Forward Cloud publish APIs for their main products, as do Salesforce, Slack, Chatwork, LINE, Shopify, Stripe, Google Workspace and Microsoft 365. Typical integrations create invoices or journal entries from paid orders, sync customer records between kintone and a web portal, post alerts to Chatwork or Slack, and send LINE messages at key steps. Each integration runs under an account your company owns, with the minimum permissions needed. Simple flows start from ${both("AI automation")}; larger integrations are part of a custom build.`,
+  },
+  {
+    question: "Can you replace our Excel sheets or an outgrown kintone app?",
+    answer: "Yes, and we usually start by keeping what works. Many Japanese teams run sales, stock or project data in Excel files shared by email, or in kintone apps that became slow and fragile as lookups and plugins piled up. We map the data and the daily routine, then build a web system with proper tables, user roles, change history and exports in the Excel format staff already use. Sometimes the best answer is to keep kintone as the entry screen and move only the heavy processing or reporting into a custom service.",
+  },
+  {
+    question: "Can you modernise an old in-house system?",
+    answer: "Often, yes. Common cases are Access databases, Excel VBA tools, old PHP or Java web systems and on-premises servers nearing the end of support. We first document what the system actually does, including rules nobody wrote down, then rebuild it in stages while the old system keeps running. Japanese legacy data brings its own work: Shift_JIS or CP932 text converted to UTF-8, machine-dependent characters, half-width katakana, Japanese era dates and custom kanji in names. We rehearse the data migration before the final switch-over.",
+  },
+  {
+    question: "Where will our system and data be hosted?",
+    answer: "Usually in a Japanese cloud region. AWS, Google Cloud and Microsoft Azure all operate regions in Tokyo and Osaka, so a common design runs production in Tokyo with backups or a standby copy in Osaka for disaster recovery. The cloud account is opened in your company's name and billed to you directly, which keeps the data and access under your control. If your internal policy requires data to stay in Japan, we design for that and document which service stores what.",
+  },
+  {
+    question: "Are you ISO 27001 certified?",
+    answer: "No. We do not hold ISO 27001, the ISMS certification many Japanese companies ask vendors about, the Privacy Mark or any other security certification. What we do in practice: least-privilege access, multi-factor authentication on every account, code review, dependency and security updates, separate staging and production environments, encrypted backups, secrets kept out of source code, and access removed at the end of a project. We answer security check sheets honestly. If certification is mandatory under your procurement rules, we are not the right vendor.",
+  },
+  {
+    question: "Can your team in India access our customers' personal data?",
+    answer: "Only when it is genuinely necessary. Under Japan's Act on the Protection of Personal Information, letting a contractor in a foreign country access personal data counts as providing it to a third party in a foreign country, which generally needs either the individual's informed consent or a contractor with an equivalent protection system. India's Digital Personal Data Protection Act, 2023 is being phased in. We build and test with dummy data, keep production access minimal and sign data-handling terms. Your adviser should decide the legal basis; this is not legal advice.",
+  },
+  {
+    question: "Do you add Japanese consumption tax or issue qualified invoices?",
+    answer: "No. We are an India-based provider and not registered as a qualified invoice issuer in Japan, so our invoices do not add Japanese consumption tax and are not qualified invoices under the invoice system. How the service is treated for consumption tax, and whether any withholding tax applies, depends on the type of service and your company's situation, so please ask your tax accountant (zeirishi) before the first payment. We are also not a registered IT support provider, so our work is not eligible for IT adoption subsidies.",
+  },
+  {
+    question: "Can you invoice in yen, and how do we pay?",
+    answer: `Yes. Our prices are published in US dollars, with approximate yen at ¥${JPY_PER_USD} per dollar for comparison; in September 2026 the rate moved between about ¥153 and ¥157. On request we fix a JPY amount in the written quote, so exchange movements do not change what you owe. Payment is by Wise or international bank wire, in milestones: an advance to start, a payment at design approval and the balance before launch. Cloud, API and licence costs are paid by you directly to those providers.`,
+  },
+  {
+    question: "Who owns the source code and intellectual property?",
+    answer: "You do, once the invoices for the work are paid. The source code lives in a repository under your company's account, and cloud, domain, database and third-party service accounts are in your company's name from the start. At handover you receive every login, the deployment instructions and English documentation of the architecture, data model and integrations. Open-source libraries keep their own licences, which we list. There is no lock-in: you can move maintenance to another vendor or an in-house team whenever you like.",
+  },
+  {
+    question: "What hours are you available in Japan time?",
+    answer: "Japan is three and a half hours ahead of India, and neither country changes its clocks for daylight saving. We work 9 am to 9 pm India time, which is 12:30 pm to 12:30 am in Japan, seven days a week on WhatsApp. Calls fit well into the Japanese afternoon, and a morning call around 10 am JST can be arranged in advance, for example on a launch day or for a meeting with your whole team. Production releases are scheduled outside your busiest business hours.",
+  },
+  {
+    question: "What support do we get after launch?",
+    answer: `Every project includes five months of free maintenance after launch: bug fixes, security and dependency updates, backups, monitoring and small changes. After that, maintenance continues from ${both("Maintenance")}, or you contact us only when you need something. We agree response times in writing, such as same-day replies to issues raised within our working hours, but we do not run a 24-hour operations centre. If your system needs round-the-clock on-call support, we will say so early and help you plan for it.`,
+  },
+  {
+    question: "Can an IT subsidy pay for our project?",
+    answer: "Not with us. Japan's IT adoption subsidy and similar programmes require registered IT support providers and registered tools, and we are not registered, so our work is not eligible. Some other subsidies may cover system costs under their own rules, but whether an overseas provider qualifies depends on the programme. Check with the programme office or your local chamber of commerce before choosing any vendor. If a subsidy is essential to your budget, a registered Japanese provider is the practical route.",
+  },
+  {
+    question: "How long does a custom software project take?",
+    answer: "It depends on scope, but a focused first version is usually a matter of weeks rather than months, and the timeline table on this page shows typical ranges for each project type. The most common causes of delay in Japan are internal approvals involving several people, requirements that change after sign-off, slow access to existing systems and data, and translation of screen text. We plan for those in the schedule and release in stages, so your team can start using the core features before everything is finished.",
+  },
+  {
+    question: "How do we start a software project with you?",
+    answer: "Send a WhatsApp message or email in English describing your business, the problem you want to solve, the tools you use today and any deadline. Screenshots of current spreadsheets or systems help a great deal. We reply with questions, then send a written scope, a timeline and a quote in USD or JPY, usually within two working days. Nothing is billed until you approve the scope, and the first payment only starts the work described in it.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "Software Development Company Japan | IT Outsourcing",
+  description: `Custom software, business systems and offshore IT outsourcing for Japan from a remote team in India. Custom web apps from ${usd("Custom web app")} (about ${jpy("Custom web app")}).`,
+  canonicalPath: path,
+  h1: "Software development and IT outsourcing for Japan: Tokyo, Osaka and all 47 prefectures",
+  intro: "BtechWaleTech is a team of three engineers in India building custom software for businesses in Japan: business systems, booking and membership platforms, B2B ordering portals, API integrations with kintone, freee and LINE, legacy system replacement, cloud setups in the Tokyo and Osaka regions, and data dashboards. We work remotely in English, with a written scope, staged releases on a private staging environment and code owned by your company, at starting prices well below typical Japanese system development quotes.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Japan", href: "/japan/" },
+    { label: "Software development", href: path },
+  ]),
+  locale: "en_JP",
+  ogImage: countryOgImage("BtechWaleTech, a remote software development team in India serving businesses in Japan"),
+  keywords: [
+    "software development company Japan",
+    "IT outsourcing Japan",
+    "offshore development Japan",
+    "offshore software development India Japan",
+    "custom software development Tokyo",
+    "web application development Japan",
+    "IT services Japan",
+    "system development outsourcing Japan",
+    "hire software developers Japan",
+    "business system development Japan",
+    "custom software Osaka",
+    "software developer Nagoya",
+    "software development Yokohama",
+    "software company Fukuoka",
+    "IT outsourcing Sapporo",
+    "web system development Kyoto",
+    "software development Kobe",
+    "kintone integration",
+    "kintone replacement system",
+    "freee API integration",
+    "Money Forward Cloud integration",
+    "legacy system modernisation Japan",
+    "cloud migration Tokyo region",
+    "AWS Tokyo region development",
+    "Excel replacement system Japan",
+    "B2B ordering system Japan",
+    "booking system development Japan",
+    "システム開発 外注",
+    "オフショア開発 インド",
+    "業務システム 開発",
+    "Webシステム開発",
+  ],
+});
+
+const schema = japanServiceSchema({
+  path,
+  title: page.title,
+  description: page.description,
+  serviceName: "Software development and IT outsourcing for businesses in Japan",
+  serviceType: "Custom software development",
+  plans: ["Custom web app", "AI automation", "Ecommerce", "Android", "Maintenance"],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Japan · Software development · Remote team in India";
+const facts: [string, string][] = [
+  ["Team", "Three engineers in India, no subcontractors"],
+  ["Custom web apps", `From ${usd("Custom web app")}, about ${jpy("Custom web app")}`],
+  ["Cloud", "AWS, Google Cloud or Azure in Tokyo and Osaka"],
+  ["Contracts", "Fixed-scope builds with milestone payments"],
+  ["Billing", "USD, or JPY on request, via Wise or wire"],
+  ["After launch", "5 months of maintenance free"],
+];
+const pills = ["Business systems", "B2B ordering portals", "kintone, freee and LINE integrations", "Excel and legacy replacement", "Cloud migration in Tokyo", "Data dashboards"];
+const heroOrigin = "Engineers based in India · Remote delivery across Japan · No Japan office";
+const quoteKicker = "Software starting prices";
+const quotePlans = ["Custom web app", "AI automation", "Android", "Ecommerce", "Maintenance"];
+const quoteFoot = `Starting prices in USD, with yen at about ¥${JPY_PER_USD} per dollar for comparison. Your quote depends on scope; cloud and licence costs are billed to you directly.`;
+
+const stats = [
+  { value: "3", label: "Engineers who scope and write your code" },
+  { value: usd("Custom web app"), label: `Custom web app starting price, about ${jpy("Custom web app")}` },
+  { value: "790,000", label: "IT workers Japan could lack by 2030 (METI estimate)" },
+  { value: "5", label: "Months of maintenance free after launch" },
+];
+
+const answerHeading = "Looking for a software development company or IT outsourcing partner for Japan?";
+const quickAnswer = `BtechWaleTech is a team of three engineers in India that builds custom web applications, business systems, integrations, cloud setups and data dashboards for companies in Japan, remotely and in English. Custom web apps start from ${both("Custom web app")} and AI automation from ${both("AI automation")}, compared with ¥500,000 to ¥2,000,000 for a small web system in 2026 Japanese price guides. You get a written scope, a staging environment within the first weeks, code and accounts in your company's name, and five months of free maintenance.`;
+const answerMore = "We suit teams with at least one person who can work in English. We have no Japan office, do not hold ISO 27001 and are not eligible for IT subsidies, so if any of those is a firm requirement, a Japanese vendor will suit you better.";
+const snapshotCaption = "Software development for Japan at a glance";
+const snapshot = [
+  { label: "Who builds it", value: "Ankur Kumar (full stack), Santosh Sharma (AI, AWS, data), Vedansh Shrivastava (delivery, automation)" },
+  { label: "What we build", value: "Business systems, booking and member systems, B2B portals, integrations, legacy replacement, cloud and data" },
+  { label: "Typical stack", value: "TypeScript, React or Next.js, Node.js or Python, PostgreSQL, managed cloud services" },
+  { label: "Where it runs", value: "Your own AWS, Google Cloud or Azure account, usually Tokyo with Osaka backups" },
+  { label: "Language", value: "English; Japanese screen text written or reviewed by your team or a translator" },
+  { label: "Starting price", value: `Custom web apps from ${both("Custom web app")}` },
+  { label: "Hours in JST", value: "12:30 pm to 12:30 am, seven days a week on WhatsApp" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "Software, integrations and cloud work for businesses in Japan";
+const services: { name: string; note: string; href?: string; size: "lg" | "md" | "sm" }[] = [
+  { name: "Custom web applications", note: "Business systems, booking and membership platforms, B2B ordering portals and internal tools with roles, audit history and Excel-friendly exports.", href: "/services/web-development/", size: "lg" },
+  { name: "Legacy modernisation & cloud", note: "Access, VBA and ageing PHP or Java systems rebuilt in stages and moved to AWS, Google Cloud or Azure in Tokyo, with Osaka backups.", size: "md" },
+  { name: "API integrations", note: "kintone, freee, Money Forward Cloud, Salesforce, Shopify, Slack, Chatwork and LINE connected so data is entered once.", size: "sm" },
+  { name: "Data & dashboards", note: "Pipelines from POS, ecommerce, accounting and spreadsheets into one warehouse, with dashboards and simple forecasts.", size: "sm" },
+  { name: "AI automation", note: "AI-OCR for FAX and PDF orders, document search and workflow automation with a person approving key steps.", href: "/japan/ai-automation-engineer/", size: "sm" },
+  { name: "Android & iOS apps", note: `One Flutter or React Native app for iPhone and Android, often the mobile front end of a custom system, from ${both("Android")}.`, href: "/japan/android-ios-developer/", size: "sm" },
+  { name: "Websites", note: "Corporate, recruitment and product sites that connect to your systems and forms.", href: "/japan/website-developer/", size: "sm" },
+  { name: "SEO", note: "Search visibility for Google and Yahoo! JAPAN, from technical fixes to large structured sites.", href: "/japan/seo-services/", size: "sm" },
+];
+
+// ---------- Pricing ----------
+
+const pricingHeading = "Software development prices for Japan in USD and yen";
+const pricingIntro = `All figures are starting prices for a clearly scoped first version, in US dollars with approximate yen at ¥${JPY_PER_USD} per dollar. Software quotes depend on screens, user roles, integrations, data migration and reporting, and we itemise them in writing. JPY invoicing is available on request.`;
+const pricingFine = "Starting prices, not fixed quotes. Yen figures are approximate; the written quote fixes the amount in USD or JPY. Cloud hosting, databases, API usage, SaaS licences such as kintone or Salesforce, app store fees and translation are paid by you directly to those providers. Our invoices do not include Japanese consumption tax.";
+
+// ---------- Regions: guide blocks and region table both come from japanRegions ----------
+
+const regionNotes: Record<string, { character: string; build: string; text: string }> = {
+  Hokkaido: {
+    character: "Agriculture, dairy, fisheries, long-distance distribution, resort tourism, semiconductor construction",
+    build: "Dispatch and route tools, cold-chain records, cooperative data systems, resort back offices",
+    text: "Hokkaido is a single prefecture and a region of its own, and distance shapes much of its software demand. Sapporo holds most of the island's offices, IT firms and retail headquarters, while Asahikawa, Hakodate, Kushiro and Obihiro serve large farming, dairy and fishing areas. Businesses here often need systems that cope with long delivery routes and heavy winters: dispatch and route planning for distributors, temperature records for seafood and dairy shippers, and harvest or milk collection data for cooperatives and farms. Resort areas such as Niseko and Furano run seasonal operations with foreign guests and staff, which calls for booking back offices, shift planning and English admin screens. Around Chitose, the Rapidus semiconductor project has brought construction and supplier activity that needs project tracking and document control. We build these systems remotely, typically hosted in the Tokyo cloud region with backups in Osaka.",
+  },
+  Tohoku: {
+    character: "Electronics and auto parts plants, rice, fruit and sake, universities, regional branch offices",
+    build: "Production and quality records, food traceability, wholesale ordering, branch sales tools",
+    text: "Tohoku's six prefectures combine manufacturing, agriculture and a strong university base. Sendai in Miyagi is the business centre, home to Tohoku University and to branch offices of national companies that need regional sales, service and reporting tools. Factories across Miyagi, Iwate and Fukushima make electronic components, auto parts and machinery, and they need production tracking, inspection records and supplier portals that replace paper check sheets. Aomori apples, Yamagata cherries, Akita rice and sake from across the region create demand for traceability, seasonal pre-order management and wholesale ordering. Many Tohoku firms feel the labour shortage sharply, so automating data entry, inspection records and shift scheduling often matters more than adding features. Koriyama, Iwaki, Morioka, Akita City and Yamagata City each anchor local economies where one well-built web system can replace years of shared spreadsheets and email attachments.",
+  },
+  Kanto: {
+    character: "Headquarters, finance, SaaS, foreign subsidiaries, research, large logistics warehouses",
+    build: "Internal tools, client portals, SaaS products, integrations, data platforms, English systems for subsidiaries",
+    text: "Kanto has the largest concentration of Japanese headquarters, financial institutions, SaaS companies and foreign subsidiaries, and it generates the widest range of software work. In Tokyo's 23 wards, companies commission internal tools, client portals, data platforms and integrations between Salesforce, kintone, accounting and chat tools. Foreign-owned subsidiaries in Minato, Chiyoda and Shibuya often need systems that report to a global head office in English while handling Japanese invoices, closing dates and tax rules locally. Yokohama and Kawasaki add research centres, electronics and port logistics; Saitama and Chiba host large distribution warehouses that need stock, picking and delivery tracking; Sagamihara, Tsukuba in Ibaraki, Utsunomiya in Tochigi and Takasaki and Maebashi in Gunma combine manufacturing, research and logistics. Startups across the region want a first product version that investors and early customers can use. Kanto projects tend to involve the most integrations, the most stakeholders and the most detailed security questionnaires.",
+  },
+  Chubu: {
+    character: "Automotive supply chain, machine tools, precision parts, pharmaceuticals, metalwork, mountain tourism",
+    build: "Production scheduling, inspection records, RFQ and supplier portals, machine data dashboards",
+    text: "Chubu's nine prefectures form Japan's manufacturing core, centred on Aichi, where Nagoya and Toyota City sit at the heart of the automotive supply chain. Many tier-two and tier-three suppliers across Aichi, Gifu and Shizuoka need production scheduling, inspection and quality records, quotation tools that accept drawings, and cleaner data exchange with their larger customers. Hamamatsu adds motorcycles, musical instruments and optical technology, and Shizuoka City has food processing and tea. On the Sea of Japan coast, Niigata, Toyama, Kanazawa and Fukui host metalworking, pharmaceuticals, textiles and eyeglass-frame makers, many of them family firms running systems built decades ago. Nagano and Yamanashi combine precision machinery and electronics with ski resorts and wineries. For Chubu companies we typically build production and inventory dashboards, supplier portals, collection of machine data for monitoring, and English screens for overseas plants and buyers.",
+  },
+  Kansai: {
+    character: "Wholesale and trading, pharmaceuticals, electronics, games, port logistics, heavy inbound tourism",
+    build: "B2B ordering portals, inventory systems, AI-OCR for orders, hospitality booking, cloud migrations",
+    text: "Kansai's seven prefectures form Japan's second great economic area. Osaka's wholesale and trading companies, many of them long-established family firms, still take a large part of their orders by phone and FAX, which makes them strong candidates for B2B ordering portals, inventory systems and AI-OCR for incoming order sheets. Osaka and Kobe also host pharmaceutical, chemical and medical-device companies with strict document and approval workflows. Kyoto is home to globally known electronics, precision equipment and game companies alongside traditional craft makers and a very large tourism sector that needs booking and property management tools. Kobe adds port logistics and food brands; Sakai and Higashiosaka are known for small manufacturers; Himeji, Nara, Wakayama, Otsu in Shiga, and Yokkaichi and Tsu in Mie add chemicals, manufacturing and regional services. Typical Kansai work is ordering portals, stock and sales dashboards, hospitality booking systems and cloud migrations for systems that have run on one office server for years.",
+  },
+  Chugoku: {
+    character: "Automotive, shipbuilding, steel, chemicals, denim, fruit farming, heritage tourism",
+    build: "Plant and maintenance records, supplier portals, food traceability, tourism back offices",
+    text: "Chugoku stretches across western Honshu, from the industrial Seto Inland Sea coast to the quieter Sea of Japan side. Hiroshima has automotive manufacturing with a wide supplier base, and shipbuilding and marine equipment makers operate along the coast around Kure and Onomichi. Okayama and Kurashiki combine chemicals, steel, denim and fruit farming, and Fukuyama adds steel and machinery. Yamaguchi hosts chemical complexes and Shimonoseki's seafood trade, while Tottori and Shimane, the two least populated prefectures in Japan, rely on agriculture, fisheries, tourism and local services. Software demand here centres on production and maintenance records for plants and shipyards, supplier and parts portals, traceability and order systems for food producers, and small back-office systems for tourism operators. Because many firms are family-owned with small IT teams, clear English documentation and a simple, well-rehearsed handover matter as much as the code itself.",
+  },
+  Shikoku: {
+    character: "Shipbuilding, towels, paper, citrus, chemicals and LEDs, agriculture and fisheries",
+    build: "Order and inventory systems for makers, production records, field-staff tools, tourism booking",
+    text: "Shikoku's four prefectures are smaller economies with strong specialist industries. Ehime has shipbuilding and towel making around Imabari, paper production around Shikokuchuo, citrus farming, and Matsuyama as its commercial centre. Kagawa's Takamatsu hosts regional branch offices of national companies and firms serving the whole island, and the prefecture is known for food processing and sanuki udon. Tokushima has chemical, pharmaceutical and LED-related industries, and Kochi is known for agriculture, fisheries and forestry. Most businesses are small or medium-sized and many are family-run, so the usual need is a focused system rather than a large platform: order and inventory management for makers shipping across Japan, production records for factories, booking tools for tourism along the pilgrimage and art routes, and reporting that brings sales and stock into one dashboard. Because staff often travel long distances across the island, cloud systems that work well on a phone are especially useful.",
+  },
+  "Kyushu and Okinawa": {
+    character: "Semiconductors, car plants, steel and robotics, startups, livestock and farming, resort tourism, IT and BPO",
+    build: "Startup MVPs, supplier and quality systems, livestock and food traceability, booking back offices",
+    text: "Kyushu and Okinawa cover eight prefectures and a fast-changing economy. The semiconductor supply chain has expanded around Kumamoto since the plant run by TSMC's Japanese subsidiary started operating in Kikuyo, drawing equipment makers, materials suppliers and service firms that need project, inventory and quality systems. Northern Kyushu also has major car plants and their suppliers, and Kitakyushu adds steel, robotics and environmental technology. Fukuoka City has an active startup scene and many IT companies, which makes it a common source of MVP and SaaS projects. Further south, Kagoshima and Miyazaki are large livestock and farming areas where traceability and shipment records matter, Nagasaki has shipbuilding and tourism, Oita has hot spring resorts and manufacturing, and Saga has ceramics and food producers. Okinawa's Naha area combines tourism with a growing IT and business process outsourcing sector. Here we build startup products, supplier systems, traceability tools and booking back offices.",
+  },
+};
+const prefectureCount = japanRegions.reduce((n, r) => n + r.prefectures.length, 0);
+
+// ---------- Tokyo and the 20 designated cities ----------
+
+const cityRows = [
+  ["Tokyo (23 wards)", "Tokyo", "Headquarters systems, SaaS products, client portals, Salesforce and kintone integrations, English tools for foreign subsidiaries"],
+  ["Yokohama", "Kanagawa", "R&D and electronics firms, port logistics tracking, internal tools for large employers"],
+  ["Osaka", "Osaka", "B2B ordering portals for wholesalers, inventory systems, AI-OCR for FAX orders, pharmaceutical document workflows"],
+  ["Nagoya", "Aichi", "Production scheduling, quality records and supplier portals for the automotive supply chain"],
+  ["Sapporo", "Hokkaido", "Distribution and route planning, food traceability, tourism back offices, IT firms needing extra capacity"],
+  ["Fukuoka", "Fukuoka", "Startup MVPs and SaaS, booking systems, trading firms working with Korea, Taiwan and China"],
+  ["Kobe", "Hyogo", "Port and logistics systems, food and fashion brand operations, medical-industry document control"],
+  ["Kawasaki", "Kanagawa", "Electronics and IT companies, R&D data platforms, factory systems along the waterfront"],
+  ["Kyoto", "Kyoto", "Hospitality booking and property management, craft makers' ordering, tools for technology firms"],
+  ["Saitama", "Saitama", "Logistics warehouses, retail back offices, scheduling for service businesses"],
+  ["Hiroshima", "Hiroshima", "Automotive supplier portals, shipbuilding and maintenance records, tourism back offices"],
+  ["Sendai", "Miyagi", "Regional branch systems, university spin-outs, sales and service tools covering Tohoku"],
+  ["Chiba", "Chiba", "Logistics near Narita Airport, Makuhari business district tools, retail operations"],
+  ["Kitakyushu", "Fukuoka", "Steel and robotics production data, environmental monitoring dashboards"],
+  ["Sakai", "Osaka", "Order and stock systems for small manufacturers such as knife and bicycle parts makers"],
+  ["Niigata", "Niigata", "Food processing and sake traceability, rice distribution, metalworking suppliers nearby"],
+  ["Hamamatsu", "Shizuoka", "Motorcycle, car and instrument suppliers, optical technology, production dashboards"],
+  ["Kumamoto", "Kumamoto", "Semiconductor supply-chain systems, agricultural traceability, construction project tracking"],
+  ["Sagamihara", "Kanagawa", "Manufacturing and logistics systems, research-related data tools"],
+  ["Shizuoka", "Shizuoka", "Tea and food processing, plastic model makers' ordering, regional retail systems"],
+  ["Okayama", "Okayama", "Logistics between Chugoku and Shikoku, chemicals and denim nearby, agricultural ordering"],
+];
+
+// ---------- Long-form guide (paragraphs, list items and after may contain inline HTML) ----------
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are, and which software projects in Japan we suit",
+    paragraphs: [
+      "BtechWaleTech is a three-person engineering team in India. Ankur Kumar is our full stack developer: he builds the screens, the back-end services and the integrations that connect them. Santosh Sharma covers AI and machine learning, AWS infrastructure, data pipelines, technical SEO and deployment. Vedansh Shrivastava leads project delivery and works on data science, AI and automation. For a client in Japan, that means the person who answers your question about a pricing rule is the person who implements it. There is no project manager, sales representative or subcontractor between you and the code.",
+      `We have no office, company registration, staff or postal address in Japan, and all of our work is remote. We do not claim past Japanese clients, publish testimonials or display certification badges; we would rather you judge us on a clear scope, a working staging environment and direct conversations with the engineers. For the wider picture of what we build across the country, <a href="/japan/">our Japan page</a> covers websites, apps, SEO and automation. This page is about software: ${ja("業務システム")} (business systems), web applications, integrations, cloud and data work, ${ja("システム開発")} in the broad sense.`,
+      "We work in English. None of us writes natural Japanese, so screen labels, messages, manuals and emails that your staff or customers read in Japanese are written or reviewed by you, a bilingual colleague or a translator. We build systems so that this text lives in a separate, translatable file rather than being scattered through the code, which also makes later wording changes cheap and safe.",
+      "The projects that suit us best share a few traits:",
+    ],
+    list: [
+      "<strong>Foreign-owned companies and Japanese subsidiaries</strong> that already work in English and need internal tools, portals or integrations with global systems.",
+      "<strong>Japanese SMEs with one English-speaking manager or IT lead</strong> who can own the requirements and relay feedback to colleagues.",
+      "<strong>Startups in Tokyo, Fukuoka and other cities</strong> building a first product version on a limited budget.",
+      "<strong>Teams outgrowing Excel or kintone</strong> who want a focused custom system rather than a large package implementation.",
+      "<strong>Companies left with an unsupported system</strong> after the original vendor stopped maintaining it.",
+    ],
+    after: [
+      "<strong>Who should look elsewhere:</strong> if your project needs meetings in Japanese, on-site work at your office or factory, an ISO 27001-certified vendor, a Japanese-registered contractor for public tenders, or eligibility for IT subsidies, a Japanese system development company is the better fit, and we will say so in the first conversation.",
+    ],
+  },
+  {
+    id: "what-we-build",
+    heading: "Custom software we build for businesses in Japan",
+    paragraphs: [
+      "Software development here means anything beyond a standard website: systems with user accounts, data, business rules and integrations. These are the categories Japanese businesses most often need, and the ones we build.",
+    ],
+    list: [
+      `<strong>Business systems (${ja("業務システム")}).</strong> Sales management, quotation and order management, job and project tracking, staff scheduling and approval workflows, built around how your team actually works rather than around a package's assumptions.`,
+      "<strong>Booking and membership systems.</strong> Reservations for clinics, salons, schools, rentals and experiences; member portals with plans, points and renewal reminders; staff-side calendars and capacity rules.",
+      "<strong>B2B ordering portals.</strong> Customer-specific price lists, repeat orders, order history, delivery date selection and invoice downloads for wholesalers and manufacturers whose customers still order by phone, FAX or email.",
+      "<strong>Inventory and operations dashboards.</strong> Stock across warehouses and shops, reorder alerts, production progress and sales by channel, updated automatically instead of rebuilt in Excel every Monday morning.",
+      "<strong>API integrations.</strong> Accounting, CRM, ecommerce, chat, payment and messaging tools connected so data is entered once and flows everywhere it is needed.",
+      "<strong>Legacy modernisation.</strong> Access databases, VBA tools and ageing PHP or Java systems replaced in stages, with the data migrated and reconciled.",
+      "<strong>Cloud migration and DevOps.</strong> On-premises servers moved to AWS, Google Cloud or Azure in Tokyo, with automated deployment, monitoring and backups.",
+      "<strong>Data engineering and analytics.</strong> Pipelines that pull data from POS, ecommerce, accounting and spreadsheets into one place, with dashboards and simple forecasts.",
+    ],
+    after: [
+      `The rest of the stack has its own pages: <a href="/japan/website-developer/">website development in Japan</a> for corporate and recruitment sites, <a href="/japan/android-ios-developer/">Android and iOS app development in Japan</a> for store apps, <a href="/japan/ai-automation-engineer/">AI automation engineering in Japan</a> for language models, OCR and workflow automation, and <a href="/japan/seo-services/">SEO services in Japan</a> for search. The general scope of our web application work is on the <a href="/services/web-development/">web development service page</a>, and search visibility for customer-facing systems is covered on our <a href="/services/seo-services/">SEO services page</a>.`,
+      "Typical technology choices are TypeScript with React or Next.js for screens, Node.js or Python for back-end services, PostgreSQL or MySQL for data, and managed cloud services for storage, queues and authentication. We choose well-supported, widely used tools on purpose: the system should be easy for another engineer, in Japan or anywhere else, to maintain after us.",
+    ],
+  },
+  {
+    id: "cost-japan",
+    heading: "What system development costs in Japan in 2026, compared with our starting prices",
+    paragraphs: [
+      `Japanese companies usually collect several competing quotes (${ja("相見積もり")}) before choosing a system vendor, so it helps to know the market range first. The figures below are typical ranges from 2026 price guides published by Japanese agencies and comparison sites such as ${ja("Web幹事")}, ${ja("システム幹事")} and ${ja("発注ラウンジ")}, which summarise quotes from Japanese development companies. They are market ranges, not a quote from any single company. Our figures are starting prices, with yen at ¥${JPY_PER_USD} per US dollar for comparison.`,
+    ],
+    table: {
+      caption: "Typical Japanese system development prices in 2026 compared with BtechWaleTech starting prices",
+      head: ["Project type", "Typical price in Japan (2026 guides)", "BtechWaleTech starting price"],
+      rows: [
+        ["Small web system", "¥500,000 to ¥2,000,000", `${both("Custom web app")} for a scoped first version`],
+        ["Mid-size web system", "¥2,000,000 to ¥5,000,000", `Quoted per scope; first release from ${both("Custom web app")}`],
+        ["Full business system or web service", "¥5,000,000 to ¥10,000,000 and up", "Quoted per scope, usually delivered in phases"],
+        ["Booking system, simple CMS or membership management", "¥3,000,000 to ¥5,000,000", `From ${both("Custom web app")}`],
+        ["Ecommerce or internal management system", "¥6,000,000 to ¥10,000,000", `Stores from ${both("Ecommerce")}; internal systems quoted per scope`],
+        ["Large proprietary service", "¥15,000,000 and up", "Quoted per scope, with phased releases"],
+        ["Android and iOS app", "¥1,000,000 to ¥2,000,000 per platform", `${both("Android")} for one cross-platform app`],
+        ["Business automation", "¥200,000 to ¥1,000,000", `From ${both("AI automation")}`],
+        ["Basic Shopify store by an agency", "¥300,000 to ¥1,000,000", `From ${both("Ecommerce")}`],
+      ],
+    },
+    after: [
+      "<strong>Read the ranges with care.</strong> A Japanese quote for a mid-size system usually includes a formal requirements phase, design documents, several rounds of testing with written test specifications and a project manager's time, and on larger projects the margins of subcontractors below the prime contractor. Our starting price covers a focused first version: the core screens, roles and integrations needed to replace a manual process, delivered in stages. If your project genuinely needs everything in the Japanese mid-size range, our quote will be higher than the starting price, and we will show why line by line.",
+      "<strong>The exchange rate.</strong> Our prices are set in US dollars. In September 2026 the yen moved between about ¥153 and ¥157 per dollar, so the yen figure shifts a little from month to month. If your budget is approved in yen, we fix a JPY amount in the written quote, and that amount does not change during the project.",
+      "<strong>Compare like with like.</strong> A packaged SaaS tool with a monthly fee can be cheaper than any custom build for a standard process such as expense claims or attendance tracking. We will tell you when an off-the-shelf product fits better. Custom development pays off mainly where your process is a real advantage, where several tools must work together, or where per-user licence fees have grown out of proportion.",
+    ],
+  },
+  {
+    id: "cost-breakdown",
+    heading: "What our starting prices buy, and why they are lower",
+    paragraphs: [
+      "A starting price only helps if you know what it covers. These are the starting prices most relevant to software projects for businesses in Japan, and what each typically buys.",
+    ],
+    list: [
+      `<strong>Custom web app, from ${both("Custom web app")}:</strong> a focused first version of a business system, booking system, member portal, B2B ordering portal or dashboard, with user accounts, roles and permissions, an admin panel, the core workflow, CSV or Excel export and deployment to your own cloud account.`,
+      `<strong>AI automation, from ${both("AI automation")}:</strong> one mapped and integrated workflow, for example FAX or PDF orders read by AI-OCR into your order system with a person checking uncertain fields, or kintone records synced with freee and announced in Chatwork. Details are on the <a href="/japan/ai-automation-engineer/">AI automation page for Japan</a>.`,
+      `<strong>Android and iOS app, from ${both("Android")}:</strong> one Flutter or React Native app for iPhone and Android with login, forms, push notifications and an admin panel, often the mobile front end of a custom system. See <a href="/it-services/android-ios-app/">our Android and iOS app service</a>.`,
+      `<strong>Ecommerce, from ${both("Ecommerce")}:</strong> a store with cart, checkout, Japanese payment methods and order management, which can connect to your inventory or accounting system as part of a larger build.`,
+      `<strong>Maintenance, from ${both("Maintenance")}:</strong> bug fixes, security and dependency updates, backups, monitoring and small changes, after the five free months that follow every launch.`,
+    ],
+    after: [
+      `<strong>Why our prices are lower.</strong> A Japanese system vendor's price has to cover a Tokyo or Osaka office, a sales team that wins the project, a project manager who coordinates it, and often second and third-tier subcontractors who each keep a margin, a pattern the industry itself calls multi-layer subcontracting (${ja("多重下請け構造")}). We carry none of those costs. Three engineers in India, working remotely, scope, build and support the system themselves. That is the reason for the gap, not shortcuts in testing or security.`,
+      "<strong>What raises a quote:</strong> many user roles with different permissions, complex approval routes, integrations with older on-premises systems, large or messy data migrations, printed forms that must match existing layouts exactly, and hard deadlines. <strong>What keeps it down:</strong> one decision-maker, sample data available early, a first release limited to the core workflow, and a willingness to accept standard screen layouts where nothing special is needed.",
+      `<strong>Costs you pay directly.</strong> Cloud hosting, databases, email delivery, API usage for AI models, SaaS licences such as kintone, Salesforce or Slack, app store fees and translation are billed to your company by those providers. We estimate them in the quote so the running cost is visible before you commit. Scope notes for every plan are on the <a href="/pricing/">pricing page</a>.`,
+    ],
+  },
+  {
+    id: "why-outsource",
+    heading: "Why Japanese companies outsource software: the IT talent shortage and DX",
+    paragraphs: [
+      "Japan has had a structural shortage of IT engineers for years. The Ministry of Economy, Trade and Industry estimated that the country could be short of up to 790,000 IT workers by 2030. The gap is felt most outside the big cities, where small and mid-sized companies cannot match Tokyo salaries or attract experienced engineers at all. Many firms therefore have one person who looks after the network, the PCs and the accounting software, and nobody who can build or maintain a system.",
+      `The government has also pushed digital transformation (${ja("DX")}) for years. METI's DX Report of September 2018 coined the phrase "the 2025 digital cliff" (${ja("2025年の崖")}), warning that if companies could not modernise ageing, heavily customised and poorly documented legacy systems, Japan could face economic losses of up to ¥12 trillion a year from 2025. For most SMEs the pressure is more immediate: fewer staff to re-type data, customers who expect online ordering and booking, and legal changes to invoices and electronic records that paper processes handle badly.`,
+      "For a small company, the practical situation is usually one of three. Work runs on Excel files and email because no system fits. A system built years ago by a vendor that has since stopped supporting it still runs critical processes. Or a SaaS tool was bought but never connected to anything else, so staff copy data between tools by hand. Each is fixable without a large project, and outsourcing is often the only realistic way to do it.",
+      "Outsourcing does not remove the need for ownership inside your company. The projects that go well have one person who decides priorities, knows the current process and can test the result. We supply the engineering; that person supplies the knowledge of your business. When nobody inside can take that role, we recommend starting with a smaller first release rather than a large system nobody owns.",
+      `If your need is broader than software, for example a new corporate site or local search visibility, the overview of <a href="/japan/">IT services in Japan</a> shows everything we build for Japanese businesses, with prices for each.`,
+    ],
+  },
+  {
+    id: "offshore-japan",
+    heading: "Offshore development from Japan, and where an India team fits",
+    paragraphs: [
+      `Offshore development (${ja("オフショア開発")}) is a familiar model in Japan. Vendors in Vietnam, China, the Philippines, India, Bangladesh and elsewhere build software for Japanese clients, usually through a Japanese sales office and a bilingual bridge engineer who handles communication. The attraction is the same everywhere: engineering capacity that is hard to hire locally, at a lower cost. In the 2025 edition of the ${ja("オフショア開発白書")} (Offshore Development White Paper), published by the Japanese matching site ${ja("オフショア開発.com")}, Vietnam was by far the most common destination, followed by China and India.`,
+      "India is a less common choice for Japanese SMEs, and the main reason is language. Indian engineering teams usually work in English, while many Japanese companies want to specify, review and discuss in Japanese. Some offshore firms in other countries train Japanese-speaking engineers for exactly this reason. We do not pretend to solve that with a translation layer. We recommend an India team, and us, mainly when your side already has someone who is comfortable working in English.",
+      `<strong>The bridge SE question.</strong> On large offshore projects a bridge SE (${ja("ブリッジSE")}) translates requirements, reviews deliverables and manages the offshore team. That role costs money and adds a layer between the people who know the business and the people who write the code. On a small or mid-sized project, a bilingual contact on your side does the same job better: someone who reads the scope, relays feedback from colleagues and approves releases. We make that person's job easy with short English messages, annotated screenshots, a staging environment and a running decision log.`,
+      "<strong>What an India team brings.</strong> India has a very large software engineering workforce with strong English and long experience of cloud platforms, data engineering and AI, built through work for clients in the United States, Europe and Australia. For a Japanese company that already runs partly in English, or a foreign subsidiary in Japan, that combination is often a better fit than a Japanese-speaking offshore team whose English is limited.",
+      "<strong>Making it work.</strong> Write the scope in English and keep it short; keep Japanese screen text in a separate sheet; release to staging in small steps so misunderstandings surface within days, not months; and agree which person on each side makes decisions. Offshore projects that fail usually follow the same pattern, long silent periods followed by one big delivery that misses the point, and staged releases remove most of that risk.",
+    ],
+  },
+  {
+    id: "contracts",
+    heading: "Ukeoi, jun-inin and SES: Japanese contract types and how our work maps to them",
+    paragraphs: [
+      "Japanese software contracts usually fall into a few types, and your legal or purchasing team will ask which one applies. This is a practical summary for planning, not legal advice.",
+      `<strong>Ukeoi (${ja("請負契約")}), a contract for work.</strong> The vendor promises to complete a defined deliverable, and payment is tied to that result. Most fixed-price system builds are contracted this way. The vendor carries the risk of finishing the agreed scope, which is why Japanese vendors invest so much effort in requirements before signing: anything not written down becomes a dispute about scope later.`,
+      `<strong>Jun-inin (${ja("準委任契約")}), a quasi-mandate.</strong> The vendor promises to perform work with professional care rather than to deliver a specific result, and is usually paid for time or a monthly fee. Requirements definition, consulting, maintenance and agile development are often contracted this way, because the output cannot be fully specified in advance. Since the 2020 Civil Code revision, a quasi-mandate can also be paid on delivery of a result (${ja("成果完成型")}), which some companies use for phases with a clear output but an open method.`,
+      `<strong>SES (system engineering service).</strong> A common Japanese arrangement in which a vendor supplies engineers, often to work at the client's site, under a quasi-mandate contract. Because it is not worker dispatch, the client is generally not supposed to direct those engineers directly; doing so risks being treated as disguised contracting (${ja("偽装請負")}). We do not offer SES and do not place engineers under a client's direct instruction.`,
+      "<strong>How our projects map.</strong> New builds are fixed-scope: a written scope, a fixed price, milestone payments and acceptance against agreed criteria, which is close to ukeoi. Maintenance and continuous improvement are a monthly service, closer to jun-inin, and can be stopped with notice. Discovery work on an unclear problem can be a small fixed-price phase whose output is the scope document itself. Model contracts for system development have been published for the Japanese IT industry, and your team is welcome to use one as the starting point, with the Japanese-law wording checked by your own adviser.",
+    ],
+  },
+  {
+    id: "requirements-quality",
+    heading: "Requirements, testing and acceptance: meeting Japanese quality expectations",
+    paragraphs: [
+      `Japanese system development traditionally follows a clear sequence: requirements definition (${ja("要件定義")}), basic design (${ja("基本設計")}), detailed design (${ja("詳細設計")}), coding, then unit, integration and system testing, and finally the client's acceptance testing and formal acceptance (${ja("検収")}). Each phase ends with documents the client reviews. The model is heavy, but the expectation behind it is reasonable: nothing should reach production that has not been checked against something written down.`,
+      "<strong>How we adapt it.</strong> We keep the discipline and drop the weight. Requirements become a short English scope with a screen list, user roles, data items, business rules and acceptance criteria. Design becomes screen sketches and a data model reviewed together in a call. Instead of one delivery at the end, features are released to staging in small batches, so your team checks real screens against the scope every week.",
+      `<strong>Test specifications.</strong> Japanese clients often expect a test specification (${ja("テスト仕様書")}): a table of test cases with steps, expected results, actual results and a pass or fail mark. We write one for the main workflows and for the business rules that matter most, such as tax rounding, closing dates and permission checks, and we add automated tests for calculations and integrations so the same checks run on every future change.`,
+      "<strong>Acceptance.</strong> Before release, your team tests on staging for an agreed period using real scenarios, ideally with anonymised copies of real data. Issues go into one shared list with screenshots and are classified as defects against the scope or as new requests, then fixed or quoted accordingly. Sign-off happens when the agreed criteria pass, and it triggers the final milestone payment.",
+      `<strong>Defects after delivery.</strong> Since the revision of Japan's Civil Code in 2020, the old concept of warranty against defects (${ja("瑕疵担保責任")}) has been replaced by liability for non-conformity with the contract (${ja("契約不適合責任")}), under which a client can generally ask for repair, a price reduction, damages or termination when a deliverable does not match the contract. Under the default rules the client must notify the vendor within one year of discovering the problem, but contracts commonly set their own period and limits, so this should be written into your contract and reviewed by your adviser. In practice, anything that does not match the agreed scope is fixed at no cost, and the five free months of maintenance after launch cover fixes and small changes.`,
+    ],
+  },
+  {
+    id: "japan-specifics",
+    heading: "Japanese business rules that custom software has to get right",
+    paragraphs: [
+      "Most software problems in Japan are not technical. They come from business conventions that foreign templates and packages ignore. These are the ones we plan for from the first scope document.",
+    ],
+    list: [
+      `<strong>Closing dates and payment terms.</strong> B2B billing usually runs on a monthly closing date (${ja("締め日")}) with terms such as closing at month end and paying at the end of the following month (${ja("月末締め翌月末払い")}). Customer-specific closing dates, payment terms and consolidated invoices covering many deliveries must be modelled in the data from the start, not bolted on later.`,
+      "<strong>Consumption tax and rounding.</strong> The standard 10 percent and reduced 8 percent rates must be tracked per line, and on a qualified invoice the tax is rounded once per rate per invoice rather than line by line. Getting this wrong produces one-yen differences that accountants notice immediately.",
+      "<strong>Dates and fiscal years.</strong> Many companies run an April-to-March fiscal year, some documents and older customers expect Japanese era years such as Reiwa next to the Western year, and business-day calculations need Japanese national holidays plus company closures around Golden Week, Obon and the New Year.",
+      `<strong>Bank transfer files.</strong> Bulk supplier payments and payroll are often uploaded to banks as files in the Zengin format (${ja("全銀フォーマット")}), a fixed-length layout in which account names are written in half-width katakana. Systems that pay suppliers need to generate it exactly.`,
+      `<strong>Names, readings and addresses.</strong> Family name first, a katakana reading field (${ja("フリガナ")}) for sorting and phone calls, postal-code address lookup, and normalisation of full-width and half-width characters so that searches and duplicate checks actually work.`,
+      `<strong>Forms that print.</strong> Quotations, delivery notes and invoices (${ja("帳票")}) often have to match an established layout, sometimes with the company seal image, and are sent as PDF. Layout work belongs in the scope, not in the last week.`,
+      `<strong>Approval routes.</strong> Purchases, discounts and contracts often need a multi-step internal approval (${ja("稟議")}), with substitutes when a manager is away. We build routes that follow your internal rules and keep a complete audit trail.`,
+      "<strong>CSV and Excel.</strong> Staff open exports in Excel on Japanese Windows, which reads plain CSV files in the Japanese Shift_JIS encoding by default. We export UTF-8 with a byte order mark or native Excel files so Japanese text never turns into garbled characters.",
+    ],
+  },
+  {
+    id: "integrations",
+    heading: "Integrating kintone, freee, Money Forward, Salesforce, LINE, Slack and Chatwork",
+    paragraphs: [
+      "A typical Japanese SME uses several cloud tools that do not talk to each other: kintone for customer or project records, freee or Money Forward Cloud for accounting and invoices, Chatwork or Slack for internal chat, Google Workspace or Microsoft 365 for email and files, and sometimes Salesforce or HubSpot for sales. Much of the value of custom software in Japan is simply connecting them, so information is entered once and trusted everywhere.",
+      "<strong>Common patterns.</strong> A paid order in Shopify or your own system creates an invoice or journal entry in freee or Money Forward Cloud. A new kintone record appears in a customer portal, and changes made there flow back. A won deal in Salesforce generates a quotation PDF in the company's own layout. An overdue task posts a reminder to Chatwork. A booking confirmation, reminder or delivery update reaches the customer on LINE.",
+      `<strong>LINE.</strong> LINE has more than 100 million monthly users in Japan according to LY Corporation, so many customer-facing systems send notifications through a LINE Official Account (${ja("LINE公式アカウント")}) and the Messaging API. LINE Notify, which many companies used for quick internal alerts, ended in March 2025, so older scripts that relied on it need moving to the Messaging API, Slack, Chatwork or Microsoft Teams. Message volume affects what your company pays LINE, so we design notifications to be useful rather than frequent.`,
+      "<strong>Doing integrations properly.</strong> We use official APIs and webhooks rather than scraping screens. Each integration runs under a service account your company owns, with the narrowest permissions the job needs. Failed calls are retried safely without creating duplicate invoices, every sync is logged, and a person is alerted when something needs attention. When a SaaS vendor changes its API, maintenance covers the update.",
+      `Where the integration is mainly about automating a human routine, such as reading orders, drafting replies or summarising meetings, the <a href="/japan/ai-automation-engineer/">AI automation engineer page for Japan</a> covers the AI side in more depth.`,
+    ],
+  },
+  {
+    id: "excel-kintone",
+    heading: "Replacing Excel and outgrown kintone apps",
+    paragraphs: [
+      "Excel still runs a great deal of day-to-day work in Japanese companies: quotations, order books, stock lists, shift rosters and sales reports passed around by email or kept on a shared drive. It works until two people edit different copies, a formula breaks without anyone noticing, or the one person who understands the macros moves on.",
+      "kintone, Cybozu's no-code business app platform, is a common next step, and a good one for many teams. Problems start when an app grows beyond what it was designed for: dozens of lookup fields between apps, plugins stacked on plugins, JavaScript customisations nobody documented, and reports that still need an export to Excel. Performance, permissions and data integrity become harder to manage with every change.",
+      "<strong>Signs it is time for a custom system:</strong> the same data is entered in two places; month-end closing depends on one person's spreadsheet; customers or suppliers need access that your current tool cannot give safely; calculations such as pricing, commissions or stock valuation are too complex for formulas; or licence costs grow with every user who only needs to look at data.",
+      "<strong>How we approach it.</strong> We collect the current files and screens, list every field and rule, and agree which ones still matter. The new system gets a proper relational data model, user roles, a history of who changed what, and exports in the formats staff rely on. Existing data is cleaned and migrated in rehearsals before the switch. Where kintone works well as an entry screen, we can keep it and move only the heavy processing, customer access or reporting into a custom service connected through the kintone REST API.",
+      `A focused replacement like this fits our custom web app starting price of ${both("Custom web app")}; the quote depends on how many workflows, roles and reports it covers.`,
+    ],
+  },
+  {
+    id: "legacy-cloud",
+    heading: "Legacy modernisation and cloud migration in the Tokyo and Osaka regions",
+    paragraphs: [
+      "Many Japanese companies still run important systems on an on-premises server in the office or a data centre: an Access database, an Excel VBA tool, a Visual Basic client application, or a PHP or Java web system written ten or twenty years ago. The original vendor may have closed or stopped supporting it, the server's operating system may be out of support, and the source code may be incomplete or undocumented.",
+      "<strong>Staged modernisation.</strong> We avoid big-bang rewrites. First we document what the system actually does, including rules found only in the code or in staff habits. Then we rebuild in slices, one workflow at a time, with the old and new systems running side by side and data kept in sync until each slice is proven. The riskiest part, usually the data, is rehearsed more than once before the final switch.",
+      "<strong>Japanese data conversion.</strong> Legacy Japanese data brings specific work: text stored in Shift_JIS or CP932 converted to UTF-8, machine-dependent characters such as circled numbers and single-character company abbreviations, half-width katakana in names and addresses, custom kanji (gaiji) used in people's names, Japanese era dates stored as text, and codes whose meaning lives only in someone's memory. We write conversion scripts with checks that count and compare records, so nothing disappears quietly.",
+      "<strong>Cloud architecture in Japan.</strong> AWS (Tokyo ap-northeast-1 and Osaka ap-northeast-3), Google Cloud (Tokyo asia-northeast1 and Osaka asia-northeast2) and Microsoft Azure (Japan East and Japan West) all operate regions in Japan. A common design runs production in Tokyo and keeps backups, and for critical systems a standby environment, in Osaka, so an earthquake or regional outage in one area does not stop the business. The account is opened in your company's name, which keeps billing, data and access under your control and makes data residency in Japan straightforward to document.",
+      "<strong>DevOps.</strong> Infrastructure is defined as code so it can be reviewed and rebuilt, deployments run through an automated pipeline with tests, and monitoring, log retention, cost alerts and backup restore tests are set up before launch. Santosh, who handles AWS and deployment on our team, documents the setup in English so the next engineer can take it over without guesswork.",
+    ],
+  },
+  {
+    id: "data-analytics",
+    heading: "Data engineering, dashboards and analytics for Japanese businesses",
+    paragraphs: [
+      "Many companies in Japan have plenty of data and little time to use it: POS exports, ecommerce orders from their own store and from marketplaces such as Rakuten and Amazon, accounting data, spreadsheets from branches and records in kintone. Management reports are rebuilt by hand every month, often by the same overworked person.",
+      "We build pipelines that pull these sources into one database or warehouse on a schedule, clean and join them, and feed dashboards that answer the questions managers actually ask: sales by store, channel and product, stock cover, gross margin by customer, and how this month compares with the same month last year. Dashboards can live in tools such as Looker Studio or Power BI, or inside your custom system.",
+      "With clean history in place, simple forecasting becomes realistic: expected demand over the coming weeks, seasonal patterns around Golden Week, Obon and the year-end gift season, or reorder points by product. Santosh and Vedansh handle the data science side, and we keep models explainable, because a forecast nobody trusts will not be used.",
+      "Data work touches personal information more often than people expect, for example customer names inside order records. We aggregate or pseudonymise wherever possible, so analytics can run without the India team seeing identifiable customer details.",
+    ],
+  },
+  {
+    id: "security",
+    heading: "Security practices, and what we do not claim",
+    paragraphs: [
+      `Japanese companies commonly send vendors a security check sheet (${ja("セキュリティチェックシート")}) before signing, and larger clients often ask whether the vendor holds ISO 27001 (ISMS) or the Privacy Mark (${ja("プライバシーマーク")}). We hold neither certification, and we answer check sheets honestly rather than ticking every box.`,
+      "This is what we do on every project:",
+    ],
+    list: [
+      "Least-privilege access: each person and service gets only the permissions it needs, and access is removed when a project ends.",
+      "Multi-factor authentication on cloud, repository and SaaS accounts, with your company as the owner of each account.",
+      "Code review before changes reach production, and dependency and security updates applied as part of maintenance.",
+      "Secrets such as API keys stored in a secrets manager or protected environment configuration, never in source code.",
+      "Separate development, staging and production environments, with staging running on dummy or anonymised data.",
+      "Encrypted backups with tested restores, and logs retained long enough to investigate an incident.",
+      "Common web vulnerabilities, such as injection, cross-site scripting, broken access control and unsafe file uploads, addressed in design and checked before release.",
+    ],
+    after: [
+      "If your policy requires a certified vendor, penetration testing by an accredited firm or on-site security audits, the testing can be arranged with a third party at your cost, or a certified Japanese vendor may simply be the right choice. We would rather tell you that before the project than after it.",
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "APPI, invoices, electronic records and other rules that shape business software",
+    paragraphs: [
+      "This is practical groundwork we build into systems for Japan, not legal or tax advice. For formal questions, please speak to a qualified adviser in Japan.",
+      `<strong>Personal information.</strong> Japan's Act on the Protection of Personal Information (${ja("個人情報保護法")}, APPI) requires businesses to specify their purposes of use, keep personal data secure and supervise contractors who handle it. Systems we build support that with role-based access, audit logs, retention settings, and export or deletion tools for handling requests from individuals.`,
+      "<strong>Access from India.</strong> If our team can access personal data in your system, that is provision of data to a third party in a foreign country under the APPI. It generally requires the individual's consent, given with information about the country and its data protection system, or a contractor with a protection system equivalent to the APPI's standards. India's Digital Personal Data Protection Act, 2023 is being phased in. We minimise access, develop with dummy data, restrict production access and sign data-handling terms; your adviser decides the legal basis your company relies on.",
+      `<strong>The invoice system.</strong> Since October 2023, buyers generally need qualified invoices (${ja("適格請求書")}) from registered issuers to claim input tax credits. Billing systems for registered Japanese companies must show the registration number, the applicable tax rates and the tax amount for each rate. Our own invoices to you are different: we are not a registered qualified invoice issuer, we do not add Japanese consumption tax, and your tax accountant should confirm the treatment.`,
+      "<strong>Digital invoices.</strong> Japan's Digital Agency publishes JP PINT, the Japanese specification for Peppol e-invoices, which supports qualified invoices and the monthly consolidated invoices common in Japanese B2B trade. Adoption is voluntary and still growing, and several Japanese accounting and invoicing services already support Peppol, so a new billing system should at least be able to hand invoice data to such a service rather than only printing PDFs.",
+      `<strong>Electronic records.</strong> Under the Electronic Books Maintenance Act (${ja("電子帳簿保存法")}), transaction records exchanged electronically, such as PDF invoices, must be stored electronically from January 2024, searchable by date, amount and counterparty and protected against undetected changes. Systems that send or receive invoices should store them that way, not only as email attachments.`,
+      "<strong>External transmission rules.</strong> Since June 2023, the Telecommunications Business Act requires many online services to disclose information sent to third parties through tags and SDKs, such as analytics and advertising scripts. Many corporate sites that promote a company's own business are out of scope, but customer portals, apps and online services may be covered, so we list every third-party script and add a disclosure page where needed.",
+      "<strong>Accessibility.</strong> Since April 2024, reasonable accommodation for people with disabilities has been mandatory for private businesses under the Act for Eliminating Discrimination against Persons with Disabilities. For web systems, JIS X 8341-3, which is aligned with WCAG, is the reference standard; we build customer-facing screens with keyboard access, labelled fields, sufficient contrast and clear error messages.",
+      "<strong>Consumer-facing systems.</strong> Prices shown to consumers must include consumption tax, a rule in force since April 2021, and online stores need a Specified Commercial Transactions Act page and a final confirmation screen that meets the rules in force since June 2022. Advertising claims inside the system fall under the Premiums and Representations Act, which has also covered stealth marketing since October 2023.",
+    ],
+  },
+  {
+    id: "japan-regions",
+    heading: `Software development across Japan: all 8 regions and ${prefectureCount} prefectures`,
+    paragraphs: [
+      `We build software for companies in all ${prefectureCount} prefectures, remotely from India. Needs differ by region because industries differ: a parts supplier near Nagoya, a wholesaler in Osaka and a distributor in Hokkaido need very different systems. The notes below describe typical demand in each region. They are not office locations; we have none in Japan.`,
+    ],
+    blocks: japanRegions.map((r) => ({ name: `${r.name}: ${r.prefectures.join(", ")}`, text: regionNotes[r.name].text })),
+    after: [
+      "Across every region, the same few needs come up again and again: replacing spreadsheets and paper with a shared system, connecting accounting and sales tools, giving customers and suppliers a safe way to order or book online, and moving an ageing office server into the cloud. The region table further down summarises the pattern for each part of Japan.",
+    ],
+  },
+  {
+    id: "major-cities",
+    heading: "Software development in Tokyo and Japan's 20 designated cities",
+    paragraphs: [
+      "Tokyo's 23 special wards and the 20 ordinance-designated cities, which hold many powers that elsewhere belong to prefectures, are where much of Japan's corporate demand for software is concentrated. The table shows the kind of software work each city's economy typically generates. We serve all of them remotely, along with every smaller city and town.",
+    ],
+    table: {
+      caption: "Tokyo and Japan's 20 designated cities with typical software demand",
+      hide: 1,
+      head: ["City", "Prefecture", "Typical software demand"],
+      rows: cityRows,
+    },
+    after: [
+      "For companies outside these cities, remote development is often the more practical option anyway: prefectural capitals such as Kanazawa, Takamatsu, Matsuyama, Nagasaki, Kagoshima and Naha have capable local vendors, but few of them have spare capacity for a small custom project. A cloud system built remotely works the same in Naha as in Marunouchi.",
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours: Japan time and India time",
+    paragraphs: [
+      "Japan Standard Time (UTC+9) is three and a half hours ahead of India Standard Time (UTC+5:30), and because neither country observes daylight saving, the gap never changes. We work from 9 am to 9 pm IST, which is 12:30 pm to 12:30 am JST, seven days a week on WhatsApp.",
+      "For software projects this overlap supports a simple rhythm. Your team tests on staging in the morning and logs issues; we pick them up when we come online at lunchtime Japan time, and fixes are usually ready for review later that afternoon or evening. Weekly progress calls fit between 1 pm and 6 pm JST. Production releases and database migrations run in low-traffic hours agreed with you, often the Japanese evening, and a 10 am JST call can be arranged in advance for launch days or meetings with your full team.",
+      "Holidays matter too. We mark Golden Week, Obon and the New Year break in the schedule, since approvals on your side slow down then, and we share Indian public holidays well in advance so nothing important lands on a day we are offline.",
+    ],
+  },
+  {
+    id: "maintenance",
+    heading: "Maintenance, response times, documentation and handover",
+    paragraphs: [
+      `In Japan, maintenance and operations (${ja("保守運用")}) are usually a separate contract from the build, and over the life of a system they can cost more than the build itself. Every system we launch includes five months of free maintenance: bug fixes, security and dependency updates, backups, monitoring and small changes. After that, maintenance continues from ${both("Maintenance")}, or you can call on us only when needed.`,
+      "<strong>Response times.</strong> We agree response times in writing, typically a same-day reply to issues raised during our working hours and priority handling for anything that stops the business. We do not run a 24-hour staffed operations centre. For systems that must be watched around the clock, we set up automated monitoring and alerts and help you plan out-of-hours cover.",
+      "<strong>Documentation in English.</strong> At handover you receive a developer README, an architecture diagram, the data model, a list of integrations and where their credentials are stored, deployment and rollback instructions, and a short operations guide covering backups and routine tasks. Screen manuals for Japanese staff can be produced as short recorded walkthroughs, with Japanese captions or text added by your translator.",
+      "<strong>No lock-in.</strong> Code sits in a repository your company owns, infrastructure is defined as code, and every account is in your name. If you later move maintenance to an in-house engineer or another vendor in Japan, the handover takes days rather than months.",
+      "<strong>Planned upkeep.</strong> Software needs care even when nothing is broken: framework and runtime versions reach end of life, cloud services retire features, and SaaS APIs change. Maintenance includes planned upgrades so that today's new system does not quietly become the next legacy problem.",
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Hiring an offshore software developer from Japan: checklist and red flags",
+    paragraphs: [
+      "Whoever you choose, a few checks remove most of the risk of an offshore software project. Use this list with every vendor you speak to, including us.",
+    ],
+    list: [
+      "<strong>Meet the engineers.</strong> Ask who will write the code, by name, and whether any part will be subcontracted. Talk to them before signing.",
+      "<strong>Name your bridge.</strong> Decide who on your side reads the English scope and relays feedback. Without that person, even a good team will build the wrong thing.",
+      "<strong>Get a written scope with acceptance criteria.</strong> Screens, roles, rules, integrations, data migration, exclusions and how acceptance will be judged.",
+      "<strong>Ask for staged releases.</strong> A staging environment within the first weeks and regular releases after that. A vendor who wants to show everything at the end is asking you to carry all the risk.",
+      "<strong>Own every account.</strong> Code repository, cloud account, domain, database and SaaS accounts in your company's name from day one.",
+      "<strong>Check the security answers.</strong> Ask how access is controlled, where data is stored, how backups are tested and who can see personal data. Vague answers are themselves an answer.",
+      "<strong>Clarify the contract type.</strong> Fixed deliverable or time-based, how changes are priced, how defects after delivery are handled and when intellectual property transfers.",
+      "<strong>Stage the payments.</strong> An advance, a payment at design approval and the balance before launch is fair. Full payment upfront is not.",
+      "<strong>Ask about year three.</strong> Who maintains the system later, what documentation you receive and how easily another team could take over.",
+    ],
+    after: [
+      "<strong>Red flags:</strong> a quote without a scope; a price far below every other quote with no explanation; client logos or reviews you cannot verify; a claimed Japan office that turns out to be a virtual address; cloud or code accounts registered in the vendor's name; refusal to let you talk to the developers; promises that nothing will ever go wrong; and pressure to sign before a discount expires.",
+      `<strong>When a Japanese vendor is the better choice:</strong> meetings and documents in Japanese, on-site work, public-sector tenders that require a Japanese entity, mandatory ISO 27001 or Privacy Mark, IT subsidy funding, or round-the-clock operations support. For those, a Japanese system development company is worth its higher price. For everything else, <a href="/contact/">contact us</a> with a short description and we will tell you honestly whether we are a good fit.`,
+    ],
+  },
+];
+
+// ---------- Region table ----------
+
+const regionsHeading = `Software needs across Japan's 8 regions and ${prefectureCount} prefectures`;
+const regionsNote = "A summary of the regional patterns in the guide above. All work is delivered remotely from India; none of these is an office location.";
+const regionHead = ["Region", "Prefectures", "Economy", "Software we usually build"];
+const regionHide = [1, 2];
+const regionTable = japanRegions.map((r) => [r.name, r.prefectures.join(", "), regionNotes[r.name].character, regionNotes[r.name].build]);
+
+// ---------- Industries ----------
+
+const industriesHeading = "Software for Japan's main industries";
+const industries = [
+  { name: "Manufacturing", need: "Accurate production, quality and inspection records, quotes from drawings, cleaner data exchange with larger customers", build: "Production and inventory dashboards, quotation tools, supplier portals, machine data collection" },
+  { name: "Wholesale and distribution", need: "Fewer phone and FAX orders, customer-specific prices, correct invoices with closing dates", build: "B2B ordering portals, AI-OCR for FAX orders, stock sync, freee or Money Forward invoicing" },
+  { name: "Logistics and warehousing", need: "Visibility of stock and shipments, fewer manual updates, planning around driver working-hour limits", build: "Warehouse and delivery tracking, dispatch tools, customer tracking pages" },
+  { name: "Real estate and property management", need: "Listings, tenant and contract records, repair requests, owner reports", build: "Property databases, tenant portals, repair ticketing, owner reporting dashboards" },
+  { name: "Clinics and wellness", need: "Online appointments, reminders, staff rotas and careful handling of personal data", build: "Booking systems, LINE reminders, staff scheduling, admin tools with role-based access" },
+  { name: "Education and training", need: "Enrolment, attendance, fee payments and communication with students or parents", build: "Enrolment and attendance systems, learning portals, payment and notification integrations" },
+  { name: "Hospitality and tourism", need: "Direct bookings, multilingual guest data, staff shifts in peak seasons", build: "Booking back offices, channel manager integrations, shift scheduling, guest dashboards" },
+  { name: "Retail and ecommerce", need: "Stock across shops and online channels, order routing, sales by channel", build: "Inventory sync, order management, Shopify and marketplace integrations, sales dashboards" },
+  { name: "Professional services", need: "Client files, deadlines, time tracking and secure document exchange", build: "Case management, client portals with secure upload, time and billing tools" },
+  { name: "Startups and SaaS", need: "A first version quickly, sound architecture and room to scale", build: "MVPs, multi-tenant SaaS foundations, Stripe billing, analytics and admin panels" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "Japanese SIer, crowdsourcing freelancer or BtechWaleTech";
+const comparisonNote = "Each option suits different projects and budgets. This is how they usually compare for a small or mid-sized software project, so you can choose with open eyes.";
+const compHead: [string, string, string] = ["Japanese system integrator (SIer)", "Freelancer via Lancers or CrowdWorks", "BtechWaleTech"];
+const comparison: [string, string, string, string][] = [
+  ["Starting price", "Small web systems about ¥500,000 to ¥2,000,000; business systems ¥5,000,000 and up", "Lower, but scope and reliability vary widely", `Custom web apps from ${both("Custom web app")}`],
+  ["Who does the work", "Sales, project managers and engineers, often with subcontracted layers", "One person, or a small group found on the platform", "The three engineers you talk to, no subcontractors"],
+  ["Contract style", "Ukeoi for builds, jun-inin or SES for ongoing work", "Platform terms, usually per task", "Fixed-scope builds with milestones; monthly maintenance"],
+  ["Language", "Japanese", "Mostly Japanese", "English; Japanese text from your team or translator"],
+  ["Requirements and documents", "Formal requirements, design documents and test specifications", "Often informal, agreed in chat", "Written English scope, test cases and handover documents"],
+  ["Meetings in person", "Yes, including on-site", "Sometimes, if local", "No: video calls, WhatsApp and staging only"],
+  ["Security certification", "Larger vendors often hold ISO 27001 or the Privacy Mark", "Rarely", "None; documented practices and honest check sheets"],
+  ["Hours in Japan time", "Weekday office hours", "Depends on the person", "12:30 pm to 12:30 am JST, seven days on WhatsApp"],
+  ["After launch and ownership", "Paid maintenance contract; code ownership depends on the contract", "Often hard to reach after delivery", "5 months free maintenance; code and accounts in your name"],
+];
+
+// ---------- Process ----------
+
+const processHeading = "From first message to a system in production";
+const process: [string, string][] = [
+  ["Talk", "A WhatsApp chat or video call in English about the problem, current tools, users and budget. No charge."],
+  ["Scope & quote", "A written English scope with features, roles, integrations, data migration, exclusions and acceptance criteria, plus an itemised USD or JPY quote."],
+  ["Design", "Screen sketches, data model and integration plan, reviewed with your team before any code is written."],
+  ["Build in stages", "Features released to a private staging environment every few days, so you test with real workflows as the system grows."],
+  ["Test & acceptance", "Test cases run against the scope, your team's acceptance testing, a data migration rehearsal and security checks."],
+  ["Launch & handover", "Production release in your cloud account, logins and English documentation handed over, then 5 months of free maintenance."],
+];
+const timelineFine = "Timelines assume requirements are approved on time and that access to existing systems and data is available early. Data migration, integrations with older systems and multi-person approvals add time to custom builds.";
+
+// ---------- FAQ, related links and closing ----------
+
+const faqHeading = "Software development in Japan: frequently asked questions";
+const relatedHeading = "More IT services for businesses in Japan and other countries";
+const related = [
+  { name: "Japan: all IT services", href: "/japan/" },
+  { name: "Website developer in Japan", href: "/japan/website-developer/" },
+  { name: "AI automation engineer in Japan", href: "/japan/ai-automation-engineer/" },
+  { name: "Android & iOS developer in Japan", href: "/japan/android-ios-developer/" },
+  { name: "SEO services in Japan", href: "/japan/seo-services/" },
+  { name: "All countries", href: "/countries/" },
+  { name: "Singapore", href: "/singapore/" },
+  { name: "USA", href: "/usa/" },
+  { name: "UK", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "India", href: "/india/" },
+];
+const closingHeading = "Tell us what your software needs to do";
+const closingNote = "Send a short message in English on WhatsApp or email: what your business does, the process you want to fix, the tools you use today and any deadline. We reply with questions, then send a written scope and an itemised quote in USD or JPY. Nothing is billed before you approve the scope.";
+const guideLabel = "Guide to software development and IT outsourcing for Japan";
+---
+
+<JapanServicePage
+  page={page}
+  schema={schema}
+  heroEyebrow={heroEyebrow}
+  facts={facts}
+  pills={pills}
+  heroOrigin={heroOrigin}
+  quoteKicker={quoteKicker}
+  quotePlans={quotePlans}
+  quoteFoot={quoteFoot}
+  stats={stats}
+  answerHeading={answerHeading}
+  quickAnswer={quickAnswer}
+  answerMore={answerMore}
+  snapshotCaption={snapshotCaption}
+  snapshot={snapshot}
+  servicesHeading={servicesHeading}
+  services={services}
+  pricingHeading={pricingHeading}
+  pricingIntro={pricingIntro}
+  pricingFine={pricingFine}
+  guideLabel={guideLabel}
+  guide={guide}
+  regionsHeading={regionsHeading}
+  regionsNote={regionsNote}
+  regionHead={regionHead}
+  regionHide={regionHide}
+  regionTable={regionTable}
+  industriesHeading={industriesHeading}
+  industries={industries}
+  comparisonHeading={comparisonHeading}
+  comparisonNote={comparisonNote}
+  compHead={compHead}
+  comparison={comparison}
+  processHeading={processHeading}
+  process={process}
+  timelineFine={timelineFine}
+  faqHeading={faqHeading}
+  faqs={faqs}
+  relatedHeading={relatedHeading}
+  related={related}
+  closingHeading={closingHeading}
+  closingNote={closingNote}
+/>

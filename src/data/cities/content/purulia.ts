@@ -51,7 +51,7 @@ const purulia: CityContent = {
     software: "Purchase, grading and stock registers for lac and shellac units, and dealer order tools for wholesalers on Ranchi Road.",
     ai: "WhatsApp replies that handle fee, stock, tariff or OPD-time questions in Bengali and Hindi, and pass tricky ones to you.",
     data: "Simple phone dashboards that show a mill, school or clinic owner what came in, what went out and what is pending.",
-    app: "Installable web apps for dealer orders, student notices or guest check-in that work on low-cost Android phones.",
+    app: "Android and iPhone apps for dealer orders, student notices or guest check-in on low-cost phones, released on Google Play and the App Store.",
     maintenance: "Free care for five months after launch, then from ₹8,000 a month, with backups and security updates included.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const bhiwani: CityContent = {
     software: "Billing, credit and stock tools for wholesale cloth and grain firms that still settle accounts in bahi-khata registers.",
     ai: "WhatsApp assistants that share fee structures, batch timings or stock lists in Hindi and route serious leads to the owner.",
     data: "Dashboards showing admissions by month, pending dues by customer or fabric sales by quality, readable on one phone screen.",
-    app: "Installable web apps for athlete attendance, parent updates, student test scores or dealer orders, without Play Store fees.",
+    app: "Android and iOS apps for athlete attendance, parent updates, student test scores or dealer orders, from ₹40,000 on Google Play and the App Store.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month or a per-change charge.",
   },
   whyUsIntro:

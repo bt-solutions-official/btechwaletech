@@ -51,7 +51,7 @@ const kurnool: CityContent = {
     software: "Order books, dispatch logs and job tracking for stone polishers, oil mills, contractors and distributors that have outgrown notebooks.",
     ai: "WhatsApp assistants that answer timings, fees, stock and rate questions in Telugu or English and hand anything complicated to your staff.",
     data: "Sales, collections and dispatch figures organised into a phone-friendly dashboard so you can see which branch or product is paying off.",
-    app: "Installable web apps for patient bookings, dealer orders or student notices that run in the browser with no app store listing.",
+    app: "Android and iPhone apps for patient bookings, dealer orders or student notices, listed on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Updates, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

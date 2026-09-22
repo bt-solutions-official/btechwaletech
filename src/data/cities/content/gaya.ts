@@ -51,7 +51,7 @@ const gaya: CityContent = {
     software: "Booking registers for pilgrim services, room inventory for guest houses and order tracking for powerloom units in Manpur.",
     ai: "WhatsApp assistants that answer pilgrims' questions on rituals, dates, rooms and transport in Hindi and English, then pass bookings to your staff.",
     data: "Seasonal dashboards that show bookings by month, source state and service, so you can plan staff and stock before Pitru Paksha.",
-    app: "Installable web apps for coaching class attendance, hotel check-ins and tour itineraries that work on any phone without an app store.",
+    app: "Android and iOS apps for coaching class attendance, hotel check-ins and tour itineraries around Bodh Gaya, published on both app stores from ₹40,000.",
     maintenance: "Season-wise rate updates, new photos, backups and security patches, free for five months and ₹8,000 a month thereafter.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const zirakpur: CityContent = {
     software: "Lead registers, site visit schedulers, rent and tenant trackers, and booking calendars for property firms and venues.",
     ai: "WhatsApp assistants that share project brochures, venue availability or menu details and hand serious leads to a salesperson at once.",
     data: "Lead source, site visit and booking numbers in a single dashboard, so you see which portal or campaign actually brings buyers.",
-    app: "Installable web apps for society management, gym memberships and delivery orders without an app store listing.",
+    app: "Android and iOS apps for society management, gym memberships and delivery orders, published on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Listing updates, backups, security fixes and uptime monitoring free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

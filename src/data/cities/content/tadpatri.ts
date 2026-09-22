@@ -50,7 +50,7 @@ const tadpatri: CityContent = {
     software: "Trip sheets, lorry and diesel records, slab stock by size and finish, and order registers for polishing units.",
     ai: "WhatsApp assistants that send slab rates and photos, confirm lorry availability or share OPD timings in Telugu and English.",
     data: "Dashboards of slabs sold, trips run and dues by customer, built from Tally exports and daily entries.",
-    app: "Installable web apps for drivers, site supervisors and dealers that log trips or re-orders without an app store.",
+    app: "Android and iOS apps for drivers, granite site supervisors and dealers to log trips or re-orders, available on Google Play and the App Store.",
     maintenance: "Rate and stock updates, backups, security patches and uptime checks, free for five months and from ₹8,000 a month after.",
   },
   whyUsIntro:
@@ -83,7 +83,7 @@ const tadpatri: CityContent = {
       paragraphs: [
         "Cement, clinker, limestone and polished stone all move by road, so Tadpatri has many lorry owners and transport offices. Most still run the business from notebooks, a phone full of WhatsApp photos and the owner's memory: which vehicle went where, how much diesel was filled, what advance was paid to the driver and which party still owes for last month's trips.",
         "We build small fleet tools that fix this. Each trip is entered once, from a phone, with vehicle number, route, load, freight rate, diesel and driver advance. The owner sees profit per vehicle and per month, outstanding amounts by party, and document expiry dates for permits, insurance and fitness, all in one place.",
-        "Drivers or supervisors can use an installable web app to log trips and upload bills without a Play Store download. For owners with a dozen vehicles or more, this usually saves real money in missed billing and diesel mismatches. These systems start at ₹60,000 and are built in stages, with the trip register first.",
+        "Drivers or supervisors can use an Android and iOS app to log trips and upload bills. For owners with a dozen vehicles or more, this usually saves real money in missed billing and diesel mismatches. These systems start at ₹60,000 and are built in stages, with the trip register first.",
       ],
     },
     {

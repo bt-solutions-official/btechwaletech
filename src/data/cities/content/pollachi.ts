@@ -51,7 +51,7 @@ const pollachi: CityContent = {
     software: "Order books, lot tracking and dispatch dashboards for coir and coconut units that currently juggle container schedules in notebooks and Excel.",
     ai: "WhatsApp assistants that reply to overseas coco peat enquiries overnight, log each lead and pass serious buyers to the owner in the morning.",
     data: "Price, arrival and sales reports that let a trader compare coconut, copra and jaggery movement week by week on one phone screen.",
-    app: "Installable progressive web apps for farm-stay bookings, college admissions and repeat customer orders, without paying for an app store listing.",
+    app: "Android and iOS apps for farm-stay bookings, college admissions and repeat customer orders, published on both app stores from ₹40,000.",
     maintenance: "Updates, backups, security fixes and speed checks at no charge for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

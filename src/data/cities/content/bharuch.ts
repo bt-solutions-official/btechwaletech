@@ -51,7 +51,7 @@ const bharuch: CityContent = {
     software: "Vendor document trackers, manpower attendance and billing systems for contractors serving plants in Dahej, Jhagadia and Ankleshwar.",
     ai: "WhatsApp assistants that answer grade, pack size and availability queries from buyers, then pass qualified RFQs to your sales team.",
     data: "Dashboards showing enquiries, quotes and orders by product and customer, built from your ERP or Tally exports.",
-    app: "Installable web apps for site supervisors to log attendance, work progress and material use from the plant gate.",
+    app: "Android and iOS apps for site supervisors to log attendance, work progress and material use from the plant gate, from ₹40,000.",
     maintenance: "Product list changes, document updates, backups and security fixes free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

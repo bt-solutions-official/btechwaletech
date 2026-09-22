@@ -50,7 +50,7 @@ const mancherial: CityContent = {
     software: "Work order trackers, equipment hire logs, labour attendance and billing tools for contractors who still manage everything on paper.",
     ai: "WhatsApp assistants that answer routine questions on rates, stock, vehicle availability or OP timings in Telugu, Hindi or English, then hand over to your staff.",
     data: "Phone-friendly dashboards for work orders, machine hours, dealer sales and enquiry sources, so the owner sees the day's position quickly.",
-    app: "Installable web apps for site supervisors, college students and patients, shared as a single link rather than a store download.",
+    app: "Android and iOS apps for site supervisors at the coal belt, college students and patients, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month only if you choose it.",
   },
   whyUsIntro:

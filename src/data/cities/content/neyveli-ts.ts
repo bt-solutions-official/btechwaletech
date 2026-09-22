@@ -51,7 +51,7 @@ const neyveli: CityContent = {
     software: "Job-card, manpower and bill-tracking tools for contractors who work on NLC mine and power station orders.",
     ai: "WhatsApp assistants answering fee, slot and stock questions in Tamil or English, then handing tricky chats to staff.",
     data: "Dashboards for contract billing, crew attendance or tuition batch strength, built from the spreadsheets you already keep.",
-    app: "Installable web apps for site supervisors, delivery boys and tuition students that run well on budget phones.",
+    app: "Android and iOS apps for site supervisors, delivery boys and tuition students on budget phones, available on both stores from ₹40,000.",
     maintenance: "Five months of free updates and security care after launch; later maintenance runs from ₹8,000 a month.",
   },
   whyUsIntro:

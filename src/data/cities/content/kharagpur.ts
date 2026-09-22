@@ -51,7 +51,7 @@ const kharagpur: CityContent = {
     software: "Vendor portals, job tracking and document registers for contractors and suppliers serving the railway and the industrial park.",
     ai: "WhatsApp bots and AI assistants that answer routine questions in Bengali, Hindi or English and pass real leads to staff.",
     data: "Dashboards for tenders, orders and dispatches, built from the spreadsheets your team already maintains.",
-    app: "Installable web apps for bookings, student portals and field staff, with no app store listing required.",
+    app: "Android and iOS apps for bookings, student portals and field staff, published on Google Play and the App Store with prices from ₹40,000.",
     maintenance: "Five free months of updates, backups and fixes, then from ₹8,000 a month or per change.",
   },
   whyUsIntro:

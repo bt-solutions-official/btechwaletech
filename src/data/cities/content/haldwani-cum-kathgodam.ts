@@ -50,7 +50,7 @@ const haldwani: CityContent = {
     software: "Order books, delivery route planners and credit ledgers for wholesalers supplying shops in Bhimtal, Almora and beyond.",
     ai: "WhatsApp replies that share room rates, taxi fares or coaching batch timings instantly, even during peak holiday weekends.",
     data: "Dashboards showing seasonal bookings, mandi purchase costs or outstanding dues from hill retailers, built from your existing sheets.",
-    app: "Installable web apps for patient appointments, school updates or wholesale ordering, with no app store download needed.",
+    app: "Android and iOS apps for patient appointments, school updates or wholesale ordering, one codebase published to Google Play and the App Store.",
     maintenance: "Free upkeep for five months after launch, then maintenance from ₹8,000 a month, with backups and security updates included.",
   },
   whyUsIntro:

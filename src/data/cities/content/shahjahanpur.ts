@@ -50,7 +50,7 @@ const shahjahanpur: CityContent = {
     software: "Stock, credit and order tools for fertiliser, seed and farm-equipment dealers and wholesalers serving the sugarcane belt.",
     ai: "WhatsApp replies and enquiry tracking for coaching centres, hospitals and showrooms that answer the same questions all day.",
     data: "Dashboards for dealer sales, dues and seasonal stock, built from the Excel sheets or Tally exports you already have.",
-    app: "Installable web apps for school notices, clinic bookings or field sales, with no Play Store listing required.",
+    app: "Android and iPhone apps for school notices, clinic bookings or field sales, available on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Free maintenance for five months after launch, then from ₹8,000 a month for updates, backups and security checks.",
   },
   whyUsIntro:

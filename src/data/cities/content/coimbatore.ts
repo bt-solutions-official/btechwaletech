@@ -51,7 +51,7 @@ const coimbatore: CityContent = {
     software: "Dealer portals, service-request tracking and spare-part lookup tools for manufacturers whose after-sales network spans several states.",
     ai: "WhatsApp bots that answer spare-part, warranty and price questions for pump and appliance brands, and route real complaints to a technician.",
     data: "Dispatch, dealer-wise sales and machine utilisation reports pulled from Tally or spreadsheets into dashboards the proprietor can read in two minutes.",
-    app: "Installable web apps for field technicians and sales staff to log service calls and orders, even with weak signal on a farm borewell site.",
+    app: "Android and iOS apps for field technicians and sales staff to log service calls and orders, even with weak signal at a farm borewell site.",
     maintenance: "Catalogue edits, price revisions, security patches and backups at no charge for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

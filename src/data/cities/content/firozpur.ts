@@ -51,7 +51,7 @@ const firozpur: CityContent = {
     software: "Phone-friendly registers for arhtiyas, rice shellers and dealers covering purchases, farmer payments, lifting and dues.",
     ai: "WhatsApp replies that handle rate enquiries, admission questions and appointment requests, then pass real buyers to a person.",
     data: "Simple dashboards showing sales by product and district, enquiries by source, or crop arrivals across the wheat and paddy seasons.",
-    app: "Installable web apps for field staff, school notices or dealer orders that work on budget Android phones without an app store.",
+    app: "Android and iOS apps for field staff, school notices or dealer orders that work on budget phones, released on Google Play and the App Store.",
     maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:

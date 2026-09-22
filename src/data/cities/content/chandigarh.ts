@@ -52,7 +52,7 @@ const chandigarh: CityContent = {
     software: "Client portals, document trackers and CRM systems for consultancies, builders and Industrial Area manufacturers.",
     ai: "AI assistants and WhatsApp workflows that qualify leads for consultancies, book appointments for clinics and send reminders for institutes.",
     data: "Lead source, conversion and revenue dashboards for businesses spending on ads and wanting to know which ones actually pay back.",
-    app: "Progressive web apps for bookings, memberships and customer accounts, installable from the browser without an app store.",
+    app: "Android and iOS apps for bookings, memberships and customer accounts at gyms, salons and studios, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Content updates, backups, security patches and uptime checks free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -135,7 +135,7 @@ const chandigarh: CityContent = {
       paragraphs: [
         "Sector 17's plaza, the Sector 22 market, the restaurant strip in Sector 35 and Elante in Industrial Area Phase I anchor the city's retail, while each sector's own market serves the neighbourhood. Boutiques, bakeries, cafés, gyms, salons and home décor stores all compete for a population that spends well and shops online as easily as in person.",
         "For restaurants and cafés, the website mainly needs an up-to-date menu, photos, timings, a reservation or order link and a well-kept Google Business Profile. For boutiques and lifestyle brands, a small online store with good product photography, size guides, UPI checkout and delivery across the tricity and north India can open a second revenue line without much overhead.",
-        "Gyms, salons and studios benefit from booking and membership tools. We build progressive web apps that customers can add to their home screen, where they book slots, renew memberships and get reminders, without you paying for an app store listing.",
+        "Gyms, salons and studios benefit from booking and membership tools. We build Android and iOS apps, listed on Google Play and the App Store, where customers book slots, renew memberships and get reminders; a home-screen web app is the lower-cost option.",
       ],
     },
     {

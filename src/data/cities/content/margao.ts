@@ -51,7 +51,7 @@ const margao: CityContent = {
     software: "Order, billing, stock and job-card software for wholesalers, workshops and service firms that have outgrown a register and a spreadsheet.",
     ai: "WhatsApp assistants that answer room, menu and appointment questions in English or Konkani and pass real bookings to a person.",
     data: "Dashboards that show a hotel's season, a shop's best sellers or a supplier's pending orders on one screen instead of several files.",
-    app: "Installable web apps for delivery staff, field sales teams and tour operators that open from a home screen without an app store listing.",
+    app: "Android and iOS apps for delivery staff, field sales teams and tour operators across South Goa, published on both stores in six to ten weeks.",
     maintenance: "Five free months of fixes, updates and backups after launch, then maintenance from ₹8,000 a month if you want us to stay on.",
   },
   whyUsIntro:
@@ -162,7 +162,7 @@ const margao: CityContent = {
       id: "margao-apps",
       heading: "Web apps and data tools for growing Margao firms",
       paragraphs: [
-        "Some businesses need more than a website. A distributor supplying shops across South Goa may want a phone-based order app for its salesmen; a travel company may want a booking panel for drivers and tour guides; a school may need a parent portal for notices and fees. We build these as progressive web apps, which install from the browser, work on low-cost Android phones and cost less to maintain than separate store apps.",
+        "Some businesses need more than a website. A distributor supplying shops across South Goa may want a phone-based order app for its salesmen; a travel company may want a booking panel for drivers and tour guides; a school may need a parent portal for notices and fees. We build these as Android and iOS apps on Google Play and the App Store from ₹40,000, or as progressive web apps that install from the browser and cost less to maintain.",
         "Data work is another common request. Owners often have sales in one system, stock in another and expenses on paper. We connect those sources into a dashboard that answers practical questions: which products sell in the season, which customers pay late, which rooms stay empty on weekdays. Santosh leads this work, and we keep the reports simple enough to use every day.",
         "We usually begin with a two-week pilot on real data from your business, such as last season's bookings or three months of invoices. If the dashboard or app does not change how you make decisions, we say so and stop there, rather than stretching the project. When it does help, we extend it one module at a time and keep the cost of each stage visible before it starts.",
       ],
@@ -221,7 +221,7 @@ const margao: CityContent = {
     {
       question: "Do you only build websites, or apps and software too?",
       answer:
-        "We do much more than websites. We build custom web apps and software from ₹60,000, progressive web apps for field staff, AI and WhatsApp automation from ₹40,000, dashboards for sales and stock data, and online stores. We also handle SEO, local SEO and ongoing maintenance for Margao businesses.",
+        "We do much more than websites. We build custom web apps and software from ₹60,000, Android and iOS apps from ₹40,000, AI and WhatsApp automation from ₹40,000, dashboards for sales and stock data, and online stores. We also handle SEO, local SEO and ongoing maintenance for Margao businesses.",
     },
     {
       question: "Can WhatsApp automation reply to my customers in Konkani?",

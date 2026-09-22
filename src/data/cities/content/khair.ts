@@ -51,7 +51,7 @@ const khair: CityContent = {
     software: "Cold-store receipt registers, dealer credit ledgers and fee tools for schools that still depend on handwritten copies.",
     ai: "WhatsApp replies in Hindi for fee enquiries, stock questions and storage rent, so the phone stops ringing for the same answer.",
     data: "Season-wise dashboards of potato lots, rent collected and dealer dues that an owner can check from home in the evening.",
-    app: "Installable web apps for school parents or field staff that open from a link and need no Play Store download.",
+    app: "Android and iOS apps for school parents or field staff, available on Google Play and the App Store with builds starting at ₹40,000.",
     maintenance: "Five free months of fixes, backups and small edits after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
@@ -107,7 +107,7 @@ const khair: CityContent = {
       paragraphs: [
         "Khair has a good number of private schools, degree colleges, ITI-style training centres and coaching institutes, several of them along Tappal Road and on the main highway. Many draw students from dozens of villages, and parents often decide by comparing a few options on a phone, sometimes with help from an elder sibling working in Noida or Delhi.",
         "A school site should answer the questions families actually ask: which board, which classes, the admission process, fee range if you are willing to share it, bus routes and pick-up villages, facilities, and how to reach the office. A college or coaching institute needs its courses, affiliation, batch timings and results that can be verified. We keep claims factual, with no invented toppers, no guaranteed selections and no borrowed photographs.",
-        "We link the admission form to WhatsApp so each enquiry reaches the office immediately, and keep a simple list so no family slips through the cracks in April and July. For schools with many parents, an installable web app can carry circulars, holiday notices and fee reminders without a Play Store listing. A school website starts from ₹10,000 and a course-by-course site from ₹20,000.",
+        "We link the admission form to WhatsApp so each enquiry reaches the office immediately, and keep a simple list so no family slips through the cracks in April and July. For schools with many parents, an Android and iOS app on Google Play and the App Store can carry circulars, holiday notices and fee reminders. A school website starts from ₹10,000 and a course-by-course site from ₹20,000.",
       ],
     },
     {

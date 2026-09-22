@@ -51,7 +51,7 @@ const surat: CityContent = {
     software: "Order books, reseller portals and job-work trackers for textile traders and mills that currently run on phone calls and registers.",
     ai: "WhatsApp assistants that share catalogues, answer rate and stock questions in Gujarati, Hindi or English and log every order.",
     data: "Sales, dispatch and outstanding-payment data from Tally or Busy turned into dashboards an owner can check on a phone.",
-    app: "Installable web apps for resellers, agents and field staff that work on ordinary Android phones without an app store.",
+    app: "Android and iOS apps for textile resellers, agents and field staff on ordinary phones, built in Flutter or React Native and released on both stores.",
     maintenance: "Catalogue updates, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

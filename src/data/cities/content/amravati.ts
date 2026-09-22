@@ -50,7 +50,7 @@ const amravati: CityContent = {
     software: "Order registers, dealer portals and job-work trackers for textile units, distributors and agri-input dealers who still run on notebooks.",
     ai: "WhatsApp assistants that answer admission, rate and appointment questions in Marathi, Hindi or English and pass real leads to your staff.",
     data: "Dashboards built from Tally, Excel and mandi rate sheets to show dues, stock and seasonal sales for cotton and soybean trade.",
-    app: "Installable web apps for field reps visiting dealers across Amravati, Akola and Yavatmal districts, usable on weak mobile networks.",
+    app: "Android and iOS apps for field reps visiting dealers across Amravati, Akola and Yavatmal districts, built to work on weak mobile networks, from ₹40,000.",
     maintenance: "Rate changes, new batch notices, backups and security updates are free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

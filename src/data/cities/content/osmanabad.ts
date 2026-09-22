@@ -51,7 +51,7 @@ const osmanabad: CityContent = {
     software: "Purchase, stock and payment registers for soybean and tur traders, dal mills and input dealers who still work from bound ledgers.",
     ai: "WhatsApp assistants that answer room, darshan-timing, fee and rate questions in Marathi and Hindi, and pass tricky chats to your staff.",
     data: "Dashboards that show daily arrivals, purchase rates, outstanding dues and branch sales pulled from Tally or Google Sheets.",
-    app: "Installable web apps for field staff, delivery riders and patient queues that work without a Play Store listing.",
+    app: "Android and iOS apps for field staff, delivery riders and patient queues, listed on Google Play and the App Store, from ₹40,000 in six to ten weeks.",
     maintenance: "Backups, updates, uptime checks and small edits, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

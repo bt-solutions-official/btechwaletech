@@ -50,7 +50,7 @@ const khanna: CityContent = {
     software: "Arhtiya ledgers, farmer payment records, gate-pass and stock software for grain traders and steel suppliers who have outgrown paper bahi-khatas.",
     ai: "WhatsApp bots that answer common farmer and customer questions in Punjabi or Hindi and keep every enquiry logged in one sheet.",
     data: "Season-wise arrival, purchase and payment dashboards so an agent can see who is owed what without flipping through registers.",
-    app: "Installable progressive web apps that let field staff record purchases or deliveries on a phone and sync once they have a signal.",
+    app: "Android and iPhone apps that let field staff record grain purchases or deliveries and sync once they have a signal, from ₹40,000.",
     maintenance: "Free fixes, updates and backups for five months after launch; after that, maintenance runs from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

@@ -1,145 +1,18 @@
 ---
-import "@styles/it-services.css";
-import BaseLayout from "@layouts/BaseLayout.astro";
-import Breadcrumbs from "@components/common/Breadcrumbs.astro";
-import WhatsAppIcon from "@components/common/WhatsAppIcon.astro";
-import PricingSection from "@components/sections/PricingSection.astro";
-import { breadcrumbListSchema, faqSchema, serviceSchema } from "@lib/schema/schema";
-import { nationalItServicesSeo } from "@lib/seo/it-services-pages";
-import { itServicesOfferings, itServicesRegions, regionLabel, regionPath } from "@data/it-services/locations";
-import { siteContact } from "@data/site/site-config";
+import CityPage from "@components/city/CityPage.astro";
+import { cityLinks, locationContent, uniqueLinks } from "@data/locations";
+import { itServicesRegions, regionPath } from "@data/it-services/locations";
 
-const page = nationalItServicesSeo();
-
-const faqs = [
-  {
-    question: "What IT services does BtechWaleTech provide in India?",
-    answer:
-      "BtechWaleTech provides freelance IT services across India, including web development, software development, AI automation, AI agents, SEO, ecommerce, data analysis, deployment, and maintenance.",
-  },
-  {
-    question: "Can BtechWaleTech work remotely with businesses in different Indian cities?",
-    answer:
-      "Yes. Delivery is remote-friendly and structured around clear requirements, milestones, updates, and production deployment. The website does not claim physical offices in every city.",
-  },
-  {
-    question: "How should I choose the right IT service?",
-    answer:
-      "Start with your business goal. If you need enquiries, begin with a website and SEO. If you need operational efficiency, consider automation, custom software, dashboards, or AI agent workflows.",
-  },
-];
+const content = locationContent("it-services");
+const links = uniqueLinks(itServicesRegions.map((r) => ({ name: r.name, href: regionPath(r) })), cityLinks(content.nearby));
 ---
 
-<BaseLayout
-  meta={page}
-  schema={[
-    breadcrumbListSchema(page.breadcrumbs),
-    faqSchema(faqs),
-    serviceSchema("IT Services in India", page.description, "/it-services/"),
-  ]}
->
-  <div class="it-location">
-    <div class="it-wrap">
-      <div class="it-breadcrumb">
-        <Breadcrumbs items={page.breadcrumbs} />
-      </div>
-
-      <section class="it-hero">
-        <p class="it-eyebrow">India IT services</p>
-        <h1>{page.h1}</h1>
-        <p class="it-hero-copy">{page.intro}</p>
-        <div class="it-contact-block">
-          <p class="it-contact-lead">Contact us and share your project idea</p>
-          <div class="it-contact-links">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
-              <WhatsAppIcon />
-              <span>{siteContact.whatsappLabel}</span>
-            </a>
-          </div>
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="regions-heading">
-        <div class="it-section-head">
-          <h2 id="regions-heading">Find IT services by state or region</h2>
-          <p class="it-section-note">
-            Choose a location hub to view city-specific IT service pages. Each hub links to five priority cities and keeps
-            the URL structure clean for users and search engines.
-          </p>
-        </div>
-        <div class="it-grid it-grid-three">
-          {itServicesRegions.map((region) => (
-            <a class="it-card it-card-link" href={regionPath(region)}>
-              <h3>{region.name}</h3>
-              <p>{regionLabel(region)} hub for IT services, web development, SEO, automation, and software support.</p>
-            </a>
-          ))}
-        </div>
-      </section>
-
-      <section class="it-section" aria-labelledby="services-heading">
-        <div class="it-section-head">
-          <h2 id="services-heading">IT services available across India</h2>
-          <p class="it-section-note">
-            These pages focus on real commercial intent: what can be built, who it helps, how the process works, and how
-            to contact BtechWaleTech without fake local claims.
-          </p>
-        </div>
-        <div class="it-grid">
-          {itServicesOfferings.map((service) => (
-            <article class="it-card">
-              <h3>{service.name}</h3>
-              <p>{service.summary}</p>
-              <ul class="it-list">
-                {service.points.map((point) => <li>{point}</li>)}
-              </ul>
-              {service.href && <p style="margin-top: 1rem;"><a href={service.href}>Read more about {service.name}</a></p>}
-            </article>
-          ))}
-        </div>
-      </section>
-
-      <PricingSection
-        heading="IT and website pricing in India"
-        intro="Starting prices so you know the ballpark before you enquire. Final cost depends on pages, features, and content scope."
-      />
-
-      <section class="it-section" aria-labelledby="faq-heading">
-        <div class="it-section-head">
-          <h2 id="faq-heading">IT services FAQs</h2>
-        </div>
-        <div class="it-faq">
-          {faqs.map((faq) => (
-            <details>
-              <summary>{faq.question}</summary>
-              <p>{faq.answer}</p>
-            </details>
-          ))}
-        </div>
-      </section>
-
-      <section class="it-section">
-        <div class="it-cta">
-          <h2>Need IT help for your business?</h2>
-          <p>
-            Share your requirement and location. BtechWaleTech can help with websites, software, AI automation, SEO,
-            ecommerce, data workflows, deployment, and maintenance.
-          </p>
-          <div class="it-contact-links it-contact-links-invert">
-            <a href={siteContact.emailHref} data-icon="@">{siteContact.email}</a>
-            <a href={siteContact.whatsappHref} target="_blank" rel="noopener noreferrer" aria-label="WhatsApp BtechWaleTech">
-              <WhatsAppIcon />
-              <span>{siteContact.whatsappLabel}</span>
-            </a>
-          </div>
-          <div class="it-trust-links">
-            <a href="/terms/">Terms</a>
-            <a href="/privacy-policy/">Privacy policy</a>
-            <a href="/refund-policy/">Refund policy</a>
-          </div>
-        </div>
-      </section>
-    </div>
-  </div>
-</BaseLayout>
+<CityPage
+  name="India"
+  state="India"
+  areaType="Country"
+  path="/it-services/"
+  crumbs={[{ label: "IT Services", href: "/it-services/" }]}
+  content={content}
+  links={links}
+/>

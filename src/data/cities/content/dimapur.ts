@@ -50,7 +50,7 @@ const dimapur: CityContent = {
     software: "Stock, credit and dispatch systems for Dimapur distributors supplying retailers up the hill districts.",
     ai: "WhatsApp assistants that share price lists, stock and delivery days with retailers in other districts, answering even after the market closes.",
     data: "Sales, outstanding credit and route-wise dispatch pulled into one dashboard for owners who travel between Dimapur and Kohima.",
-    app: "Installable web apps for salesmen taking orders on the road, or for school and clinic updates, without a Play Store listing.",
+    app: "Android and iOS apps for salesmen taking orders on the road, or for school and clinic updates, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

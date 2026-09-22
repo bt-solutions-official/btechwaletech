@@ -51,7 +51,7 @@ const indore: CityContent = {
     software: "Dashboards, portals and admin panels for Pithampur suppliers, distributors in Siyaganj and service firms that have outgrown spreadsheets.",
     ai: "WhatsApp and email automation, lead routing and AI agents that answer the same fifty customer questions so your staff don't have to.",
     data: "Sales, inventory and dealer reports cleaned up and turned into dashboards you can open on your phone before the morning meeting.",
-    app: "Mobile-first progressive web apps for bookings, orders and customer accounts, installable from the browser without an app store listing.",
+    app: "Android and iOS apps for bookings, orders and customer accounts, built in Flutter or React Native and published on both stores from ₹40,000.",
     maintenance: "Content updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

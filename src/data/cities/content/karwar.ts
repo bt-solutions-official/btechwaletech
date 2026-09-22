@@ -51,7 +51,7 @@ const karwar: CityContent = {
     software: "Booking calendars for stays and boat trips, stock and dispatch registers for fish and cashew traders, and admission tools for schools.",
     ai: "WhatsApp replies for room availability, boat timings, prices and appointment requests, passing ready guests or patients to your staff.",
     data: "Dashboards that show bookings by month and source, sales by product, or enquiries by channel across the tourist season.",
-    app: "Installable web apps for boat crews, delivery staff or school notices that work on ordinary Android phones.",
+    app: "Android and iPhone apps for boat crews, delivery staff or school notices on ordinary phones, from ₹40,000 on Google Play and the App Store.",
     maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const medinipur: CityContent = {
     software: "Case diaries for advocates, patient registers for nursing homes, and stock and credit tools for Bara Bazar wholesalers.",
     ai: "WhatsApp auto-replies in Bengali, Hindi or English for fees, doctor timings and stock questions, with people taking anything sensitive.",
     data: "Clean dashboards that turn admissions, patient footfall or sales registers into numbers an owner can read on a phone each week.",
-    app: "Installable web apps for attendance, test schedules or field orders that keep working on weak rural data around the district.",
+    app: "Android and iOS apps for attendance, test schedules or field orders that keep working on weak rural data, released on Google Play and the App Store.",
     maintenance: "Backups, updates, uptime checks and small edits free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

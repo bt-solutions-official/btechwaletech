@@ -50,7 +50,7 @@ const bokaro: CityContent = {
     software: "Work order tracking, labour attendance, billing and gate-pass tools for contractors and Balidih units still managing on paper.",
     ai: "WhatsApp assistants that answer admission, fee, stock or service questions in Hindi or English and pass the rest to your staff.",
     data: "Contract, billing and payment data turned into a dashboard that shows pending bills and job progress at a glance.",
-    app: "Installable web apps for school notices, patient appointments or site reporting that work on any phone without an app store.",
+    app: "Android and iPhone apps for school notices, patient appointments or site reporting, one codebase published to Google Play and the App Store.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

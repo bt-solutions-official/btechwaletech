@@ -50,7 +50,7 @@ const navsari: CityContent = {
     software: "Order books, job-work trackers and billing portals for GIDC Kabilpore units and traders who deal with Surat every day.",
     ai: "WhatsApp assistants that answer price and availability questions in Gujarati or English and forward serious enquiries to the owner.",
     data: "Season-wise sales and stock dashboards for fruit traders, cold storage owners and distributors covering Gandevi, Chikhli and Jalalpore.",
-    app: "Installable web apps for farmer orders, patient appointments and student logins that run well on low-cost Android phones.",
+    app: "Android and iOS apps for farmer orders, patient appointments and student logins on low-cost phones, listed on both app stores from ₹40,000.",
     maintenance: "Five free months of updates and backups after launch, then maintenance from ₹8,000 a month, timed around mango and wedding seasons.",
   },
   whyUsIntro:

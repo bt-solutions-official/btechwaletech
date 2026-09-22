@@ -50,7 +50,7 @@ const bengaluru: CityContent = {
     software: "Internal tools, admin panels and MVPs for founders who need something working before the next investor meeting.",
     ai: "AI agents, retrieval-based assistants and workflow automation built with sensible guardrails and honest cost estimates.",
     data: "Dashboards and data pipelines that pull from your product database, CRM and billing tools into one view the team trusts.",
-    app: "Progressive web apps that install from the browser, suitable for delivery, booking and field-staff tools across the city.",
+    app: "Android and iOS apps for delivery, booking and field-staff work across the city, built once in Flutter or React Native, from ₹40,000.",
     maintenance: "Dependency updates, backups, uptime monitoring and small changes, free for five months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const ahmedabad: CityContent = {
     software: "Dealer portals, order panels and production trackers for GIDC units and distributors whose records live in Tally and WhatsApp.",
     ai: "AI assistants that answer price, stock and dispatch questions in Gujarati, Hindi or English and pass real negotiations to your team.",
     data: "Dashboards built from Tally, ERP or spreadsheets so owners see receivables, dispatches and dealer sales every morning.",
-    app: "Installable web apps for field sales, dealer ordering and service bookings that work on budget Android phones.",
+    app: "Android and iOS apps for field sales, dealer ordering and service bookings that run smoothly on budget phones, starting at ₹40,000 in six to ten weeks.",
     maintenance: "Updates, backups, security patches and uptime monitoring, free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

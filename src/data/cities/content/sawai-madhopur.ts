@@ -50,7 +50,7 @@ const sawaiMadhopur: CityContent = {
     software: "Room and safari enquiry trackers, guest registers and dealer ledgers for businesses that still run on notebooks.",
     ai: "WhatsApp replies about room rates, safari timings and park closures in English and Hindi, handed to staff when a guest needs a person.",
     data: "Season dashboards showing enquiries, bookings, occupancy and guava dispatches by month, readable on a phone.",
-    app: "Installable web apps for guests to see their itinerary or for school parents to get notices, with no app store step.",
+    app: "Android and iOS apps for Ranthambore guests to see their itinerary or for school parents to get notices, published on both stores from ₹40,000.",
     maintenance: "Five free months of edits, updates and backups after launch, then plans from ₹8,000 a month if you want to continue.",
   },
   whyUsIntro:

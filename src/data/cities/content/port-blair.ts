@@ -50,7 +50,7 @@ const portBlair: CityContent = {
     software: "Booking calendars, vehicle and boat allocation, and ferry-linked itinerary builders for Andaman tour operators.",
     ai: "WhatsApp replies that answer package, ferry-timing and room questions late at night, when mainland guests plan their trips.",
     data: "Dashboards that show bookings by season, source and island so owners can plan staff before the October rush.",
-    app: "Installable web apps for guest itineraries and driver duty sheets that still open when the signal drops.",
+    app: "Android and iOS apps for guest itineraries and driver duty sheets that still open when the signal drops, published on Google Play and the App Store.",
     maintenance: "Five months of free care after launch, then support from ₹8,000 a month, including seasonal tariff updates.",
   },
   whyUsIntro:

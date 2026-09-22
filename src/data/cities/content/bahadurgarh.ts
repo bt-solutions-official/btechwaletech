@@ -51,7 +51,7 @@ const bahadurgarh: CityContent = {
     software: "Order books, article-wise stock registers and dispatch tracking for units that still run production on paper slips and phone calls.",
     ai: "WhatsApp assistants that answer MOQ, article number and dispatch questions for distributors, then pass real orders to your sales desk.",
     data: "Dashboards pulling from Tally or billing exports that show which articles, sizes and dealers bring margin, and which only bring returns.",
-    app: "Installable web apps that let field salesmen book dealer orders on a phone without asking anyone to download from an app store.",
+    app: "Android and iOS apps that let field salesmen book dealer orders at retailer counters, released on Google Play and the App Store from ₹40,000.",
     maintenance: "Season catalogue changes, security patches and backups free for five months after launch, then from ₹8,000 a month if you want us on call.",
   },
   whyUsIntro:

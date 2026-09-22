@@ -50,7 +50,7 @@ const latur: CityContent = {
     software: "Purchase registers, lot tracking and dealer order portals for dal mills and soybean traders in the MIDC and market yard.",
     ai: "WhatsApp assistants that answer daily rate, stock and admission questions in Marathi, Hindi or English and log every lead.",
     data: "Dashboards showing purchases, dispatches and dealer balances by day and season, drawn from Tally and mill registers.",
-    app: "Installable web apps for test series, attendance and dealer re-orders that work without the Play Store.",
+    app: "Android and iOS apps for test series, attendance and dealer re-orders, published on Google Play and the App Store and starting at ₹40,000.",
     maintenance: "Rate updates, backups, security fixes and uptime checks, free for five months and ₹8,000 a month thereafter.",
   },
   whyUsIntro:

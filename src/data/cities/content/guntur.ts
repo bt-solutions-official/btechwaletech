@@ -51,7 +51,7 @@ const guntur: CityContent = {
     software: "Lot, stock and settlement tools for commission agents, cold storages and traders who still run on ledgers and Excel.",
     ai: "WhatsApp assistants that answer rate, stock, admission and appointment questions in Telugu or English and pass unusual queries to your staff.",
     data: "Dashboards that track arrivals, prices, stock by cold storage and outstanding payments without anyone retyping figures.",
-    app: "Installable web apps for patient bookings, student portals and trader order status, with no app store needed.",
+    app: "Android and iOS apps for patient bookings, student portals and trader order status, listed on Google Play and the App Store from ₹40,000.",
     maintenance: "Content changes, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

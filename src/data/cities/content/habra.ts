@@ -50,7 +50,7 @@ const habra: CityContent = {
     software: "Trip, freight and payment logs for Jessore Road transporters, and stock and credit registers for wholesalers supplying village shops.",
     ai: "WhatsApp replies in Bengali or English for tuition fees, batch times, doctor days and stock questions, with anything sensitive passed to a person.",
     data: "Dashboards that show a coaching centre's admissions, a clinic's footfall or a wholesaler's dues at a glance on a phone.",
-    app: "Installable web apps for tuition attendance, homework notices or trip entries that work on patchy data and need no app store.",
+    app: "Android and iOS apps for tuition attendance, homework notices or trip entries that work on patchy data, published on Google Play and the App Store.",
     maintenance: "Updates, backups, uptime checks and small edits free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

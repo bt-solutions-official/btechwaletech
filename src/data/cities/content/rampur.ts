@@ -51,7 +51,7 @@ const rampur: CityContent = {
     software: "Karigar job-work registers, piece-rate payment sheets and stock tools for workshops that hand out embroidery to homes across the city.",
     ai: "WhatsApp bots that send the day's mentha rate sheet, design photos or fee details in Urdu, Hindi or English and hand serious buyers to you.",
     data: "Dashboards that show which designs sold, which karigars finished on time and which trade buyers still owe money.",
-    app: "Installable web apps for school notices, coaching batches or wholesale reorders, opened from a home-screen icon without any app store.",
+    app: "Android and iOS apps for school notices, coaching batches or wholesale reorders, available on Google Play and the App Store starting at ₹40,000.",
     maintenance: "Five months of free updates, backups and security fixes after launch; after that ₹8,000 a month, or only pay when you need a change.",
   },
   whyUsIntro:

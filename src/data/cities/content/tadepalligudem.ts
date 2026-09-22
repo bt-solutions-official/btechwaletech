@@ -51,7 +51,7 @@ const tadepalligudem: CityContent = {
     software: "Paddy purchase, milling, stock and dispatch tools for rice mills, and trip and freight ledgers for lorry offices.",
     ai: "WhatsApp assistants that answer stock, rate, room and fee questions in Telugu or English, then hand over to staff.",
     data: "Dashboards for paddy arrivals, feed sales by village, pond harvests or hostel occupancy, built from your sheets.",
-    app: "Installable web apps for field staff visiting ponds and farms, lorry drivers and students, built for basic phones.",
+    app: "Android and iOS apps for field staff visiting ponds and farms, lorry drivers and students, built for basic phones and published on both stores.",
     maintenance: "No upkeep bill for the first five months; after that, care plans for your Tadepalligudem site begin at ₹8,000 monthly.",
   },
   whyUsIntro:

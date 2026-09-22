@@ -51,7 +51,7 @@ const nagapattinam: CityContent = {
     software: "Catch, auction and dispatch registers for fish traders, and stock and booking tools for lodges and wholesalers that still run on notebooks.",
     ai: "WhatsApp assistants that answer room availability, tariff, route and stock questions in Tamil or English at any hour, and hand real decisions to a person.",
     data: "Season-wise dashboards showing catch purchases, room occupancy or admissions, so owners can plan staff and stock before the festival rush arrives.",
-    app: "Installable web apps for boat-owner accounts, delivery rounds or school notices that work on weak coastal signal and need no Play Store listing.",
+    app: "Android and iOS apps for boat-owner accounts, delivery rounds or school notices that cope with weak coastal signal, from ₹40,000 on both stores.",
     maintenance: "Updates, backups, security checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

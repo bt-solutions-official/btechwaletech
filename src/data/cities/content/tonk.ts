@@ -50,7 +50,7 @@ const tonk: CityContent = {
     software: "Stock, dispatch and billing tools for oil mills, slate units and transporters that still keep records in registers.",
     ai: "WhatsApp replies in Hindi that share today's oil rates, product photos or school fee details while you are busy at the counter.",
     data: "Simple dashboards showing seed purchases, oil output, dispatches and dues, readable on a phone in the mill office.",
-    app: "Installable web apps for orders, attendance or patient queues, with no Play Store listing required.",
+    app: "Android and iOS apps for orders, attendance or patient queues, released on Google Play and the App Store with builds starting at ₹40,000.",
     maintenance: "Five months of free updates, backups and security checks after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

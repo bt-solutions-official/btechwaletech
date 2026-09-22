@@ -51,7 +51,7 @@ const etawah: CityContent = {
     software: "Order, job-work and payment tools for tailoring units, textile traders and distributors still working from diaries.",
     ai: "WhatsApp replies in Hindi that answer fee, timing, stock and rate questions automatically and hand everything unusual to you.",
     data: "Sales, admissions or patient figures turned into a phone dashboard, so owners can spot a slow week before it becomes a slow month.",
-    app: "Installable web apps for school notices, staff attendance or order booking that work in a phone browser without a Play Store download.",
+    app: "Android and iOS apps for school notices, staff attendance or order booking, listed on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Free updates, backups, security fixes and uptime checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

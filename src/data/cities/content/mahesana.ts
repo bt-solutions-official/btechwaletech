@@ -51,7 +51,7 @@ const mahesana: CityContent = {
     software: "Job cards, dispatch registers and dealer portals for fabricators, oilfield service contractors and distributors still working from diaries.",
     ai: "WhatsApp flows that answer rate, stock and admission questions in Gujarati or English and hand the tricky ones to you with the full chat.",
     data: "Daily sales, milk-collection or dispatch figures from spreadsheets turned into a phone-friendly dashboard you can read in a minute.",
-    app: "Installable web apps for order booking, student updates or patient appointments that need no Play Store download.",
+    app: "Android and iOS apps for order booking, student updates or patient appointments, available on Google Play and the App Store with builds from ₹40,000.",
     maintenance: "Content changes, backups, security patches and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

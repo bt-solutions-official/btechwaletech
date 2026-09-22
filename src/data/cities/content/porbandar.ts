@@ -50,7 +50,7 @@ const porbandar: CityContent = {
     software: "Lot tracking, cold-storage registers and buyer ledgers for seafood processors and traders who still work from notebooks.",
     ai: "WhatsApp assistants that reply in Gujarati or Hindi about room availability, tour timings or stock, then pass bookings to a person.",
     data: "Dashboards showing catch purchases, processed output, export shipments or hotel occupancy by month.",
-    app: "Installable web apps for boat-owner accounts, hotel housekeeping checklists or school fee reminders.",
+    app: "Android and iOS apps for boat-owner accounts, hotel housekeeping checklists or school fee reminders, from ₹40,000 with release on both stores.",
     maintenance: "Five months of free updates, backups and fixes after launch, then from ₹8,000 a month or pay per change.",
   },
   whyUsIntro:

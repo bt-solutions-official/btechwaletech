@@ -50,7 +50,7 @@ const brahmapur: CityContent = {
     software: "Booking systems, billing dashboards and admin portals for Berhampur hospitals, hostels, distributors and training institutes.",
     ai: "WhatsApp assistants that reply to routine questions in Odia or English and hand real enquiries to your staff before they go cold.",
     data: "Sales and stock reports turned into simple dashboards for traders who supply shops across Ganjam and the southern districts.",
-    app: "Installable web apps for orders, appointments and student portals that work well on budget Android phones.",
+    app: "Android and iOS apps for orders, appointments and student portals that run well on budget phones, from ₹40,000 in six to ten weeks.",
     maintenance: "Updates, backups and security fixes free for five months after launch, then from ₹8,000 a month, with Thakurani Yatra and festival rushes planned for.",
   },
   whyUsIntro:

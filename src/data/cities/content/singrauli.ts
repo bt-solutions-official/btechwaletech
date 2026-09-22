@@ -50,7 +50,7 @@ const singrauli: CityContent = {
     software: "Trip, fleet, diesel and billing trackers for transport and earthmoving contractors who work on mine and plant sites.",
     ai: "WhatsApp assistants that answer room, fee or availability questions in Hindi and route contract enquiries to the owner directly.",
     data: "Dashboards for trips, tonnage, fuel, invoices and payments so a contractor can see what each vehicle and site is earning.",
-    app: "Installable web apps for drivers and supervisors to log trips, breakdowns and attendance from site without an app store download.",
+    app: "Android and iOS apps for drivers and supervisors to log trips, breakdowns and attendance from site, published on both stores from ₹40,000.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

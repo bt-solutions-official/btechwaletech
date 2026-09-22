@@ -51,7 +51,7 @@ const tiruchirappalli: CityContent = {
     software: "Job-card, quotation and inspection-record systems for Thuvakudi and Ariyamangalam workshops that supply larger plants.",
     ai: "WhatsApp assistants that handle room availability, admission dates and quote requests in Tamil or English, passing complex ones to staff.",
     data: "Work-order, billing and occupancy figures cleaned up into dashboards owners can check between site visits.",
-    app: "Installable web apps for darshan-season bookings, student portals and field-staff reporting without app store listings.",
+    app: "Android and iOS apps for darshan-season bookings, student portals and field-staff reporting, released on Google Play and the App Store.",
     maintenance: "Updates, backups, security patches and uptime checks free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

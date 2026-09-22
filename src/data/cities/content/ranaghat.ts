@@ -51,7 +51,7 @@ const ranaghat: CityContent = {
     software: "Order, loom and weaver-payment registers for handloom units, and purchase and dispatch books for flower wholesalers.",
     ai: "WhatsApp replies in Bengali or English for saree stock, clinic timings, tuition fees or flower rates, handled outside shop hours.",
     data: "Festival and wedding season sales, stock and dues arranged on one phone dashboard for traders and weaving units.",
-    app: "Installable web apps for tuition attendance, clinic tokens, weaver orders or dealer bookings, without an app store listing.",
+    app: "Android and iPhone apps for tuition attendance, clinic tokens, weaver orders or dealer bookings, released on both app stores from ₹40,000.",
     maintenance: "Updates, backups and security checks free for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

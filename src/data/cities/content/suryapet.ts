@@ -51,7 +51,7 @@ const suryapet: CityContent = {
     software: "Paddy intake, milling and dispatch registers for rice mills, and purchase and payment trackers for cotton traders.",
     ai: "WhatsApp replies in Telugu or English for rates, OPD timings, admissions and bookings, with urgent enquiries sent to a person.",
     data: "Dashboards showing daily arrivals, milling output, sales or admissions by month, built from your existing books.",
-    app: "Installable web apps for field buyers, service technicians and delivery staff on everyday Android phones.",
+    app: "Android and iPhone apps for field buyers, service technicians and delivery staff on everyday phones, listed on both stores from ₹40,000.",
     maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const baripada: CityContent = {
     software: "Order registers for craft producer groups, stock tools for wholesalers and booking systems for resorts and tour operators.",
     ai: "WhatsApp replies for tour availability, craft prices, admission questions and appointment requests, handing real buyers to your team.",
     data: "Dashboards that show orders by product and buyer city, bookings by season, or enquiries by source.",
-    app: "Installable web apps for artisan groups, field staff or tour guides that run on low-cost Android phones.",
+    app: "Android and iPhone apps for artisan groups, field staff or Similipal tour guides that run on low-cost handsets, from ₹40,000 on both stores.",
     maintenance: "Free updates, fixes and backups for five months after launch, then maintenance from ₹8,000 a month if you choose it.",
   },
   whyUsIntro:

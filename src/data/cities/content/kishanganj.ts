@@ -51,7 +51,7 @@ const kishanganj: CityContent = {
     software: "Leaf purchase, weighment and payment registers for small tea growers, bought-leaf factories and grain traders who still use notebooks.",
     ai: "WhatsApp replies in Hindi or Urdu for rates, OPD timings and batch schedules, with serious buyers and patients handed to a person.",
     data: "Dashboards that show daily leaf intake, pineapple dispatches, sales or admissions by month, drawn from the records you already keep.",
-    app: "Installable web apps for field staff, delivery riders and teachers that run well on low-cost Android phones.",
+    app: "Android and iOS apps for field staff, delivery riders and teachers that run well on low-cost phones, released on both app stores.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month or paid per job.",
   },
   whyUsIntro:

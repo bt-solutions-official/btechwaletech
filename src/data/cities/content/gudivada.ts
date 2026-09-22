@@ -50,7 +50,7 @@ const gudivada: CityContent = {
     software: "Paddy intake and milling registers, trailer job cards, feed dealer credit books and fee systems built around how your staff already work.",
     ai: "WhatsApp assistants that reply to routine questions about rates, stock, trailer sizes or clinic timings in Telugu or English and pass the rest to you.",
     data: "Simple dashboards for paddy arrivals, dispatches, pond input sales and enquiry sources that an owner can read on a phone.",
-    app: "Installable web apps for field staff visiting ponds and villages, students checking notes and patients booking slots, shared as one link.",
+    app: "Android and iOS apps for field staff visiting ponds and villages, students checking notes and patients booking slots, published on both stores.",
     maintenance: "Five free months of updates, backups and security checks after launch, then maintenance from ₹8,000 a month only if you want it.",
   },
   whyUsIntro:
@@ -130,7 +130,7 @@ const gudivada: CityContent = {
       paragraphs: [
         "Gudivada is an education town for its region. ANR College and K.T.R. Women's College draw students from surrounding mandals, there are vocational junior colleges, a government ITI for girls and an industrial training centre, and the Regional Research Institute for Homeopathy is based here. Gudlavalleru, with its engineering college, is a short ride away, and coaching centres prepare students for EAPCET, NEET, bank and government job exams.",
         "Parents compare institutions carefully and increasingly online. They want courses, eligibility, fee ranges, faculty, results that can be checked, hostel and bus details and admission dates. We build course pages, an admissions page that is easy to update each year, a notice board the office can edit without a developer, and enquiry forms that forward details to your counsellor on WhatsApp.",
-        "Coaching institutes benefit from a student area with notes, recorded classes and test schedules, which we can deliver as an installable web app rather than a costly native app. We avoid rank guarantees and selection-count claims that cannot be verified, because careful parents in this region treat such promises with suspicion.",
+        "Coaching institutes benefit from a student area with notes, recorded classes and test schedules, which we can deliver as an Android and iOS app from ₹40,000, or as a lower-cost installable web app. We avoid rank guarantees and selection-count claims that cannot be verified, because careful parents in this region treat such promises with suspicion.",
         "Hostels and PG rooms near the colleges have their own small market. A page with photographs, rules, food details, rent range and a map pin, plus a Google Business Profile, helps students from distant villages decide before they arrive.",
       ],
     },

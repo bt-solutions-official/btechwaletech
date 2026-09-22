@@ -50,7 +50,7 @@ const jind: CityContent = {
     software: "Arhtiya ledgers, dealer order tools and fee registers for businesses still running on bahi-khata and phone calls.",
     ai: "WhatsApp assistants that answer fee, stock and appointment questions in Hindi, then pass serious enquiries to someone in your office.",
     data: "Dashboards pulling mandi arrivals, milk collection, dealer sales or admissions into one screen an owner can read quickly.",
-    app: "Installable web apps for milk-route tracking, student test series or clinic appointments, with no app-store listing.",
+    app: "Android and iOS apps for milk-route tracking, student test series or clinic appointments, available on both stores and priced from ₹40,000.",
     maintenance: "Five free months of updates and fixes after launch, then plans from ₹8,000 a month or pay-per-change work.",
   },
   whyUsIntro:

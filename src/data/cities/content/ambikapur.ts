@@ -50,7 +50,7 @@ const ambikapur: CityContent = {
     software: "Stock, billing and order tools for wholesalers, transporters and contractors working with the coal and construction sectors.",
     ai: "WhatsApp replies in Hindi that share rates, OPD timings or room availability while you are busy with customers.",
     data: "Sales, admissions or patient enquiry figures collected into a simple phone-friendly dashboard.",
-    app: "Installable web apps for school notices, coaching attendance or clinic token booking, with no app store needed.",
+    app: "Android and iOS apps for school notices, coaching attendance or clinic token booking, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
@@ -97,7 +97,7 @@ const ambikapur: CityContent = {
       paragraphs: [
         "Sant Gahira Guru Vishwavidyalaya, the medical college, the engineering college, polytechnic, Rajmohini Devi Girls' PG College and many private colleges and schools make Ambikapur the education centre of the division. Around them has grown a large coaching sector preparing students for state service exams, banking, railways, NEET and JEE, along with hostels, libraries and study spaces.",
         "Students and parents from outside the city search for these services on their phones: “PSC coaching Ambikapur”, “girls hostel near Gandhi Chowk” or “library for self study Ambikapur”. The institutes that show up with batch timings, fees, faculty details, facilities, photographs and a WhatsApp number get the calls. Those without a site depend on pamphlets and relatives.",
-        "We build course and batch pages, admission and fee details, faculty profiles, result pages that list only verifiable outcomes, and demo-class or visit booking forms. For hostels and libraries, rooms or seats, rules, fees and location. For schools, admissions, transport routes, circulars and a gallery. A small installable web app can also handle attendance and notices for coaching centres without any app store listing.",
+        "We build course and batch pages, admission and fee details, faculty profiles, result pages that list only verifiable outcomes, and demo-class or visit booking forms. For hostels and libraries, rooms or seats, rules, fees and location. For schools, admissions, transport routes, circulars and a gallery. An Android and iOS app, from ₹40,000 on Google Play and the App Store, can also handle attendance and notices for coaching centres.",
       ],
     },
     {

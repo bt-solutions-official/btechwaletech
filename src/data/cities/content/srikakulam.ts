@@ -50,7 +50,7 @@ const srikakulam: CityContent = {
     software: "Order books, batch and grading registers, contractor job trackers and fee systems for businesses that have outgrown their notebooks.",
     ai: "WhatsApp assistants that answer routine questions on room availability, stock, rates or OP timings in Telugu, Odia or English and pass complex ones to you.",
     data: "Dashboards showing orders, dispatches, dealer dues and where enquiries come from, readable on a phone at the shop counter.",
-    app: "Installable web apps for students, patients and field staff, shared with a link instead of a Play Store listing.",
+    app: "Android and iPhone apps for students, patients and field staff, listed on Google Play and the App Store and ready in six to ten weeks.",
     maintenance: "Updates, backups and security checks free for five months after launch, then maintenance from ₹8,000 a month if you need it.",
   },
   whyUsIntro:

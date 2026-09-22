@@ -51,7 +51,7 @@ const sambhal: CityContent = {
     software: "Order sheets, artisan job tracking and stock registers for craft exporters, plus purchase and lot records for mentha and potato traders.",
     ai: "WhatsApp replies that send catalogues, MOQ details or daily rate lists in Hindi or English while you are in the workshop or at the mandi.",
     data: "Dispatch, payment and seasonal stock figures turned into one clear dashboard you can check from your phone.",
-    app: "Installable web apps for artisan attendance, field purchase entries or school updates, with no app store download.",
+    app: "Android and iOS apps for artisan attendance, field purchase entries or school updates, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

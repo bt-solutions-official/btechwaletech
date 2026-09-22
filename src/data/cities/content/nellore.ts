@@ -50,7 +50,7 @@ const nellore: CityContent = {
     software: "Pond, harvest and feed tracking for aqua farmers, stock and dispatch registers for rice mills and job trackers for logistics firms.",
     ai: "WhatsApp assistants that answer rate, stock and availability questions in Telugu or English and pass negotiations to the owner.",
     data: "Dashboards showing harvests, feed use, sales, dispatches and dues, fed from daily sheets and Tally and readable on a phone.",
-    app: "Installable web apps for field technicians visiting ponds, dealers placing orders and patients booking appointments.",
+    app: "Android and iOS apps for field technicians visiting ponds, dealers placing orders and patients booking appointments, released on both app stores.",
     maintenance: "Rate and content updates, backups, security patches and uptime checks, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

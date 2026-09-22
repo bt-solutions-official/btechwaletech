@@ -51,7 +51,7 @@ const gwalior: CityContent = {
     software: "Admission portals, fee systems and dispatch tools for schools, coaching institutes and Malanpur suppliers who are stretched by spreadsheets.",
     ai: "WhatsApp automation that handles admission-season enquiries, wedding-venue availability questions and repeat orders from retailers across the Chambal region.",
     data: "Fee collection, admissions and sales reports cleaned up into dashboards that owners and principals can check each morning.",
-    app: "Installable web apps for parent communication, student attendance and field sales, with no app store listing needed.",
+    app: "Android and iOS apps for parent communication, student attendance and field sales, released on both app stores with prices from ₹40,000.",
     maintenance: "Notice uploads, rate changes, backups and security updates free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

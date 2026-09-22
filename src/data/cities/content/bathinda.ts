@@ -51,7 +51,7 @@ const bathinda: CityContent = {
     software: "Order registers, dealer portals, arhtiya accounts tools and admission systems for commission agents, input dealers and institutes that still run on ledgers and diaries.",
     ai: "WhatsApp auto-replies and AI assistants that answer daily questions on fees, rates, stock and OPD timings in Punjabi or Hindi, then hand the unusual ones to your staff.",
     data: "Dashboards for crop arrivals, sales by dealer, student enquiries or patient bookings that an owner can read on a phone between meetings.",
-    app: "Progressive web apps for bookings, field orders and student portals that install from a link, with no Play Store listing needed.",
+    app: "Android and iOS apps for bookings, field orders and student portals, published on Google Play and the App Store with prices starting at ₹40,000.",
     maintenance: "Content changes, updates, backups and speed checks, free for five months after launch and from ₹8,000 a month after that.",
   },
   whyUsIntro:

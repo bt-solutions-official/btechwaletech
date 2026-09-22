@@ -50,7 +50,7 @@ const kapurthala: CityContent = {
     software: "Job-work registers, vendor order trackers and student fee records for units and institutes still relying on Excel and paper.",
     ai: "WhatsApp replies in Punjabi or English for fee, batch and document questions, with human handover for anything sensitive.",
     data: "Dashboards of enquiries, admissions, orders and dispatches that owners can check from a phone, even while travelling abroad.",
-    app: "Installable web apps for parents, students or field staff, shared as a link and usable without an app store.",
+    app: "Android and iOS apps for parents, students or field staff, listed on Google Play and the App Store and ready in six to ten weeks.",
     maintenance: "Five months of free updates, backups and edits after launch, then maintenance from ₹8,000 a month if you choose to continue.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const ranipet: CityContent = {
     software: "Order tracking, batch records and vendor document systems for SIPCOT units that juggle compliance paperwork and many customers.",
     ai: "WhatsApp assistants that answer routine product, sample and dispatch questions and pass serious enquiries to your sales team.",
     data: "Dashboards pulling production, dispatch and receivables data from your spreadsheets into one view for the owner.",
-    app: "Installable web apps for shop-floor checklists, gate passes or field sales orders, working on ordinary phones.",
+    app: "Android and iOS apps for shop-floor checklists, gate passes or field sales orders on ordinary phones, published on Google Play and the App Store.",
     maintenance: "Free updates, backups and security fixes for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

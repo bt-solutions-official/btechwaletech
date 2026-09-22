@@ -51,7 +51,7 @@ const siwan: CityContent = {
     software: "Case trackers for travel and recruitment agencies, student and fee registers for coaching centres, and stock tools for wholesalers.",
     ai: "WhatsApp replies that answer fee, visa, timing and appointment questions around the clock, then pass serious cases to your staff.",
     data: "Dashboards that show enquiries by source, admissions by batch, or sales by product and season.",
-    app: "Installable web apps for student attendance, field staff or delivery orders that work on low-cost Android phones.",
+    app: "Android and iOS apps for student attendance, field staff or delivery orders on low-cost phones, available on both stores with builds from ₹40,000.",
     maintenance: "Five months of free updates, fixes and backups after launch, then maintenance from ₹8,000 a month if you choose it.",
   },
   whyUsIntro:

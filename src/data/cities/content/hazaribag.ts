@@ -50,7 +50,7 @@ const hazaribag: CityContent = {
     software: "Trip logs, machine-hour registers, billing and attendance tools for transport and mining contractors still working on paper.",
     ai: "WhatsApp replies in Hindi that share rates, availability, fees or room details, passing unusual chats to your staff.",
     data: "Clear dashboards of trips, diesel, machine hours, collections and dues that a contractor can check from a site office.",
-    app: "Installable web apps for students, parents, patients or site supervisors without an app store download.",
+    app: "Android and iOS apps for students, parents, patients or site supervisors, built in Flutter or React Native and listed on both app stores.",
     maintenance: "Updates, backups and fixes free for five months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

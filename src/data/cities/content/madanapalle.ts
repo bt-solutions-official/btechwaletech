@@ -51,7 +51,7 @@ const madanapalle: CityContent = {
     software: "Lot, bidding and payment registers for tomato commission agents, and loom-wise production records for saree weavers and master weavers.",
     ai: "WhatsApp replies in Telugu and English for arrival timings, saree catalogues, fees and doctor schedules, with money matters routed to a person.",
     data: "Dashboards that show daily arrivals and dispatches, saree stock by design or admissions by class, readable on a phone.",
-    app: "Installable web apps for mandi staff, weavers and school transport that keep working on weak signal and sync later.",
+    app: "Android and iOS apps for mandi staff, weavers and school transport that keep working on weak signal and sync later, from ₹40,000.",
     maintenance: "Five free months of updates, backups and edits after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:

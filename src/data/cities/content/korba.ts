@@ -50,7 +50,7 @@ const korba: CityContent = {
     software: "Work order, manpower and equipment registers for contractors and suppliers working with plants and mines.",
     ai: "WhatsApp assistants that answer service, booking and price questions in Hindi or English and record every enquiry.",
     data: "Dashboards showing jobs, billing, collections and material use, drawn from Tally and site registers.",
-    app: "Installable web apps for site attendance, service technicians and school communication, with no app store needed.",
+    app: "Android and iOS apps for site attendance, service technicians and school communication, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security fixes and uptime checks, free for five months and ₹8,000 a month afterwards.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const bikaner: CityContent = {
     software: "Distributor portals, batch registers and dispatch trackers for food and wool units shipping to many states.",
     ai: "WhatsApp assistants that take hotel enquiries, bulk namkeen orders and rate questions in Hindi or English before staff take over.",
     data: "Dashboards for distributor sales, seasonal demand, raw material costs and room occupancy, fed from Tally and Excel.",
-    app: "Installable web apps for sales reps visiting retailers across Shekhawati, Haryana and Punjab, working on patchy networks.",
+    app: "Android and iOS apps for sales reps visiting retailers across Shekhawati, Haryana and Punjab, working on patchy networks, from ₹40,000.",
     maintenance: "Price changes, new product photos, festival offers and security updates free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

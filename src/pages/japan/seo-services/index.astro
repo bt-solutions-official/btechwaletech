@@ -1,0 +1,713 @@
+---
+import JapanServicePage from "@components/japan/JapanServicePage.astro";
+import type { Article } from "@components/japan/JapanServicePage.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { usd, countryOgImage } from "@data/countries/international";
+import { JPY_PER_USD, jpy, both, ja, japanRegions, japanServiceSchema } from "@data/countries/japan";
+
+const path = "/japan/seo-services/";
+
+// ---------- FAQ (visible list and FAQPage schema share this array; plain text only) ----------
+
+const faqs = [
+  {
+    question: "How much do SEO services cost in Japan?",
+    answer: `Japanese 2026 price guides put SEO consulting at ¥100,000 to ¥1,000,000 a month, with ¥200,000 to ¥300,000 the most common band, and small and mid-sized businesses typically paying ¥100,000 to ¥300,000 a month. Content-led programmes run ¥600,000 to ¥2,000,000 a month, and articles cost ¥30,000 to ¥100,000 each. Our monthly SEO starts from ${both("Monthly SEO")}, and a 700+ page SEO website starts from ${both("SEO website")}. These are starting prices; the written quote depends on the size of your site and the work agreed.`,
+  },
+  {
+    question: "Why is your monthly SEO so much cheaper than a Japanese SEO company?",
+    answer: "The difference is overhead, not effort. A monthly fee from a Japanese SEO firm has to fund a city-centre office, consultants on Japanese pay scales, a sales process and frequently outside writers, and the fee rises with each of those. Our fee funds three remote engineers in India and nothing else. You do give something up: communication is in English, nobody visits your office, and Japanese articles need a native writer you hire separately. For many businesses the technical and structural work is the part that was missing anyway.",
+  },
+  {
+    question: "Can you guarantee a first-page ranking on Google in Japan?",
+    answer: "No, and we would be wary of anyone who does. Ranking guarantees, often advertised in Japan as jouihyouji hoshou, usually rest on low-competition keywords that bring few customers, or on link tactics that can damage your domain. Google decides rankings and no outside company controls them. What we commit to instead is transparency: a written monthly scope, a log of every change we make, and Search Console data showing what happened to impressions, clicks and enquiries after each change.",
+  },
+  {
+    question: "Do you write Japanese SEO articles?",
+    answer: "No. Our team does not write natural Japanese, so we do not write Japanese articles and never publish machine translation as finished copy. We do the parts that need search and engineering skills: keyword research across kanji, kana and English, search intent analysis, page outlines, briefs, internal linking, title length checks, structured data and publishing. A native Japanese writer, a staff member or a translator you choose writes and approves the text. Many businesses already have someone who can write; if you do not, we can describe what to look for in a freelance writer.",
+  },
+  {
+    question: "Does SEO for Google also work for Yahoo! JAPAN?",
+    answer: `Largely yes, because the web results on Yahoo! JAPAN are powered by Google's search technology. A page that is indexed and ranks well on Google usually does well on Yahoo! JAPAN too, although the page around the results is Yahoo's own. We also verify sites in Bing Webmaster Tools, since Edge on Windows sends searches to Bing by default and some AI assistants draw on Bing's index. Monthly SEO from ${both("Monthly SEO")} covers all three, with reports built mainly on Google Search Console data.`,
+  },
+  {
+    question: "What is MEO, and do you offer MEO services in Japan?",
+    answer: "MEO, map engine optimisation, is the Japanese name for local search optimisation on Google Maps. We offer it as part of monthly SEO: guidance on Google Business Profile categories, services, opening hours including holidays, photos and posts, a simple process for asking customers for reviews and replying to them, consistent name, address and phone details across your site and portals, and location pages with structured data. The profile must be owned by your company at your real address; we never create listings in our own account.",
+  },
+  {
+    question: "How long does SEO take to work in Japan?",
+    answer: "Technical fixes can show effects within weeks once Google recrawls the affected pages, and new pages are often indexed within days to a few weeks. Meaningful growth in traffic and enquiries usually takes several months, and competitive Tokyo keywords in fields such as real estate, beauty, medical care or finance can take longer. Local MEO for a single location often moves faster than nationwide rankings. We set expectations in the first month from your own Search Console data rather than promising a date.",
+  },
+  {
+    question: "Do you offer pay-for-performance SEO (seika houshuu gata)?",
+    answer: `No. Pay-for-performance SEO in Japan usually charges a fee for each day or month a chosen keyword sits inside a ranking band such as the top ten. It sounds safe, but it gives the vendor a reason to pick keywords that are easy to rank and bring few customers, and some vendors use risky links to hit targets quickly. We charge a flat monthly fee from ${both("Monthly SEO")} for a written scope, and we judge success by enquiries and sales rather than one keyword.`,
+  },
+  {
+    question: "Do you build backlinks?",
+    answer: "We do not buy links, sell links, run private blog networks or swap links in bulk, because Google's spam policies treat those as link schemes and the penalty lands on your domain, not ours. We earn links in ways that stay safe: making sure partners, suppliers, industry associations and local chambers of commerce link to you correctly, creating data or guides that others want to cite, reclaiming broken links that already point to your site, and keeping business listings consistent. Honest link building is slower, and we say so.",
+  },
+  {
+    question: "Can you do SEO for an English website aimed at foreigners in Japan or inbound tourists?",
+    answer: "Yes, and this is where an English-first team fits well. For residents we research English queries such as international schools, English-speaking clinics, apartments for foreigners or visa services, by city and ward. For inbound tourism we build language versions for English, Simplified Chinese, Traditional Chinese and Korean, with hreflang, separate URLs and keyword research per market. JNTO recorded a record 42.68 million international visitors in 2025, led by South Korea, mainland China and Taiwan, so these versions can reach a large audience.",
+  },
+  {
+    question: "How do hreflang tags work for Japanese, Chinese and Korean pages?",
+    answer: "Each language version gets its own URL, for example /ja/, /en/, /zh-hans/, /zh-hant/ and /ko/, and every version lists all of its equivalents with hreflang codes such as ja, en, zh-Hans, zh-Hant and ko, plus an x-default page. The tags must be reciprocal and point to canonical URLs, or search engines ignore them. We avoid redirecting visitors automatically by IP address, because it can stop crawlers from reaching the other versions. Chinese and Korean text should come from native translators working from their own keyword research.",
+  },
+  {
+    question: "What access do you need to start SEO work?",
+    answer: "Usually Google Search Console, Google Analytics 4, Bing Webmaster Tools, manager access to your Google Business Profile, and access to your CMS or code repository if we are fixing things ourselves. Every account stays in your company's name; you add us as users and can remove us at any time. We ask for the least access that lets us do the agreed work, and we avoid access to customer personal data unless a task truly needs it, in which case we agree data-handling terms first.",
+  },
+  {
+    question: "Do analytics and SEO tags raise privacy issues in Japan?",
+    answer: "They can. Since June 2023, the Telecommunications Business Act has required services within its scope to notify users, or publish details, when tags or SDKs such as analytics and advertising scripts pass user information to third parties; a site that only promotes a company's own business is often outside that scope. The APPI covers personal data in forms and CRMs, and access from India counts as provision to a third party in a foreign country. We keep tags lean and documented; your adviser confirms what applies.",
+  },
+  {
+    question: "Can you protect our rankings during a website renewal?",
+    answer: "Yes, and it is one of the most valuable things SEO work can do. Before a renewal we crawl the current site, export pages with clicks and links from Search Console, and build a one-to-one redirect map from every old URL to its new equivalent. We keep content that ranks, test the new site on a blocked staging server, check titles, canonicals and structured data before launch, then watch indexing and traffic closely for the first weeks. Missing redirects are the usual culprit when traffic falls after a renewal, and they are entirely avoidable.",
+  },
+  {
+    question: "What is a programmatic SEO website, and is it safe?",
+    answer: `It is a large site generated from structured data, such as property pages by station and area, services by city, or products by material and size. It is safe when every page gives the searcher something unique and useful, such as real listings, prices, access information or local details, and risky when thousands of pages differ only by a place name. Google's spam policies target scaled content produced mainly to manipulate rankings. Our SEO website plan starts from ${both("SEO website")} for 700+ pages built from your data.`,
+  },
+  {
+    question: "Do you optimise for AI Overviews and ChatGPT-style assistants?",
+    answer: "We optimise for them in the ways anyone honestly can: clear pages that answer questions directly, sound headings and structure, structured data, named authors and supervisors, fast pages that crawlers can read without running JavaScript, and deliberate robots.txt choices about AI crawlers. Google has shown AI Overviews in Japanese search since August 2024 and added Japanese to AI Mode in September 2025, and chat assistants draw on web content, so pages that are easy to quote are more likely to be cited. Nobody can guarantee a mention in an AI answer, and we do not claim to.",
+  },
+  {
+    question: "Can you invoice in yen, and do you add consumption tax?",
+    answer: `We price in US dollars and can invoice in Japanese yen on request, with the yen amount fixed in the written quote and payment by Wise or international bank wire. Monthly SEO starts from ${both("Monthly SEO")}. Because we hold no registration under Japan's qualified invoice system, our invoices carry no Japanese consumption tax and cannot serve as qualified invoices. How your company treats a cross-border service for consumption tax or withholding is a question for your tax accountant, the zeirishi.`,
+  },
+  {
+    question: "What are your working hours in Japan time?",
+    answer: "Our day runs from 9 am to 9 pm India time, which is 12:30 pm to 12:30 am in Japan. The gap is a fixed three and a half hours all year, since neither country moves its clocks. WhatsApp messages are answered every day within those hours, and if you need an earlier slot, a video call at about 10 am JST can be booked ahead. SEO suits this rhythm: questions you send in the morning usually come back with answers, fixes or draft briefs by the evening.",
+  },
+  {
+    question: "Can you work with WordPress, Shopify, STUDIO or our current Japanese host?",
+    answer: "Yes in most cases. WordPress is widely used on Japanese business sites, and we can fix themes, plugins, redirects and speed there, whether the site runs on a Japanese host such as Xserver or Sakura Internet or on a cloud server. On Shopify we work within the theme and app ecosystem. On hosted builders such as STUDIO, Wix or Jimdo we do what the platform allows and tell you plainly when its limits are holding your SEO back. If a rebuild makes sense, we quote it separately.",
+  },
+  {
+    question: "Can you do SEO for a business with branches across several prefectures?",
+    answer: "Yes. Multi-location SEO in Japan needs one Google Business Profile per real location, each verified by your company, and one useful page per branch on your website with its own address, directions from the nearest station, parking, hours, staff and services. We avoid doorway pages that repeat the same text with a different city name. Branch pages link up to prefecture and service pages so search engines understand the structure, and the monthly report shows search performance for each branch separately.",
+  },
+  {
+    question: "How do we get started with SEO?",
+    answer: "Start with four things: your site address, the services you most want to sell, the areas you cover and two or three competitors you keep an eye on. WhatsApp or email them to us in English. After studying your site and the current search results, we come back with observations and questions, then a written scope with the monthly price and timeline in USD or JPY. No invoice is issued before you sign off on that scope. Read access to Search Console at this stage makes the first review far more specific.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "SEO Services Japan | Affordable Japanese SEO & MEO",
+  description: `SEO services in Japan: technical SEO, Japanese keywords, MEO and hreflang by a remote team in India. Monthly SEO from ${usd("Monthly SEO")} (about ${jpy("Monthly SEO")}).`,
+  canonicalPath: path,
+  h1: "SEO services in Japan: Japanese SEO and MEO for Tokyo, Osaka and all 47 prefectures",
+  intro: "BtechWaleTech is a three-engineer team in India that does SEO for businesses in Japan: technical audits and fixes, Japanese keyword research, site structure, MEO for Google Business Profile, programmatic sites of 700+ pages and multilingual SEO for inbound visitors. We work remotely in English, native writers handle your Japanese copy, and monthly SEO starts far below typical Japanese consulting fees. We never guarantee rankings; we show you exactly what we changed and what it did.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Japan", href: "/japan/" },
+    { label: "SEO services", href: path },
+  ]),
+  locale: "en_JP",
+  ogImage: countryOgImage("BtechWaleTech, a remote SEO team in India serving businesses across Japan"),
+  keywords: [
+    "SEO services Japan",
+    "SEO company Japan",
+    "SEO agency Tokyo",
+    "SEO consultant Japan",
+    "Japanese SEO",
+    "affordable SEO Japan",
+    "local SEO Japan",
+    "MEO Japan",
+    "Google Business Profile Japan",
+    "international SEO Japan",
+    "SEO for inbound tourism",
+    "multilingual SEO Japan",
+    "hreflang Japanese Chinese Korean",
+    "technical SEO Japan",
+    "Japanese keyword research",
+    "Yahoo! JAPAN SEO",
+    "ecommerce SEO Japan",
+    "programmatic SEO Japan",
+    "SEO website renewal Japan",
+    "AI Overviews Japan",
+    "SEO Osaka",
+    "SEO Nagoya",
+    "SEO Yokohama",
+    "SEO Fukuoka",
+    "SEO Sapporo",
+    "SEO Kyoto",
+    "SEO Kobe",
+    "SEO Sendai",
+    "offshore SEO India Japan",
+    "SEO対策 格安",
+    "SEO対策 外注",
+    "SEOコンサルティング",
+    "MEO対策",
+  ],
+});
+
+const schema = japanServiceSchema({
+  path,
+  title: page.title,
+  description: page.description,
+  serviceName: "SEO services for businesses in Japan",
+  serviceType: "Search engine optimisation",
+  plans: ["Monthly SEO", "SEO website", "Static"],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Japan · SEO services · Remote team in India";
+const facts: [string, string][] = [
+  ["Team", "Three engineers in India, remote only"],
+  ["Monthly SEO", `From ${usd("Monthly SEO")}, about ${jpy("Monthly SEO")}`],
+  ["SEO website", `700+ pages from ${usd("SEO website")}`],
+  ["Search engines", "Google, Yahoo! JAPAN and Bing"],
+  ["Languages", "Japanese, English, Chinese and Korean site structure"],
+  ["Guarantees", "No ranking promises, full visibility of our work"],
+];
+const pills = ["Technical SEO", "Japanese keyword research", "MEO and Business Profile", "700+ page SEO websites", "hreflang for ja, en, zh, ko", "AI search visibility"];
+const heroOrigin = "Three engineers in India · Remote SEO for Japan · No office or staff in Japan";
+const quoteKicker = "SEO starting prices";
+const quotePlans = ["Monthly SEO", "SEO website", "Static", "Maintenance"];
+const quoteFoot = `Starting prices in USD; about ¥${JPY_PER_USD} per US dollar. Japanese writing, SEO tools in your name and hosting are paid directly by you.`;
+
+const stats = [
+  { value: "3", label: "Engineers who do the work and answer your messages" },
+  { value: usd("Monthly SEO"), label: `Monthly SEO starting price, about ${jpy("Monthly SEO")}` },
+  { value: "700+", label: `Pages in an SEO website, from ${usd("SEO website")}` },
+  { value: "3.5 h", label: "Time difference to Japan, fixed all year" },
+];
+
+const answerHeading = "Looking for affordable SEO services for a business in Japan?";
+const quickAnswer = `BtechWaleTech is a three-engineer team in India offering SEO for businesses in Japan: technical SEO, Japanese keyword research, page structure, MEO, programmatic sites and hreflang for inbound markets. Monthly SEO starts from ${both("Monthly SEO")}, against the ¥100,000 to ¥300,000 a month that Japanese price guides quote for small and mid-sized businesses. We work in English, a native writer handles the Japanese text, and we never guarantee rankings.`;
+const answerMore = "SEO rarely needs daily meetings. Most of the work is audits, fixes, keyword plans and content briefs, which run well asynchronously, and our hours of 12:30 pm to 12:30 am JST overlap your whole afternoon for calls and quick questions.";
+const snapshotCaption = "SEO for Japan at a glance";
+const snapshot = [
+  { label: "Who does the work", value: "Three engineers in India: technical SEO and cloud, full stack development, delivery and data" },
+  { label: "Search engines", value: "Google and Yahoo! JAPAN, which uses Google's search technology, plus Bing" },
+  { label: "What we cover", value: "Technical SEO, keyword research, structure, MEO, programmatic sites, hreflang, AI search" },
+  { label: "Japanese text", value: "Written or approved by a native writer; we supply briefs, structure and on-page work" },
+  { label: "Starting prices", value: `Monthly SEO from ${both("Monthly SEO")}; SEO website from ${both("SEO website")}` },
+  { label: "Reporting", value: "Monthly report from Search Console, GA4 and Business Profile data, with a change log" },
+  { label: "Hours in Japan time", value: "12:30 pm to 12:30 am JST, every day, on WhatsApp" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "SEO services for Japanese search, from audit to monthly reporting";
+const services: { name: string; note: string; href?: string; size: "lg" | "md" | "sm" }[] = [
+  { name: "Technical SEO for Japanese sites", note: "Crawling, indexing, canonicals, redirects, structured data, Core Web Vitals with Japanese fonts and JavaScript rendering, fixed in the code rather than listed in a report.", href: "/services/seo-services/", size: "lg" },
+  { name: "Japanese keyword research", note: "Keyword maps across kanji, hiragana, katakana, romaji and English, grouped by intent words such as cost, comparison and reviews.", size: "md" },
+  { name: "MEO and Business Profile", note: "Local search on Google Maps, with the profile owned by you at your real address and working alongside portals.", size: "sm" },
+  { name: "700+ page SEO websites", note: `Programmatic sites by station, area or category with real data on every page, from ${both("SEO website")}.`, href: "/services/web-development/", size: "sm" },
+  { name: "Inbound and international SEO", note: "Japanese, English, Chinese and Korean versions with hreflang and keyword research for each market.", size: "sm" },
+  { name: "SEO-safe website renewal", note: "Redirect maps, staging checks and launch monitoring so a redesign keeps the rankings it earned.", href: "/japan/website-developer/", size: "sm" },
+  { name: "Ecommerce SEO", note: "Own-store SEO beside Rakuten, Amazon and Yahoo! Shopping: categories, product data and gift seasons.", size: "sm" },
+  { name: "AI search and reporting", note: "Pages built to be quoted by AI Overviews and assistants, measured monthly in Search Console and GA4.", size: "sm" },
+];
+
+// ---------- Pricing ----------
+
+const pricingHeading = "SEO and website prices for businesses in Japan";
+const pricingIntro = `Our plans are priced in US dollars; the yen column uses ¥${JPY_PER_USD} to the dollar purely as a reference point against Japanese SEO quotes. For search work the relevant rows are Monthly SEO and the SEO website, but the whole list is shown because SEO often leads to changes on the site itself. Each figure is where a written scope starts, and a yen invoice can be arranged.`;
+const pricingFine = `These figures open the conversation; your quote sets the final number. The yen column is indicative only (¥${JPY_PER_USD} to the dollar), and the agreed amount in USD or JPY is written into the quote. Native writers, translators, any paid SEO tools held in your name, domains, hosting and ad spend are paid by you to those providers. No Japanese consumption tax is added to our invoices.`;
+
+// ---------- Regions: one source for the guide blocks and the region table ----------
+
+const regionNotes: Record<string, { character: string; build: string; text: string }> = {
+  Hokkaido: {
+    character: "Sapporo local search plus inbound tourism searches in English, Chinese and Korean",
+    build: "Multilingual resort SEO, Sapporo MEO, food ecommerce SEO",
+    text: "Search in Hokkaido splits into two very different markets. Sapporo behaves like any large city, with competitive local searches for clinics, salons, restaurants, real estate and professional services, often typed with a ward or district such as Chuo-ku or Susukino. Tourism searches look outward: travellers from Australia, Asia and elsewhere research Niseko, Furano, Rusutsu and Otaru in English, Chinese and Korean, often long before winter, so accommodation and activity businesses need language versions and pages that answer practical questions about transfers, rental gear, lessons and the best weeks to visit. Food producers in Hakodate, Asahikawa, Obihiro and Kushiro sell seafood, dairy and sweets to the rest of Japan, where their own store competes with marketplace listings for gift and product searches. Typical work here is multilingual SEO with hreflang for resorts, MEO for Sapporo businesses alongside portal listings, and ecommerce SEO for producers who want more direct orders.",
+  },
+  Tohoku: {
+    character: "Lower local competition; regional products searched from Tokyo and abroad",
+    build: "Seasonal producer SEO, ryokan direct-booking pages, recruitment SEO",
+    text: "Tohoku's six prefectures have less crowded search results than Kanto or Kansai, which means a well-structured site can rank for local searches sooner. Sendai is the business centre, where law firms, clinics, schools and builders compete in Miyagi results, while Morioka, Akita, Aomori, Yamagata, Koriyama and Fukushima City each have their own local markets. Much of the region's value is in products sold outside it: rice, sake, Aomori apples, Yamagata cherries, Fukushima peaches and crafts such as Nambu ironware attract searches from Tokyo and abroad, especially before the gift seasons. Hot spring areas such as Zao, Ginzan and Nyuto draw domestic and inbound visitors who usually compare options on booking portals first. We plan producer ecommerce SEO around seasonal and gift keywords, build direct-booking pages for ryokan that complement Jalan and Rakuten Travel listings, and create recruitment pages that rank for people considering a job or a move to the region.",
+  },
+  Kanto: {
+    character: "The most competitive results in Japan; ward and station-level searches",
+    build: "Programmatic area pages, multi-branch MEO, bilingual B2B SEO",
+    text: "Kanto has the most competitive search results in Japan. Tokyo searches are hyper-local: people type a ward or station together with the service, such as Shibuya, Shinjuku, Ikebukuro or Ginza plus dentist, rental apartment, gym or tax accountant, so one citywide page rarely wins. Yokohama, Kawasaki, Saitama and Chiba add large commuter populations with the same station-level behaviour, which suits structured area pages for real estate, home services and clinics. Shibuya's startups and the foreign companies around Minato need B2B SEO in English and Japanese for software, recruitment and professional services, and expat searches for English-speaking doctors, schools and apartments concentrate here too. Outside the metropolis, Tsukuba's research institutions and the cities of Utsunomiya, Maebashi, Takasaki and Mito have calmer local markets where MEO moves faster. Typical Kanto work is technical SEO for large sites, programmatic station and ward pages backed by real data, multi-branch MEO and bilingual content planning.",
+  },
+  Chubu: {
+    character: "Technical B2B searches by process, material and specification",
+    build: "Capability pages, English export SEO, Nagoya MEO",
+    text: "Chubu's search demand leans heavily towards B2B. Around Nagoya, Toyota City and Hamamatsu, and across Gifu and Shizuoka, thousands of suppliers compete for searches about machining, pressing, moulding, surface treatment and specific materials, where buyers type the process name, material grade or tolerance rather than a company name. Pages that explain capabilities, equipment lists, lot sizes and lead times rank for these technical terms and turn into quotation requests. Niigata, Toyama, Kanazawa and Fukui combine manufacturing with food, sake and crafts: Tsubame-Sanjo metalwork, Kutani porcelain and Sabae eyewear frames all have buyers searching in English overseas. Nagano and Yamanashi add mountain and wine tourism, and Hakuba's international visitors plan their trips in English. Typical Chubu work is keyword research for technical B2B terms, capability and case pages drafted with your engineers, English export pages with hreflang, and MEO for businesses in Nagoya's Sakae and Meieki districts.",
+  },
+  Kansai: {
+    character: "Dense Osaka local search; Kyoto tourism searched in several languages",
+    build: "Multilingual tourism SEO, B2B catalogue SEO, brand ecommerce SEO",
+    text: "Kansai is Japan's second large search market, with habits of its own. Osaka businesses compete hard in local results around Umeda, Namba, Shinsaibashi and Tennoji, while wholesale and manufacturing firms across Osaka and Higashi-Osaka need B2B pages for product categories and processing capabilities. Kyoto's searches are shaped by tourism, with ryokan, experiences, restaurants and craft shops competing for visitors who search in English, Chinese and Korean as well as Japanese, and the city's long-established brands need to rank for their own products instead of leaving those clicks to resellers. Kobe has food, confectionery, fashion and medical-industry businesses; Nara, Wakayama and Mie draw heritage travellers to temples, the Kumano Kodo and Ise; and Shiga's factories recruit engineers from across the country. We typically work on multilingual tourism SEO, MEO for Osaka and Kyoto locations, catalogue SEO for wholesalers, and ecommerce SEO for Kansai food and lifestyle brands.",
+  },
+  Chugoku: {
+    character: "A mix of big-city local search and prefecture-wide or national searches",
+    build: "Producer ecommerce SEO, heritage tourism hreflang, multi-town local pages",
+    text: "Chugoku's five prefectures range from Hiroshima, a large city with automotive and shipbuilding suppliers, to Tottori and Shimane, which are among the least populated prefectures in Japan. That range shapes SEO. In Hiroshima and Okayama, service businesses compete in local results much as they do in other big cities, and B2B suppliers benefit from pages built around technical search terms. Tourism around Miyajima, the Peace Memorial, Kurashiki, the Tottori Sand Dunes and Izumo Taisha brings international visitors who search in English and Chinese before they book. In smaller markets, businesses often need to rank across a whole prefecture or sell nationally online: Kojima denim, Okayama fruit, Shimonoseki fugu and Yamaguchi sake all reach customers through their own stores. Typical work is export and ecommerce SEO for producers, heritage tourism pages with hreflang, and structured local pages for businesses that serve several towns rather than one.",
+  },
+  Shikoku: {
+    character: "Products and travel searched nationally and abroad; quieter local results",
+    build: "Gift-season ecommerce SEO, pilgrimage and art tourism content, local MEO",
+    text: "Shikoku is small in population but strong in products and travel with national reach, so SEO here is usually about ranking beyond the island. Imabari towels, Ehime mikan and other citrus, Kagawa's sanuki udon, Tokushima's sudachi and Kochi's bonito and yuzu are all searched as gifts and regional specialities by people in Tokyo, Osaka and abroad, which puts product and gift-season keywords at the core of ecommerce SEO. Naoshima and the other Setouchi art islands, Dogo Onsen in Matsuyama and the 88-temple pilgrimage draw international visitors who plan in English, often with detailed questions about routes, lodging and luggage. Local searches in Takamatsu, Matsuyama, Tokushima and Kochi are less crowded than in the big cities, so well-built MEO can show results comparatively quickly. Typical Shikoku work is producer ecommerce SEO, English content for pilgrimage and art tourism, and local SEO for clinics, schools and trades in the four prefectural capitals.",
+  },
+  "Kyushu and Okinawa": {
+    character: "Startup B2B, Korean and Chinese visitor searches, resort tourism",
+    build: "Korean and Chinese pages, supplier SEO, Fukuoka and Naha MEO",
+    text: "Kyushu and Okinawa mix fast-growing cities with strong tourism. Fukuoka's startup scene and its Tenjin and Hakata business districts create demand for SaaS and B2B SEO in Japanese and English, and short flights to Korea and Taiwan make Korean and Traditional Chinese pages valuable for shops, restaurants and hotels. Kumamoto and the wider semiconductor supply chain have suppliers who need English pages that rank for technical procurement searches. Kitakyushu has manufacturing and robotics; Nagasaki, Saga's porcelain towns of Arita and Imari, Kagoshima and Miyazaki attract visitors and sell food and crafts nationally; and Beppu and Yufuin in Oita are among the best-known hot spring names in Japan, searched heavily by inbound travellers. Okinawa's resorts, diving operators and property businesses compete for English and Chinese searches as well as domestic ones. Typical work is multilingual hospitality SEO, B2B supplier pages, MEO for Fukuoka and Naha, and ecommerce SEO for shochu, tea and food.",
+  },
+};
+
+const regionBlocks = japanRegions.map((r) => ({ name: `${r.name}: ${r.prefectures.join(", ")}`, text: regionNotes[r.name].text }));
+const regionTable = japanRegions.map((r) => [r.name, r.prefectures.join(", "), regionNotes[r.name].character, regionNotes[r.name].build]);
+
+// ---------- Tokyo plus the 20 designated cities ----------
+
+const cityRows = [
+  ["Tokyo (23 wards)", "Tokyo", "Ward and station searches, the most competitive local results in Japan, English searches from expats and foreign firms"],
+  ["Yokohama", "Kanagawa", "Station-level searches for real estate and clinics, Minato Mirai corporate and waterfront tourism queries"],
+  ["Osaka", "Osaka", "Heavy local competition in Umeda and Namba, wholesale and B2B catalogue terms, inbound tourism"],
+  ["Nagoya", "Aichi", "Manufacturing and machining terms, local search in Sakae and Meieki"],
+  ["Sapporo", "Hokkaido", "Local services by ward, restaurant searches alongside portal listings, gateway for tourism searches"],
+  ["Fukuoka", "Fukuoka", "Startup and SaaS queries, Korean and Chinese visitor searches around Tenjin and Hakata"],
+  ["Kobe", "Hyogo", "Food, confectionery and fashion brands, Kitano and Harborland tourism"],
+  ["Kawasaki", "Kanagawa", "Commuter station searches, recruitment for electronics and IT companies"],
+  ["Kyoto", "Kyoto", "Multilingual tourism, ryokan and experiences, brand searches for crafts and sweets"],
+  ["Saitama", "Saitama", "Local services around Omiya and Urawa, commuter housing searches"],
+  ["Hiroshima", "Hiroshima", "Miyajima and Peace Memorial tourism in several languages, supplier B2B terms"],
+  ["Sendai", "Miyagi", "The most competitive local market in Tohoku: schools, clinics and professional services"],
+  ["Chiba", "Chiba", "Makuhari business searches, commuter housing and local services"],
+  ["Kitakyushu", "Fukuoka", "Manufacturing, robotics and recruitment searches, local services around Kokura"],
+  ["Sakai", "Osaka", "Knife and blade makers searched in Japanese and English, local services"],
+  ["Niigata", "Niigata", "Rice, sake and food ecommerce, local services on the Sea of Japan coast"],
+  ["Hamamatsu", "Shizuoka", "Musical instrument, motorcycle parts and photonics suppliers, engineer recruitment"],
+  ["Kumamoto", "Kumamoto", "Semiconductor supplier pages, recruitment, castle-area tourism"],
+  ["Sagamihara", "Kanagawa", "Commuter housing and local services, manufacturing suppliers"],
+  ["Shizuoka", "Shizuoka", "Green tea ecommerce and gifts, Mount Fuji area tourism"],
+  ["Okayama", "Okayama", "Fruit and denim ecommerce, services for a transport hub linking Chugoku and Shikoku"],
+];
+
+// ---------- Long-form guide (paragraphs, list items and after-paragraphs may contain inline HTML) ----------
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who we are, and which businesses in Japan our SEO suits",
+    paragraphs: [
+      `BtechWaleTech is a team of three engineers working from India, and search engine optimisation is part of our weekly work. Santosh Sharma leads technical SEO: crawling, indexing, structured data, site speed and deployment, plus the AWS and data work behind reporting. Ankur Kumar is the full stack developer who actually changes templates, redirects, forms and page code when an audit finds a problem. Vedansh Shrivastava manages delivery and handles data analysis and automation, including the scripts that turn Search Console exports into a readable monthly report. You message these three people directly. No account manager rewrites your request, and nothing is passed on to a subcontractor.`,
+      `Some things we are not, and it is better to say them first. We have no office, registered company, staff or address in Japan, so we cannot honestly call ourselves a Tokyo SEO agency, and there is no map listing of our own in Japan either. We are not a Google Partner or any other certified partner, we hold no SEO awards, and you will find no case studies, testimonials or client logos on this page. We also do not promise positions. Anyone who guarantees first place for a competitive Japanese keyword is either selling keywords nobody searches for or taking risks with your domain.`,
+      `The biggest practical point is language. We work in English and do not write natural Japanese. For SEO that means a clean split of roles: we handle keyword research, search intent analysis, page structure, briefs, technical work and measurement, and a native Japanese writer, one of your staff or a translator you trust writes and approves the Japanese text. We never publish machine-translated Japanese and call it optimised. Titles and meta descriptions in Japanese go through the same native review as body copy, because a clumsy title in the search results costs clicks every single day.`,
+      `This setup suits some businesses much better than others. It works well for foreign-owned companies and their Japanese subsidiaries; startups in Tokyo and Fukuoka with bilingual teams; hotels, ryokan, tour operators and experience providers who want visitors from Korea, Taiwan, mainland China, Hong Kong and English-speaking countries; manufacturers and food producers who sell abroad; bilingual professionals such as visa consultants, international real estate agents and English schools; and Japanese companies that already have a writer or content team and need the technical and structural side done properly. If you want an agency at your office every week for meetings in Japanese, a Japanese firm is the better choice, and we will tell you so.`,
+      `The full range of IT services we offer to businesses in Japan, from websites and apps to custom systems, is summarised on <a href="/japan/">our Japan page</a>. This page goes deep on search only: how SEO works in Japan, what it typically costs, what we do for our fee, and what to check before hiring anyone for it, including us.`,
+    ],
+  },
+  {
+    id: "seo-services-detail",
+    heading: "What our SEO service for Japan includes",
+    paragraphs: [
+      `<strong>Technical SEO audit and fixes.</strong> We crawl the site the way a search engine does and compare what we find with what Google Search Console reports: pages that are excluded from the index, duplicate URLs without a clear canonical, redirect chains, broken internal links, missing or invalid structured data, slow templates and pages that only render with JavaScript. The difference from many SEO reports is that we fix these in the code ourselves, on sites where you give us access, instead of handing your web company a spreadsheet and waiting months.`,
+      `<strong>Japanese keyword research and page planning.</strong> We build a keyword map across kanji, hiragana, katakana, romaji and English, group the terms by search intent, and assign each group to one page so your pages stop competing with each other. The map is delivered in Japanese with an English gloss for every group, so both your team and ours understand exactly why each page exists.`,
+      `<strong>Content structure and briefs.</strong> For every planned page we write a brief with the target keywords, the questions the page must answer, a heading outline, internal links, the structured data it needs and who should supervise it. Your native writer drafts from the brief; we then check the structure, titles and markup and publish.`,
+      `<strong>MEO and local search.</strong> We guide your Google Business Profile setup, categories, services, photos, posts and review process, keep your business details consistent across your site and the portals, and build location pages that support the profile. More on this in the MEO section below.`,
+      `<strong>Programmatic SEO sites.</strong> For businesses with structured data, such as property listings, branches, service areas or large catalogues, we build SEO websites of 700+ pages from ${both("SEO website")}, generated from your data with safeguards against thin pages. The build side is the same engineering described on our <a href="/services/web-development/">web development service page</a>.`,
+      `<strong>International and inbound SEO.</strong> For hotels, tour operators, shops and exporters: a version of the site for each target language, whether English, Simplified or Traditional Chinese or Korean, each on its own URL path, linked with hreflang and researched market by market.`,
+      `<strong>Ecommerce SEO.</strong> Category architecture, product data, Merchant Center feeds and seasonal gift pages for your own store, planned to work alongside Rakuten, Amazon and Yahoo! Shopping rather than against them.`,
+      `<strong>SEO for website renewals.</strong> Redirect mapping, staging checks and post-launch monitoring when you redesign, migrate from a builder or change domain. If the renewal itself is on the table, our <a href="/japan/website-developer/">website developer page for Japan</a> covers the build.`,
+      `<strong>AI search visibility and reporting.</strong> Structure that helps AI Overviews and assistants quote your pages accurately, and a monthly report that shows what changed, what we did and what we plan next. Our general approach to search, outside Japan too, is set out on the <a href="/services/seo-services/">SEO services page</a>.`,
+    ],
+  },
+  {
+    id: "search-landscape",
+    heading: "How people search in Japan: Google, Yahoo! JAPAN, Bing, maps and portals",
+    paragraphs: [
+      `Google is the main search engine in Japan, and Yahoo! JAPAN, which still has a loyal audience, uses Google's search technology to produce its web results. In practice that means one set of SEO work covers both. The results page on Yahoo! JAPAN looks different, because Yahoo mixes in its own news, shopping and Q&A services, but the organic listings follow the same signals. When we check rankings for a site in Japan, we look at both, because some older and non-technical audiences still start from the Yahoo! JAPAN portal every day.`,
+      `Bing matters more than its share suggests. Edge on Windows sends searches to Bing unless someone changes the setting, which puts it in front of many office workers, and some AI assistants draw on Bing's index. We verify every site we work on in Bing Webmaster Tools, submit sitemaps there and support IndexNow where the platform allows it, so new and changed pages reach Bing quickly.`,
+      `Local searches often end on a map rather than a website. Someone looking for a dentist, a ramen shop or a hair salon near a station usually sees Google's map results first, which is why Japanese marketers treat MEO as its own discipline. At the same time, specialised portals rank for huge numbers of local and category searches: ${ja("食べログ")} (Tabelog) for restaurants, ${ja("ホットペッパービューティー")} (Hot Pepper Beauty) for salons, SUUMO for property and ${ja("じゃらん")} (Jalan) for travel. A small business rarely outranks those portals for broad searches, so part of our job is choosing where your own site can realistically win and where your portal listing should do the work.`,
+      `Discovery also happens away from search engines. Younger customers often find shops and products on Instagram, TikTok and YouTube before they search the name, and LINE, with more than 100 million monthly users in Japan according to LY Corporation, is where many businesses keep in touch with customers after the first visit. SEO does not replace those channels, but it catches the moment when someone who heard your name types it into a search box, and that branded search should always land on your own well-structured site.`,
+      `Finally, answers increasingly appear before the links. Google has shown AI Overviews for Japanese queries since August 2024, and people ask chat assistants for recommendations. We cover what that changes, and what it does not, in the AI search section further down.`,
+    ],
+  },
+  {
+    id: "keyword-research",
+    heading: "Japanese keyword research: four scripts, loanwords and intent words",
+    paragraphs: [
+      `Japanese keyword research is harder than English keyword research for one simple reason: one concept can take several written forms, and search demand and results differ from form to form. Japanese uses kanji, hiragana and katakana together, borrows English words in katakana, and people also type romaji and plain English. Google treats many variants as equivalent, but not all of them, so we check the actual results page for each important variant instead of assuming.`,
+      `Some examples show the problem. A dental clinic needs to know whether people near it type ${ja("歯医者")} (the everyday word for dentist) or ${ja("歯科")} (the formal word used in clinic names); in practice both matter, for different pages. A web company must cover ${ja("ホームページ制作")}, ${ja("HP制作")} and ${ja("Web制作")}. A moving company sees ${ja("引っ越し")} and ${ja("引越し")}, two spellings of the same word. A ramen shop may be found through ${ja("ラーメン")} in katakana or ${ja("らーめん")} in hiragana, and the SEO industry itself is searched as ${ja("SEO対策")}, literally SEO measures, more often than as SEO alone.`,
+      `Area words matter as much as the service. Japanese local searches often combine a prefecture, city, ward or station with the service, such as ${ja("渋谷駅 歯医者")} (dentist near Shibuya Station) or ${ja("梅田 美容院")} (hair salon in Umeda). The station name is often more important than the ward, because people live and work around train lines. For real estate, recruitment and home services, the combination of station, line and service defines which pages a site needs.`,
+      `Then there are intent words. Japanese searchers add short modifiers that tell you exactly what stage they are at, and each one calls for a different kind of page:`,
+    ],
+    list: [
+      `${ja("費用")} and ${ja("料金")} (cost, fees) and ${ja("相場")} (market rate): the searcher is budgeting. A price page with clear tax-inclusive ranges and what drives them usually beats a vague service page.`,
+      `${ja("比較")} (comparison) and ${ja("おすすめ")} (recommended): the searcher is shortlisting. Comparison tables and honest criteria help, and claims such as number one need objective evidence under Japanese advertising rules.`,
+      `${ja("口コミ")} and ${ja("評判")} (reviews, reputation): the searcher wants other people's experience. Review platforms and your Business Profile often rank here, so reviews matter more than your own words.`,
+      `${ja("とは")} (what is) and ${ja("やり方")} or ${ja("方法")} (how to): the searcher is learning. Guides and glossary pages win these, and they are the pages AI Overviews quote most readily.`,
+      `${ja("近く")} (nearby) and station names: the searcher wants to go somewhere now. The map results and a fast mobile location page matter most.`,
+      `${ja("格安")} (cheap) and ${ja("無料")} (free): the searcher is price sensitive. Worth targeting only if your offer genuinely fits, otherwise the traffic will not convert.`,
+    ],
+    after: [
+      `Our sources are Google Keyword Planner, your own Search Console queries, Google's autocomplete suggestions (${ja("サジェスト")}), related searches, questions people ask on Yahoo! Chiebukuro and similar Q&A sites, and the questions your staff hear on the phone every week. Search volume tools are noticeably less precise for Japanese long-tail terms than for English ones, so we treat their numbers as a rough guide and weigh them against real query data from your site.`,
+      `The result is a keyword map: each row is a group of related Japanese terms with an English explanation, the intent, the page that should target it, and whether that page exists yet. Your writer works from it, and we use it every month to decide what to build or improve next.`,
+    ],
+  },
+  {
+    id: "cost-japan",
+    heading: "What SEO costs in Japan in 2026, and what we charge",
+    paragraphs: [
+      `Japanese SEO quotes vary enormously, so a reference point helps. The market figures in this table are drawn from 2026 price guides published by Japanese agencies and comparison sites such as ${ja("Web幹事")}, ${ja("システム幹事")} and ${ja("発注ラウンジ")}, which collect and summarise what Japanese SEO and web companies charge. Treat them as the usual spread in the market; an individual quote depends on how big your site is and how contested your keywords are. The right-hand column shows where our plans start, with yen worked out at ¥${JPY_PER_USD} to the dollar.`,
+    ],
+    table: {
+      caption: "Typical Japanese SEO prices in 2026 compared with BtechWaleTech starting prices",
+      head: ["SEO service", "Typical price in Japan (2026)", "BtechWaleTech starts from"],
+      rows: [
+        ["SEO consulting, all company sizes", "¥100,000 to ¥1,000,000 a month; the most common band is ¥200,000 to ¥300,000", both("Monthly SEO")],
+        ["Monthly SEO for small and mid-sized businesses", "¥100,000 to ¥300,000 a month; companies often charge ¥300,000+, individuals ¥100,000 to ¥200,000", both("Monthly SEO")],
+        ["Content-led SEO programme", "¥600,000 to ¥2,000,000 a month", `${both("Monthly SEO")} for plans and briefs; your native writer billed separately`],
+        ["Technical SEO project", "Around ¥200,000 to ¥300,000", `Covered in Monthly SEO from ${both("Monthly SEO")}; large rebuilds quoted separately`],
+        ["SEO article", "¥30,000 to ¥100,000 per article", "We do not write Japanese; we supply the brief, structure and on-page work"],
+        ["Large SEO website build", "¥3,000,000 and up for 60+ pages", `${both("SEO website")} for 700+ pages`],
+        ["Small corporate website", "¥150,000 to ¥650,000 for about 5 pages", both("Static")],
+        ["Maintenance with content updates", "¥20,000 to ¥50,000 a month", both("Maintenance")],
+      ],
+    },
+    after: [
+      `<strong>Reading the table fairly.</strong> The content row is where a like-for-like comparison is hardest. A Japanese content programme includes Japanese writers, editors and often supervising professionals; ours does not, because we do not write Japanese. If you need ten articles a month, budget for a native writer on top of our monthly fee. Even with a writer's fees added, the total can stay well below a Japanese content programme, because the planning, structure and technical work that make those articles rank are covered by the monthly plan.`,
+      `<strong>Currency.</strong> Our prices are set in dollars, so the yen figure moves with the market; during September 2026 a dollar bought somewhere between about ¥153 and ¥157. Companies that budget in yen can ask for the quote itself to state a yen amount, and that figure then holds for the agreed scope whatever the rate does.`,
+      `<strong>Starting prices, not bargains in disguise.</strong> A starting price covers a clearly defined scope for a site of ordinary size. Large sites, several languages, many locations or a heavy backlog of technical problems raise the monthly figure, and we say so in the quote before any work begins. The full price list is on our <a href="/pricing/">pricing page</a>.`,
+    ],
+  },
+  {
+    id: "what-prices-buy",
+    heading: "What each starting price buys, and why ours are lower",
+    paragraphs: [
+      `A starting price only means something if you know what it covers. These are the plans most relevant to SEO work in Japan, and what each one typically includes.`,
+    ],
+    list: [
+      `<strong>Monthly SEO from ${both("Monthly SEO")}:</strong> ongoing SEO for one site of ordinary size. In a typical month that means technical checks and fixes, keyword and page planning, briefs for your writer, on-page optimisation of new and existing pages, Business Profile guidance for one location, and a report with a change log. Several locations, several languages or a very large site raise the monthly figure.`,
+      `<strong>SEO website from ${both("SEO website")}:</strong> a structured site of 700+ pages planned around search intent, such as a property company with pages for many stations and property types, a service business with pages per city, or a distributor with a deep category tree. Keyword planning, templates, schema, internal linking, sitemaps and deployment are included; the data and the Japanese template text come from you.`,
+      `<strong>Static website from ${both("Static")}:</strong> a fast site of up to 100 pages with clean SEO foundations from day one, for businesses whose current site is so slow or outdated that fixing it costs more than replacing it.`,
+      `<strong>Maintenance from ${both("Maintenance")}:</strong> updates, fixes, security, backups and speed checks for sites we build, with the first five months after launch free.`,
+    ],
+    after: [
+      `<strong>Why our prices are lower.</strong> Think about what a Japanese SEO invoice pays for. A good part goes to premises in an expensive city, to account and sales staff who never touch your site, and sometimes to a chain of partner firms and freelance writers who each take a cut. For some buyers that is money well spent, particularly when one supplier must provide Japanese copy and run workshops in person. Our structure is simpler: the three people who answer your messages are the people who do the work, from their own desks in India, with no premises, sales function or partner chain to fund.`,
+      `<strong>What you give up.</strong> You give up Japanese-language meetings, in-person visits and a single supplier for both strategy and Japanese copy. You gain engineers who implement their own recommendations, direct contact with the people doing the work, and a monthly fee that leaves room in your budget for a good native writer. If the balance works for you, <a href="/contact/">contact us</a> with your site address and we will reply with a first look and a written scope.`,
+    ],
+  },
+  {
+    id: "pricing-models",
+    heading: "How SEO is priced in Japan: monthly retainers, pay-for-performance and per-article fees",
+    paragraphs: [
+      `Japanese SEO companies sell their work in a few standard ways, and the model matters as much as the price. Understanding them makes quotes easier to compare, including ours.`,
+      `<strong>Monthly consulting retainers.</strong> The most common model: a fixed monthly fee, usually with a minimum contract period, for analysis, advice and reporting. The key question is who implements the advice. Many consulting contracts deliver recommendations while your web company or your staff make the changes, which means results depend on how quickly someone else acts. Ask for a sample report and a list of what the consultant will change directly.`,
+      `<strong>Pay-for-performance (${ja("成果報酬型")}).</strong> Here you pay only when chosen keywords rank, typically a daily or monthly fee for each keyword while it sits inside an agreed ranking band. It sounds low-risk, but it creates the wrong incentives. The vendor has every reason to choose keywords that are easy to rank and rarely searched; a top-ten ranking for a phrase nobody types brings no customers. Fees can rise just as rankings you would have earned anyway arrive, and some vendors use purchased links to reach targets quickly, leaving the risk of a manual action on your domain after the contract ends. If you consider this model, insist on choosing the keywords yourself and ask in writing what link building methods are used.`,
+      `<strong>Per-article content fees.</strong> Content agencies charge per article, commonly ¥30,000 to ¥100,000 depending on length, research and whether a qualified professional supervises it. Check whether keyword research is included, how many revisions you get, who owns the text, and whether each article fits a plan or is simply volume. Twenty unconnected articles rarely do as much as five that answer the questions your buyers actually ask.`,
+      `<strong>Fixed-price technical audits.</strong> A one-off audit, commonly around ¥200,000 to ¥300,000, gives you a list of issues. It is useful if you have developers ready to implement it, and much less useful as a document that sits in a shared folder.`,
+      `<strong>Our model.</strong> We charge a flat monthly fee from ${both("Monthly SEO")} for a written scope that includes implementation. There are no ranking-based fees, no link packages and no per-keyword pricing. We report on impressions, clicks and enquiries alongside rankings for a sample of terms, because rankings alone are a poor measure of what SEO is worth to a business.`,
+    ],
+  },
+  {
+    id: "technical-seo",
+    heading: "Technical SEO for Japanese websites",
+    paragraphs: [
+      `<strong>Character encoding.</strong> Every page, feed, sitemap and form should use UTF-8. Older Japanese sites and back-office systems sometimes still use Shift_JIS or EUC-JP, which causes garbled text (${ja("文字化け")}) when pages are shared, when forms send email, or when product feeds and CSV exports move between systems. We find mixed encodings during the audit and convert them in one controlled step.`,
+      `<strong>URLs.</strong> A URL may contain Japanese, but paste it into an email or chat and every character is escaped: one kanji becomes a nine-character code such as %E6%9D%B1, and a four-character slug turns into three dozen symbols. Search engines read either form, and neither helps or hurts rankings by itself. Our default is a short slug in English or romaji, with the Japanese keyword carried by the title and the headings, because those links survive being shared, printed and typed. Whatever format you choose, the rule that outweighs the choice is to redirect every old address before a format ever changes.`,
+      `<strong>Language markup.</strong> The html element should declare ${ja("lang=\"ja\"")} on Japanese pages, and English phrases or product names inside Japanese text can carry their own lang attribute. That helps screen readers pronounce text correctly and removes ambiguity for search engines. Bilingual sites need hreflang between language versions, covered in the international section.`,
+      `<strong>JavaScript rendering.</strong> Sites built as single-page applications often send an almost empty page and build the content in the browser. Google can render JavaScript, but it takes extra time and resources, and many other crawlers, including a number of AI crawlers, do not run it at all. We prefer server-side rendering or static generation for any page that should rank, and we check what the raw HTML contains, not just what the browser shows.`,
+      `<strong>Core Web Vitals with Japanese fonts.</strong> A complete Japanese typeface is a heavy download, because it has to cover kana plus thousands of kanji, and loading one on every page delays Largest Contentful Paint and can shift the layout when it finally arrives. Our fixes are to rely on the Japanese fonts already installed on phones and computers, or to cut the web font down to only the characters the site uses, to control font-display, and to reserve the space images and banners will occupy. Third-party tags are the other common problem on Japanese sites: chat widgets, heatmaps, retargeting tags and campaign scripts pile up over the years and slow down Interaction to Next Paint. We list every tag, its owner and its purpose, and remove the ones nobody can explain.`,
+      `<strong>Duplicate URLs and crawl waste.</strong> Common causes are www and non-www versions, http and https, index.html paths, trailing slash variants, tracking parameters and, on property and ecommerce sites, filter combinations that create near-infinite URLs. Some older Japanese sites also run a separate smartphone site under a path such as /sp/. We consolidate with redirects and canonicals, block crawl traps, and keep sitemaps limited to pages you actually want indexed.`,
+      `<strong>Structured data.</strong> We add Organization, LocalBusiness, BreadcrumbList, Product, Article and Person markup where it is accurate, with Japanese names and addresses written consistently. Google now shows FAQ rich results for very few sites, so we use FAQ markup for clarity rather than expecting extra space in the results.`,
+    ],
+  },
+  {
+    id: "content-eeat",
+    heading: "Japanese content that ranks: E-E-A-T, supervision and native writers",
+    paragraphs: [
+      `Google's quality guidelines describe experience, expertise, authoritativeness and trust, usually shortened to E-E-A-T, and they matter most for topics that affect health, money, safety or legal rights. In those fields, pages backed by a named, qualified person tend to do better in Japanese results, and Japanese publishers have a well-established convention for showing who that person is.`,
+      `<strong>Supervision (${ja("監修")}).</strong> The convention is to name a qualified professional as the content's supervisor: a doctor (${ja("医師")}) for medical pages, a lawyer (${ja("弁護士")}) for legal topics, a tax accountant (${ja("税理士")}) for tax questions, a licensed real estate transaction agent (${ja("宅地建物取引士")}) for property, or a registered dietitian for food and nutrition. The supervisor's name, qualification and a short profile appear on the page, and the profile has its own page. We build these supervisor and author pages into the site structure, link them from every article they cover and mark them up with Person structured data. What we never do is invent a supervisor or attach a name to content the person has not actually reviewed.`,
+      `<strong>How the writing works.</strong> For each page we write an English brief with the Japanese target keywords, the questions to answer, a heading outline, facts that need a source, internal links and the supervisor needed. Your writer drafts in Japanese. We then check that the headings follow the plan, the title and description fit in search results, internal links and structured data are in place, and the page loads quickly, before publishing. If the writer's draft departs from the plan for a good reason, such as a better way of explaining something to Japanese readers, we adjust the plan, not the writer.`,
+      `<strong>Formats that work for Japanese readers.</strong> Japanese buyers read carefully before contacting a business, and pages that answer everything up front convert better. Price tables with tax-inclusive figures, a step-by-step explanation of how the service works (${ja("流れ")}), a frequently asked questions section (${ja("よくある質問")}), clear information about who is responsible, and real examples of your own work all help. We avoid invented testimonials and exaggerated claims, which are both risky under Japanese advertising rules and easy for readers to see through.`,
+      `<strong>AI-written content.</strong> AI tools can help a writer research or outline, but Google's spam policies target content produced at scale mainly to manipulate rankings, however it is made. We do not publish unreviewed AI text in Japanese or any other language. Older sites often have the opposite problem: many similar articles written over the years that compete for the same keyword. Merging them into one strong page and redirecting the rest is one of the quickest wins in Japanese SEO.`,
+    ],
+  },
+  {
+    id: "meo-local-seo",
+    heading: "MEO in Japan: Google Business Profile, reviews and portal sites",
+    paragraphs: [
+      `In Japan, local search optimisation is usually called MEO (${ja("MEO対策")}), map engine optimisation, because so many local searches end in the map results. For clinics, restaurants, salons, schools, trades and shops, the map pack is often worth more than the first organic result.`,
+      `<strong>The profile belongs to you.</strong> Your Google Business Profile must be created and verified by your company at the real address where you serve customers, or as a service-area business if you visit customers instead. Google chooses the verification method, which can include a video or a postcard, and your staff complete it. We give you step-by-step instructions in English with screenshots your team can follow, and afterwards you add us as a manager. We never create profiles in our own account, never use virtual office addresses, and never add keywords to your business name, which breaks Google's guidelines and can get a listing suspended.`,
+      `<strong>What we optimise.</strong> The primary and secondary categories, services and products, opening hours including special hours for Golden Week, Obon and the New Year holidays, attributes, photos of the entrance, interior and staff, regular posts, and the link to the right page on your site rather than always the home page. The location page on your website repeats the same name, address and phone number, gives directions from the nearest station and exit, explains parking, and carries LocalBusiness structured data.`,
+      `<strong>Addresses written consistently.</strong> Japanese addresses can be written many ways: chome, banchi and go in kanji or with hyphens, full-width or half-width numbers, with or without the building name and floor. Search engines match inconsistent versions reasonably well, but customers and portals copy whatever they find. We pick one canonical form in Japanese and one in English and use them everywhere.`,
+      `<strong>Reviews.</strong> Reviews are one of the strongest local signals and one of the most sensitive areas. Ask every customer, not only happy ones, reply politely in Japanese to each review including critical ones, and never offer rewards or discounts in exchange for reviews, which Google's policies prohibit. Japan's stealth marketing rules, in force since October 2023, treat advertising disguised as independent opinion as a misleading representation, so paid or staff-written reviews that pose as genuine customer opinions are a legal risk as well as a breach of Google's rules.`,
+      `<strong>Working with portals.</strong> Tabelog, Hot Pepper Beauty, SUUMO, Jalan and similar portals rank for many local searches and bring bookings, but usually charge fees or commissions. We treat them as partners: keep your listings accurate, link them to your own site where the portal allows it, and give customers who find you on a portal a reason to book directly next time, such as a LINE Official Account, a members' page or a direct-booking benefit.`,
+    ],
+  },
+  {
+    id: "programmatic-seo",
+    heading: "Programmatic SEO for Japan without thin pages",
+    paragraphs: [
+      `Japan suits programmatic SEO unusually well. People search by station, line, ward and city, the country has well over a thousand municipalities, and many industries have structured data that maps neatly onto those places. A property company, a recruitment business or a home service provider can serve real demand with thousands of pages, if each page is genuinely useful.`,
+      `Typical structures we build include property pages by prefecture, city, station and property type; service pages by city for moving, cleaning, repairs or legal services; job listings by prefecture and occupation; B2B pages by material, process and industry; and tourism pages by area and season. Our SEO website plan starts from ${both("SEO website")} for 700+ pages, with the data pipeline built so new records create new pages automatically. When the data lives in an existing business system, the integration work is the kind of project described on our <a href="/japan/software-development/">software development page for Japan</a>.`,
+      `The risk is well known. Pages that differ only by a place name are thin content, and Google's spam policies name scaled content abuse, meaning large numbers of pages produced mainly to manipulate rankings, as a violation. Our safeguards:`,
+    ],
+    list: [
+      `<strong>Real data on every page.</strong> Listings, counts, prices, access times, local facilities or staff, drawn from your database, not filler sentences with a city name swapped in.`,
+      `<strong>Thresholds.</strong> Pages without enough data are not indexed, or are merged into the parent area page, until they have something to show.`,
+      `<strong>Native template text.</strong> The Japanese sentences that frame the data are written by a native writer, in several variants where the structure allows it, and checked in context.`,
+      `<strong>Hierarchy and breadcrumbs.</strong> Prefecture, city, station and detail pages link up and down in a clear tree, with breadcrumb structured data, so search engines and people understand where each page sits.`,
+      `<strong>Segmented sitemaps and monitoring.</strong> Separate sitemaps per page type let us see in Search Console which templates are indexed and which are being ignored, and fix the template rather than guessing.`,
+      `<strong>Industry rules.</strong> Property listings in Japan follow the industry's fair competition code on how details such as walking time from a station are shown, and your listing data must follow it; we build templates that display the fields exactly as your data provides them.`,
+    ],
+  },
+  {
+    id: "international-seo",
+    heading: "Inbound and international SEO: Japanese, English, Chinese and Korean",
+    paragraphs: [
+      `Inbound tourism has become one of the strongest reasons to invest in multilingual SEO in Japan. By JNTO's count, 42.68 million international arrivals came in 2025, a record, against 36.87 million the year before, and the three biggest source markets, South Korea, mainland China and Taiwan, each search in a different language and script. Hotels, ryokan, restaurants, tour operators, shops and experience providers can reach those visitors while they are still planning at home, but only if a page in their language answers their questions.`,
+      `<strong>Structure.</strong> Each language gets its own URL path, such as /en/, /zh-hans/, /zh-hant/ and /ko/, with the Japanese version at the root or under /ja/. Every page lists its equivalents with hreflang tags using codes such as ja, en, zh-Hans for Simplified Chinese, zh-Hant for Traditional Chinese and ko for Korean, plus an x-default for everyone else. If Taiwan and Hong Kong versions genuinely differ, region codes such as zh-Hant-TW and zh-Hant-HK can separate them. The tags must be reciprocal and point to canonical URLs. A visible language switcher lets people choose, and we avoid automatic redirects by IP address, which can block crawlers from the other versions and frustrate residents who want Japanese.`,
+      `<strong>Each market searches differently.</strong> Translation is not keyword research. Visitors from Taiwan and Hong Kong mostly use Google, many Korean travellers also use Naver, and people in mainland China generally cannot use Google at home and plan on domestic platforms instead. Place names, dishes and activities are written differently in each language, and travellers from different markets care about different things, from payment methods to luggage storage. We research keywords per language, and native translators write or adapt the text; we do not publish machine translation.`,
+      `<strong>Practical content ranks.</strong> For inbound visitors, the pages that rank and convert answer practical questions: how to get there from the nearest major station or airport, whether cards from overseas are accepted, whether staff speak English, how to book, what the cancellation policy is, and what to expect on arrival. These pages are also the ones AI assistants quote when a traveller asks for recommendations.`,
+      `<strong>Outbound SEO for Japanese exporters.</strong> Manufacturers, food producers and craft brands selling overseas need English keyword research, not translated Japanese keywords. Buyers abroad describe products with their own terms, units and standards, and an English page written around those terms, with specifications and export information, does far better than a translated company brochure.`,
+    ],
+  },
+  {
+    id: "ecommerce-seo",
+    heading: "Ecommerce SEO for your own store alongside Rakuten, Amazon and Yahoo! Shopping",
+    paragraphs: [
+      `METI's market survey sized Japanese consumer ecommerce at ¥26.1 trillion for 2024, a 5.1 percent rise, yet only 9.78 percent of goods sales happened online, which leaves a great deal of headroom. Rakuten Ichiba, Amazon.co.jp and Yahoo! Shopping take a large share of that and rank strongly for product searches. Your own store rarely beats them for a generic product name, and it does not need to.`,
+      `<strong>Where your own store can win.</strong> Brand searches, where people type your shop or product name; category and use-case searches, such as gifts for a particular occasion or products for a particular problem; comparison and how-to-choose content; and seasonal gift searches around ${ja("お中元")} (summer gifts), ${ja("お歳暮")} (year-end gifts), Mother's Day and Father's Day. Marketplace listings and your own store work together: the marketplace catches product-name demand, and your store builds the direct relationship and the margin.`,
+      `<strong>Product and category pages.</strong> Japanese product names should include the words people search, such as material, size, capacity and use, without keyword stuffing. Prices must be shown including consumption tax. Product structured data with price, availability and reviews helps search engines understand the page, and a Google Merchant Center feed makes products eligible for free product listings in Google Shopping. Category pages need a short, useful introduction written by a native writer, not only a grid of products.`,
+      `<strong>Seasonal pages that keep their value.</strong> Gift season pages should live at a permanent URL such as /ochugen/ and be updated each year, rather than creating a new page with a year in the address every season. That way the links and rankings built up last year carry forward.`,
+      `<strong>Platform details.</strong> On Shopify we watch for duplicate product URLs created through collection paths, percent-encoded Japanese handles, and slow apps. On WooCommerce and custom stores we manage filters and parameters so they do not flood the index. Every Japanese store also needs a page under the Specified Commercial Transactions Act, with seller details, prices, delivery and returns; it is a legal requirement rather than an SEO feature, but it is also one of the pages careful buyers check before ordering. If your store needs a new build, our <a href="/japan/website-developer/">website developer page</a> covers it; if your product is a mobile app, its landing pages and store listing are part of the work on our <a href="/japan/android-ios-developer/">Android and iOS developer page for Japan</a>, and the general approach is on our <a href="/it-services/android-ios-app/">Android and iOS app development page</a>.`,
+    ],
+  },
+  {
+    id: "renewal-seo",
+    heading: `Keeping rankings through a website renewal (リニューアル)`,
+    paragraphs: [
+      `Japanese companies renew their websites regularly, and the renewal (${ja("リニューアル")}) is one of the most common moments for search traffic to fall sharply. The cause is rarely the new design. It is usually changed URLs without redirects, pages that ranked being deleted or merged carelessly, a noindex tag left on from staging, a staging site that got indexed, or new templates that dropped titles, headings and structured data.`,
+      `Our renewal process follows the same checklist every time:`,
+    ],
+    list: [
+      `Crawl the current site and export every URL, title, heading and canonical before anything changes.`,
+      `Export pages with clicks and impressions from Search Console and pages with external links, so we know which URLs carry value.`,
+      `Build a one-to-one redirect map from every old URL to its closest new equivalent, using permanent 301 redirects and avoiding chains.`,
+      `Keep the content that ranks, even if it is rewritten, and plan where every important keyword will live on the new site.`,
+      `Test the new site on a staging server protected by a password, not only by noindex, and check titles, headings, canonicals, hreflang and structured data template by template.`,
+      `Launch with the redirects live at the same moment, submit the new sitemap, keep the old sitemap briefly so search engines find the redirects, and use the change of address tool in Search Console if the domain changes.`,
+      `Watch indexing, rankings and traffic daily for the first weeks and fix any missed redirect immediately.`,
+    ],
+    after: [
+      `We handle renewals from hosted builders such as STUDIO, Wix and Jimdo, from old WordPress themes and from custom sites. If you are choosing a developer for the renewal itself, the build is covered on our <a href="/japan/website-developer/">page for website development in Japan</a> and our general <a href="/services/web-development/">web development service</a>; the SEO migration work can be done with any developer you choose.`,
+    ],
+  },
+  {
+    id: "ai-search",
+    heading: "AI Overviews and chat assistants in Japanese search",
+    paragraphs: [
+      `Google has shown AI Overviews, generated summaries above the regular results, in Japanese since August 2024, and in September 2025 it added Japanese to AI Mode, its conversational search experience. More people also ask chat assistants for recommendations before they search. For informational queries such as what something is or how something works, fewer people may click through; for local, commercial and brand searches, people still visit sites to compare, book and buy.`,
+      `What helps a page get quoted is the same thing that helps a careful human reader: a direct answer near the top, clear headings that match the questions people ask, facts with sources, tables where comparison matters, a named author or supervisor, and a page that loads fast and can be read without JavaScript. Structured data helps machines understand what the page is about. None of this is a trick, and none of it guarantees inclusion.`,
+      `There are also technical decisions to make. Your robots.txt file can allow or block specific AI crawlers, and Google offers a separate control, Google-Extended, for use of content in some of its AI models without affecting search indexing. Blocking everything protects content but can make you invisible in assistant answers; allowing everything is simpler. We explain the options and you decide. Proposals such as llms.txt files are cheap to add, but no major search engine has confirmed using them for ranking, so we treat them as optional.`,
+      `Measurement is improving but still partial. Search Console now has a generative AI performance report, rolled out to all sites by the end of August 2026, which shows how often links to your pages appeared in AI Overviews and AI Mode, by page, country and device. It counts impressions, not clicks; visits from those features are still folded into the overall web search figures. Referrals from other assistants show up in analytics only when the assistant passes a referrer. We track what can be tracked, watch branded search and direct enquiries as indirect signals, and are honest about the rest. If you want to put AI to work inside your own business rather than in search, that is covered on our <a href="/japan/ai-automation-engineer/">AI automation engineer page for Japan</a>.`,
+    ],
+  },
+  {
+    id: "regions",
+    heading: "SEO across Japan: all 8 regions and 47 prefectures",
+    paragraphs: [
+      `Search behaviour in Japan changes with the region. Competition in central Tokyo has little in common with a mid-sized city in Shikoku, and a manufacturer in Aichi needs different keywords from a ryokan in Oita. We work remotely, so we serve businesses in every prefecture the same way, but the SEO plan always starts from where your customers are and how they search. Below is a short guide to each of Japan's eight regions and the SEO work that most often fits there.`,
+    ],
+    blocks: regionBlocks,
+    after: [
+      `Wherever you are based, the process is the same: a first look at your site and the local search results, a written scope, and monthly work you can follow in the reports. For the other IT services we provide in each region, see our overview of <a href="/japan/">IT services in Japan</a>.`,
+    ],
+  },
+  {
+    id: "cities",
+    heading: "SEO in Tokyo and Japan's 20 designated cities",
+    paragraphs: [
+      `Japan's largest cities have the most competitive search results, and each has its own mix of industries. The table covers Tokyo's 23 special wards and the 20 cities designated by government ordinance, which have ward-level administration of their own. In most of these cities, local searches are made at ward or station level, so city-wide pages are rarely enough on their own.`,
+    ],
+    table: {
+      caption: "SEO focus in Tokyo and Japan's 20 designated cities",
+      head: ["City", "Prefecture", "What SEO usually involves there"],
+      rows: cityRows,
+      hide: 1,
+    },
+    after: [
+      `If your business serves several of these cities, we plan one strong page per city or ward where you have a real presence or real service data, rather than hundreds of thin pages. For city searches in English, such as foreigners looking for services in Tokyo or Osaka, a separate English page per city usually performs far better than a translated copy of the Japanese page.`,
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "Rules that shape SEO work in Japan (not legal advice)",
+    paragraphs: [
+      `SEO content is advertising in the eyes of Japanese law, and several rules affect what a page can say and how data is collected. We are engineers, not lawyers, so the points below explain what we build around; your own adviser confirms what applies to your business.`,
+    ],
+    list: [
+      `<strong>Stealth marketing rules.</strong> Since October 2023, promotion presented in a way that stops consumers recognising it as promotion counts as a misleading representation under the Act against Unjustifiable Premiums and Misleading Representations. Sponsored articles, influencer posts and affiliate content need a clear label such as ${ja("広告")} or ${ja("PR")}, and staff or paid reviews must not pose as independent opinions. The advertiser, meaning your business, is responsible.`,
+      `<strong>Claims and comparisons.</strong> The same act prohibits representations that make goods or services look much better or cheaper than they are. Claims such as number one, cheapest or most popular need objective evidence that is current and relevant, so we plan comparison pages around facts you can back up.`,
+      `<strong>Health, cosmetics and supplements.</strong> The Pharmaceuticals and Medical Devices Act (${ja("薬機法")}) restricts efficacy claims for cosmetics, health foods and similar products. SEO content in these niches must be checked against those rules before publishing, and keyword targets that imply medical effects may have to be dropped.`,
+      `<strong>Clinics.</strong> Medical advertising in Japan is regulated under the Medical Care Act and its guidelines (${ja("医療広告ガイドライン")}), and since the amended act took effect in June 2018, clinic and hospital websites have been clearly within that regulation. Before-and-after photos, testimonials and claims about treatments are restricted; we build clinic pages so your practice can follow its own compliance checks.`,
+      `<strong>Real estate listings.</strong> The property industry's fair competition code governs how details such as prices, floor area and walking times are shown, and programmatic templates must display your data accordingly.`,
+      `<strong>Tags and the Telecommunications Business Act.</strong> SEO and analytics work adds scripts to a site, and since June 2023 the act's external transmission rules have obliged in-scope services to tell users which third parties receive their information via tags or SDKs. A company site that simply promotes its own business is often out of scope, while stores and information services may be in it. We keep a written inventory of every tag, who receives the data and why, which makes a disclosure page easy if you need one.`,
+      `<strong>Personal data and the APPI.</strong> Most SEO work runs on aggregated search data and needs no personal information. Where a task would let our India team see form submissions or CRM records, the Act on the Protection of Personal Information treats that as sending data to a third party abroad, so your company needs either the individual's informed consent, which includes explaining the foreign country's data protection system, or a recipient with an equivalent protection system. India's own framework, the Digital Personal Data Protection Act, 2023, is still being phased in. Our practice is to avoid that access, use dummy records and sign data-handling terms when access cannot be avoided.`,
+      `<strong>Accessibility.</strong> Reasonable accommodation for people with disabilities became a legal duty for private businesses in April 2024 under the Act for Eliminating Discrimination against Persons with Disabilities. On the web, the reference is JIS X 8341-3, which follows WCAG. Much of it overlaps with good SEO: meaningful headings, descriptive alt text, labelled form fields and readable contrast serve screen readers and crawlers at the same time.`,
+    ],
+    after: [
+      `If a keyword strategy runs into one of these rules, we tell you and suggest a compliant alternative rather than publishing and hoping. For specific questions, please ask your lawyer, your industry association or the relevant authority; you can also <a href="/contact/">contact us</a> to discuss how a rule affects the technical build.`,
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours in Japan time",
+    paragraphs: [
+      `We start work at 9 am in India, when it is already 12:30 pm in Tokyo, and finish at 9 pm IST, which is 12:30 am JST. That schedule holds every day of the week on WhatsApp and never moves with the seasons, because Japan and India both stay on standard time all year.`,
+      `SEO fits this rhythm well. Most of the work, from audits and fixes to keyword plans, briefs and reports, does not need a live meeting. You send questions or approvals in your morning, and answers, fixes or draft briefs are usually ready by your evening. For calls, the Japanese afternoon is the easiest time, and a morning call around 10 am JST can be arranged in advance. The monthly report comes with an optional video call to walk through results and agree next month's priorities.`,
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Hiring an offshore SEO provider for Japan: buying guide and red flags",
+    paragraphs: [
+      `Offshore SEO can work very well for a Japanese business, and it can go badly wrong. The difference is usually visible before you sign, if you know what to look for. These are the warning signs we would check for in any provider, Japanese or overseas, including us:`,
+    ],
+    list: [
+      `<strong>Ranking guarantees (${ja("上位表示保証")}).</strong> Rankings are decided by Google, not by any agency. A guarantee usually means easy keywords, risky links or both.`,
+      `<strong>Link packages.</strong> Offers of a fixed number of backlinks per month, private blog networks or link exchanges. Google's spam policies treat these as link schemes, and your domain carries the risk.`,
+      `<strong>Auto-generated pages.</strong> Hundreds of city or keyword pages with the same text and a swapped place name. They may index briefly, then drag down the whole site.`,
+      `<strong>Machine-translated Japanese.</strong> An overseas provider promising to write your Japanese content without a native writer. Japanese readers notice at once, and so do conversion rates.`,
+      `<strong>Accounts in the provider's name.</strong> Your Search Console, analytics, Business Profile, domain and hosting should all be owned by your company. A provider who creates them in its own account can hold your site hostage.`,
+      `<strong>Rank-only reports.</strong> Reports that show positions for a handful of keywords but not impressions, clicks, enquiries or what was actually changed that month.`,
+      `<strong>A local address that is not really there.</strong> Offshore providers sometimes use a virtual office in Tokyo to look local. It is not illegal, but it tells you something about honesty. Ask where the people doing the work sit.`,
+      `<strong>Long lock-ins and exit fees.</strong> Minimum terms of a year or more, fees to remove links the provider placed, or content that remains the provider's property.`,
+    ],
+    after: [
+      `Questions worth asking any provider: Who exactly will work on our site, and can we talk to them? Will you implement changes yourself or only recommend them? Which link building methods do you use? Who writes the Japanese text? Which accounts will be in our company's name? What does a monthly report contain? How do we end the contract, and what do we keep? A good provider answers all of these in writing. Our answers are on this page, and <a href="/japan/">our Japan page</a> explains how we work with Japanese businesses on everything beyond search.`,
+    ],
+  },
+  {
+    id: "measurement",
+    heading: "Measurement, monthly reports and realistic timelines",
+    paragraphs: [
+      `<strong>What we measure.</strong> Google Search Console shows which queries and pages bring impressions and clicks and which pages are indexed. Google Analytics 4 shows what visitors do next, and we set up conversions for the actions that matter to you: form submissions, phone taps, LINE friend additions, bookings or purchases. Business Profile performance data shows calls, direction requests and website visits from the map. Bing Webmaster Tools covers Bing. For a sample of important keywords we also track rankings, as one signal among several.`,
+      `<strong>What the monthly report contains.</strong> A short summary in plain English of what changed in search performance and why we think it changed; the change log listing every fix, new page and update we made; issues found and whether they are fixed; and the plan for next month, with anything we need from you, such as a writer's draft or a decision. Reports are built from your own accounts, so you can check every number yourself. The data processing behind the reports is automated with the same kind of tooling described on our <a href="/japan/ai-automation-engineer/">AI automation page</a>, which keeps reporting time low and working time high.`,
+      `<strong>Realistic timelines.</strong> Technical fixes are usually live within days, and search engines pick them up as they recrawl. New pages are often indexed within days to a few weeks. Meaningful growth in traffic and enquiries typically takes several months, and highly competitive Tokyo searches in fields such as real estate, beauty, medical care and finance can take longer. Local MEO for one location often moves faster. Sites with a history of risky links, thin pages or manual actions need clean-up time before growth starts.`,
+      `<strong>What we need from you.</strong> Access to the accounts listed above, a contact who can approve changes, a native writer for new Japanese content, and honest information about your customers, margins and the services you most want to sell. SEO works best when it is aimed at the enquiries that are worth the most to your business, not at traffic for its own sake.`,
+    ],
+  },
+];
+
+// ---------- Region, industry, comparison, process and related data ----------
+
+const regionsHeading = "SEO for every region of Japan";
+const regionsNote = "How search differs across Japan's eight regions and 47 prefectures, and the SEO work that usually fits each one. We work remotely, so every prefecture is served the same way.";
+const regionHead = ["Region", "Prefectures", "Search character", "Typical SEO work"];
+const regionHide = [1, 2];
+
+const industriesHeading = "SEO for Japanese industries";
+const industries = [
+  { name: "Real estate and rentals", need: "Rankings for station, area and property-type searches beside large portals", build: "Programmatic area and station pages with live listing data, schema and MEO per branch" },
+  { name: "Clinics and dental practices", need: "Local visibility, supervised content and compliance with medical advertising rules", build: "MEO, treatment pages supervised by your doctors, author markup and fast mobile pages" },
+  { name: "Restaurants and cafes", need: "Map results and direct reservations alongside Tabelog listings", build: "Business Profile optimisation, menu and access pages, pages for inbound visitors" },
+  { name: "Beauty salons", need: "Local search and bookings without relying only on Hot Pepper Beauty", build: "Menu and stylist pages, MEO, a review process and booking links" },
+  { name: "Hotels, ryokan and tours", need: "Inbound visitors searching in English, Chinese and Korean", build: "Language versions with hreflang, practical guide content and direct-booking pages" },
+  { name: "Manufacturers and B2B suppliers", need: "Quotation requests from buyers searching by process, material and specification", build: "Capability, equipment and case pages, English export pages and technical keyword maps" },
+  { name: "Ecommerce and D2C brands", need: "Own-store sales beside Rakuten, Amazon and Yahoo! Shopping", build: "Category architecture, product data, Merchant Center feeds and gift-season pages" },
+  { name: "Professional services", need: "Tax accountants, lawyers, administrative scriveners and visa specialists found in Japanese and English", build: "Service and area pages, supervised articles, bilingual structure and MEO" },
+  { name: "Schools and education", need: "English schools, cram schools and international schools found by nearby parents", build: "Course and campus pages, local SEO per campus, English and Japanese versions" },
+  { name: "SaaS and startups", need: "B2B demand from Japanese buyers comparing tools", build: "Feature, use-case and comparison pages, technical SEO for JavaScript apps, documentation structure" },
+];
+
+const comparisonHeading = "Japanese SEO company, freelancer or BtechWaleTech?";
+const comparisonNote = "An honest comparison of the three common ways businesses in Japan buy SEO. Japanese figures are typical 2026 market ranges; ours are starting prices.";
+const compHead: [string, string, string] = ["Japanese SEO company", "Freelancer or crowdsourcing (Lancers, CrowdWorks)", "BtechWaleTech"];
+const comparison: [string, string, string, string][] = [
+  ["Typical monthly cost", "¥100,000 to ¥300,000 for SMEs; ¥200,000 to ¥300,000 is the common band", "Often ¥100,000 to ¥200,000 for individuals; per-task prices vary widely", `From ${both("Monthly SEO")}`],
+  ["Language", "Japanese meetings, reports and contracts", "Usually Japanese; depends on the person", "English; Japanese text by a native writer you choose"],
+  ["Japanese content", "Written in-house or by partner writers, often ¥30,000 to ¥100,000 per article", "Writers at every price level; quality varies widely", "Briefs, structure and on-page work from us; writing by your native writer"],
+  ["Technical fixes", "Recommendations; implementation often by your web company", "Depends on the individual's skills", "We change code, templates and redirects ourselves"],
+  ["Who does the work", "Consultant plus in-house or outside team", "One person, sometimes subcontracting further", "The same three engineers every month"],
+  ["Pricing model", "Monthly retainer; some offer pay-for-performance", "Per task or monthly", "Flat monthly scope; no ranking-based fees"],
+  ["In-person meetings", "Yes, in their city", "Sometimes, if nearby", "No; video calls, WhatsApp and email"],
+  ["Account ownership", "Varies; check who owns Business Profile and tools", "Varies; check before starting", "Search Console, GA4 and Business Profile stay in your company's name"],
+  ["Invoice and tax", "Japanese invoice with consumption tax, usually a qualified invoice", "Paid through the platform, with its fees", "USD or JPY; no Japanese consumption tax; not a qualified invoice"],
+];
+
+const processHeading = "How SEO work with us runs, step by step";
+const process: [string, string][] = [
+  ["Free first look", "Send your site address, main services, target areas and a few competitors. We review the site and search results and reply with first observations and questions."],
+  ["Access and audit", "You add us to Search Console, GA4, Business Profile and your CMS. We crawl the site, check indexing, speed and structured data, and rank issues by impact."],
+  ["Keyword and page plan", "We map Japanese and English keywords by intent and area, assign each group to a page, and agree priorities and a monthly scope in writing."],
+  ["Technical fixes", "We fix redirects, canonicals, templates, speed, schema and internal links directly, testing on staging before changes go live."],
+  ["Content with native writers", "We write English briefs with Japanese keyword lists and outlines; your native writer drafts; we optimise, mark up and publish."],
+  ["Report and repeat", "Each month you get a short report from your own data, the full change log and next month's plan, with an optional call to review it."],
+];
+const timelineFine = "The timelines above are for build projects. SEO results depend on competition, your site's history and how quickly new content is produced: technical fixes usually go live within days, while growth in traffic and enquiries typically takes several months. We never promise a ranking date.";
+
+const faqHeading = "SEO in Japan: frequently asked questions";
+
+const relatedHeading = "More IT services for Japan and other countries";
+const related = [
+  { name: "Japan: all IT services", href: "/japan/" },
+  { name: "Website developer in Japan", href: "/japan/website-developer/" },
+  { name: "AI automation engineer in Japan", href: "/japan/ai-automation-engineer/" },
+  { name: "Android & iOS developer in Japan", href: "/japan/android-ios-developer/" },
+  { name: "Software development in Japan", href: "/japan/software-development/" },
+  { name: "All countries", href: "/countries/" },
+  { name: "Singapore", href: "/singapore/" },
+  { name: "USA", href: "/usa/" },
+  { name: "UK", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "India", href: "/india/" },
+];
+
+const closingHeading = "Want a first look at your SEO in Japan?";
+const closingNote = `Send your website address and the areas you serve on WhatsApp or by email, in English. We will reply with first observations, questions and, once we understand your goals, a written scope. Monthly SEO starts from ${both("Monthly SEO")}, and nothing is billed until you approve the scope.`;
+---
+
+<JapanServicePage
+  page={page}
+  schema={schema}
+  heroEyebrow={heroEyebrow}
+  facts={facts}
+  pills={pills}
+  heroOrigin={heroOrigin}
+  quoteKicker={quoteKicker}
+  quotePlans={quotePlans}
+  quoteFoot={quoteFoot}
+  stats={stats}
+  answerHeading={answerHeading}
+  quickAnswer={quickAnswer}
+  answerMore={answerMore}
+  snapshotCaption={snapshotCaption}
+  snapshot={snapshot}
+  servicesHeading={servicesHeading}
+  services={services}
+  pricingHeading={pricingHeading}
+  pricingIntro={pricingIntro}
+  pricingFine={pricingFine}
+  guideLabel="Guide to SEO services in Japan"
+  guide={guide}
+  regionsHeading={regionsHeading}
+  regionsNote={regionsNote}
+  regionHead={regionHead}
+  regionHide={regionHide}
+  regionTable={regionTable}
+  industriesHeading={industriesHeading}
+  industries={industries}
+  comparisonHeading={comparisonHeading}
+  comparisonNote={comparisonNote}
+  compHead={compHead}
+  comparison={comparison}
+  processHeading={processHeading}
+  process={process}
+  timelineFine={timelineFine}
+  faqHeading={faqHeading}
+  faqs={faqs}
+  relatedHeading={relatedHeading}
+  related={related}
+  closingHeading={closingHeading}
+  closingNote={closingNote}
+/>

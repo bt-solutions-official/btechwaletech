@@ -51,7 +51,7 @@ const arrah: CityContent = {
     software: "Stock, billing and dispatch tools for rice mills, sand and brick suppliers and distributors who still keep everything in bahi-khata registers.",
     ai: "WhatsApp replies in Hindi that answer fee, rate and stock questions automatically, so a coaching office or trader is not buried in the same five questions every day.",
     data: "Admissions, sales and dispatch figures turned into a phone-friendly dashboard, so owners can see what changed this week without opening ten registers.",
-    app: "Installable web apps for attendance, test schedules or order booking that work on patchy mobile data and need no Play Store download.",
+    app: "Android and iOS apps for attendance, test schedules or order booking that work on patchy mobile data, released on Google Play and the App Store.",
     maintenance: "Security updates, backups, content edits and uptime checks included free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

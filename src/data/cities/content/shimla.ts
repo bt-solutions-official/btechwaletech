@@ -51,7 +51,7 @@ const shimla: CityContent = {
     software: "Room inventory, taxi dispatch and orchard sales registers for businesses still tracking bookings in a diary.",
     ai: "WhatsApp replies in Hindi and English for room rates, snow updates, taxi fares and availability, answered through the night.",
     data: "Season-wise occupancy, booking source and sales figures on a phone dashboard for hotel and orchard owners.",
-    app: "Installable web apps for guest check-in, driver schedules, school notices or apple dispatch, with no app store step.",
+    app: "Android and iOS apps for guest check-in, driver schedules, school notices or apple dispatch, published on both app stores from ₹40,000.",
     maintenance: "Free updates, backups and security checks for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

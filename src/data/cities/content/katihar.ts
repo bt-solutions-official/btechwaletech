@@ -51,7 +51,7 @@ const katihar: CityContent = {
     software: "Purchase, grading and stock registers for makhana units and grain traders who currently track lots in notebooks.",
     ai: "WhatsApp replies for rates, stock, admission or OPD questions in Hindi, with serious buyers and patients passed straight to you.",
     data: "Simple dashboards showing purchase prices, sales and margins by grade, buyer or month, built from your existing records.",
-    app: "Installable web apps for field buyers, delivery staff and teachers that work on inexpensive Android phones.",
+    app: "Android and iOS apps for field buyers, delivery staff and teachers that work on inexpensive phones, released on Google Play and the App Store.",
     maintenance: "Updates, backups, fixes and uptime checks free for five months after launch, then from ₹8,000 a month or pay as needed.",
   },
   whyUsIntro:

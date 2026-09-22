@@ -50,7 +50,7 @@ const jamshedpur: CityContent = {
     software: "Job-work trackers, dispatch registers, quotation systems and contractor portals for ancillary units and service firms.",
     ai: "WhatsApp assistants that handle enquiries, order status and appointment bookings in Hindi, English or Bengali, with staff handover.",
     data: "Dashboards for production, rejection rates, receivables and orders, built from Tally, ERP exports and Excel sheets.",
-    app: "Progressive web apps for supervisors, site engineers and sales reps that install from the browser and work on shop-floor networks.",
+    app: "Android and iPhone apps for supervisors, site engineers and sales reps on shop-floor networks, built in Flutter or React Native from ₹40,000.",
     maintenance: "Content updates, security patches, backups and small fixes free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -243,7 +243,7 @@ const jamshedpur: CityContent = {
     {
       question: "Can you make a job-tracking app for my workshop or contracting firm?",
       answer:
-        "Yes. Custom web apps start at ₹60,000. Typical features are job cards, material issue, attendance, dispatch records, bill status and customer-facing status lookup. They run in the browser and install on phones, so supervisors do not need an app store download.",
+        "Yes. Custom web apps start at ₹60,000. Typical features are job cards, material issue, attendance, dispatch records, bill status and customer-facing status lookup. They run in the browser, and we can also publish them as Android and iOS apps on Google Play and the App Store, from ₹40,000.",
     },
     {
       question: "Can the website include Bengali or Hindi pages?",

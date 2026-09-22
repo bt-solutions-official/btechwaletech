@@ -51,7 +51,7 @@ const hugliChinsurah: CityContent = {
     software: "Case diaries for advocates, patient and report registers for labs, and batch-fee trackers for coaching rooms, all in a phone browser.",
     ai: "WhatsApp assistants that answer hearing-date, test-price or batch-timing questions in Bengali and hand anything serious to a person.",
     data: "Monthly dashboards for cold-storage bookings, shop sales or lab test volumes, built from the registers and sheets you already keep.",
-    app: "Installable web apps for delivery boys, sample-collection staff and field agents moving between Chinsurah, Bandel and Mogra.",
+    app: "Android and iOS apps for delivery boys, sample-collection staff and field agents moving between Chinsurah, Bandel and Mogra, from ₹40,000.",
     maintenance: "Five months of free updates, backups and fixes after launch; after that, care plans from ₹8,000 a month or paid per request.",
   },
   whyUsIntro:

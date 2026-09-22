@@ -51,7 +51,7 @@ const vijayawada: CityContent = {
     software: "Order, billing and dispatch tools for wholesalers and transporters, and admission or result portals for colleges.",
     ai: "WhatsApp bots that take retailer orders, answer part availability questions for Auto Nagar dealers and handle admission-season enquiries in Telugu or English.",
     data: "Sales, collection and branch-wise dashboards for distributors and college groups who currently compile reports by hand.",
-    app: "Installable web apps for field sales, delivery tracking and student portals, without needing a Play Store listing.",
+    app: "Android and iOS apps for field sales, delivery tracking and student portals, one codebase published on Google Play and the App Store.",
     maintenance: "Price list changes, festival offers, backups and security updates free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

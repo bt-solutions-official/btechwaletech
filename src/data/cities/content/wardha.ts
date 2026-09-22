@@ -51,7 +51,7 @@ const wardha: CityContent = {
     software: "Kapas purchase, ginning, bale and dispatch registers for ginning units, and order and job trackers for MIDC workshops.",
     ai: "WhatsApp replies in Marathi, Hindi or English for rates, OPD timings, admissions and orders, with complex cases sent to a person.",
     data: "Dashboards for daily arrivals, bale output, sales or patient numbers, built from the spreadsheets and books you already keep.",
-    app: "Installable web apps for field buyers, service engineers and hostel staff that work on ordinary Android phones.",
+    app: "Android and iOS apps for field buyers, service engineers and hostel staff on ordinary phones, released on both app stores from ₹40,000.",
     maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:

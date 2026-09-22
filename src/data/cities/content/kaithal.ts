@@ -51,7 +51,7 @@ const kaithal: CityContent = {
     software: "Arhtiya ledgers, farmer payment registers, gate-pass and stock tools for mills and traders who still keep bahi-khata by hand.",
     ai: "WhatsApp bots that send daily rates, stock positions or admission details in Hindi so your team is not answering the same message fifty times.",
     data: "Season-wise dashboards of arrivals, purchases, milling output and dispatch that a mill owner can read on a phone.",
-    app: "Installable web apps for school parents, coaching students or field agents that need no Play Store download.",
+    app: "Android and iOS apps for school parents, coaching students or field agents, one Flutter build listed on Google Play and the App Store.",
     maintenance: "Five months of free updates, backups and fixes after launch, then upkeep from ₹8,000 a month if you want us to continue.",
   },
   whyUsIntro:

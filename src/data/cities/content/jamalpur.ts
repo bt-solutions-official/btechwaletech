@@ -50,7 +50,7 @@ const jamalpur: CityContent = {
     software: "Work-order, stock and billing tools for engineering suppliers and small contractors tied to the workshop.",
     ai: "WhatsApp assistants that answer batch, fee and stock questions in Hindi or English and pass harder chats to a person.",
     data: "Simple dashboards for coaching results, admission enquiries or supplier billing, built from your existing sheets.",
-    app: "Installable web apps for students, delivery staff and field technicians that work well on low-cost phones.",
+    app: "Android and iOS apps for students, delivery staff and field technicians that work well on low-cost phones, starting at ₹40,000.",
     maintenance: "Five months of free updates and security care after launch; afterwards maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:

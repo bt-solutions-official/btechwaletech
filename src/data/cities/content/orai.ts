@@ -51,7 +51,7 @@ const orai: CityContent = {
     software: "Purchase, stock and payment registers for grain and pulse traders, and fee or admission tools for schools and coaching centres.",
     ai: "WhatsApp replies in Hindi for rates, stock, fees and OPD timings, with serious buyers, patients and parents handed to a person.",
     data: "Clear dashboards for purchases by crop, sales by buyer, patient visits or fee collections, drawn from records you already keep.",
-    app: "Installable web apps for field buyers, delivery staff and teachers that run on inexpensive Android phones.",
+    app: "Android and iOS apps for field buyers, delivery staff and teachers on inexpensive phones, built once and published to Google Play and the App Store.",
     maintenance: "Five months of free maintenance after launch, then support from ₹8,000 a month or paid changes only when you need them.",
   },
   whyUsIntro:

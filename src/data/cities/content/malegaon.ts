@@ -51,7 +51,7 @@ const malegaon: CityContent = {
     software: "Loom-wise production, beam and yarn tracking and party ledgers for weaving units that still depend on notebooks and the owner's memory.",
     ai: "WhatsApp assistants that log fabric orders, reply to rate enquiries in Hindi or Marathi, and send payment reminders to traders on a schedule you set.",
     data: "Phone-friendly dashboards that show metres woven, pending payments and top-buying parties, pulled from Tally and daily production sheets.",
-    app: "Installable web apps for mill supervisors, school fee collection and clinic appointment queues that work on low-cost Android phones.",
+    app: "Android and iOS apps for powerloom mill supervisors, school fee collection and clinic queues on low-cost phones, from ₹40,000.",
     maintenance: "Rate list changes, new fabric photos, backups and security updates, free for five months after launch and ₹8,000 a month after that.",
   },
   whyUsIntro:

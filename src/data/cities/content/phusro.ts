@@ -51,7 +51,7 @@ const phusro: CityContent = {
     software: "Trip logs, vehicle document trackers, stock registers and fee systems for transporters, dealers and schools.",
     ai: "WhatsApp replies for rates, stock, admissions or OPD timings in Hindi, with orders and urgent patients sent straight to you.",
     data: "Dashboards for truck trips, diesel use, sales by item or fee collection, built from your current sheets and registers.",
-    app: "Installable web apps for drivers, supervisors and delivery staff that work offline in patchy mining areas.",
+    app: "Android and iOS apps for drivers, supervisors and delivery staff that work offline in patchy mining areas, from ₹40,000 on both stores.",
     maintenance: "Free fixes, updates and backups for five months after launch, then care from ₹8,000 a month or paid per task.",
   },
   whyUsIntro:

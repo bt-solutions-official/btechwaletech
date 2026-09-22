@@ -19,6 +19,7 @@ const countryPages = [
   { name: "UAE", href: "/uae/", summary: "Only ninety minutes apart, so the working day overlaps almost fully. English and right-to-left Arabic sites, AED invoicing on request." },
   { name: "Saudi Arabia", href: "/saudi-arabia/", summary: "Near full-day overlap, bilingual Arabic and English sites with proper RTL, mada and STC Pay checkout, and PDPL-aware builds." },
   { name: "Singapore", href: "/singapore/", summary: "Just 2.5 hours ahead, SGD invoicing on request, PayNow checkout and PDPA-aware builds for Singapore businesses." },
+  { name: "Japan", href: "/japan/", summary: "Your afternoon overlaps our morning, JPY invoicing on request, konbini and JCB checkout, APPI-aware builds and prices far below Japanese agency rates." },
   { name: "Germany", href: "/germany/", summary: "German business-day overlap from late morning IST, EUR invoicing, GDPR/DSGVO, cookie consent and Impressum-ready sites." },
   { name: "Netherlands", href: "/netherlands/", summary: "Dutch business-day overlap, EUR invoicing, iDEAL checkout via Mollie or Stripe, and GDPR/AVG-compliant builds." },
   { name: "India", href: "/india/", summary: "Same time zone, INR pricing, UPI and bank transfer, and city pages across Indian states." },
@@ -27,7 +28,7 @@ const countryPages = [
 const faqs = [
   {
     question: "Which countries do you work with?",
-    answer: "We work remotely with businesses in the USA, UK, Canada, Australia, New Zealand, the UAE and wider Middle East, Singapore and the rest of Asia, Europe and India. The team is three engineers based in India; we have no offices abroad, and every international project is delivered remotely.",
+    answer: "We work remotely with businesses in the USA, UK, Canada, Australia, New Zealand, the UAE and wider Middle East, Singapore, Japan and the rest of Asia, Europe and India. The team is three engineers based in India; we have no offices abroad, and every international project is delivered remotely.",
   },
   {
     question: "Are prices the same in every country?",
@@ -35,7 +36,7 @@ const faqs = [
   },
   {
     question: "Can we pay in our local currency?",
-    answer: "International projects are invoiced in USD by default, or in GBP, CAD, AUD, AED, EUR or SGD on request at the rate on the day of the quote. Payment is by Wise, international bank wire or PayPal. Indian clients pay in INR by UPI or bank transfer. Payments are split into milestones: a deposit, a payment at staging review and the balance at launch.",
+    answer: "International projects are invoiced in USD by default, or in GBP, CAD, AUD, AED, EUR, SGD or JPY on request at the rate on the day of the quote. Payment is by Wise, international bank wire or PayPal. Indian clients pay in INR by UPI or bank transfer. Payments are split into milestones: a deposit, a payment at staging review and the balance at launch.",
   },
   {
     question: "How do you handle time zones?",
@@ -60,7 +61,7 @@ const page = createPageSeo({
   description: `Remote web development for the USA, UK, Canada, Australia, UAE and India. Time-zone overlap, billing in USD or local currency, websites from ${usd("Static")}.`,
   canonicalPath: "/countries/",
   h1: "Web development services worldwide",
-  intro: `BtechWaleTech is a team of three engineers in India building websites, web apps, ecommerce stores, SEO and AI automation for businesses in the USA, UK, Canada, Australia, the UAE, Europe, Asia and India. Everything is delivered remotely, in your business hours, with websites starting from ${usd("Static")} and five months of free maintenance after launch.`,
+  intro: `BtechWaleTech is a team of three engineers in India building websites, Android and iOS apps, web apps, ecommerce stores, SEO and AI automation for businesses in the USA, UK, Canada, Australia, the UAE, Europe, Asia and India. Everything is delivered remotely, in your business hours, with websites starting from ${usd("Static")} and five months of free maintenance after launch.`,
   breadcrumbs: createBreadcrumbs([{ label: "Countries", href: "/countries/" }]),
   locale: "en_US",
   alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],

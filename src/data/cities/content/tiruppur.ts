@@ -50,7 +50,7 @@ const tiruppur: CityContent = {
     software: "Order, style and job-work tracking that follows a garment from yarn and knitting to dyeing, stitching, checking and packing.",
     ai: "WhatsApp assistants that answer retailer and buyer questions about MOQs, sizes and lead times in Tamil, Hindi and English, and log each enquiry.",
     data: "Dashboards showing orders by buyer, style and stage, delayed lots and job-worker performance, built from Excel sheets you already keep.",
-    app: "Installable web apps for supervisors recording line output, drivers confirming job-work deliveries and salesmen taking wholesale orders.",
+    app: "Android and iPhone apps for supervisors recording line output, drivers confirming job-work deliveries and salesmen taking wholesale orders, from ₹40,000.",
     maintenance: "New styles, season catalogues, backups and security updates handled free for five months, then from ₹8,000 a month.",
   },
   whyUsIntro:

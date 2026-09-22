@@ -51,7 +51,7 @@ const agra: CityContent = {
     software: "Booking engines, tour itinerary builders, order trackers and dealer portals for Agra hospitality and footwear businesses.",
     ai: "WhatsApp and email assistants that answer tour timings, room rates or shoe MOQs at any hour and hand bookings to your staff.",
     data: "Occupancy, season-wise booking, export order and dealer sales reports combined into dashboards you can read on your phone.",
-    app: "Installable web apps for guests, guides and dealers, including digital itineraries and reorder screens, without an app store listing.",
+    app: "Android and iOS apps for guests, guides and dealers, with digital itineraries and reorder screens, available on Google Play and the App Store from ₹40,000.",
     maintenance: "Rate and season updates, new product photos, backups and security patches, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

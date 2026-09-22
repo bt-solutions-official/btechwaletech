@@ -51,7 +51,7 @@ const marmagao: CityContent = {
     software: "Shipment, job-file and invoice tracking for clearing agents, and job cards for marine and engineering contractors.",
     ai: "WhatsApp assistants that answer room, rate, schedule and document questions in English, Konkani or Hindi, then hand over.",
     data: "Dashboards for vessel calls handled, container movements, hotel occupancy or sales, built from your existing sheets.",
-    app: "Installable web apps for surveyors, drivers and field technicians working across the port, shipyard and Verna.",
+    app: "Android and iOS apps for surveyors, drivers and field technicians working across the port, shipyard and Verna, from ₹40,000 on both stores.",
     maintenance: "Five months of free updates and security care after launch; later maintenance starts from ₹8,000 a month.",
   },
   whyUsIntro:

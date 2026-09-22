@@ -51,7 +51,7 @@ const machilipatnam: CityContent = {
     software: "Design-code registers, karigar job tracking and stock systems for jewellery units that still note every piece in long notebooks.",
     ai: "WhatsApp assistants that share design photos, rates and MOQ with resellers in Telugu or English, then pass bulk orders to the owner.",
     data: "Sales dashboards showing which designs, resellers and states move stock, built from your billing or Tally exports.",
-    app: "Installable web apps for resellers to browse new designs and place repeat orders without an app store download.",
+    app: "Android and iOS apps for resellers to browse new Kalamkari designs and place repeat orders, released on both stores from ₹40,000.",
     maintenance: "New designs, rate changes, backups and security updates free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

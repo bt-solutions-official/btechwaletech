@@ -50,7 +50,7 @@ const kozhikode: CityContent = {
     software: "Dealer ordering, stock and dispatch systems for footwear units, timber yards and wholesale traders in Valiyangadi.",
     ai: "WhatsApp assistants that answer order, table and appointment questions in Malayalam and English, including messages that arrive from the Gulf after midnight.",
     data: "Dashboards for sales by dealer, outlet or product, built from Tally and billing software and readable on a phone.",
-    app: "Installable web apps for restaurant pre-orders, clinic tokens and field sales teams that work without an app store.",
+    app: "Android and iOS apps for restaurant pre-orders, clinic tokens and field sales teams, published on both stores in six to ten weeks.",
     maintenance: "Menu, price and catalogue updates, backups and security patches, free for five months and then from ₹8,000 a month.",
   },
   whyUsIntro:

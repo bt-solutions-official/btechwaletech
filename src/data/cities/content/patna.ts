@@ -51,7 +51,7 @@ const patna: CityContent = {
     software: "Admission and fee portals, contractor project trackers and distributor order systems for Patna firms still managing on registers.",
     ai: "WhatsApp assistants that answer fee, batch, test and appointment questions in Hindi day and night, and pass serious enquiries to your staff.",
     data: "Dashboards that show admissions, collections, patient footfall or distributor sales in one place, updated without anyone compiling Excel sheets.",
-    app: "Installable web apps for student logins, test series and repeat orders that run smoothly on budget Android phones.",
+    app: "Android and iOS apps for student logins, test series and repeat orders on budget phones, built in Flutter or React Native and listed on both stores.",
     maintenance: "Free updates, fixes, backups and speed checks for five months after launch, then support from ₹8,000 a month.",
   },
   whyUsIntro:
@@ -89,7 +89,7 @@ const patna: CityContent = {
       paragraphs: [
         "Patna's coaching economy is enormous. Musallahpur and the lanes off Ashok Rajpath are packed with institutes, libraries, lodges and bookshops serving students preparing for railway, banking, SSC, BPSC, engineering and medical exams. New institutes open every year, and most compete on the same few claims.",
         "A student comparing institutes wants specifics: the exam covered, batch timings, fee and instalment options, faculty with their subjects, class size, test series and verifiable results. We build a page for each course with exactly that information, a results archive organised by exam and year, and a “free demo class” request that goes straight to your counsellor. We avoid inflated selection claims. Students talk to each other constantly, and a false result list costs more than it gains.",
-        "Online batches and test series are now part of most institutes' income. We build student logins with recorded lectures, PDFs, test schedules and results, installable on a phone as a web app so you avoid Play Store fees and approvals. Lodges and libraries around Musallahpur benefit from a simple site with photos, rent or fee range, rules and availability.",
+        "Online batches and test series are now part of most institutes' income. We build student logins with recorded lectures, PDFs, test schedules and results, as an Android and iOS app on Google Play and the App Store, or as a lower-cost web app. Lodges and libraries around Musallahpur benefit from a simple site with photos, rent or fee range, rules and availability.",
       ],
     },
     {

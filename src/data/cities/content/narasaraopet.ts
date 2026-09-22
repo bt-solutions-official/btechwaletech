@@ -51,7 +51,7 @@ const narasaraopet: CityContent = {
     software: "Purchase registers, commission ledgers and dispatch records for chilli, cotton and rice traders, and admission and fee systems for colleges.",
     ai: "Telugu and English WhatsApp replies for fee, timing, stock and rate questions, with a staff member stepping in whenever judgement is needed.",
     data: "Dashboards that pull admissions, patient footfall or trade purchases into one view instead of registers and scattered spreadsheets.",
-    app: "Home-screen web apps for field agents, hostel attendance or OPD token queues, usable on budget Android handsets and needing no Play Store approval.",
+    app: "Android and iOS apps for field agents, hostel attendance or OPD token queues on budget handsets, released on Google Play and the App Store.",
     maintenance: "Five post-launch months of edits, backups, patches and monitoring at no charge; afterwards, ongoing care begins at ₹8,000 monthly.",
   },
   whyUsIntro:

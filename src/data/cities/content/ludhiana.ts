@@ -51,7 +51,7 @@ const ludhiana: CityContent = {
     software: "Dealer portals, order books, stock and production trackers for units juggling many buyers, colours and sizes.",
     ai: "WhatsApp flows and AI assistants that answer rate, stock and delivery questions in Punjabi, Hindi or English and log every order.",
     data: "Season-by-season sales, design performance and dealer payment dashboards that an owner can read on a phone.",
-    app: "Installable web apps for dealer reorders, field sales reports and patient or student portals, without an app store listing.",
+    app: "Android and iOS apps for dealer reorders, field sales reports and patient or student portals, published on Google Play and the App Store.",
     maintenance: "Catalogue updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month after.",
   },
   whyUsIntro:

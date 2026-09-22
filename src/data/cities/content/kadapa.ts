@@ -50,7 +50,7 @@ const kadapa: CityContent = {
     software: "Dispatch, weighbridge and billing tools for stone, mineral and transport firms, and admission systems for colleges and schools.",
     ai: "WhatsApp assistants that answer fee, appointment and rate questions in Telugu or English and route serious buyers to your staff.",
     data: "Dashboards that show dispatches, collections or admissions every day, without someone compiling Excel files after hours.",
-    app: "Installable web apps for drivers, students and field staff that run well on basic Android phones.",
+    app: "Android and iOS apps for drivers, students and field staff that run well on basic phones, from ₹40,000 with Play Store and App Store release.",
     maintenance: "Five free months of updates, fixes and backups after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const proddatur: CityContent = {
     software: "Stock, girvi, chit and order registers for jewellers, finance firms and wholesale cloth merchants still working on paper.",
     ai: "WhatsApp replies that share new designs, today's making-charge policy or stock availability, and log every customer enquiry for follow-up.",
     data: "Monthly views of sales by category, festival-season peaks and slow-moving stock, drawn from records you already keep.",
-    app: "Installable web apps for customer savings schemes, college notices or clinic tokens, without an app store download.",
+    app: "Android and iPhone apps for jewellers' customer savings schemes, college notices or clinic tokens, available on both stores from ₹40,000.",
     maintenance: "Free design uploads, fixes and backups for five months after launch, then maintenance from ₹8,000 a month.",
   },
   whyUsIntro:

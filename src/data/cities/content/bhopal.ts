@@ -51,7 +51,7 @@ const bhopal: CityContent = {
     software: "Vendor portals, job-card trackers and quotation tools for Govindpura and Mandideep suppliers who still run orders on registers and Excel files.",
     ai: "Automated enquiry capture, reply templates and AI assistants that answer admission, appointment and price questions in Hindi or English around the clock.",
     data: "Dashboards that bring together sales, dispatch or admissions numbers so an owner in Bhopal can check the day's position from a phone.",
-    app: "Installable web apps for patient bookings, student portals and field staff check-ins that work without publishing on an app store.",
+    app: "Android and iOS apps for patient bookings, student portals and field staff check-ins, published on both Google Play and the App Store from ₹40,000.",
     maintenance: "Backups, security updates, content changes and speed checks, free for the first five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

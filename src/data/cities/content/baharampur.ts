@@ -51,7 +51,7 @@ const baharampur: CityContent = {
     software: "Order, stock and karigar-payment registers for silk dealers and kansa workshops that now rely on diaries and memory.",
     ai: "WhatsApp replies in Bengali for prices, stock, tuition batches and doctor timings, with real buyers and patients sent to a person.",
     data: "Monthly dashboards for sales by product, festival season or area, drawn from records you already keep.",
-    app: "Installable web apps for delivery staff, tutors taking attendance and field agents, built for ordinary Android phones.",
+    app: "Android and iPhone apps for delivery staff, tutors taking attendance and field agents, built for ordinary handsets and listed on both stores.",
     maintenance: "Free maintenance for five months after launch, then support from ₹8,000 a month or paid changes only when you need them.",
   },
   whyUsIntro:

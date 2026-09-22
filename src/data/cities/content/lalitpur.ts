@@ -51,7 +51,7 @@ const lalitpur: CityContent = {
     software: "Purchase, stock and dispatch registers for grain and pulse traders, and truck and quantity logs for stone and granite suppliers.",
     ai: "Hindi WhatsApp replies for timings, fees, rates and stock questions, with payment and medical matters passed to a person.",
     data: "Phone dashboards for arrivals, dispatches, outstanding dues or admissions, built from the sheets your staff already maintain.",
-    app: "Installable web apps for field staff, drivers and site supervisors that save entries offline and sync on reaching signal.",
+    app: "Android and iOS apps for field staff, drivers and site supervisors that save entries offline and sync on reaching signal, from ₹40,000.",
     maintenance: "Five months of free updates, backups and edits after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:

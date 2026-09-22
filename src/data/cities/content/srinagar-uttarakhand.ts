@@ -51,7 +51,7 @@ const srinagarUttarakhand: CityContent = {
     software: "Booking, room and hostel registers, fee tracking for coaching centres and stock tools for Gola Bazar wholesalers who supply the villages.",
     ai: "Automatic Hindi and English WhatsApp replies for room availability, road status notes, batch timings and doctor schedules, with people handling anything sensitive.",
     data: "Season-by-season dashboards for hotels and shops, so you can see how May–June and September–October yatra months actually compare year on year.",
-    app: "Installable web apps for hostel attendance, test schedules or guest check-in that keep working when the signal drops on the valley roads.",
+    app: "Android and iOS apps for hostel attendance, test schedules or guest check-in that keep working when signal drops on valley roads, from ₹40,000.",
     maintenance: "Updates, backups, uptime checks and small edits free for five months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:

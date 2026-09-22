@@ -50,7 +50,7 @@ const chhapra: CityContent = {
     software: "Admission, fee and result systems for schools and colleges, and order and dues tracking for wholesalers supplying block-level shops.",
     ai: "WhatsApp assistants that reply to fee, appointment and price questions in Hindi at any hour and pass real enquiries to your counter.",
     data: "Simple dashboards that show collections, admissions or distributor sales daily, instead of someone totting up registers at night.",
-    app: "Installable web apps for students, field staff and delivery boys that behave like a phone app without Play Store fees.",
+    app: "Android and iPhone apps for students, field staff and delivery boys, listed on Google Play and the App Store, with builds starting at ₹40,000.",
     maintenance: "Free fixes, updates and backups for five months after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:

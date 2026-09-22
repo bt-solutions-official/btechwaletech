@@ -51,7 +51,7 @@ const chennai: CityContent = {
     software: "Supplier portals, dispatch trackers and quality dashboards for auto-component makers in the Sriperumbudur and Oragadam belt.",
     ai: "AI assistants and WhatsApp flows that answer appointment, stock and admission questions in Tamil or English and hand the tricky ones to your staff.",
     data: "Sales, production and patient-volume data pulled from Excel, Tally or your HMS into dashboards that load on a phone.",
-    app: "Installable progressive web apps for clinic bookings, dealer orders and field teams covering Chennai and its suburbs.",
+    app: "Android and iOS apps for clinic bookings, dealer orders and field teams covering Chennai and its suburbs, built in Flutter or React Native from ₹40,000.",
     maintenance: "Updates, backups, security patches and uptime checks, free for five months after launch and then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const tanda: CityContent = {
     software: "Loom-wise production, yarn stock, job-work payments and dispatch registers for units and traders who keep everything in bahi-khata today.",
     ai: "WhatsApp replies that send the design catalogue, current rates and minimum order quantity in Hindi, and log each enquiry for follow-up.",
     data: "Monthly meters produced, orders dispatched and dues outstanding, turned into a simple phone dashboard for the unit owner.",
-    app: "Installable web apps for dealer orders, school notices and clinic tokens, with no app store download required.",
+    app: "Android and iOS apps for dealer orders, school notices and clinic tokens, released on both app stores with prices starting at ₹40,000.",
     maintenance: "Rate and catalogue updates, backups, security fixes and uptime checks free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

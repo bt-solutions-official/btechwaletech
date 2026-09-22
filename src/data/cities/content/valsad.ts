@@ -50,7 +50,7 @@ const valsad: CityContent = {
     software: "Dispatch, batch and order tracking tools for chemical traders, transporters and engineering workshops that still use registers.",
     ai: "WhatsApp replies in Gujarati, Hindi or English that share mango availability, product specs or room rates while you are busy.",
     data: "Season-wise sales, repeat buyers and enquiry sources shown on a simple dashboard you can open on your phone.",
-    app: "Installable web apps for pre-orders, school updates or clinic bookings, without asking customers to download anything.",
+    app: "Android and iPhone apps for pre-orders, school updates or clinic bookings, published on both app stores in six to ten weeks.",
     maintenance: "Five months of free updates, backups and fixes after launch, then maintenance from ₹8,000 a month if you choose.",
   },
   whyUsIntro:

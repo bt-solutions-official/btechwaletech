@@ -50,7 +50,7 @@ const rajnandgaon: CityContent = {
     software: "Stock, purchase and dispatch tools for mills and wholesalers who still track trucks and bags in paper registers.",
     ai: "WhatsApp assistants that share rates, room availability or admission details in Hindi, day or night, and hand tricky chats to you.",
     data: "Clear dashboards of paddy purchases, milling yield, sales and dues, readable on a phone between meetings.",
-    app: "Installable web apps for school parents, hospital appointments or salesmen on the road, with no app store needed.",
+    app: "Android and iOS apps for school parents, hospital appointments or salesmen on the road, listed on both stores with builds from ₹40,000.",
     maintenance: "Free fixes, backups and updates for five months after launch, then maintenance from ₹8,000 a month if you want it.",
   },
   whyUsIntro:
@@ -115,7 +115,7 @@ const rajnandgaon: CityContent = {
       paragraphs: [
         "Rajnandgaon has long been an education town for the district. Government Digvijay College, founded in 1957, is where the Hindi poet Gajanan Madhav Muktibodh taught, and the Government Medical College, opened in 2014, has brought new hospitals, pharmacies, diagnostic centres and hostels to the city. Private schools, coaching centres and nursing colleges have grown alongside.",
         "For schools and coaching centres, parents want facts: classes, fees or a fee range, transport routes, faculty, results that can be verified and how to apply. For hospitals and clinics, patients want doctor names, specialities, OPD timings, emergency numbers, accepted health schemes where applicable and directions. We build pages that answer these directly, in Hindi and English, without invented claims.",
-        "Admission and appointment forms connect to WhatsApp, and a simple list keeps every enquiry in one place. An installable web app can send circulars to parents or appointment reminders to patients without asking anyone to download an app. Most institution sites start from ₹10,000; larger multi-department sites from ₹20,000.",
+        "Admission and appointment forms connect to WhatsApp, and a simple list keeps every enquiry in one place. An Android and iOS app can send circulars to parents or appointment reminders to patients, from ₹40,000. Most institution sites start from ₹10,000; larger multi-department sites from ₹20,000.",
       ],
     },
     {

@@ -50,7 +50,7 @@ const yamunanagar: CityContent = {
     software: "Order, dispatch and dealer ledger tools for plywood and veneer units, and job-work trackers for utensil workshops that still run on registers and phone calls.",
     ai: "WhatsApp assistants that answer the daily flood of rate, thickness, grade and stock questions from dealers and pass negotiations to your sales person.",
     data: "Dashboards for truck dispatches, dealer outstandings, timber purchases and enquiry sources that an owner can read on a phone between factory rounds.",
-    app: "Installable progressive web apps for salesmen taking dealer orders, school parent portals and clinic appointment requests, shared as a simple link.",
+    app: "Android and iOS apps for salesmen taking plywood dealer orders, school parent portals and clinic appointment requests, published on both stores.",
     maintenance: "Content changes, updates, backups and speed checks free for five months after launch, then from ₹8,000 a month if you want us to carry on.",
   },
   whyUsIntro:

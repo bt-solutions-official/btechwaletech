@@ -50,7 +50,7 @@ const saharanpur: CityContent = {
     software: "Order books, job-card trackers and inventory tools for carving workshops and traders juggling many artisans and buyers at once.",
     ai: "WhatsApp assistants that answer price, size, finish and shipping questions from buyers in Hindi or English and flag serious orders for you.",
     data: "Clear dashboards showing which products, buyers and markets bring the most revenue across seasons and fairs.",
-    app: "Installable web apps for school fee notices, clinic bookings and order status that work without an app store.",
+    app: "Android and iOS apps for school fee notices, clinic bookings and woodcraft order status, one Flutter build published on both stores from ₹40,000.",
     maintenance: "Product uploads, backups, security fixes and speed checks, free for five months after launch and from ₹8,000 a month later.",
   },
   whyUsIntro:

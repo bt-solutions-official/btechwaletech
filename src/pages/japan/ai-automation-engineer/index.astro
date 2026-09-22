@@ -1,0 +1,746 @@
+---
+import JapanServicePage from "@components/japan/JapanServicePage.astro";
+import type { Article } from "@components/japan/JapanServicePage.astro";
+import { createPageSeo } from "@lib/seo/seo-config";
+import { createBreadcrumbs } from "@lib/breadcrumbs/breadcrumbs";
+import { usd, countryOgImage } from "@data/countries/international";
+import { JPY_PER_USD, jpy, both, ja, japanRegions, japanServiceSchema } from "@data/countries/japan";
+
+const path = "/japan/ai-automation-engineer/";
+
+// ---------- FAQ (visible list and FAQPage schema share this array; plain text only) ----------
+
+const faqs = [
+  {
+    question: "How much does AI automation cost in Japan?",
+    answer: `2026 price guides from Japanese agencies and comparison sites put business automation projects at roughly ¥200,000 to ¥1,000,000, AI chatbot or AI-OCR systems at ¥500,000 to ¥3,000,000 initially, and fully custom AI development at ¥1,000,000 to ¥5,000,000 or more. Our AI automation work starts from ${both("AI automation")} for one mapped workflow, and automations that need their own screens start from ${both("Custom web app")}. Running costs such as model usage and platform plans are extra and paid directly to the providers. The final quote depends on your documents, systems and accuracy needs.`,
+  },
+  {
+    question: "How much does it cost to develop an AI chatbot in Japan?",
+    answer: `Japanese price guides quote about ¥50,000 to ¥150,000 for a minimal FAQ bot, ¥150,000 to ¥400,000 for a basic AI chatbot, ¥400,000 to ¥800,000 for a complex one and more than ¥800,000 for very complex builds, while hosted chatbot services can cost ¥100,000 to ¥300,000 or more a month. A template FAQ bot on a SaaS tool can cost less than our ${both("AI automation")} starting price. Ours makes sense when the chatbot must answer from your own documents and data, hand over to staff and connect to your systems.`,
+  },
+  {
+    question: "Can an AI chatbot answer customers in natural, polite Japanese?",
+    answer: "Yes, current language models write Japanese well, including keigo, but tone still needs control. We build the assistant from a style guide and model answers approved by your team: how you address customers, your standard phrases and the words to avoid. A native speaker on your side reviews sample conversations during testing. Nobody on our team writes natural Japanese, which is why Japanese wording is never signed off by us. Replies that commit your business, such as prices, refunds or delivery promises, are drafted for staff approval rather than sent automatically.",
+  },
+  {
+    question: "Do your engineers speak Japanese?",
+    answer: "No. We work in English and do not write natural Japanese. That does not stop us building Japanese-language systems: we handle the engineering, including Japanese text processing, OCR of Japanese documents, search with morphological analysis and prompt design, while the Japanese wording is written or approved by you, a bilingual colleague or a translator. Projects work well with one English-reading person on your side who joins our chat and relays feedback. Every decision is written down so colleagues can review it in translation.",
+  },
+  {
+    question: "Can you build AI search over our internal documents in Japanese?",
+    answer: "Yes. We build retrieval-augmented generation (RAG) systems that answer staff questions from your manuals, rules, specifications and past proposals, with a link to the source passage for every answer. For Japanese we split documents along their headings and sentence boundaries, combine meaning-based search with keyword search using Japanese morphological analysis, and filter results by each user's existing access rights. Before launch we measure accuracy on a set of real questions from your staff. If the documents do not contain an answer, the assistant says so instead of guessing.",
+  },
+  {
+    question: "Can AI-OCR read FAX orders and handwritten forms?",
+    answer: "It reads clear printed FAX and PDF orders reliably, including many different customer layouts without a template for each. Faint, skewed or heavily handwritten documents are harder, and no system reads them perfectly. That is why our pipeline validates every extracted field against your customer and product masters and sends uncertain orders to a review screen that shows the original image. Before going live we test on your real samples and tell you what share of orders pass without correction, so you decide with real numbers.",
+  },
+  {
+    question: "Can you build a LINE Official Account chatbot for our business?",
+    answer: `Yes. Using the LINE Messaging API we build booking and reminder flows, order-status answers, rich menus, LINE Login linked to your customer records and AI assistants that answer common questions from your information and hand over to staff in the LINE chat. The LINE account and channel stay in your company's name, and the monthly LINE plan is paid by you to LY Corporation. Since LINE Notify ended in March 2025, we also move internal alerts to the Messaging API, Chatwork, Slack or Teams. LINE work starts from ${both("AI automation")}.`,
+  },
+  {
+    question: "Do you integrate with kintone, freee, Money Forward Cloud and Chatwork?",
+    answer: "Yes, through their official APIs and webhooks wherever they are available. Typical flows are AI-OCR orders written to a kintone app with a Chatwork alert, invoice data prepared in freee or Money Forward Cloud for your accountant to approve, and daily summaries posted to a chat room. We also connect Slack, Microsoft Teams, Google Workspace, Microsoft 365, Salesforce, HubSpot and Shopify. Where an older system has no API, we can keep an existing RPA robot for the final entry step and put AI in front of it.",
+  },
+  {
+    question: "Will our data be used to train AI models?",
+    answer: "The business and API terms of the major model providers generally state that data sent through their APIs is not used to train their models by default, but terms differ between providers and change over time, so we review the current terms for the provider you choose before the project starts. The account is opened in your company's name, so the contract is between you and the provider. We also minimise what reaches the model at all, masking personal data whenever a task does not need it.",
+  },
+  {
+    question: "Can the AI system run on servers in Japan?",
+    answer: "The application side can. AWS, Google Cloud and Microsoft Azure all have regions in Tokyo and Osaka, so the workflow, database, document index and logs can run in Japan with backups in the other region. For the model itself, options include Azure OpenAI deployments in Japan East and Amazon Bedrock's Japan cross-Region inference for supported models, but availability changes often, so we confirm current options at the start. If data must stay in Japan, we choose a deployment that meets that requirement and explain any trade-off.",
+  },
+  {
+    question: "Are there AI laws in Japan that affect our automation?",
+    answer: "Japan has chosen a light approach so far. The AI Promotion Act, passed in May 2025 and fully in effect since September 2025, promotes AI and lets the government issue guidance and request cooperation, but it has no fines. The AI Guidelines for Business from METI and the Ministry of Internal Affairs and Communications are voluntary. Existing laws still apply in full: the APPI for personal data, the Copyright Act, advertising rules for what an assistant claims, and sector rules in healthcare and finance. This is background, not legal advice.",
+  },
+  {
+    question: "Is it legal under the APPI for your team in India to handle our data?",
+    answer: "It can be, with the right basis, but your adviser should confirm it. If our team can access personal data you hold, the APPI regards it as giving data to a third party located outside Japan. That normally requires informed consent from the people concerned, or a recipient whose protection measures match the APPI standard. India's Digital Personal Data Protection Act, 2023 is being phased in. We design projects to avoid live personal data wherever possible, use dummy or masked data, keep production access minimal and sign data-handling terms. This is not legal advice.",
+  },
+  {
+    question: "Will your invoices include Japanese consumption tax, and are they qualified invoices?",
+    answer: "Neither. Our team works from India and holds no registration as a qualified invoice issuer under Japan's invoice system. That means no Japanese consumption tax appears on our bills, and your accounts team should not treat them as qualified invoices when claiming credits. For AI and software services bought from overseas, the correct tax handling, including any withholding, turns on the type of service and your company's position, so ask your zeirishi before the first transfer. We send itemised invoices and our company details to make that check easy.",
+  },
+  {
+    question: "Can we pay in yen, and how do payments work?",
+    answer: `Yes. We publish prices in US dollars with approximate yen at ¥${JPY_PER_USD} per dollar, and on request we invoice in JPY with the amount fixed in the written quote, so exchange rate movements during the project do not change your bill. Payment is by Wise or international bank wire. Payments follow milestones: an advance to start, a payment when you approve the workflow design or prototype, and the balance before go-live. Third-party costs such as API usage are paid by you directly to the providers.`,
+  },
+  {
+    question: "Who pays for OpenAI, LINE, n8n or Zapier costs?",
+    answer: "You do, directly to each provider. Model API usage, cloud hosting, LINE Official Account plans, Zapier, Make or n8n subscriptions, internet FAX or OCR services and extra SaaS seats are all billed to your company's accounts. We do not resell them or add a margin. The quote includes an estimate of monthly running costs based on your volumes and sample documents, and we set usage alerts and budgets so costs cannot grow unnoticed. We also design to keep them low, for example by using smaller models for simple steps.",
+  },
+  {
+    question: "How long does an AI automation project take?",
+    answer: "One well-defined workflow usually takes two to four weeks from approved scope to go-live, followed by a parallel run of one to two weeks while staff check every output. Automations that need their own review screens or admin panel follow the custom web app timeline of six to twelve weeks. The biggest factors are how quickly we receive sample documents and system access, how many exceptions the process has, and how many people inside your company need to approve the result.",
+  },
+  {
+    question: "What are your working hours in Japan time?",
+    answer: "We are online from 9 am to 9 pm IST every day, which in Japan means from half past noon until half past midnight, reachable on WhatsApp throughout. The gap between IST and JST stays fixed at three and a half hours because neither country moves its clocks. Calls sit comfortably in your afternoon, and if you need an earlier slot we can book a 10 am JST call ahead of time. Go-live and first-day monitoring are scheduled in your afternoon while we are online and your staff are still at work.",
+  },
+  {
+    question: "Who owns the code, prompts and workflows?",
+    answer: "You do. Code repositories, prompts, test sets, workflow definitions, cloud accounts, model provider accounts, automation platform accounts and the LINE channel are in your company's name or transferred to you at handover, together with every login. We document how the automation works in English so another developer could take it over. We do not hold systems hostage for support contracts, and you are free to maintain the automation yourself or with another vendor later.",
+  },
+  {
+    question: "Can AI replace our RPA robots such as WinActor or UiPath?",
+    answer: "Sometimes, and sometimes it should work alongside them. Desktop RPA follows fixed screen steps and cannot read unstructured documents; AI can read FAXes, emails and PDFs but should not click through screens blindly. Where your systems have APIs, a direct integration with an AI reading step is usually sturdier than a robot. Where a legacy system has no API, we keep the robot for the final entry and put AI in front of it. We look at your existing scenarios before recommending either approach.",
+  },
+  {
+    question: "Can an IT subsidy pay for our AI automation project?",
+    answer: "Unlikely, if you work with us. Japan's IT adoption subsidy programmes, such as the IT Introduction Subsidy and its successors, generally only fund tools supplied through registered IT support providers, and we hold no such registration. If subsidy funding is essential for your budget, a registered Japanese vendor is the practical choice. Other subsidy programmes have their own rules about overseas providers, so confirm eligibility with the programme office or your chamber of commerce before you commit to any provider, us included.",
+  },
+  {
+    question: "What can AI automation not do reliably?",
+    answer: "It cannot guarantee perfect accuracy, especially on poor scans and handwriting. Without grounding in your documents, a language model can produce confident but wrong answers. Models change when providers update or retire them, and costs grow with volume. AI also does not fix a confused process; it only makes the confusion faster. Some decisions, such as hiring, credit and medical advice, should stay with people. We build validation, review queues, citations and test sets precisely because of these limits.",
+  },
+  {
+    question: "How do we start an AI automation project with you?",
+    answer: "Send us one process in English on WhatsApp or email: what arrives, what your staff do with it, how many items per day or month and which systems are involved. Two or three anonymised samples help a lot. We reply with questions, then a written scope, a running-cost estimate and a quote in USD or JPY. If the numbers show the process is not worth automating, we will tell you. Nothing is built or billed until you sign off the scope.",
+  },
+];
+
+// ---------- Page meta ----------
+
+const page = createPageSeo({
+  title: "AI Automation Engineer Japan | AI Developer Tokyo",
+  description: `AI automation for businesses in Japan: Japanese chatbots, RAG search, AI-OCR for FAX orders, LINE and kintone workflows. From ${usd("AI automation")} (about ${jpy("AI automation")}).`,
+  canonicalPath: path,
+  h1: "AI automation engineer for businesses in Japan, from Tokyo and Osaka to all 47 prefectures",
+  intro: "BtechWaleTech is three engineers in India who build AI automations for businesses in Japan: Japanese-language chatbots, search over internal documents, AI-OCR for FAX and PDF orders, LINE Official Account bots and workflows connecting kintone, freee, Chatwork, Slack, Microsoft 365 and Google Workspace. We work remotely in English, map your process before writing code, keep a person approving anything that commits your business, and start below typical Japanese quotes for business automation.",
+  breadcrumbs: createBreadcrumbs([
+    { label: "Countries", href: "/countries/" },
+    { label: "Japan", href: "/japan/" },
+    { label: "AI automation engineer", href: path },
+  ]),
+  locale: "en_JP",
+  ogImage: countryOgImage("BtechWaleTech, a remote AI automation team in India building chatbots, AI-OCR and LINE workflows for businesses in Japan"),
+  keywords: [
+    "AI automation Japan",
+    "AI engineer Japan",
+    "AI automation engineer Japan",
+    "AI developer Tokyo",
+    "generative AI development Japan",
+    "AI chatbot development Japan",
+    "Japanese AI chatbot",
+    "business automation Japan",
+    "RPA alternative Japan",
+    "LLM app development Japan",
+    "RAG development Japan",
+    "AI-OCR Japan",
+    "FAX order automation Japan",
+    "LINE chatbot development",
+    "LINE Messaging API developer",
+    "kintone automation",
+    "freee API integration",
+    "Chatwork bot development",
+    "n8n developer Japan",
+    "AI developer Osaka",
+    "AI automation Nagoya",
+    "AI developer Yokohama",
+    "AI chatbot Fukuoka",
+    "AI automation Sapporo",
+    "AI developer Kyoto",
+    "AI automation Kobe",
+    "offshore AI development India Japan",
+    "AI開発 外注",
+    "業務自動化 外注",
+    "生成AI 導入支援",
+    "AIチャットボット 開発",
+  ],
+});
+
+const schema = japanServiceSchema({
+  path,
+  title: page.title,
+  description: page.description,
+  serviceName: "AI automation engineering for businesses in Japan",
+  serviceType: "AI automation and AI software development",
+  plans: ["AI automation", "Custom web app", "Maintenance"],
+});
+
+// ---------- Hero, stats and snapshot ----------
+
+const heroEyebrow = "Japan · AI automation · Remote team in India";
+const facts: [string, string][] = [
+  ["Team", "Three engineers in India, remote delivery"],
+  ["Starting price", `AI automation from ${usd("AI automation")}, about ${jpy("AI automation")}`],
+  ["Time difference", "Japan runs 3.5 hours ahead of India"],
+  ["Billing", "Invoices in USD or JPY; Wise or bank wire"],
+  ["Data handling", "Dummy data first, minimal access, Japan hosting on request"],
+  ["Coverage", "All 47 prefectures, remotely in English"],
+];
+const pills = ["Japanese-language chatbots", "RAG over internal documents", "AI-OCR for FAX and PDF orders", "LINE Messaging API bots", "kintone, freee and Chatwork flows", "n8n, Make or custom Python"];
+const heroOrigin = "Engineers in India · Remote AI work for Japan in English · No office in Japan";
+const quoteKicker = "AI automation starting prices";
+const quotePlans = ["AI automation", "Custom web app", "Android", "Maintenance"];
+const quoteFoot = `Starting prices in USD, about ¥${JPY_PER_USD} per dollar for comparison. Model usage, LINE plans and platform fees are paid by you directly to the providers. 5 months of maintenance free after launch.`;
+
+const stats = [
+  { value: "3", label: "Engineers, no account managers" },
+  { value: usd("AI automation"), label: `AI automation starting price, about ${jpy("AI automation")}` },
+  { value: "5", label: "Months maintenance free after launch" },
+  { value: "12:30", label: "Our day starts in JST, 7 days a week" },
+];
+
+const answerHeading = "Looking for an AI automation engineer for your business in Japan?";
+const quickAnswer = `BtechWaleTech is a remote team of three engineers in India that builds AI automations for businesses in Japan: Japanese-language chatbots and LINE bots, search over internal documents, AI-OCR for FAX and PDF orders, and workflows connecting kintone, freee, Chatwork, Slack and Microsoft 365. One mapped workflow starts from ${both("AI automation")}, against typical Japanese quotes of ¥200,000 to ¥1,000,000 for business automation. We work in English, keep a person approving anything that commits your business, and you own every account.`;
+const answerMore = "A simple FAQ chatbot on a SaaS tool can be cheaper than hiring us. Our price makes sense when the automation has to read real documents, check them against your data and write the result into the systems your staff already use.";
+const snapshotCaption = "AI automation for Japan at a glance";
+const snapshot = [
+  { label: "Who we are", value: "A three-engineer team in India: AI and cloud, full stack, and delivery and automation" },
+  { label: "What we automate", value: "Order intake, invoices, enquiries, customer replies, document search, meeting minutes" },
+  { label: "Tools we connect", value: "kintone, freee, Money Forward Cloud, Chatwork, Slack, Teams, LINE, Salesforce, HubSpot, Shopify" },
+  { label: "Japanese language", value: "Models handle Japanese; tone and wording approved by your native speakers" },
+  { label: "Data handling", value: "Dummy data in development, minimal access, Tokyo or Osaka hosting on request" },
+  { label: "Starting price", value: `From ${both("AI automation")} for one mapped workflow` },
+  { label: "Our hours in JST", value: "Daily on WhatsApp, 12:30 pm to 12:30 am" },
+];
+
+// ---------- Services bento ----------
+
+const servicesHeading = "AI and automation services for businesses in Japan";
+const services: { name: string; note: string; href?: string; size: "lg" | "md" | "sm" }[] = [
+  { name: "Business workflow automation", note: "Orders, invoices and enquiries moving between kintone, freee, Money Forward Cloud, Chatwork, Slack, Teams, Salesforce, HubSpot and Shopify, with AI only where it adds value.", size: "lg" },
+  { name: "Japanese chatbots and document search", note: "Assistants for customers and staff that answer from your own documents, cite their sources and hand over to a person when unsure.", size: "md" },
+  { name: "AI-OCR for FAX and PDF", note: "Purchase orders, delivery notes and invoices read, validated against your masters and written to your systems.", size: "sm" },
+  { name: "LINE Official Account bots", note: "Bookings, reminders, order status and FAQ answers through the Messaging API, with staff handover.", size: "sm" },
+  { name: "Custom AI web apps", note: "Review queues, internal search portals and quotation tools with login, roles and audit logs.", href: "/japan/software-development/", size: "sm" },
+  { name: "AI in your mobile app", note: `Photo capture for AI-OCR or an in-app assistant, in one app for iPhone and Android from ${both("Android")}.`, href: "/japan/android-ios-developer/", size: "sm" },
+  { name: "AI on your website", note: "Chat assistants, smarter enquiry forms and multilingual answers built into a fast website.", href: "/japan/website-developer/", size: "sm" },
+  { name: "Maintenance and monitoring", note: "Model updates, API changes, accuracy checks and small improvements, with 5 months free.", href: "/pricing/", size: "sm" },
+];
+
+// ---------- Pricing ----------
+
+const pricingHeading = "AI automation and software prices in USD and yen";
+const pricingIntro = `Our prices are published in US dollars with an approximate yen figure at ¥${JPY_PER_USD} per dollar. For AI work, start with the AI automation line, which covers one mapped workflow; custom web apps cover automations that need their own screens. If your accounts team prefers yen, we can invoice in JPY with the amount fixed in the quote and paid by Wise or bank wire.`;
+const pricingFine = "Every figure is a starting price for a scoped first version, not a fixed quote. Model API usage, cloud hosting, LINE Official Account plans, automation platform subscriptions, OCR or FAX services and extra SaaS seats go on your own accounts with each provider. Japanese consumption tax is not added to our invoices.";
+
+// ---------- Regions: guide blocks and region table both come from japanRegions ----------
+
+const regionNotes: Record<string, { character: string; build: string; text: string }> = {
+  Hokkaido: {
+    character: "Food, dairy, fisheries, seasonal tourism, contact centres in Sapporo",
+    build: "Multilingual guest assistants, AI-OCR for food orders, seasonal demand forecasts",
+    text: "Hokkaido is a single prefecture and its own region, with Sapporo as the business centre and Asahikawa, Hakodate, Obihiro and Kushiro as regional hubs. The economy leans on agriculture, dairy, fisheries, food processing and tourism, from the ski resorts of Niseko and Furano to sightseeing in Otaru and Hakodate. That shapes what is worth automating. Hotels, ski schools and tour operators answer the same questions in English, Chinese and Korean every winter, which a multilingual assistant grounded in their own house rules, schedules and prices can handle at any hour, handing bookings to the existing engine. Food producers and wholesalers that still receive FAX orders from shops and restaurants benefit from AI-OCR feeding their sales system. Seasonal businesses gain from demand forecasts that plan stock and staffing around snow, holidays and events. Sapporo's IT companies and contact centres are candidates for inbox triage and conversation summaries.",
+  },
+  Tohoku: {
+    character: "Agriculture, sake, fisheries, parts manufacturing, ageing workforce",
+    build: "Order and invoice automation, ryokan LINE assistants, manual search for new staff",
+    text: "Tohoku covers Aomori, Iwate, Miyagi, Akita, Yamagata and Fukushima, with Sendai as the regional business hub and Morioka, Akita, Yamagata, Koriyama and Iwaki as important centres. Agriculture, sake brewing, fisheries, electronics and auto-parts manufacturing sit alongside universities and the regional branches of national companies. Many businesses here face a shrinking and ageing local workforce, so automation is often about keeping operations running with fewer people rather than about growth alone. Typical projects are AI-OCR for orders and delivery notes at food wholesalers and parts makers, invoice filing into freee or Money Forward Cloud for small firms without a large back office, LINE assistants for ryokan and hot spring inns answering booking and access questions, and document search that lets newer staff find answers in manuals that used to live in a veteran employee's memory. Producers selling direct to customers in Tokyo use order and shipping automation to cope with seasonal peaks for fruit and rice.",
+  },
+  Kanto: {
+    character: "Headquarters, finance, SaaS, foreign-affiliated firms, logistics",
+    build: "Bilingual document search, meeting minutes, CRM lead routing, LLM product features",
+    text: "Kanto takes in Tokyo, Kanagawa, Saitama, Chiba, Ibaraki, Tochigi and Gunma, and holds most of Japan's corporate headquarters, financial institutions, SaaS companies and foreign-affiliated firms. Tokyo, Yokohama, Kawasaki, Saitama and Chiba form one huge business market, while Tsukuba, Utsunomiya, Maebashi and Takasaki anchor research, manufacturing and logistics further out. Automation demand here is broad. Foreign-affiliated companies need bilingual document search over policies and manuals, and summaries of meetings held in a mix of Japanese and English. Sales teams want enquiries routed into Salesforce or HubSpot with AI-drafted first replies for a person to check. Back offices in finance and professional services automate invoice intake and approval flows. Logistics operators along the Saitama and Chiba corridors process large volumes of orders and delivery documents that AI-OCR can structure. Startups in Shibuya and elsewhere often need an engineer who can add LLM features to their own product quickly and safely.",
+  },
+  Chubu: {
+    character: "Automotive supply chain, machinery, precision parts, pharmaceuticals, crafts",
+    build: "AI-OCR for purchase orders, quotation drafts, inspection log summaries, English spec drafts",
+    text: "Chubu stretches from Niigata, Toyama, Ishikawa and Fukui on the Sea of Japan to Yamanashi, Nagano, Gifu, Shizuoka and Aichi, with Nagoya as its commercial capital. It is Japan's manufacturing core: the automotive supply chain around Aichi, machinery and precision parts in Gifu and Nagano, motorcycles, instruments and photonics in Hamamatsu, pharmaceuticals in Toyama, metalwork in Tsubame-Sanjo and eyeglass frames in Fukui. Manufacturers and trading companies here handle purchase orders, drawings and quotation requests in large numbers, often by FAX and email. The strongest projects are AI-OCR for purchase orders written into production or sales systems, first-draft quotations assembled from price tables and past jobs for a salesperson to check, summaries of maintenance and inspection logs, and English drafts of specifications for overseas customers, reviewed by bilingual staff. Demand forecasts built from order history help suppliers plan production around their customers' schedules and holiday shutdowns.",
+  },
+  Kansai: {
+    character: "Wholesale and trading, pharmaceuticals, electronics, ports, heavy tourism",
+    build: "Wholesale order intake, multilingual visitor assistants, shipping document extraction",
+    text: "Kansai covers Osaka, Kyoto, Hyogo, Nara, Shiga, Wakayama and Mie. Osaka is a trading and wholesale city with a long pharmaceutical tradition, Kyoto combines electronics and game companies with heavy tourism, Kobe has a major port and a biomedical cluster, and Sakai, Otsu, Nara and Wakayama add manufacturing, food and heritage tourism. Wholesalers and trading companies in Osaka receive orders from hundreds of retailers in every format, which makes order intake the classic first automation: AI reads FAX, PDF and email orders and writes them to the sales system for a person to confirm. Kyoto's hotels, ryokan, restaurants and attractions need multilingual assistants that answer access, reservation and etiquette questions for overseas visitors. D2C brands selling on Shopify use inbox triage and order-status answers to keep their support teams small. Port and logistics companies in Kobe and Osaka automate shipping documents, and manufacturers use internal search across technical manuals.",
+  },
+  Chugoku: {
+    character: "Automotive, shipbuilding, steel, chemicals, denim, fruit, heritage tourism",
+    build: "Supplier document processing, kintone and Chatwork workflows, tourism FAQ assistants",
+    text: "Chugoku includes Hiroshima, Okayama, Yamaguchi, Tottori and Shimane. Hiroshima and Okayama are the main business centres, with Fukuyama, Kurashiki and Shimonoseki important industrial cities, and Matsue and Tottori serving the Sea of Japan side. Automotive manufacturing, shipbuilding, steel and chemicals dominate, alongside denim in Kurashiki's Kojima district, fruit farming in Okayama and heritage tourism at Miyajima, Izumo and Matsue. Suppliers to shipyards and car makers deal with specifications, inspection records and orders that AI can read and summarise, with validation against part numbers before anything enters a system. Smaller manufacturers without dedicated IT staff benefit from simple kintone and Chatwork workflows built around AI-OCR. Tourism operators near Miyajima and Izumo Taisha need multilingual FAQ assistants, and fruit and denim brands selling online use AI to draft product descriptions and answer order questions, with staff reviewing every text before it is published.",
+  },
+  Shikoku: {
+    character: "Towels, shipbuilding, paper, citrus, food gifts, pilgrimage and art tourism",
+    build: "Light order and shipping automation, gift-season LINE assistants, multilingual lodging FAQs",
+    text: "Shikoku is made up of Kagawa, Ehime, Tokushima and Kochi, with Takamatsu and Matsuyama as the largest cities and Tokushima and Kochi as prefectural centres. Imabari in Ehime is known for towels and shipbuilding, Shikokuchuo in Ehime for paper-making, Tokushima for LED and pharmaceutical manufacturing, Kagawa for udon and art tourism on the Setouchi islands, and Kochi for fisheries and citrus. Many Shikoku companies are small and family-run, so automation has to be light and cheap to run. Good fits include order and shipping automation for towel, citrus and food brands selling nationwide, LINE assistants that answer gift and delivery questions during the summer and year-end gift seasons, AI-OCR for orders at local wholesalers, and multilingual answers for pilgrimage lodgings and island guesthouses serving overseas walkers and visitors. Shipbuilding suppliers can use document search across drawings and inspection reports.",
+  },
+  "Kyushu and Okinawa": {
+    character: "Startups, semiconductors, steel, food, hot springs, resort tourism, contact centres",
+    build: "LLM features for startups, bilingual supplier document tools, multilingual guest assistants",
+    text: "Kyushu and Okinawa cover Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima and Okinawa. Fukuoka is the startup and commercial hub, Kitakyushu has steel and robotics, Kumamoto sits at the centre of a growing semiconductor cluster, and Nagasaki, Oita, Miyazaki, Kagoshima and Naha combine shipbuilding, hot springs, agriculture, food and resort tourism. Fukuoka's startups often want an engineer to add LLM features, such as search, summarisation or an assistant, to their own product. Semiconductor suppliers around Kumamoto exchange specifications and documents with overseas partners in English and Japanese, which document search and drafting tools support. Inns in Beppu and Yufuin, resorts in Kagoshima and Okinawa and hotels in Fukuoka serve many visitors from Korea, Taiwan and China, so multilingual assistants are a common need. Okinawa's contact centres and business service companies are candidates for conversation summaries and inbox triage, and food producers across Kyushu use AI-OCR and order automation.",
+  },
+};
+
+const regionsHeading = "What is worth automating in each region of Japan";
+const regionsNote = "A summary of the regional notes in the guide above. We serve all 47 prefectures remotely from India; none of these is an office location.";
+const regionHead = ["Region", "Prefectures", "Economy and typical processes", "Automations we typically build"];
+const regionHide = [1, 2];
+const regionTable = japanRegions.map((r) => [r.name, r.prefectures.join(", "), regionNotes[r.name].character, regionNotes[r.name].build]);
+
+// ---------- Tokyo and the 20 designated cities ----------
+
+const cityRows: string[][] = [
+  ["Tokyo (23 wards)", "Tokyo", "Bilingual document search, meeting minutes and CRM lead routing for headquarters and foreign-affiliated firms"],
+  ["Yokohama", "Kanagawa", "Corporate back offices, R&D document search, port logistics paperwork"],
+  ["Osaka", "Osaka", "Wholesale order intake from FAX and email, trading company documents"],
+  ["Nagoya", "Aichi", "Purchase orders and quotation drafts in the automotive supply chain"],
+  ["Sapporo", "Hokkaido", "Contact centre summaries, food wholesale orders, tourism assistants"],
+  ["Fukuoka", "Fukuoka", "LLM features for startups, Korean and Chinese visitor assistants"],
+  ["Kobe", "Hyogo", "Shipping and port documents, customer service for food and fashion brands"],
+  ["Kawasaki", "Kanagawa", "Technical document search for electronics and IT companies"],
+  ["Kyoto", "Kyoto", "Multilingual assistants for ryokan, restaurants and attractions; manual search for manufacturers"],
+  ["Saitama", "Saitama", "Logistics order processing and retail back offices"],
+  ["Hiroshima", "Hiroshima", "Supplier documents for automotive and shipbuilding, Miyajima visitor FAQs"],
+  ["Sendai", "Miyagi", "Regional branch back offices, university spin-outs and startups"],
+  ["Chiba", "Chiba", "Logistics near Narita, Makuhari offices, retail customer support"],
+  ["Kitakyushu", "Fukuoka", "Inspection records and orders for steel, robotics and equipment makers"],
+  ["Sakai", "Osaka", "Manufacturers' order intake, English drafts for knife and bicycle parts exporters"],
+  ["Niigata", "Niigata", "Rice, sake and food processing orders; quotes for nearby metalworking firms"],
+  ["Hamamatsu", "Shizuoka", "Parts makers' purchase orders, instrument and photonics documentation"],
+  ["Kumamoto", "Kumamoto", "Semiconductor supplier documents in English and Japanese, farm produce orders"],
+  ["Sagamihara", "Kanagawa", "Manufacturing back offices and logistics in western Kanagawa"],
+  ["Shizuoka", "Shizuoka", "Tea and food producer orders, manufacturer quotations"],
+  ["Okayama", "Okayama", "Customer service for fruit and denim brands, regional distribution orders"],
+];
+
+// ---------- Long-form guide (paragraphs, list items and after are HTML; blocks and tables are plain text) ----------
+
+const guide: Article[] = [
+  {
+    id: "who-we-are",
+    heading: "Who builds your automation, and which businesses in Japan it suits",
+    paragraphs: [
+      `BtechWaleTech is a three-person engineering team based in India. <strong>Santosh Sharma</strong> leads the AI and machine learning side: language models, retrieval, evaluation, data, AWS and deployment. <strong>Vedansh Shrivastava</strong> runs delivery and works on data science, AI and automation, so he is usually the person who maps your current process and turns it into a written scope. <strong>Ankur Kumar</strong> is the full stack developer who builds the admin screens, APIs and integrations that make an automation usable by staff who never want to see a prompt. When you message us, one of these three replies, and the same three people write, test and support the code. There are no account managers and no subcontractors.`,
+      `We have no office, registered company or staff in Japan, and we do not meet clients in person. We also work in English. None of us writes natural Japanese, which matters more for AI work than for most IT projects, because the output of a Japanese chatbot or an AI-drafted email is itself Japanese text. How we handle that is described in detail below: we engineer the system, the prompts, the retrieval and the checks, and a native speaker on your side approves the tone and wording before anything reaches a customer.`,
+      `This service suits businesses in Japan that already know where the hours go: a sales office retyping FAX orders, a support desk answering the same twenty questions in Japanese and English, a back office copying invoice data into freee or Money Forward Cloud, or a manager who spends Monday writing ${ja("議事録")} (meeting minutes). It works best when someone on your team reads English, or when a bilingual colleague joins our chat. Foreign-affiliated companies, international startups in Tokyo and Fukuoka, inbound tourism businesses and Japanese manufacturers working with overseas partners are natural fits.`,
+      `It suits you less if you want a vendor to run ${ja("生成AI")} (generative AI) workshops in Japanese at your office, write your Japanese answer templates without review, or register as a support provider for an IT subsidy. A Japanese AI consultancy or system integrator is the better choice then, and it is better to hear that from us before any money changes hands. <a href="/japan/">Our Japan page</a> explains how we work with Japanese companies on websites, apps and software as well.`,
+      `One more honest point: we do not have a portfolio of Japanese AI projects to show you, and we will not invent case studies, logos or reviews. What we offer instead is a small, clearly scoped first workflow, a private staging environment you can test with your own documents, and a written scope that lets you judge the work on measured results rather than on our claims.`,
+    ],
+  },
+  {
+    id: "why-automate",
+    heading: "Why AI automation pays off for businesses in Japan",
+    paragraphs: [
+      `Japan has been short of people for years, and the gap is widest in exactly the roles automation helps with. The Ministry of Economy, Trade and Industry (METI) estimated that Japan's IT workforce could fall as many as 790,000 people short of demand by 2030, and the working-age population keeps shrinking as the country ages. For a small or mid-sized company that means two things at once: hiring an in-house AI engineer is hard and expensive, and the clerical staff who keep orders, invoices and customer replies moving are also hard to replace when they retire.`,
+      `Much of that clerical work is repetitive in a very Japanese way. Orders still arrive by FAX and as PDF attachments, quotations are prepared in Excel from price lists that live in someone's head, and confirmation emails follow strict business formats. The same information is typed into a core system, a kintone app, an accounting tool and a Chatwork message. Each step is small, but together they fill whole working days, and every retyping step is a chance for a wrong product code or quantity.`,
+      `Generative AI changed what can be automated. Older rule-based RPA could click through a fixed screen but broke when a supplier changed the layout of an order form. Language models can read a messy FAX, a polite email or a scanned delivery note, pick out what matters and hand it to ordinary code that validates it against your master data. That combination, AI for reading and drafting and plain software for checking and writing to systems, is what we build for ${ja("業務自動化")} (business automation).`,
+      `Service expectations matter too. Japanese customers expect fast, accurate and polite responses, and a support team that replies within minutes on LINE, in the customer's language, with the correct order status, earns trust. Automation lets a small team deliver that level of service without adding headcount, and it frees experienced staff for the cases that genuinely need their judgement.`,
+    ],
+  },
+  {
+    id: "where-to-start",
+    heading: "Where to start: map one process and count the hours",
+    paragraphs: [
+      `The most common mistake with AI projects in Japan is starting from the technology: a company decides it needs ${ja("生成AI")} or a chatbot, runs a proof of concept, and then cannot find a workflow where it saves real time. We work the other way round, starting from one process that already costs you hours every week.`,
+      `You walk us through the process as it runs today, using real but anonymised examples: five FAX orders, ten customer emails, one month of invoices. We write down each step, who does it, how long it takes, which systems it touches and where mistakes happen. That map usually shows that only two or three steps need AI at all; the rest is plain integration work, which is cheaper and more reliable. Five numbers decide whether the project is worth doing:`,
+    ],
+    list: [
+      `<strong>Volume:</strong> how many items per day or month, for example 40 FAX orders a day or 300 support emails a month.`,
+      `<strong>Time per item:</strong> measured, not guessed. Ask the person who does the work to time ten items.`,
+      `<strong>Cost of an error:</strong> what a wrong quantity, a missed reply or a late invoice actually costs you in money, rework or trust.`,
+      `<strong>Share of exceptions:</strong> how many items are unusual and need a person, such as handwritten notes, new customers or special prices.`,
+      `<strong>Systems:</strong> where the data comes from, where it must end up, and whether those systems offer an API.`,
+    ],
+    after: [
+      `A worked example shows the arithmetic. If 40 FAX orders a day take about four minutes each to key in, that is 160 minutes, or two hours and forty minutes of staff time, every day. If AI-OCR and validation handle most orders and a person spends thirty seconds confirming each one, daily effort drops to about twenty minutes plus the exceptions. These are illustrative numbers, not a promise: your own measurements decide whether the project pays, and we will tell you if they say it does not.`,
+      `Good first projects tend to have high volume, a clear right answer and a person who already checks the result: order intake, invoice filing, enquiry routing, first-draft replies and meeting summaries. Poor first projects are those where the right answer is a matter of taste, or where a mistake is expensive and hard to notice, such as price quotes sent to customers without review.`,
+    ],
+  },
+  {
+    id: "services-detail",
+    heading: "What we build: chatbots, document search, AI-OCR, LINE bots and workflows",
+    paragraphs: [
+      `<strong>Japanese-language chatbots.</strong> Customer-facing assistants on your website or in LINE that answer from your own FAQ, product data, opening hours and policies, in Japanese and in the languages your visitors use, such as English, Simplified and Traditional Chinese and Korean. They hand over to a person when a question is outside their scope, and they log every conversation so you can see what customers really ask. In Japan this is usually searched as ${ja("AIチャットボット 開発")}; ours are built on your data rather than a generic script.`,
+      `<strong>Search over internal documents.</strong> Retrieval-augmented generation (RAG) lets staff ask questions of your manuals, rules of employment, product specifications and past proposals, your ${ja("社内文書")} (internal documents), and get an answer with links to the exact source passages. The RAG section below explains why doing this properly in Japanese takes more than uploading PDFs to a chatbot.`,
+      `<strong>AI-OCR for FAX, PDF and paper.</strong> Orders, delivery notes and invoices are read, the key fields extracted, checked against your customer and product masters and written to kintone, a spreadsheet or your sales system, with uncertain fields flagged for a person.`,
+      `<strong>LINE Official Account bots.</strong> Bookings, order status, reminders and FAQ answers through the LINE Messaging API, with rich menus and LINE Login linked to your customer records.`,
+      `<strong>Workflow automation.</strong> The connective tissue that makes AI useful: a website enquiry becomes a HubSpot or Salesforce lead, a paid Shopify order becomes a freee invoice, a signed quotation creates a kintone record and a Chatwork or Slack message to the right team. We build these in n8n, Make or Zapier when that suits your team, or as small Python or Node.js services when volume, cost or data rules call for code. Japanese companies often look for this as ${ja("業務自動化 外注")} (outsourced business automation).`,
+      `<strong>Drafting and summarising.</strong> Meeting minutes from recordings or transcripts, first drafts of quotation emails from a price list, triage of a shared inbox into categories with suggested replies, and weekly summaries of support conversations. Staff edit and send; the AI saves them from the blank page.`,
+      `<strong>Forecasting and analysis.</strong> Demand forecasts for stock and staffing from your sales history, with seasonal peaks such as Golden Week, Obon and the year-end period built in, delivered as a simple dashboard or a weekly message rather than a model nobody opens. For larger dashboards and internal systems, see our <a href="/japan/software-development/">software development page for Japan</a>.`,
+      `AI rarely lives alone. If the automation needs a new website or form, our <a href="/services/web-development/">web development service</a> covers it; if the pages your assistant draws on should also attract customers from search, see <a href="/services/seo-services/">SEO services</a>; and for AI features inside a phone app, see <a href="/it-services/android-ios-app/">Android and iOS app development</a>.`,
+    ],
+  },
+  {
+    id: "cost-japan",
+    heading: "What AI development and automation cost in Japan in 2026",
+    paragraphs: [
+      `To set expectations, we compared our prices with what Japanese companies are quoted. The ranges below are taken from 2026 price guides put out by Japanese agencies and comparison sites, including ${ja("Web幹事")}, ${ja("システム幹事")} and ${ja("発注ラウンジ")}, which collect typical quotes from Japanese development companies. Treat them as a picture of the market rather than any single vendor's quote; scope moves prices a long way. Our figures are starting prices converted at about ¥${JPY_PER_USD} per US dollar.`,
+    ],
+    table: {
+      caption: "Typical Japanese prices for AI and automation work in 2026 compared with BtechWaleTech starting prices",
+      head: ["What you are buying", "Typical price in Japan (2026 guides)", "BtechWaleTech starts from"],
+      rows: [
+        ["Minimal FAQ chatbot from a template", "¥50,000 to ¥150,000", `A SaaS template may cost less; ours from ${both("AI automation")} when connected to your data`],
+        ["Basic AI chatbot", "¥150,000 to ¥400,000", both("AI automation")],
+        ["Complex or very complex AI chatbot", "¥400,000 to ¥800,000; very complex builds ¥800,000 and up", `${both("AI automation")} for one workflow; ${both("Custom web app")} with its own screens`],
+        ["Hosted AI chatbot service", "¥100,000 to ¥300,000 or more per month", `No platform fee from us; maintenance from ${both("Maintenance")} after 5 free months`],
+        ["Business automation project", "¥200,000 to ¥1,000,000", both("AI automation")],
+        ["AI chatbot or AI-OCR system, initial build", "¥500,000 to ¥3,000,000", `${both("AI automation")} for the first workflow`],
+        ["Fully custom AI development", "¥1,000,000 to ¥5,000,000 and up", both("Custom web app")],
+        ["AI-powered RPA", "¥150,000 to ¥500,000 per month plus ¥100,000 to ¥500,000 scenario setup", `${both("AI automation")} one-off, then ${both("Maintenance")}`],
+        ["Small web system", "¥500,000 to ¥2,000,000", both("Custom web app")],
+      ],
+    },
+    after: [
+      `<strong>Compare like with like.</strong> A minimal FAQ chatbot built from a template on a SaaS tool can cost less than our starting price, and if all you need is a handful of fixed answers on your website, that may be the right purchase. Our ${both("AI automation")} starting price is for something different: one mapped workflow connected to your real systems, with validation, logging, a human check where it matters and documentation. The fair comparison is with Japanese business automation projects at ¥200,000 to ¥1,000,000 and with custom AI builds, not with a template bot.`,
+      `<strong>Monthly fees are where costs add up.</strong> Hosted chatbot services and AI-powered RPA are often sold by the month, and the fees continue for as long as you use the tool. We do not charge a platform fee. You pay model usage, hosting and any automation platform directly to the provider, and after five free months of maintenance, ongoing support starts from ${both("Maintenance")}. For some teams a SaaS subscription is still the simpler choice; we will set out both totals over two or three years so you can decide.`,
+    ],
+  },
+  {
+    id: "cost-breakdown",
+    heading: "What our starting prices buy, and why they are lower",
+    paragraphs: [
+      `Each of our prices is a starting point for a clearly scoped first version. This is what each one typically covers for an automation project in Japan.`,
+    ],
+    list: [
+      `<strong>From ${both("AI automation")}, AI automation:</strong> one well-defined workflow, for example FAX orders read by AI-OCR, validated against your product master and written to kintone with a Chatwork alert, or a Japanese FAQ assistant on LINE that answers from your documents and hands over to staff. Includes process mapping, prompts, integration, a test set built from your real examples, logging and handover notes.`,
+      `<strong>From ${both("Custom web app")}, custom AI web app:</strong> for automations that need their own screens, such as a review queue where staff approve AI-extracted orders, an internal document search with login and permissions, or a quotation tool with an approval flow.`,
+      `<strong>From ${both("Android")}, mobile app with AI features:</strong> one app for iPhone and Android, for example field staff photographing delivery notes for AI-OCR, or a customer app with a support assistant. More on the <a href="/japan/android-ios-developer/">Android and iOS developer page for Japan</a>.`,
+      `<strong>From ${both("Maintenance")}, maintenance:</strong> monitoring, prompt and model updates when providers retire models, fixes when a connected tool changes its API, and small improvements, after five free months following launch.`,
+    ],
+    after: [
+      `<strong>What raises a quote:</strong> several workflows at once, connections to older on-premise systems without an API, handwritten documents, strict data residency requirements, many user roles, and high accuracy targets that need a larger test set. <strong>What keeps it down:</strong> one process owner who can answer questions quickly, anonymised sample documents at the start, systems with modern APIs, and agreeing to launch with a human check before removing it.`,
+      `<strong>Why our prices are lower than Japanese vendors.</strong> Japanese AI development prices carry Japanese costs: offices in Tokyo or Osaka, sales and project management layers, and on larger projects a chain of subcontractors that each add a margin. Our cost base is three remote engineers in India: no rent for an office, no sales staff, no chain of subcontractors, and the people you talk to are the people who build. The trade-offs are real, English communication and no in-person meetings, and the <a href="/pricing/">pricing page</a> sets out what each plan includes.`,
+    ],
+  },
+  {
+    id: "japanese-language",
+    heading: "Japanese-language quality: keigo, tone and Japanese business documents",
+    paragraphs: [
+      `Current large language models read and write Japanese well, far better than the machine translation many companies remember. That does not make their Japanese ready for customers without care. Business Japanese has registers that must match the relationship: ${ja("尊敬語")} (respectful language about the customer), ${ja("謙譲語")} (humble language about your own company) and ${ja("丁寧語")} (polite forms). A model that mixes them, or sounds too casual in a reply to a complaint, reads as wrong to a Japanese customer at once.`,
+      `We handle this with engineering, not by pretending to be native speakers. Your team writes or approves a short style guide and a set of model answers: how you address customers, whether you use ${ja("様")} for individuals and ${ja("御中")} for companies, your standard opening and closing phrases, and words you never use. Prompts, examples and output checks are built from that guide, and a tone review by a native speaker on your side is part of acceptance testing. Where a reply commits the company, a person approves it.`,
+      `Japanese documents bring their own technical problems. Scanned forms may use vertical writing (${ja("縦書き")}), hanko seals overlap printed text, dates appear in the Japanese era calendar (${ja("和暦")}) alongside or instead of Western years, and numbers switch between full-width (${ja("全角")}) and half-width (${ja("半角")}) characters. Company names appear with and without legal forms such as kabushiki kaisha, sometimes abbreviated. Our extraction step normalises all of this before validation, so ${ja("令和8年")} and 2026 are treated as the same year and full-width digits become ordinary numbers.`,
+      `Japanese text also behaves differently for search and cost. There are no spaces between words, so keyword search needs morphological analysis, with tools such as MeCab or Sudachi splitting text into words, and model pricing is based on tokens, whose count for Japanese text differs from English. We measure token usage on your real documents during the first week, so the running-cost estimate is based on your data rather than an English rule of thumb.`,
+      `Multilingual assistants for inbound visitors need the same care in other languages. Japan received a record 42.68 million international visitors in 2025, according to the Japan National Tourism Organization, with South Korea, mainland China and Taiwan the largest markets. A hotel or attraction assistant therefore often needs Korean, Simplified Chinese and Traditional Chinese as well as English. We build language detection and per-language answer sources, and recommend native review of the fixed answers in each language.`,
+    ],
+  },
+  {
+    id: "rag",
+    heading: "RAG over internal documents, done properly in Japanese",
+    paragraphs: [
+      `Most internal document assistants disappoint for the same reasons: they find the wrong passage, they answer confidently when the answer is not in the documents, and they show staff documents they should not see. Retrieval-augmented generation works when the retrieval half is engineered as carefully as the language model half. These are the parts we pay most attention to.`,
+    ],
+    list: [
+      `<strong>Chunking Japanese text.</strong> Splitting by a fixed number of characters cuts sentences and tables in half. We split along the structure of each document, such as chapter and article headings in rules of employment (${ja("就業規則")}), numbered clauses in contracts, rows in specification tables and sentence ends marked by ${ja("。")}, and keep the heading path with each chunk so the model knows where a passage came from.`,
+      `<strong>Hybrid search.</strong> Vector search finds passages with similar meaning; keyword search with Japanese morphological analysis finds exact product codes, part numbers and legal terms. Combining both, then re-ranking, is far more reliable than either alone.`,
+      `<strong>Permission-aware results.</strong> A sales assistant should not quote from HR files. Each document carries the access rights it already has in Google Drive, SharePoint, Box or your file server, and results are filtered by the user's permissions before anything reaches the model.`,
+      `<strong>Citations every time.</strong> Every answer links to its source passages so staff can check it in seconds. If the documents do not contain the answer, the assistant says so rather than guessing.`,
+      `<strong>Freshness.</strong> Documents are re-indexed on a schedule or when they change, and superseded versions are removed, so the assistant never cites last year's price list.`,
+      `<strong>Evaluation.</strong> Before launch we build a test set of real questions with known answers from your staff and measure how often the right passage is found and the answer is correct. We rerun it after every change to prompts, models or chunking.`,
+    ],
+    after: [
+      `Scanned PDFs need OCR before indexing, and old Japanese manuals often need clean-up of vertical text and ruby reading aids. Excel files, which hold a great deal of Japanese company knowledge, are converted table by table rather than flattened into text. For large collections we index in stages, starting with the documents staff ask about most, so the assistant is useful in weeks rather than after a long migration.`,
+    ],
+  },
+  {
+    id: "ai-ocr",
+    heading: "AI-OCR for FAX orders, invoices and paper documents",
+    paragraphs: [
+      `FAX remains part of B2B ordering in many Japanese industries, especially wholesale, food distribution, building materials and manufacturing supply chains. Orders arrive in dozens of layouts, one per customer, often with handwritten corrections. Traditional OCR needed a template for each layout. Modern AI-OCR combines text recognition with a language model that understands what a ${ja("注文書")} (purchase order) or ${ja("納品書")} (delivery note) contains, so a new layout usually works without a new template.`,
+      `The pipeline we build has four stages. FAXes arrive as images through an internet FAX service or a multifunction printer that sends to email or a shared folder. The AI-OCR step extracts customer, order date, delivery date, product codes, names, quantities and notes. A validation step, written as plain code rather than AI, checks every field against your customer and product masters, unit rules and credit limits. Finally, clean orders are written to your sales system, kintone or a spreadsheet, and anything uncertain goes to a review screen where a person confirms it with the original image alongside.`,
+      `Accuracy depends on the input. Clear printed FAXes are read reliably; faint, skewed or heavily handwritten ones are not, and we will not pretend otherwise. The review screen and confidence thresholds exist so that accuracy problems become a few seconds of human checking rather than a wrong delivery. We measure the share of orders that pass without correction on your real samples before you decide to go live.`,
+      `Invoices work the same way, with a legal angle. Since the invoice system began in October 2023, buyers check that a supplier's invoice carries a registration number, and since January 2024 the Electronic Books Maintenance Act has required transaction records exchanged electronically to be kept in electronic form. An automation can read incoming ${ja("請求書")} (invoices), extract the registration number, date, amount and counterparty, file them with searchable fields and pass entries to freee or Money Forward Cloud for an accountant to approve. Your tax accountant decides how records must be kept; we build what they specify.`,
+    ],
+  },
+  {
+    id: "line-bots",
+    heading: "LINE Official Account bots with the Messaging API",
+    paragraphs: [
+      `LINE is where many Japanese customers already talk to businesses. LY Corporation reports more than 100 million monthly users in Japan, and a ${ja("LINE公式アカウント")} (LINE Official Account) connected to the Messaging API turns that channel into an automated front desk.`,
+      `Typical builds are booking and reservation flows for salons, clinics, restaurants and schools; order status and delivery questions for online stores; appointment reminders that reduce no-shows; and an AI assistant that answers common questions from your own information and passes anything else to staff in the LINE chat screen. Rich menus give customers buttons for the main tasks, LINE Login links a LINE user to your customer record, and small LIFF pages open forms or membership cards inside LINE without a separate app.`,
+      `Two practical points shape the design. First, LINE Official Account plans are priced by message volume, so automated broadcasts cost money and irritate customers if overused; we favour messages the customer asked for and carefully segmented broadcasts over mass pushes. Second, LINE Notify, which many companies used for internal alerts, ended in March 2025. Internal alerts need a new route, such as the Messaging API itself, Slack, Chatwork or Microsoft Teams, and we migrate old Notify scripts as part of automation work.`,
+      `The LINE account, channel credentials and customer data stay in your company's name. We work with the Messaging API channel you create, and if an AI model reads customer messages, your privacy notice and the APPI points described below apply. If the LINE flow should link to a new booking page or member area, our <a href="/japan/website-developer/">website developer page for Japan</a> covers that side.`,
+    ],
+  },
+  {
+    id: "integrations",
+    heading: "Connecting kintone, freee, Money Forward, Chatwork, Microsoft 365 and more",
+    paragraphs: [
+      `An AI step is only useful if its result lands where your team works. In Japan that is usually a mix of domestic and global tools: kintone for business apps, freee or Money Forward Cloud for accounting, Chatwork, Slack or Microsoft Teams for chat, Google Workspace or Microsoft 365 for mail and files, Salesforce or HubSpot for sales, and Shopify for online sales. We use official APIs and webhooks rather than screen-clicking wherever they exist.`,
+    ],
+    table: {
+      caption: "Common tools in Japanese companies and the automations we build around them",
+      hide: 2,
+      head: ["Tool", "Typical automation", "Notes"],
+      rows: [
+        ["kintone", "AI-OCR orders and enquiries written to apps; status changes trigger Chatwork or Slack alerts", "Field codes and app IDs documented at handover"],
+        ["freee", "Invoice and expense entries prepared from documents for approval", "Your accountant approves; nothing is posted unattended"],
+        ["Money Forward Cloud", "Invoice data and entry candidates from incoming documents", "What can be automated depends on the product and its API"],
+        ["Chatwork", "Alerts, daily summaries and approval requests to the right room", "A common replacement for old LINE Notify alerts"],
+        ["Slack and Microsoft Teams", "Summaries, triage results and approval buttons", "Teams suits companies already on Microsoft 365"],
+        ["Google Workspace and Microsoft 365", "Inbox triage, meeting minutes, document search over Drive or SharePoint", "Search results follow your existing sharing permissions"],
+        ["Salesforce and HubSpot", "Leads created and routed from enquiries, call notes summarised", "Custom fields mapped in the written scope"],
+        ["Shopify", "Customer service triage and order questions answered from order data", "Admin API access limited to the scopes needed"],
+        ["LINE", "Bookings, reminders, FAQ assistant and staff handover", "Messaging API channel in your company's name"],
+      ],
+    },
+    after: [
+      `<strong>Choosing the tool.</strong> n8n, Make and Zapier are all good at connecting cloud tools. Zapier and Make are hosted services, quick to start and easy for non-developers to inspect. n8n can also be self-hosted, including on a server in a Tokyo cloud region, which helps when data must stay under your control. Custom Python or Node.js services cost more to build but less to run at high volume, and give full control over validation and logging. We recommend one based on volume, data sensitivity and who will maintain it, and the account is always yours.`,
+      `<strong>Replacing or extending RPA.</strong> Many Japanese companies adopted desktop RPA tools such as WinActor or UiPath to click through legacy screens. Those robots break when screens change, and they cannot read unstructured documents. Where a system has an API, an API integration is sturdier; where it does not, we keep the robot for the final entry step and put AI in front of it to read and structure the input. That is usually what people mean when they look for an RPA alternative in Japan.`,
+    ],
+  },
+  {
+    id: "human-in-the-loop",
+    heading: "Human-in-the-loop: quotes, refunds and anything that commits your business",
+    paragraphs: [
+      `We design every automation around one question: what happens when the AI is wrong? For a meeting summary, a person reads it anyway and an error costs little. For a quotation sent to a customer, a refund, a contract clause or an answer about health or law, an error can cost money or trust, so a person approves before anything leaves the company. These are the controls we use.`,
+    ],
+    list: [
+      `<strong>Draft, then approve.</strong> The AI drafts the quotation email or the refund reply; staff review, edit and send with one click. Each approval is logged with a name and time.`,
+      `<strong>Confidence thresholds.</strong> Extracted fields below a set confidence, or that fail validation, go to a review queue instead of straight through.`,
+      `<strong>Hard limits in code.</strong> Rules such as maximum discounts, refund limits and credit limits are enforced by ordinary code, not by instructions to the model.`,
+      `<strong>Clear handover.</strong> Customer-facing assistants hand over to a person on request, on complaints and whenever they cannot find the answer in your documents.`,
+      `<strong>Audit trail.</strong> Inputs, outputs, model versions and approvals are logged so you can explain any decision later.`,
+    ],
+    after: [
+      `Removing a human check is a decision for later, made on data. After a few weeks in production you can see how often staff change the AI's output. If the answer is almost never for a given category, you might let that category pass automatically; if staff often correct it, the check stays. We report these correction rates so the decision is yours, not ours.`,
+    ],
+  },
+  {
+    id: "limits",
+    heading: "The honest limits of AI automation",
+    paragraphs: [
+      `AI is useful, not magic, and being clear about its limits saves money. These are the ones we plan around in every project, and the reason our quotes include validation, review screens and test sets rather than just prompts.`,
+    ],
+    list: [
+      `<strong>Models make things up.</strong> Without retrieval and citations, a language model can produce a fluent answer that is wrong. We ground answers in your documents and design assistants to say when they do not know.`,
+      `<strong>Accuracy is never 100 percent.</strong> AI-OCR on poor scans, handwriting and unusual layouts will make mistakes, which is why validation and review exist.`,
+      `<strong>Models change.</strong> Providers update and retire models, and outputs can shift. A test set and a maintenance plan keep behaviour stable.`,
+      `<strong>Costs scale with use.</strong> API usage grows with volume and document length. We estimate it from your data and add usage alerts.`,
+      `<strong>Bad processes stay bad.</strong> Automating an unclear process produces unclear results faster. Sometimes the right first step is to simplify the process, and we will suggest that.`,
+      `<strong>Some decisions should stay human.</strong> Hiring, credit and medical decisions carry legal and ethical weight; we build tools that support people there, not replace them.`,
+    ],
+    after: [
+      `If a project does not make sense once the process is mapped, we will say so before you spend more. A smaller, reliable automation that staff trust is worth more than an ambitious one they work around.`,
+    ],
+  },
+  {
+    id: "security",
+    heading: "Security: prompt injection, data leakage and access control",
+    paragraphs: [
+      `An AI automation reads text from outside your company, such as customer emails, FAXes, web forms and documents, and that text can contain instructions. Prompt injection, where input tries to make the model ignore its rules or reveal data, is one of the main risks listed by the OWASP project for large language model applications. We design on the assumption that any input may be hostile.`,
+    ],
+    list: [
+      `<strong>Least privilege.</strong> Each automation gets its own API keys with the narrowest scopes it needs: read-only where possible, write access only to the specific kintone app or chat channel it uses.`,
+      `<strong>No secrets in prompts.</strong> Credentials, other customers' data and internal notes never go into the model's context unless the task needs them.`,
+      `<strong>Tools behind checks.</strong> When a model can call tools, such as looking up an order, the tool itself enforces who the user is and what they may see, whatever the model asks for.`,
+      `<strong>Output handling.</strong> Model output is treated as untrusted: it is validated before being written to systems and escaped before being shown on web pages.`,
+      `<strong>Data minimisation.</strong> Personal data is masked or removed before a document reaches the model when the task does not need it.`,
+      `<strong>Logging and retention.</strong> Logs record what the system did without storing more personal data than necessary, with retention periods you set.`,
+    ],
+    after: [
+      `Our own practices are ordinary but consistent: two-factor authentication on every account, access through accounts you control rather than shared passwords, dummy data in development, and removal of our access when a project ends if you prefer. We do not hold ISO 27001 or similar certifications, and if your procurement rules require them, a certified vendor is the right choice.`,
+    ],
+  },
+  {
+    id: "data-residency",
+    heading: "Where your data and models run: Japan regions and hosting options",
+    paragraphs: [
+      `AWS, Google Cloud and Microsoft Azure all operate cloud regions in Tokyo and Osaka, so the application side of an automation, meaning the database, document index, workflow engine and logs, can run in Japan with backups in the other Japanese region.`,
+      `The model is a separate decision. The major clouds offer managed access to large language models, and some of those models can be used in Japan. Microsoft offers Azure OpenAI deployments in its Japan East region for a number of models, and Amazon Bedrock has a Japan geographic cross-Region inference option that keeps requests for supported models, including some Anthropic Claude models, inside its Tokyo and Osaka regions. Which models are offered in which region changes often, so we check current availability for your chosen provider at the start of the project and record it in the scope. If data must stay in Japan, we choose a model and deployment that meet that requirement, or a smaller open model hosted in your own cloud account, and we explain clearly what that means for quality and cost. Three hosting patterns cover most projects:`,
+    ],
+    list: [
+      `<strong>Cloud APIs with Japanese application hosting:</strong> the workflow and data in a Tokyo region, with model calls to a provider's API under business terms. Quickest to build and usually cheapest to run.`,
+      `<strong>Managed models inside your cloud account:</strong> model access through your own AWS, Azure or Google Cloud account in a Japanese region where the model is offered, so data handling falls under your existing cloud contract.`,
+      `<strong>Self-hosted open models:</strong> an open-weight model on your own GPU server or cloud instance, for strict requirements. More control and higher fixed costs, and usually weaker than leading models for complex Japanese writing.`,
+    ],
+    after: [
+      `Every account, whether cloud, model provider or automation platform, is opened in your company's name, so you control data, billing and access, and you can move to another vendor without asking us.`,
+    ],
+  },
+  {
+    id: "compliance",
+    heading: "APPI, AI guidance and other rules for AI automation in Japan",
+    paragraphs: [
+      `This is practical background, not legal advice. We are engineers; for formal answers, ask a lawyer or adviser qualified in Japan.`,
+      `<strong>Act on the Protection of Personal Information.</strong> Under the APPI (${ja("個人情報保護法")}), a business must use personal information within the purposes it has published, keep it secure and supervise contractors that handle it. If an AI step processes customer or employee data, your privacy notice should cover that use. Sending personal data to a model provider or a vendor outside Japan raises further questions that your adviser should assess before go-live.`,
+      `<strong>Access by our team in India.</strong> If our engineers in India can see personal data you hold, the APPI treats that as handing data to a third party located in a foreign country. The usual routes are the person's consent, obtained after telling them which country is involved and how its data protection system works, or a recipient that maintains protection measures equivalent to the APPI. India's Digital Personal Data Protection Act, 2023 is being phased in. We plan projects so that we rarely touch real personal data: dummy data in development, masked samples for testing, minimal production access and signed data-handling terms. Your adviser decides which basis your company relies on.`,
+      `<strong>AI Guidelines for Business.</strong> In April 2024 METI and the Ministry of Internal Affairs and Communications compiled the AI Guidelines for Business (${ja("AI事業者ガイドライン")}), version 1.0, since updated, integrating three earlier sets of government AI guidelines. They are not legally binding, but they set out principles for companies that develop, provide or use AI, such as safety, fairness, privacy, security, transparency and accountability, with checklists. The controls on this page, including review queues, citations, access limits and audit logs, map naturally onto them, and we document them in English so your team can align them with your internal AI policy.`,
+      `<strong>The AI Promotion Act.</strong> Japan's first AI law, the Act on Promotion of Research and Development, and Utilization of Artificial Intelligence-related Technology, was passed by the Diet in May 2025 and came fully into effect in September 2025. It focuses on promoting AI and on a national AI Basic Plan rather than on prohibitions, and it carries no fines, but the government can issue guidance and ask businesses to cooperate. For most companies automating their own work, the practical effect today is to keep an eye on the guidance that follows from it.`,
+      `<strong>Copyright.</strong> Article 30-4 of the Copyright Act allows works to be used for purposes such as data analysis that do not involve enjoying their expression, within limits, and the Agency for Cultural Affairs has published a general understanding of how this applies to AI. For an automation the practical questions are narrower: whether you may put a document into a system under its licence, and whether generated text reproduces someone else's work. Your own manuals and records are the simple case; paid databases, purchased reports and third-party publications should be checked against their licences and with your adviser before indexing.`,
+      `<strong>Representations and stealth marketing.</strong> A customer-facing assistant speaks for your company. Under the Act against Unjustifiable Premiums and Misleading Representations, claims about quality and price must not mislead, and since October 2023 undisclosed advertising, known as stealth marketing, is regulated too. We restrict assistants to your approved facts and do not let them invent reviews, discounts or comparisons.`,
+      `<strong>External transmission rules.</strong> The external transmission rules added to the Telecommunications Business Act in June 2023 oblige many online services to tell users which of their data flows to outside companies via embedded tags and SDKs. A chat widget or analytics script on a covered service may fall under it; a corporate site promoting only your own business usually does not. We list every third-party script so your adviser can decide.`,
+      `<strong>Electronic records and invoices.</strong> Automations that handle invoices and receipts should respect the invoice system in force since October 2023 and the Electronic Books Maintenance Act's electronic storage requirement from January 2024, including search by date, amount and counterparty. Regulated sectors such as healthcare, finance and legal services have extra rules on what an assistant may say, which your compliance team should review.`,
+      `<strong>Accessibility.</strong> Reasonable accommodation for people with disabilities became mandatory for private businesses in April 2024 under the Act for Eliminating Discrimination against Persons with Disabilities, and JIS X 8341-3, aligned with WCAG, is Japan's web accessibility standard. Chat widgets and review screens we build work with a keyboard and screen readers, and a chat assistant never replaces a phone number or email address for customers who prefer them.`,
+    ],
+  },
+  {
+    id: "running-costs",
+    heading: "Running costs: model usage, LINE plans and automation platforms",
+    paragraphs: [
+      `Every AI automation has running costs on top of our fee, and they are billed by the providers directly to you. We estimate them in the quote from your volumes and sample documents, and set usage alerts so there are no surprises. The usual items are:`,
+    ],
+    list: [
+      `<strong>Model API usage:</strong> charged per token by model providers directly or through AWS, Azure or Google Cloud. The cost depends on the model, document length and volume, so a light workflow and a high-volume document pipeline can differ widely.`,
+      `<strong>Cloud hosting:</strong> servers, databases, document storage and the search index, usually in a Tokyo region.`,
+      `<strong>Automation platforms:</strong> Zapier, Make or n8n cloud plans priced by tasks or executions, or the server cost of self-hosted n8n.`,
+      `<strong>LINE Official Account plan:</strong> a monthly plan based on message volume, paid to LY Corporation.`,
+      `<strong>OCR and FAX services:</strong> internet FAX lines and any dedicated OCR service priced per page.`,
+      `<strong>SaaS seats:</strong> any extra kintone, Slack or CRM users the automation needs.`,
+    ],
+    after: [
+      `We design to keep these low: smaller, cheaper models for simple classification, stronger models only for the hard steps, caching for repeated questions, and sending one relevant page rather than a whole document when that is enough. Budgets are planned on current prices, and the usage dashboard shows your spend by workflow so you can see what each automation costs against the hours it saves.`,
+    ],
+  },
+  {
+    id: "japan-regions",
+    heading: "AI automation across Japan: all 8 regions and 47 prefectures",
+    paragraphs: [
+      `We work remotely with businesses in all 47 prefectures. The engineering is the same everywhere, but what is worth automating differs with the local economy, so these notes describe the processes that typically dominate in each region. None of them is an office location; we have no staff in Japan.`,
+    ],
+    blocks: japanRegions.map((r) => ({ name: `${r.name}: ${r.prefectures.join(", ")}`, text: regionNotes[r.name].text })),
+    after: [
+      `Wherever you are based, automation often works best alongside other improvements. If an assistant or document search should also bring in new customers, pair it with <a href="/japan/seo-services/">SEO services for Japan</a> so the pages it draws on rank in Google and Yahoo! JAPAN. An overview of every service we offer to Japanese businesses is on the <a href="/japan/">IT services in Japan</a> page.`,
+    ],
+  },
+  {
+    id: "major-cities",
+    heading: "AI automation in Tokyo and Japan's 20 designated cities",
+    paragraphs: [
+      `Automation needs follow each city's economy. The table lists Tokyo's 23 special wards and Japan's 20 designated cities, with the processes most often worth automating in each. We serve all of them, and every other city and town, remotely from India.`,
+    ],
+    table: {
+      caption: "Typical AI automation starting points in Tokyo's 23 wards and the 20 designated cities",
+      hide: 1,
+      head: ["City", "Prefecture", "Where AI automation usually starts"],
+      rows: cityRows,
+    },
+    after: [
+      `Outside the big cities, the case for automation is often stronger, not weaker. Regional capitals like Toyama, Kochi, Oita, Morioka and Naha, and the many smaller towns where Japan's manufacturers and food producers operate, face the sharpest hiring difficulties. A modest automation that saves a few hours a day can matter more to a twenty-person company in a regional city than to a large Tokyo office.`,
+    ],
+  },
+  {
+    id: "time-zone",
+    heading: "Working hours in Japan time",
+    paragraphs: [
+      `India Standard Time is three and a half hours behind Japan Standard Time all year, since neither country changes its clocks. We are available from 9 am to 9 pm IST, which is 12:30 pm to 12:30 am JST, seven days a week on WhatsApp, and a morning call around 10 am JST can be booked in advance.`,
+      `For automation work the overlap is useful in a specific way. You can test a workflow with the morning's real FAXes or emails, send us the cases it got wrong before lunch, and see fixes in the staging environment the same evening. For go-live, we schedule the switch-over and first-day monitoring in your afternoon, when we are online and your staff are still at their desks.`,
+    ],
+  },
+  {
+    id: "buying-guide",
+    heading: "Hiring an offshore AI automation engineer from Japan: checklist and red flags",
+    paragraphs: [
+      `Many AI projects in Japan stall after the proof of concept: the demo impressed, but nothing reached daily use. The causes are predictable, and a short checklist helps whichever vendor you choose, including us.`,
+    ],
+    list: [
+      `<strong>Ask who builds it.</strong> Get the names of the engineers, and ask whether any part will be subcontracted.`,
+      `<strong>Start from a process, not a demo.</strong> A good vendor asks about volumes, time per item and exceptions before showing you a chatbot.`,
+      `<strong>Demand a test set.</strong> Accuracy should be measured on your real examples, with numbers you can check, before go-live.`,
+      `<strong>Check who owns what.</strong> Model accounts, API keys, the automation platform, cloud, code, prompts and workflows should all be yours.`,
+      `<strong>Ask about data flows.</strong> Which provider receives your data, in which region, under what terms, and who at the vendor can see it.`,
+      `<strong>Ask what happens when models change.</strong> Providers retire models; the vendor should explain how prompts and tests are maintained.`,
+      `<strong>Agree the language bridge.</strong> If your team works in Japanese, name the bilingual person who reviews the scope and the tone of answers.`,
+      `<strong>Stage payments.</strong> An advance, approval of the workflow design or prototype, and the balance before go-live is a fair structure.`,
+    ],
+    after: [
+      `<strong>Red flags:</strong> promises of 100 percent accuracy or full automation from day one; a vendor who wants the model or cloud account in its own name; no plan for human review; a "proprietary AI" that turns out to be an unexplained wrapper around someone else's model; reluctance to show the prompts and workflows you are paying for; and client logos that cannot be verified.`,
+      `<strong>When to choose a Japanese vendor instead:</strong> if you need Japanese-language workshops, on-site interviews with staff, a vendor who writes and owns the Japanese answer content, certified security management, or a subsidy-eligible registered provider. Otherwise, <a href="/contact/">contact us</a> with one process and a few anonymised samples, and we will tell you honestly whether it is worth automating.`,
+    ],
+  },
+];
+
+// ---------- Industries ----------
+
+const industriesHeading = "AI automation by industry in Japan";
+const industries = [
+  { name: "Manufacturers and parts makers", need: "Fast, accurate order entry and quotations; drawings and specifications that are easy to find", build: "AI-OCR for purchase orders, quotation drafts, document search over drawings and manuals" },
+  { name: "Wholesale and trading", need: "Orders from many customers in many formats, quick stock and delivery answers", build: "FAX, PDF and email order intake into the sales system, stock and delivery replies for review" },
+  { name: "Logistics and warehousing", need: "Delivery documents processed quickly and fewer status calls", build: "Document extraction, tracking answers on LINE or the web, exception alerts to Chatwork or Teams" },
+  { name: "Hotels, ryokan and tourism", need: "Accurate answers in guests' languages at any hour", build: "Multilingual assistants grounded in house rules, booking-engine hand-off, LINE reminders" },
+  { name: "Retail and ecommerce", need: "Quick replies on orders, returns and stock", build: "Shopify inbox triage, order-status answers, product description drafts for staff review" },
+  { name: "Clinics, dental and beauty", need: "Easy bookings, reminders and fewer phone calls, with careful wording", build: "LINE booking and reminder flows, FAQ assistants limited to approved answers" },
+  { name: "Accounting, legal and labour consultancies", need: "Document intake, client questions and strict confidentiality", build: "Document classification, invoice filing, internal search with strict permissions" },
+  { name: "Real estate", need: "Fast responses to enquiries and consistent property information", build: "Enquiry routing and first-reply drafts, property FAQ assistants, document checklists" },
+  { name: "Schools and education", need: "Answers for students and parents, application handling", build: "Multilingual FAQ assistants, application form processing, LINE notices" },
+  { name: "SaaS companies and startups", need: "LLM features shipped quickly and safely inside the product", build: "RAG, summarisation and assistant features with evaluation and usage monitoring" },
+];
+
+// ---------- Comparison ----------
+
+const comparisonHeading = "Japanese AI vendor, freelancer or BtechWaleTech";
+const comparisonNote = "Each option fits different needs. This is how they usually compare for automation projects, so you can choose on facts rather than sales pitches.";
+const compHead: [string, string, string] = ["Japanese AI vendor or system integrator", "Freelancer via Lancers or CrowdWorks", "BtechWaleTech"];
+const comparison: [string, string, string, string][] = [
+  ["Typical starting cost", "Business automation ¥200,000 to ¥1,000,000; custom AI from ¥1,000,000", "Often lower, but scope and experience vary widely", `From ${both("AI automation")} for one mapped workflow`],
+  ["Who does the work", "Sales, project manager and engineers, sometimes subcontracted", "One individual", "Our three engineers, directly"],
+  ["Working language", "Japanese", "Mostly Japanese", "English; your team approves the Japanese tone"],
+  ["Process mapping before building", "Often, as a paid consulting phase", "Rarely", "Part of every scope"],
+  ["Human review and test set", "Varies by vendor", "Often skipped", "Review queue and accuracy test on your own samples"],
+  ["Hosting in Japan", "Usually available", "Depends on the person", "Tokyo or Osaka cloud regions in your own account"],
+  ["Availability in JST", "Business hours on weekdays", "Varies by freelancer", "Daily 12:30 pm to 12:30 am JST on WhatsApp"],
+  ["IT subsidy", "Possible when registered as a provider", "Rarely", "Not eligible: not a registered provider"],
+  ["Ownership", "Varies; platforms sometimes held by the vendor", "Sometimes unclear", "Accounts, code, prompts and workflows in your name"],
+];
+
+// ---------- Process ----------
+
+const processHeading = "From one process to a working automation";
+const process: [string, string][] = [
+  ["Map the process", "A call or WhatsApp chat in English about one process: volumes, time per item, exceptions and systems. No charge."],
+  ["Scope and quote", "A written scope with the workflow, integrations, human checks and running-cost estimate, and a quote in USD or JPY."],
+  ["Samples and test set", "You share anonymised examples, and we build a test set with known answers before writing prompts."],
+  ["Build on staging", "The workflow runs in a staging environment on your test data. You try it and send us the misses."],
+  ["Parallel run", "The automation runs alongside your staff, with every output reviewed, until the agreed accuracy is reached."],
+  ["Go live and support", "Switch-over in your afternoon, monitoring, handover of accounts and notes, then 5 months of free maintenance."],
+];
+const timelineFine = "AI automation timelines assume sample documents, system access and a process owner are available in the first week. A parallel run with staff checking every output usually adds one to two weeks before full go-live.";
+
+// ---------- FAQ, related and closing ----------
+
+const faqHeading = "AI automation in Japan: common questions";
+const relatedHeading = "More IT services for businesses in Japan and other countries";
+const related = [
+  { name: "Japan: all IT services", href: "/japan/" },
+  { name: "Website developers for Japan", href: "/japan/website-developer/" },
+  { name: "Android and iOS apps for Japan", href: "/japan/android-ios-developer/" },
+  { name: "SEO for Japan", href: "/japan/seo-services/" },
+  { name: "Software development for Japan", href: "/japan/software-development/" },
+  { name: "All countries", href: "/countries/" },
+  { name: "Singapore", href: "/singapore/" },
+  { name: "USA", href: "/usa/" },
+  { name: "UK", href: "/uk/" },
+  { name: "Australia", href: "/australia/" },
+  { name: "India", href: "/india/" },
+];
+const closingHeading = "Send us one process worth automating";
+const closingNote = "Describe one repetitive task in English on WhatsApp or email: what arrives, what your staff do with it, how many items per day and which systems it touches. Add two or three anonymised samples if you can. You get questions first, then a written scope, a running-cost estimate and a quote in USD or JPY. Nothing is billed until you approve the scope.";
+const guideLabel = "Guide to AI automation for businesses in Japan";
+---
+
+<JapanServicePage
+  page={page}
+  schema={schema}
+  heroEyebrow={heroEyebrow}
+  facts={facts}
+  pills={pills}
+  heroOrigin={heroOrigin}
+  quoteKicker={quoteKicker}
+  quotePlans={quotePlans}
+  quoteFoot={quoteFoot}
+  stats={stats}
+  answerHeading={answerHeading}
+  quickAnswer={quickAnswer}
+  answerMore={answerMore}
+  snapshotCaption={snapshotCaption}
+  snapshot={snapshot}
+  servicesHeading={servicesHeading}
+  services={services}
+  pricingHeading={pricingHeading}
+  pricingIntro={pricingIntro}
+  pricingFine={pricingFine}
+  guideLabel={guideLabel}
+  guide={guide}
+  regionsHeading={regionsHeading}
+  regionsNote={regionsNote}
+  regionHead={regionHead}
+  regionHide={regionHide}
+  regionTable={regionTable}
+  industriesHeading={industriesHeading}
+  industries={industries}
+  comparisonHeading={comparisonHeading}
+  comparisonNote={comparisonNote}
+  compHead={compHead}
+  comparison={comparison}
+  processHeading={processHeading}
+  process={process}
+  timelineFine={timelineFine}
+  faqHeading={faqHeading}
+  faqs={faqs}
+  relatedHeading={relatedHeading}
+  related={related}
+  closingHeading={closingHeading}
+  closingNote={closingNote}
+/>

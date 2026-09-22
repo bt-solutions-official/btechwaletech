@@ -51,7 +51,7 @@ const tirunelveli: CityContent = {
     software: "Order trackers, dealer portals and job-status dashboards for Gangaikondan suppliers and the city's distributors.",
     ai: "WhatsApp assistants that answer routine questions about prices, admissions or clinic timings in Tamil or English and hand anything complicated to your staff.",
     data: "Sales, stock and admission dashboards built from the ledgers and Excel sheets you already keep.",
-    app: "Installable web apps for school notices, clinic appointments and delivery orders that open from a link without an app store.",
+    app: "Android and iOS apps for school notices, clinic appointments and delivery orders, one codebase published on both app stores from ₹40,000.",
     maintenance: "Free updates, backups and fixes for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

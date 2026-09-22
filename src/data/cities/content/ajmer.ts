@@ -50,7 +50,7 @@ const ajmer: CityContent = {
     software: "Order books, dispatch trackers and dealer portals for marble traders, distributors and institutes that have outgrown registers and Excel.",
     ai: "WhatsApp auto-replies and AI assistants that answer questions about rooms, stone rates, batches or timings, and pass unusual cases to your team.",
     data: "Bookings, sales and stock pulled together into a clear dashboard for owners who manage several counters or yards.",
-    app: "Installable web apps for guests, students and field staff that work well on basic Android phones.",
+    app: "Android and iOS apps for guests, students and field staff that work well on basic phones, from ₹40,000 with Play Store and App Store publishing included.",
     maintenance: "Free updates, backups, security fixes and speed checks for five months after launch, then from ₹8,000 a month if you wish.",
   },
   whyUsIntro:

@@ -50,7 +50,7 @@ const erode: CityContent = {
     software: "Order books, dispatch tracking and credit ledgers for textile agents, turmeric traders and SIPCOT units that still work from notebooks.",
     ai: "WhatsApp assistants that share catalogues, answer rate and stock questions in Tamil or English, and pass bulk orders to the owner.",
     data: "Dashboards for traders who track arrivals, rates, pending payments and buyer-wise sales across seasons and markets.",
-    app: "Installable web apps for retailer ordering, agent visits and school or clinic logins that run on ordinary Android phones.",
+    app: "Android and iOS apps for retailer ordering, agent visits and school or clinic logins that run on ordinary phones, from ₹40,000 in six to ten weeks.",
     maintenance: "Free updates and backups for five months after launch, then from ₹8,000 a month, with Deepavali and Pongal textile rushes planned for.",
   },
   whyUsIntro:

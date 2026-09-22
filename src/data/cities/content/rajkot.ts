@@ -52,7 +52,7 @@ const rajkot: CityContent = {
     software: "Dealer portals, spare-parts lookup, service ticketing and production dashboards for engineering units in Aji, Shapar and Lodhika.",
     ai: "WhatsApp bots that answer rate, stock and dispatch questions in Gujarati or English and pass real negotiations to your sales person.",
     data: "Order, dispatch and dealer-wise sales reports pulled out of Tally exports and spreadsheets into one dashboard on your phone.",
-    app: "Installable web apps for field service engineers, dealers and salesmen, working without an app store listing and on patchy mobile data.",
+    app: "Android and iPhone apps for field service engineers, dealers and salesmen that handle patchy mobile data, released on Google Play and the App Store.",
     maintenance: "Price list changes, new product pages, backups and security updates, free for five months after launch, then from ₹8,000 a month.",
   },
   whyUsIntro:

@@ -51,7 +51,7 @@ const amreli: CityContent = {
     software: "Purchase, lot and payment ledgers for market yard traders, and production and dispatch registers for oil mills and ginners.",
     ai: "WhatsApp replies in Gujarati or English for rates, stock, OPD timings and admissions, with bulk orders passed to a person.",
     data: "Dashboards for daily arrivals, oil and cake output, sales or admissions, built from the books and sheets you already use.",
-    app: "Installable web apps for field buyers, delivery staff and workshop supervisors that run on ordinary Android phones.",
+    app: "Android and iPhone apps for field buyers, delivery staff and workshop supervisors, running on ordinary phones and listed on both Google Play and the App Store.",
     maintenance: "Free updates, backups and fixes for five months after launch, then maintenance from ₹8,000 a month or per job.",
   },
   whyUsIntro:

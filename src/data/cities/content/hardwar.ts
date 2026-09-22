@@ -51,7 +51,7 @@ const hardwar: CityContent = {
     software: "Room allocation systems, donation registers, vendor portals and production trackers for dharamshalas, trusts, pharma units and SIDCUL suppliers.",
     ai: "WhatsApp assistants that handle repeated questions about room rates, aarti timings, product stock and dispatch status in Hindi or English, and pass complex ones to staff.",
     data: "Dashboards for bookings by season, product sales by distributor or plant dispatches, readable on a phone during the busiest weeks.",
-    app: "Progressive web apps for room booking, distributor ordering and field staff reporting, installed from a link without an app store.",
+    app: "Android and iOS apps for room booking, distributor ordering and field staff reporting, published on Google Play and the App Store from ₹40,000.",
     maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and from ₹8,000 a month afterwards.",
   },
   whyUsIntro:

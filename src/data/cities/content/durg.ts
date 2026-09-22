@@ -51,7 +51,7 @@ const durg: CityContent = {
     software: "Order books, dispatch registers, job-card systems and admission portals for fabricators, rice millers, transporters and colleges moving off spreadsheets.",
     ai: "WhatsApp auto-replies and AI assistants that deal with repeat questions on rates, stock, admissions and appointments, and forward the rest to your team.",
     data: "Dashboards for dispatch, production, dealer sales or student enquiries that an owner can check on a phone from the shop floor.",
-    app: "Progressive web apps for site attendance, order taking and student portals, opened from a link and installed without a Play Store listing.",
+    app: "Android and iOS apps for site attendance, order taking and student portals, one Flutter or React Native build released on both app stores.",
     maintenance: "Updates, backups, security patches and speed checks, free for five months after launch and starting at ₹8,000 a month after that.",
   },
   whyUsIntro:
