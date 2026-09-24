@@ -9,7 +9,7 @@ const hapur: CityContent = {
     description:
       "Websites, SEO, B2B catalogues and WhatsApp order automation for Hapur steel tube makers, papad units, grain traders and Pilkhuwa textile firms. From ₹10,000.",
     keywords: [
-      "website development company in Hapur",
+      "website development team in Hapur",
       "web designer Hapur",
       "website design Hapur Uttar Pradesh",
       "freelance web developer Hapur",

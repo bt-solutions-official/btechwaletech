@@ -10,12 +10,12 @@ const bhadrachalam: CityContent = {
       "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp booking for Bhadrachalam lodges, tour operators, Sarapaka suppliers, hospitals and schools.",
     keywords: [
       "IT services in Bhadrachalam",
-      "IT company in Bhadrachalam",
-      "website development company in Bhadrachalam",
+      "IT services team in Bhadrachalam",
+      "website development team in Bhadrachalam",
       "web design in Bhadrachalam",
-      "app development company in Bhadrachalam",
+      "app development team in Bhadrachalam",
       "Android app development in Bhadrachalam",
-      "software company in Bhadrachalam",
+      "software team in Bhadrachalam",
       "SEO services in Bhadrachalam",
       "digital marketing in Bhadrachalam",
       "ecommerce website in Bhadrachalam",
@@ -92,19 +92,19 @@ const bhadrachalam: CityContent = {
     },
     {
       id: "sarapaka-suppliers",
-      heading: "Website development company in Bhadrachalam for Sarapaka plant suppliers and contractors",
+      heading: "Website development team in Bhadrachalam for Sarapaka plant suppliers and contractors",
       paragraphs: [
         "The paperboard plant at Sarapaka, run by ITC since it took over the unit in 1999, depends on a large network of local businesses: civil and mechanical contractors, electrical and instrumentation firms, fabricators, transporters, canteen operators, housekeeping and security agencies, and labour suppliers. Plenty of them are family firms based in Bhadrachalam, Sarapaka and Burgampadu.",
-        "When such a firm bids for work at a large plant, or in the coal and power belt around Kothagudem and Palvancha, the purchase team often looks it up first. A <strong>website development company in Bhadrachalam</strong> should give these firms a plain, believable site: services, equipment owned, the workforce figure you are comfortable stating, safety practices and certificates, GST and registration details, and named contacts. No stock photographs of foreign factories.",
+        "When such a firm bids for work at a large plant, or in the coal and power belt around Kothagudem and Palvancha, the purchase team often looks it up first. A <strong>website development team in Bhadrachalam</strong> should give these firms a plain, believable site: services, equipment owned, the workforce figure you are comfortable stating, safety practices and certificates, GST and registration details, and named contacts. No stock photographs of foreign factories.",
         "We never name a plant or a company as your customer without written permission from them. For firms handling repeat jobs, we add a quote form that accepts drawings and a small job-status page, so site engineers stop phoning for updates. Capability sites start at ₹10,000; a job and invoice register with gate-pass records is custom software from ₹60,000.",
       ],
     },
     {
       id: "hospitals-schools-bhadrachalam",
-      heading: "Software company in Bhadrachalam for hospitals, schools and coaching centres",
+      heading: "Software team in Bhadrachalam for hospitals, schools and coaching centres",
       paragraphs: [
         "People from Dummugudem, Cherla, Aswapuram and villages across the river come into Bhadrachalam for treatment and schooling. For them a wasted trip is expensive: a day's wages, a bus fare and sometimes a long wait for the ride home.",
-        "As a <strong>software company in Bhadrachalam</strong> for hospitals and clinics, we build what cuts those wasted trips: doctor schedules online, WhatsApp appointment requests, token numbers sent to phones, and lab reports delivered as PDFs so patients from distant villages need not return only to collect paper. Diagnostic centres can have a report portal with a simple login.",
+        "As a <strong>software team in Bhadrachalam</strong> for hospitals and clinics, we build what cuts those wasted trips: doctor schedules online, WhatsApp appointment requests, token numbers sent to phones, and lab reports delivered as PDFs so patients from distant villages need not return only to collect paper. Diagnostic centres can have a report portal with a simple login.",
         "Schools, junior colleges and coaching centres get admission forms, fee reminders, homework and exam notices, and results pages that parents can open on basic phones. Telugu comes first where parents prefer it, with English alongside. For families who speak a tribal language at home, we keep the wording short and lean on icons and voice notes rather than long paragraphs. Clinic and school sites start at ₹10,000; appointment, token and report systems are custom work from ₹60,000, delivered in phases.",
       ],
     },
@@ -132,7 +132,7 @@ const bhadrachalam: CityContent = {
       paragraphs: [
         "Start with an honest filter. If people contact you once a year, as most pilgrims contact a lodge, they will not install an app; a quick website and a WhatsApp link serve them better. Apps pay off when the same users open them week after week.",
         "In Bhadrachalam that points to a few clear cases: a hospital or diagnostic centre giving tokens and reports to regular patients; a school or coaching centre sending notices, attendance and marks; a contractor recording worker attendance and site photographs at Sarapaka or in the coal belt; a distributor taking orders from shops across the surrounding mandals.",
-        "As an <strong>app development company in Bhadrachalam</strong> working remotely, we use Flutter or React Native, which gives one codebase for Android and iPhone. Version one usually includes mobile number login, push notifications, the core screens and an admin panel. We publish on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Bhadrachalam</strong> working remotely, we use Flutter or React Native, which gives one codebase for Android and iPhone. Version one usually includes mobile number login, push notifications, the core screens and an admin panel. We publish on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Bhadrachalam</strong> with us starts at ₹40,000. Offline mode for low-signal forest areas, payments and Telugu interface text are costed as separate lines. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -225,7 +225,7 @@ const bhadrachalam: CityContent = {
         "Yes. We add a calendar with normal and festival tariffs, a booking request or advance payment by UPI or card, and automatic WhatsApp confirmations. The site is clearly labelled as your lodge, never styled like the temple's own booking system. A basic lodge site starts at ₹10,000, and booking features are quoted separately.",
     },
     {
-      question: "Who is the best website development company in Bhadrachalam?",
+      question: "Who is the best website development team in Bhadrachalam?",
       answer:
         "Judge any provider on four things: published prices, domain and code registered in your name, support after launch, and real work you can check. Put the same questions to each one. We meet those tests and answer WhatsApp all week, yet comparing two or three options before deciding is still the sensible move.",
     },

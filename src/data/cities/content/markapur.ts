@@ -10,12 +10,12 @@ const markapur: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Markapur slate units, Srisailam-route lodges, traders, clinics and colleges.",
     keywords: [
       "IT services in Markapur",
-      "IT company in Markapur",
-      "website development company in Markapur",
+      "IT services team in Markapur",
+      "website development team in Markapur",
       "web design in Markapur",
-      "app development company in Markapur",
+      "app development team in Markapur",
       "Android app development in Markapur",
-      "software company in Markapur",
+      "software team in Markapur",
       "SEO services in Markapur",
       "digital marketing in Markapur",
       "ecommerce website in Markapur",
@@ -75,10 +75,10 @@ const markapur: CityContent = {
     },
     {
       id: "slate-cluster-websites",
-      heading: "Website development company in Markapur for slate manufacturers and exporters",
+      heading: "Website development team in Markapur for slate manufacturers and exporters",
       paragraphs: [
         "The Markapuram slate belt runs for roughly 38 km, mostly in a distinctive purple stone, and supports a cluster of around 140 micro units. Many are family businesses that sell through agents or repeat buyers, and a new buyer searching online often cannot tell one unit from another.",
-        "As a <strong>website development company in Markapur</strong>, we build sites that fix that. Each product gets its own page: sizes, thickness, finishes, colours, packing, minimum order and typical lead time, with clear photographs of your own stock and loading yard. A simple enquiry form asks for quantity, destination and application, so the leads you receive are worth answering.",
+        "As a <strong>website development team in Markapur</strong>, we build sites that fix that. Each product gets its own page: sizes, thickness, finishes, colours, packing, minimum order and typical lead time, with clear photographs of your own stock and loading yard. A simple enquiry form asks for quantity, destination and application, so the leads you receive are worth answering.",
         "A catalogue site starts at ₹10,000 and takes one to two weeks. For exporters, we keep an English version as the main site with Telugu contact details, and we write product names the way international buyers search for them. See our <a href=\"/services/web-development/\">web development</a> page for how projects run.",
       ],
     },
@@ -93,10 +93,10 @@ const markapur: CityContent = {
     },
     {
       id: "slate-unit-software",
-      heading: "Software company in Markapur for slate units: orders, cutting and dispatch",
+      heading: "Software team in Markapur for slate units: orders, cutting and dispatch",
       paragraphs: [
         "Inside a slate unit, the work moves from quarry blocks to splitting, cutting, sizing, finishing, packing and loading. Orders arrive with different sizes and finishes, stock sits in the yard in many grades, and lorries or containers leave on tight dates. Much of this is tracked on paper or in the owner's memory.",
-        "Working as a <strong>software company in Markapur</strong>, we build web tools that follow that flow. Each order is entered once with buyer, sizes, quantity and dispatch date. Daily production is recorded by size and grade, stock updates automatically, and a dispatch screen shows what is loaded, what is pending and what has been paid. Owners can see the whole picture from a phone.",
+        "Working as a <strong>software team in Markapur</strong>, we build web tools that follow that flow. Each order is entered once with buyer, sizes, quantity and dispatch date. Daily production is recorded by size and grade, stock updates automatically, and a dispatch screen shows what is loaded, what is pending and what has been paid. Owners can see the whole picture from a phone.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with order and dispatch tracking, since late or wrong shipments cost the most, and add production and stock once your staff are comfortable.",
       ],
     },
@@ -157,19 +157,19 @@ const markapur: CityContent = {
     },
     {
       id: "nearby-markapur",
-      heading: "App development company in Markapur for Cumbum, Giddalur, Dornala and Yerragondapalem",
+      heading: "App development team in Markapur for Cumbum, Giddalur, Dornala and Yerragondapalem",
       paragraphs: [
         "The new district covers a wide stretch of western Prakasam country. Cumbum, with its old tank, lies to the south-west; Dornala and Yerragondapalem sit towards the Nallamala and Srisailam; Podili and Tarlupadu are to the east; and Giddalur and Kanigiri are other important towns in the region.",
-        "Because we work remotely, being an <strong>app development company in Markapur</strong> means the same service in every one of these places. A clinic in Cumbum, a dealer in Podili or a lodge in Dornala gets the same process, starting prices and response time as a slate unit in Markapuram itself.",
+        "Because we work remotely, being an <strong>app development team in Markapur</strong> means the same service in every one of these places. A clinic in Cumbum, a dealer in Podili or a lodge in Dornala gets the same process, starting prices and response time as a slate unit in Markapuram itself.",
         "If you serve several towns, we write a page for each based on what you actually offer there, so a search from Giddalur or Yerragondapalem finds something relevant.",
         "Slate buyers, on the other hand, come from everywhere: builders in Hyderabad and Bengaluru, landscapers in Chennai, importers overseas. For them we focus less on nearby towns and more on product and application pages, such as roofing, flooring, wall cladding or garden paving, so the search that brings them in matches what they actually want to buy.",
       ],
     },
     {
       id: "remote-team-markapur",
-      heading: "Working with a remote IT company in Markapur that has no office in town",
+      heading: "Working with a remote IT services team in Markapur that has no office in town",
       paragraphs: [
-        "Some owners hesitate to hire an <strong>IT company in Markapur</strong> that they cannot walk into. That is reasonable, so we make the process visible. There is no salesman in between: Ankur, Santosh or Vedansh answers you directly. You get a written scope before work starts, a private preview link where the site grows day by day, and a sign-off at every milestone.",
+        "Some owners hesitate to hire an <strong>IT services team in Markapur</strong> that they cannot walk into. That is reasonable, so we make the process visible. There is no salesman in between: Ankur, Santosh or Vedansh answers you directly. You get a written scope before work starts, a private preview link where the site grows day by day, and a sign-off at every milestone.",
         "Messages are answered seven days a week on WhatsApp, on Indian time. A ten-minute video call with a shared screen replaces the trip to Ongole or Vijayawada that a meeting would otherwise need, and that matters to a unit owner who cannot leave the yard during loading or a lodge owner in the middle of Ratha Saptami.",
         "If you want to talk, a short WhatsApp note or a message through the <a href=\"/contact/\">contact</a> page is enough to start. Talking to us and getting a quote costs nothing.",
       ],
@@ -225,7 +225,7 @@ const markapur: CityContent = {
         "Once your product list, photographs and contact details reach us, a small site is usually live in one to two weeks. A 700+ page SEO site needs three to five weeks, a store four to eight and unit software six to twelve. Most delays come from waiting for stock photographs, so we send a shot list on day one.",
     },
     {
-      question: "Which is the best website development company in Markapur?",
+      question: "Which is the best website development team in Markapur?",
       answer:
         "There is no official ranking, so test providers yourself. Ask whether prices are published, whose name the domain goes in, what happens after launch and which live sites you can check. We answer all four openly and reply on WhatsApp every day, yet getting two or three quotes before deciding is always wise.",
     },

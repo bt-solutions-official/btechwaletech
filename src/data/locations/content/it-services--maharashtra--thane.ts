@@ -9,26 +9,26 @@ const content: CityContent = {
     description:
       "Freelance software developers for Thane: web apps, society and CRM software, AI agents, dashboards and SEO. Custom software from ₹60,000, UPI or bank payment.",
     keywords: [
-      "software development company in Thane",
-      "IT company in Thane",
+      "software development team in Thane",
+      "IT services team in Thane",
       "IT solutions Thane",
       "custom software development Thane",
       "web app developers Thane West",
-      "software company Wagle Estate",
+      "software team Wagle Estate",
       "housing society management software Thane",
       "real estate CRM developer Thane",
-      "mobile app development company Thane",
+      "mobile app development team Thane",
       "AI agent development Thane",
       "WhatsApp Business API integration Thane",
       "business dashboard development Thane",
       "cloud deployment and DevOps Thane",
-      "IT company near me Ghodbunder Road",
+      "IT services team near me Ghodbunder Road",
       "SEO services Thane",
       "ecommerce website developer Thane",
       "IT support and maintenance Thane",
       "software developer Majiwada Kolshet",
       "ठाणे सॉफ्टवेअर डेव्हलपमेंट कंपनी",
-      "Thane mein software company",
+      "Thane mein software team",
       "Android app development Thane",
       "mobile app developers Thane",
       "iPhone app developers Thane",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Software and IT solutions · Thane, Maharashtra",
     h1: "Freelance software developers in Thane for societies, developers, SMEs and multi-branch businesses",
     lede:
-      "Searching for a software development company in Thane that can build a proper web app, not just a brochure site? BtechWaleTech is a freelance group of three engineers working remotely from India. We write CRMs, society and facility software, AI agents, WhatsApp automation and dashboards for Thane firms from Wagle Estate to Ghodbunder Road, then host, hand over and maintain them.",
+      "Searching for a software development team in Thane that can build a proper web app, not just a brochure site? BtechWaleTech is a freelance group of three engineers working remotely from India. We write CRMs, society and facility software, AI agents, WhatsApp automation and dashboards for Thane firms from Wagle Estate to Ghodbunder Road, then host, hand over and maintain them.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Society and CRM software", "WhatsApp Business API", "5 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech is a remote freelance team, an alternative to a software development company in Thane: custom web apps and CRMs start at ₹60,000 and take six to twelve weeks, AI automation and Android and iOS apps start at ₹40,000, and websites at ₹10,000. We are three engineers in India with no Thane office, and we quote line by line within about two working days.",
+    "BtechWaleTech is a remote freelance team, an alternative to a software development team in Thane: custom web apps and CRMs start at ₹60,000 and take six to twelve weeks, AI automation and Android and iOS apps start at ₹40,000, and websites at ₹10,000. We are three engineers in India with no Thane office, and we quote line by line within about two working days.",
   snapshot: [
     { label: "Business and IT pockets", value: "Wagle Estate with IT parks such as Opal Square and Ashar IT Park, plus offices along Ghodbunder Road and near Thane station" },
     { label: "Industrial history", value: "Wagle Industrial Estate and the Thane–Belapur road belt, historically home to engineering, chemical and pharma units" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-thane",
-      heading: "What does a software development company in Thane do for local businesses?",
+      heading: "What does a software development team in Thane do for local businesses?",
       paragraphs: [
-        "A software development company in Thane builds the systems that run a business day to day: customer relationship management tools, booking and billing apps, member or resident portals, vendor and dealer systems, and the automation that connects them. For many Thane firms, the website is the smallest part; the real value is in software that stops leads, payments and complaints falling through the cracks.",
+        "A software development team in Thane builds the systems that run a business day to day: customer relationship management tools, booking and billing apps, member or resident portals, vendor and dealer systems, and the automation that connects them. For many Thane firms, the website is the smallest part; the real value is in software that stops leads, payments and complaints falling through the cracks.",
         "Thane's mix of buyers shapes this work. The city has a long industrial past in Wagle Estate and along the Thane–Belapur road, a newer layer of IT parks and offices, and a vast residential belt of townships along Ghodbunder Road. That creates demand from small manufacturers, property developers, housing federations, facility companies, multi-branch clinics, coaching chains, CA and insurance practices, and retail brands.",
         "BtechWaleTech handles this as a freelance group of three remote engineers in India. We have no office in Thane, which keeps quotes lower, and we run projects through calls, screen shares and a shared task list. You speak directly to the people writing the code, from the first requirement call to the handover.",
       ],
@@ -150,7 +150,7 @@ const content: CityContent = {
     },
     {
       id: "seo-ai-search-thane",
-      heading: "SEO and AI search visibility for an IT company in Thane or any local firm",
+      heading: "SEO and AI search visibility for an IT services team in Thane or any local firm",
       paragraphs: [
         "SEO for a Thane business means appearing when people search for a service in their part of the city, and increasingly being named in AI answers from Google, ChatGPT or Perplexity. Thane searches are local and specific, such as a service in Thane West, near Majiwada or on Ghodbunder Road, and customers compare Thane providers against Mumbai and Navi Mumbai ones.",
         "We plan pages around what you actually offer and where you actually serve: one clear page per service, locality pages only where you genuinely work, structured data, fast loading and internal links. Content answers real questions directly, which is also what AI systems quote. We guide you on Google Business Profile, reviews and consistent contact details across listings. Detail is on our <a href='/services/seo-services/'>SEO services</a> page.",
@@ -185,18 +185,18 @@ const content: CityContent = {
     },
     {
       id: "software-cost-thane",
-      heading: "How much does a software development company in Thane charge?",
+      heading: "How much does a software development team in Thane charge?",
       paragraphs: [
-        "A software development company in Thane usually charges by scope, and with BtechWaleTech custom software and web applications start at ₹60,000. A focused tool with one or two user roles sits near that starting point, while CRMs with multiple branches, WhatsApp integration, AI features and detailed reporting cost more.",
+        "A software development team in Thane usually charges by scope, and with BtechWaleTech custom software and web applications start at ₹60,000. A focused tool with one or two user roles sits near that starting point, while CRMs with multiple branches, WhatsApp integration, AI features and detailed reporting cost more.",
         "Our other starting prices are published: static websites of up to 100 pages from ₹10,000, 700+ page SEO websites from ₹20,000, online stores from ₹50,000, AI automation and Android and iOS apps from ₹40,000 each, monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after the free five months. The complete table is on the <a href='/pricing/'>pricing page</a>.",
         "When comparing quotes from Thane or Mumbai vendors, compare scope rather than totals. Check whether hosting, deployment, source code handover and post-launch fixes are included, and whether the price covers design, testing and training. A low quote that excludes those often ends up costing more.",
       ],
     },
     {
       id: "choose-it-company-thane",
-      heading: "Freelance team vs an IT company in Thane or a Mumbai agency: which should you hire?",
+      heading: "Freelance team vs an IT services team in Thane or a Mumbai agency: which should you hire?",
       paragraphs: [
-        "Choosing an IT company in Thane comes down to three options: a local Thane firm you can visit, a larger Mumbai agency, or a remote team like BtechWaleTech. Local firms help with on-site hardware and networking, Mumbai agencies bring bigger teams at higher rates, and remote teams tend to offer direct access to engineers at lower cost.",
+        "Choosing an IT services team in Thane comes down to three options: a local Thane firm you can visit, a larger Mumbai agency, or a remote team like BtechWaleTech. Local firms help with on-site hardware and networking, Mumbai agencies bring bigger teams at higher rates, and remote teams tend to offer direct access to engineers at lower cost.",
         "Whichever you choose, ask the same questions. Who will write the code? Is the scope written screen by screen? Will the domain, hosting, database and source code be in your name? What does support cost after launch? Can you see earlier work, such as our <a href='/portfolio/'>portfolio</a>? How quickly do they reply on a weekday evening or a Sunday?",
         "Be wary of large advances before a written scope, vague answers about ownership, and promises of guaranteed rankings or leads. Those signals predict trouble far more reliably than a company's size or address. You can read more about how we operate on our <a href='/about/'>about page</a>.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
         "Usually around three months for early movement in Search Console, and six months or more for steadier gains, depending on competition and how much genuinely useful content you have. We do not guarantee rankings. We report impressions, clicks and queries monthly so you can judge progress with real data.",
     },
     {
-      question: "Should we choose a Thane IT company or a Mumbai agency?",
+      question: "Should we choose a Thane IT services team or a Mumbai agency?",
       answer:
         "It depends on your needs. A Thane firm can visit for hardware or networking. A Mumbai agency brings larger teams, usually at higher cost. For software, apps, automation and SEO, a remote team can work just as effectively through calls and screen sharing. Compare vendors on scope, ownership, support costs and who actually writes the code.",
     },

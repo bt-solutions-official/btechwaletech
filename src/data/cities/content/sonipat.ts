@@ -9,12 +9,12 @@ const sonipat: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Sonipat factories, Kundli warehouses, Murthal dhabas, PGs, clinics and shops. From ₹10,000.",
     keywords: [
-      "website development company in Sonipat",
+      "website development team in Sonipat",
       "web designer Sonipat",
       "website design Sonepat Haryana",
       "freelance web developer Sonipat",
       "website cost in Sonipat",
-      "SEO company Sonipat",
+      "SEO team Sonipat",
       "local SEO Sonipat",
       "Kundli industrial website",
       "Rai industrial area vendor website",

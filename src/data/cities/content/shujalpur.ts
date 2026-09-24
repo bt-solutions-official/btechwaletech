@@ -10,12 +10,12 @@ const shujalpur: CityContent = {
       "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Shujalpur mandi traders, input dealers, colleges, clinics and shops.",
     keywords: [
       "IT services in Shujalpur",
-      "IT company in Shujalpur",
-      "website development company in Shujalpur",
+      "IT services team in Shujalpur",
+      "website development team in Shujalpur",
       "web design in Shujalpur",
-      "app development company in Shujalpur",
+      "app development team in Shujalpur",
       "Android app development in Shujalpur",
-      "software company in Shujalpur",
+      "software team in Shujalpur",
       "SEO services in Shujalpur",
       "digital marketing in Shujalpur",
       "ecommerce website in Shujalpur",
@@ -68,24 +68,24 @@ const shujalpur: CityContent = {
       paragraphs: [
         "Shujalpur's day begins with tractor-trolleys queuing at the mandi gate and ends with shopkeepers counting cash in the market. In between, farmers, students and patients from the surrounding villages come in by bus, bike and train. A growing share of them look things up on a phone first: the day's soybean rate, whether a seed variety has arrived, which doctor sits on Thursday, when college forms open.",
         "The work we are asked to do for <strong>IT services in Shujalpur</strong> follows those questions. A Hindi website that answers them, a Google Maps listing that points to the right gate, a WhatsApp line that replies when the owner cannot, or a small piece of software that keeps lots, weights and payments straight. Occasionally an app, when the same people need to come back every week.",
-        "We are an <strong>IT company in Shujalpur</strong> only in the sense that we serve it; we have no office in the town and never pretend otherwise. Ankur Kumar builds the websites, apps and web software. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans each project and designs the automation and reporting.",
+        "We are an <strong>IT services team in Shujalpur</strong> only in the sense that we serve it; we have no office in the town and never pretend otherwise. Ankur Kumar builds the websites, apps and web software. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans each project and designs the automation and reporting.",
       ],
     },
     {
       id: "mandi-traders-software",
-      heading: "Software company in Shujalpur for mandi traders and commission agents",
+      heading: "Software team in Shujalpur for mandi traders and commission agents",
       paragraphs: [
         "The Krishi Upaj Mandi is the centre of Shujalpur's economy. Soybean arrives after the monsoon, wheat and gram after the winter, and each season brings thousands of lots that must be weighed, auctioned, paid for and recorded. Commission agents juggle farmer advances, buyer credit, hamali and transport charges, often in bound registers that only one person can read.",
-        "As a <strong>software company in Shujalpur</strong>, we build web tools that sit alongside the registers rather than replacing the whole system at once. A lot is entered once with farmer name, village, crop, bags, weight and rate. The tool then shows what each farmer is owed, what each buyer owes, and which payments are overdue, and it prints or shares a clean slip on WhatsApp.",
+        "As a <strong>software team in Shujalpur</strong>, we build web tools that sit alongside the registers rather than replacing the whole system at once. A lot is entered once with farmer name, village, crop, bags, weight and rate. The tool then shows what each farmer is owed, what each buyer owes, and which payments are overdue, and it prints or shares a clean slip on WhatsApp.",
         "Warehouse and godown owners can track stock by lot and by depositor. We can export to Tally if your accountant uses it. Such software starts at ₹60,000 and is built in phases over six to twelve weeks. Our advice is to go live with the lot and payment register during a quiet month, well before the soybean arrivals begin.",
       ],
     },
     {
       id: "agri-input-tractor-dealers",
-      heading: "Website development company in Shujalpur for seed, fertiliser and tractor dealers",
+      heading: "Website development team in Shujalpur for seed, fertiliser and tractor dealers",
       paragraphs: [
         "A mandi town supports a ring of dealers: seed, fertiliser and pesticide shops, tractor and implement showrooms, sprayer and pump sellers, and repair workshops. Their customers are farmers from dozens of villages who want to know, before they make the trip, whether a product is in stock and what it costs.",
-        "A <strong>website development company in Shujalpur</strong> can help most by keeping such sites simple and current. A dealer page should list brands and categories carried, the crops they suit, the season they are needed, timings, a map pin and a WhatsApp button for rates. A tractor showroom needs model pages with specifications, finance options it genuinely offers and a service booking form.",
+        "A <strong>website development team in Shujalpur</strong> can help most by keeping such sites simple and current. A dealer page should list brands and categories carried, the crops they suit, the season they are needed, timings, a map pin and a WhatsApp button for rates. A tractor showroom needs model pages with specifications, finance options it genuinely offers and a service booking form.",
         "Prices change often, so we give you a way to edit them yourself from a phone without calling us. A dealer site of this kind starts at ₹10,000. When the business has many village retailers buying on credit, a dealer ordering app or a credit ledger is the natural next step, and we quote it separately so you can decide later.",
       ],
     },
@@ -130,7 +130,7 @@ const shujalpur: CityContent = {
       heading: "Android app development in Shujalpur, with iOS versions for local businesses",
       paragraphs: [
         "Before building an app, it is worth asking who will open it next month. In Shujalpur the honest answers are usually a dealer's retailers who reorder every week, a commission agent's farmers checking their payment status, parents following a school or coaching centre, or patients booking a token for a busy OPD.",
-        "As an <strong>app development company in Shujalpur</strong> working remotely, we build with Flutter or React Native, so a single codebase covers Android phones and iPhones. A first version usually includes mobile number login, push notifications, the few screens your users need and an admin panel for your office. Hindi screens are standard, and offline entry can be added for areas with patchy signal.",
+        "As an <strong>app development team in Shujalpur</strong> working remotely, we build with Flutter or React Native, so a single codebase covers Android phones and iPhones. A first version usually includes mobile number login, push notifications, the few screens your users need and an admin panel for your office. Hindi screens are standard, and offline entry can be added for areas with patchy signal.",
         "<strong>Android app development in Shujalpur</strong> with us starts at ₹40,000. Features such as payments, maps or a Tally link appear as separate lines in the quote. We publish the app on Google Play and the Apple App Store through developer accounts registered to you. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for examples of what a first version includes.",
         "When customers only need your address, timings and a rate list, a website serves them better and costs far less. We will recommend that instead, because an app that sits unopened on a phone earns nothing.",
       ],
@@ -230,7 +230,7 @@ const shujalpur: CityContent = {
         "A shop, clinic or institute site is normally live one to two weeks after we get your text and photographs. SEO sites of 700+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve. The biggest cause of delay is waiting for content, so sending it early helps most.",
     },
     {
-      question: "Which is the best website development company in Shujalpur?",
+      question: "Which is the best website development team in Shujalpur?",
       answer:
         "Judge any provider on four things: published prices, your name on the domain and code, support after launch, and real work you can check. Ask everyone the same questions and compare the answers. We meet those tests and answer WhatsApp all week, but talking to two or three options before choosing is wise.",
     },

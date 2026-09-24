@@ -10,12 +10,12 @@ const nokha: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Nokha bhujia and papad units, mandi traders, oil mills, guar processors and shops.",
     keywords: [
       "IT services in Nokha",
-      "IT company in Nokha",
-      "website development company in Nokha",
+      "IT services team in Nokha",
+      "website development team in Nokha",
       "web design in Nokha",
-      "app development company in Nokha",
+      "app development team in Nokha",
       "Android app development in Nokha",
-      "software company in Nokha",
+      "software team in Nokha",
       "SEO services in Nokha",
       "digital marketing in Nokha",
       "ecommerce website in Nokha",
@@ -83,28 +83,28 @@ const nokha: CityContent = {
     },
     {
       id: "distributor-software",
-      heading: "Software company in Nokha for namkeen brands and distributor networks",
+      heading: "Software team in Nokha for namkeen brands and distributor networks",
       paragraphs: [
         "A namkeen unit that sells across Rajasthan and beyond usually manages distributors by phone and paper. Orders arrive on WhatsApp, rates change with the price of gram flour and oil, schemes differ by region, and outstanding payments are tracked in a register or a spreadsheet only one person understands.",
-        "As a <strong>software company in Nokha</strong> in the working sense, we build distributor portals and order tools: each distributor logs in, sees current rates and schemes, places orders and sees their own balance. The factory sees orders by region, dispatch status and dues in one place. Batch numbers and manufacturing dates can be recorded at dispatch to handle complaints properly.",
+        "As a <strong>software team in Nokha</strong> in the working sense, we build distributor portals and order tools: each distributor logs in, sees current rates and schemes, places orders and sees their own balance. The factory sees orders by region, dispatch status and dues in one place. Batch numbers and manufacturing dates can be recorded at dispatch to handle complaints properly.",
         "A distributor system of this kind begins at ₹60,000, and we deliver it in phases over six to twelve weeks, ordering first. With only a handful of distributors, a WhatsApp catalogue plus a shared order sheet may carry you for now; we would rather tell you that than sell you software you do not need.",
       ],
     },
     {
       id: "mandi-traders",
-      heading: "IT company in Nokha for Krishi Upaj Mandi traders and commission agents",
+      heading: "IT services team in Nokha for Krishi Upaj Mandi traders and commission agents",
       paragraphs: [
         "The Krishi Upaj Mandi at Nokha trades groundnut, guar, oilseeds, spices and grains from villages across the tehsil and beyond. Commission agents, traders and brokers deal with the same farmers and buyers season after season, and their records have to be exact: arrivals, lots, weights, bids, deductions, payments and dues.",
-        "An <strong>IT company in Nokha</strong> that understands the mandi can make this simpler. We build ledger tools that record each lot once, calculate amounts and deductions, print a clear slip for the farmer, and show pending payments by buyer. A daily rate page or WhatsApp broadcast lets regular buyers in other towns see what came in that morning.",
+        "An <strong>IT services team in Nokha</strong> that understands the mandi can make this simpler. We build ledger tools that record each lot once, calculate amounts and deductions, print a clear slip for the farmer, and show pending payments by buyer. A daily rate page or WhatsApp broadcast lets regular buyers in other towns see what came in that morning.",
         "Screens stay large and simple so that staff new to computers can use them, and data is backed up every day. This falls under custom software starting at ₹60,000. For a small agent, a well-designed spreadsheet may be the right first step, and we will suggest it if so.",
       ],
     },
     {
       id: "factories-riico",
-      heading: "Website development company in Nokha for RIICO units and manufacturers",
+      heading: "Website development team in Nokha for RIICO units and manufacturers",
       paragraphs: [
         "Beyond food, Nokha's small and medium units make or process groundnut oil and oil cake, guar gum, cement and PVC pipes, electric wire and cables, plastic goods, woollen yarn and blankets, spices and more. Their buyers are traders, contractors and other factories, often in other states, who compare suppliers before calling.",
-        "As a <strong>website development company in Nokha</strong> for these units, we build product pages with specifications, pack or bale sizes, certifications, minimum order quantities and dispatch terms, along with an enquiry form that asks for quantity and destination. PDF catalogues can be downloaded, and every product gets its own page so that specific searches can find it.",
+        "As a <strong>website development team in Nokha</strong> for these units, we build product pages with specifications, pack or bale sizes, certifications, minimum order quantities and dispatch terms, along with an enquiry form that asks for quantity and destination. PDF catalogues can be downloaded, and every product gets its own page so that specific searches can find it.",
         "For a unit with a short product list, a focused B2B site can begin at ₹10,000. A wide catalogue that needs hundreds of pages fits the SEO website plan instead, from ₹20,000 for 700+ pages over three to five weeks. What a standard build covers is set out on our <a href=\"/services/web-development/\">web development service</a> page.",
       ],
     },
@@ -141,7 +141,7 @@ const nokha: CityContent = {
       paragraphs: [
         "An app pays off when the same people use it often. In Nokha that usually means namkeen distributors placing weekly orders, mandi buyers checking rates every morning, school parents looking at fees and notices, or regular grocery and pharmacy customers reordering. For a shop that most people visit a few times a year, a website and map listing is the better spend.",
         "For <strong>Android app development in Nokha</strong>, one Flutter or React Native codebase gives you both an Android and an iPhone app. A distributor app typically has OTP login, alerts when rates or schemes change, a catalogue showing each distributor's price, an order screen, a balance view and a back office where you edit everything. Publishing happens on Google Play and the App Store, using developer accounts opened in your name.",
-        "Apps start at ₹40,000. The cost rises with online payment, offline order-taking for field staff or Tally integration. As an <strong>app development company in Nokha</strong> clients can message any day of the week, we suggest a small first version that a few distributors use for a month, then improvements based on what they say. More is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "Apps start at ₹40,000. The cost rises with online payment, offline order-taking for field staff or Tally integration. As an <strong>app development team in Nokha</strong> clients can message any day of the week, we suggest a small first version that a few distributors use for a month, then improvements based on what they say. More is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const nokha: CityContent = {
         "Small sites are usually done in one to two weeks; the slow part is gathering photos and approving Hindi copy. SEO builds of 700+ pages need three to five weeks, stores four to eight and custom tools six to twelve. Apps depend on screens, and every stage comes to you as a preview link.",
     },
     {
-      question: "Which is the best website development company in Nokha?",
+      question: "Which is the best website development team in Nokha?",
       answer:
         "Judge any Nokha developer on three things: whether past sites still work, whose name the domain sits in, and what you pay after launch. A cheap build that disappears in a year costs more than it saved. We are three remote engineers, and we welcome that kind of comparison.",
     },

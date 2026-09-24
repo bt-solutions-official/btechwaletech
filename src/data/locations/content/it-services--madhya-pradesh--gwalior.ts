@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers for Gwalior: school systems, banquet booking, factory apps, AI agents and dashboards. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
-      "software development company in Gwalior",
-      "IT company in Gwalior",
+      "software development team in Gwalior",
+      "IT services team in Gwalior",
       "IT solutions Gwalior",
       "freelance software developer Gwalior",
       "school management software Gwalior",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Gwalior, Madhya Pradesh",
     h1: "Freelance software developers in Gwalior for schools, venues, factories and traders",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Gwalior schools, coaching institutes, banquet and heritage venues, Malanpur and Banmore units, hospitals and Maharaj Bada traders hire us instead of a software development company in Gwalior for school systems, booking software, production apps, AI agents and dashboards, plus hosting and SEO.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Gwalior schools, coaching institutes, banquet and heritage venues, Malanpur and Banmore units, hospitals and Maharaj Bada traders hire us instead of a software development team in Gwalior for school systems, booking software, production apps, AI agents and dashboards, plus hosting and SEO.",
     pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "School and coaching systems", "Venue booking tools", "5 months free maintenance"],
   },
   quickAnswer:
-    "Searching for a software development company in Gwalior? BtechWaleTech is a freelance group of three engineers working remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000, with an itemised quote in about two working days and five months of free maintenance.",
+    "Searching for a software development team in Gwalior? BtechWaleTech is a freelance group of three engineers working remotely. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000, with an itemised quote in about two working days and five months of free maintenance.",
   snapshot: [
     { label: "Regional role", value: "Largest city of the Gwalior-Chambal region, serving Morena, Bhind, Datia and Shivpuri" },
     { label: "Commercial areas", value: "Maharaj Bada in Lashkar, City Centre, Phool Bagh, Thatipur, Morar and the Jhansi Road side" },
@@ -70,7 +70,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-gwalior",
-      heading: "Freelance developers or a software development company in Gwalior: how to decide",
+      heading: "Freelance developers or a software development team in Gwalior: how to decide",
       paragraphs: [
         "Pick a freelance group when you want a focused system, direct access to the engineers and a lower overall cost; pick a larger software development company in Gwalior when you need an on-site team, formal certifications or a very large build. Most Gwalior schools, venues, traders and small factories are well served by the first option.",
         "Gwalior's software market ranges from national firms with local delivery centres to small studios that mostly build websites and school software sold as a fixed product. Fixed products can work, but schools often find they cannot adapt them to their own fee structures, transport routes or report card formats.",
@@ -277,9 +277,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company based in Gwalior?",
+      question: "Is BtechWaleTech a software team based in Gwalior?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Gwalior. We serve Gwalior organisations online through video calls, WhatsApp and phone, and you work directly with the engineers who build your software.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Gwalior. We serve Gwalior organisations online through video calls, WhatsApp and phone, and you work directly with the engineers who build your software.",
     },
     {
       question: "How do we pay you?",

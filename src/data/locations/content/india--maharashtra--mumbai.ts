@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance IT consultants in Mumbai for custom software, Android and iOS apps, AI agents, cloud, data and SEO. Free scoping call, itemised quote in 2 working days.",
     keywords: [
-      "IT solutions company in Mumbai",
-      "best IT company in Mumbai",
+      "IT solutions team in Mumbai",
+      "best IT services team in Mumbai",
       "freelance IT consultants Mumbai",
       "IT consulting and digital transformation Mumbai",
       "hire freelance software developers Mumbai",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-mumbai-honest-comparison",
-      heading: "Best IT company in Mumbai or a freelance team: an honest comparison",
+      heading: "Best IT services team in Mumbai or a freelance team: an honest comparison",
       paragraphs: [
-        "The best IT company in Mumbai for your project is the one matched to your scale, budget and need for speed, and for many SMEs that is a small, senior freelance team rather than a large firm. If you are comparing IT companies in Mumbai, weigh who actually writes the code, how quickly they respond and what you own at the end.",
-        "BtechWaleTech is a freelance group of three engineers, not a company. Against larger Mumbai vendors we are faster to start, lower in cost and more direct in communication. We are not the right choice for projects needing large teams, on-site staff in your office or 24-hour staffed helpdesks.",
+        "The best IT services team in Mumbai for your project is the one matched to your scale, budget and need for speed, and for many SMEs that is a small, senior freelance team rather than a large firm. If you are comparing IT companies in Mumbai, weigh who actually writes the code, how quickly they respond and what you own at the end.",
+        "BtechWaleTech is a freelance group of three engineers. Against larger Mumbai vendors we are faster to start, lower in cost and more direct in communication. We are not the right choice for projects needing large teams, on-site staff in your office or 24-hour staffed helpdesks.",
         "A simple test works for any candidate: ask them to restate your problem, name its biggest risk and describe what they would leave out of the first release. Confirm code, domains and cloud accounts will be registered to you. Ask to speak with the engineer, not only the salesperson.",
       ],
     },
@@ -282,9 +282,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you an IT company with an office in Mumbai?",
+      question: "Are you an IT services team with an office in Mumbai?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers, not a company, and we have no office in Mumbai. We work remotely from India via video calls, phone and WhatsApp, seven days a week. Because we have no Mumbai rent, our prices reflect engineering work rather than office overheads.",
+        "No. BtechWaleTech is a freelance group of three engineers, and we have no office in Mumbai. We work remotely from India via video calls, phone and WhatsApp, seven days a week. Because we have no Mumbai rent, our prices reflect engineering work rather than office overheads.",
     },
     {
       question: "Is the first IT consultation free?",

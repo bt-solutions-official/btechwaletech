@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Raipur: ERP-style tools, transport and distribution apps, AI automation, dashboards, cloud and SEO. Starting at ₹10,000.",
     keywords: [
-      "software development company in Raipur",
-      "IT company in Raipur",
+      "software development team in Raipur",
+      "IT services team in Raipur",
       "IT solutions Raipur",
       "freelance software developer Raipur",
       "custom ERP development Raipur",
@@ -81,14 +81,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-raipur",
-      heading: "Is a freelance team a good alternative to a software development company in Raipur?",
+      heading: "Is a freelance team a good alternative to a software development team in Raipur?",
       paragraphs: [
-        "A freelance team is a good alternative to a software development company in Raipur when the project is well-defined, the owner wants direct access to the developers and overhead matters, but not when a project needs on-site staff, dozens of developers or formal tender documentation. Both models have a place.",
+        "A freelance team is a good alternative to a software development team in Raipur when the project is well-defined, the owner wants direct access to the developers and overhead matters, but not when a project needs on-site staff, dozens of developers or formal tender documentation. Both models have a place.",
         "BtechWaleTech is three engineers working remotely with no Raipur office. You get published starting prices, direct WhatsApp contact with the people writing the code, and full ownership of everything delivered. What you do not get is a local office to visit or a large bench of developers. Raipur's larger IT companies are the better choice for enterprise-scale work, and we will tell you if your project fits that description.",
       ],
       list: [
         "Freelance team: direct access, lower overhead, focused projects",
-        "Software company: bigger team, office visits, higher overhead",
+        "Software team: bigger team, office visits, higher overhead",
         "Either model: code, domain and hosting should be in your name",
         "Either model: get support terms in writing before paying",
       ],

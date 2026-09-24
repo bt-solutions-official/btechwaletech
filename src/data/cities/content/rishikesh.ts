@@ -10,12 +10,12 @@ const rishikesh: CityContent = {
       "Booking websites, Android and iOS apps, SEO and WhatsApp automation for Rishikesh yoga schools, rafting camps, hotels, cafes, clinics and Char Dham tour operators.",
     keywords: [
       "IT services in Rishikesh",
-      "IT company in Rishikesh",
-      "website development company in Rishikesh",
+      "IT services team in Rishikesh",
+      "website development team in Rishikesh",
       "web design in Rishikesh",
-      "app development company in Rishikesh",
+      "app development team in Rishikesh",
       "Android app development in Rishikesh",
-      "software company in Rishikesh",
+      "software team in Rishikesh",
       "SEO services in Rishikesh",
       "digital marketing in Rishikesh",
       "ecommerce website in Rishikesh",
@@ -74,10 +74,10 @@ const rishikesh: CityContent = {
     },
     {
       id: "yoga-schools-teacher-training",
-      heading: "Website development company in Rishikesh for yoga schools and teacher training courses",
+      heading: "Website development team in Rishikesh for yoga schools and teacher training courses",
       paragraphs: [
         "Yoga teacher training is Rishikesh's most competitive online market. Schools offer 200, 300 and 500 hour courses, retreats and drop-in classes, and a student deciding from abroad compares dozens of them on course content, teacher background, accommodation, food, reviews and price. Many will also check whether a school's certificate is recognised by the organisation they care about.",
-        "A <strong>website development company in Rishikesh</strong> building for this market should make those comparisons easy. We give each course its own page with the daily timetable, syllabus, teacher profiles, room types with real photographs, meal details, what the fee includes, cancellation terms and the next start dates. A booking form takes a deposit, and the confirmation email carries arrival advice: airport transfer, visa type, what to pack.",
+        "A <strong>website development team in Rishikesh</strong> building for this market should make those comparisons easy. We give each course its own page with the daily timetable, syllabus, teacher profiles, room types with real photographs, meal details, what the fee includes, cancellation terms and the next start dates. A booking form takes a deposit, and the confirmation email carries arrival advice: airport transfer, visa type, what to pack.",
         "We only state affiliations and certifications you can document, and we never write testimonials. Reviews come from real students through Google or your own collection form. Most school sites fall between our static and SEO site tiers, from ₹10,000 or ₹20,000 depending on the number of courses and languages, with online deposits quoted as an extra line.",
       ],
     },
@@ -101,11 +101,11 @@ const rishikesh: CityContent = {
     },
     {
       id: "char-dham-tour-operators",
-      heading: "Software company in Rishikesh for Char Dham tour and taxi operators",
+      heading: "Software team in Rishikesh for Char Dham tour and taxi operators",
       paragraphs: [
         "Every season, Rishikesh fills with pilgrims heading into the Garhwal hills for Yamunotri, Gangotri, Kedarnath and Badrinath. Travel agents, taxi unions, tempo traveller owners and hotel booking agents in the town organise a large part of these journeys, often for groups booked months ahead by relatives in other states.",
         "The work is heavy on details: passenger names and ages, registration requirements for the yatra, vehicle and driver assignments, overnight stops, hotel confirmations at each halt, advance and balance payments, and last-minute changes when roads close. Much of it still moves through phone calls and handwritten sheets.",
-        "As a <strong>software company in Rishikesh</strong>, we build web tools that hold all of this in one place: bookings with passengers, vehicle and driver rosters, a day-by-day itinerary per group, hotel confirmations, payment status and a printable trip sheet for the driver. A WhatsApp update can go to the group leader each evening. These systems start at ₹60,000 and are built over six to twelve weeks, ideally in the quiet months before the portals open.",
+        "As a <strong>software team in Rishikesh</strong>, we build web tools that hold all of this in one place: bookings with passengers, vehicle and driver rosters, a day-by-day itinerary per group, hotel confirmations, payment status and a printable trip sheet for the driver. A WhatsApp update can go to the group leader each evening. These systems start at ₹60,000 and are built over six to twelve weeks, ideally in the quiet months before the portals open.",
       ],
     },
     {
@@ -131,7 +131,7 @@ const rishikesh: CityContent = {
       heading: "Android app development in Rishikesh, and iOS apps for schools and operators",
       paragraphs: [
         "An app makes sense where a known group returns to it again and again. In Rishikesh that describes several businesses well. Yoga schools can give enrolled students the timetable, recorded classes, reading material and notices in one place, and keep alumni connected for online courses after they go home. Char Dham operators can give group leaders a live itinerary. A large hostel can let guests book activities and pay from their phones.",
-        "As an <strong>app development company in Rishikesh</strong> working remotely, we use Flutter or React Native so one build runs on Android and on iPhone, which matters because many overseas students carry iPhones. A typical first release has login by email or phone number, push notifications, the core screens, and an admin panel for your team. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
+        "As an <strong>app development team in Rishikesh</strong> working remotely, we use Flutter or React Native so one build runs on Android and on iPhone, which matters because many overseas students carry iPhones. A typical first release has login by email or phone number, push notifications, the core screens, and an admin panel for your team. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
         "<strong>Android app development in Rishikesh</strong> with us starts at ₹40,000. Video hosting, subscriptions, payments in foreign currency and offline access for mountain stretches add to the cost, each shown separately in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> covers the process.",
         "A café or small guest house rarely needs an app. A fast website, a good map listing and WhatsApp do the job at a fraction of the price, and we will recommend that route when it fits.",
       ],
@@ -147,10 +147,10 @@ const rishikesh: CityContent = {
     },
     {
       id: "ashrams-dharamshalas",
-      heading: "IT company in Rishikesh for ashrams, dharamshalas and spiritual organisations",
+      heading: "IT services team in Rishikesh for ashrams, dharamshalas and spiritual organisations",
       paragraphs: [
         "Ashrams and spiritual trusts in Swargashram, Muni Ki Reti and along the ghats receive visitors, residents for courses and donations from devotees around the world. Their needs differ from a commercial business: accurate programme calendars, room requests with house rules, donation receipts, and recordings of talks or bhajans for followers who cannot travel.",
-        "An <strong>IT company in Rishikesh</strong> working with such organisations must respect how they operate. We build calm, readable sites in the languages their followers use, with a room request form rather than instant booking where the ashram prefers to review each guest, and donation pages that issue proper receipts. Where the trust holds tax exemption certificates, the site says so accurately, and we never overstate it.",
+        "An <strong>IT services team in Rishikesh</strong> working with such organisations must respect how they operate. We build calm, readable sites in the languages their followers use, with a room request form rather than instant booking where the ashram prefers to review each guest, and donation pages that issue proper receipts. Where the trust holds tax exemption certificates, the site says so accurately, and we never overstate it.",
         "For organisations with large archives, a searchable audio and video library can be added, hosted so that it stays online without large monthly bills. We quote these after seeing the size of the archive.",
       ],
     },
@@ -222,7 +222,7 @@ const rishikesh: CityContent = {
         "Yes. Each course gets its own page with timetable, syllabus, teachers, rooms, meals, inclusions and start dates, plus a form that takes a deposit and sends arrival instructions. We only mention certifications you can show us. Depending on courses and languages, these sites begin at ₹10,000 or ₹20,000, with online payments quoted separately.",
     },
     {
-      question: "Which is the best website development company in Rishikesh?",
+      question: "Which is the best website development team in Rishikesh?",
       answer:
         "Judge any provider on real work you can open, prices stated upfront, the domain and code in your name, and whether they answer after the season. Ask the same questions of each one. We aim to meet all of these and reply every day on WhatsApp, but comparing two or three options is always wise.",
     },

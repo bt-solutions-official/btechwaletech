@@ -10,12 +10,12 @@ const kotKapura: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Kot Kapura cotton traders, arhtiyas, dhodha makers, workshops and clinics.",
     keywords: [
       "IT services in Kot Kapura",
-      "IT company in Kotkapura",
-      "website development company in Kot Kapura",
+      "IT services team in Kotkapura",
+      "website development team in Kot Kapura",
       "web design in Kotkapura",
-      "app development company in Kot Kapura",
+      "app development team in Kot Kapura",
       "Android app development in Kotkapura",
-      "software company in Kot Kapura",
+      "software team in Kot Kapura",
       "SEO services in Kotkapura",
       "digital marketing in Kot Kapura",
       "ecommerce website in Kot Kapura",
@@ -75,20 +75,20 @@ const kotKapura: CityContent = {
     },
     {
       id: "arhtiya-mandi-software",
-      heading: "Software company in Kot Kapura for arhtiyas and mandi accounts",
+      heading: "Software team in Kot Kapura for arhtiyas and mandi accounts",
       paragraphs: [
         "The arhtiya is at the centre of Punjab's grain trade, and Kot Kapura has many of them. In the wheat and paddy seasons they receive the crop, arrange cleaning and weighing, deal with procurement agencies and private buyers, and manage payments to farmers. Many also extend credit to farmer families through the year and keep long running accounts.",
         "Those accounts are the heart of the business and also its biggest risk. Each season brings thousands of entries: arrivals by farmer, bags and weight, labour and market charges, payments received from agencies, advances given, interest if any, and final settlements. When records live in paper khatas and one old computer, a single mistake or a failed hard disk can cause real trouble.",
-        "As a <strong>software company in Kot Kapura</strong> for this trade, we build web applications that follow the way arhtiyas already keep books. Entries are made once, from the shop or the mandi on a phone, and farmer balances, J-form details, pending receipts and daily cash positions update automatically. Farmers can receive a statement on WhatsApp in Punjabi, which cuts down the arguments at settlement time.",
+        "As a <strong>software team in Kot Kapura</strong> for this trade, we build web applications that follow the way arhtiyas already keep books. Entries are made once, from the shop or the mandi on a phone, and farmer balances, J-form details, pending receipts and daily cash positions update automatically. Farmers can receive a statement on WhatsApp in Punjabi, which cuts down the arguments at settlement time.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, ideally between seasons. Data is backed up daily to cloud storage in your name, and access is limited by role, so a munim sees entries and the owner sees everything. See our <a href=\"/services/web-development/\">web development page</a> for how we build these tools.",
       ],
     },
     {
       id: "cotton-ginning-kot-kapura",
-      heading: "Website development company in Kot Kapura for cotton ginning and baling",
+      heading: "Website development team in Kot Kapura for cotton ginning and baling",
       paragraphs: [
         "Cotton handling in Kot Kapura runs from ginning to baling to weaving. Farmers across the Malwa belt grow narma and desi cotton, and the ginning and pressing units around the town buy it, separate lint from seed, press bales and sell to spinning mills in Punjab, Haryana and further away. Cottonseed goes to oil mills and cattle feed makers.",
-        "A <strong>website development company in Kot Kapura</strong> can help such units in two ways. First, a factual site for buyers: capacity, machinery, cotton varieties handled, quality testing, dispatch arrangements, GST and registration details, and named contacts. Mill purchase teams check suppliers online, and a clean site on a desktop screen makes a small unit look as reliable as it is.",
+        "A <strong>website development team in Kot Kapura</strong> can help such units in two ways. First, a factual site for buyers: capacity, machinery, cotton varieties handled, quality testing, dispatch arrangements, GST and registration details, and named contacts. Mill purchase teams check suppliers online, and a clean site on a desktop screen makes a small unit look as reliable as it is.",
         "Second, a purchase and stock tool for the season. Each lot records the farmer, village, vehicle, weight, moisture, trash and rate. The system then tracks lint outturn, bales pressed and stored, dispatches to each buyer, and money owed and received. Owners see the season's position on one screen instead of three registers and a calculator.",
         "A buyer-facing website starts at ₹10,000 and takes one to two weeks. The purchase tool is quoted as custom software. We never list a mill or buyer as your customer on the site without their written permission.",
       ],
@@ -138,7 +138,7 @@ const kotKapura: CityContent = {
       heading: "Android app development in Kot Kapura, and iOS apps for local firms",
       paragraphs: [
         "An app makes sense when the same people use it many times. In Kot Kapura, strong cases include an arhtiya firm letting farmers see their running account and payments, a sweet shop taking repeat orders from families in other cities, a school sending homework, fee reminders and bus alerts to parents, a coaching centre sharing tests and results, or a clinic issuing tokens so patients wait less.",
-        "As an <strong>app development company in Kot Kapura</strong> that works remotely, we build with Flutter or React Native, so a single codebase serves Android phones and iPhones. A first version usually includes mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. Punjabi, Hindi and English text can all be supported.",
+        "As an <strong>app development team in Kot Kapura</strong> that works remotely, we build with Flutter or React Native, so a single codebase serves Android phones and iPhones. A first version usually includes mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. Punjabi, Hindi and English text can all be supported.",
         "<strong>Android app development in Kot Kapura</strong> with us starts at ₹40,000. Payments, offline mode, maps, multiple user roles and links to your billing or accounting software add to the cost, and each appears on the quote separately. We publish on Google Play and the Apple App Store under developer accounts registered to your business. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, phone number, timings and a price list, a website and a proper map listing will do that job for far less. We recommend the simpler option when it fits, because an app that people delete after a week is money spent for nothing.",
       ],
@@ -165,9 +165,9 @@ const kotKapura: CityContent = {
     },
     {
       id: "remote-team-kot-kapura",
-      heading: "Working with a remote IT company in Kot Kapura's area",
+      heading: "Working with a remote IT services team in Kot Kapura's area",
       paragraphs: [
-        "People sometimes find us while searching for an <strong>IT company in Kot Kapura</strong>, so we are clear that we work remotely. The first call covers your business, customers and what the website, app or tool should do. You then receive a written plan of pages or screens, a timeline and an itemised quote. After approval, we share preview links that you can open on your own phone and show to partners or family.",
+        "People sometimes find us while searching for an <strong>IT services team in Kot Kapura</strong>, so we are clear that we work remotely. The first call covers your business, customers and what the website, app or tool should do. You then receive a written plan of pages or screens, a timeline and an itemised quote. After approval, we share preview links that you can open on your own phone and show to partners or family.",
         "We answer WhatsApp every day, weekends included, on Indian Standard Time. Punjabi and Hindi text is sent to you for checking before it goes live, and no page is published without your approval. If a delay comes up, we tell you as soon as we know.",
         "Payments are staged against visible work, and nothing is billed before your written approval. For a firm trying its first website or app, that keeps risk low and control with you. If you prefer to begin small, such as fixing a map listing or setting up a WhatsApp catalogue, that is a perfectly good place to start.",
       ],
@@ -232,7 +232,7 @@ const kotKapura: CityContent = {
         "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready early is the biggest factor.",
     },
     {
-      question: "Who is the best website development company in Kot Kapura?",
+      question: "Who is the best website development team in Kot Kapura?",
       answer:
         "Pick a provider who publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask everyone the same questions. We meet those tests and answer WhatsApp seven days a week, but comparing two or three options before you decide is wise.",
     },

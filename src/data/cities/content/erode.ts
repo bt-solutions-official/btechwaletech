@@ -9,7 +9,7 @@ const erode: CityContent = {
     description:
       "Websites, Tamil local SEO and WhatsApp order automation for Erode textile wholesalers, turmeric traders, SIPCOT units and clinics. From ₹10,000, 5 months free care.",
     keywords: [
-      "website development company in Erode",
+      "website development team in Erode",
       "website designer Erode",
       "web design Erode Tamil Nadu",
       "freelance web developer Erode",
@@ -18,7 +18,7 @@ const erode: CityContent = {
       "textile wholesale website Erode",
       "turmeric trader website Erode",
       "ecommerce website Erode",
-      "software company Erode",
+      "software team Erode",
       "WhatsApp automation Erode",
       "website for Perundurai SIPCOT units",
       "website maintenance Erode",

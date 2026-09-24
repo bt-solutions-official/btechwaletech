@@ -10,12 +10,12 @@ const phalodi: CityContent = {
       "Hindi and English websites, Android and iOS apps, SEO and WhatsApp bots for Phalodi salt refiners, POP units, mandi traders, solar contractors and Khichan stays.",
     keywords: [
       "IT services in Phalodi",
-      "IT company in Phalodi",
-      "website development company in Phalodi",
+      "IT services team in Phalodi",
+      "website development team in Phalodi",
       "web design in Phalodi",
-      "app development company in Phalodi",
+      "app development team in Phalodi",
       "Android app development in Phalodi",
-      "software company in Phalodi",
+      "software team in Phalodi",
       "SEO services in Phalodi",
       "digital marketing in Phalodi",
       "ecommerce website in Phalodi",
@@ -74,20 +74,20 @@ const phalodi: CityContent = {
     },
     {
       id: "salt-pop-websites",
-      heading: "Website development company in Phalodi for salt and plaster of Paris units",
+      heading: "Website development team in Phalodi for salt and plaster of Paris units",
       paragraphs: [
         "Phalodi is widely called the Salt City. Salt is produced in the surrounding area and refined, graded and packed in town, alongside units that make plaster of Paris. Buyers include chemical plants, food processors, cattle feed makers, construction suppliers, ceramic and mould makers and wholesalers across north and west India, and many of them first meet a supplier through a search or a trade directory.",
-        "A <strong>website development company in Phalodi</strong> should give these units what a purchase officer in Ahmedabad or Ludhiana looks for: product grades with specifications such as purity, moisture and mesh size where you test for them, pack sizes and bag types, minimum order quantity, dispatch capacity, test reports you can share, GST details and a real person to call.",
+        "A <strong>website development team in Phalodi</strong> should give these units what a purchase officer in Ahmedabad or Ludhiana looks for: product grades with specifications such as purity, moisture and mesh size where you test for them, pack sizes and bag types, minimum order quantity, dispatch capacity, test reports you can share, GST details and a real person to call.",
         "We keep the language factual. If you do not hold a certification, the site will not suggest you do. Photographs of your own stockyard, packing line and loaded trucks carry more weight than stock images, and a downloadable product sheet in PDF saves the buyer a phone call.",
         "Most units start with a ten to twenty page site, from ₹10,000, including an enquiry form that asks for grade, quantity, destination and delivery month. It goes live in one to two weeks once specifications and photos reach us. See how the build works on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "salt-dispatch-software",
-      heading: "Software company in Phalodi for truck dispatch, weighbridge slips and ledgers",
+      heading: "Software team in Phalodi for truck dispatch, weighbridge slips and ledgers",
       paragraphs: [
         "Behind every salt or POP unit is a paperwork load that grows with each truck. Orders come by phone and WhatsApp, rates differ by buyer and grade, trucks are booked through transporters, the weighbridge slip must match the invoice, and payments arrive late and in parts. Owners often keep all of it in a diary, a Tally file and their memory.",
-        "As a <strong>software company in Phalodi</strong> in the practical sense, we build small web tools that tie those pieces together. Typical features:",
+        "As a <strong>software team in Phalodi</strong> in the practical sense, we build small web tools that tie those pieces together. Typical features:",
       ],
       list: [
         "Order register with buyer, grade, quantity, rate and promised dispatch date",
@@ -107,10 +107,10 @@ const phalodi: CityContent = {
     },
     {
       id: "bhadla-solar-contractors",
-      heading: "IT company in Phalodi for Bhadla solar park contractors and service firms",
+      heading: "IT services team in Phalodi for Bhadla solar park contractors and service firms",
       paragraphs: [
         "Bhadla Solar Park lies in Phalodi tehsil. It covers about 5,700 hectares with a capacity of roughly 2,245 MW, and for a few years it was counted among the largest solar parks in the world. Parks of this size depend on a steady stream of local services: module cleaning crews, civil and electrical contractors, vehicle and equipment hire, security, canteens, housing for staff and suppliers of spares and water.",
-        "Developers and EPC firms screen such vendors before awarding work. An <strong>IT company in Phalodi</strong> can help a local contractor present itself properly: a profile site with services, manpower, equipment owned, safety training and past work types, plus clear contact details. We only name a client on your site with that client's written consent.",
+        "Developers and EPC firms screen such vendors before awarding work. An <strong>IT services team in Phalodi</strong> can help a local contractor present itself properly: a profile site with services, manpower, equipment owned, safety training and past work types, plus clear contact details. We only name a client on your site with that client's written consent.",
         "For crews working across a large site, a simple Android app for attendance, task completion with photos and daily reports can replace scattered WhatsApp photos. That starts at ₹40,000. A profile website starts at ₹10,000. We will tell you honestly if your contract volume does not yet justify the app.",
       ],
     },
@@ -155,7 +155,7 @@ const phalodi: CityContent = {
       heading: "Android app development in Phalodi, plus iPhone apps from one codebase",
       paragraphs: [
         "Think of an app as a tool for people who come back every week. In Phalodi that could be salt or POP buyers who reorder regularly and want to see dispatch status, drivers updating trips between the unit and distant buyers, solar park crews logging tasks, a school sending circulars to parents, or a clinic handing out appointment tokens. If your customers visit once a year, an app is the wrong answer.",
-        "As an <strong>app development company in Phalodi</strong> working remotely, we use Flutter or React Native to build Android and iOS apps from a single codebase. The first version usually carries OTP login, the core screens, push notifications and an admin panel for your staff. Offline entry is useful in parts of the district where signal is weak, and we add it when needed.",
+        "As an <strong>app development team in Phalodi</strong> working remotely, we use Flutter or React Native to build Android and iOS apps from a single codebase. The first version usually carries OTP login, the core screens, push notifications and an admin panel for your staff. Offline entry is useful in parts of the district where signal is weak, and we add it when needed.",
         "<strong>Android app development in Phalodi</strong> with us starts at ₹40,000, with separate quote lines for in-app payments, GPS tracking, offline sync or links to billing software. We publish on Google Play and the Apple App Store under developer accounts in your name. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If a website with a WhatsApp button would do the same job, we will recommend that instead and save you most of the cost.",
       ],
@@ -270,7 +270,7 @@ const phalodi: CityContent = {
         "A business website is usually live in one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, a store or buyer portal four to eight, and custom dispatch or ledger software six to twelve. Quick replies to our preview links shorten every timeline.",
     },
     {
-      question: "Who is the best website development company in Phalodi?",
+      question: "Who is the best website development team in Phalodi?",
       answer:
         "Judge any provider, including us, on facts: do they register the domain and code in your name, send an itemised written quote, show live work and stay reachable after launch? We meet those tests and answer WhatsApp every day, but asking two or three options the same questions before deciding is sensible.",
     },

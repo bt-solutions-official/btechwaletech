@@ -10,7 +10,7 @@ const nagina: CityContent = {
       "Websites, SEO, online stores, software and WhatsApp automation for Nagina woodcraft workshops, Bijnor traders and schools. Static sites start at ₹10,000.",
     keywords: [
       "IT services Nagina",
-      "website development company in Nagina",
+      "website development team in Nagina",
       "web designer Nagina Bijnor",
       "Nagina wood craft website",
       "wooden handicraft online store",

@@ -10,12 +10,12 @@ const jalandharCantt: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Jalandhar Cantt shops, tutors, clinics, movers and veteran-run firms. From ₹10,000.",
     keywords: [
       "IT services in Jalandhar Cantt",
-      "IT company in Jalandhar Cantt",
-      "website development company in Jalandhar Cantt",
+      "IT services team in Jalandhar Cantt",
+      "website development team in Jalandhar Cantt",
       "web design in Jalandhar Cantt",
-      "app development company in Jalandhar Cantt",
+      "app development team in Jalandhar Cantt",
       "Android app development in Jalandhar Cantt",
-      "software company in Jalandhar Cantt",
+      "software team in Jalandhar Cantt",
       "SEO services in Jalandhar Cantt",
       "digital marketing in Jalandhar Cantt",
       "ecommerce website in Jalandhar Cantt",
@@ -92,19 +92,19 @@ const jalandharCantt: CityContent = {
     },
     {
       id: "movers-rentals-software",
-      heading: "Software company in Jalandhar Cantt for packers, movers and rental dealers",
+      heading: "Software team in Jalandhar Cantt for packers, movers and rental dealers",
       paragraphs: [
         "Every posting cycle brings a wave of moves in both directions. Household goods are packed and loaded, cars are sent by carrier or driven across the country, and families look for rented houses in Deep Nagar, Defence Colony, Garha or Dakoha while they settle in. Movers, transporters, property dealers and landlords all field dozens of enquiries in the same few weeks.",
-        "Working as a <strong>software company in Jalandhar Cantt</strong> in the practical sense, we build tools that stop that rush from turning into chaos. A mover gets a survey form that records rooms and items, produces an itemised estimate, and follows each job through packing, loading, transit and delivery with photos at every stage. A rental dealer gets a listing manager with rent, deposit, furnishing, distance to the cantonment and the date each house falls vacant, shared as one link instead of forty photos forwarded on WhatsApp.",
+        "Working as a <strong>software team in Jalandhar Cantt</strong> in the practical sense, we build tools that stop that rush from turning into chaos. A mover gets a survey form that records rooms and items, produces an itemised estimate, and follows each job through packing, loading, transit and delivery with photos at every stage. A rental dealer gets a listing manager with rent, deposit, furnishing, distance to the cantonment and the date each house falls vacant, shared as one link instead of forty photos forwarded on WhatsApp.",
         "Tools like these start at ₹60,000 and are built over six to twelve weeks, beginning with whichever part hurts most, usually the job tracker. We deliberately keep customer records thin: a name, delivery address, phone number and the items to move. The software has no field for unit names, ranks or posting orders, and it will not get one.",
       ],
     },
     {
       id: "schools-tutors-website",
-      heading: "Website development company in Jalandhar Cantt for schools, tutors and B.D. Arya students",
+      heading: "Website development team in Jalandhar Cantt for schools, tutors and B.D. Arya students",
       paragraphs: [
         "Education is one of the cantonment's anchors. Kendriya Vidyalaya No. 1 opened here in 1963 and No. 2 runs alongside it. Army Public School, founded in 1971 and managed by the Army Welfare Education Society, sits on MH Road. B.D. Arya Girls College on Haqiqat Road, affiliated to Guru Nanak Dev University, offers courses including B.Sc, M.Sc and BCA. Around them work tuition centres, music and dance teachers, sports coaches and stationery shops.",
-        "Children of transferred parents often join partway through a session and need help catching up with a new pace. Tuition centres that set out their batches, subjects, class sizes and timings clearly, and let parents enquire on WhatsApp, fill those seats faster. A good <strong>website development company in Jalandhar Cantt</strong> will also give each course its own page, because parents search for “maths tuition class 9” far more often than for a centre's name.",
+        "Children of transferred parents often join partway through a session and need help catching up with a new pace. Tuition centres that set out their batches, subjects, class sizes and timings clearly, and let parents enquire on WhatsApp, fill those seats faster. A good <strong>website development team in Jalandhar Cantt</strong> will also give each course its own page, because parents search for “maths tuition class 9” far more often than for a centre's name.",
         "For students at the college, and for the PGs and hostels that house them, the priorities shift to room types, rent ranges, meals, safety arrangements and walking distance. We write those pages plainly, add a map and leave out anything you cannot guarantee. A school or tuition site normally fits our static range from ₹10,000; a parent portal with logins and fee records is custom software from ₹60,000.",
       ],
     },
@@ -119,10 +119,10 @@ const jalandharCantt: CityContent = {
     },
     {
       id: "veterans-second-careers",
-      heading: "IT company in Jalandhar Cantt for veterans starting second careers",
+      heading: "IT services team in Jalandhar Cantt for veterans starting second careers",
       paragraphs: [
         "Punjab has a large community of ex-servicemen, and many settle around Jalandhar after retirement, close to the hospital and ECHS facilities they rely on. Plenty of them start businesses: security agencies, taxi and transport services, driving schools, farm ventures, retail franchises, and academies that prepare young people for defence recruitment and entrance tests.",
-        "These firms often compete for contracts where the buyer checks them online before calling. A security agency bidding for a housing society or a factory needs a site that states its licence details, services, training, supervision routine and named leadership, without stock photos of guards from another country. A coaching academy needs honest pages on batches, physical training, fees and results it can document. As a small <strong>IT company in Jalandhar Cantt</strong> for these founders, we keep the tone factual and formal, which suits the owner and the buyer alike.",
+        "These firms often compete for contracts where the buyer checks them online before calling. A security agency bidding for a housing society or a factory needs a site that states its licence details, services, training, supervision routine and named leadership, without stock photos of guards from another country. A coaching academy needs honest pages on batches, physical training, fees and results it can document. As a small <strong>IT services team in Jalandhar Cantt</strong> for these founders, we keep the tone factual and formal, which suits the owner and the buyer alike.",
         "Veteran-run firms usually need back-office help sooner than they expect: guard rosters and attendance, vehicle trip sheets, invoice follow-ups. We can begin with the website and add a small web tool once paperwork starts eating into evenings. We also keep regimental insignia, formation signs and official emblems off your pages, since their use is restricted and they are not ours to borrow.",
       ],
     },
@@ -140,7 +140,7 @@ const jalandharCantt: CityContent = {
       heading: "Android app development in Jalandhar Cantt, plus iOS apps for local services",
       paragraphs: [
         "An app earns its keep when the same people open it every week. Around the cantonment that describes a tuition centre sending homework, test marks and fee reminders to parents, a clinic or lab issuing tokens and report alerts, a mover letting customers follow their consignment, a gym or sports academy managing batches, or a sweet shop whose regulars re-order before each festival.",
-        "As an <strong>app development company in Jalandhar Cantt</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones alike. A typical first release has phone-number login with OTP, push notifications, the three or four screens your users genuinely need, and a web admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you, and we handle the store review process.",
+        "As an <strong>app development team in Jalandhar Cantt</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones alike. A typical first release has phone-number login with OTP, push notifications, the three or four screens your users genuinely need, and a web admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you, and we handle the store review process.",
         "<strong>Android app development in Jalandhar Cantt</strong> with us starts at ₹40,000. Payments, offline use, maps, several user roles and integrations add cost, and each appears as a separate line so you can defer what can wait. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Be honest about the audience, though. If customers need your address, a price list and a phone number once in a while, a website does that job for a quarter of the price and nobody has to download anything. When that is the better choice, we will tell you.",
       ],
@@ -245,7 +245,7 @@ const jalandharCantt: CityContent = {
         "A shop website of a few pages is usually live within one to two weeks of receiving your photos, price bands and timings. The Google Maps listing can be fixed in the first few days, often before the site is finished. Online stores take four to eight weeks, mostly because product photos and descriptions take time to gather.",
     },
     {
-      question: "Which is the best website development company in Jalandhar Cantt?",
+      question: "Which is the best website development team in Jalandhar Cantt?",
       answer:
         "Judge any provider on the same few points: published prices, the domain and code registered in your name, sites you can open on your own phone, and clear answers about support after launch. We meet those tests and reply on WhatsApp every day, but talking to two or three options before you decide is sensible.",
     },

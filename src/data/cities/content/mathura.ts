@@ -10,12 +10,12 @@ const mathura: CityContent = {
       "Websites, Android and iOS apps, local SEO and AI automation for Mathura's tap makers, refinery suppliers, peda shops, bazaar traders, hotels and colleges.",
     keywords: [
       "IT services in Mathura",
-      "IT company in Mathura",
-      "website development company in Mathura",
+      "IT services team in Mathura",
+      "website development team in Mathura",
       "web design in Mathura",
-      "app development company in Mathura",
+      "app development team in Mathura",
       "Android app development in Mathura",
-      "software company in Mathura",
+      "software team in Mathura",
       "SEO services in Mathura",
       "digital marketing in Mathura",
       "ecommerce website in Mathura",
@@ -76,19 +76,19 @@ const mathura: CityContent = {
     },
     {
       id: "refinery-industrial-suppliers",
-      heading: "Software company in Mathura for refinery contractors and industrial-estate suppliers",
+      heading: "Software team in Mathura for refinery contractors and industrial-estate suppliers",
       paragraphs: [
         "A plant the size of the Mathura Refinery depends on a long chain of local firms: mechanical and electrical contractors, scaffolding and crane operators, manpower suppliers, fabrication shops, transporters, canteens and housekeeping agencies. The same pattern repeats at the Site A and Site B estates and in the larger units around Kosi Kotwan, where food, beverage and chemical plants buy services from smaller Mathura businesses.",
         "These firms live on paperwork. Each shutdown or maintenance job brings attendance for dozens of workers, safety training records, gate pass lists, equipment hire hours, material issued and bills raised against a work order. When it sits in registers and forwarded photos, bills get delayed and disputes are hard to settle.",
-        "As a <strong>software company in Mathura</strong> for this kind of client, we build web tools where the supervisor records attendance and hours from a phone, each worker's training and ID documents carry expiry reminders, and the office sees bills pending by work order. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. A plain capability website, listing services, equipment, sectors served and safety practice, is usually the first step and starts at ₹10,000. We never name a plant or client on your site unless you hold written permission to do so.",
+        "As a <strong>software team in Mathura</strong> for this kind of client, we build web tools where the supervisor records attendance and hours from a phone, each worker's training and ID documents carry expiry reminders, and the office sees bills pending by work order. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. A plain capability website, listing services, equipment, sectors served and safety practice, is usually the first step and starts at ₹10,000. We never name a plant or client on your site unless you hold written permission to do so.",
       ],
     },
     {
       id: "sanitary-fittings-makers",
-      heading: "Website development company in Mathura for tap and sanitary fittings manufacturers",
+      heading: "Website development team in Mathura for tap and sanitary fittings manufacturers",
       paragraphs: [
         "Uttar Pradesh picked sanitary fittings as Mathura's product under the One District One Product programme. The cluster makes plastic and metal taps, showers, connection pipes and bathroom accessories, sold through dealers and plumbers across the region. Two NABL-accredited laboratories at Kosi Kalan offer mechanical and chemical testing, which matters when a buyer asks for proof of quality.",
-        "Dealers compare fittings by model number, finish, material, thread size and pack quantity. A <strong>website development company in Mathura</strong> serving this trade should build exactly that: a catalogue with filters for series, material and finish, a downloadable price list, carton sizes, test reports where you have them, and a dealer enquiry form that asks for city, GST number and expected monthly volume.",
+        "Dealers compare fittings by model number, finish, material, thread size and pack quantity. A <strong>website development team in Mathura</strong> serving this trade should build exactly that: a catalogue with filters for series, material and finish, a downloadable price list, carton sizes, test reports where you have them, and a dealer enquiry form that asks for city, GST number and expected monthly volume.",
         "For manufacturers that sell through many dealers, a login area where approved dealers see their own rates and place orders cuts out a lot of phone calls. That becomes custom work from ₹60,000. A straightforward catalogue site of up to 100 pages starts at ₹10,000, and a larger SEO site with one page per product and per dealer city starts at ₹20,000. See what a build covers on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -121,10 +121,10 @@ const mathura: CityContent = {
     },
     {
       id: "colleges-clinics-cantonment",
-      heading: "IT company in Mathura for universities, coaching centres and clinics",
+      heading: "IT services team in Mathura for universities, coaching centres and clinics",
       paragraphs: [
         "Mathura is a study town for western Uttar Pradesh. GLA University and Sanskriti University draw students from several states, the veterinary science university (DUVASU) is based in the city, and K.M. Medical College and Hospital trains doctors and nurses. Around them are coaching centres, hostels, paying-guest houses, tiffin services and bookshops. The army's I Corps is headquartered at Mathura Cantonment, and its families add to demand for schools, clinics and tutors.",
-        "An <strong>IT company in Mathura</strong> can help these institutions most by cutting down repeated questions. For a coaching centre, that means course pages with batch timings, fee ranges and results you can prove, plus an admission form that lands in a sheet. For a clinic or diagnostic centre, it means doctor schedules, test lists and a WhatsApp appointment flow. For a hostel, rooms, rules, meals and distance to campus.",
+        "An <strong>IT services team in Mathura</strong> can help these institutions most by cutting down repeated questions. For a coaching centre, that means course pages with batch timings, fee ranges and results you can prove, plus an admission form that lands in a sheet. For a clinic or diagnostic centre, it means doctor schedules, test lists and a WhatsApp appointment flow. For a hostel, rooms, rules, meals and distance to campus.",
         "Most of these begin with a website from ₹10,000 and a Maps listing. Institutes with many students often add a parent app for notices, attendance and fee reminders, which we cover in the app section below.",
       ],
     },
@@ -133,7 +133,7 @@ const mathura: CityContent = {
       heading: "Android app development in Mathura and iOS apps for local businesses",
       paragraphs: [
         "Build an app only when the same people will open it again and again. In Mathura that usually means one of four groups: fittings dealers who reorder every week, hotel guests who book and check in, students and parents of a coaching institute, or supervisors logging work at an industrial site. A peda shop with thousands of repeat buyers can justify one too, especially before Janmashtami and Diwali.",
-        "As an <strong>app development company in Mathura</strong> that works remotely, we write apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release typically has mobile number login with OTP, push notifications, the core screens your users need, and an admin panel where your staff update products, rooms or notices. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
+        "As an <strong>app development team in Mathura</strong> that works remotely, we write apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release typically has mobile number login with OTP, push notifications, the core screens your users need, and an admin panel where your staff update products, rooms or notices. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
         "<strong>Android app development in Mathura</strong> with us starts at ₹40,000. The quote rises with online payment, dealer-specific pricing, offline use for sites with weak signal, maps and links to billing software, each listed as its own line. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
         "When your customers only need your address, a price list and a phone number, a website and a Maps listing do the job at a fraction of the cost. We will tell you that plainly. An app downloaded once and never opened again helps nobody.",
       ],
@@ -220,7 +220,7 @@ const mathura: CityContent = {
         "Yes. We build Flutter or React Native apps that run on both Android and iPhone, with OTP login, push notifications and an admin panel, and publish them on Google Play and the App Store in your business's name. Apps start at ₹40,000. Common Mathura uses are dealer reordering, hotel bookings and coaching notices.",
     },
     {
-      question: "Which is the best website development company in Mathura?",
+      question: "Which is the best website development team in Mathura?",
       answer:
         "The best choice is the one that shows real work, publishes its prices, registers the domain and code to you, and still answers after launch. Ask every shortlisted provider the same questions and compare written quotes. We meet those tests, but it is sensible to speak to two or three options before deciding.",
     },

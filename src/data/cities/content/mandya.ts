@@ -9,7 +9,7 @@ const mandya: CityContent = {
     description:
       "Websites, Kannada SEO, jaggery and produce stores and WhatsApp tools for Mandya sugar and jaggery units, rice mills, colleges, clinics and highway businesses.",
     keywords: [
-      "website development company in Mandya",
+      "website development team in Mandya",
       "web designer Mandya",
       "website developer Mandya Karnataka",
       "website cost Mandya",
@@ -21,7 +21,7 @@ const mandya: CityContent = {
       "restaurant website Maddur",
       "homestay website Srirangapatna",
       "WhatsApp automation Mandya",
-      "software company Mandya",
+      "software team Mandya",
       "website maintenance Mandya",
       "Google Maps listing Mandya",
       "ಮಂಡ್ಯ ವೆಬ್‌ಸೈಟ್ ತಯಾರಿಕೆ",

@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT solutions and IT consulting in Rajasthan: digital transformation for stone, textile, tourism and trading firms. Software, apps, AI and SEO from ₹10,000.",
     keywords: [
-      "IT solutions company in Rajasthan",
+      "IT solutions team in Rajasthan",
       "IT consulting Rajasthan",
       "digital transformation Rajasthan",
       "freelance IT consultant Rajasthan",
@@ -37,7 +37,7 @@ const content: CityContent = {
     eyebrow: "Rajasthan · consulting-led IT solutions across 41 districts",
     h1: "Freelance IT solutions and IT consulting for Rajasthan's traders, makers and hoteliers",
     lede:
-      "Looking for an IT solutions company in Rajasthan and wondering whether a freelance team can do the same job? BtechWaleTech is a freelance group of three independent engineers who work remotely from India and start every Rajasthan engagement with consulting: we map how orders, stock, money and customers actually move through your business, then build only what removes friction. That can mean custom software, a web app, Android and iOS apps, AI automation, dashboards, cloud hosting, SEO or an online store, for firms from Jaipur and Jodhpur to Bhilwara, Kishangarh and Jaisalmer.",
+      "Looking for an IT solutions team in Rajasthan and wondering whether a freelance team can do the same job? BtechWaleTech is a freelance group of three independent engineers who work remotely from India and start every Rajasthan engagement with consulting: we map how orders, stock, money and customers actually move through your business, then build only what removes friction. That can mean custom software, a web app, Android and iOS apps, AI automation, dashboards, cloud hosting, SEO or an online store, for firms from Jaipur and Jodhpur to Bhilwara, Kishangarh and Jaisalmer.",
     pills: ["IT consulting first", "Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "Hindi and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
@@ -85,7 +85,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-team-vs-it-company-rajasthan",
-      heading: "Freelance IT team or an IT solutions company in Rajasthan: which should you hire?",
+      heading: "Freelance IT team or an IT solutions team in Rajasthan: which should you hire?",
       paragraphs: [
         "A freelance IT team suits most Rajasthan MSMEs better than a large IT solutions company when the project is under a few lakh rupees and the owner wants to deal directly with the engineers. Larger firms make sense for regulated enterprise work, 24-hour staffed support desks or projects needing dozens of developers at once.",
         "If you are comparing IT companies in Jaipur, Jodhpur or Kota, you will notice that many present a large team but hand small projects to one or two junior developers behind an account manager. With BtechWaleTech the three of us are the whole team. That cuts the layers, but it also sets honest limits: we take a small number of projects at a time, and we will tell you if your timeline cannot fit.",
@@ -265,7 +265,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT solutions company based in Rajasthan?",
+      question: "Is BtechWaleTech an IT solutions team based in Rajasthan?",
       answer:
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we have no office anywhere in Rajasthan. We serve Rajasthan clients through video calls, WhatsApp, email and shared preview links. If you specifically need someone to visit your premises regularly, a local provider may suit you better; for software, apps, automation, hosting and SEO, remote work is normal and efficient.",
     },

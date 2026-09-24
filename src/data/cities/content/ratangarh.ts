@@ -10,12 +10,12 @@ const ratangarh: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ratangarh traders, guar and grain units, haveli stays, schools and clinics.",
     keywords: [
       "IT services in Ratangarh",
-      "IT company in Ratangarh",
-      "website development company in Ratangarh",
+      "IT services team in Ratangarh",
+      "website development team in Ratangarh",
       "web design in Ratangarh",
-      "app development company in Ratangarh",
+      "app development team in Ratangarh",
       "Android app development in Ratangarh",
-      "software company in Ratangarh",
+      "software team in Ratangarh",
       "SEO services in Ratangarh",
       "digital marketing in Ratangarh",
       "ecommerce website in Ratangarh",
@@ -75,20 +75,20 @@ const ratangarh: CityContent = {
     },
     {
       id: "bazaar-wholesale",
-      heading: "Website development company in Ratangarh for bazaar traders and wholesalers",
+      heading: "Website development team in Ratangarh for bazaar traders and wholesalers",
       paragraphs: [
         "The four arms of the main bazaar still carry the town's retail and wholesale trade: cloth and readymade garments, jewellery, utensils, grocery wholesale, hardware, electricals, mobiles and building materials. Retailers from villages across the tehsil buy here, and many shops also send goods to smaller markets in Churu district.",
-        "A <strong>website development company in Ratangarh</strong> serving these traders should keep things simple and specific. Pages for each product category with brands and price ranges, wholesale terms explained plainly, delivery areas and days, GST details, shop timings including festival closures, and a WhatsApp button that opens a chat with the counter. For jewellers, a clear note on making charges, hallmarking and old-gold exchange builds trust quickly.",
+        "A <strong>website development team in Ratangarh</strong> serving these traders should keep things simple and specific. Pages for each product category with brands and price ranges, wholesale terms explained plainly, delivery areas and days, GST details, shop timings including festival closures, and a WhatsApp button that opens a chat with the counter. For jewellers, a clear note on making charges, hallmarking and old-gold exchange builds trust quickly.",
         "Wholesalers with regular retailer customers can add a private rate list or order form, so a shopkeeper in a nearby village can send an order in the evening and have it packed by morning. We keep the design light so it opens quickly on basic phones.",
         "A trader website starts at ₹10,000 and is usually ready within one to two weeks. See our <a href=\"/services/web-development/\">web development service</a> for what comes with it.",
       ],
     },
     {
       id: "agro-units-traders",
-      heading: "Software company in Ratangarh for guar, grain and agro processing units",
+      heading: "Software team in Ratangarh for guar, grain and agro processing units",
       paragraphs: [
         "Churu district farms mostly depend on rain, and the main crops are bajra and guar, with pulses, mustard and wheat where water allows. Around this farming base sit agro businesses: grain and guar traders, pulse and flour mills, guar gum and seed processing units, cattle feed makers and oil mills. Some operate from the RIICO industrial area at Ratangarh, others from godowns near the station.",
-        "The money in this trade depends on accurate records. Purchases from farmers and commission agents arrive in varying qualities and moisture levels, prices move with the season and the commodity markets, and sales go out on credit to buyers across Rajasthan and beyond. As a practical <strong>software company in Ratangarh</strong>, we build tools that fit this work: purchase entries with weight, quality and rate, stock by godown and lot, processing yields, dispatches with vehicle and bilty details, and outstanding balances by buyer.",
+        "The money in this trade depends on accurate records. Purchases from farmers and commission agents arrive in varying qualities and moisture levels, prices move with the season and the commodity markets, and sales go out on credit to buyers across Rajasthan and beyond. As a practical <strong>software team in Ratangarh</strong>, we build tools that fit this work: purchase entries with weight, quality and rate, stock by godown and lot, processing yields, dispatches with vehicle and bilty details, and outstanding balances by buyer.",
         "Everything can be exported for your accountant or linked to Tally. We keep screens in Hindi where staff prefer it and make daily entry possible from a phone at the godown.",
         "These systems start at ₹60,000 and are built over six to twelve weeks in stages, beginning with the purchase and stock register because it usually pays back fastest.",
       ],
@@ -138,7 +138,7 @@ const ratangarh: CityContent = {
       heading: "Android app development in Ratangarh, with iOS apps too",
       paragraphs: [
         "An app is worth the cost only when people will open it again and again. Good candidates in Ratangarh include a wholesaler whose village retailers re-order every week, a grain or guar trader sharing daily rates with regular sellers, a school sending homework, fee reminders and circulars to parents, a hospital issuing tokens, or a dharamshala on the pilgrim route taking room requests.",
-        "As an <strong>app development company in Ratangarh</strong> that works remotely, we build with Flutter or React Native, which lets one codebase run on Android phones and iPhones. A first version normally includes OTP login, push notifications, the key screens your users need and an admin panel for your team. We publish on Google Play and the Apple App Store using developer accounts in your name.",
+        "As an <strong>app development team in Ratangarh</strong> that works remotely, we build with Flutter or React Native, which lets one codebase run on Android phones and iPhones. A first version normally includes OTP login, push notifications, the key screens your users need and an admin panel for your team. We publish on Google Play and the Apple App Store using developer accounts in your name.",
         "<strong>Android app development in Ratangarh</strong> with us starts at ₹40,000. Online payments, offline use where signal is weak, maps and live tracking, or Tally integration raise the price, and each one is itemised. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, rates and phone number, a website does the job for about a quarter of the price and nobody has to install anything. We will recommend that instead, because an unused app is wasted money.",
       ],
@@ -182,7 +182,7 @@ const ratangarh: CityContent = {
     },
     {
       id: "around-ratangarh",
-      heading: "IT company in Ratangarh serving Rajaldesar, Sujangarh, Sardarshahar and Churu",
+      heading: "IT services team in Ratangarh serving Rajaldesar, Sujangarh, Sardarshahar and Churu",
       paragraphs: [
         "We work with businesses across Ratangarh tehsil and the rest of Churu district: Rajaldesar, Sujangarh and Salasar, Sardarshahar, Bidasar, Taranagar and Churu itself, and further to Ladnun, Lachhmangarh, Sikar and Bikaner.",
         "When a business serves several towns, we make a separate page for each only where there is real information: a branch or agent, delivery days, a local number. Copied pages with only the town name swapped are ignored by Google and customers alike, so we skip them.",
@@ -231,7 +231,7 @@ const ratangarh: CityContent = {
         "A simple site generally goes live one to two weeks after your text and photos reach us. Allow three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Content arriving on time is the main thing that keeps a project on schedule.",
     },
     {
-      question: "Who is the best website development company in Ratangarh?",
+      question: "Who is the best website development team in Ratangarh?",
       answer:
         "Use the same checklist for everyone: public prices, domain and code in your name, live work you can see, and a clear support arrangement after launch. We meet all of these and reply on WhatsApp seven days a week, but comparing two or three developers before deciding is sensible.",
     },

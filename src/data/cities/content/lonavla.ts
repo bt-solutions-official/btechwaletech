@@ -10,12 +10,12 @@ const lonavla: CityContent = {
       "Booking websites, Android and iOS apps, local SEO and WhatsApp automation for Lonavla villas, resorts, chikki makers, trek operators, schools and local shops.",
     keywords: [
       "IT services in Lonavla",
-      "IT company in Lonavla",
-      "website development company in Lonavla",
+      "IT services team in Lonavla",
+      "website development team in Lonavla",
       "web design in Lonavla",
-      "app development company in Lonavla",
+      "app development team in Lonavla",
       "Android app development in Lonavla",
-      "software company in Lonavla",
+      "software team in Lonavla",
       "SEO services in Lonavla",
       "digital marketing in Lonavla",
       "ecommerce website in Lonavla",
@@ -75,10 +75,10 @@ const lonavla: CityContent = {
     },
     {
       id: "villas-bungalows",
-      heading: "Website development company in Lonavla for villa and bungalow rentals",
+      heading: "Website development team in Lonavla for villa and bungalow rentals",
       paragraphs: [
         "Holiday bungalows and private villas are a large part of the local economy, spread across Tungarli, Bhangarwadi, Nangargaon, Khandala and the roads towards the lakes. Many owners live in Mumbai or Pune and rely on a caretaker on site, while listings on booking platforms bring guests at a commission that eats into the margin.",
-        "As a <strong>website development company in Lonavla</strong> for this group, we build direct-booking sites that show each property properly: honest photographs, bedroom and bathroom count, pool size, maximum guests, pet and party rules, check-in times, parking, meals, and exact distance to the market and station. Tariffs are shown as starting rates for weekdays and weekends so guests are not surprised.",
+        "As a <strong>website development team in Lonavla</strong> for this group, we build direct-booking sites that show each property properly: honest photographs, bedroom and bathroom count, pool size, maximum guests, pet and party rules, check-in times, parking, meals, and exact distance to the market and station. Tariffs are shown as starting rates for weekdays and weekends so guests are not surprised.",
         "A booking calendar lets guests see open dates. Requests land on your WhatsApp with dates, group size and phone number already filled in, and you confirm payment by UPI. For managers who handle several bungalows, we add an owner dashboard with bookings, advance received and caretaker tasks per property.",
         "We never publish a property address or photos of neighbouring homes without permission, and we make house rules clear up front. It saves arguments at check-in and keeps reviews fair.",
       ],
@@ -118,7 +118,7 @@ const lonavla: CityContent = {
       heading: "Android app development in Lonavla: who needs an app and who does not",
       paragraphs: [
         "Most Lonavla visitors will not install an app for a single weekend stay, so for many businesses a fast website is the right tool. Apps pay off where the same people return often: repeat chikki buyers, members of a club or sports facility, parents of boarding school students, or the staff who clean and prepare a dozen bungalows between Sunday checkout and Friday check-in.",
-        "As an <strong>app development company in Lonavla</strong> clients can reach remotely, we build in Flutter or React Native so one app runs on Android and iPhone. A typical first version has login, push notifications, the screens your users really need, and a web admin panel. For a villa manager that could mean a housekeeping app with checklists, photos of each room after cleaning, and maintenance reports. For a sweet brand, it could mean quick reorders and festive offers.",
+        "As an <strong>app development team in Lonavla</strong> clients can reach remotely, we build in Flutter or React Native so one app runs on Android and iPhone. A typical first version has login, push notifications, the screens your users really need, and a web admin panel. For a villa manager that could mean a housekeeping app with checklists, photos of each room after cleaning, and maintenance reports. For a sweet brand, it could mean quick reorders and festive offers.",
         "<a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> start at ₹40,000. We publish them on Google Play and the App Store under developer accounts in your name, handle the store review process, and give you the source code.",
         "If you are unsure, we can quote both a website and an app so you can see the difference in cost and effort before deciding.",
       ],
@@ -145,10 +145,10 @@ const lonavla: CityContent = {
     },
     {
       id: "shops-services",
-      heading: "Software company in Lonavla for shops, real estate and local services",
+      heading: "Software team in Lonavla for shops, real estate and local services",
       paragraphs: [
         "Beyond tourism, Lonavla has the everyday businesses any town needs: grocery and hardware shops near the market, clinics, pharmacies, electricians, plumbers, pool maintenance and gardening contractors who look after bungalows, and real estate brokers dealing in plots and holiday homes. Many of them serve owners who live elsewhere and manage everything by phone.",
-        "As a <strong>software company in Lonavla</strong> clients use remotely, we build small tools that suit this. A pool and garden contractor can log each visit with photos so absent owners see the work was done. A property manager can track rent, electricity bills and repairs for several houses. A broker can publish listings with honest details and receive enquiries by WhatsApp.",
+        "As a <strong>software team in Lonavla</strong> clients use remotely, we build small tools that suit this. A pool and garden contractor can log each visit with photos so absent owners see the work was done. A property manager can track rent, electricity bills and repairs for several houses. A broker can publish listings with honest details and receive enquiries by WhatsApp.",
         "For real estate pages, we include only facts you can back up: area, approvals you hold, distance to the station and expressway, and clear photos. We do not publish RERA numbers, approval claims or rental yields unless you provide the documents.",
         "Simple shop websites start at ₹10,000. Custom tools start at ₹60,000, or from ₹40,000 as an Android and iOS app.",
       ],
@@ -185,9 +185,9 @@ const lonavla: CityContent = {
     },
     {
       id: "remote-team-lonavla",
-      heading: "IT company in Lonavla without a local office: how we work",
+      heading: "IT services team in Lonavla without a local office: how we work",
       paragraphs: [
-        "We are not a local <strong>IT company in Lonavla</strong> with a shopfront, and we do not claim to be. We are three engineers working remotely, which suits owners who themselves divide their time between Lonavla, Pune and Mumbai. You can reach us from wherever you are.",
+        "We are not a local <strong>IT services team in Lonavla</strong> with a shopfront, and we do not claim to be. We are three engineers working remotely, which suits owners who themselves divide their time between Lonavla, Pune and Mumbai. You can reach us from wherever you are.",
         "The process is simple. Send a WhatsApp message with your business name, what you offer, and a few photos or links you like. We ask questions, then send an itemised quote in about two working days. After approval, you see a first draft within the agreed time, give feedback by voice note or text, and approve each change before it goes live. We reply seven days a week on Indian time.",
         "For Marathi pages, we write carefully and ask you to check the wording, since you know how your guests and customers speak. Hindi and English we handle directly.",
         "Ready to start? <a href=\"/contact/\">Message us</a> with what you need and we will take it from there.",
@@ -240,7 +240,7 @@ const lonavla: CityContent = {
         "A static site is usually ready in one to two weeks after we receive your photos and text. A larger SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Owners who want the site live before the monsoon or a long weekend should start about a month earlier.",
     },
     {
-      question: "Which is the best website development company in Lonavla?",
+      question: "Which is the best website development team in Lonavla?",
       answer:
         "Look for one that registers the domain and hosting in your name, gives an itemised quote, shows similar work, and explains maintenance clearly. Ask every option those questions. We are a remote team of three engineers with no Lonavla office, published starting prices and written quotes, so you can compare us fairly.",
     },

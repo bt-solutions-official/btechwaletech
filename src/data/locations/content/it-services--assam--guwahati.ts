@@ -13,8 +13,8 @@ const content: CityContent = {
       "mobile app developers Guwahati",
       "iOS app development Guwahati",
       "iPhone app developers Guwahati",
-      "software development company in Guwahati",
-      "IT company in Guwahati",
+      "software development team in Guwahati",
+      "IT services team in Guwahati",
       "IT solutions Guwahati",
       "freelance software developers in Guwahati",
       "custom software development Guwahati",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Guwahati · Kamrup Metropolitan · Assam",
     h1: "Freelance software developers in Guwahati for distributors, transporters, hospitals and startups",
     lede:
-      "BtechWaleTech is a freelance group of three software developers serving Guwahati remotely from India. If you are comparing a software development company in Guwahati with independent developers, here is what we do: distributor and order portals, transport and trip tracking, lab and clinic systems, CRMs, MVPs for founders, AI agents and business dashboards, plus the websites and SEO around them. Prices are published and every login is yours.",
+      "BtechWaleTech is a freelance group of three software developers serving Guwahati remotely from India. If you are comparing a software development team in Guwahati with independent developers, here is what we do: distributor and order portals, transport and trip tracking, lab and clinic systems, CRMs, MVPs for founders, AI agents and business dashboards, plus the websites and SEO around them. Prices are published and every login is yours.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Android & iOS apps from ₹40,000", "MVPs for startups", "5 months free maintenance"],
   },
   quickAnswer:
@@ -211,15 +211,15 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-guwahati",
-      heading: "Freelance developers vs a software development company in Guwahati: cost, time and fit",
+      heading: "Freelance developers vs a software development team in Guwahati: cost, time and fit",
       paragraphs: [
-        "Hiring freelance developers like BtechWaleTech usually costs less than a software development company in Guwahati and gives you direct contact with the people writing code, while a larger company can offer bigger teams, formal contracts and in-person meetings. Our starting prices: websites ₹10,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
+        "Hiring freelance developers like BtechWaleTech usually costs less than a software development team in Guwahati and gives you direct contact with the people writing code, while a larger company can offer bigger teams, formal contracts and in-person meetings. Our starting prices: websites ₹10,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
         "Timelines are one to two weeks for a website, two to four for automation, four to eight for a store and six to twelve for custom software. Quotes are itemised, payments are staged, and you pay only by UPI QR or bank transfer in INR. Full details are on our <a href='/pricing/'>pricing page</a>, and examples of past work are on the <a href='/portfolio/'>portfolio</a>.",
         "Practical checks apply to anyone you hire: ask for a repository you own from the first day, a live preview during development, a written support plan, and a clear answer on who handles hosting. Read more <a href='/about/'>about us</a>, see statewide context on the <a href='/it-services/assam/'>Assam IT services page</a>, or <a href='/contact/'>get in touch</a>.",
       ],
       list: [
         "Freelance group: direct engineer access, published prices, remote only",
-        "Software company: larger teams and formal account management, higher cost",
+        "Software team: larger teams and formal account management, higher cost",
         "Either way: code repository, domain and hosting in your name",
       ],
     },
@@ -309,7 +309,7 @@ const content: CityContent = {
         "No. We build for a transparent fee with published starting prices and do not take equity or promise investor introductions. Founders get full ownership of the code and documentation. We help trim the MVP to the smallest useful version so the budget goes further.",
     },
     {
-      question: "Should I hire freelancers or a software development company in Guwahati?",
+      question: "Should I hire freelancers or a software development team in Guwahati?",
       answer:
         "It depends on your priorities. A freelance group like ours offers direct engineer contact, lower overheads and published prices, but works remotely. A larger company may provide bigger teams and in-person meetings at higher cost. Either way, ask for code ownership, itemised quotes and written support terms.",
     },

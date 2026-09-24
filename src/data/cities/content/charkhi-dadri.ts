@@ -10,12 +10,12 @@ const charkhiDadri: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Charkhi Dadri traders, wrestling akharas, coaching centres, clinics and grain market firms.",
     keywords: [
       "IT services in Charkhi Dadri",
-      "IT company in Charkhi Dadri",
-      "website development company in Charkhi Dadri",
+      "IT services team in Charkhi Dadri",
+      "website development team in Charkhi Dadri",
       "web design in Charkhi Dadri",
-      "app development company in Charkhi Dadri",
+      "app development team in Charkhi Dadri",
       "Android app development in Charkhi Dadri",
-      "software company in Charkhi Dadri",
+      "software team in Charkhi Dadri",
       "SEO services in Charkhi Dadri",
       "digital marketing in Charkhi Dadri",
       "ecommerce website in Charkhi Dadri",
@@ -74,11 +74,11 @@ const charkhiDadri: CityContent = {
     },
     {
       id: "grain-market-software",
-      heading: "Software company in Charkhi Dadri for the grain market and commission agents",
+      heading: "Software team in Charkhi Dadri for the grain market and commission agents",
       paragraphs: [
         "Charkhi Dadri has long been the trading point for surrounding villages, and its grain market handles the district's bajra, mustard, wheat and gram. Around it sit commission agents, transporters, fertiliser and seed dealers, weighbridge operators and banks, all dealing with the same farmers across a season.",
         "Much of this still runs on registers and phone calls. A commission agent tracks each farmer's lots, weights, deductions, sale rates and the date the money was paid. A dealer keeps credit accounts that are settled after harvest. When figures live in three notebooks, disputes follow.",
-        "As a <strong>software company in Charkhi Dadri</strong>, we build small web tools that fit this work rather than generic accounting packages. Entries for arrival, auction rate and buyer are made once from a phone or counter computer, and the system shows balances per farmer and per buyer, pending payments and a printable slip. Exports to Excel or Tally are included where needed. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the register you use most.",
+        "As a <strong>software team in Charkhi Dadri</strong>, we build small web tools that fit this work rather than generic accounting packages. Entries for arrival, auction rate and buyer are made once from a phone or counter computer, and the system shows balances per farmer and per buyer, pending payments and a printable slip. Exports to Excel or Tally are included where needed. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the register you use most.",
       ],
     },
     {
@@ -101,10 +101,10 @@ const charkhiDadri: CityContent = {
     },
     {
       id: "hospitals-clinics-loharu-road",
-      heading: "Website development company in Charkhi Dadri for hospitals and clinics",
+      heading: "Website development team in Charkhi Dadri for hospitals and clinics",
       paragraphs: [
         "Since the district was formed, private hospitals, diagnostic labs, dental clinics and pharmacies have opened along Loharu Road, Jhajjar Road, Ghikara Road and near Hira Chowk. Patients from villages and from nearby Rajasthan often travel in without knowing exactly where a doctor sits or what time the OPD closes.",
-        "A <strong>website development company in Charkhi Dadri</strong> can fix that with a few careful pages: departments, doctors and their qualifications, OPD days and hours, emergency contact, directions from the bus stand and railway station, and insurance or government scheme details where they apply. Everything should be readable in Hindi on a basic phone.",
+        "A <strong>website development team in Charkhi Dadri</strong> can fix that with a few careful pages: departments, doctors and their qualifications, OPD days and hours, emergency contact, directions from the bus stand and railway station, and insurance or government scheme details where they apply. Everything should be readable in Hindi on a basic phone.",
         "We avoid medical claims and do not publish patient testimonials without written consent. For larger practices, online appointment requests or a token system reduce crowding at the counter. A clinic website starts at ₹10,000; appointment booking and reminders are quoted separately so you can see what each part costs.",
       ],
     },
@@ -119,10 +119,10 @@ const charkhiDadri: CityContent = {
     },
     {
       id: "industrial-township-suppliers",
-      heading: "IT company in Charkhi Dadri for contractors, transporters and future industry",
+      heading: "IT services team in Charkhi Dadri for contractors, transporters and future industry",
       paragraphs: [
         "Charkhi Dadri once had a Cement Corporation of India plant, set up in 1982, which stopped production in 1996, and a large block of industrial land near it stayed unused for years. The state has since approved an industrial township there with HSIIDC, beside Dadri railway station and close to the NH 152D expressway. If it develops as planned, local contractors, transporters, electricians and suppliers will want to be found by new units.",
-        "An <strong>IT company in Charkhi Dadri</strong> should help such firms look established before that demand arrives. A clean site listing services, equipment, vehicles, licences, safety practices and named contacts, with GST details and a quote request form, is enough for most. Transport operators benefit from a page per route and vehicle type.",
+        "An <strong>IT services team in Charkhi Dadri</strong> should help such firms look established before that demand arrives. A clean site listing services, equipment, vehicles, licences, safety practices and named contacts, with GST details and a quote request form, is enough for most. Transport operators benefit from a page per route and vehicle type.",
         "We never list a client or project on your site without written permission. For builders and contractors already working on roads, schools and government buildings in the district, a simple project tracker for materials, labour and payments can come later as a separate piece of work.",
       ],
     },
@@ -140,7 +140,7 @@ const charkhiDadri: CityContent = {
       heading: "Android app development in Charkhi Dadri, with iOS included",
       paragraphs: [
         "Apps make sense when the same people open them week after week. In Dadri that could be trainees at an academy logging weight, diet and training sessions; coaching students taking mock tests and reading notices; a dairy's subscribers pausing or changing daily milk orders; or a commission agent's farmers checking the status of their payments.",
-        "As an <strong>app development company in Charkhi Dadri</strong> that works remotely, we build in Flutter or React Native so one codebase covers Android phones and iPhones. A first release usually has mobile number login, push notifications, the few screens users need and an admin panel for staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Charkhi Dadri</strong> that works remotely, we build in Flutter or React Native so one codebase covers Android phones and iPhones. A first release usually has mobile number login, push notifications, the few screens users need and an admin panel for staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
         "<strong>Android app development in Charkhi Dadri</strong> with us starts at ₹40,000. Payments, offline use in villages with weak signal, maps and integrations add to the cost, and the quote lists each one. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a price list, a website does the job at a fraction of the cost. An app that people install once and forget is money wasted, so we will recommend the website where it fits.",
       ],
@@ -223,7 +223,7 @@ const charkhiDadri: CityContent = {
         "A simple shop or clinic website of up to 100 pages usually takes one to two weeks once we have your photographs, prices and text. Large SEO sites take three to five weeks and online stores four to eight. Delays mostly come from waiting for content, so we send a checklist on day one.",
     },
     {
-      question: "Which is the best website development company in Charkhi Dadri?",
+      question: "Which is the best website development team in Charkhi Dadri?",
       answer:
         "The best choice is a provider that shows real work, publishes starting prices, registers your domain and code in your name and still answers after launch. Ask every option the same questions and compare written quotes. We meet those tests, but speaking to two or three providers before you decide is sensible.",
     },

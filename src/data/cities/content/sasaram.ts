@@ -9,7 +9,7 @@ const sasaram: CityContent = {
     description:
       "Websites, Google Maps setup and WhatsApp automation for Sasaram rice mills, stone crushers, clinics, coaching centres and hotels in Rohtas. From ₹10,000.",
     keywords: [
-      "website development company in Sasaram",
+      "website development team in Sasaram",
       "web designer Sasaram",
       "website design Rohtas",
       "SEO services Sasaram",

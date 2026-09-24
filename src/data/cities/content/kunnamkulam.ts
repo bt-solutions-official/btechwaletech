@@ -10,12 +10,12 @@ const kunnamkulam: CityContent = {
       "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kunnamkulam printers, book sellers, jewellers, traders and clinics.",
     keywords: [
       "IT services in Kunnamkulam",
-      "IT company in Kunnamkulam",
-      "website development company in Kunnamkulam",
+      "IT services team in Kunnamkulam",
+      "website development team in Kunnamkulam",
       "web design in Kunnamkulam",
-      "app development company in Kunnamkulam",
+      "app development team in Kunnamkulam",
       "Android app development in Kunnamkulam",
-      "software company in Kunnamkulam",
+      "software team in Kunnamkulam",
       "SEO services in Kunnamkulam",
       "digital marketing in Kunnamkulam",
       "ecommerce website in Kunnamkulam",
@@ -75,10 +75,10 @@ const kunnamkulam: CityContent = {
     },
     {
       id: "printing-presses-publishers",
-      heading: "Website development company in Kunnamkulam for printing presses and publishers",
+      heading: "Website development team in Kunnamkulam for printing presses and publishers",
       paragraphs: [
         "Organised printing in Kunnamkulam goes back to the Vidyarathnaprabha Press of 1860, and by the end of that century the town was producing a Malayalam newspaper. Its presses became known across Kerala for religious texts, both Christian and Hindu, and for Malayalam literature. The Panchangam Press on Kozhikode Road, for example, has long printed almanacs and works on the Vedas, Puranas and Sanskrit classics.",
-        "A press today sells two things online: its catalogue and its capacity. For the first, a <strong>website development company in Kunnamkulam</strong> should build a searchable title list with cover images, language, page count, binding and price, so a priest in Kannur or a library in Kottayam can find the right edition without phoning. For the second, it should explain in plain terms what the press can print for others: wedding cards, parish directories, school notebooks, calendars, souvenirs and bill books, with minimum quantities and a file upload for artwork.",
+        "A press today sells two things online: its catalogue and its capacity. For the first, a <strong>website development team in Kunnamkulam</strong> should build a searchable title list with cover images, language, page count, binding and price, so a priest in Kannur or a library in Kottayam can find the right edition without phoning. For the second, it should explain in plain terms what the press can print for others: wedding cards, parish directories, school notebooks, calendars, souvenirs and bill books, with minimum quantities and a file upload for artwork.",
         "We build both halves on the same site. Title pages carry proper Malayalam text, not images of text, so Google can read and index them. The job enquiry form asks for size, paper, colour, quantity and delivery date, which saves a round of calls. A simple static catalogue site starts at ₹10,000; a larger build covering hundreds of titles, each with its own page, starts at ₹20,000 and suits a publisher who wants every book to be findable by name.",
         "We check proof pages with you before anything goes live, because a misspelt title on a religious book site is the kind of error your customers will point out immediately.",
       ],
@@ -95,10 +95,10 @@ const kunnamkulam: CityContent = {
     },
     {
       id: "arecanut-traders-pazhanji",
-      heading: "Software company in Kunnamkulam for arecanut traders and wholesale merchants",
+      heading: "Software team in Kunnamkulam for arecanut traders and wholesale merchants",
       paragraphs: [
         "A short drive from town, Pazhanji is known for its arecanut market, where growers sell to licensed merchants through auction from Monday to Saturday. The trade that surrounds it is busy and mostly on paper: lots received, grades, bid rates, commission, advances to growers, loading to buyers in other states and payments that come back days later.",
-        "As a <strong>software company in Kunnamkulam</strong>, we build compact web tools for this kind of work. Each lot is entered once with grower, weight, grade and rate. The system keeps a running account per grower and per buyer, shows who owes what, prints a clean slip and sends the grower a WhatsApp summary of the day's sale. The owner sees the day's totals on a phone without waiting for the evening accounts.",
+        "As a <strong>software team in Kunnamkulam</strong>, we build compact web tools for this kind of work. Each lot is entered once with grower, weight, grade and rate. The system keeps a running account per grower and per buyer, shows who owes what, prints a clean slip and sends the grower a WhatsApp summary of the day's sale. The owner sees the day's totals on a phone without waiting for the evening accounts.",
         "The same pattern suits other wholesale trades in the area, including rice, coconut, spices, hardware and textiles, where merchants extend credit to smaller shops. A credit register with due-date reminders often pays for itself in the first season by cutting forgotten balances.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We start with the part that hurts most, usually the daily register, and add reports and mobile access once the first stage is in daily use.",
       ],
@@ -128,7 +128,7 @@ const kunnamkulam: CityContent = {
       heading: "Android app development in Kunnamkulam: when an app earns its place",
       paragraphs: [
         "Plenty of Kunnamkulam businesses ask whether they need an app. The honest test is how often the same people will open it. An app makes sense for a hospital that issues daily tokens, a school or coaching centre that sends notices and fee reminders to parents, a book seller with buyers who reorder every few months, a wholesaler whose retailers place orders each week, or a pharmacy that delivers repeat prescriptions.",
-        "As an <strong>app development company in Kunnamkulam</strong>, we build in Flutter or React Native, so one codebase produces both the Android app and the iPhone app. A first release usually has mobile number login, push notifications, the few screens your users actually need, and an admin panel where your staff update content and see requests. Malayalam labels are available wherever your customers expect them.",
+        "As an <strong>app development team in Kunnamkulam</strong>, we build in Flutter or React Native, so one codebase produces both the Android app and the iPhone app. A first release usually has mobile number login, push notifications, the few screens your users actually need, and an admin panel where your staff update content and see requests. Malayalam labels are available wherever your customers expect them.",
         "<strong>Android app development in Kunnamkulam</strong> with us starts at ₹40,000, and that includes publishing on Google Play and the Apple App Store under developer accounts registered to your business. The quote rises line by line for payments, offline use, maps, or links to your billing software. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "For a shop whose customers only want an address, timings and a phone number, a website does the job at a fraction of the cost, and we will recommend it. An app that is opened twice and forgotten is money you should keep.",
       ],
@@ -164,9 +164,9 @@ const kunnamkulam: CityContent = {
     },
     {
       id: "remote-team-kunnamkulam",
-      heading: "Working with a remote IT company in Kunnamkulam: how the process runs",
+      heading: "Working with a remote IT services team in Kunnamkulam: how the process runs",
       paragraphs: [
-        "We are an IT company in Kunnamkulam only in the sense that we serve businesses here. The three of us work remotely from other parts of India, and we think that is better stated openly than hidden behind a borrowed address.",
+        "We are an IT services team in Kunnamkulam only in the sense that we serve businesses here. The three of us work remotely from other parts of India, and we think that is better stated openly than hidden behind a borrowed address.",
         "A project begins with a conversation on WhatsApp or a call about your trade, your customers and what you want to change. Within about two working days you receive a written outline: pages or screens, timeline, and a price list with every item separated. Work starts only when you approve it, and nothing is charged before that approval.",
         "During the build you get preview links that open on any phone, so partners, family members or a manager in another branch can check progress without a meeting. Malayalam text is sent to you for reading before it goes live. When a date slips, we tell you the same day with a revised date and a reason. Payments are tied to stages you can see working, so you are never paying far ahead of results.",
         "We reply on WhatsApp seven days a week during Indian working hours, including Sundays, which is when many Kunnamkulam shop owners finally have time to look at their website.",
@@ -232,7 +232,7 @@ const kunnamkulam: CityContent = {
         "A simple shop or clinic site usually goes live one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the single biggest factor in finishing on time.",
     },
     {
-      question: "Which is the best IT company in Kunnamkulam?",
+      question: "Which is the best IT services team in Kunnamkulam?",
       answer:
         "Judge any provider on the same few points: published prices, domain and code registered in your name, real past work, Malayalam handled properly and support after launch. We meet those points and reply on WhatsApp all week, but it is sensible to compare two or three options before deciding.",
     },

@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "Freelance IT consulting in Ahmedabad: process audits, custom software, Android and iOS apps, AI agents, MIS dashboards, cloud and SEO for traders, pharma and makers.",
     keywords: [
-      "IT solutions company in Ahmedabad",
+      "IT solutions team in Ahmedabad",
       "IT consulting Ahmedabad",
       "digital transformation Ahmedabad",
-      "best IT company in Ahmedabad",
+      "best IT services team in Ahmedabad",
       "freelance IT consultant Ahmedabad",
       "MIS software for Ahmedabad businesses",
       "textile processing software Narol",
@@ -212,11 +212,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-ahmedabad",
-      heading: "How do you choose the best IT company in Ahmedabad for your project?",
+      heading: "How do you choose the best IT services team in Ahmedabad for your project?",
       paragraphs: [
-        "The best IT company in Ahmedabad for your project is the one that understands your workflow, proposes the smallest effective solution, itemises every cost and leaves you owning the code, data and accounts. Office size and award lists tell you little about whether your system will be used six months after launch.",
+        "The best IT services team in Ahmedabad for your project is the one that understands your workflow, proposes the smallest effective solution, itemises every cost and leaves you owning the code, data and accounts. Office size and award lists tell you little about whether your system will be used six months after launch.",
         "When comparing IT companies in Ahmedabad, ask who will build the system, for a written scope, examples you can test on a phone, and the cost of support after year one. Confirm that domains and app accounts will be in your name. Be wary of proposals full of modules you never asked for.",
-        "BtechWaleTech is not a company; we are a freelance group of three engineers working remotely, with no Ahmedabad office. We cannot visit your factory, but you will speak to the builders on every call. See our <a href='/portfolio/'>portfolio</a>, the <a href='/india/gujarat/'>Gujarat hub</a>, or start through the <a href='/contact/'>contact page</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely, with no Ahmedabad office. We cannot visit your factory, but you will speak to the builders on every call. See our <a href='/portfolio/'>portfolio</a>, the <a href='/india/gujarat/'>Gujarat hub</a>, or start through the <a href='/contact/'>contact page</a>.",
       ],
     },
     {
@@ -260,8 +260,8 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an Ahmedabad-based IT company?",
-      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office or staff in Ahmedabad. Audits, workshops and training happen over video, phone and WhatsApp, and you test each build through staging links on your own devices.",
+      question: "Is BtechWaleTech an Ahmedabad-based IT services team?",
+      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office or staff in Ahmedabad. Audits, workshops and training happen over video, phone and WhatsApp, and you test each build through staging links on your own devices.",
     },
     {
       question: "How do Ahmedabad clients pay?",

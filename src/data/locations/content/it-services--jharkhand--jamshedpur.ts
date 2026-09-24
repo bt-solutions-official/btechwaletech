@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Jamshedpur for MSMEs",
     description:
-      "Searching for a software development company in Jamshedpur? Hire our freelance group for job-work tracking, quality records, AI automation and dashboards.",
+      "Searching for a software development team in Jamshedpur? Hire our freelance group for job-work tracking, quality records, AI automation and dashboards.",
     keywords: [
-      "software development company in Jamshedpur",
-      "IT company in Jamshedpur",
+      "software development team in Jamshedpur",
+      "IT services team in Jamshedpur",
       "IT solutions Jamshedpur",
       "Android app development Jamshedpur",
       "iOS app development Jamshedpur",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Jamshedpur · Adityapur · East Singhbhum",
     h1: "Freelance software developers in Jamshedpur for MSME production, quality and automation",
     lede:
-      "If you are weighing up a software development company in Jamshedpur, BtechWaleTech is a freelance group of three engineers working remotely from India. We build job-work and production trackers, quality and inspection records, supplier and customer portals, maintenance systems, AI automation, dashboards, apps and B2B websites for Adityapur and Gamharia manufacturers, plant contractors and service businesses in Bistupur, Sakchi and Sonari.",
+      "If you are weighing up a software development team in Jamshedpur, BtechWaleTech is a freelance group of three engineers working remotely from India. We build job-work and production trackers, quality and inspection records, supplier and customer portals, maintenance systems, AI automation, dashboards, apps and B2B websites for Adityapur and Gamharia manufacturers, plant contractors and service businesses in Bistupur, Sakchi and Sonari.",
     pills: ["Production software from ₹60,000", "AI automation from ₹40,000", "Quality and inspection records", "Owned code and data", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Comparing a software development company in Jamshedpur? BtechWaleTech is a freelance group of three remote engineers. Production, quality and portal software starts at ₹60,000 (6–12 weeks), AI automation or Android and iOS apps at ₹40,000, B2B websites at ₹10,000 and online stores at ₹50,000. You receive an itemised quote in about two working days and five months of free maintenance.",
+    "Comparing a software development team in Jamshedpur? BtechWaleTech is a freelance group of three remote engineers. Production, quality and portal software starts at ₹60,000 (6–12 weeks), AI automation or Android and iOS apps at ₹40,000, B2B websites at ₹10,000 and online stores at ₹50,000. You receive an itemised quote in about two working days and five months of free maintenance.",
   snapshot: [
     { label: "City origin", value: "Planned steel city founded around the Tata iron and steel works, also known as Tatanagar" },
     { label: "Anchor employers", value: "Tata Steel, Tata Motors' commercial vehicle plant and other Tata group units, with a large supplier network around them" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-jamshedpur-overview",
-      heading: "What does a software development company in Jamshedpur build for manufacturers and service businesses?",
+      heading: "What does a software development team in Jamshedpur build for manufacturers and service businesses?",
       paragraphs: [
-        "A software development company in Jamshedpur, or a freelance team working with Jamshedpur clients, mainly builds shop-floor and supply-chain tools for manufacturers: job-work and production tracking, inspection and quality records, supplier and customer portals, maintenance systems and dashboards. For the city's service businesses it builds booking, ordering, CRM and automation tools, plus websites and SEO.",
+        "A software development team in Jamshedpur, or a freelance team working with Jamshedpur clients, mainly builds shop-floor and supply-chain tools for manufacturers: job-work and production tracking, inspection and quality records, supplier and customer portals, maintenance systems and dashboards. For the city's service businesses it builds booking, ordering, CRM and automation tools, plus websites and SEO.",
         "Jamshedpur's economy is shaped by large anchor plants and the supplier base around them. The Adityapur Industrial Area, set up under AIADA, is widely described as eastern India's auto-component hub and hosts well over a thousand units, from small machine shops to sizeable forging and fabrication plants. Many of these units supply automotive and steel customers with demanding delivery schedules, quality requirements and documentation.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Jamshedpur. We say that upfront and work through video calls, screen sharing and test links your team can try on their own phones. Starting prices are on the <a href='/pricing/'>pricing page</a>, all code and accounts are handed to you, and five months of maintenance are included after launch. For websites and local search, see also the <a href='/jamshedpur/'>Jamshedpur city page</a>.",
       ],
@@ -225,7 +225,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-jamshedpur",
-      heading: "Freelance team vs a software development company in Jamshedpur: which fits your plant?",
+      heading: "Freelance team vs a software development team in Jamshedpur: which fits your plant?",
       paragraphs: [
         "A freelance team fits when you need a specific shop-floor tool, portal or dashboard built quickly by engineers you deal with directly; a larger software development company fits when you need a full ERP rollout, on-site implementation staff or many parallel projects. Many Jamshedpur MSMEs are better served by closing two or three workflow gaps than by replacing everything.",
         "Larger vendors offer more people, formal project management and sometimes on-site support. A freelance group like BtechWaleTech offers the same three engineers from scoping to support, starting prices you can check in advance, and fast replies, but limited capacity and no presence in Jamshedpur. Whoever you choose, ask who owns the code, how data can be exported, what changes cost after launch, and whether you can speak to the developer.",
@@ -318,9 +318,9 @@ const content: CityContent = {
         "Yes. Apps start from ₹40,000 and take six to ten weeks. We build once in Flutter or React Native and publish on both Google Play and the Apple App Store, with login, forms, push notifications, an admin panel and API included. Shop-floor apps are designed for shared Android phones and offline entry; customer apps focus on quick ordering and bookings.",
     },
     {
-      question: "Which is the best IT company in Jamshedpur for manufacturing software?",
+      question: "Which is the best IT services team in Jamshedpur for manufacturing software?",
       answer:
-        "It depends on whether you need a full ERP, a specific shop-floor tool or a website. Evaluate vendors on relevant live work, integration experience, ownership terms and post-launch support. We are a freelance group rather than a company, and we do not claim rankings or awards. Comparing two or three providers is sensible.",
+        "It depends on whether you need a full ERP, a specific shop-floor tool or a website. Evaluate vendors on relevant live work, integration experience, ownership terms and post-launch support. We are a small freelance group of three developers, and we do not claim rankings or awards. Comparing two or three providers is sensible.",
     },
     {
       question: "Can you help plant contractors with safety and attendance records?",

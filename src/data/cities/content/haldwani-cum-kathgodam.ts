@@ -9,7 +9,7 @@ const haldwani: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Haldwani and Kathgodam traders, hotels, clinics and coaching centres. Sites from ₹10,000, 5 months free upkeep.",
     keywords: [
-      "website development company in Haldwani",
+      "website development team in Haldwani",
       "web design Haldwani",
       "website designer Haldwani",
       "SEO services Haldwani",

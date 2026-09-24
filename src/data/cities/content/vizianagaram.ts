@@ -9,7 +9,7 @@ const vizianagaram: CityContent = {
     description:
       "Telugu and English websites, local SEO, online stores and WhatsApp automation for Vizianagaram colleges, clinics, traders, ferro-alloy suppliers and farm businesses.",
     keywords: [
-      "website development company in Vizianagaram",
+      "website development team in Vizianagaram",
       "web designer Vizianagaram",
       "website design Vizianagaram Andhra Pradesh",
       "Telugu website design",

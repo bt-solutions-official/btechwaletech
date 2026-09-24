@@ -10,12 +10,12 @@ const kanhangad: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Kanhangad traders, Gulf-family businesses, Bekal homestays, clinics and colleges.",
     keywords: [
       "IT services in Kanhangad",
-      "IT company in Kanhangad",
-      "website development company in Kanhangad",
+      "IT services team in Kanhangad",
+      "website development team in Kanhangad",
       "web design in Kanhangad",
-      "app development company in Kanhangad",
+      "app development team in Kanhangad",
       "Android app development in Kanhangad",
-      "software company in Kanhangad",
+      "software team in Kanhangad",
       "SEO services in Kanhangad",
       "digital marketing in Kanhangad",
       "ecommerce website in Kanhangad",
@@ -74,10 +74,10 @@ const kanhangad: CityContent = {
     },
     {
       id: "gulf-family-businesses",
-      heading: "Website development company in Kanhangad for Gulf-linked families and NRI buyers",
+      heading: "Website development team in Kanhangad for Gulf-linked families and NRI buyers",
       paragraphs: [
         "Remittances from the Gulf have shaped Kanhangad for decades. They fund new homes, shops, clinics and small ventures, and they create a steady audience of Malayalis in Dubai, Doha, Muscat and Riyadh who make buying decisions for family back home. A land deal, a house construction, an interior job or a gold purchase is often researched from abroad before anyone visits a showroom.",
-        "A <strong>website development company in Kanhangad</strong> serving this market has to make distance feel small. For builders and interior firms, that means project pages with real photographs, stage-wise progress, approvals listed plainly, and a WhatsApp link that works from a foreign number. For jewellers and textile houses, it means clear collection pages, making-charge policies and the option to reserve a piece before a family member comes in.",
+        "A <strong>website development team in Kanhangad</strong> serving this market has to make distance feel small. For builders and interior firms, that means project pages with real photographs, stage-wise progress, approvals listed plainly, and a WhatsApp link that works from a foreign number. For jewellers and textile houses, it means clear collection pages, making-charge policies and the option to reserve a piece before a family member comes in.",
         "We also set up simple enquiry tracking, so an owner can see whether leads came from Google, Instagram or a friend's referral in Sharjah. Business websites begin at ₹10,000 for a static site of up to 100 pages. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -110,19 +110,19 @@ const kanhangad: CityContent = {
     },
     {
       id: "colleges-students-kanhangad",
-      heading: "Software company in Kanhangad for colleges, schools and coaching centres",
+      heading: "Software team in Kanhangad for colleges, schools and coaching centres",
       paragraphs: [
         "Nehru Arts and Science College has served Kanhangad for decades, and the Central University of Kerala at Periye brings students and faculty from across India to the area. Around them sit schools, tuition centres, PSC and entrance coaching, computer training institutes and hostels. Parents in the Gulf follow their children's progress remotely, which raises the demand for timely, written updates.",
-        "Working as a <strong>software company in Kanhangad</strong> for institutions, we build admission enquiry forms, fee reminders, attendance and marks portals, and notice boards that parents can read on a phone. Coaching centres get batch-wise timetables and test result sheets. Hostels near the university can list rooms, rules and fees without fielding the same calls every June.",
+        "Working as a <strong>software team in Kanhangad</strong> for institutions, we build admission enquiry forms, fee reminders, attendance and marks portals, and notice boards that parents can read on a phone. Coaching centres get batch-wise timetables and test result sheets. Hostels near the university can list rooms, rules and fees without fielding the same calls every June.",
         "Custom portals start at ₹60,000 and are built over six to twelve weeks, beginning with whichever feature saves office staff the most hours. Smaller institutes are often better served by a clear website and a WhatsApp broadcast list, and we will say so when that is the case.",
       ],
     },
     {
       id: "cashew-coconut-traders",
-      heading: "IT company in Kanhangad for cashew, coconut, spice and fish traders",
+      heading: "IT services team in Kanhangad for cashew, coconut, spice and fish traders",
       paragraphs: [
         "Farming around Kanhangad produces coconut, arecanut, rubber, pepper, cashew and ginger, and cashew processing has long been part of local industry. The coast adds a fishing economy, with catches sold through local markets and traders to buyers inland. A china clay unit at Vazhunnoradi is one of the few larger factories in the town.",
-        "These trades run on thin margins and many small transactions. An <strong>IT company in Kanhangad</strong> can help without adding paperwork: a phone-friendly register of purchases from growers, lot-wise stock, dispatch to buyers, payments due and GST invoices. Daily price sheets can be shared with regular buyers through WhatsApp, and a small dashboard can show which products and customers actually make money over a season.",
+        "These trades run on thin margins and many small transactions. An <strong>IT services team in Kanhangad</strong> can help without adding paperwork: a phone-friendly register of purchases from growers, lot-wise stock, dispatch to buyers, payments due and GST invoices. Daily price sheets can be shared with regular buyers through WhatsApp, and a small dashboard can show which products and customers actually make money over a season.",
         "For processors who want to sell retail, a store for roasted cashew, virgin coconut oil or spice packs can reach Malayali families in Bengaluru, Chennai and the Gulf. We keep product claims factual and ask you to confirm FSSAI details before anything goes live.",
       ],
     },
@@ -131,7 +131,7 @@ const kanhangad: CityContent = {
       heading: "Android app development in Kanhangad, plus iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when the same people come back to it every week. In Kanhangad, that could be a hospital's patients booking tokens, a school's parents checking notices and fees, a supermarket's regular customers re-ordering groceries, a homestay's guests checking in, or a distributor's retailers placing orders from shops across the district.",
-        "As an <strong>app development company in Kanhangad</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release usually covers mobile number login, push notifications, the few screens your users truly need, and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
+        "As an <strong>app development team in Kanhangad</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release usually covers mobile number login, push notifications, the few screens your users truly need, and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
         "<strong>Android app development in Kanhangad</strong> with us starts at ₹40,000. Online payment, offline mode, maps, multiple languages and links to your billing software add to the cost, and each is listed on the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how a project runs.",
         "If customers only need your address, timings and a price list, a website does that for a quarter of the money and needs no download. We recommend the website in that case, because most people will not install an app they open twice a year.",
       ],
@@ -232,7 +232,7 @@ const kanhangad: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Kanhangad?",
+      question: "Which is the best website development team in Kanhangad?",
       answer:
         "Judge any provider by whether they publish prices, register the domain and code in your name, answer after launch and can show real work. Ask two or three of them the same questions. We meet those tests and reply on WhatsApp every day, but a fair comparison before you decide is sensible.",
     },

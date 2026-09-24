@@ -9,12 +9,12 @@ const jaipur: CityContent = {
     description:
       "Websites, SEO and AI automation for Jaipur jewellers, hotels, exporters and shops. Sites from ₹10,000, online stores from ₹50,000, five months' free maintenance.",
     keywords: [
-      "website development company in Jaipur",
-      "web design company Jaipur",
+      "website development team in Jaipur",
+      "web design team Jaipur",
       "website designer in Jaipur",
       "freelance web developer Jaipur",
       "website making cost Jaipur",
-      "SEO company in Jaipur",
+      "SEO team in Jaipur",
       "local SEO Jaipur",
       "ecommerce website Jaipur",
       "jewellery website design Jaipur",
@@ -253,7 +253,7 @@ const jaipur: CityContent = {
     {
       question: "How long does SEO take in Jaipur?",
       answer:
-        "Local map results for area searches often improve within six to ten weeks once your profile and website are in order. Competitive terms like “website development company in Jaipur” typically take four to eight months of steady work. No one can honestly guarantee a first-page ranking, and we do not.",
+        "Local map results for area searches often improve within six to ten weeks once your profile and website are in order. Competitive terms like “website development team in Jaipur” typically take four to eight months of steady work. No one can honestly guarantee a first-page ranking, and we do not.",
     },
     {
       question: "Do your online stores accept UPI and international payments?",

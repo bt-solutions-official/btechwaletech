@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers for Srinagar: booking software, custom web apps, AI agents, mobile apps, dashboards and SEO for Kashmir businesses. From ₹10,000.",
     keywords: [
-      "software development company in Srinagar",
-      "IT company in Srinagar",
+      "software development team in Srinagar",
+      "IT services team in Srinagar",
       "IT solutions Srinagar",
       "freelance software developers Srinagar",
       "custom software development Kashmir",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Srinagar · Kashmir · Jammu and Kashmir",
     h1: "Freelance software developers in Srinagar for booking systems, AI agents and apps that survive the off-season",
     lede:
-      "Searching for a software development company in Srinagar usually means you want a system, not just a web page: a room and houseboat booking engine, a tour desk CRM, an order tool for a handicraft exporter, or an AI assistant that answers the same guest questions every day. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, web apps, mobile apps, AI automation, dashboards, online stores and SEO for Kashmir businesses, with published starting prices and five months of free maintenance after launch.",
+      "Searching for a software development team in Srinagar usually means you want a system, not just a web page: a room and houseboat booking engine, a tour desk CRM, an order tool for a handicraft exporter, or an AI assistant that answers the same guest questions every day. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, web apps, mobile apps, AI automation, dashboards, online stores and SEO for Kashmir businesses, with published starting prices and five months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Online stores from ₹50,000", "Works on weak mobile data", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
@@ -160,7 +160,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-srinagar",
-      heading: "Freelance team vs a software development company in Srinagar: which should you hire?",
+      heading: "Freelance team vs a software development team in Srinagar: which should you hire?",
       paragraphs: [
         "A freelance team like ours suits Srinagar businesses that want direct contact with the engineers, published starting prices and a focused scope, while a larger IT company in Srinagar or a metro suits projects needing on-site staff, round-the-clock support desks or dozens of developers at once. Neither choice is automatically better.",
         "If you are comparing IT companies in Srinagar, ask who will actually write the code, whether you will own the domain and repository, what happens when the original developer leaves, and whether the quote lists features line by line. Visit their live work on a phone using mobile data, not office Wi-Fi.",
@@ -234,7 +234,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software development company based in Srinagar?",
+      question: "Is BtechWaleTech a software development team based in Srinagar?",
       answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office, branch or staff in Srinagar. We work with Kashmir clients over WhatsApp, phone and video calls, share staging links you test on your own phone, and hand over every account in your name. If you need someone on site daily, a local IT company may suit you better.",
     },
     {
@@ -259,7 +259,7 @@ const content: CityContent = {
     },
     {
       question: "Will I own the code, domain and hosting?",
-      answer: "Yes, completely. The domain, hosting, code repository, app store accounts and admin logins are registered in your name or your business's name from the start. At handover you receive documentation and credentials. If you later hire another developer or IT company in Srinagar, they can take over without needing our permission.",
+      answer: "Yes, completely. The domain, hosting, code repository, app store accounts and admin logins are registered in your name or your business's name from the start. At handover you receive documentation and credentials. If you later hire another developer or IT services team in Srinagar, they can take over without needing our permission.",
     },
     {
       question: "What maintenance do you provide after launch?",

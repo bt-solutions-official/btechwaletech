@@ -10,12 +10,12 @@ const ramanathapuram: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Ramanathapuram chilli traders, seafood firms, pilgrim lodges, colleges and clinics.",
     keywords: [
       "IT services in Ramanathapuram",
-      "IT company in Ramanathapuram",
-      "website development company in Ramanathapuram",
+      "IT services team in Ramanathapuram",
+      "website development team in Ramanathapuram",
       "web design in Ramanathapuram",
-      "app development company in Ramanathapuram",
+      "app development team in Ramanathapuram",
       "Android app development in Ramanathapuram",
-      "software company in Ramanathapuram",
+      "software team in Ramanathapuram",
       "SEO services in Ramanathapuram",
       "digital marketing in Ramanathapuram",
       "ecommerce website in Ramanathapuram",
@@ -84,10 +84,10 @@ const ramanathapuram: CityContent = {
     },
     {
       id: "fisheries-seafood",
-      heading: "Software company in Ramanathapuram for fish traders and seafood processors",
+      heading: "Software team in Ramanathapuram for fish traders and seafood processors",
       paragraphs: [
         "The Ramanathapuram coast has long been one of the most productive in Tamil Nadu for marine fish, with landing centres along the Gulf of Mannar and Palk Bay. Around each landing centre work auction agents, ice plants, dry fish processors, transporters, net and engine dealers, and firms that supply seafood to Kerala and export houses.",
-        "The records in this trade move fast and are often kept on paper: boat-wise catch, auction price, advances given to boat owners, ice and diesel supplied, lorry loads sent, and payments due from buyers. As a <strong>software company in Ramanathapuram</strong>, we build simple web tools that let each entry be made once from a phone, with running balances per boat and per buyer and a daily summary sent on WhatsApp.",
+        "The records in this trade move fast and are often kept on paper: boat-wise catch, auction price, advances given to boat owners, ice and diesel supplied, lorry loads sent, and payments due from buyers. As a <strong>software team in Ramanathapuram</strong>, we build simple web tools that let each entry be made once from a phone, with running balances per boat and per buyer and a daily summary sent on WhatsApp.",
         "These systems start at ₹60,000 and are built in stages over six to twelve weeks. We begin with the ledger that causes the most arguments, usually advances and settlements, and add stock, dispatch and export paperwork later if they prove useful.",
         "Seafood firms selling to buyers outside the district also need a presentable website. A processor or exporter should show the species handled, processing and freezing capacity in verifiable terms, packing formats, licences and registrations you actually hold, and a named trade contact. We keep such sites factual and fast, add an enquiry form that asks for species, quantity and destination port, and avoid photographs that do not come from your own plant or boats.",
       ],
@@ -113,10 +113,10 @@ const ramanathapuram: CityContent = {
     },
     {
       id: "salt-palmyra-coastal",
-      heading: "Website development company in Ramanathapuram for salt, palmyra and seaweed producers",
+      heading: "Website development team in Ramanathapuram for salt, palmyra and seaweed producers",
       paragraphs: [
         "Beyond chilli and fish, the district has traditional salt pans, palmyra products and seaweed collection and farming in coastal villages. Palm jaggery, palm sugar candy and woven palm-leaf items reach buyers who value natural and handmade goods, while seaweed is sold to processing firms.",
-        "A <strong>website development company in Ramanathapuram</strong> can give these producers a presence that buyers trust. For a salt works or seaweed supplier, that means capacity in verifiable terms, product grades, packing, registrations and a named contact. For palmyra producer groups and self-help groups, it means the story of the product told briefly, clear photographs of each item and a simple order or wholesale enquiry route.",
+        "A <strong>website development team in Ramanathapuram</strong> can give these producers a presence that buyers trust. For a salt works or seaweed supplier, that means capacity in verifiable terms, product grades, packing, registrations and a named contact. For palmyra producer groups and self-help groups, it means the story of the product told briefly, clear photographs of each item and a simple order or wholesale enquiry route.",
         "We keep claims factual. We will not describe a product as organic, medicinal or certified unless you hold the paperwork, because a single false claim can undo years of goodwill with a buyer.",
       ],
     },
@@ -125,7 +125,7 @@ const ramanathapuram: CityContent = {
       heading: "Android app development in Ramanathapuram, and iOS apps for local firms",
       paragraphs: [
         "An app is worth the investment when the same people open it often. In Ramanathapuram that could be regular chilli buyers reordering by grade, fish traders checking the day's settlements, a college's students and parents following circulars and fees, a hospital's patients booking tokens, or a lodge's repeat pilgrim groups.",
-        "As an <strong>app development company in Ramanathapuram</strong> working remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version typically includes mobile number login, push notifications, the key screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Ramanathapuram</strong> working remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version typically includes mobile number login, push notifications, the key screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Ramanathapuram</strong> with us starts at ₹40,000. The quote rises with payments, offline use on the coast where signal drops, Tamil and English interfaces, maps and links to your billing data. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, prices and phone number, a website does the job at a fraction of the cost, and we will recommend that. An app installed once and forgotten is money wasted.",
       ],
@@ -159,9 +159,9 @@ const ramanathapuram: CityContent = {
     },
     {
       id: "remote-team-ramanathapuram",
-      heading: "How our remote IT company in Ramanathapuram's region works with clients",
+      heading: "How our remote IT services team in Ramanathapuram's region works with clients",
       paragraphs: [
-        "People often search for an <strong>IT company in Ramanathapuram</strong> expecting an office down the road. We are a remote team, so we make up for distance with writing. After a first call about your business and goals, you receive a page or screen plan, a timeline and an itemised quote. Once approved, we share live preview links you can check on your phone and show to partners.",
+        "People often search for an <strong>IT services team in Ramanathapuram</strong> expecting an office down the road. We are a remote team, so we make up for distance with writing. After a first call about your business and goals, you receive a page or screen plan, a timeline and an itemised quote. Once approved, we share live preview links you can check on your phone and show to partners.",
         "We reply on WhatsApp every day, weekends included, on Indian Standard Time. Tamil text is sent to you for checking before anything is published. If a delay comes up, we tell you straight away rather than on the delivery date.",
         "Payments follow visible progress, and nothing is billed before you approve the quote in writing. To begin, send a short message through our <a href=\"/contact/\">contact page</a> describing what you do and who buys from you.",
       ],
@@ -231,7 +231,7 @@ const ramanathapuram: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Ramanathapuram?",
+      question: "Who is the best website development team in Ramanathapuram?",
       answer:
         "Look for a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask everyone the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before deciding is wise.",
     },

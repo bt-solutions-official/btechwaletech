@@ -10,12 +10,12 @@ const samastipur: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp bots for Samastipur dairy units, maize and litchi traders, coaching centres, hospitals and shops.",
     keywords: [
       "IT services in Samastipur",
-      "IT company in Samastipur",
-      "website development company in Samastipur",
+      "IT services team in Samastipur",
+      "website development team in Samastipur",
       "web design in Samastipur",
-      "app development company in Samastipur",
+      "app development team in Samastipur",
       "Android app development in Samastipur",
-      "software company in Samastipur",
+      "software team in Samastipur",
       "SEO services in Samastipur",
       "digital marketing in Samastipur",
       "ecommerce website in Samastipur",
@@ -84,20 +84,20 @@ const samastipur: CityContent = {
     },
     {
       id: "dairy-milk-samastipur",
-      heading: "Software company in Samastipur for dairy societies and milk collection",
+      heading: "Software team in Samastipur for dairy societies and milk collection",
       paragraphs: [
         "Samastipur was Bihar's largest milk-producing district in 2022, and milk collection runs through village societies, private collectors, chilling points and sweet and dairy product makers. Each collection point records litres, fat and SNF readings, rates by quality and payments owed to every farmer, often twice a day.",
-        "As a <strong>software company in Samastipur</strong> for this trade, we build web tools where each collection entry is made once, the rate is worked out from your chart, and every farmer's ten-day or monthly statement is ready to print or send on WhatsApp. Owners see litres collected per point, advances given, dues and payment history without opening a register.",
+        "As a <strong>software team in Samastipur</strong> for this trade, we build web tools where each collection entry is made once, the rate is worked out from your chart, and every farmer's ten-day or monthly statement is ready to print or send on WhatsApp. Owners see litres collected per point, advances given, dues and payment history without opening a register.",
         "Such software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with collection and farmer statements, then add sales to buyers, cattle feed credit and dashboards once your staff are comfortable. If you already use a milk analyser with data export, we can read that file instead of retyping figures.",
         "Sweet shops and dairy product makers who buy milk in bulk have a related need: daily purchase, batch and sales records, and a way to take festival orders for peda, rasgulla or curd without losing track. A small web tool or a WhatsApp order form handles that at far less cost than full software, and we will say so when it is enough.",
       ],
     },
     {
       id: "grain-maize-traders",
-      heading: "Website development company in Samastipur for maize, grain and tobacco traders",
+      heading: "Website development team in Samastipur for maize, grain and tobacco traders",
       paragraphs: [
         "Maize and paddy are the district's main field crops, alongside tobacco, potato, chilli and turmeric. Traders in Samastipur, Dalsinghsarai, Rosera and Shahpur Patori buy from farmers and sell to feed mills, starch units and wholesalers in other states. Buyers who have never visited Bihar check a trader online before committing a truckload.",
-        "A <strong>website development company in Samastipur</strong> should give such traders a clear, factual site: commodities handled, seasonal availability, grading and moisture terms, loading points and rail or road dispatch, GST details and a named trade contact. We avoid inflated claims and suggest photographs of your own godown and loading, which reassure buyers more than any stock picture.",
+        "A <strong>website development team in Samastipur</strong> should give such traders a clear, factual site: commodities handled, seasonal availability, grading and moisture terms, loading points and rail or road dispatch, GST details and a named trade contact. We avoid inflated claims and suggest photographs of your own godown and loading, which reassure buyers more than any stock picture.",
         "For firms buying from many farmers, a purchase register that records weight, moisture deduction, rate and payment for each lot saves arguments at settlement time. A capability website starts at ₹10,000; purchase and stock software is quoted as custom work. Compare options on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -124,7 +124,7 @@ const samastipur: CityContent = {
       heading: "Android app development in Samastipur, and iOS apps for local institutions",
       paragraphs: [
         "Apps suit situations where the same people come back every day or week. In Samastipur that means coaching students taking tests and checking attendance, parents following a school's notices, dairy farmers checking their milk slips and payments, grain suppliers seeing settlements, or patients booking tokens at a busy hospital.",
-        "Being a remote <strong>app development company in Samastipur</strong>, we write in Flutter or React Native, so the same code serves Android phones and iPhones. A first release normally includes OTP login, push notifications, the main user screens and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts that you own.",
+        "Being a remote <strong>app development team in Samastipur</strong>, we write in Flutter or React Native, so the same code serves Android phones and iPhones. A first release normally includes OTP login, push notifications, the main user screens and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts that you own.",
         "<strong>Android app development in Samastipur</strong> begins at ₹40,000 with us. Payment collection, offline entry for villages with weak signal, Hindi screens, video lessons and links to your accounts each add cost, and all of them appear on the quote. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Where customers only need your address, fees or rates and a phone number, a website is cheaper and works just as well, and that is what we will advise. A coaching app that students stop opening after admission week is wasted money.",
       ],
@@ -158,9 +158,9 @@ const samastipur: CityContent = {
     },
     {
       id: "remote-team-samastipur",
-      heading: "Working with a remote IT company in Samastipur without an office visit",
+      heading: "Working with a remote IT services team in Samastipur without an office visit",
       paragraphs: [
-        "Plenty of owners search for an <strong>IT company in Samastipur</strong> hoping to find a nearby office. We work remotely, so documents do the job a visit would. After an introductory call about your business, you receive a page or screen outline, a schedule and an itemised quote. Once you approve it, preview links follow that you can open on your own phone and show others.",
+        "Plenty of owners search for an <strong>IT services team in Samastipur</strong> hoping to find a nearby office. We work remotely, so documents do the job a visit would. After an introductory call about your business, you receive a page or screen outline, a schedule and an itemised quote. Once you approve it, preview links follow that you can open on your own phone and show others.",
         "WhatsApp messages get a reply every day, Sundays included, on Indian Standard Time. Hindi content comes to you for checking before publishing, and nothing goes live without your say. If something is running late, we tell you as soon as we know.",
         "Payments are staged against finished, visible work, and there is no bill before your written approval of the quote. To begin, send a short note through our <a href=\"/contact/\">contact page</a> about what you do and who your customers are.",
       ],
@@ -230,7 +230,7 @@ const samastipur: CityContent = {
         "Expect one to two weeks for a static website, counted from when your content reaches us. SEO sites of 700+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Late content is the most common cause of delay, so gather it early.",
     },
     {
-      question: "Which is the best website development company in Samastipur?",
+      question: "Which is the best website development team in Samastipur?",
       answer:
         "The right choice depends on your needs, but good signs are published prices, the domain and code registered to you, support after launch and working examples. Ask each option the same questions. We meet these and answer WhatsApp seven days a week, though getting a second quote is always sensible.",
     },

@@ -9,7 +9,7 @@ const ichalkaranji: CityContent = {
     description:
       "Websites, fabric catalogues, SEO and WhatsApp automation for Ichalkaranji powerloom units, yarn traders, clinics and shops. From ₹10,000 with 5 months free upkeep.",
     keywords: [
-      "website development company in Ichalkaranji",
+      "website development team in Ichalkaranji",
       "web designer Ichalkaranji",
       "website design Ichalkaranji",
       "freelance web developer Ichalkaranji",
@@ -18,7 +18,7 @@ const ichalkaranji: CityContent = {
       "powerloom business website",
       "fabric catalogue website",
       "yarn trader website",
-      "SEO company Ichalkaranji",
+      "SEO team Ichalkaranji",
       "local SEO Kolhapur district",
       "WhatsApp automation Ichalkaranji",
       "custom software textile industry",

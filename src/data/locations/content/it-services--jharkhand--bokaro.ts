@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Bokaro Steel City",
     description:
-      "Looking for a software development company in Bokaro? Hire our freelance group for school ERP, contractor tools, apps, AI automation and SEO. INR prices.",
+      "Looking for a software development team in Bokaro? Hire our freelance group for school ERP, contractor tools, apps, AI automation and SEO. INR prices.",
     keywords: [
-      "software development company in Bokaro",
-      "IT company in Bokaro",
+      "software development team in Bokaro",
+      "IT services team in Bokaro",
       "IT solutions Bokaro",
       "Android app development Bokaro",
       "iOS app development Bokaro",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Bokaro Steel City · Chas · Jharkhand",
     h1: "Freelance software developers in Bokaro for schools, plant contractors and Chas businesses",
     lede:
-      "If you are shortlisting a software development company in Bokaro, compare it with BtechWaleTech, a freelance group of three engineers working remotely from India. We build school management systems and bus-tracking apps, contractor work-order and manpower tools, Balidih inventory software, Android and iOS apps, AI automation, dashboards and websites for the sectors, Chas and the wider district, with published starting prices and five months of free maintenance.",
+      "If you are shortlisting a software development team in Bokaro, compare it with BtechWaleTech, a freelance group of three engineers working remotely from India. We build school management systems and bus-tracking apps, contractor work-order and manpower tools, Balidih inventory software, Android and iOS apps, AI automation, dashboards and websites for the sectors, Chas and the wider district, with published starting prices and five months of free maintenance.",
     pills: ["School ERP and apps", "Contractor software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Searching for a software development company in Bokaro? BtechWaleTech is a freelance group of three remote engineers. School, contractor and inventory software starts at ₹60,000 (6–12 weeks), Android and iOS apps and AI automation at ₹40,000, websites at ₹10,000 and online stores at ₹50,000. You get an itemised quote in about two working days and five months of free maintenance.",
+    "Searching for a software development team in Bokaro? BtechWaleTech is a freelance group of three remote engineers. School, contractor and inventory software starts at ₹60,000 (6–12 weeks), Android and iOS apps and AI automation at ₹40,000, websites at ₹10,000 and online stores at ₹50,000. You get an itemised quote in about two working days and five months of free maintenance.",
   snapshot: [
     { label: "City origin", value: "A planned township built around SAIL's Bokaro Steel Plant, set up with Soviet collaboration from the late 1960s" },
     { label: "Layout", value: "Numbered residential sectors with City Centre in Sector 4 as the main commercial hub" },
@@ -69,9 +69,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-bokaro-overview",
-      heading: "What does a software development company in Bokaro build for local organisations?",
+      heading: "What does a software development team in Bokaro build for local organisations?",
       paragraphs: [
-        "A software development company in Bokaro, or a freelance team serving Bokaro clients, mostly builds school management systems and parent apps, work-order and manpower software for steel plant contractors, inventory and billing tools for Chas traders and Balidih units, lab and clinic apps, AI automation, dashboards and websites. The aim is to move records out of registers and WhatsApp groups into systems that are accurate and easy to search.",
+        "A software development team in Bokaro, or a freelance team serving Bokaro clients, mostly builds school management systems and parent apps, work-order and manpower software for steel plant contractors, inventory and billing tools for Chas traders and Balidih units, lab and clinic apps, AI automation, dashboards and websites. The aim is to move records out of registers and WhatsApp groups into systems that are accurate and easy to search.",
         "Bokaro Steel City grew as a planned township around SAIL's steel plant, with numbered sectors and City Centre in Sector 4 as the commercial hub. Next door, Chas developed as a busy private market town. Around the plant operate hundreds of contractors and suppliers, while the Balidih Industrial Area hosts ancillary units. The city is also known in Jharkhand for its schools, which draw students from surrounding districts, and for healthcare anchored by Bokaro General Hospital.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Bokaro. We state that plainly and work through WhatsApp, calls and test links. Starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and five months of maintenance are included after launch. The <a href='/bokaro-steel-city/'>Bokaro Steel City page</a> covers websites and local SEO in more detail.",
       ],
@@ -211,7 +211,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-bokaro",
-      heading: "Freelance team vs a software development company in Bokaro: which should you pick?",
+      heading: "Freelance team vs a software development team in Bokaro: which should you pick?",
       paragraphs: [
         "Pick a freelance team when you want a defined system built by engineers you speak to directly, with lower overhead; pick a larger software development company when you need on-site staff, big teams or an enterprise ERP rollout. For most Bokaro schools, contractors and traders, a focused system that solves the main problem is the better first step.",
         "Larger vendors bring more people and formal processes, and sometimes local visits. A freelance group like BtechWaleTech brings the same three engineers from first call to support, published starting prices and quick replies, with limited capacity and no presence in Bokaro. Whichever you choose, ask for an itemised quote, ownership of code and data, a working test version before final payment, and written support terms.",
@@ -304,9 +304,9 @@ const content: CityContent = {
         "It is generally reliable where mobile data is available. The driver app sends location during trips and resumes automatically after weak-signal stretches. If buses already have GPS devices, we can use that feed instead. Location sharing runs only during trips, and parents see only their own child's bus.",
     },
     {
-      question: "Which is the best IT company in Bokaro?",
+      question: "Which is the best IT services team in Bokaro?",
       answer:
-        "It depends on your project and budget. Compare live work, itemised quotes, ownership terms and support after launch. We are a freelance group, not a company, and we make no claims of rankings or awards. Speaking to two or three providers before choosing is sensible.",
+        "It depends on your project and budget. Compare live work, itemised quotes, ownership terms and support after launch. We are a small freelance group of three developers, and we make no claims of rankings or awards. Speaking to two or three providers before choosing is sensible.",
     },
     {
       question: "Can you move our old records into the new system?",

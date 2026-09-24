@@ -10,12 +10,12 @@ const nohar: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Nohar mandi traders, farm input dealers, Gogamedi pilgrim services, schools and clinics.",
     keywords: [
       "IT services in Nohar",
-      "IT company in Nohar",
-      "website development company in Nohar",
+      "IT services team in Nohar",
+      "website development team in Nohar",
       "web design in Nohar",
-      "app development company in Nohar",
+      "app development team in Nohar",
       "Android app development in Nohar",
-      "software company in Nohar",
+      "software team in Nohar",
       "SEO services in Nohar",
       "digital marketing in Nohar",
       "ecommerce website in Nohar",
@@ -74,20 +74,20 @@ const nohar: CityContent = {
     },
     {
       id: "anaj-mandi-commission-agents",
-      heading: "Software company in Nohar for anaj mandi commission agents and traders",
+      heading: "Software team in Nohar for anaj mandi commission agents and traders",
       paragraphs: [
         "Nohar's New Anaj Mandi at Chak Rajasar handles the crops of the tehsil: gram, moong, moth, guar, mustard, wheat, bajra, castor, groundnut and isabgol, depending on the season and the rains. Commission agents, traders, cleaning and grading units, transporters and bank branches all depend on it.",
         "Each agent tracks farmers' lots, weights, deductions, auction rates, buyers, advances and the date money was paid. Buyers want a clear statement of what they bought at which rate. In a good season the volume doubles and paper registers struggle.",
-        "As a <strong>software company in Nohar</strong>, we build ledgers shaped around this work. A lot is entered once at arrival, the auction rate and buyer are added after sale, and the system shows each farmer's balance, each buyer's dues, and printable slips in Hindi. Tally or Excel export is included when you need it. Pricing for this kind of ledger begins at ₹60,000. We hand it over in parts across six to twelve weeks, and the arrival-and-sale register always comes first because everything else hangs off it.",
+        "As a <strong>software team in Nohar</strong>, we build ledgers shaped around this work. A lot is entered once at arrival, the auction rate and buyer are added after sale, and the system shows each farmer's balance, each buyer's dues, and printable slips in Hindi. Tally or Excel export is included when you need it. Pricing for this kind of ledger begins at ₹60,000. We hand it over in parts across six to twelve weeks, and the arrival-and-sale register always comes first because everything else hangs off it.",
         "Because the Nohar mandi is on the National Agriculture Market (e-NAM) network, some agents already see digital lot records for part of their trade. Our ledger does not claim any official link to e-NAM; it keeps your own books complete so that your figures, the mandi's and the buyer's can be checked against each other quickly when a payment is questioned.",
       ],
     },
     {
       id: "farm-input-tractor-dealers",
-      heading: "Website development company in Nohar for seed, fertiliser and tractor dealers",
+      heading: "Website development team in Nohar for seed, fertiliser and tractor dealers",
       paragraphs: [
         "Farming here depends on rain for much of the tehsil and on canal water where it reaches, so dealers see sharp seasonal rushes before kharif and rabi sowing. Seed and fertiliser shops, pesticide dealers, drip and sprinkler suppliers, tractor and implement showrooms and repair workshops all compete for the same farmers.",
-        "A <strong>website development company in Nohar</strong> can help a dealer stand out with a site that lists brands and products in stock, seasonal recommendations the dealer is willing to stand behind, finance or subsidy information where it genuinely applies, workshop services, opening hours and a WhatsApp enquiry button. Photographs should be of your own shop and stock.",
+        "A <strong>website development team in Nohar</strong> can help a dealer stand out with a site that lists brands and products in stock, seasonal recommendations the dealer is willing to stand behind, finance or subsidy information where it genuinely applies, workshop services, opening hours and a WhatsApp enquiry button. Photographs should be of your own shop and stock.",
         "A dealer site starts at ₹10,000. Larger dealers selling on credit can add a small tool that records each farmer's purchases and dues and sends polite reminders after harvest. That is quoted separately, so you decide whether the time it saves is worth the cost.",
       ],
     },
@@ -120,10 +120,10 @@ const nohar: CityContent = {
     },
     {
       id: "clinics-hospitals-nohar",
-      heading: "IT company in Nohar for clinics, hospitals and diagnostic labs",
+      heading: "IT services team in Nohar for clinics, hospitals and diagnostic labs",
       paragraphs: [
         "Patients from surrounding villages come to Nohar for doctors, scans and tests, and many travel long distances in heat that makes a wasted trip especially hard. Knowing in advance which doctor sits on which day, and whether a test is available, matters.",
-        "An <strong>IT company in Nohar</strong> can help a clinic or hospital publish that information in Hindi: doctors and qualifications, OPD days and hours, tests offered, emergency number and directions from the bus stand and railway station. Pages must load on basic phones with weak signal.",
+        "An <strong>IT services team in Nohar</strong> can help a clinic or hospital publish that information in Hindi: doctors and qualifications, OPD days and hours, tests offered, emergency number and directions from the bus stand and railway station. Pages must load on basic phones with weak signal.",
         "Nothing on the site promises a cure, and no patient review appears without that patient's written consent. A clinic website starts at ₹10,000; appointment requests, WhatsApp reminders and report downloads are optional extras priced one by one, so you add only what shortens the queue at your counter.",
       ],
     },
@@ -141,7 +141,7 @@ const nohar: CityContent = {
       heading: "Android app development in Nohar, with iPhone support built in",
       paragraphs: [
         "An app earns its place when a fixed group of users opens it regularly. In Nohar that could be farmers checking whether their mandi payment has been released, retailers in villages placing weekly orders with a wholesaler, parents reading school notices and fee dues, or coaching students taking daily tests.",
-        "Our work as an <strong>app development company in Nohar</strong> uses Flutter or React Native, so the same code produces the Android build and the iPhone build. Most first releases need little more than a phone-number login with OTP, alerts that pop up when something changes, the three or four screens people actually use, and a desk-side panel where your munim or office staff manage the data. The finished app is listed on Google Play and the Apple App Store from developer accounts opened in your name.",
+        "Our work as an <strong>app development team in Nohar</strong> uses Flutter or React Native, so the same code produces the Android build and the iPhone build. Most first releases need little more than a phone-number login with OTP, alerts that pop up when something changes, the three or four screens people actually use, and a desk-side panel where your munim or office staff manage the data. The finished app is listed on Google Play and the Apple App Store from developer accounts opened in your name.",
         "<strong>Android app development in Nohar</strong> with us starts at ₹40,000. Payments, offline use in villages with poor signal, Hindi and Punjabi screens and integrations add to the price, and each appears separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Plenty of Nohar businesses do not need an app at all. When customers only look up your address, rate list and phone number now and then, a website costing a fraction of the app does that job, and we will tell you so before you spend anything.",
       ],
@@ -233,7 +233,7 @@ const nohar: CityContent = {
         "Most shop sites go live one to two weeks after your photos, rate list and text reach us. A 700+ page SEO site needs three to five weeks and a store four to eight. The usual cause of delay is content arriving late, so on day one we send a short Hindi checklist of what to gather.",
     },
     {
-      question: "Who is the best website development company in Nohar?",
+      question: "Who is the best website development team in Nohar?",
       answer:
         "There is no single answer, but there is a fair test. Does the provider show real sites, publish starting prices, put the domain and code in your name and pick up the phone after launch? Ask two or three the same questions and compare their written quotes. We are glad to be one of those you compare.",
     },

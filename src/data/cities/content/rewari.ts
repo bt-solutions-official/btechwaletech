@@ -9,7 +9,7 @@ const rewari: CityContent = {
     description:
       "Web design, local SEO and WhatsApp automation for Rewari brassware traders, Bawal and Dharuhera suppliers, schools and clinics. From ₹10,000; code stays yours.",
     keywords: [
-      "website development company in Rewari",
+      "website development team in Rewari",
       "web designer Rewari",
       "Rewari website price",
       "SEO services Rewari",
@@ -277,7 +277,7 @@ const rewari: CityContent = {
     {
       question: "How long does SEO take to work in Rewari?",
       answer:
-        "Nearby Maps results often improve within six to ten weeks once your profile and site are in order. Broader searches such as “website development company in Rewari” or competitive medical and B2B terms usually take four to eight months. Monthly SEO starts at ₹10,000 and rankings are never guaranteed.",
+        "Nearby Maps results often improve within six to ten weeks once your profile and site are in order. Broader searches such as “website development team in Rewari” or competitive medical and B2B terms usually take four to eight months. Monthly SEO starts at ₹10,000 and rankings are never guaranteed.",
     },
     {
       question: "What do you need from me for a quote?",

@@ -9,22 +9,22 @@ const content: CityContent = {
     description:
       "Freelance software developers for Nashik: custom software, web apps, AI automation and dashboards. Software from ₹60,000, itemised quotes in 2 working days.",
     keywords: [
-      "software development company in Nashik",
-      "IT company in Nashik",
+      "software development team in Nashik",
+      "IT services team in Nashik",
       "IT solutions Nashik",
       "custom software development Nashik",
       "web application development Nashik",
       "ERP software for MIDC vendors Nashik",
       "mobile app development Nashik",
-      "AI automation company Nashik",
+      "AI automation team Nashik",
       "WhatsApp CRM automation Nashik",
       "Tally dashboard developer Nashik",
-      "software company near me Nashik",
+      "software team near me Nashik",
       "IT services Satpur MIDC",
       "software developer Ambad Nashik",
       "packhouse software grape exporters Nashik",
       "cloud hosting and deployment Nashik",
-      "SEO company Nashik",
+      "SEO team Nashik",
       "ecommerce development Nashik",
       "IT support and maintenance Nashik",
       "नाशिक सॉफ्टवेअर कंपनी",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Nashik, Maharashtra",
     h1: "Freelance software developers in Nashik for plants, packhouses and growing firms",
     lede:
-      "Looking for a software development company in Nashik that writes the code itself? BtechWaleTech is a freelance group of three engineers working remotely from India who build custom software, web applications, AI automations and data dashboards for Nashik businesses. Vendor firms in Satpur and Ambad, grape and onion traders, hospitals, colleges and retailers get the same thing: working code, clear starting prices and every login handed over.",
+      "Looking for a software development team in Nashik that writes the code itself? BtechWaleTech is a freelance group of three engineers working remotely from India who build custom software, web applications, AI automations and data dashboards for Nashik businesses. Vendor firms in Satpur and Ambad, grape and onion traders, hospitals, colleges and retailers get the same thing: working code, clear starting prices and every login handed over.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Tally and Excel dashboards", "Field-sales PWAs", "Cloud deployment included"],
   },
   quickAnswer:
-    "Comparing a software development company in Nashik with freelancers? BtechWaleTech, a remote freelance team, builds custom software and web apps from ₹60,000, usually in six to twelve weeks. AI automation and Android and iOS apps start at ₹40,000, websites at ₹10,000 and stores at ₹50,000. We are a three-engineer remote team from India, with no Nashik office, and send an itemised quote within about two working days.",
+    "Comparing a software development team in Nashik with freelancers? BtechWaleTech, a remote freelance team, builds custom software and web apps from ₹60,000, usually in six to twelve weeks. AI automation and Android and iOS apps start at ₹40,000, websites at ₹10,000 and stores at ₹50,000. We are a three-engineer remote team from India, with no Nashik office, and send an itemised quote within about two working days.",
   snapshot: [
     { label: "Industrial estates", value: "Satpur MIDC, Ambad MIDC, Sinnar MIDC, Igatpuri, Gonde and Dindori industrial areas" },
     { label: "Anchor manufacturing", value: "Automotive and electrical plants with a deep tier-two and tier-three vendor base, plus HAL's aircraft division at Ozar" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-nashik",
-      heading: "What does a software development company in Nashik actually build?",
+      heading: "What does a software development team in Nashik actually build?",
       paragraphs: [
-        "A software development company in Nashik mostly builds tools that replace paper registers, Excel files and WhatsApp groups inside working businesses. In practice that means production and dispatch trackers for component makers, order and payment ledgers for traders, admission and fee systems for institutes, and patient or appointment tools for clinics. Websites and search work matter too, but the real savings usually sit in the back office.",
+        "A software development team in Nashik mostly builds tools that replace paper registers, Excel files and WhatsApp groups inside working businesses. In practice that means production and dispatch trackers for component makers, order and payment ledgers for traders, admission and fee systems for institutes, and patient or appointment tools for clinics. Websites and search work matter too, but the real savings usually sit in the back office.",
         "Nashik's economy explains why. The city has a large manufacturing base around Satpur, Ambad and Sinnar, an agricultural trade that runs through grapes, onions and vegetables, and a service sector of hospitals, colleges and retailers that has grown alongside the city. Each of these has repetitive work that a small, well-built application can take over, from generating a delivery challan to reminding a parent that fees are due.",
         "BtechWaleTech works as a freelance group of three remote engineers. You describe the process as it runs today, we map it, and we propose the smallest piece of software that removes the most manual effort. That first version is usually live within six to twelve weeks, and we add to it once your team is actually using it.",
       ],
@@ -176,18 +176,18 @@ const content: CityContent = {
     },
     {
       id: "software-cost-nashik",
-      heading: "How much does a software development company in Nashik charge?",
+      heading: "How much does a software development team in Nashik charge?",
       paragraphs: [
-        "A software development company in Nashik typically prices custom work by screens, roles and integrations; with BtechWaleTech, custom software starts at ₹60,000, and most first versions for small and mid-sized firms fall somewhere above that depending on screens, user roles and integrations. A simple job tracker with one user type sits near the starting price; a multi-location system with approvals, reports and Tally sync costs more.",
+        "A software development team in Nashik typically prices custom work by screens, roles and integrations; with BtechWaleTech, custom software starts at ₹60,000, and most first versions for small and mid-sized firms fall somewhere above that depending on screens, user roles and integrations. A simple job tracker with one user type sits near the starting price; a multi-location system with approvals, reports and Tally sync costs more.",
         "Other starting prices are public too. A static website of up to 100 pages starts at ₹10,000. A 700+ page SEO website starts at ₹20,000. An online store starts at ₹50,000. AI automation starts at ₹40,000, and so do Android and iOS apps. Monthly SEO starts at ₹10,000, and maintenance after the free period starts at ₹8,000 a month. The complete table sits on our <a href='/pricing/'>pricing page</a>.",
         "What keeps costs sensible is scope discipline. We would rather build the three screens your team will use every day than a thirty-screen system that looks impressive in a demo. You receive an itemised quote within about two working days of describing the requirement, and nothing is charged until you approve it.",
       ],
     },
     {
       id: "choosing-it-partner",
-      heading: "Freelance team vs a software development company in Nashik: how to choose",
+      heading: "Freelance team vs a software development team in Nashik: how to choose",
       paragraphs: [
-        "The best way to choose an IT company in Nashik is to judge how well it understands your process before it talks about technology. A vendor who asks how a job card moves through your plant, or how grower payments are calculated, is more likely to build something useful than one who opens with a list of frameworks.",
+        "The best way to choose an IT services team in Nashik is to judge how well it understands your process before it talks about technology. A vendor who asks how a job card moves through your plant, or how grower payments are calculated, is more likely to build something useful than one who opens with a list of frameworks.",
         "Ask practical questions. Who exactly will write the code, and can you speak to them? Will the source code, domain, hosting and database be in your name? What happens if the developer disappears in a year? How are changes after launch priced? Can they show earlier work, even if it is from another city or industry? Our own <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a> are there for exactly this kind of checking.",
         "Finally, look at how the vendor handles small things during the quote. Replies that are prompt, specific and written down usually predict how the project will run. Vague answers and pressure to pay a large advance quickly usually predict the opposite.",
       ],
@@ -330,14 +330,14 @@ const content: CityContent = {
         "Yes. We work with firms across Nashik district, including Sinnar, Niphad, Malegaon, Igatpuri and Dindori, and elsewhere in Maharashtra and India. Since everything runs remotely, location makes no difference to the quote or the timeline. You can also see our pages for other Maharashtra cities on our state hub if you have branches elsewhere.",
     },
     {
-      question: "Which is the best software development company in Nashik?",
+      question: "Which is the best software development team in Nashik?",
       answer:
-        "There is no single best software development company in Nashik; the right one is the firm that understands your process, names the engineers who will write the code, puts the code and accounts in your name and explains post-launch costs. Compare two or three vendors on those points. BtechWaleTech is one option: a freelance group of three remote engineers with public starting prices, but no Nashik office.",
+        "There is no single best software development team in Nashik; the right one is the firm that understands your process, names the engineers who will write the code, puts the code and accounts in your name and explains post-launch costs. Compare two or three vendors on those points. BtechWaleTech is one option: a freelance group of three remote engineers with public starting prices, but no Nashik office.",
     },
     {
-      question: "Is it better to hire a local Nashik IT company or a remote team?",
+      question: "Is it better to hire a local Nashik IT services team or a remote team?",
       answer:
-        "It depends on how much in-person support you need. A local Nashik IT company can visit your site, which helps for hardware and networking. For software, web apps, automation and SEO, a remote team usually works just as well through video calls and screen sharing, and costs less because there is no office rent. Many firms combine a local hardware vendor with a remote software team.",
+        "It depends on how much in-person support you need. A local Nashik IT services team can visit your site, which helps for hardware and networking. For software, web apps, automation and SEO, a remote team usually works just as well through video calls and screen sharing, and costs less because there is no office rent. Many firms combine a local hardware vendor with a remote software team.",
     },
     {
       question: "How quickly do you reply to messages?",

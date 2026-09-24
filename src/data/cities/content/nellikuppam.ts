@@ -10,12 +10,12 @@ const nellikuppam: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Nellikuppam cane growers, factory vendors, shops, clinics and schools.",
     keywords: [
       "IT services in Nellikuppam",
-      "IT company in Nellikuppam",
-      "website development company in Nellikuppam",
+      "IT services team in Nellikuppam",
+      "website development team in Nellikuppam",
       "web design in Nellikuppam",
-      "app development company in Nellikuppam",
+      "app development team in Nellikuppam",
       "Android app development in Nellikuppam",
-      "software company in Nellikuppam",
+      "software team in Nellikuppam",
       "SEO services in Nellikuppam",
       "digital marketing in Nellikuppam",
       "ecommerce website in Nellikuppam",
@@ -74,19 +74,19 @@ const nellikuppam: CityContent = {
     },
     {
       id: "cane-transport-software",
-      heading: "Software company in Nellikuppam for cane growers, harvest gangs and transporters",
+      heading: "Software team in Nellikuppam for cane growers, harvest gangs and transporters",
       paragraphs: [
         "Cuddalore district calls itself the sugar bowl of Tamil Nadu, and around Nellikuppam that is ordinary daily work rather than a slogan. Growers register cane with the factory, harvest gangs move from field to field, tractors and lorries queue at the weighbridge, and payments arrive weeks later against slips that someone has to match by hand. Much of it is still tracked in diaries, loose receipts and memory.",
-        "A useful <strong>software company in Nellikuppam</strong> starts with that paperwork, not with a grand system. For a transporter, we build a trip register: vehicle, driver, field, weighment slip number, tonnage, rate and diesel advance, entered once on a phone and totalled on its own. For a harvest contractor, a crew and wage sheet showing who cut where and what is still owed. For a group of growers, a shared record of planting dates, varieties and expected cutting windows, so nobody misses their turn.",
+        "A useful <strong>software team in Nellikuppam</strong> starts with that paperwork, not with a grand system. For a transporter, we build a trip register: vehicle, driver, field, weighment slip number, tonnage, rate and diesel advance, entered once on a phone and totalled on its own. For a harvest contractor, a crew and wage sheet showing who cut where and what is still owed. For a group of growers, a shared record of planting dates, varieties and expected cutting windows, so nobody misses their turn.",
         "These web apps start at ₹60,000 and are delivered in stages over six to twelve weeks. We usually build the piece that ends the most arguments first, run it through part of a season, then add reports and permissions. If a spreadsheet with a few formulas would solve your problem, we will say so plainly, because software you do not need is only another bill every month.",
       ],
     },
     {
       id: "factory-vendors-sipcot",
-      heading: "Website development company in Nellikuppam for factory vendors and industrial suppliers",
+      heading: "Website development team in Nellikuppam for factory vendors and industrial suppliers",
       paragraphs: [
         "Two long-running plants anchor the town. The EID Parry sugar factory and distillery is the biggest employer, and the confectionery unit that Parry started here in 1914 now belongs to Lotte India. Beyond Cuddalore, the SIPCOT industrial estate houses chemical plants of its own. Each of these relies on a ring of small firms: fabrication and welding shops, electrical and instrumentation contractors, packaging suppliers, transporters, canteen operators and housekeeping agencies.",
-        "Purchase and vendor-development teams look suppliers up online before they call. A <strong>website development company in Nellikuppam</strong> worth hiring should give such a firm a site that clears their checklist quickly: what you make or repair, the machines and certified staff you have, which plants you can reach and how fast, your safety record and practices, GST and registration details, and a named person to contact. It has to open fast on an office desktop and look tidy when printed into a vendor file.",
+        "Purchase and vendor-development teams look suppliers up online before they call. A <strong>website development team in Nellikuppam</strong> worth hiring should give such a firm a site that clears their checklist quickly: what you make or repair, the machines and certified staff you have, which plants you can reach and how fast, your safety record and practices, GST and registration details, and a named person to contact. It has to open fast on an office desktop and look tidy when printed into a vendor file.",
         "We keep these sites strictly factual. No invented client logos, no stock photos passed off as your workshop, and no customer names without that customer's written consent. Where it helps, we add a quotation form that accepts drawings, or a small job-status page so a maintenance engineer at the plant can check progress without ringing your mobile three times a day. A capability site of this kind starts at ₹10,000; our <a href=\"/services/web-development/\">web development service</a> lists what is included.",
       ],
     },
@@ -122,7 +122,7 @@ const nellikuppam: CityContent = {
       heading: "Android app development in Nellikuppam: who needs an app and who does not",
       paragraphs: [
         "An app earns its place when the same people open it again and again. Around Nellikuppam that describes a transporter's drivers logging every load during the crushing season, a fertiliser dealer's village retailers placing weekly orders, a school sending homework and fee reminders to parents, a clinic handing out tokens, or a cashew brand whose loyal buyers reorder before every festival.",
-        "As an <strong>app development company in Nellikuppam</strong> that works remotely, we build in Flutter or React Native, so a single codebase serves both Android phones and iPhones. A typical first release has mobile-number login with OTP, push notifications, the three or four screens your users really need, and a web admin panel where your staff add products, notices or rates. For drivers who spend hours in fields with weak signal, offline entry that syncs later is worth the extra line in the quote.",
+        "As an <strong>app development team in Nellikuppam</strong> that works remotely, we build in Flutter or React Native, so a single codebase serves both Android phones and iPhones. A typical first release has mobile-number login with OTP, push notifications, the three or four screens your users really need, and a web admin panel where your staff add products, notices or rates. For drivers who spend hours in fields with weak signal, offline entry that syncs later is worth the extra line in the quote.",
         "<strong>Android app development in Nellikuppam</strong> with us starts at ₹40,000, and the iOS version comes from the same build. We publish on Google Play and the Apple App Store under developer accounts registered in your name, prepare the listing, screenshots and privacy policy, and respond to review feedback from Google and Apple. Payments, maps, multiple user roles and Tally links are priced separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for more.",
         "If customers only need your address, phone number and price list, skip the app. A website does that job for about a quarter of the cost, needs no download, and appears in Google search, which an app never will.",
       ],
@@ -166,7 +166,7 @@ const nellikuppam: CityContent = {
     },
     {
       id: "remote-it-company-nellikuppam",
-      heading: "Hiring an IT company in Nellikuppam that has no office in town",
+      heading: "Hiring an IT services team in Nellikuppam that has no office in town",
       paragraphs: [
         "We have no office in Nellikuppam, Cuddalore or anywhere else. What replaces it is a written process. The first conversation, on WhatsApp or a call, is about your business: who buys from you, what they keep asking, and what eats your time. Within about two working days you get a document listing pages or screens, timelines and a price against each item.",
         "Work begins only after you approve that document, and nothing is billed before your written go-ahead. Vedansh plans the stages and holds the dates, Ankur builds the site or app, and Santosh sets up anything involving AI, cloud hosting or data. Progress arrives as preview links that open on any phone, so a son studying in Chennai or a partner at the shop can review them too. Tamil text is always sent to you for reading before it goes live.",
@@ -233,7 +233,7 @@ const nellikuppam: CityContent = {
         "A simple shop or clinic site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve, built in stages. Projects move fastest when the owner sends text, prices and pictures in the first few days.",
     },
     {
-      question: "Which is the best IT company in Nellikuppam?",
+      question: "Which is the best IT services team in Nellikuppam?",
       answer:
         "Judge any provider on things you can check: published prices, written quotes, the domain and code registered in your name, real past work and quick replies after launch. We meet those tests and reply on WhatsApp all week, but it is sensible to ask two or three providers the same questions and compare their answers side by side.",
     },

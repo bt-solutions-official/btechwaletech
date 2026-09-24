@@ -9,7 +9,7 @@ const amreli: CityContent = {
     description:
       "Websites from ₹10,000 for Amreli groundnut and cotton traders, diamond units, clinics, schools and shops, with Gujarati pages, Google Maps work and WhatsApp bots.",
     keywords: [
-      "website development company in Amreli",
+      "website development team in Amreli",
       "web designer Amreli",
       "website design Amreli Gujarat",
       "groundnut trader website",
@@ -169,7 +169,7 @@ const amreli: CityContent = {
       id: "amreli-remote-team",
       heading: "Three engineers, no Amreli office, one WhatsApp thread",
       paragraphs: [
-        "BtechWaleTech is not a local agency with a board outside a shop. We are three engineers who work remotely, and we do not rent an office in Amreli or anywhere else. We say that openly instead of printing a borrowed address, and the rent we save stays out of your quote.",
+        "BtechWaleTech is a freelance group of three engineers who work remotely. There is no signboard outside a shop, and we do not rent an office in Amreli or anywhere else. We say that openly instead of printing a borrowed address, and the rent we save stays out of your quote.",
         "The people you speak to are the people who build. Ankur Kumar writes the websites and applications end to end. Santosh Sharma looks after AI, machine learning, AWS hosting and data work. Vedansh Shrivastava plans the project, keeps timelines honest and builds automations and data science pieces.",
         "A project usually starts with a phone call or a voice note describing your business. We follow with a list of what we need, typically photographs, prices, a logo and a few lines about your history. Within days you receive a private link to watch the site grow on your own phone, and you ask for changes in the same WhatsApp thread.",
         "Messages are answered seven days a week on Indian time, which matters when harvest or Diwali traffic peaks. We talk in Hindi or English, and you or your staff read and correct the Gujarati text before it is published.",

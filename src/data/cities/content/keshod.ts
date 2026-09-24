@@ -10,12 +10,12 @@ const keshod: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Keshod groundnut oil mills, chhakda and furniture makers, traders and clinics.",
     keywords: [
       "IT services in Keshod",
-      "IT company in Keshod",
-      "website development company in Keshod",
+      "IT services team in Keshod",
+      "website development team in Keshod",
       "web design in Keshod",
-      "app development company in Keshod",
+      "app development team in Keshod",
       "Android app development in Keshod",
-      "software company in Keshod",
+      "software team in Keshod",
       "SEO services in Keshod",
       "digital marketing in Keshod",
       "ecommerce website in Keshod",
@@ -75,10 +75,10 @@ const keshod: CityContent = {
     },
     {
       id: "groundnut-oil-mills-keshod",
-      heading: "Software company in Keshod for groundnut oil mills",
+      heading: "Software team in Keshod for groundnut oil mills",
       paragraphs: [
         "Keshod has more than 150 groundnut oil factories, from small ghani units to larger filtration plants. A typical mill buys groundnut from farmers and traders, crushes it, sells oil in 15 kg and 15 litre tins or loose, and sells groundnut cake as cattle feed. Margins depend on buying right and knowing stock at any moment, which is hard when records are spread across notebooks, a Tally file and the munim's memory.",
-        "As a <strong>software company in Keshod</strong> without a local office, we build web-based tools that fit alongside your accounts. A first version records each purchase lot with seller, weight, moisture and rate; tracks crushing batches and oil yield; manages oil and cake stock by grade; and prints dispatch bills. The owner sees purchases, stock, sales and outstanding amounts on a phone dashboard. Custom software starts from ₹60,000 and usually takes six to twelve weeks, delivered in stages.",
+        "As a <strong>software team in Keshod</strong> without a local office, we build web-based tools that fit alongside your accounts. A first version records each purchase lot with seller, weight, moisture and rate; tracks crushing batches and oil yield; manages oil and cake stock by grade; and prints dispatch bills. The owner sees purchases, stock, sales and outstanding amounts on a phone dashboard. Custom software starts from ₹60,000 and usually takes six to twelve weeks, delivered in stages.",
         "Mills that sell their own brand benefit from a simple product website: tin sizes, oil types, FSSAI licence number, a dealer enquiry form and a WhatsApp button. Buyers who have never visited Keshod want to see that the mill is real and reachable. We write these pages in Gujarati and English and keep them fast.",
       ],
       list: [
@@ -90,10 +90,10 @@ const keshod: CityContent = {
     },
     {
       id: "furniture-keshod",
-      heading: "Website development company in Keshod for furniture manufacturers",
+      heading: "Website development team in Keshod for furniture manufacturers",
       paragraphs: [
         "Keshod has around 300 furniture manufacturing units, from small workshops to larger showrooms, many of them along Mangrol Road near Char Chowk and the GIDC area at Udhyog Nagar. They sell beds, sofas, dining sets, wardrobes and office furniture to buyers across Saurashtra, and increasingly to customers who first see a design on a phone.",
-        "Working as a <strong>website development company in Keshod</strong>, we build catalogue sites that show each design with clear photographs, sizes, wood or material options and a WhatsApp enquiry button. Prices can be shown as starting figures or kept off the page; many makers prefer to quote after a conversation. Categories are organised the way buyers think: bedroom, living room, dining, office, custom work.",
+        "Working as a <strong>website development team in Keshod</strong>, we build catalogue sites that show each design with clear photographs, sizes, wood or material options and a WhatsApp enquiry button. Prices can be shown as starting figures or kept off the page; many makers prefer to quote after a conversation. Categories are organised the way buyers think: bedroom, living room, dining, office, custom work.",
         "For units that sell to dealers in other towns, a password-protected dealer section with current designs and dealer rates saves a lot of back-and-forth. For showrooms, an accurate Google Maps listing matters most, because customers from Mangrol, Vanthali or Maliya Hatina often search “furniture shop Keshod” before driving over.",
         "Behind the scenes, a simple order tracker helps too: design, customer, advance paid, workshop stage, polish, delivery date. That kind of software can start small and grow as the unit does. Our <a href=\"/services/web-development/\">web development service</a> covers the site, hosting and forms.",
       ],
@@ -119,10 +119,10 @@ const keshod: CityContent = {
     },
     {
       id: "app-development-keshod-dealers",
-      heading: "App development company in Keshod for dealer and farmer networks",
+      heading: "App development team in Keshod for dealer and farmer networks",
       paragraphs: [
         "Much of Keshod's trade is repeat business between the same people: a mill and its fifty dealers, a seed and fertiliser shop and its farmers, a wholesaler and the kirana stores in nearby villages. The friction is always the same. Rates change, stock runs out, payments are late, and everyone calls the owner.",
-        "As an <strong>app development company in Keshod</strong>, we build ordering apps that remove most of those calls. A dealer logs in, sees today's rates and available stock, places an order and gets a notification when it is dispatched. The owner sees all orders in one list and outstanding balances by dealer. For farmers, the same app can show seed and input availability and send reminders during the sowing season.",
+        "As an <strong>app development team in Keshod</strong>, we build ordering apps that remove most of those calls. A dealer logs in, sees today's rates and available stock, places an order and gets a notification when it is dispatched. The owner sees all orders in one list and outstanding balances by dealer. For farmers, the same app can show seed and input availability and send reminders during the sowing season.",
         "The interface is kept in Gujarati with large buttons and few screens, because it will be used on budget phones by people who are busy. We usually start with four or five screens and add more only when people are actually using the first ones.",
       ],
     },
@@ -174,9 +174,9 @@ const keshod: CityContent = {
     },
     {
       id: "remote-team-keshod",
-      heading: "An IT company in Keshod that works remotely",
+      heading: "An IT services team in Keshod that works remotely",
       paragraphs: [
-        "To be straightforward: we are not an <strong>IT company in Keshod</strong> with a shop on Mangrol Road. We are three engineers working remotely for businesses across India, and Keshod clients reach us on WhatsApp or by phone. For most projects that works well, because the actual building happens on screens.",
+        "To be straightforward: we are not an <strong>IT services team in Keshod</strong> with a shop on Mangrol Road. We are three engineers working remotely for businesses across India, and Keshod clients reach us on WhatsApp or by phone. For most projects that works well, because the actual building happens on screens.",
         "A project usually starts with a short call and some voice notes from you about what you sell and who buys. We send a written scope and itemised quote within about two working days. After approval, you see progress on a test link every few days and send changes on WhatsApp. We reply seven days a week, on Indian time.",
         "If something needs doing in person, such as photographing furniture or a mill, we guide you or a local photographer on exactly what to capture. We never invent an address or claim a visit that did not happen. When you are ready, reach us through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -227,7 +227,7 @@ const keshod: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, with login, push notifications and an admin panel, and publish them on Google Play and the App Store in your own accounts. Apps start from ₹40,000. In Keshod, dealer ordering apps for oil mills and furniture units are the most useful examples.",
     },
     {
-      question: "Which is the best IT company in Keshod for a small business?",
+      question: "Which is the best IT services team in Keshod for a small business?",
       answer:
         "Look for someone who registers your domain, code and accounts in your name, gives a written itemised quote and explains maintenance clearly. We are a remote team of three engineers with published starting prices and five months of free maintenance. Compare any option on ownership, delivery speed and support after launch, not only the first figure.",
     },

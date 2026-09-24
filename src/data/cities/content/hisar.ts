@@ -9,7 +9,7 @@ const hisar: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Hisar steel units, dealers, clinics and coaching centres. Sites from ₹10,000, with 5 months of free maintenance.",
     keywords: [
-      "website development company in Hisar",
+      "website development team in Hisar",
       "web designer in Hisar",
       "website design Hisar price",
       "freelance web developer Hisar",
@@ -269,7 +269,7 @@ const hisar: CityContent = {
     {
       question: "How soon will SEO bring enquiries in Hisar?",
       answer:
-        "Map results for nearby searches often improve in six to ten weeks once your profile and site are set up properly. Broader terms such as “website development company in Hisar” or competitive medical searches can take four to eight months. We report monthly in plain language and never guarantee a first-page position.",
+        "Map results for nearby searches often improve in six to ten weeks once your profile and site are set up properly. Broader terms such as “website development team in Hisar” or competitive medical searches can take four to eight months. We report monthly in plain language and never guarantee a first-page position.",
     },
     {
       question: "What do you need from me to prepare a quote?",

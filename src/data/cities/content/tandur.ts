@@ -10,12 +10,12 @@ const tandur: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Tandur stone polishers, cement suppliers, red gram traders, clinics and shops.",
     keywords: [
       "IT services in Tandur",
-      "IT company in Tandur",
-      "website development company in Tandur",
+      "IT services team in Tandur",
+      "website development team in Tandur",
       "web design in Tandur",
-      "app development company in Tandur",
+      "app development team in Tandur",
       "Android app development in Tandur",
-      "software company in Tandur",
+      "software team in Tandur",
       "SEO services in Tandur",
       "digital marketing in Tandur",
       "ecommerce website in Tandur",
@@ -74,10 +74,10 @@ const tandur: CityContent = {
     },
     {
       id: "tandur-stone-polishing",
-      heading: "Website development company in Tandur for stone quarries and polishing units",
+      heading: "Website development team in Tandur for stone quarries and polishing units",
       paragraphs: [
         "Tandur stone is sold well beyond Telangana, mostly through dealers and word of mouth. Builders, architects and contractors increasingly want to see finishes, sizes and thicknesses online before they call, and many search simply for “Tandur stone supplier” or “Tandur stone price”.",
-        "As a <strong>website development company in Tandur</strong> for the stone trade, we build catalogue sites with real photographs of each finish (natural, polished and any others you actually offer), standard sizes, thickness options, typical uses and loading details. An enquiry form collects the quantity, site location and preferred finish, and sends it to your WhatsApp. We do not publish price figures you cannot honour; instead we explain what affects the rate, such as size, finish, quantity and freight.",
+        "As a <strong>website development team in Tandur</strong> for the stone trade, we build catalogue sites with real photographs of each finish (natural, polished and any others you actually offer), standard sizes, thickness options, typical uses and loading details. An enquiry form collects the quantity, site location and preferred finish, and sends it to your WhatsApp. We do not publish price figures you cannot honour; instead we explain what affects the rate, such as size, finish, quantity and freight.",
         "Many polishing units also sell Kota and other stones alongside Tandur stone. We can organise the site so each product has its own page, which helps search visibility and keeps enquiries specific.",
       ],
       list: [
@@ -89,19 +89,19 @@ const tandur: CityContent = {
     },
     {
       id: "stone-dispatch-software",
-      heading: "Software company in Tandur for slab stock, orders and truck dispatch",
+      heading: "Software team in Tandur for slab stock, orders and truck dispatch",
       paragraphs: [
         "Behind the showroom, a polishing unit juggles raw blocks from the quarry, slabs at different stages of cutting and polishing, orders from dealers and builders, trucks, loaders and payments that often come in parts. Much of it sits in notebooks and one person's memory.",
-        "As a <strong>software company in Tandur</strong> in practical terms, we build web apps that track slab stock by type, size and finish, record orders and advances, plan truck loads, print challans and invoices, and show dues by customer. The owner sees the day's dispatches and collections on a phone, and customers can receive order status on WhatsApp.",
+        "As a <strong>software team in Tandur</strong> in practical terms, we build web apps that track slab stock by type, size and finish, record orders and advances, plan truck loads, print challans and invoices, and show dues by customer. The owner sees the day's dispatches and collections on a phone, and customers can receive order status on WhatsApp.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. If you already use Tally, we can read its exports for dashboards so your accountant does not have to change how they work.",
       ],
     },
     {
       id: "cement-building-materials",
-      heading: "IT company in Tandur for cement, hardware and building material dealers",
+      heading: "IT services team in Tandur for cement, hardware and building material dealers",
       paragraphs: [
         "The Tandur area hosts plants of several cement manufacturers, including the Cement Corporation of India at Karankote, and a network of dealers, sub-dealers, transporters, and steel and hardware shops has grown around them. Much of their trade runs on credit to masons, contractors and small builders.",
-        "An <strong>IT company in Tandur</strong> can help this trade with a billing and credit tool: record each sale, track the balance per customer, send payment reminders on WhatsApp in Telugu, and view outstanding amounts by village or contractor. For dealers serving many retailers, a simple re-ordering app lets shopkeepers place orders without calling.",
+        "An <strong>IT services team in Tandur</strong> can help this trade with a billing and credit tool: record each sale, track the balance per customer, send payment reminders on WhatsApp in Telugu, and view outstanding amounts by village or contractor. For dealers serving many retailers, a simple re-ordering app lets shopkeepers place orders without calling.",
         "We do not represent any cement brand. If you are an authorised dealer, we follow the brand's rules on logos and pricing claims, and we keep your website focused on your own services, stock and delivery area.",
       ],
     },
@@ -143,9 +143,9 @@ const tandur: CityContent = {
     },
     {
       id: "android-ios-apps-tandur",
-      heading: "App development company in Tandur: Android and iOS apps for trade and service",
+      heading: "App development team in Tandur: Android and iOS apps for trade and service",
       paragraphs: [
-        "Walk through any Tandur polishing yard and nearly every supervisor, driver and loader has an Android handset in his pocket. The builders and architects in Hyderabad who order slabs, on the other hand, are just as likely to carry an iPhone. That split is why, as an <strong>app development company in Tandur</strong> businesses reach over WhatsApp, we write apps in Flutter or React Native: a single codebase produces both versions, so you are not paying twice.",
+        "Walk through any Tandur polishing yard and nearly every supervisor, driver and loader has an Android handset in his pocket. The builders and architects in Hyderabad who order slabs, on the other hand, are just as likely to carry an iPhone. That split is why, as an <strong>app development team in Tandur</strong> businesses reach over WhatsApp, we write apps in Flutter or React Native: a single codebase produces both versions, so you are not paying twice.",
         "An app earns its keep only when the same person opens it week after week. Good Tandur examples: a stone dealer in another town placing a repeat slab order, a mason checking how much credit is left with a cement dealer, a truck driver closing a trip with a photo of the delivery challan, or a parent reading the school's homework notice. The first release normally covers OTP login on a mobile number, push alerts, four to six working screens and a web admin panel for your office.",
         "<strong>Android app development in Tandur</strong> through us is priced from ₹40,000, and the iPhone build comes out of that same project. Publishing on Google Play and the Apple App Store happens under developer accounts opened in your firm's name, never ours. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> lists what a typical first version includes.",
         "Plenty of Tandur businesses do not need an app at all. If buyers contact you once for a big order and never again, a well-photographed website plus a tidy Google listing will bring more enquiries per rupee spent, and we will recommend that instead.",
@@ -224,7 +224,7 @@ const tandur: CityContent = {
         "Once photos and text are with us, a simple site is typically ready in a week or two. Larger SEO builds need three to five weeks, shops four to eight and custom software six to twelve. With stone catalogues the usual hold-up is waiting for clear photographs of every finish, so we send a shot list on day one.",
     },
     {
-      question: "Which is the best IT company in Tandur?",
+      question: "Which is the best IT services team in Tandur?",
       answer:
         "There is no single answer, but good signs are easy to check: live samples you can open, a written itemised quote, the domain and code put in your name, and someone who still answers after launch. Put those questions to every IT company in Tandur you speak to. We are three remote engineers and will happily tell you when a cheaper option is enough.",
     },

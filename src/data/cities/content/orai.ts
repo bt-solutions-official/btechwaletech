@@ -9,7 +9,7 @@ const orai: CityContent = {
     description:
       "Hindi and English websites, Google Maps setup, handmade paper stores and WhatsApp automation for Orai and Jalaun district traders, clinics, schools and shops.",
     keywords: [
-      "website development company in Orai",
+      "website development team in Orai",
       "web designer Orai Jalaun",
       "website design Orai",
       "Kalpi handmade paper online store",

@@ -9,7 +9,7 @@ const panaji: CityContent = {
     description:
       "Websites, Konkani and English local SEO, booking pages and WhatsApp automation for Panaji guesthouses, restaurants, property firms and Patto offices. From ₹10,000.",
     keywords: [
-      "website development company in Panaji",
+      "website development team in Panaji",
       "web designer Panjim",
       "website developer Goa",
       "website cost Panaji",
@@ -21,7 +21,7 @@ const panaji: CityContent = {
       "real estate website Goa",
       "ecommerce website Goa",
       "WhatsApp automation Goa",
-      "software company Panaji",
+      "software team Panaji",
       "website maintenance Goa",
       "Konkani website Goa",
       "Fontainhas homestay website",

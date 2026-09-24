@@ -10,12 +10,12 @@ const mulbagal: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Mulbagal tomato traders, dairy and silk farmers, dose hotels, lodges and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Mulbagal",
-      "IT company in Mulbagal",
-      "website development company in Mulbagal",
+      "IT services team in Mulbagal",
+      "website development team in Mulbagal",
       "web design in Mulbagal",
-      "app development company in Mulbagal",
+      "app development team in Mulbagal",
       "Android app development in Mulbagal",
-      "software company in Mulbagal",
+      "software team in Mulbagal",
       "SEO services in Mulbagal",
       "digital marketing in Mulbagal",
       "ecommerce website in Mulbagal",
@@ -75,20 +75,20 @@ const mulbagal: CityContent = {
     },
     {
       id: "tomato-vegetable-traders",
-      heading: "Software company in Mulbagal for tomato and vegetable commission agents",
+      heading: "Software team in Mulbagal for tomato and vegetable commission agents",
       paragraphs: [
         "Kolar district is among India's major tomato-growing areas, and Mulbagal's APMC yard on the national highway handles tomatoes along with potatoes, brinjal, beans, beetroot, carrots and cabbage. Loads move on to Kolar, Madanapalle, Bengaluru and Chennai, often the same night. Prices can swing sharply within a week, and every swing lands on somebody's ledger.",
         "The bookkeeping behind one trading day is heavier than it looks: crates received from each farmer, the auction rate, deductions for commission and hamali, advances given before the season, truck hire to buyers in other cities, and buyer payments that arrive days later. When all of this lives in paper books, disputes take hours to settle and nobody knows the true outstanding figure until the season closes.",
-        "Working as a <strong>software company in Mulbagal</strong> for this trade, we build a lean web ledger. Each lot is entered once from a phone at the yard, a sale slip goes to the farmer on WhatsApp, and balances run per farmer and per buyer. A truck register tracks freight and driver advances. Labels can be in Kannada or Telugu, slips print on an ordinary printer, and the whole thing starts at ₹60,000, built in stages over six to twelve weeks so the lot register is in daily use before the rest is finished.",
+        "Working as a <strong>software team in Mulbagal</strong> for this trade, we build a lean web ledger. Each lot is entered once from a phone at the yard, a sale slip goes to the farmer on WhatsApp, and balances run per farmer and per buyer. A truck register tracks freight and driver advances. Labels can be in Kannada or Telugu, slips print on an ordinary printer, and the whole thing starts at ₹60,000, built in stages over six to twelve weeks so the lot register is in daily use before the rest is finished.",
       ],
     },
     {
       id: "dairy-sericulture",
-      heading: "Website development company in Mulbagal for dairy groups and silk growers",
+      heading: "Website development team in Mulbagal for dairy groups and silk growers",
       paragraphs: [
         "Away from the highway, many Mulbagal taluk households combine crops with milch cattle and mulberry. Milk goes to village collection centres morning and evening, and silkworm rearers sell cocoons batch by batch. Both trades run on small, frequent transactions written by hand, with payments settled in cycles that members often cannot check for themselves.",
         "Not every such group needs a public website. What helps more is a shared record: litres and fat readings per member, or cocoon batches, weights and rates per rearer, with a phone-friendly summary each person can open without visiting the office. We build this as a small web app with mobile-number login, and it can later become an Android app if members ask for one.",
-        "Where a site does make sense, for a feed and veterinary supplies shop, a mulberry sapling nursery or a milk products outlet, a <strong>website development company in Mulbagal</strong> should keep it practical: what you sell, rates or rate ranges, delivery villages, timings, a map pin and a WhatsApp button. That kind of site starts at ₹10,000 and is ready a week or two after you send photos.",
+        "Where a site does make sense, for a feed and veterinary supplies shop, a mulberry sapling nursery or a milk products outlet, a <strong>website development team in Mulbagal</strong> should keep it practical: what you sell, rates or rate ranges, delivery villages, timings, a map pin and a WhatsApp button. That kind of site starts at ₹10,000 and is ready a week or two after you send photos.",
         "Member data belongs to the group or the business, never to us. We host it in your account, restrict who sees what, and export everything to Excel whenever you ask.",
       ],
     },
@@ -135,7 +135,7 @@ const mulbagal: CityContent = {
       heading: "Android app development in Mulbagal: when an app earns its place",
       paragraphs: [
         "Ask ten Mulbagal owners whether they need an app and most will say yes; in practice only a few do. An app pays off when the same people open it again and again: farmers checking the day's sale slip and balance with their commission agent, dairy members looking at litres and payment for the cycle, parents receiving school notices and fee alerts, or regular pilgrim groups booking rooms each season.",
-        "As a remote <strong>app development company in Mulbagal</strong>, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version usually has mobile number and OTP login, push notifications, the three or four screens your users actually need, Kannada and Telugu labels where required, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As a remote <strong>app development team in Mulbagal</strong>, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version usually has mobile number and OTP login, push notifications, the three or four screens your users actually need, Kannada and Telugu labels where required, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Mulbagal</strong> with us starts at ₹40,000. The quote rises with online payment, offline entry for yards and villages with patchy signal, maps, or links to existing software, and each of these is priced on a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number, rates and timings, a website plus a proper Google listing does that job for a fraction of the cost, and nobody has to install anything. We will say so before you spend money on an app.",
       ],
@@ -185,9 +185,9 @@ const mulbagal: CityContent = {
     },
     {
       id: "remote-team-mulbagal",
-      heading: "How a remote IT company in Mulbagal's region replaces the office visit",
+      heading: "How a remote IT services team in Mulbagal's region replaces the office visit",
       paragraphs: [
-        "Searching for an <strong>IT company in Mulbagal</strong> mostly turns up listings in Kolar or Bengaluru. We are neither: three engineers who work remotely and have never had an office in Mulbagal, and we say so before anything else. What replaces the office visit is a set of habits we keep on every job.",
+        "Searching for an <strong>IT services team in Mulbagal</strong> mostly turns up listings in Kolar or Bengaluru. We are neither: three engineers who work remotely and have never had an office in Mulbagal, and we say so before anything else. What replaces the office visit is a set of habits we keep on every job.",
         "First, a call about your business and your buyers, with more listening than talking on our side. Second, a written note listing pages or app screens, dates and the cost of each item, which you approve before any work or billing begins. Third, preview links at each stage that open on any phone, so you can check them at the yard, at home or between customers. Kannada and Telugu text is always sent for your review before it goes live.",
         "WhatsApp is the main line, answered seven days a week on Indian time. If a date slips, you hear about it the same day with the reason and a new date. Payments follow milestones you can see working, which keeps the risk small if this is your first website or app.",
       ],
@@ -243,7 +243,7 @@ const mulbagal: CityContent = {
         "A shop or clinic site is usually live one to two weeks after we receive your photos, timings and price details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting on content, so sending it early is the quickest shortcut.",
     },
     {
-      question: "Which is the best website development company in Mulbagal?",
+      question: "Which is the best website development team in Mulbagal?",
       answer:
         "The best choice is whoever builds what you need, puts the domain and code in your name, publishes prices and still answers a year after launch. Ask every option for a written quote and past work you can check. We meet those tests, but comparing two or three providers before deciding is sensible.",
     },

@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Gyalshing, Sikkim",
     description:
-      "Looking for an IT company in Gyalshing? Hire three freelance engineers for Pelling hotel bookings, trek operator software, apps, local SEO and maintenance.",
+      "Looking for an IT services team in Gyalshing? Hire three freelance engineers for Pelling hotel bookings, trek operator software, apps, local SEO and maintenance.",
     keywords: [
-      "software development company in Gyalshing",
-      "IT company in Gyalshing",
+      "software development team in Gyalshing",
+      "IT services team in Gyalshing",
       "IT solutions Gyalshing",
       "freelance software developers Geyzing",
       "Android app development Gyalshing",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Gyalshing · West Sikkim · Freelance IT group",
     h1: "Freelance software developers in Gyalshing for Pelling hotels, trek operators and West Sikkim businesses",
     lede:
-      "Businesses that search for a software development company in Gyalshing are usually hotels in Pelling, trek operators in Yuksom, homestays and district service providers who need bookings and discovery to work reliably. BtechWaleTech is a freelance group of three engineers working remotely from India. We build lightweight tourism pages, booking and trek software, Android and iOS apps, automation, local SEO and ongoing maintenance.",
+      "Businesses that search for a software development team in Gyalshing are usually hotels in Pelling, trek operators in Yuksom, homestays and district service providers who need bookings and discovery to work reliably. BtechWaleTech is a freelance group of three engineers working remotely from India. We build lightweight tourism pages, booking and trek software, Android and iOS apps, automation, local SEO and ongoing maintenance.",
     pills: ["Lightweight tourism pages", "Trek and permit workflows", "Android and iOS apps from ₹40,000", "Local SEO for Pelling", "Maintenance free for 5 months"],
   },
   quickAnswer:
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "gyalshing-freelance-vs-company",
-      heading: "Freelance developers or a software development company in Gyalshing: which fits West Sikkim?",
+      heading: "Freelance developers or a software development team in Gyalshing: which fits West Sikkim?",
       paragraphs: [
-        "Freelance developers usually fit West Sikkim better than a software development company, because most Gyalshing, Pelling and Yuksom businesses need focused, affordable tools, like a booking page, a trek enquiry system or an app, plus regular updates, rather than large enterprise projects with on-site teams. Larger companies suit government-scale or hardware-heavy work.",
+        "Freelance developers usually fit West Sikkim better than a software development team, because most Gyalshing, Pelling and Yuksom businesses need focused, affordable tools, like a booking page, a trek enquiry system or an app, plus regular updates, rather than large enterprise projects with on-site teams. Larger companies suit government-scale or hardware-heavy work.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Gyalshing or anywhere in Sikkim, and we will not pretend otherwise. We build tourism websites, booking engines, trek operator software, Android and iOS apps, AI and WhatsApp automation, dashboards, small online stores and local SEO, and we host and maintain them.",
         "The practical difference is contact. You speak to the people writing the code, quotes are itemised, and every account is in your name. Read about us on our <a href='/about/'>about page</a>, or see the <a href='/it-services/sikkim/'>Sikkim hub</a> for other towns.",
       ],
@@ -259,7 +259,7 @@ const content: CityContent = {
     { question: "How long before local SEO brings bookings?", answer: "Map listings can improve within weeks once the Google Business Profile is complete. Website SEO usually takes three to six months. We focus on specific searches, such as a hotel type or trek, where West Sikkim businesses can compete, and we never guarantee rankings." },
     { question: "Will the website load on weak signal?", answer: "Yes, that is a design priority. We build lightweight static pages, compress images for mobile, avoid heavy sliders and videos, and put the key information and contact buttons on the first screen, so the page works on the slow connections common in West Sikkim." },
     { question: "Do you fix hotel Wi-Fi or computers?", answer: "No. We are remote software engineers and do not handle hardware, Wi-Fi or CCTV. A local technician is the right choice for that. We build and maintain websites, apps, booking software, automation and dashboards." },
-    { question: "Which is the best IT company for West Sikkim businesses?", answer: "It depends on what you need. For hardware, a local technician. For websites, apps and software, compare providers on similar past work, ownership of domain and code, itemised pricing and support after launch. We are a remote freelance group, so judge us on the same points." },
+    { question: "Which is the best IT services team for West Sikkim businesses?", answer: "It depends on what you need. For hardware, a local technician. For websites, apps and software, compare providers on similar past work, ownership of domain and code, itemised pricing and support after launch. We are a remote freelance group, so judge us on the same points." },
     { question: "How do we start?", answer: "Send us a WhatsApp message or use the <a href='/contact/'>contact page</a> with a few lines about your property or business. We will ask a few questions, often on a short call, and send an itemised quote in about two working days. Work begins after approval and the first milestone payment." },
     { "question":"Can guests pay an advance online for a Pelling hotel booking?","answer":"Yes. The booking system can accept advances through UPI and card checkout using a payment gateway account opened in your own name, so money lands in your bank directly. We are paid for our own work only by UPI QR or bank transfer. Cancellation and refund rules appear on the booking page, which avoids disputes when landslides or road closures force changes." },
     { "question":"Can you update our website during the monsoon off-season?","answer":"Yes. The quieter monsoon months are a sensible time to refresh photos, room rates and trek departure dates before the autumn season. Changes within the five free maintenance months cost nothing. After that, monthly support starts from ₹8,000, or you can pay for a single round of updates when you need it." },

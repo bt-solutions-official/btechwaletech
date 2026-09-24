@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Nagaland, from Dimapur and Kohima to Mokokchung: custom software, Android and iOS apps, AI automation, dashboards and SEO. From ₹10,000.",
     keywords: [
       "IT services in Nagaland",
-      "software development company in Nagaland",
-      "IT company in Nagaland",
+      "software development team in Nagaland",
+      "IT services team in Nagaland",
       "freelance IT services Nagaland",
       "freelance software developers Nagaland",
       "Android app development Nagaland",
@@ -28,7 +28,7 @@ const content: CityContent = {
       "IT support near me Nagaland",
       "school software Mokokchung",
       "Nagaland te software banai diya manu",
-      "Nagaland mein software company",
+      "Nagaland mein software team",
     ],
   },
   hero: {
@@ -78,9 +78,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-nagaland",
-      heading: "Freelance group vs a software development company in Nagaland: which to hire?",
+      heading: "Freelance group vs a software development team in Nagaland: which to hire?",
       paragraphs: [
-        "Hire a freelance group in Nagaland when you want direct access to the engineers, clear starting prices and focused software work; hire a software development company when you need people on site in Dimapur or Kohima regularly, hardware and network installation, or formal eligibility for large government tenders.",
+        "Hire a freelance group in Nagaland when you want direct access to the engineers, clear starting prices and focused software work; hire a software development team when you need people on site in Dimapur or Kohima regularly, hardware and network installation, or formal eligibility for large government tenders.",
         "Local IT firms bring on-site presence, which matters for offices needing cabling, CCTV or servers. A freelance group brings focus and fewer layers: no salesperson or account manager between you and the builder, and no office rent built into the estimate. We do not install hardware and do not claim a presence in Nagaland.",
         "If you are comparing IT companies in Nagaland, ask each the same questions: who builds the system, whether domain and source code will be registered to you, what support costs after year one, and how quickly they reply on a Sunday. Clear answers predict a good working relationship far better than a list of logos.",
       ],

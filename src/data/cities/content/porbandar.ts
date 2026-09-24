@@ -9,7 +9,7 @@ const porbandar: CityContent = {
     description:
       "Websites, Google Maps and WhatsApp automation for Porbandar seafood exporters, hotels, tour operators, clinics and shops. Sites from ₹10,000, owned fully by you.",
     keywords: [
-      "website development company in Porbandar",
+      "website development team in Porbandar",
       "web designer Porbandar",
       "Porbandar website price",
       "freelance web developer Porbandar",

@@ -10,12 +10,12 @@ const mangrol: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Mangrol fish exporters, boat owners, coconut and mango growers, clinics and shops.",
     keywords: [
       "IT services in Mangrol",
-      "IT company in Mangrol",
-      "website development company in Mangrol",
+      "IT services team in Mangrol",
+      "website development team in Mangrol",
       "web design in Mangrol",
-      "app development company in Mangrol",
+      "app development team in Mangrol",
       "Android app development in Mangrol",
-      "software company in Mangrol",
+      "software team in Mangrol",
       "SEO services in Mangrol",
       "digital marketing in Mangrol",
       "ecommerce website in Mangrol",
@@ -75,20 +75,20 @@ const mangrol: CityContent = {
     },
     {
       id: "seafood-exporters-mangrol",
-      heading: "Website development company in Mangrol for seafood processors and exporters",
+      heading: "Website development team in Mangrol for seafood processors and exporters",
       paragraphs: [
         "Mangrol has long been known as one of Gujarat's important fishing harbours, and many of its fisheries and processing units ship frozen and dried seafood overseas, including to European markets. Importers who have never visited the town judge a supplier first by what they find online, and a missing or outdated website makes a sound business look risky.",
-        "A <strong>website development company in Mangrol</strong> serving exporters should build for that overseas reader. The site needs clear English, the species and product forms you handle, processing and freezing capacity in honest terms, packing formats, the certifications and registrations you actually hold, and the ports you ship through. Real photographs of your plant, cold storage and packing hall matter far more than stock images.",
+        "A <strong>website development team in Mangrol</strong> serving exporters should build for that overseas reader. The site needs clear English, the species and product forms you handle, processing and freezing capacity in honest terms, packing formats, the certifications and registrations you actually hold, and the ports you ship through. Real photographs of your plant, cold storage and packing hall matter far more than stock images.",
         "We add an enquiry form that asks for product, quantity, packing and destination, so the replies you receive are serious ones. A Gujarati section can serve local suppliers and boat owners who sell to you. We never name a buyer or show a buyer's logo without written permission, and we never claim certifications you do not have, because importers check.",
         "A factual export website of this kind starts at ₹10,000 for a static build and takes one to two weeks once content is ready. Exporters who want a product page for every species and form, plus pages for each market they serve, usually choose the 700+ page SEO website from ₹20,000.",
       ],
     },
     {
       id: "boat-owners-software",
-      heading: "Software company in Mangrol for boat owners, landing and catch records",
+      heading: "Software team in Mangrol for boat owners, landing and catch records",
       paragraphs: [
         "Every fishing trip out of Mangrol involves money moving in several directions. Diesel, ice, rations and crew advances go out before the boat leaves; the catch is sold at landing to one or more buyers; and payments may come in over days or weeks. Owners with several boats juggle all of this in notebooks, often across family members.",
-        "As a <strong>software company in Mangrol</strong> in practical terms, we build web tools where each trip is recorded once: boat, crew, dates, expenses, catch by species and weight, buyer and rate. The system then shows profit per trip, per boat and per season, outstanding amounts by buyer, and crew settlement figures, with a statement that can be shared on WhatsApp.",
+        "As a <strong>software team in Mangrol</strong> in practical terms, we build web tools where each trip is recorded once: boat, crew, dates, expenses, catch by species and weight, buyer and rate. The system then shows profit per trip, per boat and per season, outstanding amounts by buyer, and crew settlement figures, with a statement that can be shared on WhatsApp.",
         "For processors, the same idea works for lots: what was bought from which boat, what went into cold storage, what was packed and dispatched, and what yield was achieved. Document reminders for boat registrations, licences and insurance can be added so nothing lapses quietly.",
         "These systems start at ₹60,000 and take six to twelve weeks, built in stages. We start with the trip or lot register because it saves time from the first week, then add reports and statements. The off-season is a sensible time to build, so the tool is ready when boats go out again.",
       ],
@@ -108,7 +108,7 @@ const mangrol: CityContent = {
       heading: "Android app development in Mangrol, and iOS apps for harbour and town businesses",
       paragraphs: [
         "An app is worth building when the same people use it often. In Mangrol that could be crew leaders logging trips and expenses from the boat, regular buyers checking what has landed today, mango customers who reorder every season, parents who need notices from a school, or patients booking tokens at a clinic that is always full.",
-        "As an <strong>app development company in Mangrol</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login, push notifications, the essential screens and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Mangrol</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login, push notifications, the essential screens and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Mangrol</strong> with us starts at ₹40,000. The price rises for online payments, offline entry for use at sea or at the jetty where signal is weak, photographs of each catch, maps or links to your existing software, and each of these appears on its own line in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the process runs.",
         "Plenty of Mangrol businesses do not need an app. If customers only look for your number, timings and location, a website and WhatsApp do that for much less, and we will recommend that instead. An app that people install once and forget is money thrown into the sea.",
       ],
@@ -233,7 +233,7 @@ const mangrol: CityContent = {
         "A simple static website is usually live within one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. The fastest projects are those where content arrives in the first few days.",
     },
     {
-      question: "Who is the best website development company in Mangrol?",
+      question: "Who is the best website development team in Mangrol?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and shows real work. Ask all options the same questions. We meet those tests and answer WhatsApp every day, but comparing two or three before deciding is a good idea.",
     },

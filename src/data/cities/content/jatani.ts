@@ -10,12 +10,12 @@ const jatani: CityContent = {
       "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Jatani railway suppliers, student housing, coaching centres and shops.",
     keywords: [
       "IT services in Jatani",
-      "IT company in Jatni",
-      "website development company in Jatani",
+      "IT services team in Jatni",
+      "website development team in Jatani",
       "web design in Jatni",
-      "app development company in Jatani",
+      "app development team in Jatani",
       "Android app development in Jatni",
-      "software company in Jatani",
+      "software team in Jatani",
       "SEO services in Jatni",
       "digital marketing in Jatani",
       "ecommerce website in Jatni",
@@ -73,10 +73,10 @@ const jatani: CityContent = {
     },
     {
       id: "railway-contractors-suppliers",
-      heading: "Software company in Jatani for railway contractors and suppliers",
+      heading: "Software team in Jatani for railway contractors and suppliers",
       paragraphs: [
         "A divisional headquarters creates steady work for private firms: civil and track contractors, electrical and signalling subcontractors, housekeeping and catering agencies, material suppliers, printers, transporters and labour contractors. Much of this work is won through formal tenders and managed through detailed bills, measurements and material records.",
-        "These firms often run on spreadsheets passed between the site supervisor, the office and the accountant, with the same data typed three times. As a <strong>software company in Jatani</strong> in the practical sense, we build web tools that store work orders, bill items, measurement entries, material received and issued, labour attendance and payments pending against each contract. The owner sees at a glance which bills are stuck and which sites need material.",
+        "These firms often run on spreadsheets passed between the site supervisor, the office and the accountant, with the same data typed three times. As a <strong>software team in Jatani</strong> in the practical sense, we build web tools that store work orders, bill items, measurement entries, material received and issued, labour attendance and payments pending against each contract. The owner sees at a glance which bills are stuck and which sites need material.",
         "Such tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the register that saves the most time. We also build factual company websites for tender submissions: scope of work, equipment, completed work you are allowed to mention, registrations you actually hold and named contacts. We never list a client or project without your written confirmation.",
       ],
     },
@@ -91,10 +91,10 @@ const jatani: CityContent = {
     },
     {
       id: "coaching-schools-jatani",
-      heading: "Website development company in Jatani for coaching centres and schools",
+      heading: "Website development team in Jatani for coaching centres and schools",
       paragraphs: [
         "Jatani's schools and coaching institutes draw students from the town, the railway colonies and villages across Khordha district. Coaching centres prepare students for board exams, engineering and medical entrance tests, and government job exams such as railway recruitment, which has an obvious audience in a railway town.",
-        "Parents want to see batch timings, subjects, fees or fee ranges, faculty introductions and the location before they visit. A <strong>website development company in Jatani</strong> building for an institute should put those facts in plain view, date every notice, keep the enquiry form short, and publish only results the institute can verify. We do not invent toppers, selection counts or rankings, and every figure on the site is checked with you.",
+        "Parents want to see batch timings, subjects, fees or fee ranges, faculty introductions and the location before they visit. A <strong>website development team in Jatani</strong> building for an institute should put those facts in plain view, date every notice, keep the enquiry form short, and publish only results the institute can verify. We do not invent toppers, selection counts or rankings, and every figure on the site is checked with you.",
         "For larger institutes we add separate pages for each course and exam, a downloadable prospectus, a notices section staff can update without calling us, and simple tracking so you know which pages bring enquiries. Where regular tests or homework tracking matter, an app can follow, and we explain below when that is worth doing.",
       ],
     },
@@ -121,7 +121,7 @@ const jatani: CityContent = {
       heading: "Android app development in Jatani, and iOS apps for local businesses",
       paragraphs: [
         "An app pays for itself when a known group of people uses it every week. In Jatani that describes hostel and PG residents paying rent and raising maintenance requests, mess members checking menus and pausing meals when they travel, coaching students taking daily tests, railway contractors' site staff entering measurements and attendance, and patients booking tokens at a busy clinic.",
-        "Working remotely as an <strong>app development company in Jatani</strong>, we write apps in Flutter or React Native, which lets a single codebase serve both Android handsets and iPhones. Version one normally includes OTP login on the resident's or student's mobile number, push alerts, the handful of screens people really use and a web admin panel for the owner. Publishing happens on Google Play and the Apple App Store, through developer accounts that carry your name, not ours.",
+        "Working remotely as an <strong>app development team in Jatani</strong>, we write apps in Flutter or React Native, which lets a single codebase serve both Android handsets and iPhones. Version one normally includes OTP login on the resident's or student's mobile number, push alerts, the handful of screens people really use and a web admin panel for the owner. Publishing happens on Google Play and the Apple App Store, through developer accounts that carry your name, not ours.",
         "<strong>Android app development in Jatani</strong> with us starts at ₹40,000. The cost rises with online payments, offline entry for sites with poor signal, maps, photo uploads from the field and links to your billing software, and each of these is a separate line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and price list, a website does that for far less and asks nobody to install anything. We will recommend the website in that case, because an app that students uninstall after a week is wasted money.",
       ],
@@ -222,7 +222,7 @@ const jatani: CityContent = {
         "A static site is normally live one to two weeks after we receive photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. PG owners should start by June so the site and listing are ready when new students arrive.",
     },
     {
-      question: "Who is the best website development company in Jatani?",
+      question: "Who is the best website development team in Jatani?",
       answer:
         "Pick someone who shows prices openly, puts the domain and code under your name, stays reachable after the site goes live and can point to real projects. Put the same questions to every provider you talk to. We meet those tests and answer WhatsApp all week, yet it is still wise to compare two or three before signing.",
     },

@@ -10,12 +10,12 @@ const sagara: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp tools for Sagara areca traders, spice growers, Jog Falls homestays, sandalwood carvers and clinics.",
     keywords: [
       "IT services in Sagara",
-      "IT company in Sagara",
-      "website development company in Sagara",
+      "IT services team in Sagara",
+      "website development team in Sagara",
       "web design in Sagara",
-      "app development company in Sagara",
+      "app development team in Sagara",
       "Android app development in Sagara",
-      "software company in Sagara",
+      "software team in Sagara",
       "SEO services in Sagara",
       "digital marketing in Sagara",
       "ecommerce website in Sagara",
@@ -75,11 +75,11 @@ const sagara: CityContent = {
     },
     {
       id: "areca-apmc-traders",
-      heading: "Software company in Sagara for areca traders and commission agents",
+      heading: "Software team in Sagara for areca traders and commission agents",
       paragraphs: [
         "The Sagara APMC yard is one of the main areca nut markets in Karnataka, and the town's trade in the crop reaches well beyond the taluk. Around it work commission agents, private buyers, co-operative societies, graders, transporters and the growers themselves, many of whom sell different lots at different times of the year depending on price.",
         "Paper struggles with this. An agent has to keep track of which grower brought how many bags of which variety, the grade and moisture, the weight at the yard, the tender or sale price, the commission, any advance already paid and the buyer's payment date. A single missed entry can sour a relationship that has lasted two generations.",
-        "As a working <strong>software company in Sagara</strong>, we build simple web tools that sit on a phone or a counter computer. Each lot is entered once with grower, village, variety, grade, bags and weight. Sales link back to lots, commission is calculated automatically, and a statement per grower can be sent on WhatsApp as a PDF. Owners get a daily summary; staff see only what they need.",
+        "As a working <strong>software team in Sagara</strong>, we build simple web tools that sit on a phone or a counter computer. Each lot is entered once with grower, village, variety, grade, bags and weight. Sales link back to lots, commission is calculated automatically, and a statement per grower can be sent on WhatsApp as a PDF. Owners get a daily summary; staff see only what they need.",
         "These tools start at ₹60,000 and are built in phases over six to twelve weeks. We normally finish the lot register first, because it is what growers ask about, and add sales, payments and statements after your team has used it through a few market days.",
       ],
     },
@@ -112,10 +112,10 @@ const sagara: CityContent = {
     },
     {
       id: "schools-culture-heggodu",
-      heading: "Website development company in Sagara for schools, colleges and cultural institutions",
+      heading: "Website development team in Sagara for schools, colleges and cultural institutions",
       paragraphs: [
         "Sagara has an unusual cultural reputation for a town its size. Nearby Heggodu is home to Ninasam, the theatre institute founded in 1949 by K. V. Subbanna, a Magsaysay Award winner, and the taluk has a strong reading and Yakshagana audience. The town also has schools, PU and degree colleges, and coaching classes that draw students from across the taluk.",
-        "A <strong>website development company in Sagara</strong> serving these institutions should respect how people actually use their sites. Parents want admission dates, fees or fee ranges, bus routes and rain-day notices. Audiences want programme schedules, venue directions and ticket details. Alumni want to stay in touch. All of it should be in Kannada first, with English alongside.",
+        "A <strong>website development team in Sagara</strong> serving these institutions should respect how people actually use their sites. Parents want admission dates, fees or fee ranges, bus routes and rain-day notices. Audiences want programme schedules, venue directions and ticket details. Alumni want to stay in touch. All of it should be in Kannada first, with English alongside.",
         "We add an easy notice board your office can update, admission and event forms that feed a sheet, and WhatsApp alerts when schedules change. Nothing is claimed about results, rankings or partnerships unless you can show us the document.",
       ],
     },
@@ -133,7 +133,7 @@ const sagara: CityContent = {
       heading: "Android app development in Sagara, with iOS apps for the same users",
       paragraphs: [
         "An app makes sense when a known group returns to it often. Around Sagara, that could be members of an areca co-operative checking their lot statements and rates, homestay guests who want directions, menus and checkout details offline, parents following school notices and fee dues, or dealers taking orders from village shops across the taluk.",
-        "As an <strong>app development company in Sagara</strong> working remotely, we use Flutter or React Native, so the same code serves Android phones and iPhones. The first version usually covers mobile number login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store in developer accounts owned by you, not by us.",
+        "As an <strong>app development team in Sagara</strong> working remotely, we use Flutter or React Native, so the same code serves Android phones and iPhones. The first version usually covers mobile number login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store in developer accounts owned by you, not by us.",
         "<strong>Android app development in Sagara</strong> with us starts at ₹40,000. Offline mode matters more here than in most places, because signal drops in the hills, and it is quoted as a separate item along with payments, maps and any link to your accounts. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If people only need to find your phone number, location and a price list, a well-made website is enough, costs far less and needs no download. We will tell you that directly rather than sell you an app nobody opens.",
       ],
@@ -168,9 +168,9 @@ const sagara: CityContent = {
     },
     {
       id: "remote-team-sagara",
-      heading: "An IT company in Sagara that works remotely: how projects run",
+      heading: "An IT services team in Sagara that works remotely: how projects run",
       paragraphs: [
-        "If you are looking for an <strong>IT company in Sagara</strong> with a signboard on the main road, we are not that. We are three engineers working remotely, and we say it up front. Instead of an office, you get a written record at each step. After a first conversation about your business, we send an outline of the pages or app screens, the dates and a price against each item.",
+        "If you are looking for an <strong>IT services team in Sagara</strong> with a signboard on the main road, we are not that. We are three engineers working remotely, and we say it up front. Instead of an office, you get a written record at each step. After a first conversation about your business, we send an outline of the pages or app screens, the dates and a price against each item.",
         "No work begins and nothing is billed until you approve that outline. During the build, preview links arrive on WhatsApp so you can open them on your phone and share them with family or partners. Kannada text is sent to you for checking before it goes live, because an error on a temple timing or a fee notice is exactly what customers remember.",
         "We answer WhatsApp every day of the week on Indian time. If a date slips, you hear about it that day with a new date. Payments follow milestones you have already seen working.",
       ],
@@ -226,7 +226,7 @@ const sagara: CityContent = {
         "A small business or homestay site usually takes one to two weeks once we have your text and photos. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Sending content early is the surest way to finish on time.",
     },
     {
-      question: "Which is the best website development company in Sagara?",
+      question: "Which is the best website development team in Sagara?",
       answer:
         "Judge any provider on published prices, ownership of domain and code in your name, support after launch and real past work. Put the same questions to each one. We meet those standards and answer WhatsApp all week, but it is wise to compare two or three options before you commit.",
     },

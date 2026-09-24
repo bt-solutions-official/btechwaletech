@@ -10,12 +10,12 @@ const nanjangud: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Nanjangud KIADB suppliers, temple-town lodges, banana growers, colleges and shops.",
     keywords: [
       "IT services in Nanjangud",
-      "IT company in Nanjangud",
-      "website development company in Nanjangud",
+      "IT services team in Nanjangud",
+      "website development team in Nanjangud",
       "web design in Nanjangud",
-      "app development company in Nanjangud",
+      "app development team in Nanjangud",
       "Android app development in Nanjangud",
-      "software company in Nanjangud",
+      "software team in Nanjangud",
       "SEO services in Nanjangud",
       "digital marketing in Nanjangud",
       "ecommerce website in Nanjangud",
@@ -74,20 +74,20 @@ const nanjangud: CityContent = {
     },
     {
       id: "kiadb-vendor-websites",
-      heading: "Website development company in Nanjangud for KIADB vendors and contractors",
+      heading: "Website development team in Nanjangud for KIADB vendors and contractors",
       paragraphs: [
         "The Nanjangud KIADB industrial area is home to plants such as Nestlé India, which set up here in 1989, AT&S, which makes printed circuit boards, and Jubilant Generics, along with beverage and pharmaceutical units. Each of these depends on a network of smaller firms for maintenance, fabrication, electrical work, packaging, transport, housekeeping, canteens and manpower.",
-        "Large plants, especially in food and pharma, run careful vendor checks. A <strong>website development company in Nanjangud</strong> should build supplier sites that make those checks easy: services and processes, equipment, capacities, safety and quality practices, certifications you actually hold, GST and registration details, and named contacts. No stock photos of foreign factories, and no customer logos without written permission.",
+        "Large plants, especially in food and pharma, run careful vendor checks. A <strong>website development team in Nanjangud</strong> should build supplier sites that make those checks easy: services and processes, equipment, capacities, safety and quality practices, certifications you actually hold, GST and registration details, and named contacts. No stock photos of foreign factories, and no customer logos without written permission.",
         "For firms that receive drawings or specifications, we add an RFQ form with secure file upload and an acknowledgement. For housekeeping and manpower agencies, a page listing services, shift coverage and statutory compliance you maintain often matters more than design.",
         "Vendor sites are usually static and start at ₹10,000. A portal where plant staff check job status or download certificates is custom work, starting at ₹60,000. See our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
     {
       id: "industrial-service-software",
-      heading: "Software company in Nanjangud for job-work, manpower and transport firms",
+      heading: "Software team in Nanjangud for job-work, manpower and transport firms",
       paragraphs: [
         "The service firms around the KIADB estate run on detail. A manpower agency tracks attendance and shifts across several plants. A transporter tracks trips, diesel and driver advances. A machine shop tracks jobs, drawings, rework and invoices. A canteen contractor tracks meals served per shift. Much of this still lives in registers and WhatsApp photos.",
-        "As a <strong>software company in Nanjangud</strong>, we build small web tools for exactly these jobs. Attendance entered by supervisors from a phone, totals by plant and shift, and a monthly sheet ready for billing. Trip entries with vehicle, route, weight and rate, and dues by customer. Job cards that follow a part from drawing to dispatch, with status visible to the office.",
+        "As a <strong>software team in Nanjangud</strong>, we build small web tools for exactly these jobs. Attendance entered by supervisors from a phone, totals by plant and shift, and a monthly sheet ready for billing. Trip entries with vehicle, route, weight and rate, and dues by customer. Job cards that follow a part from drawing to dispatch, with status visible to the office.",
         "Custom tools start at ₹60,000 and take six to twelve weeks, built in stages so the most painful register goes first. Reports export to Excel or Tally, and we keep screens simple enough for supervisors who do not want another app.",
         "We do not file statutory returns or act as a payroll service. The software records what you enter and makes the monthly numbers clean.",
       ],
@@ -124,11 +124,11 @@ const nanjangud: CityContent = {
     },
     {
       id: "clinics-retail-nanjangud",
-      heading: "IT company in Nanjangud for clinics, pharmacies and main-road shops",
+      heading: "IT services team in Nanjangud for clinics, pharmacies and main-road shops",
       paragraphs: [
         "Nanjangud's hospitals, clinics and diagnostic centres serve the taluk's villages and a share of the pilgrims who fall ill while travelling. Shops along the main roads sell textiles, gold, electronics, hardware, groceries and puja items to both residents and visitors.",
         "For a clinic, a good page lists doctors, specialities, OPD days, test preparation notes and emergency numbers, and a WhatsApp flow confirms appointment slots. We ask a doctor on your side to approve every clinical line, and we do not publish health claims.",
-        "For shops, a clean catalogue with categories, timings, festival offers and a WhatsApp price-check link is usually enough. An <strong>IT company in Nanjangud</strong> that pushes a full online store on a shop with walk-in trade is selling the wrong thing; we would rather start small and grow.",
+        "For shops, a clean catalogue with categories, timings, festival offers and a WhatsApp price-check link is usually enough. An <strong>IT services team in Nanjangud</strong> that pushes a full online store on a shop with walk-in trade is selling the wrong thing; we would rather start small and grow.",
         "Both kinds of site start at ₹10,000 and take one to two weeks when you send content early.",
       ],
     },
@@ -137,7 +137,7 @@ const nanjangud: CityContent = {
       heading: "Android app development in Nanjangud, with iOS apps for the same build",
       paragraphs: [
         "An app is worth it when the same people use it again and again. In Nanjangud, good cases include manpower supervisors marking attendance at plants, transport drivers logging trips, devotees who visit the temple every year and book the same lodge, a school's parents receiving notices and fee reminders, and a dealer's village retailers placing weekly orders.",
-        "As an <strong>app development company in Nanjangud</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android and iPhone. The first version usually has mobile number login, push notifications, the core screens and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Nanjangud</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android and iPhone. The first version usually has mobile number login, push notifications, the core screens and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Nanjangud</strong> with us starts at ₹40,000. Offline mode, payments, maps, printer links and multiple user roles add to the cost, and each appears as a separate line in the quote. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and prices, a website is cheaper and needs no install. We will say so rather than sell you an app nobody opens.",
       ],
@@ -241,7 +241,7 @@ const nanjangud: CityContent = {
         "A simple static site is usually live within one to two weeks of getting your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the surest way to keep things quick.",
     },
     {
-      question: "Who is the best website development company in Nanjangud?",
+      question: "Who is the best website development team in Nanjangud?",
       answer:
         "Look for a provider that publishes prices, registers the domain and code in your name, can show real work and stays reachable after launch. Ask each one the same questions. We meet those tests and reply on WhatsApp every day, but comparing two or three options first is a sensible step.",
     },

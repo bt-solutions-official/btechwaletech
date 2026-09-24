@@ -9,11 +9,11 @@ const content: CityContent = {
     description:
       "Hire freelance software developers for Salem: B2B catalogues, ecommerce, trade order portals, AI agents, dashboards and apps. Custom software from ₹60,000.",
     keywords: [
-      "software development company in Salem",
+      "software development team in Salem",
       "Android app development Salem",
       "iPhone app developers Salem",
       "mobile app developers Salem",
-      "IT company in Salem",
+      "IT services team in Salem",
       "IT solutions Salem",
       "freelance software developers Salem",
       "custom software development Salem Tamil Nadu",
@@ -37,7 +37,7 @@ const content: CityContent = {
     eyebrow: "IT services · Salem, Tamil Nadu",
     h1: "Freelance software developers for Salem's traders, mills and manufacturers",
     lede:
-      "BtechWaleTech is a freelance group of three engineers offering Salem businesses what they would usually seek from a software development company in Salem: B2B product catalogues, trade order portals for sago, textile and silver wholesalers, online stores, WhatsApp AI agents, stock and dues dashboards, apps and search visibility. We work remotely, publish starting prices, and include five months of maintenance after launch.",
+      "BtechWaleTech is a freelance group of three engineers offering Salem businesses what they would usually seek from a software development team in Salem: B2B product catalogues, trade order portals for sago, textile and silver wholesalers, online stores, WhatsApp AI agents, stock and dues dashboards, apps and search visibility. We work remotely, publish starting prices, and include five months of maintenance after launch.",
     pills: ["B2B catalogues and price lists", "Distributor order portals", "Online stores with UPI checkout", "Tamil and English", "Five months free maintenance"],
   },
   quickAnswer:
@@ -196,7 +196,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-salem",
-      heading: "Freelance software developers or a software company in Salem: which should you hire?",
+      heading: "Freelance software developers or a software team in Salem: which should you hire?",
       paragraphs: [
         "Hire freelance software developers when your project has a clear scope, you want to talk directly with the people writing code, and budget matters; hire a larger software company in Salem when you need a big on-site team, formal enterprise contracts or round-the-clock staffing. Both can deliver good work; the question is fit.",
         "BtechWaleTech is a freelance group of three engineers with no Salem office. We keep overheads low, which is reflected in starting prices, and the same engineers stay on your project from quote to maintenance. The limit is capacity; we take only a few projects at a time, and we will tell you if yours needs a larger team.",

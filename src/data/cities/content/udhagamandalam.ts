@@ -10,12 +10,12 @@ const udhagamandalam: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp booking automation for Ooty hotels, homestays, tea and chocolate sellers, schools and Nilgiris growers.",
     keywords: [
       "IT services in Ooty",
-      "IT company in Ooty",
-      "website development company in Ooty",
+      "IT services team in Ooty",
+      "website development team in Ooty",
       "web design in Ooty",
-      "app development company in Ooty",
+      "app development team in Ooty",
       "Android app development in Ooty",
-      "software company in Ooty",
+      "software team in Ooty",
       "SEO services in Ooty",
       "digital marketing in Ooty",
       "ecommerce website in Ooty",
@@ -74,10 +74,10 @@ const udhagamandalam: CityContent = {
     },
     {
       id: "hotels-homestays-direct-booking",
-      heading: "Website development company in Ooty for hotels, resorts and homestays",
+      heading: "Website development team in Ooty for hotels, resorts and homestays",
       paragraphs: [
         "Ooty has hundreds of rooms spread across large hotels, heritage bungalows, cottages on the Fern Hill and Lovedale side and family homestays further out. Many of the smaller properties depend almost entirely on travel portals, which take a commission on every stay and control how the property is presented.",
-        "A direct-booking website does not replace the portals, but it gives returning guests and word-of-mouth visitors a way to book without that cut. As a <strong>website development company in Ooty</strong>, we build sites with honest room photographs, rates by season, what is and is not included, directions from the bus stand and railway station, parking and heating details, and a booking request that arrives on WhatsApp with dates and guest count already filled in.",
+        "A direct-booking website does not replace the portals, but it gives returning guests and word-of-mouth visitors a way to book without that cut. As a <strong>website development team in Ooty</strong>, we build sites with honest room photographs, rates by season, what is and is not included, directions from the bus stand and railway station, parking and heating details, and a booking request that arrives on WhatsApp with dates and guest count already filled in.",
         "Static websites start at ₹10,000 and take one to two weeks. A booking engine with room inventory and online advance payment is custom work that starts at ₹60,000. Most small homestays do very well with the simpler version plus a well-kept Google listing. See our <a href=\"/services/web-development/\">web development</a> service for the options.",
       ],
     },
@@ -92,10 +92,10 @@ const udhagamandalam: CityContent = {
     },
     {
       id: "tea-growers-factories",
-      heading: "Software company in Ooty for tea growers, leaf agents and factories",
+      heading: "Software team in Ooty for tea growers, leaf agents and factories",
       paragraphs: [
         "Tea is the backbone of the Nilgiris outside tourism, and a large share of the leaf comes from small growers in the villages around Ooty, Coonoor and Kotagiri. Leaf moves from farms to collection points to factories every few days, and payments follow weeks later based on weight and quality. Keeping track of all that on paper leads to disputes.",
-        "Working as a <strong>software company in Ooty</strong> for this trade, we build collection registers where each delivery is recorded from a phone with grower, weight and date; monthly statements per grower; advances and deductions; and payment status that growers can check on WhatsApp. The same approach suits vegetable commission agents who send carrot, potato and cabbage loads down to the plains markets.",
+        "Working as a <strong>software team in Ooty</strong> for this trade, we build collection registers where each delivery is recorded from a phone with grower, weight and date; monthly statements per grower; advances and deductions; and payment status that growers can check on WhatsApp. The same approach suits vegetable commission agents who send carrot, potato and cabbage loads down to the plains markets.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the collection register, since accurate weights and dates settle most arguments before they begin. Data stays in your account, and you can export it to a spreadsheet whenever you need.",
       ],
     },
@@ -122,7 +122,7 @@ const udhagamandalam: CityContent = {
       heading: "Android app development in Ooty: when an app is worth it",
       paragraphs: [
         "Most tourists will never download an app for a single stay, so for a hotel or homestay a fast website and a WhatsApp link are usually enough. An app pays off where people come back: residential schools sending daily notices and fee reminders to parents in other cities, a tea seller with repeat buyers, a grower collective sharing rates and statements, or a tour company with corporate clients.",
-        "As an <strong>app development company in Ooty</strong>, we build in Flutter or React Native, so the same app runs on Android phones and iPhones. Each includes login, push notifications and a web admin panel for your staff. We publish on Google Play and the App Store under developer accounts registered to you, which means the app stays yours if you change developers.",
+        "As an <strong>app development team in Ooty</strong>, we build in Flutter or React Native, so the same app runs on Android phones and iPhones. Each includes login, push notifications and a web admin panel for your staff. We publish on Google Play and the App Store under developer accounts registered to you, which means the app stays yours if you change developers.",
         "Apps start at ₹40,000. Schools often find the notice and fee-reminder app saves more office time than any other change. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page.",
       ],
     },
@@ -164,11 +164,11 @@ const udhagamandalam: CityContent = {
     },
     {
       id: "remote-team-ooty",
-      heading: "IT company in Ooty without a local office: how we work",
+      heading: "IT services team in Ooty without a local office: how we work",
       paragraphs: [
         "Because we work remotely, there is no office in Ooty for you to visit, and we do not pretend there is. For hill-station clients this is often an advantage: you do not have to travel down to Coimbatore for meetings, and you can talk to us in the evening once guests have settled in.",
         "The process is simple. You message us on WhatsApp, we have a call about your property or business, and you get an itemised quote. During the build you check progress on a preview link on your phone, list changes, and approve each stage in writing. We reply seven days a week during Indian working hours.",
-        "People sometimes search for an <strong>IT company in Ooty</strong> expecting a shopfront. What matters more is that someone answers when your booking form breaks on a Saturday in May. You can start a conversation from our <a href=\"/contact/\">contact page</a>.",
+        "People sometimes search for an <strong>IT services team in Ooty</strong> expecting a shopfront. What matters more is that someone answers when your booking form breaks on a Saturday in May. You can start a conversation from our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {
@@ -231,7 +231,7 @@ const udhagamandalam: CityContent = {
         "A static website with room pages and a WhatsApp booking request usually takes one to two weeks once we have photographs and rates. A custom booking engine with inventory and online payment takes six to twelve weeks. Launching before the April–June peak gives search listings time to settle.",
     },
     {
-      question: "Who is the best website development company in Ooty?",
+      question: "Who is the best website development team in Ooty?",
       answer:
         "Look for someone who publishes prices, puts the domain and code in your name, shows real work and stays reachable after launch. Ask each option the same questions. We meet those tests and reply on WhatsApp every day, but comparing two or three quotes before you decide is always sensible.",
     },

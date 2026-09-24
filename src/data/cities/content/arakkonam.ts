@@ -10,12 +10,12 @@ const arakkonam: CityContent = {
       "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Arakkonam shops, schools, clinics, rental owners and railway-town trades.",
     keywords: [
       "IT services in Arakkonam",
-      "IT company in Arakkonam",
-      "website development company in Arakkonam",
+      "IT services team in Arakkonam",
+      "website development team in Arakkonam",
       "web design in Arakkonam",
-      "app development company in Arakkonam",
+      "app development team in Arakkonam",
       "Android app development in Arakkonam",
-      "software company in Arakkonam",
+      "software team in Arakkonam",
       "SEO services in Arakkonam",
       "digital marketing in Arakkonam",
       "ecommerce website in Arakkonam",
@@ -74,10 +74,10 @@ const arakkonam: CityContent = {
     },
     {
       id: "rental-housing-websites",
-      heading: "Website development company in Arakkonam for rentals, PGs and hostels",
+      heading: "Website development team in Arakkonam for rentals, PGs and hostels",
       paragraphs: [
         "Every year a fresh batch of naval personnel, NDRF and CISF staff, railway employees and trainees arrives in Arakkonam, often from outside Tamil Nadu. Most of them start looking for a house, a PG or a hostel online, weeks before reporting, and they search in English and Hindi as much as in Tamil.",
-        "A <strong>website development company in Arakkonam</strong> can give landlords, PG operators and small property agents a site that answers those searchers properly: photographs of each unit, rent or rent range, deposit rules, distance from the station, INS Rajali or Thakkolam, water and power backup details, whether families or bachelors are preferred, and a WhatsApp button. Listing pages in English and Hindi, with Tamil alongside, widen the pool of tenants.",
+        "A <strong>website development team in Arakkonam</strong> can give landlords, PG operators and small property agents a site that answers those searchers properly: photographs of each unit, rent or rent range, deposit rules, distance from the station, INS Rajali or Thakkolam, water and power backup details, whether families or bachelors are preferred, and a WhatsApp button. Listing pages in English and Hindi, with Tamil alongside, widen the pool of tenants.",
         "For owners with many units, we can add a simple back office that tracks occupancy, rent received, deposits held, maintenance requests and lease end dates, with reminders sent on WhatsApp. That part is custom software from ₹60,000, built in phases over six to twelve weeks.",
         "A plain listing site starts at ₹10,000. We never publish tenant details or photos of occupied rooms without permission. See our <a href=\"/services/web-development/\">web development service</a> for how we build.",
       ],
@@ -104,11 +104,11 @@ const arakkonam: CityContent = {
     },
     {
       id: "suppliers-contractors-software",
-      heading: "Software company in Arakkonam for contractors, suppliers and wholesalers",
+      heading: "Software team in Arakkonam for contractors, suppliers and wholesalers",
       paragraphs: [
         "Large establishments bring steady work for local firms: the railway workshop and loco shed, the naval air station, the training centres and the FCI godown all rely on contractors for civil works, electrical maintenance, housekeeping, catering, transport and supplies. Wholesalers in town also supply shops across Nemili, Thakkolam and Sholinghur, and factories in the Ranipet belt use local fabricators and transporters.",
         "Such firms juggle manpower attendance at several sites, work orders, running bills, vehicle trips, stock issued, and payments that arrive months later. Keeping all of it in notebooks and Excel files leads to missed claims and long evenings.",
-        "As a <strong>software company in Arakkonam</strong> for these businesses, we build web tools where supervisors log attendance and work done from a phone, the office sees totals by contract, and bills and statements come from the same records. Wholesalers get order entry, route-wise delivery lists and credit ledgers. Custom software is ₹60,000 onwards and is delivered in stages across six to twelve weeks.",
+        "As a <strong>software team in Arakkonam</strong> for these businesses, we build web tools where supervisors log attendance and work done from a phone, the office sees totals by contract, and bills and statements come from the same records. Wholesalers get order entry, route-wise delivery lists and credit ledgers. Custom software is ₹60,000 onwards and is delivered in stages across six to twelve weeks.",
         "Our tools keep your own accounts clean. They do not replace any government e-procurement or vendor portal, but they make preparing documents for them much faster.",
       ],
     },
@@ -117,7 +117,7 @@ const arakkonam: CityContent = {
       heading: "Android app development in Arakkonam, plus iPhone apps from one codebase",
       paragraphs: [
         "Apps pay back when a known group of users opens them often. For Arakkonam that means tuition students taking daily tests and getting notes, school parents receiving circulars and fee reminders, tenants raising maintenance requests with a landlord, hospital patients getting OPD tokens, or shops in nearby villages re-ordering from a wholesaler.",
-        "As an <strong>app development company in Arakkonam</strong> working remotely, we use Flutter or React Native, so the same code produces an Android app and an iPhone app. The first release usually includes mobile OTP login, push notifications, the core screens users need, and a web admin panel for your staff. We publish to Google Play and the Apple App Store through developer accounts registered to your business.",
+        "As an <strong>app development team in Arakkonam</strong> working remotely, we use Flutter or React Native, so the same code produces an Android app and an iPhone app. The first release usually includes mobile OTP login, push notifications, the core screens users need, and a web admin panel for your staff. We publish to Google Play and the Apple App Store through developer accounts registered to your business.",
         "<strong>Android app development in Arakkonam</strong> with us starts at ₹40,000. Online payments, offline use, video lessons, photo uploads or links to existing software raise the cost, and each is itemised in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, number and price list, a website does that for roughly a quarter of the money, and we will recommend the website. An app nobody opens is money down the drain.",
       ],
@@ -163,9 +163,9 @@ const arakkonam: CityContent = {
     },
     {
       id: "remote-team-arakkonam",
-      heading: "Hiring an IT company in Arakkonam when the engineers are remote",
+      heading: "Hiring an IT services team in Arakkonam when the engineers are remote",
       paragraphs: [
-        "People searching for an <strong>IT company in Arakkonam</strong> may picture an office near the bus stand. We have none, and we say so before any work begins. What you get instead is a direct line to the three engineers who will build your site or app.",
+        "People searching for an <strong>IT services team in Arakkonam</strong> may picture an office near the bus stand. We have none, and we say so before any work begins. What you get instead is a direct line to the three engineers who will build your site or app.",
         "We start with a call about your business, customers and aims. Then you receive a written list of pages or app screens, a timeline and a quote split into items. After approval, preview links let you test everything on your own phone and share it with family or partners before launch. Tamil and Hindi text is always sent to you to check first.",
         "WhatsApp messages are answered seven days a week on Indian Standard Time. If anything will be late, we tell you as soon as we know. Payment follows finished stages, and there is no invoice before your written approval. Reach us through our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -230,7 +230,7 @@ const arakkonam: CityContent = {
         "After we receive your text and photographs, a static site normally takes one to two weeks. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The main cause of delay is content arriving late, so gather it early.",
     },
     {
-      question: "Which is the best website development company in Arakkonam?",
+      question: "Which is the best website development team in Arakkonam?",
       answer:
         "Pick a provider that states its starting prices, registers your domain and code under your name, stays reachable after launch and can show live work. Put the same questions to each option. We are glad to be compared that way, though talking to two or three providers before choosing is always sensible.",
     },

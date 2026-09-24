@@ -9,7 +9,7 @@ const patan: CityContent = {
     description:
       "Websites, Gujarati SEO, Patola and Mashru stores, heritage-tour pages and WhatsApp automation for Patan traders, agro units, clinics and coaching classes.",
     keywords: [
-      "website development company in Patan",
+      "website development team in Patan",
       "web designer Patan Gujarat",
       "website developer Patan",
       "website cost Patan",
@@ -21,7 +21,7 @@ const patan: CityContent = {
       "Rani ki Vav tour guide website",
       "agro processing company website North Gujarat",
       "WhatsApp automation Patan",
-      "software company Patan",
+      "software team Patan",
       "website maintenance Patan",
       "Google Maps listing Patan",
       "પાટણ વેબસાઇટ ડિઝાઇન",

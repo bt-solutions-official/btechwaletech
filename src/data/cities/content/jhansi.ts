@@ -9,10 +9,10 @@ const jhansi: CityContent = {
     description:
       "Websites, Hindi SEO and WhatsApp automation for Jhansi coaching institutes, hospitals, soft toy makers, BHEL vendors and Sadar Bazaar shops. From ₹10,000.",
     keywords: [
-      "website development company in Jhansi",
+      "website development team in Jhansi",
       "website designer Jhansi",
       "web design Jhansi",
-      "SEO company in Jhansi",
+      "SEO team in Jhansi",
       "local SEO Jhansi",
       "coaching institute website Jhansi",
       "hospital website Jhansi",
@@ -20,7 +20,7 @@ const jhansi: CityContent = {
       "hotel website Jhansi Orchha",
       "ecommerce website Jhansi",
       "WhatsApp automation Jhansi",
-      "software company Jhansi",
+      "software team Jhansi",
       "Jhansi mein website kaise banwaye",
       "झाँसी वेबसाइट डिज़ाइन",
       "website banane wala Jhansi",

@@ -11,12 +11,12 @@ const karimganj: CityContent = {
     keywords: [
       "IT services in Karimganj",
       "IT services in Sribhumi",
-      "IT company in Karimganj",
-      "website development company in Karimganj",
+      "IT services team in Karimganj",
+      "website development team in Karimganj",
       "web design in Karimganj",
-      "app development company in Karimganj",
+      "app development team in Karimganj",
       "Android app development in Karimganj",
-      "software company in Karimganj",
+      "software team in Karimganj",
       "SEO services in Karimganj",
       "digital marketing in Karimganj",
       "ecommerce website in Karimganj",
@@ -74,28 +74,28 @@ const karimganj: CityContent = {
     },
     {
       id: "name-change-search",
-      heading: "Website development company in Karimganj: handling the Sribhumi name change in search",
+      heading: "Website development team in Karimganj: handling the Sribhumi name change in search",
       paragraphs: [
         "In November 2024 the Assam government renamed Karimganj district and town as Sribhumi, a name taken from Rabindranath Tagore's description of the region. Official letters, signboards and some maps now use the new name, while many customers, suppliers and relatives outside Assam still type “Karimganj” into Google. A business that uses only one name risks being missed by half its searchers.",
-        "A careful <strong>website development company in Karimganj</strong> handles both. We write page titles and headings that mention Sribhumi and Karimganj naturally, keep your postal address in the form India Post and courier companies recognise, and update your Google Business Profile so the listing matches what people see on the ground. Old links from directories and social media keep working, and nothing you built up under the old name is thrown away.",
+        "A careful <strong>website development team in Karimganj</strong> handles both. We write page titles and headings that mention Sribhumi and Karimganj naturally, keep your postal address in the form India Post and courier companies recognise, and update your Google Business Profile so the listing matches what people see on the ground. Old links from directories and social media keep working, and nothing you built up under the old name is thrown away.",
         "This matters most for firms that deal with outsiders: exporters whose buyers sit in Bangladesh, Kolkata or Guwahati, schools with hostel students from other districts, and hotels that host visiting officials and traders. It also matters for GST, bank and licence documents, so we suggest you check that the name on your website matches the name on your registration before a buyer or auditor notices a mismatch.",
       ],
     },
     {
       id: "sutarkandi-border-trade",
-      heading: "Software company in Karimganj for Sutarkandi exporters and clearing agents",
+      heading: "Software team in Karimganj for Sutarkandi exporters and clearing agents",
       paragraphs: [
         "The Sutarkandi land port, with the Border Trade Centre the Assam government set up in 2007, is the main customs point in this part of the border. Goods such as fruit, coal, edible oils, food items, plastics and household products cross here, and each consignment passes through exporters, importers, clearing and forwarding agents, transporters, weighbridge operators and banks. Much of the coordination still happens on paper and phone calls.",
-        "As a <strong>software company in Karimganj</strong> in the plain sense of the phrase, we build small web tools for this trade. A consignment register records the truck number, goods, invoice value, buyer, documents submitted and current status. Clients get a status page instead of calling. Pending payments are grouped by buyer and age, and reminders go out on WhatsApp. Staff enter details once from a phone at the port, and the office sees it at once.",
+        "As a <strong>software team in Karimganj</strong> in the plain sense of the phrase, we build small web tools for this trade. A consignment register records the truck number, goods, invoice value, buyer, documents submitted and current status. Clients get a status page instead of calling. Pending payments are grouped by buyer and age, and reminders go out on WhatsApp. Staff enter details once from a phone at the port, and the office sees it at once.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with whatever part wastes the most time today. We do not claim to handle customs filings or replace your licensed agent; the software simply keeps your own records tidy, searchable and shared with the people who need them.",
       ],
     },
     {
       id: "wholesale-retail-karimganj",
-      heading: "App development company in Karimganj for wholesalers and distributors",
+      heading: "App development team in Karimganj for wholesalers and distributors",
       paragraphs: [
         "Karimganj has long served as a supply point for the southern Barak Valley and nearby parts of Tripura. Distributors of groceries, FMCG goods, medicines, cement, hardware and electrical items keep godowns in and around the town and send stock to shops across the district by pickup van and truck.",
-        "An ordering app is often the most useful thing an <strong>app development company in Karimganj</strong> can build for such a distributor. Each retailer logs in with a mobile number, sees their own prices and schemes, places an order and checks what is outstanding. Your staff see all orders in an admin panel, plan the day's delivery routes and mark dispatches. Salesmen can record visits and collections from the same app.",
+        "An ordering app is often the most useful thing an <strong>app development team in Karimganj</strong> can build for such a distributor. Each retailer logs in with a mobile number, sees their own prices and schemes, places an order and checks what is outstanding. Your staff see all orders in an admin panel, plan the day's delivery routes and mark dispatches. Salesmen can record visits and collections from the same app.",
         "Before building an app, though, we check whether a shared price list on a simple website plus WhatsApp ordering would do. For a distributor with forty retailers, it often does. For one with four hundred, spread across Badarpur, Patharkandi, Ratabari and into Tripura, an app with a proper order history usually pays back quickly. We will tell you honestly which side of that line you are on.",
       ],
     },
@@ -237,7 +237,7 @@ const karimganj: CityContent = {
         "A simple static site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best IT company in Karimganj?",
+      question: "Which is the best IT services team in Karimganj?",
       answer:
         "Choose one that publishes prices, puts the domain and code in your name, answers after launch and can show real work. Ask every provider the same questions and compare the answers. We meet those tests and reply on WhatsApp seven days a week, but talking to two or three options first is sensible.",
     },

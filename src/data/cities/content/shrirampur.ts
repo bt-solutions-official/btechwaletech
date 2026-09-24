@@ -10,12 +10,12 @@ const shrirampur: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Shrirampur sugar-belt firms, onion traders, patsansthas, MIDC units and clinics.",
     keywords: [
       "IT services in Shrirampur",
-      "IT company in Shrirampur",
-      "website development company in Shrirampur",
+      "IT services team in Shrirampur",
+      "website development team in Shrirampur",
       "web design in Shrirampur",
-      "app development company in Shrirampur",
+      "app development team in Shrirampur",
       "Android app development in Shrirampur",
-      "software company in Shrirampur",
+      "software team in Shrirampur",
       "SEO services in Shrirampur",
       "digital marketing in Shrirampur",
       "ecommerce website in Shrirampur",
@@ -75,20 +75,20 @@ const shrirampur: CityContent = {
     },
     {
       id: "patsanstha-credit-software",
-      heading: "Software company in Shrirampur for patsansthas and co-operative societies",
+      heading: "Software team in Shrirampur for patsansthas and co-operative societies",
       paragraphs: [
         "Ahilyanagar district has a dense network of patsansthas, credit co-operatives, milk societies and multi-state societies, and Shrirampur has its share. They serve farmers, traders, salaried staff and small borrowers who want a local institution they know. Many still run on ageing desktop software or registers, and members increasingly ask for updates on their phones.",
-        "As a <strong>software company in Shrirampur</strong> for these societies, we build tools for the parts that matter most day to day: member records with KYC documents, deposit and loan accounts, EMI and interest schedules, overdue lists by branch and collector, daily cash positions, and SMS or WhatsApp reminders in Marathi. Reports follow the formats directors and auditors already expect.",
+        "As a <strong>software team in Shrirampur</strong> for these societies, we build tools for the parts that matter most day to day: member records with KYC documents, deposit and loan accounts, EMI and interest schedules, overdue lists by branch and collector, daily cash positions, and SMS or WhatsApp reminders in Marathi. Reports follow the formats directors and auditors already expect.",
         "We are careful here. Financial data needs strict access control, audit logs of who changed what, encrypted backups and a clear plan for what happens if a server fails. We host on AWS in India under an account registered to the society, and we never hold member data on our own systems.",
         "Where a society already uses licensed core software, we do not replace it lightly. Often the useful work is a member-facing layer: a website, a balance enquiry app or a WhatsApp reminder flow that reads from the existing system. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. See our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "onion-grain-traders",
-      heading: "Website development company in Shrirampur for onion and grain traders",
+      heading: "Website development team in Shrirampur for onion and grain traders",
       paragraphs: [
         "Onions are one of the most important crops of Ahilyanagar district, and the Shrirampur market yard trades onions along with grains, pulses and other farm produce. Traders buy from farmers, grade and store stock in chawls, and sell to buyers across Maharashtra and other states. Prices change fast, and a trader's records decide whether a season ends in profit.",
-        "A <strong>website development company in Shrirampur</strong> can give such a trader a proper face for outside buyers: commodities handled, grades and packing, storage capacity, dispatch by truck, payment practice, licence and GST details, and direct contact numbers. Buyers from other states who have never visited the yard often check a trader online before the first order.",
+        "A <strong>website development team in Shrirampur</strong> can give such a trader a proper face for outside buyers: commodities handled, grades and packing, storage capacity, dispatch by truck, payment practice, licence and GST details, and direct contact numbers. Buyers from other states who have never visited the yard often check a trader online before the first order.",
         "Behind the site, a small web tool keeps lot-wise records: farmer, village, bags, weight, grade, rate, deductions, storage location, sale rate and buyer. It shows stock in each chawl, average buying cost and outstanding payments on one screen, and sends farmer slips on WhatsApp in Marathi.",
         "A buyer-facing website starts at ₹10,000 and is live in one to two weeks. The trading tool is quoted as custom software. We never publish a buyer's name on your site without their written agreement.",
       ],
@@ -115,10 +115,10 @@ const shrirampur: CityContent = {
     },
     {
       id: "midc-units-shrirampur",
-      heading: "IT company in Shrirampur for MIDC units and small manufacturers",
+      heading: "IT services team in Shrirampur for MIDC units and small manufacturers",
       paragraphs: [
         "The Shrirampur MIDC area hosts small and medium units in engineering, fabrication, food processing, agro products and allied work, and many of them supply sugar factories, dairies and larger industries elsewhere in Maharashtra. Their buyers include purchase teams in Pune, Nashik, Aurangabad and Mumbai who rarely visit in person.",
-        "As an <strong>IT company in Shrirampur's</strong> service area, we build these units a clear capability website: products, machinery, capacity, certifications if any, industries served, quality checks and dispatch details. We add a quote request form with file upload so drawings and specifications arrive complete, and the owner gets them on WhatsApp and email.",
+        "As an <strong>IT services team in Shrirampur's</strong> service area, we build these units a clear capability website: products, machinery, capacity, certifications if any, industries served, quality checks and dispatch details. We add a quote request form with file upload so drawings and specifications arrive complete, and the owner gets them on WhatsApp and email.",
         "For units with repeat orders, a simple order and job tracker helps. It shows each job's stage, expected dispatch date and pending payments, and customers can check status through a link instead of calling. Stock tools for raw material and finished goods can follow once the basics are working.",
         "We connect to Tally where you already use it, so data is not typed twice, and we plan data export formats with your accountant before building anything.",
       ],
@@ -138,7 +138,7 @@ const shrirampur: CityContent = {
       heading: "Android app development in Shrirampur, and iOS apps people actually open",
       paragraphs: [
         "An app is worth building when a known group uses it again and again. In Shrirampur, strong candidates include a patsanstha letting members check deposits, loans and due dates, a dealer taking repeat orders from village retailers, a school sending homework, attendance and fee notices, a coaching class sharing tests, a hospital issuing tokens, or a taxi operator taking Shirdi bookings.",
-        "As an <strong>app development company in Shrirampur</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android and iPhone. A first version usually has OTP login, push notifications, the key screens your users need and an admin panel for staff. Marathi and English text are both supported, and we test on low-cost Android phones common in the area.",
+        "As an <strong>app development team in Shrirampur</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android and iPhone. A first version usually has OTP login, push notifications, the key screens your users need and an admin panel for staff. Marathi and English text are both supported, and we test on low-cost Android phones common in the area.",
         "<strong>Android app development in Shrirampur</strong> with us starts at ₹40,000. Online payments, offline mode, maps, multiple user roles and links to existing software add to the cost, and each is listed separately. For financial apps we add extra security checks and audit logs. We publish on Google Play and the Apple App Store under accounts in your name. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings, a price list and a way to message you, a website and map listing will do that for far less. We recommend that route first when it fits.",
       ],
@@ -232,7 +232,7 @@ const shrirampur: CityContent = {
         "A static website usually goes live in one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
-      question: "Which is the best website development company in Shrirampur?",
+      question: "Which is the best website development team in Shrirampur?",
       answer:
         "Choose one that publishes prices, puts the domain and code in your name, answers after launch and shows real work. Ask each option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers before you decide is sensible.",
     },

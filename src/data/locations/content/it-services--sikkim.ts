@@ -14,8 +14,8 @@ const content: CityContent = {
       "mobile app developers Sikkim",
       "iPhone app developers Sikkim",
       "IT services in Sikkim",
-      "software development company in Sikkim",
-      "IT company in Sikkim",
+      "software development team in Sikkim",
+      "IT services team in Sikkim",
       "freelance software developers Sikkim",
       "website design Sikkim",
       "homestay booking website Sikkim",
@@ -87,7 +87,7 @@ const content: CityContent = {
     },
     {
       id: "sikkim-freelance-vs-company",
-      heading: "Freelance group or software development company in Sikkim: which is right for you?",
+      heading: "Freelance group or software development team in Sikkim: which is right for you?",
       paragraphs: [
         "A freelance group suits Sikkim businesses that want direct contact with the engineers, lower cost and flexible phasing, while a larger software development company in Sikkim or Kolkata suits projects that need on-site staff, government tender paperwork or large teams. Most hotels, homestays, travel desks and traders fit the first description.",
         "With BtechWaleTech you talk to the same three engineers from the first call to maintenance. Decisions happen quickly, quotes are itemised, and there is no sales layer. The limits are equally clear: we cannot send someone to your office in Gangtok, and we are not the right choice for a project that needs dozens of developers or hardware installation.",

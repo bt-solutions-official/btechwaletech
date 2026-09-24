@@ -9,7 +9,7 @@ const shimla: CityContent = {
     description:
       "Websites, direct booking, apple-grower stores and WhatsApp automation for Shimla hotels, homestays, Mall Road shops, clinics and schools. You own the domain.",
     keywords: [
-      "website development company in Shimla",
+      "website development team in Shimla",
       "web designer Shimla",
       "website design Shimla Himachal Pradesh",
       "freelance web developer Shimla",

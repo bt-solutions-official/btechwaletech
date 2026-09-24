@@ -10,12 +10,12 @@ const chirkunda: CityContent = {
       "Hindi and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Chirkunda traders, refractory units, coal-belt contractors and schools.",
     keywords: [
       "IT services in Chirkunda",
-      "IT company in Chirkunda",
-      "website development company in Chirkunda",
+      "IT services team in Chirkunda",
+      "website development team in Chirkunda",
       "web design in Chirkunda",
-      "app development company in Chirkunda",
+      "app development team in Chirkunda",
       "Android app development in Chirkunda",
-      "software company in Chirkunda",
+      "software team in Chirkunda",
       "SEO services in Chirkunda",
       "digital marketing in Chirkunda",
       "ecommerce website in Chirkunda",
@@ -69,15 +69,15 @@ const chirkunda: CityContent = {
       paragraphs: [
         "Chirkunda is the last Jharkhand town on NH 19 before the highway crosses the Barakar river into Barakar, a neighbourhood of Asansol in West Bengal. The Damodar marks its southern edge and the Barakar its eastern one, and both rivers form the state line. Dhanbad, the district headquarters, is about 45 kilometres away, yet many people here shop, study and work across the bridge as easily as in their own town. Hindi, Bengali, Khortha and Marwari are all heard in the same market lane.",
         "That mix shapes what people ask us for. Enquiries for <strong>IT services in Chirkunda</strong> usually come from wholesalers who supply shops on both sides of the river, refractory and fire-brick makers in Kumardhubi and Dumarkunda, transporters and contractors working the Mugma coal area, and schools, coaching centres and clinics serving the wider Nirsa block. Most want a clear website, a correct map listing, a way to handle WhatsApp orders, or a simple register that replaces a stack of challans.",
-        "We are a remote team of three, and we have no office in Chirkunda, Dhanbad or Asansol. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. If you are searching for an <strong>IT company in Chirkunda</strong> that works over WhatsApp and puts everything in writing, that is how we operate.",
+        "We are a remote team of three, and we have no office in Chirkunda, Dhanbad or Asansol. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. If you are searching for an <strong>IT services team in Chirkunda</strong> that works over WhatsApp and puts everything in writing, that is how we operate.",
       ],
     },
     {
       id: "gt-road-traders",
-      heading: "Website development company in Chirkunda for GT Road wholesalers and retailers",
+      heading: "Website development team in Chirkunda for GT Road wholesalers and retailers",
       paragraphs: [
         "Chirkunda Nagar Parishad lists retailing and services among the main activities of the town, and it is easy to see why. The market along the Grand Trunk Road draws buyers from Kumardhubi, Mugma and Nirsa on the Jharkhand side and from Barakar and Kulti across the river. Grocery wholesalers, hardware and building-material dealers, cloth merchants, electronics shops and furniture stores all compete for the same passing traffic.",
-        "A <strong>website development company in Chirkunda</strong> should build for that two-state audience. Pages in Hindi and Bengali, with English where it helps; clear product categories and brands stocked; minimum order quantities for shopkeepers; GST details for business buyers; delivery areas on both sides of the river; and one-tap calling and WhatsApp. For a wholesaler, a price-on-request catalogue often works better than listing every rate publicly.",
+        "A <strong>website development team in Chirkunda</strong> should build for that two-state audience. Pages in Hindi and Bengali, with English where it helps; clear product categories and brands stocked; minimum order quantities for shopkeepers; GST details for business buyers; delivery areas on both sides of the river; and one-tap calling and WhatsApp. For a wholesaler, a price-on-request catalogue often works better than listing every rate publicly.",
         "We build these as static sites from ₹10,000, usually in one to two weeks. When a trader wants retailers to place repeat orders without calling, the site can add a login for registered shops that shows their own rates and past orders. That becomes a small custom web app, priced separately, and we only suggest it once there are enough regular buyers to make it worthwhile.",
       ],
     },
@@ -92,20 +92,20 @@ const chirkunda: CityContent = {
     },
     {
       id: "coal-belt-contractors",
-      heading: "Software company in Chirkunda for coal-belt contractors and transporters",
+      heading: "Software team in Chirkunda for coal-belt contractors and transporters",
       paragraphs: [
         "Eastern Coalfields runs its Mugma Area around Chirkunda, with collieries such as Kumardhubi, Badjna, Chapapur and Gopinathpur, and BCCL's Chanch/Victoria Area reaches into the region as well. Nirsa is known as a centre for hard coke production. Around these operations work transporters, loading and machinery contractors, spare-part suppliers, canteens and security agencies, many of them family businesses that have grown over one or two generations.",
-        "Their paperwork is heavy. Owners track which truck carried how much to which party, diesel and advances given to drivers, machine hours billed, permit and insurance expiry dates, and payments that arrive weeks after the work is done. Working as a <strong>software company in Chirkunda</strong>, we build simple web tools for this: each trip or job entered once from a phone, running totals per vehicle and per party, outstanding amounts by client, and reminders before a document lapses.",
+        "Their paperwork is heavy. Owners track which truck carried how much to which party, diesel and advances given to drivers, machine hours billed, permit and insurance expiry dates, and payments that arrive weeks after the work is done. Working as a <strong>software team in Chirkunda</strong>, we build simple web tools for this: each trip or job entered once from a phone, running totals per vehicle and per party, outstanding amounts by client, and reminders before a document lapses.",
         "These projects start at ₹60,000 and are built in stages over six to twelve weeks, with the trip or job register first because it pays back fastest. We work only with lawful, documented operations, and every record stays in your own account. If your firm also bills through Tally, we can export entries in a format your accountant can import without retyping.",
       ],
     },
     {
       id: "engineering-power-suppliers",
-      heading: "IT company in Chirkunda for engineering workshops and plant suppliers",
+      heading: "IT services team in Chirkunda for engineering workshops and plant suppliers",
       paragraphs: [
         "Kumardhubi's engineering history goes back to British times, when a metal casting works there made track sections for underground mines. That works closed in 1995, but heavy engineering manufacturing continues in the locality, and the Maithon power plant, a joint venture of Tata Power and the Damodar Valley Corporation, along with DVC's dams at Maithon and Panchet, keeps a steady demand for fabricators, electrical contractors and maintenance crews.",
         "Workshops that want vendor registration or repeat orders need to look established online. We build sites that set out machines and capacities, types of jobs handled, safety practices, registrations and the names of people to contact. A quotation form that accepts drawings and specifications saves a round of phone calls, and a simple gallery of completed work does more than any slogan.",
-        "For workshops with regular clients, we also build job-tracking tools: each order logged with its drawing, material, due date and status, with a view the client can open to check progress. This is the kind of practical system an <strong>IT company in Chirkunda</strong> should offer before anything fancier, and it starts at ₹60,000.",
+        "For workshops with regular clients, we also build job-tracking tools: each order logged with its drawing, material, due date and status, with a view the client can open to check progress. This is the kind of practical system an <strong>IT services team in Chirkunda</strong> should offer before anything fancier, and it starts at ₹60,000.",
       ],
     },
     {
@@ -140,7 +140,7 @@ const chirkunda: CityContent = {
       heading: "Android app development in Chirkunda and iOS apps: who should build one",
       paragraphs: [
         "Three questions decide whether a Chirkunda business needs an app. Do the same people deal with you every week? Do they need to do something, such as place an order or log a trip, rather than just read information? And would a notification on their phone save you calls? If all three answers are yes, an app is worth discussing.",
-        "Locally, that usually means a wholesaler whose retailers reorder several times a month, a transporter whose drivers log trips and diesel from the road, a refractory unit whose regular buyers track dispatches, a coaching centre sending test results and notices to parents, or a clinic issuing tokens. As an <strong>app development company in Chirkunda</strong>, we build these in Flutter or React Native, so one codebase runs on Android and iPhone, with OTP login, push notifications and an admin panel.",
+        "Locally, that usually means a wholesaler whose retailers reorder several times a month, a transporter whose drivers log trips and diesel from the road, a refractory unit whose regular buyers track dispatches, a coaching centre sending test results and notices to parents, or a clinic issuing tokens. As an <strong>app development team in Chirkunda</strong>, we build these in Flutter or React Native, so one codebase runs on Android and iPhone, with OTP login, push notifications and an admin panel.",
         "<strong>Android app development in Chirkunda</strong> with us starts at ₹40,000. Online payments, offline entry for areas with weak signal, maps and links to billing software add to that, each as a separate quote line. The finished app is published on Google Play and the App Store under developer accounts registered to you. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the stages.",
         "If the three answers are mostly no, a website with a WhatsApp button is the better buy, and we will say so. Customers who only need your address and rates will not install an app for that.",
       ],
@@ -230,7 +230,7 @@ const chirkunda: CityContent = {
         "A static site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest factor in speed is how quickly content and approvals come back from your side.",
     },
     {
-      question: "Who is the best website development company in Chirkunda?",
+      question: "Who is the best website development team in Chirkunda?",
       answer:
         "The best choice is the one that publishes its prices, registers your domain and code in your name, stays reachable after launch and can show real work. Ask every provider the same questions. We meet those standards and answer on WhatsApp seven days a week, but comparing two or three options is always wise.",
     },

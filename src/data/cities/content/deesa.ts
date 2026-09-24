@@ -9,7 +9,7 @@ const deesa: CityContent = {
     description:
       "Websites, Gujarati local SEO, cold storage and potato trade software and WhatsApp automation for Deesa businesses in Banaskantha. Prices from ₹10,000.",
     keywords: [
-      "website development company in Deesa",
+      "website development team in Deesa",
       "website designer Deesa",
       "web design Deesa Gujarat",
       "SEO services Deesa",

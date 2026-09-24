@@ -10,12 +10,12 @@ const itarsi: CityContent = {
       "Websites, Android & iOS apps, local SEO and WhatsApp automation for Itarsi traders, warehouses, transporters, clinics and coaching. Starting from ₹10,000.",
     keywords: [
       "IT services in Itarsi",
-      "IT company in Itarsi",
-      "website development company in Itarsi",
+      "IT services team in Itarsi",
+      "website development team in Itarsi",
       "web design in Itarsi",
-      "app development company in Itarsi",
+      "app development team in Itarsi",
       "Android app development in Itarsi",
-      "software company in Itarsi",
+      "software team in Itarsi",
       "SEO services in Itarsi",
       "digital marketing in Itarsi",
       "ecommerce website in Itarsi",
@@ -70,7 +70,7 @@ const itarsi: CityContent = {
         "Few towns of Itarsi's size have a railway station of such importance. Trains running between Mumbai and Kolkata and between Delhi and Chennai pass through Itarsi Junction, often described as the largest junction in Madhya Pradesh, and several hundred trains a day use it. The diesel loco shed, set up in 1964, adds a large railway workforce, and railway colonies make up a real share of the town.",
         "That traffic shapes local business. Hotels, lodges and restaurants near the station depend on travellers who change trains, miss a connection or break a journey. Auto and taxi operators, parcel agents and travel desks work the same flow. Railway staff and their families form a steady base of customers for schools, clinics, coaching classes and shops.",
         "Most of these customers now start with a phone search. A traveller stuck overnight types “hotel near Itarsi station”, and a transferred railway family looks for a school, a paediatrician or a tuition class before they have unpacked. The businesses that appear with a correct map pin, clear photos and a working number get those calls.",
-        "As an IT company in Itarsi's market that works remotely, we focus on the basics that win this traffic: an accurate Google Business Profile, a quick website in Hindi and English, and WhatsApp replies that answer the common questions even when the owner is busy at the counter. Bigger jobs, such as software or apps, come later and only where they pay for themselves.",
+        "As an IT services team in Itarsi's market that works remotely, we focus on the basics that win this traffic: an accurate Google Business Profile, a quick website in Hindi and English, and WhatsApp replies that answer the common questions even when the owner is busy at the counter. Bigger jobs, such as software or apps, come later and only where they pay for themselves.",
       ],
     },
     {
@@ -85,7 +85,7 @@ const itarsi: CityContent = {
     },
     {
       id: "transport-parcel",
-      heading: "Software company in Itarsi for transporters and parcel agents",
+      heading: "Software team in Itarsi for transporters and parcel agents",
       paragraphs: [
         "Grain, fertiliser, cement and building material all move in and out of Itarsi by road as well as rail, so the town has many lorry owners, transport offices and parcel agents. Their records usually live in notebooks and WhatsApp photos: which truck went to Bhopal, how much diesel was filled, what advance the driver took and which party still owes for last month.",
         "We build small trip and billing tools for these firms. Each trip is entered once from a phone with vehicle, route, load, freight, diesel and advance. The owner then sees earnings per vehicle, dues by party and reminders before permits, insurance or fitness certificates expire. Parcel agents can track consignments by booking number and send a status message to the customer on WhatsApp.",
@@ -130,7 +130,7 @@ const itarsi: CityContent = {
     },
     {
       id: "android-ios-apps-itarsi",
-      heading: "App development company in Itarsi: Android and iOS apps",
+      heading: "App development team in Itarsi: Android and iOS apps",
       paragraphs: [
         "An app makes sense in Itarsi when the same people use your service again and again. A grain or fertiliser dealer whose retailers re-order every week, a coaching institute with hundreds of students checking notes and attendance, a clinic that issues tokens daily, or a transport firm whose drivers log trips are all good cases. A one-time visitor, such as a traveller booking a room, is better served by a website.",
         "We build Android and iOS apps with Flutter or React Native, so one codebase runs on both platforms. A typical app has login by phone number, a product or course list, orders or bookings, push notifications for rate changes or class updates, and an admin panel where your staff manage everything from a browser. Hindi screens are included where your users need them.",
@@ -230,7 +230,7 @@ const itarsi: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native for dealers, coaching institutes, clinics and transporters in Itarsi. Apps include login, push notifications and an admin panel, start at ₹40,000, and are published on Google Play and the App Store under your own accounts.",
     },
     {
-      question: "Which is the best IT company in Itarsi for a website?",
+      question: "Which is the best IT services team in Itarsi for a website?",
       answer:
         "The best choice is the one that puts the domain and code in your name, shows prices in writing and is still answering after launch. Ask any company in Itarsi for past work, a written quote and the maintenance cost. We publish starting prices and hand over every login, so you can compare easily.",
     },

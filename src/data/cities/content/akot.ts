@@ -10,12 +10,12 @@ const akot: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Akot cotton traders, ginning units, farm input dealers, clinics and colleges.",
     keywords: [
       "IT services in Akot",
-      "IT company in Akot",
-      "website development company in Akot",
+      "IT services team in Akot",
+      "website development team in Akot",
       "web design in Akot",
-      "app development company in Akot",
+      "app development team in Akot",
       "Android app development in Akot",
-      "software company in Akot",
+      "software team in Akot",
       "SEO services in Akot",
       "digital marketing in Akot",
       "ecommerce website in Akot",
@@ -75,20 +75,20 @@ const akot: CityContent = {
     },
     {
       id: "cotton-ginning-software-akot",
-      heading: "Software company in Akot for ginning, pressing and cotton buying",
+      heading: "Software team in Akot for ginning, pressing and cotton buying",
       paragraphs: [
         "Cotton has defined Akot's trade for a long time. The old district gazetteer records thousands of cotton-laden bullock carts reaching the market around 1960, and today the APMC still publishes daily cotton rates that farmers across Vidarbha watch closely. Around the yard sit ginning and pressing units, traders who buy kapas from farmers, and transporters who move bales to spinning mills.",
         "The records behind a ginning season are demanding. Each lot needs the farmer's name and village, vehicle number, gross and tare weight, moisture reading, grade, rate and deductions. The unit then tracks lint and seed output, bales pressed, stock in the godown, dispatches against each order, and payments owed to farmers and received from buyers. On paper or in scattered Excel sheets, errors creep in and disputes follow.",
-        "As a <strong>software company in Akot</strong> for this trade, we build web applications that capture each purchase once, from a phone or a desktop at the weighbridge, and calculate everything that follows. Owners see daily purchase totals, average rate paid, outturn per lot, bale stock and outstanding payments on one screen. Farmer receipts can be printed or sent on WhatsApp in Marathi.",
+        "As a <strong>software team in Akot</strong> for this trade, we build web applications that capture each purchase once, from a phone or a desktop at the weighbridge, and calculate everything that follows. Owners see daily purchase totals, average rate paid, outturn per lot, bale stock and outstanding payments on one screen. Farmer receipts can be printed or sent on WhatsApp in Marathi.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually start with the purchase register before the season opens, then add pressing, stock and dispatch modules as the owner gains confidence. If your accountant already uses Tally, we plan the export format with them so nothing is typed twice. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "apmc-adat-trade-akot",
-      heading: "Website development company in Akot for adatyas, traders and the APMC yard",
+      heading: "Website development team in Akot for adatyas, traders and the APMC yard",
       paragraphs: [
         "Commission agents in the Akot market yard handle cotton in season and tur, soybean, gram and wheat through the rest of the year. Their customers are on both sides: farmers who want a fair rate and quick payment, and buyers from Akola, Amravati, Nagpur and beyond who want reliable quality and clean paperwork.",
-        "A <strong>website development company in Akot</strong> can give such a firm a quiet but useful presence online. A short site in Marathi and English should explain the commodities handled, the firm's licence and GST details, bank and payment practices, contact numbers for the yard and the office, and a map pin that brings a first-time buyer straight to the shop. Daily rate notes can be added by the owner from a phone in under a minute.",
+        "A <strong>website development team in Akot</strong> can give such a firm a quiet but useful presence online. A short site in Marathi and English should explain the commodities handled, the firm's licence and GST details, bank and payment practices, contact numbers for the yard and the office, and a map pin that brings a first-time buyer straight to the shop. Daily rate notes can be added by the owner from a phone in under a minute.",
         "Behind the site, we often build a small ledger tool for adat work: lots received, auction or sale rate, commission, hamali and market fees, amounts payable to farmers and receivable from buyers, with a running balance for each party. Owners who grew up on the bahi-khata find this familiar, because the layout follows their book rather than an accountant's template.",
         "A static website starts at ₹10,000 and is typically live in one to two weeks. The ledger tool is quoted separately as custom software. We never publish the name of a buyer, mill or farmer on your site unless they agree to it in writing.",
       ],
@@ -138,7 +138,7 @@ const akot: CityContent = {
       heading: "Android app development in Akot, and iOS apps that local customers keep using",
       paragraphs: [
         "An app earns its cost when a known group of people opens it often. In Akot, that might be cotton buyers recording purchases at the yard during the season, village retailers placing repeat orders with a fertiliser dealer, parents checking homework and fee notices from a school, patients booking tokens at a busy clinic, or drivers of a transport firm logging trips to Akola and beyond.",
-        "As an <strong>app development company in Akot</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login with OTP, push notifications, the few screens your users actually need and an admin panel where your staff manage orders, notices or records. We design for low-cost Android phones and weak signal, and can add offline entry that syncs later.",
+        "As an <strong>app development team in Akot</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login with OTP, push notifications, the few screens your users actually need and an admin panel where your staff manage orders, notices or records. We design for low-cost Android phones and weak signal, and can add offline entry that syncs later.",
         "<strong>Android app development in Akot</strong> with us starts at ₹40,000. Costs rise with online payments, maps, offline mode, multiple user roles and links to your billing software, and each appears on the quote as a separate line. We publish the app on Google Play and the Apple App Store under developer accounts registered in your own name. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "Many Akot businesses do not need an app at all. If customers only want your address, timings, a price list and a way to message you, a website and a proper map listing do that for a fraction of the cost. We will recommend that path first when it fits, because an app nobody opens after the first week helps no one.",
       ],
@@ -165,10 +165,10 @@ const akot: CityContent = {
     },
     {
       id: "remote-team-akot",
-      heading: "How our remote IT company in Akot's region works with you",
+      heading: "How our remote IT services team in Akot's region works with you",
       paragraphs: [
         "Since we are not based in Akot, we rely on writing things down. The first call covers your business, your customers and what the website, app or tool must do. You then receive a page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links that you can open on your own phone and show to partners, family or staff.",
-        "Some people call us the <strong>IT company in Akot</strong> they found online, but we are clear that we work from elsewhere. We reply to WhatsApp messages every day, weekends included, on Indian Standard Time. Marathi text is sent to you for checking before anything goes live, and no page is published without your approval. If a delay comes up, you hear about it when we know, not on the promised date.",
+        "Some people call us the <strong>IT services team in Akot</strong> they found online, but we are clear that we work from elsewhere. We reply to WhatsApp messages every day, weekends included, on Indian Standard Time. Marathi text is sent to you for checking before anything goes live, and no page is published without your approval. If a delay comes up, you hear about it when we know, not on the promised date.",
         "Payments are staged against work you can see, and nothing is billed before you approve the quote in writing. For a trader or shop owner trying a website or app for the first time, that keeps the risk small and the decisions in your hands.",
         "If you prefer to start with a single step, such as fixing a Google Maps listing or setting up a WhatsApp catalogue, we are happy to do that first. Larger work can follow once you have seen how we operate.",
       ],
@@ -233,7 +233,7 @@ const akot: CityContent = {
         "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Akot?",
+      question: "Which is the best website development team in Akot?",
       answer:
         "Choose a provider who publishes prices, registers the domain and code in your name, replies after launch and can show real work. Ask every option the same questions. We meet those tests and answer WhatsApp seven days a week, but comparing two or three providers before deciding is sensible.",
     },

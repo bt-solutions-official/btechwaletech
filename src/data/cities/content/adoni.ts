@@ -9,7 +9,7 @@ const adoni: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Adoni ginning mills, oil units, cotton traders, clinics and shops. Sites from ₹10,000, remote engineers.",
     keywords: [
-      "website development company in Adoni",
+      "website development team in Adoni",
       "web designer Adoni",
       "website design Adoni price",
       "SEO services Adoni",

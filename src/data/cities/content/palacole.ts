@@ -10,12 +10,12 @@ const palacole: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Palacole (Palakollu) rice mills, aqua farms, coconut traders, clinics and shops.",
     keywords: [
       "IT services in Palacole",
-      "IT company in Palacole",
-      "website development company in Palacole",
+      "IT services team in Palacole",
+      "website development team in Palacole",
       "web design in Palacole",
-      "app development company in Palacole",
+      "app development team in Palacole",
       "Android app development in Palacole",
-      "software company in Palacole",
+      "software team in Palacole",
       "SEO services in Palacole",
       "digital marketing in Palacole",
       "ecommerce website in Palacole",
@@ -90,10 +90,10 @@ const palacole: CityContent = {
     },
     {
       id: "aquaculture-palacole",
-      heading: "App development company in Palacole for aqua farms and input dealers",
+      heading: "App development team in Palacole for aqua farms and input dealers",
       paragraphs: [
         "Aquaculture and inland fisheries are a large part of the economy around Palacole, as they are across West Godavari. Pond owners buy feed, seed, probiotics and aerator spares on credit, test water regularly and time harvests around prices. Input dealers carry large outstanding balances and spend much of the day answering the same questions on the phone.",
-        "As an <strong>app development company in Palacole</strong>, we see two useful builds here. The first is a dealer app or web portal: farmers log in, see their ledger, place feed orders and get a WhatsApp message when a delivery leaves the shop. The second is a farm record app for owners with several ponds: daily feed, water readings, medicine, stocking dates and harvest weights, with simple charts that show which pond is doing well.",
+        "As an <strong>app development team in Palacole</strong>, we see two useful builds here. The first is a dealer app or web portal: farmers log in, see their ledger, place feed orders and get a WhatsApp message when a delivery leaves the shop. The second is a farm record app for owners with several ponds: daily feed, water readings, medicine, stocking dates and harvest weights, with simple charts that show which pond is doing well.",
         "Neither needs to be complicated. A clear Telugu interface, large buttons and offline entry that syncs later when the network returns will be used; a screen full of options will not. We would rather ship four screens that the pond supervisor actually opens every day than twenty that sit untouched.",
         "We do not make claims about yields or disease control. The software records what your team enters, and the decisions stay with the people who know the water. What it removes is the guessing about who paid, what was fed and when a tank was last tested.",
       ],
@@ -120,10 +120,10 @@ const palacole: CityContent = {
     },
     {
       id: "shops-clinics-palacole",
-      heading: "Website development company in Palacole for shops, hospitals and schools",
+      heading: "Website development team in Palacole for shops, hospitals and schools",
       paragraphs: [
         "Much of Palacole's daily trade is retail and services: cloth and saree shops, jewellers, mobile and electronics stores, hardware, pharmacies, private hospitals, diagnostic centres, schools and colleges including D.N.R. Educational Institutions and the Jogaiah Institute of Technology and Sciences. Each has customers who compare options online before walking in.",
-        "Working as a <strong>website development company in Palacole</strong> without a local office, we keep the process short. You send photographs, a price list and a few voice notes explaining what you do. We draft the pages in Telugu and English, share a test link and change it until it reads right to you. Once you approve, the site goes live on a domain registered in your name.",
+        "Working as a <strong>website development team in Palacole</strong> without a local office, we keep the process short. You send photographs, a price list and a few voice notes explaining what you do. We draft the pages in Telugu and English, share a test link and change it until it reads right to you. Once you approve, the site goes live on a domain registered in your name.",
         "For hospitals we focus on doctor schedules, departments and emergency numbers, never on medical claims. For schools and coaching centres, admission forms that land in one spreadsheet and a notice section staff can update without calling us. For shops, product categories and a WhatsApp order button, which is usually more useful here than a full cart.",
         "Our <a href=\"/services/web-development/\">web development service</a> covers hosting setup, SSL, contact forms and basic analytics. Sites are built to be fast on mid-range Android phones, because that is what most of your customers carry.",
       ],
@@ -176,9 +176,9 @@ const palacole: CityContent = {
     },
     {
       id: "remote-team-palacole",
-      heading: "Working with a software company in Palacole that has no local office",
+      heading: "Working with a software team in Palacole that has no local office",
       paragraphs: [
-        "We should be clear: we are not a <strong>software company in Palacole</strong> with a shop front on the main road. We are three engineers working remotely for clients across India, and Palacole businesses reach us on WhatsApp or by phone. For most projects that is enough, because the work itself happens on screens.",
+        "We should be clear: we are not a <strong>software team in Palacole</strong> with a shop front on the main road. We are three engineers working remotely for clients across India, and Palacole businesses reach us on WhatsApp or by phone. For most projects that is enough, because the work itself happens on screens.",
         "A typical project starts with a short call and a few voice notes from you. We send a written scope and itemised quote within about two working days. After approval, you see progress on a test link every few days and send changes directly on WhatsApp. We reply seven days a week on Indian time, including the busy weeks around festivals.",
         "If something needs to happen in person, such as photographing a mill or a showroom, we will suggest you or a local photographer handle it and guide you on what to shoot. We never quote an address we do not have, and we will not claim meetings or visits that did not happen.",
         "When you are ready to start, message us through the <a href=\"/contact/\">contact page</a> with your business name and what you want to build.",
@@ -186,11 +186,11 @@ const palacole: CityContent = {
     },
     {
       id: "ownership-maintenance-palacole",
-      heading: "IT company in Palacole terms: ownership, handover and maintenance",
+      heading: "IT services team in Palacole terms: ownership, handover and maintenance",
       paragraphs: [
         "A common problem we hear about from delta businesses is losing a website because the old developer registered the domain in his own name and then stopped answering. We avoid that from the start. The domain, hosting, code repository, Google Business Profile and app store accounts are all created in your name or your company's name, with us added as users.",
         "After launch, every project gets five months of free maintenance: bug fixes, small content edits, security updates and help if something breaks. After that, maintenance starts from ₹8,000 a month and covers backups, updates, uptime checks and small changes. You can also stop maintenance and manage it yourself or hand it to another developer; we pass over everything they need.",
-        "For software and apps, we document how the system works in plain language, so a new staff member or another <strong>IT company in Palacole</strong> could take over if needed. That is the honest way to build for a business expected to run for decades, not seasons.",
+        "For software and apps, we document how the system works in plain language, so a new staff member or another <strong>IT services team in Palacole</strong> could take over if needed. That is the honest way to build for a business expected to run for decades, not seasons.",
       ],
     },
   ],
@@ -230,7 +230,7 @@ const palacole: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, including login, push notifications and an admin panel, and publish them on Google Play and the App Store under your own accounts. Apps start from ₹40,000. For Palacole, dealer ordering apps, aqua farm record apps and clinic report apps are the most practical use cases.",
     },
     {
-      question: "Which is the best IT company in Palacole for a small business?",
+      question: "Which is the best IT services team in Palacole for a small business?",
       answer:
         "The best choice is whoever gives you ownership of your domain, code and accounts, a written itemised quote, and a clear maintenance plan. We are a remote team of three engineers with published starting prices and five months of free maintenance. Compare that against any local option on ownership, speed and after-launch support, not just the first price.",
     },

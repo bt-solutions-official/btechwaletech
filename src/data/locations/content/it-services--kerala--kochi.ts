@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Hire Freelance Software & App Developers in Kochi",
     description:
-      "Freelance software, Android and iOS app and AI developers for Kochi, a lean alternative to a software development company in Kochi. Apps from ₹40,000.",
+      "Freelance software, Android and iOS app and AI developers for Kochi, a lean alternative to a software development team in Kochi. Apps from ₹40,000.",
     keywords: [
-      "software development company in Kochi",
-      "IT company in Kochi",
+      "software development team in Kochi",
+      "IT services team in Kochi",
       "IT solutions Kochi",
       "freelance software developers Kochi",
       "custom software development Kochi",
@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Kochi (Ernakulam), Kerala",
     h1: "Hire freelance software, app and AI developers in Kochi",
     lede:
-      "Comparing a software development company in Kochi with freelance developers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software for traders and exporters, MVPs for startups, Android and iOS apps, AI and WhatsApp automation, dashboards, cloud setups, ecommerce and SEO websites for Kochi and Ernakulam businesses, and every account stays in your name.",
+      "Comparing a software development team in Kochi with freelance developers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software for traders and exporters, MVPs for startups, Android and iOS apps, AI and WhatsApp automation, dashboards, cloud setups, ecommerce and SEO websites for Kochi and Ernakulam businesses, and every account stays in your name.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents and automation", "Malayalam and Manglish ready", "Code handed over"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Kochi remotely, an alternative to a software development company in Kochi. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. We have no Kochi office and send itemised quotes in about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Kochi remotely, an alternative to a software development team in Kochi. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. We have no Kochi office and send itemised quotes in about two working days.",
   snapshot: [
     { label: "IT and startup hubs", value: "Infopark and SmartCity in Kakkanad, KINFRA Hi-Tech Park and the Kerala Startup Mission campus at Kalamassery" },
     { label: "Port and logistics", value: "Cochin Port on Willingdon Island and the International Container Transhipment Terminal at Vallarpadam" },
@@ -78,14 +78,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-kochi",
-      heading: "Should you hire a software development company in Kochi or freelance developers?",
+      heading: "Should you hire a software development team in Kochi or freelance developers?",
       paragraphs: [
-        "Hire a software development company in Kochi when the project needs a big team, on-site staff or a multi-year contract. Hire freelance developers when you need a focused product, app, automation or dashboard built quickly by engineers you can talk to directly. For most Ernakulam SMEs and early startups, freelancers deliver more for the same budget.",
+        "Hire a software development team in Kochi when the project needs a big team, on-site staff or a multi-year contract. Hire freelance developers when you need a focused product, app, automation or dashboard built quickly by engineers you can talk to directly. For most Ernakulam SMEs and early startups, freelancers deliver more for the same budget.",
         "Our honest limit is capacity. Three engineers take a small number of projects at a time, and we do not quietly subcontract. If your scope needs twenty people, we will say so at the first call rather than after taking an advance.",
       ],
       list: [
         "Freelance group: direct engineer contact, published starting prices, weekend replies, limited capacity",
-        "Software company: bigger teams and process, higher overhead, slower changes",
+        "Software team: bigger teams and process, higher overhead, slower changes",
         "Either way: written scope, milestone billing and code in your own repository",
       ],
     },
@@ -212,17 +212,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-kochi",
-      heading: "What does a software development company in Kochi charge compared with a freelance group?",
+      heading: "What does a software development team in Kochi charge compared with a freelance group?",
       paragraphs: [
-        "A software development company in Kochi usually prices office space, sales and management into each quote, so the same scope often costs more than with freelancers. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Kochi usually prices office space, sales and management into each quote, so the same scope often costs more than with freelancers. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "Final cost depends on modules, users, languages, integrations and data migration. See the <a href='/pricing/'>pricing page</a>. Payment is in INR, only by UPI QR or bank transfer, in milestones after you review work on staging.",
       ],
     },
     {
       id: "choosing-software-company-kochi",
-      heading: "How to choose a software development company in Kochi, or a freelance team",
+      heading: "How to choose a software development team in Kochi, or a freelance team",
       paragraphs: [
-        "Choose a software development company in Kochi, or a freelance team like ours, by checking who writes the code, what the scope says, who owns the accounts, how you will see progress and what support follows. Compare prices only after these are clear.",
+        "Choose a software development team in Kochi, or a freelance team like ours, by checking who writes the code, what the scope says, who owns the accounts, how you will see progress and what support follows. Compare prices only after these are clear.",
       ],
       list: [
         "Talk to the engineer who will build your project",
@@ -293,7 +293,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Kochi?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or branch in Kochi or Ernakulam. We work over WhatsApp, calls, video meetings and shared documents, and you review progress on a live staging link throughout." },
-    { question: "Which is the best software development company in Kochi?", answer: "It depends on your project. Large Kochi software companies suit enterprise contracts with big teams; a freelance group suits focused software, apps, automation and websites where you want direct contact with engineers. Compare written scopes, ownership terms, support periods and live work you can open before deciding." },
+    { question: "Which is the best software development team in Kochi?", answer: "It depends on your project. Large Kochi software companies suit enterprise contracts with big teams; a freelance group suits focused software, apps, automation and websites where you want direct contact with engineers. Compare written scopes, ownership terms, support periods and live work you can open before deciding." },
     { question: "How much does custom software cost in Kochi?", answer: "Custom software starts at ₹60,000. A single-module tool sits near that price; multi-module systems with integrations cost more. Android and iOS apps and AI automation start at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You get an itemised quote in about two working days." },
     { question: "How long do projects take?", answer: "Websites take one to two weeks, AI automation two to four weeks, Android and iOS apps six to ten weeks, ecommerce four to eight weeks and custom software six to twelve weeks. Ready content and quick feedback shorten these." },
     { question: "How do we pay you?", answer: "Only by UPI, scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not accept payments through gateways or payment links. Work is split into milestones, each paid after you review it on staging." },

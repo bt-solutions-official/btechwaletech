@@ -11,8 +11,8 @@ const content: CityContent = {
     keywords: [
       "freelance software developers in Gurugram",
       "hire freelance developers Gurgaon",
-      "software development company in Gurugram",
-      "IT company in Gurugram",
+      "software development team in Gurugram",
+      "IT services team in Gurugram",
       "IT solutions Gurugram",
       "custom software development Gurugram",
       "SaaS MVP development Gurgaon",
@@ -81,10 +81,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-gurugram",
-      heading: "Freelance developers or a software development company in Gurugram: which should you hire?",
+      heading: "Freelance developers or a software development team in Gurugram: which should you hire?",
       paragraphs: [
         "Hire freelance developers when the project is well defined, the budget is under a few lakh and you want direct contact with the engineers; hire a larger software development company in Gurugram when you need a big parallel team, on-site staff, round-the-clock support desks or vendor certifications that a procurement policy demands.",
-        "BtechWaleTech is a freelance group, not a company or an agency. Three engineers handle discovery, design, development, testing, deployment and maintenance. There is no account manager relaying messages, so a question asked on WhatsApp on Saturday is answered by someone who knows the codebase. The trade-off is capacity: we take a limited number of builds at a time and will tell you if your deadline does not fit.",
+        "BtechWaleTech is a small freelance group. Three engineers handle discovery, design, development, testing, deployment and maintenance. There is no account manager relaying messages, so a question asked on WhatsApp on Saturday is answered by someone who knows the codebase. The trade-off is capacity: we take a limited number of builds at a time and will tell you if your deadline does not fit.",
         "If you are comparing IT companies in Gurugram, ask each shortlisted vendor the same questions and compare the answers side by side rather than comparing sales decks.",
       ],
       list: [

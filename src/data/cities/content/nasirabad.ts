@@ -10,12 +10,12 @@ const nasirabad: CityContent = {
       "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Nasirabad truck body builders, transporters, kachora shops and schools.",
     keywords: [
       "IT services in Nasirabad",
-      "IT company in Nasirabad",
-      "website development company in Nasirabad",
+      "IT services team in Nasirabad",
+      "website development team in Nasirabad",
       "web design in Nasirabad",
-      "app development company in Nasirabad",
+      "app development team in Nasirabad",
       "Android app development in Nasirabad",
-      "software company in Nasirabad",
+      "software team in Nasirabad",
       "SEO services in Nasirabad",
       "digital marketing in Nasirabad",
       "ecommerce website in Nasirabad",
@@ -74,19 +74,19 @@ const nasirabad: CityContent = {
     },
     {
       id: "truck-body-builders",
-      heading: "Website development company in Nasirabad for truck and trailer body builders",
+      heading: "Website development team in Nasirabad for truck and trailer body builders",
       paragraphs: [
         "Nasirabad has a cluster of truck body builders making cargo bodies, tipper bodies, container bodies, trailers and even ambulance bodies. Their customers are fleet owners, contractors and first-time buyers who have just bought a chassis and want it built up quickly, often from other districts.",
-        "These buyers search online and ask around before choosing a workshop. A <strong>website development company in Nasirabad</strong> should build workshop sites that answer their real questions: which body types you build, materials and steel gauge options, typical build time, photographs of finished vehicles from several angles, the chassis makes you work on, whether you handle RTO-related paperwork support, and a clear contact for quotes.",
+        "These buyers search online and ask around before choosing a workshop. A <strong>website development team in Nasirabad</strong> should build workshop sites that answer their real questions: which body types you build, materials and steel gauge options, typical build time, photographs of finished vehicles from several angles, the chassis makes you work on, whether you handle RTO-related paperwork support, and a clear contact for quotes.",
         "We add a quote request form that asks for chassis model, body type, dimensions and delivery date, so you get serious enquiries with the details already filled in. A workshop website of this kind is a static site from ₹10,000. We never show a customer's name or vehicle number on your site without their permission.",
       ],
     },
     {
       id: "workshop-job-software",
-      heading: "Software company in Nasirabad for job cards, costing and delivery dates",
+      heading: "Software team in Nasirabad for job cards, costing and delivery dates",
       paragraphs: [
         "A body building workshop may have several vehicles in the yard at once, each at a different stage: frame, flooring, side walls, painting, fitting and final inspection. Steel, paint and hardware costs change, labour is split across jobs, and customers call every day to ask when their vehicle will be ready.",
-        "As a <strong>software company in Nasirabad</strong>, we build simple job card systems for this. Each vehicle gets a job with chassis details, body specification, quoted price and promised date; the supervisor updates the stage from a phone with photographs; material issued and labour hours are recorded against the job; and the owner sees which jobs are running late and which are earning less than quoted.",
+        "As a <strong>software team in Nasirabad</strong>, we build simple job card systems for this. Each vehicle gets a job with chassis details, body specification, quoted price and promised date; the supervisor updates the stage from a phone with photographs; material issued and labour hours are recorded against the job; and the owner sees which jobs are running late and which are earning less than quoted.",
         "Each time a stage is marked done, the customer can get a WhatsApp message with a photograph, which cuts down the daily “kab tak milegi” calls. If your accounts run on Tally, the job system talks to it. A build like this is priced from ₹60,000 and delivered in phases over six to twelve weeks, with job cards and stage tracking first.",
       ],
     },
@@ -131,7 +131,7 @@ const nasirabad: CityContent = {
       heading: "Android app development in Nasirabad, and iOS apps from one codebase",
       paragraphs: [
         "An app earns its cost when the same people use it often. In Nasirabad, sensible uses include drivers logging trips and expenses, workshop customers following their vehicle's build stage, a school sending notices and fee reminders, a clinic issuing tokens, or a food shop's regular customers ordering for events.",
-        "Everything is written in Flutter or React Native, so the same code serves the driver's Android phone and the fleet owner's iPhone. For a first release, an <strong>app development company in Nasirabad</strong> like us usually delivers sign-in with the mobile number, push alerts, the few screens the job truly needs and an admin panel for the office. Publishing happens on Google Play and the Apple App Store, under developer accounts that carry your name.",
+        "Everything is written in Flutter or React Native, so the same code serves the driver's Android phone and the fleet owner's iPhone. For a first release, an <strong>app development team in Nasirabad</strong> like us usually delivers sign-in with the mobile number, push alerts, the few screens the job truly needs and an admin panel for the office. Publishing happens on Google Play and the Apple App Store, under developer accounts that carry your name.",
         "<strong>Android app development in Nasirabad</strong> with us starts at ₹40,000. The quote rises with offline entry for drivers on the highway, photo uploads, payments, GPS and links to other software, and each appears as its own line. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Before any of that, one check. If people only need your address, working hours and rate list, a website covers it for much less money, and we will advise that instead. An app earns back its cost only when users keep opening it.",
       ],
@@ -230,7 +230,7 @@ const nasirabad: CityContent = {
         "For a workshop, shop or clinic, expect the site to be live one to two weeks after your photographs and details arrive. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for an online store, six to twelve for custom software. Content sent early is the surest way to finish sooner.",
     },
     {
-      question: "Which is the best website development company in Nasirabad?",
+      question: "Which is the best website development team in Nasirabad?",
       answer:
         "Test any provider the way you would test a body builder: look at finished work, check that prices are written down, and make sure the paperwork is in your name. For websites that means published prices, domain and code registered to you, live examples and support after launch. We meet those tests and answer WhatsApp daily, but compare two or three providers anyway.",
     },

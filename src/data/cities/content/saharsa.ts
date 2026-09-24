@@ -9,7 +9,7 @@ const saharsa: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Saharsa makhana traders, shops, clinics, schools and coaching centres. Sites from ₹10,000 with 5 months free upkeep.",
     keywords: [
-      "website development company in Saharsa",
+      "website development team in Saharsa",
       "web design Saharsa",
       "website designer Saharsa",
       "SEO services Saharsa",

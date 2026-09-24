@@ -10,12 +10,12 @@ const rath: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Rath mandi traders, farm input dealers, colleges, clinics and shops in Bundelkhand.",
     keywords: [
       "IT services in Rath",
-      "IT company in Rath",
-      "website development company in Rath",
+      "IT services team in Rath",
+      "website development team in Rath",
       "web design in Rath",
-      "app development company in Rath",
+      "app development team in Rath",
       "Android app development in Rath",
-      "software company in Rath",
+      "software team in Rath",
       "SEO services in Rath",
       "digital marketing in Rath",
       "ecommerce website in Rath",
@@ -74,10 +74,10 @@ const rath: CityContent = {
     },
     {
       id: "mandi-arhatiya-software",
-      heading: "Software company in Rath for mandi arhatiyas and grain traders",
+      heading: "Software team in Rath for mandi arhatiyas and grain traders",
       paragraphs: [
         "The Rath mandi handles large volumes of rabi produce each spring. Wheat, gram, peas and masoor arrive on tractors from villages across the tehsil, and commission agents, traders, weighing staff and transporters work long days through the season. Local reporting has noted that production in the district runs well above what government procurement centres can take, so a lot of the crop passes through private traders.",
-        "Most arhatiyas still run their accounts in bahi-khata, and many also keep a second rough book for advances given to farmers before harvest. As a <strong>software company in Rath</strong> in practical terms, we build web tools that record each lot once: farmer name and village, crop, weight, rate, deductions and the buyer it went to. Balances update for every farmer and every buyer, advances are adjusted automatically, and the owner can see the season's position on a phone at night.",
+        "Most arhatiyas still run their accounts in bahi-khata, and many also keep a second rough book for advances given to farmers before harvest. As a <strong>software team in Rath</strong> in practical terms, we build web tools that record each lot once: farmer name and village, crop, weight, rate, deductions and the buyer it went to. Balances update for every farmer and every buyer, advances are adjusted automatically, and the owner can see the season's position on a phone at night.",
         "Such tools start at ₹60,000 and are built in stages over six to twelve weeks. We usually build them in the off-season so they are tested before the next harvest, with Hindi screens and printed slips that farmers already recognise. If your accountant uses Tally, we connect to it rather than replacing it.",
       ],
     },
@@ -92,10 +92,10 @@ const rath: CityContent = {
     },
     {
       id: "colleges-coaching-rath",
-      heading: "Website development company in Rath for colleges, schools and coaching",
+      heading: "Website development team in Rath for colleges, schools and coaching",
       paragraphs: [
         "Rath is the education centre for a wide rural belt. Brahmanand Mahavidyalaya, set up in 1960 by Swami Brahmanand and affiliated to Bundelkhand University in Jhansi, offers undergraduate and postgraduate courses on a large campus. Around it are inter colleges, private schools, computer centres, and coaching institutes preparing students for police, army, railway and teacher recruitment exams.",
-        "Students and parents from villages want clear answers: which courses are available, what fees or fee ranges apply, when forms open, whether transport or hostels exist, and who to call. A <strong>website development company in Rath</strong> working for an institution should put those answers on the first screen, date every notice, and keep the enquiry form short enough to fill in on a cheap phone with a weak signal.",
+        "Students and parents from villages want clear answers: which courses are available, what fees or fee ranges apply, when forms open, whether transport or hostels exist, and who to call. A <strong>website development team in Rath</strong> working for an institution should put those answers on the first screen, date every notice, and keep the enquiry form short enough to fill in on a cheap phone with a weak signal.",
         "For coaching centres, we add batch timings, faculty introductions, fee details and a results page that lists only results you can verify. Institutions can post notices themselves through a simple login. We never invent selection counts or toppers, and every number on the site is confirmed with you before publishing.",
       ],
     },
@@ -122,7 +122,7 @@ const rath: CityContent = {
       heading: "Android app development in Rath, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost when the same people open it often. In Rath, good examples include farmers checking their account and payment status with an arhatiya, village retailers re-ordering from a fertiliser or FMCG distributor, parents following a school's homework and fee notices, coaching students taking daily tests, and patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Rath</strong> that works remotely, we use Flutter or React Native, so one codebase serves both Android phones and iPhones. The first version usually has mobile number login, push notifications, the key screens your users need, Hindi labels and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Rath</strong> that works remotely, we use Flutter or React Native, so one codebase serves both Android phones and iPhones. The first version usually has mobile number login, push notifications, the key screens your users need, Hindi labels and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Rath</strong> with us starts at ₹40,000. Costs increase with online payment, offline entry for villages with poor signal, maps and links to your billing software, and each of those appears on its own line in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more detail.",
         "If your customers only need your address, phone number and price list, a website does the job for far less and needs no download. In that case we will recommend the website, because an app that nobody opens after the first week is money wasted.",
       ],
@@ -223,7 +223,7 @@ const rath: CityContent = {
         "A simple static site is usually live within one to two weeks after you send photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. The fastest projects are those where the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best IT company in Rath for a website?",
+      question: "Which is the best IT services team in Rath for a website?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask every option the same questions. We meet those tests and answer on WhatsApp seven days a week, but comparing two or three before deciding is sensible.",
     },

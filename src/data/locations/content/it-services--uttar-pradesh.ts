@@ -10,13 +10,13 @@ const content: CityContent = {
       "Freelance IT team for Uttar Pradesh: custom software, web apps, AI automation, SEO and ecommerce from Noida to Varanasi. Websites from ₹10,000, quotes in 2 days.",
     keywords: [
       "IT services in Uttar Pradesh",
-      "software development company in Uttar Pradesh",
-      "IT company in Uttar Pradesh",
+      "software development team in Uttar Pradesh",
+      "IT services team in Uttar Pradesh",
       "IT solutions Uttar Pradesh",
       "freelance software developers Uttar Pradesh",
       "custom software development UP",
       "web application development Uttar Pradesh",
-      "AI automation company UP",
+      "AI automation team UP",
       "WhatsApp automation Uttar Pradesh",
       "SEO services Uttar Pradesh",
       "local SEO Lucknow Noida Kanpur",
@@ -24,7 +24,7 @@ const content: CityContent = {
       "ERP for MSME Uttar Pradesh",
       "website development Ghaziabad Agra Varanasi",
       "IT services near me Uttar Pradesh",
-      "software company near me Lucknow",
+      "software team near me Lucknow",
       "website maintenance Uttar Pradesh",
       "उत्तर प्रदेश में सॉफ्टवेयर कंपनी",
       "यूपी में वेबसाइट बनवाना",
@@ -89,11 +89,11 @@ const content: CityContent = {
     },
     {
       id: "up-freelance-vs-company",
-      heading: "Freelance developers or a software development company in Uttar Pradesh?",
+      heading: "Freelance developers or a software development team in Uttar Pradesh?",
       paragraphs: [
-        "Choose a software development company in Uttar Pradesh when you need a large team, formal enterprise procurement or dedicated on-site staff; choose a freelance group when you have a focused project, want direct access to the engineers and prefer lower overheads. Most MSMEs, clinics, institutes and traders in UP fall into the second category.",
+        "Choose a software development team in Uttar Pradesh when you need a large team, formal enterprise procurement or dedicated on-site staff; choose a freelance group when you have a focused project, want direct access to the engineers and prefer lower overheads. Most MSMEs, clinics, institutes and traders in UP fall into the second category.",
         "Noida and Lucknow have many established IT companies, and district towns have countless individual freelancers. Large companies bring process and scale but also higher overheads and layers between you and the developer. Solo freelancers are affordable but can vanish mid-project. A small freelance group offers a middle path: more than one engineer, direct communication and published starting prices.",
-        "BtechWaleTech is exactly that: a freelance group of three engineers, not a company, working remotely from India. We are honest about what fits us. A single dealer portal, an AI assistant or a 700-page SEO website suits us well. A state-wide government system with dozens of on-site staff does not, and we will say so before quoting.",
+        "BtechWaleTech is exactly that: a freelance group of three engineers working remotely from India. We are honest about what fits us. A single dealer portal, an AI assistant or a 700-page SEO website suits us well. A state-wide government system with dozens of on-site staff does not, and we will say so before quoting.",
       ],
     },
     {
@@ -195,7 +195,7 @@ const content: CityContent = {
     },
     {
       id: "up-choose-partner",
-      heading: "How to choose an IT company or freelance team in Uttar Pradesh",
+      heading: "How to choose an IT services team or freelance team in Uttar Pradesh",
       paragraphs: [
         "Choose any IT company or freelance team in Uttar Pradesh by checking who writes the code, whether the domain, hosting and source code will be in your name, how payments are staged and what support follows launch. These matter more than office size, awards or a long services list.",
         "Open their live projects on your own phone. Ask for an itemised quote and a list of exclusions, such as SMS charges, WhatsApp API fees or hosting renewals. Ask how quickly they reply on a Sunday, and whether you will talk to a developer or a salesperson.",
@@ -301,9 +301,9 @@ const content: CityContent = {
         "Yes. We build online stores and B2B catalogues for products such as brassware, glassware, carpets, locks, chikankari and silk, starting at ₹50,000. Checkout supports UPI and cards through a payment gateway account in your own name. For exporters, we often recommend a catalogue with enquiry forms before a full retail cart.",
     },
     {
-      question: "Which is the best IT company in Uttar Pradesh?",
+      question: "Which is the best IT services team in Uttar Pradesh?",
       answer:
-        "There is no single best IT company in Uttar Pradesh; the right choice depends on your project size and budget. Large projects needing many developers suit established Noida or Lucknow companies. Focused projects often suit a freelance group like BtechWaleTech, with direct engineer access, published starting prices and full ownership of code and accounts.",
+        "There is no single best IT services team in Uttar Pradesh; the right choice depends on your project size and budget. Large projects needing many developers suit established Noida or Lucknow companies. Focused projects often suit a freelance group like BtechWaleTech, with direct engineer access, published starting prices and full ownership of code and accounts.",
     },
     {
       question: "Can you connect new software with Tally?",

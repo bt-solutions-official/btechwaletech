@@ -10,12 +10,12 @@ const srikalahasti: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Srikalahasti lodges, Kalamkari artists, temple-street shops, clinics and colleges.",
     keywords: [
       "IT services in Srikalahasti",
-      "IT company in Srikalahasti",
-      "website development company in Srikalahasti",
+      "IT services team in Srikalahasti",
+      "website development team in Srikalahasti",
       "web design in Srikalahasti",
-      "app development company in Srikalahasti",
+      "app development team in Srikalahasti",
       "Android app development in Srikalahasti",
-      "software company in Srikalahasti",
+      "software team in Srikalahasti",
       "SEO services in Srikalahasti",
       "digital marketing in Srikalahasti",
       "ecommerce website in Srikalahasti",
@@ -93,10 +93,10 @@ const srikalahasti: CityContent = {
     },
     {
       id: "temple-street-shops",
-      heading: "Website development company in Srikalahasti for temple-street and market shops",
+      heading: "Website development team in Srikalahasti for temple-street and market shops",
       paragraphs: [
         "The streets around the temple and the main market serve two very different customers: pilgrims who are in town for a day and residents who shop every week. Pooja-item and prasadam-related shops, photo studios, sweet stalls, saree and textile shops, jewellers, pharmacies and provision stores all depend on being found at the right moment.",
-        "A <strong>website development company in Srikalahasti</strong> should keep these sites simple and precise. A pilgrim-facing shop needs opening times that match temple hours, a clear location relative to the temple gate, and a list of what it sells. A resident-facing shop needs stock categories, delivery areas and a WhatsApp number for price checks. Both need a correct Google Maps pin.",
+        "A <strong>website development team in Srikalahasti</strong> should keep these sites simple and precise. A pilgrim-facing shop needs opening times that match temple hours, a clear location relative to the temple gate, and a list of what it sells. A resident-facing shop needs stock categories, delivery areas and a WhatsApp number for price checks. Both need a correct Google Maps pin.",
         "Wholesalers and distributors in the market, who supply provisions, pooja materials or textiles to smaller shops in surrounding villages, often gain more from a simple ordering page than from a showcase site. Retailers can pick items, quantities and a preferred delivery day, and the order lands on WhatsApp and in a sheet the owner already checks each evening.",
         "These sites start at ₹10,000, and we write them Telugu-first with English and, where it helps, Tamil for visitors from the neighbouring state.",
       ],
@@ -112,20 +112,20 @@ const srikalahasti: CityContent = {
     },
     {
       id: "clinics-colleges-srikalahasti",
-      heading: "IT company in Srikalahasti for hospitals, colleges and coaching centres",
+      heading: "IT services team in Srikalahasti for hospitals, colleges and coaching centres",
       paragraphs: [
         "Srikalahasti draws patients and students from surrounding mandals such as Thottambedu, Yerpedu and Renigunta. Private hospitals, nursing homes, diagnostic labs and dental clinics serve families from these villages, and engineering, degree and junior colleges along with coaching centres serve their children.",
-        "An <strong>IT company in Srikalahasti</strong> working for these organisations should put the essentials first. For hospitals, that means doctor-wise pages with OPD days, emergency numbers, directions and appointment requests. For colleges and coaching centres, it means courses, admission dates, fee ranges, transport routes and a form that captures the student's details so staff can call back.",
+        "An <strong>IT services team in Srikalahasti</strong> working for these organisations should put the essentials first. For hospitals, that means doctor-wise pages with OPD days, emergency numbers, directions and appointment requests. For colleges and coaching centres, it means courses, admission dates, fee ranges, transport routes and a form that captures the student's details so staff can call back.",
         "Farm input dealers, rice mills and tractor workshops serving the paddy villages around the town have similar needs on a smaller scale. A single page with products, brands stocked, seasonal timings and a WhatsApp number helps farmers check before making the trip, and a basic credit ledger can replace the notebook that tracks what each customer owes after harvest.",
         "We avoid medical claims and unverified results. Patient and student data is stored with access limited to the people who need it, and we explain how it is protected in plain language.",
       ],
     },
     {
       id: "industry-suppliers-srikalahasti",
-      heading: "Software company in Srikalahasti for suppliers to the Tirupati district industrial belt",
+      heading: "Software team in Srikalahasti for suppliers to the Tirupati district industrial belt",
       paragraphs: [
         "Tirupati district has grown into an industrial district, with manufacturing zones at Renigunta and Gajulamandyam and the Sri City industrial park further south near the Tamil Nadu border. Srikalahasti sits within reach of these areas, and many local businesses supply them: transport operators, labour contractors, fabrication workshops, electrical contractors, canteens and housing providers for workers.",
-        "As a <strong>software company in Srikalahasti</strong>, we build the tools these firms need to look credible and stay organised. A capability website with services, equipment, safety practices, registration details and named contacts helps a firm pass a purchase team's first check. Behind that, a small web app can track trips and diesel for transporters, attendance and wages for labour contractors, or job cards for workshops.",
+        "As a <strong>software team in Srikalahasti</strong>, we build the tools these firms need to look credible and stay organised. A capability website with services, equipment, safety practices, registration details and named contacts helps a firm pass a purchase team's first check. Behind that, a small web app can track trips and diesel for transporters, attendance and wages for labour contractors, or job cards for workshops.",
         "Custom tools start at ₹60,000 and are built in stages over six to twelve weeks. We never list a client's name on your site without that client's written permission.",
       ],
     },
@@ -134,7 +134,7 @@ const srikalahasti: CityContent = {
       heading: "Android app development in Srikalahasti and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when a defined group of people will use it again and again. In Srikalahasti, that could be a lodge group whose pilgrims return every year, a Kalamkari seller with repeat buyers across India, a college sending notices and results to students, a transporter whose drivers log trips, or a distributor taking orders from village retailers.",
-        "As an <strong>app development company in Srikalahasti</strong> working remotely, we build in Flutter or React Native so one codebase runs on both Android phones and iPhones. First versions usually include mobile number login, push notifications, the main screens your users need and an admin panel for staff. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Srikalahasti</strong> working remotely, we build in Flutter or React Native so one codebase runs on both Android phones and iPhones. First versions usually include mobile number login, push notifications, the main screens your users need and an admin panel for staff. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Srikalahasti</strong> with us starts at ₹40,000. Payments, maps, offline mode and links to other software add to the scope, and each is listed on the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "For a lodge or shop whose customers only need an address, a tariff and a phone number, a website costs far less and does the job. We will say so rather than sell you an app that pilgrims install once and forget.",
       ],
@@ -227,7 +227,7 @@ const srikalahasti: CityContent = {
         "A static lodge website usually goes live one to two weeks after we receive photographs, room details and tariffs. Adding an availability calendar or advance payment takes a little longer. A 700+ page SEO website takes three to five weeks and an online store four to eight weeks.",
     },
     {
-      question: "Which is the best website development company in Srikalahasti?",
+      question: "Which is the best website development team in Srikalahasti?",
       answer:
         "Pick a provider who publishes prices, registers your domain and code in your name, answers after launch and can show real work. Ask every option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers first is wise.",
     },

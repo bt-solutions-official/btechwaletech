@@ -12,8 +12,8 @@ const content: CityContent = {
       "Android app development Ludhiana",
       "iOS app development Ludhiana",
       "mobile app developers Ludhiana",
-      "software development company in Ludhiana",
-      "IT company in Ludhiana",
+      "software development team in Ludhiana",
+      "IT services team in Ludhiana",
       "IT solutions Ludhiana",
       "freelance software developer Ludhiana",
       "custom software for hosiery units Ludhiana",
@@ -71,7 +71,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-ludhiana",
-      heading: "Freelance software developers or a software development company in Ludhiana: which suits a factory?",
+      heading: "Freelance software developers or a software development team in Ludhiana: which suits a factory?",
       paragraphs: [
         "For most Ludhiana factories and trading houses, a small freelance team suits better than a large software development company in Ludhiana, because the people who understand your process are the same people who write the code. There is no hand-off from a salesperson to a project manager to a junior developer who has never seen a knitting machine or a dispatch register.",
         "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a> working remotely. We talk directly with the owner and the staff who will use the software, write down how orders, stock and payments flow today, and build the smallest system that fixes the biggest daily headache. A larger IT company can be the right choice when you need twenty developers or on-site staff every day; we will say so if that is your situation.",
@@ -260,9 +260,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company in Ludhiana?",
+      question: "Are you a software development team in Ludhiana?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a registered software company with a Ludhiana office. Ludhiana businesses hire us as freelance software developers: you speak directly with the engineers who build your software, receive a written itemised quote, and own everything we create. Meetings happen on calls and WhatsApp.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a registered software team with a Ludhiana office. Ludhiana businesses hire us as freelance software developers: you speak directly with the engineers who build your software, receive a written itemised quote, and own everything we create. Meetings happen on calls and WhatsApp.",
     },
     {
       question: "How much does custom software cost for a Ludhiana factory?",

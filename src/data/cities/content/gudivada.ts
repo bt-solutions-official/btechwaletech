@@ -9,7 +9,7 @@ const gudivada: CityContent = {
     description:
       "Websites, Telugu search pages and WhatsApp tools for Gudivada rice millers, trailer builders, fish farmers, colleges and clinics. Sites from ₹10,000.",
     keywords: [
-      "website development company in Gudivada",
+      "website development team in Gudivada",
       "web designer Gudivada",
       "website design Gudivada Krishna district",
       "SEO services Gudivada",

@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Thoubal: weaver and trader software, mobile websites, WhatsApp and AI automation, offline apps and SEO. Websites from ₹10,000.",
     keywords: [
-      "software development company in Thoubal",
-      "IT company in Thoubal",
+      "software development team in Thoubal",
+      "IT services team in Thoubal",
       "IT solutions Thoubal",
       "freelance software developer Thoubal",
       "website design Thoubal Manipur",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT solutions · Thoubal district, Manipur",
     h1: "Freelance software developers in Thoubal for weavers, traders, schools and local services",
     lede:
-      "If you have been looking for a software development company in Thoubal, you have probably found very few. BtechWaleTech is a freelance group of three engineers working remotely from India. We build weaver and trader software, mobile websites, WhatsApp and AI automation and offline-ready apps for Thoubal, Wangjing, Yairipok, Lilong and nearby towns.",
+      "If you have been looking for a software development team in Thoubal, you have probably found very few. BtechWaleTech is a freelance group of three engineers working remotely from India. We build weaver and trader software, mobile websites, WhatsApp and AI automation and offline-ready apps for Thoubal, Wangjing, Yairipok, Lilong and nearby towns.",
     pills: ["Mobile websites from ₹10,000", "Weaver and trader software", "Offline-ready apps", "Meitei and English", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "For Thoubal, BtechWaleTech offers an alternative to a software development company: a remote freelance group of three engineers. Mobile websites start at ₹10,000 (one to two weeks), WhatsApp and AI automation or an Android and iOS app at ₹40,000 and custom software at ₹60,000 (six to twelve weeks). We have no Thoubal office and quote itemised prices in about two working days.",
+    "For Thoubal, BtechWaleTech offers an alternative to a software development team: a remote freelance group of three engineers. Mobile websites start at ₹10,000 (one to two weeks), WhatsApp and AI automation or an Android and iOS app at ₹40,000 and custom software at ₹60,000 (six to twelve weeks). We have no Thoubal office and quote itemised prices in about two working days.",
   snapshot: [
     { label: "District role", value: "Thoubal town is the headquarters of Thoubal district in the Imphal valley, south-east of Imphal" },
     { label: "Farming", value: "Rice dominates cultivated land, and the district is known as Manipur's leading sugarcane grower" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-developers-thoubal",
-      heading: "What should a software development company in Thoubal actually offer?",
+      heading: "What should a software development team in Thoubal actually offer?",
       paragraphs: [
-        "A software development company in Thoubal, or a freelance team serving the district, should offer practical tools that small businesses can afford and staff can use without training courses: mobile websites, contact and order flows, simple record-keeping software, WhatsApp automation and apps that keep working when the signal drops. Fancy features matter far less than reliability.",
+        "A software development team in Thoubal, or a freelance team serving the district, should offer practical tools that small businesses can afford and staff can use without training courses: mobile websites, contact and order flows, simple record-keeping software, WhatsApp automation and apps that keep working when the signal drops. Fancy features matter far less than reliability.",
         "Thoubal's economy is built on rice and sugarcane farming, handloom weaving, fisheries and small trade, with schools, clinics and services in the town. These businesses rarely need complex enterprise systems. They need to be found by customers, to take orders without missing them, and to keep accurate records of money owed and paid.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Thoubal or anywhere in Manipur, so every project runs over WhatsApp, phone and video calls. That keeps prices low and lets us serve Thoubal on exactly the same terms as clients in larger cities.",
       ],
@@ -198,7 +198,7 @@ const content: CityContent = {
       heading: "What does IT work cost in Thoubal, and how do you choose who to hire?",
       paragraphs: [
         "IT work for a Thoubal business with BtechWaleTech starts at ₹10,000 for a static mobile website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software, with monthly SEO from ₹10,000 and maintenance from ₹8,000 a month after five free months. Full details are on the <a href='/pricing/'>pricing page</a>.",
-        "If you are comparing a software development company for Thoubal with a freelance team, look at who writes the code, whether the scope and price are written down, whether the domain, hosting and code will be in your name, and what support costs after launch. A local provider can visit for hardware; a remote freelance group cannot, but usually costs less for software and web work.",
+        "If you are comparing a software development team for Thoubal with a freelance team, look at who writes the code, whether the scope and price are written down, whether the domain, hosting and code will be in your name, and what support costs after launch. A local provider can visit for hardware; a remote freelance group cannot, but usually costs less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in agreed milestones. You can see earlier work in our <a href='/portfolio/'>portfolio</a> and read about us on the <a href='/about/'>about page</a>.",
       ],
       list: [
@@ -308,7 +308,7 @@ const content: CityContent = {
         "For computers, printers and networks, a local provider who can visit is best. For websites, software, apps, automation and SEO, a remote freelance team works well and often costs less. Whoever you hire, insist on a written scope, ownership of all accounts and clear support terms.",
     },
     {
-      question: "Is there a good software development company in Thoubal itself?",
+      question: "Is there a good software development team in Thoubal itself?",
       answer:
         "Thoubal has a few local computer and web service providers, and many businesses also hire developers in Imphal or remote teams. Whichever you consider, judge them on real earlier work, a written scope, ownership of your accounts and clear support terms rather than on location alone. For hardware support, a nearby provider is valuable; for software, distance matters much less.",
     },

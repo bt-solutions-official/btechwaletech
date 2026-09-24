@@ -9,7 +9,7 @@ const unnao: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Unnao, Shuklaganj and Magarwara businesses. Static sites start at ₹10,000, with five months of free upkeep.",
     keywords: [
-      "website development company in Unnao",
+      "website development team in Unnao",
       "web design Unnao",
       "website designer Unnao",
       "freelance web developer Unnao",

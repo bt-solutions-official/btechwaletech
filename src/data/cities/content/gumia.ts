@@ -10,12 +10,12 @@ const gumia: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Gumia (Gomia) mining contractors, suppliers, schools, clinics and local shops.",
     keywords: [
       "IT services in Gumia",
-      "IT company in Gomia",
-      "website development company in Gumia",
+      "IT services team in Gomia",
+      "website development team in Gumia",
       "web design in Gomia",
-      "app development company in Gumia",
+      "app development team in Gumia",
       "Android app development in Gomia",
-      "software company in Gumia",
+      "software team in Gumia",
       "SEO services in Gomia",
       "digital marketing in Gumia",
       "ecommerce website in Gomia",
@@ -74,19 +74,19 @@ const gumia: CityContent = {
     },
     {
       id: "mining-contractors-gumia",
-      heading: "Software company in Gumia for coal haulage and mine contractors",
+      heading: "Software team in Gumia for coal haulage and mine contractors",
       paragraphs: [
         "Kathara OC, Jarangdih OC and UG, Swang OC and UG and Govindpur UG all rely on outside contractors for coal haulage, overburden removal, loading, equipment hire, labour and repairs. The work is paid only when the contractor's figures agree with the colliery's own: trips, tonnes, machine hours, diesel drawn, headcount. When those records live in diaries and WhatsApp photos, bills stall for weeks.",
-        "Working as a <strong>software company in Gumia</strong>, we build browser-based registers that fix this. A supervisor on an Android phone enters each trip with vehicle number, challan, weight and destination; hours and diesel are logged per dumper, excavator or loader; attendance is marked with a photo; fitness, permit and insurance dates for every truck raise an alert before they lapse. At month end the system prints a summary in the layout your client's billing section expects.",
+        "Working as a <strong>software team in Gumia</strong>, we build browser-based registers that fix this. A supervisor on an Android phone enters each trip with vehicle number, challan, weight and destination; hours and diesel are logged per dumper, excavator or loader; attendance is marked with a photo; fitness, permit and insurance dates for every truck raise an alert before they lapse. At month end the system prints a summary in the layout your client's billing section expects.",
         "Budget from ₹60,000 and six to twelve weeks, delivered in phases. Phase one is whichever register delays your payments most, usually trips or machine hours. Statutory returns stay with your accountant; the software only makes sure the numbers handed over are complete and consistent.",
       ],
     },
     {
       id: "plant-suppliers-gumia",
-      heading: "Website development company in Gumia for plant, power station and colliery vendors",
+      heading: "Website development team in Gumia for plant, power station and colliery vendors",
       paragraphs: [
         "Three large buyers sit within a short drive of Gomia bazaar: the explosives works, the CCL collieries and washeries, and the Tenughat Thermal Power Station with its two 210 MW units. Around them operate electrical and instrumentation contractors, machine shops, motor rewinding units, safety equipment dealers, transporters, canteen operators, security agencies and cleaning contractors.",
-        "A <strong>website development company in Gumia</strong> can give such a vendor a sober, factual website: services, machines and capacity, safety practice in plain words, registrations, and a named person to call. Vendor registration desks and engineers often look a supplier up before shortlisting, and a tidy site with a working enquiry form answers their first round of questions.",
+        "A <strong>website development team in Gumia</strong> can give such a vendor a sober, factual website: services, machines and capacity, safety practice in plain words, registrations, and a named person to call. Vendor registration desks and engineers often look a supplier up before shortlisting, and a tidy site with a working enquiry form answers their first round of questions.",
         "Two rules apply to every vendor site we make. No client's name or logo appears without written consent, and nothing about plant layouts, magazines or security arrangements goes online. Vendor sites begin at ₹10,000. Machine shops can add a drawing-upload form for quotations and a status page for repeat jobs.",
       ],
     },
@@ -128,10 +128,10 @@ const gumia: CityContent = {
     },
     {
       id: "retail-market-gumia",
-      heading: "IT company in Gumia for bazaar traders, dealers and wholesalers",
+      heading: "IT services team in Gumia for bazaar traders, dealers and wholesalers",
       paragraphs: [
         "Gomia bazaar supplies the township, the CCL colonies and a rural block where about a third of workers were cultivators in 2011, growing rice, maize, wheat, pulses and vegetables. Grocery wholesalers, seed and fertiliser shops, cement and hardware dealers, mobile and electronics stores, cloth shops and two-wheeler showrooms all sell to both town and village buyers.",
-        "As an <strong>IT company in Gumia</strong> without a local counter, we help traders in three steps: a complete map listing, a small website showing brands, timings and a WhatsApp number, and, for wholesalers, an order book and credit ledger showing what each retailer in Hasir, Saram or Petarwar owes.",
+        "As an <strong>IT services team in Gumia</strong> without a local counter, we help traders in three steps: a complete map listing, a small website showing brands, timings and a WhatsApp number, and, for wholesalers, an order book and credit ledger showing what each retailer in Hasir, Saram or Petarwar owes.",
         "A trader's website begins at ₹10,000 and a ledger at ₹60,000. For most shops a full Google listing with fresh photos brings more calls than paid advertising, so that is where we start.",
       ],
     },
@@ -141,7 +141,7 @@ const gumia: CityContent = {
       paragraphs: [
         "Build an app only when the same people will open it many times a week. In Gomia that means supervisors at a mine face, truck drivers photographing challans, retailers placing weekly orders with a wholesaler, parents checking school notices or patients taking clinic tokens. Occasional visitors are better served by a website.",
         "Our route to <strong>Android app development in Gumia</strong> is Flutter or React Native: one codebase for Android phones and iPhones. Version one normally has OTP login, push alerts, the handful of screens users need and a web admin panel for your office. Store listings go on Google Play and the App Store through developer accounts in your own name.",
-        "As an <strong>app development company in Gumia</strong> we quote from ₹40,000. Offline entry for pits with no signal, GPS and photo capture, online payments and links to other software are priced as separate lines. More detail sits on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "As an <strong>app development team in Gumia</strong> we quote from ₹40,000. Offline entry for pits with no signal, GPS and photo capture, online payments and links to other software are priced as separate lines. More detail sits on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If all your customers need is an address, a phone number and a rate list, we will tell you to build a website instead, for roughly a quarter of the app budget.",
       ],
     },
@@ -249,7 +249,7 @@ const gumia: CityContent = {
         "Once we have your photos, services and timings, a basic site usually goes live within one to two weeks. A large SEO site needs three to five weeks, a web store four to eight and custom software six to twelve. Delays nearly always come from waiting for content, so gathering it early helps most.",
     },
     {
-      question: "Which is the best website development company in Gumia?",
+      question: "Which is the best website development team in Gumia?",
       answer:
         "The best choice is the one that shows its prices, keeps your domain and code in your name, can point to finished work and still replies after launch. Put the same questions to two or three providers and compare the written answers side by side. We aim to pass that test, but check us against others too.",
     },

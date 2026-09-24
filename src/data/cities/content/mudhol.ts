@@ -10,12 +10,12 @@ const mudhol: CityContent = {
       "Kannada websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Mudhol cane contractors, hound breeders, weavers, clinics and shops.",
     keywords: [
       "IT services in Mudhol",
-      "IT company in Mudhol",
-      "website development company in Mudhol",
+      "IT services team in Mudhol",
+      "website development team in Mudhol",
       "web design in Mudhol",
-      "app development company in Mudhol",
+      "app development team in Mudhol",
       "Android app development in Mudhol",
-      "software company in Mudhol",
+      "software team in Mudhol",
       "SEO services in Mudhol",
       "digital marketing in Mudhol",
       "ecommerce website in Mudhol",
@@ -69,24 +69,24 @@ const mudhol: CityContent = {
       paragraphs: [
         "Mudhol is a taluk town of roughly fifty thousand people, but its market serves far more. Cane growers from the irrigated villages, lorry owners who work the crushing season, students heading to its colleges and families visiting its hospitals all pass through. Before they travel, more of them now check a phone to see what is open, what it costs and whom to call.",
         "That is where most requests for <strong>IT services in Mudhol</strong> begin. A spares dealer wants a Kannada page that shows his stock categories. A clinic wants patients to stop phoning just to ask whether the doctor is in. A transporter wants his trip slips in one place instead of three notebooks. A weaver's son wants to sell his mother's sarees to relatives in Pune.",
-        "None of this needs a big agency or a long contract. As an <strong>IT company in Mudhol</strong> in the practical sense, with no office in town but a steady WhatsApp line, we take on small, clear jobs first and grow them only if they pay back. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.",
+        "None of this needs a big agency or a long contract. As an <strong>IT services team in Mudhol</strong> in the practical sense, with no office in town but a steady WhatsApp line, we take on small, clear jobs first and grow them only if they pay back. Ankur Kumar handles full-stack development, Santosh Sharma leads AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.",
       ],
     },
     {
       id: "sugar-cane-software",
-      heading: "Software company in Mudhol for sugar factories, cane transporters and harvest gangs",
+      heading: "Software team in Mudhol for sugar factories, cane transporters and harvest gangs",
       paragraphs: [
         "Mudhol taluk has a heavy concentration of sugar factories for its size, including the farmers' cooperative mill at Hebbal and several private plants, fed by cane grown on Ghataprabha canal water. Each season, hundreds of tractors and trucks, harvesting gangs, supervisors and mechanics work to the factories' schedules, and every one of them keeps accounts.",
         "Those accounts are usually a mix of weighbridge slips, diaries and WhatsApp photos. Owners want to know, without a late-night argument, how many tonnes each vehicle delivered, what diesel and cash advances went to each driver, which farmer's field was cut on which day and what the factory still owes.",
-        "A <strong>software company in Mudhol</strong> can fix most of that with a small web tool. Each load is entered once from a phone with vehicle number, slip number, weight and rate. Totals appear by vehicle, by farmer and by factory. Permit and insurance renewals raise a reminder a fortnight ahead. Such tools start at ₹60,000 and are built over six to twelve weeks, and we suggest finishing the trip register before the crushing season opens, not in the middle of it.",
+        "A <strong>software team in Mudhol</strong> can fix most of that with a small web tool. Each load is entered once from a phone with vehicle number, slip number, weight and rate. Totals appear by vehicle, by farmer and by factory. Permit and insurance renewals raise a reminder a fortnight ahead. Such tools start at ₹60,000 and are built over six to twelve weeks, and we suggest finishing the trip register before the crushing season opens, not in the middle of it.",
       ],
     },
     {
       id: "industrial-suppliers-mudhol",
-      heading: "Website development company in Mudhol for cement, chemical and mill suppliers",
+      heading: "Website development team in Mudhol for cement, chemical and mill suppliers",
       paragraphs: [
         "Beyond sugar, the taluk has cement plants and allied chemical units, and Mudhol town has a small government industrial area with a few dozen plots. Around these sit the businesses that keep them running: fabrication and welding shops, electrical contractors, transport fleets, canteen operators, security and manpower agencies, and dealers in bearings, belts and pumps.",
-        "Large plants check vendors before they add them to an approved list, and a supplier without a proper website starts at a disadvantage. As a <strong>website development company in Mudhol</strong> we keep such sites plain and verifiable: what you make or repair, the machines you own, the certifications you actually hold, GST and registration details, the people to contact and the sites you have worked at, named only with written permission.",
+        "Large plants check vendors before they add them to an approved list, and a supplier without a proper website starts at a disadvantage. As a <strong>website development team in Mudhol</strong> we keep such sites plain and verifiable: what you make or repair, the machines you own, the certifications you actually hold, GST and registration details, the people to contact and the sites you have worked at, named only with written permission.",
         "A purchase officer should find what they need in under a minute on a desktop, so we avoid heavy animations and long introductions. Workshops that receive drawings can add an enquiry form with file upload, and fleet owners can add a page showing vehicle types and capacities. A site of this sort starts at ₹10,000 and is usually ready inside two weeks.",
       ],
     },
@@ -131,7 +131,7 @@ const mudhol: CityContent = {
       heading: "Android app development in Mudhol and iOS apps for local firms",
       paragraphs: [
         "A mobile app earns its cost only when the same people open it again and again. In Mudhol that points to a few clear cases: transport crews recording loads through the crushing season, a fertiliser dealer's network of village retailers reordering every week, parents receiving notices from a school, or a hospital handing out OPD tokens so patients stop queuing at dawn.",
-        "As an <strong>app development company in Mudhol</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first version has login by mobile number, push notifications, the three or four screens your users need most and an admin panel for your office. Offline entry is worth adding for crews working in fields with weak signal.",
+        "As an <strong>app development team in Mudhol</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first version has login by mobile number, push notifications, the three or four screens your users need most and an admin panel for your office. Offline entry is worth adding for crews working in fields with weak signal.",
         "<strong>Android app development in Mudhol</strong> with us starts at ₹40,000, and the quote lists each extra, such as payments, maps, offline sync or a link to Tally. We publish the app on Google Play and the Apple App Store using developer accounts opened in your name. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
         "If your customers only need your address, timings and a price list, a website does that at a quarter of the cost and needs no download. We will tell you so. An app that nobody opens after the first week is the most expensive mistake a small business can make online.",
       ],
@@ -240,7 +240,7 @@ const mudhol: CityContent = {
         "A simple shop or clinic site usually goes live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Most delays come from waiting for content, so sending it early is the quickest way to launch.",
     },
     {
-      question: "Which is the best IT company in Mudhol for a small business?",
+      question: "Which is the best IT services team in Mudhol for a small business?",
       answer:
         "The best choice is one that publishes its prices, registers your domain and code in your name, answers after launch and can show real work it has done. Put the same questions to each provider you consider. We meet those tests and reply on WhatsApp all week, but comparing two or three options is sensible.",
     },

@@ -9,10 +9,10 @@ const kozhikode: CityContent = {
     description:
       "Websites, online stores, Malayalam SEO and WhatsApp automation for Kozhikode traders, footwear makers, hospitals, restaurants and startups. From ₹10,000.",
     keywords: [
-      "website development company in Kozhikode",
-      "web design company Calicut",
+      "website development team in Kozhikode",
+      "web design team Calicut",
       "website designer Kozhikode",
-      "SEO company in Calicut",
+      "SEO team in Calicut",
       "local SEO Kozhikode",
       "ecommerce website Kozhikode",
       "footwear brand website",

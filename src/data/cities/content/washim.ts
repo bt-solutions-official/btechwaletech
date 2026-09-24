@@ -10,12 +10,12 @@ const washim: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Washim soybean traders, ginning units, agri dealers, clinics, schools and shops.",
     keywords: [
       "IT services in Washim",
-      "IT company in Washim",
-      "website development company in Washim",
+      "IT services team in Washim",
+      "website development team in Washim",
       "web design in Washim",
-      "app development company in Washim",
+      "app development team in Washim",
       "Android app development in Washim",
-      "software company in Washim",
+      "software team in Washim",
       "SEO services in Washim",
       "digital marketing in Washim",
       "ecommerce website in Washim",
@@ -74,20 +74,20 @@ const washim: CityContent = {
     },
     {
       id: "soybean-cotton-traders",
-      heading: "Software company in Washim for soybean, tur and cotton traders",
+      heading: "Software team in Washim for soybean, tur and cotton traders",
       paragraphs: [
         "Soybean now covers more land in Washim district than any other crop, with tur second and cotton still important. After harvest, commission agents, traders and processors handle a rush of lots within a few weeks. Each lot has a farmer, a weight, a moisture reading, a rate, deductions, a vehicle and a payment date, and a single mistake can turn into an argument that lasts all season.",
-        "As a <strong>software company in Washim</strong> in the working sense, we build small web tools for exactly this. A lot is entered once from a phone or the counter computer, a slip prints or goes to the farmer on WhatsApp, running totals show purchases by day and by village, and outstanding payments are listed by farmer and by buyer. Warehouse stock updates as lots move out, so the owner knows what is sitting where without calling the godown.",
+        "As a <strong>software team in Washim</strong> in the working sense, we build small web tools for exactly this. A lot is entered once from a phone or the counter computer, a slip prints or goes to the farmer on WhatsApp, running totals show purchases by day and by village, and outstanding payments are listed by farmer and by buyer. Warehouse stock updates as lots move out, so the owner knows what is sitting where without calling the godown.",
         "These systems start at ₹60,000 and are built in stages over six to twelve weeks. We usually start with the purchase register and the farmer ledger, because that is where time and money leak first, then add stock, buyer dispatches and reports. If your accountant uses Tally, we plan an export that matches the way your ledgers are already kept, so nobody has to type the same figures twice.",
         "Building during the slack months before harvest is sensible. Staff can learn the tool while things are quiet, and the first busy week does not become a test of new software.",
       ],
     },
     {
       id: "ginning-pressing-units",
-      heading: "Website development company in Washim for ginning, pressing and oil units",
+      heading: "Website development team in Washim for ginning, pressing and oil units",
       paragraphs: [
         "Almost every taluka in Washim district has ginning and pressing mills, and soybean has brought processors, dal mills and warehouses into the picture. These units sell to buyers far outside Vidarbha. Spinning mills, oil refiners, exporters and brokers who have never visited Washim form their first opinion of a supplier from what they find online.",
-        "A <strong>website development company in Washim</strong> should keep such a site factual and quick: what the unit processes, installed capacity if you want to share it, bale or bag specifications, quality testing, storage, GST and registration details, the months you operate, and named contacts for purchase and dispatch. Photographs of the actual plant do more than any stock image of a cotton field.",
+        "A <strong>website development team in Washim</strong> should keep such a site factual and quick: what the unit processes, installed capacity if you want to share it, bale or bag specifications, quality testing, storage, GST and registration details, the months you operate, and named contacts for purchase and dispatch. Photographs of the actual plant do more than any stock image of a cotton field.",
         "We never list a customer's name on your site without that customer's written consent. For units that receive many rate enquiries, a simple enquiry form that asks for product, quantity and delivery location saves hours on the phone. A static site of this kind starts at ₹10,000, and a bilingual version with Marathi and English pages costs a little more, shown as its own line in the quote.",
       ],
     },
@@ -102,10 +102,10 @@ const washim: CityContent = {
     },
     {
       id: "android-ios-apps-washim",
-      heading: "App development company in Washim: when an Android and iOS app makes sense",
+      heading: "App development team in Washim: when an Android and iOS app makes sense",
       paragraphs: [
         "An app earns its cost when a defined group of people opens it often. In Washim, the likely candidates are village retailers ordering from a dealer, parents of a school or coaching class who need notices, homework and fee reminders, patients who need appointment tokens from a busy hospital, and customers of a dairy or water supplier who re-order every few days.",
-        "As an <strong>app development company in Washim</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally has mobile number login with OTP, push notifications, the few screens your users truly need, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Washim</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally has mobile number login with OTP, push notifications, the few screens your users truly need, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "Apps start at ₹40,000. The quote rises with online payments, offline use for villages with weak signal, maps, Marathi and English versions of every screen, and links to billing software, and each of those is listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings, phone number and a rate list, a website does that job for a quarter of the money and needs nothing installed. In that case we recommend the website, because an app that people delete after one week helps nobody.",
       ],
@@ -166,9 +166,9 @@ const washim: CityContent = {
     },
     {
       id: "remote-team-washim",
-      heading: "IT company in Washim without an office: how our remote team works",
+      heading: "IT services team in Washim without an office: how our remote team works",
       paragraphs: [
-        "People searching for an <strong>IT company in Washim</strong> often expect to visit an office. We are a remote group of three engineers, so we replace the visit with paperwork you can keep. A first call covers your business, your customers and what the site, app or tool needs to do. You then receive a written page or screen plan, a timeline and an itemised quote.",
+        "People searching for an <strong>IT services team in Washim</strong> often expect to visit an office. We are a remote group of three engineers, so we replace the visit with paperwork you can keep. A first call covers your business, your customers and what the site, app or tool needs to do. You then receive a written page or screen plan, a timeline and an itemised quote.",
         "Once you approve, we share live preview links that you can open on your own phone, show to your partners, and comment on directly. Marathi text is sent to you for checking before anything goes live, and nothing is published without your approval. We reply on WhatsApp seven days a week on Indian Standard Time, and if a delay comes up we tell you as soon as we know, not on the delivery date.",
         "Payments are linked to visible progress, and nothing is billed before you approve the quote in writing. For a business trying a website or an app for the first time, that keeps the risk small. If you want to start with a single step, such as fixing your Google Maps listing, you can.",
       ],
@@ -224,7 +224,7 @@ const washim: CityContent = {
         "Plan on a week or two for a simple shop site after your photos and wording arrive. Larger SEO sites of 700+ pages need three to five weeks, stores need four to eight, and custom software six to twelve. What slows most Washim projects is waiting for content and sign-offs, not the build itself.",
     },
     {
-      question: "Which is the best website development company in Washim?",
+      question: "Which is the best website development team in Washim?",
       answer:
         "Judge any provider on the same points: published prices, domain and code registered in your name, real past work, clear timelines and support after launch. We meet those tests and reply on WhatsApp seven days a week, but it is sensible to compare two or three options before you decide.",
     },

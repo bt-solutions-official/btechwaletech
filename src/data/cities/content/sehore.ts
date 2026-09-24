@@ -10,12 +10,12 @@ const sehore: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sehore's wheat traders, Kubereshwar Dham hotels, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Sehore",
-      "IT company in Sehore",
-      "website development company in Sehore",
+      "IT services team in Sehore",
+      "website development team in Sehore",
       "web design in Sehore",
-      "app development company in Sehore",
+      "app development team in Sehore",
       "Android app development in Sehore",
-      "software company in Sehore",
+      "software team in Sehore",
       "SEO services in Sehore",
       "digital marketing in Sehore",
       "ecommerce website in Sehore",
@@ -69,7 +69,7 @@ const sehore: CityContent = {
       paragraphs: [
         "Sehore sits on the Bhopal–Indore road, roughly 37 km west of the state capital, on the northern edge of the Vindhya range where the Malwa plateau begins. It was a British political agency and cantonment in the nineteenth century, and its old high school, founded in 1835, is one of the oldest in the region. Today the town is the headquarters of a large district that stretches south to the Narmada at Budhni and Rehti.",
         "Three economies run side by side. The first is agriculture: Sehore's black soil grows wheat, especially the Sharbati variety that fetches a premium in city markets, along with soybean and gram, and all of it flows through the Krishi Upaj Mandi and the traders, commission agents, flour mills and transporters around it. The second is pilgrimage. Kubereshwar Dham, on the Indore road just outside town, now draws very large crowds for kathas and festivals, and the old Chintaman Ganesh temple has long drawn devotees on its own. The third is the pull of Bhopal: many families commute, students attend colleges on both sides, and Bhopal buyers shop in Sehore and the reverse.",
-        "For anyone looking for an <strong>IT company in Sehore</strong>, that mix matters more than any template. A grain trader needs records and buyer trust. A lodge near the Dham needs bookings on crowded weekends. A coaching class competes with Bhopal institutes that spend heavily online. We plan each project around which of these customers you actually serve, and we build only what earns its cost.",
+        "For anyone looking for an <strong>IT services team in Sehore</strong>, that mix matters more than any template. A grain trader needs records and buyer trust. A lodge near the Dham needs bookings on crowded weekends. A coaching class competes with Bhopal institutes that spend heavily online. We plan each project around which of these customers you actually serve, and we build only what earns its cost.",
       ],
     },
     {
@@ -89,10 +89,10 @@ const sehore: CityContent = {
     },
     {
       id: "grain-traders-sehore",
-      heading: "Software company in Sehore for mandi traders, commission agents and flour mills",
+      heading: "Software team in Sehore for mandi traders, commission agents and flour mills",
       paragraphs: [
         "At harvest, trolleys of wheat, soybean and gram queue at the Sehore mandi, and the traders, arhtiyas and mills around it handle hundreds of small transactions a day. Rates move, farmers are paid in parts, lots are graded, stored and resold to mills in Bhopal, Indore and beyond. Most of this still sits in bahi-khatas, Excel files and WhatsApp photos.",
-        "In our work as a <strong>software company in Sehore</strong>, we build simple web tools around that routine. Each purchase is logged with the farmer's name, village, weight, moisture or grade and rate. Lots are tracked through the godown to the buyer, and payments on both sides are recorded against them. The owner sees arrivals, stock, dues and dispatch on a phone dashboard, and statements go to farmers or buyers on WhatsApp. We begin with purchase and payment, because that is where errors cost the most, and add stock and dispatch later. Custom software starts from ₹60,000.",
+        "In our work as a <strong>software team in Sehore</strong>, we build simple web tools around that routine. Each purchase is logged with the farmer's name, village, weight, moisture or grade and rate. Lots are tracked through the godown to the buyer, and payments on both sides are recorded against them. The owner sees arrivals, stock, dues and dispatch on a phone dashboard, and statements go to farmers or buyers on WhatsApp. We begin with purchase and payment, because that is where errors cost the most, and add stock and dispatch later. Custom software starts from ₹60,000.",
         "Traders selling Sharbati wheat or atta to buyers in other states also need a public face. A trade website listing the varieties you handle, cleaning and grading, packing options, storage, licences and dispatch arrangements, with a named contact and a quote form, reads as far more trustworthy than a directory listing. We keep daily rates off the page and route rate questions to WhatsApp, where you control the answer. If you sell packaged atta to households, a small UPI store can follow once the trade site is working.",
       ],
     },
@@ -134,10 +134,10 @@ const sehore: CityContent = {
     },
     {
       id: "district-towns-sehore",
-      heading: "Website development company in Sehore district: Ashta, Budhni, Ichhawar and Rehti",
+      heading: "Website development team in Sehore district: Ashta, Budhni, Ichhawar and Rehti",
       paragraphs: [
         "A good share of our Sehore district work comes from the tehsil towns. Ashta, on the Indore highway, is a trading town with its own mandi and shops. Budhni, on the Narmada, has an industrial area and is known for its traditional wooden toys. Rehti and Bhairunda (Nasrullaganj) serve the river belt, Ichhawar and Shyampur the interior villages, and Salkanpur's hilltop Devi temple brings pilgrims to the south of the district.",
-        "As a remote <strong>website development company in Sehore</strong> district, we treat a client in Budhni exactly as we treat one in Sehore town: same starting prices, same process, same people. A toy maker in Budhni may want a product catalogue in English for buyers in other states, a Salkanpur lodge may need a booking page, and an Ashta trader may need the same purchase software as a Sehore arhtiya.",
+        "As a remote <strong>website development team in Sehore</strong> district, we treat a client in Budhni exactly as we treat one in Sehore town: same starting prices, same process, same people. A toy maker in Budhni may want a product catalogue in English for buyers in other states, a Salkanpur lodge may need a booking page, and an Ashta trader may need the same purchase software as a Sehore arhtiya.",
         "The industrial area at Badiyakhedi near Sehore and the one at Budhni host small manufacturers and processors whose buyers are in Bhopal, Indore and further away. For them a clear capability page, with products, capacity, certifications they actually hold, photographs of the real unit and a named contact, is often worth more than advertising. We write it so that a purchase manager can find it and understand it in a minute.",
       ],
     },
@@ -147,7 +147,7 @@ const sehore: CityContent = {
       paragraphs: [
         "Several Sehore owners ask for an app because a competitor in Bhopal has one. That alone is not a good reason. An app makes sense when the same people come back often: dealers who reorder every week, students and parents who check notices daily, a hospital's regular patients, or pilgrims and tourists who book again. For one-time visitors, a fast website is enough and costs far less.",
         "Our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> uses Flutter or React Native, so one codebase runs on both platforms. Typical apps for Sehore businesses include dealer ordering with price lists and order history for grain, fertiliser or FMCG distributors, class apps with notices, attendance and test results, lodge apps with room booking and UPI advances, and field apps for staff collecting orders in villages. Features such as OTP login, push notifications and an admin panel to manage content are standard.",
-        "Apps start from ₹40,000. We publish them on Google Play and the Apple App Store under your own developer accounts, so the listings, reviews and users belong to you. As an <strong>app development company in Sehore</strong> clients can reach directly, we will also tell you honestly when a website with a WhatsApp button would do the job better, and in many first projects it does.",
+        "Apps start from ₹40,000. We publish them on Google Play and the Apple App Store under your own developer accounts, so the listings, reviews and users belong to you. As an <strong>app development team in Sehore</strong> clients can reach directly, we will also tell you honestly when a website with a WhatsApp button would do the job better, and in many first projects it does.",
       ],
       list: [
         "Dealer and distributor ordering apps",
@@ -235,7 +235,7 @@ const sehore: CityContent = {
         "Sehore me simple website ₹10,000 se shuru hoti hai, 700 se zyada pages wali SEO website ₹20,000 se, aur Android aur iOS app ₹40,000 se shuru hota hai. Kaam shuru karne se pehle hum har cheez ka likhit quote bhejte hain. Aapki manzoori ke baad hi bill banta hai, aur domain aapke naam par rehta hai.",
     },
     {
-      question: "Which is the best IT company in Sehore for a website or app?",
+      question: "Which is the best IT services team in Sehore for a website or app?",
       answer:
         "The best choice is the one that shows starting prices openly, gives an itemised written quote, registers the domain and app accounts in your name and hands over the code. Ask any provider for past work you can open on your phone. We meet all of these, but compare several quotes before deciding.",
     },

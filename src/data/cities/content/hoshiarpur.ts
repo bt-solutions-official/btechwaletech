@@ -9,7 +9,7 @@ const hoshiarpur: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Hoshiarpur wood inlay makers, NRI-facing firms, clinics and dealers. Sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Hoshiarpur",
+      "website development team in Hoshiarpur",
       "web designer Hoshiarpur",
       "website design Hoshiarpur cost",
       "SEO services Hoshiarpur",

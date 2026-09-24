@@ -10,12 +10,12 @@ const rajgarhChuru: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Rajgarh (Sadulpur) mandi traders, sweet shops, colleges, clinics and transporters.",
     keywords: [
       "IT services in Rajgarh Churu",
-      "IT company in Rajgarh Sadulpur",
-      "website development company in Rajgarh",
+      "IT services team in Rajgarh Sadulpur",
+      "website development team in Rajgarh",
       "web design in Rajgarh Churu",
-      "app development company in Rajgarh",
+      "app development team in Rajgarh",
       "Android app development in Rajgarh Sadulpur",
-      "software company in Rajgarh Churu",
+      "software team in Rajgarh Churu",
       "SEO services in Rajgarh",
       "digital marketing in Rajgarh Sadulpur",
       "ecommerce website in Rajgarh",
@@ -74,10 +74,10 @@ const rajgarhChuru: CityContent = {
     },
     {
       id: "anaj-mandi-software",
-      heading: "Software company in Rajgarh for anaj mandi commission agents and traders",
+      heading: "Software team in Rajgarh for anaj mandi commission agents and traders",
       paragraphs: [
         "The Sadulpur anaj mandi handles the crops of a dry, largely rain-fed region: guar, bajra, moong, moth, gram, mustard and taramira. Commission agents buy from farmers, sell to traders and processors, advance money during the season and settle later. Each transaction involves weights, moisture, rate, mandi charges, commission, labour and transport, and the records usually sit in bahi-khata registers and phone chats.",
-        "As a <strong>software company in Rajgarh</strong> that builds for the mandi floor rather than a boardroom, we make web tools your munim can run on a laptop and you can check on a phone. Each arrival is entered once with farmer, crop, bags, weight and rate. Sales record the buyer and deductions. The system works out commission, charges and balances, and a clear Hindi statement can be sent to the farmer or buyer on WhatsApp. At any moment you can see arrivals by crop and who owes what.",
+        "As a <strong>software team in Rajgarh</strong> that builds for the mandi floor rather than a boardroom, we make web tools your munim can run on a laptop and you can check on a phone. Each arrival is entered once with farmer, crop, bags, weight and rate. Sales record the buyer and deductions. The system works out commission, charges and balances, and a clear Hindi statement can be sent to the farmer or buyer on WhatsApp. At any moment you can see arrivals by crop and who owes what.",
         "Custom tools like this start at ₹60,000 and are rolled out in parts over six to twelve weeks. We build the arrivals and dues register first and add stock, godown and transport records only once the first part is in daily use. If an off-the-shelf mandi package already suits you, we will say so rather than build a copy.",
       ],
       list: [
@@ -98,10 +98,10 @@ const rajgarhChuru: CityContent = {
     },
     {
       id: "colleges-coaching-rajgarh",
-      heading: "Website development company in Rajgarh for colleges, schools and coaching",
+      heading: "Website development team in Rajgarh for colleges, schools and coaching",
       paragraphs: [
         "Rajgarh has a strong education base for its size. Mohta PG College on Pilani Road is affiliated to the university in Bikaner, and the town also has a girls' college, a government college, several senior secondary schools including Mohta Public School, and coaching centres preparing students for competitive, defence and government job exams. Literacy here is above the Rajasthan average, and families compare institutions carefully.",
-        "A <strong>website development company in Rajgarh</strong> should help an institution answer the questions that come up every admission season: courses and subjects, fee structure or ranges, hostel and transport, faculty, results shared with consent, important dates and a contact that responds. Pages in Hindi and English serve both parents and students.",
+        "A <strong>website development team in Rajgarh</strong> should help an institution answer the questions that come up every admission season: courses and subjects, fee structure or ranges, hostel and transport, faculty, results shared with consent, important dates and a contact that responds. Pages in Hindi and English serve both parents and students.",
         "Online admission forms with document upload cut the rush at the office. A mobile app for notices, attendance and fee reminders can come later. A static site starts at ₹10,000, while a large site with a page for every course, exam and nearby village starts at ₹20,000.",
       ],
     },
@@ -110,7 +110,7 @@ const rajgarhChuru: CityContent = {
       heading: "Android app development in Rajgarh, with iPhone versions from one codebase",
       paragraphs: [
         "An app pays off when a known set of people open it regularly. Around Rajgarh, good examples are farmers and buyers checking lot status and payments with a commission agent, students of a coaching centre taking daily tests, parents receiving notices and fee alerts from a school, patients booking slots at a hospital, or regular customers reordering sweets for every festival.",
-        "Working as an <strong>app development company in Rajgarh</strong> from a distance, we build with Flutter or React Native so Android and iPhone share one set of code. Most first releases include OTP login, push notifications, Hindi and English screens, the handful of features your users need most, and a web admin panel for your staff. We publish the app on Google Play and the Apple App Store through developer accounts owned by you.",
+        "Working as an <strong>app development team in Rajgarh</strong> from a distance, we build with Flutter or React Native so Android and iPhone share one set of code. Most first releases include OTP login, push notifications, Hindi and English screens, the handful of features your users need most, and a web admin panel for your staff. We publish the app on Google Play and the Apple App Store through developer accounts owned by you.",
         "<strong>Android app development in Rajgarh</strong> starts at ₹40,000. In-app payment, offline mode, recorded lessons or a link with your billing software each appear as a separately priced line, so you choose what is worth it. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the work runs.",
         "For many Rajgarh businesses a website is still the better first step. If people only need your location, rates and phone number, a site and a good Google listing cost much less and need no download, and we will tell you that before suggesting an app.",
       ],

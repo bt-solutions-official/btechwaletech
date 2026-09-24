@@ -10,11 +10,11 @@ const content: CityContent = {
       "Freelance IT team for Tripura: custom software, websites, apps, AI automation and SEO from Agartala to Belonia. Sites from ₹10,000, quotes in two days.",
     keywords: [
       "IT services in Tripura",
-      "software development company in Tripura",
-      "IT company in Tripura",
+      "software development team in Tripura",
+      "IT services team in Tripura",
       "IT solutions Tripura",
       "website development Tripura",
-      "web design company Tripura",
+      "web design team Tripura",
       "custom software development Tripura",
       "AI automation Tripura",
       "WhatsApp automation for business Tripura",
@@ -23,8 +23,8 @@ const content: CityContent = {
       "ecommerce website Tripura",
       "rubber trader software Tripura",
       "tourism website Tripura",
-      "IT company near me Agartala",
-      "software company near me Udaipur Tripura",
+      "IT services team near me Agartala",
+      "software team near me Udaipur Tripura",
       "website maintenance Tripura",
       "ত্রিপুরায় সফটওয়্যার কোম্পানি",
       "ত্রিপুরায় ওয়েবসাইট তৈরি",
@@ -91,7 +91,7 @@ const content: CityContent = {
       id: "custom-software-tripura",
       heading: "Custom software development in Tripura: what to build first",
       paragraphs: [
-        "BtechWaleTech, a freelance group of three engineers, does the work Tripura clients might otherwise hire a software development company for: custom software here usually means a web-based system built around one specific workflow: dealer billing, stock across two godowns, student fees, patient appointments or contractor bills. We start at ₹60,000 for such projects, with most taking six to twelve weeks depending on the number of roles, reports and integrations involved.",
+        "BtechWaleTech, a freelance group of three engineers, does the work Tripura clients might otherwise hire a software development team for: custom software here usually means a web-based system built around one specific workflow: dealer billing, stock across two godowns, student fees, patient appointments or contractor bills. We start at ₹60,000 for such projects, with most taking six to twelve weeks depending on the number of roles, reports and integrations involved.",
         "A typical first build replaces a register and a WhatsApp group. For a rubber dealer, that might be a purchase entry screen recording grower name, sheet grade, weight and rate, followed by a daily ledger and payment status. For a coaching institute in Agartala, it could be batches, attendance, fee receipts and parent messages. Each screen is designed for staff who are comfortable with a phone but may not enjoy complicated forms.",
         "We build these as secure web applications, so they work on laptops at the counter and on phones in the field without installing anything. Data sits on cloud hosting you control, with daily backups, and every user has a login with the right permissions. When the system is ready, you receive the source code, the hosting account and written notes on how everything fits together, so you never depend on us alone.",
         "If you are unsure whether you need custom software or an off-the-shelf tool, tell us that too. Sometimes a well-configured existing product is the cheaper answer, and we will say so before quoting.",
@@ -220,7 +220,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner-tripura",
-      heading: "How to choose an IT company in Tripura: a practical checklist",
+      heading: "How to choose an IT services team in Tripura: a practical checklist",
       paragraphs: [
         "Choose an IT partner in Tripura by checking three things: who will actually build your project, whether you will own the code and accounts, and what happens after launch. Many disappointments come from a website registered in the developer's name or a freelancer who disappears after the final payment.",
         "Ask to see live work, not only screenshots, and open those sites on your own phone. Ask who registers the domain and hosting, and insist it is in your name. Ask for an itemised quote and what is excluded. Ask how quickly they reply and on which channel. A local firm with an office in Agartala is convenient for meetings, but the questions above matter more than a shared postcode.",
@@ -337,9 +337,9 @@ const content: CityContent = {
         "Yes. We guide you through setting up and completing your Google Business Profile, keep your name, address and phone consistent across listings, and add structured data to your website. We also write clear answer-style content about your services and prices, which helps Google's AI Overviews and AI assistants describe your business accurately. Reviews must come from genuine customers; we never create fake ones.",
     },
     {
-      question: "Which is the best IT company in Tripura?",
+      question: "Which is the best IT services team in Tripura?",
       answer:
-        "There is no single best IT company in Tripura; the right choice depends on your project. Check live work on your own phone, confirm the domain and code will be in your name, and ask for an itemised quote. BtechWaleTech is a freelance group of three remote engineers with starting prices from ₹10,000 for websites and ₹60,000 for custom software, and five months of free maintenance after launch.",
+        "There is no single best IT services team in Tripura; the right choice depends on your project. Check live work on your own phone, confirm the domain and code will be in your name, and ask for an itemised quote. BtechWaleTech is a freelance group of three remote engineers with starting prices from ₹10,000 for websites and ₹60,000 for custom software, and five months of free maintenance after launch.",
     },
     {
       question: "How quickly will you reply to my enquiry?",

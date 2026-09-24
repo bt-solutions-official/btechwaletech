@@ -10,12 +10,12 @@ const sikandrabad: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Sikandrabad's UPSIDC factories, GT Road traders, dairies, cold stores, schools and clinics.",
     keywords: [
       "IT services in Sikandrabad",
-      "IT company in Sikandrabad",
-      "website development company in Sikandrabad",
+      "IT services team in Sikandrabad",
+      "website development team in Sikandrabad",
       "web design in Sikandrabad",
-      "app development company in Sikandrabad",
+      "app development team in Sikandrabad",
       "Android app development in Sikandrabad",
-      "software company in Sikandrabad",
+      "software team in Sikandrabad",
       "SEO services in Sikandrabad",
       "digital marketing in Sikandrabad",
       "ecommerce website in Sikandrabad",
@@ -76,21 +76,21 @@ const sikandrabad: CityContent = {
     },
     {
       id: "upsidc-factory-websites",
-      heading: "Website development company in Sikandrabad for UPSIDC manufacturers",
+      heading: "Website development team in Sikandrabad for UPSIDC manufacturers",
       paragraphs: [
         "The UPSIDC industrial area at Sikandrabad lines both sides of the GT Road near the Luharli toll plaza. It holds plants making ceramic tiles, steel tubes, pipes and paints, along with the fabrication shops, packaging suppliers, transporters and labour contractors that keep them running.",
-        "Buyers from across north India now screen suppliers online before they send an enquiry. A factory without a credible site loses those enquiries quietly. As a <strong>website development company in Sikandrabad</strong> in practice, we build industrial sites that answer a purchase team's questions: product range with sizes, grades and standards, installed capacity stated only as you confirm it, certifications, plant photographs, dispatch area, GST details and named contacts.",
+        "Buyers from across north India now screen suppliers online before they send an enquiry. A factory without a credible site loses those enquiries quietly. As a <strong>website development team in Sikandrabad</strong> in practice, we build industrial sites that answer a purchase team's questions: product range with sizes, grades and standards, installed capacity stated only as you confirm it, certifications, plant photographs, dispatch area, GST details and named contacts.",
         "For units that supply to larger plants or export houses, we add downloadable technical sheets, a request-for-quote form that accepts drawings, and separate pages for each product family so that each one can be found through search. The site should open quickly on an office desktop and on a salesman's phone at a dealer counter.",
         "We never list a customer's name or logo on your site unless that customer has agreed in writing. Credibility built on a false claim does more harm than having no client list at all.",
       ],
     },
     {
       id: "dairy-cold-storage-software",
-      heading: "Software company in Sikandrabad for dairies, milk routes and cold storages",
+      heading: "Software team in Sikandrabad for dairies, milk routes and cold storages",
       paragraphs: [
         "Milk and cold storage are old strengths of the Sikandrabad area. Collection centres buy milk from village producers twice a day, while cold stores hold potato and other produce through the summer for farmers and traders from across Bulandshahr district.",
         "Both businesses run on registers that are hard to check. A dairy has to record each farmer's quantity, fat and SNF readings and rate, then pay correctly every ten or fifteen days. A cold store has to know which lot sits in which chamber, how many bags each farmer has taken out, and what rent is still due.",
-        "Working as a <strong>software company in Sikandrabad</strong> for such owners, we build web tools that replace the register without changing the routine. Collection entries go in from a phone or a counter computer; payment sheets and SMS or WhatsApp slips are generated automatically; cold-store stock is tracked by lot, chamber and owner, with rent calculated from dates.",
+        "Working as a <strong>software team in Sikandrabad</strong> for such owners, we build web tools that replace the register without changing the routine. Collection entries go in from a phone or a counter computer; payment sheets and SMS or WhatsApp slips are generated automatically; cold-store stock is tracked by lot, chamber and owner, with rent calculated from dates.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We usually begin with the one screen that removes the most arguments, whether that is the farmer payment sheet or the lot register, and add the rest after it has been used for a season.",
       ],
     },
@@ -119,7 +119,7 @@ const sikandrabad: CityContent = {
       heading: "Android app development in Sikandrabad, and iOS apps for local firms",
       paragraphs: [
         "An app pays back when the same people open it again and again. Around Sikandrabad, good cases include milk collection staff recording quantities on village routes, dealers and retailers re-ordering stock from a manufacturer or distributor, schools and coaching centres sending homework, fee reminders and bus timings to parents, and transporters tracking trips and diesel advances.",
-        "As an <strong>app development company in Sikandrabad</strong> working remotely, we use Flutter or React Native so one codebase serves both Android phones and iPhones. A first release usually has mobile OTP login, push notifications, the three or four screens your users need most, and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Sikandrabad</strong> working remotely, we use Flutter or React Native so one codebase serves both Android phones and iPhones. A first release usually has mobile OTP login, push notifications, the three or four screens your users need most, and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Sikandrabad</strong> with us starts at ₹40,000. The quote rises with online payment, offline entry for routes with weak signal, GPS tracking, printing slips from the phone or links to your accounting software, and each of those appears as its own line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, product list and phone number, a website does that for a fraction of the cost and needs no download. We recommend the website in that case, because a shop app that nobody opens after the first month is money lost.",
       ],
@@ -166,9 +166,9 @@ const sikandrabad: CityContent = {
     },
     {
       id: "remote-team-sikandrabad",
-      heading: "IT company in Sikandrabad terms, without the office: how we work remotely",
+      heading: "IT services team in Sikandrabad terms, without the office: how we work remotely",
       paragraphs: [
-        "People searching for an <strong>IT company in Sikandrabad</strong> often assume they need someone they can visit. What they actually need is someone who answers, keeps promises and puts things in writing. We are a remote team, and we make up for the missing office with process.",
+        "People searching for an <strong>IT services team in Sikandrabad</strong> often assume they need someone they can visit. What they actually need is someone who answers, keeps promises and puts things in writing. We are a remote team, and we make up for the missing office with process.",
         "The first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After you approve, we share preview links that you can open on your phone and show to partners. Changes are listed, confirmed and made in rounds, so nothing gets lost in a long chat.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. If a delay comes up, we tell you when we know, not on the delivery date. Payments are staged against visible progress, and nothing is billed before your written approval of the quote.",
         "When you want to start, send a message through our <a href=\"/contact/\">contact page</a> or WhatsApp with a few lines about your business and what you want the site or app to do.",
@@ -234,7 +234,7 @@ const sikandrabad: CityContent = {
         "A static site usually takes one to two weeks once we have your product details and photographs. A 700+ page SEO site takes three to five weeks and an online store four to eight. Most delays come from waiting on content, so sending specifications and plant photos early speeds things up considerably.",
     },
     {
-      question: "Which is the best website development company in Sikandrabad?",
+      question: "Which is the best website development team in Sikandrabad?",
       answer:
         "The best choice is a provider that publishes prices, registers the domain and code in your name, can show finished work and still answers after launch. Ask each option the same questions and compare in writing. We meet those tests and reply seven days a week, but comparing two or three is wise.",
     },

@@ -10,12 +10,12 @@ const malout: CityContent = {
       "Punjabi-English websites, Android and iOS apps, local SEO and WhatsApp automation for Malout cotton traders, ginning units, machinery dealers, arhtiyas and shops.",
     keywords: [
       "IT services in Malout",
-      "IT company in Malout",
-      "website development company in Malout",
+      "IT services team in Malout",
+      "website development team in Malout",
       "web design in Malout",
-      "app development company in Malout",
+      "app development team in Malout",
       "Android app development in Malout",
-      "software company in Malout",
+      "software team in Malout",
       "SEO services in Malout",
       "digital marketing in Malout",
       "ecommerce website in Malout",
@@ -75,20 +75,20 @@ const malout: CityContent = {
     },
     {
       id: "cotton-ginning-websites",
-      heading: "Website development company in Malout for cotton ginning and pressing units",
+      heading: "Website development team in Malout for cotton ginning and pressing units",
       paragraphs: [
         "Ginning and pressing is the industry Malout is known for. Units buy kapas from the mandi, separate lint from seed, press the lint into bales and sell both bales and cottonseed onward to spinning mills, oil mills and brokers in other states. Buyers who have never visited Malout still check a unit before placing an order, and many find nothing beyond a phone number.",
-        "As a <strong>website development company in Malout</strong>, we build factual sites for these units: the capacity of the gins and press, the kinds of cotton handled, bale specifications, quality and moisture checks, storage, loading, GST and registration details, and named contacts for purchase and dispatch. The site should load quickly for a mill buyer in Gujarat or Tamil Nadu and read cleanly in English, with Punjabi or Hindi pages for local farmers and commission agents.",
+        "As a <strong>website development team in Malout</strong>, we build factual sites for these units: the capacity of the gins and press, the kinds of cotton handled, bale specifications, quality and moisture checks, storage, loading, GST and registration details, and named contacts for purchase and dispatch. The site should load quickly for a mill buyer in Gujarat or Tamil Nadu and read cleanly in English, with Punjabi or Hindi pages for local farmers and commission agents.",
         "We do not invent certifications or list customers without their written consent. Where a unit wants more than a brochure, we add a lot enquiry form, a season price bulletin that staff can update from a phone, or a private login where regular buyers see dispatch status and invoices.",
         "A static site of this kind starts at ₹10,000. If you want a full enquiry and dispatch system later, it can be added on the same domain without rebuilding the site you already paid for.",
       ],
     },
     {
       id: "arhtiya-mandi-software",
-      heading: "Software company in Malout for arhtiyas, grain traders and mandi accounts",
+      heading: "Software team in Malout for arhtiyas, grain traders and mandi accounts",
       paragraphs: [
         "The commission agent's shop is the centre of mandi life in Malout. An arhtiya keeps accounts for dozens or hundreds of farmers, handles advances, weighs and sells their crop, deducts charges and pays out when the buyer settles. Much of this still lives in registers and loose slips, and a single missing entry can sour a relationship built over decades.",
-        "Working as a <strong>software company in Malout</strong>, we build small web tools that follow the way an arhtiya already works. Each lot is entered once with farmer name, village, crop, weight, rate and buyer. Advances, interest, labour and market charges sit against the same account, and the farmer can receive a clear statement on WhatsApp instead of waiting at the counter. Partners see running balances and pending payments by buyer from their phones.",
+        "Working as a <strong>software team in Malout</strong>, we build small web tools that follow the way an arhtiya already works. Each lot is entered once with farmer name, village, crop, weight, rate and buyer. Advances, interest, labour and market charges sit against the same account, and the farmer can receive a clear statement on WhatsApp instead of waiting at the counter. Partners see running balances and pending payments by buyer from their phones.",
         "We keep these tools simple on purpose. Large screens full of options go unused; a clean entry form and three reports that match your register get used every day. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, so the lot and payment register can be running before the cotton season starts, with extra reports added once your staff are comfortable.",
         "If you already use Tally or Busy for your books, we can export entries in a format your accountant can import, so nobody has to type the same figures twice.",
       ],
@@ -108,7 +108,7 @@ const malout: CityContent = {
       heading: "Android app development in Malout, with iOS apps for the same users",
       paragraphs: [
         "An app makes sense when the same people come back to it every week. In Malout, that might be farmers who buy seed, pesticide and spares from one dealer through the season, an arhtiya's farmers checking their account, a machinery dealer's service customers booking a mechanic, a school sending homework and fee notices to parents, or a hospital giving out OPD tokens.",
-        "As an <strong>app development company in Malout</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally covers mobile number login, push notifications, the core screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, not ours.",
+        "As an <strong>app development team in Malout</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally covers mobile number login, push notifications, the core screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, not ours.",
         "<strong>Android app development in Malout</strong> with us starts at ₹40,000. Payments, Punjabi and Hindi screens, offline entry for fields with weak signal, maps and links to your billing software each add cost, and the quote shows them one by one. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "Be honest with yourself about usage. If customers only want your address, phone number, stock list and a WhatsApp link, a website does the job for a fraction of the price, and we will recommend the website.",
       ],
@@ -165,9 +165,9 @@ const malout: CityContent = {
     },
     {
       id: "remote-team-malout",
-      heading: "IT company in Malout without an office: how our remote process works",
+      heading: "IT services team in Malout without an office: how our remote process works",
       paragraphs: [
-        "People reasonably ask how an <strong>IT company in Malout</strong> can work without a local office. Our answer is paperwork and visibility. After a first call about your business and customers, you get a written page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links that update as the work moves, so you always see the real state of the project.",
+        "People reasonably ask how an <strong>IT services team in Malout</strong> can work without a local office. Our answer is paperwork and visibility. After a first call about your business and customers, you get a written page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links that update as the work moves, so you always see the real state of the project.",
         "We answer WhatsApp every day, weekends included, on Indian Standard Time. Punjabi and Hindi text is sent to you for checking before it goes live, and no page is published without your approval. If something slips, we tell you when we find out rather than on the promised date.",
         "Payments are staged against progress you can see, and nothing is charged before your written approval. For a business trying a website or app for the first time, that keeps the risk small. You can start a conversation any time through our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -232,7 +232,7 @@ const malout: CityContent = {
         "A static website usually goes live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready speeds things up more than anything else.",
     },
     {
-      question: "Which is the best website development company in Malout?",
+      question: "Which is the best website development team in Malout?",
       answer:
         "Choose a provider that publishes prices, puts the domain and code in your name, stays reachable after launch and can show live work. Ask every option the same questions. We meet those tests and answer WhatsApp seven days a week, but comparing two or three providers before deciding is sensible.",
     },

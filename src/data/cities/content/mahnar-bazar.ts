@@ -10,12 +10,12 @@ const mahnarBazar: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Mahnar Bazar wholesalers, clinics, coaching centres and produce traders.",
     keywords: [
       "IT services in Mahnar Bazar",
-      "IT company in Mahnar Bazar",
-      "website development company in Mahnar Bazar",
+      "IT services team in Mahnar Bazar",
+      "website development team in Mahnar Bazar",
       "web design in Mahnar Bazar",
-      "app development company in Mahnar Bazar",
+      "app development team in Mahnar Bazar",
       "Android app development in Mahnar Bazar",
-      "software company in Mahnar Bazar",
+      "software team in Mahnar Bazar",
       "SEO services in Mahnar Bazar",
       "digital marketing in Mahnar Bazar",
       "ecommerce website in Mahnar Bazar",
@@ -74,19 +74,19 @@ const mahnarBazar: CityContent = {
     },
     {
       id: "wholesale-kirana-suppliers",
-      heading: "Website development company in Mahnar Bazar for wholesalers and village suppliers",
+      heading: "Website development team in Mahnar Bazar for wholesalers and village suppliers",
       paragraphs: [
         "Many of the traders who contact us from market towns like Mahnar sell on to smaller shops: grocery and household goods, cement and steel, fertiliser, electrical items and mobile accessories supplied to kirana stores in the surrounding panchayats. Those retailers phone in orders, ask for the day's rate and settle dues on credit. The owner keeps it all in his memory, a diary and a long trail of WhatsApp chats.",
-        "As a <strong>website development company in Mahnar Bazar</strong>, we usually suggest starting smaller than people expect. A clean Hindi site with product categories, brands stocked, delivery days by village route, GST details and a WhatsApp order button already makes you easier to deal with than the shop next door. That is a static build, from ₹10,000, and it can be live in about a week once your details arrive.",
+        "As a <strong>website development team in Mahnar Bazar</strong>, we usually suggest starting smaller than people expect. A clean Hindi site with product categories, brands stocked, delivery days by village route, GST details and a WhatsApp order button already makes you easier to deal with than the shop next door. That is a static build, from ₹10,000, and it can be live in about a week once your details arrive.",
         "When the basics are working, a retailer ordering portal can follow. Each village shop logs in with its mobile number, sees current rates, places an order and checks its outstanding balance. Your staff see orders grouped by route, so the delivery vehicle leaves loaded in the right sequence. A portal of this kind is a custom web app starting at ₹60,000, built over six to twelve weeks, and it can export entries for the accounting software you already use.",
       ],
     },
     {
       id: "banana-litchi-vegetable-trade",
-      heading: "Software company in Mahnar Bazar for banana, litchi and vegetable traders",
+      heading: "Software team in Mahnar Bazar for banana, litchi and vegetable traders",
       paragraphs: [
         "Vaishali district is known for bananas, litchi, mangoes and vegetables grown on the Ganga plains. Hajipur's banana orchards are the best known, but growers and commission agents across the district move produce towards Patna, Muzaffarpur and further every season. Litchi is the hardest of all to handle: the selling window lasts a few weeks and the fruit spoils within days of picking.",
-        "The paperwork behind this trade is usually scattered. How many bunches or crates left on which vehicle, the rate agreed with each buyer, advances paid to growers, commission earned and money still owed all sit in different notebooks. A <strong>software company in Mahnar Bazar</strong> should keep the fix simple. We build a phone-friendly register where each dispatch is entered once, and totals update by grower, buyer and vehicle, with pending payments visible at a glance.",
+        "The paperwork behind this trade is usually scattered. How many bunches or crates left on which vehicle, the rate agreed with each buyer, advances paid to growers, commission earned and money still owed all sit in different notebooks. A <strong>software team in Mahnar Bazar</strong> should keep the fix simple. We build a phone-friendly register where each dispatch is entered once, and totals update by grower, buyer and vehicle, with pending payments visible at a glance.",
         "Flood years add a second problem. When the Ganga rises and diara fields go under, as happened in Raghopur and other riverside parts of Vaishali during the 2026 monsoon, a trader needs to know quickly which growers are hit and which orders cannot be filled. A small dashboard of commitments against expected supply lets you ring buyers early rather than lose their trust. These tools start at ₹60,000, and the dashboard can be added as a later stage.",
       ],
     },
@@ -123,7 +123,7 @@ const mahnarBazar: CityContent = {
       paragraphs: [
         "An app earns its place when the same people open it again and again. Around Mahnar, that might be village retailers re-ordering stock every few days, coaching students checking test marks and fee dues, a clinic's patients booking tokens, or a produce trader's field agents recording purchases from growers before the truck is loaded.",
         "We build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first version has mobile number login with OTP, push notifications, the three or four screens your users actually need and an admin panel for your office. Apps are published on Google Play and the Apple App Store under developer accounts registered to you, never to us. <strong>Android app development in Mahnar Bazar</strong> with us starts at ₹40,000.",
-        "The cost rises with online payments, offline entry for places with weak signal, maps and tracking, and links to other software, and each of these is priced separately in the quote. As an <strong>app development company in Mahnar Bazar</strong> that is paid only for useful work, we will also tell you when an app is the wrong choice. If people only need your address, timings and a rate list, a website does that for a quarter of the price. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "The cost rises with online payments, offline entry for places with weak signal, maps and tracking, and links to other software, and each of these is priced separately in the quote. As an <strong>app development team in Mahnar Bazar</strong> that is paid only for useful work, we will also tell you when an app is the wrong choice. If people only need your address, timings and a rate list, a website does that for a quarter of the price. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -155,9 +155,9 @@ const mahnarBazar: CityContent = {
     },
     {
       id: "remote-team-mahnar",
-      heading: "Choosing an IT company in Mahnar Bazar when the team is remote",
+      heading: "Choosing an IT services team in Mahnar Bazar when the team is remote",
       paragraphs: [
-        "Anyone searching for an <strong>IT company in Mahnar Bazar</strong> should know upfront that we do not have a counter on the main road. The three of us work remotely and meet clients over WhatsApp, phone calls and screen shares, which is one reason our starting prices stay where they are.",
+        "Anyone searching for an <strong>IT services team in Mahnar Bazar</strong> should know upfront that we do not have a counter on the main road. The three of us work remotely and meet clients over WhatsApp, phone calls and screen shares, which is one reason our starting prices stay where they are.",
         "Every step is written down. After a first conversation about your trade and customers, you receive an outline of pages or app screens, a timeline and a costed list of every item. Work begins only after you approve that list, and nothing is billed before then. While we build, you get preview links that open on any phone, so a son studying in Patna or a partner at the godown can look and comment too.",
         "Replies come on WhatsApp seven days a week, on Indian time. If a date slips, you hear about it the day we know, with the reason and the new date. Payments are tied to stages you can see working, which keeps the risk small if this is the first website your business has ever had.",
       ],
@@ -222,7 +222,7 @@ const mahnarBazar: CityContent = {
         "A simple shop or clinic website is usually live in one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is normally waiting for content, so sending it early helps most.",
     },
     {
-      question: "Which is the best web design company in Mahnar Bazar?",
+      question: "Which is the best web design team in Mahnar Bazar?",
       answer:
         "Judge any provider on the same points: published prices, a written quote, the domain and code registered to you, real past work and support after launch. We meet those tests and reply on WhatsApp all week, but asking two or three providers the same questions before you choose is always sensible.",
     },

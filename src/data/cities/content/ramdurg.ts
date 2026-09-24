@@ -10,12 +10,12 @@ const ramdurg: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp bots for Ramdurg traders, weavers, cane growers, colleges and the Shabari and Godachi temple trade.",
     keywords: [
       "IT services in Ramdurg",
-      "IT company in Ramdurg",
-      "website development company in Ramdurg",
+      "IT services team in Ramdurg",
+      "website development team in Ramdurg",
       "web design in Ramdurg",
-      "app development company in Ramdurg",
+      "app development team in Ramdurg",
       "Android app development in Ramdurg",
-      "software company in Ramdurg",
+      "software team in Ramdurg",
       "SEO services in Ramdurg",
       "digital marketing in Ramdurg",
       "ecommerce website in Ramdurg",
@@ -84,20 +84,20 @@ const ramdurg: CityContent = {
     },
     {
       id: "colleges-schools-ramdurg",
-      heading: "Website development company in Ramdurg for colleges, PU and coaching",
+      heading: "Website development team in Ramdurg for colleges, PU and coaching",
       paragraphs: [
         "Education pulls students into Ramdurg from across the taluk. C.S. Bembalagi Science College, PU colleges, high schools and private tuition centres all compete for the same families each admission season, and parents in villages compare them largely on what they can find on a phone.",
-        "As a <strong>website development company in Ramdurg</strong> for this sector, we keep college sites factual and current: courses and combinations, fee ranges, admission dates, documents required, hostel and bus details, results, and faculty with qualifications. A notice board page that staff can update themselves stops the familiar problem of last year's dates still showing in June.",
+        "As a <strong>website development team in Ramdurg</strong> for this sector, we keep college sites factual and current: courses and combinations, fee ranges, admission dates, documents required, hostel and bus details, results, and faculty with qualifications. A notice board page that staff can update themselves stops the familiar problem of last year's dates still showing in June.",
         "Admission forms can collect details straight into a Google Sheet or the office software, with an automatic WhatsApp acknowledgement to the parent. For institutes that need more, a results portal or fee receipt download can be added as a separate line in the quote, so you only pay for what the office will actually use.",
       ],
     },
     {
       id: "cane-growers-software",
-      heading: "Software company in Ramdurg for cane growers, input dealers and farm records",
+      heading: "Software team in Ramdurg for cane growers, input dealers and farm records",
       paragraphs: [
         "Malaprabha canal water turned much of the taluk from dry land into sugarcane, jowar and groundnut country, and there is a sugar factory within Ramdurg taluk. Around the crop sits a chain of small businesses: seed and fertiliser dealers, drip and pump sellers, tractor owners, harvest labour contractors and money lent against the next season's cane.",
         "Much of this is still tracked in notebooks. A grower with plots in two villages loses track of planting dates, ratoon cycles, factory slips and which payment has arrived. A dealer extending credit to hundreds of farmers struggles to see who is overdue before the next season begins.",
-        "Working as a <strong>software company in Ramdurg</strong>, we build small web tools for exactly this: a farmer ledger with purchases, payments and balance by village, an SMS or WhatsApp reminder for dues, plot-wise cane records, and a monthly summary the owner can read in two minutes. Custom tools start at ₹60,000 and are delivered in stages over six to twelve weeks, starting with whichever register loses you the most money today.",
+        "Working as a <strong>software team in Ramdurg</strong>, we build small web tools for exactly this: a farmer ledger with purchases, payments and balance by village, an SMS or WhatsApp reminder for dues, plot-wise cane records, and a monthly summary the owner can read in two minutes. Custom tools start at ₹60,000 and are delivered in stages over six to twelve weeks, starting with whichever register loses you the most money today.",
       ],
     },
     {
@@ -123,7 +123,7 @@ const ramdurg: CityContent = {
       heading: "Android app development in Ramdurg and iOS apps: when one is worth it",
       paragraphs: [
         "Build an app only when the same people will open it again and again. In Ramdurg, that fits a school or college sending daily notices and fee reminders to parents, a fertiliser or FMCG distributor taking orders from village retailers, a clinic managing tokens, or a cloth seller whose regular buyers re-order every season.",
-        "As an <strong>app development company in Ramdurg</strong>, we write apps in Flutter or React Native so one codebase serves both Android phones and iPhones. A typical first release covers mobile OTP login, push notifications, the four or five screens your users actually need, and a web admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts that belong to you.",
+        "As an <strong>app development team in Ramdurg</strong>, we write apps in Flutter or React Native so one codebase serves both Android phones and iPhones. A typical first release covers mobile OTP login, push notifications, the four or five screens your users actually need, and a web admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts that belong to you.",
         "<strong>Android app development in Ramdurg</strong> with us starts at ₹40,000. Offline entry for weak-signal villages, payments, maps and links to your billing software each add cost, and each appears as its own line. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app service page</a> for details.",
         "If customers only want your timings, address and prices, skip the app. A website does that for a quarter of the money and needs no download, and we will tell you so plainly.",
       ],
@@ -157,7 +157,7 @@ const ramdurg: CityContent = {
     },
     {
       id: "remote-team-ramdurg",
-      heading: "An IT company in Ramdurg without an office: how the remote work runs",
+      heading: "An IT services team in Ramdurg without an office: how the remote work runs",
       paragraphs: [
         "We have no office in Ramdurg, Belagavi or anywhere else, and we would rather say that on the first call than let you assume otherwise. What you get instead is a written process. After a conversation about your business, Vedansh sends a short document listing the pages or screens, the dates and the cost of each item.",
         "Work begins only when you approve that document, and no money is asked for before then. Ankur builds, Santosh handles anything involving AI, cloud or data, and you see progress on preview links that open on your own phone. Kannada text goes to you for checking before it is published, because a spelling mistake on a college notice travels fast.",
@@ -224,7 +224,7 @@ const ramdurg: CityContent = {
         "A simple Ramdurg shop or clinic website usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and Kannada text early.",
     },
     {
-      question: "Which is the best website development company in Ramdurg?",
+      question: "Which is the best website development team in Ramdurg?",
       answer:
         "Judge any Ramdurg provider on the same points: published prices, domain and code in your name, testing on low-cost phones, clear revision limits and support after launch. Ask each one for a written, itemised quote. We meet those tests and reply on WhatsApp daily, but comparing two or three options first is wise.",
     },

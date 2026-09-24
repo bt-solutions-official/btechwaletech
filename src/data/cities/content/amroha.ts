@@ -9,7 +9,7 @@ const amroha: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Amroha, Gajraula and Hasanpur businesses. Static sites from ₹10,000 with five months free maintenance.",
     keywords: [
-      "website development company in Amroha",
+      "website development team in Amroha",
       "web design Amroha",
       "website designer Amroha",
       "freelance web developer Amroha",

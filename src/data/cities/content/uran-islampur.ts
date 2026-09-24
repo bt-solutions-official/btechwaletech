@@ -10,12 +10,12 @@ const uranIslampur: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Islampur (Ishwarpur) sugar, dairy, grape, college and clinic firms in Walwa taluka.",
     keywords: [
       "IT services in Uran Islampur",
-      "IT company in Islampur",
-      "website development company in Islampur",
+      "IT services team in Islampur",
+      "website development team in Islampur",
       "web design in Islampur",
-      "app development company in Islampur",
+      "app development team in Islampur",
       "Android app development in Islampur",
-      "software company in Islampur",
+      "software team in Islampur",
       "SEO services in Islampur",
       "digital marketing in Islampur",
       "ecommerce website in Islampur",
@@ -75,11 +75,11 @@ const uranIslampur: CityContent = {
     },
     {
       id: "sugar-belt-software-islampur",
-      heading: "Software company in Islampur for cane harvesting, transport and factory suppliers",
+      heading: "Software team in Islampur for cane harvesting, transport and factory suppliers",
       paragraphs: [
         "The Rajarambapu Patil Sahakari Sakhar Karkhana began at Sakharale in 1970 as the Walwa Taluka Sahakari Sakhar Karkhana, and the crushing season still sets the rhythm for thousands of families. Harvesting gangs, tractor and truck owners, cane development staff, fertiliser dealers, workshops and canteens all depend on it.",
         "Record keeping is where money leaks. A transporter may run a dozen vehicles, each with trip slips, diesel advances, driver payments and weighbridge figures. A harvesting contractor must match labour advances against tonnes cut for each farmer. When all of this sits in notebooks, disputes at the end of the season are almost certain.",
-        "As a <strong>software company in Islampur</strong>, in the working sense, we build simple web tools for these jobs. A supervisor enters each trip once on a phone with vehicle, slip number, weight and rate. The owner sees totals per vehicle, per farmer and per factory, pending payments, and alerts before insurance or permits expire. Custom software starts at ₹60,000 and is usually built over six to twelve weeks, often during the off-season so it is ready before crushing begins.",
+        "As a <strong>software team in Islampur</strong>, in the working sense, we build simple web tools for these jobs. A supervisor enters each trip once on a phone with vehicle, slip number, weight and rate. The owner sees totals per vehicle, per farmer and per factory, pending payments, and alerts before insurance or permits expire. Custom software starts at ₹60,000 and is usually built over six to twelve weeks, often during the off-season so it is ready before crushing begins.",
         "Engineering workshops and packaging suppliers that serve the factory need something different: a clear capability website with machines, past job types, GST details and a quotation form. We only name a client on your site when that client has agreed in writing.",
       ],
     },
@@ -95,10 +95,10 @@ const uranIslampur: CityContent = {
     },
     {
       id: "android-ios-apps-islampur",
-      heading: "App development company in Islampur: Android and iOS apps, cost and publishing",
+      heading: "App development team in Islampur: Android and iOS apps, cost and publishing",
       paragraphs: [
         "An app pays off when the same people open it often. Around Islampur, sensible cases include milk society members checking statements, parents of coaching students receiving notices and fee reminders, patients booking tokens at a hospital, farm input retailers placing repeat orders, and transporters logging trips during the season.",
-        "As an <strong>app development company in Islampur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally includes login by mobile number, push notifications, the few screens your users actually need, and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Islampur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally includes login by mobile number, push notifications, the few screens your users actually need, and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you, not to us.",
         "Android and iOS apps start at ₹40,000. The price rises with online payment, offline entry for fields with weak signal, maps, multiple user roles and links to other software, and each of those appears as a separate line on the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
         "If your customers only need your address, timings, a price list and a WhatsApp button, a website does that for a quarter of the cost. We will tell you so, because an app that people install once and forget is a poor use of a small budget.",
       ],
@@ -135,10 +135,10 @@ const uranIslampur: CityContent = {
     },
     {
       id: "market-showrooms-islampur",
-      heading: "Website development company in Islampur for showrooms, dealers and market traders",
+      heading: "Website development team in Islampur for showrooms, dealers and market traders",
       paragraphs: [
         "As the taluka headquarters, Islampur is where villages come to buy tractors and implements, two-wheelers, gold, clothing, furniture, electronics, building material and farm inputs. Many of these businesses have been run by the same family for decades and are well known locally, but invisible to someone searching from Kasegaon or Peth.",
-        "A <strong>website development company in Islampur</strong> should give each of these traders a site that matches how buyers decide. A tractor dealer needs models, implements, finance partners, service centre timings and spare parts contact. A jeweller needs collections, making charge policy, hallmark information and exchange rules. A building material dealer needs brands stocked, delivery area and a quick quote form.",
+        "A <strong>website development team in Islampur</strong> should give each of these traders a site that matches how buyers decide. A tractor dealer needs models, implements, finance partners, service centre timings and spare parts contact. A jeweller needs collections, making charge policy, hallmark information and exchange rules. A building material dealer needs brands stocked, delivery area and a quick quote form.",
         "We keep these sites fast and light, because many visitors are on basic phones with patchy data. Pages load in Marathi first, with English available, and each page has one clear action: call, WhatsApp, or get directions.",
         "Traders who want to go further can add a product catalogue with enquiry buttons, festival offer pages that can be switched on and off, and stock-based price lists that staff update from a phone. Start with what you will actually keep current.",
       ],
@@ -192,11 +192,11 @@ const uranIslampur: CityContent = {
     },
     {
       id: "around-islampur",
-      heading: "IT company in Islampur serving Walwa taluka: Ashta, Peth, Kasegaon and beyond",
+      heading: "IT services team in Islampur serving Walwa taluka: Ashta, Peth, Kasegaon and beyond",
       paragraphs: [
         "We work with businesses across Walwa taluka and nearby: Ashta, Peth, Kasegaon, Rajaramnagar and Sakharale, Tambave, Waghwadi, Yelur, Bahe, Kameri and Borgaon, as well as Sangli, Miraj, Vita, Tasgaon and Ichalkaranji. The taluka has 95 panchayat villages, and many Islampur businesses serve a large share of them.",
         "For a firm with customers in several places, we create location pages that carry real information for each: branch address if one exists, delivery or service area, travel time and a local contact. We do not publish near-identical pages with only the village name changed; search engines ignore them and customers notice.",
-        "If you are unsure whether you need a website, an app, automation or just a better map listing, send a WhatsApp message describing your business. As an <strong>IT company in Islampur</strong> in all but address, we will suggest the smallest useful step first, even when it is something you can do yourself.",
+        "If you are unsure whether you need a website, an app, automation or just a better map listing, send a WhatsApp message describing your business. As an <strong>IT services team in Islampur</strong> in all but address, we will suggest the smallest useful step first, even when it is something you can do yourself.",
       ],
     },
   ],
@@ -241,7 +241,7 @@ const uranIslampur: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content, logo and product photos ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Islampur?",
+      question: "Which is the best website development team in Islampur?",
       answer:
         "Judge any provider by whether they publish prices, register the domain and code in your name, answer after launch and show real work. Put the same questions to everyone. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before choosing is sensible.",
     },

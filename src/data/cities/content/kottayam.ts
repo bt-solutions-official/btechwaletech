@@ -10,12 +10,12 @@ const kottayam: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Kottayam rubber traders, publishers, hospitals, colleges and Kumarakom resorts.",
     keywords: [
       "IT services in Kottayam",
-      "IT company in Kottayam",
-      "website development company in Kottayam",
+      "IT services team in Kottayam",
+      "website development team in Kottayam",
       "web design in Kottayam",
-      "app development company in Kottayam",
+      "app development team in Kottayam",
       "Android app development in Kottayam",
-      "software company in Kottayam",
+      "software team in Kottayam",
       "SEO services in Kottayam",
       "digital marketing in Kottayam",
       "ecommerce website in Kottayam",
@@ -75,20 +75,20 @@ const kottayam: CityContent = {
     },
     {
       id: "rubber-trade-software",
-      heading: "Software company in Kottayam for rubber dealers, latex collectors and processors",
+      heading: "Software team in Kottayam for rubber dealers, latex collectors and processors",
       paragraphs: [
         "Rubber is the cash crop that defines Kottayam district. The Rubber Board, a statutory body under the Rubber Act of 1947, has its headquarters in the town, and the Rubber Research Institute of India and the National Institute for Rubber Training sit on a hillside at Puthuppally a few kilometres east. Around them work thousands of growers, tappers, sheet and latex dealers, smoke-house owners, processors, transporters and makers of rubber goods.",
         "The trade is full of small numbers that matter: weight and grade of each lot, dry rubber content for latex, the day's buying rate, advances given to growers and dues from larger buyers. Much of it still lives in ledgers and phone notes.",
-        "As a <strong>software company in Kottayam</strong> we build web tools for this kind of work. A purchase register records each lot with grower, grade, weight and rate from a phone. Stock views show what is held by grade and by godown. Grower ledgers show advances and balances, and a daily rate board can be shared with regular sellers on WhatsApp. These projects start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the purchase register.",
+        "As a <strong>software team in Kottayam</strong> we build web tools for this kind of work. A purchase register records each lot with grower, grade, weight and rate from a phone. Stock views show what is held by grade and by godown. Grower ledgers show advances and balances, and a daily rate board can be shared with regular sellers on WhatsApp. These projects start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the purchase register.",
         "We do not publish market rates or price forecasts as fact on your site; rates change daily and belong in your own updates, not in fixed copy.",
       ],
     },
     {
       id: "publishing-print-kottayam",
-      heading: "Website development company in Kottayam for publishers, printers and bookshops",
+      heading: "Website development team in Kottayam for publishers, printers and bookshops",
       paragraphs: [
         "Kottayam is where Malayala Manorama, Deepika and Mangalam are headquartered, and it has long been regarded as the centre of Malayalam book publishing. The town is full of printing presses, binding units, design studios, distributors and bookshops that grew up around that trade, and many of them still sell mainly through personal contacts.",
-        "A <strong>website development company in Kottayam</strong> can help this sector in quite specific ways. A publisher needs a catalogue with author pages, ISBNs, formats, prices and sample pages in proper Malayalam type. A printer needs pages that set out paper, binding and finishing options, minimum runs and a quote form that accepts files. A bookshop needs stock search and a simple way to reserve a title for collection.",
+        "A <strong>website development team in Kottayam</strong> can help this sector in quite specific ways. A publisher needs a catalogue with author pages, ISBNs, formats, prices and sample pages in proper Malayalam type. A printer needs pages that set out paper, binding and finishing options, minimum runs and a quote form that accepts files. A bookshop needs stock search and a simple way to reserve a title for collection.",
         "Malayalam typography on the web deserves care. We use Unicode Malayalam fonts that render correctly on Android phones and older desktops, check conjuncts and chillu letters on real devices, and never paste text from old ASCII-font files without converting it.",
         "A catalogue website starts at ₹10,000 for smaller lists, and larger catalogues become an SEO build or a full store as they grow.",
       ],
@@ -137,7 +137,7 @@ const kottayam: CityContent = {
       heading: "Android app development in Kottayam, and iOS apps for local institutions",
       paragraphs: [
         "An app pays off when the same people use it week after week. In Kottayam that could be a hospital's patients booking tokens and seeing reports, a school's parents receiving notices and paying fees, a coaching centre's students getting test schedules, a resort's guests checking their itinerary, or a rubber dealer's regular growers checking the day's rate and their balance.",
-        "As an <strong>app development company in Kottayam</strong> working remotely, we build in Flutter or React Native, so one codebase covers Android phones and iPhones. A typical first version includes mobile number login, push notifications, the core screens, Malayalam labels where users want them and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Kottayam</strong> working remotely, we build in Flutter or React Native, so one codebase covers Android phones and iPhones. A typical first version includes mobile number login, push notifications, the core screens, Malayalam labels where users want them and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Kottayam</strong> with us starts at ₹40,000. The quote grows with online payments, offline use, maps, report uploads and links to hospital or billing software, and each of these is a separate line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If your audience only needs your address, timings and a price list, a website does the same job for much less. We will recommend that instead of an app that gets opened once.",
       ],
@@ -162,9 +162,9 @@ const kottayam: CityContent = {
     },
     {
       id: "remote-team-kottayam",
-      heading: "Working with a remote IT company in Kottayam's region",
+      heading: "Working with a remote IT services team in Kottayam's region",
       paragraphs: [
-        "We describe ourselves honestly: three engineers working remotely, with no office in Kottayam or anywhere else. If you are looking for an <strong>IT company in Kottayam</strong> you can visit, we are not that, and we would rather say it now. What replaces the office visit is a clear written trail. After an initial call about your business, you receive an outline of pages or app screens, delivery dates and a costed list of every item.",
+        "We describe ourselves honestly: three engineers working remotely, with no office in Kottayam or anywhere else. If you are looking for an <strong>IT services team in Kottayam</strong> you can visit, we are not that, and we would rather say it now. What replaces the office visit is a clear written trail. After an initial call about your business, you receive an outline of pages or app screens, delivery dates and a costed list of every item.",
         "No work starts until you approve that list, and nothing is billed before then. During the build you get preview links that open on any phone, so a partner in the Gulf or a board member can review them too. Malayalam text is always sent for your approval, since readers in this town will spot a wrong letter.",
         "WhatsApp is our main line, answered seven days a week on Indian time. If something is delayed, you hear the same day with a new date. Payments follow milestones you can check yourself.",
       ],
@@ -229,7 +229,7 @@ const kottayam: CityContent = {
         "A simple business website is usually live one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Malayalam content adds a short review step, since you approve every line before it goes live.",
     },
     {
-      question: "Which is the best website development company in Kottayam?",
+      question: "Which is the best website development team in Kottayam?",
       answer:
         "Look for a provider that publishes prices, puts the domain and code in your name, stays reachable after launch and can show real work. Ask everyone the same questions and compare the answers. We meet those tests and reply on WhatsApp all week, but talking to two or three providers first is sensible.",
     },

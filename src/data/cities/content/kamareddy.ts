@@ -10,12 +10,12 @@ const kamareddy: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kamareddy rice mills, seed and turmeric traders, textile shops and clinics.",
     keywords: [
       "IT services in Kamareddy",
-      "IT company in Kamareddy",
-      "website development company in Kamareddy",
+      "IT services team in Kamareddy",
+      "website development team in Kamareddy",
       "web design in Kamareddy",
-      "app development company in Kamareddy",
+      "app development team in Kamareddy",
       "Android app development in Kamareddy",
-      "software company in Kamareddy",
+      "software team in Kamareddy",
       "SEO services in Kamareddy",
       "digital marketing in Kamareddy",
       "ecommerce website in Kamareddy",
@@ -69,16 +69,16 @@ const kamareddy: CityContent = {
         "Kamareddy became a district headquarters in 2016, and the town has grown into the main market for a belt of farming mandals: Bhiknoor, Domakonda, Machareddy, Sadashivanagar, Rajampet and others. Farmers bring paddy and maize to traders and mills, families come for cloth, gold and electronics, students fill junior and degree colleges, and patients travel in for hospitals and diagnostic centres. NH-44 puts Hyderabad within a two-to-three-hour drive, which shapes how local businesses buy, sell and hire.",
         "Most enquiries for <strong>IT services in Kamareddy</strong> are concrete. A cloth showroom wants a Telugu website and a correct Maps listing. A rice mill wants procurement and stock records that are not locked in one accountant's notebook. A hospital wants patients to see OPD days before they travel. Three engineers do this work. Ankur Kumar writes the full-stack code, Santosh Sharma looks after AI, machine learning, AWS hosting and data, and Vedansh Shrivastava plans the project and handles data science and automation.",
         "We have no office in Kamareddy, and we say so plainly. Work runs over WhatsApp, calls and screen shares, with written plans and approvals at every stage. You do not need to drive to Hyderabad to meet a developer.",
-        "If you are looking for an <strong>IT company in Kamareddy</strong> and are not sure what to ask for, describe your business in a WhatsApp message. We will suggest the one step most likely to bring results first.",
+        "If you are looking for an <strong>IT services team in Kamareddy</strong> and are not sure what to ask for, describe your business in a WhatsApp message. We will suggest the one step most likely to bring results first.",
       ],
     },
     {
       id: "rice-mills-grain-trade",
-      heading: "Software company in Kamareddy for rice mills and grain traders",
+      heading: "Software team in Kamareddy for rice mills and grain traders",
       paragraphs: [
         "Paddy is the main crop across much of Kamareddy district, and the town and its surrounding mandals have many rice mills, including parboiled units. Maize, soya and turmeric move through the same network of commission agents and traders. The district's industry profile specifically lists modern and parboiled rice mills, seed processing, maize starch, dal and oil mills as opportunities, and notes that units prefer Bhiknoor and Kamareddy mandals for their closeness to Hyderabad.",
         "The recurring problem in this trade is records. Owners want to know how much paddy came from which farmer or centre, the moisture and weight on each slip, lot-wise stock in each godown, milling outturn, bran and husk sales, and which buyers still owe money. Too often, the answers live in registers and scattered spreadsheets.",
-        "For anyone searching for a <strong>software company in Kamareddy</strong> to sort this out, we build web tools that work on a phone and a desktop. Each vehicle is entered once with weighbridge slip, bags, weight and rate. Stock updates by lot and godown, outturn is calculated automatically, and dues appear by buyer with WhatsApp reminders. Seed processors can add batch and germination records.",
+        "For anyone searching for a <strong>software team in Kamareddy</strong> to sort this out, we build web tools that work on a phone and a desktop. Each vehicle is entered once with weighbridge slip, bags, weight and rate. Stock updates by lot and godown, outturn is calculated automatically, and dues appear by buyer with WhatsApp reminders. Seed processors can add batch and germination records.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We begin with the intake and stock register and add milling, sales and reports once your staff are using it, ideally timed between seasons.",
       ],
     },
@@ -94,10 +94,10 @@ const kamareddy: CityContent = {
     },
     {
       id: "poultry-farms-kamareddy",
-      heading: "Website development company in Kamareddy for poultry farms and feed dealers",
+      heading: "Website development team in Kamareddy for poultry farms and feed dealers",
       paragraphs: [
         "Kamareddy has a strong poultry sector, with large farms and a network of feed, medicine, equipment and chick suppliers around them. Broiler and layer operations both depend on tight daily records: birds placed, feed consumed, mortality, weight, vaccinations, eggs collected and sales by trader.",
-        "A <strong>website development company in Kamareddy</strong> working with this sector should think beyond a brochure. Feed and equipment dealers need a clear product site with brands, specifications and delivery areas. Farms that sell eggs or birds to traders benefit more from a simple web tool where supervisors enter daily flock data from a phone and the owner sees a summary each evening.",
+        "A <strong>website development team in Kamareddy</strong> working with this sector should think beyond a brochure. Feed and equipment dealers need a clear product site with brands, specifications and delivery areas. Farms that sell eggs or birds to traders benefit more from a simple web tool where supervisors enter daily flock data from a phone and the owner sees a summary each evening.",
         "We build these tools with a small number of screens: shed-wise entries, feed and medicine stock, a vaccination calendar with reminders, and sales and dues by buyer. Charts show feed conversion and mortality trends so problems are caught early. The tool can run offline and sync later if the farm has poor signal.",
         "Record tools of this kind start at ₹60,000 as custom software, or at ₹40,000 if built mainly as an Android and iOS app for supervisors with a simple admin view.",
       ],
@@ -127,7 +127,7 @@ const kamareddy: CityContent = {
       heading: "Android app development in Kamareddy, with iOS apps from the same code",
       paragraphs: [
         "An app makes sense when a known group of people will use it regularly. In Kamareddy, that could be poultry supervisors entering daily flock data, a fertiliser or seed dealer taking orders from village retailers, a textile showroom sending new-arrival alerts to regular customers, a coaching centre sharing tests and notices with students, or a hospital issuing appointment tokens.",
-        "As an <strong>app development company in Kamareddy</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the key screens your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Kamareddy</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the key screens your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Kamareddy</strong> with us starts at ₹40,000. Offline entry, online payment, maps, multiple user roles and links to billing software add to the cost, and each is shown as its own line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number, timings and a price list, a website and Maps listing cover that at a fraction of the cost. In that case we will advise against an app.",
       ],
@@ -232,7 +232,7 @@ const kamareddy: CityContent = {
         "Count on one to two weeks for a static site once text and photos are in hand. Plan three to five weeks for an SEO site of 700+ pages, four to eight for a shop and six to twelve for custom software. Delays almost always come from waiting on content or sign-offs, so having those ready speeds everything.",
     },
     {
-      question: "Which is the best website development company in Kamareddy?",
+      question: "Which is the best website development team in Kamareddy?",
       answer:
         "There is no official ranking, so test each option yourself. Does the provider show prices openly, put the domain and code under your name, have live sites you can open, and answer after handover? We pass those checks and are on WhatsApp all week, yet we still suggest speaking to a couple of others first.",
     },

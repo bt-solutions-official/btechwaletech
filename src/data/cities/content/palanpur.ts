@@ -9,7 +9,7 @@ const palanpur: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Palanpur dairy suppliers, diamond units, marble traders, schools and clinics in Banaskantha. Sites from ₹10,000.",
     keywords: [
-      "website development company in Palanpur",
+      "website development team in Palanpur",
       "web designer Palanpur",
       "website design Palanpur Gujarat",
       "freelance web developer Palanpur",

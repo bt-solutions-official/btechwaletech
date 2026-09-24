@@ -9,7 +9,7 @@ const shahjahanpur: CityContent = {
     description:
       "Websites, Google Maps SEO and WhatsApp automation for Shahjahanpur shops, zari units, sugar-belt traders, clinics and schools. Sites from ₹10,000.",
     keywords: [
-      "website development company in Shahjahanpur",
+      "website development team in Shahjahanpur",
       "website designer Shahjahanpur",
       "web design Shahjahanpur UP",
       "freelance web developer Shahjahanpur",

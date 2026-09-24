@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Visakhapatnam for custom software, web and mobile apps, AI agents, dashboards and cloud. Starting prices published, quote in 2 days.",
     keywords: [
-      "software development company in Visakhapatnam",
-      "IT company in Visakhapatnam",
+      "software development team in Visakhapatnam",
+      "IT services team in Visakhapatnam",
       "IT solutions Visakhapatnam",
       "freelance software developers Vizag",
       "custom software development Vizag",
@@ -166,9 +166,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-vizag",
-      heading: "Freelance developers vs a software development company in Visakhapatnam",
+      heading: "Freelance developers vs a software development team in Visakhapatnam",
       paragraphs: [
-        "A software development company in Visakhapatnam typically offers bigger teams, project managers and formal contracts, while a freelance group like BtechWaleTech offers direct access to the three engineers who write your code and lower overhead in every quote. The right choice depends on project size and how closely you want to work with the builders.",
+        "A software development team in Visakhapatnam typically offers bigger teams, project managers and formal contracts, while a freelance group like BtechWaleTech offers direct access to the three engineers who write your code and lower overhead in every quote. The right choice depends on project size and how closely you want to work with the builders.",
         "If you are running a large government tender, need twenty developers at once, or require on-site staff inside a plant, a company with a Rushikonda office is the better fit. If you are a mid-size exporter, hospital, college, fabricator or trader who wants a working system quickly and an engineer on WhatsApp when something breaks, freelancers usually deliver better value.",
         "Whichever you choose, check who writes the code, get an itemised quote, and make sure domain, hosting and repository are in your name. Look at real work on a <a href='/portfolio/'>portfolio</a> and read about the people on the <a href='/about/'>about page</a>.",
       ],
@@ -249,7 +249,7 @@ const content: CityContent = {
     { name: "Seafood and regional products", need: "National buyers and trust for food products", build: "Ecommerce stores, product pages with compliance details and order automation" },
   ],
   faqs: [
-    { question: "Is BtechWaleTech a software company with an office in Visakhapatnam?", answer: "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we have no office in Visakhapatnam. Vizag clients work with us through video calls, screen sharing and WhatsApp. That remote setup is why our starting prices stay the same whether you are in Madhurawada, Gajuwaka or anywhere else in Andhra Pradesh." },
+    { question: "Is BtechWaleTech a software team with an office in Visakhapatnam?", answer: "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we have no office in Visakhapatnam. Vizag clients work with us through video calls, screen sharing and WhatsApp. That remote setup is why our starting prices stay the same whether you are in Madhurawada, Gajuwaka or anywhere else in Andhra Pradesh." },
     { question: "What does custom software cost in Visakhapatnam?", answer: "Custom software starts from ₹60,000, while Android and iOS apps start from ₹40,000. The final price depends on screens, user roles, integrations like Tally or WhatsApp, and any data migration. After a discovery call you receive an itemised quote within about two working days, so you can see the cost of each part before deciding." },
     { question: "How do we pay for the project?", answer: "Only two ways: UPI, by scanning our QR code, or direct bank transfer to our bank account, both in INR. We do not collect our own fees through payment gateways. Payments follow milestones written into the quote, and every payment is acknowledged in writing." },
     { question: "Can you build software for shipping agents and freight forwarders in Vizag?", answer: "Yes. We build job-file portals with document uploads, milestone tracking, automatic customer alerts and billing. Where shipping lines or customers provide APIs or structured emails, data is pulled in automatically; otherwise an AI step reads PDFs for staff to confirm. We only connect to official systems where you already have authorised access." },

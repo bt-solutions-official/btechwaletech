@@ -9,7 +9,7 @@ const bahraich: CityContent = {
     description:
       "Websites, Hindi local SEO and WhatsApp automation for Bahraich traders, sugar belt suppliers, clinics, schools and Rupaidiha border businesses. From ₹10,000.",
     keywords: [
-      "website development company in Bahraich",
+      "website development team in Bahraich",
       "website designer Bahraich",
       "web design Bahraich Uttar Pradesh",
       "SEO services Bahraich",

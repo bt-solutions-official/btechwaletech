@@ -9,7 +9,7 @@ const ajmer: CityContent = {
     description:
       "Websites, local SEO, stores and WhatsApp automation for Ajmer, Pushkar and Kishangarh businesses. Sites from ₹10,000, itemised quotes, 5 months free maintenance.",
     keywords: [
-      "website development company in Ajmer",
+      "website development team in Ajmer",
       "website designer Ajmer",
       "web design Ajmer cost",
       "SEO services Ajmer",

@@ -13,12 +13,12 @@ const content: CityContent = {
       "iOS app development Tura",
       "mobile app developers Tura",
       "iPhone app developers Garo Hills",
-      "software development company in Tura",
-      "IT company in Tura",
+      "software development team in Tura",
+      "IT services team in Tura",
       "freelance software developers in Tura",
       "software development in Tura",
       "IT solutions Tura",
-      "software company Garo Hills",
+      "software team Garo Hills",
       "custom software Tura Meghalaya",
       "web application development Tura",
       "mobile app developer Tura",
@@ -33,8 +33,8 @@ const content: CityContent = {
       "dashboard development West Garo Hills",
       "school management software Tura",
       "cashew trader website Garo Hills",
-      "Tura mein software company",
-      "Tura-ni software company A·chik",
+      "Tura mein software team",
+      "Tura-ni software team A·chik",
     ],
   },
   hero: {
@@ -73,9 +73,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-tura",
-      heading: "Freelance team vs a software development company in Tura: which should you hire?",
+      heading: "Freelance team vs a software development team in Tura: which should you hire?",
       paragraphs: [
-        "Hire a freelance team when you want to speak directly with the engineers and pay published starting prices; hire a software development company in Tura or Guwahati when you need an on-site person or formal tender eligibility. BtechWaleTech is the first kind: three independent engineers who design, build, host and maintain software remotely, with no Tura office.",
+        "Hire a freelance team when you want to speak directly with the engineers and pay published starting prices; hire a software development team in Tura or Guwahati when you need an on-site person or formal tender eligibility. BtechWaleTech is the first kind: three independent engineers who design, build, host and maintain software remotely, with no Tura office.",
         "If you are comparing IT companies in Tura, the practical difference is layers. A company usually has a salesperson, a project manager and developers you never meet. With a freelance group, the person answering your WhatsApp message on Sunday is the same person writing the code on Monday. Calls, screen shares and staged demos replace the office visit, and they work well for the kind of software most Garo Hills organisations need.",
         "Most IT buying in Tura has historically meant a desktop from a shop in the bazaar, a printer, and perhaps a basic website made by someone in Guwahati. That still matters, but the bigger gains now come from software. A wholesaler who stops copying orders from WhatsApp into a notebook saves hours each day. A school that sends fee reminders automatically collects faster. A cooperative that tracks member deposits in one system stops arguing over ledgers.",
         "Our job is to find those gains and build the smallest system that delivers them. We ask how your work runs today, who touches each record, what goes wrong, and what you already pay for. Then we propose software that fits, priced from the published starting points on our <a href='/pricing/'>pricing page</a>, with an itemised estimate before anything begins.",
@@ -204,7 +204,7 @@ const content: CityContent = {
       heading: "How to choose a software developer in Tura: a practical checklist",
       paragraphs: [
         "Choose an IT partner for Tura by checking who writes the code, who owns the result and what happens after launch. Ask to speak with the developer, not only a salesperson. Ask whether the domain, hosting and source code will be in your name. Ask what support costs after the first year. A partner who dodges these questions will be hard to work with later.",
-        "Look at real work rather than logos. Our <a href='/portfolio/'>portfolio</a> shows what we have actually built, and our <a href='/about/'>about page</a> explains who we are: three engineers, not a large agency. We do not invent client names or reviews, and you should be wary of anyone who claims to be the top IT company in the Garo Hills without evidence.",
+        "Look at real work rather than logos. Our <a href='/portfolio/'>portfolio</a> shows what we have actually built, and our <a href='/about/'>about page</a> explains who we are: three engineers, not a large agency. We do not invent client names or reviews, and you should be wary of anyone who claims to be the top IT services team in the Garo Hills without evidence.",
         "Finally, test responsiveness before you sign. Send a question on a Sunday and see how fast the reply comes. Distance matters less than you think when calls, screen shares and staged demos are routine, and far more than you think when a supplier stops answering after the final payment.",
       ],
     },

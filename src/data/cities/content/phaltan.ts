@@ -10,12 +10,12 @@ const phaltan: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Phaltan MIDC suppliers, sugar and dairy firms, orchards, colleges and shops.",
     keywords: [
       "IT services in Phaltan",
-      "IT company in Phaltan",
-      "website development company in Phaltan",
+      "IT services team in Phaltan",
+      "website development team in Phaltan",
       "web design in Phaltan",
-      "app development company in Phaltan",
+      "app development team in Phaltan",
       "Android app development in Phaltan",
-      "software company in Phaltan",
+      "software team in Phaltan",
       "SEO services in Phaltan",
       "digital marketing in Phaltan",
       "ecommerce website in Phaltan",
@@ -75,21 +75,21 @@ const phaltan: CityContent = {
     },
     {
       id: "midc-supplier-websites",
-      heading: "Website development company in Phaltan for MIDC vendors and job-work units",
+      heading: "Website development team in Phaltan for MIDC vendors and job-work units",
       paragraphs: [
         "The Phaltan MIDC along the Phaltan–Lonand road is known above all for the Cummins megasite, where engines are made across several plants, and a large logistics warehouse opened there in 2025. Big plants like these pull in a ring of smaller firms: machining and fabrication shops, electrical and utility contractors, tool and consumables suppliers, packaging vendors, transporters, canteen operators, manpower and housekeeping agencies.",
-        "Vendor development teams at large companies check a supplier online before they call. A <strong>website development company in Phaltan</strong> should therefore build something plain and verifiable: what you make or do, machines and capacities, quality and safety practices, certifications you actually hold, GST details, and the names and numbers of the people who answer enquiries. It should look sound on an office desktop and load fast on a phone.",
+        "Vendor development teams at large companies check a supplier online before they call. A <strong>website development team in Phaltan</strong> should therefore build something plain and verifiable: what you make or do, machines and capacities, quality and safety practices, certifications you actually hold, GST details, and the names and numbers of the people who answer enquiries. It should look sound on an office desktop and load fast on a phone.",
         "We never list a customer's name or logo unless that customer has agreed in writing, because purchase departments notice. For workshops that receive drawings, we add an RFQ form with file upload and an acknowledgement email, so a request that arrives on a Sunday is not lost by Monday.",
         "Most vendor sites are static and start at ₹10,000. If you want a small portal where regular customers check job status or download test certificates, that moves into custom web app territory, starting at ₹60,000. See our <a href=\"/services/web-development/\">web development service</a> for how we structure these builds.",
       ],
     },
     {
       id: "sugar-cane-software",
-      heading: "Software company in Phaltan for cane contractors and sugar-belt businesses",
+      heading: "Software team in Phaltan for cane contractors and sugar-belt businesses",
       paragraphs: [
         "Phaltan tehsil has two sugar factories, New Phaltan Sugar Works and Shri Ram Sahakari Sakhar Karkhana, and each crushing season sets off months of work for harvesting gangs, tractor-trailer owners, cane supervisors, input dealers and trailer workshops. Most of the money in that chain moves on handwritten slips.",
         "Owners keep track of which trailer carried how much cane to which factory, the advances paid to gang leaders, diesel filled on credit, and factory payments that arrive weeks later. When a slip goes missing, the argument costs more than the slip was worth.",
-        "As a <strong>software company in Phaltan</strong>, we build small, focused tools for this. Each trip is entered once from a phone with the vehicle, slip number, weight and rate. The system keeps running totals per vehicle, per gang and per farmer, shows what each factory still owes, and warns before insurance or permits expire. Reports print on one page for the family meeting at the end of the season.",
+        "As a <strong>software team in Phaltan</strong>, we build small, focused tools for this. Each trip is entered once from a phone with the vehicle, slip number, weight and rate. The system keeps running totals per vehicle, per gang and per farmer, shows what each factory still owes, and warns before insurance or permits expire. Reports print on one page for the family meeting at the end of the season.",
         "Custom tools start at ₹60,000 and are built over six to twelve weeks. We usually deliver the trip register first, in the off-season if possible, so drivers can learn it before the rush rather than during it.",
       ],
     },
@@ -138,7 +138,7 @@ const phaltan: CityContent = {
       heading: "Android app development in Phaltan, plus iOS apps for local firms",
       paragraphs: [
         "An app earns its cost when the same people open it again and again. In Phaltan the strongest cases we see are milk collection agents recording readings at the centre, transporters and cane crews logging trips, a coaching class sending notices and test marks to parents, a hospital issuing tokens, and an input dealer taking repeat orders from village shops.",
-        "As an <strong>app development company in Phaltan</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version normally has mobile number login, push notifications, the core screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Phaltan</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version normally has mobile number login, push notifications, the core screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Phaltan</strong> with us starts at ₹40,000. The price rises with offline mode for collection centres with weak signal, online payment, maps and tracking, printer or analyser integration, and multiple user roles. Each appears as its own line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a price list, a website does that for a quarter of the money and needs no download. We will tell you so, because an app that sits unopened on a phone is money wasted.",
       ],
@@ -175,9 +175,9 @@ const phaltan: CityContent = {
     },
     {
       id: "remote-team-phaltan",
-      heading: "How our remote IT company in Phaltan's region works with you",
+      heading: "How our remote IT services team in Phaltan's region works with you",
       paragraphs: [
-        "We are an IT team of three engineers working remotely, not an IT company in Phaltan with a shopfront, and we say that on the first call. Work starts with a conversation about your trade, your customers and what you want to change. You then receive a written outline of pages or screens, dates, and a costed list of every item.",
+        "We are an IT team of three engineers working remotely, not an IT services team in Phaltan with a shopfront, and we say that on the first call. Work starts with a conversation about your trade, your customers and what you want to change. You then receive a written outline of pages or screens, dates, and a costed list of every item.",
         "Nothing begins until you approve that list, and nothing is billed before then. During the build you get preview links that open on any phone, so partners and family members can comment without anyone travelling. Marathi text is always sent to you to read before it goes live, because a wrong word on a rate card or school notice is the kind of mistake people remember.",
         "WhatsApp is the main channel and is answered seven days a week on Indian time. If something slips, you hear about it the day we know, with a new date. Payments follow milestones you can see working, which keeps risk low for a firm going online for the first time.",
         "Ankur builds the sites and apps, Santosh handles data, AI and cloud hosting, and Vedansh keeps the schedule and the automation on track. You always know who is doing what.",
@@ -243,7 +243,7 @@ const phaltan: CityContent = {
         "A simple static site is usually live within one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Phaltan?",
+      question: "Which is the best website development team in Phaltan?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, shows real work and stays reachable after launch. Ask each option the same questions. We meet those tests and reply on WhatsApp all week, but comparing two or three providers before deciding is sensible.",
     },

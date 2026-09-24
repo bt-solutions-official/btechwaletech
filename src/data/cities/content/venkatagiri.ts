@@ -10,12 +10,12 @@ const venkatagiri: CityContent = {
       "Telugu websites, Android and iOS apps, saree stores, local SEO and WhatsApp automation for Venkatagiri handloom weavers, master weavers, shops and schools.",
     keywords: [
       "IT services in Venkatagiri",
-      "IT company in Venkatagiri",
-      "website development company in Venkatagiri",
+      "IT services team in Venkatagiri",
+      "website development team in Venkatagiri",
       "web design in Venkatagiri",
-      "app development company in Venkatagiri",
+      "app development team in Venkatagiri",
       "Android app development in Venkatagiri",
-      "software company in Venkatagiri",
+      "software team in Venkatagiri",
       "SEO services in Venkatagiri",
       "digital marketing in Venkatagiri",
       "ecommerce website in Venkatagiri",
@@ -89,19 +89,19 @@ const venkatagiri: CityContent = {
     },
     {
       id: "master-weaver-software",
-      heading: "Software company in Venkatagiri for master weavers and cooperatives",
+      heading: "Software team in Venkatagiri for master weavers and cooperatives",
       paragraphs: [
         "Much of the weaving in Venkatagiri is organised by master weavers and societies who supply warp, yarn and zari to households, fix a design and a rate, and collect finished sarees later. With dozens of looms involved, the records quickly become hard to manage: who took how much yarn, which saree is on which loom, what was paid in advance and what is still owed.",
-        "As a <strong>software company in Venkatagiri</strong> in the practical sense, we build simple web tools for this work. Each issue of yarn and zari is entered once with the weaver, quantity and design. Finished sarees are logged on return with any defects noted. Wages are calculated per piece, advances deducted, and a statement is shared with each weaver on WhatsApp so there is less argument. Stock of finished sarees by design and colour feeds the showroom or online store.",
+        "As a <strong>software team in Venkatagiri</strong> in the practical sense, we build simple web tools for this work. Each issue of yarn and zari is entered once with the weaver, quantity and design. Finished sarees are logged on return with any defects noted. Wages are calculated per piece, advances deducted, and a statement is shared with each weaver on WhatsApp so there is less argument. Stock of finished sarees by design and colour feeds the showroom or online store.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the part that causes the most disputes, usually the yarn and wage register, and add stock and sales only after it is in daily use. If an existing billing or accounting package already covers your needs, we will tell you rather than build something you do not need.",
       ],
     },
     {
       id: "saree-showrooms-resellers",
-      heading: "Website development company in Venkatagiri for showrooms and resellers",
+      heading: "Website development team in Venkatagiri for showrooms and resellers",
       paragraphs: [
         "Showrooms in Venkatagiri sell to walk-in buyers, to families shopping for weddings, and increasingly to resellers and boutiques in cities who order in lots. These buyers want to see new designs before they travel, and many now check a showroom's website and Google listing before deciding whether a trip is worth it.",
-        "A <strong>website development company in Venkatagiri</strong> should give such a showroom a site that works as a sales tool. That means a current catalogue arranged by fabric and price band, clear information on how to order in bulk, the showroom's timings and location on Google Maps, a note on authenticity and the GI registration, and a WhatsApp button that opens a chat with the right person.",
+        "A <strong>website development team in Venkatagiri</strong> should give such a showroom a site that works as a sales tool. That means a current catalogue arranged by fabric and price band, clear information on how to order in bulk, the showroom's timings and location on Google Maps, a note on authenticity and the GI registration, and a WhatsApp button that opens a chat with the right person.",
         "For reseller-heavy businesses we can add a private catalogue behind a login, where approved buyers see wholesale rates and stock. This is more useful than sending hundreds of photos on WhatsApp every week, and it keeps retail and wholesale prices separate. A static showroom site starts at ₹10,000; a catalogue with reseller login is quoted as custom work.",
       ],
     },
@@ -110,7 +110,7 @@ const venkatagiri: CityContent = {
       heading: "Android app development in Venkatagiri, and iOS apps for local trade",
       paragraphs: [
         "An app makes sense when the same people come back to it often. In Venkatagiri, good candidates are boutique owners and resellers who check new designs every week, weavers logging finished pieces and wages, a school sending notices and fee reminders to parents, a hospital issuing tokens, or a shop taking repeat orders from nearby villages.",
-        "As an <strong>app development company in Venkatagiri</strong> that works remotely, we build in Flutter or React Native, so one app runs on Android and iPhone. A first version usually includes mobile number login, push notifications when new sarees are added, a catalogue or work log, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Venkatagiri</strong> that works remotely, we build in Flutter or React Native, so one app runs on Android and iPhone. A first version usually includes mobile number login, push notifications when new sarees are added, a catalogue or work log, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Venkatagiri</strong> with us starts at ₹40,000. The cost rises with online payment, offline use, image-heavy catalogues or links to your billing software, and the quote lists each item separately. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your buyers only need your address, timings and a few photographs, a website is enough and costs far less. We will recommend the website in that case, because an app that people install once and never open again is wasted money.",
       ],
@@ -234,7 +234,7 @@ const venkatagiri: CityContent = {
         "A simple website is usually ready in one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Saree stores move faster when product photographs are ready early.",
     },
     {
-      question: "Who is the best website development company in Venkatagiri?",
+      question: "Who is the best website development team in Venkatagiri?",
       answer:
         "Look for someone who publishes prices, puts the domain and code in your name, supports you after launch and can show real work. Ask every option the same questions. We meet those tests and reply on WhatsApp every day, but it is sensible to compare two or three providers before choosing.",
     },

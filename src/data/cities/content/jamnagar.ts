@@ -9,12 +9,12 @@ const jamnagar: CityContent = {
     description:
       "Websites, export catalogues, local SEO and WhatsApp automation for Jamnagar brass units, bandhani sellers and shops. From ₹10,000, with 5 months free care.",
     keywords: [
-      "website development company in Jamnagar",
+      "website development team in Jamnagar",
       "website designer Jamnagar",
       "web design Jamnagar price",
       "brass parts website Jamnagar",
       "export catalogue website Gujarat",
-      "SEO company Jamnagar",
+      "SEO team Jamnagar",
       "local SEO Jamnagar",
       "ecommerce website Jamnagar",
       "bandhani online store",

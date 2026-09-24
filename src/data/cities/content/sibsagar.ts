@@ -10,12 +10,12 @@ const sibsagar: CityContent = {
       "Assamese websites, Android and iOS apps, local SEO and WhatsApp automation for Sivasagar heritage tourism, oilfield vendors, tea estates, colleges and shops.",
     keywords: [
       "IT services in Sivasagar",
-      "IT company in Sibsagar",
-      "website development company in Sivasagar",
+      "IT services team in Sibsagar",
+      "website development team in Sivasagar",
       "web design in Sibsagar",
-      "app development company in Sivasagar",
+      "app development team in Sivasagar",
       "Android app development in Sibsagar",
-      "software company in Sivasagar",
+      "software team in Sivasagar",
       "SEO services in Sivasagar",
       "digital marketing in Sibsagar",
       "ecommerce website in Sivasagar",
@@ -84,20 +84,20 @@ const sibsagar: CityContent = {
     },
     {
       id: "oilfield-vendors-sivasagar",
-      heading: "Software company in Sivasagar for oilfield contractors and service vendors",
+      heading: "Software team in Sivasagar for oilfield contractors and service vendors",
       paragraphs: [
         "Oil production across the district, from fields such as Lakwa, Geleky, Rudrasagar and Gaurisagar, creates steady work for smaller firms. Vehicle hire operators run crew buses, tankers and pickups; civil and electrical contractors maintain sites; manpower agencies supply workers; caterers, security agencies and material suppliers keep camps and installations running.",
         "These contracts come with heavy record-keeping. Vehicle logbooks must match duty slips, crew attendance must match wage sheets, and material issued must match what was billed. When records live in several notebooks and on a supervisor's phone, preparing a bill takes days and small mismatches hold up payment.",
-        "As a <strong>software company in Sivasagar</strong> in the working sense, we build web tools that record each vehicle duty, crew shift and material issue once, from a phone at the site. The owner sees totals by contract, by vehicle and by worker, pending bills with their age, and alerts before licences, fitness certificates, insurance and worker documents expire. Reports can be exported in the format your client's billing desk expects.",
+        "As a <strong>software team in Sivasagar</strong> in the working sense, we build web tools that record each vehicle duty, crew shift and material issue once, from a phone at the site. The owner sees totals by contract, by vehicle and by worker, pending bills with their age, and alerts before licences, fitness certificates, insurance and worker documents expire. Reports can be exported in the format your client's billing desk expects.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We start with whichever register causes the most billing delay, usually vehicle duty or attendance, and only add further modules once that first part is in regular use.",
       ],
     },
     {
       id: "tea-suppliers-sivasagar",
-      heading: "Website development company in Sivasagar for tea estates and their suppliers",
+      heading: "Website development team in Sivasagar for tea estates and their suppliers",
       paragraphs: [
         "Tea gardens around Nazira and across Sivasagar district support their own ring of businesses: fertiliser and chemical dealers, machinery and spare parts suppliers, transporters, packaging firms, electrical and civil contractors, and small tea growers who sell green leaf to bought-leaf factories. Many of them have served the same estates for years but have almost no presence online.",
-        "When a new estate manager or a buyer in Kolkata or Guwahati looks them up, that absence costs trust. A <strong>website development company in Sivasagar</strong> should give such firms a clear, factual site: products and services, brands handled, the estates or regions served in general terms, equipment and vehicles owned, registration and GST details, and named people to contact.",
+        "When a new estate manager or a buyer in Kolkata or Guwahati looks them up, that absence costs trust. A <strong>website development team in Sivasagar</strong> should give such firms a clear, factual site: products and services, brands handled, the estates or regions served in general terms, equipment and vehicles owned, registration and GST details, and named people to contact.",
         "We never put an estate's name or logo on your site without written permission. For firms that handle repeat orders, we can add an enquiry form with quantity and delivery point, or a simple order status page so managers can check dispatch without phoning. For small growers, a plain page with location, acreage and contact details can be enough.",
         "Such sites start at ₹10,000 and take one to two weeks. They can grow into supplier portals or order systems later if the volume of business justifies it, without discarding what was built first.",
       ],
@@ -127,7 +127,7 @@ const sibsagar: CityContent = {
       heading: "Android app development in Sivasagar, and iOS apps for local firms",
       paragraphs: [
         "Apps make sense when a defined group of people will open them often. In Sivasagar that could be an oilfield contractor's drivers and supervisors logging duties and shifts, a coaching centre sharing marks, attendance and fee reminders, a hospital issuing OPD tokens, a distributor taking repeat orders from shops in Nazira and Demow, or a tour operator whose guests book heritage walks and tea garden visits.",
-        "As an <strong>app development company in Sivasagar</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release normally includes mobile login with OTP, push notifications, the few screens users really need and an admin panel for your team. It is published on Google Play and the Apple App Store under developer accounts that you own.",
+        "As an <strong>app development team in Sivasagar</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release normally includes mobile login with OTP, push notifications, the few screens users really need and an admin panel for your team. It is published on Google Play and the Apple App Store under developer accounts that you own.",
         "<strong>Android app development in Sibsagar</strong> with us starts at ₹40,000. Prices rise with online payment, offline mode for sites with poor signal, GPS tracking, or links to your billing system, and each is listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need an address, timings and a rate list, a website serves them at a fraction of the cost. We will point that out, because an app that sits unused on a phone helps nobody.",
       ],
@@ -230,7 +230,7 @@ const sibsagar: CityContent = {
         "A simple static site is usually live one to two weeks after we receive photographs and details. Larger work takes longer: about three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Owners who send content early get the fastest results.",
     },
     {
-      question: "Who is the best IT company in Sivasagar?",
+      question: "Who is the best IT services team in Sivasagar?",
       answer:
         "Test every provider the same way: do they publish prices, register the domain and code in your name, stay reachable after launch and show work you can verify? Ask each the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before deciding is wise.",
     },

@@ -9,7 +9,7 @@ const malerkotla: CityContent = {
     description:
       "Websites, Google Maps listings and WhatsApp automation for Malerkotla rolling mill makers, badge manufacturers, hosiery units, eateries and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Malerkotla",
+      "website development team in Malerkotla",
       "web designer Malerkotla",
       "website design Malerkotla district",
       "SEO services Malerkotla",

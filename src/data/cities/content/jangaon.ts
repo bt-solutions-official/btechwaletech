@@ -10,12 +10,12 @@ const jangaon: CityContent = {
       "Telugu and English websites, Android and iOS apps, SEO and WhatsApp automation for Jangaon rice mills, cotton traders, Pembarthi brass artisans, schools and clinics.",
     keywords: [
       "IT services in Jangaon",
-      "IT company in Jangaon",
-      "website development company in Jangaon",
+      "IT services team in Jangaon",
+      "website development team in Jangaon",
       "web design in Jangaon",
-      "app development company in Jangaon",
+      "app development team in Jangaon",
       "Android app development in Jangaon",
-      "software company in Jangaon",
+      "software team in Jangaon",
       "SEO services in Jangaon",
       "digital marketing in Jangaon",
       "ecommerce website in Jangaon",
@@ -74,19 +74,19 @@ const jangaon: CityContent = {
     },
     {
       id: "rice-mills-jangaon",
-      heading: "Software company in Jangaon for rice mills and paddy procurement",
+      heading: "Software team in Jangaon for rice mills and paddy procurement",
       paragraphs: [
         "Paddy is the district's main crop, grown in both kharif and rabi, and rice milling is the town's most visible industry. A mill's year runs on a chain of records: paddy bought from farmers or received from procurement centres, moisture and weight at the gate, milling output and broken percentage, bran and husk sold, rice stock by variety, and lorries dispatched to buyers or government godowns. Much of it still lives in registers and on the manager's phone.",
-        "As a <strong>software company in Jangaon</strong>, we build web tools that bring this chain onto one screen. Each lorry at the gate is entered once with vehicle, source, weight, moisture and rate. Milling batches record input and output, so yield per variety is visible at a glance. Stock updates itself as bags move, dispatches are tied to buyers and invoices, and pending payments show by party and due date.",
+        "As a <strong>software team in Jangaon</strong>, we build web tools that bring this chain onto one screen. Each lorry at the gate is entered once with vehicle, source, weight, moisture and rate. Milling batches record input and output, so yield per variety is visible at a glance. Stock updates itself as bags move, dispatches are tied to buyers and invoices, and pending payments show by party and due date.",
         "Tools of this kind start at ₹60,000 and are put together over six to twelve weeks, often before the rabi harvest so staff can learn them in a quiet month. They work on a mill office computer and on an ordinary Android phone at the weighbridge, with Telugu labels if the staff prefer, and they feed Tally rather than replacing it.",
       ],
     },
     {
       id: "cotton-traders-agri",
-      heading: "IT company in Jangaon for cotton traders, commission agents and farm input dealers",
+      heading: "IT services team in Jangaon for cotton traders, commission agents and farm input dealers",
       paragraphs: [
         "Cotton, maize and pulses fill the fields that are not under paddy, and the town's traders, commission agents, fertiliser and seed dealers, and pesticide shops serve farmers from all twelve mandals. The business depends on credit: inputs sold at sowing, recovered after harvest, with the trader carrying the risk for months.",
-        "As an <strong>IT company in Jangaon</strong>, we build small, sturdy systems for this. An input dealer gets a customer ledger with credit limits, due dates and polite WhatsApp reminders in Telugu. A cotton trader gets lot-wise purchase records, moisture and quality notes, and a clear view of what each ginner still owes. A commission agent gets a daily statement per farmer that ends arguments before they start.",
+        "As an <strong>IT services team in Jangaon</strong>, we build small, sturdy systems for this. An input dealer gets a customer ledger with credit limits, due dates and polite WhatsApp reminders in Telugu. A cotton trader gets lot-wise purchase records, moisture and quality notes, and a clear view of what each ginner still owes. A commission agent gets a daily statement per farmer that ends arguments before they start.",
         "The measure is simple: fewer disputes, fewer missed recoveries, and records that a son studying in Hyderabad can check in two minutes. We keep the screens short, test them with your staff, and never ask a counter clerk to learn something that slows the queue down.",
       ],
     },
@@ -101,10 +101,10 @@ const jangaon: CityContent = {
     },
     {
       id: "hospitals-medical-college",
-      heading: "Website development company in Jangaon for hospitals, clinics and diagnostic centres",
+      heading: "Website development team in Jangaon for hospitals, clinics and diagnostic centres",
       paragraphs: [
         "Healthcare has grown quickly since the district was formed. The government area hospital, the Government Medical College opened in 2023, and a spread of private hospitals, nursing homes, dental clinics and diagnostic labs now serve patients from across the district and neighbouring mandals of Siddipet and Yadadri Bhuvanagiri.",
-        "A <strong>website development company in Jangaon</strong> working for private hospitals has to put accuracy ahead of design. Doctor pages need correct qualifications, departments and OP days. Emergency and ambulance numbers must be right everywhere they appear. Any package price must match the billing counter. We do not publish success rates, awards or testimonials a hospital cannot support, and we keep patient information out of ordinary contact forms.",
+        "A <strong>website development team in Jangaon</strong> working for private hospitals has to put accuracy ahead of design. Doctor pages need correct qualifications, departments and OP days. Emergency and ambulance numbers must be right everywhere they appear. Any package price must match the billing counter. We do not publish success rates, awards or testimonials a hospital cannot support, and we keep patient information out of ordinary contact forms.",
         "Smaller clinics usually need only a handful of pages: doctors, timings, services, directions from the bus stand and railway station, and a WhatsApp appointment button. Larger hospitals can add a doctor directory their staff update themselves, a careers page for nurses and technicians, and a report download area behind a login.",
       ],
     },
@@ -131,7 +131,7 @@ const jangaon: CityContent = {
       heading: "Android app development in Jangaon, and iOS apps for mills, schools and buyers",
       paragraphs: [
         "Build an app only if a known set of people will open it week after week. Around Jangaon, that is true for a rice mill's field agents who record paddy from villages during the season, a school that sends homework, fee reminders and bus alerts to parents every day, a hospital that issues tokens and shares reports, a trader's regular retailers who re-order inputs, and a brass workshop's repeat buyers such as temple committees and gift shops.",
-        "Working remotely as an <strong>app development company in Jangaon</strong>, we write apps in Flutter or React Native, which lets a single codebase serve both Android and iPhone users. The first release normally covers OTP login, push alerts, the handful of screens users need most and a web dashboard for your office. Publishing is done under your own Google Play and Apple developer accounts, so the listing never depends on us.",
+        "Working remotely as an <strong>app development team in Jangaon</strong>, we write apps in Flutter or React Native, which lets a single codebase serve both Android and iPhone users. The first release normally covers OTP login, push alerts, the handful of screens users need most and a web dashboard for your office. Publishing is done under your own Google Play and Apple developer accounts, so the listing never depends on us.",
         "<strong>Android app development in Jangaon</strong> with us begins at ₹40,000. Online payment, offline capture for fields with poor signal, Telugu and English interfaces, and links to mill or billing software each add a clearly priced line. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When customers only need your phone number, timings and a rate list, a website is the cheaper and better answer, and that is what we will suggest. Paying for an app that sits unopened on phones helps nobody.",
       ],
@@ -237,7 +237,7 @@ const jangaon: CityContent = {
         "Most standard sites go live one to two weeks after we receive your text and photos. Expect three to five weeks for a 700+ page SEO site, four to eight for an online store, and six to twelve for mill or trade software. The single biggest factor in speed is how quickly the content reaches us.",
     },
     {
-      question: "Which is the best website development company in Jangaon?",
+      question: "Which is the best website development team in Jangaon?",
       answer:
         "Whoever you pick should book the domain in your name, write prices down, stay reachable after launch and show you live sites they have built. Ask two or three providers the same set of questions and compare. We are happy to be judged on those points and answer WhatsApp every day, but the decision should rest on the comparison.",
     },

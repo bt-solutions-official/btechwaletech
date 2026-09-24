@@ -10,12 +10,12 @@ const ujhani: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Ujhani mentha oil units, grain traders, schools, clinics and shops in Budaun district.",
     keywords: [
       "IT services in Ujhani",
-      "IT company in Ujhani",
-      "website development company in Ujhani",
+      "IT services team in Ujhani",
+      "website development team in Ujhani",
       "web design in Ujhani",
-      "app development company in Ujhani",
+      "app development team in Ujhani",
       "Android app development in Ujhani",
-      "software company in Ujhani",
+      "software team in Ujhani",
       "SEO services in Ujhani",
       "digital marketing in Ujhani",
       "ecommerce website in Ujhani",
@@ -75,19 +75,19 @@ const ujhani: CityContent = {
     },
     {
       id: "mentha-oil-websites",
-      heading: "Website development company in Ujhani for mentha oil and menthol producers",
+      heading: "Website development team in Ujhani for mentha oil and menthol producers",
       paragraphs: [
         "Ujhani has a concentration of firms that distil, trade and process mint: mentha arvensis oil, peppermint oil, spearmint oil and menthol crystals sold to cosmetics, pharmaceutical, food and flavour companies. Many of these buyers are in Delhi, Mumbai, Gujarat or abroad, and they shortlist suppliers online before asking for a sample.",
-        "A <strong>website development company in Ujhani</strong> should give such a firm a site that answers a buyer's first questions: products and grades, the specifications you can support with a certificate of analysis, packing sizes and drum types, minimum order, licences and registrations you actually hold, and a named export or trade contact. Photographs of your own distillation and packing area carry more weight than any stock image.",
+        "A <strong>website development team in Ujhani</strong> should give such a firm a site that answers a buyer's first questions: products and grades, the specifications you can support with a certificate of analysis, packing sizes and drum types, minimum order, licences and registrations you actually hold, and a named export or trade contact. Photographs of your own distillation and packing area carry more weight than any stock image.",
         "We add an enquiry form that asks for product, quantity, destination and required documents, so your team replies with a proper quotation instead of a guess. A capability site starts at ₹10,000; a multilingual version or a buyer portal is quoted separately. See the scope on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "mentha-trade-software",
-      heading: "Software company in Ujhani for mentha traders and distillation records",
+      heading: "Software team in Ujhani for mentha traders and distillation records",
       paragraphs: [
         "The mentha trade depends on numbers that change daily: oil bought from growers by weight and grade, advances given before harvest, batches distilled or refined, stock in drums, rates quoted to buyers and payments due. When this lives in notebooks and memory, disputes and losses follow, especially when rates swing during the season.",
-        "As a <strong>software company in Ujhani</strong> in practical terms, we build web tools where each purchase is entered once with grower, quantity, grade and rate; stock updates automatically; and every grower and buyer has a running balance. Owners see a daily summary on the phone, and reports can be exported to Tally for the accountant.",
+        "As a <strong>software team in Ujhani</strong> in practical terms, we build web tools where each purchase is entered once with grower, quantity, grade and rate; stock updates automatically; and every grower and buyer has a running balance. Owners see a daily summary on the phone, and reports can be exported to Tally for the accountant.",
         "Pricing for such a system begins at ₹60,000, delivered in phases across roughly six to twelve weeks. Purchase and stock come first, since that is where money quietly leaks, and buyer invoices, dispatch notes and a rate history are bolted on once the office trusts the first module.",
       ],
     },
@@ -114,7 +114,7 @@ const ujhani: CityContent = {
       heading: "Android app development in Ujhani, with iOS versions from one codebase",
       paragraphs: [
         "Apps make sense when the same people open them every week. In Ujhani, that could be mentha growers who sell to one trader and want to see rates and payment status, village retailers re-ordering from a wholesaler, parents following a school's notices and fees, or patients booking tokens at a busy clinic.",
-        "We are an <strong>app development company in Ujhani</strong> only in the remote sense, and our tools are Flutter or React Native, which let one set of code serve both Android handsets and iPhones. Version one tends to carry OTP login on the mobile number, push alerts, the handful of screens users really need, and a back-office panel for your staff. Publishing happens on Google Play and Apple's App Store through developer accounts that belong to you.",
+        "We are an <strong>app development team in Ujhani</strong> only in the remote sense, and our tools are Flutter or React Native, which let one set of code serve both Android handsets and iPhones. Version one tends to carry OTP login on the mobile number, push alerts, the handful of screens users really need, and a back-office panel for your staff. Publishing happens on Google Play and Apple's App Store through developer accounts that belong to you.",
         "<strong>Android app development in Ujhani</strong> with us starts at ₹40,000. Costs grow with payment collection, offline entry for areas with weak signal, Hindi and English screens, maps and links to your stock or accounts data. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, a rate list and a phone number, a website does that for far less, and we will say so. An app that sits unopened after the first week is money thrown away.",
       ],
@@ -157,9 +157,9 @@ const ujhani: CityContent = {
     },
     {
       id: "remote-team-ujhani",
-      heading: "How our remote IT company in the Ujhani and Budaun area works",
+      heading: "How our remote IT services team in the Ujhani and Budaun area works",
       paragraphs: [
-        "Anyone looking for an <strong>IT company in Ujhani</strong> may picture a shopfront near the bus stand. We are a distributed team, so paperwork replaces the shopfront. An opening call maps your trade and customers; afterwards you get a screen or page outline, dates and a costed list. After your go-ahead, preview links arrive that you can open on your own handset and pass to your partners.",
+        "Anyone looking for an <strong>IT services team in Ujhani</strong> may picture a shopfront near the bus stand. We are a distributed team, so paperwork replaces the shopfront. An opening call maps your trade and customers; afterwards you get a screen or page outline, dates and a costed list. After your go-ahead, preview links arrive that you can open on your own handset and pass to your partners.",
         "We reply on WhatsApp every day of the week on Indian Standard Time. Hindi text comes to you for checking before it goes live, and nothing is published without your approval. If a delay comes up, you hear about it the day we know.",
         "Instalments fall due only as you see finished work, and no invoice is raised until the quote carries your written approval. Drop a line via the <a href=\"/contact/\">contact page</a> saying what you sell and to whom, and we take it from there.",
       ],
@@ -229,7 +229,7 @@ const ujhani: CityContent = {
         "Plan on one to two weeks for a static site, counted from the day your text and photos reach us. SEO sites of 700+ pages need three to five weeks, stores four to eight and bespoke software six to twelve. Delays nearly always come from waiting on content, so gathering it early helps most.",
     },
     {
-      question: "Which is the best website development company in Ujhani?",
+      question: "Which is the best website development team in Ujhani?",
       answer:
         "Nobody can honestly claim that title for every business. Judge candidates on whether prices are published, whether the domain and code sit in your name, whether they answer after handover and whether their past sites actually work. We pass those checks and reply daily on WhatsApp, yet getting a second quote is still wise.",
     },

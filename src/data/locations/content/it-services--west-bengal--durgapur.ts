@@ -7,42 +7,42 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Durgapur",
     description:
-      "Freelance software developers for Durgapur plant vendors, institutes and hospitals, compared with a software development company: dashboards, AI automation, SEO.",
+      "Freelance software developers for Durgapur plant vendors, institutes and hospitals, compared with a software development team: dashboards, AI automation, SEO.",
     keywords: [
       "iOS app development Durgapur",
       "iPhone app developers Durgapur",
       "Android and iOS app development Durgapur",
       "mobile app developers Durgapur",
-      "software development company in Durgapur",
-      "IT company in Durgapur",
+      "software development team in Durgapur",
+      "IT services team in Durgapur",
       "IT solutions Durgapur",
       "custom software development Durgapur",
       "industrial website design Durgapur",
       "vendor management software Durgapur",
       "production dashboard Durgapur",
-      "AI automation company Durgapur",
+      "AI automation team Durgapur",
       "WhatsApp automation Durgapur",
       "mobile app development Durgapur",
       "college management software Durgapur",
       "hospital appointment software Durgapur",
-      "SEO company Durgapur",
+      "SEO team Durgapur",
       "web developer near City Centre Durgapur",
       "IT support near me Durgapur",
-      "software company Bidhannagar Durgapur",
+      "software team Bidhannagar Durgapur",
       "Asansol Durgapur software developers",
       "দুর্গাপুরে সফটওয়্যার ডেভেলপমেন্ট কোম্পানি",
-      "Durgapur mein software company",
+      "Durgapur mein software team",
     ],
   },
   hero: {
     eyebrow: "Durgapur · Paschim Bardhaman · West Bengal",
     h1: "Freelance software developers for Durgapur's plant suppliers, institutes and hospitals",
     lede:
-      "Searching for a software development company in Durgapur? BtechWaleTech is a freelance group of three engineers in India building job-card systems for fabrication shops, compliance trackers for steel-plant vendors, admission portals for colleges, OPD booking for hospitals, and the dashboards owners use to see all of it at once. We also build credible industrial websites and handle SEO, hosting and support, with starting prices published up front.",
+      "Searching for a software development team in Durgapur? BtechWaleTech is a freelance group of three engineers in India building job-card systems for fabrication shops, compliance trackers for steel-plant vendors, admission portals for colleges, OPD booking for hospitals, and the dashboards owners use to see all of it at once. We also build credible industrial websites and handle SEO, hosting and support, with starting prices published up front.",
     pills: ["Web apps and software from ₹60,000", "Automation from ₹40,000", "Industrial sites from ₹10,000", "Tally and Excel integration", "Code and accounts in your name"],
   },
   quickAnswer:
-    "Rather than a software development company in Durgapur, BtechWaleTech is a freelance group of three remote engineers that builds custom software and dashboards from ₹60,000 in six to twelve weeks, AI and WhatsApp automation from ₹40,000 in two to four weeks, and industrial websites from ₹10,000. We have no Durgapur office, and an itemised quote arrives in about two working days.",
+    "Rather than a software development team in Durgapur, BtechWaleTech is a freelance group of three remote engineers that builds custom software and dashboards from ₹60,000 in six to twelve weeks, AI and WhatsApp automation from ₹40,000 in two to four weeks, and industrial websites from ₹10,000. We have no Durgapur office, and an itemised quote arrives in about two working days.",
   snapshot: [
     { label: "Industrial anchor", value: "Durgapur Steel Plant and Alloy Steels Plant of SAIL, surrounded by ancillary fabrication, engineering and refractory units" },
     { label: "Wider belt", value: "The Durgapur–Raniganj–Asansol industrial belt covering steel, coal, power, cement, refractories and engineering" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "durgapur-software-company",
-      heading: "What should you expect from a software development company in Durgapur?",
+      heading: "What should you expect from a software development team in Durgapur?",
       paragraphs: [
-        "A good software development company in Durgapur should understand industrial workflows as well as code: work orders, gate passes, material issue slips, inspection reports and vendor bills. Durgapur's economy grew around the steel plant and its ancillaries, so the most valuable software here usually replaces paper on a shop floor or in a purchase office rather than decorating a homepage.",
+        "A good software development team in Durgapur should understand industrial workflows as well as code: work orders, gate passes, material issue slips, inspection reports and vendor bills. Durgapur's economy grew around the steel plant and its ancillaries, so the most valuable software here usually replaces paper on a shop floor or in a purchase office rather than decorating a homepage.",
         "The city also has a second economy that is easy to overlook: education and healthcare. NIT Durgapur, private engineering and nursing colleges, coaching institutes and schools serve students from across Paschim Bardhaman, Bankura and Birbhum, while multi-speciality hospitals in and around City Centre receive patients from the whole region. Those institutions need admission portals, fee systems, appointment booking and report delivery, all of which are software problems, not website problems.",
         "BtechWaleTech covers both sides. We are a freelance group of three engineers, with no office in Durgapur, building <a href=\"/services/\">custom software, web apps, mobile apps, automation, dashboards and websites</a>. We start with a call about your current process, write a scope in plain English, show clickable screens before coding, and hand over the code, database and hosting accounts in your name at the end.",
       ],
@@ -201,7 +201,7 @@ const content: CityContent = {
     },
     {
       id: "cost-durgapur",
-      heading: "How much does a software development company in Durgapur charge?",
+      heading: "How much does a software development team in Durgapur charge?",
       paragraphs: [
         "With BtechWaleTech, custom software for a Durgapur business starts at ₹60,000, AI automation and Android and iOS apps at ₹40,000 each, online stores at ₹50,000, a 700+ page SEO website at ₹20,000 and a static website at ₹10,000. Final prices depend on modules, users, integrations and data migration, and each quote lists them line by line.",
         "Industrial projects vary widely. A job-card system for one workshop with ten users is a modest build; a multi-plant system with vendor portals, inspection workflows and customer logins is several phases of work. We recommend starting with the module that removes the biggest pain, proving value, and extending from there.",
@@ -219,7 +219,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-durgapur",
-      heading: "Freelance developers vs a software development company in Durgapur: how to compare before signing",
+      heading: "Freelance developers vs a software development team in Durgapur: how to compare before signing",
       paragraphs: [
         "To compare IT companies in Durgapur fairly, give each the same written requirement and compare itemised quotes, ownership terms, post-launch support and who will actually write the code. Directory listings show many local firms; the differences only appear when you ask the same questions of each.",
         "Ask for a short demonstration of a similar system rather than a brochure. Ask whether you will receive the source code and database, and whether the domain and hosting are registered in your name. Ask how change requests are priced after the scope is agreed. And ask what happens if the developer leaves; a documented codebase in common technology is your insurance.",

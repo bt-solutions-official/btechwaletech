@@ -9,7 +9,7 @@ const sirsa: CityContent = {
     description:
       "Websites, Punjabi and Hindi SEO, online stores and WhatsApp automation for Sirsa, Dabwali, Ellenabad and Rania businesses. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Sirsa",
+      "website development team in Sirsa",
       "web design Sirsa Haryana",
       "website designer Sirsa",
       "SEO services Sirsa",

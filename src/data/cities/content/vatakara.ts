@@ -10,12 +10,12 @@ const vatakara: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Vatakara halwa makers, fish and copra traders, clinics, colleges and shops.",
     keywords: [
       "IT services in Vatakara",
-      "IT company in Vatakara",
-      "website development company in Vatakara",
+      "IT services team in Vatakara",
+      "website development team in Vatakara",
       "web design in Vatakara",
-      "app development company in Vatakara",
+      "app development team in Vatakara",
       "Android app development in Vatakara",
-      "software company in Vatakara",
+      "software team in Vatakara",
       "SEO services in Vatakara",
       "digital marketing in Vatakara",
       "ecommerce website in Vatakara",
@@ -83,10 +83,10 @@ const vatakara: CityContent = {
     },
     {
       id: "coconut-areca-fish-trade",
-      heading: "Software company in Vatakara for copra, areca and fish traders",
+      heading: "Software team in Vatakara for copra, areca and fish traders",
       paragraphs: [
         "Nut Street is Vatakara's old trading lane for coconut, copra and areca nut, and fishing along the coast supports landing centres, merchants, ice suppliers, transporters and processors. These businesses buy from many small suppliers, sell on credit, and settle accounts over weeks. Much of it is still tracked in ledgers and memory.",
-        "As a <strong>software company in Vatakara</strong>, we build small web applications for this kind of trade. Each purchase is entered once with supplier, item, weight, grade and rate; sales post against buyers; advances and payments settle against the same records; and a dues screen shows who owes what, both ways. Daily rate entry and simple reports mean you can check the day's position on a phone before the evening.",
+        "As a <strong>software team in Vatakara</strong>, we build small web applications for this kind of trade. Each purchase is entered once with supplier, item, weight, grade and rate; sales post against buyers; advances and payments settle against the same records; and a dues screen shows who owes what, both ways. Daily rate entry and simple reports mean you can check the day's position on a phone before the evening.",
         "Custom software starts at ₹60,000 and is built over six to twelve weeks in stages, beginning with whichever register causes the most arguments. Data sits in a cloud account registered to you and exports to Excel for your accountant. We do not claim to predict prices; the tool records facts so decisions are made on correct numbers.",
       ],
     },
@@ -104,7 +104,7 @@ const vatakara: CityContent = {
       heading: "Android app development in Vatakara, plus iOS apps for Gulf-based customers",
       paragraphs: [
         "An app is worth its cost when a known group of people opens it regularly. Around Vatakara, that means tuition and entrance coaching centres with hundreds of students, clinics with repeat patients, schools sending notices to parents, snack makers whose customers in the Gulf reorder every few months, and contractors whose site supervisors report daily work.",
-        "As an <strong>app development company in Vatakara</strong> working remotely, we build in Flutter or React Native so one codebase serves both Android phones and iPhones, which matters when many customers are overseas on iOS. A first version usually has mobile number login, push notifications, the main screens your users need and an admin panel. We publish on Google Play and the Apple App Store using developer accounts in your name.",
+        "As an <strong>app development team in Vatakara</strong> working remotely, we build in Flutter or React Native so one codebase serves both Android phones and iPhones, which matters when many customers are overseas on iOS. A first version usually has mobile number login, push notifications, the main screens your users need and an admin panel. We publish on Google Play and the Apple App Store using developer accounts in your name.",
         "<strong>Android app development in Vatakara</strong> with us starts at ₹40,000. Costs rise with payments, Malayalam interfaces, offline use, maps and links to other software, and the quote shows each as a separate line. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your hours, menu or price list, location and phone number, a website and Maps listing do that job at a quarter of the cost. We will recommend that instead, because an app deleted after a week helps nobody.",
       ],
@@ -120,10 +120,10 @@ const vatakara: CityContent = {
     },
     {
       id: "clinics-hospitals-vatakara",
-      heading: "IT company in Vatakara for hospitals, dental and eye clinics",
+      heading: "IT services team in Vatakara for hospitals, dental and eye clinics",
       paragraphs: [
         "Vatakara serves patients from a long strip of coast and the villages inland, and its hospitals, dental clinics, eye clinics, physiotherapy centres and labs see a steady flow. Kerala patients are well informed; they compare doctors, look up reviews and want to know waiting times before they travel.",
-        "An <strong>IT company in Vatakara</strong> working with healthcare should provide exactly that information. Doctor profiles with qualifications and consulting days, departments, test preparation instructions, insurance or scheme information where applicable, emergency numbers, and appointment requests through WhatsApp or a short form. Malayalam pages matter for older patients and their families.",
+        "An <strong>IT services team in Vatakara</strong> working with healthcare should provide exactly that information. Doctor profiles with qualifications and consulting days, departments, test preparation instructions, insurance or scheme information where applicable, emergency numbers, and appointment requests through WhatsApp or a short form. Malayalam pages matter for older patients and their families.",
         "We avoid claims that cannot be supported, never use patient photographs or reviews without written consent, and keep appointment data in accounts you control. Busy hospitals may benefit from a token app, from ₹40,000, but most clinics start well with a website and WhatsApp automation.",
       ],
     },
@@ -138,10 +138,10 @@ const vatakara: CityContent = {
     },
     {
       id: "contractors-cooperatives",
-      heading: "Website development company in Vatakara for contractors, workshops and cooperatives",
+      heading: "Website development team in Vatakara for contractors, workshops and cooperatives",
       paragraphs: [
         "The Uralungal Labour Contract Co-operative Society, founded near Vatakara in 1925, grew from a local workers' collective into one of India's best-known construction cooperatives, and its example shaped a local culture of contracting, engineering and organised work. Around it are many smaller contractors, electricians, plumbers, fabrication shops, interior firms and building material dealers.",
-        "A <strong>website development company in Vatakara</strong> should help these firms look as capable as they are. A clean site lists services, equipment, completed work with the client's permission, licences and registrations, service areas and named contacts. A quotation form that accepts drawings, and for regular bidders, a shareable folder of registration certificates, saves time with every tender.",
+        "A <strong>website development team in Vatakara</strong> should help these firms look as capable as they are. A clean site lists services, equipment, completed work with the client's permission, licences and registrations, service areas and named contacts. A quotation form that accepts drawings, and for regular bidders, a shareable folder of registration certificates, saves time with every tender.",
         "We never name a client on your site without written permission. A capability website starts at ₹10,000. When the business needs site reports, material tracking or labour attendance, that becomes custom software from ₹60,000, built in stages.",
       ],
     },
@@ -223,7 +223,7 @@ const vatakara: CityContent = {
         "A static website usually goes live within one to two weeks of receiving your content. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Fast feedback on text and photographs is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Vatakara?",
+      question: "Which is the best website development team in Vatakara?",
       answer:
         "Choose a provider that publishes prices, registers your domain and code in your name, shows real work and answers after launch. Ask each candidate the same questions in writing. We meet those tests and reply on WhatsApp all week, but comparing two or three options before deciding is sensible.",
     },

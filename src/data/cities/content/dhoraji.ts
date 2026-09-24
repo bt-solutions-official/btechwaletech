@@ -10,12 +10,12 @@ const dhoraji: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Dhoraji plastic units, oil mills, cotton ginners, traders, schools and clinics.",
     keywords: [
       "IT services in Dhoraji",
-      "IT company in Dhoraji",
-      "website development company in Dhoraji",
+      "IT services team in Dhoraji",
+      "website development team in Dhoraji",
       "web design in Dhoraji",
-      "app development company in Dhoraji",
+      "app development team in Dhoraji",
       "Android app development in Dhoraji",
-      "software company in Dhoraji",
+      "software team in Dhoraji",
       "SEO services in Dhoraji",
       "digital marketing in Dhoraji",
       "ecommerce website in Dhoraji",
@@ -74,19 +74,19 @@ const dhoraji: CityContent = {
     },
     {
       id: "plastic-manufacturers",
-      heading: "Website development company in Dhoraji for plastic product manufacturers",
+      heading: "Website development team in Dhoraji for plastic product manufacturers",
       paragraphs: [
         "Dhoraji has grown into a cluster for plastic goods, and a manufacturers' association has been registered in the town since 2010. Units here make ropes, twine, filaments, granules, woven sacks, household items and other moulded or extruded products, selling through dealers and traders across Gujarat and other states. Buyers who have never visited Dhoraji now check a supplier online before sending an order.",
-        "A <strong>website development company in Dhoraji</strong> should give such a unit a clear B2B catalogue: product ranges with sizes, deniers, colours and packing, minimum order quantities, raw materials used, GST details, factory photographs, dispatch options and named contact people. Pages load fast and read well on the phone of a dealer in Maharashtra or Rajasthan, with an enquiry form that asks for product, quantity and delivery city so each lead arrives complete.",
+        "A <strong>website development team in Dhoraji</strong> should give such a unit a clear B2B catalogue: product ranges with sizes, deniers, colours and packing, minimum order quantities, raw materials used, GST details, factory photographs, dispatch options and named contact people. Pages load fast and read well on the phone of a dealer in Maharashtra or Rajasthan, with an enquiry form that asks for product, quantity and delivery city so each lead arrives complete.",
         "A catalogue site starts at ₹10,000, or ₹20,000 onwards for a 700+ page SEO site covering every product and size. We never list a certification you do not hold or name a customer without written consent. More on this at our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "oil-mills-ginning",
-      heading: "Software company in Dhoraji for oil mills and cotton ginning factories",
+      heading: "Software team in Dhoraji for oil mills and cotton ginning factories",
       paragraphs: [
         "Groundnut and cotton are the main crops across Dhoraji taluka and neighbouring Upleta, Jetpur and Jamkandorna. Oil mills crush groundnut and cotton seed, ginning and pressing factories turn kapas into bales, and traders move seed, oilcake and bales to buyers across Gujarat. Seasonal peaks bring heavy arrivals, and small errors in weight, moisture or rate multiply quickly.",
-        "As a <strong>software company in Dhoraji</strong> we build tools that follow the season. Purchase entries capture farmer or trader, weight, moisture, rate and deductions. Production logs track seed crushed, oil yield and cake output, or kapas ginned and bales pressed. Dispatch registers link each lorry to a buyer and invoice, and payment tracking shows what is due from whom. Owners see daily totals on their phone without waiting for the evening accounts.",
+        "As a <strong>software team in Dhoraji</strong> we build tools that follow the season. Purchase entries capture farmer or trader, weight, moisture, rate and deductions. Production logs track seed crushed, oil yield and cake output, or kapas ginned and bales pressed. Dispatch registers link each lorry to a buyer and invoice, and payment tracking shows what is due from whom. Owners see daily totals on their phone without waiting for the evening accounts.",
         "Such tools start at ₹60,000 and are built in stages over six to twelve weeks. We usually begin with the purchase and stock register, because that is where losses hide, then add production, dispatch and reports. We can export data for your accountant or connect to Tally, and the database sits in an account registered to you.",
       ],
     },
@@ -122,7 +122,7 @@ const dhoraji: CityContent = {
       heading: "Android app development in Dhoraji, with iPhone apps from one codebase",
       paragraphs: [
         "An app is worth building only when a known group of people will open it often. In Dhoraji, good cases include a plastic manufacturer's dealers placing repeat orders and checking dispatch status, an oil mill's sales staff logging shop visits in villages, a coaching class sending test marks and attendance to parents, or a wholesaler taking daily orders from retailers.",
-        "As an <strong>app development company in Dhoraji</strong> working remotely, we build in Flutter or React Native, so a single codebase gives you both the Android app and the iPhone app. A first release usually includes mobile number login, push notifications, the few screens your users need most and a web admin panel for your office. It is published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Dhoraji</strong> working remotely, we build in Flutter or React Native, so a single codebase gives you both the Android app and the iPhone app. A first release usually includes mobile number login, push notifications, the few screens your users need most and a web admin panel for your office. It is published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Dhoraji</strong> starts at ₹40,000. Online payment, offline entry, product images, a Gujarati interface, dealer-specific price lists and extra user roles each add work and appear separately on the quote. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we stage it.",
         "If your customers only need your catalogue, address and phone number, a website does that at far lower cost and nobody has to install anything. In that case we recommend the website instead.",
       ],
@@ -165,7 +165,7 @@ const dhoraji: CityContent = {
     },
     {
       id: "remote-team-ownership-dhoraji",
-      heading: "IT company in Dhoraji without an office: how we work and what you own",
+      heading: "IT services team in Dhoraji without an office: how we work and what you own",
       paragraphs: [
         "None of us is based in Saurashtra, so written records take the place of a shop visit. The first call is about your products, your buyers and the one or two things the site or app must get right. A written scope follows, with pages or screens, dates and an itemised price. Billing starts only after your written approval. During the build, preview links arrive on your phone so you, a partner or your son can check them and comment, and each later payment follows work you have already seen running.",
         "WhatsApp messages are answered seven days a week in IST hours. Gujarati text is shown to you for approval before it goes live, and if a date is at risk, we tell you as soon as we see it rather than on the deadline.",
@@ -174,7 +174,7 @@ const dhoraji: CityContent = {
     },
     {
       id: "rajkot-district-buyers",
-      heading: "App development company in Dhoraji for firms selling across Saurashtra",
+      heading: "App development team in Dhoraji for firms selling across Saurashtra",
       paragraphs: [
         "Many Dhoraji firms sell well beyond the taluka: plastic goods go to dealers across Gujarat and other states, oil and cake to traders in Rajkot and Junagadh districts, and bales to spinning mills. Their sales teams travel, take orders by phone and chase payments across a wide area, often with no single view of who ordered what and who still owes.",
         "A small order and dealer app can change that without a large system. Dealers see their price list, place orders and check dispatch status; sales staff record visits and new enquiries; the office sees pending orders and dues in one screen. Such a tool starts at ₹40,000 as an app, or ₹60,000 onwards when it becomes a fuller order and billing system with Tally export.",
@@ -232,7 +232,7 @@ const dhoraji: CityContent = {
         "A simple site usually takes one to two weeks after your text and photos arrive. A 700+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Late product photos or details are the most common reason for delay.",
     },
     {
-      question: "Which is the best IT company in Dhoraji?",
+      question: "Which is the best IT services team in Dhoraji?",
       answer:
         "No list can answer that fairly, so judge providers by conduct. A good one tells you prices upfront, registers your domain in your name, shows live work and still replies months after launch. We aim to meet all four, but ask other options the same questions before deciding.",
     },

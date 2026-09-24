@@ -10,12 +10,12 @@ const gangarampur: CityContent = {
       "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Gangarampur tant weavers, saree traders, colleges, clinics and shops on NH 512.",
     keywords: [
       "IT services in Gangarampur",
-      "IT company in Gangarampur",
-      "website development company in Gangarampur",
+      "IT services team in Gangarampur",
+      "website development team in Gangarampur",
       "web design in Gangarampur",
-      "app development company in Gangarampur",
+      "app development team in Gangarampur",
       "Android app development in Gangarampur",
-      "software company in Gangarampur",
+      "software team in Gangarampur",
       "SEO services in Gangarampur",
       "digital marketing in Gangarampur",
       "ecommerce website in Gangarampur",
@@ -85,10 +85,10 @@ const gangarampur: CityContent = {
     },
     {
       id: "mahajan-weaver-software",
-      heading: "Software company in Gangarampur for mahajans and weaver networks",
+      heading: "Software team in Gangarampur for mahajans and weaver networks",
       paragraphs: [
         "Much of Gangarampur's handloom work runs through mahajans who give yarn to home weavers, collect finished pieces, pay by the piece and sell onwards to wholesalers. Keeping track of who received how much yarn, which sarees came back, what is owed and which designs are selling has always been done in khata books, and errors quietly cost both sides.",
-        "As a <strong>software company in Gangarampur</strong> in practical terms, we build simple web tools for this chain. Yarn issued to each weaver is entered with count and weight; finished pieces are recorded against it; piece rates and advances are calculated; and the owner sees stock by design and colour, dues to each weaver and sales by buyer. A weaver's statement can be sent on WhatsApp so there is no argument on payment day.",
+        "As a <strong>software team in Gangarampur</strong> in practical terms, we build simple web tools for this chain. Yarn issued to each weaver is entered with count and weight; finished pieces are recorded against it; piece rates and advances are calculated; and the owner sees stock by design and colour, dues to each weaver and sales by buyer. A weaver's statement can be sent on WhatsApp so there is no argument on payment day.",
         "Stock and design data also helps decide what to weave next. When a dashboard shows which borders and colours sold through fastest before last Puja, looms can be planned instead of guessed. We keep the screens in Bengali and large enough to read on an ordinary phone.",
         "These tools start at ₹60,000 and are delivered in stages over six to twelve weeks. We usually begin with the yarn and piece register, because it saves time and disputes from the first month, and add stock and sales reports afterwards.",
       ],
@@ -115,10 +115,10 @@ const gangarampur: CityContent = {
     },
     {
       id: "traders-dealers-gangarampur",
-      heading: "Website development company in Gangarampur for traders, dealers and shops",
+      heading: "Website development team in Gangarampur for traders, dealers and shops",
       paragraphs: [
         "Dakshin Dinajpur is a farming district, and Gangarampur's market streets serve the families who grow its crops. Seed, fertiliser and pesticide dealers, hardware and cement shops, motorcycle and electronics dealers, gold shops, and clothing stores all depend on customers who come in from villages across Gangarampur, Kushmandi, Bansihari and Tapan blocks. Kaldighi's fisheries add another small trade.",
-        "A <strong>website development company in Gangarampur</strong> should build these sites to be found and trusted rather than admired. The important parts are what you stock, brands you are authorised for, timings, delivery areas, a map pin placed on the right lane, and a WhatsApp button for price checks. Photographs of the real shop tell a village customer they have found the right place.",
+        "A <strong>website development team in Gangarampur</strong> should build these sites to be found and trusted rather than admired. The important parts are what you stock, brands you are authorised for, timings, delivery areas, a map pin placed on the right lane, and a WhatsApp button for price checks. Photographs of the real shop tell a village customer they have found the right place.",
         "For dealers who supply smaller shops on credit, the site can include a private page where each retailer sees orders and balances. That starts as a small web tool and can later become an app if retailers use it weekly.",
         "A static business site starts at ₹10,000 and is ready in one to two weeks after photographs and details arrive. Bengali text is written with you and sent for checking before launch, so product names and spellings match what customers say at the counter.",
       ],
@@ -128,7 +128,7 @@ const gangarampur: CityContent = {
       heading: "Android app development in Gangarampur, and iOS apps for local firms",
       paragraphs: [
         "An app pays off only when a known group of people opens it regularly. In Gangarampur that might be retailers across North Bengal reordering sarees from a mahajan, weavers checking their piece count and dues, students getting routine notices from a coaching centre, or patients booking tokens at a crowded clinic.",
-        "As an <strong>app development company in Gangarampur</strong> working from a distance, we write apps in Flutter or React Native, which lets a single codebase serve Android handsets and iPhones alike. A typical first release includes OTP login, notifications, the handful of screens users truly need and a web dashboard for your staff. Publishing is done on Google Play and the Apple App Store through developer accounts that belong to you.",
+        "As an <strong>app development team in Gangarampur</strong> working from a distance, we write apps in Flutter or React Native, which lets a single codebase serve Android handsets and iPhones alike. A typical first release includes OTP login, notifications, the handful of screens users truly need and a web dashboard for your staff. Publishing is done on Google Play and the Apple App Store through developer accounts that belong to you.",
         "<strong>Android app development in Gangarampur</strong> with us begins at ₹40,000. Adding online payment, offline entry for areas with patchy signal, saree image galleries or a link to your stock register raises the figure, and every such addition shows up as a separate item in the quote. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> walks through the process.",
         "Plenty of businesses here are better off without an app. If customers just need your number, a price list and directions, a website plus WhatsApp covers it at a fraction of the cost, and we will point that out. An app downloaded once and never reopened is wasted money.",
       ],
@@ -233,7 +233,7 @@ const gangarampur: CityContent = {
         "Once we have your photographs and details, a basic website usually goes live in one to two weeks. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Sending material early is the surest way to finish sooner.",
     },
     {
-      question: "Who is the best website development company in Gangarampur?",
+      question: "Who is the best website development team in Gangarampur?",
       answer:
         "Judge any provider on four things: published prices, domain and code registered in your name, support that continues after launch, and real work you can open and check. Ask everyone the same questions. We meet those standards and answer WhatsApp all week, but comparing two or three providers is always sensible.",
     },

@@ -10,12 +10,12 @@ const jaggaiahpet: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Jaggaiahpet cement suppliers, mango exporters, gold shops, schools and clinics.",
     keywords: [
       "IT services in Jaggaiahpet",
-      "IT company in Jaggaiahpet",
-      "website development company in Jaggaiahpet",
+      "IT services team in Jaggaiahpet",
+      "website development team in Jaggaiahpet",
       "web design in Jaggaiahpet",
-      "app development company in Jaggaiahpet",
+      "app development team in Jaggaiahpet",
       "Android app development in Jaggaiahpet",
-      "software company in Jaggaiahpet",
+      "software team in Jaggaiahpet",
       "SEO services in Jaggaiahpet",
       "digital marketing in Jaggaiahpet",
       "ecommerce website in Jaggaiahpet",
@@ -74,20 +74,20 @@ const jaggaiahpet: CityContent = {
     },
     {
       id: "cement-belt-suppliers",
-      heading: "Website development company in Jaggaiahpet for cement plant suppliers and dealers",
+      heading: "Website development team in Jaggaiahpet for cement plant suppliers and dealers",
       paragraphs: [
         "More than ten cement plants operate in and around Jaggaiahpet, and a whole economy has grown up around them. Muktyala Road alone is lined with cement dealers. Around the plants you find limestone and coal transporters, fly ash suppliers, bag and packaging firms, engineering workshops, electrical and civil contractors, canteens, security agencies, and labour contractors.",
-        "Plant purchase departments and project buyers look suppliers up online before placing orders. A <strong>website development company in Jaggaiahpet</strong> should give these firms a clean, factual site: services and capacity, equipment and fleet, licences and registrations, safety record, photographs of real work, sectors served and named contacts. The site should read well on a desktop in a head office in Hyderabad or Chennai, not just on a phone.",
+        "Plant purchase departments and project buyers look suppliers up online before placing orders. A <strong>website development team in Jaggaiahpet</strong> should give these firms a clean, factual site: services and capacity, equipment and fleet, licences and registrations, safety record, photographs of real work, sectors served and named contacts. The site should read well on a desktop in a head office in Hyderabad or Chennai, not just on a phone.",
         "For cement and building material dealers, a different site works: brands stocked, grades available, delivery areas, minimum quantities, and a WhatsApp button for today's rate. Masons and small contractors want the rate and delivery time; they rarely read long paragraphs.",
         "We never name a plant or customer on your site without their written permission. Static sites like these start at ₹10,000 and can be extended into a dealer ordering portal later. See our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "transport-fleet-software",
-      heading: "Software company in Jaggaiahpet for truck owners and cement transporters",
+      heading: "Software team in Jaggaiahpet for truck owners and cement transporters",
       paragraphs: [
         "Cement moves out of Jaggaiahpet by road in large volumes, and limestone, coal and fly ash move in. Truck owners with five or fifty vehicles keep track of trips, loading slips, freight rates, diesel advances, tolls, driver payments, tyre and repair costs, and permits and insurance that expire on different dates. Most of it lives in diaries, phone calls and WhatsApp photos of slips.",
-        "Working as a <strong>software company in Jaggaiahpet</strong>, we build web tools that turn this into one record. Each trip is entered once from a phone with truck number, slip number, route, tonnage and rate. The system totals freight per truck, per party and per month, lists outstanding payments, and warns before a fitness certificate, permit or insurance policy runs out. A daily summary can reach the owner on WhatsApp.",
+        "Working as a <strong>software team in Jaggaiahpet</strong>, we build web tools that turn this into one record. Each trip is entered once from a phone with truck number, slip number, route, tonnage and rate. The system totals freight per truck, per party and per month, lists outstanding payments, and warns before a fitness certificate, permit or insurance policy runs out. A daily summary can reach the owner on WhatsApp.",
         "Such tools start at ₹60,000 and take six to twelve weeks, delivered in stages so the trip register starts working first. Driver apps for photographing slips and logging diesel can come next. If your accountant uses Tally, we export entries in a format they can import directly, so nothing is typed twice.",
       ],
     },
@@ -115,7 +115,7 @@ const jaggaiahpet: CityContent = {
       heading: "Android app development in Jaggaiahpet, and iOS apps for local businesses",
       paragraphs: [
         "Apps make sense in Jaggaiahpet where a fixed group of people uses them regularly. Examples: a transporter's drivers logging trips and uploading slips, a building material dealer taking repeat orders from masons and contractors, a school sending homework and notices to parents, a jeweller running a savings scheme for regular customers, or a hospital issuing tokens and reports.",
-        "As an <strong>app development company in Jaggaiahpet</strong> working remotely, we build in Flutter or React Native, so a single codebase runs on both Android and iPhone. A first version usually has mobile number login, push notifications, the core screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Jaggaiahpet</strong> working remotely, we build in Flutter or React Native, so a single codebase runs on both Android and iPhone. A first version usually has mobile number login, push notifications, the core screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Jaggaiahpet</strong> with us starts at ₹40,000. GPS tracking, offline mode for highway stretches with poor signal, payments and Tally integration add to the cost, and each is listed separately. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses are better served by a website. If customers only need your address, rates and timings, a site does that job for a quarter of the price, and we will suggest it rather than sell you an app nobody opens.",
       ],
@@ -225,7 +225,7 @@ const jaggaiahpet: CityContent = {
         "A static site usually goes live in one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Owners who send content early get their sites soonest.",
     },
     {
-      question: "Who is the best website development company in Jaggaiahpet?",
+      question: "Who is the best website development team in Jaggaiahpet?",
       answer:
         "Look for a provider that publishes prices, registers the domain and code in your name, shows real work and answers after launch. Ask everyone the same questions and compare written replies. We meet those standards and reply on WhatsApp every day, but comparing two or three options first is sensible.",
     },

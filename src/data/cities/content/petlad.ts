@@ -10,12 +10,12 @@ const petlad: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Petlad GIDC units, tobacco traders, textile firms, NRI families, schools and shops.",
     keywords: [
       "IT services in Petlad",
-      "IT company in Petlad",
-      "website development company in Petlad",
+      "IT services team in Petlad",
+      "website development team in Petlad",
       "web design in Petlad",
-      "app development company in Petlad",
+      "app development team in Petlad",
       "Android app development in Petlad",
-      "software company in Petlad",
+      "software team in Petlad",
       "SEO services in Petlad",
       "digital marketing in Petlad",
       "ecommerce website in Petlad",
@@ -74,20 +74,20 @@ const petlad: CityContent = {
     },
     {
       id: "gidc-petlad-manufacturers",
-      heading: "Website development company in Petlad for GIDC manufacturers",
+      heading: "Website development team in Petlad for GIDC manufacturers",
       paragraphs: [
         "The GIDC estate at Petlad houses small and medium manufacturing and processing units, each with its own product line and set of regular customers. Those buyers are distributors, contractors and larger companies across Gujarat and beyond, and almost all of them check a supplier online before calling.",
-        "A <strong>website development company in Petlad</strong> serving these units should build for purchase managers. The site needs a clear product or capability list, specifications, photographs of real products and machines, capacity, quality checks, GST and registration details, and a named person who replies. It must look professional on an office desktop and still open quickly on a dealer's phone.",
+        "A <strong>website development team in Petlad</strong> serving these units should build for purchase managers. The site needs a clear product or capability list, specifications, photographs of real products and machines, capacity, quality checks, GST and registration details, and a named person who replies. It must look professional on an office desktop and still open quickly on a dealer's phone.",
         "We add an enquiry form that records product, quantity and delivery location in one sheet, so leads do not disappear in chat threads. A capability website is a static site from ₹10,000; a large catalogue with hundreds of product pages falls in our SEO website range, from ₹20,000. We never list a customer on your site without that customer's written permission.",
       ],
     },
     {
       id: "tobacco-produce-traders",
-      heading: "Software company in Petlad for tobacco and produce traders",
+      heading: "Software team in Petlad for tobacco and produce traders",
       paragraphs: [
         "Charotar has long been Gujarat's main tobacco area, and Petlad's traders buy from growers across the taluka, store in godowns, process and sell to buyers in other states. Grain, pulses and other produce move through the same hands. Every transaction has a grower, a weight, a grade, a rate and a payment that may be settled weeks later.",
         "Many firms still run this in thick ledgers and one person's memory. When a grower asks about his balance or a buyer disputes a weight months later, finding the entry takes time and causes friction.",
-        "Our work as a <strong>software company in Petlad</strong> for this trade is a web tool shaped around the ledger you already keep. A purchase goes in once, with grower, village, weight, grade and rate. Godown stock updates from that entry. Each sale ties to a buyer and an invoice, and money owed in either direction is listed by how old it is. If the accounts already live in Tally, the tool feeds Tally instead of competing with it. Pricing starts at ₹60,000; the purchase register comes first, and the full build is spread over six to twelve weeks.",
+        "Our work as a <strong>software team in Petlad</strong> for this trade is a web tool shaped around the ledger you already keep. A purchase goes in once, with grower, village, weight, grade and rate. Godown stock updates from that entry. Each sale ties to a buyer and an invoice, and money owed in either direction is listed by how old it is. If the accounts already live in Tally, the tool feeds Tally instead of competing with it. Pricing starts at ₹60,000; the purchase register comes first, and the full build is spread over six to twelve weeks.",
       ],
     },
     {
@@ -113,7 +113,7 @@ const petlad: CityContent = {
       heading: "Android app development in Petlad, with iOS apps for the same code",
       paragraphs: [
         "An app pays for itself when the same people use it again and again. In Petlad, sensible uses include dealers re-ordering from a GIDC unit, buying agents recording tobacco purchases in villages, a school sending notices and fee reminders, a hospital issuing tokens, or NRI owners following work on their property in India.",
-        "The build itself is cross-platform. We use Flutter or React Native, which means one set of code for Android and iPhone, handy when a GIDC unit's dealers carry low-cost Android phones and a son in London carries an iPhone. The first version from an <strong>app development company in Petlad</strong> like ours normally has sign-in by mobile number or email, notifications, the handful of screens users truly need and a web panel for your staff. Publishing on Google Play and the Apple App Store is done under your developer accounts.",
+        "The build itself is cross-platform. We use Flutter or React Native, which means one set of code for Android and iPhone, handy when a GIDC unit's dealers carry low-cost Android phones and a son in London carries an iPhone. The first version from an <strong>app development team in Petlad</strong> like ours normally has sign-in by mobile number or email, notifications, the handful of screens users truly need and a web panel for your staff. Publishing on Google Play and the Apple App Store is done under your developer accounts.",
         "<strong>Android app development in Petlad</strong> is priced from ₹40,000. What adds to it: payments inside the app, entry that works without signal, photo uploads, Gujarati and English screens, and links to other software. The quote lists these one by one, and our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> walks through the stages.",
         "One honest caution. If customers only look up your address, hours and prices, a website serves them better and costs far less, and that is what we will suggest. Apps earn their keep only when people come back to them every week.",
       ],
@@ -237,7 +237,7 @@ const petlad: CityContent = {
         "Allow one to two weeks for a shop, clinic or school site, counted from the day your photographs and details arrive. SEO sites of 700+ pages need three to five weeks, online stores four to eight, and custom software six to twelve. The quickest projects are the ones where the family settles the text early.",
     },
     {
-      question: "Which is the best website development company in Petlad?",
+      question: "Which is the best website development team in Petlad?",
       answer:
         "Judge on four things: prices you can see before calling, a domain and code registered to you, examples of live work, and replies that continue after launch. Put identical questions to everyone on your list and compare. We are comfortable being judged that way and answer WhatsApp every day, but a sensible buyer still speaks to two or three providers.",
     },

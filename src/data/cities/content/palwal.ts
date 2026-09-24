@@ -9,12 +9,12 @@ const palwal: CityContent = {
     description:
       "Websites, local SEO and business software for Palwal factories, Prithla and Baghola units, dealers, schools and clinics. Sites from ₹10,000, free upkeep 5 months.",
     keywords: [
-      "website development company in Palwal",
+      "website development team in Palwal",
       "web designer Palwal",
       "website design Palwal Haryana",
       "freelance web developer Palwal",
       "website cost Palwal",
-      "SEO company Palwal",
+      "SEO team Palwal",
       "local SEO Palwal",
       "manufacturer website Prithla",
       "industrial website design Palwal",

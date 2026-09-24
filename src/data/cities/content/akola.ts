@@ -9,7 +9,7 @@ const akola: CityContent = {
     description:
       "Websites, SEO, UPI stores and WhatsApp automation for Akola dal mills, ginners, coaching classes and Tajnapeth shops. From ₹10,000, five months upkeep free.",
     keywords: [
-      "website development company in Akola",
+      "website development team in Akola",
       "web designer Akola",
       "website design Akola Maharashtra",
       "freelance web developer Akola",
@@ -273,7 +273,7 @@ const akola: CityContent = {
     {
       question: "How long before SEO shows results in Akola?",
       answer:
-        "Map listings for nearby searches often improve within six to ten weeks once the profile and website are set up properly. Broader terms such as “website development company in Akola” or “dal mill in Akola” take longer, usually four to eight months of steady work. Anyone promising a guaranteed first position is not being honest, and we will not do it.",
+        "Map listings for nearby searches often improve within six to ten weeks once the profile and website are set up properly. Broader terms such as “website development team in Akola” or “dal mill in Akola” take longer, usually four to eight months of steady work. Anyone promising a guaranteed first position is not being honest, and we will not do it.",
     },
     {
       question: "Do you also work with businesses in Amravati, Washim, Akot and Shegaon?",

@@ -9,7 +9,7 @@ const ranaghat: CityContent = {
     description:
       "Websites, Google Maps setup, saree stores and WhatsApp automation for Ranaghat shops, Phulia weavers, flower traders, clinics and tutors across Nadia.",
     keywords: [
-      "website development company in Ranaghat",
+      "website development team in Ranaghat",
       "web designer Ranaghat Nadia",
       "website design Ranaghat West Bengal",
       "freelance web developer Ranaghat",

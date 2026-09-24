@@ -9,7 +9,7 @@ const sawaiMadhopur: CityContent = {
     description:
       "Websites, local SEO and WhatsApp booking tools for Sawai Madhopur hotels, safari operators, guava growers, schools and shops. Static sites start from ₹10,000.",
     keywords: [
-      "website development company in Sawai Madhopur",
+      "website development team in Sawai Madhopur",
       "web designer Sawai Madhopur",
       "Ranthambore hotel website design",
       "safari booking website Ranthambore",

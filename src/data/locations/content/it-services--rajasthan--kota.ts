@@ -13,8 +13,8 @@ const content: CityContent = {
       "iOS app development Kota",
       "mobile app developers Kota",
       "iPhone app developers Kota",
-      "software development company in Kota",
-      "IT company in Kota",
+      "software development team in Kota",
+      "IT services team in Kota",
       "IT solutions Kota",
       "coaching institute software Kota",
       "hostel management software Kota",
@@ -25,7 +25,7 @@ const content: CityContent = {
       "SEO services Kota",
       "local SEO Talwandi",
       "website developer near me Kota",
-      "software company Indra Vihar Kota",
+      "software team Indra Vihar Kota",
       "ecommerce website Kota Doria sarees",
       "data dashboard for coaching centre",
       "IT support and maintenance Kota",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Kota · Rajasthan · Software and automation",
     h1: "Freelance software developers in Kota for coaching, hostel and industrial businesses",
     lede:
-      "Searching for a software development company in Kota? BtechWaleTech is the freelance alternative: a group of three independent engineers working remotely from India who build admission CRMs, hostel and mess software, test-series portals, WhatsApp follow-up bots and data dashboards for Kota. Websites and SEO come with it, but the heavy lifting is the software that runs your enquiries, fees and students behind the scenes.",
+      "Searching for a software development team in Kota? BtechWaleTech is the freelance alternative: a group of three independent engineers working remotely from India who build admission CRMs, hostel and mess software, test-series portals, WhatsApp follow-up bots and data dashboards for Kota. Websites and SEO come with it, but the heavy lifting is the software that runs your enquiries, fees and students behind the scenes.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Lead-to-admission CRMs", "Hostel and PG apps", "5 months free maintenance"],
   },
   quickAnswer:
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "kota-software-company",
-      heading: "What does a software development company in Kota build, and where does a freelance group fit?",
+      heading: "What does a software development team in Kota build, and where does a freelance group fit?",
       paragraphs: [
-        "A software development company in Kota mostly builds systems that handle students, parents and money: enquiry capture, counselling follow-up, admissions, fee instalments, batch schedules, test results, hostel rooms and mess billing. Websites matter, but in this city they are the front door to a much larger operation that usually runs on registers, Excel files and a dozen WhatsApp groups.",
+        "A software development team in Kota mostly builds systems that handle students, parents and money: enquiry capture, counselling follow-up, admissions, fee instalments, batch schedules, test results, hostel rooms and mess billing. Websites matter, but in this city they are the front door to a much larger operation that usually runs on registers, Excel files and a dozen WhatsApp groups.",
         "That is where we spend most of our effort. BtechWaleTech is a freelance group of three engineers working remotely rather than a software house, and a typical Kota engagement starts with a call where the owner or admin head walks us through a normal day: where an enquiry arrives, who calls back, how the fee receipt is made, how a room is allotted and how a parent hears about a test score. We then write down the parts that repeat, the parts that break in season, and the parts nobody trusts.",
         "From that we propose a build in modules, each with its own price and timeline. A small hostel owner might need only a room and rent tracker with automatic WhatsApp reminders. A mid-sized institute might want a counselling CRM, an online test platform and a results dashboard. Nobody is forced into a bundle they will never use.",
         "Everything we build is yours: the source code, the database, the hosting account and the domain. See our wider <a href='/services/'>services</a> for the full list, or the <a href='/it-services/rajasthan/'>Rajasthan IT services hub</a> for other cities we work with in the state.",
@@ -175,7 +175,7 @@ const content: CityContent = {
     },
     {
       id: "kota-cost-guide",
-      heading: "How much does a software development company in Kota charge?",
+      heading: "How much does a software development team in Kota charge?",
       paragraphs: [
         "Software development in Kota with us starts at ₹60,000 for a custom web app or portal, ₹40,000 for an Android and iOS app or for AI automation, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. These are starting prices; the final figure depends on modules, users, integrations and how much content you already have.",
         "To give a sense of scale: a hostel rent and room tracker with WhatsApp reminders sits near the lower end of custom software. An institute-wide CRM with counsellor apps, test registrations, fee instalments and reporting sits higher, and is often split into phases so the first phase is live before the next admission season. An online test platform with a large question bank and analytics is one of the larger builds.",
@@ -193,9 +193,9 @@ const content: CityContent = {
     },
     {
       id: "choose-it-company-kota",
-      heading: "Freelance team vs an IT company in Kota: how to choose without regretting it",
+      heading: "Freelance team vs an IT services team in Kota: how to choose without regretting it",
       paragraphs: [
-        "Choosing an IT company in Kota comes down to four checks: who owns the code and data, who will actually build it, what happens after launch, and whether the price is itemised. Plenty of coaching ERP vendors rent software yearly and keep your student data on their servers; that may suit some institutes, but you should know it before signing.",
+        "Choosing an IT services team in Kota comes down to four checks: who owns the code and data, who will actually build it, what happens after launch, and whether the price is itemised. Plenty of coaching ERP vendors rent software yearly and keep your student data on their servers; that may suit some institutes, but you should know it before signing.",
         "Ask to see similar work, and ask who writes the code. With us, the three engineers you talk to are the people building your system. Our <a href='/portfolio/'>portfolio</a> shows the kind of sites and apps we deliver, and our <a href='/about/'>about page</a> explains who we are. We do not claim an office in Kota; we work remotely and meet on video calls.",
         "Ask how changes are priced after launch and how quickly bugs are fixed during peak weeks. Ask for the source code, database access and hosting credentials at handover. And be wary of anyone who promises a guaranteed number of admissions or a fixed Google ranking, because nobody controls either.",
       ],
@@ -262,7 +262,7 @@ const content: CityContent = {
     { question: "Is online test data secure?", answer: "We host on reputable cloud servers with encrypted connections, role-based logins, regular backups and restricted database access. Question banks can be hidden from students until test time, and results are visible only to the right accounts. We are also honest that no platform can fully stop screenshots or screen recording of on-screen content." },
     { question: "Can a small tutor or single hostel afford this?", answer: "Yes. Not every project needs custom software. A single hostel owner might start with a website from ₹10,000 and a WhatsApp automation from ₹40,000, then add a full management app later. We would rather suggest a smaller first step that works than sell a large system you do not need yet." },
     { question: "Do you work with businesses outside the coaching sector?", answer: "Yes. We also build for Kota stone traders, Kota Doria weavers, industrial suppliers, clinics, restaurants and retailers. The services are the same, from websites and SEO to ecommerce, custom portals, automation and dashboards, but the workflows we design are different for each business." },
-    { question: "Which is the best software development company in Kota?", answer: "There is no single best choice; it depends on what you need built. Kota has local firms selling ready-made coaching ERPs and web studios, and remote teams like BtechWaleTech that write custom software. Compare who owns the code and data, whether the quote is itemised, who actually writes the code, and what support looks like after launch. Ask each firm to show similar working software, not just screenshots." },
+    { question: "Which is the best software development team in Kota?", answer: "There is no single best choice; it depends on what you need built. Kota has local firms selling ready-made coaching ERPs and web studios, and remote teams like BtechWaleTech that write custom software. Compare who owns the code and data, whether the quote is itemised, who actually writes the code, and what support looks like after launch. Ask each firm to show similar working software, not just screenshots." },
     { question: "How do we start?", answer: "Send us a WhatsApp message or use the <a href='/contact/'>contact page</a> with a short description of what you want to fix or build. We ask a few questions, usually arrange a call, and send an itemised quote in about two working days. Work begins once you approve the scope and the first milestone payment is made." },
   ],
   nearby: ["sawai-madhopur", "tonk", "bhilwara", "ajmer", "jaipur", "udaipur", "ujjain", "neemuch"],

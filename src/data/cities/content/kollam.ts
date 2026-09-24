@@ -9,7 +9,7 @@ const kollam: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Kollam cashew exporters, seafood firms, clinics and shops. Sites from ₹10,000; SEO sites from ₹20,000.",
     keywords: [
-      "website development company in Kollam",
+      "website development team in Kollam",
       "web design Kollam",
       "website designer Kollam Kerala",
       "freelance web developer Kollam",

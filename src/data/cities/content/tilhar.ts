@@ -10,12 +10,12 @@ const tilhar: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Tilhar mandi traders, highway businesses, clinics, schools and shops in Shahjahanpur.",
     keywords: [
       "IT services in Tilhar",
-      "IT company in Tilhar",
-      "website development company in Tilhar",
+      "IT services team in Tilhar",
+      "website development team in Tilhar",
       "web design in Tilhar",
-      "app development company in Tilhar",
+      "app development team in Tilhar",
       "Android app development in Tilhar",
-      "software company in Tilhar",
+      "software team in Tilhar",
       "SEO services in Tilhar",
       "digital marketing in Tilhar",
       "ecommerce website in Tilhar",
@@ -74,10 +74,10 @@ const tilhar: CityContent = {
     },
     {
       id: "mandi-traders-software",
-      heading: "Software company in Tilhar for mandi arhtiyas and grain traders",
+      heading: "Software team in Tilhar for mandi arhtiyas and grain traders",
       paragraphs: [
         "The Tilhar mandi is one of the markets around Shahjahanpur where wheat changes hands in large volumes after the rabi harvest. Commission agents, traders, transporters and labour contractors all work in the same few busy weeks, and the paperwork piles up fast: who sold how many quintals at what rate, what was deducted, which buyer has paid, which farmer is still waiting.",
-        "As a <strong>software company in Tilhar</strong> in the everyday sense, we build small web tools for this trade. Each purchase is entered once from a phone or counter computer with farmer, vehicle, weight, rate and deductions. Sales to buyers and mills are linked to lots. Balances update as payments arrive, and the owner can see dues by farmer, buyer and date without calling anyone.",
+        "As a <strong>software team in Tilhar</strong> in the everyday sense, we build small web tools for this trade. Each purchase is entered once from a phone or counter computer with farmer, vehicle, weight, rate and deductions. Sales to buyers and mills are linked to lots. Balances update as payments arrive, and the owner can see dues by farmer, buyer and date without calling anyone.",
         "Budget ₹60,000 onwards for a register like this, delivered piece by piece across six to twelve weeks. The ideal moment to start is well before the wheat arrives, giving your munim and staff time to practise with dummy entries. Your accountant can pull exports whenever needed, and the database lives on hosting that belongs to you.",
       ],
     },
@@ -93,10 +93,10 @@ const tilhar: CityContent = {
     },
     {
       id: "schools-coaching-tilhar",
-      heading: "Website development company in Tilhar for schools, colleges and coaching",
+      heading: "Website development team in Tilhar for schools, colleges and coaching",
       paragraphs: [
         "Education is one of Tilhar's biggest draws. Schools, inter colleges, degree colleges, a women's polytechnic at Jahanpur and many coaching centres serve students from the town and surrounding villages. Parents want to know admission dates, fees, transport routes, results and whether a school is affiliated to the board it claims.",
-        "A <strong>website development company in Tilhar</strong> working for these institutions should put those facts on the page plainly, in Hindi first, and keep them current. We build admission pages with forms that save to a Google Sheet, fee and transport route pages, notice boards and result announcements, and photo galleries of facilities that are real rather than stock images.",
+        "A <strong>website development team in Tilhar</strong> working for these institutions should put those facts on the page plainly, in Hindi first, and keep them current. We build admission pages with forms that save to a Google Sheet, fee and transport route pages, notice boards and result announcements, and photo galleries of facilities that are real rather than stock images.",
         "Coaching centres get batch timings, fee details, faculty profiles and test schedules. Every institution gets a Google Business Profile linked to its site, so it shows on Maps when a parent searches from home. We never publish affiliation or result claims that you cannot back up with documents.",
       ],
     },
@@ -105,7 +105,7 @@ const tilhar: CityContent = {
       heading: "Android app development in Tilhar, and iOS apps for local businesses",
       paragraphs: [
         "An app is only worth building when a known group of people uses it often. In Tilhar, good candidates are a school that sends homework, fee reminders and notices to parents; a coaching centre running daily tests; a seed and fertiliser dealer taking repeat orders from village retailers; or a trader whose staff record purchases at the mandi.",
-        "We work as an <strong>app development company in Tilhar</strong> from a distance, writing apps in Flutter or React Native so that Android handsets and iPhones share one codebase. Version one normally has OTP login, notifications, only the handful of screens people will really use, and a back-office panel for your team. Publishing happens on Google Play and Apple's App Store through developer accounts that you own.",
+        "We work as an <strong>app development team in Tilhar</strong> from a distance, writing apps in Flutter or React Native so that Android handsets and iPhones share one codebase. Version one normally has OTP login, notifications, only the handful of screens people will really use, and a back-office panel for your team. Publishing happens on Google Play and Apple's App Store through developer accounts that you own.",
         "<strong>Android app development in Tilhar</strong> with us starts at ₹40,000. The cost rises with online fee or order payments, offline entry for places with weak signal, maps, multiple user roles and links to other software, and each of these is listed separately on the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how a project runs.",
         "If your customers only need your address, timings and a way to call, an app is the wrong spend. A website and a proper Maps listing handle that for a fraction of the cost, and we will say so.",
       ],
@@ -130,10 +130,10 @@ const tilhar: CityContent = {
     },
     {
       id: "retail-bazaar-tilhar",
-      heading: "IT company in Tilhar for bazaar shops, jewellers and wholesalers",
+      heading: "IT services team in Tilhar for bazaar shops, jewellers and wholesalers",
       paragraphs: [
         "Tilhar's bazaar sells clothing, jewellery, utensils, electronics, furniture, hardware and farm tools to a large rural catchment, with the busiest weeks after harvest and before weddings and festivals. Many buyers now check prices and stock on WhatsApp before travelling in.",
-        "An <strong>IT company in Tilhar</strong> should start such a shop with the basics: a correct Maps listing, a WhatsApp Business catalogue, and one clear page with address, timings, what you stock and how to ask for a rate. Jewellers can explain hallmarking and making charges; wholesalers can share a price list that updates without a call.",
+        "An <strong>IT services team in Tilhar</strong> should start such a shop with the basics: a correct Maps listing, a WhatsApp Business catalogue, and one clear page with address, timings, what you stock and how to ask for a rate. Jewellers can explain hallmarking and making charges; wholesalers can share a price list that updates without a call.",
         "Once that brings enquiries, you can add a wedding season catalogue, an order page for delivery in town or a customer list for WhatsApp updates. We suggest these only after the basics work.",
         "Tilhar also has a story few towns can match. Under Jahangir it was called Kamaan Nagar because its workshops made bows for the Mughal army, and the remains of an old fort still stand in Dataganj mohalla. Schools, local historians and heritage-minded shops can use that history on an “about Tilhar” page, written carefully from sources you can cite, which gives visitors and students a reason to stay on the site and share it.",
       ],
@@ -225,7 +225,7 @@ const tilhar: CityContent = {
         "Once your text and photos reach us, a basic site generally goes online within a fortnight. Plan three to five weeks for a 700+ page SEO build, four to eight for a store and six to twelve for custom software. Late content is the usual cause of delay.",
     },
     {
-      question: "Which is the best website development company in Tilhar?",
+      question: "Which is the best website development team in Tilhar?",
       answer:
         "Hold every contender to one checklist: are prices published, will the domain and code be yours, can you see live work, and who helps after launch? We pass that checklist and answer WhatsApp daily, yet talking to two or three providers is still wise.",
     },

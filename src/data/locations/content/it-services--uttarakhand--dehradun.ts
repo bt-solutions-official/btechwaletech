@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Dehradun",
     description:
-      "Comparing a software development company in Dehradun? Hire our freelance team for custom software, apps, AI automation and dashboards. From ₹60,000, 2-day quote.",
+      "Comparing a software development team in Dehradun? Hire our freelance team for custom software, apps, AI automation and dashboards. From ₹60,000, 2-day quote.",
     keywords: [
-      "software development company in Dehradun",
-      "IT company in Dehradun",
+      "software development team in Dehradun",
+      "IT services team in Dehradun",
       "IT solutions Dehradun",
       "freelance software developer Dehradun",
       "custom software development Dehradun",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Dehradun · Uttarakhand · Freelance software team",
     h1: "Freelance software developers in Dehradun for web apps, AI agents and business automation",
     lede:
-      "Many owners search for a software development company in Dehradun and end up with a sales team between them and the code. BtechWaleTech is different: a freelance group of three engineers working remotely from India who build custom software, SaaS products, school and clinic systems, AI agents and data dashboards for Doon valley organisations, from Rajpur Road startups to Selaqui pharma units, with starting prices in public.",
+      "Many owners search for a software development team in Dehradun and end up with a sales team between them and the code. BtechWaleTech is different: a freelance group of three engineers working remotely from India who build custom software, SaaS products, school and clinic systems, AI agents and data dashboards for Doon valley organisations, from Rajpur Road startups to Selaqui pharma units, with starting prices in public.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "MVPs for Doon startups", "School and coaching systems", "You own every line of code"],
   },
   quickAnswer:
@@ -72,7 +72,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-dehradun",
-      heading: "Freelance developers vs a software development company in Dehradun: which should you hire?",
+      heading: "Freelance developers vs a software development team in Dehradun: which should you hire?",
       paragraphs: [
         "For most Dehradun schools, clinics, startups and manufacturers, a small freelance team suits projects up to a few months long where direct contact with the engineer matters, while a larger software development company in Dehradun suits multi-team programmes that need many parallel developers. BtechWaleTech is a freelance group of three engineers, so we fit the first case.",
         "The practical differences show up in communication and continuity. With a company, you usually speak to a business analyst or project manager who relays requirements to developers you may never meet, and the team can change mid-project. With a freelance group, the people on your WhatsApp are the people writing the code. Pricing tends to be lower because there is no sales layer or city office to fund, and changes can be discussed and made the same day.",
@@ -80,7 +80,7 @@ const content: CityContent = {
       ],
       list: [
         "Freelance group: direct developer contact, lower overhead, suits focused builds",
-        "Software company: more parallel staff, formal processes, higher fixed costs",
+        "Software team: more parallel staff, formal processes, higher fixed costs",
         "Either way: insist on code ownership, itemised quotes and written support terms",
       ],
     },
@@ -241,9 +241,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software development company in Dehradun?",
+      question: "Is BtechWaleTech a software development team in Dehradun?",
       answer:
-        "No. We are a freelance group of three engineers working remotely from India, not a registered software company and not based in Dehradun. We serve Dehradun clients online through WhatsApp, video calls and live preview links. Many people searching for a software development company in Dehradun hire us because they speak directly to the engineers and receive transparent starting prices.",
+        "No. We are a freelance group of three engineers working remotely from India, not a registered software team and not based in Dehradun. We serve Dehradun clients online through WhatsApp, video calls and live preview links. Many people searching for a software development team in Dehradun hire us because they speak directly to the engineers and receive transparent starting prices.",
     },
     {
       question: "How do we pay for the work?",

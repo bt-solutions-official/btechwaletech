@@ -10,12 +10,12 @@ const tirur: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Tirur electronics dealers, fish and betel traders, colleges and clinics.",
     keywords: [
       "IT services in Tirur",
-      "IT company in Tirur",
-      "website development company in Tirur",
+      "IT services team in Tirur",
+      "website development team in Tirur",
       "web design in Tirur",
-      "app development company in Tirur",
+      "app development team in Tirur",
       "Android app development in Tirur",
-      "software company in Tirur",
+      "software team in Tirur",
       "SEO services in Tirur",
       "digital marketing in Tirur",
       "ecommerce website in Tirur",
@@ -74,10 +74,10 @@ const tirur: CityContent = {
     },
     {
       id: "electronics-mobile-dealers",
-      heading: "Software company in Tirur for electronics and mobile phone wholesalers",
+      heading: "Software team in Tirur for electronics and mobile phone wholesalers",
       paragraphs: [
         "Tirur is known across north Kerala as a place to buy electronics and mobile phones, and much of that business is wholesale. Dealers supply handsets, accessories, spare parts, televisions and small appliances to shops in surrounding towns, often on credit and often through calls and voice notes that no one records properly.",
-        "The problems are familiar to anyone in the trade: stock that exists in the ledger but not on the shelf, serial numbers that cannot be traced when a warranty claim comes in, retailers who owe money across several invoices, and price lists that change faster than the salesmen can pass them on. As a <strong>software company in Tirur</strong> in plain terms, we build web tools for exactly this: stock in and out by model and serial or IMEI, warranty and service tracking, retailer-wise credit and collection reminders, and a price list that updates everywhere at once.",
+        "The problems are familiar to anyone in the trade: stock that exists in the ledger but not on the shelf, serial numbers that cannot be traced when a warranty claim comes in, retailers who owe money across several invoices, and price lists that change faster than the salesmen can pass them on. As a <strong>software team in Tirur</strong> in plain terms, we build web tools for exactly this: stock in and out by model and serial or IMEI, warranty and service tracking, retailer-wise credit and collection reminders, and a price list that updates everywhere at once.",
         "These tools start at ₹60,000 and are built in phases over six to twelve weeks. We usually start with the stock and serial register, because it stops losses first, and add the retailer ordering screen once the data inside is reliable. If you already use Tally, we can read from it or post entries to it rather than asking your accountant to change how they work.",
       ],
     },
@@ -110,10 +110,10 @@ const tirur: CityContent = {
     },
     {
       id: "colleges-malayalam-university",
-      heading: "Website development company in Tirur for colleges, schools and training centres",
+      heading: "Website development team in Tirur for colleges, schools and training centres",
       paragraphs: [
         "Tirur is a real education centre. Thunchath Ezhuthachan Malayalam University is here, along with Thunchan Memorial Government College, SSM Polytechnic, which KMEA founded in 1962 as Kerala's first private-sector polytechnic, and several engineering, arts and professional colleges in the taluk. Around them sit coaching centres, computer training institutes, Arabic and Quran schools, and tuition classes that serve students from the whole coastal belt.",
-        "Parents and students want answers quickly: which courses are offered, what the fees or fee ranges are, when admissions open, whether a hostel or bus is available, and who to call. A <strong>website development company in Tirur</strong> working for an institution should put those facts in plain view, keep notices dated, and make the admission enquiry form short enough to finish on a phone.",
+        "Parents and students want answers quickly: which courses are offered, what the fees or fee ranges are, when admissions open, whether a hostel or bus is available, and who to call. A <strong>website development team in Tirur</strong> working for an institution should put those facts in plain view, keep notices dated, and make the admission enquiry form short enough to finish on a phone.",
         "For larger institutions we add course pages that rank for specific searches, results and event archives, downloadable prospectuses and a staff login to post notices without calling a developer. We do not invent rankings, awards or placement figures for any college, and we ask you to confirm every number that appears on the site.",
       ],
     },
@@ -122,7 +122,7 @@ const tirur: CityContent = {
       heading: "Android app development in Tirur, and iOS apps for local businesses",
       paragraphs: [
         "An app is only worth its cost when a defined group of people will open it again and again. In Tirur, strong candidates include retailers re-ordering stock from an electronics wholesaler, fish buyers checking the day's rates and their balance, patients taking tokens at a hospital, parents following notices and fees at a school, and families abroad ordering groceries or gifts for relatives at home.",
-        "As an <strong>app development company in Tirur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users need most and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Tirur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users need most and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Tirur</strong> with us starts at ₹40,000. The price rises with online payments, offline entry for places with a weak signal, maps, barcode or IMEI scanning and integrations with your billing software, and each of those is priced separately in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a price list, a website does that job for a fraction of the cost and needs no download. We will say so, because an app that people delete after one use helps nobody.",
       ],
@@ -232,7 +232,7 @@ const tirur: CityContent = {
         "A static site for a shop is usually live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Tirur?",
+      question: "Which is the best website development team in Tirur?",
       answer:
         "Choose someone who publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask every provider the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before you decide is sensible.",
     },

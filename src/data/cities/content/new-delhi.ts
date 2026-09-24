@@ -9,7 +9,7 @@ const newDelhi: CityContent = {
     description:
       "Websites, SEO and automation for New Delhi NGOs, consultancies, hotels and Connaught Place or Khan Market businesses. From ₹10,000, with every login in your name.",
     keywords: [
-      "website development company New Delhi",
+      "website development team New Delhi",
       "web design Connaught Place",
       "website designer Khan Market",
       "NGO website design New Delhi",

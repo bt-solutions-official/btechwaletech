@@ -9,13 +9,13 @@ const tiruppur: CityContent = {
     description:
       "Export-ready websites, B2B catalogues, SEO and WhatsApp automation for Tiruppur knitwear exporters, job workers, Khaderpet wholesalers and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Tiruppur",
-      "web design company Tirupur",
+      "website development team in Tiruppur",
+      "web design team Tirupur",
       "website designer Tiruppur",
       "knitwear exporter website",
       "garment manufacturer website design",
       "B2B apparel catalogue website",
-      "SEO company Tiruppur",
+      "SEO team Tiruppur",
       "export SEO for garment manufacturers",
       "ecommerce website Tiruppur",
       "innerwear brand online store",
@@ -210,7 +210,7 @@ const tiruppur: CityContent = {
     {
       question: "How much does a website cost in Tiruppur?",
       answer:
-        "Our company profile sites start at ₹10,000, export or wholesale catalogue sites of 700+ pages at ₹20,000, D2C stores at ₹50,000 and custom production software at ₹60,000. When comparing quotes, check who owns the domain and hosting, how many styles are included and what happens after launch.",
+        "Company profile websites from us start at ₹10,000, export or wholesale catalogue sites of 700+ pages at ₹20,000, D2C stores at ₹50,000 and custom production software at ₹60,000. When comparing quotes, check who owns the domain and hosting, how many styles are included and what happens after launch.",
     },
     {
       question: "Tiruppur la en garment company-ku website venum, evvalavu selavu aagum?",

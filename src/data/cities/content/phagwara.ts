@@ -9,7 +9,7 @@ const phagwara: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Phagwara auto-parts makers, IELTS centres, PGs near LPU, banquet halls and NRI-run firms. Sites from ₹10,000, fully yours.",
     keywords: [
-      "website development company in Phagwara",
+      "website development team in Phagwara",
       "web designer Phagwara",
       "website design Kapurthala",
       "SEO services Phagwara",

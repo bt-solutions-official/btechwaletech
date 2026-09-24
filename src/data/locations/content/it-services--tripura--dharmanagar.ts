@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Dharmanagar and North Tripura: billing software, apps, AI automation, dashboards and local SEO. Custom software from ₹60,000.",
     keywords: [
-      "software development company in Dharmanagar",
-      "IT company in Dharmanagar",
+      "software development team in Dharmanagar",
+      "IT services team in Dharmanagar",
       "IT solutions Dharmanagar",
       "freelance software developer Dharmanagar",
       "custom software North Tripura",
@@ -85,10 +85,10 @@ const content: CityContent = {
     },
     {
       id: "dharmanagar-freelance-vs-company",
-      heading: "Hiring a freelance team vs a software development company in Dharmanagar",
+      heading: "Hiring a freelance team vs a software development team in Dharmanagar",
       paragraphs: [
-        "For most Dharmanagar businesses, a freelance group is the practical choice: one focused project, a clear budget and direct contact with the engineers. A software development company makes more sense when you need a large team, formal tenders or people on site every day, which few Dharmanagar projects require.",
-        "Searches for a software development company in Dharmanagar return very few local results; most providers are based in Agartala, Silchar or larger cities. That means you will almost certainly work with someone remotely anyway. The question is whether you get a sales executive who passes messages to a developer or the developers themselves.",
+        "For most Dharmanagar businesses, a freelance group is the practical choice: one focused project, a clear budget and direct contact with the engineers. A software development team makes more sense when you need a large team, formal tenders or people on site every day, which few Dharmanagar projects require.",
+        "Searches for a software development team in Dharmanagar return very few local results; most providers are based in Agartala, Silchar or larger cities. That means you will almost certainly work with someone remotely anyway. The question is whether you get a sales executive who passes messages to a developer or the developers themselves.",
         "BtechWaleTech is a freelance group and does not pretend to be a company. We handle one project at a time with close attention, publish our starting prices and put everything in your name. We are honest about limits too: we do not supply computers, repair printers or install office networks, and we will say so before you pay anything.",
       ],
     },

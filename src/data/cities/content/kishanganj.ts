@@ -9,7 +9,7 @@ const kishanganj: CityContent = {
     description:
       "Websites from ₹10,000 for Kishanganj tea growers, pineapple traders, clinics, coaching centres and shops, plus Google Maps setup and WhatsApp automation.",
     keywords: [
-      "website development company in Kishanganj",
+      "website development team in Kishanganj",
       "web designer Kishanganj",
       "website design Kishanganj Bihar",
       "Kishanganj tea website",

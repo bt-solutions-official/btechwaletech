@@ -9,7 +9,7 @@ const panvel: CityContent = {
     description:
       "Websites, Marathi and English local SEO, UPI stores and WhatsApp automation for Panvel, Kharghar, Kamothe, Kalamboli and Taloja businesses. From ₹10,000.",
     keywords: [
-      "website development company in Panvel",
+      "website development team in Panvel",
       "web design Panvel",
       "website designer Panvel",
       "web developer Kharghar",
@@ -21,7 +21,7 @@ const panvel: CityContent = {
       "Kalamboli steel dealer website",
       "WhatsApp automation Panvel",
       "real estate website Panvel",
-      "software company Panvel",
+      "software team Panvel",
       "website maintenance Panvel",
       "Panvel madhe website banvaychi",
       "पनवेल वेबसाइट डिझाइन",
@@ -267,7 +267,7 @@ const panvel: CityContent = {
     {
       question: "How long does SEO take in Panvel?",
       answer:
-        "Map results for nearby searches usually improve within six to ten weeks after your profile and site are set up well. Competitive terms like “website development company in Panvel” or “best dentist in Kharghar” take four to eight months of steady work. No honest provider guarantees first position.",
+        "Map results for nearby searches usually improve within six to ten weeks after your profile and site are set up well. Competitive terms like “website development team in Panvel” or “best dentist in Kharghar” take four to eight months of steady work. No honest provider guarantees first position.",
     },
     {
       question: "Do you work with businesses in Uran, Pen, Karjat and the rest of Raigad?",

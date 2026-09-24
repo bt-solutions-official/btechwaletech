@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Baddi for Pharma",
     description:
-      "Looking for a software development company in Baddi? Hire our freelance group for pharma workflow tools, B2B sites, dashboards and AI automation, in INR.",
+      "Looking for a software development team in Baddi? Hire our freelance group for pharma workflow tools, B2B sites, dashboards and AI automation, in INR.",
     keywords: [
-      "software development company in Baddi",
-      "IT company in Baddi",
+      "software development team in Baddi",
+      "IT services team in Baddi",
       "IT solutions Baddi",
       "Android app development Baddi",
       "iOS app development Baddi",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Baddi · Barotiwala · Nalagarh · Solan district",
     h1: "Freelance software developers for Baddi's pharma units, suppliers and industrial businesses",
     lede:
-      "If you are comparing a software development company in Baddi with other options, BtechWaleTech is a freelance group of three engineers working remotely from India. We build document and quality workflow tools, dispatch and vendor portals, production dashboards, AI automation, B2B websites and SEO for manufacturers and suppliers across the Baddi–Barotiwala–Nalagarh belt, with published starting prices and five months of free maintenance after launch.",
+      "If you are comparing a software development team in Baddi with other options, BtechWaleTech is a freelance group of three engineers working remotely from India. We build document and quality workflow tools, dispatch and vendor portals, production dashboards, AI automation, B2B websites and SEO for manufacturers and suppliers across the Baddi–Barotiwala–Nalagarh belt, with published starting prices and five months of free maintenance after launch.",
     pills: ["Workflow software from ₹60,000", "AI automation from ₹40,000", "B2B websites from ₹10,000", "Code and data owned by you", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Searching for a software development company in Baddi? BtechWaleTech is a freelance group of three remote engineers building pharma workflow tools and web apps from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, B2B websites from ₹10,000 and SEO sites from ₹20,000. Expect an itemised quote in about two working days and five free months of maintenance.",
+    "Searching for a software development team in Baddi? BtechWaleTech is a freelance group of three remote engineers building pharma workflow tools and web apps from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, B2B websites from ₹10,000 and SEO sites from ₹20,000. Expect an itemised quote in about two working days and five free months of maintenance.",
   snapshot: [
     { label: "Industrial belt", value: "Baddi, Barotiwala and Nalagarh in Solan district, planned under the Baddi Barotiwala Nalagarh Development Authority (BBNDA)" },
     { label: "Main industry", value: "Pharmaceutical formulations, widely described as one of Asia's largest pharma manufacturing clusters, plus FMCG, textiles and packaging" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-for-baddi-plants",
-      heading: "What should a software development company in Baddi build for pharma and manufacturing units?",
+      heading: "What should a software development team in Baddi build for pharma and manufacturing units?",
       paragraphs: [
-        "A software development company in Baddi, or a freelance team serving the belt, is most useful when it builds the practical systems that sit around a plant's ERP: document and approval workflows, dispatch and vendor portals, maintenance and calibration trackers, production dashboards, AI automation for enquiries, and credible B2B websites. Very few plants need a brand-new ERP; most need the everyday gaps closed.",
+        "A software development team in Baddi, or a freelance team serving the belt, is most useful when it builds the practical systems that sit around a plant's ERP: document and approval workflows, dispatch and vendor portals, maintenance and calibration trackers, production dashboards, AI automation for enquiries, and credible B2B websites. Very few plants need a brand-new ERP; most need the everyday gaps closed.",
         "The Baddi–Barotiwala–Nalagarh belt grew quickly after the 2003 industrial incentive package for Himachal Pradesh, and today it hosts hundreds of pharmaceutical formulation units alongside FMCG, textile, packaging and engineering plants. A large share of pharma output is third-party or contract manufacturing for marketing companies across India, which means constant enquiries, product-wise quotations, artwork approvals, batch documentation and dispatch coordination with many clients at once.",
         "Much of that coordination still runs on email chains, Excel files and WhatsApp groups. The ERP knows the stock and the invoices, but it rarely knows which artwork version the client approved, who is holding up a change control, or when the next calibration is due on a particular balance. BtechWaleTech, a freelance group of three engineers working remotely from India, builds those connecting tools. We have no office in Baddi or Solan district, we say so plainly, and we work through video calls, screen sharing and staged test links.",
       ],
@@ -216,7 +216,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-baddi",
-      heading: "Freelance team vs a software development company in Baddi: which should you hire?",
+      heading: "Freelance team vs a software development team in Baddi: which should you hire?",
       paragraphs: [
         "Hire a freelance team when you need a specific tool, portal or website built quickly with direct access to the engineers; hire a larger software development company when you need a full ERP rollout, on-site staff or many parallel projects. Both are valid choices for Baddi plants, and the right one depends on scope, budget and how much hands-on coordination you want.",
         "A larger vendor brings more staff, formal project management and sometimes domain templates, at higher cost and with more layers between you and the developer. A freelance group like BtechWaleTech brings lower overheads, faster replies and the same engineers from scoping to support, but limited capacity and no on-site presence. Whoever you choose, ask who owns the code, how validation documentation is handled, what support costs after launch, and whether you can speak to the person writing the software.",
@@ -313,9 +313,9 @@ const content: CityContent = {
         "Yes. We can host applications and databases in Indian cloud regions on providers such as AWS, and choose backup locations in India as well. If your policy requires on-premise hosting, we can deploy to your own server, with backups and hardware maintenance then handled by your IT team. We document the setup either way.",
     },
     {
-      question: "Which is the best IT company in Baddi for pharma software?",
+      question: "Which is the best IT services team in Baddi for pharma software?",
       answer:
-        "There is no universal answer; it depends on whether you need an ERP rollout, a single workflow tool or a website. Evaluate vendors on relevant live work, validation support, ownership terms, integration experience and support after go-live. We are a freelance group, not a large IT company, and we do not claim rankings or awards. Comparing two or three options is wise.",
+        "There is no universal answer; it depends on whether you need an ERP rollout, a single workflow tool or a website. Evaluate vendors on relevant live work, validation support, ownership terms, integration experience and support after go-live. We are a small freelance group of three developers, and we do not claim rankings or awards. Comparing two or three options is wise.",
     },
     {
       question: "How quickly can we get a quote?",

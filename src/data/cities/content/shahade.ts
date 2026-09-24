@@ -10,12 +10,12 @@ const shahade: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shahade (Shahada) growers, traders, hospitals, colleges and market shops. From ₹10,000.",
     keywords: [
       "IT services in Shahade",
-      "IT company in Shahade",
-      "website development company in Shahade",
+      "IT services team in Shahade",
+      "website development team in Shahade",
       "web design in Shahade",
-      "app development company in Shahade",
+      "app development team in Shahade",
       "Android app development in Shahade",
-      "software company in Shahade",
+      "software team in Shahade",
       "SEO services in Shahade",
       "digital marketing in Shahade",
       "ecommerce website in Shahade",
@@ -75,19 +75,19 @@ const shahade: CityContent = {
     },
     {
       id: "papaya-banana-growers",
-      heading: "Website development company in Shahade for papaya, banana and fruit traders",
+      heading: "Website development team in Shahade for papaya, banana and fruit traders",
       paragraphs: [
         "Papaya and banana are two of the crops that fill Shahade's trucks, alongside sugarcane and cotton. The fruit moves fast: a buyer from Gujarat, Madhya Pradesh or Delhi confirms a rate, a lot is cut, packed and loaded, and payment follows. Much of this runs on phone calls and memory, which is exactly where disputes start.",
-        "A <strong>website development company in Shahade</strong> can help a fruit trader or grower group look credible to distant buyers who have never visited. We build a plain, fast site that lists the varieties handled, the months of supply, packing options, loading points, transport arrangements and a named contact, with photographs of real orchards and packing sheds rather than stock images. A form asking for quantity, destination and dates filters serious buyers from time-wasters.",
+        "A <strong>website development team in Shahade</strong> can help a fruit trader or grower group look credible to distant buyers who have never visited. We build a plain, fast site that lists the varieties handled, the months of supply, packing options, loading points, transport arrangements and a named contact, with photographs of real orchards and packing sheds rather than stock images. A form asking for quantity, destination and dates filters serious buyers from time-wasters.",
         "For traders who want tighter records, we add a small web tool behind the site: each lot entered with grower, weight, grade and agreed rate; advances and balances per grower; and dispatches by truck number and buyer. A static site starts at ₹10,000. Record-keeping software is custom work from ₹60,000, usually built in two or three stages so the first part is ready before the next season peaks.",
       ],
     },
     {
       id: "sugar-cotton-shahade",
-      heading: "Software company in Shahade for cane contractors, ginning and cotton buyers",
+      heading: "Software team in Shahade for cane contractors, ginning and cotton buyers",
       paragraphs: [
         "The cooperative sugar factory at Purushottamnagar in Shahade taluka sets the rhythm of the winter months. Harvest gangs, tractor-trolley owners, transport contractors, fertiliser dealers and repair workshops all run flat out during crushing, then wait for payments afterwards. Cotton brings a second season of weighing, grading and buying.",
-        "What these businesses need from a <strong>software company in Shahade</strong> is not a big system but a reliable register. We build web tools where a supervisor enters each trip or purchase once on a phone, and the owner sees totals by vehicle, grower, factory or buyer without adding pages of a notebook. Diesel advances, driver payments, pending bills and permit expiry dates can each be tracked on the same screen.",
+        "What these businesses need from a <strong>software team in Shahade</strong> is not a big system but a reliable register. We build web tools where a supervisor enters each trip or purchase once on a phone, and the owner sees totals by vehicle, grower, factory or buyer without adding pages of a notebook. Diesel advances, driver payments, pending bills and permit expiry dates can each be tracked on the same screen.",
         "Such tools start at ₹60,000 and take six to twelve weeks, depending on how many roles and reports you want. We usually suggest starting in the off-season, testing with one vehicle or one buying point, and widening use only after your staff are comfortable. Any link to your billing software is quoted as a separate line so you can decide whether it is worth it.",
       ],
     },
@@ -111,10 +111,10 @@ const shahade: CityContent = {
     },
     {
       id: "colleges-coaching-shahade",
-      heading: "IT company in Shahade for colleges, schools and coaching classes",
+      heading: "IT services team in Shahade for colleges, schools and coaching classes",
       paragraphs: [
         "The Pujya Sane Guruji Vidya Prasarak Mandal campus at Lonkheda is the biggest educational campus near Shahade, and the town also has an engineering college, junior colleges, English and Marathi medium schools and coaching classes for board, entrance and government job exams. Students come from across the taluka and from over the border.",
-        "Parents want the same details every admission season: courses, fee ranges, seats, hostel and bus routes, results and the admission timeline. When these sit on a website and on the Google listing, the office phone rings less and each call is more useful. As an <strong>IT company in Shahade</strong> by service area, we build such sites with a notice board your staff can update, downloadable forms and an enquiry form that records the course asked about.",
+        "Parents want the same details every admission season: courses, fee ranges, seats, hostel and bus routes, results and the admission timeline. When these sit on a website and on the Google listing, the office phone rings less and each call is more useful. As an <strong>IT services team in Shahade</strong> by service area, we build such sites with a notice board your staff can update, downloadable forms and an enquiry form that records the course asked about.",
         "Coaching institutes often add a batch timetable, test results with student consent, and a WhatsApp group workflow for announcements. A 700+ page SEO site starting at ₹20,000 suits an institute that wants a separate page for every course, exam and nearby village it draws from, but a small school rarely needs more than the ₹10,000 static site.",
       ],
     },
@@ -132,7 +132,7 @@ const shahade: CityContent = {
       heading: "Android app development in Shahade: when an app is worth it and when it is not",
       paragraphs: [
         "An app pays for itself only when the same people open it again and again. In Shahade that could be a fruit trader's field buyers booking lots and uploading weights from the orchard, a hospital's patients collecting tokens and reports, a school's parents getting notices and fee reminders, or a farm-input dealer's village retailers placing repeat orders.",
-        "As an <strong>app development company in Shahade</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A typical first version has mobile-number login, push notifications, the three or four screens your users really need, offline entry for places with weak signal, and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Shahade</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A typical first version has mobile-number login, push notifications, the three or four screens your users really need, offline entry for places with weak signal, and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Shahade</strong> with us starts at ₹40,000, with payments, maps, multiple user roles and software links quoted separately. If your customers only want your address, rates and phone number, a website does that for a quarter of the price, and we will tell you so. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -223,7 +223,7 @@ const shahade: CityContent = {
         "A small shop or clinic site is usually live within one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early helps.",
     },
     {
-      question: "Which is the best website development company in Shahade?",
+      question: "Which is the best website development team in Shahade?",
       answer:
         "Judge any provider on the same tests: published prices, a written itemised quote, the domain and code registered to you, sites that open fast on cheap phones, and support after launch. We meet those and reply on WhatsApp every day, but speaking to two or three providers before deciding is sensible.",
     },

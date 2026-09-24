@@ -10,12 +10,12 @@ const upleta: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Upleta groundnut oil mills, farm traders, schools, hospitals and bazaar shops.",
     keywords: [
       "IT services in Upleta",
-      "IT company in Upleta",
-      "website development company in Upleta",
+      "IT services team in Upleta",
+      "website development team in Upleta",
       "web design in Upleta",
-      "app development company in Upleta",
+      "app development team in Upleta",
       "Android app development in Upleta",
-      "software company in Upleta",
+      "software team in Upleta",
       "SEO services in Upleta",
       "digital marketing in Upleta",
       "ecommerce website in Upleta",
@@ -74,19 +74,19 @@ const upleta: CityContent = {
     },
     {
       id: "groundnut-oil-mills-upleta",
-      heading: "Website development company in Upleta for groundnut oil mills",
+      heading: "Website development team in Upleta for groundnut oil mills",
       paragraphs: [
         "Several mills in Upleta crush groundnut into edible oil and de-oiled cake, selling tins and bottles under their own brands to dealers, grocers and households, and cake to cattle feed buyers. Many of these brands have loyal local customers but almost no presence online, which makes them hard to find for a dealer in Ahmedabad or a family in Mumbai looking for oil from home.",
-        "A <strong>website development company in Upleta</strong> should give a mill a site that answers what a dealer or buyer checks: the oil types made, pack sizes from bottles to 15-litre tins, filtration method, FSSAI licence number, AGMARK or other marks you actually hold, dispatch arrangements and dealer terms. Real photographs of the mill, the filling line and the packed tins persuade more than stock images of peanuts.",
+        "A <strong>website development team in Upleta</strong> should give a mill a site that answers what a dealer or buyer checks: the oil types made, pack sizes from bottles to 15-litre tins, filtration method, FSSAI licence number, AGMARK or other marks you actually hold, dispatch arrangements and dealer terms. Real photographs of the mill, the filling line and the packed tins persuade more than stock images of peanuts.",
         "We add a dealer enquiry form that asks for city, monthly quantity and pack preference, so your office receives leads it can price. A static mill site starts at ₹10,000. We never publish customer or dealer names without their written consent, and we do not print purity or health claims you cannot support.",
       ],
     },
     {
       id: "mill-registers-software-upleta",
-      heading: "Software company in Upleta for crushing, stock and dealer ledgers",
+      heading: "Software team in Upleta for crushing, stock and dealer ledgers",
       paragraphs: [
         "Behind every tin of oil sits a chain of records: groundnut bought from which farmer or agent, at what moisture and rate; how much was crushed each day; oil and cake yield; tins filled by size; stock in the godown; and what each dealer owes. In many Upleta mills this lives across registers, calculators and WhatsApp photos, and month-end is a headache.",
-        "Working as a <strong>software company in Upleta</strong>, we build web tools that record each step once. Purchases are entered with supplier, weight, moisture and rate; daily crushing output is logged by shift; packing entries reduce raw oil stock and add finished tins; dispatches create dealer bills; and outstanding amounts appear per dealer without anyone flipping pages. Owners see a one-screen summary on their phone every evening.",
+        "Working as a <strong>software team in Upleta</strong>, we build web tools that record each step once. Purchases are entered with supplier, weight, moisture and rate; daily crushing output is logged by shift; packing entries reduce raw oil stock and add finished tins; dispatches create dealer bills; and outstanding amounts appear per dealer without anyone flipping pages. Owners see a one-screen summary on their phone every evening.",
         "Such tools begin at ₹60,000 and are rolled out in phases across six to twelve weeks. The purchase and stock register usually comes first, because it stops the most disputes. Dealer billing, cake sales and a Tally export follow once your staff trust the first part. Data sits on hosting in your name, backed up every day.",
       ],
     },
@@ -113,7 +113,7 @@ const upleta: CityContent = {
       heading: "Android app development in Upleta, with iOS apps for local firms",
       paragraphs: [
         "Apps pay off when a fixed group of users opens them week after week. Good Upleta examples include an oil mill whose dealers re-order tins and check dues from their phones, a school or coaching class sending homework, test marks and fee reminders to parents, a hospital issuing OPD tokens, and an input dealer whose village retailers place seasonal orders.",
-        "As an <strong>app development company in Upleta</strong> working from a distance, we build with Flutter or React Native, so one code base produces both the Android and the iPhone version. Release one usually covers OTP login, push notifications, the handful of screens your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts that belong to your firm.",
+        "As an <strong>app development team in Upleta</strong> working from a distance, we build with Flutter or React Native, so one code base produces both the Android and the iPhone version. Release one usually covers OTP login, push notifications, the handful of screens your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts that belong to your firm.",
         "<strong>Android app development in Upleta</strong> with us is priced from ₹40,000. Payment collection, offline use in fields with poor coverage, maps and links to your billing software raise the figure, and each is itemised. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Where customers need little more than your address, timings and a price list, a website does the job for much less money. We will steer you there rather than build an app nobody opens twice.",
       ],
@@ -157,9 +157,9 @@ const upleta: CityContent = {
     },
     {
       id: "remote-team-upleta",
-      heading: "IT company in Upleta with no local office: our working method",
+      heading: "IT services team in Upleta with no local office: our working method",
       paragraphs: [
-        "If you searched for an <strong>IT company in Upleta</strong>, you may have pictured a shop on the station road. We are not that, and we tell you so at the start rather than let it come up later. Because we work from a distance, we rely on written steps that anyone in your family can follow.",
+        "If you searched for an <strong>IT services team in Upleta</strong>, you may have pictured a shop on the station road. We are not that, and we tell you so at the start rather than let it come up later. Because we work from a distance, we rely on written steps that anyone in your family can follow.",
         "It begins with a phone or video call about your trade and your customers. A written plan comes next, listing pages or app screens, delivery dates and a price for each part. After your approval, you receive preview links on WhatsApp to open on your own phone and pass around to partners. Gujarati text is sent to you for correction, and no page goes live until you have said yes.",
         "We reply every day of the week, on Indian Standard Time. Should a delay come up, you hear about it at once. Payments are linked to work you can see. <a href=\"/contact/\">Write to us</a> with a line about your business to begin.",
       ],
@@ -224,7 +224,7 @@ const upleta: CityContent = {
         "Once your photographs and wording reach us, a simple site takes around one to two weeks. SEO builds of 700+ pages need three to five weeks, stores four to eight, and bespoke software six to twelve. The single biggest cause of delay is waiting for content, so collecting it early saves real time.",
     },
     {
-      question: "Who is the best website development company in Upleta?",
+      question: "Who is the best website development team in Upleta?",
       answer:
         "Judge any candidate by four things: live sites they can show you, a written price, the domain and code registered to you, and whether they still answer months after launch. Apply the same test to us. We are comfortable with it, and we would still suggest speaking to two or three options before you decide.",
     },

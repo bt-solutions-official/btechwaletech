@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance IT and software developers in Kakinada for seafood, port, KG basin and fertiliser suppliers: custom software, apps, AI agents and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Kakinada",
-      "IT company in Kakinada",
+      "software development team in Kakinada",
+      "IT services team in Kakinada",
       "IT solutions Kakinada",
       "freelance software developers Kakinada",
       "seafood export software Kakinada",
@@ -193,9 +193,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-kakinada",
-      heading: "Freelance IT developers vs an IT company for Kakinada projects",
+      heading: "Freelance IT developers vs an IT services team for Kakinada projects",
       paragraphs: [
-        "An IT company offers bigger teams, project managers and formal processes, which suits large enterprise or government projects, while freelance IT developers like BtechWaleTech suit Kakinada exporters, agents, vendors, hospitals and traders who want direct access to the engineers and quotes without office overhead. Most Kakinada projects are focused systems that a small, experienced group can build well.",
+        "An IT services team offers bigger teams, project managers and formal processes, which suits large enterprise or government projects, while freelance IT developers like BtechWaleTech suit Kakinada exporters, agents, vendors, hospitals and traders who want direct access to the engineers and quotes without office overhead. Most Kakinada projects are focused systems that a small, experienced group can build well.",
         "The honest limit is capacity: three engineers cannot run a huge multi-team build. We will tell you early if your project needs more people than we have.",
         "Either way, ask who writes the code, insist on an itemised written quote, keep every account in your business name and agree on support terms. See our <a href='/portfolio/'>portfolio</a>, read about us on the <a href='/about/'>about page</a> or compare <a href='/pricing/'>starting prices</a>.",
       ],

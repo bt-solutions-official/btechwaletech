@@ -10,12 +10,12 @@ const mandamarri: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Mandamarri mine contractors, transporters, shops, clinics, schools and rice mills.",
     keywords: [
       "IT services in Mandamarri",
-      "IT company in Mandamarri",
-      "website development company in Mandamarri",
+      "IT services team in Mandamarri",
+      "website development team in Mandamarri",
       "web design in Mandamarri",
-      "app development company in Mandamarri",
+      "app development team in Mandamarri",
       "Android app development in Mandamarri",
-      "software company in Mandamarri",
+      "software team in Mandamarri",
       "SEO services in Mandamarri",
       "digital marketing in Mandamarri",
       "ecommerce website in Mandamarri",
@@ -74,10 +74,10 @@ const mandamarri: CityContent = {
     },
     {
       id: "mine-contractors-software",
-      heading: "Software company in Mandamarri for mine contractors and transporters",
+      heading: "Software team in Mandamarri for mine contractors and transporters",
       paragraphs: [
         "Around the SCCL mines of the Mandamarri area, a wide web of private businesses does supporting work: labour contractors, vehicle and machinery hirers, coal and overburden transporters, canteen operators, security agencies and repair workshops. Their records are usually a mix of diaries, photographs of slips and spreadsheets on one person's laptop.",
-        "As a <strong>software company in Mandamarri</strong>, we build web tools that bring this together. Each trip or shift is entered once from a phone, with vehicle or worker, date, site, hours and rate. The owner sees totals by vehicle, by worker and by work order, diesel and advances given, and bills raised against what has actually been paid. Document expiry alerts cover fitness certificates, permits, insurance and licences.",
+        "As a <strong>software team in Mandamarri</strong>, we build web tools that bring this together. Each trip or shift is entered once from a phone, with vehicle or worker, date, site, hours and rate. The owner sees totals by vehicle, by worker and by work order, diesel and advances given, and bills raised against what has actually been paid. Document expiry alerts cover fitness certificates, permits, insurance and licences.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We build the part that loses you money first, usually the trip or attendance register, and add billing and reports afterwards. We do not connect to any SCCL system; the tool records your own business, not theirs.",
         "Owners who run several vehicles can also see a monthly picture: which truck earned the most, which one spent the most days in the workshop, and which drivers took the largest advances. Santosh Sharma builds these dashboards from the same register, so nobody retypes numbers, and the owner can check them on a phone during a site visit instead of waiting for the munshi to total the diary at the end of the month.",
       ],
@@ -112,10 +112,10 @@ const mandamarri: CityContent = {
     },
     {
       id: "schools-coaching",
-      heading: "App development company in Mandamarri for schools and coaching centres",
+      heading: "App development team in Mandamarri for schools and coaching centres",
       paragraphs: [
         "Education matters a great deal in a mining town where many families want their children to move into engineering, medicine or government jobs. Mandamarri has Singareni Collieries schools, several private English-medium schools and coaching centres for EAMCET, NEET, police and group exams.",
-        "As an <strong>app development company in Mandamarri</strong> for education, we build admission enquiry forms, fee records with receipts, attendance registers, test series with results and circulars that reach parents on WhatsApp or through an app. A school website can hold class-wise information, fee structure, bus routes and a photo gallery without slowing down.",
+        "As an <strong>app development team in Mandamarri</strong> for education, we build admission enquiry forms, fee records with receipts, attendance registers, test series with results and circulars that reach parents on WhatsApp or through an app. A school website can hold class-wise information, fee structure, bus routes and a photo gallery without slowing down.",
         "A school or coaching website starts at ₹10,000. An app for results and notices starts at ₹40,000, and a full fee and attendance system at ₹60,000, delivered module by module so staff are not overwhelmed.",
       ],
     },
@@ -130,10 +130,10 @@ const mandamarri: CityContent = {
     },
     {
       id: "district-industries",
-      heading: "Website development company in Mandamarri for district industries",
+      heading: "Website development team in Mandamarri for district industries",
       paragraphs: [
         "Mancherial district's economy extends beyond coal. It has cement production, the Singareni thermal power plant at Jaipur, ceramics, rice mills and a number of fly-ash brick units that use ash from the power sector. Farming also employs many people across Mandamarri mandal's villages, from Andgulapet to Mamidighat.",
-        "As a <strong>website development company in Mandamarri</strong>, we build sites for these businesses that buyers outside the district take seriously: product specifications, capacity, certifications you actually hold, dispatch areas and an enquiry form that reaches the right person. For brick makers and rice millers, a simple product page with photographs and a WhatsApp enquiry often brings more contractors and wholesalers than any advertisement.",
+        "As a <strong>website development team in Mandamarri</strong>, we build sites for these businesses that buyers outside the district take seriously: product specifications, capacity, certifications you actually hold, dispatch areas and an enquiry form that reaches the right person. For brick makers and rice millers, a simple product page with photographs and a WhatsApp enquiry often brings more contractors and wholesalers than any advertisement.",
         "We do not invent capacities, clients or awards for these sites. If a claim cannot be shown with a document or photograph, it stays off the page.",
       ],
     },
@@ -167,9 +167,9 @@ const mandamarri: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "IT company in Mandamarri without an office: how our remote team works",
+      heading: "IT services team in Mandamarri without an office: how our remote team works",
       paragraphs: [
-        "We are not a local <strong>IT company in Mandamarri</strong> with a shop on Station Road. We are three engineers working remotely, and we say so plainly. Not paying for a local office is part of why our starting prices are where they are.",
+        "We are not a local <strong>IT services team in Mandamarri</strong> with a shop on Station Road. We are three engineers working remotely, and we say so plainly. Not paying for a local office is part of why our starting prices are where they are.",
         "You send a WhatsApp message describing your business. We ask a few questions, sometimes on a short call, and send an itemised quote. After approval, you get a staging link where you can see progress and ask for changes. Photographs can come from your own phone; we tell you what to capture and how.",
         "We reply seven days a week in Indian time, which suits owners whose busiest days are weekends and pay days. Start through our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -220,7 +220,7 @@ const mandamarri: CityContent = {
         "A basic business website takes one to two weeks once we have your photographs, details and content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Delays usually come from missing content, so we send a simple checklist on day one.",
     },
     {
-      question: "Which is the best website development company in Mandamarri?",
+      question: "Which is the best website development team in Mandamarri?",
       answer:
         "Choose someone who shows live work, gives an itemised written quote and registers the domain and hosting in your name. Ask any website development company in Mandamarri about renewal costs, Telugu content and code ownership. We publish our starting prices and hand over every login, so you can compare us fairly with local options.",
     },

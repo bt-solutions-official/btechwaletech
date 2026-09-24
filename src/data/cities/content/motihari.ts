@@ -9,7 +9,7 @@ const motihari: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Motihari shops, clinics, coaching centres, button makers and border traders. Sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Motihari",
+      "website development team in Motihari",
       "website designer Motihari",
       "website cost Motihari",
       "SEO services Motihari",

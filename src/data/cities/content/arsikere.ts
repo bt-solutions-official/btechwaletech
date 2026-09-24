@@ -10,12 +10,12 @@ const arsikere: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Arsikere copra traders, coconut oil units, colleges, clinics, lodges and shops.",
     keywords: [
       "IT services in Arsikere",
-      "IT company in Arsikere",
-      "website development company in Arsikere",
+      "IT services team in Arsikere",
+      "website development team in Arsikere",
       "web design in Arsikere",
-      "app development company in Arsikere",
+      "app development team in Arsikere",
       "Android app development in Arsikere",
-      "software company in Arsikere",
+      "software team in Arsikere",
       "SEO services in Arsikere",
       "digital marketing in Arsikere",
       "ecommerce website in Arsikere",
@@ -74,11 +74,11 @@ const arsikere: CityContent = {
     },
     {
       id: "copra-traders-software",
-      heading: "Software company in Arsikere for copra traders and commission agents",
+      heading: "Software team in Arsikere for copra traders and commission agents",
       paragraphs: [
         "The Arsikere APMC is one of the main copra markets in Karnataka, alongside Tiptur. Farmers bring dried copra from across the taluk and from neighbouring areas, and traders, commission agents and oil mill buyers bid for it. Rates change daily and every lot carries a weight, a grade, a farmer name and a payment that may be settled days later.",
         "Much of this still sits in paper books and in the heads of the people at the counter. When a season is busy, it becomes hard to answer simple questions quickly: how much is owed to which farmer, which buyer has not paid, what the average rate was last week, how much stock is lying in the godown.",
-        "Working as a <strong>software company in Arsikere</strong> for this trade, we build small web tools that fit the way the counter already works. Each lot is entered once with farmer, weight, grade and rate; totals appear per farmer, per buyer and per day; pending payments are listed with ageing; and a daily rate sheet can be sent to regular farmers on WhatsApp. Tools like this start at ₹60,000 and are built in stages over six to twelve weeks, with the lot register first because it saves time from the first week.",
+        "Working as a <strong>software team in Arsikere</strong> for this trade, we build small web tools that fit the way the counter already works. Each lot is entered once with farmer, weight, grade and rate; totals appear per farmer, per buyer and per day; pending payments are listed with ageing; and a daily rate sheet can be sent to regular farmers on WhatsApp. Tools like this start at ₹60,000 and are built in stages over six to twelve weeks, with the lot register first because it saves time from the first week.",
       ],
     },
     {
@@ -111,10 +111,10 @@ const arsikere: CityContent = {
     },
     {
       id: "colleges-coaching-websites",
-      heading: "Website development company in Arsikere for colleges and coaching centres",
+      heading: "Website development team in Arsikere for colleges and coaching centres",
       paragraphs: [
         "Arsikere is a study town for its taluk. It has a Government Engineering College, a Government Polytechnic, several degree and B.Ed colleges, PU colleges, and coaching centres for competitive exams. Students come from surrounding villages and from neighbouring taluks, and their parents usually check a college online before visiting.",
-        "A <strong>website development company in Arsikere</strong> serving education should keep the site useful for those parents and students. That means courses and intake, fee details or ranges, admission dates, documents required, hostel and bus facilities, faculty lists, results and a contact number that someone actually answers. Circulars and timetables should be easy for staff to upload without calling a developer each time.",
+        "A <strong>website development team in Arsikere</strong> serving education should keep the site useful for those parents and students. That means courses and intake, fee details or ranges, admission dates, documents required, hostel and bus facilities, faculty lists, results and a contact number that someone actually answers. Circulars and timetables should be easy for staff to upload without calling a developer each time.",
         "We build college and coaching sites with a simple admin panel for notices, results and galleries, an admission enquiry form that records every lead in one sheet, and pages in Kannada and English. For institutions with several hundred students, a parent app for notices and fee reminders can be added later. A standard institutional website starts at ₹10,000; larger sites with many course and department pages are quoted item by item.",
       ],
     },
@@ -141,7 +141,7 @@ const arsikere: CityContent = {
       heading: "Android app development in Arsikere, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost when a known group of people opens it again and again. In Arsikere, good candidates are copra buying agents who record lots in villages, oil customers in Bengaluru who re-order every month, a college sending notices and fee reminders to parents, a hospital issuing appointment tokens, or a farm input dealer whose sub-dealers place orders from the hoblis.",
-        "As an <strong>app development company in Arsikere</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version normally includes login by mobile number, push notifications, the few screens your users need most and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Arsikere</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version normally includes login by mobile number, push notifications, the few screens your users need most and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Arsikere</strong> with us starts at ₹40,000. The quote goes up with payments inside the app, offline entry for villages with poor signal, maps and links to other software, and each of these is listed separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the work is done.",
         "If your customers only need your address, timings and a rate list, a website does that for a fraction of the cost. In that case we will recommend the website, because an app nobody opens after the first week helps no one.",
       ],
@@ -233,7 +233,7 @@ const arsikere: CityContent = {
         "A simple shop or clinic website usually goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO website takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the easiest way to finish sooner.",
     },
     {
-      question: "Which is the best website development company in Arsikere?",
+      question: "Which is the best website development team in Arsikere?",
       answer:
         "The best choice is a provider who publishes prices, registers the domain and code in your name, can show real work and still answers after launch. Ask each option the same questions and compare the answers. We meet those tests and reply on WhatsApp every day, but talking to two or three providers is sensible.",
     },

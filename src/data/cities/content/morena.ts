@@ -9,7 +9,7 @@ const morena: CityContent = {
     description:
       "Websites, Google Maps work and WhatsApp automation for Morena oil mills, gajak makers, Banmore units, clinics and coaching. Sites from ₹10,000, code owned by you.",
     keywords: [
-      "website development company in Morena",
+      "website development team in Morena",
       "web designer Morena",
       "website banane wala Morena",
       "Morena website price",
@@ -268,7 +268,7 @@ const morena: CityContent = {
     {
       question: "How soon will SEO bring customers?",
       answer:
-        "Nearby Maps searches often improve within six to ten weeks once your profile and website are set up well. Wider terms such as “website development company in Morena” or bulk oil searches across states can take four to eight months. Monthly SEO starts at ₹10,000 and we never promise a first-page position.",
+        "Nearby Maps searches often improve within six to ten weeks once your profile and website are set up well. Wider terms such as “website development team in Morena” or bulk oil searches across states can take four to eight months. Monthly SEO starts at ₹10,000 and we never promise a first-page position.",
     },
     {
       question: "What should I send to get a quote?",

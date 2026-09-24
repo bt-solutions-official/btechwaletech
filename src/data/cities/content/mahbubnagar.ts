@@ -9,14 +9,14 @@ const mahbubnagar: CityContent = {
     description:
       "Websites, Telugu-friendly local SEO and WhatsApp automation for Mahbubnagar clinics, colleges, traders and suppliers. From ₹10,000, with 5 free months of upkeep.",
     keywords: [
-      "website development company in Mahbubnagar",
+      "website development team in Mahbubnagar",
       "website designer Mahabubnagar",
       "web design Palamoor",
       "freelance web developer Mahbubnagar",
       "SEO services Mahbubnagar",
       "local SEO Mahabubnagar",
       "ecommerce website Mahbubnagar",
-      "software company Mahbubnagar",
+      "software team Mahbubnagar",
       "website for pharma supplier Jadcherla",
       "WhatsApp automation Mahbubnagar",
       "AI automation Telangana",

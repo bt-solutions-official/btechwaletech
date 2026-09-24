@@ -9,7 +9,7 @@ const shillong: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Shillong homestays, cafés, institutes and Iewduh traders. Sites from ₹10,000, five months' upkeep free.",
     keywords: [
-      "website development company in Shillong",
+      "website development team in Shillong",
       "web designer Shillong",
       "website design Shillong Meghalaya",
       "freelance web developer Shillong",
@@ -24,7 +24,7 @@ const shillong: CityContent = {
       "web developer Police Bazar",
       "website maintenance Shillong",
       "Shillong me website kaise banaye",
-      "software company Shillong",
+      "software team Shillong",
     ],
   },
   hero: {

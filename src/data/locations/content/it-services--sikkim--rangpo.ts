@@ -13,8 +13,8 @@ const content: CityContent = {
       "iOS app development Rangpo",
       "mobile app developers Rangpo",
       "iPhone app developers Rangpo",
-      "software development company in Rangpo",
-      "IT company in Rangpo",
+      "software development team in Rangpo",
+      "IT services team in Rangpo",
       "IT solutions Rangpo",
       "freelance software developer Rangpo Sikkim",
       "pharma vendor portal Sikkim",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Rangpo · Pakyong district · Freelance IT group",
     h1: "Freelance IT and software developers in Rangpo for logistics, pharma suppliers and gateway businesses",
     lede:
-      "Many firms searching for a software development company in Rangpo actually need focused tools: vendor portals for pharma contractors, trip and load trackers for transporters, booking pages for transit hotels, and clear service pages with basic SEO. BtechWaleTech is a freelance group of three engineers working remotely from India that builds and maintains exactly these systems.",
+      "Many firms searching for a software development team in Rangpo actually need focused tools: vendor portals for pharma contractors, trip and load trackers for transporters, booking pages for transit hotels, and clear service pages with basic SEO. BtechWaleTech is a freelance group of three engineers working remotely from India that builds and maintains exactly these systems.",
     pills: ["Pharma vendor portals", "Load and trip trackers", "Transit hotel bookings", "Business websites from ₹10,000", "SEO basics done properly"],
   },
   quickAnswer:
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "rangpo-freelance-vs-company",
-      heading: "Should a Rangpo business hire a freelance group or a software development company?",
+      heading: "Should a Rangpo business hire a freelance group or a software development team?",
       paragraphs: [
-        "A Rangpo business should hire a freelance group when it needs specific software, websites or automation built quickly and affordably with direct access to the developers, and a software development company when it needs large teams, on-site staff or formal enterprise contracts; most local contractors, transporters and hotels fall in the first group.",
+        "A Rangpo business should hire a freelance group when it needs specific software, websites or automation built quickly and affordably with direct access to the developers, and a software development team when it needs large teams, on-site staff or formal enterprise contracts; most local contractors, transporters and hotels fall in the first group.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have an office in Rangpo. We build custom web applications, vendor and logistics portals, mobile apps and PWAs, AI and WhatsApp automation, dashboards, business websites, SEO and ecommerce, and we host and maintain them.",
         "We are also clear about what we do not build. Validated software for regulated pharmaceutical production lines needs specialist vendors and formal validation, so we focus on the supplier, contractor and business side. Learn more on our <a href='/about/'>about page</a> or the <a href='/it-services/sikkim/'>Sikkim hub</a>.",
       ],
@@ -270,7 +270,7 @@ const content: CityContent = {
     { question: "How long before our hotel shows up on Google?", answer: "A verified Google Business Profile with the right category, photos and reviews can appear in map results within weeks. Website SEO usually takes three to six months. We do not guarantee rankings, but we set up the basics correctly and report progress monthly." },
     { question: "Do you set up computers or CCTV at plants?", answer: "No. We are remote software engineers and do not install hardware, CCTV or networks. A local technician should handle that. We build websites, portals, apps, automation and dashboards, and host and maintain them." },
     { question: "Can you build a website for a hostel near Majitar?", answer: "Yes. A static hostel website starts at ₹10,000, with room photos, rent, rules, meals and a request-to-book form. Adding room management and rent reminders is custom software from ₹60,000. Parents in other states appreciate clear pages and quick WhatsApp replies." },
-    { question: "Which is the best IT company in Rangpo?", answer: "It depends on the work. For hardware and networks, a nearby technician is best. For software, compare providers on similar past work, ownership of code and data, itemised quotes and support after launch. As a remote freelance group, we expect to be judged on the same points." },
+    { question: "Which is the best IT services team in Rangpo?", answer: "It depends on the work. For hardware and networks, a nearby technician is best. For software, compare providers on similar past work, ownership of code and data, itemised quotes and support after launch. As a remote freelance group, we expect to be judged on the same points." },
     { question: "Will the new Rangpo railway station change what software we need?", answer: "Possibly. When the Sevoke to Rangpo line opens, some freight and passenger traffic may shift from road to rail, and hotels, transporters and eateries near the station could see new demand. Keeping trip, booking and sales data in software now lets you see those changes early and adjust routes, prices or services with real numbers." },
     { question: "Can you manage several client plants in one vendor portal?", answer: "Yes. The portal can hold separate records for each client plant, including purchase orders, gate passes, labour lists, compliance documents and invoices, while giving the owner one combined view of dues and renewals. Supervisors can be limited to the plants they handle, and monthly reports can be generated per plant in the format each client expects." },
     { question: "Do you use AI to write our service pages?", answer: "We use AI tools to speed up drafts, but every page is checked and edited against the facts you give us: your real services, routes, vehicles, rates and contact details. We do not publish invented claims, fake reviews or copied text, because thin or inaccurate pages hurt search visibility and trust with Rangpo customers." },

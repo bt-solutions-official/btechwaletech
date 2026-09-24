@@ -10,12 +10,12 @@ const tanuku: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Tanuku mills, aqua traders, colleges and shops. Sites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "IT services in Tanuku",
-      "IT company in Tanuku",
-      "website development company in Tanuku",
+      "IT services team in Tanuku",
+      "website development team in Tanuku",
       "web design in Tanuku",
-      "app development company in Tanuku",
+      "app development team in Tanuku",
       "Android app development in Tanuku",
-      "software company in Tanuku",
+      "software team in Tanuku",
       "SEO services in Tanuku",
       "digital marketing in Tanuku",
       "ecommerce website in Tanuku",
@@ -69,7 +69,7 @@ const tanuku: CityContent = {
       paragraphs: [
         "Tanuku sits in the paddy country of West Godavari, on the road and rail line between Rajahmundry and Eluru. Its identity was shaped early by The Andhra Sugars Ltd, set up at Venkatarayapuram in 1947, one of the first industries started in independent India. Over the decades the group's Tanuku works added chemicals, and it is known for supplying liquid hydrogen used in ISRO's rocket programme.",
         "Around that anchor grew a spread of smaller trades: rice mills and oil mills fed by the delta, spinning units along Velpur Road, paper and cardboard makers, a hair-processing trade, poultry farms and aquaculture. The Tetali industrial estate gives small fabricators and processors a place to work. In town, the market streets, hospitals, colleges and coaching centres serve people from Attili, Iragavaram, Penugonda, Undrajavaram and other mandals.",
-        "When people look for an <strong>IT company in Tanuku</strong>, they usually want one of three things: a website that makes the business look credible to an outside buyer, a way to be found on Google Maps by local customers, or a tool that cuts down the phone calls and paperwork of the season. We handle all three remotely, and we start by asking which one actually brings you money.",
+        "When people look for an <strong>IT services team in Tanuku</strong>, they usually want one of three things: a website that makes the business look credible to an outside buyer, a way to be found on Google Maps by local customers, or a tool that cuts down the phone calls and paperwork of the season. We handle all three remotely, and we start by asking which one actually brings you money.",
       ],
     },
     {
@@ -98,7 +98,7 @@ const tanuku: CityContent = {
     },
     {
       id: "rice-oil-mills",
-      heading: "Website development company in Tanuku for rice and oil mills",
+      heading: "Website development team in Tanuku for rice and oil mills",
       paragraphs: [
         "The Godavari delta grows paddy on a large scale, and rice mills around Tanuku and Tetali process it for traders, government procurement and brand packers. Buyers from Telangana, Tamil Nadu and Karnataka increasingly search for mills online before they ask a broker. They want to know which varieties you handle, whether you produce raw or boiled rice, your milling and sorting set-up, packing sizes and how quickly you can load a truck.",
         "We build mill websites that answer those questions in text a buyer can read and Google can index. A variety page for each rice type, a packing and dispatch page, licence and FSSAI details, and a requirement form asking for quantity, variety and destination. Oil mills get similar spec pages for groundnut, sesame or coconut oil, with pack sizes and bulk enquiry routes.",
@@ -116,7 +116,7 @@ const tanuku: CityContent = {
     },
     {
       id: "spinning-textiles",
-      heading: "Software company in Tanuku for spinning units and textile traders",
+      heading: "Software team in Tanuku for spinning units and textile traders",
       paragraphs: [
         "Spinning mills along Velpur Road and in nearby villages serve buyers across both Godavari districts and beyond. A yarn buyer comparing suppliers asks about counts, blends, spindle capacity, cone and bag packing, test reports and dispatch times. When a mill website shows only a photo of the gate, that buyer moves on to a competitor whose page answers the question.",
         "We build product pages for each count or blend you actually spin, a quality page describing your testing routine, and a careers page, since mills hire steadily and job seekers search online. For mills that want more, custom software from ₹60,000 can track orders, lots, dispatches and payments in one place, replacing spreadsheets that break each time someone new edits them.",
@@ -162,7 +162,7 @@ const tanuku: CityContent = {
       heading: "Android app development in Tanuku: who needs an app and what it costs",
       paragraphs: [
         "An app makes sense when the same people use your service again and again. In Tanuku that usually means an aqua or poultry feed dealer with hundreds of farmer accounts, a distributor whose salesmen take orders from shops across the delta, a college that sends daily notices to parents, or a hospital with regular patients who need reports and appointment reminders.",
-        "As an <strong>app development company in Tanuku</strong>'s market, we build one codebase in Flutter or React Native that runs on both Android and iPhone. A typical app includes phone-number login, order or booking screens, push notifications, Telugu and English text and an admin panel on the web where your staff update stock, prices or notices. We publish it on Google Play and the App Store under your own developer accounts, so the listing never belongs to us.",
+        "As an <strong>app development team in Tanuku</strong>'s market, we build one codebase in Flutter or React Native that runs on both Android and iPhone. A typical app includes phone-number login, order or booking screens, push notifications, Telugu and English text and an admin panel on the web where your staff update stock, prices or notices. We publish it on Google Play and the App Store under your own developer accounts, so the listing never belongs to us.",
         "Apps start at ₹40,000; the final figure depends on screens, roles and integrations such as payments or billing software. If your customers visit only once or twice a year, a fast website with a WhatsApp button is usually enough, and we will say so. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
       list: [
@@ -183,7 +183,7 @@ const tanuku: CityContent = {
     },
     {
       id: "remote-team-tanuku",
-      heading: "An IT company for Tanuku that works remotely, without a local office",
+      heading: "An IT services team for Tanuku that works remotely, without a local office",
       paragraphs: [
         "We do not have an office in Tanuku or anywhere in West Godavari, and we will never list a borrowed address to look local. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development of websites and apps. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and builds data science and automation.",
         "The process is simple. A WhatsApp call to understand your buyers and season, a page plan and itemised quote in about two working days, then an early preview link you open on your own phone. Feedback comes by WhatsApp and small changes are often done the same day. We reply seven days a week on Indian time, which suits owners who only get free time on Sunday.",
@@ -236,7 +236,7 @@ const tanuku: CityContent = {
         "Yes. We build one app for both Android and iPhone using Flutter or React Native, with login, push notifications, Telugu and English screens and an admin panel. Apps start at ₹40,000 and are published on Google Play and the App Store under your own accounts. Aqua dealers, colleges and hospitals are typical users.",
     },
     {
-      question: "Which is the best website development company in Tanuku?",
+      question: "Which is the best website development team in Tanuku?",
       answer:
         "The best choice is the one that puts the domain in your name, shows real sites that load fast on mobile data, lists every item in the quote and replies quickly. Check those points with anyone you consider, including us. We are a remote team of three engineers and we share previews early so you can judge the work.",
     },

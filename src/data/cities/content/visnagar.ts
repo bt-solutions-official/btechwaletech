@@ -10,12 +10,12 @@ const visnagar: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Visnagar copperware makers, pump units, APMC traders, colleges and hospitals.",
     keywords: [
       "IT services in Visnagar",
-      "IT company in Visnagar",
-      "website development company in Visnagar",
+      "IT services team in Visnagar",
+      "website development team in Visnagar",
       "web design in Visnagar",
-      "app development company in Visnagar",
+      "app development team in Visnagar",
       "Android app development in Visnagar",
-      "software company in Visnagar",
+      "software team in Visnagar",
       "SEO services in Visnagar",
       "digital marketing in Visnagar",
       "ecommerce website in Visnagar",
@@ -83,19 +83,19 @@ const visnagar: CityContent = {
     },
     {
       id: "pump-thresher-units",
-      heading: "Software company in Visnagar for submersible pump and thresher makers",
+      heading: "Software team in Visnagar for submersible pump and thresher makers",
       paragraphs: [
         "Visnagar's engineering units sell pumps, motors and farm machinery through dealers spread across north Gujarat and neighbouring states. Their daily headaches are familiar: dealers calling for prices, orders written on paper, warranty claims with missing serial numbers, and no clear picture of which district is growing and which has gone quiet.",
-        "As a <strong>software company in Visnagar</strong> in the working sense, we build dealer portals and internal tools that fix these gaps. Dealers log in, see current price lists and stock, and place orders. Each pump gets a serial number recorded at dispatch, so a warranty claim can be checked in seconds. The owner sees sales by dealer and district on one screen.",
+        "As a <strong>software team in Visnagar</strong> in the working sense, we build dealer portals and internal tools that fix these gaps. Dealers log in, see current price lists and stock, and place orders. Each pump gets a serial number recorded at dispatch, so a warranty claim can be checked in seconds. The owner sees sales by dealer and district on one screen.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built in stages so the order module is working before warranty and reports are added. If your volumes are small, a shared order sheet and a WhatsApp catalogue may be enough for now, and we will say so.",
       ],
     },
     {
       id: "machinery-b2b-web",
-      heading: "Website development company in Visnagar for engineering and B2B buyers",
+      heading: "Website development team in Visnagar for engineering and B2B buyers",
       paragraphs: [
         "Buyers of pumps and threshers compare specifications before they call anyone. A contractor or farmer's cooperative wants to know head, discharge, motor rating, pipe size and warranty terms. If your website shows only a logo and a phone number, that buyer moves to a competitor who publishes a proper product sheet.",
-        "As a <strong>website development company in Visnagar</strong> for manufacturers, we build product pages with specification tables, downloadable PDF catalogues, installation guidance, dealer-locator maps and enquiry forms that ask the right questions. Pages load fast on mobile networks in rural areas, and each product can have its own URL so that searches for a specific model find it.",
+        "As a <strong>website development team in Visnagar</strong> for manufacturers, we build product pages with specification tables, downloadable PDF catalogues, installation guidance, dealer-locator maps and enquiry forms that ask the right questions. Pages load fast on mobile networks in rural areas, and each product can have its own URL so that searches for a specific model find it.",
         "A B2B site with a moderate product range often fits within our SEO website plan, which starts at ₹20,000 for 700+ pages and takes three to five weeks. Smaller units with a handful of models can start with a static site from ₹10,000. See our <a href=\"/services/web-development/\">web development service</a> for details.",
       ],
     },
@@ -110,10 +110,10 @@ const visnagar: CityContent = {
     },
     {
       id: "university-students",
-      heading: "IT company in Visnagar for colleges, hostels and student services",
+      heading: "IT services team in Visnagar for colleges, hostels and student services",
       paragraphs: [
         "Sankalchand Patel University, established in 2016 by the Nootan Sarva Vidyalaya Kelvani Mandal, runs engineering, health-science and other programmes, and Nootan Medical College sits on an 84-acre campus. M.N. College and many schools add to the student population. Around them grow hostels, PGs, tiffin services, stationery shops, coaching classes and cafés.",
-        "An <strong>IT company in Visnagar</strong> that works with this crowd needs to think mobile first. Students search for “PG near SPU Visnagar” or “tiffin service Visnagar” on their phones and decide in seconds. A clean page with photos, rent or meal plans, rules and a WhatsApp button beats a long brochure.",
+        "An <strong>IT services team in Visnagar</strong> that works with this crowd needs to think mobile first. Students search for “PG near SPU Visnagar” or “tiffin service Visnagar” on their phones and decide in seconds. A clean page with photos, rent or meal plans, rules and a WhatsApp button beats a long brochure.",
         "Coaching centres preparing students for NEET, JEE or government exams can use a website with batch timings and results, and later an app for tests and notes. We do not build anything for the universities themselves unless they approach us; our focus is the private businesses that serve their students.",
       ],
     },
@@ -141,7 +141,7 @@ const visnagar: CityContent = {
       paragraphs: [
         "An app is worth building when the same people come back often. In Visnagar that is usually pump and machinery dealers ordering every week, students checking timetables and tests every day, regular pharmacy or grocery customers reordering, or copperware wholesale buyers who want a live catalogue. For a business people visit once or twice a year, a good website and map listing is the better spend.",
         "For <strong>Android app development in Visnagar</strong>, we build Android and iOS apps from a single codebase with Flutter or React Native. Common features are phone-number login, push notifications, product catalogues with price tiers for dealers, order and service-request forms, and an admin panel so you can change prices and content yourself. We publish the app on Google Play and the App Store under developer accounts in your name.",
-        "Apps start at ₹40,000. The cost rises with payments, offline mode for field staff or integration with accounting. As an <strong>app development company in Visnagar</strong> businesses can reach on WhatsApp any day, we recommend launching a small first version, getting it into real dealers' hands, and improving from their feedback. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "Apps start at ₹40,000. The cost rises with payments, offline mode for field staff or integration with accounting. As an <strong>app development team in Visnagar</strong> businesses can reach on WhatsApp any day, we recommend launching a small first version, getting it into real dealers' hands, and improving from their feedback. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const visnagar: CityContent = {
         "A simple business website takes one to two weeks, most of it spent collecting photos and checking Gujarati text. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. You receive working preview links to check on your phone at each stage.",
     },
     {
-      question: "Which is the best website development company in Visnagar?",
+      question: "Which is the best website development team in Visnagar?",
       answer:
         "The right developer is one who builds what your business actually needs, registers everything in your name and remains reachable after launch. Ask to see live work, check who owns the domain and ask about maintenance costs. We are a three-engineer remote team and are glad to be compared on those points.",
     },

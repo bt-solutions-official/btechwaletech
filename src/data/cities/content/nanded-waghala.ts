@@ -9,10 +9,10 @@ const nanded: CityContent = {
     description:
       "Website design, local SEO, online stores and WhatsApp automation for Nanded shops, clinics, coaching classes and agri traders. From ₹10,000, 5 months free support.",
     keywords: [
-      "website development company in Nanded",
+      "website development team in Nanded",
       "website designer Nanded",
       "web design Nanded price",
-      "SEO company Nanded",
+      "SEO team Nanded",
       "local SEO Nanded",
       "ecommerce website Nanded",
       "software developer Nanded",

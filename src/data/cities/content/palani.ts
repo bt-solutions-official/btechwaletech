@@ -10,12 +10,12 @@ const palani: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp booking for Palani lodges, panchamirtham sellers, travel operators, clinics, colleges and shops.",
     keywords: [
       "IT services in Palani",
-      "IT company in Palani",
-      "website development company in Palani",
+      "IT services team in Palani",
+      "website development team in Palani",
       "web design in Palani",
-      "app development company in Palani",
+      "app development team in Palani",
       "Android app development in Palani",
-      "software company in Palani",
+      "software team in Palani",
       "SEO services in Palani",
       "digital marketing in Palani",
       "ecommerce website in Palani",
@@ -74,10 +74,10 @@ const palani: CityContent = {
     },
     {
       id: "lodges-adivaram",
-      heading: "Website development company in Palani for lodges on Giri Veedhi and Adivaram",
+      heading: "Website development team in Palani for lodges on Giri Veedhi and Adivaram",
       paragraphs: [
         "The foothill streets around Adivaram and Giri Veedhi are lined with lodges, cottages, choultries and small hotels, and the Devasthanam itself runs cottages for pilgrims. Private lodges compete for the same visitor, and many of them lose bookings to aggregator apps that take a cut of every room.",
-        "As a <strong>website development company in Palani</strong> for this trade, we build direct-booking sites: room types with real photographs, tariff for normal days and festival days shown separately, distance to the winch and rope car stations, parking for buses and vans, and a booking form that sends the enquiry straight to your WhatsApp. An advance can be collected by UPI, with the balance at check-in.",
+        "As a <strong>website development team in Palani</strong> for this trade, we build direct-booking sites: room types with real photographs, tariff for normal days and festival days shown separately, distance to the winch and rope car stations, parking for buses and vans, and a booking form that sends the enquiry straight to your WhatsApp. An advance can be collected by UPI, with the balance at check-in.",
         "Group bookings matter here, since families and villages travel together for kavadi and tonsuring. A simple form that asks for the number of rooms, arrival date and whether the group needs a hall saves your staff hours of calls. A plain site starts at ₹10,000; online payment and a room calendar add cost, and we list both separately so you can choose.",
       ],
     },
@@ -128,10 +128,10 @@ const palani: CityContent = {
     },
     {
       id: "colleges-schools",
-      heading: "Software company in Palani for schools, colleges and coaching centres",
+      heading: "Software team in Palani for schools, colleges and coaching centres",
       paragraphs: [
         "As the second-largest town in Dindigul district, Palani has schools, arts and science colleges, polytechnics and coaching centres serving students from across the taluk. Parents want admission dates, fees and bus routes; students want results, timetables and study material.",
-        "As a <strong>software company in Palani</strong> for education, we build admission enquiry forms, fee receipts, attendance registers and circulars that go to parents by WhatsApp or app notification. A college website can hold department pages, faculty lists, NAAC documents and a gallery without becoming slow.",
+        "As a <strong>software team in Palani</strong> for education, we build admission enquiry forms, fee receipts, attendance registers and circulars that go to parents by WhatsApp or app notification. A college website can hold department pages, faculty lists, NAAC documents and a gallery without becoming slow.",
         "A school website starts at ₹10,000. A fee and attendance system is custom software, from ₹60,000, delivered in stages over six to twelve weeks so staff can start with one module and learn it before the next arrives.",
       ],
     },
@@ -164,9 +164,9 @@ const palani: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "IT company in Palani without an office: how our remote team works",
+      heading: "IT services team in Palani without an office: how our remote team works",
       paragraphs: [
-        "We are not a local <strong>IT company in Palani</strong> with a shopfront, and we do not list a Palani address. We are three engineers working remotely across India, and that is why our starting prices stay where they are.",
+        "We are not a local <strong>IT services team in Palani</strong> with a shopfront, and we do not list a Palani address. We are three engineers working remotely across India, and that is why our starting prices stay where they are.",
         "The process is straightforward. You send a WhatsApp message describing your business. We ask a few questions, sometimes over a short call, and send an itemised quote. After you approve it, you get a staging link where you can see the site or app take shape, comment on it and ask for changes. Photographs can be taken on your phone; we guide you on angles and light.",
         "We reply on WhatsApp seven days a week in Indian time, including Sundays, which matters to businesses whose busiest days are weekends. You can start the conversation from our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -217,7 +217,7 @@ const palani: CityContent = {
         "A simple lodge website with rooms, tariffs, photos and a WhatsApp enquiry button takes one to two weeks once we have your photographs and rates. Adding online advance payment and a room calendar takes longer, typically three to five weeks. We suggest launching well before Thaipusam so the listing has time to appear in searches.",
     },
     {
-      question: "Which is the best website development company in Palani?",
+      question: "Which is the best website development team in Palani?",
       answer:
         "The best choice is the one that shows you real work, gives an itemised quote and registers the domain and hosting in your name. Ask any website development company in Palani for live examples, the renewal cost and who owns the code. We publish our starting prices and put all accounts in your name, so you can compare easily.",
     },

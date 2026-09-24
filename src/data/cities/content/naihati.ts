@@ -9,7 +9,7 @@ const naihati: CityContent = {
     description:
       "Websites, Bengali and English SEO and WhatsApp automation for Naihati shops, clinics, tutors and small manufacturers. Static sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Naihati",
+      "website development team in Naihati",
       "web designer Naihati",
       "website design North 24 Parganas",
       "SEO services Naihati",

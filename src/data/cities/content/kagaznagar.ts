@@ -10,12 +10,12 @@ const kagaznagar: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kagaznagar mill vendors, cotton and rice traders, clinics and schools.",
     keywords: [
       "IT services in Kagaznagar",
-      "IT company in Kagaznagar",
-      "website development company in Kagaznagar",
+      "IT services team in Kagaznagar",
+      "website development team in Kagaznagar",
       "web design in Kagaznagar",
-      "app development company in Kagaznagar",
+      "app development team in Kagaznagar",
       "Android app development in Kagaznagar",
-      "software company in Kagaznagar",
+      "software team in Kagaznagar",
       "SEO services in Kagaznagar",
       "digital marketing in Kagaznagar",
       "ecommerce website in Kagaznagar",
@@ -75,20 +75,20 @@ const kagaznagar: CityContent = {
     },
     {
       id: "mill-vendors",
-      heading: "Website development company in Kagaznagar for paper mill vendors and contractors",
+      heading: "Website development team in Kagaznagar for paper mill vendors and contractors",
       paragraphs: [
         "An integrated pulp and paper mill needs a long chain of outside help: civil and fabrication work, electrical and mechanical maintenance, manpower supply, canteen and housekeeping, wood and raw material transport, and spares and consumables. Many of these firms are local, and many have never had any online presence beyond a phone number.",
-        "As a <strong>website development company in Kagaznagar</strong> for this group, we build clean, factual profiles. The site lists your services, equipment and vehicles, the registrations and safety certificates you actually hold, key people, and photographs of work you have permission to show. It helps when a purchase officer checks your firm, when you register as a vendor with another plant, or when a bigger company from Hyderabad, Nagpur or Chandrapur looks for a local partner.",
+        "As a <strong>website development team in Kagaznagar</strong> for this group, we build clean, factual profiles. The site lists your services, equipment and vehicles, the registrations and safety certificates you actually hold, key people, and photographs of work you have permission to show. It helps when a purchase officer checks your firm, when you register as a vendor with another plant, or when a bigger company from Hyderabad, Nagpur or Chandrapur looks for a local partner.",
         "We never publish the mill's name, logo or project details as an endorsement unless you have written permission. We build for your firm, and we do not claim any link with JK Paper or the mill ourselves.",
         "Many contractors also need internal tools: labour attendance marked on a phone at the gate, a material issue register, vehicle trips and diesel, and a bill tracker showing what is pending and for how long. These can start small and grow with the business.",
       ],
     },
     {
       id: "cotton-ginning",
-      heading: "Software company in Kagaznagar for cotton ginning and rice mills",
+      heading: "Software team in Kagaznagar for cotton ginning and rice mills",
       paragraphs: [
         "Cotton and paddy are the main crops of Komaram Bheem Asifabad district, and Kagaznagar's ginning mills and rice mills process a large share of what the surrounding mandals grow. Seasons are short and busy: hundreds of farmers and lorries in a few weeks, with rates changing and payments to track.",
-        "As a <strong>software company in Kagaznagar</strong> businesses can work with remotely, we build records systems for this pace. A ginning unit can log each arrival with farmer, village, vehicle, weight and moisture, track lint and seed output, bale numbers and dispatches, and see pending payments by buyer. A rice mill can record paddy intake, milling yield by batch, bag stock and sales.",
+        "As a <strong>software team in Kagaznagar</strong> businesses can work with remotely, we build records systems for this pace. A ginning unit can log each arrival with farmer, village, vehicle, weight and moisture, track lint and seed output, bale numbers and dispatches, and see pending payments by buyer. A rice mill can record paddy intake, milling yield by batch, bag stock and sales.",
         "Screens are in Telugu and English and work on a phone at the weighbridge or on the office computer. Reports export to Excel for your accountant, and data is backed up daily so a broken laptop does not wipe out a season.",
         "Farmer details and rates stay private behind a login. Custom tools start at ₹60,000, and a simpler Android and iOS app for yard entries starts at ₹40,000.",
       ],
@@ -118,7 +118,7 @@ const kagaznagar: CityContent = {
       heading: "Android app development in Kagaznagar for field teams and schools",
       paragraphs: [
         "An app is worth the cost when the same people use it every day. In Kagaznagar, that usually means staff in the field. Contractor supervisors can mark attendance with a photo. Drivers can log trips, loading points and diesel. Ginning mill clerks can enter arrivals at the weighbridge. Schools can send homework, attendance and fee notices to parents by push notification.",
-        "Kagaznagar firms looking for an <strong>app development company in Kagaznagar</strong> get the same stack we use everywhere: Flutter or React Native, one codebase, an app for Android phones and iPhones alike. Version one is kept lean. Staff log in, see only their own screens, receive push alerts, save entries without signal and let them sync later, while you watch everything from a browser admin panel. <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> are priced from ₹40,000, and publishing on Google Play and the App Store is done through developer accounts opened under your firm's name.",
+        "Kagaznagar firms looking for an <strong>app development team in Kagaznagar</strong> get the same stack we use everywhere: Flutter or React Native, one codebase, an app for Android phones and iPhones alike. Version one is kept lean. Staff log in, see only their own screens, receive push alerts, save entries without signal and let them sync later, while you watch everything from a browser admin panel. <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> are priced from ₹40,000, and publishing on Google Play and the App Store is done through developer accounts opened under your firm's name.",
         "Offline entry matters in this district. Large areas of forest and hills have weak or no signal, so an app that needs constant internet fails in the field. We test for that before handover.",
         "A website is enough when people contact you only occasionally, such as a patient booking once or a buyer checking a rate. A mobile-friendly site with WhatsApp then costs far less than an app.",
       ],
@@ -185,9 +185,9 @@ const kagaznagar: CityContent = {
     },
     {
       id: "remote-team-kagaznagar",
-      heading: "IT company in Kagaznagar without a local office",
+      heading: "IT services team in Kagaznagar without a local office",
       paragraphs: [
-        "We are not a local <strong>IT company in Kagaznagar</strong> with an office on the main road. We are three engineers working remotely, and we have built for clients in towns where finding a developer nearby is hard. What makes projects succeed is clear requirements and steady communication, not distance.",
+        "We are not a local <strong>IT services team in Kagaznagar</strong> with an office on the main road. We are three engineers working remotely, and we have built for clients in towns where finding a developer nearby is hard. What makes projects succeed is clear requirements and steady communication, not distance.",
         "It begins with one WhatsApp message: your firm's name, the work you do, the thing you want built, and a couple of photos or sites you like. We come back with questions, and within about two working days an itemised quote follows. After you say yes, a first draft arrives on the agreed date. Voice notes are a perfectly good way to give feedback, and nothing goes live until you have seen it. Messages are answered every day, Sunday included, on Indian time.",
         "For Telugu and Marathi content, we write carefully and ask you to review it. Calls can be in Hindi or English.",
         "Ready to start? <a href=\"/contact/\">Send us a message</a> and we will reply with questions and a quote.",
@@ -235,7 +235,7 @@ const kagaznagar: CityContent = {
         "Plan on a week or two for a static site, counted from the day your text and pictures reach us. Larger SEO builds need three to five weeks, stores four to eight, and bespoke software anywhere from six to twelve. In practice the clock is usually held up by missing content rather than coding, so gather photos before we start.",
     },
     {
-      question: "Which is the best website development company in Kagaznagar?",
+      question: "Which is the best website development team in Kagaznagar?",
       answer:
         "No ranking list settles that. A sensible test: will they put the domain and hosting under your name, break the quote into line items, and show work similar to yours? Put those questions to every candidate, including us. We are three remote engineers without a local office, with public starting prices, so the comparison is easy to make.",
     },

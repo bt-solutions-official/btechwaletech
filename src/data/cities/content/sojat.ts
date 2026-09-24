@@ -10,12 +10,12 @@ const sojat: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Sojat mehndi processors, exporters, traders, temple trusts, schools and bazaar shops.",
     keywords: [
       "IT services in Sojat",
-      "IT company in Sojat",
-      "website development company in Sojat",
+      "IT services team in Sojat",
+      "website development team in Sojat",
       "web design in Sojat",
-      "app development company in Sojat",
+      "app development team in Sojat",
       "Android app development in Sojat",
-      "software company in Sojat",
+      "software team in Sojat",
       "SEO services in Sojat",
       "digital marketing in Sojat",
       "ecommerce website in Sojat",
@@ -74,20 +74,20 @@ const sojat: CityContent = {
     },
     {
       id: "mehndi-processors-exporters",
-      heading: "Website development company in Sojat for mehndi processors and exporters",
+      heading: "Website development team in Sojat for mehndi processors and exporters",
       paragraphs: [
         "A serious henna buyer asks the same questions every time. What is the lawsone content of this lot? Is the powder sifted fine enough for cones? Is it pure leaf or blended? What pack sizes, what minimum order, how long to dispatch, and can you print my brand on it? Right now most Sojat units answer these one call at a time.",
-        "As a <strong>website development company in Sojat</strong>, we build sites that answer them before the phone rings. Each product grade gets its own page with colour result photos taken on real skin or hair, sifting grade, typical lab values stated honestly, pack formats and storage advice. A private-label page explains how branding, printing and minimum quantities work. Export buyers get a page listing the documents you can supply, such as your IEC, lab test reports and certificates you actually hold.",
+        "As a <strong>website development team in Sojat</strong>, we build sites that answer them before the phone rings. Each product grade gets its own page with colour result photos taken on real skin or hair, sifting grade, typical lab values stated honestly, pack formats and storage advice. A private-label page explains how branding, printing and minimum quantities work. Export buyers get a page listing the documents you can supply, such as your IEC, lab test reports and certificates you actually hold.",
         "We write only what you can back with paper. No “world's largest” lines, no invented client lists and no certifications you do not have, because a buyer who checks and finds a false claim will not come back. A trade site like this starts at ₹10,000 for up to 100 pages and is usually ready in one to two weeks once we have your photographs and product details.",
       ],
     },
     {
       id: "traders-grinding-units-software",
-      heading: "Software company in Sojat for henna traders, grinding units and packers",
+      heading: "Software team in Sojat for henna traders, grinding units and packers",
       paragraphs: [
         "Behind every export shipment there is a chain: farmers who grow and cut the leaf, traders who buy and store the dried crop, units that clean, grind and sift it, and packers who fill pouches and cones. Each link keeps its own records, mostly in bahi-khata registers and Excel sheets on one person's laptop.",
         "The problems that follow are familiar. Which supplier did this batch come from, and what did it test at? How many bags of which grade are left in the godown? Which buyer has not paid for the last two consignments? When a complaint arrives about colour, nobody can trace the lot quickly.",
-        "Working as a <strong>software company in Sojat</strong>, we build small web applications for exactly these gaps. A lot register links each purchase of leaf to its supplier, moisture note, grade and price. A batch screen follows that lot through grinding and packing, with its lab report attached. A dispatch and ledger view shows pending payments by party and ages them. Custom software starts at ₹60,000 and arrives in stages over six to twelve weeks, so your staff start using the first screen long before the last one is ready. Your data stays in an account you own.",
+        "Working as a <strong>software team in Sojat</strong>, we build small web applications for exactly these gaps. A lot register links each purchase of leaf to its supplier, moisture note, grade and price. A batch screen follows that lot through grinding and packing, with its lab report attached. A dispatch and ledger view shows pending payments by party and ages them. Custom software starts at ₹60,000 and arrives in stages over six to twelve weeks, so your staff start using the first screen long before the last one is ready. Your data stays in an account you own.",
       ],
     },
     {
@@ -131,7 +131,7 @@ const sojat: CityContent = {
       heading: "Android app development in Sojat: when an app pays for itself",
       paragraphs: [
         "An app is worth building when the same people open it every week. For a Sojat henna brand, that might be a salesman booking orders from beauty parlours and wholesalers across several districts, or regular trade buyers re-ordering the same grades each month. For a school, it is parents checking notices and fee dues. For a clinic, it is patients taking a token.",
-        "As an <strong>app development company in Sojat</strong> working remotely, we build with Flutter or React Native so that one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, a product or order screen, order history and a web admin panel for your office. A salesman app can work offline in villages with weak signal and sync the day's orders when the phone reconnects.",
+        "As an <strong>app development team in Sojat</strong> working remotely, we build with Flutter or React Native so that one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, a product or order screen, order history and a web admin panel for your office. A salesman app can work offline in villages with weak signal and sync the day's orders when the phone reconnects.",
         "<strong>Android app development in Sojat</strong> with us starts at ₹40,000, and the iOS version is built from the same code. Payments, maps, offline sync and links to your billing software each appear as separate lines in the quote. We publish on Google Play and the Apple App Store under developer accounts registered in your name. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, rates and a phone number, a website does that for far less and needs no download. We will say so, and suggest an app later once you know who would open it every week.",
       ],
@@ -164,7 +164,7 @@ const sojat: CityContent = {
     },
     {
       id: "comparing-quotes-sojat",
-      heading: "Choosing an IT company in Sojat, Pali or Jodhpur: what to compare",
+      heading: "Choosing an IT services team in Sojat, Pali or Jodhpur: what to compare",
       paragraphs: [
         "The price goes above the starting figure for predictable reasons: a Hindi version alongside English, a large product range with many pack sizes, export enquiry forms with document uploads, logins for dealers, online payment, a link to Tally or another billing package, or copywriting if you would rather not write the text yourself. Each is visible in the quote as a line you can keep or strike out.",
         "Quotes from designers in Sojat, Pali, Jodhpur and online vary widely for work that sounds the same. Compare the answers, not only the totals. In whose name will the domain and hosting be registered? Will you receive the full source code? Is the site tested on the budget Android phones your customers carry? Is basic SEO included? How many rounds of changes are covered, and what will support cost after the first year?",
@@ -173,7 +173,7 @@ const sojat: CityContent = {
     },
     {
       id: "remote-team-sojat",
-      heading: "An IT company in Sojat without a Sojat office: how the work actually runs",
+      heading: "An IT services team in Sojat without a Sojat office: how the work actually runs",
       paragraphs: [
         "It starts with a call of fifteen or twenty minutes about your product, your buyers and the one problem that costs you the most time. Vedansh then writes a plan listing the pages or app screens, the dates and a cost for every item, and sends it within about two working days. Nothing is billed until you approve that plan in writing.",
         "During the build you get preview links that open on any phone, so a partner at the grinding unit, a son handling exports or a relative in another city can comment before anything goes live. Hindi text always comes to you for checking. Payments are linked to milestones you can see working, not to promises.",
@@ -245,9 +245,9 @@ const sojat: CityContent = {
         "A simple website for a Sojat shop, clinic or school is usually live one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending your text and pictures early is what speeds things up most.",
     },
     {
-      question: "Which is the best IT company in Sojat?",
+      question: "Which is the best IT services team in Sojat?",
       answer:
-        "The best IT company in Sojat for you is one that publishes starting prices, puts the domain, hosting and code in your name, shows real work and still answers after launch. Ask two or three providers the same questions and compare answers, not just totals. We meet those tests and reply on WhatsApp daily, but compare before you decide.",
+        "The best IT services team in Sojat for you is one that publishes starting prices, puts the domain, hosting and code in your name, shows real work and still answers after launch. Ask two or three providers the same questions and compare answers, not just totals. We meet those tests and reply on WhatsApp daily, but compare before you decide.",
     },
     {
       question: "Can you get my Sojat business on Google Maps?",

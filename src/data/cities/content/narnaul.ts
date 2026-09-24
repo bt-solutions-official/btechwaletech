@@ -10,12 +10,12 @@ const narnaul: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Narnaul traders, stone and mining units, logistics firms, schools and clinics.",
     keywords: [
       "IT services in Narnaul",
-      "IT company in Narnaul",
-      "website development company in Narnaul",
+      "IT services team in Narnaul",
+      "website development team in Narnaul",
       "web design in Narnaul",
-      "app development company in Narnaul",
+      "app development team in Narnaul",
       "Android app development in Narnaul",
-      "software company in Narnaul",
+      "software team in Narnaul",
       "SEO services in Narnaul",
       "digital marketing in Narnaul",
       "ecommerce website in Narnaul",
@@ -75,10 +75,10 @@ const narnaul: CityContent = {
     },
     {
       id: "stone-mining-narnaul",
-      heading: "Software company in Narnaul for stone-crushing and mineral units",
+      heading: "Software team in Narnaul for stone-crushing and mineral units",
       paragraphs: [
         "Mahendragarh district has deposits of several minerals, and the belt around Narnaul and Nangal Chaudhary has long had stone-crushing units supplying aggregate to construction across the region. These units work under strict regulation, and in recent years environmental orders have forced some to close. The ones that continue need their paperwork in good order.",
-        "As a <strong>software company in Narnaul</strong> working remotely, we build web-based tools for these operations. A first version records each truck by number, weighbridge weight, material grade, buyer and rate; generates bills that match the slips; tracks buyer credit; and keeps a clear record of output and dispatch that can support compliance reporting. The owner sees daily trips, sales and outstanding balances on a phone dashboard.",
+        "As a <strong>software team in Narnaul</strong> working remotely, we build web-based tools for these operations. A first version records each truck by number, weighbridge weight, material grade, buyer and rate; generates bills that match the slips; tracks buyer credit; and keeps a clear record of output and dispatch that can support compliance reporting. The owner sees daily trips, sales and outstanding balances on a phone dashboard.",
         "Custom software like this starts from ₹60,000 and usually takes six to twelve weeks, built in stages alongside your existing Tally accounts. We do not give legal or regulatory advice and suggest your consultant confirms what records you must keep. What the software does is make those records complete, searchable and hard to lose.",
       ],
       list: [
@@ -90,10 +90,10 @@ const narnaul: CityContent = {
     },
     {
       id: "logistics-narnaul",
-      heading: "App development company in Narnaul for transporters and the logistics belt",
+      heading: "App development team in Narnaul for transporters and the logistics belt",
       paragraphs: [
         "The Integrated Multi-Modal Logistics Hub at Nangal Chaudhary, spread over about 886 acres beside the Western Dedicated Freight Corridor and NH-11, is expected to bring warehousing, freight handling and related services to the area. Even before it runs at scale, Narnaul already has a large base of truck owners, transport companies and material suppliers moving goods toward Rewari, Jaipur and Delhi NCR.",
-        "As an <strong>app development company in Narnaul</strong>, we build trip and fleet apps for these businesses. Drivers log trip start, loading, delivery and expenses on an Android phone; the owner sees each truck's trips, fuel, tolls, advances and pending freight in one place. Customers can get a WhatsApp message when goods are loaded or delivered.",
+        "As an <strong>app development team in Narnaul</strong>, we build trip and fleet apps for these businesses. Drivers log trip start, loading, delivery and expenses on an Android phone; the owner sees each truck's trips, fuel, tolls, advances and pending freight in one place. Customers can get a WhatsApp message when goods are loaded or delivered.",
         "For warehousing and handling services coming up near the hub, a clear company website with services, capacity, location and a direct enquiry route matters, because buyers compare several vendors online before calling. We keep the language plain and the details verifiable.",
         "We start small, often with four screens for drivers and one dashboard for the owner, and add features only once the basics are being used daily.",
       ],
@@ -110,10 +110,10 @@ const narnaul: CityContent = {
     },
     {
       id: "coaching-schools-narnaul",
-      heading: "Website development company in Narnaul for schools and coaching centres",
+      heading: "Website development team in Narnaul for schools and coaching centres",
       paragraphs: [
         "Education is a large local business in Narnaul. Alongside Government College Narnaul and the Government College of Education, the town has many private schools, and coaching centres prepare students for school boards, entrance tests, government recruitment exams and defence services. Competition for students is strong, and parents compare options on their phones.",
-        "Working as a <strong>website development company in Narnaul</strong>, we build school and coaching sites that answer parents' real questions: courses, batch timings, faculty, fees, results and how to enrol. Staff can post notices and results themselves from a simple admin screen. Enquiry forms go to one sheet, and every enquiry gets an automatic WhatsApp reply.",
+        "Working as a <strong>website development team in Narnaul</strong>, we build school and coaching sites that answer parents' real questions: courses, batch timings, faculty, fees, results and how to enrol. Staff can post notices and results themselves from a simple admin screen. Enquiry forms go to one sheet, and every enquiry gets an automatic WhatsApp reply.",
         "For larger institutions, a fee and attendance system with parent logins, receipts and reminders can be added as custom software. We time delivery around admission season, not in the middle of it. Results pages should state only verified results; we will not publish rank claims you cannot support.",
       ],
     },
@@ -173,9 +173,9 @@ const narnaul: CityContent = {
     },
     {
       id: "remote-team-narnaul",
-      heading: "An IT company in Narnaul that works remotely",
+      heading: "An IT services team in Narnaul that works remotely",
       paragraphs: [
-        "To be clear: we are not an <strong>IT company in Narnaul</strong> with a local office. We are three engineers working remotely for clients across India, and Narnaul businesses reach us on WhatsApp or by phone. Gurugram is a few hours away, but for most projects you do not need anyone in the room, because the building happens on screens.",
+        "To be clear: we are not an <strong>IT services team in Narnaul</strong> with a local office. We are three engineers working remotely for clients across India, and Narnaul businesses reach us on WhatsApp or by phone. Gurugram is a few hours away, but for most projects you do not need anyone in the room, because the building happens on screens.",
         "Things usually kick off with a phone call and a few voice notes where you explain what you sell and to whom. Within two working days or so, a written scope and line-by-line quote reach you. Once you say yes, a preview link gets updated every few days, and your corrections come to us on WhatsApp, which we check all seven days on IST.",
         "Where fresh photographs of your showroom, trucks or classrooms would help, we send you a shot list so you or a Narnaul photographer can take them. We will never list a fake local address or describe a meeting that never took place. You can start the conversation on our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -226,7 +226,7 @@ const narnaul: CityContent = {
         "Yes. One Flutter or React Native build covers both platforms, with OTP login, push alerts and a staff panel, and we handle release on Google Play and the App Store using developer accounts in your name. Prices begin at ₹40,000. Around Narnaul the apps that earn their keep are coaching test apps, truck trip logs and dealer order apps.",
     },
     {
-      question: "Which is the best IT company in Narnaul for a small business?",
+      question: "Which is the best IT services team in Narnaul for a small business?",
       answer:
         "“Best” depends less on size than on a few checks: is the domain in your name, is the quote itemised and written, and what happens after launch? We are three remote engineers who publish starting rates and include five free months of upkeep. Hold any Narnaul or Rewari option to the same checks before you decide.",
     },

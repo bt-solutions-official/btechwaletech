@@ -9,7 +9,7 @@ const kaithal: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Kaithal rice millers, arhtiyas, schools and shops, plus Cheeka, Pundri and Kalayat. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Kaithal",
+      "website development team in Kaithal",
       "web designer Kaithal",
       "website banane wala Kaithal",
       "SEO services Kaithal",

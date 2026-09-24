@@ -9,7 +9,7 @@ const godhra: CityContent = {
     description:
       "Websites, Google Maps SEO and WhatsApp automation for Godhra, Halol and Kalol businesses: suppliers, dairies, schools, clinics. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Godhra",
+      "website development team in Godhra",
       "web design Godhra",
       "website designer Panchmahal",
       "SEO services Godhra",

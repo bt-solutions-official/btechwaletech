@@ -10,12 +10,12 @@ const sindhnur: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Sindhanur rice mills, paddy traders, tractor dealers, clinics, colleges and shops.",
     keywords: [
       "IT services in Sindhanur",
-      "IT company in Sindhanur",
-      "website development company in Sindhanur",
+      "IT services team in Sindhanur",
+      "website development team in Sindhanur",
       "web design in Sindhanur",
-      "app development company in Sindhanur",
+      "app development team in Sindhanur",
       "Android app development in Sindhanur",
-      "software company in Sindhanur",
+      "software team in Sindhanur",
       "SEO services in Sindhanur",
       "digital marketing in Sindhanur",
       "ecommerce website in Sindhanur",
@@ -74,10 +74,10 @@ const sindhnur: CityContent = {
     },
     {
       id: "rice-mill-software",
-      heading: "Software company in Sindhanur for rice mills and paddy traders",
+      heading: "Software team in Sindhanur for rice mills and paddy traders",
       paragraphs: [
         "A rice mill in Sindhanur runs on numbers that change every day: paddy arrivals by farmer and variety, moisture and weight at the weighbridge, advances paid, milling yield, bran and broken output, packing by brand and bag size, and dispatches to buyers in other states. Most mills track these in a mix of registers, spreadsheets and Tally, and the gaps between them cause the costliest mistakes.",
-        "As a <strong>software company in Sindhanur</strong> in practical terms, we build web tools that sit alongside your accounts. Each arrival is entered once with vehicle, variety, gross and tare weight and moisture. Lots are followed through milling to packed stock. Dispatch records link to invoices and lorry receipts, and the owner sees paddy stock, rice stock and money owed on a single screen from a phone.",
+        "As a <strong>software team in Sindhanur</strong> in practical terms, we build web tools that sit alongside your accounts. Each arrival is entered once with vehicle, variety, gross and tare weight and moisture. Lots are followed through milling to packed stock. Dispatch records link to invoices and lorry receipts, and the owner sees paddy stock, rice stock and money owed on a single screen from a phone.",
         "Tools like this start at ₹60,000 and are delivered in stages across six to twelve weeks, usually starting with the arrivals and payments register because that is where disputes begin. Data exports to your accountant, and it sits on hosting registered to your firm. Paddy traders and commission agents at the Jantha Gunj APMC yard can use a lighter version for purchases, sales and dues.",
       ],
     },
@@ -101,10 +101,10 @@ const sindhnur: CityContent = {
     },
     {
       id: "multilingual-communities",
-      heading: "Website development company in Sindhanur for Kannada, Telugu and Bengali customers",
+      heading: "Website development team in Sindhanur for Kannada, Telugu and Bengali customers",
       paragraphs: [
         "Sindhanur's customers do not all speak the same language. Kannada is the everyday language of the town, but the canal belt also has farming villages settled by Telugu-speaking families from coastal Andhra, such as Gandhi Nagar, formerly Jalihal Camp. The rehabilitation camps set up after 1971, known locally as RH camps, are home to thousands of Bengali-speaking families.",
-        "A <strong>website development company in Sindhanur</strong> should plan for that. For most shops and clinics, Kannada and English pages are enough, but a fertiliser dealer or clinic whose customers come from the Telugu villages or the RH camps may do better with a short Telugu or Bengali section, or at least a WhatsApp assistant that can reply in those languages.",
+        "A <strong>website development team in Sindhanur</strong> should plan for that. For most shops and clinics, Kannada and English pages are enough, but a fertiliser dealer or clinic whose customers come from the Telugu villages or the RH camps may do better with a short Telugu or Bengali section, or at least a WhatsApp assistant that can reply in those languages.",
         "We write the Kannada and English content with you, and for Telugu or Bengali sections we work from text you or your staff approve, so nothing goes live that your customers would find awkward. Each language version gets its own page rather than a machine-translated copy.",
       ],
     },
@@ -113,7 +113,7 @@ const sindhnur: CityContent = {
       heading: "Android app development in Sindhanur, and when an iOS app makes sense",
       paragraphs: [
         "Apps are worth their cost when a fixed group of users opens them week after week. In Sindhanur that could be regular rice buyers in other cities placing repeat orders, a tractor dealer's service team logging visits in villages, a coaching centre sharing tests and results, or a hospital giving patients tokens and reports on their phones.",
-        "Working as a remote <strong>app development company in Sindhanur</strong>, we write apps in Flutter or React Native, so the same code produces an Android app and an iPhone app. The first release usually carries OTP login, push notifications, the few screens that matter and a web admin panel for your office. We publish on Google Play and Apple's App Store using developer accounts that belong to you. In this market most users are on Android, so iOS is included mainly for buyers and staff in the cities.",
+        "Working as a remote <strong>app development team in Sindhanur</strong>, we write apps in Flutter or React Native, so the same code produces an Android app and an iPhone app. The first release usually carries OTP login, push notifications, the few screens that matter and a web admin panel for your office. We publish on Google Play and Apple's App Store using developer accounts that belong to you. In this market most users are on Android, so iOS is included mainly for buyers and staff in the cities.",
         "<strong>Android app development in Sindhanur</strong> with us starts at ₹40,000. Online payments, offline entry for field staff where signal is weak, maps, several user roles and integrations each add to the price and appear as separate lines. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> walks through how we build and launch.",
         "If customers mostly want to know your address, today's stock and how to reach you, skip the app. A website and a well-kept Maps listing cover that at a fraction of the price, and we will recommend that instead.",
       ],
@@ -138,10 +138,10 @@ const sindhnur: CityContent = {
     },
     {
       id: "retail-sindhanur",
-      heading: "IT company in Sindhanur for jewellers, cloth shops and household retail",
+      heading: "IT services team in Sindhanur for jewellers, cloth shops and household retail",
       paragraphs: [
         "After each harvest, farm income reaches the town's bazaar. Jewellers, textile and saree shops, furniture and electronics stores, two-wheeler showrooms and hardware shops see their busiest weeks then and before weddings and Dasara.",
-        "An <strong>IT company in Sindhanur</strong> helping these shops should begin with a correct Maps listing, a WhatsApp Business catalogue and one clear page with address, timings, categories and a way to ask for prices. Jewellers can add a page on hallmarking and making charges, and larger stores can post festival offers and new arrivals without calling anyone.",
+        "An <strong>IT services team in Sindhanur</strong> helping these shops should begin with a correct Maps listing, a WhatsApp Business catalogue and one clear page with address, timings, categories and a way to ask for prices. Jewellers can add a page on hallmarking and making charges, and larger stores can post festival offers and new arrivals without calling anyone.",
         "Only when that basic setup brings enquiries do we suggest the next step, such as a home delivery order page within town or a customer list for WhatsApp updates.",
         "January brings another wave. The jatre at the Ambadevi temple on Siddha Parvata, roughly 20 km from town, draws very large crowds, and many visitors pass through Sindhanur for food, lodging, transport and shopping. Lodges, eateries, taxi operators and puja-item sellers that update their Maps listings and timings a few weeks ahead are the ones pilgrims find when they search on the way.",
       ],
@@ -224,7 +224,7 @@ const sindhnur: CityContent = {
         "A basic site usually goes live within one to two weeks after your photographs and text arrive. A 700+ page SEO site needs three to five weeks, an online store four to eight and custom software six to twelve. Slow content is the most common cause of delay.",
     },
     {
-      question: "Who is the best website development company in Sindhanur?",
+      question: "Who is the best website development team in Sindhanur?",
       answer:
         "Compare providers on published prices, ownership of domain and code, live work you can open and support after launch. We meet those points and reply on WhatsApp every day, but speaking to a few providers before you choose is always a good idea.",
     },

@@ -10,12 +10,12 @@ const alipurduar: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Alipurduar homestays, tea suppliers, Jaigaon traders, clinics and Dooars schools.",
     keywords: [
       "IT services in Alipurduar",
-      "IT company in Alipurduar",
-      "website development company in Alipurduar",
+      "IT services team in Alipurduar",
+      "website development team in Alipurduar",
       "web design in Alipurduar",
-      "app development company in Alipurduar",
+      "app development team in Alipurduar",
       "Android app development in Alipurduar",
-      "software company in Alipurduar",
+      "software team in Alipurduar",
       "SEO services in Alipurduar",
       "digital marketing in Alipurduar",
       "ecommerce website in Alipurduar",
@@ -89,10 +89,10 @@ const alipurduar: CityContent = {
     },
     {
       id: "tea-estate-suppliers",
-      heading: "Software company in Alipurduar for tea estate suppliers and contractors",
+      heading: "Software team in Alipurduar for tea estate suppliers and contractors",
       paragraphs: [
         "Tea gardens across the Dooars depend on a wide network of suppliers: fertiliser and chemical dealers, machinery and spares firms, transporters, construction and repair contractors, packaging suppliers and canteen operators. Much of this business runs on purchase orders, delivery challans and payments that arrive weeks later.",
-        "As a <strong>software company in Alipurduar</strong> in the practical sense, we build web apps that keep purchase orders, deliveries, invoices and payments against each estate in one place. The owner sees what is due from whom, the site supervisor logs deliveries from a phone, and the accountant exports a clean report at month end. Custom software starts at ₹60,000 and usually takes six to twelve weeks.",
+        "As a <strong>software team in Alipurduar</strong> in the practical sense, we build web apps that keep purchase orders, deliveries, invoices and payments against each estate in one place. The owner sees what is due from whom, the site supervisor logs deliveries from a phone, and the accountant exports a clean report at month end. Custom software starts at ₹60,000 and usually takes six to twelve weeks.",
         "A simple capability website helps too. Estate managers and head offices often check a vendor online before approving them. We build a short, factual site with your services, equipment, service area and contact details, and we only list certifications and clients you can back up.",
       ],
     },
@@ -108,19 +108,19 @@ const alipurduar: CityContent = {
     },
     {
       id: "railway-vendors-coaching",
-      heading: "Website development company in Alipurduar for schools, colleges and coaching",
+      heading: "Website development team in Alipurduar for schools, colleges and coaching",
       paragraphs: [
         "Alipurduar has Alipurduar University, Vivekananda College, long-established schools such as McWilliam Higher Secondary, and a large number of tuition and coaching centres for school boards and competitive exams. As the base of a railway division, the town also has many families with railway connections and a steady interest in recruitment exam preparation.",
-        "As a <strong>website development company in Alipurduar</strong> for institutes, we build pages for courses, batches, fees if you choose to publish them, faculty and results that can be verified. An enquiry form sends leads to one WhatsApp number, and a Google Business Profile with correct categories helps nearby families find you.",
+        "As a <strong>website development team in Alipurduar</strong> for institutes, we build pages for courses, batches, fees if you choose to publish them, faculty and results that can be verified. An enquiry form sends leads to one WhatsApp number, and a Google Business Profile with correct categories helps nearby families find you.",
         "For larger schools and coaching centres, a notice and fee-reminder system cuts down on phone calls. Teachers publish homework, test dates and holiday notices once, and parents receive them in an app or on WhatsApp. Results can be shown privately against a roll number rather than posted publicly.",
       ],
     },
     {
       id: "clinics-alipurduar",
-      heading: "IT company in Alipurduar for clinics, labs and pharmacies",
+      heading: "IT services team in Alipurduar for clinics, labs and pharmacies",
       paragraphs: [
         "Patients come into Alipurduar from tea estates, forest villages and towns such as Falakata, Kalchini and Kumargram. Many travel long distances on buses and cannot afford to arrive on the wrong day, so clinic information needs to be accurate and easy to find.",
-        "An <strong>IT company in Alipurduar</strong> can solve most of this with a modest website: doctors, specialities, chamber days and timings, test preparation notes, report collection times and a map. WhatsApp appointment requests collect the patient's name and preferred date, and the front desk confirms them.",
+        "An <strong>IT services team in Alipurduar</strong> can solve most of this with a modest website: doctors, specialities, chamber days and timings, test preparation notes, report collection times and a map. WhatsApp appointment requests collect the patient's name and preferred date, and the front desk confirms them.",
         "We write plain descriptions and avoid medical claims. Your doctors review every page before it goes live. For multi-doctor centres, an admin panel lets staff update schedules themselves, and report-ready alerts can go out on WhatsApp so patients do not travel twice.",
       ],
     },
@@ -145,9 +145,9 @@ const alipurduar: CityContent = {
     },
     {
       id: "android-ios-apps-alipurduar",
-      heading: "App development company in Alipurduar: Android and iOS apps for the Dooars",
+      heading: "App development team in Alipurduar: Android and iOS apps for the Dooars",
       paragraphs: [
-        "Android phones dominate in the district, and iPhones are common among visitors and professionals. As an <strong>app development company in Alipurduar</strong>'s businesses can hire remotely, we build in Flutter or React Native so one codebase covers both platforms.",
+        "Android phones dominate in the district, and iPhones are common among visitors and professionals. As an <strong>app development team in Alipurduar</strong>'s businesses can hire remotely, we build in Flutter or React Native so one codebase covers both platforms.",
         "Apps work when people return often. A resort group with repeat guests, a supplier whose tea estate customers re-order every month, a coaching centre with daily notices, or a transport operator whose drivers log trips. A typical first version has phone-number login, push notifications, a few core screens and an admin panel for your staff.",
         "<strong>Android app development in Alipurduar</strong> with us starts at ₹40,000, and the iOS version comes from the same code. We publish on Google Play and the Apple App Store under developer accounts in your name. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for details.",
         "If your customers visit once a season or only need your address and phone number, a fast website and a good Google listing are enough. We will tell you so, rather than sell an app that is installed once and forgotten.",
@@ -227,7 +227,7 @@ const alipurduar: CityContent = {
         "A static website usually takes one to two weeks after we receive photographs and content. SEO websites take three to five weeks, online stores four to eight weeks, and custom software six to twelve weeks. For homestays we suggest starting well before the tourist season so the listing has time to settle.",
     },
     {
-      question: "Which is the best IT company in Alipurduar?",
+      question: "Which is the best IT services team in Alipurduar?",
       answer:
         "Choose someone who explains the work clearly, registers the domain and code in your name, shows real samples and supports you after launch. Ask any IT company in Alipurduar for an itemised quote. We are a remote team of three engineers and would rather advise against an extra than oversell it.",
     },

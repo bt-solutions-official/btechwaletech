@@ -10,12 +10,12 @@ const jhumriTilaiya: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Jhumri Tilaiya shops, schools, mineral traders and Koderma suppliers. Starts at ₹10,000.",
     keywords: [
       "IT services in Jhumri Tilaiya",
-      "IT company in Jhumri Tilaiya",
-      "website development company in Jhumri Tilaiya",
+      "IT services team in Jhumri Tilaiya",
+      "website development team in Jhumri Tilaiya",
       "web design in Jhumri Tilaiya",
-      "app development company in Jhumri Tilaiya",
+      "app development team in Jhumri Tilaiya",
       "Android app development in Jhumri Tilaiya",
-      "software company in Jhumri Tilaiya",
+      "software team in Jhumri Tilaiya",
       "SEO services in Jhumri Tilaiya",
       "digital marketing in Jhumri Tilaiya",
       "ecommerce website in Jhumri Tilaiya",
@@ -70,12 +70,12 @@ const jhumriTilaiya: CityContent = {
       paragraphs: [
         "Most people in India know the name Jhumri Tilaiya from radio. From the 1950s to the 1980s, listeners here sent more film-song requests to Radio Ceylon and Vividh Bharati than almost anywhere else, and the town became a byword across the country. Behind that fame was a real market town, built on mica, the railway and trade along the Ranchi–Patna road.",
         "Today Jhumri Tilaiya is the largest town in Koderma district and the place where people from Koderma, Domchanch, Jainagar, Markacho, Chandwara and Satgawan come to shop, study, see doctors and do business. Koderma Junction on the Grand Chord line puts the town within an overnight journey of Delhi and Kolkata, and National Highway 20 links it with Hazaribag, Ranchi and Patna.",
-        "Customers from these blocks increasingly search on a phone before they travel. Working as a remote <strong>IT company in Jhumri Tilaiya</strong> and the wider district, we help local businesses show up for those searches with fast websites, correct Google Maps listings, WhatsApp automation and, where repeat use justifies it, Android and iOS apps. The aim is practical: more calls and fewer wasted journeys, not a flashy site that nobody updates.",
+        "Customers from these blocks increasingly search on a phone before they travel. Working as a remote <strong>IT services team in Jhumri Tilaiya</strong> and the wider district, we help local businesses show up for those searches with fast websites, correct Google Maps listings, WhatsApp automation and, where repeat use justifies it, Android and iOS apps. The aim is practical: more calls and fewer wasted journeys, not a flashy site that nobody updates.",
       ],
     },
     {
       id: "mica-mineral-traders-jhumri-tilaiya",
-      heading: "Website development company in Jhumri Tilaiya for mica, stone and mineral traders",
+      heading: "Website development team in Jhumri Tilaiya for mica, stone and mineral traders",
       paragraphs: [
         "Mica made this area. The British found large deposits while laying the railway in the 1890s, and for decades Koderma supplied mica to buyers abroad, including the Soviet Union. The trade shrank after the 1990s, when the Soviet market disappeared and synthetic substitutes arrived, but mineral work did not end. The district still has quartz, feldspar and stone deposits, and processors, traders and crushers continue to operate.",
         "Industrial buyers who source minerals now check suppliers online before sending a sample request. A plain, factual website helps a Jhumri Tilaiya trader pass that check: product pages for each grade or material, available sizes and forms, packing, dispatch by rail or road, test reports if you have them, and a named contact who replies. Photographs of your actual yard or processing unit are more persuasive than any stock image.",
@@ -145,7 +145,7 @@ const jhumriTilaiya: CityContent = {
     },
     {
       id: "power-plant-contractors-koderma",
-      heading: "Software company in Jhumri Tilaiya for contractors around Banjhedih and NH20",
+      heading: "Software team in Jhumri Tilaiya for contractors around Banjhedih and NH20",
       paragraphs: [
         "The Koderma Thermal Power Station at Banjhedih in Jainagar block, with units commissioned in 2013 and 2015, supports a ring of contractors, transporters, equipment hire firms, canteens, security agencies and spare-parts dealers. Stone crushers, building material suppliers and truck operators along NH20 add to the same economy.",
         "These firms are judged on paperwork. A purchase officer wants to see registrations, the fleet or equipment you run and a named contact before inviting a quote. A factual capability website with real photographs helps a Jhumri Tilaiya contractor look as organised as a competitor from a bigger city.",
@@ -230,7 +230,7 @@ const jhumriTilaiya: CityContent = {
         "Yes. We build a single Flutter or React Native app that works on Android and iPhone, with login, push notifications and an admin panel. Schools, coaching classes, clinics and delivery stores are the most common users here. Apps start from ₹40,000 and are published on Google Play and the App Store in your name.",
     },
     {
-      question: "How do I choose the best IT company in Jhumri Tilaiya?",
+      question: "How do I choose the best IT services team in Jhumri Tilaiya?",
       answer:
         "Look for four things: the domain registered in your name, live sites you can open on your own phone, a written itemised quote, and quick replies before you pay. Be wary of anyone promising first rank on Google or selling hundreds of cheap backlinks. Check the same with us before deciding.",
     },

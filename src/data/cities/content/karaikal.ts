@@ -10,12 +10,12 @@ const karaikal: CityContent = {
       "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Karaikal port suppliers, temple-town lodges, fish traders, clinics and shops.",
     keywords: [
       "IT services in Karaikal",
-      "IT company in Karaikal",
-      "website development company in Karaikal",
+      "IT services team in Karaikal",
+      "website development team in Karaikal",
       "web design in Karaikal",
-      "app development company in Karaikal",
+      "app development team in Karaikal",
       "Android app development in Karaikal",
-      "software company in Karaikal",
+      "software team in Karaikal",
       "SEO services in Karaikal",
       "digital marketing in Karaikal",
       "ecommerce website in Karaikal",
@@ -74,10 +74,10 @@ const karaikal: CityContent = {
     },
     {
       id: "port-logistics-software",
-      heading: "Software company in Karaikal for port transporters, agents and suppliers",
+      heading: "Software team in Karaikal for port transporters, agents and suppliers",
       paragraphs: [
         "Karaikal Port moves bulk cargo such as cement, fertiliser, limestone and steel, with rail sidings and truck loading. Around that activity are local transporters with lorry fleets, clearing and forwarding agents, stevedoring and labour contractors, fuel and tyre dealers, workshops and hardware suppliers. Much of their record-keeping still sits in ledgers, spreadsheets and photographs forwarded on WhatsApp.",
-        "As a <strong>software company in Karaikal</strong> in the practical sense, we build small web tools that follow this routine. A trip is entered once from a phone: vehicle, driver, cargo, weight slip and destination. Diesel, tolls and repairs are tied to the vehicle. Driver advances and wages come from the same entries. Permits, fitness, insurance and licence expiry dates send reminders weeks ahead, and bills are drawn from recorded trips so invoices match what actually moved.",
+        "As a <strong>software team in Karaikal</strong> in the practical sense, we build small web tools that follow this routine. A trip is entered once from a phone: vehicle, driver, cargo, weight slip and destination. Diesel, tolls and repairs are tied to the vehicle. Driver advances and wages come from the same entries. Permits, fitness, insurance and licence expiry dates send reminders weeks ahead, and bills are drawn from recorded trips so invoices match what actually moved.",
         "Tools like this start at ₹60,000 and are built in stages over six to twelve weeks. We usually begin with the trip and vehicle register, because that is where disputes and leakage start, then add billing, wages and owner reports. The database sits in an account registered to you, and supervisors can be limited to their own vehicles or sites. We never claim a connection to the port operator's systems; your tool keeps your own records clean.",
       ],
     },
@@ -119,10 +119,10 @@ const karaikal: CityContent = {
     },
     {
       id: "retail-markets-karaikal",
-      heading: "Website development company in Karaikal for textile, jewellery and grocery shops",
+      heading: "Website development team in Karaikal for textile, jewellery and grocery shops",
       paragraphs: [
         "Karaikal's shopping streets carry textile and silk sari shops, jewellers, electronics dealers, hardware stores, sweet shops and supermarkets. Festival demand is sharp: Pongal, Deepavali, the Mangani festival in summer, the Kanduri procession for Mastan Saheb, and wedding seasons all bring crowds from the surrounding villages. Many customers now check a shop on their phone before they visit.",
-        "A <strong>website development company in Karaikal</strong> should give such a shop a clear catalogue site: categories, price bands where you are comfortable showing them, new arrivals, festival offers, timings, parking and a WhatsApp button that opens a chat with the right salesperson. Jewellers often want a gold rate update and a booking form for scheme deposits; grocers want delivery areas and a minimum order.",
+        "A <strong>website development team in Karaikal</strong> should give such a shop a clear catalogue site: categories, price bands where you are comfortable showing them, new arrivals, festival offers, timings, parking and a WhatsApp button that opens a chat with the right salesperson. Jewellers often want a gold rate update and a booking form for scheme deposits; grocers want delivery areas and a minimum order.",
         "We take photographs from you, arrange them into clean product pages and make sure the site loads quickly even on weak mobile data near the coast. A catalogue site starts at ₹10,000. If you later want payments and delivery, the same site can grow into a store without being rebuilt from scratch.",
       ],
     },
@@ -131,7 +131,7 @@ const karaikal: CityContent = {
       heading: "Android app development in Karaikal, with iPhone apps from the same code",
       paragraphs: [
         "An app earns its cost only when a fixed group of people opens it often. In Karaikal, sensible cases include a lodge group taking repeat bookings from pilgrims who return every year, a coaching centre sending marks and attendance to parents, a fish or seafood trader taking daily orders from hotels and retailers, or a transporter's drivers logging trips from the cab.",
-        "As an <strong>app development company in Karaikal</strong> that works remotely, we build in Flutter or React Native, so one codebase gives you both the Android app and the iPhone app. A first version normally includes mobile number login with OTP, push notifications, the few screens your users need most and a web admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Karaikal</strong> that works remotely, we build in Flutter or React Native, so one codebase gives you both the Android app and the iPhone app. A first version normally includes mobile number login with OTP, push notifications, the few screens your users need most and a web admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Karaikal</strong> starts at ₹40,000. Online payment, maps, offline entry, photo uploads, Tamil and English interfaces and several user roles each add work and appear as separate lines on the quote. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we stage it.",
         "If your customers only need your address, timings, room rates or price list, a website does that for a fraction of the cost and nobody has to install anything. In that case we will recommend the website and save you the difference.",
       ],
@@ -232,7 +232,7 @@ const karaikal: CityContent = {
         "Once your text and photographs reach us, a simple site usually takes one to two weeks. A 700+ page SEO site takes three to five weeks, a store four to eight weeks and custom software six to twelve. Late content is the most common reason a launch slips, so gathering photos early helps.",
     },
     {
-      question: "Which is the best IT company in Karaikal?",
+      question: "Which is the best IT services team in Karaikal?",
       answer:
         "No ranking list can answer that fairly, so judge any provider by conduct. A good one tells you prices upfront, registers the domain in your name, shows live sites and still replies months after launch. We aim to meet all four, but ask the same questions of other options before you decide.",
     },

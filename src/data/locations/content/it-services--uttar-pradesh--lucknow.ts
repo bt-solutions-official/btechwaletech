@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Lucknow: custom software, AI agents, Android and iOS apps, hospital and institute systems, dashboards and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Lucknow",
-      "IT company in Lucknow",
+      "software development team in Lucknow",
+      "IT services team in Lucknow",
       "IT solutions Lucknow",
       "freelance software developers Lucknow",
       "custom software development Lucknow",
@@ -26,7 +26,7 @@ const content: CityContent = {
       "ERP for contractors Lucknow",
       "dashboard development Lucknow",
       "SEO services Lucknow",
-      "software company near me Gomti Nagar",
+      "software team near me Gomti Nagar",
       "IT services near Hazratganj",
       "लखनऊ में सॉफ्टवेयर डेवलपर",
       "लखनऊ में ऐप बनवाना",
@@ -85,11 +85,11 @@ const content: CityContent = {
     },
     {
       id: "lucknow-freelance-vs-company",
-      heading: "Freelance developers or an IT company in Lucknow: which suits you?",
+      heading: "Freelance developers or an IT services team in Lucknow: which suits you?",
       paragraphs: [
-        "A freelance group suits Lucknow projects that are focused and well defined, such as one hospital module, a contractor tracker or an AI assistant, because you get direct access to the engineers at lower cost. An IT company in Lucknow suits large programmes needing many developers, formal tenders or permanent on-site support staff.",
+        "A freelance group suits Lucknow projects that are focused and well defined, such as one hospital module, a contractor tracker or an AI assistant, because you get direct access to the engineers at lower cost. An IT services team in Lucknow suits large programmes needing many developers, formal tenders or permanent on-site support staff.",
         "Lucknow's IT firms range from established companies in Gomti Nagar and the IT City area to small web shops across the city. Larger firms offer process but add layers and overheads; individual freelancers are cheap but carry single-person risk. A small group of three engineers sits between: continuity if one person is unavailable, and no account manager filtering your requests.",
-        "BtechWaleTech is a freelance group, not a company, and we say so clearly. We will also tell you when your project is too large for us, for example a department-wide system requiring on-site trainers in every district office.",
+        "BtechWaleTech is a small freelance group of three developers, and we say so clearly. We will also tell you when your project is too large for us, for example a department-wide system requiring on-site trainers in every district office.",
       ],
     },
     {
@@ -235,7 +235,7 @@ const content: CityContent = {
     {
       question: "Is BtechWaleTech based in Lucknow?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a Lucknow company, and we have no office in Lucknow or elsewhere in Uttar Pradesh. Lucknow clients work with us through WhatsApp, calls and video meetings, reviewing progress on a staging link and speaking directly with the engineers.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Lucknow or elsewhere in Uttar Pradesh. Lucknow clients work with us through WhatsApp, calls and video meetings, reviewing progress on a staging link and speaking directly with the engineers.",
     },
     {
       question: "How can Lucknow clients pay you?",

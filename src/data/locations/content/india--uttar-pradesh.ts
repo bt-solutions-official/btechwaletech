@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Uttar Pradesh from a freelance team: software for ODOP clusters and exporters, Hindi AI agents, Android and iOS apps.",
     keywords: [
-      "IT solutions company in Uttar Pradesh",
+      "IT solutions team in Uttar Pradesh",
       "IT consulting Uttar Pradesh",
       "digital transformation Uttar Pradesh",
       "freelance IT consultant UP",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Uttar Pradesh · 75 districts, from Saharanpur to Ballia",
     h1: "Freelance IT consulting and digital transformation for Uttar Pradesh clusters, exporters and growing firms",
     lede:
-      "Uttar Pradesh runs on clusters: brass in Moradabad, carpets in Bhadohi, leather in Kanpur and Agra, locks in Aligarh, glass in Firozabad, silk in Varanasi. Anyone searching for an IT solutions company in Uttar Pradesh for such a business needs a partner who understands job-work, export buyers and Hindi-speaking staff. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We start with IT consulting and then build custom software, Android and iOS apps, Hindi AI agents, dashboards, cloud hosting, SEO and ecommerce for UP businesses of every size.",
+      "Uttar Pradesh runs on clusters: brass in Moradabad, carpets in Bhadohi, leather in Kanpur and Agra, locks in Aligarh, glass in Firozabad, silk in Varanasi. Anyone searching for an IT solutions team in Uttar Pradesh for such a business needs a partner who understands job-work, export buyers and Hindi-speaking staff. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We start with IT consulting and then build custom software, Android and iOS apps, Hindi AI agents, dashboards, cloud hosting, SEO and ecommerce for UP businesses of every size.",
     pills: ["Consulting before build", "Hindi-first tools", "Android & iOS from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT consulting and IT solutions across Uttar Pradesh as a remote freelance group of three engineers, not an IT company. Websites start from ₹10,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
+    "BtechWaleTech offers IT consulting and IT solutions across Uttar Pradesh as a remote freelance group of three engineers, not an IT services team. Websites start from ₹10,000, Android and iOS apps and AI automation from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
   snapshot: [
     { label: "Capital and major cities", value: "Lucknow is the capital; Kanpur, Ghaziabad, Agra, Varanasi, Meerut, Prayagraj, Noida, Aligarh and Moradabad are major centres" },
     { label: "Craft and export clusters", value: "Moradabad brassware, Bhadohi carpets, Firozabad glass, Aligarh locks, Saharanpur wood carving, Kannauj attar and Varanasi Banarasi silk" },
@@ -79,11 +79,11 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-up",
-      heading: "Freelance IT group or an IT solutions company in Uttar Pradesh: how to decide",
+      heading: "Freelance IT group or an IT solutions team in Uttar Pradesh: how to decide",
       paragraphs: [
-        "Choose a freelance IT group when your project is clearly scoped, budget-sensitive and you want to speak directly with the engineers; choose an IT solutions company when you need many developers, on-site staff or formal enterprise processes. Most UP MSME projects fall into the first category.",
+        "Choose a freelance IT group when your project is clearly scoped, budget-sensitive and you want to speak directly with the engineers; choose an IT solutions team when you need many developers, on-site staff or formal enterprise processes. Most UP MSME projects fall into the first category.",
         "If you are comparing IT companies in Uttar Pradesh, you will find large firms in Noida and Lucknow and many small local vendors in every city. Both can be good. Test them the same way: ask for live examples you can use yourself, ask who will write the code, request an itemised quote, and confirm in writing that the domain, hosting, app store accounts and source code will be registered to you.",
-        "BtechWaleTech is a freelance team of three engineers, not a company. We work remotely and do not visit factories or offices. We take a limited number of projects so each gets attention from the people who designed it. In return you get direct answers on WhatsApp, published starting prices and five months of free maintenance after launch.",
+        "BtechWaleTech is a small freelance team of three engineers. We work remotely and do not visit factories or offices. We take a limited number of projects so each gets attention from the people who designed it. In return you get direct answers on WhatsApp, published starting prices and five months of free maintenance after launch.",
       ],
     },
     {
@@ -228,9 +228,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT solutions company with an office in Uttar Pradesh?",
+      question: "Is BtechWaleTech an IT solutions team with an office in Uttar Pradesh?",
       answer:
-        "No. BtechWaleTech is a freelance group of three independent engineers, not a company, and we work remotely from India. We have no office in Lucknow, Noida or anywhere in UP. Consulting, design reviews, testing and training happen over video calls, screen shares and WhatsApp, and you see a live preview of your project from the first week.",
+        "No. BtechWaleTech is a freelance group of three independent engineers, and we work remotely from India. We have no office in Lucknow, Noida or anywhere in UP. Consulting, design reviews, testing and training happen over video calls, screen shares and WhatsApp, and you see a live preview of your project from the first week.",
     },
     {
       question: "Can you build software for karigars and job-workers who are not tech-savvy?",

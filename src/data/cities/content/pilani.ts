@@ -10,12 +10,12 @@ const pilani: CityContent = {
       "Websites, Android and iOS apps, SEO, dashboards and WhatsApp automation for Pilani's campus market, schools, guesthouses, labs, startups and Shekhawati traders.",
     keywords: [
       "IT services in Pilani",
-      "IT company in Pilani",
-      "website development company in Pilani",
+      "IT services team in Pilani",
+      "website development team in Pilani",
       "web design in Pilani",
-      "app development company in Pilani",
+      "app development team in Pilani",
       "Android app development in Pilani",
-      "software company in Pilani",
+      "software team in Pilani",
       "SEO services in Pilani",
       "digital marketing in Pilani",
       "ecommerce website in Pilani",
@@ -84,28 +84,28 @@ const pilani: CityContent = {
     },
     {
       id: "guesthouses-visitors-pilani",
-      heading: "Website development company in Pilani for guesthouses and hotels",
+      heading: "Website development team in Pilani for guesthouses and hotels",
       paragraphs: [
         "Pilani receives a steady flow of short-stay visitors who all arrive with the same questions. Parents come for admissions, convocation and hostel moves. Recruiters and examiners come for a few days. Alumni return for reunions, and visitors travel in to see the Birla Museum and the Saraswati temple. Rooms near the campus fill quickly on these dates and sit empty in between.",
-        "A <strong>website development company in Pilani</strong> can help guesthouses and hotels catch those bookings directly. We build sites with honest photographs of each room type, the distance to the campus gate and the bus stand, food arrangements, parking, power backup and a date-request form. A small booking register behind the site keeps track of who is arriving and who has paid an advance.",
+        "A <strong>website development team in Pilani</strong> can help guesthouses and hotels catch those bookings directly. We build sites with honest photographs of each room type, the distance to the campus gate and the bus stand, food arrangements, parking, power backup and a date-request form. A small booking register behind the site keeps track of who is arriving and who has paid an advance.",
         "Because travellers compare several places on their phones, speed and clarity matter more than decoration. A basic guesthouse site starts from ₹10,000. A booking system with room calendars and advance payment through UPI or card is custom work, usually starting around ₹60,000, and is only worth it when you run several properties or many rooms.",
       ],
     },
     {
       id: "schools-coaching-pilani",
-      heading: "Software company in Pilani for boarding schools and coaching institutes",
+      heading: "Software team in Pilani for boarding schools and coaching institutes",
       paragraphs: [
         "Pilani's schools include Birla Public School, Birla Balika Vidyapeeth and Birla High School, alongside private schools and coaching centres across the tehsil. Boarding schools have a particular problem: parents live hundreds of kilometres away and want to know about fees, exam results, outings, medical visits and travel dates without calling the office every day.",
-        "As a <strong>software company in Pilani</strong> we build tools for exactly that. An admission portal with online forms and document upload. A fee ledger that sends reminders and receipts. Hostel records for leave, outings and pickups, and a notice board that works for parents in other states. Each user type gets its own login, and office staff can run it without technical help.",
+        "As a <strong>software team in Pilani</strong> we build tools for exactly that. An admission portal with online forms and document upload. A fee ledger that sends reminders and receipts. Hostel records for leave, outings and pickups, and a notice board that works for parents in other states. Each user type gets its own login, and office staff can run it without technical help.",
         "Coaching institutes that prepare students for school boards, entrance exams or recruitment tests usually need less: a clear course page, batch timings, fees or fee ranges, results they are allowed to publish, and an enquiry form. That is a static site from ₹10,000. Full school software starts at ₹60,000 and is built over six to twelve weeks, with the admission module first so it is ready before the rush.",
       ],
     },
     {
       id: "student-founders-research",
-      heading: "App development company in Pilani for student founders and research teams",
+      heading: "App development team in Pilani for student founders and research teams",
       paragraphs: [
         "A campus with thousands of engineering and science students produces a lot of ideas, and many of them need a working product before an incubator, investor or first customer will take them seriously. Students often have the skills but not the time between classes, Practice School and exams. Research groups face a similar gap: the experiment works, but nobody has built the web dashboard that lets others see the data.",
-        "As an <strong>app development company in Pilani</strong> that works remotely, we build minimum viable products in stages: a clickable prototype, then a first release with login, the core feature and an admin view, then iteration from real usage. Santosh Sharma handles cloud and data work on AWS, including dashboards that read from sensors or instruments over simple APIs.",
+        "As an <strong>app development team in Pilani</strong> that works remotely, we build minimum viable products in stages: a clickable prototype, then a first release with login, the core feature and an admin view, then iteration from real usage. Santosh Sharma handles cloud and data work on AWS, including dashboards that read from sensors or instruments over simple APIs.",
         "We are careful about ownership. The repository, cloud account and store listings are registered to the founder or the institution from the start, not to us, and we sign confidentiality terms on request. If your team only needs help with one part, such as deployment or the mobile front end, we quote for that part alone.",
       ],
     },
@@ -120,10 +120,10 @@ const pilani: CityContent = {
     },
     {
       id: "tehsil-traders-clinics",
-      heading: "IT company in Pilani for farm dealers, traders and clinics in the tehsil",
+      heading: "IT services team in Pilani for farm dealers, traders and clinics in the tehsil",
       paragraphs: [
         "Outside the campus, Pilani tehsil is dry Shekhawati farmland where tubewells, rain and market prices decide the year. Seed, fertiliser, pesticide and tractor spare part dealers sell to farmers from villages across the tehsil and into neighbouring Haryana. The town also has clinics, diagnostic labs, pharmacies, jewellers, cloth merchants, hardware stores and building material suppliers who serve the same rural customers.",
-        "For these businesses an <strong>IT company in Pilani</strong> should start with the basics. A Hindi-first page listing products or services, a Maps pin that leads to the right lane, and a WhatsApp link for price checks. For dealers who give seasonal credit, a small billing and dues tool shows who owes what, sends reminders and produces a clean ledger for the accountant.",
+        "For these businesses an <strong>IT services team in Pilani</strong> should start with the basics. A Hindi-first page listing products or services, a Maps pin that leads to the right lane, and a WhatsApp link for price checks. For dealers who give seasonal credit, a small billing and dues tool shows who owes what, sends reminders and produces a clean ledger for the accountant.",
         "Many families in Jhunjhunu district have members serving or retired from the armed forces, and a lot of household decisions are made over the phone with relatives far away. Clear information online, such as a clinic's doctor list or a shop's stock categories, helps those relatives decide without a visit. Custom billing tools start at ₹60,000; a basic site starts at ₹10,000.",
       ],
     },
@@ -224,7 +224,7 @@ const pilani: CityContent = {
         "Yes. We usually start with a clickable prototype, then a first release with login, the core feature and an admin view. The code repository, cloud account and store listings are registered to the founders. We can also take on only one part, such as the mobile app or AWS deployment, if your team handles the rest.",
     },
     {
-      question: "Who is the best IT company in Pilani for a small business?",
+      question: "Who is the best IT services team in Pilani for a small business?",
       answer:
         "The right choice is one that publishes prices, puts the domain and code in your name, tests on ordinary phones and stays reachable after launch. Ask every provider for live examples and a written quote. We meet those tests, but comparing two or three options is sensible.",
     },

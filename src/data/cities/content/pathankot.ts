@@ -9,7 +9,7 @@ const pathankot: CityContent = {
     description:
       "Websites, Google Maps SEO and WhatsApp automation for Pathankot hotels, taxi operators, traders and clinics. Sites from ₹10,000, built by a remote team.",
     keywords: [
-      "website development company in Pathankot",
+      "website development team in Pathankot",
       "web designer Pathankot",
       "website design Pathankot price",
       "SEO services Pathankot",

@@ -10,12 +10,12 @@ const warora: CityContent = {
       "Marathi and English websites, Android and iOS apps, SEO and WhatsApp bots for Warora power-plant contractors, coal transporters, cotton traders and colleges.",
     keywords: [
       "IT services in Warora",
-      "IT company in Warora",
-      "website development company in Warora",
+      "IT services team in Warora",
+      "website development team in Warora",
       "web design in Warora",
-      "app development company in Warora",
+      "app development team in Warora",
       "Android app development in Warora",
-      "software company in Warora",
+      "software team in Warora",
       "SEO services in Warora",
       "digital marketing in Warora",
       "ecommerce website in Warora",
@@ -74,19 +74,19 @@ const warora: CityContent = {
     },
     {
       id: "power-plant-contractors",
-      heading: "Website development company in Warora for power-plant and mine contractors",
+      heading: "Website development team in Warora for power-plant and mine contractors",
       paragraphs: [
         "GMR set up its 600 MW coal-fired station in the MIDC area at Warora, with both 300 MW units running commercially from 2013. The Sai Wardha plant nearby has four 135 MW units that came on line between 2010 and 2011. Around them, and around the Western Coalfields mines in the taluka and the neighbouring Majri area, a whole layer of small firms makes a living: mechanical and electrical maintenance contractors, crane and equipment hirers, manpower agencies, civil contractors, security services, canteens and transporters.",
-        "Large plants check vendors before they shortlist them, and a firm that exists only as a visiting card looks smaller than it is. A <strong>website development company in Warora</strong> should build these firms a plain, factual site: services and scope of work, equipment owned, the number of skilled and certified staff, safety practices, licences, GST and PF registrations, and a named contact who picks up the phone. Photos should be of your own crew and machines, taken on site.",
+        "Large plants check vendors before they shortlist them, and a firm that exists only as a visiting card looks smaller than it is. A <strong>website development team in Warora</strong> should build these firms a plain, factual site: services and scope of work, equipment owned, the number of skilled and certified staff, safety practices, licences, GST and PF registrations, and a named contact who picks up the phone. Photos should be of your own crew and machines, taken on site.",
         "We never show a client's name or logo without that client's written permission, and we avoid claims nobody can verify. For contractors who submit many quotations, a form that accepts tender references and attachments saves time. Capability websites start at ₹10,000 and are usually live within two weeks. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "coal-fleet-software",
-      heading: "Software company in Warora for coal and ash transport fleets",
+      heading: "Software team in Warora for coal and ash transport fleets",
       paragraphs: [
         "Coal moves between mines, sidings and power plants day and night, and much of it goes by road. Fleet owners in Warora juggle drivers, diesel advances, tyre changes, weighbridge slips, challans, permit and fitness renewals, and payments that come in after long delays. With ten or twenty vehicles, a notebook system starts losing money quietly: an advance not deducted, a trip not billed, an insurance lapse discovered after an accident.",
-        "As a <strong>software company in Warora</strong>, we build fleet tools sized for owners, not for multinational logistics firms. Each trip is entered once, from a phone, with vehicle, driver, loading point, destination, slip number, weight and rate. The system totals earnings per vehicle, deducts advances and diesel, shows what each client owes, and alerts you a month before a permit, fitness certificate or insurance policy expires.",
+        "As a <strong>software team in Warora</strong>, we build fleet tools sized for owners, not for multinational logistics firms. Each trip is entered once, from a phone, with vehicle, driver, loading point, destination, slip number, weight and rate. The system totals earnings per vehicle, deducts advances and diesel, shows what each client owes, and alerts you a month before a permit, fitness certificate or insurance policy expires.",
         "Custom software of this kind starts at ₹60,000 and is built over six to twelve weeks in usable stages. The trip register usually comes first because it pays back fastest. A driver app with offline entry, GPS-based trip checks or a link to Tally can follow. If your fleet is small enough that a shared spreadsheet will do, we will set that up instead and save you the expense.",
       ],
     },
@@ -122,7 +122,7 @@ const warora: CityContent = {
       heading: "Android app development in Warora: apps for fleets, contractors and institutions",
       paragraphs: [
         "In Warora, the strongest cases for an app come from work that happens away from a desk. Truck drivers can log each trip, upload a slip photo and record diesel from the cab. Contractor supervisors can mark attendance for a shift gang at the plant gate. A college can send timetables, notices and fee reminders to students, and a dealer can let village retailers reorder without calling.",
-        "As an <strong>app development company in Warora</strong> working remotely, we use Flutter or React Native to build one app that runs on both Android and iPhone. A first version normally covers OTP login, push notifications, the few screens each user type needs, and a browser-based admin panel for your office. Offline mode matters here: mines, sidings and farm roads often have no signal, so entries are saved on the phone and sync when coverage returns.",
+        "As an <strong>app development team in Warora</strong> working remotely, we use Flutter or React Native to build one app that runs on both Android and iPhone. A first version normally covers OTP login, push notifications, the few screens each user type needs, and a browser-based admin panel for your office. Offline mode matters here: mines, sidings and farm roads often have no signal, so entries are saved on the phone and sync when coverage returns.",
         "<strong>Android app development in Warora</strong> with us starts at ₹40,000, with iOS from the same code. We publish to Google Play and the Apple App Store using developer accounts opened in your name, prepare the listing and privacy policy, and handle the review process. Features like GPS tracking, payments or multiple roles are listed separately in the quote. Read more about our <a href=\"/it-services/android-ios-app/\">Android and iOS app work</a>.",
         "An app is a poor buy if customers only want your phone number, location and prices. For that, a website costs far less, needs no install, and is found through Google search. We will recommend the website whenever that is the honest answer.",
       ],
@@ -156,7 +156,7 @@ const warora: CityContent = {
     },
     {
       id: "remote-it-company-warora",
-      heading: "Working with a remote IT company in Warora: the process in plain terms",
+      heading: "Working with a remote IT services team in Warora: the process in plain terms",
       paragraphs: [
         "Because we have no office in Warora or elsewhere, we rely on paperwork instead of handshakes. First, a call or WhatsApp chat about your business and the result you want. Second, a written proposal: pages or screens, features, timeline and a price for each item. Third, your approval. Nothing is billed before you give it.",
         "During the build, Vedansh keeps the schedule and your point of contact steady, Ankur writes the code, and Santosh handles hosting, AI and data pieces. You receive preview links at each stage, openable on any phone, so a partner, manager or family member can check them. Marathi content is sent to you for approval before publishing, because a mistake in a rate, a phone number or a college name costs more than a day's delay.",
@@ -223,7 +223,7 @@ const warora: CityContent = {
         "A standard business website takes one to two weeks once we have your text and photos. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software such as a fleet system six to twelve weeks in stages. Slow content from the client side is the most common cause of delay.",
     },
     {
-      question: "Who is the best website development company in Warora?",
+      question: "Who is the best website development team in Warora?",
       answer:
         "The right choice is the provider whose promises you can check. Look for published prices, a written itemised quote, the domain and code in your name, real past work and support after launch. We meet those standards and answer WhatsApp every day, but compare two or three providers on the same questions before deciding.",
     },

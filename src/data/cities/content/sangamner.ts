@@ -10,12 +10,12 @@ const sangamner: CityContent = {
       "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sangamner dairy, sugar, garment, clinic, college and retail businesses.",
     keywords: [
       "IT services in Sangamner",
-      "IT company in Sangamner",
-      "website development company in Sangamner",
+      "IT services team in Sangamner",
+      "website development team in Sangamner",
       "web design in Sangamner",
-      "app development company in Sangamner",
+      "app development team in Sangamner",
       "Android app development in Sangamner",
-      "software company in Sangamner",
+      "software team in Sangamner",
       "SEO services in Sangamner",
       "digital marketing in Sangamner",
       "ecommerce website in Sangamner",
@@ -74,10 +74,10 @@ const sangamner: CityContent = {
     },
     {
       id: "dairy-cooperatives-software",
-      heading: "Software company in Sangamner for dairy societies and milk collection centres",
+      heading: "Software team in Sangamner for dairy societies and milk collection centres",
       paragraphs: [
         "Milk is the backbone of the Sangamner taluka economy. The Sangamner Taluka Sahakari Dudh Utpadak Sangh, whose Rajhans brand is processed at Ghulewadi near Amrutnagar, handles lakhs of litres a day collected from village societies, and private dairies and collection centres operate alongside it. Every one of those centres records litres, fat and SNF twice a day and pays farmers on a fixed cycle.",
-        "Where this is still done in notebooks or on an ageing desktop program, errors creep in: a wrong rate chart, a missed entry, a payment sheet that does not match the tanker receipt. As a <strong>software company in Sangamner</strong> for this trade, we build web tools where each sample is entered once, the rate is applied automatically from your chart, farmers receive a WhatsApp or SMS slip, and the payment register totals itself for each cycle.",
+        "Where this is still done in notebooks or on an ageing desktop program, errors creep in: a wrong rate chart, a missed entry, a payment sheet that does not match the tanker receipt. As a <strong>software team in Sangamner</strong> for this trade, we build web tools where each sample is entered once, the rate is applied automatically from your chart, farmers receive a WhatsApp or SMS slip, and the payment register totals itself for each cycle.",
         "We can add cattle feed and mineral mixture sales deducted from payments, advances, tanker dispatch records and a summary for the society committee. Such systems start at ₹60,000 and are built in stages over six to twelve weeks. If you already use analyser machines that export data, we read that data directly rather than asking staff to type it again.",
       ],
     },
@@ -101,10 +101,10 @@ const sangamner: CityContent = {
     },
     {
       id: "gunjalwadi-industrial-units",
-      heading: "Website development company in Sangamner for Gunjalwadi and workshop industries",
+      heading: "Website development team in Sangamner for Gunjalwadi and workshop industries",
       paragraphs: [
         "The Sangamner Cooperative Industrial Estate at Gunjalwadi and the workshops along the highway include fabrication units, engineering shops, packaging makers, food processors and suppliers to the sugar and dairy plants. Textile and tobacco units add to the town's industrial side.",
-        "Buyers in Nashik, Pune and Ahmednagar check a supplier online before they send an enquiry. A <strong>website development company in Sangamner</strong> should build that supplier a factual site: what you make, machines and capacities, materials handled, sectors served, quality and safety practice, GST and Udyam details, and named contacts. It must look credible on a purchase officer's desktop, not just on a phone.",
+        "Buyers in Nashik, Pune and Ahmednagar check a supplier online before they send an enquiry. A <strong>website development team in Sangamner</strong> should build that supplier a factual site: what you make, machines and capacities, materials handled, sectors served, quality and safety practice, GST and Udyam details, and named contacts. It must look credible on a purchase officer's desktop, not just on a phone.",
         "We add a request-for-quote form that accepts drawings, a gallery of real jobs, and if you like a page for each product group so search engines understand what you make. Client names appear only when the client has agreed in writing. These sites start at ₹10,000 for a static build or ₹20,000 for a larger SEO site with many product pages.",
       ],
     },
@@ -131,7 +131,7 @@ const sangamner: CityContent = {
       heading: "Android app development in Sangamner, with iOS apps from the same code",
       paragraphs: [
         "An app earns its cost when the same people open it every week. In Sangamner that might be milk producers checking their collection and payment slips, parents receiving homework and fee notices from a coaching class, a hospital giving out OPD tokens, or regular customers of a grocery or dairy product shop ordering from home.",
-        "As an <strong>app development company in Sangamner</strong> working remotely, we use Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally covers mobile number login, push notifications, the three or four screens your users need most, and an admin panel your staff can operate. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Sangamner</strong> working remotely, we use Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally covers mobile number login, push notifications, the three or four screens your users need most, and an admin panel your staff can operate. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Sangamner</strong> with us starts at ₹40,000. The quote rises with online payment, offline entry for collection centres with poor signal, maps, or links to your existing software, and each of these is listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a price list, skip the app. A website and a good map listing do that job at a fraction of the cost, and we will say so plainly rather than sell you something your customers will not install.",
       ],
@@ -156,7 +156,7 @@ const sangamner: CityContent = {
     },
     {
       id: "remote-team-sangamner",
-      heading: "How a remote IT company in Sangamner's service area works with you",
+      heading: "How a remote IT services team in Sangamner's service area works with you",
       paragraphs: [
         "Since we are not based in Sangamner, we are strict about writing things down. After the first call you get a page or screen plan, a timeline and an itemised quote. Once you approve, we send preview links that you can open on your phone, show to your partners, and comment on directly.",
         "We reply on WhatsApp every day of the week, on Indian Standard Time. Marathi content is always sent for your approval before publishing. If something is running late, you hear it from us early, with the reason and a new date, not on the day of delivery.",
@@ -223,7 +223,7 @@ const sangamner: CityContent = {
         "A static site normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor is how quickly content and approvals come back.",
     },
     {
-      question: "Which is the best IT company in Sangamner for a small business?",
+      question: "Which is the best IT services team in Sangamner for a small business?",
       answer:
         "Choose one that publishes prices, registers the domain and code in your name, stays reachable after launch and shows real work. Ask each provider the same questions and compare the written answers. We meet those tests and reply on WhatsApp all week, but comparing two or three options is sensible.",
     },

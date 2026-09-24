@@ -10,12 +10,12 @@ const pandhurna: CityContent = {
       "Marathi and Hindi websites, Android and iOS apps, local SEO and WhatsApp tools for Pandhurna's orange growers, cotton ginners, mandi agents, schools and clinics.",
     keywords: [
       "IT services in Pandhurna",
-      "IT company in Pandhurna",
-      "website development company in Pandhurna",
+      "IT services team in Pandhurna",
+      "website development team in Pandhurna",
       "web design in Pandhurna",
-      "app development company in Pandhurna",
+      "app development team in Pandhurna",
       "Android app development in Pandhurna",
-      "software company in Pandhurna",
+      "software team in Pandhurna",
       "SEO services in Pandhurna",
       "digital marketing in Pandhurna",
       "ecommerce website in Pandhurna",
@@ -83,19 +83,19 @@ const pandhurna: CityContent = {
     },
     {
       id: "cotton-ginning-software",
-      heading: "Software company in Pandhurna for cotton ginning and pressing units",
+      heading: "Software team in Pandhurna for cotton ginning and pressing units",
       paragraphs: [
         "Cotton is grown widely around Pandhurna, and the town has several ginning and pressing factories and cotton oil mills. Through the season, kapas arrives by tractor and truck, gets weighed and graded, and becomes lint bales, cotton seed and oil cake. Each stage has its own register, and reconciling them at the end of the day is where errors and disputes begin.",
-        "As a <strong>software company in Pandhurna</strong>, we build ginning tools around the way a factory already runs. Purchases are entered once with farmer or trader, vehicle, gross and tare weight, moisture deduction and rate. Pressing output is logged by bale number and weight. The system then shows outturn percentages, stock of lint and seed, payments due to sellers and dispatches against buyer orders, and it prints or shares slips on WhatsApp.",
+        "As a <strong>software team in Pandhurna</strong>, we build ginning tools around the way a factory already runs. Purchases are entered once with farmer or trader, vehicle, gross and tare weight, moisture deduction and rate. Pressing output is logged by bale number and weight. The system then shows outturn percentages, stock of lint and seed, payments due to sellers and dispatches against buyer orders, and it prints or shares slips on WhatsApp.",
         "Custom software of this kind starts at ₹60,000 and is delivered in phases over six to twelve weeks, with export to Tally if your accountant uses it. Plan to go live on the purchase and payment module before the first arrivals, when the yard is quiet, and add pressing and dispatch once staff are comfortable.",
       ],
     },
     {
       id: "orange-growers-traders",
-      heading: "Website development company in Pandhurna for orange growers and santra traders",
+      heading: "Website development team in Pandhurna for orange growers and santra traders",
       paragraphs: [
         "Pandhurna and Sausar lie in the orange belt that stretches into Vidarbha; travel guides describe Pandhurna simply as an orange-farming town, and in Sausar most farmers grow the fruit. Growers here talk about the ambia and mrig bahar crops, orchard deals with traders, grading, packing and trucks to distant markets.",
-        "A <strong>website development company in Pandhurna</strong> can help this trade in modest, useful ways. A trader or packhouse can show grades and box sizes handled, the months they buy, areas covered, cold storage or transport arrangements and a WhatsApp number for rates. Nurseries selling orange saplings can list varieties, rootstock and booking periods. A grower group can publish contact details for bulk buyers.",
+        "A <strong>website development team in Pandhurna</strong> can help this trade in modest, useful ways. A trader or packhouse can show grades and box sizes handled, the months they buy, areas covered, cold storage or transport arrangements and a WhatsApp number for rates. Nurseries selling orange saplings can list varieties, rootstock and booking periods. A grower group can publish contact details for bulk buyers.",
         "Rates change daily, so we give you a simple panel to update them from a phone. Such a site starts at ₹10,000. Traders who manage many orchard deals often ask next for a register that tracks each orchard, the agreed price, advances paid, harvest dates and dispatches; that is custom software, quoted separately when you are ready.",
       ],
     },
@@ -149,7 +149,7 @@ const pandhurna: CityContent = {
       heading: "Android app development in Pandhurna, with iPhone versions from the same code",
       paragraphs: [
         "Who would open your app every week? In Pandhurna the answers that justify one are fairly specific: village retailers reordering seed and fertiliser from a dealer, orchard supervisors reporting harvest and packing counts, parents following a school or coaching centre, or patients waiting for a turn at a busy clinic.",
-        "As an <strong>app development company in Pandhurna</strong> working from a distance, we use Flutter or React Native, so one codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the few screens users need, Marathi and Hindi text, and an admin panel for the office. Offline entry can be added for orchards and villages with poor signal.",
+        "As an <strong>app development team in Pandhurna</strong> working from a distance, we use Flutter or React Native, so one codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the few screens users need, Marathi and Hindi text, and an admin panel for the office. Offline entry can be added for orchards and villages with poor signal.",
         "<strong>Android app development in Pandhurna</strong> with us starts at ₹40,000, and features like payments, maps or a Tally link are listed separately. We publish on Google Play and the Apple App Store through developer accounts in your name. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for what a first version typically includes.",
         "If your customers only need your address, timings and today's rate, skip the app. A good website and listing will serve them better at a fraction of the cost, and we will tell you so before quoting.",
       ],
@@ -279,9 +279,9 @@ const pandhurna: CityContent = {
         "We create or fix your Pandhurna Google Business Profile with the right category, an exact pin, hours, photographs and services in Marathi and Hindi, then connect it to your site. Map position depends on distance, competition and reviews, so no one can guarantee the top slot, but a complete listing helps a great deal.",
     },
     {
-      question: "Which is the best website development company in Pandhurna?",
+      question: "Which is the best website development team in Pandhurna?",
       answer:
-        "Choose a website development company in Pandhurna on evidence: published prices, domain and code in your name, support after launch and work you can open and check. Put the same questions to each provider and compare their written replies. We meet those tests, and comparing two or three options is still wise.",
+        "Choose a website development team in Pandhurna on evidence: published prices, domain and code in your name, support after launch and work you can open and check. Put the same questions to each provider and compare their written replies. We meet those tests, and comparing two or three options is still wise.",
     },
     {
       question: "Is AI or WhatsApp automation useful for Pandhurna traders?",

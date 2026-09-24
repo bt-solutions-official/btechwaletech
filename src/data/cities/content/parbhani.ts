@@ -9,7 +9,7 @@ const parbhani: CityContent = {
     description:
       "Marathi and English websites, local SEO and WhatsApp automation for Parbhani agri dealers, cotton traders, hospitals, colleges and shops. Sites from ₹10,000.",
     keywords: [
-      "website development company in Parbhani",
+      "website development team in Parbhani",
       "web designer Parbhani",
       "website design Parbhani Maharashtra",
       "SEO services Parbhani",

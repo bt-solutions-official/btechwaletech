@@ -9,7 +9,7 @@ const nawada: CityContent = {
     description:
       "Websites, Google Maps listings and WhatsApp automation for Nawada, Hisua, Warisaliganj and Rajauli shops, clinics and coaching centres. Sites from ₹10,000.",
     keywords: [
-      "website development company in Nawada",
+      "website development team in Nawada",
       "web designer Nawada",
       "website design Nawada Bihar",
       "freelance web developer Nawada",

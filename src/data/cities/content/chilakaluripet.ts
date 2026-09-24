@@ -9,7 +9,7 @@ const chilakaluripet: CityContent = {
     description:
       "Websites, Telugu local SEO and WhatsApp tools for Chilakaluripet spinning and ginning mills, traders, schools and clinics on NH16. Sites start from ₹10,000.",
     keywords: [
-      "website development company in Chilakaluripet",
+      "website development team in Chilakaluripet",
       "web designer Chilakaluripet",
       "SEO services Chilakaluripet",
       "local SEO Palnadu",

@@ -10,12 +10,12 @@ const shamli: CityContent = {
       "Websites, Android & iOS apps, Hindi SEO and WhatsApp automation for Shamli rim-axle makers, sugar belt suppliers, gur traders and shops. Starting prices only.",
     keywords: [
       "IT services in Shamli",
-      "IT company in Shamli",
-      "website development company in Shamli",
+      "IT services team in Shamli",
+      "website development team in Shamli",
       "web design in Shamli",
-      "app development company in Shamli",
+      "app development team in Shamli",
       "Android app development in Shamli",
-      "software company in Shamli",
+      "software team in Shamli",
       "SEO services in Shamli",
       "digital marketing in Shamli",
       "ecommerce website in Shamli",
@@ -65,7 +65,7 @@ const shamli: CityContent = {
   sections: [
     {
       id: "rim-axle-units",
-      heading: "Website development company in Shamli for rim, axle and fabrication units",
+      heading: "Website development team in Shamli for rim, axle and fabrication units",
       paragraphs: [
         "The district administration describes Shamli as the city of rim and axle, and the phrase fits. Dozens of units here make wheel rims, axles and running gear for tractor trolleys, bullock carts, thelas and farm implements, and the trade has been picked as the district's One District One Product. Around them work iron fabricators who cut, bend, weld and paint steel into frames, gates, grills and machine parts.",
         "Most of these units sell through a chain of dealers spread over UP, Haryana, Punjab, Rajasthan and Uttarakhand. New dealers find suppliers by word of mouth and, more and more, by searching online. A unit without a proper website depends entirely on the old network, while a competitor with clear product pages picks up the new buyers.",
@@ -75,7 +75,7 @@ const shamli: CityContent = {
     },
     {
       id: "factory-software",
-      heading: "Software company in Shamli for orders, job cards and dealer ledgers",
+      heading: "Software team in Shamli for orders, job cards and dealer ledgers",
       paragraphs: [
         "In a rim or axle workshop the owner usually carries the order book in his head. Which dealer ordered how many axles of which size, how much steel is left, which job is half-welded and which dealer has not paid since Diwali. It works until the business grows, a key supervisor leaves, or two orders collide in the same week.",
         "We build small factory systems that fix this one piece at a time. Orders are entered once, with dealer, product, size, quantity and promised date. Each order becomes a job card that moves through cutting, turning, welding, painting and dispatch, so anyone can see where it stands. Steel sections and bearings are tracked as they come in and go out.",
@@ -166,7 +166,7 @@ const shamli: CityContent = {
     },
     {
       id: "apps-shamli",
-      heading: "App development company in Shamli: Android and iOS apps for dealers and field staff",
+      heading: "App development team in Shamli: Android and iOS apps for dealers and field staff",
       paragraphs: [
         "An app is worth building when the same people come back often. For Shamli that usually means dealers who reorder rims and axles every few weeks, salesmen visiting shops across three states, drivers delivering to dealer towns, or patients and parents who need regular updates. A walk-in customer who visits once is better served by a fast website.",
         "We build Android and iOS apps in Flutter or React Native, so one codebase runs on both platforms. A dealer ordering app shows the product list with sizes, lets a registered dealer place an order, shows dispatch status and outstanding balance, and sends push notifications for new stock or price revisions. A field-sales app records shop visits, orders and collections with location. Each comes with login, push notifications and a web admin panel.",
@@ -185,7 +185,7 @@ const shamli: CityContent = {
     },
     {
       id: "remote-it-company-shamli",
-      heading: "An IT company for Shamli that works remotely",
+      heading: "An IT services team for Shamli that works remotely",
       paragraphs: [
         "We have no office in Shamli, Muzaffarnagar or anywhere in Uttar Pradesh, and we will not claim one. BtechWaleTech is three engineers working remotely. Ankur Kumar builds full-stack web systems, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation.",
         "Tell us what you need on WhatsApp or a short call. Within about two working days you get an itemised written quote. Work begins, and billing begins, only after you approve it in writing. While we build, you follow progress on a live preview link and send comments whenever the factory gives you a free minute.",
@@ -238,7 +238,7 @@ const shamli: CityContent = {
         "Chhoti dukaan ya clinic ki website ₹10,000 se shuru hoti hai aur ek-do hafte me taiyaar ho jaati hai. Android aur iOS app ₹40,000 se shuru, online store ₹50,000 se. WhatsApp par Hindi me poochhiye, do working din me item-wise quote bhej denge. Aapki manzoori ke baad hi kaam shuru hota hai.",
     },
     {
-      question: "Which is the best IT company in Shamli for a website?",
+      question: "Which is the best IT services team in Shamli for a website?",
       answer:
         "The right company shows live work, gives prices in writing and registers the domain and code in your name. Ask every provider, including us, for examples, an itemised quote, who writes the Hindi content and what maintenance costs after launch. Compare those answers, not just the lowest number.",
     },

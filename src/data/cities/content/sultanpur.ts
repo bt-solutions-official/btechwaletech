@@ -9,7 +9,7 @@ const sultanpur: CityContent = {
     description:
       "Websites, Hindi SEO and WhatsApp automation for Sultanpur coaching centres, hospitals, advocates, traders and expressway businesses. From ₹10,000; you own it.",
     keywords: [
-      "website development company in Sultanpur",
+      "website development team in Sultanpur",
       "web designer Sultanpur UP",
       "Sultanpur website price",
       "SEO services Sultanpur",
@@ -295,7 +295,7 @@ const sultanpur: CityContent = {
     {
       question: "How long does SEO take in Sultanpur?",
       answer:
-        "Nearby Maps results often improve within six to ten weeks once your profile and site are sorted. Wider searches such as “website development company in Sultanpur” or competitive coaching and medical terms can take four to eight months. Monthly SEO starts at ₹10,000, and rankings are never guaranteed.",
+        "Nearby Maps results often improve within six to ten weeks once your profile and site are sorted. Wider searches such as “website development team in Sultanpur” or competitive coaching and medical terms can take four to eight months. Monthly SEO starts at ₹10,000, and rankings are never guaranteed.",
     },
     {
       question: "What do you need from me for a quote?",

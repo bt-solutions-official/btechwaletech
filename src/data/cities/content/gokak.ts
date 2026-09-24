@@ -10,12 +10,12 @@ const gokak: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Gokak sugar-belt suppliers, karadantu makers, textile units, clinics and shops.",
     keywords: [
       "IT services in Gokak",
-      "IT company in Gokak",
-      "website development company in Gokak",
+      "IT services team in Gokak",
+      "website development team in Gokak",
       "web design in Gokak",
-      "app development company in Gokak",
+      "app development team in Gokak",
       "Android app development in Gokak",
-      "software company in Gokak",
+      "software team in Gokak",
       "SEO services in Gokak",
       "digital marketing in Gokak",
       "ecommerce website in Gokak",
@@ -74,11 +74,11 @@ const gokak: CityContent = {
     },
     {
       id: "sugar-belt-contractors",
-      heading: "Software company in Gokak for the sugar belt: cane transport and harvest records",
+      heading: "Software team in Gokak for the sugar belt: cane transport and harvest records",
       paragraphs: [
         "Belagavi district is often called the sugar bowl of Karnataka, and Gokak taluk has several sugar factories. Each crushing season brings a rush of work for harvesting gangs, tractor and truck owners, cane supervisors, fertiliser and pesticide dealers, and workshops that repair trailers and harvesters.",
         "The paperwork behind this is heavy and mostly manual. Owners track which vehicle carried how many tonnes to which factory, diesel and advances paid to drivers, the harvester hours billed to each farmer, and payments that arrive weeks after delivery. Mistakes cost money and arguments.",
-        "As a <strong>software company in Gokak</strong> in practical terms, we build small web tools for this: each trip entered once from a phone with vehicle, slip number, tonnage and rate; running totals per vehicle and per farmer; outstanding amounts by factory; and document expiry alerts for permits and insurance. These start at ₹60,000 and are built in stages over six to twelve weeks, with the trip register first because it earns its cost quickest.",
+        "As a <strong>software team in Gokak</strong> in practical terms, we build small web tools for this: each trip entered once from a phone with vehicle, slip number, tonnage and rate; running totals per vehicle and per farmer; outstanding amounts by factory; and document expiry alerts for permits and insurance. These start at ₹60,000 and are built in stages over six to twelve weeks, with the trip register first because it earns its cost quickest.",
       ],
     },
     {
@@ -101,10 +101,10 @@ const gokak: CityContent = {
     },
     {
       id: "textile-mill-starch-suppliers",
-      heading: "Website development company in Gokak for mill and factory suppliers",
+      heading: "Website development team in Gokak for mill and factory suppliers",
       paragraphs: [
         "The cotton spinning mill at Gokak Falls has run since the late nineteenth century, and Gokak also has a large starch processing plant, sugar factories and KIADB and KSSIDC industrial areas. These plants depend on a network of smaller firms: engineering workshops, electrical contractors, transporters, packaging suppliers, canteens, security agencies and labour contractors.",
-        "Purchase departments check suppliers online, and a firm without a proper site looks less established than it is. A <strong>website development company in Gokak</strong> should keep such sites factual: services and capabilities, machines and equipment, sectors served, safety practices, GST and registration details, and named contact people. It should load fast and look professional on a desktop in a purchase office.",
+        "Purchase departments check suppliers online, and a firm without a proper site looks less established than it is. A <strong>website development team in Gokak</strong> should keep such sites factual: services and capabilities, machines and equipment, sectors served, safety practices, GST and registration details, and named contact people. It should load fast and look professional on a desktop in a purchase office.",
         "We never put a client name on your site without your written permission from that client. Workshops that handle drawings and repeat jobs can add a quotation form with file upload, or a small job status page so regular customers stop calling to ask where their order is.",
       ],
     },
@@ -113,7 +113,7 @@ const gokak: CityContent = {
       heading: "Android app development in Gokak, and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when a known group of people uses it often. In Gokak, good candidates are cane transport crews logging trips during the season, a sweet shop's repeat customers placing orders from other cities, a school or coaching institute sending notices and fee reminders to parents, a hospital issuing tokens, or a fertiliser dealer taking orders from village retailers.",
-        "As an <strong>app development company in Gokak</strong> that works remotely, we build apps in Flutter or React Native so a single codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Gokak</strong> that works remotely, we build apps in Flutter or React Native so a single codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Gokak</strong> with us starts at ₹40,000. Costs rise with payment features, offline mode for areas with weak signal, maps and integrations, and the quote lists each of these. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, phone number and a price list, a website does that job for a quarter of the cost. We will recommend the website in that case, because an app that nobody opens after the first week is money wasted.",
       ],
@@ -223,7 +223,7 @@ const gokak: CityContent = {
         "For a shop, a simple static site is normally live within one to two weeks of getting your photos and details. Larger jobs take longer: about three to five weeks for a 700+ page SEO site, four to eight for an online store, and six to twelve for custom software. The quickest projects are the ones where the owner sends content in the first few days.",
     },
     {
-      question: "Who is the best website development company in Gokak?",
+      question: "Who is the best website development team in Gokak?",
       answer:
         "Look for a provider that publishes prices, registers the domain and code in your name, answers after launch and can show real work. Ask everyone the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before you decide is sensible.",
     },

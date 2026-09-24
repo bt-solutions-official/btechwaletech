@@ -9,14 +9,14 @@ const mangaluru: CityContent = {
     description:
       "Websites, SEO and automation for Mangaluru cashew exporters, Baikampady units, clinics, colleges and coastal shops. From ₹10,000, itemised quotes, full ownership.",
     keywords: [
-      "website development company in Mangaluru",
+      "website development team in Mangaluru",
       "web design Mangalore",
       "website designer Mangaluru",
-      "SEO company Mangalore",
+      "SEO team Mangalore",
       "local SEO Mangaluru",
       "ecommerce website Mangalore",
       "cashew exporter website design",
-      "software company Mangaluru",
+      "software team Mangaluru",
       "web app development Mangalore",
       "WhatsApp automation Mangaluru",
       "AI automation Mangalore",

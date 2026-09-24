@@ -9,7 +9,7 @@ const tenali: CityContent = {
     description:
       "Telugu and English websites, local SEO, online stores and WhatsApp automation for Tenali shops, rice traders, clinics and colleges. Sites from ₹10,000.",
     keywords: [
-      "website development company in Tenali",
+      "website development team in Tenali",
       "web design Tenali",
       "website designer Tenali Guntur",
       "Telugu website design",
@@ -20,7 +20,7 @@ const tenali: CityContent = {
       "rice mill website Andhra Pradesh",
       "website cost Tenali",
       "WhatsApp automation Tenali",
-      "software company Tenali",
+      "software team Tenali",
       "website design Ponnur",
       "website maintenance Tenali",
       "Tenali lo website cheyinchali",

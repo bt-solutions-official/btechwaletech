@@ -9,7 +9,7 @@ const chittoor: CityContent = {
     description:
       "Telugu and Tamil websites, local SEO, online stores and WhatsApp automation for Chittoor mango pulp units, dairies, colleges and clinics. Sites from ₹10,000.",
     keywords: [
-      "website development company in Chittoor",
+      "website development team in Chittoor",
       "web designer Chittoor",
       "website design Chittoor Andhra Pradesh",
       "freelance web developer Chittoor",

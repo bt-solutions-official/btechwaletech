@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance developers for Anantnag and south Kashmir: orchard and cold-store software, bat-maker order tools, Pahalgam booking, Android and iOS apps, AI and SEO.",
     keywords: [
-      "software development company in Anantnag",
-      "IT company in Anantnag",
+      "software development team in Anantnag",
+      "IT services team in Anantnag",
       "IT solutions Anantnag",
       "freelance software developers Anantnag",
       "custom software south Kashmir",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Anantnag · South Kashmir · Jammu and Kashmir",
     h1: "Freelance software and app developers in Anantnag for orchards, willow bat makers and Pahalgam stays",
     lede:
-      "A software development company in Anantnag is usually hard to find, so south Kashmir owners end up with generic templates or nothing. BtechWaleTech is a freelance group of three engineers working remotely from India, and we build software around how Anantnag district actually earns: apple and walnut trade, Kashmir willow bats from the Bijbehara belt, hotels and pony operators for Pahalgam, trout farms near Kokernag, and busy clinics and schools in town. Custom software, Android and iOS apps, AI automation, dashboards, stores and SEO, with starting prices published.",
+      "A software development team in Anantnag is usually hard to find, so south Kashmir owners end up with generic templates or nothing. BtechWaleTech is a freelance group of three engineers working remotely from India, and we build software around how Anantnag district actually earns: apple and walnut trade, Kashmir willow bats from the Bijbehara belt, hotels and pony operators for Pahalgam, trout farms near Kokernag, and busy clinics and schools in town. Custom software, Android and iOS apps, AI automation, dashboards, stores and SEO, with starting prices published.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Stores from ₹50,000", "Replies on WhatsApp daily"],
   },
   quickAnswer:
@@ -188,7 +188,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner-anantnag",
-      heading: "How should you choose between an IT company in Anantnag and a freelance team?",
+      heading: "How should you choose between an IT services team in Anantnag and a freelance team?",
       paragraphs: [
         "Choose a local IT company in Anantnag when you need hardware, networking or someone physically on site, and choose a freelance software team when you mainly need custom software, apps and online visibility built well and handed over cleanly. Many owners use both: a local technician for computers and a remote team for software.",
         "Whoever you hire, ask to see live work on a phone, get an itemised quote, and confirm that the domain, hosting and code will be registered in your name. Ask what happens if the developer becomes unavailable. A partner who hesitates on ownership is a risk.",
@@ -270,7 +270,7 @@ const content: CityContent = {
     },
     {
       question: "Who owns the website, app and code?",
-      answer: "You own all of it. The domain, hosting, code repository, app store developer accounts and admin logins are registered to you or your business from the start, and you receive documentation at handover. You can switch to another developer or an IT company at any time without needing anything from us.",
+      answer: "You own all of it. The domain, hosting, code repository, app store developer accounts and admin logins are registered to you or your business from the start, and you receive documentation at handover. You can switch to another developer or an IT services team at any time without needing anything from us.",
     },
     {
       question: "What happens after the software goes live?",

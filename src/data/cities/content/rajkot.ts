@@ -9,7 +9,7 @@ const rajkot: CityContent = {
     description:
       "Websites, SEO and automation for Rajkot manufacturers, jewellers and traders. Sites from ₹10,000, stores from ₹50,000, five months of free maintenance.",
     keywords: [
-      "website development company in Rajkot",
+      "website development team in Rajkot",
       "web design Rajkot",
       "website designer Rajkot",
       "freelance web developer Rajkot",

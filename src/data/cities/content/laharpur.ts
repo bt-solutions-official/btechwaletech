@@ -10,12 +10,12 @@ const laharpur: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Laharpur durrie weavers, timber and leather units, sugarcane traders, schools and clinics.",
     keywords: [
       "IT services in Laharpur",
-      "IT company in Laharpur",
-      "website development company in Laharpur",
+      "IT services team in Laharpur",
+      "website development team in Laharpur",
       "web design in Laharpur",
-      "app development company in Laharpur",
+      "app development team in Laharpur",
       "Android app development in Laharpur",
-      "software company in Laharpur",
+      "software team in Laharpur",
       "SEO services in Laharpur",
       "digital marketing in Laharpur",
       "ecommerce website in Laharpur",
@@ -74,19 +74,19 @@ const laharpur: CityContent = {
     },
     {
       id: "durrie-weavers-export",
-      heading: "Website development company in Laharpur for durrie and rug makers",
+      heading: "Website development team in Laharpur for durrie and rug makers",
       paragraphs: [
         "Sitapur district has long been a centre for handmade durries, rugs and bath mats, and Laharpur and Khairabad are among the places where cotton and woollen pieces are woven for buyers across India and abroad. Much of this work runs through contractors and exporters, and small units rarely get direct enquiries.",
-        "A <strong>website development company in Laharpur</strong> can change that for units ready to deal directly. We build sites with real photographs of each design, sizes and materials, weave types, colour options, minimum order quantities, lead times and packing, along with any registrations you actually hold. A sample request form asks for design, size, quantity and destination so you can reply with a proper quote.",
+        "A <strong>website development team in Laharpur</strong> can change that for units ready to deal directly. We build sites with real photographs of each design, sizes and materials, weave types, colour options, minimum order quantities, lead times and packing, along with any registrations you actually hold. A sample request form asks for design, size, quantity and destination so you can reply with a proper quote.",
         "Buyers value proof of the people and looms behind the product, so we suggest a short page showing your workshop and weavers with their consent. A catalogue site starts at ₹10,000; multilingual pages for overseas buyers are quoted separately. See more on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "loom-records-software",
-      heading: "Software company in Laharpur for loom, yarn and job-work records",
+      heading: "Software team in Laharpur for loom, yarn and job-work records",
       paragraphs: [
         "Behind every export order lies a lot of bookkeeping: yarn issued to each weaver or loom, pieces returned and checked, rejections, piece rates, advances and payments, and orders tracked from buyer to dispatch. Most of this is still kept in registers, and mistakes surface only when a buyer's deadline slips or a weaver disputes his payment.",
-        "As a <strong>software company in Laharpur</strong> in practical terms, we build web tools where yarn issue and piece receipt are recorded once from a phone, balances for each weaver and each order update automatically, and a daily summary shows what is pending. Payments to weavers can be printed or shared on WhatsApp, and figures exported to Tally.",
+        "As a <strong>software team in Laharpur</strong> in practical terms, we build web tools where yarn issue and piece receipt are recorded once from a phone, balances for each weaver and each order update automatically, and a daily summary shows what is pending. Payments to weavers can be printed or shared on WhatsApp, and figures exported to Tally.",
         "These systems start at ₹60,000 and are built in phases over six to twelve weeks. We normally start with yarn and piece tracking, since that is where losses hide, and add order planning and buyer invoices once your supervisors are comfortable using the first part.",
         "Units that work for several exporters at once often struggle to see which order each loom is on. A simple board view, listing every open order with pieces done, pieces pending and the promised dispatch date, lets the owner spot a delay a week early instead of on the day the truck is due.",
       ],
@@ -111,10 +111,10 @@ const laharpur: CityContent = {
     },
     {
       id: "schools-clinics-laharpur",
-      heading: "IT company in Laharpur for schools, coaching centres and clinics",
+      heading: "IT services team in Laharpur for schools, coaching centres and clinics",
       paragraphs: [
         "Laharpur's schools, inter colleges and coaching centres draw students from surrounding villages, and its clinics, nursing homes and labs serve patients who might otherwise travel to Sitapur or Lucknow. Parents and patients now check online before deciding where to go.",
-        "People looking for an <strong>IT company in Laharpur</strong> for an institution usually need a handful of well-written pages: classes or courses, fees or fee ranges, timings, transport, facilities and admission dates for schools; doctors, specialities, OPD days, tests and emergency numbers for clinics. We build these in Hindi first, connect them to Google Maps and add a WhatsApp enquiry or booking link.",
+        "People looking for an <strong>IT services team in Laharpur</strong> for an institution usually need a handful of well-written pages: classes or courses, fees or fee ranges, timings, transport, facilities and admission dates for schools; doctors, specialities, OPD days, tests and emergency numbers for clinics. We build these in Hindi first, connect them to Google Maps and add a WhatsApp enquiry or booking link.",
         "Schools that send frequent notices can add an app for circulars, homework and fee reminders; clinics can add token booking to cut crowding. A basic institutional site starts at ₹10,000, and apps or booking systems are quoted separately.",
       ],
     },
@@ -123,7 +123,7 @@ const laharpur: CityContent = {
       heading: "Android app development in Laharpur, with iOS versions included",
       paragraphs: [
         "An app pays off only when the same people use it often. In Laharpur, examples include weavers logging finished pieces and checking payments, a dealer's village retailers reordering inputs, parents following a school's notices and fees, and patients booking tokens at a clinic. For one-off customers, an app adds little.",
-        "Our remote team works as an <strong>app development company in Laharpur</strong> using Flutter or React Native, which lets one codebase run on both Android phones and iPhones. A first version generally includes OTP login on the mobile number, push notifications, the essential screens and an admin panel for your office. We publish it on Google Play and the Apple App Store through developer accounts owned by you.",
+        "Our remote team works as an <strong>app development team in Laharpur</strong> using Flutter or React Native, which lets one codebase run on both Android phones and iPhones. A first version generally includes OTP login on the mobile number, push notifications, the essential screens and an admin panel for your office. We publish it on Google Play and the Apple App Store through developer accounts owned by you.",
         "<strong>Android app development in Laharpur</strong> starts at ₹40,000 with us. Payment collection, offline use for villages with poor signal, Hindi or Urdu screens, photo uploads of finished pieces and links to your accounts each add to the quote, and each is listed. Find more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, product photos and a phone number, a website costs far less and does the job; we will tell you that honestly rather than sell you an app nobody opens.",
       ],
@@ -229,7 +229,7 @@ const laharpur: CityContent = {
         "Once we have your text and photographs, a static website usually takes one to two weeks. SEO websites of 700+ pages need three to five weeks, stores four to eight weeks, and custom software six to twelve weeks. Waiting for content is the most common reason projects slow down.",
     },
     {
-      question: "Who is the best website development company in Laharpur?",
+      question: "Who is the best website development team in Laharpur?",
       answer:
         "That depends on what you need, but reliable signs are public prices, the domain and code in your name, support after launch and live examples you can open. Ask each provider the same questions. We meet these tests and reply on WhatsApp every day, yet comparing two or three quotes remains sensible.",
     },

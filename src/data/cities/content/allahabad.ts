@@ -9,9 +9,9 @@ const allahabad: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Prayagraj coaching institutes, lawyers, hotels and traders. Sites from ₹10,000, prices published, you own the code.",
     keywords: [
-      "website development company in Prayagraj",
+      "website development team in Prayagraj",
       "website designer in Allahabad",
-      "web design company Prayagraj",
+      "web design team Prayagraj",
       "freelance web developer Allahabad",
       "website cost in Prayagraj",
       "SEO services Prayagraj",
@@ -21,7 +21,7 @@ const allahabad: CityContent = {
       "hotel website Prayagraj Magh Mela",
       "ecommerce website Prayagraj",
       "WhatsApp automation Prayagraj",
-      "software company Naini Prayagraj",
+      "software team Naini Prayagraj",
       "website banwana hai Prayagraj",
       "प्रयागराज में वेबसाइट बनाने वाले",
       "इलाहाबाद वेबसाइट डिजाइनर",

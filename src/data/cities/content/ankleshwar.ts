@@ -10,12 +10,12 @@ const ankleshwar: CityContent = {
       "Websites, Android and iOS apps, SEO and AI automation for Ankleshwar GIDC chemical and pharma units, their vendors, transporters, clinics, schools and shops.",
     keywords: [
       "IT services in Ankleshwar",
-      "IT company in Ankleshwar",
-      "website development company in Ankleshwar",
+      "IT services team in Ankleshwar",
+      "website development team in Ankleshwar",
       "web design in Ankleshwar",
-      "app development company in Ankleshwar",
+      "app development team in Ankleshwar",
       "Android app development in Ankleshwar",
-      "software company in Ankleshwar",
+      "software team in Ankleshwar",
       "SEO services in Ankleshwar",
       "digital marketing in Ankleshwar",
       "ecommerce website in Ankleshwar",
@@ -75,10 +75,10 @@ const ankleshwar: CityContent = {
     },
     {
       id: "chemical-units-websites",
-      heading: "Website development company in Ankleshwar for chemical, dye and pharma units",
+      heading: "Website development team in Ankleshwar for chemical, dye and pharma units",
       paragraphs: [
         "A buyer in Europe or Southeast Asia looking for an intermediate usually searches by product name or CAS number, lands on a page, and decides within a minute whether the manufacturer looks credible. Many Ankleshwar units still have a single brochure page with a phone number, which wastes that minute.",
-        "As a <strong>website development company in Ankleshwar</strong>, we build product-led sites. Each product gets its own page with name, synonyms, CAS number, grade, typical specifications, packing, applications and a clear inquiry button. Technical data sheets and safety data sheets can be downloaded, or unlocked after a short form if you prefer to know who is reading. Certifications, registrations, plant capacity and quality systems appear on separate pages written in plain English.",
+        "As a <strong>website development team in Ankleshwar</strong>, we build product-led sites. Each product gets its own page with name, synonyms, CAS number, grade, typical specifications, packing, applications and a clear inquiry button. Technical data sheets and safety data sheets can be downloaded, or unlocked after a short form if you prefer to know who is reading. Certifications, registrations, plant capacity and quality systems appear on separate pages written in plain English.",
         "We keep claims exact. We do not add export figures, customer logos or capacity numbers you have not confirmed, and we will not show a client's name without written consent. For units that sell into regulated markets, we keep a change log so you can show auditors what the site said on a given date.",
         "A focused product site starts from ₹10,000 for a compact catalogue, and a 700+ page SEO build with a full product library starts at ₹20,000. See our <a href=\"/services/web-development/\">web development page</a> for how we structure these projects.",
       ],
@@ -95,10 +95,10 @@ const ankleshwar: CityContent = {
     },
     {
       id: "transport-logistics-ankleshwar",
-      heading: "Software company in Ankleshwar for tanker transport and logistics",
+      heading: "Software team in Ankleshwar for tanker transport and logistics",
       paragraphs: [
         "With the national highway, the railway and the Dahej and Hazira ports close by, Ankleshwar has a large fleet of tanker, container and truck operators moving chemicals and raw materials. Their paperwork is heavy: trip sheets, loading and unloading times, driver advances, diesel, tolls, permits, hazardous-goods documents, insurance and pending freight payments.",
-        "As a <strong>software company in Ankleshwar</strong>, we build web tools that fit how these operators already work. A trip register captures vehicle, driver, consignor, consignee, product, quantity and freight in one entry. A dues screen shows what each customer owes. Expiry alerts cover fitness certificates, permits, insurance and driver licences. A driver app lets staff upload proof of delivery photos from the road.",
+        "As a <strong>software team in Ankleshwar</strong>, we build web tools that fit how these operators already work. A trip register captures vehicle, driver, consignor, consignee, product, quantity and freight in one entry. A dues screen shows what each customer owes. Expiry alerts cover fitness certificates, permits, insurance and driver licences. A driver app lets staff upload proof of delivery photos from the road.",
         "For plants themselves, we build vendor gate-pass systems, contract-labour attendance registers, maintenance job cards and simple permit-to-work logs that replace paper and spreadsheets. Each tool has role-based logins and an audit trail.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We start with the module that removes the most manual work, run it for a month, and only then extend it.",
       ],
@@ -118,7 +118,7 @@ const ankleshwar: CityContent = {
       heading: "Android app development in Ankleshwar, with iOS apps from the same build",
       paragraphs: [
         "An app is worth the money when the same users need it every day. In Ankleshwar that means sales engineers logging visits and orders across Gujarat and Maharashtra, contractors marking crew attendance at several plants, tanker drivers uploading delivery proof, or a school or coaching class sending notices and results to parents.",
-        "As an <strong>app development company in Ankleshwar</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first release usually includes login, push notifications, the main screens your team needs and an admin panel for supervisors. We publish on Google Play and the Apple App Store under developer accounts in your company's name, or distribute internally if the app is only for staff.",
+        "As an <strong>app development team in Ankleshwar</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first release usually includes login, push notifications, the main screens your team needs and an admin panel for supervisors. We publish on Google Play and the Apple App Store under developer accounts in your company's name, or distribute internally if the app is only for staff.",
         "<strong>Android app development in Ankleshwar</strong> with us starts at ₹40,000. GPS tracking, offline mode, photo uploads, payment features and ERP links add cost, and each appears on a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your need is a catalogue and a contact form, a website is cheaper and needs no installation. We will say so and suggest the app later if daily use becomes clear.",
       ],
@@ -165,11 +165,11 @@ const ankleshwar: CityContent = {
     },
     {
       id: "remote-team-ankleshwar",
-      heading: "How our remote IT company in Ankleshwar handles approvals and audits",
+      heading: "How our remote IT services team in Ankleshwar handles approvals and audits",
       paragraphs: [
         "Manufacturers usually need more sign-offs than a small shop, so we plan for them. After the first call, you get a written scope, a page or screen plan, a timeline and an itemised quote that can go straight into a purchase order. Work starts only after written approval.",
         "Preview links let marketing, quality and management each review the pages that concern them. Technical content is sent to your team for checking before publication, and we keep a record of each approval. We reply on WhatsApp seven days a week on Indian Standard Time, and raise any delay as soon as we see it.",
-        "Payments are staged against visible progress. For anyone looking for an <strong>IT company in Ankleshwar</strong> that will not claim a local office it does not have, this is how the work runs.",
+        "Payments are staged against visible progress. For anyone looking for an <strong>IT services team in Ankleshwar</strong> that will not claim a local office it does not have, this is how the work runs.",
       ],
     },
     {
@@ -237,7 +237,7 @@ const ankleshwar: CityContent = {
         "A static site is usually live one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Product data in a clean spreadsheet speeds things up considerably.",
     },
     {
-      question: "Which is the best website development company in Ankleshwar?",
+      question: "Which is the best website development team in Ankleshwar?",
       answer:
         "Compare providers on published prices, written scope, domain and code in your name, relevant past work and support after launch. We meet those tests and reply on WhatsApp every day, but it makes sense to speak to two or three providers and compare their written proposals.",
     },

@@ -10,12 +10,12 @@ const pattukkottai: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Pattukkottai coconut traders, coir units, clinics, colleges and delta shops.",
     keywords: [
       "IT services in Pattukkottai",
-      "IT company in Pattukkottai",
-      "website development company in Pattukkottai",
+      "IT services team in Pattukkottai",
+      "website development team in Pattukkottai",
       "web design in Pattukkottai",
-      "app development company in Pattukkottai",
+      "app development team in Pattukkottai",
       "Android app development in Pattukkottai",
-      "software company in Pattukkottai",
+      "software team in Pattukkottai",
       "SEO services in Pattukkottai",
       "digital marketing in Pattukkottai",
       "ecommerce website in Pattukkottai",
@@ -75,19 +75,19 @@ const pattukkottai: CityContent = {
     },
     {
       id: "coconut-traders-software",
-      heading: "Software company in Pattukkottai for coconut traders and copra dealers",
+      heading: "Software team in Pattukkottai for coconut traders and copra dealers",
       paragraphs: [
         "Coconut is the backbone of the Pattukkottai economy. The belt along the coast has around 30,000 hectares under coconut, and the delta's coconut marketing complex was set up at Ponnavarayankottai near the town. Nuts move from farms to commission agents and traders, are graded, dehusked or dried into copra, and dispatched to oil mills and buyers in other districts.",
-        "The records behind this are demanding. Traders track lots by farmer, count or weight, grade, rate on the day, advances paid, labour, transport and buyer dues. Rates change daily, and a single wrong entry leads to an argument. As a <strong>software company in Pattukkottai</strong> in the plain sense, we build web tools where each lot is entered once from a phone, farmer and buyer balances update automatically, and statements can be sent on WhatsApp.",
+        "The records behind this are demanding. Traders track lots by farmer, count or weight, grade, rate on the day, advances paid, labour, transport and buyer dues. Rates change daily, and a single wrong entry leads to an argument. As a <strong>software team in Pattukkottai</strong> in the plain sense, we build web tools where each lot is entered once from a phone, farmer and buyer balances update automatically, and statements can be sent on WhatsApp.",
         "Copra drying yards can add batch tracking with moisture checks and dispatch records. We usually start with the purchase register because it pays back quickest, then add buyer settlement and reports. Custom software starts at ₹60,000 and is built over six to twelve weeks. Your data stays in accounts that belong to you, and you can export it any time.",
       ],
     },
     {
       id: "coir-units-pattukkottai",
-      heading: "Website development company in Pattukkottai for coir units and exporters",
+      heading: "Website development team in Pattukkottai for coir units and exporters",
       paragraphs: [
         "Husk is not waste here. Pattukkottai was declared a coir cluster in 2007 and has received support under the central SFURTI scheme for traditional industries. Units around the town turn husk into fibre, yarn, rope, mats, pith blocks and grow bags, sold to domestic buyers and, through exporters, to horticulture markets abroad.",
-        "Buyers of coir products check suppliers carefully before placing orders. A <strong>website development company in Pattukkottai</strong> should give a coir unit a site that answers those checks: product range with specifications, pack sizes and pallet details, photographs of the actual unit, capacity stated honestly, certifications you really hold, and a clear enquiry form. English is essential for export buyers; Tamil helps for local labour and suppliers.",
+        "Buyers of coir products check suppliers carefully before placing orders. A <strong>website development team in Pattukkottai</strong> should give a coir unit a site that answers those checks: product range with specifications, pack sizes and pallet details, photographs of the actual unit, capacity stated honestly, certifications you really hold, and a clear enquiry form. English is essential for export buyers; Tamil helps for local labour and suppliers.",
         "We never name a buyer or claim an export market on your site without your confirmation, and we never invent capacity figures. Units that handle repeat buyers can add a sample request form, a price list protected by login, or a dispatch tracking page. A capability site starts at ₹10,000, and a larger SEO site targeting product searches starts at ₹20,000.",
       ],
     },
@@ -123,7 +123,7 @@ const pattukkottai: CityContent = {
       heading: "Android app development in Pattukkottai, and iOS apps for delta businesses",
       paragraphs: [
         "An app makes sense when a known group of people uses it again and again. In Pattukkottai, that could be farmers checking lot payments with a coconut trader, parents receiving homework, fee and bus alerts from a school, patients taking tokens at a busy hospital, or retailers in nearby towns re-ordering from a wholesaler.",
-        "As an <strong>app development company in Pattukkottai</strong> that works remotely, we build apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile OTP login, push notifications, the main screens your users need and an admin panel. We publish on Google Play and the Apple App Store under developer accounts registered to you, with Tamil screens where users need them.",
+        "As an <strong>app development team in Pattukkottai</strong> that works remotely, we build apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile OTP login, push notifications, the main screens your users need and an admin panel. We publish on Google Play and the Apple App Store under developer accounts registered to you, with Tamil screens where users need them.",
         "<strong>Android app development in Pattukkottai</strong> with us starts at ₹40,000. Costs rise with payments, offline mode for weak coastal signal, maps and links to other software, and each is listed separately. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need an address, timings and a price list, a website does that job for far less, and we will say so. An app that is opened once and forgotten is money wasted.",
       ],
@@ -224,7 +224,7 @@ const pattukkottai: CityContent = {
         "Most simple sites are ready within two weeks of us receiving the text and photos. Larger builds need longer: roughly three to five weeks for a 700+ page SEO site, four to eight for an online shop and six to twelve for custom software. Content arriving late is the usual cause of delay, not the coding.",
     },
     {
-      question: "Which is the best website development company in Pattukkottai?",
+      question: "Which is the best website development team in Pattukkottai?",
       answer:
         "There is no single answer, so test each option. Does the provider show prices openly? Will the domain and code sit in your name? Can you open sites they have actually built? Will they answer after launch? We are glad to be compared on those points, and we suggest speaking to at least two others first.",
     },

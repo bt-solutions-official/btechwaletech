@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Noida by a freelance team of three engineers: product builds, apps, AI agents, cloud, data and SEO. Itemised quotes.",
     keywords: [
-      "IT solutions company in Noida",
+      "IT solutions team in Noida",
       "IT consulting Noida",
       "digital transformation Noida",
-      "best IT company in Noida",
+      "best IT services team in Noida",
       "freelance IT consultant Noida",
       "IT solutions near me Noida",
       "fractional CTO Noida startups",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Noida · Sector 62 to the Expressway, Phase 2 to Greater Noida West",
     h1: "IT consulting and digital transformation in Noida, from a freelance team of three engineers",
     lede:
-      "Noida has hundreds of IT firms within a few sectors of each other, so finding an IT solutions company in Noida is easy; finding one that listens before it quotes is harder. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We offer IT consulting to Noida founders, exporters, electronics suppliers, housing societies, institutes and service firms, then build what the plan calls for: web products and custom software, Android and iOS apps, AI agents and automation, cloud and DevOps, data pipelines and dashboards, SEO and ecommerce.",
+      "Noida has hundreds of IT firms within a few sectors of each other, so finding an IT solutions team in Noida is easy; finding one that listens before it quotes is harder. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We offer IT consulting to Noida founders, exporters, electronics suppliers, housing societies, institutes and service firms, then build what the plan calls for: web products and custom software, Android and iOS apps, AI agents and automation, cloud and DevOps, data pipelines and dashboards, SEO and ecommerce.",
     pills: ["Consulting before code", "Product builds from ₹60,000", "Android & iOS from ₹40,000", "Hindi and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT consulting and IT solutions in Noida as a remote freelance group of three engineers rather than a Noida company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software or product builds from ₹60,000, with five months of free maintenance.",
+    "BtechWaleTech offers IT consulting and IT solutions in Noida as a remote freelance group of three engineers working from India, with no office in Noida. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software or product builds from ₹60,000, with five months of free maintenance.",
   snapshot: [
     { label: "IT and office sectors", value: "Sectors 62 and 63, the Noida-Greater Noida Expressway belt from Sector 125 to 144, and Sector 16 and 18 commercial districts" },
     { label: "Industrial and export zones", value: "Phase 1 and Phase 2 industrial areas, the Noida Special Economic Zone, the Hosiery Complex and Sectors 57 to 60 and 80 to 88" },
@@ -80,11 +80,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-noida-vs-freelance",
-      heading: "Choosing the best IT company in Noida, or a freelance team instead",
+      heading: "Choosing the best IT services team in Noida, or a freelance team instead",
       paragraphs: [
-        "The best IT company in Noida for a given project is the one whose team size, skills and engagement model fit that project; for focused builds and owner-led businesses, a small freelance team often delivers faster and with less overhead than a large firm.",
+        "The best IT services team in Noida for a given project is the one whose team size, skills and engagement model fit that project; for focused builds and owner-led businesses, a small freelance team often delivers faster and with less overhead than a large firm.",
         "If you are comparing IT companies in Noida, look past headcount. Ask to use a system they built that is still running. Ask who will write and review your code, and meet them. Request an itemised quote rather than a single figure. Confirm that domains, cloud accounts, app store listings and repositories will be yours. Ask how knowledge is retained if a developer leaves.",
-        "BtechWaleTech is a freelance group of three engineers, not a company. Ankur Kumar leads full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and data work. We are not a fit for projects needing on-site teams, dozens of developers or a staffed round-the-clock helpdesk. We are a good fit when you want direct access, continuity and transparent pricing.",
+        "BtechWaleTech is a freelance group of three engineers. Ankur Kumar leads full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and data work. We are not a fit for projects needing on-site teams, dozens of developers or a staffed round-the-clock helpdesk. We are a good fit when you want direct access, continuity and transparent pricing.",
       ],
       list: [
         "Use a live system the vendor maintains",
@@ -227,14 +227,14 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company in Noida?",
+      question: "Is BtechWaleTech an IT services team in Noida?",
       answer:
-        "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We are not a company and have no office in Noida, Greater Noida or anywhere else. Consulting, reviews, testing and training happen over video calls, screen shares and WhatsApp, with a live preview of your project from the first week.",
+        "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India. Consulting, reviews, testing and training happen over video calls, screen shares and WhatsApp, with a live preview of your project from the first week.",
     },
     {
-      question: "Are you the best IT company in Noida?",
+      question: "Are you the best IT services team in Noida?",
       answer:
-        "We do not claim that, and as a freelance team we are not a company. The right choice depends on your project. We suit founders and owner-led businesses wanting direct engineer access, itemised pricing and full ownership. Projects needing large teams, on-site staff or enterprise contracts are better served by bigger firms.",
+        "We do not claim that; we are a small freelance team of three developers. The right choice depends on your project. We suit founders and owner-led businesses wanting direct engineer access, itemised pricing and full ownership. Projects needing large teams, on-site staff or enterprise contracts are better served by bigger firms.",
     },
     {
       question: "How do Noida clients pay?",

@@ -10,12 +10,12 @@ const virudhachalam: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Virudhachalam ceramic and refractory units, cashew traders, colleges and shops.",
     keywords: [
       "IT services in Virudhachalam",
-      "IT company in Virudhachalam",
-      "website development company in Virudhachalam",
+      "IT services team in Virudhachalam",
+      "website development team in Virudhachalam",
       "web design in Virudhachalam",
-      "app development company in Virudhachalam",
+      "app development team in Virudhachalam",
       "Android app development in Virudhachalam",
-      "software company in Virudhachalam",
+      "software team in Virudhachalam",
       "SEO services in Virudhachalam",
       "digital marketing in Vriddhachalam",
       "ecommerce website in Virudhachalam",
@@ -75,10 +75,10 @@ const virudhachalam: CityContent = {
     },
     {
       id: "ceramic-refractory-virudhachalam",
-      heading: "Website development company in Virudhachalam for ceramic and refractory units",
+      heading: "Website development team in Virudhachalam for ceramic and refractory units",
       paragraphs: [
         "The SIDCO Ceramic Industrial Estate was developed in phases from the 1960s, and its units make refractory bricks and shapes, stoneware, sanitary items, pottery and decorative ceramics. Many supply steel plants, cement works and foundries far from Cuddalore district. Those buyers search online for technical specifications, compare several suppliers and expect a proper product sheet before they pick up the phone.",
-        "As a <strong>website development company in Virudhachalam</strong>, we build B2B sites that give buyers what they look for: product ranges with dimensions, composition and temperature ratings as you supply them, downloadable data sheets, photographs from the factory floor, certifications you actually hold, and an enquiry form that asks for quantity and delivery location. We never invent specifications or client lists; every claim comes from you.",
+        "As a <strong>website development team in Virudhachalam</strong>, we build B2B sites that give buyers what they look for: product ranges with dimensions, composition and temperature ratings as you supply them, downloadable data sheets, photographs from the factory floor, certifications you actually hold, and an enquiry form that asks for quantity and delivery location. We never invent specifications or client lists; every claim comes from you.",
         "A typical first site is ready in one to two weeks from ₹10,000. For units with a large range, a bigger SEO site of 700+ pages from ₹20,000 can give each product its own page, which helps with searches for specific shapes and grades. We write in English for industrial buyers and add Tamil pages where local buyers matter.",
       ],
       list: [
@@ -90,10 +90,10 @@ const virudhachalam: CityContent = {
     },
     {
       id: "software-ceramic-virudhachalam",
-      heading: "Software company in Virudhachalam for kiln, order and dispatch records",
+      heading: "Software team in Virudhachalam for kiln, order and dispatch records",
       paragraphs: [
         "Inside a ceramic unit, the hard part is not making the product but keeping track of it. Clay and material purchases, moulding, drying, kiln loads, breakage, grading, packing and dispatch all happen on different days, recorded in different registers. When a buyer calls asking about his order, someone has to walk the floor to find out.",
-        "Working as a <strong>software company in Virudhachalam</strong>, we build web-based tools that follow the product from order to lorry. Each order gets its items and due date. Each kiln firing records what went in and what came out, including breakage. Stock updates as items are graded and packed. Dispatch notes print from the system, and the buyer gets a WhatsApp message when goods leave.",
+        "Working as a <strong>software team in Virudhachalam</strong>, we build web-based tools that follow the product from order to lorry. Each order gets its items and due date. Each kiln firing records what went in and what came out, including breakage. Stock updates as items are graded and packed. Dispatch notes print from the system, and the buyer gets a WhatsApp message when goods leave.",
         "The owner sees pending orders, kiln output and breakage trends on a phone. Custom software of this kind starts from ₹60,000 and usually takes six to twelve weeks. We build it in parts, starting with whatever causes the most confusion today, and it runs alongside your Tally accounts rather than replacing them.",
       ],
     },
@@ -108,10 +108,10 @@ const virudhachalam: CityContent = {
     },
     {
       id: "cashew-agri-virudhachalam",
-      heading: "App development company in Virudhachalam for cashew and farm traders",
+      heading: "App development team in Virudhachalam for cashew and farm traders",
       paragraphs: [
         "Cashew is grown widely in the red-soil tracts around Virudhachalam, and the town's TNAU Regional Research Station began in 1963 as a cashew research station. Local traders and processors buy raw nuts, grade kernels and sell to buyers who ask for rates every morning. Seed, fertiliser and pesticide dealers serve the same farming belt.",
-        "As an <strong>app development company in Virudhachalam</strong>, we build simple trade apps for these networks. A dealer posts the day's rates for each grade; registered buyers see them, place an order and get a dispatch alert. Farmers can see input availability and receive reminders ahead of the season. The trader sees orders, outstanding amounts and stock by grade in one place.",
+        "As an <strong>app development team in Virudhachalam</strong>, we build simple trade apps for these networks. A dealer posts the day's rates for each grade; registered buyers see them, place an order and get a dispatch alert. Farmers can see input availability and receive reminders ahead of the season. The trader sees orders, outstanding amounts and stock by grade in one place.",
         "We keep these apps in Tamil with large buttons and a handful of screens, because they will be used in a hurry on inexpensive phones. Anything beyond the first few screens is added only after the basics are in daily use.",
       ],
     },
@@ -172,9 +172,9 @@ const virudhachalam: CityContent = {
     },
     {
       id: "remote-team-virudhachalam",
-      heading: "An IT company in Virudhachalam without a local office",
+      heading: "An IT services team in Virudhachalam without a local office",
       paragraphs: [
-        "Plainly put, we are not an <strong>IT company in Virudhachalam</strong> with a shop front on Junction Road. We are three engineers who work remotely for clients across India, and people here reach us on WhatsApp or by phone. Since the work itself is done on screens, most projects never need a visit.",
+        "Plainly put, we are not an <strong>IT services team in Virudhachalam</strong> with a shop front on Junction Road. We are three engineers who work remotely for clients across India, and people here reach us on WhatsApp or by phone. Since the work itself is done on screens, most projects never need a visit.",
         "The first step is a short call plus any voice notes or photos you want to share. A written scope and itemised quote follow in about two working days. After you approve, you check progress on a preview link every few days and send corrections over WhatsApp. We answer every day of the week on IST.",
         "If new factory or product photographs are needed, we send a list of shots so you or a local photographer can take them. We will never publish a made-up address or describe a visit that did not happen. Begin through the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -225,7 +225,7 @@ const virudhachalam: CityContent = {
         "Yes. A single Flutter or React Native build gives you both Android and iOS versions, with mobile sign-in, notifications and a staff admin screen. We release it on Google Play and the App Store through accounts in your name. Prices begin at ₹40,000. Here, reorder apps for ceramic dealers and daily-rate apps for cashew traders fit best.",
     },
     {
-      question: "Which is the best IT company in Virudhachalam?",
+      question: "Which is the best IT services team in Virudhachalam?",
       answer:
         "Judge any provider by what you keep and what happens after launch: domain and code in your name, a written line-by-line quote, and a maintenance plan you understand. We are three remote engineers with public starting prices and five months of included maintenance. Whether you choose us or someone local, insist on those three things.",
     },

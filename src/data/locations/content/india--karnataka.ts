@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT solutions across Karnataka: software, web apps, Android and iOS apps, AI automation and SEO for Bengaluru, Mysuru, Mangaluru and Hubballi. From ₹10,000.",
     keywords: [
-      "IT solutions company in Karnataka",
+      "IT solutions team in Karnataka",
       "freelance IT services Karnataka",
       "IT consulting Karnataka",
       "digital transformation Karnataka small business",
@@ -87,9 +87,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-it-team-vs-it-company-karnataka",
-      heading: "Freelance IT team or an IT solutions company in Karnataka: which is right for you?",
+      heading: "Freelance IT team or an IT solutions team in Karnataka: which is right for you?",
       paragraphs: [
-        "A freelance IT team is usually the better fit for Karnataka small and mid-sized businesses that want one accountable group for many services at a moderate price, while an IT solutions company suits large organisations needing big teams, compliance paperwork and on-site staff. If you are shortlisting IT companies in Karnataka, compare who does the work, not just the brochure.",
+        "A freelance IT team is usually the better fit for Karnataka small and mid-sized businesses that want one accountable group for many services at a moderate price, while an IT solutions team suits large organisations needing big teams, compliance paperwork and on-site staff. If you are shortlisting IT companies in Karnataka, compare who does the work, not just the brochure.",
         "With larger firms, the person who sells the project is rarely the person who builds it, and small clients can end up at the bottom of the queue. With a lone freelancer, the risk flips: great attention until they become busy or unavailable. Our three-person freelance group aims for the middle ground, with direct contact, shared knowledge of each project and documented handovers.",
         "We will also tell you when we are the wrong choice. If you need a 24-hour on-site support desk at a Hubballi factory, a local hardware vendor or a larger service provider is a better answer. If you need software, apps, automation and websites designed and maintained well, we are a strong option.",
       ],

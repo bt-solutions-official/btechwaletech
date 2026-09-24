@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Bishnupur and Loktak: tour booking and enquiry systems, service websites, Android and iOS apps, AI automation and tourism SEO.",
     keywords: [
-      "software development company in Bishnupur Manipur",
-      "IT company in Bishnupur",
+      "software development team in Bishnupur Manipur",
+      "IT services team in Bishnupur",
       "IT solutions Bishnupur",
       "freelance software developer Bishnupur",
       "Loktak Lake tour booking website",
@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT solutions · Bishnupur district, Manipur",
     h1: "Freelance software developers in Bishnupur for Loktak tourism, enquiries and local services",
     lede:
-      "People searching for a software development company in Bishnupur usually want one of two things: more bookings from Loktak and Keibul Lamjao visitors, or a proper website and records for a local business. BtechWaleTech is a freelance group of three engineers working remotely from India. We build tour pages, booking and enquiry systems, service websites, Android and iOS apps and automation for Bishnupur, Moirang, Nambol and the lake villages.",
+      "People searching for a software development team in Bishnupur usually want one of two things: more bookings from Loktak and Keibul Lamjao visitors, or a proper website and records for a local business. BtechWaleTech is a freelance group of three engineers working remotely from India. We build tour pages, booking and enquiry systems, service websites, Android and iOS apps and automation for Bishnupur, Moirang, Nambol and the lake villages.",
     pills: ["Tour and booking sites from ₹10,000", "Enquiry-to-booking systems", "Android and iOS apps from ₹40,000", "Tourism SEO", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Instead of a software development company in Bishnupur, BtechWaleTech is a remote freelance group of three engineers. Tour and service websites start at ₹10,000 (one to two weeks), enquiry automation and Android and iOS apps at ₹40,000, and custom booking or record software at ₹60,000 (six to twelve weeks). We have no Manipur office and quote itemised prices in about two working days.",
+    "Instead of a software development team in Bishnupur, BtechWaleTech is a remote freelance group of three engineers. Tour and service websites start at ₹10,000 (one to two weeks), enquiry automation and Android and iOS apps at ₹40,000, and custom booking or record software at ₹60,000 (six to twelve weeks). We have no Manipur office and quote itemised prices in about two working days.",
   snapshot: [
     { label: "District towns", value: "Bishnupur, Nambol, Moirang, Ningthoukhong and Kumbi, across three subdivisions" },
     { label: "Loktak Lake", value: "The largest freshwater lake in Northeast India, known for its floating phumdis and lake fishing" },
@@ -69,9 +69,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-developers-bishnupur",
-      heading: "What should a software development company in Bishnupur build for local businesses?",
+      heading: "What should a software development team in Bishnupur build for local businesses?",
       paragraphs: [
-        "A software development company in Bishnupur, or a freelance team serving the district, should build tools that bring in customers and stop enquiries getting lost: tour pages that rank, booking and enquiry systems, service websites for local businesses, apps for regular customers and staff, and simple record software. Tourism around Loktak Lake makes enquiry handling especially important.",
+        "A software development team in Bishnupur, or a freelance team serving the district, should build tools that bring in customers and stop enquiries getting lost: tour pages that rank, booking and enquiry systems, service websites for local businesses, apps for regular customers and staff, and simple record software. Tourism around Loktak Lake makes enquiry handling especially important.",
         "Bishnupur district combines lake tourism at Loktak, Sendra and Keibul Lamjao, heritage sites such as the INA Memorial at Moirang and Red Hill near Nambol, fishing communities on Thanga and around the lake, and ordinary town businesses in Bishnupur, Nambol, Moirang and Ningthoukhong. Each of these needs to be found online and to respond quickly.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Bishnupur or anywhere in Manipur. We work through WhatsApp, phone and video calls, and we design everything to cope with patchy connections on the lake and in villages.",
       ],
@@ -206,7 +206,7 @@ const content: CityContent = {
       heading: "What does IT work cost in Bishnupur, and how do you choose a provider?",
       paragraphs: [
         "IT work for Bishnupur clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
-        "If you are comparing a software development company for Bishnupur with a freelance team, ask to see earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how the system copes with weak signal. Local providers can visit; remote teams usually cost less for software and web work.",
+        "If you are comparing a software development team for Bishnupur with a freelance team, ask to see earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how the system copes with weak signal. Local providers can visit; remote teams usually cost less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. See our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a>.",
       ],
     },
@@ -309,7 +309,7 @@ const content: CityContent = {
         "For hardware, networks and on-site help, a local provider is best. For websites, booking systems, apps, automation and SEO, a remote freelance team works well and often costs less. Compare any option on earlier work, written scope, ownership of accounts and support terms.",
     },
     {
-      question: "Is there a software development company in Bishnupur district?",
+      question: "Is there a software development team in Bishnupur district?",
       answer:
         "Bishnupur has local computer and web service providers, and many businesses also work with developers in Imphal or remote teams. For software, booking systems and apps, location matters less than practices: real earlier work, a written scope, accounts in your name and clear support terms. For hardware or on-site help, a nearby provider remains the practical choice.",
     },

@@ -10,12 +10,12 @@ const sahaswan: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sahaswan traders, mentha and cane growers, clinics, schools and music teachers.",
     keywords: [
       "IT services in Sahaswan",
-      "IT company in Sahaswan",
-      "website development company in Sahaswan",
+      "IT services team in Sahaswan",
+      "website development team in Sahaswan",
       "web design in Sahaswan",
-      "app development company in Sahaswan",
+      "app development team in Sahaswan",
       "Android app development in Sahaswan",
-      "software company in Sahaswan",
+      "software team in Sahaswan",
       "SEO services in Sahaswan",
       "digital marketing in Sahaswan",
       "ecommerce website in Sahaswan",
@@ -74,19 +74,19 @@ const sahaswan: CityContent = {
     },
     {
       id: "farm-input-dealers",
-      heading: "Software company in Sahaswan for fertiliser, seed and pesticide dealers",
+      heading: "Software team in Sahaswan for fertiliser, seed and pesticide dealers",
       paragraphs: [
         "Farm input dealers are among the busiest businesses in any Budaun tehsil. Before the rabi and kharif sowing, farmers crowd in for wheat and paddy seed, urea, DAP and pesticides; before the cane and mentha seasons, demand shifts again. Much of this is sold on credit to be settled after harvest, and the record of who owes what lives in a thick register behind the counter.",
-        "As a <strong>software company in Sahaswan</strong> in practical terms, we build billing and credit tools that fit this pattern. Each sale is entered once with farmer name, village, items and amount; payments are marked as they come in; and the dealer sees dues by village and by season at a glance. WhatsApp reminders can go out politely when a crop has been sold. Stock alerts warn before a fast-moving product runs out in the middle of sowing.",
+        "As a <strong>software team in Sahaswan</strong> in practical terms, we build billing and credit tools that fit this pattern. Each sale is entered once with farmer name, village, items and amount; payments are marked as they come in; and the dealer sees dues by village and by season at a glance. WhatsApp reminders can go out politely when a crop has been sold. Stock alerts warn before a fast-moving product runs out in the middle of sowing.",
         "Tools like this start at ₹60,000 for fully custom software, and we often begin with a simpler version and add features after the first season. The software runs in a browser, so it works on the shop computer and the owner's phone, and the data stays in your own account.",
       ],
     },
     {
       id: "mentha-cane-grain-trade",
-      heading: "Website development company in Sahaswan for mentha, cane and grain traders",
+      heading: "Website development team in Sahaswan for mentha, cane and grain traders",
       paragraphs: [
         "Mentha, the Japanese mint grown for its oil, is one of the important cash crops around Sahaswan along with sugarcane. Farmers distil the leaves and sell the oil through traders, while cane goes to mills and crushers in the region and wheat and paddy move through local markets. Traders in these crops deal with buyers far from Budaun, and those buyers increasingly want to see who they are dealing with before placing orders.",
-        "A <strong>website development company in Sahaswan</strong> can give such traders a plain, trustworthy site: the crops handled, the grades or specifications offered, how samples and lab reports are arranged, packing and dispatch methods, GST details and a proper enquiry form. We do not invent volumes, clients or export destinations; the site says only what you confirm.",
+        "A <strong>website development team in Sahaswan</strong> can give such traders a plain, trustworthy site: the crops handled, the grades or specifications offered, how samples and lab reports are arranged, packing and dispatch methods, GST details and a proper enquiry form. We do not invent volumes, clients or export destinations; the site says only what you confirm.",
         "For traders who buy from many farmers, a purchase register that records weight, grade, rate and payment per farmer can be added. A catalogue site starts at ₹10,000, and a purchase and payment tool can be quoted separately once we understand how your trade actually works through the season.",
       ],
     },
@@ -101,10 +101,10 @@ const sahaswan: CityContent = {
     },
     {
       id: "clinics-hospitals-sahaswan",
-      heading: "IT company in Sahaswan for clinics, hospitals and diagnostic labs",
+      heading: "IT services team in Sahaswan for clinics, hospitals and diagnostic labs",
       paragraphs: [
         "Patients from across Sahaswan tehsil travel into town for treatment, often by shared vehicle or bus, and many continue to Budaun or Bareilly for specialist care. A clinic that is closed when a patient arrives, or a lab that needs a fasting sample the patient did not know about, wastes a full day of someone's work.",
-        "As an <strong>IT company in Sahaswan</strong> for healthcare, we build pages that answer those questions before the trip: doctors and their days, OPD timings, the tests offered and how to prepare, fees where you are comfortable sharing them, and an emergency number. A WhatsApp flow can accept appointment requests and send a reminder the day before, which cuts both no-shows and calls to the front desk.",
+        "As an <strong>IT services team in Sahaswan</strong> for healthcare, we build pages that answer those questions before the trip: doctors and their days, OPD timings, the tests offered and how to prepare, fees where you are comfortable sharing them, and an emergency number. A WhatsApp flow can accept appointment requests and send a reminder the day before, which cuts both no-shows and calls to the front desk.",
         "Clinics with many repeat patients can add a token system or small patient app later. We keep medical information factual, avoid claims that cannot be supported, and set up report sharing with proper access controls instead of loose forwarding of files.",
       ],
     },
@@ -131,7 +131,7 @@ const sahaswan: CityContent = {
       heading: "Android app development in Sahaswan, and iOS apps where they are needed",
       paragraphs: [
         "An app is worth the money when a fixed group of people uses it regularly. In Sahaswan good examples are village retailers re-ordering from a wholesaler or dealer, parents of a school getting notices and fee reminders, coaching students checking tests and results, or regular patients taking tokens at a busy clinic. A shop visited twice a year is better served by a website and a Maps listing.",
-        "As an <strong>app development company in Sahaswan</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android and iPhone. Most first versions include mobile number login, push notifications, a few core screens and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts in your name and handle store listings and review requirements.",
+        "As an <strong>app development team in Sahaswan</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android and iPhone. Most first versions include mobile number login, push notifications, a few core screens and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts in your name and handle store listings and review requirements.",
         "<strong>Android app development in Sahaswan</strong> with us starts at ₹40,000. The cost rises with payments, offline use in low-signal villages, Hindi and Urdu content, maps and billing software links, each quoted as a separate line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page has more detail.",
         "Since most smartphones around Sahaswan run Android, many clients launch on Google Play first and add the iPhone version later. If your customers only need your address and price list, we will tell you that a website does the job for a fraction of the cost.",
       ],
@@ -231,7 +231,7 @@ const sahaswan: CityContent = {
         "A simple static site is usually live in one to two weeks once we have photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish quickest when the owner sends content early.",
     },
     {
-      question: "Which is the best website development company in Sahaswan?",
+      question: "Which is the best website development team in Sahaswan?",
       answer:
         "The right choice is someone who shows prices openly, registers the domain and code in your name, stays reachable after launch and can show real work. Ask every provider the same questions and compare written quotes. We aim to meet those tests and reply on WhatsApp daily, but comparing two or three options is wise.",
     },

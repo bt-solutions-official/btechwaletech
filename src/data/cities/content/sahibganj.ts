@@ -10,12 +10,12 @@ const sahibganj: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sahibganj stone traders, transporters, port users, clinics, schools and shops.",
     keywords: [
       "IT services in Sahibganj",
-      "IT company in Sahibganj",
-      "website development company in Sahibganj",
+      "IT services team in Sahibganj",
+      "website development team in Sahibganj",
       "web design in Sahibganj",
-      "app development company in Sahibganj",
+      "app development team in Sahibganj",
       "Android app development in Sahibganj",
-      "software company in Sahibganj",
+      "software team in Sahibganj",
       "SEO services in Sahibganj",
       "digital marketing in Sahibganj",
       "ecommerce website in Sahibganj",
@@ -75,20 +75,20 @@ const sahibganj: CityContent = {
     },
     {
       id: "stone-crusher-software",
-      heading: "Software company in Sahibganj for stone quarries, crushers and suppliers",
+      heading: "Software team in Sahibganj for stone quarries, crushers and suppliers",
       paragraphs: [
         "The Rajmahal Hills are a major source of building and road stone for Jharkhand, Bihar and West Bengal, and stone chips from this belt are used on highways, rail projects and construction sites across the region. Around the quarries work crusher units, loaders, weighbridges, truck owners, commission agents and site suppliers, all handling large volumes on thin paperwork.",
         "A crusher or supplier has to track daily output by size, trucks loaded, weighbridge slips, buyer orders, transport challans and mining papers, freight paid, and money still to come from each site. Most of this lives in notebooks and scattered photographs on phones. A missing slip or a double-counted load can mean a dispute that takes weeks to settle.",
-        "As a <strong>software company in Sahibganj</strong> in the plain sense, we build web tools that record each load once from a phone, match it to the weighbridge slip and the buyer order, total tonnage by customer and by truck, and show dues at a glance. Document expiry reminders for permits, fitness and insurance are easy to add. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks.",
+        "As a <strong>software team in Sahibganj</strong> in the plain sense, we build web tools that record each load once from a phone, match it to the weighbridge slip and the buyer order, total tonnage by customer and by truck, and show dues at a glance. Document expiry reminders for permits, fitness and insurance are easy to add. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks.",
         "We do not handle statutory mining returns or government portals for you. Our tools keep your own business records clean and ready when you need them.",
       ],
     },
     {
       id: "river-terminal-logistics",
-      heading: "Website development company in Sahibganj for port users and transporters",
+      heading: "Website development team in Sahibganj for port users and transporters",
       paragraphs: [
         "The Sakrigali terminal was built to move stone chips, fertiliser, cement, sugar and coal by river, and to connect the industries of Jharkhand and Bihar with Kolkata, Haldia and cargo routes towards Nepal. That brings new work for clearing agents, truck fleets, warehousing, loading contractors and service businesses near the terminal.",
-        "Companies choosing a local partner check them online before they call. A <strong>website development company in Sahibganj</strong> should give such firms a site that is factual and fast: services offered, fleet size and type, areas covered, licences and GST details, safety practices, and named contact people with phone and WhatsApp. Photographs of your own vehicles and yard carry more weight than any stock image.",
+        "Companies choosing a local partner check them online before they call. A <strong>website development team in Sahibganj</strong> should give such firms a site that is factual and fast: services offered, fleet size and type, areas covered, licences and GST details, safety practices, and named contact people with phone and WhatsApp. Photographs of your own vehicles and yard carry more weight than any stock image.",
         "For transporters with regular clients, a small login area where customers can see load status and download delivery proofs cuts down daily calls. For warehouse owners, a page with capacity, access roads and rates on request brings better enquiries.",
         "We never list a client's name on your website without written permission from that client. Our <a href=\"/services/web-development/\">web development</a> work keeps these sites simple, accurate and easy for you to update.",
       ],
@@ -108,7 +108,7 @@ const sahibganj: CityContent = {
       heading: "Android app development in Sahibganj, and iOS apps where they help",
       paragraphs: [
         "An app is worth building when the same group of people will use it every day. In Sahibganj, good examples are truck drivers logging loads and fuel from a phone, crusher staff entering output at the end of each shift, school parents receiving notices and fee reminders, a hospital issuing tokens, or regular buyers re-ordering from a wholesaler.",
-        "As an <strong>app development company in Sahibganj</strong> working remotely, we use Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually includes OTP login with a mobile number, push notifications, the main screens your users need, and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Sahibganj</strong> working remotely, we use Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually includes OTP login with a mobile number, push notifications, the main screens your users need, and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Sahibganj</strong> with us starts at ₹40,000. Costs rise with online payments, offline mode for quarry sites without signal, GPS tracking, photo upload of slips, or links to your billing software, and each appears separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If customers only need your address, phone and a price list, a website does that at far lower cost. We will recommend it in that case, because an app people forget after a week helps nobody.",
       ],
@@ -164,9 +164,9 @@ const sahibganj: CityContent = {
     },
     {
       id: "remote-team-sahibganj",
-      heading: "An IT company in Sahibganj terms, run by a remote team",
+      heading: "An IT services team in Sahibganj terms, run by a remote team",
       paragraphs: [
-        "Many people looking for an <strong>IT company in Sahibganj</strong> expect a local office. We do not have one, and we tell every client that at the start. In return you speak directly to the engineers building your site or app, and you get every plan and change in writing.",
+        "Many people looking for an <strong>IT services team in Sahibganj</strong> expect a local office. We do not have one, and we tell every client that at the start. In return you speak directly to the engineers building your site or app, and you get every plan and change in writing.",
         "It starts with one conversation about what you sell, who buys it and what the site or app must achieve. Next comes a written outline of pages or screens, dates, and a quote broken into parts. Once you say yes, we send working links so you and your partners can try the pages on ordinary phones well before they go public. Any Hindi or Bengali wording goes to you for correction first.",
         "Messages get answered seven days a week during Indian working hours, Sundays too. Should anything slip, we warn you the moment we see it coming. You pay in stages as finished work appears, and there is no charge of any kind until you have agreed the quote in writing. Reach us through the <a href=\"/contact/\">contact page</a> whenever you are ready.",
       ],
@@ -231,7 +231,7 @@ const sahibganj: CityContent = {
         "Once your wording and pictures reach us, a small site is normally online within a week or two. Bigger SEO sites need three to five weeks, stores four to eight, and bespoke software six to twelve. The single thing that most often holds a project back is waiting for content, so gather it before we begin.",
     },
     {
-      question: "Who is the best website development company in Sahibganj?",
+      question: "Who is the best website development team in Sahibganj?",
       answer:
         "The right choice is whoever is open about starting prices, puts the domain and code under your name, still picks up the phone a year after launch and has live sites you can visit. Ask every candidate those same things. We are happy to be judged that way, yet it is sensible to speak to a couple of others too.",
     },

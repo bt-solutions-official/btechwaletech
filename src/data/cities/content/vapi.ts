@@ -9,7 +9,7 @@ const vapi: CityContent = {
     description:
       "Websites, SEO, B2B catalogues and WhatsApp automation for Vapi GIDC manufacturers, traders, schools and clinics. Sites from ₹10,000, apps from ₹60,000.",
     keywords: [
-      "website development company in Vapi",
+      "website development team in Vapi",
       "web design Vapi",
       "website designer Vapi GIDC",
       "chemical company website design",

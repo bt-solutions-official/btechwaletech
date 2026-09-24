@@ -7,15 +7,15 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & IT Developers in Hubballi",
     description:
-      "Freelance IT team for Hubballi traders, factories and institutes, an alternative to a software development company: dashboards, automation, apps. From ₹10,000.",
+      "Freelance IT team for Hubballi traders, factories and institutes, an alternative to a software development team: dashboards, automation, apps. From ₹10,000.",
     keywords: [
       "Android app development Hubballi",
       "iOS app development Hubli",
       "iPhone app developers Hubballi",
-      "software development company in Hubballi",
-      "IT company in Hubballi",
+      "software development team in Hubballi",
+      "IT services team in Hubballi",
       "IT solutions Hubballi",
-      "software company in Hubli",
+      "software team in Hubli",
       "freelance software developers Hubli Dharwad",
       "custom software development Hubballi",
       "business dashboard development Hubli",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Hubballi, North Karnataka",
     h1: "Freelance software and IT developers in Hubballi for dashboards and automation",
     lede:
-      "Searching for a software development company in Hubballi and finding mostly brochure-site sellers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build business dashboards, order and dues automation, custom software, apps, cloud setups and search-ready websites for Hubballi–Dharwad traders, manufacturers, transporters and institutes, and we hand every login back to you.",
+      "Searching for a software development team in Hubballi and finding mostly brochure-site sellers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build business dashboards, order and dues automation, custom software, apps, cloud setups and search-ready websites for Hubballi–Dharwad traders, manufacturers, transporters and institutes, and we hand every login back to you.",
     pills: ["Owner dashboards", "Dues and order automation", "Custom software from ₹60,000", "Kannada-ready interfaces", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Hubballi remotely, an alternative to hiring a software development company in Hubballi. Dashboards and custom software start at ₹60,000 (6 to 12 weeks), WhatsApp and AI automation at ₹40,000 (2 to 4 weeks), and business websites at ₹10,000 (1 to 2 weeks). Itemised quotes follow in about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Hubballi remotely, an alternative to hiring a software development team in Hubballi. Dashboards and custom software start at ₹60,000 (6 to 12 weeks), WhatsApp and AI automation at ₹40,000 (2 to 4 weeks), and business websites at ₹10,000 (1 to 2 weeks). Itemised quotes follow in about two working days.",
   snapshot: [
     { label: "Commercial role", value: "North Karnataka's main trading hub, supplying districts such as Haveri, Gadag, Koppal and Uttara Kannada" },
     { label: "Industrial areas", value: "Gokul Road and Tarihal industrial areas in Hubballi, and the Belur industrial area on the Dharwad side" },
@@ -79,14 +79,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-hubballi",
-      heading: "Freelance developers or a software development company in Hubballi?",
+      heading: "Freelance developers or a software development team in Hubballi?",
       paragraphs: [
-        "Pick a software development company in Hubballi when you need a big team, on-site staff or a long enterprise contract. Pick freelance developers when the job is a focused tool, dashboard, automation or website and you want lower overheads and direct contact with the engineers. Most traders, factories and institutes in the twin cities fit the second case.",
+        "Pick a software development team in Hubballi when you need a big team, on-site staff or a long enterprise contract. Pick freelance developers when the job is a focused tool, dashboard, automation or website and you want lower overheads and direct contact with the engineers. Most traders, factories and institutes in the twin cities fit the second case.",
         "We are honest about the limits. Three engineers can build and support a well-scoped system very well, but we will not pretend to be a hundred-seat operation, and we do not subcontract your project to strangers. If your scope is too big for us, we tell you before you pay anything.",
       ],
       list: [
         "Freelance group: published starting prices, direct engineer access, fast changes, limited capacity",
-        "Software company: more staff and process, higher overhead, slower approvals",
+        "Software team: more staff and process, higher overhead, slower approvals",
         "Always ask for: written scope, milestone payments, and accounts in your own name",
       ],
     },
@@ -199,17 +199,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-hubballi",
-      heading: "What does a software development company in Hubballi charge compared with us?",
+      heading: "What does a software development team in Hubballi charge compared with us?",
       paragraphs: [
-        "A software development company in Hubballi typically prices in office costs and sales staff, while our starting prices are published: websites ₹10,000, SEO websites with 700+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software and dashboards ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. The full table is on our <a href='/pricing/'>pricing page</a>.",
+        "A software development team in Hubballi typically prices in office costs and sales staff, while our starting prices are published: websites ₹10,000, SEO websites with 700+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software and dashboards ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. The full table is on our <a href='/pricing/'>pricing page</a>.",
         "What changes the final figure: number of users and roles, number of reports, Tally or other integrations, data migration and design work. Every quote is itemised so you can remove a module. Payment is in INR, by UPI QR or bank transfer only, in milestones after you review work on staging.",
       ],
     },
     {
       id: "evaluate-software-company-hubballi",
-      heading: "How to evaluate a software development company in Hubballi before paying an advance",
+      heading: "How to evaluate a software development team in Hubballi before paying an advance",
       paragraphs: [
-        "Evaluate a software development company in Hubballi, or any freelancer, by checking five things before paying: who writes the code, what the written scope says, whose name the accounts are in, how you will see progress, and what support follows launch. A cheap quote that fails any of these usually costs more later.",
+        "Evaluate a software development team in Hubballi, or any freelancer, by checking five things before paying: who writes the code, what the written scope says, whose name the accounts are in, how you will see progress, and what support follows launch. A cheap quote that fails any of these usually costs more later.",
       ],
       list: [
         "Talk directly to the developer who will build your system",
@@ -255,7 +255,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Hubballi or Dharwad?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, without an office in Hubballi or Dharwad. We run projects over WhatsApp, calls, video meetings and shared documents, and you review progress on a live staging link. Most owners find this faster than arranging office visits." },
-    { question: "Which is the best software company in Hubballi?", answer: "It depends on your project. A larger software company in Hubballi suits big, long contracts; a freelance group suits dashboards, automation, custom tools and websites where you want to speak to the engineer directly. Compare written scopes, ownership terms, support periods and live work before deciding, not directory rankings." },
+    { question: "Which is the best software team in Hubballi?", answer: "It depends on your project. A larger software company in Hubballi suits big, long contracts; a freelance group suits dashboards, automation, custom tools and websites where you want to speak to the engineer directly. Compare written scopes, ownership terms, support periods and live work before deciding, not directory rankings." },
     { question: "How much does a business dashboard cost?", answer: "Dashboards fall under our custom software work, which starts at ₹60,000. A simple dashboard on clean Tally or Excel data can sit near or below that; a multi-branch dashboard with several sources costs more. You receive an itemised quote about two working days after a short call." },
     { question: "How long do projects take?", answer: "Websites take one to two weeks, AI and WhatsApp automation two to four weeks, ecommerce four to eight weeks, and custom software or dashboards six to twelve weeks. Quick feedback and ready data shorten timelines. You follow progress on staging the whole time." },
     { question: "How do we pay you?", answer: "Only by UPI, scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not accept payments through gateways or payment links. Work is split into milestones, and you pay each stage after reviewing it on the staging site." },

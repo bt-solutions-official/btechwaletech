@@ -10,12 +10,12 @@ const kapadvanj: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Kapadvanj traders, GIDC units, dairy suppliers, clinics and schools.",
     keywords: [
       "IT services in Kapadvanj",
-      "IT company in Kapadvanj",
-      "website development company in Kapadvanj",
+      "IT services team in Kapadvanj",
+      "website development team in Kapadvanj",
       "web design in Kapadvanj",
-      "app development company in Kapadvanj",
+      "app development team in Kapadvanj",
       "Android app development in Kapadvanj",
-      "software company in Kapadvanj",
+      "software team in Kapadvanj",
       "SEO services in Kapadvanj",
       "digital marketing in Kapadvanj",
       "ecommerce website in Kapadvanj",
@@ -70,7 +70,7 @@ const kapadvanj: CityContent = {
         "Kapadvanj was a cloth market long before it was a taluka headquarters. Its name is usually read as the place of cloth merchants, and the trade that came inland from the old port of Cambay made it prosperous in the time of the Solanki king Jayasimha Siddharaja. Today it serves as the market for villages across the taluka and for buyers from the Balasinor, Dakor and Modasa side.",
         "Requests for <strong>IT services in Kapadvanj</strong> reflect that trading character. A cloth or saree shop wants its stock seen by customers outside the town. A small unit in the GIDC estate wants a catalogue it can send to buyers in Ahmedabad. A clinic wants its timings correct on Google Maps. A school wants parents to get notices without twenty WhatsApp groups. A dealer wants to see who owes what at the end of the month.",
         "We handle these as a remote team of three. Ankur Kumar builds full-stack websites and apps, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. We do not have an office in Kapadvanj or in Kheda district, and we state that clearly. The work runs on WhatsApp, calls and screen sharing, with previews you can open on your phone.",
-        "When you compare an <strong>IT company in Kapadvanj</strong>, Nadiad or Ahmedabad with a remote team, ask each one for a written list of what is included, whose name the domain will carry and what support looks like after launch. Our answers are below, and our starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
+        "When you compare an <strong>IT services team in Kapadvanj</strong>, Nadiad or Ahmedabad with a remote team, ask each one for a written list of what is included, whose name the domain will carry and what support looks like after launch. Our answers are below, and our starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
     },
     {
@@ -85,20 +85,20 @@ const kapadvanj: CityContent = {
     },
     {
       id: "gidc-small-units-kapadvanj",
-      heading: "Website development company in Kapadvanj for GIDC and small manufacturing units",
+      heading: "Website development team in Kapadvanj for GIDC and small manufacturing units",
       paragraphs: [
         "Kapadvanj has a GIDC estate with small-scale units, and the taluka also has deposits of minor minerals such as bentonite. Workshops doing fabrication, agro-processing, packaging and job work sell mostly to buyers they already know. New buyers, however, look for a website before placing a first order, and a unit with only a phone number struggles to look established.",
-        "As a <strong>website development company in Kapadvanj</strong> clients reach by WhatsApp and phone, we build clear industrial websites: products or processes with photographs, capacities where you are comfortable sharing them, machinery list, quality checks, the industries you serve and a contact form that asks for quantity and delivery location. A downloadable PDF catalogue helps buyers who forward it inside their own company.",
+        "As a <strong>website development team in Kapadvanj</strong> clients reach by WhatsApp and phone, we build clear industrial websites: products or processes with photographs, capacities where you are comfortable sharing them, machinery list, quality checks, the industries you serve and a contact form that asks for quantity and delivery location. A downloadable PDF catalogue helps buyers who forward it inside their own company.",
         "We write this content in English for procurement teams, with Gujarati alongside where local suppliers or workers need it. We never invent certifications, client names or capacities; if you hold a certificate, we show it, and if you do not, we leave it out. A static site of this kind starts at ₹10,000 and is described on our <a href=\"/services/web-development/\">website development</a> page.",
         "For units with regular repeat orders, a small order and dispatch register helps: order date, item, quantity, job-work status, dispatch and payment. Built as a web app it starts at ₹60,000 and can connect to the spreadsheets you already keep.",
       ],
     },
     {
       id: "dairy-farm-suppliers-kapadvanj",
-      heading: "Software company in Kapadvanj for dairy, farm inputs and agri dealers",
+      heading: "Software team in Kapadvanj for dairy, farm inputs and agri dealers",
       paragraphs: [
         "Kheda district is the home ground of India's cooperative dairy movement, and milk collection is part of daily life in the villages around Kapadvanj. Alongside it are cotton, millet and pulses in the fields, and a network of cattle feed dealers, fertiliser and seed shops, tractor workshops and veterinary suppliers in the town that serve farmers throughout the year.",
-        "As a <strong>software company in Kapadvanj</strong> accessible on WhatsApp, we build tools that fit how these businesses work. A dealer ledger tracks credit given to each farmer and what has been repaid. A stock tool warns when fast items such as a feed brand or a seed variety run low before the season. A delivery register lists which villages were served on which day and what was collected.",
+        "As a <strong>software team in Kapadvanj</strong> accessible on WhatsApp, we build tools that fit how these businesses work. A dealer ledger tracks credit given to each farmer and what has been repaid. A stock tool warns when fast items such as a feed brand or a seed variety run low before the season. A delivery register lists which villages were served on which day and what was collected.",
         "We do not connect to any cooperative society's internal systems unless the society itself gives access. What we build sits with your business, on hosting in your name, and exports to Excel whenever your accountant asks. Custom software starts at ₹60,000 and usually takes six to twelve weeks; simpler ledgers can be done faster.",
         "For shops that only need to be found, a Gujarati website with product brands, timings and a map, supported by a correct Google listing, often brings enough new customers without any software at all.",
       ],
@@ -118,7 +118,7 @@ const kapadvanj: CityContent = {
       heading: "Android app development in Kapadvanj and when a website is enough",
       paragraphs: [
         "An app is worth building when the same customers return often. In Kapadvanj that might be a grocery or dairy products shop with regular home delivery, a school sending daily notices and homework, a tuition class with tests and notes, or a distributor whose salesmen take orders from retailers across the taluka.",
-        "As an <strong>app development company in Kapadvanj</strong> customers reach remotely, we build Android and iOS apps with Flutter or React Native from one codebase. Common features are phone number login, product lists, order history, push notifications, attendance or notices, and an admin panel you open in a browser. Android covers most local users, while an iOS version helps when customers include relatives in cities or overseas.",
+        "As an <strong>app development team in Kapadvanj</strong> customers reach remotely, we build Android and iOS apps with Flutter or React Native from one codebase. Common features are phone number login, product lists, order history, push notifications, attendance or notices, and an admin panel you open in a browser. Android covers most local users, while an iOS version helps when customers include relatives in cities or overseas.",
         "Apps start at ₹40,000. A focused ordering or notice app typically takes four to eight weeks. We publish on Google Play and the App Store under developer accounts registered in your business's name, so reviews, downloads and updates remain under your control.",
         "If your customers mostly visit once, a good website and WhatsApp are enough, and we will say so. When an app does make sense later, the website's product data and admin panel can feed it directly. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
       ],
@@ -165,7 +165,7 @@ const kapadvanj: CityContent = {
     },
     {
       id: "remote-team-kapadvanj",
-      heading: "How a remote IT company works with Kapadvanj clients",
+      heading: "How a remote IT services team works with Kapadvanj clients",
       paragraphs: [
         "We have no office in Kapadvanj, so here is how the work actually runs. You message us on WhatsApp or book a call and explain the business. We send a written, itemised quote. After you approve it, we share a timeline and begin. Each stage reaches you as a preview link on your phone, and you tell us what to change.",
         "We reply on WhatsApp seven days a week in Indian hours, and calls can be set for evenings if the shop keeps you busy. You can send content as Gujarati voice notes, photographs of a price list or visiting card, or pictures of your products, and we turn them into clean pages for your approval.",
@@ -223,7 +223,7 @@ const kapadvanj: CityContent = {
         "With us a static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website of 700+ pages starts at ₹20,000 and an online store at ₹50,000. These are starting prices only; the written quote lists every item and changes only with the features you choose.",
     },
     {
-      question: "Which is a good website development company in Kapadvanj?",
+      question: "Which is a good website development team in Kapadvanj?",
       answer:
         "Look for one that gives a written scope, registers the domain and hosting in your name and supports the site after launch. Compare local designers, Nadiad or Ahmedabad agencies and remote teams on those points. We meet all three, and our starting prices and process are published on this site.",
     },

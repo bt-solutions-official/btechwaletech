@@ -10,12 +10,12 @@ const mandi: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Mandi hotels, temple-town shops, orchard traders, clinics and coaching centres in Himachal.",
     keywords: [
       "IT services in Mandi",
-      "IT company in Mandi",
-      "website development company in Mandi",
+      "IT services team in Mandi",
+      "website development team in Mandi",
       "web design in Mandi",
-      "app development company in Mandi",
+      "app development team in Mandi",
       "Android app development in Mandi",
-      "software company in Mandi",
+      "software team in Mandi",
       "SEO services in Mandi",
       "digital marketing in Mandi",
       "ecommerce website in Mandi",
@@ -74,10 +74,10 @@ const mandi: CityContent = {
     },
     {
       id: "hotels-highway-mandi",
-      heading: "Website development company in Mandi for hotels, homestays and highway dhabas",
+      heading: "Website development team in Mandi for hotels, homestays and highway dhabas",
       paragraphs: [
         "Much of Mandi's visitor traffic is passing through. Families and groups heading to Kullu, Manali and Lahaul stop for a night, a meal or a break, and many search for a room only once they are already on the road. Others come specifically for the Shivaratri fair, for Rewalsar lake, or for treks and drives to Prashar, Barot, Kamrunag and Shikari Devi. Each group searches differently.",
-        "A <strong>website development company in Mandi</strong> working with hotels should build for that phone-in-hand traveller. The site needs room photographs that match reality, clear tariffs or tariff ranges, parking details for cars and tempo travellers, distance from the highway, a map link, and a booking request form or WhatsApp button that works in one tap. Check-in times, pet policies and meal plans prevent many late-night calls.",
+        "A <strong>website development team in Mandi</strong> working with hotels should build for that phone-in-hand traveller. The site needs room photographs that match reality, clear tariffs or tariff ranges, parking details for cars and tempo travellers, distance from the highway, a map link, and a booking request form or WhatsApp button that works in one tap. Check-in times, pet policies and meal plans prevent many late-night calls.",
         "For homestays in villages around the town, we build smaller sites that tell guests what to expect: the road condition in the last stretch, whether there is mobile signal, what food is served and which season suits a visit. A booking calendar that blocks dates you have already sold on other portals stops double bookings, and it can be added when you are ready. Hotel sites of this kind start at ₹10,000 for a static build.",
       ],
     },
@@ -110,19 +110,19 @@ const mandi: CityContent = {
     },
     {
       id: "clinics-nerchowk",
-      heading: "Software company in Mandi for hospitals, clinics and diagnostic centres",
+      heading: "Software team in Mandi for hospitals, clinics and diagnostic centres",
       paragraphs: [
         "Patients travel to Mandi town and Nerchowk from across the district, often by bus over several hours. A wasted trip because a specialist is on leave, or a test needs fasting that nobody mentioned, costs them a full day. Clinics, dental practices, physiotherapy centres, labs and pharmacies that publish accurate information save their patients that trouble and get fewer confused calls.",
-        "As a <strong>software company in Mandi</strong> for healthcare, we keep things simple and careful. We build doctor and department pages with OPD days, a WhatsApp appointment request flow that gives a token time, lab test pages with preparation instructions, and report download with a secure login. Where a clinic wants it, a small patient register or billing tool can replace paper files.",
+        "As a <strong>software team in Mandi</strong> for healthcare, we keep things simple and careful. We build doctor and department pages with OPD days, a WhatsApp appointment request flow that gives a token time, lab test pages with preparation instructions, and report download with a secure login. Where a clinic wants it, a small patient register or billing tool can replace paper files.",
         "We do not make medical claims on your behalf, and we do not publish patient photographs or testimonials without written consent. Pages are reviewed by the doctor before they go live. Custom tools such as appointment and billing systems start at ₹60,000 and are built in stages over six to twelve weeks, so you can start using the most important part first.",
       ],
     },
     {
       id: "transport-traders-mandi",
-      heading: "IT company in Mandi for transporters, orchard agents and hardware dealers",
+      heading: "IT services team in Mandi for transporters, orchard agents and hardware dealers",
       paragraphs: [
         "Mandi's position on the highway between the plains and the Kullu valley makes it a base for taxi operators, tempo travellers, goods carriers and bus agents. The district also has fruit commission agents who move crates during the apple season, cement, steel and hardware dealers supplying construction across the hills, and industrial units in the Ratti and Bhambla area.",
-        "An <strong>IT company in Mandi</strong> can help these businesses with records rather than marketing. For a taxi operator, that means a booking sheet that drivers update from their phones and a page with fixed routes and fare ranges for Manali, Rewalsar, Shimla and Chandigarh. For a fruit agent, it means crate counts per grower, dispatch slips and payment dues in one view. For a hardware dealer, stock by item and credit given to contractors.",
+        "An <strong>IT services team in Mandi</strong> can help these businesses with records rather than marketing. For a taxi operator, that means a booking sheet that drivers update from their phones and a page with fixed routes and fare ranges for Manali, Rewalsar, Shimla and Chandigarh. For a fruit agent, it means crate counts per grower, dispatch slips and payment dues in one view. For a hardware dealer, stock by item and credit given to contractors.",
         "We start with the one record that causes the most arguments or lost money, and build that first. A trip or dispatch register often pays for itself in one season. Custom software begins at ₹60,000, and we can link it to Tally so your accountant does not have to enter everything twice.",
       ],
     },
@@ -131,7 +131,7 @@ const mandi: CityContent = {
       heading: "Android app development in Mandi, with iOS apps for the same users",
       paragraphs: [
         "An app earns its cost when the same people open it again and again. In Mandi, good cases are a coaching institute whose students need timetables, test results and notices; a hospital or lab whose patients book tokens and download reports; a taxi or tempo traveller operator taking bookings from repeat customers; a school sending fee reminders; or a distributor taking orders from shops in Sundernagar, Sarkaghat and Joginder Nagar.",
-        "As an <strong>app development company in Mandi</strong> that works remotely, we build in Flutter or React Native, so one codebase covers both Android phones and iPhones. A first version usually has mobile number login with OTP, push notifications, the few screens your users actually need, and an admin panel where your staff update content. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Mandi</strong> that works remotely, we build in Flutter or React Native, so one codebase covers both Android phones and iPhones. A first version usually has mobile number login with OTP, push notifications, the few screens your users actually need, and an admin panel where your staff update content. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Mandi</strong> with us starts at ₹40,000. Payment features, offline mode for areas with patchy signal, maps and tracking, and integrations with existing software add to the cost, and each is priced on its own line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the build is staged.",
         "If your customers only want your phone number, rates and location, a website does that for a quarter of the price. We will recommend the website in that case, because an app that is installed once and never opened again is a poor use of your money.",
       ],
@@ -223,7 +223,7 @@ const mandi: CityContent = {
         "A static hotel website usually goes live one to two weeks after we receive your room photographs, tariffs and policies. Adding a booking calendar or payment takes longer. A 700+ page SEO site needs three to five weeks and an online store four to eight weeks. Ready content is the biggest factor.",
     },
     {
-      question: "Which is the best website development company in Mandi?",
+      question: "Which is the best website development team in Mandi?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask each option the same questions. We meet those tests and reply on WhatsApp every day, but comparing two or three providers before you decide is sensible.",
     },

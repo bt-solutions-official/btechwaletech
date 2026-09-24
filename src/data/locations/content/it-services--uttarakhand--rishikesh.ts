@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance App & AI Developers in Rishikesh",
     description:
-      "Comparing a software development company in Rishikesh? Our freelance team builds YTT course systems, rafting bookings, retreat software and AI automation.",
+      "Comparing a software development team in Rishikesh? Our freelance team builds YTT course systems, rafting bookings, retreat software and AI automation.",
     keywords: [
-      "software development company in Rishikesh",
-      "IT company in Rishikesh",
+      "software development team in Rishikesh",
+      "IT services team in Rishikesh",
       "IT solutions Rishikesh",
       "freelance developer Rishikesh",
       "yoga teacher training booking software",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Rishikesh · Uttarakhand · Freelance software for wellness and adventure",
     h1: "Freelance app and AI developers in Rishikesh for yoga schools, retreats and adventure operators",
     lede:
-      "Plenty of people search for a software development company in Rishikesh when what they really need is a course-booking system that handles deposits from abroad, a rafting slot planner or an assistant that answers students at 3 a.m. Indian time. BtechWaleTech is a freelance group of three engineers working remotely from India, building exactly those systems, plus dashboards, apps and SEO, at published starting prices.",
+      "Plenty of people search for a software development team in Rishikesh when what they really need is a course-booking system that handles deposits from abroad, a rafting slot planner or an assistant that answers students at 3 a.m. Indian time. BtechWaleTech is a freelance group of three engineers working remotely from India, building exactly those systems, plus dashboards, apps and SEO, at published starting prices.",
     pills: ["Course systems from ₹60,000", "AI assistants from ₹40,000", "English-first, global-ready", "Rafting slot booking", "Five months' free upkeep"],
   },
   quickAnswer:
@@ -73,7 +73,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-rishikesh",
-      heading: "Freelance developers vs a software development company in Rishikesh: what suits a yoga school or camp?",
+      heading: "Freelance developers vs a software development team in Rishikesh: what suits a yoga school or camp?",
       paragraphs: [
         "A freelance team usually suits Rishikesh yoga schools, retreats and adventure camps better than a large software development company, because these businesses need close, fast collaboration on a focused system rather than a big team. BtechWaleTech is a freelance group of three engineers, so you speak with the developers directly and pay for engineering, not overhead.",
         "The difference shows up during a season. When a batch fills early and you need a waitlist by tomorrow, or rafting stops for monsoon and every booking must shift, a small team can change the system the same week. Larger companies can offer more people and formal contracts, which is useful for multi-city chains, but they tend to route small changes through tickets and project managers.",
@@ -258,9 +258,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company in Rishikesh?",
+      question: "Are you a software development team in Rishikesh?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India. We are not a company and have no office in Rishikesh. Schools, retreats and operators in Rishikesh work with us over WhatsApp, video calls and live preview links, dealing directly with the developers.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India. Schools, retreats and operators in Rishikesh work with us over WhatsApp, video calls and live preview links, dealing directly with the developers.",
     },
     {
       question: "How do we pay your fees?",

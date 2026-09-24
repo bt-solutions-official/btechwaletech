@@ -13,10 +13,10 @@ const content: CityContent = {
       "iOS app development Panaji",
       "mobile app developers Panaji",
       "iPhone app developers Panjim",
-      "software development company in Panaji",
-      "IT company in Panaji",
+      "software development team in Panaji",
+      "IT services team in Panaji",
       "IT solutions Panaji",
-      "software company in Panjim",
+      "software team in Panjim",
       "custom software development Panjim",
       "billing and inventory software Panaji",
       "web application developers Panaji",
@@ -26,11 +26,11 @@ const content: CityContent = {
       "cloud hosting and AWS setup Panaji",
       "dashboard developer Panjim",
       "IT support for offices Patto Plaza",
-      "software company near me Panjim",
+      "software team near me Panjim",
       "software developer near Miramar Dona Paula",
       "CA office software Panaji",
       "event ticketing app Panaji",
-      "Ponnje software company",
+      "Ponnje software team",
       "पणजीत सॉफ्टवेअर कंपनी",
     ],
   },
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Panaji (Panjim) · Tiswadi, North Goa",
     h1: "Freelance software developers in Panaji for billing, web apps, AI agents and cloud",
     lede:
-      "Looking for a software development company in Panaji? BtechWaleTech is a freelance group of three independent engineers working remotely from India. As freelance software developers in Panaji we write custom billing and inventory systems, client portals, progressive web apps, AI agents and WhatsApp automations for firms in Goa's capital. Offices at Patto, shops on 18th June Road, hotel groups in Miramar and event organisers along the Mandovi get published starting prices, full code ownership and engineers who answer WhatsApp every day.",
+      "Looking for a software development team in Panaji? BtechWaleTech is a freelance group of three independent engineers working remotely from India. As freelance software developers in Panaji we write custom billing and inventory systems, client portals, progressive web apps, AI agents and WhatsApp automations for firms in Goa's capital. Offices at Patto, shops on 18th June Road, hotel groups in Miramar and event organisers along the Mandovi get published starting prices, full code ownership and engineers who answer WhatsApp every day.",
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Billing and inventory tools", "Cloud hosting in your name", "UPI QR or bank transfer"],
   },
   quickAnswer:
@@ -199,16 +199,16 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-panaji",
-      heading: "Freelance developers or an IT company in Panaji: a checklist for owners",
+      heading: "Freelance developers or an IT services team in Panaji: a checklist for owners",
       paragraphs: [
-        "Whether you hire freelance developers or an IT company in Panaji, the right choice is the one that shows you working software early, gives you ownership of everything and answers quickly when something breaks. Size and office address matter far less than these three things, and you can test all of them before you sign.",
+        "Whether you hire freelance developers or an IT services team in Panaji, the right choice is the one that shows you working software early, gives you ownership of everything and answers quickly when something breaks. Size and office address matter far less than these three things, and you can test all of them before you sign.",
         "Ask for a preview link within the first two weeks, not just slides. Confirm in writing that the domain, hosting, source code and app-store accounts will be in your name. Ask who will actually write the code and whether you can message that person directly. Request a sample handover document. Check what happens after launch: who fixes bugs, how fast, and at what cost after any free period ends.",
         "We are transparent about our own limits. BtechWaleTech is a freelance group of three remote engineers, described on our <a href='/about/'>about page</a>, and we do not have an office in Panaji. That suits clients who value direct contact with engineers and lower overheads, and it may not suit a large organisation that needs on-site staff every day. You can see examples on our <a href='/portfolio/'>portfolio</a> and compare nearby markets on the <a href='/it-services/goa/'>Goa IT services hub</a> or the <a href='/it-services/goa/margao/'>Margao page</a>.",
       ],
     },
     {
       id: "local-vs-remote-panaji",
-      heading: "Software company in Panjim or a remote freelance team: which is better?",
+      heading: "Software team in Panjim or a remote freelance team: which is better?",
       paragraphs: [
         "A local software company in Panjim is better if you need people physically in your office often, and a remote freelance team is usually better value when most work happens on screens and calls anyway. Most software projects now fit the second pattern, which is why many Goan firms already work with developers in Pune, Bengaluru or abroad.",
         "What makes remote work succeed is process, not proximity. We share a weekly progress update, keep a single shared task list, demo working features on video calls and keep every decision in writing. Clients in Panaji have the same access to the engineers as someone in the next room, just through WhatsApp and video instead of a meeting room at Patto.",
@@ -247,9 +247,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software development company based in Panaji?",
+      question: "Is BtechWaleTech a software development team based in Panaji?",
       answer:
-        "No on both counts. BtechWaleTech is a freelance group of three independent engineers, not a company, working remotely from India, and we do not have an office or staff in Panaji. We work with Panaji clients through WhatsApp, calls and video meetings, share preview links as the software is built, and keep every document in shared folders. Because there is no office rent in our costs, our starting prices stay lower than many agencies.",
+        "No on both counts. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we do not have an office or staff in Panaji. We work with Panaji clients through WhatsApp, calls and video meetings, share preview links as the software is built, and keep every document in shared folders. Because there is no office rent in our costs, our starting prices stay lower than many agencies.",
     },
     {
       question: "How much does custom billing or inventory software cost in Panaji?",

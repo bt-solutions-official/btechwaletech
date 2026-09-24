@@ -10,12 +10,12 @@ const saunda: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Saunda and Bhurkunda mine contractors, workshops, schools, clinics and shops.",
     keywords: [
       "IT services in Saunda",
-      "IT company in Saunda",
-      "website development company in Saunda",
+      "IT services team in Saunda",
+      "website development team in Saunda",
       "web design in Saunda",
-      "app development company in Saunda",
+      "app development team in Saunda",
       "Android app development in Saunda",
-      "software company in Saunda",
+      "software team in Saunda",
       "SEO services in Saunda",
       "digital marketing in Saunda",
       "ecommerce website in Saunda",
@@ -74,19 +74,19 @@ const saunda: CityContent = {
     },
     {
       id: "contractor-fleet-software",
-      heading: "Software company in Saunda for mine transport and labour contractors",
+      heading: "Software team in Saunda for mine transport and labour contractors",
       paragraphs: [
         "Contractors working around the Barka Sayal projects juggle a lot at once: trucks and tippers on different sites, drivers and helpers on shifts, diesel issued and consumed, tyre changes, breakdowns, labour attendance, safety documents, and bills that must match the records of the organisation that hired them. When these live in notebooks and scattered WhatsApp photos, errors and disputes follow.",
-        "As a <strong>software company in Saunda</strong> in practical terms, we build small web tools that match this routine. Each trip or shift is entered once from a phone, with vehicle, driver, site and quantity. Diesel and repair costs are logged per vehicle. Attendance feeds wages. Document expiry dates for fitness, insurance, permits and licences raise reminders a month ahead. Bills are prepared from the same data, so what you invoice agrees with what you recorded.",
+        "As a <strong>software team in Saunda</strong> in practical terms, we build small web tools that match this routine. Each trip or shift is entered once from a phone, with vehicle, driver, site and quantity. Diesel and repair costs are logged per vehicle. Attendance feeds wages. Document expiry dates for fitness, insurance, permits and licences raise reminders a month ahead. Bills are prepared from the same data, so what you invoice agrees with what you recorded.",
         "Such systems start at ₹60,000 and are built in stages over six to twelve weeks. We normally begin with the vehicle and trip register, since that is where money slips away fastest, and add wages, billing and reports afterwards. Data sits in accounts registered to you, and staff logins can be limited so a supervisor sees only his own site.",
       ],
     },
     {
       id: "workshops-suppliers",
-      heading: "Website development company in Saunda for workshops and industrial suppliers",
+      heading: "Website development team in Saunda for workshops and industrial suppliers",
       paragraphs: [
         "Underground mines, washeries and the Patratu power plant all depend on smaller firms: fabrication and welding shops, motor rewinding, hydraulic and pump repair, electrical contractors, safety equipment dealers, conveyor belt suppliers, and the tyre, battery and spare parts shops that keep vehicles moving. Many of these firms have run for decades on reputation alone.",
-        "Purchase departments and new customers now look a supplier up before they call. A <strong>website development company in Saunda</strong> should give such a firm a plain, credible site: the work you take, the machines and vehicles you own, registrations and GST details, safety practices, service area, and named contact people. It should open quickly on a desktop in an office as well as on a phone at a pit head.",
+        "Purchase departments and new customers now look a supplier up before they call. A <strong>website development team in Saunda</strong> should give such a firm a plain, credible site: the work you take, the machines and vehicles you own, registrations and GST details, safety practices, service area, and named contact people. It should open quickly on a desktop in an office as well as on a phone at a pit head.",
         "We add an enquiry form that asks for part name, size, quantity and delivery point, so each lead arrives complete. We never name a client or project on your site unless that client agrees in writing, and we avoid claims you cannot back with paperwork. A capability site like this starts at ₹10,000. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -131,7 +131,7 @@ const saunda: CityContent = {
       heading: "Android app development in Saunda, with iPhone apps from one codebase",
       paragraphs: [
         "An app is worth building when a fixed group of people will use it often. In Saunda, sensible cases include a contractor's drivers logging trips and diesel from the cab, a school or coaching class sending attendance and marks to parents, a pharmacy's regular customers re-ordering monthly medicines, or a local grocery taking orders from the colonies.",
-        "As an <strong>app development company in Saunda</strong> that works remotely, we build in Flutter or React Native, so a single codebase gives you both the Android app and the iPhone app. A first version usually has mobile number login, push notifications, the main screens your users need and a web admin panel for staff. We publish on Google Play and the Apple App Store through developer accounts registered to you.",
+        "As an <strong>app development team in Saunda</strong> that works remotely, we build in Flutter or React Native, so a single codebase gives you both the Android app and the iPhone app. A first version usually has mobile number login, push notifications, the main screens your users need and a web admin panel for staff. We publish on Google Play and the Apple App Store through developer accounts registered to you.",
         "<strong>Android app development in Saunda</strong> starts at ₹40,000. Offline entry for places with no signal, online payment, photo capture, maps and several user roles each add cost and are listed separately. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we stage the work.",
         "If customers only need your address, phone number, timings and prices, a website does that job at a fraction of the cost and nobody has to install anything. In that case we will recommend the website.",
       ],
@@ -232,7 +232,7 @@ const saunda: CityContent = {
         "Once your photos and wording reach us, a plain shop site normally takes a week or two. Larger jobs run longer: roughly a month for a 700+ page SEO build, one to two months for a store, and up to a quarter for bespoke software. Late content is the most common reason a launch slips.",
     },
     {
-      question: "Who is the best IT company in Saunda or Bhurkunda?",
+      question: "Who is the best IT services team in Saunda or Bhurkunda?",
       answer:
         "No list can answer that honestly, so judge by behaviour. A good provider tells you prices upfront, opens the domain in your name, shows sites that are live today and still picks up the phone months later. We try to pass all four, but put the same questions to a couple of other options too.",
     },

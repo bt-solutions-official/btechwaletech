@@ -9,7 +9,7 @@ const modinagar: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Modinagar schools, clinics, shops, traders and factory suppliers on the Delhi–Meerut corridor.",
     keywords: [
-      "website development company in Modinagar",
+      "website development team in Modinagar",
       "web designer Modinagar",
       "website design Modinagar Ghaziabad",
       "SEO services Modinagar",

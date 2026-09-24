@@ -9,7 +9,7 @@ const imphal: CityContent = {
     description:
       "Website design, local SEO, UPI stores and WhatsApp automation for Imphal handloom sellers, clinics, institutes and Thangal Bazar traders. From ₹10,000.",
     keywords: [
-      "website development company in Imphal",
+      "website development team in Imphal",
       "web designer Imphal",
       "website design Manipur",
       "freelance web developer Imphal",

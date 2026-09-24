@@ -9,12 +9,12 @@ const jabalpur: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Jabalpur garment units, defence suppliers, clinics, lawyers and tour operators. From ₹10,000, you own the domain and code.",
     keywords: [
-      "website development company in Jabalpur",
+      "website development team in Jabalpur",
       "website designer Jabalpur",
-      "web design company Jabalpur",
+      "web design team Jabalpur",
       "freelance web developer Jabalpur",
       "website cost in Jabalpur",
-      "SEO company Jabalpur",
+      "SEO team Jabalpur",
       "local SEO Wright Town",
       "garment manufacturer website Jabalpur",
       "ecommerce website Jabalpur",

@@ -9,7 +9,7 @@ const purnia: CityContent = {
     description:
       "Websites, Google Maps work, makhana online stores and WhatsApp automation for Purnia's maize traders, Line Bazar clinics, coaching centres and shops. Remote team.",
     keywords: [
-      "website development company in Purnia",
+      "website development team in Purnia",
       "website designer Purnea",
       "web design Purnia Bihar",
       "makhana website Purnia",

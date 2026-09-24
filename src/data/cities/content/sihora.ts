@@ -10,12 +10,12 @@ const sihora: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sihora mine suppliers, mandi traders, clinics, colleges and Jhanda Bazar shops.",
     keywords: [
       "IT services in Sihora",
-      "IT company in Sihora",
-      "website development company in Sihora",
+      "IT services team in Sihora",
+      "website development team in Sihora",
       "web design in Sihora",
-      "app development company in Sihora",
+      "app development team in Sihora",
       "Android app development in Sihora",
-      "software company in Sihora",
+      "software team in Sihora",
       "SEO services in Sihora",
       "digital marketing in Sihora",
       "ecommerce website in Sihora",
@@ -74,11 +74,11 @@ const sihora: CityContent = {
     },
     {
       id: "mining-transport-software",
-      heading: "Software company in Sihora for iron ore, laterite and dolomite operators",
+      heading: "Software team in Sihora for iron ore, laterite and dolomite operators",
       paragraphs: [
         "Mining is the part of Sihora’s economy that outsiders rarely notice. Environmental filings describe an iron ore mine of about 20 hectares at Agaria, a lease at Gandhigram covering iron ore, blue dust, laterite and yellow ochre, an iron ore deposit under the Ghugharikala revenue area, and a dolomite lease at Hardua Kala just across in Majholi tehsil. In August 2025 the Geological Survey of India reported gold ore at Mahgawan and Keolari, with traces of copper, which has brought fresh attention to the tehsil.",
         "Around these leases works a crowd of smaller businesses: tipper and truck owners, loader operators, diesel suppliers, tyre and welding shops, labour contractors and weighbridge operators. Their paperwork is heavy. Every trip has a slip, every truck has permits and insurance that expire, advances go to drivers, and payment from the buyer can take weeks.",
-        "As a <strong>software company in Sihora</strong> for this trade, we build web tools where a trip is entered once from a phone with vehicle number, slip number, weight and destination. Totals appear per truck, per lease and per buyer, dues are tracked party by party, and a reminder goes out before a fitness certificate or permit lapses. Such tools start at ₹60,000 and grow in stages over six to twelve weeks, beginning with the trip register because it pays for itself quickest. We do not handle statutory filings; the tool keeps your own records straight so those filings are easier.",
+        "As a <strong>software team in Sihora</strong> for this trade, we build web tools where a trip is entered once from a phone with vehicle number, slip number, weight and destination. Totals appear per truck, per lease and per buyer, dues are tracked party by party, and a reminder goes out before a fitness certificate or permit lapses. Such tools start at ₹60,000 and grow in stages over six to twelve weeks, beginning with the trip register because it pays for itself quickest. We do not handle statutory filings; the tool keeps your own records straight so those filings are easier.",
       ],
     },
     {
@@ -92,10 +92,10 @@ const sihora: CityContent = {
     },
     {
       id: "jhanda-bazar-retail",
-      heading: "Website development company in Sihora for Jhanda Bazar and Khitola shops",
+      heading: "Website development team in Sihora for Jhanda Bazar and Khitola shops",
       paragraphs: [
         "Shops along Jhanda Bazar, in Khitola and near the station road sell clothing, sarees, gold and silver, mobiles, electronics, utensils, furniture, hardware and farm inputs. Many of their customers come from villages such as Gunahru, Kurro, Gandhiganj, Gurji and Hargarh, and a trip into town costs them half a day. They phone before coming, and a surprising number now open Google first.",
-        "A <strong>website development company in Sihora</strong> should build shop sites that answer those calls in advance. That means a page per category with real photographs, the brands stocked, rough price ranges where the owner is comfortable, opening days including the weekly closure, and a one-tap WhatsApp link for checking whether an item is in stock. Jewellers can add a daily rate note that staff update from a phone, and furniture and electronics sellers can show delivery coverage by village.",
+        "A <strong>website development team in Sihora</strong> should build shop sites that answer those calls in advance. That means a page per category with real photographs, the brands stocked, rough price ranges where the owner is comfortable, opening days including the weekly closure, and a one-tap WhatsApp link for checking whether an item is in stock. Jewellers can add a daily rate note that staff update from a phone, and furniture and electronics sellers can show delivery coverage by village.",
         "A shop site like this starts at ₹10,000 and is usually ready within two weeks once photos arrive. We write it in Hindi first, because that is how most customers search, with English for brand and model names. If the owner later wants to take orders and payments online, the same site can grow into a store instead of being thrown away.",
       ],
     },
@@ -110,10 +110,10 @@ const sihora: CityContent = {
     },
     {
       id: "colleges-coaching-sihora",
-      heading: "IT company in Sihora for colleges, schools and coaching centres",
+      heading: "IT services team in Sihora for colleges, schools and coaching centres",
       paragraphs: [
         "Sihora’s education market includes the Government Shyam Sunder Agrawal College, the Bhavani Prasad Shukla College, several higher secondary schools and a spread of coaching classes for board exams and government recruitment tests. Students come from villages across the tehsil, and parents compare options carefully because the alternative is sending a child daily to Jabalpur.",
-        "An <strong>IT company in Sihora</strong> working with schools and institutes should cut down the calls and visits that admissions season brings. We build course and fee pages, admission forms that save straight to a sheet, notice boards the office can update from a phone, result and timetable pages, and bus route information for families in outlying villages. For coaching centres, batch timings, faculty subjects and a demo-class booking form do most of the work.",
+        "An <strong>IT services team in Sihora</strong> working with schools and institutes should cut down the calls and visits that admissions season brings. We build course and fee pages, admission forms that save straight to a sheet, notice boards the office can update from a phone, result and timetable pages, and bus route information for families in outlying villages. For coaching centres, batch timings, faculty subjects and a demo-class booking form do most of the work.",
         "When a school wants parents to receive notices, homework and fee reminders reliably, an app or WhatsApp broadcast does better than a website alone. We scope that honestly: a school of a few hundred students often manages well with WhatsApp automation from ₹40,000, while a group with several branches may justify an Android and iOS app. Either way, student data stays in accounts the institution controls.",
       ],
     },
@@ -140,7 +140,7 @@ const sihora: CityContent = {
       heading: "Android app development in Sihora, with iOS for the same users",
       paragraphs: [
         "An app earns its cost when the same people open it every week. In Sihora that describes ore truck drivers entering trips, mandi agents checking a farmer’s account, a school’s parents reading notices, a clinic’s regular patients booking tokens, and village retailers reordering from a distributor. A one-time visitor looking for your phone number does not need an app.",
-        "As an <strong>app development company in Sihora</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and on iPhones. A first release normally covers mobile-number login with OTP, push notifications, the three or four screens your users actually need, and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Sihora</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and on iPhones. A first release normally covers mobile-number login with OTP, push notifications, the three or four screens your users actually need, and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you, not to us.",
         "<strong>Android app development in Sihora</strong> with us starts at ₹40,000. The quote rises with features you choose, such as offline entry for mine areas with weak signal, maps, online payment or a link to your accounting software, and each appears as a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only want an address, timings and a price list, a website at a quarter of the price serves them better. We will say that plainly rather than build an app that is uninstalled after a week.",
       ],
@@ -241,7 +241,7 @@ const sihora: CityContent = {
         "A simple website for a Sihora shop usually goes live in one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Sihora?",
+      question: "Which is the best website development team in Sihora?",
       answer:
         "The best choice for a Sihora business is a provider that publishes starting prices, registers your domain and code in your name, tests on ordinary phones and answers after launch. Ask every option the same questions and compare written quotes. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers is sensible.",
     },

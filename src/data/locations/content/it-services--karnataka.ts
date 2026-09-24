@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Karnataka: MVPs, custom software, Android and iOS apps, AI agents, SEO and stores for Bengaluru, Mysuru, Mangaluru and Hubballi.",
     keywords: [
       "IT services in Karnataka",
-      "software development company in Karnataka",
-      "IT company in Karnataka",
+      "software development team in Karnataka",
+      "IT services team in Karnataka",
       "Android app development Karnataka",
       "iOS app development Karnataka",
       "mobile app developers Karnataka",
@@ -213,7 +213,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-karnataka",
-      heading: "Freelance team vs a software development company in Karnataka: which should you hire?",
+      heading: "Freelance team vs a software development team in Karnataka: which should you hire?",
       paragraphs: [
         "Hire a freelance team for well-defined MVPs, internal tools, apps and websites where direct access to engineers and lower overhead matter; hire a larger software development company in Karnataka for large platforms, on-site teams or long enterprise programmes. Karnataka has excellent options of both kinds, and the choice depends on scope and budget.",
         "Large IT companies bring bench strength, formal processes and specialist teams. A freelance group like BtechWaleTech brings the same three engineers from first call to support, published starting prices and fast replies, with limited capacity and no office in the state. Whatever you choose, insist on an itemised quote, ownership of code and accounts, a working test version before final payment, and written support terms.",
@@ -312,9 +312,9 @@ const content: CityContent = {
         "Yes. Because we are remote, a business in Kalaburagi, Vijayapura, Karwar, Hassan or any other district gets the same process and prices as one in Bengaluru. All you need is WhatsApp and a way to review test links. We schedule calls around your working hours.",
     },
     {
-      question: "Which is the best IT company in Karnataka for a small business?",
+      question: "Which is the best IT services team in Karnataka for a small business?",
       answer:
-        "There is no single answer; Karnataka has many capable providers. Choose based on relevant live work, itemised quotes, ownership terms, who writes the code and support after launch. We are a freelance group, not a company, and make no claims of rankings or awards. Comparing two or three options is sensible.",
+        "There is no single answer; Karnataka has many capable providers. Choose based on relevant live work, itemised quotes, ownership terms, who writes the code and support after launch. We are a small freelance group of three developers, and make no claims of rankings or awards. Comparing two or three options is sensible.",
     },
     {
       question: "How quickly can we get a quote?",

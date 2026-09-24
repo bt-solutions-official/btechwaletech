@@ -5,16 +5,16 @@ const dhanbad: CityContent = {
   updated: "2026-09-21",
   geo: { lat: 23.7957, lng: 86.4304 },
   meta: {
-    title: "Web Design & SEO Company in Dhanbad | From ₹10,000",
+    title: "Web Design & SEO Team in Dhanbad | From ₹10,000",
     description:
       "Websites, SEO, dashboards and WhatsApp automation for Dhanbad mining suppliers, coke units, transporters, clinics and coaching centres. Sites from ₹10,000.",
     keywords: [
-      "website development company in Dhanbad",
-      "web design company Dhanbad",
+      "website development team in Dhanbad",
+      "web design team Dhanbad",
       "website designer Dhanbad",
       "freelance web developer Dhanbad",
       "website cost Dhanbad",
-      "SEO company Dhanbad",
+      "SEO team Dhanbad",
       "local SEO Bank More",
       "website for mining contractor",
       "coke plant website design",

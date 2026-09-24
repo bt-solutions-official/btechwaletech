@@ -9,7 +9,7 @@ const jamalpur: CityContent = {
     description:
       "Hindi and English websites, SEO, stores and WhatsApp tools for Jamalpur railway vendors, coaching institutes, Sadar Bazar shops and clinics. Starts at ₹10,000.",
     keywords: [
-      "website development company in Jamalpur",
+      "website development team in Jamalpur",
       "web designer Jamalpur Bihar",
       "website design Jamalpur Munger",
       "website cost Jamalpur",

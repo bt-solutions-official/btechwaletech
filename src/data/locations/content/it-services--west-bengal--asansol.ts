@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & IT Developers in Asansol",
     description:
-      "Hire freelance software developers in Asansol instead of a software development company: fleet, trading and contractor software, AI bots, apps and IT support.",
+      "Hire freelance software developers in Asansol instead of a software development team: fleet, trading and contractor software, AI bots, apps and IT support.",
     keywords: [
       "iOS app development Asansol",
       "iPhone app developers Asansol",
       "Android and iOS app development Asansol",
       "mobile app developers Asansol",
-      "software development company in Asansol",
-      "IT company in Asansol",
+      "software development team in Asansol",
+      "IT services team in Asansol",
       "IT solutions Asansol",
       "freelance software developer Asansol",
       "custom software Asansol",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Asansol · Paschim Bardhaman · West Bengal",
     h1: "Freelance software developers for Asansol's transporters, traders and contractors",
     lede:
-      "If you are comparing a software development company in Asansol with other options, consider BtechWaleTech: a freelance group of three engineers working remotely from India. We write the trip, billing, stock and contractor software that coal-belt businesses actually run on, set up WhatsApp and AI automation, build dashboards and mobile apps, and look after websites, hosting and IT support long after launch.",
+      "If you are comparing a software development team in Asansol with other options, consider BtechWaleTech: a freelance group of three engineers working remotely from India. We write the trip, billing, stock and contractor software that coal-belt businesses actually run on, set up WhatsApp and AI automation, build dashboards and mobile apps, and look after websites, hosting and IT support long after launch.",
     pills: ["Software from ₹60,000", "Android and iOS apps from ₹40,000", "Sites from ₹10,000", "Hindi and Bengali screens", "Support from ₹8,000/month"],
   },
   quickAnswer:
-    "For Asansol businesses weighing a software development company, BtechWaleTech offers a freelance alternative: three remote engineers in India who build custom software from ₹60,000 (six to twelve weeks), automation from ₹40,000 (two to four weeks) and websites from ₹10,000 (one to two weeks). There is no Asansol office; itemised quotes take about two working days.",
+    "For Asansol businesses weighing a software development team, BtechWaleTech offers a freelance alternative: three remote engineers in India who build custom software from ₹60,000 (six to twelve weeks), automation from ₹40,000 (two to four weeks) and websites from ₹10,000 (one to two weeks). There is no Asansol office; itemised quotes take about two working days.",
   snapshot: [
     { label: "Economic base", value: "Coal mining and its services, steel at IISCO Burnpur, railway workshops and a large trading community along GT Road" },
     { label: "Coal administration", value: "Eastern Coalfields Limited has its headquarters at Sanctoria near Asansol, with collieries across the Raniganj coalfield" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-asansol",
-      heading: "Freelance developers or a software development company in Asansol: which should you hire?",
+      heading: "Freelance developers or a software development team in Asansol: which should you hire?",
       paragraphs: [
-        "Hire a software development company in Asansol when you need people on site every week or a large team for a big multi-year system; hire a freelance group like BtechWaleTech when you want custom software at a lower starting price, direct contact with the engineers and full ownership of the code. Both routes can work if the scope is written down clearly.",
+        "Hire a software development team in Asansol when you need people on site every week or a large team for a big multi-year system; hire a freelance group like BtechWaleTech when you want custom software at a lower starting price, direct contact with the engineers and full ownership of the code. Both routes can work if the scope is written down clearly.",
         "Directory searches for Asansol show a handful of local software and web firms, some offering packaged school, hotel or retail software and others offering custom work. Packaged software is quick to install, but trading, transport and contracting businesses in the coal belt rarely fit a standard template. Custom work fits, but only if the developer takes time to understand the business.",
         "BtechWaleTech is three engineers who work remotely from India. There is no Asansol office, no sales layer and no account manager between you and the person writing the code. That keeps costs down and conversations short. The trade-off is that meetings happen over video and WhatsApp rather than across your desk, which most owners find acceptable once they see weekly progress they can test themselves.",
       ],
@@ -198,7 +198,7 @@ const content: CityContent = {
     },
     {
       id: "cost-asansol",
-      heading: "What does a software development company in Asansol charge, and what do we charge?",
+      heading: "What does a software development team in Asansol charge, and what do we charge?",
       paragraphs: [
         "With BtechWaleTech, software development for an Asansol business starts at ₹60,000 for a custom web app, ₹40,000 for AI or WhatsApp automation or an Android and iOS app, ₹50,000 for an online store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. These are starting prices, and the quote depends on scope.",
         "The biggest cost drivers are number of user roles, integrations with Tally or WhatsApp, reports, offline mobile use and data migration from old records. We split quotes by module so you can build the most valuable part first. Changes after the scope is agreed are quoted separately in advance, never added silently to the bill.",
@@ -225,7 +225,7 @@ const content: CityContent = {
     },
     {
       id: "before-you-hire-asansol",
-      heading: "Checklist before hiring a software development company in Asansol or a freelancer",
+      heading: "Checklist before hiring a software development team in Asansol or a freelancer",
       paragraphs: [
         "Before hiring any software developer in Asansol, write the current process in simple steps, gather real sample documents, name the people who will use the system and decide the single most costly problem to solve first. This preparation shortens quoting, reduces misunderstandings and keeps the first phase affordable.",
         "Also agree in writing that the domain, hosting, code and database will belong to you, that payments follow milestones, and that support after launch has a defined scope and price. Ask for a demo of a comparable system, even a small one, and ask who exactly will write the code.",
@@ -258,9 +258,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a local Asansol company?",
+      question: "Is BtechWaleTech based in Asansol?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Asansol. We work with Asansol clients over WhatsApp, calls and screen sharing. Many owners prefer this because updates arrive quickly and no local office cost is built into the quote.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Asansol. We work with Asansol clients over WhatsApp, calls and screen sharing. Many owners prefer this because updates arrive quickly and no local office cost is built into the quote.",
     },
     {
       question: "How do I pay for a project?",

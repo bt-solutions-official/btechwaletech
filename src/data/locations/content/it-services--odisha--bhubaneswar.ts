@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Comparing software development companies in Bhubaneswar? Hire freelance engineers for MVPs, web apps, AI agents and automation. Software from ₹60,000.",
     keywords: [
-      "software development company in Bhubaneswar",
-      "IT company in Bhubaneswar",
+      "software development team in Bhubaneswar",
+      "IT services team in Bhubaneswar",
       "IT solutions Bhubaneswar",
       "freelance software developers Bhubaneswar",
       "MVP development Bhubaneswar",
@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["MVPs and SaaS builds", "Web apps from ₹60,000", "AI agents from ₹40,000", "SEO growth from ₹10,000/month", "Talk directly to engineers"],
   },
   quickAnswer:
-    "As an alternative to a software development company in Bhubaneswar, BtechWaleTech is a freelance group of three engineers building MVPs and web apps from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no local office, and include five months of maintenance.",
+    "As an alternative to a software development team in Bhubaneswar, BtechWaleTech is a freelance group of three engineers building MVPs and web apps from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no local office, and include five months of maintenance.",
   snapshot: [
     { label: "IT clusters", value: "Infocity and Infovalley IT SEZs, DLF Cyber City and IT towers around Patia and Chandaka" },
     { label: "Large IT employers", value: "Development centres of national IT services firms such as Infosys, TCS and Wipro, alongside hundreds of smaller firms" },
@@ -71,10 +71,10 @@ const content: CityContent = {
   sections: [
     {
       id: "company-vs-freelance-bhubaneswar",
-      heading: "Software development company in Bhubaneswar or freelance developers: which fits your project?",
+      heading: "Software development team in Bhubaneswar or freelance developers: which fits your project?",
       paragraphs: [
-        "A software development company in Bhubaneswar fits projects that need large teams, formal procurement, on-site presence or long-term staffing, while freelance developers fit focused builds such as MVPs, internal tools, automation and websites, where direct access to senior engineers and lower overheads matter most. Many Bhubaneswar startups and SMEs fall into the second group.",
-        "BtechWaleTech is a freelance group, not a company. Three engineers work remotely from India, with no office at Infocity or anywhere else. That means no bench costs or sales commissions in the quote, and no hand-off from a senior person who wins the deal to a junior who builds it. The engineer on your first call is the engineer writing your code.",
+        "A software development team in Bhubaneswar fits projects that need large teams, formal procurement, on-site presence or long-term staffing, while freelance developers fit focused builds such as MVPs, internal tools, automation and websites, where direct access to senior engineers and lower overheads matter most. Many Bhubaneswar startups and SMEs fall into the second group.",
+        "BtechWaleTech is a small freelance group. Three engineers work remotely from India, with no office at Infocity or anywhere else. That means no bench costs or sales commissions in the quote, and no hand-off from a senior person who wins the deal to a junior who builds it. The engineer on your first call is the engineer writing your code.",
         "The trade-offs are real. We cannot staff twenty developers on your product, sit in your office or bid on tenders that require a registered company. If those are requirements, a larger firm is the right choice. If what you need is a well-scoped product built properly and supported afterwards, a freelance team is often the better fit.",
       ],
       list: [
@@ -232,7 +232,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a Bhubaneswar software company?",
+      question: "Is BtechWaleTech a Bhubaneswar software team?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Bhubaneswar. We work with Bhubaneswar clients through calls, video, WhatsApp and weekly staging links. You deal directly with the engineers building your product, and you receive all code, accounts and documentation at handover.",
     },

@@ -9,7 +9,7 @@ const aurangabad: CityContent = {
     description:
       "Websites, SEO and AI automation for Aurangabad (Chhatrapati Sambhajinagar) MIDC suppliers, hotels near Ellora, Paithani sellers and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Aurangabad",
+      "website development team in Aurangabad",
       "web design Chhatrapati Sambhajinagar",
       "website developer Sambhajinagar",
       "SEO services Aurangabad",

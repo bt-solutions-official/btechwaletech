@@ -9,7 +9,7 @@ const lakhisarai: CityContent = {
     description:
       "Websites, Hindi local SEO and WhatsApp tools for Lakhisarai coaching centres, clinics, traders, builders and Ashok Dham area shops. Sites from ₹10,000, code yours.",
     keywords: [
-      "website development company in Lakhisarai",
+      "website development team in Lakhisarai",
       "website designer Lakhisarai",
       "website banane wala Lakhisarai",
       "Lakhisarai website cost",

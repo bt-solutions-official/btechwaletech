@@ -10,12 +10,12 @@ const srivilliputhur: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Srivilliputhur palkova makers, handloom weavers, temple-town hotels and schools.",
     keywords: [
       "IT services in Srivilliputhur",
-      "IT company in Srivilliputhur",
-      "website development company in Srivilliputhur",
+      "IT services team in Srivilliputhur",
+      "website development team in Srivilliputhur",
       "web design in Srivilliputhur",
-      "app development company in Srivilliputhur",
+      "app development team in Srivilliputhur",
       "Android app development in Srivilliputhur",
-      "software company in Srivilliputhur",
+      "software team in Srivilliputhur",
       "SEO services in Srivilliputhur",
       "digital marketing in Srivilliputhur",
       "ecommerce website in Srivilliputhur",
@@ -102,28 +102,28 @@ const srivilliputhur: CityContent = {
     },
     {
       id: "forest-foothill-tourism",
-      heading: "IT company in Srivilliputhur for foothill tourism and nature visitors",
+      heading: "IT services team in Srivilliputhur for foothill tourism and nature visitors",
       paragraphs: [
         "The hills west of the town hold the grizzled giant squirrel habitat and form part of the Srivilliputhur–Megamalai Tiger Reserve. Nature lovers, birdwatchers and school groups come to the area, and entry to the forest is controlled by the Forest Department, so visitors need accurate, lawful information.",
-        "As an <strong>IT company in Srivilliputhur</strong>, we build sites for homestays, drivers and guides that explain what is permitted, how to reach the forest entry points, which seasons suit a visit and what else is nearby, such as Watrap and the temples in town. We do not publish claims about sightings or activities that the forest rules do not allow.",
+        "As an <strong>IT services team in Srivilliputhur</strong>, we build sites for homestays, drivers and guides that explain what is permitted, how to reach the forest entry points, which seasons suit a visit and what else is nearby, such as Watrap and the temples in town. We do not publish claims about sightings or activities that the forest rules do not allow.",
         "For a small operator, a ₹10,000 site in Tamil and English with a WhatsApp enquiry button and an accurate Maps listing is enough. Operators who run fixed tours can add a booking form with group size, date and pickup point, which saves several calls per enquiry.",
       ],
     },
     {
       id: "retail-wholesale-srivilliputhur",
-      heading: "Website development company in Srivilliputhur for retail and wholesale traders",
+      heading: "Website development team in Srivilliputhur for retail and wholesale traders",
       paragraphs: [
         "Srivilliputhur's shops serve a wide ring of villages: textiles, jewellery, groceries, farm inputs, hardware, mobile phones and household goods. Wholesalers supply smaller shops in villages towards Watrap, Krishnankoil and Mamsapuram, and many trade relationships have run for decades on trust and credit.",
-        "A <strong>website development company in Srivilliputhur</strong> should give these traders tools that fit how they already work. For retailers, that means a website with categories, timings and a WhatsApp link for price checks. For wholesalers, a product list for regular buyers, a simple order form, and a credit register that shows what each shop owes and when it was last paid.",
+        "A <strong>website development team in Srivilliputhur</strong> should give these traders tools that fit how they already work. For retailers, that means a website with categories, timings and a WhatsApp link for price checks. For wholesalers, a product list for regular buyers, a simple order form, and a credit register that shows what each shop owes and when it was last paid.",
         "These can be introduced one at a time. Start with the website and Maps listing, see whether new customers arrive, then add ordering or credit tracking if it saves real time. Our <a href=\"/services/web-development/\">web development page</a> explains what a first site includes.",
       ],
     },
     {
       id: "schools-colleges-srivilliputhur",
-      heading: "Software company in Srivilliputhur for schools, colleges and hospitals",
+      heading: "Software team in Srivilliputhur for schools, colleges and hospitals",
       paragraphs: [
         "The town has schools, arts and science colleges, teacher training institutes and coaching centres, and Kalasalingam Academy of Research and Education at Krishnankoil, about 10 km north, brings a large student population to the area. Hospitals, clinics and diagnostic labs in town serve patients from villages at the foot of the hills.",
-        "As a <strong>software company in Srivilliputhur</strong>, we build admission enquiry forms, fee reminders, attendance and marks portals, and parent notice boards for institutions. For hospitals, we build doctor schedule pages, token systems and appointment reminders by SMS or WhatsApp, so patients from villages do not waste a trip.",
+        "As a <strong>software team in Srivilliputhur</strong>, we build admission enquiry forms, fee reminders, attendance and marks portals, and parent notice boards for institutions. For hospitals, we build doctor schedule pages, token systems and appointment reminders by SMS or WhatsApp, so patients from villages do not waste a trip.",
         "Custom portals start at ₹60,000 and take six to twelve weeks, starting with the feature that saves the office most time. A small school or clinic may only need a clear website and a WhatsApp broadcast list, and we will recommend that when it is enough.",
       ],
     },
@@ -132,7 +132,7 @@ const srivilliputhur: CityContent = {
       heading: "Android app development in Srivilliputhur, with iOS apps for the same users",
       paragraphs: [
         "An app earns its cost when a known group returns to it often. In Srivilliputhur, that could be repeat palkova customers in other cities re-ordering before every festival, boutiques ordering sarees from a weaving unit, parents following school notices and fees, patients booking hospital tokens, or village retailers ordering from a wholesaler.",
-        "As an <strong>app development company in Srivilliputhur</strong> working remotely, we build with Flutter or React Native so that a single codebase runs on both Android phones and iPhones. A first version typically includes mobile number login, push notifications, the main screens and an admin panel. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Srivilliputhur</strong> working remotely, we build with Flutter or React Native so that a single codebase runs on both Android phones and iPhones. A first version typically includes mobile number login, push notifications, the main screens and an admin panel. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Srivilliputhur</strong> with us starts at ₹40,000. Payment features, Tamil and English interfaces, offline mode and integration with billing software add cost, and each is listed in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> covers the process.",
         "If your customers only need your address, phone number and product list, a website is enough and costs about a quarter as much. We will tell you so, because an app that people download once and forget helps nobody.",
       ],
@@ -233,7 +233,7 @@ const srivilliputhur: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready makes the biggest difference.",
     },
     {
-      question: "Which is the best website development company in Srivilliputhur?",
+      question: "Which is the best website development team in Srivilliputhur?",
       answer:
         "Choose a provider that publishes prices, registers your domain and code in your name, supports you after launch and can show real work. Ask everyone the same questions. We meet those tests and answer WhatsApp every day, but comparing two or three options before you decide is sensible.",
     },

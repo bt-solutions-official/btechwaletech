@@ -9,7 +9,7 @@ const purulia: CityContent = {
     description:
       "Websites, Bengali and Hindi SEO, Chhau mask stores, lac trader pages and WhatsApp automation for Purulia shops, clinics, coaching centres and Ajodhya homestays.",
     keywords: [
-      "website development company in Purulia",
+      "website development team in Purulia",
       "web designer Purulia",
       "website developer Purulia West Bengal",
       "website cost Purulia",
@@ -20,7 +20,7 @@ const purulia: CityContent = {
       "lac shellac exporter website Jhalda",
       "Ajodhya Hills homestay website",
       "WhatsApp automation Purulia",
-      "software company Purulia",
+      "software team Purulia",
       "coaching centre website Purulia",
       "Google Maps listing Purulia",
       "website maintenance Purulia",

@@ -10,12 +10,12 @@ const rayadurg: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp order tools for Rayadurg jeans units, garment traders, fort-town shops, clinics and schools. Sites from ₹10,000.",
     keywords: [
       "IT services in Rayadurg",
-      "IT company in Rayadurg",
-      "website development company in Rayadurg",
+      "IT services team in Rayadurg",
+      "website development team in Rayadurg",
       "web design in Rayadurg",
-      "app development company in Rayadurg",
+      "app development team in Rayadurg",
       "Android app development in Rayadurg",
-      "software company in Rayadurg",
+      "software team in Rayadurg",
       "SEO services in Rayadurg",
       "digital marketing in Rayadurg",
       "ecommerce website in Rayadurg",
@@ -75,10 +75,10 @@ const rayadurg: CityContent = {
     },
     {
       id: "jeans-units-website",
-      heading: "Website development company in Rayadurg for jeans and garment units",
+      heading: "Website development team in Rayadurg for jeans and garment units",
       paragraphs: [
         "Most Rayadurg jeans units sell through agents, wholesale markets and repeat retailers. Very few have a website that a new buyer could find, and those that do often show a single photograph and a phone number. When a retailer in Hubballi, Kurnool or Hyderabad searches for a denim manufacturer, a unit with a proper site simply looks more dependable.",
-        "As a <strong>website development company in Rayadurg</strong>, we build sites that answer what wholesale buyers actually ask: which fits you make (slim, regular, baggy, stretch), fabric weights and washes, size sets per bundle, minimum order, typical dispatch time, whether you do job work or private labels, and how payment works. Clear photographs of each style on a plain background, front and back, do more work than any slogan.",
+        "As a <strong>website development team in Rayadurg</strong>, we build sites that answer what wholesale buyers actually ask: which fits you make (slim, regular, baggy, stretch), fabric weights and washes, size sets per bundle, minimum order, typical dispatch time, whether you do job work or private labels, and how payment works. Clear photographs of each style on a plain background, front and back, do more work than any slogan.",
         "We add an enquiry form that asks for the buyer's town, styles of interest and quantity, and a WhatsApp button that opens a chat with the style code already filled in. GST details, the unit's actual location and a short note on how long you have been stitching help a first-time buyer trust you.",
         "A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks once photographs are ready. Units that change styles every few weeks usually want a simple admin panel so they can add new designs themselves; we quote that as a separate line.",
       ],
@@ -94,10 +94,10 @@ const rayadurg: CityContent = {
     },
     {
       id: "job-work-software",
-      heading: "Software company in Rayadurg for job-work, wages and piece counts",
+      heading: "Software team in Rayadurg for job-work, wages and piece counts",
       paragraphs: [
         "Much of Rayadurg's stitching happens outside the main unit. Cut pieces go to households or small workshops, come back stitched, go on to washing and finishing, and wages are paid per piece. Tracking all of this in notebooks leads to missing bundles, disputes over counts and delayed payments.",
-        "A <strong>software company in Rayadurg</strong> can help here without complicated systems. We build web tools where each bundle gets a number, the supervisor records who it went to and how many pieces, the return is marked on a phone, and wages due are calculated automatically at the end of the week. Washing batches, rejected pieces and advances paid can all be tracked in the same place.",
+        "A <strong>software team in Rayadurg</strong> can help here without complicated systems. We build web tools where each bundle gets a number, the supervisor records who it went to and how many pieces, the return is marked on a phone, and wages due are calculated automatically at the end of the week. Washing batches, rejected pieces and advances paid can all be tracked in the same place.",
         "Owners see at a glance how many pieces are at which stage, which stitching home is behind, and what is owed to whom. Tools of this kind start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the bundle register because that is where most money leaks.",
         "We keep screens simple and in Telugu where needed, since supervisors will use them on ordinary Android phones in the middle of a busy day.",
       ],
@@ -117,7 +117,7 @@ const rayadurg: CityContent = {
       heading: "Android app development in Rayadurg, plus iPhone apps for garment buyers",
       paragraphs: [
         "An app earns its place when the same people open it again and again. In Rayadurg, the clearest cases are wholesale retailers who re-order jeans every few weeks, stitching supervisors logging bundles, parents of a school or coaching centre receiving notices, and patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Rayadurg</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications when new styles or notices go up, the main screens your users need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Rayadurg</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications when new styles or notices go up, the main screens your users need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Rayadurg</strong> with us starts at ₹40,000. The quote rises with online payment, offline mode for weak signal, photo-heavy catalogues and links to billing software, and each of these is listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If buyers only need to see your styles once in a while, a website with a WhatsApp button does the job for far less. We will say so, because an app that retailers install once and forget is not worth the money.",
       ],
@@ -144,10 +144,10 @@ const rayadurg: CityContent = {
     },
     {
       id: "schools-clinics-shops",
-      heading: "IT company in Rayadurg for schools, clinics and retail shops",
+      heading: "IT services team in Rayadurg for schools, clinics and retail shops",
       paragraphs: [
         "Rayadurg serves a wide rural catchment. Schools teach in English, Telugu and Urdu medium, hospitals and clinics see patients from surrounding mandals, and shops sell clothing, gold, electronics, farm inputs and household goods to families who come in on market days.",
-        "An <strong>IT company in Rayadurg</strong> should help these businesses cut down wasted trips and repeated calls. A school site lists classes, fees or fee ranges, admission dates, bus routes and a notice board. A clinic page shows doctors, specialities, OPD days, lab tests and emergency numbers. A shop page shows categories, timings and a WhatsApp link for checking stock.",
+        "An <strong>IT services team in Rayadurg</strong> should help these businesses cut down wasted trips and repeated calls. A school site lists classes, fees or fee ranges, admission dates, bus routes and a notice board. A clinic page shows doctors, specialities, OPD days, lab tests and emergency numbers. A shop page shows categories, timings and a WhatsApp link for checking stock.",
         "We build these mainly in Telugu, add Kannada or English where the audience needs it, and connect each page to Google Maps. Simple call and form tracking shows the owner which pages bring enquiries, so money is not spent on pages nobody reads.",
         "For schools, we can later add an app for fee reminders and notices, but a well-kept website and a WhatsApp broadcast list often covers the need at first.",
       ],
@@ -245,7 +245,7 @@ const rayadurg: CityContent = {
         "A static site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, a wholesale store four to eight weeks, and custom software six to twelve weeks. Projects move fastest when the owner sends content and feedback quickly.",
     },
     {
-      question: "Which is the best website development company in Rayadurg?",
+      question: "Which is the best website development team in Rayadurg?",
       answer:
         "Choose a provider who publishes prices, puts the domain and code in your name, replies after launch and can show real work. Ask each option the same questions and compare written quotes. We meet those tests and answer WhatsApp seven days a week, but comparing two or three providers is wise.",
     },

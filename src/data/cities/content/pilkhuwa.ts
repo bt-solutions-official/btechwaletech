@@ -10,12 +10,12 @@ const pilkhuwa: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Pilkhuwa bedsheet makers, handloom printers, wholesalers, colleges, clinics and highway shops.",
     keywords: [
       "IT services in Pilkhuwa",
-      "IT company in Pilkhuwa",
-      "website development company in Pilkhuwa",
+      "IT services team in Pilkhuwa",
+      "website development team in Pilkhuwa",
       "web design in Pilkhuwa",
-      "app development company in Pilkhuwa",
+      "app development team in Pilkhuwa",
       "Android app development in Pilkhuwa",
-      "software company in Pilkhuwa",
+      "software team in Pilkhuwa",
       "SEO services in Pilkhuwa",
       "digital marketing in Pilkhuwa",
       "ecommerce website in Pilkhuwa",
@@ -75,10 +75,10 @@ const pilkhuwa: CityContent = {
     },
     {
       id: "bedsheet-manufacturer-websites",
-      heading: "Website development company in Pilkhuwa for bedsheet makers and wholesalers",
+      heading: "Website development team in Pilkhuwa for bedsheet makers and wholesalers",
       paragraphs: [
         "A bedsheet manufacturer's website has one job: convince a retailer or distributor, who has never met you, that you can supply the right quality on time. That means real photographs of your designs, clear details of fabric, thread count, sizes and colour options, minimum order quantities, and a quick way to ask for rates.",
-        "As a <strong>website development company in Pilkhuwa</strong>, we build catalogue websites that show your range by category: single and double bedsheets, fitted sheets, dohars and AC blankets, pillow covers, curtains and fabric by the metre. Each design gets its own page with photographs, which also helps it appear in Google Images searches.",
+        "As a <strong>website development team in Pilkhuwa</strong>, we build catalogue websites that show your range by category: single and double bedsheets, fitted sheets, dohars and AC blankets, pillow covers, curtains and fabric by the metre. Each design gets its own page with photographs, which also helps it appear in Google Images searches.",
         "Rates in this trade change with cotton and yarn prices, so we usually leave them off public pages and add a “request price” button that opens WhatsApp with the design code already filled in. Your sales staff then reply with the day's rate.",
         "A static catalogue site starts at ₹10,000. For a large range with hundreds of designs, a bigger SEO website starting at ₹20,000 gives each design and category its own page. See what is included on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -92,10 +92,10 @@ const pilkhuwa: CityContent = {
     },
     {
       id: "handloom-printing-software",
-      heading: "Software company in Pilkhuwa for job-work, printing and dispatch tracking",
+      heading: "Software team in Pilkhuwa for job-work, printing and dispatch tracking",
       paragraphs: [
         "Textile production in Pilkhuwa is spread across many hands. Grey fabric is woven, sent for washing and bleaching, dyed, printed by block or screen, pressed, stitched and packed. Often each step happens at a different unit, and the manufacturer has to keep track of how many metres went where, what came back and what is still pending.",
-        "As a <strong>software company in Pilkhuwa</strong>, we build simple web applications for this job-work flow. Fabric issued and received is recorded by lot and by unit, shortages and rejections are noted, and payments due to each job worker are calculated. A dispatch screen links finished stock to customer orders and transport details.",
+        "As a <strong>software team in Pilkhuwa</strong>, we build simple web applications for this job-work flow. Fabric issued and received is recorded by lot and by unit, shortages and rejections are noted, and payments due to each job worker are calculated. A dispatch screen links finished stock to customer orders and transport details.",
         "The software runs in a browser on a shop computer and on a phone on the factory floor, and it can export to Tally so your accountant does not have to learn a new system. Owners can see pending job-work and dispatches at a glance, without calling each unit.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We start with a small version covering your most painful step, test it for a few weeks and then add the rest.",
       ],
@@ -132,10 +132,10 @@ const pilkhuwa: CityContent = {
     },
     {
       id: "android-ios-apps-pilkhuwa",
-      heading: "App development company in Pilkhuwa: Android and iOS apps for textile buyers",
+      heading: "App development team in Pilkhuwa: Android and iOS apps for textile buyers",
       paragraphs: [
         "An app makes sense when the same customers order from you again and again. For a Pilkhuwa manufacturer, that is the retailer network: shopkeepers who reorder every few weeks and want to see new designs as soon as they are ready. An app lets them browse the latest range, check what is in stock, place an order and track dispatch without waiting for a salesman's call.",
-        "As an <strong>app development company in Pilkhuwa</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications for new designs, a catalogue, an order screen, and an admin panel for your staff to add designs and confirm orders.",
+        "As an <strong>app development team in Pilkhuwa</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications for new designs, a catalogue, an order screen, and an admin panel for your staff to add designs and confirm orders.",
         "<strong>Android app development in Pilkhuwa</strong> with us starts at ₹40,000. Retailer-specific rates, credit limits, online payment and links to Tally add to the cost, and the quote lists each of these separately. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a>.",
         "If your retailers are happy receiving a PDF catalogue on WhatsApp and phoning in orders, a website and a WhatsApp catalogue may be all you need. We will recommend that when it fits, because an app nobody opens is money wasted.",
       ],
@@ -172,10 +172,10 @@ const pilkhuwa: CityContent = {
     },
     {
       id: "remote-team-pilkhuwa",
-      heading: "IT company in Pilkhuwa without a local office: our remote team",
+      heading: "IT services team in Pilkhuwa without a local office: our remote team",
       paragraphs: [
         "We have no office in Pilkhuwa, Hapur or Ghaziabad. BtechWaleTech is a team of three engineers working remotely. Ankur Kumar builds full-stack web applications, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management along with data science and automation.",
-        "Hiring an <strong>IT company in Pilkhuwa</strong> that works remotely is straightforward. We begin with a WhatsApp or video call, you send photographs of your products and samples of your current paperwork, and we reply with a written plan and quote. During the build you get a preview link and can ask for changes at each stage.",
+        "Hiring an <strong>IT services team in Pilkhuwa</strong> that works remotely is straightforward. We begin with a WhatsApp or video call, you send photographs of your products and samples of your current paperwork, and we reply with a written plan and quote. During the build you get a preview link and can ask for changes at each stage.",
         "We answer WhatsApp every day of the week during Indian working hours. Every milestone and payment is written down in advance, so there are no surprises when the invoice arrives.",
         "If you prefer to sit across a table from your developer, a local provider will suit you better, and we would rather say that at the start.",
       ],
@@ -237,7 +237,7 @@ const pilkhuwa: CityContent = {
         "A static catalogue website usually takes one to two weeks once we have your photographs and product details. A large SEO site takes three to five weeks and an online store four to eight weeks. The biggest delay is usually photography, so we send a shot list at the start.",
     },
     {
-      question: "Which is the best website development company in Pilkhuwa?",
+      question: "Which is the best website development team in Pilkhuwa?",
       answer:
         "Look for a provider that gives a written itemised quote, registers the domain and code in your name, shows real past work and explains maintenance costs clearly. We do not claim to be the best, but we meet those tests and are happy to be compared on them with anyone local.",
     },

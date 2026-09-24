@@ -10,12 +10,12 @@ const rupnagar: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Ropar traders, IIT-area rentals, thermal plant suppliers, gurdwara-route hotels and clinics.",
     keywords: [
       "IT services in Rupnagar",
-      "IT company in Ropar",
-      "website development company in Rupnagar",
+      "IT services team in Ropar",
+      "website development team in Rupnagar",
       "web design in Ropar",
-      "app development company in Rupnagar",
+      "app development team in Rupnagar",
       "Android app development in Ropar",
-      "software company in Rupnagar",
+      "software team in Rupnagar",
       "SEO services in Ropar",
       "digital marketing in Rupnagar",
       "ecommerce website in Ropar",
@@ -74,21 +74,21 @@ const rupnagar: CityContent = {
     },
     {
       id: "iit-ropar-student-housing",
-      heading: "Website development company in Rupnagar for PGs, hostels and rentals near IIT Ropar",
+      heading: "Website development team in Rupnagar for PGs, hostels and rentals near IIT Ropar",
       paragraphs: [
         "IIT Ropar brings a steady flow of students, research scholars, visiting faculty, interview candidates and parents who need a room for a night or a year. Many of them arrive from other states, do not know the town, and search on a phone with phrases like “PG near IIT Ropar”, “guest house Ropar” or “flat on rent Rupnagar”.",
-        "As a <strong>website development company in Rupnagar</strong>, we build small, honest sites for these owners. Each room type gets real photographs, the rent or rent range, what is included (meals, Wi-Fi, laundry, power backup), house rules, distance and travel time to the campus gate, and a WhatsApp button that opens with the room name already typed. A map pin set at the actual building, not the street, saves everyone a phone call.",
+        "As a <strong>website development team in Rupnagar</strong>, we build small, honest sites for these owners. Each room type gets real photographs, the rent or rent range, what is included (meals, Wi-Fi, laundry, power backup), house rules, distance and travel time to the campus gate, and a WhatsApp button that opens with the room name already typed. A map pin set at the actual building, not the street, saves everyone a phone call.",
         "Owners with several properties can add an availability sheet that updates the site, so nobody drives across town for a room that went last week. A site like this starts at ₹10,000 and is usually live in one to two weeks. If you also want online advance payment or a tenant login for rent receipts, that becomes a small web app and is quoted separately.",
         "We will not write that a property is “walking distance” unless it is, and we suggest owners say clearly whether they take girls, boys or families. Clear pages mean fewer wasted visits and fewer arguments at move-in."
       ],
     },
     {
       id: "thermal-plant-suppliers",
-      heading: "Software company in Rupnagar for thermal plant and infrastructure contractors",
+      heading: "Software team in Rupnagar for thermal plant and infrastructure contractors",
       paragraphs: [
         "The Guru Gobind Singh Super Thermal Plant near Ghanauli, on the Kiratpur Sahib road, has been part of the local economy since its first unit was commissioned in 1984. Around such a plant work a large number of smaller firms: electrical and mechanical contractors, fabrication shops, transporters, scaffolding and manpower suppliers, canteen operators and firms that do civil repair. The canal headworks at Ropar and public works in the district add more contract jobs of the same kind.",
         "These businesses rarely need a flashy website. They need a clean capability page that a purchase or tender officer can read in two minutes: services, equipment, licences and registrations, safety practice, typical job sizes and a named contact. We keep it factual and never list a client or project without written permission.",
-        "The bigger gain is often internal. As a <strong>software company in Rupnagar</strong> for this kind of firm, we build job registers that track each work order, the crew and vehicles on site, materials issued, running bills submitted and payments received. Supervisors enter data from a phone at the site; the office sees totals and overdue bills by the evening. Custom tools like this start at ₹60,000 and are delivered in stages over six to twelve weeks, beginning with whatever is costing you the most money today.",
+        "The bigger gain is often internal. As a <strong>software team in Rupnagar</strong> for this kind of firm, we build job registers that track each work order, the crew and vehicles on site, materials issued, running bills submitted and payments received. Supervisors enter data from a phone at the site; the office sees totals and overdue bills by the evening. Custom tools like this start at ₹60,000 and are delivered in stages over six to twelve weeks, beginning with whatever is costing you the most money today.",
         "Firms that also supply the pharma and manufacturing units in the Baddi-Barotiwala-Nalagarh belt, about 36 km away, can use the same site to show that wider reach."
       ],
     },
@@ -137,7 +137,7 @@ const rupnagar: CityContent = {
       heading: "Android app development in Rupnagar: when an app earns its place",
       paragraphs: [
         "An app is a good idea when the same people open it again and again. In Ropar that points to a few clear cases: a coaching institute sending class notes, test results and fee reminders to hundreds of students; a PG group where tenants pay rent and raise maintenance requests; a delivery service running between Ropar, Morinda and Kharar; a clinic that issues tokens; or a dealer whose village retailers re-order every week.",
-        "As an <strong>app development company in Rupnagar</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release usually has mobile number login, push notifications, the four or five screens your users actually need, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Rupnagar</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release usually has mobile number login, push notifications, the four or five screens your users actually need, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Rupnagar</strong> with us starts at ₹40,000. The cost rises with online payments, offline use for areas with patchy signal, maps and tracking, or links to your billing system, and each of these is priced as its own line. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When customers only need your address, timings and prices, skip the app. A good website and a correct map listing do that job at a quarter of the cost, and we will say so before you spend anything."
       ],
@@ -163,9 +163,9 @@ const rupnagar: CityContent = {
     },
     {
       id: "remote-team-rupnagar",
-      heading: "IT company in Rupnagar without an office: how the remote process runs",
+      heading: "IT services team in Rupnagar without an office: how the remote process runs",
       paragraphs: [
-        "Choosing an <strong>IT company in Rupnagar</strong> that has no local office is a fair thing to question. Here is what replaces the office. We start with a call about your business and your customers. You then receive a written scope listing every page or app screen, the timeline, and the cost of each item. Work begins only after you approve that document, and nothing is billed before then.",
+        "Choosing an <strong>IT services team in Rupnagar</strong> that has no local office is a fair thing to question. Here is what replaces the office. We start with a call about your business and your customers. You then receive a written scope listing every page or app screen, the timeline, and the cost of each item. Work begins only after you approve that document, and nothing is billed before then.",
         "While we build, you get preview links that open on any phone. Share them with a partner, a son studying in Chandigarh or your accountant, and send comments on WhatsApp. Punjabi text is shown to you for approval before it goes live, because a wrong word on a school or gurdwara-route page is not something customers forgive quickly.",
         "Each of us has a clear role. Ankur builds the site or app, Santosh handles AI, cloud and data work, and Vedansh plans the schedule and keeps you updated. If a date slips, you hear about it the same day with a new date. Payments follow milestones you can check yourself, which keeps the risk small for a business trying this for the first time.",
         "We reply on WhatsApp all seven days of the week, on Indian time. You can reach us through the <a href=\"/contact/\">contact page</a> as well."
@@ -231,7 +231,7 @@ const rupnagar: CityContent = {
         "A simple static site usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from waiting for content, so sending text and pictures early speeds things up.",
     },
     {
-      question: "Which is the best website development company in Rupnagar?",
+      question: "Which is the best website development team in Rupnagar?",
       answer:
         "There is no single answer. Judge any company by whether it publishes prices, registers the domain and code in your name, tests on budget phones and still answers a year later. We meet those tests and reply on WhatsApp every day, but asking two or three providers the same questions is always sensible.",
     },

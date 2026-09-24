@@ -10,12 +10,12 @@ const samana: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Samana rice millers, arhtiyas, schools, clinics and shops.",
     keywords: [
       "IT services in Samana",
-      "IT company in Samana",
-      "website development company in Samana",
+      "IT services team in Samana",
+      "website development team in Samana",
       "web design in Samana",
-      "app development company in Samana",
+      "app development team in Samana",
       "Android app development in Samana",
-      "software company in Samana",
+      "software team in Samana",
       "SEO services in Samana",
       "digital marketing in Samana",
       "ecommerce website in Samana",
@@ -74,19 +74,19 @@ const samana: CityContent = {
     },
     {
       id: "rice-mill-software-samana",
-      heading: "Software company in Samana for rice mills and shellers",
+      heading: "Software team in Samana for rice mills and shellers",
       paragraphs: [
         "Rice mills are the most visible industry around Samana, and several operate along the Sehajpura, Patran and Bhawanigarh roads. During the procurement season a mill receives paddy from many trolleys a day, dries and stores it, mills it against targets and dispatches rice to buyers or government godowns. Every stage produces slips, and most of those slips still end up in registers.",
-        "As a <strong>software company in Samana</strong> in the plain sense of the phrase, we build web tools that follow paddy through the mill. Gate entry records vehicle, party, gross and tare weight and moisture. Stock screens show paddy in each godown. Milling entries capture output of rice, broken, bran and husk, so outturn can be checked batch by batch. Dispatch notes track bags, trucks and the balance still owed to each buyer.",
+        "As a <strong>software team in Samana</strong> in the plain sense of the phrase, we build web tools that follow paddy through the mill. Gate entry records vehicle, party, gross and tare weight and moisture. Stock screens show paddy in each godown. Milling entries capture output of rice, broken, bran and husk, so outturn can be checked batch by batch. Dispatch notes track bags, trucks and the balance still owed to each buyer.",
         "The owner sees one dashboard on a phone instead of phoning the munshi. Access is split by role, so a gatekeeper sees only gate entry and an accountant sees only money. Custom tools of this kind start at ₹60,000 and take six to twelve weeks. We normally build gate entry and stock first, before the season, and add milling and dispatch once the first part has proved itself in daily use.",
       ],
     },
     {
       id: "arhtiya-grain-market-samana",
-      heading: "IT company in Samana for arhtiyas and grain-market traders",
+      heading: "IT services team in Samana for arhtiyas and grain-market traders",
       paragraphs: [
         "The commission agent, or arhtiya, is the hinge of the Punjab grain trade. An arhtiya in Samana's grain market cleans and weighs the farmer's crop, arranges the sale, pays labour and often advances money to farmer families between harvests. That means long ledgers, many small entries and constant questions from farmers about what they are owed.",
-        "An <strong>IT company in Samana</strong> can make that simpler without replacing the agent's own judgement. We build farmer ledgers where each entry for crop sold, advance given, fertiliser supplied or payment made lands in the right account, and a farmer can receive a statement on WhatsApp in Punjabi rather than waiting outside the shop. Labour and hamali payments can be recorded by day, and the owner can see totals across all parties at once.",
+        "An <strong>IT services team in Samana</strong> can make that simpler without replacing the agent's own judgement. We build farmer ledgers where each entry for crop sold, advance given, fertiliser supplied or payment made lands in the right account, and a farmer can receive a statement on WhatsApp in Punjabi rather than waiting outside the shop. Labour and hamali payments can be recorded by day, and the owner can see totals across all parties at once.",
         "Many arhtiyas already use Tally for accounts. We do not ask them to abandon it; where it helps, we export data in a form their accountant can import. The aim is fewer disputes and faster answers, not another screen that the staff learn to ignore.",
       ],
     },
@@ -104,7 +104,7 @@ const samana: CityContent = {
       heading: "Android app development in Samana: when an app makes sense",
       paragraphs: [
         "People in Samana ask about apps more often than they used to, usually because a relative abroad or a larger Patiala business has one. An app pays off only when the same people will open it again and again. Good local examples are mill supervisors and gatekeepers logging trucks during procurement, parents checking homework, attendance and fee dues, a tractor spare parts dealer taking repeat orders from village mechanics, or a diagnostic lab sending reports.",
-        "As an <strong>app development company in Samana</strong> working from a distance, we use Flutter or React Native, so a single codebase serves Android phones and iPhones. A typical first release includes login with a mobile number and OTP, push notifications, the few screens your users need most and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts that belong to you, not to us.",
+        "As an <strong>app development team in Samana</strong> working from a distance, we use Flutter or React Native, so a single codebase serves Android phones and iPhones. A typical first release includes login with a mobile number and OTP, push notifications, the few screens your users need most and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts that belong to you, not to us.",
         "<strong>Android app development in Samana</strong> with us starts at ₹40,000. The cost goes up with payments, offline entry for sheds and fields with weak signal, photo capture, maps or a Tally link, and each of those appears separately on the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a few prices, a website and a WhatsApp button do the job for a fraction of the cost, and we will say so before you spend on an app.",
       ],
@@ -156,9 +156,9 @@ const samana: CityContent = {
     },
     {
       id: "remote-team-samana",
-      heading: "Working with a remote website development company in Samana",
+      heading: "Working with a remote website development team in Samana",
       paragraphs: [
-        "Hiring a <strong>website development company in Samana</strong> that has no local office raises a fair question: what happens if something goes wrong? Our answer is paperwork and visibility. After a first call about your business, you receive a written scope listing every page or screen, the dates and the cost of each item. Work starts only after you approve it, and no payment is taken before then.",
+        "Hiring a <strong>website development team in Samana</strong> that has no local office raises a fair question: what happens if something goes wrong? Our answer is paperwork and visibility. After a first call about your business, you receive a written scope listing every page or screen, the dates and the cost of each item. Work starts only after you approve it, and no payment is taken before then.",
         "During the build you get preview links that open on any phone, so a partner, son or daughter can check them too. Punjabi text is sent for your review before it goes live, because a spelling mistake on a school notice or a shop banner is noticed quickly in a small town. Payments are tied to stages you can see working.",
         "We reply on WhatsApp seven days a week on Indian time. If a delay happens, you hear about it on the day we know, with a new date. Should you prefer another developer later, the code and accounts are already yours and nothing needs our permission to move.",
       ],
@@ -223,7 +223,7 @@ const samana: CityContent = {
         "Yes. We build tools that record paddy at the gate with weight and moisture, track stock by godown, capture milling output and follow dispatches and balances by buyer. They start at ₹60,000 and are built in stages over six to twelve weeks, ideally with gate entry ready before procurement begins.",
     },
     {
-      question: "Which is the best IT company in Samana?",
+      question: "Which is the best IT services team in Samana?",
       answer:
         "The best choice is the one that publishes prices, registers everything in your name, shows real work and still answers after launch. Ask each provider the same questions and compare written quotes. We meet those standards and reply on WhatsApp every day, but it is sensible to talk to two or three options before deciding.",
     },

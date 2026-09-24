@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "Freelance software developers for Solan, Baddi, Nalagarh and Parwanoo: pharma order portals, MR apps, AI agents, dashboards, SEO and IT support. From ₹10,000.",
     keywords: [
-      "software development company in Solan",
-      "IT company in Solan",
+      "software development team in Solan",
+      "IT services team in Solan",
       "IT solutions Solan",
-      "software company in Baddi",
+      "software team in Baddi",
       "freelance software developers Solan",
       "third party manufacturing order portal Baddi",
       "pharma franchise software Baddi",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Solan district · Himachal Pradesh",
     h1: "Freelance software developers in Solan for Baddi pharma, Parwanoo factories, campuses and hill trade",
     lede:
-      "Searching for a software development company in Solan or Baddi? BtechWaleTech offers freelance software developers instead: a group of three engineers working remotely from India who build order-status portals for third-party pharma manufacturing, MR reporting apps, artwork approval workflows, attendance tools, AI agents, dashboards, stores and SEO for Solan district. Starting prices are published and maintenance is free for five months after launch.",
+      "Searching for a software development team in Solan or Baddi? BtechWaleTech offers freelance software developers instead: a group of three engineers working remotely from India who build order-status portals for third-party pharma manufacturing, MR reporting apps, artwork approval workflows, attendance tools, AI agents, dashboards, stores and SEO for Solan district. Starting prices are published and maintenance is free for five months after launch.",
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Pharma order and artwork portals", "Android & iOS apps from ₹40,000", "Code and hosting in your name"],
   },
   quickAnswer:
@@ -203,15 +203,15 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-solan",
-      heading: "Freelance software developers vs an IT company in Solan or Baddi",
+      heading: "Freelance software developers vs an IT services team in Solan or Baddi",
       paragraphs: [
-        "Choose freelance developers when you want direct contact with the people coding, published prices and a focused build; choose an IT company in Solan, Baddi or Chandigarh when you need on-site support, large teams or licensed enterprise suites. Many BBN units use both: an enterprise system for regulated processes and focused custom tools around it.",
+        "Choose freelance developers when you want direct contact with the people coding, published prices and a focused build; choose an IT services team in Solan, Baddi or Chandigarh when you need on-site support, large teams or licensed enterprise suites. Many BBN units use both: an enterprise system for regulated processes and focused custom tools around it.",
         "BtechWaleTech is a freelance group of three engineers without an office in Solan or Baddi. We do not sell ERP licences, install hardware or provide validation services. We build custom web software, apps, automation and websites, and we answer WhatsApp messages seven days a week.",
         "Before hiring anyone, ask who writes the code, whether the domain, hosting and repository will be in your name, how changes are priced, what maintenance costs after launch, and whether you can see live work. Our <a href='/portfolio/'>portfolio</a> shows what we have built.",
       ],
       list: [
         "Freelance group: direct developer access, focused scope, lower overheads",
-        "IT company or ERP vendor: on-site teams, licensed suites, validation services",
+        "IT services team or ERP vendor: on-site teams, licensed suites, validation services",
         "Either way: written scope, your own accounts, clear post-launch terms",
       ],
     },
@@ -304,7 +304,7 @@ const content: CityContent = {
         "Usually four to nine months for competitive B2B terms and two to four months for local map visibility, once technical fixes, capability pages and listings are in place. We do not guarantee rankings. Monthly SEO starts from ₹10,000 and includes Search Console reports showing which queries and pages are gaining impressions and clicks.",
     },
     {
-      question: "Should we hire a software development company in Solan or freelance developers?",
+      question: "Should we hire a software development team in Solan or freelance developers?",
       answer:
         "It depends on the job. If you need on-site support, licensed ERP software or validation services, a larger IT company or vendor fits. If you need a focused portal, app or automation built quickly with direct developer contact and published prices, a freelance group like ours fits. Either way, keep all accounts in your name.",
     },

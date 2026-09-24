@@ -9,9 +9,9 @@ const amritsar: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Amritsar hotels, textile traders, food brands, jewellers and NRI-facing firms. Sites from ₹10,000.",
     keywords: [
-      "website development company in Amritsar",
+      "website development team in Amritsar",
       "web designer Amritsar",
-      "website design company Amritsar",
+      "website design team Amritsar",
       "freelance web developer Amritsar",
       "website price Amritsar",
       "SEO services Amritsar",
@@ -20,7 +20,7 @@ const amritsar: CityContent = {
       "ecommerce website Amritsar",
       "papad warian online store",
       "textile website Katra Jaimal Singh",
-      "software company Amritsar",
+      "software team Amritsar",
       "WhatsApp automation Punjab",
       "website maintenance Amritsar",
       "Amritsar vich website banwauni",

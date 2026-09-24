@@ -10,12 +10,12 @@ const cherthala: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Cherthala coir exporters, seafood units, Arthunkal stays, colleges and NH 66 shops.",
     keywords: [
       "IT services in Cherthala",
-      "IT company in Cherthala",
-      "website development company in Cherthala",
+      "IT services team in Cherthala",
+      "website development team in Cherthala",
       "web design in Cherthala",
-      "app development company in Cherthala",
+      "app development team in Cherthala",
       "Android app development in Cherthala",
-      "software company in Cherthala",
+      "software team in Cherthala",
       "SEO services in Cherthala",
       "digital marketing in Cherthala",
       "ecommerce website in Cherthala",
@@ -70,34 +70,34 @@ const cherthala: CityContent = {
       paragraphs: [
         "Cherthala is a municipality of about 46,000 people in the north of Alappuzha district, strung along NH 66 with Vembanad Lake to the east and the Arabian Sea to the west. Kochi is roughly 40 km up the highway and Alappuzha town about 22 km down it. In the medieval period the backwaters made it a stop on the spice route; today the same waterways feed coir, seafood, farming and a steady flow of visitors.",
         "The requests that reach us for <strong>IT services in Cherthala</strong> are practical. A coir unit wants an overseas buyer to see its mat range without waiting for a courier of samples. A seafood supplier needs to know which lot went into which container. A homestay near Arthunkal wants bookings before the January feast fills every room. A clinic on the highway wants patients from Thuravoor and Pattanakkad to stop calling for timings.",
-        "We are not an <strong>IT company in Cherthala</strong> with a shop front. We are three engineers working remotely, and we build websites, Android and iOS apps, SEO, custom software, WhatsApp and AI automation and dashboards for businesses here. Each piece is priced on its own line so you can start small and add later.",
+        "We are not an <strong>IT services team in Cherthala</strong> with a shop front. We are three engineers working remotely, and we build websites, Android and iOS apps, SEO, custom software, WhatsApp and AI automation and dashboards for businesses here. Each piece is priced on its own line so you can start small and add later.",
       ],
     },
     {
       id: "coir-exporters-cherthala",
-      heading: "Website development company in Cherthala for coir mat, rug and yarn makers",
+      heading: "Website development team in Cherthala for coir mat, rug and yarn makers",
       paragraphs: [
         "Coir is the trade most people link with Cherthala. Husk from the region's coconut groves is turned into yarn, ropes, mats, rugs and geotextiles, and private and cooperative units along NH 66 run mechanised looms that make carpets and doormats for export. Much of the selling still happens through agents, trade fairs and emailed PDFs.",
-        "A <strong>website development company in Cherthala</strong> is useful to a coir unit only if the site answers what an importer asks first: sizes, weaves, backing options, colours, printing, minimum order quantity, packing per carton and container, lead time and certifications. We build a catalogue where each product has its own page with close-up photographs and a specification table, plus a sample-request form that records country, quantity and target price.",
+        "A <strong>website development team in Cherthala</strong> is useful to a coir unit only if the site answers what an importer asks first: sizes, weaves, backing options, colours, printing, minimum order quantity, packing per carton and container, lead time and certifications. We build a catalogue where each product has its own page with close-up photographs and a specification table, plus a sample-request form that records country, quantity and target price.",
         "A catalogue of this kind is a static site and starts at ₹10,000, taking one to two weeks once photographs are ready. If you sell doormats to Indian households too, a store with UPI and card checkout can sit alongside it later. Ankur Kumar, who does our full-stack work, keeps export and retail pages separate so a buyer in Europe never lands on a ₹499 retail price.",
       ],
     },
     {
       id: "seafood-processing-software",
-      heading: "Software company in Cherthala for seafood processors and prawn farmers",
+      heading: "Software team in Cherthala for seafood processors and prawn farmers",
       paragraphs: [
         "North of the town, Aroor, Chandiroor, Ezhupunna, Thuravoor and Arookutty are known for seafood processing, with plants handling shrimp, squid, cuttlefish and fin fish for export. Prawns are also farmed in the region's paddy fields. The Mega Food Park at Pallippuram, set up on 84 acres under the central Mega Food Park scheme, adds cold storage, freezing, deboning and warehousing for the sector.",
-        "Most of these businesses live or die on traceability. As a <strong>software company in Cherthala</strong> for this trade, we would build a lot register: every purchase recorded with supplier, landing centre or farm, species, count and weight, then followed through peeling, grading, freezing and cold store to the dispatch document. Supplier payments and advances sit in the same system, and a buyer query about a carton can be traced in minutes.",
+        "Most of these businesses live or die on traceability. As a <strong>software team in Cherthala</strong> for this trade, we would build a lot register: every purchase recorded with supplier, landing centre or farm, species, count and weight, then followed through peeling, grading, freezing and cold store to the dispatch document. Supplier payments and advances sit in the same system, and a buyer query about a carton can be traced in minutes.",
         "Custom software of this kind starts at ₹60,000 and is built in stages over six to twelve weeks. Santosh Sharma handles the AWS hosting and data side, so the system keeps working when three shifts are entering data at once. If you only need a clean stock sheet and a daily summary, we will say so; a dashboard over your existing Excel is far cheaper than a new application.",
       ],
     },
     {
       id: "pallippuram-infopark-igc",
-      heading: "IT company in Cherthala for units at Pallippuram, Infopark and SN Puram",
+      heading: "IT services team in Cherthala for units at Pallippuram, Infopark and SN Puram",
       paragraphs: [
         "Pallippuram, about 8 km north of the town, holds most of Cherthala's newer industry. The KSIDC Industrial Growth Centre there covers 279 acres, the largest industrial park in the district, with units in packaging, coir, steel, plastic, rubber, chemicals and plywood. Beside it is Infopark Cherthala, opened in January 2011 as a spoke of Infopark Kochi, with 60 of its 66 acres notified as an IT special economic zone.",
         "On NH 66 at SN Puram stands Autokast, a Kerala government foundry making ductile iron, grey iron and steel castings, approved by the railways' RDSO as a Class A foundry. Around units like these work vendors, fabricators, transporters and small engineering shops that rarely have more than a phone number online.",
-        "What these suppliers need from an <strong>IT company in Cherthala</strong> is plain: a product and capability site that a purchase manager can check, quotation request forms, a vendor or dealer login where needed, and dashboards that show orders against capacity. Startups inside the IT park usually ask for something different, such as a sharper company site, a careers page and cloud setup, and we price those separately.",
+        "What these suppliers need from an <strong>IT services team in Cherthala</strong> is plain: a product and capability site that a purchase manager can check, quotation request forms, a vendor or dealer login where needed, and dashboards that show orders against capacity. Startups inside the IT park usually ask for something different, such as a sharper company site, a careers page and cloud setup, and we price those separately.",
       ],
     },
     {
@@ -132,7 +132,7 @@ const cherthala: CityContent = {
       heading: "Android app development in Cherthala: who needs an app, and who doesn't",
       paragraphs: [
         "An app pays back when the same people open it again and again. In Cherthala that could be a coaching centre whose students check schedules and test scores daily, a vegetable or grocery service taking weekly repeat orders, a processing unit whose floor supervisors log shifts and batches, or a group of homestays that sends guests directions and check-out reminders.",
-        "Working as an <strong>app development company in Cherthala</strong> from a distance, we build in Flutter or React Native, so one codebase gives you both the Android app and the iPhone app. A first release normally includes OTP login, push notifications, the handful of screens your users need most and a web admin panel your staff can run. We submit it to Google Play and the App Store through developer accounts registered to you.",
+        "Working as an <strong>app development team in Cherthala</strong> from a distance, we build in Flutter or React Native, so one codebase gives you both the Android app and the iPhone app. A first release normally includes OTP login, push notifications, the handful of screens your users need most and a web admin panel your staff can run. We submit it to Google Play and the App Store through developer accounts registered to you.",
         "<strong>Android app development in Cherthala</strong> with us starts at ₹40,000. Payments, offline mode for patchy coastal signal, maps and billing integration are listed separately so you can drop what you don't need. There is more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If a customer contacts you once or twice a year, a fast website is the smarter spend. A pilgrim booking a room for the feast will not install an app for it, and we will tell you that before quoting one.",
       ],
@@ -238,7 +238,7 @@ const cherthala: CityContent = {
         "A static site for a Cherthala shop, clinic or homestay takes one to two weeks once photos and text arrive. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Missing content causes most delays, so sending material early is the quickest way to launch.",
     },
     {
-      question: "Which is the best IT company in Cherthala for websites and apps?",
+      question: "Which is the best IT services team in Cherthala for websites and apps?",
       answer:
         "Compare Cherthala providers on published prices, whether the domain and code are registered to you, live examples you can open on your phone, and how they respond after launch. Ask each the same questions. We meet those checks and reply on WhatsApp daily, but speaking to two or three options before deciding is sensible.",
     },

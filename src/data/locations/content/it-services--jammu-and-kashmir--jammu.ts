@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Jammu: ERP-style tools for Bari Brahmana units, trader software, Android and iOS apps, AI agents and SEO. Prices from ₹10,000.",
     keywords: [
-      "software development company in Jammu",
-      "IT company in Jammu",
+      "software development team in Jammu",
+      "IT services team in Jammu",
       "IT solutions Jammu",
       "freelance software developers Jammu",
       "custom software development Jammu",
@@ -28,7 +28,7 @@ const content: CityContent = {
       "ecommerce development Jammu",
       "SEO services Jammu",
       "software developers near me Gandhi Nagar Jammu",
-      "Jammu mein software company",
+      "Jammu mein software team",
       "जम्मू सॉफ्टवेयर डेवलपर",
     ],
   },
@@ -36,7 +36,7 @@ const content: CityContent = {
     eyebrow: "Jammu · Jammu and Kashmir · Winter capital",
     h1: "Freelance software developers in Jammu for traders, transporters, Bari Brahmana factories and Katra hotels",
     lede:
-      "If you are looking for a software development company in Jammu, you probably need more than a website: billing that talks to stock, a dispatch log for trucks heading up the highway, a production register for a Gangyal unit, or an app your delivery staff actually use. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI automation, dashboards, online stores and SEO for Jammu businesses, with starting prices published and five months of free maintenance after launch.",
+      "If you are looking for a software development team in Jammu, you probably need more than a website: billing that talks to stock, a dispatch log for trucks heading up the highway, a production register for a Gangyal unit, or an app your delivery staff actually use. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI automation, dashboards, online stores and SEO for Jammu businesses, with starting prices published and five months of free maintenance after launch.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Hindi, Dogri and English interfaces", "WhatsApp replies 7 days a week"],
   },
   quickAnswer:
@@ -164,9 +164,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-jammu",
-      heading: "Freelance developers or an IT company in Jammu: which is right for you?",
+      heading: "Freelance developers or an IT services team in Jammu: which is right for you?",
       paragraphs: [
-        "Freelance developers suit Jammu businesses that want to deal directly with the people writing the code, see clear starting prices and keep a focused scope, while an IT company in Jammu with local staff suits projects needing on-site support, hardware installation or large teams. Pick based on the project, not the label.",
+        "Freelance developers suit Jammu businesses that want to deal directly with the people writing the code, see clear starting prices and keep a focused scope, while an IT services team in Jammu with local staff suits projects needing on-site support, hardware installation or large teams. Pick based on the project, not the label.",
         "If you are comparing IT companies in Jammu, ask who will build the system, whether the quote is itemised, who owns the domain and code, and what support costs after the first year. Ask to see a live project running on a phone with mobile data. Walk away from anyone who registers your domain in their own name.",
         "BtechWaleTech is three engineers working remotely; we do not visit offices or install hardware. What we offer is direct access to the builders, itemised quotes, weekly staging links and complete handover. Our <a href='/portfolio/'>portfolio</a> shows the kind of work we deliver.",
       ],
@@ -256,7 +256,7 @@ const content: CityContent = {
     },
     {
       question: "Who owns the code and domain after the project?",
-      answer: "You do. Domain, hosting, code repository, app store developer accounts and every admin login are set up in your business's name from the beginning. At handover you receive documentation and credentials. You are free to continue with us, hire another developer or move to an IT company in Jammu without any permission from us.",
+      answer: "You do. Domain, hosting, code repository, app store developer accounts and every admin login are set up in your business's name from the beginning. At handover you receive documentation and credentials. You are free to continue with us, hire another developer or move to an IT services team in Jammu without any permission from us.",
     },
     {
       question: "What does the free maintenance period include?",

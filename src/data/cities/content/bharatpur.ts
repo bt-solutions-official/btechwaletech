@@ -9,7 +9,7 @@ const bharatpur: CityContent = {
     description:
       "Websites, Hindi local SEO and WhatsApp automation for Bharatpur mustard oil mills, Keoladeo hotels and guides, hospitals, schools and shops. From ₹10,000.",
     keywords: [
-      "website development company in Bharatpur",
+      "website development team in Bharatpur",
       "web designer Bharatpur",
       "website design Bharatpur Rajasthan",
       "SEO services Bharatpur",

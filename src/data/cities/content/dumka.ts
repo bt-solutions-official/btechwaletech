@@ -10,12 +10,12 @@ const dumka: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Dumka colleges, clinics, Basukinath lodges, tussar groups and stone chip suppliers.",
     keywords: [
       "IT services in Dumka",
-      "IT company in Dumka",
-      "website development company in Dumka",
+      "IT services team in Dumka",
+      "website development team in Dumka",
       "web design in Dumka",
-      "app development company in Dumka",
+      "app development team in Dumka",
       "Android app development in Dumka",
-      "software company in Dumka",
+      "software team in Dumka",
       "SEO services in Dumka",
       "digital marketing in Dumka",
       "ecommerce website in Dumka",
@@ -74,10 +74,10 @@ const dumka: CityContent = {
     },
     {
       id: "tussar-cocoon-software",
-      heading: "Software company in Dumka for tussar cocoon rearers and silk groups",
+      heading: "Software team in Dumka for tussar cocoon rearers and silk groups",
       paragraphs: [
         "The district administration describes Dumka as the largest cocoon-producing district in India. All ten blocks rear tussar silkworms, and Kathikund, Gopikandar, Shikaripara, Ranishwar, Masalia and Saraiyahat produce the most. The same official note points out a gap: very little of that silk is reeled, woven or finished inside the district, so most of the value is added somewhere else.",
-        "That gap is partly a record-keeping problem. Rearer groups, self-help groups, NGOs and traders need to know who reared how many cocoons, from which seed lot, what was paid and where each lot went. Much of this sits in notebooks and WhatsApp photos. A <strong>software company in Dumka</strong> should start there, with a simple web register that field staff can fill from a phone in the village and that a coordinator can check from town.",
+        "That gap is partly a record-keeping problem. Rearer groups, self-help groups, NGOs and traders need to know who reared how many cocoons, from which seed lot, what was paid and where each lot went. Much of this sits in notebooks and WhatsApp photos. A <strong>software team in Dumka</strong> should start there, with a simple web register that field staff can fill from a phone in the village and that a coordinator can check from town.",
         "We build such tools with rearer and group profiles, seed and cocoon lot entries, grading notes, payments due and paid, and a block-wise summary for review meetings. Lists export to Excel for reports to funders or departments. Custom tools of this kind start at ₹60,000 and are built in stages over six to twelve weeks, the collection register first.",
         "For groups that already weave or buy fabric from other districts, a small catalogue site that explains tussar and ahimsa silk honestly, with real photographs and the name of the group, often does more for sales than an expensive store.",
       ],
@@ -103,10 +103,10 @@ const dumka: CityContent = {
     },
     {
       id: "colleges-coaching-websites",
-      heading: "Website development company in Dumka for the university, colleges and coaching",
+      heading: "Website development team in Dumka for the university, colleges and coaching",
       paragraphs: [
         "Education is one of Dumka's steadiest trades. Sido Kanhu Murmu University, set up in 1992, serves the Santhal Pargana. The Phulo Jhano Murmu Medical College and Hospital opened in 2019, Government Engineering College Dumka runs in partnership with a private group, and the dairy technology college at Hansdiha is the first of its kind in Jharkhand. Around these sit private colleges, schools, hostels, libraries and a busy coaching circuit for competitive exams.",
-        "Students and parents compare options online, and a thin page with only a phone number loses to one that answers their questions. A <strong>website development company in Dumka</strong> working with an institute should publish courses, batch timings, fees or fee ranges, faculty with their subjects, results you can document, hostel details and the admission process, and keep all of it current.",
+        "Students and parents compare options online, and a thin page with only a phone number loses to one that answers their questions. A <strong>website development team in Dumka</strong> working with an institute should publish courses, batch timings, fees or fee ranges, faculty with their subjects, results you can document, hostel details and the admission process, and keep all of it current.",
         "For coaching centres we often add an online enquiry form, a test-series schedule, downloadable notes behind a login and a notice board that parents can check. Larger institutes may want a 700+ page SEO site, from ₹20,000, with one page per course, exam and nearby town, which takes three to five weeks.",
         "We never publish student results or photographs without written consent, and we keep admission pages free of claims about guaranteed selection.",
       ],
@@ -123,10 +123,10 @@ const dumka: CityContent = {
     },
     {
       id: "stone-chips-construction",
-      heading: "IT company in Dumka for stone chips, crusher and construction suppliers",
+      heading: "IT services team in Dumka for stone chips, crusher and construction suppliers",
       paragraphs: [
         "Parts of Dumka district sit on the Dumka–Godda uplands, with scattered hillocks, and stone chips and gravel are a working trade around Shikaripara. Villages such as Sarasdangal depend on producing, storing and transporting chips. Crusher owners, transporters, building material shops and civil contractors form a chain that runs on phone calls and handwritten slips.",
-        "When people search for an <strong>IT company in Dumka</strong> in this trade, what they usually need is a clean dispatch record. We build small web tools where each truck load is entered once with vehicle number, size of chips, quantity, buyer and rate, and the owner sees totals by buyer, pending payments and trucks on the road. Permit and document dates can trigger reminders so a lapse does not stop work.",
+        "When people search for an <strong>IT services team in Dumka</strong> in this trade, what they usually need is a clean dispatch record. We build small web tools where each truck load is entered once with vehicle number, size of chips, quantity, buyer and rate, and the owner sees totals by buyer, pending payments and trucks on the road. Permit and document dates can trigger reminders so a lapse does not stop work.",
         "A capability website helps too. Government departments, road contractors and builders from other districts want to see product sizes, loading capacity, the area you deliver to and registration details. We keep these pages factual, with no invented project lists, and add a quotation form that asks for quantity, size and site location.",
         "Dispatch tools start at ₹60,000; a simple supplier website starts at ₹10,000.",
       ],
@@ -146,7 +146,7 @@ const dumka: CityContent = {
       heading: "Android app development in Dumka and iOS apps for local institutions",
       paragraphs: [
         "Ask one question before paying for an app: will the same people open it every week? In Dumka the answer is often yes for a coaching institute sending tests and notices, a school sharing homework and fee dues with parents, a clinic issuing tokens and reports, a wholesaler taking repeat orders from village retailers, or a lodge group taking bookings for Shravan.",
-        "As an <strong>app development company in Dumka</strong> that works remotely, we build in Flutter or React Native, so a single codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the core screens your users need, and an admin panel your staff can run without help. We publish the app on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Dumka</strong> that works remotely, we build in Flutter or React Native, so a single codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the core screens your users need, and an admin panel your staff can run without help. We publish the app on Google Play and the Apple App Store using developer accounts registered to you.",
         "<strong>Android app development in Dumka</strong> with us starts at ₹40,000. The quote rises with payments, offline mode for weak signal areas, video lessons, maps or links to billing software, and each item is listed separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process.",
         "If your customers only need your address, timings and a price list, a website does that job at a quarter of the cost and needs no install. We will recommend the website in that case; an app that is deleted after a week is money gone.",
       ],
@@ -232,7 +232,7 @@ const dumka: CityContent = {
         "A simple site usually goes live one to two weeks after we receive your photos, timings and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early helps.",
     },
     {
-      question: "Which is the best IT company in Dumka for a small business?",
+      question: "Which is the best IT services team in Dumka for a small business?",
       answer:
         "Pick whoever gives clear written answers on ownership, cost and support. Ask each provider whose name the domain and code will be in, what exactly the price includes, and who will fix problems next year. We publish starting prices and reply on WhatsApp daily, but comparing a few options first is sensible.",
     },

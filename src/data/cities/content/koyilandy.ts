@@ -10,12 +10,12 @@ const koyilandy: CityContent = {
       "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Koyilandy fish traders, Gulf-linked families, shops, clinics and schools.",
     keywords: [
       "IT services in Koyilandy",
-      "IT company in Koyilandy",
-      "website development company in Koyilandy",
+      "IT services team in Koyilandy",
+      "website development team in Koyilandy",
       "web design in Koyilandy",
-      "app development company in Koyilandy",
+      "app development team in Koyilandy",
       "Android app development in Koyilandy",
-      "software company in Koyilandy",
+      "software team in Koyilandy",
       "SEO services in Koyilandy",
       "digital marketing in Koyilandy",
       "ecommerce website in Koyilandy",
@@ -75,20 +75,20 @@ const koyilandy: CityContent = {
     },
     {
       id: "harbour-seafood-trade",
-      heading: "Software company in Koyilandy for harbour and seafood businesses",
+      heading: "Software team in Koyilandy for harbour and seafood businesses",
       paragraphs: [
         "The fishing harbour is one of the town's economic anchors. Boats land their catch, auctioneers and commission agents set prices, and traders, ice suppliers, transporters and processors take the fish onward. The work is fast, cash-heavy and recorded in notebooks or on scraps of paper, which makes it easy for dues and disputes to pile up.",
-        "As a <strong>software company in Koyilandy</strong> that clients hire remotely, we build simple web-based tools that match this pace. A trader can record each purchase with the boat, species, weight and rate from a phone standing on the harbour, see what each buyer owes, and send a WhatsApp confirmation of every lot. The owner sees a daily summary of purchases, sales and outstanding amounts. Large buttons and Malayalam labels keep it usable with wet hands and little time.",
+        "As a <strong>software team in Koyilandy</strong> that clients hire remotely, we build simple web-based tools that match this pace. A trader can record each purchase with the boat, species, weight and rate from a phone standing on the harbour, see what each buyer owes, and send a WhatsApp confirmation of every lot. The owner sees a daily summary of purchases, sales and outstanding amounts. Large buttons and Malayalam labels keep it usable with wet hands and little time.",
         "For businesses that sell dried fish, frozen seafood or processed products outside Kerala, a plain B2B website builds confidence. It shows the products you actually handle, packing options, the licences and registrations you genuinely hold, and a contact person. We do not invent export markets, client lists or capacities.",
         "Custom software starts at ₹60,000 and generally takes six to twelve weeks. We start with a written list of screens and reports, confirm it with you, and roll the tool out in stages, often during the monsoon fishing ban when there is time to train staff before the season restarts.",
       ],
     },
     {
       id: "website-development-company-in-koyilandy",
-      heading: "Website development company in Koyilandy: building a first site that works",
+      heading: "Website development team in Koyilandy: building a first site that works",
       paragraphs: [
         "A good first website for a Koyilandy business answers the questions people already ask on the phone. Where is the shop, and is there parking near the market? What is new in stock? What are the timings during Ramadan or festival seasons? Do you deliver to Chengottukavu or Thikkodi? When these answers are clear, calls become orders rather than enquiries.",
-        "As a <strong>website development company in Koyilandy</strong> clients reach online, we start with a short call to decide the pages you need. A typical site has a home page, a page for each product line or service, a contact page with an exact map pin and a gallery of real photographs. Static websites of up to 100 pages start at ₹10,000 and usually go live in one to two weeks.",
+        "As a <strong>website development team in Koyilandy</strong> clients reach online, we start with a short call to decide the pages you need. A typical site has a home page, a page for each product line or service, a contact page with an exact map pin and a gallery of real photographs. Static websites of up to 100 pages start at ₹10,000 and usually go live in one to two weeks.",
         "For <strong>web design in Koyilandy</strong>, we lean on your own photographs and words. Malayalam text is set as real text in a comfortable size, not locked inside an image, so both customers and Google can read it. Pages are kept light so they open quickly on mobile data, with call and WhatsApp buttons always within reach.",
         "More on how we build is on our <a href=\"/services/web-development/\">web development</a> page. If you send us the three questions your customers ask most often, we will build the first draft around the answers.",
       ],
@@ -118,7 +118,7 @@ const koyilandy: CityContent = {
       heading: "Android and iOS app development in Koyilandy for local businesses",
       paragraphs: [
         "An app is worth the investment in Koyilandy when the same customers return often. A fish or meat delivery business with regular households can take daily orders through an app instead of dozens of phone calls. A supermarket or bakery can send offers and take repeat orders. A college or coaching centre can share timetables, results and fee reminders. A distributor can give field staff an app to log orders from shops along the coast.",
-        "As an <strong>app development company in Koyilandy</strong> that businesses reach on WhatsApp, we build Android and iOS apps in Flutter or React Native, so one codebase covers both. A typical app includes login by phone number, push notifications, an admin panel for your staff and simple reports. We publish it on Google Play and the App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Koyilandy</strong> that businesses reach on WhatsApp, we build Android and iOS apps in Flutter or React Native, so one codebase covers both. A typical app includes login by phone number, push notifications, an admin panel for your staff and simple reports. We publish it on Google Play and the App Store under developer accounts registered to you.",
         "<strong>Android app development in Koyilandy</strong> is usually the priority, but many Gulf-based family members use iPhones, so building both together is often sensible and costs little extra with a shared codebase. Apps start at ₹40,000. The final figure depends on screens, payments inside the app, delivery slot logic and links to billing software.",
         "Sometimes a website is enough. If customers only need location, timings and a product list, a fast site and a correct Maps listing will do the job without anyone installing anything. We will say so. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> page for more detail.",
       ],
@@ -175,11 +175,11 @@ const koyilandy: CityContent = {
     },
     {
       id: "remote-it-company-koyilandy",
-      heading: "Choosing a remote IT company in Koyilandy when the owner may be in Doha",
+      heading: "Choosing a remote IT services team in Koyilandy when the owner may be in Doha",
       paragraphs: [
         "It is common in Koyilandy for a shop to be run by one brother in town while another, working in Qatar or the UAE, signs off on spending. A vendor who needs everyone at a table on a Tuesday afternoon does not fit that household. We have no office in Koyilandy, and we say so in our first reply, because our way of working is built for exactly this kind of split family decision.",
         "The brief comes to us on WhatsApp as photographs, voice notes, old bills or links to sites you admire. We answer with questions, then a one-page plan. Video calls can be booked for late evening, so the relative abroad joins after work. Messages get answers every day of the week on Indian time, and every milestone produces something to open on a phone, such as a preview link or a test build of the app.",
-        "Looking for an <strong>IT company in Koyilandy</strong> is really a search for someone who replies, explains without jargon and keeps promises on record. We maintain one shared log of what was decided, what changed and when, visible to everyone you add, so nobody has to rely on remembering a phone call.",
+        "Looking for an <strong>IT services team in Koyilandy</strong> is really a search for someone who replies, explains without jargon and keeps promises on record. We maintain one shared log of what was decided, what changed and when, visible to everyone you add, so nobody has to rely on remembering a phone call.",
         "No rent and no sales staff means the money goes into design, code and content. A short note through the <a href=\"/contact/\">contact page</a> naming your business and the result you want is enough to begin.",
       ],
     },
@@ -230,7 +230,7 @@ const koyilandy: CityContent = {
         "Once photographs and shop details reach us, a small site is usually live inside a fortnight. Search-heavy sites run three to five weeks, stores four to eight, and bespoke applications six to twelve. The thing that slows most Koyilandy projects is content arriving late, so the first message you receive lists exactly what we need.",
     },
     {
-      question: "Which is the best website development company in Koyilandy?",
+      question: "Which is the best website development team in Koyilandy?",
       answer:
         "Choose a provider that puts the domain and hosting in your name, hands over the source code, gives an itemised quote and keeps answering after launch. We meet those tests as a remote team without a Koyilandy office. Ask each vendor you compare, including us, to show live work and explain ownership in writing.",
     },

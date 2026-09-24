@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & App Developers for Wokha",
     description:
-      "Instead of a software development company in Wokha, hire freelance engineers for produce trading software, falcon-season bookings, AI tools and SEO.",
+      "Instead of a software development team in Wokha, hire freelance engineers for produce trading software, falcon-season bookings, AI tools and SEO.",
     keywords: [
-      "software development company in Wokha",
-      "IT company in Wokha",
+      "software development team in Wokha",
+      "IT services team in Wokha",
       "IT solutions Wokha",
       "freelance software developer Wokha",
       "produce aggregation software Nagaland",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT services · Wokha, Nagaland",
     h1: "Freelance software and app developers for Wokha's traders, growers and tourism hosts",
     lede:
-      "Few people searching for a software development company in Wokha find one nearby that builds more than a basic site. BtechWaleTech is a freelance group of three engineers working remotely from India. For Wokha district we build produce and trade software, bookings for the Amur falcon season, mobile-first sites, WhatsApp ordering, AI helpers, dashboards and SEO, with starting prices published and every account left in your name.",
+      "Few people searching for a software development team in Wokha find one nearby that builds more than a basic site. BtechWaleTech is a freelance group of three engineers working remotely from India. For Wokha district we build produce and trade software, bookings for the Amur falcon season, mobile-first sites, WhatsApp ordering, AI helpers, dashboards and SEO, with starting prices published and every account left in your name.",
     pills: ["Trade and produce software", "Falcon-season bookings", "Mobile sites from ₹10,000", "WhatsApp ordering", "5 months free upkeep"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT solutions in Wokha as freelance developers, not a software development company: mobile websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom trade or booking software from ₹60,000. Three engineers work remotely from India, with five months of free maintenance.",
+    "BtechWaleTech provides IT solutions in Wokha as freelance developers, not a software development team: mobile websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom trade or booking software from ₹60,000. Three engineers work remotely from India, with five months of free maintenance.",
   snapshot: [
     { label: "Identity", value: "Headquarters of Wokha district, homeland of the Lotha Naga, often called the 'Land of Plenty' for its fertile valleys and farm produce" },
     { label: "Landscape", value: "Mount Tiyi, the district's highest peak at about 1,970 metres, and the Doyang river flowing past the Bhandari, Sanis and Wokha ranges" },
@@ -71,10 +71,10 @@ const content: CityContent = {
   sections: [
     {
       id: "company-or-freelancers-wokha",
-      heading: "Software development company in Wokha or freelance developers: what should you look for?",
+      heading: "Software development team in Wokha or freelance developers: what should you look for?",
       paragraphs: [
-        "Whether you hire a software development company or freelance developers for a Wokha project, look for four things: direct access to the person building it, a line-by-line estimate, ownership of the domain, hosting and code in your name, and a clear plan for support after launch. The label matters far less than those commitments.",
-        "BtechWaleTech is a freelance group, not a company, and has no office in Wokha. Three engineers work remotely from India and serve clients across the Northeast over WhatsApp, calls and shared test links. That keeps overheads out of the price and means the person you message is the person who writes and fixes the code.",
+        "Whether you hire a software development team or freelance developers for a Wokha project, look for four things: direct access to the person building it, a line-by-line estimate, ownership of the domain, hosting and code in your name, and a clear plan for support after launch. The label matters far less than those commitments.",
+        "BtechWaleTech is a small freelance group with no office in Wokha. Three engineers work remotely from India and serve clients across the Northeast over WhatsApp, calls and shared test links. That keeps overheads out of the price and means the person you message is the person who writes and fixes the code.",
         "A larger company can make sense for multi-year government contracts, projects needing registered-firm eligibility, or hardware installation across many locations. For focused jobs such as a trader's software, a tourism booking system or a school website, a freelance team usually moves faster and costs less.",
       ],
       list: [

@@ -9,7 +9,7 @@ const kapurthala: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Kapurthala shops, RCF suppliers, schools, clinics and visa consultants, plus Phagwara. Sites start from ₹10,000.",
     keywords: [
-      "website development company in Kapurthala",
+      "website development team in Kapurthala",
       "web designer Kapurthala",
       "SEO services Kapurthala",
       "local SEO Kapurthala",

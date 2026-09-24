@@ -10,12 +10,12 @@ const vrindavan: CityContent = {
       "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Vrindavan guest houses, poshak makers, ashrams, tour operators and shops.",
     keywords: [
       "IT services in Vrindavan",
-      "IT company in Vrindavan",
-      "website development company in Vrindavan",
+      "IT services team in Vrindavan",
+      "website development team in Vrindavan",
       "web design in Vrindavan",
-      "app development company in Vrindavan",
+      "app development team in Vrindavan",
       "Android app development in Vrindavan",
-      "software company in Vrindavan",
+      "software team in Vrindavan",
       "SEO services in Vrindavan",
       "digital marketing in Vrindavan",
       "ecommerce website in Vrindavan",
@@ -74,10 +74,10 @@ const vrindavan: CityContent = {
     },
     {
       id: "guest-houses-dharamshalas",
-      heading: "Website development company in Vrindavan for guest houses, hotels and dharamshalas",
+      heading: "Website development team in Vrindavan for guest houses, hotels and dharamshalas",
       paragraphs: [
         "Stays in Vrindavan range from simple dharamshalas and ashram rooms to guest houses on the parikrama marg and larger hotels near Prem Mandir and on the Chhatikara road. Many of them depend on booking portals that take a commission on every night sold, or on phone calls that come at all hours.",
-        "As a <strong>website development company in Vrindavan</strong> for stays, we build sites that show rooms honestly: photos, what is included, distance on foot to Banke Bihari or ISKCON, whether there is lift access for elderly guests, satvik food, and house rules. A booking request form or a simple room-availability calendar sends details to your WhatsApp, and you confirm with an advance by UPI.",
+        "As a <strong>website development team in Vrindavan</strong> for stays, we build sites that show rooms honestly: photos, what is included, distance on foot to Banke Bihari or ISKCON, whether there is lift access for elderly guests, satvik food, and house rules. A booking request form or a simple room-availability calendar sends details to your WhatsApp, and you confirm with an advance by UPI.",
         "A basic stay website starts at ₹10,000. A booking engine with room types, dates, deposits and a festival-rate calendar is custom work starting at ₹60,000. Most small guest houses do well with the simpler version plus an accurate Google Maps listing. See our <a href=\"/services/web-development/\">web development service</a> for what a build includes.",
       ],
     },
@@ -110,10 +110,10 @@ const vrindavan: CityContent = {
     },
     {
       id: "ashrams-trusts",
-      heading: "Software company in Vrindavan for ashrams, trusts and service organisations",
+      heading: "Software team in Vrindavan for ashrams, trusts and service organisations",
       paragraphs: [
         "Vrindavan has many ashrams, trusts and service organisations, including those that care for elderly women who have come to live in the town. These groups need to explain what they do, welcome visitors, take donations properly and account for every rupee. Paper registers and scattered spreadsheets make that hard.",
-        "As a <strong>software company in Vrindavan</strong> in the practical sense, we build donation and receipt tools, room allotment registers for visiting devotees, bhandara and seva planning calendars, and volunteer lists. Receipts can be issued with the trust's details, and reports show donations by month and purpose for the trustees.",
+        "As a <strong>software team in Vrindavan</strong> in the practical sense, we build donation and receipt tools, room allotment registers for visiting devotees, bhandara and seva planning calendars, and volunteer lists. Receipts can be issued with the trust's details, and reports show donations by month and purpose for the trustees.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built in stages. We do not give tax advice; your chartered accountant decides what receipts must contain, and we build to that. A simple website explaining the organisation's work can come first, from ₹10,000.",
       ],
     },
@@ -128,10 +128,10 @@ const vrindavan: CityContent = {
     },
     {
       id: "festival-peaks",
-      heading: "IT company in Vrindavan that plans for Janmashtami, Holi and weekend rushes",
+      heading: "IT services team in Vrindavan that plans for Janmashtami, Holi and weekend rushes",
       paragraphs: [
         "Few towns have demand as spiky as Vrindavan. Janmashtami, Holi, Radhashtami, Kartik month and long weekends bring crowds, while ordinary weekdays can be quiet. A website or booking tool that works on a Tuesday can fail when thousands of people search at once.",
-        "An <strong>IT company in Vrindavan</strong> should plan for that. We build light pages that load quickly on congested mobile networks, host them on services that handle traffic spikes, and set up festival-rate calendars, early booking pages and WhatsApp broadcast lists weeks ahead of each peak. For poshak sellers, we schedule festival collections so orders arrive before the deadline.",
+        "An <strong>IT services team in Vrindavan</strong> should plan for that. We build light pages that load quickly on congested mobile networks, host them on services that handle traffic spikes, and set up festival-rate calendars, early booking pages and WhatsApp broadcast lists weeks ahead of each peak. For poshak sellers, we schedule festival collections so orders arrive before the deadline.",
         "After each festival we review what happened: which pages drew visitors, which enquiries turned into bookings and what questions came up again and again. That becomes next year's plan.",
       ],
     },
@@ -141,7 +141,7 @@ const vrindavan: CityContent = {
       paragraphs: [
         "An app is worth it when the same people return often. In Vrindavan that might be regular devotees who visit every month and book the same guest house, poshak buyers who reorder for every festival, an ashram's circle of donors who want updates, or a tour operator's repeat customers. For a shop a visitor sees once, a good website and map listing is the smarter spend.",
         "For <strong>Android app development in Vrindavan</strong>, we build Android and iOS apps from one codebase with Flutter or React Native. Typical features are phone login, push notifications for festival bookings or new collections, room or product lists, booking and order forms, and an admin panel you control. We publish the app on Google Play and the App Store under developer accounts in your name.",
-        "Apps start at ₹40,000. Costs rise with payments, live availability or multiple languages. As an <strong>app development company in Vrindavan</strong> businesses can reach any day on WhatsApp, we suggest a small first version, tested by real users for a few weeks, before adding more. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "Apps start at ₹40,000. Costs rise with payments, live availability or multiple languages. As an <strong>app development team in Vrindavan</strong> businesses can reach any day on WhatsApp, we suggest a small first version, tested by real users for a few weeks, before adding more. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const vrindavan: CityContent = {
         "A guest house site with room pages, photos, a booking request form and a map listing usually takes one to two weeks, mostly waiting for photos and details. If you want it ready for Janmashtami or Holi, contact us at least a month ahead so there is time to test it and get the listing updated.",
     },
     {
-      question: "Which is the best website development company in Vrindavan?",
+      question: "Which is the best website development team in Vrindavan?",
       answer:
         "The best choice is one that understands pilgrim traffic, builds pages that load in crowded lanes, registers everything in your name and stays reachable after launch. Ask any developer for live work, domain ownership details and maintenance costs. We are a three-engineer remote team and are happy to be compared on those points.",
     },

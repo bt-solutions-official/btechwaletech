@@ -10,12 +10,12 @@ const savarkundla: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Savarkundla weighing scale makers, market yard traders, clinics, schools and shops.",
     keywords: [
       "IT services in Savarkundla",
-      "IT company in Savarkundla",
-      "website development company in Savarkundla",
+      "IT services team in Savarkundla",
+      "website development team in Savarkundla",
       "web design in Savarkundla",
-      "app development company in Savarkundla",
+      "app development team in Savarkundla",
       "Android app development in Savarkundla",
-      "software company in Savarkundla",
+      "software team in Savarkundla",
       "SEO services in Savarkundla",
       "digital marketing in Savarkundla",
       "ecommerce website in Savarkundla",
@@ -75,10 +75,10 @@ const savarkundla: CityContent = {
     },
     {
       id: "weighing-scale-manufacturers",
-      heading: "Website development company in Savarkundla for weighing scale manufacturers",
+      heading: "Website development team in Savarkundla for weighing scale manufacturers",
       paragraphs: [
         "A dealer or shopkeeper looking for a new scale wants to compare capacity, accuracy class, platform size, display type, battery life, stamping and warranty before calling anyone. If a Savarkundla maker has only a phone number on a directory site, the dealer often calls someone else whose details are clearer.",
-        "As a <strong>website development company in Savarkundla</strong>, we build model-wise catalogues. Each scale gets its own page with photographs from several angles, capacity and readability, platform size, body material, power options, what comes in the box, and a clear inquiry or dealer-price button. Mechanical models, electronic table-top scales, platform scales and weights can sit in separate sections so buyers do not get lost.",
+        "As a <strong>website development team in Savarkundla</strong>, we build model-wise catalogues. Each scale gets its own page with photographs from several angles, capacity and readability, platform size, body material, power options, what comes in the box, and a clear inquiry or dealer-price button. Mechanical models, electronic table-top scales, platform scales and weights can sit in separate sections so buyers do not get lost.",
         "Scales used for trade in India need legal metrology approval and verification, so we add a page explaining which of your models carry which approvals, written from your documents and nothing more. We never invent certifications, sales numbers or dealer names, and we show a customer's name only with their written permission.",
         "A compact catalogue site starts at ₹10,000. A larger SEO site with a page for every model, spare part and application starts at ₹20,000. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -95,10 +95,10 @@ const savarkundla: CityContent = {
     },
     {
       id: "workshop-software-savarkundla",
-      heading: "Software company in Savarkundla for workshop orders, stock and service",
+      heading: "Software team in Savarkundla for workshop orders, stock and service",
       paragraphs: [
         "Scale workshops juggle orders from many dealers, each wanting different models, stamping, branding and delivery dates. Parts come in from several suppliers. Finished scales wait for testing and verification. Service calls and repairs come back months later. Much of this still lives in registers and in the owner's memory.",
-        "As a <strong>software company in Savarkundla</strong>, we build web tools that match this flow: order entry by dealer and model, a job card that moves from assembly to testing to packing, a parts stock view with low-stock alerts, a dispatch register with LR numbers, and a service log where each scale's serial number shows its history.",
+        "As a <strong>software team in Savarkundla</strong>, we build web tools that match this flow: order entry by dealer and model, a job card that moves from assembly to testing to packing, a parts stock view with low-stock alerts, a dispatch register with LR numbers, and a service log where each scale's serial number shows its history.",
         "Market yard traders and commission agents get a different tool: a purchase register by farmer, lot, commodity, weight and rate, with payment status and buyer dispatches. Both run in a browser on a phone or office computer, with separate logins for the owner, accountant and staff.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We build the part that removes the most daily confusion first, run it for a month, and extend it only after it has proved itself.",
       ],
@@ -118,7 +118,7 @@ const savarkundla: CityContent = {
       heading: "Android app development in Savarkundla, and iOS apps for the same users",
       paragraphs: [
         "An app earns its cost when the same people use it often. In Savarkundla good cases are a scale maker's dealers across several states re-ordering stock and spares, field technicians logging service visits and repairs, a school sending homework and fee notices, or a hospital issuing tokens and sharing reports.",
-        "As an <strong>app development company in Savarkundla</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release usually includes mobile login, push notifications, the key screens your users need, and an admin panel for your office. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Savarkundla</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release usually includes mobile login, push notifications, the key screens your users need, and an admin panel for your office. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
         "<strong>Android app development in Savarkundla</strong> with us starts at ₹40,000. Dealer-specific pricing, payments, serial-number lookup, photo upload for service reports and Tally links add cost, and each is listed separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If your customers only need a catalogue, address and phone number, a website does the job for far less and nobody has to install anything. We will say so and suggest an app only when regular use is clear.",
       ],
@@ -165,11 +165,11 @@ const savarkundla: CityContent = {
     },
     {
       id: "remote-team-savarkundla",
-      heading: "How our remote IT company in Savarkundla works from first call to launch",
+      heading: "How our remote IT services team in Savarkundla works from first call to launch",
       paragraphs: [
         "We start with a call about your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. Work begins only after you approve it in writing.",
         "During the build you get preview links to open on your phone and show partners or family. Gujarati text is sent for your checking before anything goes live, and nothing is published without your approval. We reply on WhatsApp seven days a week on Indian Standard Time, and tell you about any delay as soon as we know.",
-        "Payments are staged against work you can see, and nothing is billed before the quote is approved. For owners looking for an <strong>IT company in Savarkundla</strong> that is honest about working remotely, this is how it runs in practice.",
+        "Payments are staged against work you can see, and nothing is billed before the quote is approved. For owners looking for an <strong>IT services team in Savarkundla</strong> that is honest about working remotely, this is how it runs in practice.",
       ],
     },
     {
@@ -237,7 +237,7 @@ const savarkundla: CityContent = {
         "A static site usually goes live one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having model data ready in a spreadsheet speeds everything up.",
     },
     {
-      question: "Which is the best website development company in Savarkundla?",
+      question: "Which is the best website development team in Savarkundla?",
       answer:
         "Compare providers on published prices, a written quote, domain and code in your name, relevant past work and support after launch. We meet those tests and reply on WhatsApp seven days a week, but speaking to two or three providers before choosing is sensible.",
     },

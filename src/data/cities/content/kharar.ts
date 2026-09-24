@@ -10,12 +10,12 @@ const kharar: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Kharar PG owners, builders, coaching centres, clinics and shops. From ₹10,000.",
     keywords: [
       "IT services in Kharar",
-      "IT company in Kharar",
-      "website development company in Kharar",
+      "IT services team in Kharar",
+      "website development team in Kharar",
       "web design in Kharar",
-      "app development company in Kharar",
+      "app development team in Kharar",
       "Android app development in Kharar",
-      "software company in Kharar",
+      "software team in Kharar",
       "SEO services in Kharar",
       "digital marketing in Kharar",
       "ecommerce website in Kharar",
@@ -70,13 +70,13 @@ const kharar: CityContent = {
       paragraphs: [
         "Twenty years ago Kharar was a tehsil town with a railway station, a grain market and a busy main road. Today it is one of the fastest-filling parts of the Greater Mohali region. Townships such as Gillco Valley and Shivalik City in Sector 127, the Sunny Enclave area around Desu Majra and the long ribbon of flats along the Kharar–Landran Road have brought in families, working couples and students from across Punjab, Himachal, Haryana and further away.",
         "Most of these newcomers did not grow up here. They do not know which dentist is good, which PG serves decent food or which hardware shop stocks a particular fitting. They find out the way newcomers everywhere do, by searching on their phones and reading reviews. A business that is easy to find online wins them early, and those early customers tend to stay.",
-        "Yet many Kharar businesses still depend on a board outside the shop, a pamphlet in the newspaper and word of mouth. That worked when the customer base was local. It works far less well when half the people in a new tower moved in last year. As an <strong>IT company in Kharar</strong> in practice, though fully remote, we help owners close that gap with a clear website, a correct Google listing, WhatsApp that answers promptly and, where it pays, an Android and iOS app.",
+        "Yet many Kharar businesses still depend on a board outside the shop, a pamphlet in the newspaper and word of mouth. That worked when the customer base was local. It works far less well when half the people in a new tower moved in last year. As an <strong>IT services team in Kharar</strong> in practice, though fully remote, we help owners close that gap with a clear website, a correct Google listing, WhatsApp that answers promptly and, where it pays, an Android and iOS app.",
         "We do not push the biggest package. A single-location clinic may only need eight pages and a fixed-up Maps pin, while a builder selling three projects needs a full listing site with floor plans and lead tracking.",
       ],
     },
     {
       id: "pg-student-housing",
-      heading: "Website development company in Kharar for PGs, hostels and co-living",
+      heading: "Website development team in Kharar for PGs, hostels and co-living",
       paragraphs: [
         "Chandigarh University at Gharuan is a short ride from Kharar, and a large share of its outstation students live off campus in the town. Sunny Enclave, Gillco Valley and the sectors around them are full of PGs, shared flats, girls' hostels, tiffin services and laundries that exist because of this demand. Every July and January, parents and students search for rooms from home towns hundreds of kilometres away.",
         "What they want to see is simple and specific: photographs of the actual rooms, single or shared occupancy, whether meals are included, rent and security deposit, electricity billing, Wi-Fi, curfew rules, distance to the campus bus route, and a phone number that answers. A PG website that shows this honestly gets serious enquiries instead of fifty identical “rate?” messages.",
@@ -162,7 +162,7 @@ const kharar: CityContent = {
     },
     {
       id: "android-ios-apps-kharar",
-      heading: "App development company in Kharar: Android and iOS apps that earn their cost",
+      heading: "App development team in Kharar: Android and iOS apps that earn their cost",
       paragraphs: [
         "Plenty of Kharar owners ask about an app because a competitor has one. The better question is whether your customers will open it again and again. An app pays off when the same people use it every week: PG tenants paying rent and raising complaints, coaching students checking schedules and test results, residents of a large society booking the clubhouse, or a restaurant's regular customers reordering.",
         "For these cases we build one app that runs on both Android and iPhone using Flutter or React Native. Typical features are phone number login, push notifications for rent reminders or class changes, online payment through UPI, a profile and history screen, and an admin panel where your staff update rooms, batches or menus without calling a developer. We publish it on Google Play and the App Store under your own developer accounts.",
@@ -234,7 +234,7 @@ const kharar: CityContent = {
         "Yes. We build a single Flutter or React Native app that runs on Android and iPhone, with login, push notifications, payments and an admin panel, and publish it on Google Play and the App Store under your accounts. Apps start at ₹40,000. For one-time customers, we will tell you if a website is enough.",
     },
     {
-      question: "Which is the best website development company in Kharar?",
+      question: "Which is the best website development team in Kharar?",
       answer:
         "The right one is whoever shows you comparable work, gives an itemised written quote, registers the domain and code in your name and stays reachable after launch. Ask every option about those four points. We meet them, but we suggest you compare on these terms rather than trusting any “best” label, including ours.",
     },

@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance IT & Software Developers for Tuensang",
     description:
-      "Looking for a software development company in Tuensang? Hire freelance engineers for offline-ready apps, info portals, AI tools and SEO. From ₹10,000.",
+      "Looking for a software development team in Tuensang? Hire freelance engineers for offline-ready apps, info portals, AI tools and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Tuensang",
-      "IT company in Tuensang",
+      "software development team in Tuensang",
+      "IT services team in Tuensang",
       "IT solutions Tuensang",
       "freelance software developer Tuensang",
       "offline app development Nagaland",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT services · Tuensang, Eastern Nagaland",
     h1: "Freelance software developers building offline-ready IT solutions for Tuensang",
     lede:
-      "There is rarely a software development company in Tuensang to walk into, and outside vendors often forget that signal fades a few kilometres from town. BtechWaleTech is a freelance group of three engineers working remotely from India. We build information portals, offline-ready data apps, simple business software, AI helpers, dashboards and search-friendly sites for Tuensang's institutions, organisations and traders.",
+      "There is rarely a software development team in Tuensang to walk into, and outside vendors often forget that signal fades a few kilometres from town. BtechWaleTech is a freelance group of three engineers working remotely from India. We build information portals, offline-ready data apps, simple business software, AI helpers, dashboards and search-friendly sites for Tuensang's institutions, organisations and traders.",
     pills: ["Offline-ready apps", "Information and notice portals", "Field data collection", "Sites from ₹10,000", "Replies on WhatsApp daily"],
   },
   quickAnswer:
-    "For IT solutions in Tuensang, BtechWaleTech is a freelance alternative to a software development company: information websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, and offline-ready custom software from ₹60,000, delivered in 1 to 12 weeks by scope. Three engineers work remotely from India, with five months' free maintenance.",
+    "For IT solutions in Tuensang, BtechWaleTech is a freelance alternative to a software development team: information websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, and offline-ready custom software from ₹60,000, delivered in 1 to 12 weeks by scope. Three engineers work remotely from India, with five months' free maintenance.",
   snapshot: [
     { label: "Administrative role", value: "Headquarters of Tuensang district and a key town of Eastern Nagaland, with district offices serving a wide hill area" },
     { label: "Communities", value: "The Chang Naga are the principal landowning community of the town, alongside Sangtam, Yimkhiungrü and Khiamniungan people" },
@@ -95,10 +95,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-tuensang",
-      heading: "Freelance developers or an IT company for Tuensang: which suits you?",
+      heading: "Freelance developers or an IT services team for Tuensang: which suits you?",
       paragraphs: [
         "For most Tuensang organisations, freelance developers suit focused projects with limited budgets, while an established IT company suits large, long contracts that require formal registration, tender eligibility or staff on site. Both can build good software; the question is which model fits the scale and the budget of the job.",
-        "BtechWaleTech is not an IT company and has no branch in Tuensang. We are three engineers working together as a freelance group, remotely from India. You speak with the engineers directly, see a working version every week and receive full documentation at the end. There is no sales layer and no office rent inside the price.",
+        "BtechWaleTech is not an IT services team and has no branch in Tuensang. We are three engineers working together as a freelance group, remotely from India. You speak with the engineers directly, see a working version every week and receive full documentation at the end. There is no sales layer and no office rent inside the price.",
         "If your project involves a government tender demanding a registered company, a large team for several years, or hardware installation across many sites, a company may be the correct choice, and we will say so. For a school portal, an NGO data app or a trader's stock tool, a freelance team is usually faster and more affordable.",
       ],
     },

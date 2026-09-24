@@ -9,7 +9,7 @@ const osmanabad: CityContent = {
     description:
       "Websites, Marathi local SEO and WhatsApp automation for Dharashiv (Osmanabad) shops, clinics, sugar and soybean trade and Tuljapur pilgrim businesses. From ₹10,000.",
     keywords: [
-      "website development company in Dharashiv",
+      "website development team in Dharashiv",
       "website designer Osmanabad",
       "web design Dharashiv Maharashtra",
       "SEO services Osmanabad",

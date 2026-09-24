@@ -13,8 +13,8 @@ const content: CityContent = {
       "iPhone app developers Pasighat",
       "Android app development Pasighat",
       "mobile app developers Pasighat",
-      "software development company in Pasighat",
-      "IT company in Pasighat",
+      "software development team in Pasighat",
+      "IT services team in Pasighat",
       "freelance software developers in Pasighat",
       "IT solutions Pasighat",
       "custom software Pasighat",
@@ -28,7 +28,7 @@ const content: CityContent = {
       "SEO services Pasighat",
       "local SEO East Siang",
       "IT support near me Pasighat",
-      "software company near me Arunachal",
+      "software team near me Arunachal",
       "school management software Pasighat",
       "data dashboard for government contractors Arunachal",
       "website developer Ruksin Mebo",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Pasighat · East Siang · Arunachal Pradesh",
     h1: "Freelance software developers in Pasighat for institutions, traders and Siang valley tourism",
     lede:
-      "BtechWaleTech is a freelance group of three software developers serving Pasighat, working remotely from India, and a practical alternative if you were searching for a software development company in Pasighat. We build custom software, booking systems, WhatsApp workflows, dashboards and fast websites for businesses and institutions in Pasighat and the wider East Siang district. You talk to the people writing the code, see starting prices before you commit, and get five months of maintenance free after launch.",
+      "BtechWaleTech is a freelance group of three software developers serving Pasighat, working remotely from India, and a practical alternative if you were searching for a software development team in Pasighat. We build custom software, booking systems, WhatsApp workflows, dashboards and fast websites for businesses and institutions in Pasighat and the wider East Siang district. You talk to the people writing the code, see starting prices before you commit, and get five months of maintenance free after launch.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Android & iOS apps from ₹40,000", "Remote, 7 days on WhatsApp"],
   },
   quickAnswer:
@@ -187,7 +187,7 @@ const content: CityContent = {
       paragraphs: [
         "BtechWaleTech builds Pasighat projects on widely used, well-documented technologies so that any competent developer can maintain them later: Astro and Next.js for websites, React and Node.js or Python for web applications, React Native or Flutter for store apps, n8n and the WhatsApp Business API for automation, and AWS or managed hosts for deployment.",
         "The choice matters more than it seems. A booking system for a Siang rafting company written in an obscure framework becomes expensive the day the original developer stops answering. A system built on React, Node.js and a standard PostgreSQL database can be picked up by thousands of engineers across India, including graduates from colleges in Arunachal and Assam. We document the stack, the database structure and the deployment steps in a handover file for exactly that reason.",
-        "Practical advice even if you never hire us: before signing with any developer or IT company in Pasighat, ask which framework and database they will use, whether the code will sit in a repository you can access, and who holds the hosting login. If the answers are vague, treat that as a warning sign rather than a technicality.",
+        "Practical advice even if you never hire us: before signing with any developer or IT services team in Pasighat, ask which framework and database they will use, whether the code will sit in a repository you can access, and who holds the hosting login. If the answers are vague, treat that as a warning sign rather than a technicality.",
       ],
       list: [
         "Websites: Astro, Next.js, static hosting with SSL",
@@ -209,9 +209,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner-pasighat",
-      heading: "Freelance team vs a software development company in Pasighat: which should you hire?",
+      heading: "Freelance team vs a software development team in Pasighat: which should you hire?",
       paragraphs: [
-        "Whether you hire a freelance team or a software development company in Pasighat, check three things: who will write the code, who will own it afterwards, and who will answer when something breaks. A larger company may offer more staff and formal contracts; a freelance group like ours offers direct access to the engineers and lower overheads. Either way, get all three answers in writing before you pay.",
+        "Whether you hire a freelance team or a software development team in Pasighat, check three things: who will write the code, who will own it afterwards, and who will answer when something breaks. A larger company may offer more staff and formal contracts; a freelance group like ours offers direct access to the engineers and lower overheads. Either way, get all three answers in writing before you pay.",
         "Ask for an itemised quote rather than a single lump sum, and check that the domain and hosting will be registered in your name. Ask to see earlier work, which for us is on our <a href='/portfolio/'>portfolio</a>. Ask what happens after launch: many local projects fail not at the build stage but six months later, when the developer has moved on and nobody knows the password.",
         "Also ask how changes are handled. Software always needs small adjustments once real users start working with it. A good partner builds that into the plan, shows you a live preview during development and fixes small issues the same day. You can read more about how we work on our <a href='/about/'>about page</a>.",
       ],

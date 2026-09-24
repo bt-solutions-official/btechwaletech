@@ -10,12 +10,12 @@ const nawabganj: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Nawabganj (Bareilly) cane contractors, grain traders, clinics, schools and shops.",
     keywords: [
       "IT services in Nawabganj",
-      "IT company in Nawabganj",
-      "website development company in Nawabganj",
+      "IT services team in Nawabganj",
+      "website development team in Nawabganj",
       "web design in Nawabganj",
-      "app development company in Nawabganj",
+      "app development team in Nawabganj",
       "Android app development in Nawabganj",
-      "software company in Nawabganj",
+      "software team in Nawabganj",
       "SEO services in Nawabganj",
       "digital marketing in Nawabganj Bareilly",
       "ecommerce website in Nawabganj",
@@ -74,19 +74,19 @@ const nawabganj: CityContent = {
     },
     {
       id: "cane-belt-software",
-      heading: "Software company in Nawabganj for the cane belt: trolley trips, supply records and dues",
+      heading: "Software team in Nawabganj for the cane belt: trolley trips, supply records and dues",
       paragraphs: [
         "Sugarcane shapes the calendar here. The tehsil has a sugar mill at Aurangabad village and a Sahkari Ganna Vikas Samiti in town, and each crushing season keeps harvesting labour, tractor-trolley owners, cane contractors, diesel suppliers and repair workshops busy from morning to night. The state's own systems issue supply slips to growers; what contractors and transporters usually lack is a clean record of their own side of the business.",
         "That record is where money goes missing. Which trolley carried how many quintals on which date, what advance each driver took, which farmer's cane was harvested by whose gang, and which payments have come in from the mill are often spread across diaries, WhatsApp photos and memory. When payments arrive late, as growers in the region know well, the argument is over whose notebook is right.",
-        "Working as a <strong>software company in Nawabganj</strong> for this trade, Ankur builds a simple web tool: each trip entered once from a phone with vehicle number, slip reference, weight and rate; running totals per trolley, per farmer and per gang; advances netted off automatically; and a dues screen showing what is still owed and since when. Vedansh plans it so the trip register goes live first, before the season, with payment tracking added in the off-season. These projects start at ₹60,000 and take six to twelve weeks in stages.",
+        "Working as a <strong>software team in Nawabganj</strong> for this trade, Ankur builds a simple web tool: each trip entered once from a phone with vehicle number, slip reference, weight and rate; running totals per trolley, per farmer and per gang; advances netted off automatically; and a dues screen showing what is still owed and since when. Vedansh plans it so the trip register goes live first, before the season, with payment tracking added in the off-season. These projects start at ₹60,000 and take six to twelve weeks in stages.",
       ],
     },
     {
       id: "grain-traders-input-dealers",
-      heading: "Website development company in Nawabganj for grain traders, rice millers and input dealers",
+      heading: "Website development team in Nawabganj for grain traders, rice millers and input dealers",
       paragraphs: [
         "Paddy in the kharif season and wheat in rabi move through Nawabganj's traders on their way to mills and buyers in Bareilly, Pilibhit and further away. Rice milling runs across the Bareilly–Pilibhit belt, and seed, fertiliser and pesticide dealers in town supply retailers in villages across the tehsil, often on credit that stretches until harvest.",
-        "For a trader, a website is less about looking modern and more about being checked. A buyer in another state who has never visited Nawabganj will search the firm's name before sending a truck. A good <strong>website development company in Nawabganj</strong> keeps that page factual: commodities handled, varieties and grades, typical lot sizes, storage, GST registration, loading arrangements and a named person to call. It should load on a slow connection and look proper on a laptop in a purchase office.",
+        "For a trader, a website is less about looking modern and more about being checked. A buyer in another state who has never visited Nawabganj will search the firm's name before sending a truck. A good <strong>website development team in Nawabganj</strong> keeps that page factual: commodities handled, varieties and grades, typical lot sizes, storage, GST registration, loading arrangements and a named person to call. It should load on a slow connection and look proper on a laptop in a purchase office.",
         "Input dealers need something different. A catalogue of brands and pack sizes, a stock and billing tool that shows credit outstanding per retailer, and reminders sent on WhatsApp before a due date. We connect these to Tally where the dealer already uses it rather than asking the accountant to learn a new system. A simple catalogue site starts at ₹10,000; a stock and credit tool is custom software from ₹60,000.",
       ],
     },
@@ -131,7 +131,7 @@ const nawabganj: CityContent = {
       heading: "Android app development in Nawabganj: who needs an app and who does not",
       paragraphs: [
         "An app pays for itself when the same group of people opens it again and again. In Nawabganj that usually means a coaching centre whose students need notes, test schedules and results; a school that sends fee reminders and notices to parents; an input dealer whose village retailers re-order every week; a hospital issuing OPD tokens; or a transporter whose drivers log trips during the crushing season.",
-        "As an <strong>app development company in Nawabganj</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally includes mobile-number login, push notifications, the three or four screens your users need most and an admin panel for your staff. Ankur handles the build, Santosh sets up the cloud backend on AWS, and the app is published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Nawabganj</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally includes mobile-number login, push notifications, the three or four screens your users need most and an admin panel for your staff. Ankur handles the build, Santosh sets up the cloud backend on AWS, and the app is published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Nawabganj</strong> with us starts at ₹40,000. The quote rises with online payments, offline entry for fields with weak signal, maps, multiple user roles or links to your billing software, and each of these is listed separately. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings, phone number and a price list, a website does that job at a quarter of the cost and needs no download. We will say so plainly, because an app that people install once and forget is money you will not see again.",
       ],
@@ -232,7 +232,7 @@ const nawabganj: CityContent = {
         "A simple static website for a Nawabganj shop is usually live within one to two weeks of receiving photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best IT company in Nawabganj for a website or app?",
+      question: "Which is the best IT services team in Nawabganj for a website or app?",
       answer:
         "The best choice for a Nawabganj business is one that publishes prices, registers the domain and code in your name, answers after launch and can show working examples. Ask every option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers first is sensible.",
     },

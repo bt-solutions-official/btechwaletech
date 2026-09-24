@@ -10,12 +10,12 @@ const sirsi: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Sirsi areca and spice traders, homestays, cooperatives, clinics and colleges.",
     keywords: [
       "IT services in Sirsi",
-      "IT company in Sirsi",
-      "website development company in Sirsi",
+      "IT services team in Sirsi",
+      "website development team in Sirsi",
       "web design in Sirsi",
-      "app development company in Sirsi",
+      "app development team in Sirsi",
       "Android app development in Sirsi",
-      "software company in Sirsi",
+      "software team in Sirsi",
       "SEO services in Sirsi",
       "digital marketing in Sirsi",
       "ecommerce website in Sirsi",
@@ -75,10 +75,10 @@ const sirsi: CityContent = {
     },
     {
       id: "areca-traders-software",
-      heading: "Software company in Sirsi for areca traders, commission agents and growers",
+      heading: "Software team in Sirsi for areca traders, commission agents and growers",
       paragraphs: [
         "Areca is Sirsi's main crop and its main business. The Totagars' Co-operative Sale Society, founded here in 1923, is the registered proprietor of the Sirsi Supari geographical indication and acts as the largest commission agent at the Sirsi trading yard. Around it work private traders, processors who sort and grade the nut, transporters and the growers themselves, many of whom also farm pepper, cardamom and betel leaf.",
-        "Traders and agents deal with lots identified by grower, variety, weight and grade, rates that move with each tender, advances, commission and payments due. As a <strong>software company in Sirsi</strong> for smaller firms, we build web registers where a lot is entered once, grower and buyer balances update themselves, and a sale statement can be shared on WhatsApp. Processors can add grading and stock records by variety.",
+        "Traders and agents deal with lots identified by grower, variety, weight and grade, rates that move with each tender, advances, commission and payments due. As a <strong>software team in Sirsi</strong> for smaller firms, we build web registers where a lot is entered once, grower and buyer balances update themselves, and a sale statement can be shared on WhatsApp. Processors can add grading and stock records by variety.",
         "We do not try to replicate a cooperative's full banking system; we build narrow tools for private firms and small societies that still keep books by hand. The first module is usually the lot and payment register. Custom software starts at ₹60,000 and takes six to twelve weeks, and the data lives in accounts you own.",
       ],
     },
@@ -111,10 +111,10 @@ const sirsi: CityContent = {
     },
     {
       id: "colleges-schools-sirsi",
-      heading: "Website development company in Sirsi for colleges, schools and coaching",
+      heading: "Website development team in Sirsi for colleges, schools and coaching",
       paragraphs: [
         "Sirsi is an education town for the whole district. The College of Forestry on Banavasi Road, a constituent college of the University of Agricultural Sciences, Dharwad, has run since 1997. Shri Marikamba High School dates from 1884, and MES runs PU and degree colleges near the Marikamba district stadium. Students come from across the uplands and the coast, which makes hostels, PGs, bookshops and coaching classes steady businesses.",
-        "A <strong>website development company in Sirsi</strong> should give these institutions sites that parents can trust. Course lists, fee ranges, admission dates, hostel rules, bus routes and a notice board that staff can update from a phone cover most needs. Coaching classes need batch timings, teacher details, fee ranges and results that can be documented.",
+        "A <strong>website development team in Sirsi</strong> should give these institutions sites that parents can trust. Course lists, fee ranges, admission dates, hostel rules, bus routes and a notice board that staff can update from a phone cover most needs. Coaching classes need batch timings, teacher details, fee ranges and results that can be documented.",
         "We build in Kannada and English, connect each site to its map listing and WhatsApp, and add simple tracking so you know which pages bring enquiries. We do not copy an institution's logo, results or photographs onto any other site.",
       ],
     },
@@ -133,7 +133,7 @@ const sirsi: CityContent = {
       paragraphs: [
         "Apps pay off only when the same people come back to them. Around Sirsi that might be growers checking what their lots sold for and when payment will arrive, repeat homestay guests booking the next visit, parents receiving notices from a school, patients taking a queue token, or village shops re-ordering from a distributor.",
         "Our apps are written once in Flutter or React Native and released for both Android and iPhone. The usual first release has phone-number sign-in, notifications, the handful of screens your users need and a dashboard for your staff. Because signal drops on ghat roads and in plantations, we often add offline entry that syncs later. Apps go live on Google Play and the App Store under your developer accounts.",
-        "<strong>Android app development in Sirsi</strong> with us starts at ₹40,000, and the quote itemises extras such as payments, maps, offline mode and integrations. As an <strong>app development company in Sirsi</strong> that works remotely, we explain the details on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "<strong>Android app development in Sirsi</strong> with us starts at ₹40,000, and the quote itemises extras such as payments, maps, offline mode and integrations. As an <strong>app development team in Sirsi</strong> that works remotely, we explain the details on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When customers just need your phone number, directions and a price list, a website is the cheaper and better answer, and we will recommend it.",
       ],
     },
@@ -232,7 +232,7 @@ const sirsi: CityContent = {
         "Once we have your text and photos, a static site is usually live within one to two weeks. Allow three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Monsoon power cuts on your side rarely matter; late content does.",
     },
     {
-      question: "Who is the best website development company in Sirsi?",
+      question: "Who is the best website development team in Sirsi?",
       answer:
         "Judge by evidence, not adverts. Check whether prices are published, whether the domain and code will be yours, whether you can see live sites they built and whether they respond after launch. We are happy to be measured that way, and we would still suggest talking to two or three providers.",
     },

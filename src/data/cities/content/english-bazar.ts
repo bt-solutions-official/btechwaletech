@@ -9,7 +9,7 @@ const englishBazar: CityContent = {
     description:
       "Websites, Bengali and English SEO, mango and silk stores and WhatsApp automation for English Bazar and Malda traders, clinics and schools. Sites from ₹10,000.",
     keywords: [
-      "website development company in Malda",
+      "website development team in Malda",
       "web designer English Bazar",
       "website design Malda West Bengal",
       "SEO services Malda",
@@ -19,7 +19,7 @@ const englishBazar: CityContent = {
       "silk saree website design",
       "ecommerce website Malda",
       "WhatsApp automation Malda",
-      "software company Malda",
+      "software team Malda",
       "website cost in Malda",
       "freelance web developer English Bazar",
       "Malda te website banate koto khoroch",

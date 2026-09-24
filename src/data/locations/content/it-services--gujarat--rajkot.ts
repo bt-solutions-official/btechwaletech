@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software development in Rajkot: web apps, AI agents, dashboards and hosting. Software from ₹60,000, apps and automation from ₹40,000, quotes in 2 days.",
     keywords: [
-      "software development company in Rajkot",
-      "IT company in Rajkot",
+      "software development team in Rajkot",
+      "IT services team in Rajkot",
       "IT solutions Rajkot",
       "custom software development Rajkot",
       "ERP software for Rajkot manufacturers",
@@ -214,16 +214,16 @@ const content: CityContent = {
     },
     {
       id: "freelance-team-vs-software-company-rajkot",
-      heading: "Freelance team vs a software development company in Rajkot: which should you hire?",
+      heading: "Freelance team vs a software development team in Rajkot: which should you hire?",
       paragraphs: [
-        "A Rajkot business should hire a freelance team when it wants direct access to the engineers, lower overheads and a focused system built in weeks, and a software development company when it needs a large bench, formal vendor registration or round-the-clock staffed support. Both are legitimate choices; the right one depends on project size and how your purchasing works.",
+        "A Rajkot business should hire a freelance team when it wants direct access to the engineers, lower overheads and a focused system built in weeks, and a software development team when it needs a large bench, formal vendor registration or round-the-clock staffed support. Both are legitimate choices; the right one depends on project size and how your purchasing works.",
         "Rajkot has a real IT services scene of its own, with software houses offering web, mobile and ERP work to local and overseas clients. If you are comparing IT companies in Rajkot, the main differences with a freelance group like BtechWaleTech are structural. A company typically has account managers, project managers and developers in separate roles, which helps on very large programmes but adds cost and a layer between you and the person writing code. With us, the three engineers you speak to on the first call are the same three who design, build, deploy and maintain the system.",
         "The tools are the same ones good companies use. We build web applications with <strong>Next.js</strong> and <strong>Node.js</strong> or <strong>Python</strong> backends, fast public websites with <strong>Astro</strong>, mobile apps with <strong>React Native</strong> or <strong>Flutter</strong> for Android and iOS apps on Google Play and the App Store, workflow automation with <strong>n8n</strong> and custom code, messaging through the <strong>WhatsApp Business API</strong>, and hosting on <strong>AWS</strong> or comparable cloud providers with an India region.",
         "Honest limits matter too. A three-person freelance group cannot staff a help desk around the clock, will not take on a hundred-module ERP replacement in one go, and does not hold formal vendor empanelments. What we offer instead is close attention, transparent starting prices and code that belongs to you from day one.",
       ],
       list: [
         "Freelance group: direct engineer contact, lean pricing, focused scope, faster first release",
-        "Software company: larger team, formal processes, vendor registrations, staffed support desks",
+        "Software team: larger team, formal processes, vendor registrations, staffed support desks",
         "Either way: insist on a written scope, itemised price and ownership in your name",
       ],
     },
@@ -263,7 +263,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company based in Rajkot?",
+      question: "Are you a software development team based in Rajkot?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a registered software house, and we do not have an office, branch or staff in Rajkot. We work with Rajkot clients through video calls, screen sharing, WhatsApp and shared documents. For software projects this works well, because most of the work is understanding your process and building screens, which we do together online. If a factory walkthrough would help, you can show us the floor on a video call.",
     },

@@ -10,12 +10,12 @@ const anjangaon: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Anjangaon Surji banana traders, pimpli growers, ginners, clinics, colleges and shops.",
     keywords: [
       "IT services in Anjangaon",
-      "IT company in Anjangaon",
-      "website development company in Anjangaon",
+      "IT services team in Anjangaon",
+      "website development team in Anjangaon",
       "web design in Anjangaon",
-      "app development company in Anjangaon",
+      "app development team in Anjangaon",
       "Android app development in Anjangaon",
-      "software company in Anjangaon",
+      "software team in Anjangaon",
       "SEO services in Anjangaon",
       "digital marketing in Anjangaon",
       "ecommerce website in Anjangaon",
@@ -75,11 +75,11 @@ const anjangaon: CityContent = {
     },
     {
       id: "banana-trade-software",
-      heading: "Software company in Anjangaon for the banana trade: loading, lorries and payments",
+      heading: "Software team in Anjangaon for the banana trade: loading, lorries and payments",
       paragraphs: [
         "Anjangaon is known across Vidarbha as a banana hub, and in season the roads out of town carry a steady line of lorries loaded with green bunches. Behind each load sits a chain of people: the grower, the commission agent or trader, the cutting and loading gang, the lorry owner, the driver, and a buyer many hundreds of kilometres away who pays days or weeks later.",
         "Most of the bookkeeping for this chain still lives in diaries and on the backs of receipts. Owners want to know how many quintals were bought from which grower at what rate, which lorry went to which city, what freight and advance the driver received, how much the buyer still owes, and whether a rate dispute from last month was ever settled. Small errors turn into long arguments.",
-        "Working as a <strong>software company in Anjangaon</strong>, we build web tools that record each purchase and dispatch once, from a phone at the farm or the loading point. Totals then appear by grower, by lorry, by buyer and by week. Outstanding dues are highlighted, and a printable statement can be sent to a buyer on WhatsApp in a tap. Staff logins can be limited so a munim sees entries while only the owner sees margins.",
+        "Working as a <strong>software team in Anjangaon</strong>, we build web tools that record each purchase and dispatch once, from a phone at the farm or the loading point. Totals then appear by grower, by lorry, by buyer and by week. Outstanding dues are highlighted, and a printable statement can be sent to a buyer on WhatsApp in a tap. Staff logins can be limited so a munim sees entries while only the owner sees margins.",
         "Such systems start at ₹60,000 and take six to twelve weeks, built in stages. We usually deliver the purchase and dispatch register first, because it saves time from the first week, and add buyer statements, driver advances and reports afterwards. If you already keep accounts in Tally, the tool can export entries in a format your accountant can import instead of retyping.",
       ],
     },
@@ -95,10 +95,10 @@ const anjangaon: CityContent = {
     },
     {
       id: "ginning-oil-mills",
-      heading: "Website development company in Anjangaon for ginning units, oil mills and sawmills",
+      heading: "Website development team in Anjangaon for ginning units, oil mills and sawmills",
       paragraphs: [
         "Cotton ginning has a long history in Anjangaon, and the town still has ginning and pressing units, oil mills and sawmills. These businesses sell to spinning mills, oil traders, furniture makers and builders across Vidarbha and neighbouring states, and their buyers increasingly look them up before placing an order or sending a representative.",
-        "A <strong>website development company in Anjangaon</strong> should keep such sites factual and quick. The pages that matter are the ones a purchase manager checks: what you process, capacity in plain terms, machinery, the season you operate, how you pack and dispatch, registration and GST details, and named contacts with direct numbers. Photographs of the actual unit carry more weight than stock images of factories that are not yours.",
+        "A <strong>website development team in Anjangaon</strong> should keep such sites factual and quick. The pages that matter are the ones a purchase manager checks: what you process, capacity in plain terms, machinery, the season you operate, how you pack and dispatch, registration and GST details, and named contacts with direct numbers. Photographs of the actual unit carry more weight than stock images of factories that are not yours.",
         "For oil mills selling cold-pressed or wood-pressed oil to households, the site can add product pages, bottle sizes and a WhatsApp order button. Sawmills can show timber types and sizes they stock, with a simple enquiry form that asks for dimensions and quantity.",
         "We never list a buyer or supplier on your site without their written permission. A capability website of this kind usually starts at ₹10,000 and is ready in one to two weeks, and it can later gain a login area where regular buyers check lot details or download invoices.",
       ],
@@ -108,7 +108,7 @@ const anjangaon: CityContent = {
       heading: "Android app development in Anjangaon, and iOS apps for Surji businesses",
       paragraphs: [
         "An app earns its cost when a fixed group of people opens it again and again. In Anjangaon that could be outside buyers who book banana loads every week, the loading supervisors who record lorries at the farm, parents who need notices and fee reminders from a school, patients who take tokens at a busy clinic, or village retailers reordering seed and fertiliser from a dealer in town.",
-        "As an <strong>app development company in Anjangaon</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version usually has mobile number login, push notifications, the few screens your users actually need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Anjangaon</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version usually has mobile number login, push notifications, the few screens your users actually need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Anjangaon</strong> with us starts at ₹40,000. The cost goes up with online payments, offline entry for farms where signal drops, maps, photographs of each load, or links to your existing software, and each of those is listed separately in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses here do not need an app at all. If your customers only want your phone number, today's rate and your location, a website and a WhatsApp number do that for a fraction of the price, and we will say so before you spend anything. An app that is opened once and forgotten helps nobody.",
       ],
@@ -233,7 +233,7 @@ const anjangaon: CityContent = {
         "A simple static site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Anjangaon?",
+      question: "Which is the best website development team in Anjangaon?",
       answer:
         "Choose one that publishes prices, puts the domain and code in your name, stays available after launch and shows real work. Ask each option the same questions and compare the answers. We meet those tests and reply on WhatsApp all week, but speaking to two or three providers first is sensible.",
     },

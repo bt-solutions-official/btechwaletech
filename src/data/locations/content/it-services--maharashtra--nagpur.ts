@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers for Nagpur: fleet and trip software, lead CRMs, contractor tools, AI agents and Android and iOS apps. Apps from ₹40,000.",
     keywords: [
-      "software development company in Nagpur",
-      "IT company in Nagpur",
+      "software development team in Nagpur",
+      "IT services team in Nagpur",
       "IT solutions Nagpur",
       "freelance software developer Nagpur",
       "custom software development Nagpur",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Nagpur, Maharashtra",
     h1: "Freelance software developers in Nagpur for transport, trade, contractors and service firms",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Nagpur transporters, Kalamna and Itwari traders, mining and power contractors, clinics and service businesses hire us instead of a software development company in Nagpur to build trip and fleet software, lead CRMs, contractor tools, AI agents, dashboards and Android and iOS apps.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Nagpur transporters, Kalamna and Itwari traders, mining and power contractors, clinics and service businesses hire us instead of a software development team in Nagpur to build trip and fleet software, lead CRMs, contractor tools, AI agents, dashboards and Android and iOS apps.",
     pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Fleet and trip software", "5 months free maintenance"],
   },
   quickAnswer:
-    "Considering a software development company in Nagpur? BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Quotes are itemised within about two working days, with five months of free maintenance.",
+    "Considering a software development team in Nagpur? BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Quotes are itemised within about two working days, with five months of free maintenance.",
   snapshot: [
     { label: "Geography", value: "Near the geographic centre of India, with the Zero Mile Stone and national highways NH 44 and NH 53 crossing the city" },
     { label: "SEZ and IT", value: "MIHAN SEZ near the airport with IT delivery centres, plus IT parks in Parsodi and the city" },
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-nagpur",
-      heading: "Freelance developers or a software development company in Nagpur: which is right?",
+      heading: "Freelance developers or a software development team in Nagpur: which is right?",
       paragraphs: [
-        "A freelance group is right for Nagpur businesses that need a focused system built around their own process, with direct engineer contact and controlled cost; a software development company in Nagpur is right when you need a large team, on-site staff, certifications or a long outsourcing contract. Most transporters, traders, contractors and service firms fit the first case.",
+        "A freelance group is right for Nagpur businesses that need a focused system built around their own process, with direct engineer contact and controlled cost; a software development team in Nagpur is right when you need a large team, on-site staff, certifications or a long outsourcing contract. Most transporters, traders, contractors and service firms fit the first case.",
         "Nagpur's IT scene includes delivery centres of national IT companies in MIHAN, export-oriented local firms, and many small studios. Large centres serve global clients and rarely take on a ₹1 lakh fleet system. Small studios often resell generic products that force a transporter or contractor to change how they work.",
         "BtechWaleTech builds custom systems with three engineers who write, host and support the code. You get an itemised quote and every account in your name. We take a limited number of projects at a time and will say so if your requirement needs a bigger team.",
       ],
@@ -273,9 +273,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a Nagpur software company?",
+      question: "Is BtechWaleTech a Nagpur software team?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Nagpur. We serve Nagpur businesses through video calls, WhatsApp and phone, and you work directly with the engineers who build and support your system.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Nagpur. We serve Nagpur businesses through video calls, WhatsApp and phone, and you work directly with the engineers who build and support your system.",
     },
     {
       question: "How do Nagpur clients pay?",

@@ -9,7 +9,7 @@ const darbhanga: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Darbhanga makhana traders, Mithila art sellers, hospitals and coaching centres. From ₹10,000, with 5 free months of upkeep.",
     keywords: [
-      "website development company in Darbhanga",
+      "website development team in Darbhanga",
       "website designer Darbhanga",
       "web design Darbhanga price",
       "freelance web developer Darbhanga",
@@ -21,7 +21,7 @@ const darbhanga: CityContent = {
       "hospital website Darbhanga",
       "coaching institute website Darbhanga",
       "WhatsApp automation Darbhanga",
-      "software company Darbhanga",
+      "software team Darbhanga",
       "website maintenance Darbhanga",
       "Darbhanga me website banana hai",
       "दरभंगा वेबसाइट बनाने वाले",

@@ -10,12 +10,12 @@ const kothagudem: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kothagudem mine contractors, suppliers, hospitals, colleges and shops.",
     keywords: [
       "IT services in Kothagudem",
-      "IT company in Kothagudem",
-      "website development company in Kothagudem",
+      "IT services team in Kothagudem",
+      "website development team in Kothagudem",
       "web design in Kothagudem",
-      "app development company in Kothagudem",
+      "app development team in Kothagudem",
       "Android app development in Kothagudem",
-      "software company in Kothagudem",
+      "software team in Kothagudem",
       "SEO services in Kothagudem",
       "digital marketing in Kothagudem",
       "ecommerce website in Kothagudem",
@@ -74,20 +74,20 @@ const kothagudem: CityContent = {
     },
     {
       id: "mine-contractors-software",
-      heading: "Software company in Kothagudem for mine and power plant contractors",
+      heading: "Software team in Kothagudem for mine and power plant contractors",
       paragraphs: [
         "Much of Kothagudem's private business depends on contracts with the mines and the power plant: manpower supply, overburden and coal transport, vehicle and equipment hire, civil works, electrical maintenance, canteen services, security and housekeeping. Each contract brings a stack of records that has to reconcile at billing time.",
         "Typical headaches are daily attendance across several sites, hours logged by each hired vehicle or machine, diesel issued, work completed against the order, running bills submitted and paid, and statutory payments for workers. Owners often keep these in separate registers and spreadsheets, and a mismatch can hold up a bill for weeks.",
-        "Acting as a <strong>software company in Kothagudem</strong> for such firms, we build web tools where supervisors enter attendance and machine hours from a phone, the office sees totals by work order, and bills are drafted from the same data. Permit, fitness and insurance renewal dates can trigger reminders. Custom software is ₹60,000 onwards and is built in phases across six to twelve weeks, with the daily entry screens first.",
+        "Acting as a <strong>software team in Kothagudem</strong> for such firms, we build web tools where supervisors enter attendance and machine hours from a phone, the office sees totals by work order, and bills are drafted from the same data. Permit, fitness and insurance renewal dates can trigger reminders. Custom software is ₹60,000 onwards and is built in phases across six to twelve weeks, with the daily entry screens first.",
         "Our tools keep your own records in order. They do not replace the principal employer's portals or official returns, but they make preparing for them far quicker.",
       ],
     },
     {
       id: "engineering-suppliers-websites",
-      heading: "Website development company in Kothagudem for industrial suppliers",
+      heading: "Website development team in Kothagudem for industrial suppliers",
       paragraphs: [
         "Around the collieries, the power station and the paperboard unit near Bhadrachalam there is a large supplier base: bearings and spares, hydraulics, conveyor belting, safety gear, electrical panels, lubricants, rewinding and fabrication shops, and hire of cranes and earthmovers. Buyers in these organisations and their contractors increasingly check a supplier online before sending an enquiry.",
-        "A <strong>website development company in Kothagudem</strong> should keep such sites factual and quick to scan: product categories and brands handled, workshop machines, stock held locally, service response areas, GST and registration details, certifications you actually hold, and named contact people. Photographs of your own store and workshop build more trust than stock images of factories.",
+        "A <strong>website development team in Kothagudem</strong> should keep such sites factual and quick to scan: product categories and brands handled, workshop machines, stock held locally, service response areas, GST and registration details, certifications you actually hold, and named contact people. Photographs of your own store and workshop build more trust than stock images of factories.",
         "For suppliers who quote often, an enquiry form with drawing or photo upload saves back-and-forth on WhatsApp. For hire firms, a fleet page with machine types, capacities and availability on request brings better leads.",
         "We never put a customer's name or logo on your site without written permission from that customer. See our <a href=\"/services/web-development/\">web development service</a> for how these builds are handled.",
       ],
@@ -107,7 +107,7 @@ const kothagudem: CityContent = {
       heading: "Android app development in Kothagudem, with iOS apps from the same code",
       paragraphs: [
         "An app earns its cost when people open it every day or every week. For Kothagudem, that points to site supervisors logging attendance and machine hours, drivers recording trips and diesel, a hospital giving out OPD tokens, a school or coaching institute sending circulars and fee reminders, or a distributor taking repeat orders from shops in the mandals.",
-        "As an <strong>app development company in Kothagudem</strong> that works remotely, we write the app once in Flutter or React Native and release it for Android and iPhone together. A first release usually has sign-in with a mobile OTP, push alerts, the handful of screens your users actually need and a web admin panel for the office. Listing on Google Play and the Apple App Store is done under developer accounts that belong to your business.",
+        "As an <strong>app development team in Kothagudem</strong> that works remotely, we write the app once in Flutter or React Native and release it for Android and iPhone together. A first release usually has sign-in with a mobile OTP, push alerts, the handful of screens your users actually need and a web admin panel for the office. Listing on Google Play and the Apple App Store is done under developer accounts that belong to your business.",
         "<strong>Android app development in Kothagudem</strong> with us is ₹40,000 onwards. The quote climbs with online payment, offline entry for pits and sites without signal, GPS, photo capture of slips, or links to your existing software, and each is priced as its own item. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your location, phone and a rate list, skip the app. A website covers that for about a quarter of the money, and we will say so rather than sell you something that sits unused.",
       ],
@@ -163,9 +163,9 @@ const kothagudem: CityContent = {
     },
     {
       id: "remote-team-kothagudem",
-      heading: "Choosing an IT company in Kothagudem when the team is remote",
+      heading: "Choosing an IT services team in Kothagudem when the team is remote",
       paragraphs: [
-        "Anyone searching for an <strong>IT company in Kothagudem</strong> might expect a local office to visit. We do not have one, and we make that clear before any work starts. What you gain is a direct line to the engineers who build your project, with no middle layer of sales staff.",
+        "Anyone searching for an <strong>IT services team in Kothagudem</strong> might expect a local office to visit. We do not have one, and we make that clear before any work starts. What you gain is a direct line to the engineers who build your project, with no middle layer of sales staff.",
         "Our sequence is simple. We talk about your business, your customers and the result you want. You receive a written plan of pages or app screens, a schedule and an itemised quote. After you approve it, we share preview links you can open on your own phone, and show family or partners, long before launch. Telugu content is always checked by you before it is published.",
         "We answer WhatsApp every day of the week on Indian Standard Time. If something is going to be late, you hear about it as soon as we know. Payment is staged against delivered work, and no invoice is raised before your written approval. Start a conversation from our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -230,7 +230,7 @@ const kothagudem: CityContent = {
         "Expect one to two weeks for a static site once your text and photos arrive, three to five weeks for a large SEO site, four to eight weeks for an ecommerce store and six to twelve weeks for custom software. Waiting on content is the most common cause of delay, so preparing it early helps.",
     },
     {
-      question: "Which is the best website development company in Kothagudem?",
+      question: "Which is the best website development team in Kothagudem?",
       answer:
         "Choose a provider that states starting prices openly, registers the domain and code under your name, stays in touch after launch and can show live work. Ask each option the same questions and compare the answers. We are glad to be measured that way, but talking to two or three providers first is a sensible step.",
     },

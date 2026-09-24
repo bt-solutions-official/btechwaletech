@@ -10,12 +10,12 @@ const pandharpur: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Pandharpur lodges, maths, prasad shops, sugar and pomegranate trade, and colleges.",
     keywords: [
       "IT services in Pandharpur",
-      "IT company in Pandharpur",
-      "website development company in Pandharpur",
+      "IT services team in Pandharpur",
+      "website development team in Pandharpur",
       "web design in Pandharpur",
-      "app development company in Pandharpur",
+      "app development team in Pandharpur",
       "Android app development in Pandharpur",
-      "software company in Pandharpur",
+      "software team in Pandharpur",
       "SEO services in Pandharpur",
       "digital marketing in Pandharpur",
       "ecommerce website in Pandharpur",
@@ -74,20 +74,20 @@ const pandharpur: CityContent = {
     },
     {
       id: "lodges-bhakt-niwas",
-      heading: "Website development company in Pandharpur for lodges and bhakt niwas",
+      heading: "Website development team in Pandharpur for lodges and bhakt niwas",
       paragraphs: [
         "During the wari, rooms near the temple and the Pradakshina Road are scarce, and families from Mumbai, Pune, Karnataka and Telangana start searching well in advance. Many small lodges still rely on regular guests calling a known number. A clear website and map listing lets new guests find you and book without repeated calls.",
-        "As a <strong>website development company in Pandharpur</strong>, we build lodge sites with honest details: room types and photographs, beds per room, bathroom arrangement, parking, lift or stairs, walking distance to the temple and the ghats, and rates or rate range for normal days and yatra days. A booking request form or WhatsApp button collects dates, number of guests and a contact number.",
+        "As a <strong>website development team in Pandharpur</strong>, we build lodge sites with honest details: room types and photographs, beds per room, bathroom arrangement, parking, lift or stairs, walking distance to the temple and the ghats, and rates or rate range for normal days and yatra days. A booking request form or WhatsApp button collects dates, number of guests and a contact number.",
         "For larger properties we add an availability calendar and advance payment by UPI, with a clear cancellation rule. A simple lodge site starts at ₹10,000. A booking system with payments and an admin panel is quoted separately, usually within the ecommerce or custom software ranges. We launch well before Ashadhi so you are not testing during the rush.",
         "Photographs make the biggest difference on a lodge site. Pilgrims travelling with elderly parents want to see the staircase, the bathroom and the approach lane before they book, and a single honest photograph of a narrow entrance saves an argument at check-in. We give you a short shot list so a family member can take the pictures on a phone in good light.",
       ],
     },
     {
       id: "maths-dharmashalas-software",
-      heading: "Software company in Pandharpur for maths, dharmashalas and trusts",
+      heading: "Software team in Pandharpur for maths, dharmashalas and trusts",
       paragraphs: [
         "Pandharpur has many maths and dharmashalas run by trusts, communities and dindi groups, some of them over a century old. They house pilgrims, run annadan, hold kirtans and receive donations from followers spread across Maharashtra and beyond. Much of the record keeping is in handwritten registers maintained by volunteers.",
-        "Working as a <strong>software company in Pandharpur</strong> for such institutions, we build simple web tools for room allotment during yatras, devotee registration, donation receipts with the trust's registration details, annadan contributions by date, and event notices. Trustees can see totals by month and by yatra, and receipts can be sent to donors on WhatsApp or email.",
+        "Working as a <strong>software team in Pandharpur</strong> for such institutions, we build simple web tools for room allotment during yatras, devotee registration, donation receipts with the trust's registration details, annadan contributions by date, and event notices. Trustees can see totals by month and by yatra, and receipts can be sent to donors on WhatsApp or email.",
         "We never handle donations ourselves; payments go directly to the trust's own bank account or UPI ID. Custom tools start at ₹60,000 and take six to twelve weeks, built in stages so the room register is ready before the next big yatra. For a trust that only needs to show its history, facilities and contact, a static website from ₹10,000 is enough.",
       ],
     },
@@ -115,7 +115,7 @@ const pandharpur: CityContent = {
       heading: "Android app development in Pandharpur and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when the same people will open it again and again. In Pandharpur, examples include a lodge group whose regular guests book every yatra, a college or coaching institute sending daily notices and results, a hospital issuing OPD tokens, a dealer taking repeat orders from village retailers, or a trust keeping devotees informed about events.",
-        "As an <strong>app development company in Pandharpur</strong>, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release usually includes mobile number login, the core screens your users need, push notifications and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Pandharpur</strong>, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release usually includes mobile number login, the core screens your users need, push notifications and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Pandharpur</strong> with us starts at ₹40,000. Payment collection, booking calendars, offline use for weak network during crowded yatra days and connections to other software add to the cost, and each appears on the quote as a separate line. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process.",
         "If devotees only need your address, phone number and rates, a website and Google Maps listing serve them better and cost far less. We will tell you when an app is not the right step.",
       ],
@@ -159,9 +159,9 @@ const pandharpur: CityContent = {
     },
     {
       id: "remote-team-pandharpur",
-      heading: "IT company in Pandharpur without a local office: how remote work goes",
+      heading: "IT services team in Pandharpur without a local office: how remote work goes",
       paragraphs: [
-        "We are open about it: we are not an <strong>IT company in Pandharpur</strong> with a shop front. We are three engineers who work remotely, and that is why our starting prices stay low. You never need to travel to Solapur or Pune to discuss your project.",
+        "We are open about it: we are not an <strong>IT services team in Pandharpur</strong> with a shop front. We are three engineers who work remotely, and that is why our starting prices stay low. You never need to travel to Solapur or Pune to discuss your project.",
         "A first call covers your business, your visitors or customers and what the website or app should do. You then receive a written page or screen list, a timeline and an itemised quote. After approval, we share preview links you can check on your phone and show to family, trustees or partners. Marathi text is sent for your approval before anything goes live.",
         "We answer WhatsApp messages every day, weekends included, on Indian Standard Time. Payments follow visible progress, and no amount is billed before you approve the quote in writing.",
       ],
@@ -226,7 +226,7 @@ const pandharpur: CityContent = {
         "Yes. We show room types, photographs, distance to the temple, parking and yatra-day rates, with a booking request form or WhatsApp button. Calendars and UPI advance payment can be added. A simple lodge site starts at ₹10,000, and we aim to launch well before Ashadhi.",
     },
     {
-      question: "Who is the best website development company in Pandharpur?",
+      question: "Who is the best website development team in Pandharpur?",
       answer:
         "Choose a provider that publishes prices, puts the domain and code in your name, supports you after launch and shows real work. Ask each the same questions. We meet those points and reply on WhatsApp every day, but comparing two or three options before choosing is sensible.",
     },

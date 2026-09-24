@@ -10,12 +10,12 @@ const gobindgarh: CityContent = {
       "Websites, Android and iOS apps, SEO, order software and WhatsApp automation for Mandi Gobindgarh rolling mills, steel traders, colleges and shops. From ₹10,000.",
     keywords: [
       "IT services in Mandi Gobindgarh",
-      "IT company in Gobindgarh",
-      "website development company in Mandi Gobindgarh",
+      "IT services team in Gobindgarh",
+      "website development team in Mandi Gobindgarh",
       "web design in Mandi Gobindgarh",
-      "app development company in Mandi Gobindgarh",
+      "app development team in Mandi Gobindgarh",
       "Android app development in Gobindgarh",
-      "software company in Mandi Gobindgarh",
+      "software team in Mandi Gobindgarh",
       "SEO services in Mandi Gobindgarh",
       "digital marketing in Mandi Gobindgarh",
       "ecommerce website in Mandi Gobindgarh",
@@ -70,12 +70,12 @@ const gobindgarh: CityContent = {
       paragraphs: [
         "Mandi Gobindgarh is a small town with an outsized industrial footprint. Hundreds of rolling mills, induction furnaces, forging shops, foundries and scrap-cutting yards sit along the G.T. Road, Amloh Road and the Focal Point area, turning scrap and billets into bars, angles, channels, flats, wire rod and forged parts that travel across North India. Around them are machinery builders, transporters, gas suppliers, brokers, hardware shops, banks and a busy retail market.",
         "Yet the online presence of this cluster is thin. Search for a particular section or grade and you often find directory listings, not the mill itself. That gap is where a sensible website and a few well-built pages pay back. When a purchase manager in Ambala, Jaipur or Jammu looks for a supplier, the firm that shows its sizes, grades, capacity and contact details clearly gets the first call.",
-        "We are not an IT company in Gobindgarh with a showroom and a sales team. We are three engineers who work remotely: Ankur Kumar builds the websites and apps, Santosh Sharma handles AI, AWS and data work, and Vedansh Shrivastava runs projects and automation. That keeps costs lower and means the person you talk to on WhatsApp is the person doing the work.",
+        "We are not an IT services team in Gobindgarh with a showroom and a sales team. We are three engineers who work remotely: Ankur Kumar builds the websites and apps, Santosh Sharma handles AI, AWS and data work, and Vedansh Shrivastava runs projects and automation. That keeps costs lower and means the person you talk to on WhatsApp is the person doing the work.",
       ],
     },
     {
       id: "rolling-mill-websites-gobindgarh",
-      heading: "Website development company in Mandi Gobindgarh for rolling mills and furnaces",
+      heading: "Website development team in Mandi Gobindgarh for rolling mills and furnaces",
       paragraphs: [
         "A rolling mill website has one job: help a buyer decide whether you can supply what they need. That means a product page for each section you roll, with sizes, thickness range, lengths, grades and standard weights per metre where you publish them. It means a capacity and equipment page, a quality page describing testing and certification you actually hold, and a dispatch page explaining how orders are loaded and shipped.",
         "Induction furnace units selling billets and ingots need a different emphasis: chemistry ranges, dimensions, melting capacity and the kind of scrap they process. Forging and foundry units need a parts gallery, material options, machining capability and the industries they serve, such as tractors, railways or construction equipment. Each of these is a separate set of pages, not one long brochure.",
@@ -117,7 +117,7 @@ const gobindgarh: CityContent = {
       id: "android-ios-app-development-gobindgarh",
       heading: "Android app development in Mandi Gobindgarh, and iOS too",
       paragraphs: [
-        "If you are looking for an app development company in Mandi Gobindgarh, know that we are a small remote team, yet we build complete Android and iOS apps in Flutter or React Native, starting at ₹40,000. That includes login, push notifications, an admin panel for your office and publishing on Google Play and the App Store under your own developer accounts.",
+        "If you are looking for an app development team in Mandi Gobindgarh, know that we are a small remote team, yet we build complete Android and iOS apps in Flutter or React Native, starting at ₹40,000. That includes login, push notifications, an admin panel for your office and publishing on Google Play and the App Store under your own developer accounts.",
         "Who in Gobindgarh actually needs an app? A mill or trader with a fixed network of dealers is the clearest case. Dealers can check available sections, place orders, see dispatch status and truck numbers, and download statements without phoning the office. Transport operators can use a driver app to record loading, weighbridge slips and delivery photos. The two universities and many coaching centres can use an app for notices, timetables, attendance and fee reminders.",
         "An app is not always the right answer. If your customers are mostly first-time buyers who find you through Google, a fast website and a WhatsApp number serve them better, because nobody installs an app to ask one question. We tell you that plainly. Where an app does make sense, we start with the few screens your dealers or students will use every day and add more only when they are asked for. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
@@ -178,7 +178,7 @@ const gobindgarh: CityContent = {
     },
     {
       id: "custom-software-gobindgarh",
-      heading: "Software company in Mandi Gobindgarh work, done remotely",
+      heading: "Software team in Mandi Gobindgarh work, done remotely",
       paragraphs: [
         "Many mills and traders have grown past registers and spreadsheets but find large ERP systems too costly and too rigid. Custom software, from ₹60,000, fills that gap. We build web applications for order booking, production logs, scrap purchase records, stock of finished sections, dispatch planning, party ledgers and payment follow-up, designed around how your office already works.",
         "Access can be split by role, so the gate sees only vehicle entries, the dispatch clerk sees loading plans and the owner sees everything. Reports can be downloaded as Excel or viewed on a phone. Where you already use accounting software, we can export data in a form your accountant can import.",
@@ -231,7 +231,7 @@ const gobindgarh: CityContent = {
         "A smaller site takes one to two weeks once we have your product list and photographs. A detailed site with separate pages for every section and size range takes three to five weeks. The slowest part is usually collecting accurate specifications, so we send a simple format to fill.",
     },
     {
-      question: "Which is the best IT company in Mandi Gobindgarh?",
+      question: "Which is the best IT services team in Mandi Gobindgarh?",
       answer:
         "That depends on what you need. Compare past work in steel or manufacturing, whether the domain and hosting will be in your name, what is included after launch and how quickly they reply. We are a remote team of three, not a local office, and we publish starting prices so you can compare fairly.",
     },

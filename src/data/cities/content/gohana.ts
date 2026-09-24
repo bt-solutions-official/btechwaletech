@@ -10,12 +10,12 @@ const gohana: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Gohana halwais, grain-mandi arhtiyas, coaching centres, clinics and Sonipat district shops.",
     keywords: [
       "IT services in Gohana",
-      "IT company in Gohana",
-      "website development company in Gohana",
+      "IT services team in Gohana",
+      "website development team in Gohana",
       "web design in Gohana",
-      "app development company in Gohana",
+      "app development team in Gohana",
       "Android app development in Gohana",
-      "software company in Gohana",
+      "software team in Gohana",
       "SEO services in Gohana",
       "digital marketing in Gohana",
       "ecommerce website in Gohana",
@@ -84,19 +84,19 @@ const gohana: CityContent = {
     },
     {
       id: "grain-mandi-arhtiya-software",
-      heading: "Software company in Gohana for the grain mandi and commission agents",
+      heading: "Software team in Gohana for the grain mandi and commission agents",
       paragraphs: [
         "The Gohana belt grows wheat in the rabi season and paddy in kharif, with sugarcane on many farms. Grain comes to the mandi through arhtiyas, the commission agents who weigh, sell and settle payments, and who often extend credit to farmers between harvests. Their books are complex: arrivals by farmer, lot, moisture and rate, labour and bags, buyer dues, farmer advances and deductions.",
-        "Much of this is still kept in registers or spreadsheets on a single computer. As a <strong>software company in Gohana</strong> in the practical sense, we build web-based ledgers where a clerk records each arrival once on a phone or desktop, the farmer's running balance updates automatically, and a printable or WhatsApp statement can be sent in seconds. Buyer outstanding, labour payments and daily arrivals reports come from the same entries.",
+        "Much of this is still kept in registers or spreadsheets on a single computer. As a <strong>software team in Gohana</strong> in the practical sense, we build web-based ledgers where a clerk records each arrival once on a phone or desktop, the farmer's running balance updates automatically, and a printable or WhatsApp statement can be sent in seconds. Buyer outstanding, labour payments and daily arrivals reports come from the same entries.",
         "We keep these tools narrow at first. The arrival and farmer ledger usually goes live first, then buyer settlement, then any link to your accounting software. Custom software starts at ₹60,000 and is built over six to twelve weeks, and we try to finish before the season begins rather than in the middle of it. Your data stays in an account registered to you, and you can export it at any time.",
       ],
     },
     {
       id: "sugar-mill-farm-inputs",
-      heading: "Website development company in Gohana for cane growers, dealers and mill suppliers",
+      heading: "Website development team in Gohana for cane growers, dealers and mill suppliers",
       paragraphs: [
         "Ch. Devi Lal Cooperative Sugar Mill at Gohana is one of the cooperative mills run under the Haryana sugar federation. Each crushing season brings work for tractor-trolley owners, harvest labour contractors, fertiliser and pesticide dealers, tyre and spare part shops, and workshops that repair farm machinery. Across the tehsil, seed, fertiliser and agricultural equipment dealers serve thousands of farm families.",
-        "For these businesses, a <strong>website development company in Gohana</strong> should produce something useful rather than decorative: product categories and brands you stock, services offered, your delivery villages, GST details, and a WhatsApp link for rate checks. A dealer with a proper site and listing is easier for a farmer to trust when he is choosing where to spend a season's credit.",
+        "For these businesses, a <strong>website development team in Gohana</strong> should produce something useful rather than decorative: product categories and brands you stock, services offered, your delivery villages, GST details, and a WhatsApp link for rate checks. A dealer with a proper site and listing is easier for a farmer to trust when he is choosing where to spend a season's credit.",
         "Transport owners and workshops can go a step further with small tools: trips logged per trolley, diesel and advances per driver, job cards for repairs, and reminders when insurance or fitness certificates are due. We never list a mill, company or brand as your client on the site without written permission, and we never make claims about the mill on your behalf.",
       ],
     },
@@ -114,7 +114,7 @@ const gohana: CityContent = {
       heading: "Android app development in Gohana, and iPhone apps for local businesses",
       paragraphs: [
         "An app is worth the money when the same group of people opens it again and again. In Gohana, the obvious cases are coaching students who need test series, notes and attendance; parents who want homework and fee reminders; patients taking OPD tokens at a busy hospital; farmers checking their account with an arhtiya; and repeat customers of a dairy or grocery delivery service.",
-        "As an <strong>app development company in Gohana</strong> working remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version normally includes mobile OTP login, push notifications, the core screens for your users and an admin panel for your staff. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Gohana</strong> working remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version normally includes mobile OTP login, push notifications, the core screens for your users and an admin panel for your staff. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Gohana</strong> with us starts at ₹40,000. The cost rises with online payments, video lessons, offline use, maps or links to other software, and each of these is priced as a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and rate list, a good website does that job for a fraction of the price, and we will recommend it. An app that people install once and forget is an expense, not an asset.",
       ],
@@ -224,7 +224,7 @@ const gohana: CityContent = {
         "A static website is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are the ones where the owner sends content early.",
     },
     {
-      question: "Which is the best website development company in Gohana?",
+      question: "Which is the best website development team in Gohana?",
       answer:
         "Judge any provider by whether they publish prices, register the domain and code in your name, answer after launch and show real work you can open. Ask each option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers before choosing is always sensible.",
     },

@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Jaipur from a freelance team of three engineers: software, apps, AI, cloud, data and SEO. Itemised quotes.",
     keywords: [
-      "IT solutions company in Jaipur",
+      "IT solutions team in Jaipur",
       "IT consulting Jaipur",
       "digital transformation Jaipur",
-      "best IT company in Jaipur",
+      "best IT services team in Jaipur",
       "freelance IT consultant Jaipur",
       "IT solutions near me Jaipur",
       "legacy software modernisation Jaipur",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Jaipur · from C-Scheme offices to VKI and Sitapura factories",
     h1: "IT consulting and digital transformation in Jaipur, delivered by a freelance IT team",
     lede:
-      "If you are searching for an IT solutions company in Jaipur, start with the question behind it: which part of your business should technology fix first? BtechWaleTech is a freelance group of three independent engineers working remotely from India. For Jaipur jewellers, manufacturers, builders, clinics, institutes and startups we review how work flows today, recommend the smallest useful change, and then build it end to end: custom software, web apps, Android and iOS apps, AI agents, cloud hosting, dashboards, SEO or ecommerce, with every account and line of code in your name.",
+      "If you are searching for an IT solutions team in Jaipur, start with the question behind it: which part of your business should technology fix first? BtechWaleTech is a freelance group of three independent engineers working remotely from India. For Jaipur jewellers, manufacturers, builders, clinics, institutes and startups we review how work flows today, recommend the smallest useful change, and then build it end to end: custom software, web apps, Android and iOS apps, AI agents, cloud hosting, dashboards, SEO or ecommerce, with every account and line of code in your name.",
     pills: ["Consulting call free", "Software from ₹60,000", "Android & iOS apps from ₹40,000", "Hindi and English", "Pay by UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT consulting and IT solutions in Jaipur as a remote freelance group of three engineers, not a local company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
+    "BtechWaleTech offers IT consulting and IT solutions in Jaipur as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
   snapshot: [
     { label: "Business districts", value: "C-Scheme, MI Road, Tonk Road, Malviya Nagar, Vaishali Nagar and the walled city bazaars around Johari Bazaar and Tripolia" },
     { label: "Industrial areas", value: "Vishwakarma Industrial Area (VKI), Sitapura, Sanganer, Jhotwara, Bagru and Kaladera RIICO areas" },
@@ -79,11 +79,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-in-jaipur",
-      heading: "How do you judge the best IT company in Jaipur, and where does a freelance team fit?",
+      heading: "How do you judge the best IT services team in Jaipur, and where does a freelance team fit?",
       paragraphs: [
-        "The best IT company in Jaipur for your project is the one whose size, skills and working style match the job, not the one with the biggest office or the highest listing on a directory. A ten-crore enterprise rollout and a ₹60,000 order management app need very different partners.",
+        "The best IT services team in Jaipur for your project is the one whose size, skills and working style match the job, not the one with the biggest office or the highest listing on a directory. A ten-crore enterprise rollout and a ₹60,000 order management app need very different partners.",
         "If you are comparing IT companies in Jaipur, judge them on evidence you can check. Look at live work you can open on your own phone. Ask to speak to the developer, not only the salesperson. Check whether the quote lists features individually or hides everything in one lump sum. Confirm who will own the domain, hosting and code. Ask what support looks like in month six, not just at launch.",
-        "A freelance team like ours fits projects where the owner wants direct access to engineers, a clear starting price and fast decisions. It does not fit projects that need thirty developers, round-the-clock staffed support or on-site teams inside your premises. We are a freelance group, not a company, and we say that plainly so you can compare honestly. What we offer is continuity: the three people who plan your project are the three who build and maintain it.",
+        "A freelance team like ours fits projects where the owner wants direct access to engineers, a clear starting price and fast decisions. It does not fit projects that need thirty developers, round-the-clock staffed support or on-site teams inside your premises. We are a small freelance group of three developers, and we say that plainly so you can compare honestly. What we offer is continuity: the three people who plan your project are the three who build and maintain it.",
       ],
       list: [
         "Can I open three live projects you built?",
@@ -238,9 +238,9 @@ const content: CityContent = {
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Jaipur or elsewhere in Rajasthan. We handle consulting, design reviews, testing and training over video calls, screen shares and WhatsApp. For most Jaipur software, app and automation projects this works smoothly, and you get a live preview link from the first week so progress is always visible.",
     },
     {
-      question: "Are you the best IT company in Jaipur?",
+      question: "Are you the best IT services team in Jaipur?",
       answer:
-        "We do not claim to be, and we are not a company at all; we are a freelance team. The best choice depends on your project's size and needs. For owner-led businesses that want direct access to engineers, published starting prices and ownership of everything built, we are a strong fit. For large enterprise programmes needing big teams on site, a larger firm suits better.",
+        "We do not claim to be; we are a small freelance team of three developers. The best choice depends on your project's size and needs. For owner-led businesses that want direct access to engineers, published starting prices and ownership of everything built, we are a strong fit. For large enterprise programmes needing big teams on site, a larger firm suits better.",
     },
     {
       question: "How do Jaipur clients pay for projects?",

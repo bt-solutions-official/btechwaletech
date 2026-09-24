@@ -10,12 +10,12 @@ const sujangarh: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sujangarh traders, Salasar Balaji dharamshalas, dairies, schools and clinics.",
     keywords: [
       "IT services in Sujangarh",
-      "IT company in Sujangarh",
-      "website development company in Sujangarh",
+      "IT services team in Sujangarh",
+      "website development team in Sujangarh",
       "web design in Sujangarh",
-      "app development company in Sujangarh",
+      "app development team in Sujangarh",
       "Android app development in Sujangarh",
-      "software company in Sujangarh",
+      "software team in Sujangarh",
       "SEO services in Sujangarh",
       "digital marketing in Sujangarh",
       "ecommerce website in Sujangarh",
@@ -83,10 +83,10 @@ const sujangarh: CityContent = {
     },
     {
       id: "grain-cloth-traders",
-      heading: "Website development company in Sujangarh for grain, cloth and jewellery traders",
+      heading: "Website development team in Sujangarh for grain, cloth and jewellery traders",
       paragraphs: [
         "Farming in the dry belt around Sujangarh grows bajra, moth, gram, guar, mustard and groundnut where water allows, and much of this passes through local traders and commission agents. The town's bazaars also carry cloth and sari merchants, jewellers, utensil shops, electronics and mobile dealers, hardware stores and grocery wholesalers serving villages across the tehsil and neighbouring Bidasar.",
-        "A <strong>website development company in Sujangarh</strong> should give such a trader a plain, trustworthy site: what you deal in, brands or categories stocked, price bands you are happy to show, bulk and wedding order information, timings, location and a WhatsApp button that reaches the right counter. Jewellers often want a gold rate update and scheme details; grain traders want commodity pages and a quote form for buyers.",
+        "A <strong>website development team in Sujangarh</strong> should give such a trader a plain, trustworthy site: what you deal in, brands or categories stocked, price bands you are happy to show, bulk and wedding order information, timings, location and a WhatsApp button that reaches the right counter. Jewellers often want a gold rate update and scheme details; grain traders want commodity pages and a quote form for buyers.",
         "A catalogue site starts at ₹10,000 and is usually ready within two weeks of receiving your photographs and text. We never put a certification, award or customer name on your site unless you can show it in writing. More detail is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -101,10 +101,10 @@ const sujangarh: CityContent = {
     },
     {
       id: "dairy-animal-husbandry",
-      heading: "Software company in Sujangarh for dairies, milk collection and cattle feed dealers",
+      heading: "Software team in Sujangarh for dairies, milk collection and cattle feed dealers",
       paragraphs: [
         "With limited rainfall, animal husbandry is the backbone of rural income across Churu district. Milk is collected from villages twice a day by dairies, chilling centres and private collectors, while cattle feed, fodder and veterinary medicine dealers supply the herds. Payments to farmers are calculated on fat and quantity, and errors or delays quickly damage trust.",
-        "As a <strong>software company in Sujangarh</strong> we build tools shaped around this routine. Each supplier has an account with morning and evening entries of quantity, fat and SNF, rate applied and advances taken. Collection centres enter data from a phone, owners see daily totals, and a payment statement goes to each farmer on WhatsApp in Hindi. Feed dealers can track credit sales against the same farmer accounts.",
+        "As a <strong>software team in Sujangarh</strong> we build tools shaped around this routine. Each supplier has an account with morning and evening entries of quantity, fat and SNF, rate applied and advances taken. Collection centres enter data from a phone, owners see daily totals, and a payment statement goes to each farmer on WhatsApp in Hindi. Feed dealers can track credit sales against the same farmer accounts.",
         "Budget ₹60,000 onwards and six to twelve weeks, delivered module by module. First comes the collection and payment register, since that is where farmers lose faith; stock, feed credit and reports follow. We connect to a cooperative's system only if that has been formally agreed. Your records stay in cloud accounts that you own.",
       ],
     },
@@ -128,10 +128,10 @@ const sujangarh: CityContent = {
     },
     {
       id: "tal-chhapar-tourism",
-      heading: "IT company in Sujangarh for Tal Chhapar guest houses, guides and drivers",
+      heading: "IT services team in Sujangarh for Tal Chhapar guest houses, guides and drivers",
       paragraphs: [
         "Tal Chhapar sanctuary, between Sujangarh and Ratangarh on the Nokha road, is known for its blackbuck herds and, from September to March, for migratory raptors and demoiselle cranes. Birdwatchers and photographers from across India and abroad plan trips months ahead, and they look for guest houses, local guides, jeep drivers and meals near the sanctuary.",
-        "An <strong>IT company in Sujangarh</strong> can help these small hosts reach that audience without heavy spending. A simple bilingual site with room photos, meal options, early morning pickup timings, distance to the sanctuary gate, the best months to visit and a WhatsApp booking button is often enough. A Google Business Profile with accurate pins and honest photos does much of the rest.",
+        "An <strong>IT services team in Sujangarh</strong> can help these small hosts reach that audience without heavy spending. A simple bilingual site with room photos, meal options, early morning pickup timings, distance to the sanctuary gate, the best months to visit and a WhatsApp booking button is often enough. A Google Business Profile with accurate pins and honest photos does much of the rest.",
         "Such a site starts at ₹10,000. We write only what you can deliver: no promise of sightings, no borrowed wildlife photographs without permission, and no claims about permits you do not hold. Hosts who also serve Salasar pilgrims can keep both audiences on separate pages of the same site.",
       ],
     },
@@ -140,7 +140,7 @@ const sujangarh: CityContent = {
       heading: "Android app development in Sujangarh, with iPhone apps from one build",
       paragraphs: [
         "An app is worth building only when a fixed group of people will use it often. In Sujangarh, sensible cases include a dharamshala trust taking repeat bookings from devotees who visit every year, a dairy letting farmers check milk entries and payments, a coaching centre sharing marks with parents, or a wholesaler taking daily orders from village shops.",
-        "Working as a remote <strong>app development company in Sujangarh</strong>, we write the app once in Flutter or React Native and ship it to both Android phones and iPhones. Release one generally covers OTP sign-in by mobile number, push alerts, the handful of screens users open most, and a browser-based admin panel for office staff. Both store listings, on Google Play and on Apple's App Store, sit under developer accounts that you register and control.",
+        "Working as a remote <strong>app development team in Sujangarh</strong>, we write the app once in Flutter or React Native and ship it to both Android phones and iPhones. Release one generally covers OTP sign-in by mobile number, push alerts, the handful of screens users open most, and a browser-based admin panel for office staff. Both store listings, on Google Play and on Apple's App Store, sit under developer accounts that you register and control.",
         "<strong>Android app development in Sujangarh</strong> begins at ₹40,000. Extras such as payment collection, entry that works without signal in far villages, Hindi screens, photo upload and more user types are priced one by one on the quote. Read the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the stages run.",
         "Where visitors just want directions, room rent, timings or rates, a website serves them better and cheaper, since no download is needed. We will tell you so and build the site instead.",
       ],
@@ -232,7 +232,7 @@ const sujangarh: CityContent = {
         "A basic site is typically live about ten days after we get your pictures and wording. SEO builds of 700+ pages need three to five weeks, a store one to two months and custom software up to a quarter. Delays usually come from missing photos or room details, so collect them early.",
     },
     {
-      question: "Which is the best IT company in Sujangarh?",
+      question: "Which is the best IT services team in Sujangarh?",
       answer:
         "Any list claiming to name the best is guessing. Test instead: does the provider publish prices, register the domain to you, show sites that work today and answer calls long after payment? We try to pass each test, and we suggest you apply the same four to anyone else you are considering.",
     },

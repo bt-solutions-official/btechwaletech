@@ -9,10 +9,10 @@ const satara: CityContent = {
     description:
       "Websites, Marathi local SEO, vendor catalogues, pedha and strawberry stores, and WhatsApp automation for Satara MIDC units, shops, colleges and hotels.",
     keywords: [
-      "website development company in Satara",
+      "website development team in Satara",
       "web designer Satara",
       "website design Satara Maharashtra",
-      "SEO company Satara",
+      "SEO team Satara",
       "Google Maps listing Satara",
       "Satara MIDC company website",
       "foundry and auto component website",
@@ -24,7 +24,7 @@ const satara: CityContent = {
       "ecommerce website Satara",
       "Satara madhye website banvun milel ka",
       "सातारा वेबसाइट डिझाइन",
-      "software company Satara",
+      "software team Satara",
     ],
   },
   hero: {

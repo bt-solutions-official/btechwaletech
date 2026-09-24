@@ -7,12 +7,12 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & App Developers in Kozhikode",
     description:
-      "Freelance developers for Kozhikode traders, footwear makers and clinics, an alternative to a software development company: stores, apps, SEO. From ₹10,000.",
+      "Freelance developers for Kozhikode traders, footwear makers and clinics, an alternative to a software development team: stores, apps, SEO. From ₹10,000.",
     keywords: [
-      "software development company in Kozhikode",
-      "IT company in Kozhikode",
+      "software development team in Kozhikode",
+      "IT services team in Kozhikode",
       "IT solutions Kozhikode",
-      "software company in Calicut",
+      "software team in Calicut",
       "freelance software developers Calicut",
       "custom software development Kozhikode",
       "Android app development Kozhikode",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Kozhikode (Calicut), Kerala",
     h1: "Freelance software and app developers in Kozhikode for traders, makers and clinics",
     lede:
-      "Before you sign with a software development company in Kozhikode, compare what a freelance group offers. BtechWaleTech is three engineers working remotely from India who build dealer and wholesale software, online stores, Android and iOS apps, lead forms with WhatsApp follow-up, AI automation, dashboards and local SEO for Kozhikode traders, footwear makers, clinics and institutes, handing every account back to you.",
+      "Before you sign with a software development team in Kozhikode, compare what a freelance group offers. BtechWaleTech is three engineers working remotely from India who build dealer and wholesale software, online stores, Android and iOS apps, lead forms with WhatsApp follow-up, AI automation, dashboards and local SEO for Kozhikode traders, footwear makers, clinics and institutes, handing every account back to you.",
     pills: ["Dealer and wholesale software", "Stores from ₹50,000", "Android and iOS apps from ₹40,000", "Local SEO for Calicut", "Malayalam and Manglish"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Kozhikode remotely, an alternative to a software development company in Kozhikode. Websites start at ₹10,000, AI automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000, with timelines of one to twelve weeks. There is no Kozhikode office, and quotes are itemised within about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Kozhikode remotely, an alternative to a software development team in Kozhikode. Websites start at ₹10,000, AI automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom software at ₹60,000, with timelines of one to twelve weeks. There is no Kozhikode office, and quotes are itemised within about two working days.",
   snapshot: [
     { label: "IT parks", value: "Government Cyberpark and UL Cyberpark, the city's main technology campuses" },
     { label: "Trading streets", value: "SM Street (Mittai Theruvu), Palayam market and the Valiyangadi wholesale area" },
@@ -77,14 +77,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-kozhikode",
-      heading: "Freelance group or a software development company in Kozhikode: which fits your business?",
+      heading: "Freelance group or a software development team in Kozhikode: which fits your business?",
       paragraphs: [
-        "A software development company in Kozhikode fits projects that need a large team, office meetings and long enterprise contracts. A freelance group fits focused software, stores, apps and automation where you want lower overhead and direct contact with engineers. Most Kozhikode traders, makers and clinics fall into the second group.",
+        "A software development team in Kozhikode fits projects that need a large team, office meetings and long enterprise contracts. A freelance group fits focused software, stores, apps and automation where you want lower overhead and direct contact with engineers. Most Kozhikode traders, makers and clinics fall into the second group.",
         "We are clear about limits. Three engineers take a few projects at a time and do not subcontract quietly. If your project needs a much bigger team, we tell you at the first call.",
       ],
       list: [
         "Freelance group: direct engineer contact, published starting prices, weekend replies, smaller capacity",
-        "Software company: bigger teams, more layers, higher overhead",
+        "Software team: bigger teams, more layers, higher overhead",
         "Both: insist on written scope, milestone billing and accounts in your name",
       ],
     },
@@ -224,17 +224,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-kozhikode",
-      heading: "What does a software development company in Kozhikode charge compared with us?",
+      heading: "What does a software development team in Kozhikode charge compared with us?",
       paragraphs: [
-        "A software development company in Kozhikode usually prices office rent, sales and management into its quote. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Kozhikode usually prices office rent, sales and management into its quote. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "The final cost depends on modules, users, integrations and data migration. See the <a href='/pricing/'>pricing page</a>. Payment is in INR, only by UPI QR or bank transfer, in milestones after you review work on staging.",
       ],
     },
     {
       id: "choosing-software-company-kozhikode",
-      heading: "How to choose a software development company in Kozhikode",
+      heading: "How to choose a software development team in Kozhikode",
       paragraphs: [
-        "Choose a software development company in Kozhikode, or a freelance group like ours, by checking who writes the code, what the scope includes, who owns the accounts, how progress is shown and what support follows launch. Compare price only after that.",
+        "Choose a software development team in Kozhikode, or a freelance group like ours, by checking who writes the code, what the scope includes, who owns the accounts, how progress is shown and what support follows launch. Compare price only after that.",
       ],
       list: [
         "Speak to the engineer who will build it",
@@ -304,7 +304,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Kozhikode?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Kozhikode or Cyberpark. We work over WhatsApp, calls, video meetings and shared documents, and you review progress on a live staging link." },
-    { question: "Which is the best software company in Calicut?", answer: "It depends on the project. Larger Calicut software companies suit big teams and long contracts; a freelance group suits dealer software, stores, apps, automation and websites where you want direct contact with engineers. Compare written scopes, ownership terms, support and live work before choosing." },
+    { question: "Which is the best software team in Calicut?", answer: "It depends on the project. Larger Calicut software companies suit big teams and long contracts; a freelance group suits dealer software, stores, apps, automation and websites where you want direct contact with engineers. Compare written scopes, ownership terms, support and live work before choosing." },
     { question: "How much does an online store cost in Kozhikode?", answer: "Online stores start at ₹50,000 and take four to eight weeks. The price rises with product count, variants such as sizes and colours, shipping rules and integrations. Websites start at ₹10,000 and custom software at ₹60,000. Quotes are itemised within about two working days." },
     { question: "How long do projects take?", answer: "Websites take one to two weeks, AI automation two to four weeks, Android and iOS apps six to ten weeks, stores four to eight weeks and custom software six to twelve weeks. Ready product photos and quick feedback shorten these." },
     { question: "How do we pay?", answer: "Only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not take payments through gateways or payment links. Work is split into milestones, each paid after you review it on staging." },

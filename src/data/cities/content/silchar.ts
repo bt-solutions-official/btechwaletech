@@ -9,7 +9,7 @@ const silchar: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Silchar and Barak Valley businesses. Static sites start at ₹10,000 with five months free upkeep.",
     keywords: [
-      "website development company in Silchar",
+      "website development team in Silchar",
       "web design Silchar",
       "website designer Silchar",
       "freelance web developer Silchar",

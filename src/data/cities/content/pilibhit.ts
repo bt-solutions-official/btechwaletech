@@ -9,7 +9,7 @@ const pilibhit: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Pilibhit, Puranpur and Bisalpur businesses. Static sites from ₹10,000, five months free upkeep.",
     keywords: [
-      "website development company in Pilibhit",
+      "website development team in Pilibhit",
       "web designer Pilibhit",
       "website design Pilibhit",
       "SEO services Pilibhit",

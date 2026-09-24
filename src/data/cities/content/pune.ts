@@ -9,12 +9,12 @@ const pune: CityContent = {
     description:
       "Websites, SEO, web apps and AI automation for Pune businesses by a remote team of three engineers. From ₹10,000, with five months of free maintenance after launch.",
     keywords: [
-      "website development company in Pune",
-      "web design company Pune",
+      "website development team in Pune",
+      "web design team Pune",
       "website designer Pune",
       "freelance web developer Pune",
       "website development cost Pune",
-      "SEO company in Pune",
+      "SEO team in Pune",
       "local SEO Pune",
       "ecommerce website development Pune",
       "web application development Pune",
@@ -248,7 +248,7 @@ const pune: CityContent = {
     {
       question: "How long does SEO take to work in Pune?",
       answer:
-        "Area-level map results often improve within six to ten weeks once your profile and site are in shape. Competitive terms like “website development company in Pune” usually need four to eight months of steady work. Nobody can honestly guarantee a first-page ranking, and we will not promise one.",
+        "Area-level map results often improve within six to ten weeks once your profile and site are in shape. Competitive terms like “website development team in Pune” usually need four to eight months of steady work. Nobody can honestly guarantee a first-page ranking, and we will not promise one.",
     },
     {
       question: "Can you build a supplier portal for a Chakan or Bhosari manufacturer?",

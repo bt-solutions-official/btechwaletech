@@ -10,12 +10,12 @@ const wankaner: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Wankaner tile plants, exporters, dealers, heritage stays and town shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Wankaner",
-      "IT company in Wankaner",
-      "website development company in Wankaner",
+      "IT services team in Wankaner",
+      "website development team in Wankaner",
       "web design in Wankaner",
-      "app development company in Wankaner",
+      "app development team in Wankaner",
       "Android app development in Wankaner",
-      "software company in Wankaner",
+      "software team in Wankaner",
       "SEO services in Wankaner",
       "digital marketing in Wankaner",
       "ecommerce website in Wankaner",
@@ -74,19 +74,19 @@ const wankaner: CityContent = {
     },
     {
       id: "ceramic-plant-software",
-      heading: "Software company in Wankaner for tile plants on Sartanpar Road and at Dhuva",
+      heading: "Software team in Wankaner for tile plants on Sartanpar Road and at Dhuva",
       paragraphs: [
         "A tile plant runs on details that spreadsheets handle badly. Each production run carries a design code, size, surface finish, shade and batch. Dealers ask for the exact shade they bought last month. Trucks and containers are loaded against orders that change at the last minute, and the accounts team chases dues from dealers spread across several states.",
-        "As a <strong>software company in Wankaner</strong> in the practical sense, we build web applications around those specific problems instead of selling a heavy ERP. A common first module is a stock register by design, size, grade and batch, updated from the packing line on a phone. The second covers orders and dispatch: which truck took how many boxes to which dealer, with the lorry receipt and invoice number attached. A dealer ledger with outstanding amounts and ageing usually comes next.",
+        "As a <strong>software team in Wankaner</strong> in the practical sense, we build web applications around those specific problems instead of selling a heavy ERP. A common first module is a stock register by design, size, grade and batch, updated from the packing line on a phone. The second covers orders and dispatch: which truck took how many boxes to which dealer, with the lorry receipt and invoice number attached. A dealer ledger with outstanding amounts and ageing usually comes next.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. Where you already use Tally or another billing package, we read figures from it rather than asking staff to type everything twice. Owners who want a morning view of production, dispatch and dues can have a dashboard built from the same data, readable on a phone before the first shift meeting.",
       ],
     },
     {
       id: "tile-export-websites",
-      heading: "Website development company in Wankaner for tile exporters and catalogue sites",
+      heading: "Website development team in Wankaner for tile exporters and catalogue sites",
       paragraphs: [
         "Exporters in the Wankaner and Dhuva zone sell to importers and distributors who will rarely visit the plant before a first order. Their first real look at you is the website, usually opened on a desktop in an office several time zones away, and the judgement is quick.",
-        "A <strong>website development company in Wankaner</strong> should build that site around the catalogue, not around slogans. Every series needs its sizes, thickness, finish, body type, suggested applications and packing data: pieces per box, boxes per pallet and weight per container. Photographs of tiles actually laid in a room matter more than stock images. Downloadable PDF catalogues, a certificates page you can back with documents, and an enquiry form that asks for country, port, quantity and sizes cut out days of back-and-forth email.",
+        "A <strong>website development team in Wankaner</strong> should build that site around the catalogue, not around slogans. Every series needs its sizes, thickness, finish, body type, suggested applications and packing data: pieces per box, boxes per pallet and weight per container. Photographs of tiles actually laid in a room matter more than stock images. Downloadable PDF catalogues, a certificates page you can back with documents, and an enquiry form that asks for country, port, quantity and sizes cut out days of back-and-forth email.",
         "We build these as fast static or content-managed sites, from ₹10,000 for a smaller range and from ₹20,000 when you want 700+ pages covering every design, size and application. Product pages can be published in more than one language where your buyers need it. No buyer's name or logo goes on your site without their written permission, and we advise against capacity or certification claims you could not prove to an auditor.",
       ],
     },
@@ -128,10 +128,10 @@ const wankaner: CityContent = {
     },
     {
       id: "android-ios-apps-wankaner",
-      heading: "App development company in Wankaner: Android and iOS apps for dealers, sales teams and drivers",
+      heading: "App development team in Wankaner: Android and iOS apps for dealers, sales teams and drivers",
       paragraphs: [
         "The tile trade has three groups that would open an app every working day: dealers who re-order, sales representatives visiting showrooms across the country, and drivers carrying the loads. For them an app beats a website because it stays logged in, sends push notifications and uses the phone camera directly.",
-        "As an <strong>app development company in Wankaner</strong>, we build in Flutter or React Native so one codebase serves Android phones and iPhones. A dealer app can show new designs, current stock and pending orders. A sales app can record visits with location and photos and pass orders straight to the plant. A driver app can capture loading, lorry receipt photos and proof of delivery. Each comes with mobile number login, notifications and an admin panel for your office.",
+        "As an <strong>app development team in Wankaner</strong>, we build in Flutter or React Native so one codebase serves Android phones and iPhones. A dealer app can show new designs, current stock and pending orders. A sales app can record visits with location and photos and pass orders straight to the plant. A driver app can capture loading, lorry receipt photos and proof of delivery. Each comes with mobile number login, notifications and an admin panel for your office.",
         "<strong>Android app development in Wankaner</strong> with us starts at ₹40,000, and the iPhone version comes from the same build. Offline mode, payment collection, maps and links to your billing software appear as separate lines in the quote. We publish on Google Play and the Apple App Store under developer accounts in your firm's name. Read more on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Not everyone here needs one. A clinic, tutor or guesthouse whose customers come once or twice a year is better off with a good website and map listing at about a quarter of the cost, and we say so before you spend anything.",
       ],
@@ -156,7 +156,7 @@ const wankaner: CityContent = {
     },
     {
       id: "remote-team-wankaner",
-      heading: "An IT company in Wankaner without an office: how our remote team runs a project",
+      heading: "An IT services team in Wankaner without an office: how our remote team runs a project",
       paragraphs: [
         "To be clear from the start: there is no BtechWaleTech office in Wankaner, Morbi or Rajkot. We are three engineers working remotely, and the process is built so you never need to visit one. For a plant owner who spends the day on the shop floor, that often turns out simpler than arranging meetings.",
         "A project opens with a call or a WhatsApp voice note about your business. Vedansh then sends a written scope listing each page, screen or feature, the timeline and the price of every item. Work begins only when you approve that scope in writing, and nothing is billed before then. During the build you receive preview links to open on your phone and forward to a partner or your sales head.",
@@ -227,7 +227,7 @@ const wankaner: CityContent = {
         "Yes. We build Flutter or React Native apps that run on Android phones and iPhones, with mobile login, push notifications and an admin panel, and publish them on Google Play and the App Store under your own accounts. Apps start at ₹40,000. Common Wankaner uses are dealer re-ordering, sales visit logs and driver delivery confirmation.",
     },
     {
-      question: "Which is the best IT company in Wankaner for a ceramic unit?",
+      question: "Which is the best IT services team in Wankaner for a ceramic unit?",
       answer:
         "The right choice is whoever understands your stock, dispatch and export process and puts everything in your name. Ask each option who owns the domain and code, how batch and shade data will be handled, what support costs after a year, and to show comparable work. We answer all of that in writing, and we suggest comparing two or three providers before deciding.",
     },

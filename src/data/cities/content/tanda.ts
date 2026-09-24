@@ -9,7 +9,7 @@ const tanda: CityContent = {
     description:
       "Websites, Hindi SEO, B2B catalogues and WhatsApp automation for Tanda powerloom units, cloth traders, schools and clinics in Ambedkar Nagar. From ₹10,000.",
     keywords: [
-      "website development company in Tanda",
+      "website development team in Tanda",
       "web design Tanda Ambedkar Nagar",
       "website designer Tanda",
       "Tanda terrycot manufacturer website",

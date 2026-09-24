@@ -10,12 +10,12 @@ const arwal: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Arwal coaching centres, clinics, grain and input traders and building material dealers.",
     keywords: [
       "IT services in Arwal",
-      "IT company in Arwal",
-      "website development company in Arwal",
+      "IT services team in Arwal",
+      "website development team in Arwal",
       "web design in Arwal",
-      "app development company in Arwal",
+      "app development team in Arwal",
       "Android app development in Arwal",
-      "software company in Arwal",
+      "software team in Arwal",
       "SEO services in Arwal",
       "digital marketing in Arwal",
       "ecommerce website in Arwal",
@@ -74,10 +74,10 @@ const arwal: CityContent = {
     },
     {
       id: "coaching-schools-arwal",
-      heading: "Website development company in Arwal for coaching centres and schools",
+      heading: "Website development team in Arwal for coaching centres and schools",
       paragraphs: [
         "Education is one of the busiest sectors in any Bihar district town, and Arwal is no exception. Students prepare for board exams, engineering and medical entrance tests, and government job exams, and families compare institutes carefully before paying fees. Private schools compete for admissions from the town and surrounding blocks.",
-        "A <strong>website development company in Arwal</strong> should give a coaching centre or school the pages that parents and students actually look for: courses and batches, subjects and faculty, fees or fee ranges, timings, results with the students' permission, admission dates, transport routes and a clear phone and WhatsApp contact. For coaching centres, an online test section and downloadable notes add real value.",
+        "A <strong>website development team in Arwal</strong> should give a coaching centre or school the pages that parents and students actually look for: courses and batches, subjects and faculty, fees or fee ranges, timings, results with the students' permission, admission dates, transport routes and a clear phone and WhatsApp contact. For coaching centres, an online test section and downloadable notes add real value.",
         "Admission forms can collect details and documents online and send them straight to your office, cutting queues at the start of the session. A simple static site starts at ₹10,000. A school or institute that wants fee tracking, attendance and parent notices is better served by a small custom web app or a mobile app, which we quote separately.",
       ],
       list: [
@@ -98,10 +98,10 @@ const arwal: CityContent = {
     },
     {
       id: "agri-input-dealers-arwal",
-      heading: "Software company in Arwal for seed, fertiliser and grain traders",
+      heading: "Software team in Arwal for seed, fertiliser and grain traders",
       paragraphs: [
         "Arwal's economy rests on agriculture. Paddy dominates in the kharif season, wheat and pulses follow in rabi, and much of the district is irrigated. Around this runs a trade in seed, fertiliser, pesticides, farm equipment and the purchase and sale of grain, much of it on credit extended across a season.",
-        "Working as a <strong>software company in Arwal</strong> for such firms mostly means replacing the bahi-khata with something on the phone. A dealer can record stock by product and batch, sales to each retailer or farmer, credit given and payments received. A statement for each customer can be shared on WhatsApp, and reminders go out when dues pass a set date. Grain traders can track purchases with weight, rate and deductions, and dispatches with truck details.",
+        "Working as a <strong>software team in Arwal</strong> for such firms mostly means replacing the bahi-khata with something on the phone. A dealer can record stock by product and batch, sales to each retailer or farmer, credit given and payments received. A statement for each customer can be shared on WhatsApp, and reminders go out when dues pass a set date. Grain traders can track purchases with weight, rate and deductions, and dispatches with truck details.",
         "Bespoke tools like this begin at ₹60,000 and come together over six to twelve weeks, one module at a time. First comes the one register that causes the most trouble, usually credit, and add stock and dispatch only after your staff use the first part daily. If a ready-made billing package already fits your business, we will tell you to use that instead.",
       ],
     },
@@ -119,7 +119,7 @@ const arwal: CityContent = {
       heading: "Android app development in Arwal, and iOS apps for local institutions",
       paragraphs: [
         "An app is worth building when the same group of people will open it often. In Arwal, the best cases are coaching institutes whose students need daily tests, notes and notices; schools sending homework and fee reminders to parents; a clinic or lab issuing tokens and report alerts; or a dealer whose village retailers reorder every week.",
-        "As an <strong>app development company in Arwal</strong> that works remotely, we build in Flutter or React Native, so one app runs on both Android phones and iPhones. A typical first version includes mobile number login, push notifications, the main screens your users need, plus an admin panel for the office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Arwal</strong> that works remotely, we build in Flutter or React Native, so one app runs on both Android phones and iPhones. A typical first version includes mobile number login, push notifications, the main screens your users need, plus an admin panel for the office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Arwal</strong> with us starts at ₹40,000. Extras such as fee payment inside the app, recorded video lessons, working without signal or syncing with billing are priced one by one, so you can drop any of them. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "If people only need your address, timings and a phone number, a website does the job for much less and needs no download. We will recommend the website in that case, since few people keep an app they open only once.",
       ],
@@ -234,7 +234,7 @@ const arwal: CityContent = {
         "A simple shop website is usually ready one to two weeks after we receive your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when content arrives early.",
     },
     {
-      question: "Which is the best website development company in Arwal?",
+      question: "Which is the best website development team in Arwal?",
       answer:
         "Pick a provider that shows its prices, registers the domain and code in your name, supports you after launch and can show real work. Ask everyone the same questions. We meet those tests and reply on WhatsApp every day, but compare two or three options before you decide.",
     },

@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT consulting across Gujarat: transformation roadmaps, custom software, Android and iOS apps, AI automation, cloud, dashboards and Gujarati SEO for MSMEs.",
     keywords: [
-      "IT solutions company in Gujarat",
+      "IT solutions team in Gujarat",
       "IT consulting Gujarat",
       "digital transformation Gujarat",
       "freelance IT consultant Gujarat",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Gujarat · State hub · Consulting-led IT",
     h1: "Freelance IT consulting and digital transformation for Gujarat's clusters, from Surat looms to Morbi kilns",
     lede:
-      "Businesses looking for an IT solutions company in Gujarat usually run tight, owner-led operations where every rupee is checked, so a transformation plan has to show its return early. BtechWaleTech is a freelance group of three engineers working remotely from India. We offer IT consulting and then build what the plan calls for: custom software for GIDC units, Android and iOS apps for dealers and field staff, AI automation, cloud hosting, dashboards, ecommerce and Gujarati-English SEO for firms across Ahmedabad, Surat, Vadodara, Rajkot and the rest of the state.",
+      "Businesses looking for an IT solutions team in Gujarat usually run tight, owner-led operations where every rupee is checked, so a transformation plan has to show its return early. BtechWaleTech is a freelance group of three engineers working remotely from India. We offer IT consulting and then build what the plan calls for: custom software for GIDC units, Android and iOS apps for dealers and field staff, AI automation, cloud hosting, dashboards, ecommerce and Gujarati-English SEO for firms across Ahmedabad, Surat, Vadodara, Rajkot and the rest of the state.",
     pills: ["Audit and roadmap first", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Gujarati and English interfaces"],
   },
   quickAnswer:
@@ -204,7 +204,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner-gujarat",
-      heading: "Freelance IT team or an IT company in Gujarat: how should you choose?",
+      heading: "Freelance IT team or an IT services team in Gujarat: how should you choose?",
       paragraphs: [
         "Choose a freelance IT team when you want consulting and building by the same engineers, itemised pricing and full ownership, and choose a larger IT company in Gujarat when you need on-site implementation teams, hardware, networking or round-the-clock helpdesks. Many firms combine a local hardware vendor with a remote software team.",
         "Whoever you consider, ask for a written scope, an itemised quote, live examples you can test on a phone, and clarity that code, database, domain and app accounts will be in your name. Ask whether licences or renewals apply after year one.",

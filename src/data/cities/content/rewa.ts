@@ -9,7 +9,7 @@ const rewa: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Rewa and Vindhya region businesses. Static sites start at ₹10,000 and maintenance is free for five months.",
     keywords: [
-      "website development company in Rewa",
+      "website development team in Rewa",
       "web design Rewa",
       "website designer Rewa MP",
       "freelance web developer Rewa",

@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance IT consultants in Pune for custom software, Android and iOS apps, AI automation, cloud, data and SEO, for Chakan suppliers, colleges and startups alike.",
     keywords: [
-      "IT solutions company in Pune",
-      "best IT company in Pune",
+      "IT solutions team in Pune",
+      "best IT services team in Pune",
       "freelance IT consultants Pune",
       "IT consulting and digital transformation Pune",
       "hire freelance developers Pune",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-pune-or-freelance",
-      heading: "Choosing the best IT company in Pune, or a freelance team instead",
+      heading: "Choosing the best IT services team in Pune, or a freelance team instead",
       paragraphs: [
-        "The best IT company in Pune for a given project is the one whose size and working style match it, and for many small manufacturers, institutes and startups that means a small senior freelance team rather than a large services firm. Pune's big IT employers are geared to global enterprise contracts; small local projects rarely get their best people.",
-        "BtechWaleTech is not a company but a freelance group of three engineers. Compared with IT companies in Pune, we offer direct contact, lower overheads and one team covering software, apps, automation, cloud and websites. We do not offer on-site staff, hardware support or large enterprise teams.",
+        "The best IT services team in Pune for a given project is the one whose size and working style match it, and for many small manufacturers, institutes and startups that means a small senior freelance team rather than a large services firm. Pune's big IT employers are geared to global enterprise contracts; small local projects rarely get their best people.",
+        "BtechWaleTech is a freelance group of three engineers. Compared with IT companies in Pune, we offer direct contact, lower overheads and one team covering software, apps, automation, cloud and websites. We do not offer on-site staff, hardware support or large enterprise teams.",
         "Ask every candidate the same things: explain my problem back to me, name the biggest risk, tell me what you would leave out of version one, and confirm that code, domain and cloud accounts will be mine. The answers will separate experienced partners from sellers.",
       ],
     },
@@ -291,9 +291,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you an IT company with an office in Pune?",
+      question: "Are you an IT services team with an office in Pune?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers, not a company, and we have no Pune office. We work remotely from India through video calls, phone and WhatsApp, seven days a week. You speak directly with the engineers who build your system.",
+        "No. BtechWaleTech is a freelance group of three engineers, and we have no Pune office. We work remotely from India through video calls, phone and WhatsApp, seven days a week. You speak directly with the engineers who build your system.",
     },
     {
       question: "Is the first consultation free?",

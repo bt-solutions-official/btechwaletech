@@ -10,12 +10,12 @@ const jamui: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Jamui traders, coaching centres, clinics, Jain pilgrimage services and Jhajha shops.",
     keywords: [
       "IT services in Jamui",
-      "IT company in Jamui",
-      "website development company in Jamui",
+      "IT services team in Jamui",
+      "website development team in Jamui",
       "web design in Jamui",
-      "app development company in Jamui",
+      "app development team in Jamui",
       "Android app development in Jamui",
-      "software company in Jamui",
+      "software team in Jamui",
       "SEO services in Jamui",
       "digital marketing in Jamui",
       "ecommerce website in Jamui",
@@ -74,10 +74,10 @@ const jamui: CityContent = {
     },
     {
       id: "coaching-schools-jamui",
-      heading: "Website development company in Jamui for coaching centres, schools and colleges",
+      heading: "Website development team in Jamui for coaching centres, schools and colleges",
       paragraphs: [
         "Education is one of Jamui's steadiest businesses. KKM College, a constituent unit of Munger University founded in 1955, sits on Kachahri Road, and around it are private schools, BPSC and railway exam coaching, computer training centres and hostels. Students from across the district and from neighbouring Lakhisarai and Sheikhpura weigh their options online before they pay a fee.",
-        "A <strong>website development company in Jamui</strong> working for these institutes should keep the site factual and easy to scan. Course and batch pages with timings, fee ranges and teacher names; an admissions form that asks only what you need; a results page that shows real names only with written consent; and a map pin that leads parents to the right lane. Hindi should be the main language, with English where students expect it.",
+        "A <strong>website development team in Jamui</strong> working for these institutes should keep the site factual and easy to scan. Course and batch pages with timings, fee ranges and teacher names; an admissions form that asks only what you need; a results page that shows real names only with written consent; and a map pin that leads parents to the right lane. Hindi should be the main language, with English where students expect it.",
         "A static site of up to 100 pages starts at ₹10,000 and is usually live in one to two weeks once text and photographs are ready. Institutes that want online fee payment, test series or student logins move into web app territory, which starts at ₹60,000. We explain the difference before you commit, so you only pay for what the institute will actually use.",
       ],
     },
@@ -92,19 +92,19 @@ const jamui: CityContent = {
     },
     {
       id: "traders-kachahri-road",
-      heading: "Software company in Jamui for wholesale traders, grain dealers and hardware shops",
+      heading: "Software team in Jamui for wholesale traders, grain dealers and hardware shops",
       paragraphs: [
         "The district's economy still rests on grain and timber, and Jamui town is where much of that trade is settled. Wholesale dealers in rice, pulses and flour, building-material yards, hardware and electrical shops, fertiliser and seed dealers and two-wheeler agencies all keep long credit books with retailers in the blocks.",
-        "Most of these records live in notebooks, a basic billing program and the owner's memory. As a <strong>software company in Jamui</strong> in the practical sense, we build small tools that remove the daily friction: party-wise ledgers, stock by godown, rate lists that sales staff can check on a phone, WhatsApp payment reminders, and a daily summary of sales and collections sent to the owner at closing time.",
+        "Most of these records live in notebooks, a basic billing program and the owner's memory. As a <strong>software team in Jamui</strong> in the practical sense, we build small tools that remove the daily friction: party-wise ledgers, stock by godown, rate lists that sales staff can check on a phone, WhatsApp payment reminders, and a daily summary of sales and collections sent to the owner at closing time.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We usually begin with one module, such as dues and reminders, because it pays back quickly and staff learn it easily. Where you already use Tally, we connect to it instead of forcing a switch.",
       ],
     },
     {
       id: "jhajha-railnagri",
-      heading: "IT company in Jamui district serving Jhajha, the railway town",
+      heading: "IT services team in Jamui district serving Jhajha, the railway town",
       paragraphs: [
         "Jhajha, known locally as Railnagri, lies on the Howrah main line roughly midway between Madhupur and Kiul. Its bazaar trades in grain, cloth, jewellery, general merchandise and food products, and the railway colony gives it a steady population of families who shop, study and seek treatment locally.",
-        "Working as an <strong>IT company in Jamui</strong> district, we treat Jhajha as its own market rather than an afterthought. Its shops need their own Google Business Profiles, its schools and clinics need their own pages, and searches like “Jhajha medical store” or “Jhajha hotel near station” should lead to a business in Jhajha, not one in Jamui town 30-odd kilometres away.",
+        "Working as an <strong>IT services team in Jamui</strong> district, we treat Jhajha as its own market rather than an afterthought. Its shops need their own Google Business Profiles, its schools and clinics need their own pages, and searches like “Jhajha medical store” or “Jhajha hotel near station” should lead to a business in Jhajha, not one in Jamui town 30-odd kilometres away.",
         "For firms with outlets in both towns, we write separate location pages with the real address, timings, phone number and staff for each. Duplicate pages with only the town name swapped help nobody and are filtered out by search engines, so we avoid them.",
       ],
     },
@@ -131,7 +131,7 @@ const jamui: CityContent = {
       heading: "Android app development in Jamui, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost only when a defined group uses it again and again. In Jamui, sensible candidates are coaching institutes sending class changes and test results to students, schools reaching parents with notices and fee reminders, hospitals issuing tokens to repeat patients, wholesalers taking orders from village retailers, and transporters logging trips on the road.",
-        "As an <strong>app development company in Jamui</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version typically has mobile number login, push notifications, the few screens your users need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Jamui</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version typically has mobile number login, push notifications, the few screens your users need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Jamui</strong> with us starts at ₹40,000. Online payments, offline use for weak-signal areas, maps and integrations add to the cost, and each is listed separately. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a price list, a website does that for a quarter of the cost. We will recommend the website in that case, because an app that people install once and forget is money spent for nothing.",
       ],
@@ -223,7 +223,7 @@ const jamui: CityContent = {
         "A static site usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Jamui?",
+      question: "Which is the best website development team in Jamui?",
       answer:
         "Judge any provider by published prices, ownership of domain and code in your name, support after launch and real work you can check. Put the same questions to everyone. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before deciding is sensible.",
     },

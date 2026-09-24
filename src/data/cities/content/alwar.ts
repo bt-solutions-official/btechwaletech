@@ -9,7 +9,7 @@ const alwar: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Alwar traders, MIA factories, sweet shops and hotels. Fixed starting prices, code in your name.",
     keywords: [
-      "website development company in Alwar",
+      "website development team in Alwar",
       "web designer Alwar",
       "website design Alwar Rajasthan",
       "freelance web developer Alwar",
@@ -21,7 +21,7 @@ const alwar: CityContent = {
       "MIA Alwar vendor website",
       "hotel website Sariska",
       "WhatsApp automation Alwar",
-      "software company Alwar",
+      "software team Alwar",
       "website maintenance Alwar",
       "Alwar me website kaise banaye",
       "अलवर वेबसाइट डिज़ाइन",

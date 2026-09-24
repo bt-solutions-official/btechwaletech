@@ -10,12 +10,12 @@ const theni: CityContent = {
       "Websites, Android and iOS apps, Tamil local SEO and WhatsApp automation for Theni cardamom and grape traders, spinning mills, Sunday shandy shops and clinics.",
     keywords: [
       "IT services in Theni",
-      "IT company in Theni",
-      "website development company in Theni",
+      "IT services team in Theni",
+      "website development team in Theni",
       "web design in Theni",
-      "app development company in Theni",
+      "app development team in Theni",
       "Android app development in Theni",
-      "software company in Theni",
+      "software team in Theni",
       "SEO services in Theni",
       "digital marketing in Theni",
       "ecommerce website in Theni",
@@ -68,16 +68,16 @@ const theni: CityContent = {
       heading: "IT services in Theni for a district headquarters and its valley towns",
       paragraphs: [
         "Theni was only a firka headquarters until the end of 1996. When the district was carved out of Madurai, the town became its administrative centre, and it has grown into the commercial hub for five taluks: Theni, Bodinayakanur, Periyakulam, Uthamapalayam and Andipatti. Customers come in from Cumbum, Chinnamanur, Bodi and dozens of villages for hospitals, courts, colleges and wholesale buying.",
-        "When someone asks for an IT company in Theni, the request is rarely abstract. A trader wants buyers in other states to find him. A clinic wants its timings correct on Google. A spinning mill wants its dispatch register off paper. A school wants admissions forms parents can fill on a phone. We build all of these, and we will tell you plainly when a small website is enough.",
+        "When someone asks for an IT services team in Theni, the request is rarely abstract. A trader wants buyers in other states to find him. A clinic wants its timings correct on Google. A spinning mill wants its dispatch register off paper. A school wants admissions forms parents can fill on a phone. We build all of these, and we will tell you plainly when a small website is enough.",
         "Our first questions are always about the people who buy from you: which town they come from, whether they read Tamil or English, what they ask before paying, and whether they pay by UPI or cash. The answers shape the page list and language mix, and they show whether an app or software is justified or just an extra bill.",
       ],
     },
     {
       id: "cardamom-spice-trade",
-      heading: "Website development company in Theni for cardamom and spice traders",
+      heading: "Website development team in Theni for cardamom and spice traders",
       paragraphs: [
         "Bodinayakanur, a short drive from Theni, is often called the cardamom city because so much of the crop from the hills is traded there. Around that trade work growers, auction participants, dealers, packers and exporters of cardamom, pepper, coffee and other hill produce. Their buyers in Mumbai, Delhi, the Gulf and elsewhere increasingly check a supplier online before placing a first order.",
-        "As a website development company in Theni, we build trade sites that answer a buyer's questions directly: grades and sizes handled, packing formats, minimum order quantities, sampling, lab reports where you have them, licences such as FSSAI and any spice export registration you hold, and a clear enquiry form. Certificates and client names appear only when you can show proof and permission.",
+        "As a website development team in Theni, we build trade sites that answer a buyer's questions directly: grades and sizes handled, packing formats, minimum order quantities, sampling, lab reports where you have them, licences such as FSSAI and any spice export registration you hold, and a clear enquiry form. Certificates and client names appear only when you can show proof and permission.",
         "Traders who post rates daily can have a simple rate page or WhatsApp broadcast that the office updates from a phone, so regular buyers stop calling for the same figure. A trade website starts at ₹10,000, and a rate board linked to WhatsApp is usually a small addition. We keep product claims factual, because buyers in this trade test samples and remember.",
       ],
     },
@@ -92,10 +92,10 @@ const theni: CityContent = {
     },
     {
       id: "spinning-mill-software",
-      heading: "Software company in Theni for spinning mills, sugar mills and traders",
+      heading: "Software team in Theni for spinning mills, sugar mills and traders",
       paragraphs: [
         "Cotton spinning mills and sugar mills are the district's main industries, along with the traders, transporters and suppliers that work around them. In many of these units, purchase, production and dispatch are still tracked in registers and spreadsheets that only one person fully understands.",
-        "As a software company in Theni, we build tools that fit how the unit already works. For a spinning mill that could mean cotton bale inward with quality details, count-wise production, yarn stock by lot and dispatch with buyer, lorry and invoice details. For a trader it could be purchases by grower, grading, lots, sales and dues. The owner sees stock and pending payments from a phone, and supervisors enter data on a simple Android screen.",
+        "As a software team in Theni, we build tools that fit how the unit already works. For a spinning mill that could mean cotton bale inward with quality details, count-wise production, yarn stock by lot and dispatch with buyer, lorry and invoice details. For a trader it could be purchases by grower, grading, lots, sales and dues. The owner sees stock and pending payments from a phone, and supervisors enter data on a simple Android screen.",
         "The first module is whichever register gives you the biggest headache; the others come once the team trusts it. Pricing for custom software begins at ₹60,000, with delivery spread across six to twelve weeks. Records live in an account you own, and they export to Excel or sync with Tally.",
       ],
     },
@@ -140,7 +140,7 @@ const theni: CityContent = {
       heading: "Android app development in Theni: when an app is worth it",
       paragraphs: [
         "An app pays off when the same people use it again and again. In Theni that might be a spice wholesaler whose retailers reorder every week, a farm input dealer sending crop advice and offers, a hospital managing repeat appointments, or a school sending daily notices and fee reminders to parents.",
-        "Working as an app development company in Theni, we write one Flutter or React Native codebase that runs on both Android phones and iPhones. A retailer signs in with an OTP, sees today's rates, places an order and gets a push alert when it is dispatched; your office manages products, prices and orders from a web admin panel. We submit the finished app to Google Play and the App Store using developer accounts registered to you, and the code is handed over with them.",
+        "Working as an app development team in Theni, we write one Flutter or React Native codebase that runs on both Android phones and iPhones. A retailer signs in with an OTP, sees today's rates, places an order and gets a push alert when it is dispatched; your office manages products, prices and orders from a web admin panel. We submit the finished app to Google Play and the App Store using developer accounts registered to you, and the code is handed over with them.",
         "Budget ₹40,000 onwards for an app. What pushes the figure up is the feature list, online payment and the number of separate user types, for example retailer, field staff and manager. Allow a few extra days for the stores to review the app. Where people visit just once, like travellers heading up to the hills, an app is money wasted and a quick website with WhatsApp ordering is the better buy; we will say that at the first call. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for examples.",
       ],
     },
@@ -225,7 +225,7 @@ const theni: CityContent = {
         "We do. One Flutter or React Native build covers Android and iPhone, typically with OTP sign-in, rate or product lists, ordering or booking, push alerts and a web admin panel for your office. Pricing begins at ₹40,000, and the app goes live on Google Play and the App Store under accounts in your name. For one-time visitors we would advise a website instead.",
     },
     {
-      question: "Which is the best IT company in Theni for a small business?",
+      question: "Which is the best IT services team in Theni for a small business?",
       answer:
         "Judge any provider on three things: a written quote broken into items, the domain and code registered to you, and support that continues after the site is live. We meet all three, list our starting prices publicly and give five free months of upkeep. Bear in mind we are a remote group, not a shop with an office in Theni.",
     },

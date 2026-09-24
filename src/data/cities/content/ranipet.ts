@@ -9,7 +9,7 @@ const ranipet: CityContent = {
     description:
       "Websites, SEO and automation for Ranipet leather exporters, SIPCOT chemical units, BHEL vendors, schools and shops across Arcot and Walajapet. From ₹10,000.",
     keywords: [
-      "website development company in Ranipet",
+      "website development team in Ranipet",
       "web designer Ranipet",
       "website design Ranipet Tamil Nadu",
       "freelance web developer Ranipet",

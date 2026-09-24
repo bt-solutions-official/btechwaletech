@@ -9,7 +9,7 @@ const habra: CityContent = {
     description:
       "Websites, Google Maps listings and WhatsApp automation for Habra shops, tutors, clinics, fish farms and transporters on Jessore Road. Sites from ₹10,000.",
     keywords: [
-      "website development company in Habra",
+      "website development team in Habra",
       "web designer Habra",
       "website design North 24 Parganas",
       "SEO services Habra",

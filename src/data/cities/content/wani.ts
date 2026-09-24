@@ -10,12 +10,12 @@ const wani: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Wani coal-belt contractors, cotton ginners, MIDC units, colleges, clinics and shops.",
     keywords: [
       "IT services in Wani",
-      "IT company in Wani",
-      "website development company in Wani",
+      "IT services team in Wani",
+      "website development team in Wani",
       "web design in Wani",
-      "app development company in Wani",
+      "app development team in Wani",
       "Android app development in Wani",
-      "software company in Wani",
+      "software team in Wani",
       "SEO services in Wani",
       "digital marketing in Wani",
       "ecommerce website in Wani",
@@ -74,19 +74,19 @@ const wani: CityContent = {
     },
     {
       id: "coal-transport-contractors-wani",
-      heading: "Software company in Wani for coal transporters and mine contractors",
+      heading: "Software team in Wani for coal transporters and mine contractors",
       paragraphs: [
         "The Western Coalfields mines around Wani, from Ukni and Pimpalgaon to Junad, Kolarpimpri, Rajur and Ghonsa, support a large network of businesses: truck and tipper owners, loading and overburden contractors, workshops, tyre and spare parts dealers, diesel pumps, canteens and labour suppliers. Their margins depend on keeping accurate records.",
-        "Most owners still juggle trip sheets, weighbridge slips, driver advances, diesel bills and pending payments across paper and WhatsApp photos. As a <strong>software company in Wani</strong> in practical terms, we build web tools that bring this together: each trip entered once from a phone with vehicle, slip number, tonnage and destination; diesel and advances logged against the driver; running totals per vehicle, per contract and per month; and reminders before permits, fitness certificates and insurance expire.",
+        "Most owners still juggle trip sheets, weighbridge slips, driver advances, diesel bills and pending payments across paper and WhatsApp photos. As a <strong>software team in Wani</strong> in practical terms, we build web tools that bring this together: each trip entered once from a phone with vehicle, slip number, tonnage and destination; diesel and advances logged against the driver; running totals per vehicle, per contract and per month; and reminders before permits, fitness certificates and insurance expire.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. We usually begin with the trip register, because it pays back fastest, then add driver accounts, maintenance history and dues reports once your staff are using it daily. Data stays on hosting registered to you, with daily backups.",
       ],
     },
     {
       id: "cotton-ginning-oil-mills-wani",
-      heading: "Website development company in Wani for ginning, pressing and oil mills",
+      heading: "Website development team in Wani for ginning, pressing and oil mills",
       paragraphs: [
         "Cotton is the main crop in this part of Vidarbha, and the ginning and pressing factories around Wani turn it into bales for spinning mills across India. Cottonseed oil mills and cake producers sit alongside them, and soybean adds a second season of trade.",
-        "Spinning mill buyers and brokers increasingly check a ginner online before calling. A <strong>website development company in Wani</strong> should keep such sites simple and factual: the varieties and staple lengths handled, ginning and pressing capacity if you wish to state it, bale weights, testing arrangements, dispatch by road and rail, GST and registration details, and named contacts. Clear photographs of the factory and bale yard matter more than design effects.",
+        "Spinning mill buyers and brokers increasingly check a ginner online before calling. A <strong>website development team in Wani</strong> should keep such sites simple and factual: the varieties and staple lengths handled, ginning and pressing capacity if you wish to state it, bale weights, testing arrangements, dispatch by road and rail, GST and registration details, and named contacts. Clear photographs of the factory and bale yard matter more than design effects.",
         "We add an enquiry form that asks for quantity, variety and delivery window, so your office receives usable leads. Static sites of this kind start at ₹10,000. Units that want to track farmer purchases, lots, bales and buyer payments can add custom software from ₹60,000, planned around the season so it is ready before arrivals peak.",
       ],
     },
@@ -123,7 +123,7 @@ const wani: CityContent = {
       heading: "Android app development in Wani, and iOS apps for local businesses",
       paragraphs: [
         "An app is worth the money when the same people open it often. In Wani, strong candidates are a transport company whose drivers log trips and diesel from the road, a coaching class sharing tests and marks with students, a hospital running a token queue, a farm input dealer taking re-orders from village shops, and a grocery store delivering to the town's newer layouts.",
-        "As an <strong>app development company in Wani</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Wani</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Wani</strong> with us starts at ₹40,000. Offline entry for mine roads with weak signal, payments, maps and integrations add to the cost, and each appears on its own line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the stages.",
         "If your customers only need your address, phone number and price list, a website does that job for far less, and we will recommend it.",
       ],
@@ -157,9 +157,9 @@ const wani: CityContent = {
     },
     {
       id: "remote-team-wani",
-      heading: "IT company in Wani without an office: how our remote team works",
+      heading: "IT services team in Wani without an office: how our remote team works",
       paragraphs: [
-        "Someone searching for an <strong>IT company in Wani</strong> may expect an office near the market. We do not have one, and we would rather you know that on the first call. Our process is written down at every step so distance is never the cause of a misunderstanding.",
+        "Someone searching for an <strong>IT services team in Wani</strong> may expect an office near the market. We do not have one, and we would rather you know that on the first call. Our process is written down at every step so distance is never the cause of a misunderstanding.",
         "The opening conversation covers what you sell, who buys it and where things currently go wrong. Within about two working days a written plan follows, listing pages or screens, the schedule and the cost of each item. Once you sign off, work-in-progress links arrive on WhatsApp so your partners can try the site on their own phones. Every Marathi line waits for your go-ahead before it is published.",
         "We reply on WhatsApp every day, Sundays included, on Indian Standard Time. If something is delayed, we tell you when we know. Payments follow visible progress. You can <a href=\"/contact/\">message us here</a> to start.",
       ],
@@ -224,7 +224,7 @@ const wani: CityContent = {
         "Plan on a week or two for a simple site once your photographs and wording reach us. Big SEO builds of 700+ pages take three to five weeks, stores four to eight, and bespoke software six to twelve. Delays almost always come from waiting on content, so gathering it before we start is the best shortcut.",
     },
     {
-      question: "Which is the best website development company in Wani?",
+      question: "Which is the best website development team in Wani?",
       answer:
         "The right choice is whoever shows you live sites they built, quotes in writing, puts the domain and code under your name and still picks up the phone months later. Hold every candidate to that. We are happy to be measured the same way, and we encourage you to speak with two or three options first.",
     },

@@ -9,7 +9,7 @@ const karwar: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Karwar homestays, water sports, seafood traders, clinics and navy-town shops. Static sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Karwar",
+      "website development team in Karwar",
       "web design Karwar",
       "website designer Uttara Kannada",
       "SEO services Karwar",

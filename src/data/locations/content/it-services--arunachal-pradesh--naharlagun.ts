@@ -13,8 +13,8 @@ const content: CityContent = {
       "iPhone app developers Naharlagun",
       "Android app development Naharlagun",
       "mobile app developers Naharlagun",
-      "software development company in Naharlagun",
-      "IT company in Naharlagun",
+      "software development team in Naharlagun",
+      "IT services team in Naharlagun",
       "IT solutions Naharlagun",
       "freelance IT services Naharlagun",
       "freelance software developer Itanagar Capital Region",
@@ -193,9 +193,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-naharlagun",
-      heading: "Freelance team vs a software development company in Naharlagun: costs, timelines and how to choose",
+      heading: "Freelance team vs a software development team in Naharlagun: costs, timelines and how to choose",
       paragraphs: [
-        "A freelance team like BtechWaleTech usually costs less than a software development company in Naharlagun or Itanagar, and you talk directly with the engineers; a larger company may offer more staff, formal account management and on-site visits. Our starting prices are ₹10,000 for websites, ₹20,000 for SEO sites, ₹40,000 for automation or an Android and iOS app, ₹50,000 for stores and ₹60,000 for custom software.",
+        "A freelance team like BtechWaleTech usually costs less than a software development team in Naharlagun or Itanagar, and you talk directly with the engineers; a larger company may offer more staff, formal account management and on-site visits. Our starting prices are ₹10,000 for websites, ₹20,000 for SEO sites, ₹40,000 for automation or an Android and iOS app, ₹50,000 for stores and ₹60,000 for custom software.",
         "Timelines follow scope: one to two weeks for a service website, two to four for automation, three to five for an SEO site, four to eight for a store, and six to twelve for custom software. Quotes are itemised, payments are staged, and you pay only by UPI QR or bank transfer in INR. See the full <a href='/pricing/'>pricing page</a> and past work on our <a href='/portfolio/'>portfolio</a>.",
         "Whichever option you choose, insist on the same basics: domain, hosting and code in your name; a live preview during the build; written maintenance terms; and a clear answer on who fixes problems after launch. To learn more about the three of us, visit the <a href='/about/'>about page</a>, or start a conversation through <a href='/contact/'>contact</a>.",
       ],
@@ -285,7 +285,7 @@ const content: CityContent = {
         "Yes, in most cases. WhatsApp connects through the official Business API, website forms connect directly, and Instagram messages can be routed through supported integrations. Everything lands in one lead list or CRM with the source marked, so you can see which channel brings the best customers.",
     },
     {
-      question: "Should I hire a freelance team or a software development company in Naharlagun?",
+      question: "Should I hire a freelance team or a software development team in Naharlagun?",
       answer:
         "It depends on what you value. A freelance group like ours offers lower overheads, direct engineer access and published starting prices, but works remotely. A larger company may offer more staff and in-person meetings at a higher cost. Either way, insist on itemised quotes, ownership in your name and written maintenance terms.",
     },

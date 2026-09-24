@@ -9,7 +9,7 @@ const zirakpur: CityContent = {
     description:
       "Websites, local SEO, property listing sites and WhatsApp automation for Zirakpur businesses on VIP Road, Patiala Road, Dhakoli and Baltana. From ₹10,000.",
     keywords: [
-      "website development company in Zirakpur",
+      "website development team in Zirakpur",
       "web designer Zirakpur",
       "website design Zirakpur",
       "SEO services Zirakpur",

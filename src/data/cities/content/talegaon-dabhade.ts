@@ -11,12 +11,12 @@ const talegaonDabhade: CityContent = {
     keywords: [
       "IT services in Talegaon Dabhade",
       "IT services in Talegaon",
-      "IT company in Talegaon",
-      "website development company in Talegaon",
+      "IT services team in Talegaon",
+      "website development team in Talegaon",
       "web design in Talegaon Dabhade",
-      "app development company in Talegaon",
+      "app development team in Talegaon",
       "Android app development in Talegaon",
-      "software company in Talegaon MIDC",
+      "software team in Talegaon MIDC",
       "SEO services in Talegaon",
       "digital marketing in Talegaon Dabhade",
       "ecommerce website in Talegaon",
@@ -73,19 +73,19 @@ const talegaonDabhade: CityContent = {
     },
     {
       id: "midc-vendors",
-      heading: "Website development company in Talegaon for MIDC vendors and auto component suppliers",
+      heading: "Website development team in Talegaon for MIDC vendors and auto component suppliers",
       paragraphs: [
         "MIDC has developed about 585 hectares at Talegaon across Navlakh Umbre, Ambi and nearby villages, in five phases. The earlier phases are fully allotted to large manufacturers in the automobile and engineering sectors; the car plant once run by General Motors has passed to Hyundai, and more supplier activity is expected around it. Behind the big names stand dozens of smaller firms doing machining, fabrication, sheet metal, painting, tooling, packaging and logistics.",
-        "A <strong>website development company in Talegaon</strong> should help these vendors look as capable online as they are on the shop floor. That means pages for processes and machines, with makes, sizes and capacities; quality systems and certifications you actually hold; industries served; plant photographs; and named contacts for purchase and quality. Supplier development teams often browse on a desktop, so the site must look sharp there too.",
+        "A <strong>website development team in Talegaon</strong> should help these vendors look as capable online as they are on the shop floor. That means pages for processes and machines, with makes, sizes and capacities; quality systems and certifications you actually hold; industries served; plant photographs; and named contacts for purchase and quality. Supplier development teams often browse on a desktop, so the site must look sharp there too.",
         "We never display a customer's name or logo without their written permission. An RFQ form that accepts drawings and asks for material, quantity and target date saves back-and-forth. Vendor websites start at ₹10,000 for up to 100 pages, and an English site can be paired with Marathi pages for local hiring.",
       ],
     },
     {
       id: "shopfloor-software",
-      heading: "Software company in Talegaon MIDC for job cards, dispatch and quality records",
+      heading: "Software team in Talegaon MIDC for job cards, dispatch and quality records",
       paragraphs: [
         "Small component makers in Talegaon MIDC face the same pressure from their customers: on-time delivery, traceable batches, low rejection and paperwork that stands up to audits. Many still run on Excel sheets passed between the office and the shop floor, which breaks down once orders multiply.",
-        "Working as a <strong>software company in Talegaon MIDC</strong>, we build web tools sized for a 20- to 200-person unit. Job cards follow each order through operations; operators log output and rejections from a tablet; dispatch notes and invoices draw from the same data; and a dashboard shows pending orders, delivery risk and rejection trends by part. A simple vendor or customer portal can show order status without phone calls.",
+        "Working as a <strong>software team in Talegaon MIDC</strong>, we build web tools sized for a 20- to 200-person unit. Job cards follow each order through operations; operators log output and rejections from a tablet; dispatch notes and invoices draw from the same data; and a dashboard shows pending orders, delivery risk and rejection trends by part. A simple vendor or customer portal can show order status without phone calls.",
         "Such tools start at ₹60,000 and are delivered in modules over six to twelve weeks, usually beginning with job cards and dispatch. We can link to Tally or export to your existing ERP. We do not claim to replace a full ERP; the aim is to cover the gaps your team currently fills with spreadsheets.",
       ],
     },
@@ -114,7 +114,7 @@ const talegaonDabhade: CityContent = {
       heading: "Android app development in Talegaon, and iOS apps for local firms",
       paragraphs: [
         "Apps suit situations where the same users return daily. In Talegaon that could be operators and supervisors at an MIDC vendor recording output and breakdowns, residents of a large housing society booking amenities and paying maintenance, parents following a school's homework and fee notices, or patients booking consultations at a busy hospital.",
-        "As an <strong>app development company in Talegaon</strong> working remotely, we use Flutter or React Native, which lets one codebase run on Android and iPhone alike. A first release usually has mobile OTP login, push notifications, the core screens and an admin panel, in Marathi, English or both. Publishing on Google Play and the Apple App Store is done under developer accounts owned by your company or society.",
+        "As an <strong>app development team in Talegaon</strong> working remotely, we use Flutter or React Native, which lets one codebase run on Android and iPhone alike. A first release usually has mobile OTP login, push notifications, the core screens and an admin panel, in Marathi, English or both. Publishing on Google Play and the Apple App Store is done under developer accounts owned by your company or society.",
         "<strong>Android app development in Talegaon</strong> starts at ₹40,000. Online payments, offline entry for shop floors with poor signal, barcode scanning and ERP links are each quoted as separate items. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the steps.",
         "A business whose customers just need an address, contact number and price list is better served by a website at roughly a quarter of the cost, and that is what we will suggest.",
       ],
@@ -130,10 +130,10 @@ const talegaonDabhade: CityContent = {
     },
     {
       id: "schools-medical-talegaon",
-      heading: "IT company in Talegaon for schools, colleges and hospitals",
+      heading: "IT services team in Talegaon for schools, colleges and hospitals",
       paragraphs: [
         "The Maharashtra Institute of Medical Education and Research, set up in 1995, runs its medical college and teaching hospital on a campus off the Mumbai–Pune highway at Talegaon. The town also has schools in several boards, junior and degree colleges, engineering and management institutes nearby, coaching classes and private hospitals, clinics and labs.",
-        "An <strong>IT company in Talegaon</strong> working with these institutions must keep information exact and current. A school site should state board, classes, fee range, transport routes and admission dates. A coaching class should show courses, timings and only the results it can support. A clinic should list doctors, qualifications, OPD hours and emergency numbers.",
+        "An <strong>IT services team in Talegaon</strong> working with these institutions must keep information exact and current. A school site should state board, classes, fee range, transport routes and admission dates. A coaching class should show courses, timings and only the results it can support. A clinic should list doctors, qualifications, OPD hours and emergency numbers.",
         "We build these in Marathi and English, connect them with Google Maps and WhatsApp, and add enquiry, admission or appointment forms that feed a sheet or your software. A parent or patient app can follow once volumes justify it.",
       ],
     },
@@ -224,7 +224,7 @@ const talegaonDabhade: CityContent = {
         "A basic site is usually live within one to two weeks of receiving your content. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Sending photographs and text early is what speeds things up most.",
     },
     {
-      question: "Which is the best software company in Talegaon MIDC?",
+      question: "Which is the best software team in Talegaon MIDC?",
       answer:
         "Choose one that publishes prices, registers domains and code in your name, supports you after launch and can show working projects. Put the same questions to every option. We meet those tests and reply on WhatsApp every day, but comparing two or three providers first is sensible.",
     },

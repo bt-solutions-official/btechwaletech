@@ -9,8 +9,8 @@ const tirupati: CityContent = {
     description:
       "Websites, Telugu and English SEO, booking sites and WhatsApp automation for Tirupati hotels, travel operators, clinics, colleges and suppliers. Sites from ₹10,000.",
     keywords: [
-      "website development company in Tirupati",
-      "web design company Tirupati",
+      "website development team in Tirupati",
+      "web design team Tirupati",
       "website designer Tirupati",
       "freelance web developer Tirupati",
       "website cost in Tirupati",
@@ -21,7 +21,7 @@ const tirupati: CityContent = {
       "ecommerce website Tirupati",
       "Kalamkari online store website",
       "WhatsApp automation Tirupati",
-      "software company Tirupati",
+      "software team Tirupati",
       "website maintenance Tirupati",
       "Tirupati lo website design",
       "తిరుపతి వెబ్‌సైట్ డిజైన్",

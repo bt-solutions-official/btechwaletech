@@ -9,7 +9,7 @@ const nagaon: CityContent = {
     description:
       "Websites, Assamese and English SEO, UPI stores and WhatsApp bots for Nagaon shops, clinics, colleges and rice traders. Sites from ₹10,000, 5 months upkeep free.",
     keywords: [
-      "website development company in Nagaon",
+      "website development team in Nagaon",
       "web designer Nagaon Assam",
       "website design Nagaon",
       "freelance web developer Nagaon",
@@ -264,7 +264,7 @@ const nagaon: CityContent = {
     {
       question: "How long does SEO take to show results in Nagaon?",
       answer:
-        "Map results for nearby searches often improve within six to ten weeks once the profile and website are set up properly. Broader terms such as “website development company in Nagaon” usually take four to eight months of steady work. We never promise a first-position ranking, because no one can honestly guarantee it.",
+        "Map results for nearby searches often improve within six to ten weeks once the profile and website are set up properly. Broader terms such as “website development team in Nagaon” usually take four to eight months of steady work. We never promise a first-position ranking, because no one can honestly guarantee it.",
     },
     {
       question: "Do you work with businesses in Tezpur, Morigaon, Hojai and Guwahati?",

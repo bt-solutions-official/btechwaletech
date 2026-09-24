@@ -9,12 +9,12 @@ const lucknow: CityContent = {
     description:
       "Website design, local SEO and WhatsApp automation for Lucknow shops, chikan sellers, clinics and institutes. Sites from ₹10,000, you own the domain and code.",
     keywords: [
-      "website development company in Lucknow",
+      "website development team in Lucknow",
       "website designer in Lucknow",
-      "web design company Lucknow",
+      "web design team Lucknow",
       "freelance web developer Lucknow",
       "website design cost in Lucknow",
-      "SEO company in Lucknow",
+      "SEO team in Lucknow",
       "local SEO Gomti Nagar",
       "chikankari ecommerce website",
       "ecommerce website development Lucknow",

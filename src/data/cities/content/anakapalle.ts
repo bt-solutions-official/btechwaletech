@@ -10,12 +10,12 @@ const anakapalle: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Anakapalle jaggery traders, SEZ suppliers, clinics and colleges. Starting from ₹10,000.",
     keywords: [
       "IT services in Anakapalle",
-      "IT company in Anakapalle",
-      "website development company in Anakapalle",
+      "IT services team in Anakapalle",
+      "website development team in Anakapalle",
       "web design in Anakapalle",
-      "app development company in Anakapalle",
+      "app development team in Anakapalle",
       "Android app development in Anakapalle",
-      "software company in Anakapalle",
+      "software team in Anakapalle",
       "SEO services in Anakapalle",
       "digital marketing in Anakapalle",
       "ecommerce website in Anakapalle",
@@ -69,7 +69,7 @@ const anakapalle: CityContent = {
       paragraphs: [
         "Since April 2022 Anakapalle has been the headquarters of its own district, covering mandals from Chodavaram and Madugula to Yelamanchili, Narsipatnam and Payakaraopeta. That change brought more offices, more visitors and more people searching online for a lawyer, a clinic, a hostel or a dealer in the town. Many of them come from villages where word of mouth used to be the only guide.",
         "At the same time the coastal belt south of the town has filled with factories. The Atchutapuram SEZ, the Parawada pharma city and the NTPC plant draw engineers, contractors and workers who arrive knowing nothing about local shops and services. They search in English on their phones. Long-settled families search in Telugu. A business that answers both groups online picks up customers others miss.",
-        "By the usual idea of an <strong>IT company in Anakapalle</strong>, we are small: three engineers working remotely, without an office in the town. What we offer is the full set of work under one roof: websites, Android and iOS apps, SEO, online stores, software and automation, priced from published starting figures.",
+        "By the usual idea of an <strong>IT services team in Anakapalle</strong>, we are small: three engineers working remotely, without an office in the town. What we offer is the full set of work under one roof: websites, Android and iOS apps, SEO, online stores, software and automation, priced from published starting figures.",
       ],
     },
     {
@@ -83,7 +83,7 @@ const anakapalle: CityContent = {
     },
     {
       id: "sez-pharma-suppliers",
-      heading: "Website development company in Anakapalle for SEZ and pharma-city suppliers",
+      heading: "Website development team in Anakapalle for SEZ and pharma-city suppliers",
       paragraphs: [
         "Around the Atchutapuram and Rambilli SEZ and Jawaharlal Nehru Pharma City at Parawada, a large network of small firms keeps the plants running: fabricators, electrical and instrumentation contractors, scaffolding and manpower suppliers, canteen and housekeeping operators, transporters, lab-chemical and safety-gear dealers. Their customers are purchase and EHS teams who shortlist vendors partly by what they find online.",
         "For these buyers a supplier website works as a credentials file. We build pages listing your services, equipment, certifications, safety record in general terms, past types of work, key people and a downloadable company profile. We never name clients without your written permission, and never invent certifications, because a vendor audit will check them.",
@@ -101,7 +101,7 @@ const anakapalle: CityContent = {
       heading: "Android app development in Anakapalle: when an app is worth building",
       paragraphs: [
         "Not every business in Anakapalle needs an app, and we will say so. An app makes sense when the same people use it every day or week: a distributor whose retailers across the district place repeat orders, a contractor whose supervisors mark attendance at different plant gates, a school or coaching centre sending notices and homework, or a clinic with regular patients booking follow-ups.",
-        "As an <strong>app development company in Anakapalle</strong> clients can reach by WhatsApp, we build Android and iOS apps in Flutter or React Native, which means one codebase for both phones. A typical app includes login by phone number, push notifications, a product or service list, order or booking screens, and an admin panel on the web where your staff update content. Apps start from ₹40,000 and grow with features such as payments, maps or offline use.",
+        "As an <strong>app development team in Anakapalle</strong> clients can reach by WhatsApp, we build Android and iOS apps in Flutter or React Native, which means one codebase for both phones. A typical app includes login by phone number, push notifications, a product or service list, order or booking screens, and an admin panel on the web where your staff update content. Apps start from ₹40,000 and grow with features such as payments, maps or offline use.",
         "We publish the app on Google Play and the App Store under developer accounts registered in your name, handle the store listing, screenshots and review process, and hand over the code. If your customers only look you up once or twice, a fast website with a WhatsApp button does the job for far less, and we will recommend that instead.",
       ],
     },
@@ -185,7 +185,7 @@ const anakapalle: CityContent = {
     },
     {
       id: "remote-team-anakapalle",
-      heading: "A software company in Anakapalle's reach, working remotely",
+      heading: "A software team in Anakapalle's reach, working remotely",
       paragraphs: [
         "We have no office in Anakapalle or Visakhapatnam, and we will not list an address we do not use. We are three engineers who work with clients across India over calls, WhatsApp and screen sharing, which keeps our costs and prices low and means you speak with the people doing the work.",
         "Ankur Kumar builds websites, apps and web applications. Santosh Sharma handles AI, machine learning, AWS and data work. Vedansh Shrivastava manages projects and works on data science and automation. After a first conversation you receive a page plan, timeline and itemised quote in about two working days, then a private preview link you can check on your phone.",
@@ -243,7 +243,7 @@ const anakapalle: CityContent = {
         "Yes. We build Android and iOS apps in Flutter or React Native with phone login, push notifications and a web admin panel, starting from ₹40,000. Typical uses here are dealer ordering, contractor attendance, school notices and clinic bookings. We publish on Google Play and the App Store under your own developer accounts.",
     },
     {
-      question: "Which is the best website development company in Anakapalle?",
+      question: "Which is the best website development team in Anakapalle?",
       answer:
         "The best choice is the one that registers the domain in your name, shows you working sites you can open on your phone, gives a written itemised quote and answers quickly after launch. We meet those tests as a remote team, but check any developer, including us, against them before paying.",
     },

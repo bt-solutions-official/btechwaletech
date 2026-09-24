@@ -10,12 +10,12 @@ const taki: CityContent = {
       "Bengali websites, Android and iOS apps, local SEO and WhatsApp booking for Taki homestays, boat operators, sweet shops, fish traders, tutors and clinics.",
     keywords: [
       "IT services in Taki",
-      "IT company in Taki",
-      "website development company in Taki",
+      "IT services team in Taki",
+      "website development team in Taki",
       "web design in Taki",
-      "app development company in Taki",
+      "app development team in Taki",
       "Android app development in Taki",
-      "software company in Taki",
+      "software team in Taki",
       "SEO services in Taki",
       "digital marketing in Taki",
       "ecommerce website in Taki",
@@ -92,10 +92,10 @@ const taki: CityContent = {
     },
     {
       id: "bijoya-dashami-season",
-      heading: "Website development company in Taki for the Bijoya Dashami rush",
+      heading: "Website development team in Taki for the Bijoya Dashami rush",
       paragraphs: [
         "On Bijoya Dashami the Ichamati becomes one of the most photographed stretches of water in Bengal. Idols go out on boats towards the mid-river line, crowds gather on both banks, and people from India and Bangladesh wave across the water. Security is tight and the town is crowded, and visitors who arrive without a plan spend hours looking for a room, a boat or a meal.",
-        "For businesses this single week can matter more than a slow quarter. A <strong>website development company in Taki</strong> should help them prepare early rather than react. We set up a festival page in July or August with rates, availability windows, rules for advance payment and a note that official restrictions on the river may change boat timings on the day. Lodges can add a waiting list form; food outlets can publish a short festival menu and hours; boat operators can take group requests in advance.",
+        "For businesses this single week can matter more than a slow quarter. A <strong>website development team in Taki</strong> should help them prepare early rather than react. We set up a festival page in July or August with rates, availability windows, rules for advance payment and a note that official restrictions on the river may change boat timings on the day. Lodges can add a waiting list form; food outlets can publish a short festival menu and hours; boat operators can take group requests in advance.",
         "After the festival the same page becomes useful again as a record: photographs, visitor reviews and a line inviting guests back for winter weekends. We do not write anything about crossing the border or claiming special access, and we keep safety guidance factual. The aim is fewer frantic phone calls on the day and more bookings confirmed a fortnight ahead.",
       ],
     },
@@ -110,19 +110,19 @@ const taki: CityContent = {
     },
     {
       id: "fish-betel-paddy-traders",
-      heading: "Software company in Taki for fish, betel leaf and paddy traders",
+      heading: "Software team in Taki for fish, betel leaf and paddy traders",
       paragraphs: [
         "Behind the tourism, the land around Taki is farmed and fished. The alluvial plains of the Ichamati basin grow paddy and betel leaf, and ponds and river fisheries supply traders who send stock to Basirhat and Kolkata markets. The trade runs on daily rates, advances to growers, credit to buyers and a great deal of arithmetic done in notebooks that only one person in the family can read.",
-        "Working as a <strong>software company in Taki</strong> for such businesses means building small, sturdy tools rather than big systems. A wholesaler can enter each lot once from a phone: supplier, weight or count, rate and buyer. The tool then shows running balances per grower and per buyer, cash advanced, and what is still due from each market. A betel leaf trader can record bundles sent per consignment and the rate received. Reports print in Bengali or English as needed.",
+        "Working as a <strong>software team in Taki</strong> for such businesses means building small, sturdy tools rather than big systems. A wholesaler can enter each lot once from a phone: supplier, weight or count, rate and buyer. The tool then shows running balances per grower and per buyer, cash advanced, and what is still due from each market. A betel leaf trader can record bundles sent per consignment and the rate received. Reports print in Bengali or English as needed.",
         "Custom tools like these start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the one register that causes the most disputes. We suggest keeping the paper book running in parallel for the first month; once the numbers match, people trust the screen. Nothing here needs a computer at the shop, since everything opens on a phone.",
       ],
     },
     {
       id: "college-schools-tutors",
-      heading: "IT company in Taki for colleges, schools and private tuition centres",
+      heading: "IT services team in Taki for colleges, schools and private tuition centres",
       paragraphs: [
         "Taki has an education history that is out of proportion to its size. Taki Government College has run since 1950 with honours courses across arts and sciences, Taki Government High School and the Ramakrishna Mission High School are well known in the district, and private tutors and coaching centres prepare students from surrounding villages for board exams and competitive tests.",
-        "Parents searching for a tutor or a coaching batch want very specific answers: which subjects, which class, what timing, what fee, how many students per batch, and whether there is a separate batch for girls or for weekends. An <strong>IT company in Taki</strong> that understands this builds pages around those questions rather than around slogans, in Bengali first.",
+        "Parents searching for a tutor or a coaching batch want very specific answers: which subjects, which class, what timing, what fee, how many students per batch, and whether there is a separate batch for girls or for weekends. An <strong>IT services team in Taki</strong> that understands this builds pages around those questions rather than around slogans, in Bengali first.",
         "For institutions we build course and notice pages, admission enquiry forms that ask for class and subject, results archives, and a simple fee-reminder system on WhatsApp. Larger centres sometimes want an app for parents, covered in the next section. Old students' associations can also use a small site to collect alumni details and organise reunions, which is often how a school's online presence begins. We never publish student photographs or results without written consent from the institution.",
       ],
     },
@@ -131,7 +131,7 @@ const taki: CityContent = {
       heading: "Android app development in Taki, and when an iOS app is worth adding",
       paragraphs: [
         "An app earns its place when the same people open it every week. In Taki that describes a tuition centre's parents checking attendance and test marks, a lodge's repeat guests from Kolkata who come every winter, a fish wholesaler's regular buyers placing next-day orders, or a clinic's patients booking a slot. It does not describe a first-time visitor, who will never install an app for a single weekend.",
-        "As an <strong>app development company in Taki</strong> working remotely, we write apps in Flutter or React Native, so one codebase runs on Android phones and on iPhones. A first version typically covers login by mobile number, push notifications for fee dues, confirmations or offers, the core screens your users need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Taki</strong> working remotely, we write apps in Flutter or React Native, so one codebase runs on Android phones and on iPhones. A first version typically covers login by mobile number, push notifications for fee dues, confirmations or offers, the core screens your users need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Taki</strong> with us starts at ₹40,000. Online payment, offline use for areas with patchy data, maps, and links to billing software each add a line to the quote, and you can drop any of them. Most local users carry Android phones, but Kolkata visitors often use iPhones, which is why a lodge app is usually built for both. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for details.",
         "If all your customers need is an address, a menu and a phone number, skip the app. A website from ₹10,000 does that job, and we will say so before you spend four times as much.",
       ],
@@ -223,7 +223,7 @@ const taki: CityContent = {
         "A lodge or homestay site of a few pages is usually live in one to two weeks once we have your photographs, room details and rates. Adding online advance payment adds a little time. A 700+ page SEO site takes three to five weeks and an online store four to eight. Sending content early is the biggest factor in speed.",
     },
     {
-      question: "Which is the best website development company in Taki?",
+      question: "Which is the best website development team in Taki?",
       answer:
         "Judge any provider on whether they publish prices, register the domain and code in your name, test on low-cost phones, answer after launch and can show real work. Ask everyone the same questions and compare the written answers. We meet those tests and reply on WhatsApp daily, but getting two or three quotes is sensible.",
     },

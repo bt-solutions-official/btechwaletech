@@ -13,8 +13,8 @@ const content: CityContent = {
       "Android app development Telangana",
       "iOS app development Telangana",
       "mobile app developers Telangana",
-      "software development company in Telangana",
-      "IT company in Telangana",
+      "software development team in Telangana",
+      "IT services team in Telangana",
       "freelance software developers Telangana",
       "freelance IT services Telangana",
       "custom software development Telangana",
@@ -184,7 +184,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-telangana",
-      heading: "Freelance IT team vs a software development company in Telangana",
+      heading: "Freelance IT team vs a software development team in Telangana",
       paragraphs: [
         "A freelance IT team suits Telangana businesses that want direct contact with developers, clear scope and lower overheads, while a larger software development company in Telangana suits projects needing many developers, on-site staff or formal enterprise procurement. Hyderabad has plenty of both; district towns have fewer options.",
         "BtechWaleTech is a freelance group of three engineers with no office in Telangana. You talk directly to the people writing code, starting prices are public, and the same engineers maintain what they build. The trade-off is capacity, so we take limited projects at a time and will say so if yours needs a larger team.",

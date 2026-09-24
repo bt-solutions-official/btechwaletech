@@ -9,7 +9,7 @@ const arrah: CityContent = {
     description:
       "Website design, local SEO and WhatsApp automation for Arrah and Bhojpur shops, rice mills, coaching centres and clinics. Sites from ₹10,000, owned by you.",
     keywords: [
-      "website development company in Arrah",
+      "website development team in Arrah",
       "web designer Arrah",
       "website banane wala Ara",
       "website design Bhojpur",

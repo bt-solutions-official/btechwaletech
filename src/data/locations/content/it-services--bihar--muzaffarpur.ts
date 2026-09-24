@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Muzaffarpur: litchi trade software, dealer apps, dashboards, AI, online stores and SEO. From ₹10,000, 5 months free support.",
     keywords: [
-      "software development company in Muzaffarpur",
-      "IT company in Muzaffarpur",
+      "software development team in Muzaffarpur",
+      "IT services team in Muzaffarpur",
       "IT solutions Muzaffarpur",
       "freelance software developer Muzaffarpur",
       "custom software development Muzaffarpur",
@@ -73,9 +73,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-muzaffarpur",
-      heading: "Freelance software developers vs a software development company in Muzaffarpur: what changes?",
+      heading: "Freelance software developers vs a software development team in Muzaffarpur: what changes?",
       paragraphs: [
-        "Hiring freelance software developers instead of a software development company in Muzaffarpur mainly changes who you talk to and what you pay for. With a freelance group you deal directly with the engineers writing the code, and there are no sales staff, office rent or account managers built into the quote. With a larger firm you get more people, but also more layers between your problem and the person solving it.",
+        "Hiring freelance software developers instead of a software development team in Muzaffarpur mainly changes who you talk to and what you pay for. With a freelance group you deal directly with the engineers writing the code, and there are no sales staff, office rent or account managers built into the quote. With a larger firm you get more people, but also more layers between your problem and the person solving it.",
         "BtechWaleTech is three engineers working remotely. That suits owners of trading houses, factories, schools and clinics in Muzaffarpur who know what they need and want it built properly: a billing system that matches their credit practice, an ordering app their salesmen will actually use, or an AI assistant that answers the same fifty questions every day. It suits less well if you want a local office to visit, or a team of twenty for a government-scale project. We will tell you honestly when a bigger vendor is the better fit.",
         "Everything we build ends up in your hands: source code, domain, hosting and data. See the <a href='/services/'>full list of services</a>, examples in our <a href='/portfolio/'>portfolio</a>, and the wider <a href='/it-services/bihar/'>Bihar IT services hub</a>.",
       ],
@@ -250,7 +250,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company with an office in Muzaffarpur?",
+      question: "Is BtechWaleTech an IT services team with an office in Muzaffarpur?",
       answer:
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We have no office or staff in Muzaffarpur, and we are not a registered IT firm with branches. Calls, demos and training happen over video and WhatsApp. Working remotely keeps our starting prices lower and puts you in direct contact with the developers.",
     },

@@ -10,12 +10,12 @@ const nawanshahr: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Nawanshahr IELTS centres, marriage palaces, arhtiyas, clinics and NRI families. From ₹10,000.",
     keywords: [
       "IT services in Nawanshahr",
-      "IT company in Nawanshahr",
-      "website development company in Nawanshahr",
+      "IT services team in Nawanshahr",
+      "website development team in Nawanshahr",
       "web design in Nawanshahr",
-      "app development company in Nawanshahr",
+      "app development team in Nawanshahr",
       "Android app development in Nawanshahr",
-      "software company in Nawanshahr",
+      "software team in Nawanshahr",
       "SEO services in Nawanshahr",
       "digital marketing in Nawanshahr",
       "ecommerce website in Nawanshahr",
@@ -74,20 +74,20 @@ const nawanshahr: CityContent = {
     },
     {
       id: "ielts-visa-centres",
-      heading: "Website development company in Nawanshahr for IELTS and study-visa centres",
+      heading: "Website development team in Nawanshahr for IELTS and study-visa centres",
       paragraphs: [
         "Drive past Chandigarh Chowk and the signboards make the local economy obvious: IELTS, PTE, study visa, spouse visa, open work permit. Coaching and counselling centres are among the most active advertisers in the district, and competition between them is intense.",
-        "Parents here have heard stories of agents who took fees and vanished, so a centre's website has to earn trust before it sells anything. As a <strong>website development company in Nawanshahr</strong>, we build pages that show the counsellors by name, batch timings, test formats covered, the countries you actually handle, and your office hours. Where the law requires a licence or registration number, it belongs on every page, not hidden in a footer.",
+        "Parents here have heard stories of agents who took fees and vanished, so a centre's website has to earn trust before it sells anything. As a <strong>website development team in Nawanshahr</strong>, we build pages that show the counsellors by name, batch timings, test formats covered, the countries you actually handle, and your office hours. Where the law requires a licence or registration number, it belongs on every page, not hidden in a footer.",
         "We avoid invented success figures and stock photos of graduation caps. Real classroom photos, a demo class booking form, a mock test calendar and a simple fee table do more. For centres with more than one branch, each branch gets its own page with its own address, phone and map pin.",
         "Larger centres can add a student portal behind a login: mock test scores, document checklists, application stages and reminders for biometrics or fee deadlines. That is custom software, from ₹60,000, and it saves counsellors hours of repeated phone calls every week.",
       ],
     },
     {
       id: "nri-families-property",
-      heading: "Software company in Nawanshahr for NRI families managing homes and money from abroad",
+      heading: "Software team in Nawanshahr for NRI families managing homes and money from abroad",
       paragraphs: [
         "Many houses in and around Nawanshahr stand locked for most of the year while their owners live abroad. Someone local, a brother, a caretaker or a property dealer, collects rent, pays bills, arranges repairs and sends photos. Records usually live in a notebook and a WhatsApp chat, and disputes follow.",
-        "A small <strong>software company in Nawanshahr</strong> can fix that without much drama. We build private web tools where each property has a page: tenants, rent due and received, electricity and property tax payments, repair jobs with before and after photos, and scanned documents. The owner in Canada logs in and sees the same numbers the caretaker sees. Nothing depends on memory.",
+        "A small <strong>software team in Nawanshahr</strong> can fix that without much drama. We build private web tools where each property has a page: tenants, rent due and received, electricity and property tax payments, repair jobs with before and after photos, and scanned documents. The owner in Canada logs in and sees the same numbers the caretaker sees. Nothing depends on memory.",
         "Property dealers and caretaking services who handle many NRI clients can run the same system for all of them, with separate logins so each family sees only its own property. These tools start at ₹60,000 and are built in stages, the rent ledger first.",
         "Time zones matter. We schedule review calls at hours that suit both the owner abroad and the person in Punjab, and we send written summaries after each call so nobody has to rely on a half-heard conversation.",
       ],
@@ -114,10 +114,10 @@ const nawanshahr: CityContent = {
     },
     {
       id: "schools-hospitals-nawanshahr",
-      heading: "IT company in Nawanshahr for schools, hospitals and diagnostic labs",
+      heading: "IT services team in Nawanshahr for schools, hospitals and diagnostic labs",
       paragraphs: [
         "Nawanshahr serves as the medical and educational centre for villages across the district. Private schools, nursing homes, eye and dental clinics, physiotherapy centres and diagnostic labs all compete for families who used to travel to Jalandhar or Ludhiana for the same service.",
-        "Working as an <strong>IT company in Nawanshahr</strong> for these clients, we keep the websites plain and correct. A hospital page lists doctors with qualifications, OPD days and timings, departments, emergency numbers and the nearest landmark. A lab page shows test preparation instructions and home sample collection areas. A school page covers admission dates, fee structure or fee ranges, transport routes and the documents parents must bring.",
+        "Working as an <strong>IT services team in Nawanshahr</strong> for these clients, we keep the websites plain and correct. A hospital page lists doctors with qualifications, OPD days and timings, departments, emergency numbers and the nearest landmark. A lab page shows test preparation instructions and home sample collection areas. A school page covers admission dates, fee structure or fee ranges, transport routes and the documents parents must bring.",
         "NRI relatives often book appointments for parents who stay behind in Punjab. A booking form that accepts a phone number from abroad, sends confirmation on WhatsApp, and lets the patient's family receive reports by secure link makes a real difference. We never publish patient details or photos on a public page, and we set up forms so that sensitive information goes only to the clinic.",
         "Schools can extend the site into a parent app later. Many start with a website and a notice page, then add the app once they see which updates parents check most.",
       ],
@@ -137,7 +137,7 @@ const nawanshahr: CityContent = {
       heading: "Android app development in Nawanshahr: apps for coaching centres, clinics and dealers",
       paragraphs: [
         "An app pays off when the same people open it every week. In Nawanshahr, that describes IELTS students checking mock test results and class timings, parents following school notices, patients booking repeat visits, and village retailers re-ordering from a distributor. It rarely describes a one-time customer looking for your address.",
-        "As an <strong>app development company in Nawanshahr</strong> working remotely, we build in Flutter or React Native, so one codebase gives you both an Android app and an iPhone app. A first release usually includes login by mobile number or email, push notifications, the three or four screens your users need most, and an admin panel where your staff post updates. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Nawanshahr</strong> working remotely, we build in Flutter or React Native, so one codebase gives you both an Android app and an iPhone app. A first release usually includes login by mobile number or email, push notifications, the three or four screens your users need most, and an admin panel where your staff post updates. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Nawanshahr</strong> with us starts at ₹40,000. Payment collection, class video access, offline use, chat and links to your existing software add cost, and each is priced separately so you can drop what you do not need. Details are on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers mainly want your timings, fees and a phone number, a website and a Google listing will serve them better. We will say that plainly and quote the website instead.",
       ],
@@ -242,7 +242,7 @@ const nawanshahr: CityContent = {
         "A static site is usually live in one to two weeks once we have your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the easiest way to finish sooner.",
     },
     {
-      question: "Which is the best website development company in Nawanshahr?",
+      question: "Which is the best website development team in Nawanshahr?",
       answer:
         "The best choice is the one that shows real work, gives a written itemised quote, registers the domain and code in your name and still answers after launch. Put the same questions to each option. We meet those tests and reply every day on WhatsApp, but comparing two or three providers before deciding is sensible.",
     },

@@ -9,7 +9,7 @@ const ramagundam: CityContent = {
     description:
       "Websites, Telugu SEO and WhatsApp tools for Ramagundam and Godavarikhani contractors, clinics, schools and shops near NTPC and Singareni. From ₹10,000, yours to own.",
     keywords: [
-      "website development company Ramagundam",
+      "website development team Ramagundam",
       "website designer Godavarikhani",
       "web developer Peddapalli",
       "SEO services Ramagundam",

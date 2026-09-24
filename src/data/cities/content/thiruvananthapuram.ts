@@ -9,12 +9,12 @@ const thiruvananthapuram: CityContent = {
     description:
       "Websites, SEO and AI automation for Thiruvananthapuram clinics, homestays, Technopark startups and traders. From ₹10,000, with five months of free maintenance.",
     keywords: [
-      "website development company in Thiruvananthapuram",
-      "web design company Trivandrum",
+      "website development team in Thiruvananthapuram",
+      "web design team Trivandrum",
       "website designer Thiruvananthapuram",
       "freelance web developer Trivandrum",
       "website cost Trivandrum",
-      "SEO company Thiruvananthapuram",
+      "SEO team Thiruvananthapuram",
       "local SEO Trivandrum",
       "ecommerce website development Trivandrum",
       "web application development Technopark",

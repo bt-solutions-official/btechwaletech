@@ -10,12 +10,12 @@ const malkapur: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Malkapur cotton ginners, grain and cloth traders, MIDC units, colleges and clinics.",
     keywords: [
       "IT services in Malkapur",
-      "IT company in Malkapur",
-      "website development company in Malkapur",
+      "IT services team in Malkapur",
+      "website development team in Malkapur",
       "web design in Malkapur",
-      "app development company in Malkapur",
+      "app development team in Malkapur",
       "Android app development in Malkapur",
-      "software company in Malkapur",
+      "software team in Malkapur",
       "SEO services in Malkapur",
       "digital marketing in Malkapur",
       "ecommerce website in Malkapur",
@@ -75,11 +75,11 @@ const malkapur: CityContent = {
     },
     {
       id: "ginning-pressing-software",
-      heading: "Software company in Malkapur for ginning and pressing factories",
+      heading: "Software team in Malkapur for ginning and pressing factories",
       paragraphs: [
         "Buldhana district grows cotton on a large scale, and Malkapur taluka puts more of its farmland under cotton than under any other crop. After picking, kapas moves by tractor and tempo to ginning and pressing factories in and around the MIDC and along the highway. For a few months the yards run long shifts, and the office work behind them grows faster than the lint.",
         "Owners need to know how much kapas came in from which farmer or agent, at what rate and moisture deduction, which lot went to which press run, how many bales and how much seed came out, and which buyers have paid. When this lives in paper registers and the accountant's head, a single missing slip can hold up a payment for weeks.",
-        "Working as a <strong>software company in Malkapur</strong>, we build lean web tools for exactly this: purchase entry from a phone at the weighbridge, automatic farmer ledgers, lot and bale numbering, dispatch notes, and outstanding reports by buyer. Where you already use Tally, we export in a format your accountant can import instead of asking anyone to re-type. These systems start at ₹60,000 and are delivered in stages over six to twelve weeks.",
+        "Working as a <strong>software team in Malkapur</strong>, we build lean web tools for exactly this: purchase entry from a phone at the weighbridge, automatic farmer ledgers, lot and bale numbering, dispatch notes, and outstanding reports by buyer. Where you already use Tally, we export in a format your accountant can import instead of asking anyone to re-type. These systems start at ₹60,000 and are delivered in stages over six to twelve weeks.",
         "We suggest starting with the purchase register and farmer payments, because that is where disputes and delays usually begin. Once that runs through a full season, adding press output, stock and dispatch is straightforward. We would rather ship one module that your staff actually use than a large system nobody opens after the first week.",
       ],
     },
@@ -95,17 +95,17 @@ const malkapur: CityContent = {
     },
     {
       id: "midc-units",
-      heading: "Website development company in Malkapur for MIDC manufacturers",
+      heading: "Website development team in Malkapur for MIDC manufacturers",
       paragraphs: [
         "The Malkapur MIDC area covers a little over 200 hectares and hosts units in cotton ginning and pressing, yarn, rubber goods, soap, oil milling, chemicals and engineering work. Many of these firms sell to buyers they have never met: textile mills in Gujarat or Tamil Nadu, exporters in Mumbai, distributors in other states. Those buyers look for a proper website before they send an enquiry or a purchase order.",
-        "As a <strong>website development company in Malkapur</strong> in practice, we build industrial sites that answer a buyer's first questions without a phone call: what you make, capacities, specifications, certifications you actually hold, packing and dispatch options, and who to contact for quotes. A downloadable product sheet and a clean enquiry form often do more for a small unit than any amount of advertising.",
+        "As a <strong>website development team in Malkapur</strong> in practice, we build industrial sites that answer a buyer's first questions without a phone call: what you make, capacities, specifications, certifications you actually hold, packing and dispatch options, and who to contact for quotes. A downloadable product sheet and a clean enquiry form often do more for a small unit than any amount of advertising.",
         "For units with many products or grades, a larger SEO website of 700+ pages lets each product, application and buyer industry have its own page. These start at ₹20,000 and take three to five weeks, because the product data needs checking before it goes live. We never publish figures or certifications you have not confirmed.",
         "We also connect enquiry forms to email and WhatsApp so that a message sent on a Sunday night does not sit unread until Wednesday. For units that already export, we can add an English-first version with clear contact details for international buyers, while keeping Marathi pages for local hiring and supplier notices.",
       ],
     },
     {
       id: "android-ios-apps-malkapur",
-      heading: "App development company in Malkapur: Android and iOS apps that earn their cost",
+      heading: "App development team in Malkapur: Android and iOS apps that earn their cost",
       paragraphs: [
         "Most Malkapur customers use Android phones, but a growing share of traders, doctors and families with members abroad carry iPhones. When a business needs an app, we build one codebase in Flutter or React Native that runs on both, with login, push notifications and an admin panel for you, and we publish it on Google Play and the App Store under your own developer accounts.",
         "Who in Malkapur actually needs an app? Ginning and trading firms with field agents who buy kapas in villages and need to record weight, rate and farmer details on the spot. Cloth and grocery wholesalers whose retailers re-order the same items every week. Coaching classes that want to send test results, notes and fee reminders to students and parents. Clinics and diagnostic centres that send reports and appointment reminders.",
@@ -175,9 +175,9 @@ const malkapur: CityContent = {
     },
     {
       id: "remote-team-malkapur",
-      heading: "IT company in Malkapur without an office: how our remote team works",
+      heading: "IT services team in Malkapur without an office: how our remote team works",
       paragraphs: [
-        "People searching for an <strong>IT company in Malkapur</strong> often expect a local office. We do not have one here or anywhere else, and we are upfront about it. We are three engineers who work remotely across India and have built our process around WhatsApp, calls and shared documents so that distance does not slow anything down.",
+        "People searching for an <strong>IT services team in Malkapur</strong> often expect a local office. We do not have one here or anywhere else, and we are upfront about it. We are three engineers who work remotely across India and have built our process around WhatsApp, calls and shared documents so that distance does not slow anything down.",
         "The process is plain. You message us with what you need. We ask questions, sometimes over a short video call where you show us your current registers or shop. We send a written scope and itemised quote. Once you approve, we share progress on a staging link you can open on your phone and forward to family members or partners.",
         "We reply on WhatsApp seven days a week during Indian working hours, including during the busy cotton season when many owners only have time to check messages late in the evening. Every decision is written down in the chat, so there is no confusion about what was agreed.",
         "If you prefer meeting someone in person, that is a fair choice and a local freelancer may suit you better. If you care more about clear pricing, ownership of your accounts and engineers who handle both apps and software, we are happy to talk. Start on our <a href=\"/contact/\">contact page</a>.",
@@ -230,7 +230,7 @@ const malkapur: CityContent = {
         "Yes. We build Android and iOS apps from ₹40,000 using Flutter or React Native, with login, push notifications and an admin panel. Typical Malkapur uses are field apps for kapas buying agents, re-order apps for wholesale customers and student apps for coaching classes. We publish on Google Play and the App Store under your own accounts.",
     },
     {
-      question: "Which is the best website development company in Malkapur?",
+      question: "Which is the best website development team in Malkapur?",
       answer:
         "The best choice is the one that gives you clear starting prices, a written itemised quote, and full ownership of your domain, hosting and code. Ask any provider for past work, who will actually build it and what happens after launch. We are a remote team of three engineers, and we are happy to be compared on those points.",
     },

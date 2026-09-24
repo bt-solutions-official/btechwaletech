@@ -9,7 +9,7 @@ const khammam: CityContent = {
     description:
       "Websites, Telugu local SEO and WhatsApp automation for Khammam chilli and cotton traders, granite units, hospitals, colleges and shops. From ₹10,000 onwards.",
     keywords: [
-      "website development company in Khammam",
+      "website development team in Khammam",
       "website designer Khammam",
       "web design Khammam Telangana",
       "SEO services Khammam",

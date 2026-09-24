@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Lucknow by a freelance team of three engineers: software, Android and iOS apps, AI automation, cloud, dashboards and SEO.",
     keywords: [
-      "IT solutions company in Lucknow",
+      "IT solutions team in Lucknow",
       "IT consulting Lucknow",
       "digital transformation Lucknow",
-      "best IT company in Lucknow",
+      "best IT services team in Lucknow",
       "freelance IT consultant Lucknow",
       "IT solutions near me Lucknow",
       "GeM tender tracking software Lucknow",
@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "Lucknow · Hazratganj, Gomti Nagar, Aminabad, Chowk and Amausi",
     h1: "IT consulting and digital transformation in Lucknow, handled by a freelance IT team",
     lede:
-      "Before hiring an IT solutions company in Lucknow, it helps to know exactly which part of your work should change first, and that is where we start. BtechWaleTech is a freelance group of three independent engineers working remotely from India. For Lucknow suppliers and contractors, pharmacies and labs, chikankari houses, schools and coaching centres, restaurants, builders and startups, we consult on process first and then build end to end: custom software, Android and iOS apps, AI automation, cloud hosting, dashboards, SEO and ecommerce, with every account in your name.",
+      "Before hiring an IT solutions team in Lucknow, it helps to know exactly which part of your work should change first, and that is where we start. BtechWaleTech is a freelance group of three independent engineers working remotely from India. For Lucknow suppliers and contractors, pharmacies and labs, chikankari houses, schools and coaching centres, restaurants, builders and startups, we consult on process first and then build end to end: custom software, Android and iOS apps, AI automation, cloud hosting, dashboards, SEO and ecommerce, with every account in your name.",
     pills: ["Free consulting call", "Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "Hindi, Urdu and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Lucknow as a remote freelance group of three engineers, not a Lucknow company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, with five months of free maintenance and replies on WhatsApp daily.",
+    "BtechWaleTech provides IT consulting and IT solutions in Lucknow as a remote freelance group of three engineers working from India, with no office in Lucknow. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, with five months of free maintenance and replies on WhatsApp daily.",
   snapshot: [
     { label: "Business districts", value: "Hazratganj, Gomti Nagar with Vibhuti Khand, Aminabad, Chowk, Alambagh, Indira Nagar, Aliganj and Kapoorthala" },
     { label: "Industrial areas", value: "Amausi, Talkatora and Chinhat industrial areas, with growth along Sultanpur Road, Kanpur Road and the outer ring road" },
@@ -78,11 +78,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-lucknow",
-      heading: "How to choose the best IT company in Lucknow for your needs",
+      heading: "How to choose the best IT services team in Lucknow for your needs",
       paragraphs: [
-        "The best IT company in Lucknow for you is the one whose team size, skills and way of working suit your specific project, verified through live work, a conversation with the developers and an itemised quote. There is no single best choice for every business.",
+        "The best IT services team in Lucknow for you is the one whose team size, skills and way of working suit your specific project, verified through live work, a conversation with the developers and an itemised quote. There is no single best choice for every business.",
         "If you are comparing IT companies in Lucknow, you will meet everything from large firms in Gomti Nagar to individual developers working from home. Ask each one the same things. Can I use something you built that is still running? Who will actually code my project? Is every feature priced separately? Will the domain, hosting, app store and code be registered to me? What does support cost after launch? Clear answers matter more than an impressive office.",
-        "BtechWaleTech is a freelance team of three engineers, not a company. We do not have a Lucknow office or visit sites, and we take a limited number of projects at a time. What you get instead is the same three people from consultation to maintenance, WhatsApp replies seven days a week, published starting prices and full ownership of everything built.",
+        "BtechWaleTech is a small freelance team of three engineers. We do not have a Lucknow office or visit sites, and we take a limited number of projects at a time. What you get instead is the same three people from consultation to maintenance, WhatsApp replies seven days a week, published starting prices and full ownership of everything built.",
       ],
       list: [
         "Use a live system they built",
@@ -229,9 +229,9 @@ const content: CityContent = {
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, with no office in Lucknow or anywhere in Uttar Pradesh. We handle consulting, design reviews, testing and training over video calls, screen shares and WhatsApp, and you see a live preview of your project from the first week.",
     },
     {
-      question: "Are you the best IT company in Lucknow?",
+      question: "Are you the best IT services team in Lucknow?",
       answer:
-        "We do not claim that, and we are not a company; we are a freelance team. Whether we are right for you depends on your project. We suit businesses that want engineers directly involved, itemised pricing and full ownership. Projects needing large teams or on-site staff are better served by bigger firms.",
+        "We do not claim that; we are a small freelance team of three developers. Whether we are right for you depends on your project. We suit businesses that want engineers directly involved, itemised pricing and full ownership. Projects needing large teams or on-site staff are better served by bigger firms.",
     },
     {
       question: "How do Lucknow clients pay you?",

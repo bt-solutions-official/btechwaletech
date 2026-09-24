@@ -9,7 +9,7 @@ const kancheepuram: CityContent = {
     description:
       "Websites, Tamil and English SEO, silk saree stores and WhatsApp automation for Kancheepuram weavers, hotels and Sriperumbudur suppliers. From ₹10,000.",
     keywords: [
-      "website development company in Kancheepuram",
+      "website development team in Kancheepuram",
       "web design Kanchipuram",
       "website designer Kancheepuram",
       "silk saree website design",

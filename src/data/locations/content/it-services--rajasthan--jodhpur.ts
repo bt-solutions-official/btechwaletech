@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Jodhpur for furniture export tracking, guar and spice trade tools, law-office software, Android and iOS apps and AI automation.",
     keywords: [
-      "software development company in Jodhpur",
-      "IT company in Jodhpur",
+      "software development team in Jodhpur",
+      "IT services team in Jodhpur",
       "IT solutions Jodhpur",
       "freelance software developers Jodhpur",
       "furniture export software Jodhpur",
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-jodhpur",
-      heading: "Freelance software developers or a software development company in Jodhpur?",
+      heading: "Freelance software developers or a software development team in Jodhpur?",
       paragraphs: [
-        "For a focused project such as an export tracker, a trade ledger, a law-office system or an app, freelance software developers are often a better fit than a software development company in Jodhpur, because you work directly with the engineers and do not fund an office, sales team or management layer. BtechWaleTech is a freelance group of three engineers, and the people you speak to write the code.",
+        "For a focused project such as an export tracker, a trade ledger, a law-office system or an app, freelance software developers are often a better fit than a software development team in Jodhpur, because you work directly with the engineers and do not fund an office, sales team or management layer. BtechWaleTech is a freelance group of three engineers, and the people you speak to write the code.",
         "Bigger IT firms suit projects that need large teams or daily on-site staff, and we will say so if yours is one of them. Most Jodhpur businesses, though, need one well-built system that their staff actually use, delivered in stages and supported afterwards.",
         "We have no office in Jodhpur. We work through video calls, WhatsApp and live preview links, which suits exporters already used to remote buyers. Code, cloud accounts, domains and app listings are yours from the start. Read more on our <a href='/about/'>about page</a>.",
       ],
@@ -268,7 +268,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company with a Jodhpur office?",
+      question: "Is BtechWaleTech a software team with a Jodhpur office?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or staff in Jodhpur. Businesses hire us as freelance developers and work with us over calls, WhatsApp and live preview links. You speak directly with the engineers who build your software and own every account and line of code.",
     },

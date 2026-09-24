@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Korba: contractor document workflows, fleet and diesel logs, industrial websites, Android and iOS apps and AI. From ₹10,000.",
     keywords: [
-      "software development company in Korba",
-      "IT company in Korba",
+      "software development team in Korba",
+      "IT services team in Korba",
       "IT solutions Korba",
       "freelance software developer Korba",
       "document management software for contractors Korba",
@@ -78,9 +78,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-or-company-korba",
-      heading: "Freelance developers or a software development company in Korba: which fits a contractor?",
+      heading: "Freelance developers or a software development team in Korba: which fits a contractor?",
       paragraphs: [
-        "Freelance developers fit Korba contractors who need a focused system, such as a bill and document tracker or a fleet log, with direct developer contact and modest overhead, while a software development company fits large implementations that require on-site teams or formal tender bids. Most contractor needs belong in the first group.",
+        "Freelance developers fit Korba contractors who need a focused system, such as a bill and document tracker or a fleet log, with direct developer contact and modest overhead, while a software development team fits large implementations that require on-site teams or formal tender bids. Most contractor needs belong in the first group.",
         "BtechWaleTech is three engineers working remotely, with no Korba office. We cannot send staff to your site, but we can design, build, deploy and support a system entirely online, with weekly demos and every account in your name. If you are comparing IT companies in Korba, ask the same questions of each: who builds it, who owns it and who fixes it when it breaks.",
       ],
       list: [

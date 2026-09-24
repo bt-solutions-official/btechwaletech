@@ -9,7 +9,7 @@ const kolar: CityContent = {
     description:
       "Websites, Kannada and Telugu SEO, vendor pages and WhatsApp tools for Kolar tomato traders, Narasapura suppliers, silk and dairy firms, and clinics. You own it.",
     keywords: [
-      "website development company in Kolar",
+      "website development team in Kolar",
       "web designer Kolar",
       "website developer Kolar Karnataka",
       "website cost Kolar",
@@ -21,7 +21,7 @@ const kolar: CityContent = {
       "mango online store Srinivaspur",
       "silk business website Kolar",
       "WhatsApp automation Kolar",
-      "software company Kolar",
+      "software team Kolar",
       "website maintenance Kolar",
       "Google Maps listing Kolar",
       "ಕೋಲಾರ ವೆಬ್‌ಸೈಟ್ ಅಭಿವೃದ್ಧಿ",

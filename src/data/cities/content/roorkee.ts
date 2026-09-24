@@ -9,7 +9,7 @@ const roorkee: CityContent = {
     description:
       "Websites, SEO, stores and automation for Roorkee instrument makers, Bhagwanpur pharma units, coaching centres and shops. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Roorkee",
+      "website development team in Roorkee",
       "web design Roorkee",
       "website designer Roorkee",
       "SEO services Roorkee",

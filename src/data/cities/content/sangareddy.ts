@@ -10,12 +10,12 @@ const sangareddy: CityContent = {
       "Websites, Android and iOS apps, SEO and AI automation for Sangareddy pharma and engineering suppliers, student housing near IIT Hyderabad, builders and clinics.",
     keywords: [
       "IT services in Sangareddy",
-      "IT company in Sangareddy",
-      "website development company in Sangareddy",
+      "IT services team in Sangareddy",
+      "website development team in Sangareddy",
       "web design in Sangareddy",
-      "app development company in Sangareddy",
+      "app development team in Sangareddy",
       "Android app development in Sangareddy",
-      "software company in Sangareddy",
+      "software team in Sangareddy",
       "SEO services in Sangareddy",
       "digital marketing in Sangareddy",
       "ecommerce website in Sangareddy",
@@ -75,19 +75,19 @@ const sangareddy: CityContent = {
     },
     {
       id: "pharma-chemical-suppliers",
-      heading: "Website development company in Sangareddy for pharma and chemical suppliers",
+      heading: "Website development team in Sangareddy for pharma and chemical suppliers",
       paragraphs: [
         "Patancheru, IDA Bollaram in Jinnaram mandal and IDA Pashamylaram have hosted pharmaceutical and chemical units since the 1980s. Around the large plants sit many smaller firms: intermediate and solvent traders, packaging and label printers, lab equipment dealers, calibration and validation service providers, HVAC and cleanroom contractors, effluent treatment specialists, and staffing agencies.",
-        "Buyers in these industries check a vendor online before sending an enquiry, and they look for specific things. A capable <strong>website development company in Sangareddy</strong> should give such a supplier clear product or service pages, specifications and data sheets, quality certifications you actually hold, plant or workshop photographs, industries served, and named contacts. An RFQ form that accepts drawings or specifications and emails the right person saves days of back-and-forth.",
+        "Buyers in these industries check a vendor online before sending an enquiry, and they look for specific things. A capable <strong>website development team in Sangareddy</strong> should give such a supplier clear product or service pages, specifications and data sheets, quality certifications you actually hold, plant or workshop photographs, industries served, and named contacts. An RFQ form that accepts drawings or specifications and emails the right person saves days of back-and-forth.",
         "We keep these sites factual and restrained. Claims about compliance or approvals appear only if you can document them, and customer names appear only with written permission. A static site of this kind starts at ₹10,000; larger catalogues with hundreds of product pages fall under our SEO build from ₹20,000. See our <a href=\"/services/web-development/\">web development service</a> for details.",
       ],
     },
     {
       id: "engineering-vendors-software",
-      heading: "Software company in Sangareddy for fabrication shops and plant contractors",
+      heading: "Software team in Sangareddy for fabrication shops and plant contractors",
       paragraphs: [
         "The district also has large engineering establishments, including BHEL, Bharat Dynamics and Ordnance Factory Medak, along with the Mahindra tractor plant at Zaheerabad. Such plants create steady work for machine shops, fabricators, electrical and instrumentation contractors, transporters and maintenance crews based in Sangareddy, Patancheru and Sadasivpet.",
-        "Small vendors often lose track of jobs rather than lack them. As a <strong>software company in Sangareddy</strong>, we build web tools that record each enquiry and quotation, turn approved orders into job cards, track material, machine time and inspection stages, and log dispatch with delivery challans and invoices. The owner sees which jobs are late, which quotes are pending and which payments are overdue.",
+        "Small vendors often lose track of jobs rather than lack them. As a <strong>software team in Sangareddy</strong>, we build web tools that record each enquiry and quotation, turn approved orders into job cards, track material, machine time and inspection stages, and log dispatch with delivery challans and invoices. The owner sees which jobs are late, which quotes are pending and which payments are overdue.",
         "Contractors add labour attendance, site-wise expenses and document expiry alerts for licences, insurance and gate passes. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, starting with whichever register causes the most daily confusion. We do not list any plant as a client of yours or ours unless that is documented and approved.",
       ],
     },
@@ -102,10 +102,10 @@ const sangareddy: CityContent = {
     },
     {
       id: "builders-real-estate",
-      heading: "IT company in Sangareddy for builders, layouts and property dealers",
+      heading: "IT services team in Sangareddy for builders, layouts and property dealers",
       paragraphs: [
         "Colonies around Sangareddy, Pothireddypally, Isnapur, Patancheru and along NH 65 have grown as people working in Hyderabad and the industrial belts look for more affordable homes. Isnapur was upgraded from a census town to a municipality in 2024, which shows how quickly the area is changing.",
-        "Home buyers do a lot of research before a site visit. An <strong>IT company in Sangareddy</strong> serving builders and layout developers should provide project pages with location maps, approval and registration numbers, floor plans, specifications, construction progress photographs, amenities that actually exist, and a clear booking and payment process. A site-visit booking form connected to WhatsApp lets your sales team respond fast.",
+        "Home buyers do a lot of research before a site visit. An <strong>IT services team in Sangareddy</strong> serving builders and layout developers should provide project pages with location maps, approval and registration numbers, floor plans, specifications, construction progress photographs, amenities that actually exist, and a clear booking and payment process. A site-visit booking form connected to WhatsApp lets your sales team respond fast.",
         "Property dealers need something different: a listings site with filters for area, budget and property type, updated from a phone, and a lead register that records each enquiry and follow-up. We will not publish price promises, return figures or approval claims you cannot document, because in real estate those statements carry legal weight.",
       ],
     },
@@ -132,7 +132,7 @@ const sangareddy: CityContent = {
       heading: "Android app development in Sangareddy, and iOS apps for local firms",
       paragraphs: [
         "An app is worthwhile when the same people return to it often. In Sangareddy that might be hostel residents paying rent and raising complaints, parents receiving school notices, site supervisors logging attendance and material, a distributor's retailers placing weekly orders, or a hospital's patients booking tokens.",
-        "As an <strong>app development company in Sangareddy</strong> working remotely, we build with Flutter or React Native, so one codebase serves Android phones and iPhones. A first release usually includes mobile OTP login, push notifications, the core screens your users need and an admin panel for your team. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Sangareddy</strong> working remotely, we build with Flutter or React Native, so one codebase serves Android phones and iPhones. A first release usually includes mobile OTP login, push notifications, the core screens your users need and an admin panel for your team. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Sangareddy</strong> with us starts at ₹40,000. Online payments, offline entry, GPS, or ERP and Tally integration increase the cost and are quoted separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a product list, a website does the job for much less and needs no download. We will recommend that, since an app installed once and never opened is money spent for nothing.",
       ],
@@ -233,7 +233,7 @@ const sangareddy: CityContent = {
         "A simple static site is usually ready in one to two weeks once we have your content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending content early is the easiest way to speed things up.",
     },
     {
-      question: "Which is the best IT company in Sangareddy for a small business?",
+      question: "Which is the best IT services team in Sangareddy for a small business?",
       answer:
         "Pick one that publishes its prices, registers the domain and code in your name, supports you after launch and can show real work. Ask each provider identical questions and compare written quotes. We meet those tests and reply on WhatsApp every day, but comparing two or three options is always sensible.",
     },

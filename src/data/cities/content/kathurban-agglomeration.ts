@@ -10,12 +10,12 @@ const kathua: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Kathua factories at Govindsar and Ghatti, traders, clinics, schools and Basohli artists.",
     keywords: [
       "IT services in Kathua",
-      "IT company in Kathua",
-      "website development company in Kathua",
+      "IT services team in Kathua",
+      "website development team in Kathua",
       "web design in Kathua",
-      "app development company in Kathua",
+      "app development team in Kathua",
       "Android app development in Kathua",
-      "software company in Kathua",
+      "software team in Kathua",
       "SEO services in Kathua",
       "digital marketing in Kathua",
       "ecommerce website in Kathua",
@@ -74,19 +74,19 @@ const kathua: CityContent = {
     },
     {
       id: "govindsar-ghatti-manufacturers",
-      heading: "Website development company in Kathua for Govindsar and Ghatti manufacturers",
+      heading: "Website development team in Kathua for Govindsar and Ghatti manufacturers",
       paragraphs: [
         "Kathua's industrial estates have grown from a handful of sheds into a real manufacturing base. Units at Govindsar produce items such as steel fabrication, fans and coolers, steel almirahs and packaged drinking water, while the J&K Integrated Textile Park sits in the Govindsar area near Hatli Morh. The large SIDCO estate at Ghatti has been developed for new units. Most of these businesses sell to dealers and institutions, not to walk-in customers.",
-        "As a <strong>website development company in Kathua</strong>, we build B2B sites that answer a dealer's or buyer's questions quickly: the product range with sizes and specifications, certifications you hold, minimum order quantities, delivery areas, and a clear way to request a quote. Product pages with proper names and model numbers are what purchase managers actually search for, far more than a slogan on a home page.",
+        "As a <strong>website development team in Kathua</strong>, we build B2B sites that answer a dealer's or buyer's questions quickly: the product range with sizes and specifications, certifications you hold, minimum order quantities, delivery areas, and a clear way to request a quote. Product pages with proper names and model numbers are what purchase managers actually search for, far more than a slogan on a home page.",
         "Behind the site, an enquiry register logs each lead with product, quantity, location and follow-up date, and dealer pages can show current catalogues. If you sell through a distributor network, a simple login area lets dealers download price lists and marketing material without calling your office.",
       ],
     },
     {
       id: "factory-software-kathua",
-      heading: "Software company in Kathua for production, dispatch and dealer records",
+      heading: "Software team in Kathua for production, dispatch and dealer records",
       paragraphs: [
         "Inside many small factories, orders arrive by phone, production is planned on a whiteboard and dispatch details live in a register. It works until volumes grow, a key employee is away, or a dealer disputes a payment. Then hours are lost searching for what was promised and what was delivered.",
-        "As a <strong>software company in Kathua</strong>, we build web apps shaped around your actual process. A typical system records orders with dealer, item and quantity, tracks each order through production and dispatch, prints challans, and shows outstanding payments by dealer. Stock of raw material and finished goods can be added, with alerts when levels fall. Staff use it on a phone or a shop-floor computer, and you see the summary from anywhere.",
+        "As a <strong>software team in Kathua</strong>, we build web apps shaped around your actual process. A typical system records orders with dealer, item and quantity, tracks each order through production and dispatch, prints challans, and shows outstanding payments by dealer. Stock of raw material and finished goods can be added, with alerts when levels fall. Staff use it on a phone or a shop-floor computer, and you see the summary from anywhere.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built in stages so the part that saves the most time goes live first. It can export data for your accountant. Where an off-the-shelf tool already fits, we will recommend it instead of building something new.",
       ],
     },
@@ -119,10 +119,10 @@ const kathua: CityContent = {
     },
     {
       id: "android-ios-apps-kathua",
-      heading: "App development company in Kathua: Android and iOS apps for local businesses",
+      heading: "App development team in Kathua: Android and iOS apps for local businesses",
       paragraphs: [
         "An app pays off only when the same people keep opening it. Picture a cooler or steel-furniture maker in Govindsar whose dealers across Punjab, Himachal and the Jammu belt reorder every few weeks: an app lets them place orders, see dispatch status and check outstanding amounts without a single phone call. A school can push homework, fee dues and bus changes to parents. A group of clinics near Chak Sajjan can issue tokens and share lab reports.",
-        "When Kathua owners look for an <strong>app development company in Kathua</strong>, they usually need both phones covered. Our <strong>Android app development in Kathua</strong> and iOS work share one Flutter or React Native codebase, which keeps cost and testing down. Standard pieces include OTP login on the mobile number, push alerts, the ordering or booking flow, UPI or card payment where it matters, and a web-based admin screen for the office. Publishing on Google Play and the App Store is done under developer accounts opened in your name.",
+        "When Kathua owners look for an <strong>app development team in Kathua</strong>, they usually need both phones covered. Our <strong>Android app development in Kathua</strong> and iOS work share one Flutter or React Native codebase, which keeps cost and testing down. Standard pieces include OTP login on the mobile number, push alerts, the ordering or booking flow, UPI or card payment where it matters, and a web-based admin screen for the office. Publishing on Google Play and the App Store is done under developer accounts opened in your name.",
         "Pricing for apps is ₹40,000 onwards, and the number of screens and integrations decides the rest. A business whose customers buy once in a while is better served by a quick website and a WhatsApp order button, and we will recommend exactly that. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has examples.",
       ],
     },
@@ -155,11 +155,11 @@ const kathua: CityContent = {
     },
     {
       id: "remote-it-company-kathua",
-      heading: "IT company in Kathua without an office: how the remote process works",
+      heading: "IT services team in Kathua without an office: how the remote process works",
       paragraphs: [
         "There is no BtechWaleTech office in Kathua, in Jammu, or anywhere in the Union Territory. What keeps a remote project safe is paperwork done properly: before a rupee is billed you hold a written scope, delivery dates and an itemised estimate. Every milestone is posted on a preview link that opens on your mobile, and the next stage starts only after you give the go-ahead.",
         "Our WhatsApp is answered on all seven days, on Indian time, and a call or screen share is arranged whenever a point needs showing rather than telling. Share catalogues, factory photos, voice notes and PDFs however is convenient. When fresh product or shop-floor pictures are needed, we send simple shooting tips for your phone or suggest booking a local photographer for half a day.",
-        "Picking an <strong>IT company in Kathua</strong> that works from a distance affects only where conversations happen. Ownership of the finished work never leaves your hands.",
+        "Picking an <strong>IT services team in Kathua</strong> that works from a distance affects only where conversations happen. Ownership of the finished work never leaves your hands.",
       ],
     },
     {
@@ -216,7 +216,7 @@ const kathua: CityContent = {
         "Count on seven to fourteen days for a simple site once your photos and text reach us. A large SEO build needs three to five weeks, a store four to eight and bespoke software six to twelve. Delays nearly always trace back to missing content, so share catalogues and rate lists early.",
     },
     {
-      question: "Which is a good website development company in Kathua?",
+      question: "Which is a good website development team in Kathua?",
       answer:
         "Look for someone who shows prices upfront, puts domain and code in your name, can point to sites still live after a year, and picks up the phone after handover. Put identical questions to every candidate and compare the written replies. We tick those boxes and answer WhatsApp daily, yet getting two or three quotes is still sensible.",
     },

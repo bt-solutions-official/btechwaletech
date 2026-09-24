@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in West Bengal from a freelance team: software for mills, cold storages and exporters, Bengali AI agents, apps and SEO.",
     keywords: [
-      "IT solutions company in West Bengal",
+      "IT solutions team in West Bengal",
       "IT consulting West Bengal",
       "digital transformation West Bengal",
       "freelance IT consultant West Bengal",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "West Bengal · from the Darjeeling hills to the Sundarbans",
     h1: "Freelance IT consulting and digital transformation for West Bengal's mills, traders, exporters and service firms",
     lede:
-      "West Bengal's economy mixes old and new: jute mills and foundries along the Hooghly, cold storages and rice mills in Bardhaman and Hooghly, a port at Haldia, tea and tourism in the north, and a tech hub in Salt Lake and New Town. If you are searching for an IT solutions company in West Bengal that can work with all of this, BtechWaleTech offers a freelance alternative: three independent engineers working remotely from India. We consult first, then build custom software, Android and iOS apps, Bengali AI agents, dashboards, cloud hosting, SEO and ecommerce.",
+      "West Bengal's economy mixes old and new: jute mills and foundries along the Hooghly, cold storages and rice mills in Bardhaman and Hooghly, a port at Haldia, tea and tourism in the north, and a tech hub in Salt Lake and New Town. If you are searching for an IT solutions team in West Bengal that can work with all of this, BtechWaleTech offers a freelance alternative: three independent engineers working remotely from India. We consult first, then build custom software, Android and iOS apps, Bengali AI agents, dashboards, cloud hosting, SEO and ecommerce.",
     pills: ["Consulting first", "Bengali and English", "Android & iOS from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions across West Bengal as a remote freelance group of three engineers, not an IT company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of maintenance included free.",
+    "BtechWaleTech provides IT consulting and IT solutions across West Bengal as a remote freelance group of three engineers, not an IT services team. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of maintenance included free.",
   snapshot: [
     { label: "Capital and major cities", value: "Kolkata is the capital; Howrah, Asansol, Durgapur, Siliguri, Bardhaman, Kharagpur, Haldia and Baharampur are other key centres" },
     { label: "Technology hubs", value: "Salt Lake Sector V and New Town (Rajarhat) host most IT and ITeS offices, with state-backed IT parks in several district towns" },
@@ -80,11 +80,11 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-solutions-company-west-bengal",
-      heading: "Freelance IT group or IT solutions company in West Bengal: which is right?",
+      heading: "Freelance IT group or IT solutions team in West Bengal: which is right?",
       paragraphs: [
-        "A freelance IT group is right for West Bengal businesses with clearly defined projects, moderate budgets and a preference for dealing directly with the engineers; an IT solutions company is right when you need large teams, on-site staff or long enterprise contracts.",
+        "A freelance IT group is right for West Bengal businesses with clearly defined projects, moderate budgets and a preference for dealing directly with the engineers; an IT solutions team is right when you need large teams, on-site staff or long enterprise contracts.",
         "Kolkata's Sector V and New Town host many IT firms, while district towns have fewer options and rely on local vendors. If you are comparing IT companies in West Bengal, ask every candidate the same practical questions: can I see a working system you built, who writes the code, is the quote itemised, will the domain, hosting, app store listings and code be in my name, and what does support cost after launch?",
-        "BtechWaleTech is a freelance group of three engineers, not a company. We do not have a Kolkata office, do not make site visits and take a limited number of projects at a time. What you get instead is continuity, because the same three people consult, build and maintain, along with WhatsApp replies seven days a week and five months of free maintenance.",
+        "BtechWaleTech is a freelance group of three engineers. We do not have a Kolkata office, do not make site visits and take a limited number of projects at a time. What you get instead is continuity, because the same three people consult, build and maintain, along with WhatsApp replies seven days a week and five months of free maintenance.",
       ],
     },
     {
@@ -236,9 +236,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT solutions company with an office in West Bengal?",
+      question: "Is BtechWaleTech an IT solutions team with an office in West Bengal?",
       answer:
-        "No. BtechWaleTech is a freelance group of three independent engineers, not a company, and we work remotely from India. We have no office in Kolkata or anywhere else in West Bengal. Consulting, reviews, testing and training happen over video calls, screen shares and WhatsApp, with a live preview of your project from the first week.",
+        "No. BtechWaleTech is a freelance group of three independent engineers, and we work remotely from India. We have no office in Kolkata or anywhere else in West Bengal. Consulting, reviews, testing and training happen over video calls, screen shares and WhatsApp, with a live preview of your project from the first week.",
     },
     {
       question: "Can you build software in Bengali?",

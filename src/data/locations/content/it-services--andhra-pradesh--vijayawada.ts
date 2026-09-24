@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Vijayawada for billing tools, apps, AI agents, dashboards and SEO. From ₹10,000, quote in 2 days, 5 months free support.",
     keywords: [
-      "software development company in Vijayawada",
-      "IT company in Vijayawada",
+      "software development team in Vijayawada",
+      "IT services team in Vijayawada",
       "IT solutions Vijayawada",
       "freelance software developers Vijayawada",
       "custom software Vijayawada",
@@ -200,9 +200,9 @@ const content: CityContent = {
     },
     {
       id: "freelancers-vs-it-company-vijayawada",
-      heading: "Freelance developers or an IT company in Vijayawada: which suits you?",
+      heading: "Freelance developers or an IT services team in Vijayawada: which suits you?",
       paragraphs: [
-        "An IT company in Vijayawada suits large projects that need many developers, formal tenders or on-site staff, while freelance developers like BtechWaleTech suit owners who want direct contact with the engineers, faster decisions and lower overhead. Most wholesalers, transporters, workshops, clinics and colleges fall into the second group.",
+        "An IT services team in Vijayawada suits large projects that need many developers, formal tenders or on-site staff, while freelance developers like BtechWaleTech suit owners who want direct contact with the engineers, faster decisions and lower overhead. Most wholesalers, transporters, workshops, clinics and colleges fall into the second group.",
         "The trade-off is capacity. Three engineers can build and support a focused system very well, but cannot staff a hundred-screen government project. We tell clients early if their project needs a bigger team.",
         "Whichever route you take, ask who writes the code, get an itemised written quote, keep domain, hosting and repository in your name, and agree on post-launch support. You can review our work on the <a href='/portfolio/'>portfolio</a> and read about us on the <a href='/about/'>about page</a>.",
       ],

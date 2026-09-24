@@ -10,12 +10,12 @@ const pernampattu: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Pernampattu (Pernambut) tanneries, leather exporters, traders, clinics and schools.",
     keywords: [
       "IT services in Pernampattu",
-      "IT company in Pernampattu",
-      "website development company in Pernampattu",
+      "IT services team in Pernampattu",
+      "website development team in Pernampattu",
       "web design in Pernampattu",
-      "app development company in Pernampattu",
+      "app development team in Pernampattu",
       "Android app development in Pernampattu",
-      "software company in Pernampattu",
+      "software team in Pernampattu",
       "SEO services in Pernampattu",
       "digital marketing in Pernampattu",
       "ecommerce website in Pernampattu",
@@ -74,10 +74,10 @@ const pernampattu: CityContent = {
     },
     {
       id: "tannery-websites",
-      heading: "Website development company in Pernampattu for tanneries and finished-leather units",
+      heading: "Website development team in Pernampattu for tanneries and finished-leather units",
       paragraphs: [
         "A tannery website has a different job from a shop website. It speaks to procurement people who compare many suppliers in one sitting. They want to know which leathers you process, the finishes you offer, typical thickness ranges, minimum order sizes, how samples are sent and what compliance or effluent treatment arrangements are in place. Pretty photographs help, but specifics win the enquiry.",
-        "As a <strong>website development company in Pernampattu</strong> in practice, we structure these sites around articles and leather types rather than a single brochure page. Each article gets its own page with photographs taken in daylight, the finishes available, and a short note on typical uses. A downloadable catalogue sits beside an enquiry form that asks the questions your sales person would ask on the phone, so the lead arrives already qualified.",
+        "As a <strong>website development team in Pernampattu</strong> in practice, we structure these sites around articles and leather types rather than a single brochure page. Each article gets its own page with photographs taken in daylight, the finishes available, and a short note on typical uses. A downloadable catalogue sits beside an enquiry form that asks the questions your sales person would ask on the phone, so the lead arrives already qualified.",
         "Sites like this start at ₹10,000 for up to 100 pages and usually go live within two weeks once photographs and product details reach us. If you want separate pages for every article, colour card and buyer country, that moves into our 700+ page SEO build, which starts at ₹20,000. You can read how we approach this on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -92,10 +92,10 @@ const pernampattu: CityContent = {
     },
     {
       id: "tannery-software",
-      heading: "Software company in Pernampattu: batch, chemical and order tracking",
+      heading: "Software team in Pernampattu: batch, chemical and order tracking",
       paragraphs: [
         "Inside a tannery, most of the useful information lives in notebooks and in the supervisor's head: which lot went into which drum, how much chrome or vegetable tanning material was used, how many pieces were rejected at sorting, and which buyer's order is waiting on which lot. When the supervisor is on leave, everything slows down.",
-        "Working as a <strong>software company in Pernampattu</strong> for owners like these, we build web apps that record each lot from arrival to dispatch. A supervisor enters weights and stage changes from a phone; the office sees stock by grade, pending orders and what is ready to ship. Chemical stock can be tracked against usage so reorders happen before a shortage stops work.",
+        "Working as a <strong>software team in Pernampattu</strong> for owners like these, we build web apps that record each lot from arrival to dispatch. A supervisor enters weights and stage changes from a phone; the office sees stock by grade, pending orders and what is ready to ship. Chemical stock can be tracked against usage so reorders happen before a shortage stops work.",
         "Custom software starts at ₹60,000 and is built over six to twelve weeks in stages. We usually start with the lot register and dispatch list, because those settle the most arguments, and add costing or buyer portals only once the first part is in daily use.",
       ],
     },
@@ -131,7 +131,7 @@ const pernampattu: CityContent = {
       heading: "Android app development in Pernampattu and iOS apps for local businesses",
       paragraphs: [
         "Ask first whether you need an app at all. For a shop or clinic, a fast website and a WhatsApp number usually do the job. An app earns its place when the same people use it again and again: a tannery's field agents recording purchases, supervisors logging batches on the floor, a school sending homework and fee reminders, or a leather goods brand whose buyers re-order every season.",
-        "As an <strong>app development company in Pernampattu</strong> for such cases, we build with Flutter or React Native, which gives one codebase for Android phones and iPhones. Typical features include OTP login, push notifications, photo capture, offline entry that syncs when the signal returns, and an admin panel on the web where the owner sees everything. We publish the app on Google Play and the App Store under your developer accounts.",
+        "As an <strong>app development team in Pernampattu</strong> for such cases, we build with Flutter or React Native, which gives one codebase for Android phones and iPhones. Typical features include OTP login, push notifications, photo capture, offline entry that syncs when the signal returns, and an admin panel on the web where the owner sees everything. We publish the app on Google Play and the App Store under your developer accounts.",
         "<strong>Android app development in Pernampattu</strong> with us starts at ₹40,000 for a focused first version. Costs rise with the number of screens, user roles and integrations. Details of what we build are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>, and we will tell you plainly if a website would serve you better.",
       ],
     },
@@ -155,7 +155,7 @@ const pernampattu: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "An IT company in Pernampattu without an office: how we work remotely",
+      heading: "An IT services team in Pernampattu without an office: how we work remotely",
       paragraphs: [
         "We should be clear: we have no office in Pernambut, Vellore or anywhere else in Tamil Nadu. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
         "For a tannery owner, that means no appointments and no travel. You send photographs and a voice note on WhatsApp, we reply with questions, and within about two working days you have a written, itemised quote. Once approved, you see progress on a test link and give feedback whenever it suits you, early morning or late evening.",
@@ -216,7 +216,7 @@ const pernampattu: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, including login, push notifications and an admin panel, from ₹40,000. Tannery batch logging, school parent apps and re-order apps for leather goods buyers are good fits. We publish them on Google Play and the App Store in your own accounts.",
     },
     {
-      question: "Which is the best website development company in Pernampattu?",
+      question: "Which is the best website development team in Pernampattu?",
       answer:
         "The best choice is whoever understands your buyers, shows written starting prices and hands you ownership of the domain, hosting and code. Ask to see live work, confirm who maintains the site after launch and get the quote itemised. We work remotely, answer on WhatsApp daily and put all of this in writing.",
     },

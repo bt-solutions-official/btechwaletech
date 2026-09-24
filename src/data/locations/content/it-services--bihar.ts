@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Bihar: coaching apps, hospital software, agri traceability, AI automation and SEO for Patna, Gaya and beyond. Prices from ₹10,000.",
     keywords: [
       "IT services in Bihar",
-      "software development company in Bihar",
-      "IT company in Bihar",
+      "software development team in Bihar",
+      "IT services team in Bihar",
       "freelance IT services Bihar",
       "freelance software developers Bihar",
       "Android app development Bihar",
@@ -72,7 +72,7 @@ const content: CityContent = {
       heading: "What do freelance IT services in Bihar include?",
       paragraphs: [
         "Freelance IT services in Bihar, as BtechWaleTech delivers them, include custom software and web applications, Android and iOS apps, AI agents and WhatsApp automation, data dashboards, online stores, websites, SEO and local SEO, cloud hosting and maintenance. Three independent engineers deliver all of it remotely from India; we have no office in Bihar.",
-        "People searching for IT services in Bihar, or for a software development company in Bihar, usually want one of three results: more customers finding them online, less time lost to repetitive work, or clear numbers about their business. Websites and SEO serve the first, automation and software the second, dashboards the third. Most real projects touch two or three.",
+        "People searching for IT services in Bihar, or for a software development team in Bihar, usually want one of three results: more customers finding them online, less time lost to repetitive work, or clear numbers about their business. Websites and SEO serve the first, automation and software the second, dashboards the third. Most real projects touch two or three.",
         "The sections below explain how each service fits Bihar's main sectors, from coaching in Patna to makhana in Mithila, what it costs, and how to choose between freelancers and larger IT companies. City-level detail is on our pages for <a href='/patna/'>Patna</a>, <a href='/gaya/'>Gaya</a>, <a href='/muzaffarpur/'>Muzaffarpur</a>, <a href='/bhagalpur/'>Bhagalpur</a> and <a href='/darbhanga/'>Darbhanga</a>.",
       ],
     },
@@ -202,9 +202,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-bihar",
-      heading: "Freelance team vs an IT company in Bihar: costs, timelines and how to choose",
+      heading: "Freelance team vs an IT services team in Bihar: costs, timelines and how to choose",
       paragraphs: [
-        "A freelance team like BtechWaleTech generally costs less than a software development company in Bihar and lets you talk directly with the engineers, while an established company may offer office visits, larger teams and formal account management. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
+        "A freelance team like BtechWaleTech generally costs less than a software development team in Bihar and lets you talk directly with the engineers, while an established company may offer office visits, larger teams and formal account management. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
         "Timelines run from one to two weeks for a website, two to four for automation, three to five for an SEO site, four to eight for a store, six to ten for an app and six to twelve for custom software. Quotes are itemised, payments are staged, and you pay only by UPI QR or bank transfer in INR. See the <a href='/pricing/'>pricing page</a> and our <a href='/portfolio/'>portfolio</a>.",
         "Whoever you hire, secure ownership of the domain, hosting, code and app listings in your name, insist on a live preview during the build, and get support terms in writing. Learn <a href='/about/'>about the three of us</a>, compare other states on the <a href='/it-services/'>IT services hub</a>, or <a href='/contact/'>contact us</a> to begin.",
       ],
@@ -301,7 +301,7 @@ const content: CityContent = {
         "Yes. Because we work remotely, a client in Purnia, Siwan, Motihari or Aurangabad receives the same service and prices as one in Patna. Local SEO is adapted to each town's competition and language, and we never claim a physical presence anywhere in Bihar.",
     },
     {
-      question: "Should we hire a freelance team or an IT company in Bihar?",
+      question: "Should we hire a freelance team or an IT services team in Bihar?",
       answer:
         "It depends on your priorities. A freelance group like ours offers direct engineer contact, published prices and lower overheads, but works remotely. A larger IT company may offer visits and bigger teams at higher cost. In both cases, insist on ownership in your name and written support terms.",
     },

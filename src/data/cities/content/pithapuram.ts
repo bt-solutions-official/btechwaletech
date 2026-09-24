@@ -10,12 +10,12 @@ const pithapuram: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Pithapuram temple-town lodges, Uppada saree weavers, chilli traders and clinics.",
     keywords: [
       "IT services in Pithapuram",
-      "IT company in Pithapuram",
-      "website development company in Pithapuram",
+      "IT services team in Pithapuram",
+      "website development team in Pithapuram",
       "web design in Pithapuram",
-      "app development company in Pithapuram",
+      "app development team in Pithapuram",
       "Android app development in Pithapuram",
-      "software company in Pithapuram",
+      "software team in Pithapuram",
       "SEO services in Pithapuram",
       "digital marketing in Pithapuram",
       "ecommerce website in Pithapuram",
@@ -92,10 +92,10 @@ const pithapuram: CityContent = {
     },
     {
       id: "chilli-grain-traders",
-      heading: "Software company in Pithapuram for chilli, onion and grain traders",
+      heading: "Software team in Pithapuram for chilli, onion and grain traders",
       paragraphs: [
         "The farmland around Pithapuram and Gollaprolu grows paddy along with chillies, onions, groundnut and cotton, and Gollaprolu's hot chillies are known well outside the district. Commission agents, cold-storage and godown owners, transporters and input dealers keep this produce moving towards Kakinada, Rajahmundry and markets further away.",
-        "Their paperwork is heavy: farmer, village, bags, weight, grade, rate, commission, advance paid, truck, buyer and payment due. At peak season, the ledger falls a day behind and disputes pile up. As a <strong>software company in Pithapuram</strong> in the plain sense, we build web tools that record each lot once from a phone, tie it to the sale and payment, calculate commission, and produce a statement per farmer or buyer that can be sent on WhatsApp.",
+        "Their paperwork is heavy: farmer, village, bags, weight, grade, rate, commission, advance paid, truck, buyer and payment due. At peak season, the ledger falls a day behind and disputes pile up. As a <strong>software team in Pithapuram</strong> in the plain sense, we build web tools that record each lot once from a phone, tie it to the sale and payment, calculate commission, and produce a statement per farmer or buyer that can be sent on WhatsApp.",
         "Input dealers get a different tool: stock by batch and expiry, billing with GST, and a credit ledger per village retailer or farmer. These systems start at ₹60,000 and are built in stages over six to twelve weeks, beginning with whichever register causes you the most trouble today.",
       ],
     },
@@ -110,10 +110,10 @@ const pithapuram: CityContent = {
     },
     {
       id: "hospitals-clinics-pithapuram",
-      heading: "Website development company in Pithapuram for hospitals, clinics and labs",
+      heading: "Website development team in Pithapuram for hospitals, clinics and labs",
       paragraphs: [
         "Families from Gollaprolu, Uppada, Kothapalli and the mandal villages come to Pithapuram for doctors, scans and tests, and go on to Kakinada only when they must. A hospital or clinic that makes its schedule clear online saves them a day and wins their loyalty.",
-        "A <strong>website development company in Pithapuram</strong> building for healthcare should keep things factual: doctors with qualifications, specialities, OPD days and timings, tests available, emergency contact numbers that are actually picked up, and directions from the bus stand and railway station. We avoid big claims because patients distrust them and medical advertising is regulated.",
+        "A <strong>website development team in Pithapuram</strong> building for healthcare should keep things factual: doctors with qualifications, specialities, OPD days and timings, tests available, emergency contact numbers that are actually picked up, and directions from the bus stand and railway station. We avoid big claims because patients distrust them and medical advertising is regulated.",
         "Busy practices can add WhatsApp appointment requests that collect in a shared sheet, token updates by message, and a secure page where patients download lab reports with a code. Pages are tested on the inexpensive phones most patients carry.",
       ],
     },
@@ -122,7 +122,7 @@ const pithapuram: CityContent = {
       heading: "Android app development in Pithapuram, plus iOS apps for pilgrims and customers",
       paragraphs: [
         "An app is worth the money only when the same people open it regularly. In Pithapuram that might be a lodge group whose repeat pilgrims want to book again and receive festival notices, a saree seller whose customers in other cities re-order and follow new designs, a school sending homework and fee reminders, or a dealer taking daily orders from village shops.",
-        "As an <strong>app development company in Pithapuram</strong> that works remotely, we build with Flutter or React Native, so a single codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the key screens and an admin panel. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Pithapuram</strong> that works remotely, we build with Flutter or React Native, so a single codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the key screens and an admin panel. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Pithapuram</strong> with us starts at ₹40,000. Payments, multiple languages, maps and integrations raise the cost, and each appears as its own line so you decide. More is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If visitors only need your number, address and tariff, a website serves them without a download and at a quarter of the cost. We will recommend that when it fits.",
       ],
@@ -157,9 +157,9 @@ const pithapuram: CityContent = {
     },
     {
       id: "remote-team-pithapuram",
-      heading: "IT company in Pithapuram, working remotely: our process",
+      heading: "IT services team in Pithapuram, working remotely: our process",
       paragraphs: [
-        "Searching for an <strong>IT company in Pithapuram</strong> will show you some local offices; we are not one of them. We are three engineers working remotely, and we would rather say so at the start. What you get instead is a written trail. After an introductory call, we send an outline of pages or screens, the delivery dates and a cost against every item.",
+        "Searching for an <strong>IT services team in Pithapuram</strong> will show you some local offices; we are not one of them. We are three engineers working remotely, and we would rather say so at the start. What you get instead is a written trail. After an introductory call, we send an outline of pages or screens, the delivery dates and a cost against every item.",
         "Nothing starts, and nothing is billed, until you approve that outline. Preview links arrive on WhatsApp as the build moves forward, and you can open them on your phone and show family or partners. We send Telugu text for your approval first, since a mistake in a temple timing or seva name would embarrass you in front of devotees.",
         "WhatsApp is answered every day, Indian time. If a date slips, you hear about it that same day with a revised date, and payments are tied to milestones you have seen working.",
       ],
@@ -224,7 +224,7 @@ const pithapuram: CityContent = {
         "A lodge or shop website is usually live within one to two weeks of receiving your photographs, tariffs and details. Bigger jobs take longer: three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Having content ready early saves the most time.",
     },
     {
-      question: "Which is the best website development company in Pithapuram?",
+      question: "Which is the best website development team in Pithapuram?",
       answer:
         "Choose one that shows prices openly, registers the domain and code to you, supports you after launch and can show genuine work. Ask each provider the same questions and compare the answers. We meet those tests and reply on WhatsApp all week, though you should still compare a few quotes.",
     },

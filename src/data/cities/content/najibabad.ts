@@ -10,12 +10,12 @@ const najibabad: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Najibabad sugar-belt traders, timber dealers, blanket makers, clinics and Garhwal travel firms.",
     keywords: [
       "IT services in Najibabad",
-      "IT company in Najibabad",
-      "website development company in Najibabad",
+      "IT services team in Najibabad",
+      "website development team in Najibabad",
       "web design in Najibabad",
-      "app development company in Najibabad",
+      "app development team in Najibabad",
       "Android app development in Najibabad",
-      "software company in Najibabad",
+      "software team in Najibabad",
       "SEO services in Najibabad",
       "digital marketing in Najibabad",
       "ecommerce website in Najibabad",
@@ -74,19 +74,19 @@ const najibabad: CityContent = {
     },
     {
       id: "sugar-belt-software",
-      heading: "Software company in Najibabad for cane contractors and mill suppliers",
+      heading: "Software team in Najibabad for cane contractors and mill suppliers",
       paragraphs: [
         "Bijnor district is one of the heaviest sugarcane areas in Uttar Pradesh, with nine sugar mills working across it. Najibabad has a cooperative mill on Sneh Road, which began crushing in 1990, and a private mill in the same area. Around them sits a large informal economy of tractor-trolley owners, cane supervisors, fertiliser and pesticide shops, trolley repair workshops and diesel suppliers.",
         "Much of that economy still runs on notebooks and memory. Who carried how much cane on which day, what advance was paid to which driver, which farmer still owes for harvesting labour, when the mill's payment will arrive: all of this gets argued over at the end of the season. A small web tool can end most of those arguments.",
-        "Acting as a <strong>software company in Najibabad</strong> for this trade, we build trip registers that take one entry per load from a phone, running totals per vehicle and per grower, dues grouped by mill, and reminders for insurance and fitness renewals. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the part that saves the most disputes.",
+        "Acting as a <strong>software team in Najibabad</strong> for this trade, we build trip registers that take one entry per load from a phone, running totals per vehicle and per grower, dues grouped by mill, and reminders for insurance and fitness renewals. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the part that saves the most disputes.",
       ],
     },
     {
       id: "timber-hardware-dealers",
-      heading: "Website development company in Najibabad for timber, plywood and hardware dealers",
+      heading: "Website development team in Najibabad for timber, plywood and hardware dealers",
       paragraphs: [
         "Timber has been part of Najibabad's trade since its early years, and today the town has saw mills, plywood and board sellers, furniture workshops and building-material shops. Their buyers are contractors and families building houses in the surrounding villages and in the foothill towns, and those buyers increasingly shortlist dealers on their phones.",
-        "A useful dealer website is not a brochure. It lists the timber species and board grades you stock, thickness and size options, whether you cut to size, delivery distance and a WhatsApp button that opens a message with the product already named. For a <strong>website development company in Najibabad</strong>, the real task is keeping that catalogue easy for the owner to update after launch, so we add a simple admin panel.",
+        "A useful dealer website is not a brochure. It lists the timber species and board grades you stock, thickness and size options, whether you cut to size, delivery distance and a WhatsApp button that opens a message with the product already named. For a <strong>website development team in Najibabad</strong>, the real task is keeping that catalogue easy for the owner to update after launch, so we add a simple admin panel.",
         "Static sites with up to 100 pages start at ₹10,000 and take one to two weeks. If you want every product and every nearby town to have its own page, an SEO website with 700+ pages starts at ₹20,000 and takes three to five weeks. See the full range under <a href=\"/services/web-development/\">web development</a>.",
       ],
     },
@@ -122,7 +122,7 @@ const najibabad: CityContent = {
       heading: "Android app development in Najibabad: who needs an app and who does not",
       paragraphs: [
         "An app earns its cost when the same people use it again and again. In Najibabad that usually means a wholesaler whose village retailers re-order every week, a contractor whose drivers log trips daily, a school or coaching centre sending notices to parents, or a clinic handling repeat appointments. For these, a phone app with login and push notifications saves hours of calls.",
-        "As an <strong>app development company in Najibabad</strong> in practice, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. Each app comes with an admin panel on the web, where you add products, send notices or view entries. We publish it on Google Play and the App Store under developer accounts registered in your name, so you keep control if you ever change developers.",
+        "As an <strong>app development team in Najibabad</strong> in practice, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. Each app comes with an admin panel on the web, where you add products, send notices or view entries. We publish it on Google Play and the App Store under developer accounts registered in your name, so you keep control if you ever change developers.",
         "Apps start at ₹40,000. If your customers mostly find you once and call, a website with a WhatsApp button is enough, and we will say so. You can read more on <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a>.",
       ],
     },
@@ -164,11 +164,11 @@ const najibabad: CityContent = {
     },
     {
       id: "remote-team-najibabad",
-      heading: "IT company in Najibabad without an office: how remote work runs",
+      heading: "IT services team in Najibabad without an office: how remote work runs",
       paragraphs: [
         "Working with a remote team is simpler than it sounds, and it keeps costs down. You message us on WhatsApp, we have a call to understand what you sell and who buys, and within about two working days you receive an itemised written quote. Nothing is billed until you approve it in writing.",
         "During the build you see progress on a preview link that opens on your phone. Changes are listed and confirmed in writing so nothing is lost between calls. If you prefer, a family member or staff member who is comfortable with phones can handle the day-to-day checks while you approve the final version.",
-        "We reply on WhatsApp seven days a week during Indian working hours. Calling us the <strong>IT company in Najibabad</strong> is not quite accurate, since we are three engineers working remotely, but for your customers the result is the same: a site or app that works, and people who answer when something goes wrong. Start on our <a href=\"/contact/\">contact page</a>.",
+        "We reply on WhatsApp seven days a week during Indian working hours. Calling us the <strong>IT services team in Najibabad</strong> is not quite accurate, since we are three engineers working remotely, but for your customers the result is the same: a site or app that works, and people who answer when something goes wrong. Start on our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {
@@ -222,7 +222,7 @@ const najibabad: CityContent = {
         "A static website usually goes live within one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content arriving late is the most common cause of delay.",
     },
     {
-      question: "Which is the best website development company in Najibabad?",
+      question: "Which is the best website development team in Najibabad?",
       answer:
         "Judge any provider on published prices, whether the domain and code are registered in your name, real examples of work and whether they answer after launch. Ask each option the same questions. We meet those tests and reply on WhatsApp daily, but comparing two or three quotes is always sensible.",
     },

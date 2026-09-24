@@ -7,15 +7,15 @@ const content: CityContent = {
   meta: {
     title: "Freelance IT Services in Kerala: Software, AI & Apps",
     description:
-      "Freelance IT services across Kerala, a lean alternative to a software development company in Kerala: custom software, AI, apps, SEO. Websites from ₹10,000.",
+      "Freelance IT services across Kerala, a lean alternative to a software development team in Kerala: custom software, AI, apps, SEO. Websites from ₹10,000.",
     keywords: [
       "Android app development Kerala",
       "mobile app developers Kerala",
       "iOS app development Kerala",
       "iPhone app developers Kochi",
       "IT services in Kerala",
-      "software development company in Kerala",
-      "IT company in Kerala",
+      "software development team in Kerala",
+      "IT services team in Kerala",
       "freelance software developers Kerala",
       "custom software development Kerala",
       "AI automation Kerala",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT services · Kerala, statewide",
     h1: "Freelance IT services in Kerala, from Kasaragod to Thiruvananthapuram",
     lede:
-      "Looking for IT services in Kerala but unsure whether to hire a software development company in Kerala or freelancers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, booking systems, AI and WhatsApp automation, dashboards, apps, cloud setups, ecommerce and SEO websites for businesses in all fourteen districts, with every account kept in the client's name.",
+      "Looking for IT services in Kerala but unsure whether to hire a software development team in Kerala or freelancers? BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, booking systems, AI and WhatsApp automation, dashboards, apps, cloud setups, ecommerce and SEO websites for businesses in all fourteen districts, with every account kept in the client's name.",
     pills: ["Serving all 14 districts", "Malayalam and English", "Custom software from ₹60,000", "AI automation from ₹40,000", "5 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech provides freelance IT services in Kerala remotely, as a lean alternative to a software development company in Kerala. Websites start at ₹10,000, AI automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000, with timelines from one to twelve weeks. We are three engineers in India, with no Kerala office, and quote itemised within about two working days.",
+    "BtechWaleTech provides freelance IT services in Kerala remotely, as a lean alternative to a software development team in Kerala. Websites start at ₹10,000, AI automation at ₹40,000, ecommerce at ₹50,000 and custom software at ₹60,000, with timelines from one to twelve weeks. We are three engineers in India, with no Kerala office, and quote itemised within about two working days.",
   snapshot: [
     { label: "IT parks", value: "Technopark in Thiruvananthapuram, Infopark in Kochi (with campuses at Cherthala and Koratty) and Cyberpark in Kozhikode" },
     { label: "Startup support", value: "Kerala Startup Mission runs incubators and programmes across the state, with a major presence in Kochi and Thiruvananthapuram" },
@@ -80,14 +80,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-kerala",
-      heading: "Freelance IT team vs a software development company in Kerala: which should you hire?",
+      heading: "Freelance IT team vs a software development team in Kerala: which should you hire?",
       paragraphs: [
-        "Hire a software development company in Kerala when you need a large team, formal account management and a long enterprise contract, as many Technopark and Infopark clients do. Hire a freelance IT team when you need a focused system, automation or website, want lower overheads and prefer talking to the engineers directly. Most Kerala SMEs fit the second profile.",
+        "Hire a software development team in Kerala when you need a large team, formal account management and a long enterprise contract, as many Technopark and Infopark clients do. Hire a freelance IT team when you need a focused system, automation or website, want lower overheads and prefer talking to the engineers directly. Most Kerala SMEs fit the second profile.",
         "We are honest about the trade-off: three engineers have limited capacity, so we take a small number of projects at a time and decline work that needs a bigger team. What you gain is speed, transparency and a lower quote, because there is no office rent or sales layer to fund.",
       ],
       list: [
         "Freelance group: direct engineer contact, published starting prices, weekend replies, smaller capacity",
-        "Software company: more staff and structure, higher overhead, slower change requests",
+        "Software team: more staff and structure, higher overhead, slower change requests",
         "In both cases: insist on written scope, milestone billing and accounts in your name",
       ],
     },
@@ -222,9 +222,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-software-company-kerala",
-      heading: "How to choose a software development company in Kerala, or a freelance team",
+      heading: "How to choose a software development team in Kerala, or a freelance team",
       paragraphs: [
-        "Choose a software development company in Kerala, or a freelance team, by checking who builds the system, what the written scope includes, who owns the accounts, how progress is shown and what support follows. Compare prices only after those answers are clear.",
+        "Choose a software development team in Kerala, or a freelance team, by checking who builds the system, what the written scope includes, who owns the accounts, how progress is shown and what support follows. Compare prices only after those answers are clear.",
       ],
       list: [
         "Speak to the developer who will do the work",
@@ -295,7 +295,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Kerala?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or branch in Kerala. We serve clients across all fourteen districts over WhatsApp, calls, video meetings and shared documents, and you review progress on a live staging link at every stage." },
-    { question: "Which is the best software development company in Kerala?", answer: "No single company is best for every project. Large Kerala software companies suit enterprise contracts with big teams; a freelance group suits focused software, automation, booking systems and websites where you want direct access to engineers. Compare written scopes, ownership terms, support periods and live work before deciding." },
+    { question: "Which is the best software development team in Kerala?", answer: "No single company is best for every project. Large Kerala software companies suit enterprise contracts with big teams; a freelance group suits focused software, automation, booking systems and websites where you want direct access to engineers. Compare written scopes, ownership terms, support periods and live work before deciding." },
     { question: "How much do IT services in Kerala cost?", answer: "Our starting prices are ₹10,000 for websites, ₹20,000 for 700+ page SEO websites, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for ecommerce and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. Final costs depend on scope and are itemised in writing within about two working days." },
     { question: "How long do projects take?", answer: "One to two weeks for a website, three to five weeks for an SEO website, two to four weeks for AI automation, four to eight weeks for ecommerce and six to twelve weeks for custom software. Ready content and fast feedback shorten these timelines." },
     { question: "How can we pay you from Kerala or abroad?", answer: "We accept only UPI, by scanning our QR code, or direct bank transfer to our bank account, in INR. We do not use payment gateways or payment links for our invoices. Payments follow milestones, each after you review work on staging." },

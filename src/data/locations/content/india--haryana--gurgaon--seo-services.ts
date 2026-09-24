@@ -11,8 +11,8 @@ const content: CityContent = {
     keywords: [
       "SEO services in Gurgaon",
       "freelance SEO expert Gurgaon",
-      "SEO company in Gurgaon",
-      "SEO agency Gurugram alternative",
+      "SEO team in Gurgaon",
+      "SEO team Gurugram alternative",
       "local SEO Gurgaon",
       "technical SEO audit Gurugram",
       "Google Business Profile optimisation Gurgaon",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-seo-vs-seo-company-gurgaon",
-      heading: "Freelance SEO team or an SEO company in Gurgaon: which should you hire?",
+      heading: "Freelance SEO team or an SEO team in Gurgaon: which should you hire?",
       paragraphs: [
         "A freelance SEO team suits Gurgaon businesses that want the specialists themselves on the account, while a large SEO company suits brands that need a big content factory, multiple account managers and in-person meetings. If you are comparing SEO companies in Gurgaon, the useful question is who actually edits your website each month and whether you ever speak to them.",
-        "BtechWaleTech is a freelance group of three engineers, not an agency with a sales floor. That has trade-offs you should know. We cannot publish fifty blog posts a week, and we do not have a Gurugram office to visit. What you get instead is direct access, code-level fixes that many SEO vendors cannot make because they only have a CMS login, and the same people handling your website, app and automation, so recommendations are actually implemented.",
+        "BtechWaleTech is a freelance group of three engineers. That has trade-offs you should know. We cannot publish fifty blog posts a week, and we do not have a Gurugram office to visit. What you get instead is direct access, code-level fixes that many SEO vendors cannot make because they only have a CMS login, and the same people handling your website, app and automation, so recommendations are actually implemented.",
         "Whichever route you pick, ask for three things before signing: a written list of the first month's tasks, access to your own Search Console and GA4 in your name, and a clear exit clause. Any vendor who resists those three is a risk regardless of size.",
       ],
       list: [

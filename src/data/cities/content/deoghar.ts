@@ -9,7 +9,7 @@ const deoghar: CityContent = {
     description:
       "Websites, Hindi and English SEO, booking pages and WhatsApp automation for Deoghar hotels, peda makers, pandas, clinics and coaching centres. From ₹10,000.",
     keywords: [
-      "website development company in Deoghar",
+      "website development team in Deoghar",
       "web design Deoghar",
       "website designer Deoghar",
       "Baba Dham hotel website",
@@ -21,7 +21,7 @@ const deoghar: CityContent = {
       "dharamshala booking website",
       "WhatsApp automation Deoghar",
       "hospital website Deoghar",
-      "software company Deoghar",
+      "software team Deoghar",
       "website maintenance Deoghar",
       "Deoghar me website kaise banwaye",
       "देवघर वेबसाइट डिज़ाइन",

@@ -10,12 +10,12 @@ const rajsamand: CityContent = {
       "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Rajsamand marble units, tyre-belt suppliers, hotels, pilgrims and shops.",
     keywords: [
       "IT services in Rajsamand",
-      "IT company in Rajsamand",
-      "website development company in Rajsamand",
+      "IT services team in Rajsamand",
+      "website development team in Rajsamand",
       "web design in Rajsamand",
-      "app development company in Rajsamand",
+      "app development team in Rajsamand",
       "Android app development in Rajsamand",
-      "software company in Rajsamand",
+      "software team in Rajsamand",
       "SEO services in Rajsamand",
       "digital marketing in Kankroli",
       "ecommerce website in Rajsamand",
@@ -74,19 +74,19 @@ const rajsamand: CityContent = {
     },
     {
       id: "marble-gangsaw-units",
-      heading: "Website development company in Rajsamand for marble dealers and gangsaw units",
+      heading: "Website development team in Rajsamand for marble dealers and gangsaw units",
       paragraphs: [
         "Rajsamand is one of India's main sources of marble, and the district also supplies granite and other stone. Blocks come in from quarries, are sawn into slabs in gangsaw units, many of them in the RIICO industrial area at Dhoinda, then polished, graded and sold to traders, builders and architects across the country. Buyers who used to travel to see stock now increasingly ask for photographs and videos first.",
-        "A <strong>website development company in Rajsamand</strong> serving this trade should build catalogues that show stone honestly: each variety with clear photographs under daylight, finish options, standard thicknesses and sizes, typical applications, and a simple way to request current stock pictures on WhatsApp. For exporters and larger firms, English pages on processing capacity, machinery, packing and dispatch help serious buyers shortlist you.",
+        "A <strong>website development team in Rajsamand</strong> serving this trade should build catalogues that show stone honestly: each variety with clear photographs under daylight, finish options, standard thicknesses and sizes, typical applications, and a simple way to request current stock pictures on WhatsApp. For exporters and larger firms, English pages on processing capacity, machinery, packing and dispatch help serious buyers shortlist you.",
         "We never invent stone names, quarry origins, test values or project references; every technical detail comes from you. A catalogue site starts at ₹10,000. Units with many varieties often choose a 700+ page SEO site from ₹20,000, giving each stone, colour and application its own page so buyers searching for a particular marble can land directly on it.",
       ],
     },
     {
       id: "marble-stock-software",
-      heading: "Software company in Rajsamand for block, slab and dispatch records",
+      heading: "Software team in Rajsamand for block, slab and dispatch records",
       paragraphs: [
         "Inside a marble unit, the paperwork is harder than it looks. Each block has a source, weight and cost; it yields a certain number of slabs of varying quality; slabs are polished, graded, stored in bundles and sold, sometimes after being held for a buyer. Without clean records, owners lose track of which slabs are free, which are reserved and what each block really earned.",
-        "Working as a <strong>software company in Rajsamand</strong>, we build web tools that follow a block from arrival to final slab sale: block register, cutting output, grading and bundle numbers with photographs, reservations for buyers, dispatch with truck and bill details, and payments due by party. A stock page can show live available slabs to your sales team or even to trusted buyers.",
+        "Working as a <strong>software team in Rajsamand</strong>, we build web tools that follow a block from arrival to final slab sale: block register, cutting output, grading and bundle numbers with photographs, reservations for buyers, dispatch with truck and bill details, and payments due by party. A stock page can show live available slabs to your sales team or even to trusted buyers.",
         "These systems start at ₹60,000 and take six to twelve weeks, built in stages so the block and slab register works before extras such as buyer logins or Tally links are added. Screens are in Hindi for yard staff and English for sales, and the whole thing runs on a phone as well as a desktop.",
       ],
     },
@@ -122,7 +122,7 @@ const rajsamand: CityContent = {
       heading: "Android app development in Rajsamand, and iOS apps for local businesses",
       paragraphs: [
         "Build an app only when people will come back to it. Around Rajsamand, the strongest cases are trusted marble buyers checking a unit's live slab stock with photographs, yard staff logging cutting output from their phones, a hotel group taking repeat bookings from pilgrims who visit every year, a school sending notices and fee alerts to parents, and a distributor collecting orders from shops across the district.",
-        "As a remote <strong>app development company in Rajsamand</strong>, we write apps in Flutter or React Native, so both the Android and the iPhone versions come from one codebase. A first release covers OTP login, push notifications, the core screens, Hindi and English text and an admin panel. We publish to Google Play and the Apple App Store on developer accounts opened in your name.",
+        "As a remote <strong>app development team in Rajsamand</strong>, we write apps in Flutter or React Native, so both the Android and the iPhone versions come from one codebase. A first release covers OTP login, push notifications, the core screens, Hindi and English text and an admin panel. We publish to Google Play and the Apple App Store on developer accounts opened in your name.",
         "<strong>Android app development in Rajsamand</strong> with us starts at ₹40,000. Photo galleries of slab bundles, online payments, offline entry in quarries or yards with poor signal, and integration with your accounts software are each priced as separate lines. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process.",
         "Where customers only need your location, phone number and price range, a website does the job for much less and needs no install. We will recommend that, since an app that is opened once and forgotten is money you could have kept.",
       ],
@@ -223,7 +223,7 @@ const rajsamand: CityContent = {
         "A static site usually goes live one to two weeks after we receive details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Marble catalogues move fastest when the stone photographs are shot in daylight before we begin.",
     },
     {
-      question: "Which is the best website development company in Rajsamand?",
+      question: "Which is the best website development team in Rajsamand?",
       answer:
         "Look for someone who shows prices openly, registers the domain and code in your name, stays available after launch and can show real work. Put the same questions to each provider. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before choosing is a good idea.",
     },

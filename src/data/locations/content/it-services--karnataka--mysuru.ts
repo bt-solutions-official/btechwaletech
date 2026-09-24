@@ -7,15 +7,15 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Mysuru | IT Solutions",
     description:
-      "Freelance software developers for Mysuru, an alternative to a software development company in Mysuru: booking systems, AI automation, apps. Sites from ₹10,000.",
+      "Freelance software developers for Mysuru, an alternative to a software development team in Mysuru: booking systems, AI automation, apps. Sites from ₹10,000.",
     keywords: [
       "Android app development Mysuru",
       "iOS app development Mysuru",
       "iPhone app developers Mysore",
-      "software development company in Mysuru",
-      "IT company in Mysuru",
+      "software development team in Mysuru",
+      "IT services team in Mysuru",
       "IT solutions Mysuru",
-      "software company in Mysore",
+      "software team in Mysore",
       "custom software development Mysore",
       "hotel booking software Mysuru",
       "homestay booking website Mysore",
@@ -30,18 +30,18 @@ const content: CityContent = {
       "software developers near me Kuvempunagar",
       "ecommerce website for Mysore silk and agarbatti sellers",
       "ಮೈಸೂರಿನಲ್ಲಿ ಸಾಫ್ಟ್‌ವೇರ್ ಅಭಿವೃದ್ಧಿ ಕಂಪನಿ",
-      "Mysore mein software company",
+      "Mysore mein software team",
     ],
   },
   hero: {
     eyebrow: "IT solutions · Mysuru, Karnataka",
     h1: "Freelance software developers in Mysuru for bookings, operations and automation",
     lede:
-      "Weighing a software development company in Mysuru against freelance developers? BtechWaleTech is a freelance group of three engineers working remotely from India who create booking engines, operations software, AI and WhatsApp automation, dashboards, apps and search-ready websites for Mysuru hotels, schools, manufacturers, clinics and traders. You speak to the engineers, see progress on a live link, and keep every login.",
+      "Weighing a software development team in Mysuru against freelance developers? BtechWaleTech is a freelance group of three engineers working remotely from India who create booking engines, operations software, AI and WhatsApp automation, dashboards, apps and search-ready websites for Mysuru hotels, schools, manufacturers, clinics and traders. You speak to the engineers, see progress on a live link, and keep every login.",
     pills: ["Booking engines", "Custom software from ₹60,000", "WhatsApp and AI automation", "Kannada and English", "5 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Mysuru remotely, a lean alternative to a software development company in Mysuru: custom software and booking systems start at ₹60,000 over 6 to 12 weeks, AI automation from ₹40,000 in 2 to 4 weeks, and websites from ₹10,000 in 1 to 2 weeks. We have no Mysuru office, and send itemised quotes within about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Mysuru remotely, a lean alternative to a software development team in Mysuru: custom software and booking systems start at ₹60,000 over 6 to 12 weeks, AI automation from ₹40,000 in 2 to 4 weeks, and websites from ₹10,000 in 1 to 2 weeks. We have no Mysuru office, and send itemised quotes within about two working days.",
   snapshot: [
     { label: "Industrial areas", value: "KIADB estates at Hebbal, Hootagalli, Metagalli, Koorgalli and Belawadi, plus the Nanjangud belt to the south" },
     { label: "IT presence", value: "Infosys Global Education Centre in Hebbal and a cluster of software and e-learning firms around it" },
@@ -79,14 +79,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-team-vs-software-company-mysuru",
-      heading: "Freelance developers vs a software development company in Mysuru: which suits you?",
+      heading: "Freelance developers vs a software development team in Mysuru: which suits you?",
       paragraphs: [
-        "A software development company in Mysuru suits large, long contracts that need many staff, formal account managers and fixed office hours. Freelance developers suit a hotel, institute, clinic or factory that needs one focused system built well, with the owner talking directly to the person writing the code.",
+        "A software development team in Mysuru suits large, long contracts that need many staff, formal account managers and fixed office hours. Freelance developers suit a hotel, institute, clinic or factory that needs one focused system built well, with the owner talking directly to the person writing the code.",
         "BtechWaleTech is a freelance group of three engineers, not a firm with a Hebbal office or a sales team. That keeps overheads low and replies fast, including weekends. It also means limited capacity: we take a handful of projects at a time and will tell you plainly if a job needs a bigger team than ours.",
       ],
       list: [
         "Freelance group: direct engineer contact, published starting prices, smaller capacity",
-        "Software company: more staff and layers, higher overhead, longer approvals",
+        "Software team: more staff and layers, higher overhead, longer approvals",
         "Both: ask for code ownership, written scope and a real support period",
       ],
     },
@@ -191,18 +191,18 @@ const content: CityContent = {
     },
     {
       id: "software-cost-in-mysuru",
-      heading: "How much does a software development company in Mysuru charge?",
+      heading: "How much does a software development team in Mysuru charge?",
       paragraphs: [
-        "A software development company in Mysuru typically charges by scope, and our starting prices are public: websites from ₹10,000, SEO websites with 700+ pages from ₹20,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. See the full <a href='/pricing/'>pricing page</a>.",
+        "A software development team in Mysuru typically charges by scope, and our starting prices are public: websites from ₹10,000, SEO websites with 700+ pages from ₹20,000, AI automation from ₹40,000, Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. See the full <a href='/pricing/'>pricing page</a>.",
         "Costs rise with more user roles, reports, integrations such as Tally or payment gateways, data migration and custom design. They fall when the first version is kept tight and decisions come quickly. We quote itemised, so you can drop a module to fit budget instead of accepting a lump sum you cannot question.",
         "Payment is in INR by UPI QR or direct bank transfer, in milestones tied to work you can see on a staging link.",
       ],
     },
     {
       id: "choosing-a-software-company-mysuru",
-      heading: "Checklist for choosing a software development company in Mysuru",
+      heading: "Checklist for choosing a software development team in Mysuru",
       paragraphs: [
-        "Choosing a software development company in Mysuru comes down to five checks: who writes the code, what is written in the scope, who owns the accounts, how progress is shown, and what happens after launch. Price matters, but it is the last thing to compare, not the first.",
+        "Choosing a software development team in Mysuru comes down to five checks: who writes the code, what is written in the scope, who owns the accounts, how progress is shown, and what happens after launch. Price matters, but it is the last thing to compare, not the first.",
       ],
       list: [
         "Speak to the developer, not only a salesperson",
@@ -266,7 +266,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Mysuru?", answer: "No. BtechWaleTech has no office or branch in Mysuru. We are three engineers working remotely from India, and we handle Mysuru projects over WhatsApp, phone and video calls, with shared documents and a live staging link for reviews. Most clients find they need a meeting only at the start, and quick messages after that." },
-    { question: "Which is the best software company in Mysuru for a small business?", answer: "It depends on what you need built. Larger Mysuru firms suit enterprise contracts and big teams; a small team suits booking systems, fee software, automation and websites where the owner wants to speak directly to the engineer. Compare written scopes, ownership terms, support periods and live work you can open, rather than rankings on directory sites." },
+    { question: "Which is the best software team in Mysuru for a small business?", answer: "It depends on what you need built. Larger Mysuru firms suit enterprise contracts and big teams; a small team suits booking systems, fee software, automation and websites where the owner wants to speak directly to the engineer. Compare written scopes, ownership terms, support periods and live work you can open, rather than rankings on directory sites." },
     { question: "How much does a booking system or custom software cost?", answer: "Custom software, including booking engines, starts at ₹60,000. A simple homestay or tour booking flow sits near that figure; a multi-property hotel system with rate rules, deposits and reports costs more. You receive an itemised quote in about two working days, and every price we publish is a starting price, not a fixed package." },
     { question: "How long will my project take?", answer: "Websites take one to two weeks, SEO websites with 700+ pages three to five weeks, AI automation two to four weeks, ecommerce four to eight weeks and custom software six to twelve weeks. Fast feedback and ready content shorten these. We share a live preview throughout so you are never waiting blind." },
     { question: "How do I pay BtechWaleTech?", answer: "You pay only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not collect payments through any gateway or payment link. Work is split into milestones, and each payment follows a stage you have already reviewed on the staging site." },

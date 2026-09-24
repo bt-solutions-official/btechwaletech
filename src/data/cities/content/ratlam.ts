@@ -9,7 +9,7 @@ const ratlam: CityContent = {
     description:
       "Websites, local SEO, UPI stores and WhatsApp automation for Ratlam namkeen makers, jewellers, saree sellers and traders. Published prices and 5 months free care.",
     keywords: [
-      "website development company in Ratlam",
+      "website development team in Ratlam",
       "web designer Ratlam",
       "website design Ratlam MP",
       "SEO services Ratlam",

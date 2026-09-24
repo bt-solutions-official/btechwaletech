@@ -10,12 +10,12 @@ const sirhind: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Sirhind and Fatehgarh Sahib traders, workshops, colleges and clinics.",
     keywords: [
       "IT services in Sirhind",
-      "IT company in Fatehgarh Sahib",
-      "website development company in Sirhind",
+      "IT services team in Fatehgarh Sahib",
+      "website development team in Sirhind",
       "web design in Fatehgarh Sahib",
-      "app development company in Sirhind",
+      "app development team in Sirhind",
       "Android app development in Sirhind",
-      "software company in Fatehgarh Sahib",
+      "software team in Fatehgarh Sahib",
       "SEO services in Sirhind",
       "digital marketing in Fatehgarh Sahib",
       "ecommerce website in Sirhind",
@@ -75,19 +75,19 @@ const sirhind: CityContent = {
     },
     {
       id: "focal-point-workshops",
-      heading: "Website development company in Sirhind for Focal Point and district manufacturers",
+      heading: "Website development team in Sirhind for Focal Point and district manufacturers",
       paragraphs: [
         "The district's industrial profile lists units making sewing machine parts, centrifugal pumps, mining machinery and bus and truck bodies. Many of these sit in the Focal Point at Sirhind or along the roads towards Mandi Gobindgarh and Bassi Pathana. Their buyers are rarely local: they are distributors in Uttar Pradesh or Bihar, contractors in Rajasthan, or purchase officers who have never visited Punjab.",
-        "For those buyers, a website is the first proof that the unit exists and knows its trade. A useful <strong>website development company in Sirhind</strong> keeps the pages factual. Product ranges with model numbers, head and discharge tables for pumps, part numbers and fitment notes for sewing machine components, photographs of the shop floor and testing bench, GST and registration details, and named people to call. Pages should load quickly on a mid-range phone, because a dealer checking you from a truck stop will not wait.",
+        "For those buyers, a website is the first proof that the unit exists and knows its trade. A useful <strong>website development team in Sirhind</strong> keeps the pages factual. Product ranges with model numbers, head and discharge tables for pumps, part numbers and fitment notes for sewing machine components, photographs of the shop floor and testing bench, GST and registration details, and named people to call. Pages should load quickly on a mid-range phone, because a dealer checking you from a truck stop will not wait.",
         "We add downloadable spec sheets in PDF, a quote form that accepts drawings or photographs, and a dealer enquiry page that asks for territory and expected volume. Sites of this kind start at ₹10,000 for up to 100 pages, and a larger catalogue built for search starts at ₹20,000. We never place a customer's logo on your site without that customer's written permission, and we never write claims about capacity or certifications that you cannot back with paper.",
       ],
     },
     {
       id: "body-builders-software",
-      heading: "Software company in Fatehgarh Sahib for body builders and job workshops",
+      heading: "Software team in Fatehgarh Sahib for body builders and job workshops",
       paragraphs: [
         "Bus and truck body building is labour-heavy work where each vehicle is a separate job. The owner juggles chassis arrivals, sheet and section purchases, welders' hours, painting schedules, RTO paperwork and the customer's changing wishes. Most of this lives in notebooks and memory, which works until two jobs overlap or a partner falls ill.",
-        "As a <strong>software company in Fatehgarh Sahib</strong> in practical terms, we build job-card tools for exactly this. Each chassis gets a card with its customer, specification, drawings and agreed price. Material issued, hours booked and photos of each stage attach to the card from a phone. The owner sees which jobs are running late, what each one has cost so far, and which customers still owe money.",
+        "As a <strong>software team in Fatehgarh Sahib</strong> in practical terms, we build job-card tools for exactly this. Each chassis gets a card with its customer, specification, drawings and agreed price. Material issued, hours booked and photos of each stage attach to the card from a phone. The owner sees which jobs are running late, what each one has cost so far, and which customers still owe money.",
         "Pump and parts workshops get a different flavour of the same idea: orders by dealer, batches in production, dispatch records with lorry receipt numbers, and returns under warranty. Tools like these start at ₹60,000 and are built in stages over six to twelve weeks, so the first useful screen is working long before the last one.",
         "We keep the interface simple enough for a supervisor who prefers Punjabi, and we can export to Excel or connect to the billing software you already use rather than forcing a change your accountant dislikes.",
       ],
@@ -117,7 +117,7 @@ const sirhind: CityContent = {
       heading: "Android app development in Sirhind, and iOS apps for Fatehgarh Sahib businesses",
       paragraphs: [
         "An app earns its keep when the same people open it again and again. In Sirhind and Fatehgarh Sahib, good cases include a pump or parts maker whose dealers across several states re-order every month, a school or coaching centre sending homework, fee reminders and bus alerts to parents, a clinic issuing tokens so patients from villages do not wait half a day, or a farm input dealer taking orders from retailers during the sowing rush.",
-        "As an <strong>app development company in Sirhind</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones alike. The first version normally has mobile number login, push notifications, the few screens that matter most, and an admin panel your staff can run from a laptop. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Sirhind</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones alike. The first version normally has mobile number login, push notifications, the few screens that matter most, and an admin panel your staff can run from a laptop. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Sirhind</strong> with us starts at ₹40,000. The quote grows only with the features you choose: online payment, offline mode for weak signal in the fields, maps, Punjabi and Hindi interfaces, or a link to your billing software. Each one is priced on its own line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
         "Be honest with yourself about whether people will install it. If customers only need your address, timings and a price list, a fast website with a WhatsApp button does that job for a fraction of the cost. We will recommend the website in that case, because an unopened app is money spent for nothing.",
       ],
@@ -234,7 +234,7 @@ const sirhind: CityContent = {
         "A simple site is usually live within one to two weeks once we have your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best IT company in Fatehgarh Sahib for a small business?",
+      question: "Which is the best IT services team in Fatehgarh Sahib for a small business?",
       answer:
         "Judge any provider on published prices, ownership of domain and code in your name, support after launch and real work you can check. Ask each one the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before you decide is always sensible.",
     },

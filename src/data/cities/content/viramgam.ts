@@ -10,12 +10,12 @@ const viramgam: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Viramgam cotton traders, auto-belt suppliers, transporters, clinics and shops.",
     keywords: [
       "IT services in Viramgam",
-      "IT company in Viramgam",
-      "website development company in Viramgam",
+      "IT services team in Viramgam",
+      "website development team in Viramgam",
       "web design in Viramgam",
-      "app development company in Viramgam",
+      "app development team in Viramgam",
       "Android app development in Viramgam",
-      "software company in Viramgam",
+      "software team in Viramgam",
       "SEO services in Viramgam",
       "digital marketing in Viramgam",
       "ecommerce website in Viramgam",
@@ -73,19 +73,19 @@ const viramgam: CityContent = {
     },
     {
       id: "cotton-apmc-ginning",
-      heading: "Software company in Viramgam for cotton ginners and APMC traders",
+      heading: "Software team in Viramgam for cotton ginners and APMC traders",
       paragraphs: [
         "Cotton is a major crop in the talukas around Viramgam, and the APMC here sees kapas arrive from farmers through the season. Ginning and pressing units, commission agents, brokers and traders turn that raw cotton into bales and seed, and the whole chain runs on weights, rates, moisture deductions and payments that must match at every step.",
-        "Many units still keep this in registers and Excel files that only one clerk fully understands. Acting as a <strong>software company in Viramgam</strong>, we build web tools that record each kapas purchase with farmer, vehicle, weight, rate and deductions, track lint and seed output, number every bale, and follow dispatches to spinning mills or exporters until payment arrives. The owner sees daily arrivals, stock of bales and buyer dues on one screen.",
+        "Many units still keep this in registers and Excel files that only one clerk fully understands. Acting as a <strong>software team in Viramgam</strong>, we build web tools that record each kapas purchase with farmer, vehicle, weight, rate and deductions, track lint and seed output, number every bale, and follow dispatches to spinning mills or exporters until payment arrives. The owner sees daily arrivals, stock of bales and buyer dues on one screen.",
         "Custom tools like this begin at ₹60,000 and take six to twelve weeks, built in phases so the purchase register is working before the season peaks. Gujarati labels on entry screens help weighbridge staff, while reports can stay in English for the accounts team. If your books are already in Tally, we link to them rather than forcing a switch.",
       ],
     },
     {
       id: "mandal-becharaji-suppliers",
-      heading: "Website development company in Viramgam for Mandal–Becharaji suppliers",
+      heading: "Website development team in Viramgam for Mandal–Becharaji suppliers",
       paragraphs: [
         "The car plant at Hansalpur and the Special Investment Region around Mandal and Becharaji created demand for a long list of smaller businesses: tool rooms, fabrication shops, packaging and pallet makers, staffing contractors, canteens, housekeeping agencies, security firms, bus operators for shift workers and landlords renting rooms to employees. Many of these firms are run from Viramgam.",
-        "Purchase and vendor development teams at larger companies check suppliers online before calling them. A <strong>website development company in Viramgam</strong> should keep such a site factual and quick to read: services and capacity, machines and equipment, industries served, quality and safety practice, GST and registration details, and named contacts with direct numbers. It should look professional on a desktop in a purchase office and still load fast on a phone at a site gate.",
+        "Purchase and vendor development teams at larger companies check suppliers online before calling them. A <strong>website development team in Viramgam</strong> should keep such a site factual and quick to read: services and capacity, machines and equipment, industries served, quality and safety practice, GST and registration details, and named contacts with direct numbers. It should look professional on a desktop in a purchase office and still load fast on a phone at a site gate.",
         "We never name a client company on your site without written approval from that company, and we do not claim certifications you do not hold. Firms that get drawings or repeat orders can add a quotation form with file upload, and staffing contractors can add a candidate registration form that feeds straight into a sheet.",
       ],
     },
@@ -121,7 +121,7 @@ const viramgam: CityContent = {
       heading: "Android app development in Viramgam, and iOS apps for local businesses",
       paragraphs: [
         "Apps make sense where a fixed group of users returns to them often. In Viramgam that could be truck drivers updating trip status for a fleet owner, farmers checking their kapas payments with a ginner, village retailers re-ordering from a distributor, shift workers booking seats on a company bus, or parents following a school's notices and fees.",
-        "Our approach as an <strong>app development company in Viramgam</strong> is to build in Flutter or React Native, so the same code produces the Android app and the iPhone app. A typical first release has phone-number sign-in, push notifications, Gujarati and English screens, only the features users need in week one, and a browser-based admin panel for your office. Both store listings, on Google Play and the Apple App Store, sit under developer accounts in your name.",
+        "Our approach as an <strong>app development team in Viramgam</strong> is to build in Flutter or React Native, so the same code produces the Android app and the iPhone app. A typical first release has phone-number sign-in, push notifications, Gujarati and English screens, only the features users need in week one, and a browser-based admin panel for your office. Both store listings, on Google Play and the Apple App Store, sit under developer accounts in your name.",
         "<strong>Android app development in Viramgam</strong> begins at ₹40,000. Extras such as payments, offline trip entry for highway stretches with no signal, GPS tracking, photo proof of delivery and Tally links are each quoted as separate lines. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the process runs.",
         "Plenty of businesses do not need an app at all. If your customers want only a phone number, directions and a price list, a website serves them for much less, and we will point that out before quoting you for something you will not use.",
       ],
@@ -231,7 +231,7 @@ const viramgam: CityContent = {
         "A static site generally goes live one to two weeks after you send details and photographs. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Sending content early is the single biggest factor in speed.",
     },
     {
-      question: "Who is the best IT company in Viramgam?",
+      question: "Who is the best IT services team in Viramgam?",
       answer:
         "The right choice publishes prices, puts your domain and code in your name, responds after launch and can show genuine work. Ask every candidate the same questions and compare the answers. We meet those standards and reply on WhatsApp seven days a week, but talking to two or three providers first is wise.",
     },

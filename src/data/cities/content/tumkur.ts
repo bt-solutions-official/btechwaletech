@@ -9,7 +9,7 @@ const tumkur: CityContent = {
     description:
       "Websites, Kannada and English SEO, online stores and WhatsApp automation for Tumakuru factories, coconut traders, colleges and clinics. Prices listed, code yours.",
     keywords: [
-      "website development company in Tumkur",
+      "website development team in Tumkur",
       "website development Tumakuru",
       "web designer Tumkur",
       "freelance web developer Tumakuru",
@@ -21,7 +21,7 @@ const tumkur: CityContent = {
       "ecommerce website Tumkur",
       "college website Tumkur",
       "WhatsApp automation Tumkur",
-      "software company Tumakuru",
+      "software team Tumakuru",
       "website maintenance Tumkur",
       "Tumakuru website design Kannada",
       "ತುಮಕೂರು ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",

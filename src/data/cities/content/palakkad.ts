@@ -9,7 +9,7 @@ const palakkad: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Palakkad firms: Kanjikode suppliers, rice mills, clinics, colleges and shops. Sites from ₹10,000, and you own them.",
     keywords: [
-      "website development company in Palakkad",
+      "website development team in Palakkad",
       "web designer Palakkad",
       "Palakkad website price",
       "freelance web developer Palakkad",
@@ -277,7 +277,7 @@ const palakkad: CityContent = {
     {
       question: "How soon will SEO bring enquiries in Palakkad?",
       answer:
-        "Nearby Maps searches often improve within six to ten weeks once your profile and site are set up well. Broader searches, such as “website development company in Palakkad” or supplier searches from other states, can take four to eight months. Monthly SEO starts at ₹10,000 and we never guarantee rankings.",
+        "Nearby Maps searches often improve within six to ten weeks once your profile and site are set up well. Broader searches, such as “website development team in Palakkad” or supplier searches from other states, can take four to eight months. Monthly SEO starts at ₹10,000 and we never guarantee rankings.",
     },
     {
       question: "What should I send for a quote?",

@@ -10,12 +10,12 @@ const modasa: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Modasa traders, market yard agents, GIDC units, colleges and clinics in Aravalli.",
     keywords: [
       "IT services in Modasa",
-      "IT company in Modasa",
-      "website development company in Modasa",
+      "IT services team in Modasa",
+      "website development team in Modasa",
       "web design in Modasa",
-      "app development company in Modasa",
+      "app development team in Modasa",
       "Android app development in Modasa",
-      "software company in Modasa",
+      "software team in Modasa",
       "SEO services in Modasa",
       "digital marketing in Modasa",
       "ecommerce website in Modasa",
@@ -75,20 +75,20 @@ const modasa: CityContent = {
     },
     {
       id: "market-yard-traders",
-      heading: "Software company in Modasa for market yard agents and wholesale traders",
+      heading: "Software team in Modasa for market yard agents and wholesale traders",
       paragraphs: [
         "Modasa's APMC market yard handles vegetables, fruit and other farm produce, and the town has long been described as a centre for agricultural trade. Farming and animal husbandry are the main occupations across Aravalli district, so much of the town's money moves through commission agents, wholesalers, cold storage, transporters and input dealers.",
         "The bookkeeping in this trade is heavy. Agents track arrivals from each farmer, lots sold to each buyer, rates, commission, hamali and transport, and payments that are often split across days. A missed entry becomes a dispute.",
-        "As a practical <strong>software company in Modasa</strong>, we build web tools where each arrival is entered once on a phone, sale rates are recorded against the lot, deductions are calculated automatically, and a farmer's slip can be sent on WhatsApp the same evening. Buyers' outstanding amounts and credit limits are visible at a glance.",
+        "As a practical <strong>software team in Modasa</strong>, we build web tools where each arrival is entered once on a phone, sale rates are recorded against the lot, deductions are calculated automatically, and a farmer's slip can be sent on WhatsApp the same evening. Buyers' outstanding amounts and credit limits are visible at a glance.",
         "Tools like this start at ₹60,000 and are built in stages over six to twelve weeks. We start with the arrival and sale register because it removes the most daily friction, then add reports and reminders once your staff are comfortable with it.",
       ],
     },
     {
       id: "gidc-small-industry",
-      heading: "Website development company in Modasa for GIDC units and workshops",
+      heading: "Website development team in Modasa for GIDC units and workshops",
       paragraphs: [
         "Aravalli is not a heavy-industry district, but Modasa has a GIDC estate with its own industries association, and small-scale industry also runs in nearby Dhansura and Bhiloda. Dhansura in particular is known for jaw crusher and vibrating screen manufacturing and plastic stretch film, and Modasa's workshops, fabricators and suppliers are part of the same regional supply chain.",
-        "Buyers for this kind of equipment are spread across Gujarat and beyond, and they check a supplier online before calling. A <strong>website development company in Modasa</strong> should build these sites with the details buyers look for: product ranges with capacities and sizes, machine photographs, materials used, dispatch areas, after-sales service, GST and registration details, and named contact people.",
+        "Buyers for this kind of equipment are spread across Gujarat and beyond, and they check a supplier online before calling. A <strong>website development team in Modasa</strong> should build these sites with the details buyers look for: product ranges with capacities and sizes, machine photographs, materials used, dispatch areas, after-sales service, GST and registration details, and named contact people.",
         "We add a quotation form that accepts drawings or photographs, and a WhatsApp link that opens with the product name filled in. For firms that ship across states, a page on transport and installation support answers questions before they are asked.",
         "A clear product site of up to 100 pages starts at ₹10,000. We never list a client's customers on your site unless those customers have agreed in writing.",
       ],
@@ -108,7 +108,7 @@ const modasa: CityContent = {
       heading: "Android app development in Modasa, and iOS apps for Aravalli businesses",
       paragraphs: [
         "An app makes sense when a known group of people will open it again and again. Around Modasa, good examples are coaching students checking tests, notes and fee dues; village dealers re-ordering stock from a Modasa wholesaler; patients booking tokens at a busy hospital; and parents receiving school notices.",
-        "As an <strong>app development company in Modasa</strong> that works remotely, we build apps in Flutter or React Native, so a single codebase runs on Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users actually need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Modasa</strong> that works remotely, we build apps in Flutter or React Native, so a single codebase runs on Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users actually need, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Modasa</strong> with us starts at ₹40,000. Online fee payment, offline access for weak signal areas in the hilly talukas, video lessons and billing integrations add to the cost, and each is listed on the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If your customers only need an address, timings and a price list, a website does that for a fraction of the cost. We will recommend the website in that case.",
       ],
@@ -135,10 +135,10 @@ const modasa: CityContent = {
     },
     {
       id: "hospitals-shops",
-      heading: "IT company in Modasa for hospitals, clinics and retail shops",
+      heading: "IT services team in Modasa for hospitals, clinics and retail shops",
       paragraphs: [
         "Modasa has large hospitals and many clinics that serve the whole district, including the tribal talukas of Meghraj, Malpur and Bhiloda. For a patient travelling from a village, a wasted trip costs a day's income. Retail shops, from clothing and gold to electronics and farm equipment, serve the same wide catchment on market days and during wedding season.",
-        "An <strong>IT company in Modasa</strong> can make these trips less wasteful. A hospital site should list doctors, specialities, OPD days, lab tests, emergency numbers and directions. A shop site should show categories, brands, timings and a WhatsApp link to check stock. Both should be in Gujarati first.",
+        "An <strong>IT services team in Modasa</strong> can make these trips less wasteful. A hospital site should list doctors, specialities, OPD days, lab tests, emergency numbers and directions. A shop site should show categories, brands, timings and a WhatsApp link to check stock. Both should be in Gujarati first.",
         "We add simple tracking so you can see which pages bring calls and which do not, and remove the ones nobody uses. For hospitals with long queues, a WhatsApp appointment request or a token app can come later, once the basics are working.",
       ],
     },
@@ -229,7 +229,7 @@ const modasa: CityContent = {
         "A simple static site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are those where the owner sends content early.",
     },
     {
-      question: "Which is the best website development company in Modasa?",
+      question: "Which is the best website development team in Modasa?",
       answer:
         "Look for someone who publishes prices, puts the domain and code in your name, stays reachable after launch and can show real work. Ask every provider the same questions and compare written quotes. We meet those tests and reply on WhatsApp seven days a week, but comparing a few options is sensible.",
     },

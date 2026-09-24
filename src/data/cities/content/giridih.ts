@@ -9,7 +9,7 @@ const giridih: CityContent = {
     description:
       "Websites, local SEO, catalogues and WhatsApp automation for Giridih steel and mica firms, Madhuban stays, clinics and Kalibari shops. From ₹10,000.",
     keywords: [
-      "website development company in Giridih",
+      "website development team in Giridih",
       "web design Giridih",
       "website designer Giridih",
       "SEO services Giridih",

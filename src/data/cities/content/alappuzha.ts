@@ -9,7 +9,7 @@ const alappuzha: CityContent = {
     description:
       "Direct-booking sites for houseboats and homestays, coir exporter catalogues, Google Maps work and WhatsApp tools for Alappuzha businesses. Itemised quotes.",
     keywords: [
-      "website development company in Alappuzha",
+      "website development team in Alappuzha",
       "web designer Alleppey",
       "website design Alappuzha Kerala",
       "houseboat website design",

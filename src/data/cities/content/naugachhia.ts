@@ -10,12 +10,12 @@ const naugachhia: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Naugachhia banana traders, maize dealers, clinics, coaching centres and shops.",
     keywords: [
       "IT services in Naugachhia",
-      "IT company in Naugachhia",
-      "website development company in Naugachhia",
+      "IT services team in Naugachhia",
+      "website development team in Naugachhia",
       "web design in Naugachhia",
-      "app development company in Naugachhia",
+      "app development team in Naugachhia",
       "Android app development in Naugachhia",
-      "software company in Naugachhia",
+      "software team in Naugachhia",
       "SEO services in Naugachhia",
       "digital marketing in Naugachhia",
       "ecommerce website in Naugachhia",
@@ -69,26 +69,26 @@ const naugachhia: CityContent = {
       paragraphs: [
         "Naugachhia is the commercial centre for a large stretch of the Kosi plain north of Bhagalpur. Farmers from Bihpur, Gopalpur, Kharik, Narayanpur and Rangra Chowk come here to sell produce, buy seed and fertiliser, see a doctor, admit a child to coaching or pick up a motorcycle part. Since the Vikramshila Setu opened, the town also works closely with Bhagalpur, and many families shuttle across the bridge daily for jobs, study and shopping.",
         "Those customers now search before they travel. A patient wants to know which specialist sits on which day. A student checks batch timings for a competitive exam class. A buyer in Siliguri or Kolkata wants a banana supplier's phone number and loading capacity. When the answer is not online, the enquiry goes to whoever does appear on the screen, which is often a Bhagalpur or Patna business.",
-        "Most requests we receive for <strong>IT services in Naugachhia</strong> are therefore practical: a Hindi website with correct timings and photos, a Google Maps pin that actually points to the shop, WhatsApp replies that do not depend on one tired person, or a simple register that a trader's sons can update from their phones. We are an <strong>IT company in Naugachhia</strong> only in the sense that we serve the town; the work is done remotely by three engineers, and we explain how that works further down this page.",
+        "Most requests we receive for <strong>IT services in Naugachhia</strong> are therefore practical: a Hindi website with correct timings and photos, a Google Maps pin that actually points to the shop, WhatsApp replies that do not depend on one tired person, or a simple register that a trader's sons can update from their phones. We are an <strong>IT services team in Naugachhia</strong> only in the sense that we serve the town; the work is done remotely by three engineers, and we explain how that works further down this page.",
         "Our starting prices are low because we carry no showroom or sales staff. You speak directly with the people who design, code and test your project, and you see every figure in writing before anything is built.",
       ],
     },
     {
       id: "banana-trade-software",
-      heading: "Software company in Naugachhia for banana growers, commission agents and loaders",
+      heading: "Software team in Naugachhia for banana growers, commission agents and loaders",
       paragraphs: [
         "Naugachhia's banana orchards are what most people in Bihar associate with the town, and the region is often called the Kelanchal of the state. The trade behind each lorry is complicated. Agents buy bunches from many small growers, grade them, arrange cutting and loading gangs, hire trucks and send consignments to wholesale markets in other districts and states. Payment usually comes back days later, sometimes partly, and has to be split across growers, labour and transport.",
         "Much of this still lives in paper diaries and memory. When a buyer disputes the weight or quality of a load, or a grower asks why his payment is short, the agent has to reconstruct the details from scattered notes. That is where a small piece of software pays for itself quickly.",
-        "As a <strong>software company in Naugachhia</strong> in the practical sense, we build web-based registers where each purchase is entered once from a phone: grower name, village, number of bunches or weight, grade, rate and advance paid. Dispatches are recorded with vehicle number, driver, destination market and freight. The system then shows what each grower is owed, what each buyer still has to pay, and which trucks made money after freight and labour.",
+        "As a <strong>software team in Naugachhia</strong> in the practical sense, we build web-based registers where each purchase is entered once from a phone: grower name, village, number of bunches or weight, grade, rate and advance paid. Dispatches are recorded with vehicle number, driver, destination market and freight. The system then shows what each grower is owed, what each buyer still has to pay, and which trucks made money after freight and labour.",
         "Custom tools like this start at ₹60,000 and take six to twelve weeks, built in stages so the purchase register is usable first. We keep the screens in Hindi, with large buttons and few fields, because the people entering data are often standing at a loading point with one hand free. Offline entry that syncs later can be added for orchards where the mobile signal drops.",
       ],
     },
     {
       id: "maize-grain-dealers",
-      heading: "Website development company in Naugachhia for maize and grain dealers",
+      heading: "Website development team in Naugachhia for maize and grain dealers",
       paragraphs: [
         "Maize covers the largest share of cultivated land in the Naugachhia subdivision, ahead of wheat, and the yellow maize of this belt travels to feed mills, starch units and poultry farms in other states. That creates a steady business for grain dealers, dryers, warehouse owners, gunny bag suppliers and transporters in and around the town.",
-        "Buyers from outside Bihar often find suppliers through search and trade directories, then check the supplier's own site before calling. A <strong>website development company in Naugachhia</strong> should help a dealer look like the serious operator he is. That means a clear list of commodities handled, typical lot sizes, storage and drying capacity, loading points, GST registration, the areas procured from, and named contact people with direct numbers. Photographs of the actual godown and weighbridge matter more than stock images.",
+        "Buyers from outside Bihar often find suppliers through search and trade directories, then check the supplier's own site before calling. A <strong>website development team in Naugachhia</strong> should help a dealer look like the serious operator he is. That means a clear list of commodities handled, typical lot sizes, storage and drying capacity, loading points, GST registration, the areas procured from, and named contact people with direct numbers. Photographs of the actual godown and weighbridge matter more than stock images.",
         "For dealers who want enquiries rather than just a brochure, we add a quote request form that asks for the commodity, moisture expectation, quantity and delivery location, and sends it straight to WhatsApp. A small page for each season, updated with what is available, keeps repeat buyers coming back without phone calls.",
         "A site like this usually starts at ₹10,000 as a static build. Dealers who want to publish daily rates, stock positions and farmer-facing information in Hindi across many pages move to our SEO website plan, which starts at ₹20,000 and handles 700 or more pages without slowing down.",
       ],
@@ -128,7 +128,7 @@ const naugachhia: CityContent = {
       heading: "Android app development in Naugachhia, with iOS versions for the same users",
       paragraphs: [
         "An app earns its cost when the same people open it again and again. In Naugachhia that includes students of a coaching institute who need timetables, test results and notices; patients of a busy clinic who book tokens; village retailers who reorder seed, fertiliser or FMCG goods from a dealer every week; and banana or maize agents whose field staff record purchases away from the office.",
-        "As an <strong>app development company in Naugachhia</strong> working remotely, we build in Flutter or React Native, so one codebase gives you an Android app and an iPhone app together. A first version normally has mobile number login with OTP, push notifications, the few screens your users actually need, and an admin panel where your staff update content and see activity. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Naugachhia</strong> working remotely, we build in Flutter or React Native, so one codebase gives you an Android app and an iPhone app together. A first version normally has mobile number login with OTP, push notifications, the few screens your users actually need, and an admin panel where your staff update content and see activity. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Naugachhia</strong> with us starts at ₹40,000. The price rises with online payments, offline data entry for weak-signal areas, maps, attendance or fee modules, and links to existing software, and each of these appears as a separate line in the quote. You can read more about scope and process on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many Naugachhia businesses do not need an app at all. If customers only want your address, phone number, timings and a price list, a website does that for a fraction of the cost and needs no download. We will recommend the website in that case, and suggest an app only once you have a group of repeat users who would open it weekly.",
       ],
@@ -235,7 +235,7 @@ const naugachhia: CityContent = {
         "A simple static site is usually live in one to two weeks after we receive your details and photographs. An SEO website of 700+ pages takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Projects move fastest when the owner sends content early.",
     },
     {
-      question: "Which is the best website development company in Naugachhia?",
+      question: "Which is the best website development team in Naugachhia?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, responds after launch and can show real work. Ask each option the same questions and compare the written answers. We meet those tests and reply on WhatsApp every day, but comparing two or three providers is always sensible.",
     },

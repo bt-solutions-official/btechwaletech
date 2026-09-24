@@ -9,7 +9,7 @@ const medinipur: CityContent = {
     description:
       "Websites, Google Maps setup and WhatsApp automation for Midnapore clinics, coaching centres, traders and craft sellers of Paschim Medinipur. From ₹10,000.",
     keywords: [
-      "website development company in Medinipur",
+      "website development team in Medinipur",
       "web designer Midnapore",
       "website design Paschim Medinipur",
       "SEO services Midnapore",

@@ -9,7 +9,7 @@ const dharmavaram: CityContent = {
     description:
       "Websites, saree stores, Telugu SEO and WhatsApp order tools for Dharmavaram silk weavers, master weavers and saree shops. Sites start from ₹10,000.",
     keywords: [
-      "website development company in Dharmavaram",
+      "website development team in Dharmavaram",
       "web designer Dharmavaram",
       "Dharmavaram silk saree website",
       "pattu saree online store Dharmavaram",

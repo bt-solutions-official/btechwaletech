@@ -10,12 +10,12 @@ const sidlaghatta: CityContent = {
       "Websites, Android and iOS apps, Kannada local SEO and WhatsApp tools for Sidlaghatta reelers, twisters, silk traders, rearers, dairies, clinics and schools.",
     keywords: [
       "IT services in Sidlaghatta",
-      "IT company in Sidlaghatta",
-      "website development company in Sidlaghatta",
+      "IT services team in Sidlaghatta",
+      "website development team in Sidlaghatta",
       "web design in Sidlaghatta",
-      "app development company in Sidlaghatta",
+      "app development team in Sidlaghatta",
       "Android app development in Sidlaghatta",
-      "software company in Sidlaghatta",
+      "software team in Sidlaghatta",
       "SEO services in Sidlaghatta",
       "digital marketing in Sidlaghatta",
       "ecommerce website in Sidlaghatta",
@@ -74,19 +74,19 @@ const sidlaghatta: CityContent = {
     },
     {
       id: "reelers-cocoon-market",
-      heading: "Software company in Sidlaghatta for reelers who buy at the cocoon auction",
+      heading: "Software team in Sidlaghatta for reelers who buy at the cocoon auction",
       paragraphs: [
         "The Class I cocoon market in Sidlaghatta runs auctions every day, and on a busy morning tens of tonnes can change hands. A reeler may buy several lots from different farmers, each with its own price, moisture and quality. By evening that money has turned into basins of reeled silk, wages, firewood or fuel, and waste that sells separately.",
-        "Very few units know, lot by lot, how much silk each purchase actually gave them. That number, the rendita, decides whether a week was profitable. As a <strong>software company in Sidlaghatta</strong> we build small web tools for exactly this: record the lot, seller, weight and price at purchase; record silk and waste recovered after reeling; and see cost per kilo of raw silk for each lot, each week and each season.",
+        "Very few units know, lot by lot, how much silk each purchase actually gave them. That number, the rendita, decides whether a week was profitable. As a <strong>software team in Sidlaghatta</strong> we build small web tools for exactly this: record the lot, seller, weight and price at purchase; record silk and waste recovered after reeling; and see cost per kilo of raw silk for each lot, each week and each season.",
         "The same tool can hold worker attendance and piece-rate wages, advance payments, and a simple stock sheet for raw silk waiting to be sold. Entry is designed for a phone held in one hand, in Kannada, because nobody in a reeling shed wants to walk to a computer. Projects of this kind start at ₹60,000 and are delivered in stages over six to twelve weeks, beginning with the purchase register.",
       ],
     },
     {
       id: "twisters-silk-traders",
-      heading: "Website development company in Sidlaghatta for twisting units and raw silk traders",
+      heading: "Website development team in Sidlaghatta for twisting units and raw silk traders",
       paragraphs: [
         "Raw silk leaving Sidlaghatta goes through twisting units and traders before it reaches handloom and powerloom weavers in other states. Those buyers rarely visit. They judge a supplier by reputation, by samples and, more and more, by what they find when they search the name on a phone.",
-        "A <strong>website development company in Sidlaghatta</strong> should give a trader something plain and trustworthy: what counts and types of yarn you supply, twist options, minimum order, how lots are packed and dispatched, GST details, bank details for transfers, and a named person to call. Photographs of the unit and the machines do more than stock images ever will.",
+        "A <strong>website development team in Sidlaghatta</strong> should give a trader something plain and trustworthy: what counts and types of yarn you supply, twist options, minimum order, how lots are packed and dispatched, GST details, bank details for transfers, and a named person to call. Photographs of the unit and the machines do more than stock images ever will.",
         "Traders with regular buyers can add a private rate page that only logged-in customers can see, updated by you each morning, and an order form that captures count, quantity and delivery town. We never publish a buyer's name on your site without that buyer's written permission. A clear catalogue site of this sort starts at ₹10,000; the logged-in rate page is quoted separately.",
       ],
     },
@@ -110,10 +110,10 @@ const sidlaghatta: CityContent = {
     },
     {
       id: "android-ios-apps-sidlaghatta",
-      heading: "App development company in Sidlaghatta: which Android and iOS apps earn their keep",
+      heading: "App development team in Sidlaghatta: which Android and iOS apps earn their keep",
       paragraphs: [
         "Before anyone spends ₹40,000 on an app, it helps to ask who will open it every week. In Sidlaghatta the honest answers are few but real: rearers booking chawki batches from the same centre every season, weavers in other states checking a trader's daily stock and placing orders, parents following a school's notices and fee dues, or a reeling unit's supervisors entering purchases and output from the shed floor.",
-        "As an <strong>app development company in Sidlaghatta</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first release normally has mobile number login, push notifications, the core screens and an admin panel for your office. We publish it on Google Play and the Apple App Store through developer accounts in your own name.",
+        "As an <strong>app development team in Sidlaghatta</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first release normally has mobile number login, push notifications, the core screens and an admin panel for your office. We publish it on Google Play and the Apple App Store through developer accounts in your own name.",
         "<strong>Android app development in Sidlaghatta</strong> starts at ₹40,000. The quote grows only with the features you choose, such as payments, offline entry for sheds with poor signal, photo uploads or a link to your accounting software, and each one appears on its own line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers mainly need your phone number, location and today's rate, a website and a WhatsApp link will do that for far less. We will recommend that route, because an app that people install once and forget helps nobody.",
       ],
@@ -129,10 +129,10 @@ const sidlaghatta: CityContent = {
     },
     {
       id: "schools-clinics-shops",
-      heading: "IT company in Sidlaghatta for schools, PU colleges, clinics and town shops",
+      heading: "IT services team in Sidlaghatta for schools, PU colleges, clinics and town shops",
       paragraphs: [
         "The town has a government first grade college, several PU colleges and private schools, and families from the taluk's villages send children here to study. Clinics, nursing homes and diagnostic labs serve the same catchment, and shops around Kote Circle and the main roads sell cloth, gold, electronics, hardware and farm supplies.",
-        "For these customers an <strong>IT company in Sidlaghatta</strong> is mostly useful for cutting out wasted trips. A school site should show admission dates, classes offered, transport routes and fee payment steps. A clinic page should list doctors, OPD timings, the days a visiting specialist comes, and an emergency number that is actually answered. A shop page needs categories, brands, timings and a price-check button on WhatsApp.",
+        "For these customers an <strong>IT services team in Sidlaghatta</strong> is mostly useful for cutting out wasted trips. A school site should show admission dates, classes offered, transport routes and fee payment steps. A clinic page should list doctors, OPD timings, the days a visiting specialist comes, and an emergency number that is actually answered. A shop page needs categories, brands, timings and a price-check button on WhatsApp.",
         "Pages are built Kannada-first with English alongside, and Urdu or Telugu where your customers need it. Each page links to your Google listing and tracks calls so you can see what works. Simple sites of this kind start at ₹10,000 and are usually live within a fortnight once you send photos and details.",
       ],
     },
@@ -237,7 +237,7 @@ const sidlaghatta: CityContent = {
         "A simple site is usually live one to two weeks after we receive your photos, timings and details. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Who is the best website development company in Sidlaghatta?",
+      question: "Who is the best website development team in Sidlaghatta?",
       answer:
         "The best choice is a provider who publishes starting prices, registers the domain and code in your name, answers after launch and shows real work. Ask each option the same questions. We meet those tests and reply on WhatsApp every day, but comparing two or three providers before deciding is wise.",
     },

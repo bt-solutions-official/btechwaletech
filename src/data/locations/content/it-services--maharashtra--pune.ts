@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Pune for SaaS MVPs, supplier systems, AI agents, dashboards and Android and iOS apps. Apps from ₹40,000, quote in 2 days.",
     keywords: [
-      "software development company in Pune",
-      "IT company in Pune",
+      "software development team in Pune",
+      "IT services team in Pune",
       "IT solutions Pune",
       "freelance software developer Pune",
       "custom software development Pune",
@@ -34,11 +34,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Pune, Maharashtra",
     h1: "Freelance software developers in Pune for SaaS MVPs, AI agents, dashboards and apps",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Pune founders, Chakan and Bhosari suppliers, IT service SMEs, institutes and PG operators hire us instead of a software development company in Pune to build SaaS MVPs, traceability systems, AI agents, dashboards and Android and iOS apps, with cloud setup and SEO included.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Pune founders, Chakan and Bhosari suppliers, IT service SMEs, institutes and PG operators hire us instead of a software development team in Pune to build SaaS MVPs, traceability systems, AI agents, dashboards and Android and iOS apps, with cloud setup and SEO included.",
     pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Dashboards and BI", "5 months free maintenance"],
   },
   quickAnswer:
-    "Instead of a software development company in Pune, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000, with an itemised quote in about two working days.",
+    "Instead of a software development team in Pune, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000, with an itemised quote in about two working days.",
   snapshot: [
     { label: "IT corridors", value: "Rajiv Gandhi Infotech Park in Hinjewadi, EON IT Park in Kharadi, Magarpatta City and Baner–Balewadi offices" },
     { label: "Home-grown tech firms", value: "Pune is headquarters to large software and engineering firms such as Persistent Systems and KPIT Technologies" },
@@ -67,9 +67,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-pune",
-      heading: "Freelance software developers vs a software development company in Pune",
+      heading: "Freelance software developers vs a software development team in Pune",
       paragraphs: [
-        "Choose a freelance group in Pune when you need a focused product or system, direct access to the engineers, and a budget measured in tens of thousands or a few lakhs; choose a software development company in Pune when you need a large team, formal delivery governance, security certifications or a multi-year contract. Pune has excellent options in both categories.",
+        "Choose a freelance group in Pune when you need a focused product or system, direct access to the engineers, and a budget measured in tens of thousands or a few lakhs; choose a software development team in Pune when you need a large team, formal delivery governance, security certifications or a multi-year contract. Pune has excellent options in both categories.",
         "The city is home to large engineering firms such as Persistent Systems and KPIT and to hundreds of mid-sized IT services companies, many serving overseas clients. Those firms are designed around big engagements. A founder testing an idea, a Bhosari supplier needing a traceability tool, or an institute wanting an admissions system often finds the minimum engagement too large or the priority too low.",
         "BtechWaleTech is three engineers who write the code themselves, scope tightly, and hand over every repository and cloud account. We are not a substitute for a 50-person delivery centre, and we will say so if your requirement needs one.",
       ],
@@ -271,9 +271,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a Pune software development company?",
+      question: "Are you a Pune software development team?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Pune. Pune clients work with us over video calls, WhatsApp and phone, and speak directly to the engineers who write and support their software.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Pune. Pune clients work with us over video calls, WhatsApp and phone, and speak directly to the engineers who write and support their software.",
     },
     {
       question: "How do Pune clients pay?",

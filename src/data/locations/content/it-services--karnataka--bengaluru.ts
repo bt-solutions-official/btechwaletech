@@ -7,24 +7,24 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Bengaluru",
     description:
-      "Freelance software developers for Bengaluru, a lean alternative to a software development company in Bengaluru: web apps, AI agents, dashboards. From ₹60,000.",
+      "Freelance software developers for Bengaluru, a lean alternative to a software development team in Bengaluru: web apps, AI agents, dashboards. From ₹60,000.",
     keywords: [
       "Android app development Bengaluru",
       "iOS app development Bengaluru",
       "iPhone app developers Bangalore",
-      "software development company in Bengaluru",
-      "IT company in Bengaluru",
+      "software development team in Bengaluru",
+      "IT services team in Bengaluru",
       "IT solutions Bengaluru",
       "custom software development Bangalore",
       "web application development Bengaluru",
       "MVP development company Bangalore",
       "AI agent development Bengaluru",
-      "AI automation company Bangalore",
+      "AI automation team Bangalore",
       "SaaS development Bengaluru startup",
       "dashboard development Bangalore",
       "cloud deployment and DevOps Bengaluru",
       "mobile app and PWA developers Bangalore",
-      "software company near me Koramangala",
+      "software team near me Koramangala",
       "IT services near me Whitefield",
       "ERP and inventory software Peenya",
       "WhatsApp CRM automation Bangalore",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Bengaluru, Karnataka",
     h1: "Hire freelance software developers in Bengaluru who ship working products",
     lede:
-      "Comparing a software development company in Bengaluru with hiring freelancers? BtechWaleTech is a freelance group of three engineers working remotely from India who build custom software, internal tools, AI agents, dashboards, mobile-ready apps and the cloud setup that runs them. Bengaluru founders, plant owners and service firms hire us when they need working software in weeks, a written scope, and engineers they can message directly.",
+      "Comparing a software development team in Bengaluru with hiring freelancers? BtechWaleTech is a freelance group of three engineers working remotely from India who build custom software, internal tools, AI agents, dashboards, mobile-ready apps and the cloud setup that runs them. Bengaluru founders, plant owners and service firms hire us when they need working software in weeks, a written scope, and engineers they can message directly.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "Dashboards on your data", "Cloud and CI/CD setup", "Code and repos handed over"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers, a lean alternative to a software development company in Bengaluru: custom web apps start at ₹60,000 and usually take 6 to 12 weeks; AI automation starts at ₹40,000 over 2 to 4 weeks, and websites from ₹10,000. We work remotely from India, with no Bengaluru office, and you get an itemised quote in about two working days.",
+    "BtechWaleTech is a freelance group of three engineers, a lean alternative to a software development team in Bengaluru: custom web apps start at ₹60,000 and usually take 6 to 12 weeks; AI automation starts at ₹40,000 over 2 to 4 weeks, and websites from ₹10,000. We work remotely from India, with no Bengaluru office, and you get an itemised quote in about two working days.",
   snapshot: [
     { label: "Tech corridors", value: "Outer Ring Road (Marathahalli to Hebbal), Whitefield and ITPL, Electronic City, Manyata Tech Park and Bagmane Tech Park" },
     { label: "Startup districts", value: "Koramangala, HSR Layout, Indiranagar, BTM Layout and JP Nagar, dense with early-stage product companies" },
@@ -70,9 +70,9 @@ const content: CityContent = {
   sections: [
     {
       id: "what-a-software-company-should-deliver",
-      heading: "What should a software development company or freelance team in Bengaluru deliver?",
+      heading: "What should a software development team or freelance team in Bengaluru deliver?",
       paragraphs: [
-        "A software development company in Bengaluru should deliver working software that your team uses every day, plus the code, documentation and cloud access to keep it running without them. Slides, wireframes and a long discovery phase are only useful if they end in a deployed product with real users logging in.",
+        "A software development team in Bengaluru should deliver working software that your team uses every day, plus the code, documentation and cloud access to keep it running without them. Slides, wireframes and a long discovery phase are only useful if they end in a deployed product with real users logging in.",
         "In a city with thousands of IT firms, the useful filter is not size but fit. A seed-stage founder in HSR Layout needs an MVP that can be demoed to investors in two months. A precision parts maker in Peenya needs a job-card system that replaces a register and three WhatsApp groups. A clinic chain in Jayanagar needs appointment booking tied to reminders. Each of these is a different project, and a good partner says clearly which parts it can do well.",
         "As a freelance group, our own scope covers <a href='/services/'>the full set of IT services</a> a small or mid-sized business needs: custom web applications, internal tools, AI automation and agents, WhatsApp and CRM workflows, analytics dashboards, mobile-first apps, cloud hosting and deployment, SEO, ecommerce and ongoing support. We are three engineers, working remotely, and the people you speak to are the people writing the code.",
         "What we do not do is equally worth stating. We do not run large staff-augmentation contracts, we do not sit inside your office, and we do not promise search rankings. We keep projects small enough to finish properly.",
@@ -80,14 +80,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-team-vs-software-company",
-      heading: "Freelance team vs a software development company in Bengaluru: which should you hire?",
+      heading: "Freelance team vs a software development team in Bengaluru: which should you hire?",
       paragraphs: [
-        "Hire a software development company in Bengaluru when you need dozens of engineers, formal delivery managers and round-the-clock support contracts; hire a freelance team when the scope is a focused product, tool or automation and you want to talk to the people who write the code. Most small businesses and early startups fall into the second group.",
+        "Hire a software development team in Bengaluru when you need dozens of engineers, formal delivery managers and round-the-clock support contracts; hire a freelance team when the scope is a focused product, tool or automation and you want to talk to the people who write the code. Most small businesses and early startups fall into the second group.",
         "A freelance group like BtechWaleTech has no sales layer, no office lease on the ORR and no bench of idle staff to fund, so starting prices stay lower and decisions move faster. The trade-off is capacity: three engineers cannot staff a hundred-person programme, and we say so upfront rather than subcontracting quietly.",
       ],
       list: [
         "Freelance team: direct access to engineers, lower overhead, faster changes, limited headcount",
-        "Software company: larger capacity, layered management, higher day rates, slower decisions",
+        "Software team: larger capacity, layered management, higher day rates, slower decisions",
         "Either way: insist on written scope, milestone billing and code in your own repository",
       ],
     },
@@ -209,7 +209,7 @@ const content: CityContent = {
     },
     {
       id: "software-cost-guide-bengaluru",
-      heading: "How much does a software development company in Bengaluru charge?",
+      heading: "How much does a software development team in Bengaluru charge?",
       paragraphs: [
         "Custom software in Bengaluru costs whatever its scope demands, but with us the starting points are clear: websites from ₹10,000, 700+ page SEO websites from ₹20,000, AI automation and Android and iOS apps from ₹40,000, ecommerce stores from ₹50,000 and custom web apps or software from ₹60,000. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000. The full breakdown is on our <a href='/pricing/'>pricing page</a>.",
         "What pushes a quote up is predictable: the number of user roles, the number of screens and reports, third-party integrations, data migration from old systems, offline or real-time features, and how much content or design material you already have. What keeps it down is a tight first version and fast decisions on your side.",
@@ -218,9 +218,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-an-it-company-bengaluru",
-      heading: "How to choose a software development company in Bengaluru, and red flags to avoid",
+      heading: "How to choose a software development team in Bengaluru, and red flags to avoid",
       paragraphs: [
-        "Choose an IT company in Bengaluru by checking who will write your code, who will own it, and how progress is shown, before comparing prices. A low quote from a vendor that keeps your repository or disappears after launch is the most expensive option in the end.",
+        "Choose an IT services team in Bengaluru by checking who will write your code, who will own it, and how progress is shown, before comparing prices. A low quote from a vendor that keeps your repository or disappears after launch is the most expensive option in the end.",
         "Ask to talk to the engineers, not only a sales lead. Ask for a written scope with what is included and what is not. Confirm that the repository, domain, hosting and third-party accounts will be in your name. Ask how you will see progress; we share a live staging link rather than static screenshots. And ask what happens in month six when something breaks.",
       ],
       list: [
@@ -272,7 +272,7 @@ const content: CityContent = {
     { question: "Do you sign an NDA or work under our contracts?", answer: "Yes. Many Bengaluru founders ask for a mutual NDA before sharing product details, and we are happy to sign one. We can also work under your standard services agreement, provided the payment terms reflect milestone billing by UPI or bank transfer and the IP assignment clause is clear. Our default is that all project IP belongs to you." },
     { question: "Can you work alongside our in-house developers?", answer: "Yes. We regularly work in a client's repository, follow their branching and review rules, and pick up well-defined modules such as an admin panel, an integration or an automation pipeline. Your team stays in charge of architecture decisions, and we document everything we touch so knowledge stays inside your company after our part ends." },
     { question: "Which technologies do you use for custom software?", answer: "We prefer widely used, well-supported tools: TypeScript and JavaScript, Node.js or Python on the server, React or Astro on the front end, PostgreSQL or MySQL for data, and mainstream cloud platforms for hosting. Popular stacks make hiring and handover easier in Bengaluru's market. If your team already uses a different stack, we will discuss whether to follow it." },
-    { question: "Which is the best software development company in Bengaluru?", answer: "There is no single best one; the right software development company in Bengaluru depends on your budget, project size and how involved you want to be. Large firms suit enterprise programmes with big teams. Small teams like ours suit MVPs, internal tools and automation where you want to talk to the engineers directly. Compare written scopes, ownership terms and live past work before deciding." },
+    { question: "Which is the best software development team in Bengaluru?", answer: "There is no single best one; the right software development team in Bengaluru depends on your budget, project size and how involved you want to be. Large firms suit enterprise programmes with big teams. Small teams like ours suit MVPs, internal tools and automation where you want to talk to the engineers directly. Compare written scopes, ownership terms and live past work before deciding." },
     { question: "Do you build ERP or CRM software for Bengaluru companies?", answer: "Yes, in a focused form. Rather than a full ERP suite, we usually build the modules a business actually uses, such as orders, inventory, purchase, dispatch, customer records and sales pipelines, and connect them to Tally, Zoho or Google Sheets. This keeps cost near our ₹60,000 custom software starting price and avoids licences for features nobody opens." },
   ],
   nearby: ["mysore", "tumkur", "mandya", "kolar", "robertson-pet", "hubli-dharwad", "mangaluru", "davanagere", "shivamogga"],

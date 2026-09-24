@@ -9,7 +9,7 @@ const phusro: CityContent = {
     description:
       "Websites, Google Maps listings, contractor profiles and WhatsApp tools for Phusro, Bermo, Dhori and Kathara shops, clinics, schools and coalfield suppliers.",
     keywords: [
-      "website development company in Phusro",
+      "website development team in Phusro",
       "web designer Phusro",
       "website design Bermo",
       "website design Bokaro district",

@@ -9,7 +9,7 @@ const machilipatnam: CityContent = {
     description:
       "Websites, SEO and online stores for Machilipatnam imitation jewellery makers, Pedana Kalamkari units, aqua traders, colleges and shops. Sites from ₹10,000.",
     keywords: [
-      "website development company in Machilipatnam",
+      "website development team in Machilipatnam",
       "web designer Machilipatnam",
       "website design Bandar",
       "SEO services Machilipatnam",

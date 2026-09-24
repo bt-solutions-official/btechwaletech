@@ -10,12 +10,12 @@ const rajauri: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Rajouri traders, walnut and Kalari sellers, Mughal Road hotels, colleges and clinics.",
     keywords: [
       "IT services in Rajouri",
-      "IT company in Rajouri",
-      "website development company in Rajouri",
+      "IT services team in Rajouri",
+      "website development team in Rajouri",
       "web design in Rajouri",
-      "app development company in Rajouri",
+      "app development team in Rajouri",
       "Android app development in Rajouri",
-      "software company in Rajouri",
+      "software team in Rajouri",
       "SEO services in Rajouri",
       "digital marketing in Rajouri",
       "ecommerce website in Rajouri",
@@ -75,10 +75,10 @@ const rajauri: CityContent = {
     },
     {
       id: "main-bazar-gujjar-mandi-traders",
-      heading: "Website development company in Rajouri for Main Bazar and Gujjar Mandi traders",
+      heading: "Website development team in Rajouri for Main Bazar and Gujjar Mandi traders",
       paragraphs: [
         "Rajouri's shops serve far more people than the town's roughly forty thousand residents. Dealers in cement, steel, hardware, cloth, groceries and mobile phones supply retailers across the tehsils, while the offices around Gujjar Mandi bring a steady stream of visitors who shop before heading home. Plenty of these businesses have run for decades on reputation and a phone number painted on the shutter.",
-        "As a <strong>website development company in Rajouri</strong>, we keep trader sites practical. That means a catalogue by category showing the brands you really stock, a rate list you can edit yourself, minimum order quantities for retailers, delivery days to each tehsil, GST details, and a WhatsApp button that opens a chat with the product already named. Photographs of your godown and counter matter more than stock images, because buyers want to see that the shop is real.",
+        "As a <strong>website development team in Rajouri</strong>, we keep trader sites practical. That means a catalogue by category showing the brands you really stock, a rate list you can edit yourself, minimum order quantities for retailers, delivery days to each tehsil, GST details, and a WhatsApp button that opens a chat with the product already named. Photographs of your godown and counter matter more than stock images, because buyers want to see that the shop is real.",
         "For a retailer with a few hundred products, a static site of up to 100 pages is often enough, starting at ₹10,000. Dealers who want retailers to log in and place repeat orders need a small web app instead, which we quote separately. Either way, the pages are tested on inexpensive Android phones on a weak connection, since that is how most of your buyers will open them. More on our <a href=\"/services/web-development/\">web development work</a>.",
       ],
     },
@@ -93,10 +93,10 @@ const rajauri: CityContent = {
     },
     {
       id: "kheora-workshops-software",
-      heading: "Software company in Rajouri for Kheora workshops, fabricators and service trades",
+      heading: "Software team in Rajouri for Kheora workshops, fabricators and service trades",
       paragraphs: [
         "The district's industry is small and heavily service-based. The MSME ministry's industrial profile of Rajouri records a government industrial estate at Kheora with 54 allotted plots, and lists repair and servicing units as by far the largest group, followed by readymade garments and embroidery, agro-based units, steel fabrication and wooden furniture. Its list of promising new units includes food processing, mineral water, farm tools and steel almirahs.",
-        "Firms like these lose money in the gaps: a vehicle job card nobody closes, a fabrication order quoted on paper and forgotten, spare parts issued without a record, or advances to workers that never get reconciled. As a <strong>software company in Rajouri</strong> in the plain sense of the term, we build browser-based tools that close those gaps. A workshop gets job cards with photographs and estimates the customer approves on WhatsApp; a fabricator gets quotation, order and delivery tracking; a furniture maker gets a catalogue with made-to-order status.",
+        "Firms like these lose money in the gaps: a vehicle job card nobody closes, a fabrication order quoted on paper and forgotten, spare parts issued without a record, or advances to workers that never get reconciled. As a <strong>software team in Rajouri</strong> in the plain sense of the term, we build browser-based tools that close those gaps. A workshop gets job cards with photographs and estimates the customer approves on WhatsApp; a fabricator gets quotation, order and delivery tracking; a furniture maker gets a catalogue with made-to-order status.",
         "Custom software starts at ₹60,000 and arrives in phases across six to twelve weeks, beginning with whichever register hurts most when it goes wrong. Everything runs in a browser, so the owner can check figures from home while staff update jobs from the shop floor.",
       ],
     },
@@ -132,7 +132,7 @@ const rajauri: CityContent = {
       heading: "Android app development in Rajouri: when an app beats a website",
       paragraphs: [
         "An app earns its keep when the same people return to it every week. In Rajouri that might be a dealer whose retailers in Kalakote, Nowshera and Thanamandi reorder stock, a coaching institute sending test schedules and marks to students and parents, a transporter whose drivers log trips on the highway, or a diagnostic lab letting patients download reports instead of making a second trip into town.",
-        "As an <strong>app development company in Rajouri</strong> that works remotely, we build in Flutter or React Native, which produces an Android app and an iPhone app from one codebase. A typical first release has OTP login, push notifications, the four or five screens your users truly need, and a web admin panel for your staff. It goes live on Google Play and the Apple App Store through developer accounts opened in your name, so the listing remains yours even if you change developers later.",
+        "As an <strong>app development team in Rajouri</strong> that works remotely, we build in Flutter or React Native, which produces an Android app and an iPhone app from one codebase. A typical first release has OTP login, push notifications, the four or five screens your users truly need, and a web admin panel for your staff. It goes live on Google Play and the Apple App Store through developer accounts opened in your name, so the listing remains yours even if you change developers later.",
         "<strong>Android app development in Rajouri</strong> with us starts at ₹40,000. The quote rises only with features you pick, such as offline mode for places where the network drops, online payment, maps, or a link to your billing software, and each shows up as its own line. See <a href=\"/it-services/android-ios-app/\">how we build Android and iOS apps</a> for more.",
         "A lab or shop whose customers only want the address, hours and rate card is better served by a website, which costs far less and appears in Google search. Apps that get installed once and never opened again are money spent for nothing, so we say this before quoting.",
       ],
@@ -157,10 +157,10 @@ const rajauri: CityContent = {
     },
     {
       id: "transport-contractors-rajouri",
-      heading: "IT company in Rajouri for transporters, contractors and the Kalakote belt",
+      heading: "IT services team in Rajouri for transporters, contractors and the Kalakote belt",
       paragraphs: [
         "Rajouri lies on NH 144A, the highway linking Jammu with Poonch, and a large share of local business moves along it: goods carriers, passenger taxis, contractors building roads and public works, and suppliers of sand, aggregate and cement. Kalakote tehsil has coal mines recorded in the district's mineral data, and the trucking and contracting around them follow the same pattern of trips, advances and late payments.",
-        "An <strong>IT company in Rajouri</strong> is only useful to this trade if it cuts paperwork. We build trip registers where each load is entered once from a phone with vehicle number, route, quantity, rate and advance; running balances per vehicle, driver and client; reminders before permit, fitness and insurance papers expire; and a monthly statement that can be shared as a PDF. Contractors get measurement and bill tracking against each work order, with site photographs attached.",
+        "An <strong>IT services team in Rajouri</strong> is only useful to this trade if it cuts paperwork. We build trip registers where each load is entered once from a phone with vehicle number, route, quantity, rate and advance; running balances per vehicle, driver and client; reminders before permit, fitness and insurance papers expire; and a monthly statement that can be shared as a PDF. Contractors get measurement and bill tracking against each work order, with site photographs attached.",
         "Tools like these start at ₹60,000 as custom software. For a fleet of three or four vehicles we sometimes suggest something lighter, a Google Sheet with a simple form in front of it, and we explain the trade-off plainly so you can choose.",
       ],
     },
@@ -233,7 +233,7 @@ const rajauri: CityContent = {
         "A static site for a shop, clinic or institute usually takes one to two weeks once we have your text and photographs. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting on content, so sending it early helps most.",
     },
     {
-      question: "Which is the best IT company in Rajouri for a small business?",
+      question: "Which is the best IT services team in Rajouri for a small business?",
       answer:
         "Judge any provider on the same tests: published prices, the domain and code registered to you, examples of real work, and replies after launch. We meet those and answer on WhatsApp seven days a week, but comparing two or three options with identical questions before choosing is simply good sense.",
     },

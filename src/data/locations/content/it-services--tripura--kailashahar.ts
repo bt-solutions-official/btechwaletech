@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance developers for Kailashahar and Unakoti: tea estate software, apps, AI automation, heritage tourism sites and SEO. Websites from ₹10,000.",
     keywords: [
-      "software development company in Kailashahar",
-      "IT company in Kailashahar",
+      "software development team in Kailashahar",
+      "IT services team in Kailashahar",
       "IT solutions Kailashahar",
       "freelance developer Kailashahar",
       "tea estate management software Tripura",
@@ -93,11 +93,11 @@ const content: CityContent = {
     },
     {
       id: "kailashahar-freelance-vs-company",
-      heading: "Freelance developers or an IT company for Kailashahar projects?",
+      heading: "Freelance developers or an IT services team for Kailashahar projects?",
       paragraphs: [
-        "A freelance group suits most Kailashahar projects, such as one estate system, one trader's billing tool or one guesthouse website, because you get direct access to the builders at lower cost. An IT company with larger staff is better for multi-site rollouts, formal procurement or daily on-site support, which few Kailashahar businesses need.",
-        "Search results for an IT company in Kailashahar mostly show providers based in Agartala or outside Tripura, so remote work is likely whichever route you take. The real difference is whether your messages reach the engineers or an account manager. With BtechWaleTech, you talk to the three people who write the code.",
-        "We are open about what we are and are not. We are a freelance group, not a company, and we do not sell computers, fix hardware or lay network cables. What we do offer is careful work on software, websites and automation, published starting prices, and ownership of everything in your name.",
+        "A freelance group suits most Kailashahar projects, such as one estate system, one trader's billing tool or one guesthouse website, because you get direct access to the builders at lower cost. An IT services team with larger staff is better for multi-site rollouts, formal procurement or daily on-site support, which few Kailashahar businesses need.",
+        "Search results for an IT services team in Kailashahar mostly show providers based in Agartala or outside Tripura, so remote work is likely whichever route you take. The real difference is whether your messages reach the engineers or an account manager. With BtechWaleTech, you talk to the three people who write the code.",
+        "We are open about what we are and are not. We are a small freelance group of software developers, and we do not sell computers, fix hardware or lay network cables. What we do offer is careful work on software, websites and automation, published starting prices, and ownership of everything in your name.",
       ],
     },
     {

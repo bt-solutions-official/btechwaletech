@@ -10,12 +10,12 @@ const bargarh: CityContent = {
       "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Bargarh rice mills, Sambalpuri weavers, traders, clinics and colleges.",
     keywords: [
       "IT services in Bargarh",
-      "IT company in Bargarh",
-      "website development company in Bargarh",
+      "IT services team in Bargarh",
+      "website development team in Bargarh",
       "web design in Bargarh",
-      "app development company in Bargarh",
+      "app development team in Bargarh",
       "Android app development in Bargarh",
-      "software company in Bargarh",
+      "software team in Bargarh",
       "SEO services in Bargarh",
       "digital marketing in Bargarh",
       "ecommerce website in Bargarh",
@@ -70,16 +70,16 @@ const bargarh: CityContent = {
         "Bargarh is a farming town first. The Hirakud canal system waters a wide stretch of the district, and the paddy harvest shapes the calendar for millers, commission agents, transporters, fertiliser dealers, tractor showrooms and the shops that serve farming families. Around that sit hospitals, colleges, coaching centres and a busy retail market that draws buyers from Attabira, Bheden, Bhatli, Sohela and Barpali.",
         "Requests for <strong>IT services in Bargarh</strong> are usually direct. A mill owner wants cleaner paddy and dispatch records. A weaver family wants to sell saris outside Odisha without middlemen. A hospital wants patients from villages to know the doctors' OPD days before they travel. A trader wants orders on WhatsApp to stop getting lost. We handle these as a remote team of three: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation.",
         "We do not have an office in Bargarh, and we will not pretend to. The work runs over WhatsApp, calls and screen shares, with written plans at each step, so you never need to travel to Sambalpur or Bhubaneswar for a meeting.",
-        "If you have been searching for an <strong>IT company in Bargarh</strong> and are unsure where to start, a short WhatsApp message describing your business is enough. We will tell you which single step will help most.",
+        "If you have been searching for an <strong>IT services team in Bargarh</strong> and are unsure where to start, a short WhatsApp message describing your business is enough. We will tell you which single step will help most.",
       ],
     },
     {
       id: "rice-mill-software-bargarh",
-      heading: "Software company in Bargarh for rice mills: paddy, outturn and dispatch",
+      heading: "Software team in Bargarh for rice mills: paddy, outturn and dispatch",
       paragraphs: [
         "Bargarh district produces a large share of Odisha's rice, and its mill cluster, most of it small and medium units, processes paddy largely into parboiled rice. Each kharif and rabi season brings a surge of work: paddy arriving by tractor and truck, moisture and quality checks, lot-wise storage, soaking, drying, milling, bran and husk sales, and rice dispatched to buyers and government procurement.",
         "Much of this is still tracked in registers and spreadsheets that only one person understands. Owners struggle to see, at a glance, how much paddy came in from which society or agent, the outturn per lot, what stock sits in each godown, and which payments are still pending. When the accountant is away, the whole picture goes with him.",
-        "For owners looking for a <strong>software company in Bargarh</strong> to fix this, we build web tools that run on a phone and a desktop. Each truck is entered once with vehicle number, weighbridge slip, bags and weight. Lots move through soaking, drying and milling with dates, and outturn is calculated automatically. By-product sales, dispatch challans, dues by buyer and document expiry alerts sit on the same screen.",
+        "For owners looking for a <strong>software team in Bargarh</strong> to fix this, we build web tools that run on a phone and a desktop. Each truck is entered once with vehicle number, weighbridge slip, bags and weight. Lots move through soaking, drying and milling with dates, and outturn is calculated automatically. By-product sales, dispatch challans, dues by buyer and document expiry alerts sit on the same screen.",
         "Custom mill software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the paddy intake and stock register, because it pays back fastest, and add milling and dispatch modules once your staff are comfortable. Work can be timed for the off-season so nothing changes in the middle of procurement.",
       ],
     },
@@ -95,10 +95,10 @@ const bargarh: CityContent = {
     },
     {
       id: "traders-mandi-bargarh",
-      heading: "Website development company in Bargarh for traders, dealers and the vegetable market",
+      heading: "Website development team in Bargarh for traders, dealers and the vegetable market",
       paragraphs: [
         "Beyond rice, Bargarh is a trading town. The wholesale vegetable market at Painchhatar supplies retailers well beyond the district, and the town has dealers in fertiliser, seed, pesticides, tractors, pumps, cement, hardware, electronics and clothing. Many of these businesses have served the same villages for decades, and much of their business is on credit.",
-        "A <strong>website development company in Bargarh</strong> should build for how these traders actually sell. For a dealer, that means a clear site listing brands carried, categories in stock, service facilities, delivery areas and a WhatsApp button for price checks. For a vegetable commission agent, a simple daily rate page that the owner can update from his phone often does more than a full website.",
+        "A <strong>website development team in Bargarh</strong> should build for how these traders actually sell. For a dealer, that means a clear site listing brands carried, categories in stock, service facilities, delivery areas and a WhatsApp button for price checks. For a vegetable commission agent, a simple daily rate page that the owner can update from his phone often does more than a full website.",
         "Where credit is involved, a website is only half the job. We build billing and stock tools that record sales by retailer, track outstanding amounts, send polite WhatsApp payment reminders and show which products are moving. These connect with the records you already keep rather than forcing everyone to change habits overnight.",
         "Cement and construction material suppliers, a natural fit given the ACC works at Bardol, benefit from a quote request form that asks for product, quantity and site location, so enquiries arrive complete.",
       ],
@@ -128,7 +128,7 @@ const bargarh: CityContent = {
       heading: "Android app development in Bargarh, and iOS apps for local firms",
       paragraphs: [
         "An app is worth the money when a defined group uses it every day or every week. In Bargarh, good examples are a rice mill whose supervisors log paddy lots and moisture readings from the yard, a fertiliser dealer taking orders from village retailers, a handloom house whose regular buyers want first look at new saris, a coaching centre sending tests and notices to students, or a hospital issuing appointment tokens.",
-        "As an <strong>app development company in Bargarh</strong> that works remotely, we build apps in Flutter or React Native, so one codebase runs on Android and iPhone. A first version normally has mobile number login, push notifications, the essential screens and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Bargarh</strong> that works remotely, we build apps in Flutter or React Native, so one codebase runs on Android and iPhone. A first version normally has mobile number login, push notifications, the essential screens and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Bargarh</strong> starts at ₹40,000 with us. The price grows with offline entry for mill yards and villages with weak signal, online payment, maps, multiple user roles or links to your accounting data, and each appears separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If your customers only need your address, phone number, timings and a price list, a website and map listing do the job at a quarter of the cost. We will recommend that, because an app nobody opens after the first week is money gone.",
       ],
@@ -238,7 +238,7 @@ const bargarh: CityContent = {
         "A static site usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick approvals and ready content make the biggest difference to timing.",
     },
     {
-      question: "Which is the best website development company in Bargarh?",
+      question: "Which is the best website development team in Bargarh?",
       answer:
         "Compare providers on published prices, whether the domain and code are registered in your name, real past work and support after launch. Ask each one the same questions. We meet those tests and reply on WhatsApp seven days a week, but speaking to two or three options before deciding is wise.",
     },

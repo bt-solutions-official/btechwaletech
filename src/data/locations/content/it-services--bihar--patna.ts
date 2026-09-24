@@ -9,19 +9,19 @@ const content: CityContent = {
     description:
       "Freelance software developers for Patna: custom software, web and mobile apps, AI automation and SEO. Three remote engineers, 5 months free support.",
     keywords: [
-      "software development company in Patna",
-      "IT company in Patna",
+      "software development team in Patna",
+      "IT services team in Patna",
       "IT solutions Patna",
       "custom software development Patna",
       "web application development Patna",
-      "mobile app development company Patna",
+      "mobile app development team Patna",
       "AI automation Patna",
       "WhatsApp automation for business Patna",
       "coaching institute software Patna",
       "clinic management software Patna",
       "business dashboard development Patna",
-      "software company near me Patna",
-      "IT company near Boring Road Patna",
+      "software team near me Patna",
+      "IT services team near Boring Road Patna",
       "software developer Kankarbagh",
       "cloud hosting and deployment Patna",
       "SEO services Patna",
@@ -73,9 +73,9 @@ const content: CityContent = {
   sections: [
     {
       id: "what-we-build-in-patna",
-      heading: "Freelance developers or a software development company in Patna: what should get built?",
+      heading: "Freelance developers or a software development team in Patna: what should get built?",
       paragraphs: [
-        "Whether you hire a software development company in Patna or a freelance group like ours, the work should be the tools that run your business day to day, not only a brochure website. For us that means custom web applications, admin panels, mobile apps, AI assistants, automated WhatsApp and CRM flows, reporting dashboards and the cloud hosting that keeps them online. A website is often part of the job, but it is rarely the whole of it.",
+        "Whether you hire a software development team in Patna or a freelance group like ours, the work should be the tools that run your business day to day, not only a brochure website. For us that means custom web applications, admin panels, mobile apps, AI assistants, automated WhatsApp and CRM flows, reporting dashboards and the cloud hosting that keeps them online. A website is often part of the job, but it is rarely the whole of it.",
         "The requests we see from Bihar's capital fall into a few patterns. Coaching institutes want admission forms, batch allocation, fee reminders and test-result portals. Clinics and diagnostic centres want appointment booking and report downloads. Wholesalers in Patna City want dealers to place orders from a phone instead of calling at 7 am. Real estate developers along Bailey Road and Saguna More want a lead tracker that shows which channel sold which flat.",
         "Each of these is a small piece of custom software, sized to one organisation. We plan the screens with you, build in short cycles, show working versions every week or two and deploy on hosting that you own. You can see how we approach projects on the <a href='/services/'>services overview</a> or look through past builds in our <a href='/portfolio/'>portfolio</a>.",
       ],
@@ -211,9 +211,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-patna",
-      heading: "Freelance team vs a software development company or IT company in Patna: how to choose",
+      heading: "Freelance team vs a software development team or IT services team in Patna: how to choose",
       paragraphs: [
-        "Choosing an IT company in Patna comes down to a few practical checks rather than the size of the office. Ask who will actually write the code, whether you will own the source code, domain and hosting accounts, what happens after launch, and whether the price on the proposal is itemised. Vague answers on ownership are the most common reason businesses end up stuck with software they cannot change.",
+        "Choosing an IT services team in Patna comes down to a few practical checks rather than the size of the office. Ask who will actually write the code, whether you will own the source code, domain and hosting accounts, what happens after launch, and whether the price on the proposal is itemised. Vague answers on ownership are the most common reason businesses end up stuck with software they cannot change.",
         "BtechWaleTech is a freelance group of three engineers with no office in Patna, and we say so plainly. What we offer instead is direct access to the developers, published starting prices, weekly demos and full handover of everything we build. You can read about the team on our <a href='/about/'>about page</a>, and see how we work with other Bihar businesses on the <a href='/it-services/bihar/'>Bihar IT services hub</a>.",
       ],
       list: [
@@ -250,9 +250,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Which is the best software development company in Patna?",
+      question: "Which is the best software development team in Patna?",
       answer:
-        "There is no single best software development company in Patna; the right one is the team that understands your workflow, shows working demos, puts code and hosting in your name and stays reachable after launch. Compare two or three firms on those points. BtechWaleTech is a freelance group of three engineers rather than a company, so we suit owners who want direct developer access rather than a large account team.",
+        "There is no single best software development team in Patna; the right one is the team that understands your workflow, shows working demos, puts code and hosting in your name and stays reachable after launch. Compare two or three firms on those points. BtechWaleTech is a small freelance group of three engineers, so we suit owners who want direct developer access rather than a large account team.",
     },
     {
       question: "What technologies does BtechWaleTech use for Patna projects?",

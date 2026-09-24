@@ -13,8 +13,8 @@ const content: CityContent = {
       "iOS app development Jowai",
       "mobile app developers Jowai",
       "iPhone app developers Jaintia Hills",
-      "software development company in Jowai",
-      "IT company in Jowai",
+      "software development team in Jowai",
+      "IT services team in Jowai",
       "IT solutions Jowai",
       "freelance software developers Jowai",
       "software developers in Jowai",
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-jowai",
-      heading: "Freelance developers or a software development company in Jowai: which fits you?",
+      heading: "Freelance developers or a software development team in Jowai: which fits you?",
       paragraphs: [
-        "A freelance group fits most Jowai businesses better than a software development company because you speak directly with the engineers and pay only for the software you need. A larger company fits better when you need staff on site in Jowai every week or formal eligibility for big government tenders.",
+        "A freelance group fits most Jowai businesses better than a software development team because you speak directly with the engineers and pay only for the software you need. A larger company fits better when you need staff on site in Jowai every week or formal eligibility for big government tenders.",
         "BtechWaleTech is a freelance group of three independent engineers. We do not have an office, branch or agent in Jowai or anywhere in Meghalaya. What we offer instead is directness: the engineer who answers your WhatsApp message is the one who writes, tests and deploys your system. There is no account manager passing messages along and no sales team adding margin.",
         "If you are comparing IT companies in Jowai or Shillong, ask each one the same questions: who will actually build this, who owns the code and domain afterwards, what support costs after launch, and whether prices are published. We publish ours on the <a href='/pricing/'>pricing page</a> and hand over everything at the end. That makes comparison easy, even if you finally choose someone else.",
       ],

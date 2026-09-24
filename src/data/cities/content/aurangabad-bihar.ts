@@ -9,7 +9,7 @@ const aurangabadBihar: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for shops, schools, clinics, contractors and carpet makers in Aurangabad, Bihar, plus Daudnagar and Deo. From ₹10,000.",
     keywords: [
-      "website development company in Aurangabad Bihar",
+      "website development team in Aurangabad Bihar",
       "web designer Aurangabad Bihar",
       "SEO services Aurangabad Bihar",
       "local SEO Aurangabad Bihar",

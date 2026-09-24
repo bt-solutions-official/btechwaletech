@@ -10,12 +10,12 @@ const goalpara: CityContent = {
       "Assamese and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Goalpara traders, schools, colleges, clinics and Brahmaputra tourism.",
     keywords: [
       "IT services in Goalpara",
-      "IT company in Goalpara",
-      "website development company in Goalpara",
+      "IT services team in Goalpara",
+      "website development team in Goalpara",
       "web design in Goalpara",
-      "app development company in Goalpara",
+      "app development team in Goalpara",
       "Android app development in Goalpara",
-      "software company in Goalpara",
+      "software team in Goalpara",
       "SEO services in Goalpara",
       "digital marketing in Goalpara",
       "ecommerce website in Goalpara",
@@ -85,20 +85,20 @@ const goalpara: CityContent = {
     },
     {
       id: "traders-markets-goalpara",
-      heading: "Website development company in Goalpara for wholesale traders and shops",
+      heading: "Website development team in Goalpara for wholesale traders and shops",
       paragraphs: [
         "Goalpara's shops and wholesalers supply a wide rural area. Grocery and grain dealers, cloth and garment sellers, hardware and building material stores, electronics and mobile shops, pharmacies and farm input dealers sell both across the counter and to smaller retailers who come in from villages and weekly haats around the district.",
-        "What these traders need from a <strong>website development company in Goalpara</strong> is usefulness, not decoration. Think of one page for each line of goods, shot on your own phone in your own shop; the landmark a rickshaw driver would recognise; opening and closing times; a call button that works with one tap; and a WhatsApp shortcut for asking today's rate. Retailers buying in bulk can be sent to their own page covering minimum lots, which days the vehicle goes out, which areas it reaches and how long credit runs.",
+        "What these traders need from a <strong>website development team in Goalpara</strong> is usefulness, not decoration. Think of one page for each line of goods, shot on your own phone in your own shop; the landmark a rickshaw driver would recognise; opening and closing times; a call button that works with one tap; and a WhatsApp shortcut for asking today's rate. Retailers buying in bulk can be sent to their own page covering minimum lots, which days the vehicle goes out, which areas it reaches and how long credit runs.",
         "We test the site on entry-level phones and slow connections, check that Assamese and Bengali text displays correctly on common handsets, and set things up so your staff can update prices and stock without calling us. When the shop is ready for online orders, the same site can grow into a store.",
         "Our <a href=\"/services/web-development/\">web development page</a> explains how we plan sites that can be extended later without starting again.",
       ],
     },
     {
       id: "wholesale-software-goalpara",
-      heading: "Software company in Goalpara for stock, billing and credit control",
+      heading: "Software team in Goalpara for stock, billing and credit control",
       paragraphs: [
         "Many Goalpara traders run on trust and a thick credit register. Village retailers take goods on credit and pay after harvest or after the weekly market; salesmen collect cash on the road; stock arrives by truck from Guwahati and sometimes from further away. When the register is the only record, disputes over balances are common and slow-moving stock is hard to spot.",
-        "As a <strong>software company in Goalpara</strong>, we build small web tools that fit that way of working rather than replacing it overnight. Purchases, sales and payments are entered from a phone; balances appear per retailer and per village; overdue amounts are flagged; stock levels and fast- and slow-moving items are visible at a glance; and the owner can receive a daily WhatsApp summary.",
+        "As a <strong>software team in Goalpara</strong>, we build small web tools that fit that way of working rather than replacing it overnight. Purchases, sales and payments are entered from a phone; balances appear per retailer and per village; overdue amounts are flagged; stock levels and fast- and slow-moving items are visible at a glance; and the owner can receive a daily WhatsApp summary.",
         "Budget from ₹60,000 for a system like this, delivered over six to twelve weeks. The credit ledger comes first because that is where money leaks; stock and reports follow once the ledger is trusted. An accountant who lives in Tally gets a clean export to pull in, and every screen is labelled in whichever language your counter staff read most easily.",
       ],
     },
@@ -125,7 +125,7 @@ const goalpara: CityContent = {
       heading: "Android app development in Goalpara, with iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when a known group of people uses it again and again. In Goalpara, the strongest cases are coaching institutes sending tests, notes and fee reminders; schools sharing homework and notices with parents; wholesale traders taking repeat orders from village retailers; and clinics or labs issuing tokens and reports.",
-        "Our work as an <strong>app development company in Goalpara</strong> is done from a distance, in Flutter or React Native. Either framework lets one set of code serve both Android handsets and iPhones, which keeps the bill lower than two separate builds. Version one normally covers OTP login on a mobile number, notifications that pop up on the lock screen, the handful of screens students or retailers really use, and a back office where your staff manage content. Publishing happens on Google Play and Apple's App Store, through developer accounts opened in your name.",
+        "Our work as an <strong>app development team in Goalpara</strong> is done from a distance, in Flutter or React Native. Either framework lets one set of code serve both Android handsets and iPhones, which keeps the bill lower than two separate builds. Version one normally covers OTP login on a mobile number, notifications that pop up on the lock screen, the handful of screens students or retailers really use, and a back office where your staff manage content. Publishing happens on Google Play and Apple's App Store, through developer accounts opened in your name.",
         "Pricing for <strong>Android app development in Goalpara</strong> begins at ₹40,000. Extra lines appear only when you want them: fee collection inside the app, lessons that still open in a char village with no signal, recorded video, or links to your billing system. Read the full breakdown on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Plenty of Goalpara businesses are better off without one. When all a customer wants is the address, the opening hours and a rate list, a website covers it at a quarter of the price. We would rather tell you that than deliver an app that sits unopened after the first week.",
       ],
@@ -235,7 +235,7 @@ const goalpara: CityContent = {
         "Once your photos and text reach us, a simple site takes around one to two weeks. Bigger jobs need more time: roughly three to five weeks for a 700-page SEO build, four to eight for a store, six to twelve for custom software. Multilingual sites move quickest when you send checked Assamese or Bengali text early.",
     },
     {
-      question: "Which is the best website development company in Goalpara?",
+      question: "Which is the best website development team in Goalpara?",
       answer:
         "The right pick lists its prices openly, books your domain and code in your name, gets Assamese and Bengali right, can show live projects, and still picks up the phone a year later. Send the same short list of questions to each candidate and compare their written answers side by side. We are happy to be one of those you compare.",
     },

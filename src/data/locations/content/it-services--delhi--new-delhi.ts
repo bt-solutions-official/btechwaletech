@@ -13,8 +13,8 @@ const content: CityContent = {
       "iPhone app developers New Delhi",
       "Android and iOS app development New Delhi",
       "mobile app developers New Delhi",
-      "software development company in New Delhi",
-      "IT company in New Delhi",
+      "software development team in New Delhi",
+      "IT services team in New Delhi",
       "IT solutions New Delhi",
       "freelance software developers New Delhi",
       "client portal development New Delhi",
@@ -31,18 +31,18 @@ const content: CityContent = {
       "web developer near Barakhamba Road",
       "SEO for professional services New Delhi",
       "नई दिल्ली में सॉफ्टवेयर डेवलपर",
-      "New Delhi mein software company",
+      "New Delhi mein software team",
     ],
   },
   hero: {
     eyebrow: "New Delhi · Connaught Place to Chanakyapuri",
     h1: "Freelance software developers for New Delhi's consultancies, practices and institutions",
     lede:
-      "Most people searching for a software development company in New Delhi run a practice, not a factory: a CA or law firm near Barakhamba Road, a policy consultancy off Lodhi Road, an NGO, or a supplier to embassies and ministries. BtechWaleTech is a freelance group of three remote engineers who build client portals, CRMs, AI document workflows, dashboards and credible corporate sites for exactly those organisations.",
+      "Most people searching for a software development team in New Delhi run a practice, not a factory: a CA or law firm near Barakhamba Road, a policy consultancy off Lodhi Road, an NGO, or a supplier to embassies and ministries. BtechWaleTech is a freelance group of three remote engineers who build client portals, CRMs, AI document workflows, dashboards and credible corporate sites for exactly those organisations.",
     pills: ["Client portals from ₹60,000", "Android and iOS apps from ₹40,000", "Corporate sites from ₹10,000", "Hindi and English", "Your accounts, your code"],
   },
   quickAnswer:
-    "For New Delhi practices comparing a software development company, BtechWaleTech is a freelance alternative: three remote engineers building client portals and custom software from ₹60,000 (six to twelve weeks), AI document and lead automation from ₹40,000 (two to four weeks) and corporate websites from ₹10,000. We have no New Delhi office, and quotes are itemised within about two working days.",
+    "For New Delhi practices comparing a software development team, BtechWaleTech is a freelance alternative: three remote engineers building client portals and custom software from ₹60,000 (six to twelve weeks), AI document and lead automation from ₹40,000 (two to four weeks) and corporate websites from ₹10,000. We have no New Delhi office, and quotes are itemised within about two working days.",
   snapshot: [
     { label: "Central business district", value: "Connaught Place, with Barakhamba Road, Kasturba Gandhi Marg, Janpath and Tolstoy Marg housing corporate and professional offices" },
     { label: "Institutional belt", value: "Lodhi Road and its institutional area, India Habitat Centre and the offices around Mandi House" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "new-delhi-software-needs",
-      heading: "What should New Delhi firms expect from a software development company in New Delhi?",
+      heading: "What should New Delhi firms expect from a software development team in New Delhi?",
       paragraphs: [
-        "New Delhi professional firms mostly need software that organises client work: intake forms, document collection, deadline tracking, status updates, billing and secure sharing. A software development company in New Delhi that only builds brochure websites misses the bigger opportunity, which is removing the email chaos behind every engagement.",
+        "New Delhi professional firms mostly need software that organises client work: intake forms, document collection, deadline tracking, status updates, billing and secure sharing. A software development team in New Delhi that only builds brochure websites misses the bigger opportunity, which is removing the email chaos behind every engagement.",
         "Think of a CA practice on Barakhamba Road handling GST returns, audits and company filings for two hundred clients. Documents arrive by email, WhatsApp and courier; deadlines live in a partner's diary; juniors chase clients by phone. The same pattern repeats in law chambers, consultancies and trade associations across Connaught Place, Kasturba Gandhi Marg and Lodhi Road.",
         "BtechWaleTech, a freelance group of three engineers working remotely from India, builds the systems that fix this. A client portal gives each client a login to upload documents, see pending items and download deliverables. An engagement tracker shows partners who is working on what and what is overdue. Automated reminders chase clients so staff do not have to. You can see the range of what we build on our <a href=\"/services/\">services page</a>.",
       ],
@@ -192,11 +192,11 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-new-delhi",
-      heading: "Freelance developers or a software development company in New Delhi: which should a firm hire?",
+      heading: "Freelance developers or a software development team in New Delhi: which should a firm hire?",
       paragraphs: [
         "A New Delhi firm should hire an established IT company when it needs a large team, formal vendor audits or on-site support, and a freelance group when it wants custom software at a lower starting price with direct access to the people building it. For most practices with five to fifty staff, the second option is usually enough.",
         "Directories list many IT companies in Connaught Place and across New Delhi, from global software houses to small studios. The questions to ask are the same for each: who writes the code, who owns it, how changes are priced and what support costs next year. Ask for an itemised quote, not a lump sum.",
-        "BtechWaleTech is three engineers, not a company or agency. That means we take on a limited number of projects, answer quickly, and document everything so you are never dependent on us. You can learn more on the <a href=\"/about/\">about page</a> or compare with the wider <a href=\"/it-services/delhi/\">Delhi IT services hub</a>.",
+        "BtechWaleTech is a small freelance team of three engineers. That means we take on a limited number of projects, answer quickly, and document everything so you are never dependent on us. You can learn more on the <a href=\"/about/\">about page</a> or compare with the wider <a href=\"/it-services/delhi/\">Delhi IT services hub</a>.",
       ],
       list: [
         "Need on-site staff or formal vendor audits: an established company",
@@ -206,7 +206,7 @@ const content: CityContent = {
     },
     {
       id: "cost-timeline-new-delhi",
-      heading: "What does a software development company in New Delhi charge, and how long does it take?",
+      heading: "What does a software development team in New Delhi charge, and how long does it take?",
       paragraphs: [
         "With BtechWaleTech, software development for a New Delhi organisation starts at ₹60,000 for a custom portal or web app (six to twelve weeks), ₹40,000 for AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for ecommerce or paid membership (four to eight weeks), ₹20,000 for a 700+ page SEO website and ₹10,000 for a static site (one to two weeks).",
         "Costs rise with user roles, integrations, security requirements and data migration. We itemise quotes by module and suggest a first phase that delivers value quickly. Payment is in INR only, via UPI using our QR code or by direct bank transfer to our account, split into milestones.",

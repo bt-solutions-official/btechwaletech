@@ -9,7 +9,7 @@ const darjiling: CityContent = {
     description:
       "Websites, booking pages, tea stores and WhatsApp tools for Darjeeling homestays, hotels, tea gardens, tour operators and schools. Sites start from ₹10,000.",
     keywords: [
-      "website development company in Darjeeling",
+      "website development team in Darjeeling",
       "web designer Darjeeling",
       "homestay website Darjeeling",
       "hotel booking website Darjeeling",

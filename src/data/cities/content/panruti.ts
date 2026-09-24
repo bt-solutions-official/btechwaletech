@@ -10,12 +10,12 @@ const panruti: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Panruti jackfruit traders, cashew processors, shops, clinics and schools.",
     keywords: [
       "IT services in Panruti",
-      "IT company in Panruti",
-      "website development company in Panruti",
+      "IT services team in Panruti",
+      "website development team in Panruti",
       "web design in Panruti",
-      "app development company in Panruti",
+      "app development team in Panruti",
       "Android app development in Panruti",
-      "software company in Panruti",
+      "software team in Panruti",
       "SEO services in Panruti",
       "digital marketing in Panruti",
       "ecommerce website in Panruti",
@@ -75,11 +75,11 @@ const panruti: CityContent = {
     },
     {
       id: "cashew-processing-software",
-      heading: "Software company in Panruti for cashew processing units and exporters",
+      heading: "Software team in Panruti for cashew processing units and exporters",
       paragraphs: [
         "Cashew is Panruti's biggest industry. The area has a large cluster of processing units, from export-oriented factories to small cottage units run by families, and a processors' and exporters' association has sought a GI tag for Panruti cashew. Raw nuts arrive from local farms and from imports, are roasted or steamed, shelled, peeled, graded into standard kernel grades and packed for traders and exporters.",
         "The numbers behind this are easy to lose track of: raw nut purchases by lot and origin, outturn and moisture, batch yields, output by grade, piece-rate wages for shelling and peeling workers, and dues from buyers across the country. In many units they sit in registers and a spreadsheet that one person understands.",
-        "As a <strong>software company in Panruti</strong>, we build web tools for exactly this. A purchase register records each lot with supplier, weight, moisture and rate. Batch sheets track yield from raw nut to kernel. Grade-wise stock shows what is ready to sell. Worker registers total piece-rate output and wages, and buyer ledgers show balances and dispatch history. These start at ₹60,000 and are delivered in stages over six to twelve weeks, beginning with whatever causes the most disputes.",
+        "As a <strong>software team in Panruti</strong>, we build web tools for exactly this. A purchase register records each lot with supplier, weight, moisture and rate. Batch sheets track yield from raw nut to kernel. Grade-wise stock shows what is ready to sell. Worker registers total piece-rate output and wages, and buyer ledgers show balances and dispatch history. These start at ₹60,000 and are delivered in stages over six to twelve weeks, beginning with whatever causes the most disputes.",
         "Screens can be in Tamil for supervisors and in English for export paperwork.",
       ],
     },
@@ -105,10 +105,10 @@ const panruti: CityContent = {
     },
     {
       id: "exporter-websites-panruti",
-      heading: "Website development company in Panruti for export-oriented units",
+      heading: "Website development team in Panruti for export-oriented units",
       paragraphs: [
         "Export buyers and import agents check a supplier online before they reply to an email. A Panruti cashew unit with no website, or one with blurry photographs and a broken contact form, loses that first round of trust, however good its kernels are.",
-        "A <strong>website development company in Panruti</strong> working for exporters should keep the site factual and professional: company profile, processing capacity stated honestly, kernel grades and specifications, packing options such as tins and vacuum packs, certifications you actually hold, APEDA or other registrations, and named contacts for enquiries. It should load fast on an importer's office desktop and look right on phones.",
+        "A <strong>website development team in Panruti</strong> working for exporters should keep the site factual and professional: company profile, processing capacity stated honestly, kernel grades and specifications, packing options such as tins and vacuum packs, certifications you actually hold, APEDA or other registrations, and named contacts for enquiries. It should load fast on an importer's office desktop and look right on phones.",
         "We never list buyer names, export volumes or certifications on your site unless you can show them to us. A clean enquiry form that asks for grade, quantity, destination port and delivery window gets better leads than a generic contact box.",
         "English is the main language for export pages, with Tamil pages for local suppliers and job applicants.",
       ],
@@ -128,7 +128,7 @@ const panruti: CityContent = {
       heading: "Android app development in Panruti, and iOS apps for local trade",
       paragraphs: [
         "Apps make sense when the same people return often. In Panruti that could be a cashew trader's regular retail buyers reordering grades each month, a jackfruit wholesaler's buyers checking weekly availability, a processing unit's supervisors logging batches, a school's parents receiving notices, or a clinic's patients booking tokens.",
-        "As an <strong>app development company in Panruti</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the essential screens, Tamil labels where useful and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Panruti</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the essential screens, Tamil labels where useful and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Panruti</strong> with us starts at ₹40,000. Payments, offline entry, maps and links with billing software add to the quote, and each appears as its own line. More details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a price list, a website does the job for much less money, and we will recommend it over an app few people would open.",
       ],
@@ -162,9 +162,9 @@ const panruti: CityContent = {
     },
     {
       id: "remote-team-panruti",
-      heading: "How a remote IT company in Panruti's region works with you",
+      heading: "How a remote IT services team in Panruti's region works with you",
       paragraphs: [
-        "We will not pretend to be an <strong>IT company in Panruti</strong> with a front office. We are three engineers working remotely, with no office in Panruti or anywhere else, and a clear written trail takes the place of meetings. After a first call about your trade and buyers, you receive an outline of pages or app screens, delivery dates and a costed list of every item.",
+        "We will not pretend to be an <strong>IT services team in Panruti</strong> with a front office. We are three engineers working remotely, with no office in Panruti or anywhere else, and a clear written trail takes the place of meetings. After a first call about your trade and buyers, you receive an outline of pages or app screens, delivery dates and a costed list of every item.",
         "Nothing begins until you approve that list, and nothing is billed before approval. As the work progresses you get preview links that open on any phone, so you can show a partner or family member. Tamil wording is always sent for your check before it goes live.",
         "WhatsApp is our main line, answered seven days a week on Indian time. If a date slips, you hear the same day along with a revised plan. Payments follow milestones you can test yourself, which keeps the risk small.",
       ],
@@ -229,7 +229,7 @@ const panruti: CityContent = {
         "Once your photographs, price list and contact details reach us, a basic site for a Panruti shop or trader is usually online within a fortnight. Bigger work runs longer: three to five weeks for a 700+ page SEO build, four to eight for a cashew store, six to twelve for processing software. Content that arrives late is the usual cause of delay.",
     },
     {
-      question: "Which is the best website development company in Panruti?",
+      question: "Which is the best website development team in Panruti?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, stays available after launch and can show real work. Ask each one the same questions. We meet those tests and answer WhatsApp every day, but comparing two or three providers before choosing is always sensible.",
     },

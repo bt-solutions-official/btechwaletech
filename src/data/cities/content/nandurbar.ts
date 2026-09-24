@@ -9,7 +9,7 @@ const nandurbar: CityContent = {
     description:
       "Websites, Marathi and Hindi local SEO, chilli trade tools and WhatsApp automation for Nandurbar traders, clinics, schools and Satpuda tourism. From ₹10,000.",
     keywords: [
-      "website development company in Nandurbar",
+      "website development team in Nandurbar",
       "website designer Nandurbar",
       "web design Nandurbar Maharashtra",
       "SEO services Nandurbar",

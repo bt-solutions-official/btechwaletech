@@ -10,12 +10,12 @@ const tasgaon: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Tasgaon grape growers, bedana traders, cold storages, temple-town shops and clinics.",
     keywords: [
       "IT services in Tasgaon",
-      "IT company in Tasgaon",
-      "website development company in Tasgaon",
+      "IT services team in Tasgaon",
+      "website development team in Tasgaon",
       "web design in Tasgaon",
-      "app development company in Tasgaon",
+      "app development team in Tasgaon",
       "Android app development in Tasgaon",
-      "software company in Tasgaon",
+      "software team in Tasgaon",
       "SEO services in Tasgaon",
       "digital marketing in Tasgaon",
       "ecommerce website in Tasgaon",
@@ -74,19 +74,19 @@ const tasgaon: CityContent = {
     },
     {
       id: "grape-growers-exporters",
-      heading: "Website development company in Tasgaon for grape growers and export packers",
+      heading: "Website development team in Tasgaon for grape growers and export packers",
       paragraphs: [
         "Tasgaon has more land under grapes than any other taluka in Sangli district, and growers here send Thompson Seedless and Tas-A-Ganesh fruit to buyers in the UK, the UAE, Singapore and Bangladesh. An importer's agent or a domestic wholesaler who hears your name will look you up before picking up the phone. What they find decides whether the call happens.",
-        "A <strong>website development company in Tasgaon</strong> should build that first impression from facts the buyer actually weighs: varieties grown, acreage, the usual harvest window, packing arrangements, the villages your plots are in, photographs taken in your own vineyard, and a named person who answers. For growers who sell through a packhouse or a farmer group, one shared site with a page per member often works better than twenty separate ones.",
+        "A <strong>website development team in Tasgaon</strong> should build that first impression from facts the buyer actually weighs: varieties grown, acreage, the usual harvest window, packing arrangements, the villages your plots are in, photographs taken in your own vineyard, and a named person who answers. For growers who sell through a packhouse or a farmer group, one shared site with a page per member often works better than twenty separate ones.",
         "We write these sites in English for buyers and Marathi for local suppliers and workers, and we keep them short. Claims about certifications or export registrations go on the site only when you can show us the document. A grower site starts at ₹10,000; if you want pages for each variety, village and buyer market, the 700+ page SEO build starts at ₹20,000.",
       ],
     },
     {
       id: "raisin-traders-cold-storage",
-      heading: "Software company in Tasgaon for raisin traders and cold storages",
+      heading: "Software team in Tasgaon for raisin traders and cold storages",
       paragraphs: [
         "Grapes that do not go fresh to market become bedana. Farmers dry them under sheds, grade them and store the boxes in cold storages, many of them along the Tasgaon–Manerajuri road, until a trader or an auction offers the right rate. Tasgaon has more than a hundred raisin trading centres, and the record keeping behind all that stock is still largely paper and memory.",
-        "As a <strong>software company in Tasgaon</strong> in the plain sense, we build web tools that follow a box from the day it arrives to the day it leaves. Each inward entry records the farmer, lot number, grade, box count, chamber and date. Outward slips reduce the balance. Rent is calculated by month and box, advances against stock are logged, and every farmer can be sent a WhatsApp statement of what is left and what is owed.",
+        "As a <strong>software team in Tasgaon</strong> in the plain sense, we build web tools that follow a box from the day it arrives to the day it leaves. Each inward entry records the farmer, lot number, grade, box count, chamber and date. Outward slips reduce the balance. Rent is calculated by month and box, advances against stock are logged, and every farmer can be sent a WhatsApp statement of what is left and what is owed.",
         "Traders get a similar tool for purchases, sorting, repacking and dispatch, with rates per grade and buyer-wise ledgers. Custom software starts at ₹60,000 and usually takes six to twelve weeks. We build the inward-outward register first because it removes the most daily arguments, then add rent and reports once your staff trust the numbers.",
       ],
     },
@@ -119,10 +119,10 @@ const tasgaon: CityContent = {
     },
     {
       id: "clinics-schools-shops",
-      heading: "IT company in Tasgaon for clinics, schools, coaching classes and shops",
+      heading: "IT services team in Tasgaon for clinics, schools, coaching classes and shops",
       paragraphs: [
         "Tasgaon is a taluka town, so families from dozens of villages come in for doctors, schools, colleges, banks and shopping. Many of those trips begin with a phone search, and a surprising number end in a wasted journey because the listing showed the wrong hours or an old number.",
-        "Working as an <strong>IT company in Tasgaon</strong> for these businesses, we build clear Marathi-first sites. A clinic page lists doctors, OPD days, fees where you choose to show them and emergency contacts. A school or coaching class page gives courses, batches, admission dates and transport routes. A clothing, jewellery or electronics shop gets category pages, festival timings and a WhatsApp link for price checks.",
+        "Working as an <strong>IT services team in Tasgaon</strong> for these businesses, we build clear Marathi-first sites. A clinic page lists doctors, OPD days, fees where you choose to show them and emergency contacts. A school or coaching class page gives courses, batches, admission dates and transport routes. A clothing, jewellery or electronics shop gets category pages, festival timings and a WhatsApp link for price checks.",
         "Where it helps, we add small tools: online appointment requests, admission enquiry forms that save to a Google Sheet, or a notice board parents can check instead of calling. Most of these fit inside a ₹10,000 static site or a modest add-on, and we list each extra separately so you can drop anything you do not need.",
       ],
     },
@@ -131,7 +131,7 @@ const tasgaon: CityContent = {
       heading: "Android app development in Tasgaon, with iOS apps for the same users",
       paragraphs: [
         "An app is the right choice when the same people need to check something often. In Tasgaon that might be cold storage clients checking their lot balance, raisin buyers watching daily rates and grades, a farmer group sharing harvest schedules, a school sending homework and fee reminders, or a dealer taking repeat orders from village shops.",
-        "As an <strong>app development company in Tasgaon</strong> working remotely, we use Flutter or React Native so one codebase serves Android phones and iPhones. A typical first version has mobile number login, push notifications, the three or four screens your users open most, and an admin panel for your office. Offline entry can be added for vineyards where signal drops. We publish the app on Google Play and the App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Tasgaon</strong> working remotely, we use Flutter or React Native so one codebase serves Android phones and iPhones. A typical first version has mobile number login, push notifications, the three or four screens your users open most, and an admin panel for your office. Offline entry can be added for vineyards where signal drops. We publish the app on Google Play and the App Store under developer accounts registered in your name.",
         "<strong>Android app development in Tasgaon</strong> with us starts at ₹40,000. Payments, maps, Marathi and English versions and links to your existing software each add a separate line to the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how we plan and test.",
         "Be honest about usage before you commit. If buyers only need your rates and phone number, a website and a WhatsApp broadcast do that for a fraction of the cost, and we will say so.",
       ],
@@ -253,7 +253,7 @@ const tasgaon: CityContent = {
         "A simple business site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. If you want a site ready before harvest or the rath utsav, message us a month ahead.",
     },
     {
-      question: "Which is the best IT company in Tasgaon for a small business?",
+      question: "Which is the best IT services team in Tasgaon for a small business?",
       answer:
         "The best choice publishes its prices, keeps the domain and code in your name, answers after launch and can show real work. Put the same questions to everyone you consider. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three quotes first is sensible.",
     },

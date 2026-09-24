@@ -9,7 +9,7 @@ const jehanabad: CityContent = {
     description:
       "Websites, Google Maps setup and WhatsApp automation for Jehanabad sattu and besan makers, grain traders, clinics, schools and coaching. From ₹10,000, fully yours.",
     keywords: [
-      "website development company in Jehanabad",
+      "website development team in Jehanabad",
       "web designer Jehanabad",
       "website design Makhdumpur",
       "SEO services Jehanabad",

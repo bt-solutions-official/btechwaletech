@@ -9,7 +9,7 @@ const moga: CityContent = {
     description:
       "Websites, local SEO, lead tools and WhatsApp automation for Moga's IELTS centres, visa consultants, implement makers and shops. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Moga",
+      "website development team in Moga",
       "web design Moga",
       "website designer Moga Punjab",
       "IELTS institute website Moga",

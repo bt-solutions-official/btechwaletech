@@ -10,12 +10,12 @@ const palghar: CityContent = {
       "Marathi and English websites, Android and iOS apps, SEO and WhatsApp automation for Palghar MIDC suppliers, fish traders, chikoo growers, resorts and shops.",
     keywords: [
       "IT services in Palghar",
-      "IT company in Palghar",
-      "website development company in Palghar",
+      "IT services team in Palghar",
+      "website development team in Palghar",
       "web design in Palghar",
-      "app development company in Palghar",
+      "app development team in Palghar",
       "Android app development in Palghar",
-      "software company in Palghar",
+      "software team in Palghar",
       "SEO services in Palghar",
       "digital marketing in Palghar",
       "ecommerce website in Palghar",
@@ -75,19 +75,19 @@ const palghar: CityContent = {
     },
     {
       id: "tarapur-midc-suppliers",
-      heading: "Website development company in Palghar for Tarapur and Boisar MIDC suppliers",
+      heading: "Website development team in Palghar for Tarapur and Boisar MIDC suppliers",
       paragraphs: [
         "The Tarapur MIDC and Additional Tarapur industrial estates near Boisar house bulk drug makers, specialty chemical plants, textile units and steel operations. Around each plant is a web of smaller firms: fabricators, pipe and valve suppliers, electrical and instrumentation contractors, labs, transporters, scaffolding and safety equipment suppliers, housekeeping and security agencies, and canteen operators.",
-        "Purchase and EHS teams at these plants check suppliers online before inviting them to quote. A <strong>website development company in Palghar</strong> serving this trade should build sites that answer those checks: capabilities and equipment, materials handled, industries served, safety and quality practices, certifications you actually hold, GST and registration details, and named contacts. The site should read cleanly on a desktop in a purchase office, not only on a phone.",
+        "Purchase and EHS teams at these plants check suppliers online before inviting them to quote. A <strong>website development team in Palghar</strong> serving this trade should build sites that answer those checks: capabilities and equipment, materials handled, industries served, safety and quality practices, certifications you actually hold, GST and registration details, and named contacts. The site should read cleanly on a desktop in a purchase office, not only on a phone.",
         "We never put a client's plant name or logo on your site without written permission from that client, and we never state approvals or certifications you cannot produce. For firms that receive drawings or repeat orders, we add a quote request form with file upload and, if it helps, a simple job status page so clients stop phoning for updates.",
       ],
     },
     {
       id: "mid-service-software",
-      heading: "Software company in Palghar for contractors, AMC teams and compliance records",
+      heading: "Software team in Palghar for contractors, AMC teams and compliance records",
       paragraphs: [
         "Service firms working inside chemical and pharma plants carry a heavy paperwork load. Workers need valid gate passes, medical fitness records and safety training. Jobs need permits, checklists and sign-offs. Annual maintenance contracts have visit schedules that must be kept and proved. Most small firms manage this with spreadsheets, paper files and a supervisor's memory.",
-        "As a <strong>software company in Palghar</strong>, we build web tools that bring those records together. Each worker has a profile with document expiry dates and alerts before a pass or certificate lapses. Each job has a card with plant, area, permit number, materials used, photos and client sign-off. AMC visits are scheduled, logged and turned into reports the client can download. Invoices follow from completed jobs rather than from memory.",
+        "As a <strong>software team in Palghar</strong>, we build web tools that bring those records together. Each worker has a profile with document expiry dates and alerts before a pass or certificate lapses. Each job has a card with plant, area, permit number, materials used, photos and client sign-off. AMC visits are scheduled, logged and turned into reports the client can download. Invoices follow from completed jobs rather than from memory.",
         "Custom tools start at ₹60,000 and are built over six to twelve weeks, beginning with the part that costs you most when it goes wrong, usually document expiries or missed AMC visits. Supervisors can use them on an ordinary Android phone at the plant, and data stays in hosting registered to your firm.",
       ],
     },
@@ -120,10 +120,10 @@ const palghar: CityContent = {
     },
     {
       id: "schools-hospitals-palghar",
-      heading: "IT company in Palghar for schools, hospitals and professionals near the district offices",
+      heading: "IT services team in Palghar for schools, hospitals and professionals near the district offices",
       paragraphs: [
         "With the district offices at Kolgaon, Palghar has gained lawyers, chartered accountants, architects, surveyors and consultants who deal with government work, alongside schools, junior colleges, coaching classes, hospitals and diagnostic centres that serve a population spread from the coast to the hill talukas.",
-        "As an <strong>IT company in Palghar</strong>, we build straightforward sites for these practices. A law or accounts office needs services, qualifications, office hours and a contact form, written carefully so it stays within professional rules on advertising. A school needs classes, board, fee ranges, transport routes and admission dates. A hospital needs doctors, departments, OPD days, emergency numbers and directions from Palghar station and the district office complex.",
+        "As an <strong>IT services team in Palghar</strong>, we build straightforward sites for these practices. A law or accounts office needs services, qualifications, office hours and a contact form, written carefully so it stays within professional rules on advertising. A school needs classes, board, fee ranges, transport routes and admission dates. A hospital needs doctors, departments, OPD days, emergency numbers and directions from Palghar station and the district office complex.",
         "We write in Marathi and English, and add Hindi or Gujarati where your clients use them. Each site gets a Google listing with the right pin, which matters in a town where new roads and buildings appear faster than maps update.",
       ],
     },
@@ -132,7 +132,7 @@ const palghar: CityContent = {
       heading: "Android app development in Palghar, and iOS apps for guests, parents and field teams",
       paragraphs: [
         "An app pays for itself only when a defined group uses it regularly. In Palghar the good candidates are clear: an MIDC contractor's supervisors logging jobs and photos from inside plants, a school sending notices, fee reminders and bus updates to parents, a resort whose repeat guests book every few months, a hospital issuing tokens and lab reports, or a fish trader's regular hotel buyers placing next-morning orders.",
-        "As an <strong>app development company in Palghar</strong> working remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Palghar</strong> working remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Palghar</strong> with us starts at ₹40,000. Costs rise with payments, photo uploads, offline mode for plants and coastal areas with weak signal, and links to billing or ERP software, and each of those is its own line in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If your customers need only your address, timings and a price list, a website does that at a fraction of the cost. We will tell you so. An app that people install once and forget is not worth building.",
       ],
@@ -238,7 +238,7 @@ const palghar: CityContent = {
         "A standard site is usually live within one to two weeks after we receive your content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where content arrives in the first few days.",
     },
     {
-      question: "Which is the best website development company in Palghar?",
+      question: "Which is the best website development team in Palghar?",
       answer:
         "Choose someone who registers the domain and code in your name, publishes prices, supports you after launch and can show real work. Ask everyone the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers before deciding is always wise.",
     },

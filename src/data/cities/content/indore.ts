@@ -9,17 +9,17 @@ const indore: CityContent = {
     description:
       "Freelance website development, SEO and AI automation in Indore. Websites from ₹10,000, 700+ page SEO sites from ₹20,000, 5 months free maintenance included.",
     keywords: [
-      "website development company in Indore",
-      "web design company Indore",
+      "website development team in Indore",
+      "web design team Indore",
       "website designer in Indore",
       "freelance web developer Indore",
       "website design cost in Indore",
-      "SEO company in Indore",
+      "SEO team in Indore",
       "local SEO Indore",
       "ecommerce website development Indore",
-      "software company in Indore",
+      "software team in Indore",
       "web application development Indore",
-      "AI automation agency Indore",
+      "AI automation team Indore",
       "WhatsApp automation Indore",
       "website maintenance Indore",
       "affordable website design Indore",
@@ -218,9 +218,9 @@ const indore: CityContent = {
         "A static website usually takes one to two weeks. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks, and a custom application six to twelve weeks. In practice, the most common cause of delay is waiting for content and photos, so we write starter copy for you to edit instead of waiting for blank pages to be filled.",
     },
     {
-      question: "Are you a freelancer or an agency?",
+      question: "Are you a single freelancer or a team?",
       answer:
-        "We are a freelance team: three engineers with no account managers, sales staff or office overheads. You get agency-level delivery (design, development, SEO, hosting and maintenance) at freelance prices, and you speak directly to the people doing the work. Unlike a single freelancer, there are three of us, so work continues if one person is unavailable.",
+        "We are a freelance team: three engineers with no account managers, sales staff or office overheads. You get full-service delivery (design, development, SEO, hosting and maintenance) at freelance prices, and you speak directly to the people doing the work. Unlike a single freelancer, there are three of us, so work continues if one person is unavailable.",
     },
     {
       question: "Can you help my business show up on Google Maps in Indore?",
@@ -230,7 +230,7 @@ const indore: CityContent = {
     {
       question: "How long does SEO take to work in Indore?",
       answer:
-        "Map results for area-level searches often improve within six to ten weeks once your profile and website are set up correctly. Competitive city-wide terms such as “website development company in Indore” usually take four to eight months of steady work. Nobody can honestly guarantee a first-page ranking, and we won't.",
+        "Map results for area-level searches often improve within six to ten weeks once your profile and website are set up correctly. Competitive city-wide terms such as “website development team in Indore” usually take four to eight months of steady work. Nobody can honestly guarantee a first-page ranking, and we won't.",
     },
     {
       question: "Can you build an online store with UPI and Razorpay?",

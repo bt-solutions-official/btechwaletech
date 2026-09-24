@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance IT team for Baramulla, Sopore and Gulmarg: fruit mandi software, ski-season booking, Android and iOS apps, AI agents, dashboards, SEO and upkeep.",
     keywords: [
-      "software development company in Baramulla",
-      "IT company in Baramulla",
+      "software development team in Baramulla",
+      "IT services team in Baramulla",
       "IT solutions Baramulla",
       "freelance software developers Baramulla",
       "fruit mandi software Sopore",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Baramulla · Sopore · Gulmarg · North Kashmir",
     h1: "Freelance IT and software developers in Baramulla for fruit mandis, Gulmarg stays, contractors and clinics",
     lede:
-      "Few owners in north Kashmir find a software development company in Baramulla that builds real systems instead of reselling templates. BtechWaleTech is a freelance group of three engineers working remotely from India, and we write software for how Baramulla district works: commission agents and growers at the Sopore fruit mandi, winter-peak hotels in Gulmarg and Tangmarg, contractors on hydro and road projects toward Uri, and clinics and schools in Baramulla town. Custom software, Android and iOS apps, AI automation, dashboards, stores, SEO and steady maintenance.",
+      "Few owners in north Kashmir find a software development team in Baramulla that builds real systems instead of reselling templates. BtechWaleTech is a freelance group of three engineers working remotely from India, and we write software for how Baramulla district works: commission agents and growers at the Sopore fruit mandi, winter-peak hotels in Gulmarg and Tangmarg, contractors on hydro and road projects toward Uri, and clinics and schools in Baramulla town. Custom software, Android and iOS apps, AI automation, dashboards, stores, SEO and steady maintenance.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Maintenance from ₹8,000/month", "5 months upkeep free"],
   },
   quickAnswer:
@@ -213,7 +213,7 @@ const content: CityContent = {
     },
     {
       id: "hiring-guide-baramulla",
-      heading: "Freelance team or IT company in Baramulla: how to decide",
+      heading: "Freelance team or IT services team in Baramulla: how to decide",
       paragraphs: [
         "A freelance team suits Baramulla businesses that mainly need software, apps, websites and maintenance built properly and handed over cleanly, while a local IT company suits needs such as computer repair, networking, CCTV or regular on-site visits. Many owners use a local technician for hardware and a remote team for software.",
         "If you are comparing IT companies in Baramulla or Sopore, ask who writes the code, whether the quote is itemised, who owns the domain and hosting, and what maintenance costs after launch. Test their live work on a phone with mobile data. Avoid anyone who keeps your domain in their name.",

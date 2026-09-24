@@ -9,7 +9,7 @@ const hardoi: CityContent = {
     description:
       "Hindi websites, local SEO, trader and dealer catalogues, school and clinic pages, and WhatsApp automation for Hardoi, Sandila, Shahabad and Bilgram businesses.",
     keywords: [
-      "website development company in Hardoi",
+      "website development team in Hardoi",
       "web designer Hardoi",
       "website developer Hardoi Uttar Pradesh",
       "website cost Hardoi",
@@ -21,7 +21,7 @@ const hardoi: CityContent = {
       "coaching institute website Hardoi",
       "grain trader website Hardoi",
       "WhatsApp automation Hardoi",
-      "software company Hardoi",
+      "software team Hardoi",
       "website maintenance Hardoi",
       "Google Maps listing Hardoi",
       "हरदोई वेबसाइट डिजाइन",

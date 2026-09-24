@@ -9,7 +9,7 @@ const wardha: CityContent = {
     description:
       "Websites from ₹10,000 for Wardha cotton traders, MIDC units, hospitals, colleges, khadi sellers and shops, with Marathi pages, Google Maps work and WhatsApp bots.",
     keywords: [
-      "website development company in Wardha",
+      "website development team in Wardha",
       "web designer Wardha",
       "website design Wardha Maharashtra",
       "cotton ginning website Wardha",

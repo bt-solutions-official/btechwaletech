@@ -9,7 +9,7 @@ const rampur: CityContent = {
     description:
       "Websites, local SEO, UPI stores and WhatsApp automation for Rampur zari, patchwork, mentha and trade businesses. Fixed starting prices and 5 months free upkeep.",
     keywords: [
-      "website development company in Rampur",
+      "website development team in Rampur",
       "web designer Rampur UP",
       "website design Rampur Uttar Pradesh",
       "SEO services Rampur",

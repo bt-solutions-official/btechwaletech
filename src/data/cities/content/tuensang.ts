@@ -10,12 +10,12 @@ const tuensang: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Tuensang weavers, schools, churches, clinics, homestays and shops. Starting prices.",
     keywords: [
       "IT services in Tuensang",
-      "IT company in Tuensang",
-      "website development company in Tuensang",
+      "IT services team in Tuensang",
+      "website development team in Tuensang",
       "web design in Tuensang",
-      "app development company in Tuensang",
+      "app development team in Tuensang",
       "Android app development in Tuensang",
-      "software company in Tuensang",
+      "software team in Tuensang",
       "SEO services in Tuensang",
       "digital marketing in Tuensang",
       "ecommerce website in Tuensang",
@@ -94,11 +94,11 @@ const tuensang: CityContent = {
     },
     {
       id: "colleges-schools-tuensang",
-      heading: "Website development company in Tuensang for colleges, schools and coaching centres",
+      heading: "Website development team in Tuensang for colleges, schools and coaching centres",
       paragraphs: [
         "Schools and colleges in Tuensang need a site that parents in distant villages can open to see notices, fees and results without travelling to the office.",
         "Sao Chang College, founded in 1973, teaches arts and science at degree level, and Loyem Memorial College is the other college in the town. The district also counts about twenty government schools and a similar number of private ones, along with tuition and coaching centres preparing students for board exams and state recruitment tests. Families often live hours away by road, so a missed notice can mean a wasted journey.",
-        "As a <strong>website development company in Tuensang</strong> in practice, we build school and college sites around the questions that actually arrive: which courses are offered, what the fee is or its range, admission dates, hostel availability, bus or shared taxi options, exam timetables and results. Notices go up as PDF and plain text, because a scanned image of a circular is hard to read on a small screen.",
+        "As a <strong>website development team in Tuensang</strong> in practice, we build school and college sites around the questions that actually arrive: which courses are offered, what the fee is or its range, admission dates, hostel availability, bus or shared taxi options, exam timetables and results. Notices go up as PDF and plain text, because a scanned image of a circular is hard to read on a small screen.",
         "A basic institutional site starts at ₹10,000. If you want online admission forms with document upload, fee receipts or a parent login, those are quoted as separate lines, and a parent app, covered below, can come later once the website is used regularly.",
       ],
     },
@@ -124,11 +124,11 @@ const tuensang: CityContent = {
     },
     {
       id: "farm-contractors-software",
-      heading: "Software company in Tuensang for farm groups, suppliers and works contractors",
+      heading: "Software team in Tuensang for farm groups, suppliers and works contractors",
       paragraphs: [
         "Custom software makes sense in Tuensang when many people handle the same records: produce collected from villages, materials sent to sites, or payments tracked across departments.",
         "Farming here is largely jhum and terrace cultivation of rice, maize and millet, and the Krishi Vigyan Kendra works with growers on crops and methods. Self-help groups and farmer collectives gather produce from several villages, and small traders move it towards Mokokchung and the plains. Separately, government works contractors and their suppliers juggle site materials, labour, measurement books, bills submitted and bills still pending, often across more than one department.",
-        "As a <strong>software company in Tuensang</strong> working remotely, we build small web applications for exactly these jobs. A collection register records each village, grower, quantity, grade and payment. A contractor's tool tracks each work order, materials issued, stage photos with dates, bills raised and amounts received. Both can run on a phone with data saved locally and synced when signal returns.",
+        "As a <strong>software team in Tuensang</strong> working remotely, we build small web applications for exactly these jobs. A collection register records each village, grower, quantity, grade and payment. A contractor's tool tracks each work order, materials issued, stage photos with dates, bills raised and amounts received. Both can run on a phone with data saved locally and synced when signal returns.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We start with whichever register causes the most arguments, because that is where the time saved pays back fastest.",
       ],
     },
@@ -138,7 +138,7 @@ const tuensang: CityContent = {
       paragraphs: [
         "An app is worth building in Tuensang when the same group of people opens it every week, such as a school's parents, a church association's members or a trader's regular village retailers. For a one-time visitor, a website is enough.",
         "Good local examples include a school app that pushes notices, homework and fee reminders; an association app with an events calendar, member directory and offline copies of recent circulars; a festival app for Poanglüm with the programme and stall map; or an order app for shopkeepers in outlying villages who restock from a Tuensang wholesaler. Push notifications are the real advantage: a message reaches every phone even when the family group chat is buried.",
-        "As an <strong>app development company in Tuensang</strong> without a local office, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually covers mobile-number login, push notifications, the core screens and an admin panel for your staff, and we design for patchy networks by caching content on the phone. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Tuensang</strong> without a local office, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually covers mobile-number login, push notifications, the core screens and an admin panel for your staff, and we design for patchy networks by caching content on the phone. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Tuensang</strong> with us starts at ₹40,000, with payments, maps, offline data entry and integrations quoted separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>. If all your customers need is an address, a timetable and a phone number, we will tell you to start with a website instead.",
       ],
     },
@@ -174,7 +174,7 @@ const tuensang: CityContent = {
     },
     {
       id: "remote-team-tuensang",
-      heading: "Working with a remote IT company in Tuensang: how it runs day to day",
+      heading: "Working with a remote IT services team in Tuensang: how it runs day to day",
       paragraphs: [
         "We work with Tuensang clients entirely at a distance, and the process is designed so that distance does not become a risk for you.",
         "It starts with a WhatsApp message or call about what you do and who your customers are. Vedansh then sends a short written plan: pages or screens, what you need to provide, dates and a costed list. Once you approve it, Ankur starts building, Santosh joins where AI, cloud hosting or data is involved, and you receive preview links at each stage that open on any phone. If a preview is slow to load on your connection, that is useful feedback, not a nuisance, and we fix it before launch.",
@@ -234,9 +234,9 @@ const tuensang: CityContent = {
         "A standard site for a Tuensang shop, school or clinic is usually live in one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays usually come from waiting for content, so sending it early helps most.",
     },
     {
-      question: "Which is the best IT company in Tuensang for a small business?",
+      question: "Which is the best IT services team in Tuensang for a small business?",
       answer:
-        "The best IT company for a Tuensang business is one that publishes prices, puts the domain and code in your name, tests pages on weak networks and still answers a year after launch. Ask every provider the same questions and compare written quotes. We meet those tests, but comparing two or three options is sensible.",
+        "The best IT services team for a Tuensang business is one that publishes prices, puts the domain and code in your name, tests pages on weak networks and still answers a year after launch. Ask every provider the same questions and compare written quotes. We meet those tests, but comparing two or three options is sensible.",
     },
     {
       question: "Can you put my Tuensang business on Google Maps?",

@@ -10,11 +10,11 @@ const content: CityContent = {
       "Freelance IT services in Uttarakhand from three remote engineers: custom software, apps, AI automation, SEO and hosting across Garhwal and Kumaon. From ₹10,000.",
     keywords: [
       "IT services in Uttarakhand",
-      "software development company in Uttarakhand",
-      "IT company in Uttarakhand",
+      "software development team in Uttarakhand",
+      "IT services team in Uttarakhand",
       "IT solutions Uttarakhand",
       "custom software development Uttarakhand",
-      "web development company Uttarakhand",
+      "web development team Uttarakhand",
       "mobile app development Uttarakhand",
       "AI automation Uttarakhand",
       "homestay booking website Uttarakhand",
@@ -24,15 +24,15 @@ const content: CityContent = {
       "SEO services Uttarakhand",
       "ecommerce website for pahadi products",
       "cloud hosting and IT support Uttarakhand",
-      "IT company near me Dehradun Haldwani",
-      "software company Garhwal region",
-      "software company Kumaon region",
+      "IT services team near me Dehradun Haldwani",
+      "software team Garhwal region",
+      "software team Kumaon region",
       "Android app development Uttarakhand",
       "mobile app developers Uttarakhand",
       "iOS app development Uttarakhand",
       "iPhone app developers Uttarakhand",
       "उत्तराखंड में आईटी कंपनी",
-      "Uttarakhand mein software company",
+      "Uttarakhand mein software team",
     ],
   },
   hero: {
@@ -82,9 +82,9 @@ const content: CityContent = {
     },
     {
       id: "software-development-company-uttarakhand",
-      heading: "Freelance developers or a software development company in Uttarakhand for custom software?",
+      heading: "Freelance developers or a software development team in Uttarakhand for custom software?",
       paragraphs: [
-        "Whether you hire a software development company in Uttarakhand or a freelance team, the developer earns its fee when it replaces a manual process that costs hours each week, such as tracking factory dispatches, allocating rooms across several homestays or collecting school fees. Custom software from BtechWaleTech starts at ₹60,000 and takes six to twelve weeks for most projects.",
+        "Whether you hire a software development team in Uttarakhand or a freelance team, the developer earns its fee when it replaces a manual process that costs hours each week, such as tracking factory dispatches, allocating rooms across several homestays or collecting school fees. Custom software from BtechWaleTech starts at ₹60,000 and takes six to twelve weeks for most projects.",
         "Typical builds for the state include production and dispatch trackers for pharma and FMCG suppliers in Haridwar, vendor portals for auto-component units around Pantnagar and Sitarganj, multi-property booking panels for hotel groups with rooms in Mussoorie, Nainital and Corbett, and admissions portals for the boarding schools and colleges that Dehradun is known for. Each is a web application with logins, roles, an admin panel and reports, running on a cloud server.",
         "We usually build with React or Next.js for the interface and Node.js or Python on the server, with a PostgreSQL database. That stack is widely used, so any competent developer in India can maintain it later. Source code, database and hosting accounts belong to the client from day one.",
       ],
@@ -196,9 +196,9 @@ const content: CityContent = {
     },
     {
       id: "choose-it-company-uttarakhand",
-      heading: "How to choose between an IT company in Uttarakhand and a freelance team",
+      heading: "How to choose between an IT services team in Uttarakhand and a freelance team",
       paragraphs: [
-        "When comparing an IT company in Uttarakhand with freelance developers such as BtechWaleTech, check who will write the code, whether you will own the domain, hosting and source code, how support works after launch and whether the quote is broken into clear line items. A familiar local name is useful, but ownership and support terms matter more over the years.",
+        "When comparing an IT services team in Uttarakhand with freelance developers such as BtechWaleTech, check who will write the code, whether you will own the domain, hosting and source code, how support works after launch and whether the quote is broken into clear line items. A familiar local name is useful, but ownership and support terms matter more over the years.",
         "Ask for examples of similar work, such as booking systems if you run a property or vendor portals if you run a factory. Ask how the site will perform on slow networks. Ask who handles hosting renewals and what happens if the developer becomes unavailable. Ask whether you can edit content yourself.",
       ],
       list: [

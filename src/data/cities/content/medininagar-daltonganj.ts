@@ -11,12 +11,12 @@ const medininagar: CityContent = {
     keywords: [
       "IT services in Medininagar",
       "IT services in Daltonganj",
-      "IT company in Medininagar",
-      "website development company in Medininagar",
+      "IT services team in Medininagar",
+      "website development team in Medininagar",
       "web design in Daltonganj",
-      "app development company in Medininagar",
+      "app development team in Medininagar",
       "Android app development in Daltonganj",
-      "software company in Medininagar",
+      "software team in Medininagar",
       "SEO services in Medininagar",
       "digital marketing in Daltonganj",
       "ecommerce website in Medininagar",
@@ -85,20 +85,20 @@ const medininagar: CityContent = {
     },
     {
       id: "wholesale-distributors-software",
-      heading: "Software company in Medininagar for wholesalers and distributors",
+      heading: "Software team in Medininagar for wholesalers and distributors",
       paragraphs: [
         "A large share of Medininagar's trade is wholesale. Grocery, cloth, footwear, hardware, cement, electrical goods, medicine and FMCG distributors supply shops across Palamu and into neighbouring Garhwa, Latehar and parts of Bihar. Most of them extend credit, deliver on their own vehicles and chase payments by phone.",
         "The daily pain points are familiar: which retailer ordered what, what was delivered and on which trip, how much each shop owes and since when, and which salesperson collected cash. Registers, Tally entries and WhatsApp photos never quite agree, and the owner ends up reconciling at night.",
-        "As a <strong>software company in Medininagar</strong> for such firms, we build web tools that take orders from salespeople's phones, create delivery lists by route, record what was handed over, and keep each shop's credit ledger up to date, with a WhatsApp statement sent on request. Custom software is ₹60,000 onwards and arrives in stages across six to twelve weeks, beginning with orders and credit, since those save the most time.",
+        "As a <strong>software team in Medininagar</strong> for such firms, we build web tools that take orders from salespeople's phones, create delivery lists by route, record what was handed over, and keep each shop's credit ledger up to date, with a WhatsApp statement sent on request. Custom software is ₹60,000 onwards and arrives in stages across six to twelve weeks, beginning with orders and credit, since those save the most time.",
         "We can export data to Tally rather than replace it, so your accountant keeps working the way they already do.",
       ],
     },
     {
       id: "hospitals-website-development",
-      heading: "Website development company in Medininagar for hospitals and clinics",
+      heading: "Website development team in Medininagar for hospitals and clinics",
       paragraphs: [
         "With Medini Rai Medical College and Hospital and a growing number of private hospitals, nursing homes and diagnostic centres, Medininagar is where most of Palamu comes for treatment. Many patients travel two or three hours, often with family members, and a wasted trip costs them a day's income.",
-        "A <strong>website development company in Medininagar</strong> should give a hospital pages that answer the questions families ask on the phone: doctors and their days, specialities, emergency and ambulance numbers, tests done in-house, insurance and government scheme acceptance where applicable, visiting hours, and a clear map from the bus stand and station.",
+        "A <strong>website development team in Medininagar</strong> should give a hospital pages that answer the questions families ask on the phone: doctors and their days, specialities, emergency and ambulance numbers, tests done in-house, insurance and government scheme acceptance where applicable, visiting hours, and a clear map from the bus stand and station.",
         "We add online appointment requests that land in WhatsApp or a simple dashboard, and token reminders for OPD days. Pages are written in plain Hindi without medical jargon, and kept light so they open on basic phones.",
         "We do not publish patient images or cure claims, and every doctor profile is checked with the doctor before going live. Our <a href=\"/services/web-development/\">web development service</a> page explains how builds run.",
       ],
@@ -118,7 +118,7 @@ const medininagar: CityContent = {
       heading: "Android app development in Medininagar, with iPhone versions included",
       paragraphs: [
         "An app is only worth paying for if people keep opening it. In Medininagar, strong candidates are coaching institutes that run daily tests and share notes, schools sending circulars and fee reminders, distributors whose retailers re-order every week, and hospitals handing out OPD tokens to crowds of patients.",
-        "As an <strong>app development company in Medininagar</strong> working remotely, we build in Flutter or React Native, which lets a single codebase produce both an Android app and an iPhone app. Version one usually covers mobile OTP login, push notifications, the few screens users need most, and a browser-based admin panel for your staff. We upload the apps to Google Play and the Apple App Store through developer accounts owned by your business.",
+        "As an <strong>app development team in Medininagar</strong> working remotely, we build in Flutter or React Native, which lets a single codebase produce both an Android app and an iPhone app. Version one usually covers mobile OTP login, push notifications, the few screens users need most, and a browser-based admin panel for your staff. We upload the apps to Google Play and the Apple App Store through developer accounts owned by your business.",
         "<strong>Android app development in Daltonganj</strong> with us is ₹40,000 onwards. Features such as online fee payment, offline test attempts, video lessons, GPS for delivery vans or links to existing software raise the price, and each one is itemised. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "Where customers only want your address, phone number and a price list, a website does the job for about a quarter of the cost. We would rather recommend that than build an app that gets uninstalled in a week.",
       ],
@@ -164,9 +164,9 @@ const medininagar: CityContent = {
     },
     {
       id: "remote-team-medininagar",
-      heading: "Working with an IT company in Medininagar that has no local office",
+      heading: "Working with an IT services team in Medininagar that has no local office",
       paragraphs: [
-        "Someone looking for an <strong>IT company in Medininagar</strong> may expect a shopfront they can walk into. We have none here, and we tell every client that before anything else. In exchange you talk straight to the engineers building your project.",
+        "Someone looking for an <strong>IT services team in Medininagar</strong> may expect a shopfront they can walk into. We have none here, and we tell every client that before anything else. In exchange you talk straight to the engineers building your project.",
         "The first step is a call about your business, customers and goals. Next you receive a written plan of pages or app screens, dates, and a quote split into items. When you agree, we send preview links to open on your own phone and pass around to family or partners well before launch. Any Hindi text is sent to you for approval first.",
         "WhatsApp messages are answered on all seven days, on Indian Standard Time. If a date is going to slip, you are told the moment we know. Payments are tied to finished stages, and nothing is invoiced before your written go-ahead. Get in touch through our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -231,7 +231,7 @@ const medininagar: CityContent = {
         "Once your text and photographs are with us, a static site usually takes one to two weeks. An SEO site of 700+ pages needs three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Content that arrives late is the usual reason for delays, so collecting it early saves time.",
     },
     {
-      question: "Who is the best website development company in Medininagar?",
+      question: "Who is the best website development team in Medininagar?",
       answer:
         "The best choice is a provider who shares starting prices, registers your domain and code in your name, replies after launch and can show live sites. Put the same questions to each one. We are comfortable being judged on those points, yet speaking to two or three providers before you decide is always a good idea.",
     },

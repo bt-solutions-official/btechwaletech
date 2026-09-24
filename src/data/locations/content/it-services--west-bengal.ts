@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in West Bengal: custom software, Android and iOS apps, AI automation, SEO and stores for Kolkata, Siliguri, Durgapur and beyond. From ₹10,000.",
     keywords: [
       "IT services in West Bengal",
-      "software development company in West Bengal",
-      "IT company in West Bengal",
+      "software development team in West Bengal",
+      "IT services team in West Bengal",
       "IT solutions West Bengal",
       "freelance software developers West Bengal",
       "custom software development West Bengal",
@@ -26,7 +26,7 @@ const content: CityContent = {
       "distributor software Siliguri",
       "handloom saree ecommerce website Bengal",
       "SEO services West Bengal",
-      "IT company near me Kolkata Siliguri",
+      "IT services team near me Kolkata Siliguri",
       "software developer Salt Lake Sector V New Town",
       "পশ্চিমবঙ্গে সফটওয়্যার কোম্পানি",
       "पश्चिम बंगाल में आईटी सेवाएं",
@@ -78,7 +78,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-west-bengal",
-      heading: "Freelance team vs an IT company in West Bengal: which should you choose?",
+      heading: "Freelance team vs an IT services team in West Bengal: which should you choose?",
       paragraphs: [
         "A freelance team suits most West Bengal businesses that need one well-defined system, such as a distributor app, a tea estate tracker or a store, while a large IT company in West Bengal suits enterprise programmes needing many developers and formal contracts. BtechWaleTech is a freelance group of three engineers, so we take the focused work.",
         "The differences are practical. Large IT firms in Sector V and New Town are built for big clients and long contracts; small and mid-sized businesses often find themselves routed through sales and project managers. Local freelancers are affordable but may disappear after launch. A small group that publishes prices, hands over all code and maintains what it built sits between those extremes.",

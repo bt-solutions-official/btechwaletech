@@ -9,7 +9,7 @@ const proddatur: CityContent = {
     description:
       "Websites, local SEO, catalogue stores and WhatsApp automation for Proddatur jewellers, cloth merchants, cotton traders and clinics. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Proddatur",
+      "website development team in Proddatur",
       "web design Proddatur",
       "website designer Proddatur",
       "jewellery shop website Proddatur",

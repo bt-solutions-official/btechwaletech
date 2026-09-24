@@ -10,12 +10,12 @@ const bapatla: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Bapatla aqua farms, rice mills, colleges, clinics and Suryalanka tourism.",
     keywords: [
       "IT services in Bapatla",
-      "IT company in Bapatla",
-      "website development company in Bapatla",
+      "IT services team in Bapatla",
+      "website development team in Bapatla",
       "web design in Bapatla",
-      "app development company in Bapatla",
+      "app development team in Bapatla",
       "Android app development in Bapatla",
-      "software company in Bapatla",
+      "software team in Bapatla",
       "SEO services in Bapatla",
       "digital marketing in Bapatla",
       "ecommerce website in Bapatla",
@@ -75,10 +75,10 @@ const bapatla: CityContent = {
     },
     {
       id: "aquaculture-software-bapatla",
-      heading: "Software company in Bapatla for aqua farmers and shrimp businesses",
+      heading: "Software team in Bapatla for aqua farmers and shrimp businesses",
       paragraphs: [
         "Aquaculture shapes the coastal side of Bapatla. Fish and shrimp ponds sit alongside paddy fields, and the district has shrimp processing units as well as the dealers, labs, feed suppliers, aerator mechanics and harvest contractors that serve them. Money moves quickly and in large amounts, yet much of the record-keeping still happens in notebooks and phone galleries.",
-        "As a <strong>software company in Bapatla</strong> that farmers and dealers hire remotely, we build practical web tools for this work. A farmer with several ponds can log stocking dates, daily feed, water test notes, treatments and harvest weights from a phone, and see cost per pond at the end of a crop. A feed or input dealer can track credit to each farmer, deliveries and collections, with WhatsApp reminders when payments fall due.",
+        "As a <strong>software team in Bapatla</strong> that farmers and dealers hire remotely, we build practical web tools for this work. A farmer with several ponds can log stocking dates, daily feed, water test notes, treatments and harvest weights from a phone, and see cost per pond at the end of a crop. A feed or input dealer can track credit to each farmer, deliveries and collections, with WhatsApp reminders when payments fall due.",
         "We do not give aquaculture advice or promise yields; the software records what you and your technicians decide. Screens use Telugu labels where helpful and large buttons, because entries are often made at the pond edge. Data is backed up automatically, so a lost phone does not mean a lost season.",
         "Custom software starts at ₹60,000 and generally takes six to twelve weeks. We begin with a written list of screens and reports, agree it with you, and build in stages so you can test each part on a real crop cycle before we add the next.",
       ],
@@ -95,10 +95,10 @@ const bapatla: CityContent = {
     },
     {
       id: "website-development-company-in-bapatla",
-      heading: "Website development company in Bapatla: getting the first site right",
+      heading: "Website development team in Bapatla: getting the first site right",
       paragraphs: [
         "A first website for a Bapatla shop or office should settle the questions customers already phone about. How do I reach you from the bus stand or the new district offices? What is in stock? What are the hours on Sundays and festival days? Is there parking? Do you deliver to Chirala or Karlapalem? Clear answers turn calls into visits.",
-        "As a <strong>website development company in Bapatla</strong> that clients reach online, we begin with a short call to agree the page list. That is usually a home page, a page per product line or service, a contact page with an exact map pin and a gallery of real photographs. Static sites of up to 100 pages are ₹10,000 onwards and are usually live in one to two weeks.",
+        "As a <strong>website development team in Bapatla</strong> that clients reach online, we begin with a short call to agree the page list. That is usually a home page, a page per product line or service, a contact page with an exact map pin and a gallery of real photographs. Static sites of up to 100 pages are ₹10,000 onwards and are usually live in one to two weeks.",
         "For <strong>web design in Bapatla</strong>, your own photographs and words carry the page, not stock pictures of foreign skylines. Telugu text is typed as real text, not pasted as an image, so customers can read it comfortably and Google can index it. Pages are kept light for mobile data, with call and WhatsApp buttons always visible.",
         "Professionals who now serve clients at the district headquarters, such as advocates, tax consultants, surveyors and architects, often need only a clean four- or five-page site and a correct Business Profile. More on our build process is on the <a href=\"/services/web-development/\">web development</a> page.",
       ],
@@ -118,7 +118,7 @@ const bapatla: CityContent = {
       heading: "Android and iOS app development in Bapatla for field staff and repeat customers",
       paragraphs: [
         "An app earns its cost in Bapatla when people use it often. An aqua feed or medicine dealer can give field staff an app to record farm visits, orders and collections across the mandals. A college can send timetables, attendance and fee reminders to students. A supermarket, milk supplier or meat shop can take repeat orders without a flood of calls.",
-        "As an <strong>app development company in Bapatla</strong> that businesses reach on WhatsApp, we build in Flutter or React Native, so one codebase delivers both Android and iOS apps. A standard build includes phone-number login, push notifications, an admin panel for staff and basic reports. We publish on Google Play and the App Store through developer accounts registered to you.",
+        "As an <strong>app development team in Bapatla</strong> that businesses reach on WhatsApp, we build in Flutter or React Native, so one codebase delivers both Android and iOS apps. A standard build includes phone-number login, push notifications, an admin panel for staff and basic reports. We publish on Google Play and the App Store through developer accounts registered to you.",
         "<strong>Android app development in Bapatla</strong> is the main demand, since most farmers, staff and customers use Android phones. Adding iOS usually costs little with a shared codebase, and it helps with students and relatives who use iPhones. Apps start at ₹40,000; offline entry for low-signal pond areas, payments inside the app and links to billing software affect the final figure.",
         "If customers only need your address, timings and a price list, an app is overkill. A fast site and an accurate Maps listing will do the job with nothing to install, and we will say so. Details are on the <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> page.",
       ],
@@ -175,11 +175,11 @@ const bapatla: CityContent = {
     },
     {
       id: "remote-it-company-bapatla",
-      heading: "Hiring a remote IT company in Bapatla: how it works day to day",
+      heading: "Hiring a remote IT services team in Bapatla: how it works day to day",
       paragraphs: [
         "Some Bapatla owners prefer to deal with someone they can visit, and many will look to Guntur or Vijayawada for that. We are open about it: we have no office in Bapatla or anywhere in the district. We are a three-person remote team, and our process is set up so you always know where your project stands.",
         "You start on WhatsApp by sending photographs, voice notes, price lists or links to websites you like. We reply with questions and a short written plan. Calls and screen shares are scheduled around your working hours, including evenings. We reply seven days a week on IST, and each milestone ends with something you can open on your phone, whether a draft page or a test build.",
-        "The real test of an <strong>IT company in Bapatla</strong> is whether it replies promptly, explains without jargon and commits in writing. We keep a shared log of decisions, changes and dates that every partner or family member you add can read, so nothing depends on memory.",
+        "The real test of an <strong>IT services team in Bapatla</strong> is whether it replies promptly, explains without jargon and commits in writing. We keep a shared log of decisions, changes and dates that every partner or family member you add can read, so nothing depends on memory.",
         "Without rent or a sales team, more of your budget goes into the work. To begin, send a message through our <a href=\"/contact/\">contact page</a> with your business name and what you want customers to do.",
       ],
     },
@@ -230,7 +230,7 @@ const bapatla: CityContent = {
         "With your photographs and details in hand, a small site usually goes live in one to two weeks. SEO sites take three to five weeks, stores four to eight weeks and custom software six to twelve. Waiting for content is the most common delay, so our first message lists exactly what we need from you.",
     },
     {
-      question: "Which is the best website development company in Bapatla?",
+      question: "Which is the best website development team in Bapatla?",
       answer:
         "Pick the provider that registers the domain and hosting to you, hands over source code, gives an itemised quote and keeps answering after launch. We meet those tests as a remote team without a Bapatla office. Ask each option you consider, including us, to show live work and write down who owns what.",
     },

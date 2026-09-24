@@ -10,12 +10,12 @@ const yadgir: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Yadgir dal traders, Kadechur pharma suppliers, clinics, colleges and shops.",
     keywords: [
       "IT services in Yadgir",
-      "IT company in Yadgir",
-      "website development company in Yadgir",
+      "IT services team in Yadgir",
+      "website development team in Yadgir",
       "web design in Yadgir",
-      "app development company in Yadgir",
+      "app development team in Yadgir",
       "Android app development in Yadgir",
-      "software company in Yadgir",
+      "software team in Yadgir",
       "SEO services in Yadgir",
       "digital marketing in Yadgir",
       "ecommerce website in Yadgir",
@@ -75,20 +75,20 @@ const yadgir: CityContent = {
     },
     {
       id: "dal-bowl-traders",
-      heading: "Software company in Yadgir for tur dal traders, mills and commission agents",
+      heading: "Software team in Yadgir for tur dal traders, mills and commission agents",
       paragraphs: [
         "The black soil around Yadgir grows large crops of red gram and jowar, which is why the district is often called the dal bowl of Karnataka. Cotton, sunflower, groundnut and, where canal water reaches, paddy add to the mix. Every harvest brings a rush of arrivals, weighments, rate negotiations and payments that are still written in long notebooks in many shops.",
-        "As a <strong>software company in Yadgir</strong> for this trade, we build tools that are small but save hours. A purchase register records each farmer, lot, bag count, weight, moisture note and rate. A payment ledger shows what is due to whom and when it was paid. A dispatch screen tracks which truck left for which buyer with how many quintals, and prints a clean challan.",
+        "As a <strong>software team in Yadgir</strong> for this trade, we build tools that are small but save hours. A purchase register records each farmer, lot, bag count, weight, moisture note and rate. A payment ledger shows what is due to whom and when it was paid. A dispatch screen tracks which truck left for which buyer with how many quintals, and prints a clean challan.",
         "For dal mills we add raw-stock and finished-stock views, grade-wise yields and a simple buyer list with outstanding balances. Everything works in a browser on a phone or shop computer, with separate logins for the owner, the munim and field buyers. Access can be limited so a buyer in a village sees only his own entries.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We usually start with the purchase and payment register before the next harvest and add the rest in the slack months, so the tool proves itself before you spend more.",
       ],
     },
     {
       id: "kadechur-pharma-suppliers",
-      heading: "Website development company in Yadgir for Kadechur–Badiyal industrial suppliers",
+      heading: "Website development team in Yadgir for Kadechur–Badiyal industrial suppliers",
       paragraphs: [
         "The KIADB Kadechur–Badiyal industrial area, a short drive from Yadgir town, has drawn several bulk drug and drug intermediate manufacturers, and more have applied for environmental clearance. Plants of this kind need a steady chain of local support: fabrication and piping contractors, electrical and instrumentation firms, transporters, canteen operators, housekeeping and security agencies, lab-consumable suppliers, and hostels or rooms for staff.",
-        "Purchase and EHS teams in these plants check vendors online before they call. A <strong>website development company in Yadgir</strong> should give such a vendor a site that answers their questions: services offered, equipment owned, certifications and registrations, safety record and training, manpower strength, and a named contact for quotes. The tone should be factual, with photographs of your own crew and work, not stock images.",
+        "Purchase and EHS teams in these plants check vendors online before they call. A <strong>website development team in Yadgir</strong> should give such a vendor a site that answers their questions: services offered, equipment owned, certifications and registrations, safety record and training, manpower strength, and a named contact for quotes. The tone should be factual, with photographs of your own crew and work, not stock images.",
         "We add an enquiry form that accepts drawings or tender documents, and for contractors with many sites, a simple work-order status page. We never list a client's name on your site unless you have that client's permission in writing.",
         "These sites usually start from ₹10,000 for a compact static build, or more if you want a larger SEO site that also ranks for searches from Raichur, Kalaburagi and Hyderabad. Details are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -118,7 +118,7 @@ const yadgir: CityContent = {
       heading: "Android app development in Yadgir, with iOS apps for the same users",
       paragraphs: [
         "An app pays off when the same people open it again and again. In Yadgir that could be field buyers recording tur purchases in villages, students of a coaching centre getting daily notes and test results, a wholesaler's retailers in Shahapur and Surapura placing repeat orders, or a hospital's patients booking tokens and seeing reports.",
-        "As an <strong>app development company in Yadgir</strong> working remotely, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release normally includes login by mobile number, push notifications, the core screens your users need, and an admin panel where your staff add products, notices or rates. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Yadgir</strong> working remotely, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release normally includes login by mobile number, push notifications, the core screens your users need, and an admin panel where your staff add products, notices or rates. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Yadgir</strong> with us starts at ₹40,000. Offline entry for villages with weak signal, online payments, maps, photographs, and links to your billing software each add cost, and each appears as a separate line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, a phone number and a rate list, a website does that for far less money and nobody has to install anything. In that case we will tell you to start with the website, and revisit the app only when repeat use is clear.",
       ],
@@ -165,11 +165,11 @@ const yadgir: CityContent = {
     },
     {
       id: "remote-team-yadgir",
-      heading: "How our remote IT company in Yadgir's time zone keeps projects on track",
+      heading: "How our remote IT services team in Yadgir's time zone keeps projects on track",
       paragraphs: [
         "Being remote means we write everything down. The first call covers what your business does, who your customers are and what the site, app or automation should achieve. Then you receive a page or screen plan, a timeline and an itemised quote. Work begins only after you approve it in writing.",
         "During the build you get preview links you can open on your own phone and share with a partner or family member. Kannada text is sent for your review before it is published, and we do not change anything live without telling you. We reply on WhatsApp seven days a week on Indian Standard Time.",
-        "Payments are split into stages linked to work you can see. If a delay comes up, from our side or because content is late, we tell you when we know rather than on the delivery date. For anyone looking for an <strong>IT company in Yadgir</strong> that is honest about not having a local desk, this is how the arrangement works in practice.",
+        "Payments are split into stages linked to work you can see. If a delay comes up, from our side or because content is late, we tell you when we know rather than on the delivery date. For anyone looking for an <strong>IT services team in Yadgir</strong> that is honest about not having a local desk, this is how the arrangement works in practice.",
       ],
     },
     {
@@ -232,7 +232,7 @@ const yadgir: CityContent = {
         "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest factor in speed is how quickly content and approvals come from your side.",
     },
     {
-      question: "Which is the best website development company in Yadgir?",
+      question: "Which is the best website development team in Yadgir?",
       answer:
         "Judge any provider on the same points: published prices, domain and code in your name, a written quote, real past work and support after launch. We meet those tests and reply on WhatsApp seven days a week, but it is sensible to speak to two or three providers before deciding.",
     },

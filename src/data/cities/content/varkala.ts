@@ -10,12 +10,12 @@ const varkala: CityContent = {
       "Booking websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Varkala cliff homestays, Ayurveda centres, yoga schools, cafés and traders.",
     keywords: [
       "IT services in Varkala",
-      "IT company in Varkala",
-      "website development company in Varkala",
+      "IT services team in Varkala",
+      "website development team in Varkala",
       "web design in Varkala",
-      "app development company in Varkala",
+      "app development team in Varkala",
       "Android app development in Varkala",
-      "software company in Varkala",
+      "software team in Varkala",
       "SEO services in Varkala",
       "digital marketing in Varkala",
       "ecommerce website in Varkala",
@@ -84,10 +84,10 @@ const varkala: CityContent = {
     },
     {
       id: "ayurveda-yoga-centres",
-      heading: "Website development company in Varkala for Ayurveda centres and yoga schools",
+      heading: "Website development team in Varkala for Ayurveda centres and yoga schools",
       paragraphs: [
         "Ayurveda treatment and yoga teaching are two of Varkala's main draws, and both are sold on trust. A guest booking a fourteen-day panchakarma programme wants to know who the physician is, what the consultation involves, what the daily routine and diet look like, and what is and is not included in the package. A student paying for teacher training wants the syllabus, the teachers' backgrounds, the certification body, the batch dates and the accommodation arrangement.",
-        "A careful <strong>website development company in Varkala</strong> should put those answers on the page instead of hiding them behind an enquiry form. We build programme pages with day-by-day outlines, physician and teacher profiles written with their approval, batch calendars that you update yourself, and deposit payment. Medical claims stay out; we describe what a treatment involves, not what it cures.",
+        "A careful <strong>website development team in Varkala</strong> should put those answers on the page instead of hiding them behind an enquiry form. We build programme pages with day-by-day outlines, physician and teacher profiles written with their approval, batch calendars that you update yourself, and deposit payment. Medical claims stay out; we describe what a treatment involves, not what it cures.",
         "Where most students come from abroad, pages can be added in the languages your guests actually read. We translate only with a native reader checking the text, because a clumsy translation looks worse than English. Course sites with application forms and document upload usually start in the ₹10,000 to ₹20,000 range, depending on page count, and grow into full booking systems only when the numbers justify it.",
       ],
     },
@@ -120,19 +120,19 @@ const varkala: CityContent = {
     },
     {
       id: "colleges-schools-varkala",
-      heading: "Software company in Varkala for colleges, schools and tuition centres",
+      heading: "Software team in Varkala for colleges, schools and tuition centres",
       paragraphs: [
         "Education is the other big employer around the town. Sree Narayana College at Sivagiri, affiliated to the University of Kerala since 1964, sits on a hilltop campus in Sreenivasapuram. SR Medical College is at Akathumuri, and the taluk has many higher secondary schools, nursing and paramedical institutes, tuition centres and entrance coaching classes serving students from Edava, Navaikulam, Pallickal and further.",
-        "What these institutions need is rarely glamorous. Admission forms that save straight into a sheet instead of a pile of paper. A notice board that parents can read without joining ten WhatsApp groups. Fee reminders, attendance summaries and exam schedules that one office clerk can manage. As a <strong>software company in Varkala</strong> in the practical sense, we build these as small web applications with separate logins for office staff, teachers and parents.",
+        "What these institutions need is rarely glamorous. Admission forms that save straight into a sheet instead of a pile of paper. A notice board that parents can read without joining ten WhatsApp groups. Fee reminders, attendance summaries and exam schedules that one office clerk can manage. As a <strong>software team in Varkala</strong> in the practical sense, we build these as small web applications with separate logins for office staff, teachers and parents.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, delivered in stages so the admission module is ready before the admission rush. For a tuition centre that only needs a course page and an enquiry form, a static site from ₹10,000 is the sensible choice, and we will say so rather than sell a portal you will not use.",
       ],
     },
     {
       id: "town-traders-clinics",
-      heading: "IT company in Varkala for town traders, clinics and builders",
+      heading: "IT services team in Varkala for town traders, clinics and builders",
       paragraphs: [
         "Away from the beach, Varkala is an ordinary Kerala market town. Around the Maithanam junction, the railway station and the Puthenchantha road there are textile and jewellery shops, hardware and building material dealers, pharmacies, hospitals and clinics, driving schools, bakeries and supermarkets. Their customers are local families who search on phones in Malayalam for timings, stock and directions.",
-        "An <strong>IT company in Varkala</strong> that serves these businesses has to keep things plain. A hospital needs doctor lists, OPD days and emergency numbers. A building material dealer needs product categories and a way for contractors to send quantity lists on WhatsApp. A jewellery shop needs a gold rate note that staff can update daily. A builder or villa-rental owner needs floor plans, approvals and location maps laid out clearly.",
+        "An <strong>IT services team in Varkala</strong> that serves these businesses has to keep things plain. A hospital needs doctor lists, OPD days and emergency numbers. A building material dealer needs product categories and a way for contractors to send quantity lists on WhatsApp. A jewellery shop needs a gold rate note that staff can update daily. A builder or villa-rental owner needs floor plans, approvals and location maps laid out clearly.",
         "We write these pages in Malayalam with English alongside, link them to the Google Maps listing, and train one person at the shop to change prices and photos. For businesses with more than one counter or branch in the taluk, a simple stock and billing tool can follow, but only after the basic listing is working and bringing calls.",
       ],
     },
@@ -141,7 +141,7 @@ const varkala: CityContent = {
       heading: "Android app development in Varkala, with iOS apps built alongside",
       paragraphs: [
         "An app earns its keep only when the same people open it again and again. In Varkala that describes a yoga school's enrolled students who need daily schedules and class changes, an Ayurveda centre's guests during a two- or three-week programme, a resort group with several properties and loyal repeat visitors, a college sending notices to parents, or a supermarket taking home-delivery orders from nearby wards.",
-        "As an <strong>app development company in Varkala</strong> without a local office, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first release has login by mobile number or email, push notifications, the few screens users really need, and an admin panel your staff can use from a laptop. We publish it on Google Play and the Apple App Store under developer accounts registered in your name, not ours.",
+        "As an <strong>app development team in Varkala</strong> without a local office, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first release has login by mobile number or email, push notifications, the few screens users really need, and an admin panel your staff can use from a laptop. We publish it on Google Play and the Apple App Store under developer accounts registered in your name, not ours.",
         "<strong>Android app development in Varkala</strong> with us starts at ₹40,000, and the iOS version comes from the same build. Online payment, multiple languages, offline access and links to your booking or billing software each appear as separate lines in the quote. More about scope is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Be honest with yourself about usage. A guesthouse whose guests stay four nights and never return does not need an app; a quick website and a well-kept WhatsApp number serve it better at a fraction of the price.",
       ],
@@ -233,7 +233,7 @@ const varkala: CityContent = {
         "It can bring some, mostly from repeat guests, referrals and people who find you on Google Maps and want to check before booking. Portals will still send most first-time travellers. A clear site with honest photos, seasonal rates and a quick WhatsApp reply is the cheapest way to shift the balance slowly.",
     },
     {
-      question: "Which is the best website development company in Varkala?",
+      question: "Which is the best website development team in Varkala?",
       answer:
         "Judge any provider by whether they publish prices, register the domain and code to you, test on real phones and stay reachable after launch. Ask each one for live examples. We meet those tests and answer WhatsApp every day, but compare at least two options before you decide.",
     },

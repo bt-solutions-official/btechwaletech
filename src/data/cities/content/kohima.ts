@@ -9,7 +9,7 @@ const kohima: CityContent = {
     description:
       "Websites, homestay booking pages, local SEO and WhatsApp automation for Kohima businesses, from Midland to Kisama. Static sites from ₹10,000 with free upkeep.",
     keywords: [
-      "website development company in Kohima",
+      "website development team in Kohima",
       "web designer Kohima",
       "website design Nagaland",
       "freelance web developer Kohima",

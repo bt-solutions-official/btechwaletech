@@ -9,7 +9,7 @@ const kakinada: CityContent = {
     description:
       "Websites, SEO, export catalogues and WhatsApp automation for Kakinada seafood exporters, port agents, Uppada weavers and clinics. Published prices, code yours.",
     keywords: [
-      "website development company in Kakinada",
+      "website development team in Kakinada",
       "web designer Kakinada",
       "website design Kakinada Andhra Pradesh",
       "freelance web developer Kakinada",

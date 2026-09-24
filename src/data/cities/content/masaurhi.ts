@@ -10,12 +10,12 @@ const masaurhi: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Masaurhi traders, coaching centres, clinics and farm dealers near Patna.",
     keywords: [
       "IT services in Masaurhi",
-      "IT company in Masaurhi",
-      "website development company in Masaurhi",
+      "IT services team in Masaurhi",
+      "website development team in Masaurhi",
       "web design in Masaurhi",
-      "app development company in Masaurhi",
+      "app development team in Masaurhi",
       "Android app development in Masaurhi",
-      "software company in Masaurhi",
+      "software team in Masaurhi",
       "SEO services in Masaurhi",
       "digital marketing in Masaurhi",
       "ecommerce website in Masaurhi",
@@ -83,19 +83,19 @@ const masaurhi: CityContent = {
     },
     {
       id: "coaching-schools",
-      heading: "Website development company in Masaurhi for schools and coaching centres",
+      heading: "Website development team in Masaurhi for schools and coaching centres",
       paragraphs: [
         "Education is one of the biggest local businesses here. D.N. College and P.L.S. College draw students from the whole sub-division, Government ITI Masaurhi trains young people in trades, and private schools and coaching centres prepare students for board exams, competitive tests and government job exams. Parents compare these options carefully, and they increasingly do it online.",
-        "As a <strong>website development company in Masaurhi</strong> in the practical sense, we build school and coaching sites that answer the questions parents actually ask: which classes and batches run, what the fees are, who teaches, where results are posted and how to apply. Online admission forms feed a simple list that the office can download, rather than a pile of paper.",
+        "As a <strong>website development team in Masaurhi</strong> in the practical sense, we build school and coaching sites that answer the questions parents actually ask: which classes and batches run, what the fees are, who teaches, where results are posted and how to apply. Online admission forms feed a simple list that the office can download, rather than a pile of paper.",
         "For coaching centres we can add a notice board, a test schedule and a results page. For schools with more than a few hundred students, a fee and attendance tool saves the office real hours each month. That is custom software, starting at ₹60,000, and we usually build the fee module first because it pays back quickest.",
       ],
     },
     {
       id: "agri-inputs",
-      heading: "Software company in Masaurhi for seed, fertiliser and farm equipment dealers",
+      heading: "Software team in Masaurhi for seed, fertiliser and farm equipment dealers",
       paragraphs: [
         "Most of the land around Masaurhi is farmed, and the Punpun, Morhar and Dardha rivers rise and fall with the monsoon. Paddy and wheat dominate the seasons, and vegetables and pulses fill the gaps. Every season brings a rush to seed, fertiliser and pesticide dealers, pump-set mechanics and tractor spare-parts shops.",
-        "These businesses run on credit. A farmer takes urea in July and pays after the harvest. Keeping track of this in a register works until it does not, and one lost page can mean a lost season's margin. As a <strong>software company in Masaurhi</strong> in the working sense, we build small billing and credit tools: each sale entered once, a running balance for every customer, a reminder list before harvest, and stock levels by product and batch.",
+        "These businesses run on credit. A farmer takes urea in July and pays after the harvest. Keeping track of this in a register works until it does not, and one lost page can mean a lost season's margin. As a <strong>software team in Masaurhi</strong> in the working sense, we build small billing and credit tools: each sale entered once, a running balance for every customer, a reminder list before harvest, and stock levels by product and batch.",
         "The first version can be simple enough for a family member to run on a phone. Custom tools start at ₹60,000 and take six to twelve weeks in stages. Where a ready-made billing app already fits your shop, we will tell you so instead of building something new.",
       ],
     },
@@ -119,10 +119,10 @@ const masaurhi: CityContent = {
     },
     {
       id: "patna-commuters",
-      heading: "IT company in Masaurhi for businesses that sell to Patna as well",
+      heading: "IT services team in Masaurhi for businesses that sell to Patna as well",
       paragraphs: [
         "Masaurhi is close enough to Patna that some local businesses already sell into the city. Caterers and tent houses take bookings for weddings in Patna's southern suburbs. Tailors and garment sellers supply shops in the capital. Sweet makers send boxes with relatives. Transporters run vehicles between the two every day.",
-        "An <strong>IT company in Masaurhi</strong> that understands this can help you present your business to both audiences. One website can carry a Hindi page for local customers and an English page for city clients, with clear service areas that include Punpun, Phulwari Sharif or Patna itself if you really serve them. Your Google Business Profile should say the same thing, so that customers and Google are not confused.",
+        "An <strong>IT services team in Masaurhi</strong> that understands this can help you present your business to both audiences. One website can carry a Hindi page for local customers and an English page for city clients, with clear service areas that include Punpun, Phulwari Sharif or Patna itself if you really serve them. Your Google Business Profile should say the same thing, so that customers and Google are not confused.",
         "We also build simple booking forms for caterers and event businesses: date, venue, number of guests and menu choice, sent straight to your WhatsApp. That removes the back-and-forth of phone calls and gives you a written record of every enquiry.",
       ],
     },
@@ -141,7 +141,7 @@ const masaurhi: CityContent = {
       paragraphs: [
         "An app makes sense when the same people come back often. In Masaurhi that usually means coaching students checking test schedules and notes every day, school parents looking at homework and fee dues, regular grocery or medical customers reordering, or a dealer's retailers placing weekly orders. For a shop that a customer visits twice a year, a good website and map listing is the smarter spend.",
         "For <strong>Android app development in Masaurhi</strong>, we build Android and iOS apps from one codebase using Flutter or React Native. A typical app includes phone-number login, push notifications for new tests or offers, a product or batch list, order or enquiry forms and an admin panel where you update content yourself. We publish it on Google Play and the App Store under developer accounts registered in your name.",
-        "Apps start at ₹40,000. The price rises with features such as online payment, video lessons or a delivery-partner view. As an <strong>app development company in Masaurhi</strong> clients can reach on WhatsApp, we always recommend a small first version, used by real students or customers for a few weeks, before adding more. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "Apps start at ₹40,000. The price rises with features such as online payment, video lessons or a delivery-partner view. As an <strong>app development team in Masaurhi</strong> clients can reach on WhatsApp, we always recommend a small first version, used by real students or customers for a few weeks, before adding more. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const masaurhi: CityContent = {
         "A simple shop or clinic website normally takes one to two weeks, most of which is waiting for photos and checking the Hindi text. A larger SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. We share progress links so you can check each stage on your phone.",
     },
     {
-      question: "Which is the best website development company in Masaurhi?",
+      question: "Which is the best website development team in Masaurhi?",
       answer:
         "The best choice is whoever builds what you need, registers everything in your name and stays reachable after launch. Ask any developer for past work you can open on your phone, who will own the domain, and what maintenance costs. We are a three-engineer remote team, and we are happy to be compared on exactly those points.",
     },

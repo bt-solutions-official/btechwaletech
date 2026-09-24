@@ -9,7 +9,7 @@ const batala: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Batala foundries, machine tool makers, shops and schools. Static sites from ₹10,000, remote team, 5 months free upkeep.",
     keywords: [
-      "website development company in Batala",
+      "website development team in Batala",
       "web design Batala",
       "website designer Batala",
       "SEO services Batala",

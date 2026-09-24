@@ -10,12 +10,12 @@ const shikohabad: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shikohabad glass units, colleges, Katra Bazar traders and clinics. From ₹10,000.",
     keywords: [
       "IT services in Shikohabad",
-      "IT company in Shikohabad",
-      "website development company in Shikohabad",
+      "IT services team in Shikohabad",
+      "website development team in Shikohabad",
       "web design in Shikohabad",
-      "app development company in Shikohabad",
+      "app development team in Shikohabad",
       "Android app development in Shikohabad",
-      "software company in Shikohabad",
+      "software team in Shikohabad",
       "SEO services in Shikohabad",
       "digital marketing in Shikohabad",
       "ecommerce website in Shikohabad",
@@ -70,12 +70,12 @@ const shikohabad: CityContent = {
       paragraphs: [
         "Shikohabad earns its living from movement. Trains on the Howrah–Delhi main line stop at the junction, a branch line runs east towards Mainpuri and Farrukhabad, and National Highway 19 carries trucks and buses between Agra and Etawah. The Agra–Lucknow Expressway and the Yamuna Expressway are within reach. A town like this serves travellers, transporters and villagers from several directions, not just the people living inside the municipal limits.",
         "That shapes how customers look for you. A family from Sirsaganj choosing a hospital, a student from a nearby village comparing colleges, or a bangle buyer from Rajasthan deciding whether to stop at Shikohabad or go straight to Firozabad will usually search on a phone first. Many of those searches are in Hindi, some in the Brajbhasha-flavoured Hinglish people actually type. Whoever has a clear page and a working phone number gets the call.",
-        "Working as an <strong>IT company in Shikohabad</strong> without a local shopfront, we focus on what brings those calls: a fast website, an accurate Google Business Profile, pages written for the searches that matter, and WhatsApp automation for the questions you answer fifty times a day. Where it makes sense we also build Android and iOS apps and custom software. We don't sell anything a small Shikohabad business will not use in its first year.",
+        "Working as an <strong>IT services team in Shikohabad</strong> without a local shopfront, we focus on what brings those calls: a fast website, an accurate Google Business Profile, pages written for the searches that matter, and WhatsApp automation for the questions you answer fifty times a day. Where it makes sense we also build Android and iOS apps and custom software. We don't sell anything a small Shikohabad business will not use in its first year.",
       ],
     },
     {
       id: "glass-bangle-units-shikohabad",
-      heading: "Website development company in Shikohabad for glass and bangle units",
+      heading: "Website development team in Shikohabad for glass and bangle units",
       paragraphs: [
         "Firozabad's glass trade does not stop at the district headquarters. Shikohabad has had glass work since the British period, and today much of the bangle finishing, sorting and packing is done in homes and small units, with women giving the final touch to pieces before they go to wholesalers. The value of that work is often captured by whoever controls the buyer relationship, and a website is one way for a Shikohabad unit to hold on to more of it.",
         "For a bangle or glass business, the website is really a catalogue. We build design pages grouped by type, colour and finish, with sizes, the pack format you sell in (dozen, gross or boxed sets), minimum order quantity and a WhatsApp button that sends the buyer's chosen design code straight to you. Real photographs taken on a plain background, in daylight, do more than any stock image, and we send a short guide on shooting them with a phone.",
@@ -128,7 +128,7 @@ const shikohabad: CityContent = {
       paragraphs: [
         "Not every Shikohabad business needs an app, and we say that upfront. An app makes sense when the same people come back again and again: coaching students checking test marks, school parents reading circulars, retailers reordering bangle designs every week, or patients booking follow-ups at a clinic. For a shop that customers visit twice a year, a website and a good map listing are enough.",
         "When an app does fit, we build one codebase in Flutter or React Native that runs on both Android and iPhone. Typical features include phone-number login with OTP, push notifications for notices or new stock, a catalogue or course list, order or booking forms, UPI payment through Razorpay, and an admin panel where your staff update content without calling us. Ankur Kumar builds the app and panel; Vedansh Shrivastava keeps the project on schedule.",
-        "Android and iOS apps start from ₹40,000. We handle publishing on Google Play and the App Store under your own developer accounts, so the listing, reviews and download history belong to you. We explain the store fees and review timelines before you commit. People searching for an <strong>app development company in Shikohabad</strong> are often single tuition centres; for them we may suggest starting with a website and adding the app once enrolment justifies it.",
+        "Android and iOS apps start from ₹40,000. We handle publishing on Google Play and the App Store under your own developer accounts, so the listing, reviews and download history belong to you. We explain the store fees and review timelines before you commit. People searching for an <strong>app development team in Shikohabad</strong> are often single tuition centres; for them we may suggest starting with a website and adding the app once enrolment justifies it.",
       ],
     },
     {
@@ -160,7 +160,7 @@ const shikohabad: CityContent = {
     },
     {
       id: "software-company-in-shikohabad",
-      heading: "Software company in Shikohabad work: registers, dispatch and billing tools",
+      heading: "Software team in Shikohabad work: registers, dispatch and billing tools",
       paragraphs: [
         "Behind many Shikohabad businesses is a thick register. Bangle units track which karigar took how many pieces and what piece rate is due; transporters on the NH19 corridor log trips, diesel and driver advances; wholesalers keep party-wise credit in ledgers. These records work until the owner is ill, a page is lost or a dispute arises over a figure written six months ago.",
         "Custom software replaces that register with a simple web app that staff open on their phones. We build it around the columns you already use: work issued and returned, rates, advances, deliveries, dues and daily summaries. Owners see totals in one place and can export them for the accountant. Data sits on hosting in your name, with backups.",
@@ -236,7 +236,7 @@ const shikohabad: CityContent = {
         "Yes. We build one app in Flutter or React Native that runs on both Android and iPhone, with login, push notifications and an admin panel. Coaching centres, schools, clinics and bangle wholesalers are typical users. Apps start from ₹40,000 and are published on Google Play and the App Store under your own accounts.",
     },
     {
-      question: "Which is the best IT company in Shikohabad for a small business?",
+      question: "Which is the best IT services team in Shikohabad for a small business?",
       answer:
         "The best choice is whoever registers the domain in your name, shows you working sites you can open on your phone, gives a written itemised quote and replies quickly after launch. Ask for those four things from anyone you consider, including us. Avoid anyone who guarantees a first-page ranking in a few weeks.",
     },

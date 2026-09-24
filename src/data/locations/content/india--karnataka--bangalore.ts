@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance IT consultants and developers in Bangalore for software, web apps, Android and iOS apps, AI agents, cloud and data. Itemised quote in 2 working days.",
     keywords: [
-      "IT solutions company in Bangalore",
-      "best IT company in Bangalore",
+      "IT solutions team in Bangalore",
+      "best IT services team in Bangalore",
       "freelance IT consultants Bangalore",
       "IT consulting and digital transformation Bangalore",
       "hire freelance developers Bengaluru",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-bangalore-how-to-judge",
-      heading: "How do you judge the best IT company in Bangalore for your project?",
+      heading: "How do you judge the best IT services team in Bangalore for your project?",
       paragraphs: [
-        "The best IT company in Bangalore for your project is the one whose size, skills and working style match your problem, not the one with the biggest client logos. A ten-person startup and a multinational need very different partners, and rankings on listing sites rarely reflect that.",
-        "BtechWaleTech is not a company; we are a freelance group of three engineers. If you are comparing us with IT companies in Bangalore, the honest differences are these. We are faster to start, cheaper per feature and you talk to the builders directly. We are not suited to projects needing twenty developers, round-the-clock staffed support or on-site presence at your office in Whitefield.",
+        "The best IT services team in Bangalore for your project is the one whose size, skills and working style match your problem, not the one with the biggest client logos. A ten-person startup and a multinational need very different partners, and rankings on listing sites rarely reflect that.",
+        "BtechWaleTech is a freelance group of three engineers. If you are comparing us with IT companies in Bangalore, the honest differences are these. We are faster to start, cheaper per feature and you talk to the builders directly. We are not suited to projects needing twenty developers, round-the-clock staffed support or on-site presence at your office in Whitefield.",
         "Whoever you consider, use the same test: ask them to explain your project back to you in plain language, name the riskiest part, and propose what to leave out of the first release. Then check that code, domains and cloud accounts will be yours. Those four answers say more than any award or rating.",
       ],
       list: [
@@ -270,9 +270,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you an IT company with an office in Bangalore?",
+      question: "Are you an IT services team with an office in Bangalore?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers, not a company, and we have no office in Bengaluru. We work remotely from India and meet clients on video calls, WhatsApp and phone, seven days a week. This keeps costs lower and lets you speak directly with the people building your software.",
+        "No. BtechWaleTech is a freelance group of three engineers, and we have no office in Bengaluru. We work remotely from India and meet clients on video calls, WhatsApp and phone, seven days a week. This keeps costs lower and lets you speak directly with the people building your software.",
     },
     {
       question: "Is the first IT consultation free?",

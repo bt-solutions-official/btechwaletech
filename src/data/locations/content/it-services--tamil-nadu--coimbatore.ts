@@ -9,11 +9,11 @@ const content: CityContent = {
     description:
       "Comparing software development companies in Coimbatore? Hire freelance developers for custom software, AI automation, apps and dashboards. Web apps from ₹60,000.",
     keywords: [
-      "software development company in Coimbatore",
+      "software development team in Coimbatore",
       "Android app development Coimbatore",
       "iOS app development Coimbatore",
       "mobile app developers Coimbatore",
-      "IT company in Coimbatore",
+      "IT services team in Coimbatore",
       "IT solutions Coimbatore",
       "custom software development Coimbatore",
       "web application development Coimbatore",
@@ -21,16 +21,16 @@ const content: CityContent = {
       "AI automation Coimbatore",
       "ERP software for manufacturers Coimbatore",
       "dashboard development Coimbatore",
-      "software company near me Coimbatore",
+      "software team near me Coimbatore",
       "IT services near Peelamedu",
       "software developer Saravanampatti",
       "pump manufacturer software Coimbatore",
       "textile mill software Coimbatore",
       "cloud hosting and deployment Coimbatore",
-      "SEO company Coimbatore",
+      "SEO team Coimbatore",
       "ecommerce development Coimbatore",
       "IT support and maintenance Coimbatore",
-      "Kovai software company",
+      "Kovai software team",
       "கோயம்புத்தூர் மென்பொருள் நிறுவனம்",
     ],
   },
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Coimbatore, Tamil Nadu",
     h1: "Freelance software developers for Coimbatore: custom software, automation and IT solutions for factories and SMEs",
     lede:
-      "BtechWaleTech is a freelance group of three remote engineers, an alternative to hiring a software development company in Coimbatore, and we write the software Kovai businesses run on: order and dispatch portals for pump makers, production dashboards for spinning mills, WhatsApp agents for dealers, and the websites and search work that bring enquiries in. You talk directly to the people building it, prices start in the open, and five months of maintenance come free after launch.",
+      "BtechWaleTech is a freelance group of three remote engineers, an alternative to hiring a software development team in Coimbatore, and we write the software Kovai businesses run on: order and dispatch portals for pump makers, production dashboards for spinning mills, WhatsApp agents for dealers, and the websites and search work that bring enquiries in. You talk directly to the people building it, prices start in the open, and five months of maintenance come free after launch.",
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Tally and Excel integrations", "Tamil and English interfaces", "Code and hosting in your name"],
   },
   quickAnswer:
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "coimbatore-software-demand",
-      heading: "What does a software development company in Coimbatore actually do for an SME?",
+      heading: "What does a software development team in Coimbatore actually do for an SME?",
       paragraphs: [
-        "Whether you hire an IT company in Coimbatore or a freelance group like ours, a software developer designs, builds, hosts and maintains the applications a business runs on: order portals, production trackers, dashboards, mobile apps, AI agents and the website that feeds them enquiries. Coimbatore firms increasingly need software that runs operations, not only a website that describes them. A pump manufacturer in Ganapathy may already have a decent site, but its dealer orders still arrive as WhatsApp photos of handwritten slips, and dispatch is planned on a whiteboard. A spinning mill near Sulur might track count-wise production in three spreadsheets that never quite agree. A Gandhipuram retailer might run billing on one tool and customer follow-ups on another, with nobody seeing the whole picture.",
+        "Whether you hire an IT services team in Coimbatore or a freelance group like ours, a software developer designs, builds, hosts and maintains the applications a business runs on: order portals, production trackers, dashboards, mobile apps, AI agents and the website that feeds them enquiries. Coimbatore firms increasingly need software that runs operations, not only a website that describes them. A pump manufacturer in Ganapathy may already have a decent site, but its dealer orders still arrive as WhatsApp photos of handwritten slips, and dispatch is planned on a whiteboard. A spinning mill near Sulur might track count-wise production in three spreadsheets that never quite agree. A Gandhipuram retailer might run billing on one tool and customer follow-ups on another, with nobody seeing the whole picture.",
         "These are software problems. The fix is usually a focused web application: one place where an order is entered once, flows to stores and dispatch, and shows up on the owner's dashboard. That is the work we lead with for Coimbatore. We still build websites, SEO pages and online stores, but for most Kovai businesses the bigger return comes from removing duplicate data entry and the phone calls it causes.",
         "The city also has a strong engineering culture. Many owners are graduates of PSG Tech or CIT themselves, and they ask sharp questions about databases, backups and who owns the source code. We like that. It means the brief is clearer, scope creep is smaller, and the finished system actually gets used instead of abandoned after a month.",
       ],
@@ -209,7 +209,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-coimbatore",
-      heading: "Freelance team vs a software development company in Coimbatore: which should you hire?",
+      heading: "Freelance team vs a software development team in Coimbatore: which should you hire?",
       paragraphs: [
         "The best IT partner for a Coimbatore business is one that understands your workflow, writes down scope clearly and hands over full ownership. Before signing with anyone, ask to see a working demo of something similar, not just screenshots. Ask who will actually write the code, and whether that person will join calls. Ask where the code will be stored and whose name the hosting account will be in.",
         "Check how changes are handled. Every software project discovers new requirements halfway through. A good partner explains which changes fit the current scope and which need a separate quote, before doing the work. Also ask about maintenance: how long it is included, what it covers, and what it costs afterwards.",

@@ -9,7 +9,7 @@ const nadiad: CityContent = {
     description:
       "Websites, Gujarati and English SEO, snack stores and WhatsApp automation for Nadiad's GIDC units, hospitals, colleges and traders. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Nadiad",
+      "website development team in Nadiad",
       "web design Nadiad",
       "website designer Kheda",
       "SEO services Nadiad",

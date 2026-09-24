@@ -9,7 +9,7 @@ const srinagar: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Srinagar crafts, hotels, houseboats and clinics. Sites from ₹10,000 with 5 months of free maintenance.",
     keywords: [
-      "website development company in Srinagar",
+      "website development team in Srinagar",
       "web designer Srinagar",
       "website design Srinagar Kashmir",
       "freelance web developer Srinagar",
@@ -21,7 +21,7 @@ const srinagar: CityContent = {
       "pashmina ecommerce website",
       "online store for Kashmiri handicrafts",
       "WhatsApp automation Kashmir",
-      "software company Srinagar",
+      "software team Srinagar",
       "website maintenance Srinagar",
       "Srinagar mein website kaise banwayein",
       "श्रीनगर वेबसाइट डिज़ाइन",

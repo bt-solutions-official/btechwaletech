@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Gangtok, Sikkim",
     description:
-      "Looking for a software development company in Gangtok? Hire three freelance engineers for travel agency ERPs, hotel booking, AI chat, apps and SEO. From ₹10,000.",
+      "Looking for a software development team in Gangtok? Hire three freelance engineers for travel agency ERPs, hotel booking, AI chat, apps and SEO. From ₹10,000.",
     keywords: [
       "Android app development Gangtok",
       "iOS app development Gangtok",
       "mobile app developers Gangtok",
       "iPhone app developers Gangtok",
-      "software development company in Gangtok",
-      "IT company in Gangtok",
+      "software development team in Gangtok",
+      "IT services team in Gangtok",
       "IT solutions Gangtok",
       "freelance software developer Gangtok",
       "travel agency software Gangtok",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Gangtok · East Sikkim · Freelance software team",
     h1: "Freelance software developers in Gangtok for travel desks, hotels and growing local businesses",
     lede:
-      "Comparing a software development company in Gangtok with a freelance option? BtechWaleTech is a freelance group of three engineers working remotely from India. For Gangtok we build tour package and vehicle software, hotel booking engines, AI assistants that handle Nathu La and Tsomgo questions, school and restaurant systems, dashboards, apps and SEO websites.",
+      "Comparing a software development team in Gangtok with a freelance option? BtechWaleTech is a freelance group of three engineers working remotely from India. For Gangtok we build tour package and vehicle software, hotel booking engines, AI assistants that handle Nathu La and Tsomgo questions, school and restaurant systems, dashboards, apps and SEO websites.",
     pills: ["Tour package builders", "Hotel booking engines", "AI chat for travel desks", "Custom software from ₹60,000", "Replies 7 days a week"],
   },
   quickAnswer:
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "gangtok-freelance-vs-company",
-      heading: "Freelance developers vs a software development company in Gangtok: how do they differ?",
+      heading: "Freelance developers vs a software development team in Gangtok: how do they differ?",
       paragraphs: [
-        "Freelance developers give Gangtok businesses direct access to the engineers, lower overheads and flexible phasing, while a software development company in Gangtok typically offers an office you can visit, hardware and networking services and larger teams. The right choice depends on whether you need custom software written or physical IT work done.",
+        "Freelance developers give Gangtok businesses direct access to the engineers, lower overheads and flexible phasing, while a software development team in Gangtok typically offers an office you can visit, hardware and networking services and larger teams. The right choice depends on whether you need custom software written or physical IT work done.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have a Gangtok office, and we do not install CCTV, printers or networks. What we do is write software: travel agency systems, booking engines, web applications, mobile apps and PWAs, AI agents and WhatsApp automation, dashboards, ecommerce stores and SEO websites, with hosting and maintenance included.",
         "For a hotel on MG Marg or a travel desk in Tadong, that usually means faster decisions and lower cost than a larger provider, as long as you are comfortable working over video calls. Our <a href='/about/'>about page</a> introduces the three of us, and the <a href='/it-services/sikkim/'>Sikkim hub</a> covers the wider state.",
       ],
@@ -267,7 +267,7 @@ const content: CityContent = {
     { question: "How much does an Android and iOS app cost in Gangtok?", answer: "Android and iOS apps start from ₹40,000 and usually take six to ten weeks. We build in Flutter or React Native and publish on Google Play and the Apple App Store under your developer accounts. Login, forms, push notifications and an admin panel are included in the starting plan; links to travel or booking software are itemised separately." },
     { question: "Can you fix our office computers or network?", answer: "No. We are remote software engineers, so we do not repair hardware, install CCTV or set up office networks. A local technician in Gangtok is the right choice for that. We handle websites, software, apps, automation, hosting and online support." },
     { question: "Do you build websites for small cafés and homestays?", answer: "Yes. A static website starts at ₹10,000 and includes mobile-friendly design, WhatsApp and call buttons, an enquiry form, basic SEO and a sitemap. It is a good first step, and it can later grow into online ordering or a booking engine." },
-    { question: "Which is the best IT company in Gangtok?", answer: "There is no single answer. Gangtok has IT providers focused on hardware and government work, web designers, and remote teams like ours. Choose based on relevant past work, ownership terms, itemised pricing, support after launch and who actually writes the code." },
+    { question: "Which is the best IT services team in Gangtok?", answer: "There is no single answer. Gangtok has IT providers focused on hardware and government work, web designers, and remote teams like ours. Choose based on relevant past work, ownership terms, itemised pricing, support after launch and who actually writes the code." },
     { question: "How do we begin?", answer: "Send a WhatsApp message or use the <a href='/contact/'>contact page</a> with a short note on your business and what you need. We usually follow up with a call, then send a written scope and itemised quote in about two working days. Work starts after approval and the first milestone payment." },
   ],
   nearby: ["siliguri", "darjiling", "jalpaiguri", "kishanganj", "raiganj", "guwahati"],

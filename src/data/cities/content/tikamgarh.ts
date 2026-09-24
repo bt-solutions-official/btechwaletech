@@ -10,12 +10,12 @@ const tikamgarh: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Tikamgarh brass casters, grain traders, clinics, schools and Bundelkhand shops.",
     keywords: [
       "IT services in Tikamgarh",
-      "IT company in Tikamgarh",
-      "website development company in Tikamgarh",
+      "IT services team in Tikamgarh",
+      "website development team in Tikamgarh",
       "web design in Tikamgarh",
-      "app development company in Tikamgarh",
+      "app development team in Tikamgarh",
       "Android app development in Tikamgarh",
-      "software company in Tikamgarh",
+      "software team in Tikamgarh",
       "SEO services in Tikamgarh",
       "digital marketing in Tikamgarh",
       "ecommerce website in Tikamgarh",
@@ -83,11 +83,11 @@ const tikamgarh: CityContent = {
     },
     {
       id: "mandi-traders-dealers",
-      heading: "Software company in Tikamgarh for grain traders and input dealers",
+      heading: "Software team in Tikamgarh for grain traders and input dealers",
       paragraphs: [
         "Farming drives the district's economy. Wheat, paddy and pulses cover large areas, and groundnut, mustard and soybean are important oilseeds. Around this sits a chain of commission agents, grain traders, seed and fertiliser dealers, pesticide shops, tractor and pump dealers, and transporters who move produce out of the district.",
         "Much of the record keeping is still in diaries. Credit given to farmers until harvest, stock held against each retailer, payments received in instalments, and delivery vehicles on hire are all tracked by memory and paper. When a partner or son takes over the counter, the gaps show.",
-        "As a <strong>software company in Tikamgarh</strong> in the practical sense, we build small web tools for these businesses: a party ledger with harvest-season due dates, stock by godown, an SMS or WhatsApp reminder for overdue amounts, and a daily summary a family member can check from home. These start at ₹60,000 and are built over six to twelve weeks in stages, with the ledger first because it pays back fastest. We can export to Tally if your accountant uses it.",
+        "As a <strong>software team in Tikamgarh</strong> in the practical sense, we build small web tools for these businesses: a party ledger with harvest-season due dates, stock by godown, an SMS or WhatsApp reminder for overdue amounts, and a daily summary a family member can check from home. These start at ₹60,000 and are built over six to twelve weeks in stages, with the ledger first because it pays back fastest. We can export to Tally if your accountant uses it.",
       ],
     },
     {
@@ -113,7 +113,7 @@ const tikamgarh: CityContent = {
       heading: "Android app development in Tikamgarh, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost when a defined group of people opens it often. In Tikamgarh, likely cases are a coaching institute sending test schedules, notes and fee reminders to students; a fertiliser or FMCG dealer taking repeat orders from village retailers; a hospital issuing OPD tokens; or a brass workshop whose regular trade buyers want to see new designs as soon as they are cast.",
-        "As an <strong>app development company in Tikamgarh</strong> that works remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version normally includes mobile number login, push notifications, the core screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Tikamgarh</strong> that works remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version normally includes mobile number login, push notifications, the core screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Tikamgarh</strong> with us starts at ₹40,000. The quote rises with online payments, offline use in areas with weak signal, maps, or links to your billing software, and each of these appears as its own line. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a price list, a website does the job at a quarter of the cost, and we will say so. Most small shops are better served by a site and a good map listing than by an app that is opened twice.",
       ],
@@ -129,10 +129,10 @@ const tikamgarh: CityContent = {
     },
     {
       id: "baldeogarh-jatara-towns",
-      heading: "Website development company in Tikamgarh serving Jatara, Baldeogarh and Palera",
+      heading: "Website development team in Tikamgarh serving Jatara, Baldeogarh and Palera",
       paragraphs: [
         "Tikamgarh's customers do not live only inside the municipality. Jatara, Palera, Baldeogarh and the villages between them look to the district town for wholesale goods, healthcare, education and government services, while their own markets handle daily needs. Baldeogarh is known for betel leaf cultivation and the Vindhyavasini Devi temple.",
-        "A <strong>website development company in Tikamgarh</strong> that understands this spread will build pages for real service areas, not copies of one page with the town name swapped. A dealer who delivers to Jatara on Tuesdays and Palera on Fridays should say so. A hospital with a collection centre in Baldeogarh should give that address and its timings separately.",
+        "A <strong>website development team in Tikamgarh</strong> that understands this spread will build pages for real service areas, not copies of one page with the town name swapped. A dealer who delivers to Jatara on Tuesdays and Palera on Fridays should say so. A hospital with a collection centre in Baldeogarh should give that address and its timings separately.",
         "This matters for search as well. Google and customers both ignore thin town pages. Pages with delivery days, local contact numbers, directions from the bus stand and genuine photographs tend to earn calls. We plan these with you, and you check every page before it goes live.",
       ],
     },
@@ -165,9 +165,9 @@ const tikamgarh: CityContent = {
     },
     {
       id: "remote-team-tikamgarh",
-      heading: "IT company in Tikamgarh terms: how our remote team works with you",
+      heading: "IT services team in Tikamgarh terms: how our remote team works with you",
       paragraphs: [
-        "Clients sometimes search for an <strong>IT company in Tikamgarh</strong> expecting someone to visit their shop. We cannot do that, so we make up for it with paperwork. The first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After approval, you get preview links that open on your phone, so you can show family or partners before anything is public.",
+        "Clients sometimes search for an <strong>IT services team in Tikamgarh</strong> expecting someone to visit their shop. We cannot do that, so we make up for it with paperwork. The first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After approval, you get preview links that open on your phone, so you can show family or partners before anything is public.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Hindi text is sent to you for checking before publishing, and nothing goes live without your approval. If a delay appears, we tell you when we find out, not on the due date. Payments are staged against visible progress, and nothing is billed before the quote is approved in writing.",
       ],
     },
@@ -222,7 +222,7 @@ const tikamgarh: CityContent = {
         "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Tikamgarh?",
+      question: "Which is the best website development team in Tikamgarh?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, can show real work and still answers after launch. Ask each option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers before deciding is sensible.",
     },

@@ -10,12 +10,12 @@ const sironj: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sironj mandi traders, Jain trusts, colleges, clinics and shops in Vidisha district.",
     keywords: [
       "IT services in Sironj",
-      "IT company in Sironj",
-      "website development company in Sironj",
+      "IT services team in Sironj",
+      "website development team in Sironj",
       "web design in Sironj",
-      "app development company in Sironj",
+      "app development team in Sironj",
       "Android app development in Sironj",
-      "software company in Sironj",
+      "software team in Sironj",
       "SEO services in Sironj",
       "digital marketing in Sironj",
       "ecommerce website in Sironj",
@@ -74,19 +74,19 @@ const sironj: CityContent = {
     },
     {
       id: "mandi-traders-software",
-      heading: "Software company in Sironj for mandi traders and commission agents",
+      heading: "Software team in Sironj for mandi traders and commission agents",
       paragraphs: [
         "The Krishi Upaj Mandi near Begam Baag handles soybean after the kharif harvest and wheat, gram, mustard and peas in the rabi season. Behind each auction sits a lot of manual paperwork: lot numbers, bag counts, moisture deductions, hamali, the rate agreed, the buyer, and payments that trickle in over weeks.",
-        "Acting as a <strong>software company in Sironj</strong> for these firms, we build small web tools rather than heavy ERP packages. A clerk enters each purchase once from a phone or desktop. The system keeps running totals per farmer and per buyer, shows who still owes money, prints a clean slip and exports to Excel or Tally for your accountant.",
+        "Acting as a <strong>software team in Sironj</strong> for these firms, we build small web tools rather than heavy ERP packages. A clerk enters each purchase once from a phone or desktop. The system keeps running totals per farmer and per buyer, shows who still owes money, prints a clean slip and exports to Excel or Tally for your accountant.",
         "Most traders begin with the purchase and payment register because it saves the most arguments. Stock by godown, truck dispatch records and SMS or WhatsApp payment confirmations can follow once the first part works. Custom software starts at ₹60,000 and takes six to twelve weeks, and we can schedule the build in the lean weeks between seasons so it never gets in the way of arrivals.",
       ],
     },
     {
       id: "agri-input-dealers",
-      heading: "Website development company in Sironj for seed, fertiliser and tractor dealers",
+      heading: "Website development team in Sironj for seed, fertiliser and tractor dealers",
       paragraphs: [
         "Every kharif sowing season, farmers from across the tehsil come into Sironj for soybean seed, fertiliser, pesticides, sprayers and tractor spares. The dealers who serve them run on credit, word of mouth and long phone calls about availability.",
-        "A <strong>website development company in Sironj</strong> can take some of that load off. A plain Hindi site listing brands carried, seed varieties in stock, shop timings and a WhatsApp button answers the most common question — do you have it — before the farmer rides in. For dealers who supply smaller shops in villages, an order form that captures quantity and delivery date works better than a cart.",
+        "A <strong>website development team in Sironj</strong> can take some of that load off. A plain Hindi site listing brands carried, seed varieties in stock, shop timings and a WhatsApp button answers the most common question — do you have it — before the farmer rides in. For dealers who supply smaller shops in villages, an order form that captures quantity and delivery date works better than a cart.",
         "Stock and credit tools are the next step. Dealers tell us their biggest headache is outstanding balances across dozens of farmers and retailers, so we build ledgers that show dues by name and village and send polite reminders after harvest. A basic dealer website starts at ₹10,000; a stock and credit system is custom work from ₹60,000.",
       ],
     },
@@ -101,11 +101,11 @@ const sironj: CityContent = {
     },
     {
       id: "colleges-coaching",
-      heading: "App development company in Sironj for colleges, schools and coaching centres",
+      heading: "App development team in Sironj for colleges, schools and coaching centres",
       paragraphs: [
         "With Techno Global University, Lal Bahadur Shastri PG College, a government polytechnic and many schools and coaching classes, Sironj has a sizeable student population drawn from Lateri, Kurwai and surrounding villages. Parents want to know fees, results, bus routes and exam dates without making the trip.",
         "Institutions get the most from a clear website first: courses, fee ranges, faculty, admission dates, hostel and transport details, and an enquiry form that lands on the office WhatsApp. That covers most admission-season traffic.",
-        "When the same families interact daily, an app becomes worthwhile. As an <strong>app development company in Sironj</strong> working remotely, we build apps for attendance alerts, homework, test scores, fee reminders and notices. Coaching centres preparing students for MP government exams often want practice tests and rank lists. Apps start at ₹40,000 and each feature appears as its own line in the quote.",
+        "When the same families interact daily, an app becomes worthwhile. As an <strong>app development team in Sironj</strong> working remotely, we build apps for attendance alerts, homework, test scores, fee reminders and notices. Coaching centres preparing students for MP government exams often want practice tests and rank lists. Apps start at ₹40,000 and each feature appears as its own line in the quote.",
       ],
     },
     {
@@ -156,7 +156,7 @@ const sironj: CityContent = {
     },
     {
       id: "working-remotely-sironj",
-      heading: "How a remote IT company in Sironj's region runs your project",
+      heading: "How a remote IT services team in Sironj's region runs your project",
       paragraphs: [
         "Since there is no Sironj office, everything is written down. After a first call about your business and customers, you receive a short plan listing pages or app screens, the timeline and the cost of each item. You can cut lines you do not need before agreeing.",
         "Work starts only after your written approval, and billing starts then too. Preview links arrive as sections are ready, and they open on any phone so you can show your partner, your munim or your children. Hindi text is always sent for checking, because a wrong word on a trust page or a rate card causes more trouble than a late launch.",
@@ -223,7 +223,7 @@ const sironj: CityContent = {
         "A simple shop site is usually live one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds up delivery.",
     },
     {
-      question: "Which is the best IT company in Sironj for a small business?",
+      question: "Which is the best IT services team in Sironj for a small business?",
       answer:
         "The best choice is whoever publishes prices, puts the domain and code in your name, shows real past work and stays reachable after launch. Ask every option the same questions. We meet those tests and answer WhatsApp daily, but it is wise to compare two or three providers first.",
     },

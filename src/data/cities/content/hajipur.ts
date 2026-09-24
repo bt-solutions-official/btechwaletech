@@ -9,7 +9,7 @@ const hajipur: CityContent = {
     description:
       "Websites, local SEO and automation for Hajipur factories, railway vendors, banana traders, clinics and coaching centres in Vaishali. Sites from ₹10,000.",
     keywords: [
-      "website development company in Hajipur",
+      "website development team in Hajipur",
       "web designer Hajipur",
       "website design Vaishali district",
       "SEO services Hajipur",

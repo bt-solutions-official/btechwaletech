@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Imphal: business software, hospital and college systems, AI agents, apps and SEO. Custom software from ₹60,000, quotes in 2 days.",
     keywords: [
-      "software development company in Imphal",
-      "IT company in Imphal",
+      "software development team in Imphal",
+      "IT services team in Imphal",
       "IT solutions Imphal",
       "freelance software developer Imphal",
       "custom software development Imphal",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance software and IT solutions · Imphal, Manipur",
     h1: "Freelance software developers in Imphal for traders, hospitals, colleges and founders",
     lede:
-      "Searching for a software development company in Imphal and finding mostly website designers? BtechWaleTech is a freelance group of three engineers working remotely from India who build billing and stock software, hospital and college systems, startup MVPs, AI agents and WhatsApp automation for Imphal, with hosting, SEO and maintenance included in the plan.",
+      "Searching for a software development team in Imphal and finding mostly website designers? BtechWaleTech is a freelance group of three engineers working remotely from India who build billing and stock software, hospital and college systems, startup MVPs, AI agents and WhatsApp automation for Imphal, with hosting, SEO and maintenance included in the plan.",
     pills: ["Custom software from ₹60,000", "AI agents from ₹40,000", "Startup MVPs", "Offline-tolerant apps", "Pay by UPI or bank transfer"],
   },
   quickAnswer:
-    "Instead of a software development company in Imphal, you can hire BtechWaleTech, a remote freelance group of three engineers. Custom software and web apps start at ₹60,000 (six to twelve weeks), AI automation and Android and iOS apps at ₹40,000 and websites at ₹10,000. We have no Imphal office and send itemised quotes in about two working days.",
+    "Instead of a software development team in Imphal, you can hire BtechWaleTech, a remote freelance group of three engineers. Custom software and web apps start at ₹60,000 (six to twelve weeks), AI automation and Android and iOS apps at ₹40,000 and websites at ₹10,000. We have no Imphal office and send itemised quotes in about two working days.",
   snapshot: [
     { label: "Commercial core", value: "Khwairamband and Ima Keithel, Thangal Bazar, Paona Bazar and the MG Avenue area" },
     { label: "Medical cluster", value: "RIMS at Lamphelpat and JNIMS at Porompat, surrounded by private clinics, labs and pharmacies" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-development-imphal",
-      heading: "What should you expect from a software development company in Imphal?",
+      heading: "What should you expect from a software development team in Imphal?",
       paragraphs: [
-        "From a software development company in Imphal, or a freelance team like ours, you should expect working software that fits how your business already runs, written scope and pricing, ownership of all code and accounts, and support after launch. Imphal buyers increasingly need business systems, not just websites: billing, stock, patient records, admissions, project tracking and automation.",
+        "From a software development team in Imphal, or a freelance team like ours, you should expect working software that fits how your business already runs, written scope and pricing, ownership of all code and accounts, and support after launch. Imphal buyers increasingly need business systems, not just websites: billing, stock, patient records, admissions, project tracking and automation.",
         "The Imphal market has particular needs. Many businesses are family-run and cash-and-credit based, institutions serve people travelling in from every district, and connectivity can be unreliable. Good software for Imphal therefore stays simple, opens quickly on a basic phone, tolerates dropped connections, and can present content in Manipuri as well as English.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Imphal. We run every project through WhatsApp, email and video calls. You describe the problem, we write a clear scope, show you a working version early, and hand over everything at launch, followed by five months of free maintenance.",
       ],
@@ -203,9 +203,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-imphal",
-      heading: "Freelance software developers vs a software development company in Imphal",
+      heading: "Freelance software developers vs a software development team in Imphal",
       paragraphs: [
-        "The difference between hiring freelance software developers and a software development company in Imphal comes down to access, cost and on-site presence. A company with a local office can visit you; a remote freelance group like BtechWaleTech gives you direct access to the engineers at lower cost, but works entirely online.",
+        "The difference between hiring freelance software developers and a software development team in Imphal comes down to access, cost and on-site presence. A company with a local office can visit you; a remote freelance group like BtechWaleTech gives you direct access to the engineers at lower cost, but works entirely online.",
         "For software, apps, automation and SEO, remote work is effective when requirements are written down and communication is regular. For hardware, networks and printers, a local provider is essential. Whichever you choose, check that the code, domain and hosting will be in your name, that the scope is written screen by screen, and that post-launch support has clear terms.",
         "You can review earlier work in our <a href='/portfolio/'>portfolio</a>, read about us on the <a href='/about/'>about page</a>, compare with our <a href='/imphal/'>Imphal IT services page</a>, or see statewide options on the <a href='/it-services/manipur/'>Manipur hub</a>.",
       ],
@@ -316,12 +316,12 @@ const content: CityContent = {
         "It can answer routine WhatsApp questions, collect enquiry details, read documents into records, draft replies and send reminders. It should not make final decisions on prices, patients or admissions. Projects start at ₹40,000 and take two to four weeks, and we will tell you plainly if a task is not worth automating.",
     },
     {
-      question: "Is a freelance team safer or riskier than an Imphal IT company?",
+      question: "Is a freelance team safer or riskier than an Imphal IT services team?",
       answer:
         "Neither is automatically safer. Risk depends on practices: written scope, code and accounts in your name, documentation and clear support terms. A freelance team that follows these is lower risk than a company that does not. The main limitation of a remote team is that it cannot visit for hardware or networking.",
     },
     {
-      question: "Which is the best IT company in Imphal for software?",
+      question: "Which is the best IT services team in Imphal for software?",
       answer:
         "There is no single best choice for everyone. The right partner for your Imphal project is the one that understands your process, shows real earlier work, writes the scope down, keeps code and accounts in your name and plans for slow or interrupted internet. Shortlist two or three options, including local companies and freelance teams like ours, and compare them on those points rather than on advertising claims.",
     },

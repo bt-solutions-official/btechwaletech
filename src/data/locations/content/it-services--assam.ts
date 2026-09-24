@@ -14,8 +14,8 @@ const content: CityContent = {
       "iOS app development Assam",
       "iPhone app developers Assam",
       "IT services in Assam",
-      "software development company in Assam",
-      "IT company in Assam",
+      "software development team in Assam",
+      "IT services team in Assam",
       "freelance IT services Assam",
       "freelance software developers Assam",
       "custom software development Assam",
@@ -75,7 +75,7 @@ const content: CityContent = {
       heading: "What do freelance IT services in Assam cover?",
       paragraphs: [
         "Freelance IT services in Assam, as BtechWaleTech delivers them, cover custom software and web applications, mobile apps and PWAs, AI agents and WhatsApp automation, data dashboards, online stores, websites, SEO and local SEO, cloud hosting and ongoing maintenance. Three independent engineers deliver everything remotely from India; we have no office in Assam.",
-        "People searching for IT services in Assam, or for a software development company in Assam, usually want one of three outcomes: to be found by more customers, to spend less time on repetitive work, or to see their business numbers clearly. Websites and SEO serve the first, automation and custom software the second, and dashboards the third. Most projects touch more than one.",
+        "People searching for IT services in Assam, or for a software development team in Assam, usually want one of three outcomes: to be found by more customers, to spend less time on repetitive work, or to see their business numbers clearly. Websites and SEO serve the first, automation and custom software the second, and dashboards the third. Most projects touch more than one.",
         "The rest of this page explains how each service applies to Assam's main sectors and cities, what it costs, and how to choose between a freelance team and a larger IT company. City-level detail is on our pages for <a href='/it-services/assam/guwahati/'>Guwahati</a>, <a href='/it-services/assam/silchar/'>Silchar</a>, <a href='/it-services/assam/dibrugarh/'>Dibrugarh</a>, <a href='/it-services/assam/jorhat/'>Jorhat</a> and <a href='/it-services/assam/tezpur/'>Tezpur</a>.",
       ],
     },
@@ -211,9 +211,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-assam",
-      heading: "Freelance team vs an IT company in Assam: cost, timelines and how to choose",
+      heading: "Freelance team vs an IT services team in Assam: cost, timelines and how to choose",
       paragraphs: [
-        "A freelance team such as BtechWaleTech generally costs less than a software development company in Assam and gives you direct access to the engineers, while an established company may provide larger teams, formal account management and on-site meetings. Our starting prices are ₹10,000 for websites, ₹40,000 for automation or an Android and iOS app, ₹50,000 for stores and ₹60,000 for custom software.",
+        "A freelance team such as BtechWaleTech generally costs less than a software development team in Assam and gives you direct access to the engineers, while an established company may provide larger teams, formal account management and on-site meetings. Our starting prices are ₹10,000 for websites, ₹40,000 for automation or an Android and iOS app, ₹50,000 for stores and ₹60,000 for custom software.",
         "Timelines are one to two weeks for a website, two to four for automation, three to five for an SEO site, four to eight for a store and six to twelve for custom software. Quotes are itemised and payments are staged, made only by UPI QR or bank transfer in INR. See the <a href='/pricing/'>pricing page</a> and previous work on the <a href='/portfolio/'>portfolio</a>.",
         "Whoever you choose, ask for ownership of the domain, hosting and code in your name, a live preview during development, written maintenance terms and references to past work. Learn more about the three of us on the <a href='/about/'>about page</a>, compare other states on the <a href='/it-services/'>IT services hub</a>, or start a conversation through <a href='/contact/'>contact</a>.",
       ],
@@ -310,7 +310,7 @@ const content: CityContent = {
         "Yes. Because we work remotely, a client in Karimganj, North Lakhimpur or Goalpara gets the same service and prices as one in Guwahati. Local search work is adapted to each town's competition and language, and we never claim a physical presence in any town.",
     },
     {
-      question: "Should I choose a freelance team or an IT company in Assam?",
+      question: "Should I choose a freelance team or an IT services team in Assam?",
       answer:
         "Choose based on your needs. A freelance group like ours offers direct engineer access, published prices and lower overheads, but works remotely. A larger IT company can offer bigger teams and in-person meetings at higher cost. Either way, insist on itemised quotes, ownership in your name and written maintenance terms.",
     },

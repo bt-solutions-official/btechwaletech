@@ -10,12 +10,12 @@ const gudur: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Gudur lemon traders, mica and mineral firms, prawn farmers, colleges and clinics.",
     keywords: [
       "IT services in Gudur",
-      "IT company in Gudur",
-      "website development company in Gudur",
+      "IT services team in Gudur",
+      "website development team in Gudur",
       "web design in Gudur",
-      "app development company in Gudur",
+      "app development team in Gudur",
       "Android app development in Gudur",
-      "software company in Gudur",
+      "software team in Gudur",
       "SEO services in Gudur",
       "digital marketing in Gudur",
       "ecommerce website in Gudur",
@@ -75,31 +75,31 @@ const gudur: CityContent = {
     },
     {
       id: "lemon-market-software",
-      heading: "Software company in Gudur for the lemon market and commission agents",
+      heading: "Software team in Gudur for the lemon market and commission agents",
       paragraphs: [
         "Gudur's lemon market is regarded as one of the largest in Andhra Pradesh, drawing fruit from orchards across the Nellore and Tirupati region and sending it to wholesale markets far beyond the state. Prices move daily with arrivals, weather and demand in the big cities, and much of the trade still runs on phone calls, handwritten chits and memory.",
         "That creates predictable problems. A buyer disputes the number of bags. A farmer asks why his rate was lower than his neighbour's. An agent loses track of which outstation buyer still owes money from last week. At the end of the season nobody can say which buyers were worth the credit.",
-        "Working as a <strong>software company in Gudur</strong>, we build web-based registers for exactly this. Arrivals are entered from a phone with farmer, bags, grade and weight. Sales link to buyers and lorries. Farmer statements and buyer outstanding reports update automatically, and a daily summary goes to the owner on WhatsApp. Data can be exported for your accountant or Tally.",
+        "Working as a <strong>software team in Gudur</strong>, we build web-based registers for exactly this. Arrivals are entered from a phone with farmer, bags, grade and weight. Sales link to buyers and lorries. Farmer statements and buyer outstanding reports update automatically, and a daily summary goes to the owner on WhatsApp. Data can be exported for your accountant or Tally.",
         "Custom software starts at ₹60,000 and is built over six to twelve weeks in stages. We usually start with arrivals and farmer payments before the peak season, then add buyer credit and reports. For agents who only need a rate broadcast and a simple ledger, a lighter setup costs much less, and we will say so. See our <a href=\"/services/web-development/\">web development page</a> for how we plan builds.",
       ],
     },
     {
       id: "mica-minerals-exporters",
-      heading: "Website development company in Gudur for mica, feldspar and quartz traders",
+      heading: "Website development team in Gudur for mica, feldspar and quartz traders",
       paragraphs: [
         "The mica belt around Gudur is often described as the second largest in India, covering roughly a thousand square kilometres. Along with mica, the area produces quartz, feldspar, muscovite and vermiculite, which go to ceramics, glass, paint, electrical and other industries in India and overseas.",
         "Buyers for these minerals rarely visit before placing a first enquiry. They search for suppliers, compare websites, and shortlist those who look established and answer technical questions clearly. A mineral trader without a proper site often loses the enquiry before any conversation begins.",
-        "As a <strong>website development company in Gudur</strong> for this sector, we build English-first sites with a Telugu section for local staff and suppliers. Each mineral and grade gets its own page with the specifications you can support, typical applications, packing options, dispatch from Gudur by rail or road, and a clear enquiry form. Downloadable spec sheets help buyers pass your details to their technical teams.",
+        "As a <strong>website development team in Gudur</strong> for this sector, we build English-first sites with a Telugu section for local staff and suppliers. Each mineral and grade gets its own page with the specifications you can support, typical applications, packing options, dispatch from Gudur by rail or road, and a clear enquiry form. Downloadable spec sheets help buyers pass your details to their technical teams.",
         "We never publish test values, certifications or capacities you have not confirmed in writing. For traders with many grades, an SEO website of 700+ pages starts at ₹20,000 and takes three to five weeks, so each grade and application can be found separately in search. Enquiries go straight to email and WhatsApp so a buyer in another time zone gets a quick reply.",
       ],
     },
     {
       id: "aquaculture-prawn-farms",
-      heading: "App development company in Gudur for prawn farms and aqua input dealers",
+      heading: "App development team in Gudur for prawn farms and aqua input dealers",
       paragraphs: [
         "Prawn farming, including scampi and tiger prawns, is a major activity in the coastal mandals around Gudur, alongside the feed, seed, medicine and equipment dealers who supply the farms. Farm owners often manage ponds spread over several villages through supervisors, and much of the daily information travels as voice notes.",
         "A small app can change that. Supervisors record feed given, water readings, aerator hours, sampling weights and any disease signs for each pond, with photos. Owners see every pond on one screen, get alerts when a reading goes outside the range they set, and can compare cycles at harvest time.",
-        "As an <strong>app development company in Gudur</strong> for aqua clients, we build these tools in Flutter or React Native for Android and iOS, with offline entry for ponds where signal drops, and sync when the phone reconnects. We do not give technical farming advice; the thresholds and practices come from you or your consultant.",
+        "As an <strong>app development team in Gudur</strong> for aqua clients, we build these tools in Flutter or React Native for Android and iOS, with offline entry for ponds where signal drops, and sync when the phone reconnects. We do not give technical farming advice; the thresholds and practices come from you or your consultant.",
         "Aqua input dealers can use the same approach for farmer credit, stock by batch and expiry, and delivery scheduling. Apps start at ₹40,000, while fuller farm management systems start at ₹60,000 as custom software. We usually recommend a pilot on a few ponds before rolling out to every site.",
       ],
     },
@@ -175,9 +175,9 @@ const gudur: CityContent = {
     },
     {
       id: "remote-team-gudur",
-      heading: "IT company in Gudur without a local office: how we work from a distance",
+      heading: "IT services team in Gudur without a local office: how we work from a distance",
       paragraphs: [
-        "If you are searching for an <strong>IT company in Gudur</strong>, you may expect a local office. We do not have one, here or elsewhere. We are three engineers working remotely, and our process is designed so that distance does not blur what was agreed.",
+        "If you are searching for an <strong>IT services team in Gudur</strong>, you may expect a local office. We do not have one, here or elsewhere. We are three engineers working remotely, and our process is designed so that distance does not blur what was agreed.",
         "You start by messaging us on WhatsApp. We ask questions and, where it helps, arrange a short video call so you can show us your registers, market setup or current website. We send a written scope and an itemised quote. Once approved, you get a staging link to follow progress and share with partners.",
         "We reply seven days a week during Indian working hours, which suits traders who are busy at the market in the morning and free later in the day. Every change request and decision is written in the chat for future reference.",
         "If you prefer to meet your developer face to face, a local provider may suit you better. If transparent pricing, ownership of every account and one team for websites, apps and software matter more, reach us through the <a href=\"/contact/\">contact page</a>.",
@@ -230,7 +230,7 @@ const gudur: CityContent = {
         "Yes. Our Android and iOS apps start at ₹40,000 and are built in Flutter or React Native with login, push notifications and an admin panel. Local examples include pond record apps for aqua farms, lot booking apps for lemon buyers and student apps for colleges. We publish on Google Play and the App Store under your accounts.",
     },
     {
-      question: "Which is the best software company in Gudur?",
+      question: "Which is the best software team in Gudur?",
       answer:
         "The right choice gives you public starting prices, a written itemised quote, real past work and full ownership of your domain, hosting and code. Ask who will build the project and who supports it afterwards. We are a remote team of three engineers and are happy to be compared on those points.",
     },

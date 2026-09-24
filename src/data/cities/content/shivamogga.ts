@@ -9,7 +9,7 @@ const shivamogga: CityContent = {
     description:
       "Websites, Kannada and English SEO, online stores and WhatsApp automation for Shivamogga areca traders, foundries, rice mills and shops. Clear prices, you own it.",
     keywords: [
-      "website development company in Shivamogga",
+      "website development team in Shivamogga",
       "web design Shimoga",
       "website designer Shivamogga",
       "SEO services Shivamogga",

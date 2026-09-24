@@ -10,12 +10,12 @@ const noorpur: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Noorpur traders, cane suppliers, schools and clinics in Bijnor district. Sites from ₹10,000.",
     keywords: [
       "IT services in Noorpur",
-      "IT company in Noorpur",
-      "website development company in Noorpur",
+      "IT services team in Noorpur",
+      "website development team in Noorpur",
       "web design in Noorpur",
-      "app development company in Noorpur",
+      "app development team in Noorpur",
       "Android app development in Noorpur",
-      "software company in Noorpur",
+      "software team in Noorpur",
       "SEO services in Noorpur",
       "digital marketing in Noorpur",
       "ecommerce website in Noorpur",
@@ -75,20 +75,20 @@ const noorpur: CityContent = {
     },
     {
       id: "cane-mill-supply-chain",
-      heading: "Software company in Noorpur for cane transport and the Changipur mill supply chain",
+      heading: "Software team in Noorpur for cane transport and the Changipur mill supply chain",
       paragraphs: [
         "Cane is the backbone of Bijnor district. The district administration describes its economy as cane production plus agro-industrial units, and the Bindals group has built an integrated sugar and distillery unit at Changipur village in the Noorpur area, planned for 10,000 tonnes of cane a day with an ethanol distillery and captive power. For Noorpur, that means more trolleys on the road each season and more small firms feeding a large plant.",
         "Around any mill of that size you find the same web of businesses: tractor-trolley and truck owners, harvesting labour contractors, welding and trolley repair shops, diesel and lubricant sellers, canteen operators, civil and electrical contractors, and suppliers of bags, chemicals and spares. Most of them still keep accounts in a diary, and most disputes start with a missing entry.",
-        "Working as a <strong>software company in Noorpur</strong> for this trade, we build plain web tools that match how the season actually runs. Each trip is entered once from a phone with vehicle number, cane slip, weight and rate. Diesel advances, driver payments and repair bills sit against the same vehicle. The owner sees running totals per trolley and per farmer, and money still due from each buyer. Reminders for fitness certificates, insurance and permits go out before they lapse.",
+        "Working as a <strong>software team in Noorpur</strong> for this trade, we build plain web tools that match how the season actually runs. Each trip is entered once from a phone with vehicle number, cane slip, weight and rate. Diesel advances, driver payments and repair bills sit against the same vehicle. The owner sees running totals per trolley and per farmer, and money still due from each buyer. Reminders for fitness certificates, insurance and permits go out before they lapse.",
         "Tools of this kind start at ₹60,000 and are delivered in stages over six to twelve weeks. We suggest building the trip register first, during the off-season, so it is tested before the first loads roll in. A supplier who only needs to look credible to a mill purchase office may need nothing more than a clean website with GST details and capability photos, which costs far less.",
       ],
     },
     {
       id: "farm-input-dealers",
-      heading: "Website development company in Noorpur for fertiliser, seed and tractor dealers",
+      heading: "Website development team in Noorpur for fertiliser, seed and tractor dealers",
       paragraphs: [
         "A good share of Noorpur's trade is sold to farmers: fertiliser and pesticide counters, seed shops, tractor and implement dealers, spare parts stores, pumpset and pipe sellers, and hardware merchants. Their customers live in villages spread between Chandpur, Dhampur and Amroha, and many of them phone or message before they make the trip into town.",
-        "The job of a <strong>website development company in Noorpur</strong> for these dealers is to save that trip from being wasted. A useful site lists brands and product categories, shows which items are seasonal, gives the counter's timings and holiday closures, and puts a WhatsApp button beside every product group so a farmer can ask for a rate. Hindi comes first, because that is how buyers search and speak; English can sit alongside for company representatives and bank officers.",
+        "The job of a <strong>website development team in Noorpur</strong> for these dealers is to save that trip from being wasted. A useful site lists brands and product categories, shows which items are seasonal, gives the counter's timings and holiday closures, and puts a WhatsApp button beside every product group so a farmer can ask for a rate. Hindi comes first, because that is how buyers search and speak; English can sit alongside for company representatives and bank officers.",
         "Dealers who give goods on credit to village retailers often need more than pages. We can add a small billing and stock tool with party-wise outstanding balances, a monthly statement each retailer receives on WhatsApp, and alerts when a fast-moving item runs low before sowing season. It can export to Tally if your accountant already uses it.",
         "A straightforward dealer website starts at ₹10,000 and usually takes one to two weeks once you have sent photos and a product list. The billing tool is a separate, larger job that we quote on its own line, so you can start with the site and add software later.",
       ],
@@ -125,10 +125,10 @@ const noorpur: CityContent = {
     },
     {
       id: "transport-travel-noorpur",
-      heading: "IT company in Noorpur for transporters, bus agents and travel operators",
+      heading: "IT services team in Noorpur for transporters, bus agents and travel operators",
       paragraphs: [
         "With three state highways crossing it and direct buses to Delhi, Moradabad, Bijnor and Haridwar, Noorpur is a travel point for the villages around it. Rail passengers go to Chandpur for the nearest station or to Moradabad for the junction. That keeps a steady business going for taxi owners, travel agents, goods transporters, courier counters and pilgrimage tour organisers heading to Haridwar and the hill towns.",
-        "As an <strong>IT company in Noorpur</strong> that understands small transport firms, we start with what customers ask most often: routes covered, vehicle types and seats, rough fare guidance with a note that actual rates vary, booking steps, and a phone and WhatsApp number that someone answers. A page for each common route, such as Noorpur to Delhi or Noorpur to Haridwar, works well if it contains real information about pick-up points, timings and luggage limits.",
+        "As an <strong>IT services team in Noorpur</strong> that understands small transport firms, we start with what customers ask most often: routes covered, vehicle types and seats, rough fare guidance with a note that actual rates vary, booking steps, and a phone and WhatsApp number that someone answers. A page for each common route, such as Noorpur to Delhi or Noorpur to Haridwar, works well if it contains real information about pick-up points, timings and luggage limits.",
         "Goods transporters benefit from a booking and trip record: consignments, vehicles, drivers, delivery proof photos and payment status on one screen. Tour organisers can take group bookings with an advance paid by UPI and a list of travellers that updates as people register.",
         "We do not publish fares we cannot stand behind, and we advise you not to either. Travellers remember a quoted price, so a page that says “call for today's rate” is more honest than one that lists last season's numbers.",
       ],
@@ -138,7 +138,7 @@ const noorpur: CityContent = {
       heading: "Android app development in Noorpur: who needs an app and who does not",
       paragraphs: [
         "Most phones in and around Noorpur run Android, but school parents, doctors and families with relatives abroad increasingly carry iPhones too. An app earns its cost when the same group of people opens it again and again: parents checking homework and fees, patients booking a token, village retailers placing repeat orders with a dealer, or drivers logging trips during the cane season.",
-        "As an <strong>app development company in Noorpur</strong> working remotely, we build in Flutter or React Native, so one codebase serves both Android and iOS. A first version typically includes mobile number login with OTP, push notifications, the three or four screens your users need most, and an admin panel where your staff can post notices, update prices or see orders. Hindi labels throughout are standard, not an add-on.",
+        "As an <strong>app development team in Noorpur</strong> working remotely, we build in Flutter or React Native, so one codebase serves both Android and iOS. A first version typically includes mobile number login with OTP, push notifications, the three or four screens your users need most, and an admin panel where your staff can post notices, update prices or see orders. Hindi labels throughout are standard, not an add-on.",
         "<strong>Android app development in Noorpur</strong> with us starts at ₹40,000, and that figure covers an iOS build from the same code. The quote rises with online payments, offline entry for places with weak signal, maps and tracking, or links to your existing billing software; each is listed separately. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, and guide you through the store review. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Be sceptical of anyone who pushes an app on a shop that only needs its address, timings and a price list found. A website does that for a quarter of the cost and needs no download. If we think your customers will install an app once and forget it, we will say so and suggest the site instead.",
       ],
@@ -235,7 +235,7 @@ const noorpur: CityContent = {
         "A simple shop or clinic website is usually live within one to two weeks after you send photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the fastest route.",
     },
     {
-      question: "Which is the best IT company in Noorpur for a small business?",
+      question: "Which is the best IT services team in Noorpur for a small business?",
       answer:
         "Judge any provider on a few checks: published prices, the domain and code registered to you, real past work you can open, and someone who answers after launch. Put the same questions to everyone you consider. We meet those checks and reply on WhatsApp all week, but talking to two or three options first is sensible.",
     },

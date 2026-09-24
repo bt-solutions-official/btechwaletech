@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Jaipur for jewellery ERPs, print-house job tracking, SaaS MVPs, Android and iOS apps and AI automation. Apps from ₹40,000.",
     keywords: [
-      "software development company in Jaipur",
-      "IT company in Jaipur",
+      "software development team in Jaipur",
+      "IT services team in Jaipur",
       "IT solutions Jaipur",
       "freelance software developers Jaipur",
       "custom software development Jaipur",
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-jaipur",
-      heading: "Hiring freelance developers vs a software development company in Jaipur",
+      heading: "Hiring freelance developers vs a software development team in Jaipur",
       paragraphs: [
-        "Hiring freelance developers instead of a software development company in Jaipur makes sense when you want senior engineers working directly on your problem without paying for an office, a sales desk and project managers. BtechWaleTech is a freelance group of three engineers, so the person on your call is the person writing and deploying the code.",
+        "Hiring freelance developers instead of a software development team in Jaipur makes sense when you want senior engineers working directly on your problem without paying for an office, a sales desk and project managers. BtechWaleTech is a freelance group of three engineers, so the person on your call is the person writing and deploying the code.",
         "Jaipur has a strong IT ecosystem, including large firms in Mahindra World City and startups around the Bhamashah Techno Hub. If you need a team of twenty or daily on-site staff, one of them is the better choice. For focused builds, such as a jewellery ledger, a job-work tracker, an MVP or an app, a small freelance group usually moves faster and stays easier to reach.",
         "We have no Jaipur office and do not pretend otherwise. Scoping happens over video calls and WhatsApp, progress is shared on a live preview, and everything, from code to cloud accounts, belongs to you. More about the group is on our <a href='/about/'>about page</a>.",
       ],
@@ -271,7 +271,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company based in Jaipur?",
+      question: "Are you a software development team based in Jaipur?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Jaipur. Jaipur businesses hire us as freelance developers and work with us over video calls, WhatsApp and live preview links. You talk directly to the engineers building your software and own all code and accounts.",
     },

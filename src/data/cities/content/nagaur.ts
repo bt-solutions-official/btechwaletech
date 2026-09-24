@@ -9,7 +9,7 @@ const nagaur: CityContent = {
     description:
       "Websites, Hindi SEO and WhatsApp automation for Nagaur methi and spice firms, marble and mineral traders, hotels, schools and clinics. From ₹10,000; you own it.",
     keywords: [
-      "website development company in Nagaur",
+      "website development team in Nagaur",
       "web designer Nagaur",
       "Nagaur website cost",
       "SEO services Nagaur",

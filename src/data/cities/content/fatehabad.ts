@@ -10,12 +10,12 @@ const fatehabad: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Fatehabad arhtiyas, dealers, clinics and schools. Websites from ₹10,000, apps from ₹40,000.",
     keywords: [
       "IT services in Fatehabad",
-      "IT company in Fatehabad",
-      "website development company in Fatehabad",
+      "IT services team in Fatehabad",
+      "website development team in Fatehabad",
       "web design in Fatehabad",
-      "app development company in Fatehabad",
+      "app development team in Fatehabad",
       "Android app development in Fatehabad",
-      "software company in Fatehabad",
+      "software team in Fatehabad",
       "SEO services in Fatehabad",
       "digital marketing in Fatehabad",
       "ecommerce website in Fatehabad",
@@ -70,7 +70,7 @@ const fatehabad: CityContent = {
       paragraphs: [
         "Fatehabad's commercial life moves with the rabi and kharif seasons. Wheat and mustard arrive after March, paddy and cotton after the monsoon, and in between the town's shops, dealers and workshops sell to the same families who grow those crops. A digital project here has to respect that rhythm: a dealer does not want a new website going live in the week the mandi is full.",
         "We are a remote team of three engineers, not a local office, and we plan work around your calendar. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. Between us we cover the full range of <strong>IT services in Fatehabad</strong> that a small business actually uses: a website, local search, an app when it earns its keep, and software that replaces a register.",
-        "Anyone searching for an <strong>IT company in Fatehabad</strong> is usually comparing a cousin who knows computers, a Hisar agency and a freelancer found on Instagram. The honest test is simple. Ask who will own the domain, who can edit the site after launch, what happens if the developer disappears, and whether the quote is itemised. We answer each of those in writing before you pay anything.",
+        "Anyone searching for an <strong>IT services team in Fatehabad</strong> is usually comparing a cousin who knows computers, a Hisar agency and a freelancer found on Instagram. The honest test is simple. Ask who will own the domain, who can edit the site after launch, what happens if the developer disappears, and whether the quote is itemised. We answer each of those in writing before you pay anything.",
       ],
     },
     {
@@ -94,9 +94,9 @@ const fatehabad: CityContent = {
     },
     {
       id: "website-development-company",
-      heading: "Choosing a website development company in Fatehabad",
+      heading: "Choosing a website development team in Fatehabad",
       paragraphs: [
-        "A <strong>website development company in Fatehabad</strong> should be judged on what it hands over, not on how the demo looks. Before you sign with anyone, including us, ask to see a site they built that still loads quickly on a mobile network, and ask the owner of that site whether they can change a price or phone number themselves.",
+        "A <strong>website development team in Fatehabad</strong> should be judged on what it hands over, not on how the demo looks. Before you sign with anyone, including us, ask to see a site they built that still loads quickly on a mobile network, and ask the owner of that site whether they can change a price or phone number themselves.",
         "Our standard build includes a mobile-first layout, Hindi and English content where you need it, click-to-call and WhatsApp buttons, a Google Maps embed, schema markup for your business type, an XML sitemap and connection to Google Search Console. We write or edit the text with you, because pages filled with borrowed copy help nobody.",
         "Static sites of up to 100 pages start at ₹10,000 and take one to two weeks. Larger SEO sites of 700 or more pages, useful for a dealer network or a coaching institute with many course pages, start at ₹20,000 and take three to five weeks. We tell you frankly when a Facebook page and a Google Business Profile will serve you better than either.",
       ],
@@ -150,7 +150,7 @@ const fatehabad: CityContent = {
       id: "android-ios-apps",
       heading: "Android app development in Fatehabad: when an app makes sense",
       paragraphs: [
-        "Many people ask an <strong>app development company in Fatehabad</strong> for an app when a website would do the job. An app earns its cost when the same people use it again and again: a dealer's regular retailers placing repeat orders, parents checking homework and fees, farmers tied to one arhtiya checking their account, or delivery staff logging drops.",
+        "Many people ask an <strong>app development team in Fatehabad</strong> for an app when a website would do the job. An app earns its cost when the same people use it again and again: a dealer's regular retailers placing repeat orders, parents checking homework and fees, farmers tied to one arhtiya checking their account, or delivery staff logging drops.",
         "We build Android and iOS apps in Flutter or React Native, which means one codebase for both platforms. A typical app includes phone number login with OTP, push notifications, a catalogue or dashboard, order or request forms and an admin panel where your staff update content without calling a developer. We publish the app on Google Play and the App Store under your own developer accounts.",
         "<a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> starts at ₹40,000. The final quote depends on the number of screens, roles, payment needs and integrations. If your customers only need your address, timings and price list, we will tell you to start with a website and WhatsApp catalogue instead, and add an app later when repeat use justifies it.",
       ],
@@ -233,7 +233,7 @@ const fatehabad: CityContent = {
         "Yes. We build Android and iOS apps in Flutter or React Native with OTP login, push notifications and an admin panel, starting at ₹40,000. Dealers, schools, arhtiyas and delivery businesses use them for orders, notices and account statements. We publish on Google Play and the App Store under your own developer accounts.",
     },
     {
-      question: "Which is the best IT company in Fatehabad for a small business?",
+      question: "Which is the best IT services team in Fatehabad for a small business?",
       answer:
         "The best choice is whoever gives you an itemised quote, keeps the domain and code in your name, shows working sites you can check and answers after launch. We meet those tests as a remote team of three engineers, but we suggest you ask every provider the same questions before deciding.",
     },

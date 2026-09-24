@@ -9,7 +9,7 @@ const jalpaiguri: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Jalpaiguri tea growers, Dooars homestays, lawyers, clinics, coaching centres and Dinbazar shops. From ₹10,000.",
     keywords: [
-      "website development company in Jalpaiguri",
+      "website development team in Jalpaiguri",
       "web designer Jalpaiguri",
       "website design Jalpaiguri West Bengal",
       "SEO services Jalpaiguri",

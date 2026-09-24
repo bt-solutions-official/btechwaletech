@@ -9,7 +9,7 @@ const nandyal: CityContent = {
     description:
       "Websites, Telugu SEO, mango and rice stores and WhatsApp automation for Nandyal mills, pilgrim hotels, hospitals, colleges and shops. Starting from ₹10,000.",
     keywords: [
-      "website development company in Nandyal",
+      "website development team in Nandyal",
       "web design Nandyal",
       "website designer Nandyal",
       "freelance web developer Nandyal",
@@ -274,7 +274,7 @@ const nandyal: CityContent = {
     {
       question: "How long does SEO take for a Nandyal business?",
       answer:
-        "Map visibility for nearby searches usually improves within six to ten weeks after your profile and site are corrected. Competitive terms like “website development company in Nandyal” or “hotel near Mahanandi” take four to eight months of steady work. No honest provider guarantees first position.",
+        "Map visibility for nearby searches usually improves within six to ten weeks after your profile and site are corrected. Competitive terms like “website development team in Nandyal” or “hotel near Mahanandi” take four to eight months of steady work. No honest provider guarantees first position.",
     },
     {
       question: "Do you work with businesses in Banaganapalle, Allagadda, Dhone and Kurnool?",

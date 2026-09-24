@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Chhattisgarh: custom software, web and mobile apps, AI automation, dashboards, cloud and SEO for Raipur to Korba. Starting at ₹10,000.",
     keywords: [
       "IT services in Chhattisgarh",
-      "software development company in Chhattisgarh",
-      "IT company in Chhattisgarh",
+      "software development team in Chhattisgarh",
+      "IT services team in Chhattisgarh",
       "freelance software developers Chhattisgarh",
       "IT solutions Chhattisgarh",
       "custom software development Chhattisgarh",
@@ -82,9 +82,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-chhattisgarh",
-      heading: "Freelance IT team vs a software development company in Chhattisgarh: which suits you?",
+      heading: "Freelance IT team vs a software development team in Chhattisgarh: which suits you?",
       paragraphs: [
-        "A freelance IT team suits Chhattisgarh businesses that need a focused system built well, with direct access to the developers, while a software development company suits large implementations, government tenders or projects that require on-site staff. The deciding factor should be project size and support needs, not a brand name.",
+        "A freelance IT team suits Chhattisgarh businesses that need a focused system built well, with direct access to the developers, while a software development team suits large implementations, government tenders or projects that require on-site staff. The deciding factor should be project size and support needs, not a brand name.",
         "BtechWaleTech is three engineers working remotely, without an office in Raipur or anywhere else in the state. You get published starting prices, weekly demos and one WhatsApp thread with the people writing the code. The limit is capacity: we cannot place staff at your plant or bid for large tenders. If you are comparing IT companies in Chhattisgarh, use the same checklist for all of them.",
       ],
       list: [

@@ -10,12 +10,12 @@ const wanaparthy: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Wanaparthy rice millers, Kothakota weavers, colleges, hospitals and shops.",
     keywords: [
       "IT services in Wanaparthy",
-      "IT company in Wanaparthy",
-      "website development company in Wanaparthy",
+      "IT services team in Wanaparthy",
+      "website development team in Wanaparthy",
       "web design in Wanaparthy",
-      "app development company in Wanaparthy",
+      "app development team in Wanaparthy",
       "Android app development in Wanaparthy",
-      "software company in Wanaparthy",
+      "software team in Wanaparthy",
       "SEO services in Wanaparthy",
       "digital marketing in Wanaparthy",
       "ecommerce website in Wanaparthy",
@@ -95,20 +95,20 @@ const wanaparthy: CityContent = {
     },
     {
       id: "rice-mills-agri-trade",
-      heading: "Software company in Wanaparthy for rice mills and agri-input dealers",
+      heading: "Software team in Wanaparthy for rice mills and agri-input dealers",
       paragraphs: [
         "Water from the Jurala project on the Krishna and from local tanks and canals supports farming across the district. Jowar, cotton, red gram, groundnut and chillies have long been grown on the drier land, and irrigated areas add paddy. That brings a chain of businesses into town: paddy traders, rice mills, cold storage and warehousing, and dealers selling seed, fertiliser, pesticides and farm machinery.",
         "The paperwork is where these businesses lose time. A mill tracks paddy received per lorry and party, moisture and quality deductions, milling batches, rice and broken output, bran sales and payments due from buyers. A dealer tracks stock by batch and expiry, credit given to farmers until harvest, and advance bookings before kharif and rabi.",
-        "Working as a <strong>software company in Wanaparthy</strong> for these clients, we build web-based registers that staff can fill from a phone at the weighbridge or counter. Party ledgers update automatically, stock alerts flag expiring batches, and outstanding reports show who owes what. Exports are shaped so your accountant can bring the data into Tally without re-typing.",
+        "Working as a <strong>software team in Wanaparthy</strong> for these clients, we build web-based registers that staff can fill from a phone at the weighbridge or counter. Party ledgers update automatically, stock alerts flag expiring batches, and outstanding reports show who owes what. Exports are shaped so your accountant can bring the data into Tally without re-typing.",
         "Custom software starts at ₹60,000 and is built over six to twelve weeks in stages. We suggest starting with the part where money is most often lost, which is usually receipts and credit, and adding stock and output tracking once staff are comfortable. See our <a href=\"/services/web-development/\">web development page</a> for how we plan these builds.",
       ],
     },
     {
       id: "hospitals-clinics-wanaparthy",
-      heading: "Website development company in Wanaparthy for hospitals and clinics",
+      heading: "Website development team in Wanaparthy for hospitals and clinics",
       paragraphs: [
         "As the district centre, Wanaparthy handles a large share of the area's medical visits. Families travel in from Pebbair, Kothakota, Atmakur and villages beyond, often by bus, and a wrong timing or missing phone number can waste a whole day.",
-        "As a <strong>website development company in Wanaparthy</strong> for healthcare, we put the practical details first: specialities, doctor names and OPD days, emergency and ambulance numbers, directions from the bus stand, health schemes you genuinely accept, lab test lists and an appointment request form. Pages are written in Telugu and English, with Urdu added if your patients need it.",
+        "As a <strong>website development team in Wanaparthy</strong> for healthcare, we put the practical details first: specialities, doctor names and OPD days, emergency and ambulance numbers, directions from the bus stand, health schemes you genuinely accept, lab test lists and an appointment request form. Pages are written in Telugu and English, with Urdu added if your patients need it.",
         "We are careful with medical content. No promises of cures, no success-rate claims we cannot verify, and no patient photographs or testimonials without clear written consent. This keeps you on the right side of medical advertising rules and of Google's stricter standards for health pages.",
         "Larger hospitals can add online slot booking, WhatsApp reminders the day before an appointment, and secure report downloads. These are quoted as separate items after we understand how your reception desk works now, so you only pay for features your staff will use.",
       ],
@@ -125,7 +125,7 @@ const wanaparthy: CityContent = {
     },
     {
       id: "android-ios-apps-wanaparthy",
-      heading: "App development company in Wanaparthy: Android and iOS apps for local use",
+      heading: "App development team in Wanaparthy: Android and iOS apps for local use",
       paragraphs: [
         "Android phones dominate in Wanaparthy, but families with members in Hyderabad, Bengaluru or abroad increasingly use iPhones, and so do many doctors and business owners. We build apps in Flutter or React Native from a single codebase for both platforms, with login, push notifications and an admin panel, and publish them on Google Play and the App Store under your own developer accounts.",
         "Which local businesses benefit? Weaver groups and saree shops that want resellers to see new designs as soon as they come off the loom. Seed and fertiliser dealers whose farmer customers re-order through the season. Coaching centres sending tests and results. Diagnostic labs sending reports. Rice mills whose buyers want to check dispatch status without calling.",
@@ -175,9 +175,9 @@ const wanaparthy: CityContent = {
     },
     {
       id: "remote-team-wanaparthy",
-      heading: "IT company in Wanaparthy that works remotely, and why that is fine",
+      heading: "IT services team in Wanaparthy that works remotely, and why that is fine",
       paragraphs: [
-        "Anyone looking for an <strong>IT company in Wanaparthy</strong> will reasonably ask where our office is. We do not have one in this town or any other. We are three engineers working remotely, and our process is built to work over distance without losing clarity.",
+        "Anyone looking for an <strong>IT services team in Wanaparthy</strong> will reasonably ask where our office is. We do not have one in this town or any other. We are three engineers working remotely, and our process is built to work over distance without losing clarity.",
         "You message us on WhatsApp with what you need. We ask questions, and if it helps, set up a short video call where you show us your registers, shop or current website. We send a written scope and an itemised quote. After approval, you get a staging link to watch progress on your phone and share with partners or family.",
         "We reply seven days a week in Indian working hours, which suits owners who only have time for messages after the shop closes or during harvest rush. Every agreed change is written in the chat, so there is a record if anyone forgets later.",
         "If you would rather sit across a table from your developer, a local provider may suit you better, and that is a fair decision. If clear prices, ownership and one team for sites, apps and software matter more, start on our <a href=\"/contact/\">contact page</a>.",
@@ -230,7 +230,7 @@ const wanaparthy: CityContent = {
         "Yes. We build Android and iOS apps from ₹40,000 in Flutter or React Native, with login, push notifications and an admin panel. Useful local cases include saree catalogue apps for resellers, re-order apps for agri-input dealers and student apps for coaching centres. Apps are published on Google Play and the App Store under your own accounts.",
     },
     {
-      question: "Which is the best website development company in Wanaparthy?",
+      question: "Which is the best website development team in Wanaparthy?",
       answer:
         "Look for public starting prices, a written itemised quote, real past work and full ownership of your domain, hosting and code. Ask who will build the site and who fixes it after launch. We are a remote three-engineer team and welcome being compared with local providers on exactly those points.",
     },

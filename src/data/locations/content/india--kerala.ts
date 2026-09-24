@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT solutions for Kerala: websites, custom software, Android and iOS apps, AI automation and Malayalam SEO for Kochi, Thiruvananthapuram and beyond.",
     keywords: [
-      "IT solutions company in Kerala",
+      "IT solutions team in Kerala",
       "freelance IT services Kerala",
       "IT consulting Kerala",
       "digital transformation Kerala",
@@ -87,9 +87,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-it-team-vs-it-company-kerala",
-      heading: "Freelance IT team or an IT solutions company in Kerala?",
+      heading: "Freelance IT team or an IT solutions team in Kerala?",
       paragraphs: [
-        "A freelance IT team suits Kerala businesses that want direct contact with developers, moderate budgets and one group handling websites, apps and automation, while an IT solutions company suits large institutions needing bigger teams, tenders and on-site staff. Many established IT companies in Kerala operate from Technopark or Infopark and focus on export software services, so smaller local businesses sometimes struggle to get attention.",
+        "A freelance IT team suits Kerala businesses that want direct contact with developers, moderate budgets and one group handling websites, apps and automation, while an IT solutions team suits large institutions needing bigger teams, tenders and on-site staff. Many established IT companies in Kerala operate from Technopark or Infopark and focus on export software services, so smaller local businesses sometimes struggle to get attention.",
         "As a three-person freelance group, we cannot staff a hospital's IT helpdesk or bid for large government tenders. What we can do is design, build and maintain the software, apps and websites a Kerala business actually runs on, with the same people involved from the first call to support years later.",
         "Whatever you choose, insist on owning your domain and code, getting an itemised quote and knowing exactly who to call when something breaks. Those protections matter more than the size of the vendor.",
       ],

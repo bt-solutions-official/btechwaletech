@@ -9,10 +9,10 @@ const nellore: CityContent = {
     description:
       "Websites, Telugu SEO and WhatsApp automation for Nellore aqua farms, shrimp exporters, rice mills, hospitals, colleges and jewellers. Plans from ₹10,000.",
     keywords: [
-      "website development company in Nellore",
+      "website development team in Nellore",
       "website designer Nellore",
       "web design Nellore",
-      "SEO company in Nellore",
+      "SEO team in Nellore",
       "local SEO Nellore",
       "aquaculture company website",
       "shrimp exporter website Nellore",
@@ -20,7 +20,7 @@ const nellore: CityContent = {
       "hospital website Nellore",
       "ecommerce website Nellore",
       "WhatsApp automation Nellore",
-      "software company Nellore",
+      "software team Nellore",
       "Nellore lo website design",
       "నెల్లూరు వెబ్‌సైట్ డిజైన్",
       "Krishnapatnam logistics website",

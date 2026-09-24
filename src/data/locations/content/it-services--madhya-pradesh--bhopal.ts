@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers for Bhopal: hospital and college systems, tender trackers, AI agents and dashboards. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
-      "software development company in Bhopal",
-      "IT company in Bhopal",
+      "software development team in Bhopal",
+      "IT services team in Bhopal",
       "IT solutions Bhopal",
       "freelance software developer Bhopal",
       "custom software development Bhopal",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Bhopal, Madhya Pradesh",
     h1: "Freelance software developers in Bhopal for hospitals, institutes, contractors and industry",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Bhopal clinics, colleges, contractors, Govindpura and Mandideep units and retailers hire us in place of a software development company in Bhopal to build patient and admission systems, tender trackers, AI agents, mobile apps and dashboards, with hosting and SEO handled too.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Bhopal clinics, colleges, contractors, Govindpura and Mandideep units and retailers hire us in place of a software development team in Bhopal to build patient and admission systems, tender trackers, AI agents, mobile apps and dashboards, with hosting and SEO handled too.",
     pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Hospital and college systems", "Hindi and English screens", "5 months free maintenance"],
   },
   quickAnswer:
-    "If you are searching for a software development company in Bhopal, BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance.",
+    "If you are searching for a software development team in Bhopal, BtechWaleTech is a freelance group of three remote engineers offering the same builds. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance.",
   snapshot: [
     { label: "Role", value: "Capital of Madhya Pradesh, with the state secretariat, directorates and many public sector offices" },
     { label: "Business districts", value: "MP Nagar, New Market and TT Nagar, Arera Colony, Hamidia Road and the Chowk Bazaar area of the old city" },
@@ -71,7 +71,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-bhopal",
-      heading: "Should you hire a software development company in Bhopal or a freelance team?",
+      heading: "Should you hire a software development team in Bhopal or a freelance team?",
       paragraphs: [
         "Choose a freelance team for focused systems where you want direct contact with the engineers and lower overhead; choose a larger software development company in Bhopal when a tender requires company certifications, large on-site teams or formal empanelment. Both are valid, and the right answer depends on your project, not on size alone.",
         "Many Bhopal organisations buy software through formal processes. If your tender demands ISO certification, turnover thresholds or on-site staff, a freelance group is not eligible, and we will say so. But a large share of Bhopal's software need comes from private hospitals, colleges, coaching institutes, contractors, traders and manufacturers that simply need a system that works and a developer who answers.",
@@ -239,9 +239,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a Bhopal software company with an office?",
+      question: "Are you a Bhopal software team with an office?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Bhopal. Every meeting, review, training session and support request happens online over video calls, phone and WhatsApp. You deal directly with the engineers who build and maintain your system.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Bhopal. Every meeting, review, training session and support request happens online over video calls, phone and WhatsApp. You deal directly with the engineers who build and maintain your system.",
     },
     {
       question: "How can we pay you?",

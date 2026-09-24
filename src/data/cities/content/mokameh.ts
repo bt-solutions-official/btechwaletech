@@ -11,12 +11,12 @@ const mokameh: CityContent = {
     keywords: [
       "IT services in Mokama",
       "IT services in Mokameh",
-      "IT company in Mokama",
-      "website development company in Mokama",
+      "IT services team in Mokama",
+      "website development team in Mokama",
       "web design in Mokama",
-      "app development company in Mokama",
+      "app development team in Mokama",
       "Android app development in Mokama",
-      "software company in Mokama",
+      "software team in Mokama",
       "SEO services in Mokama",
       "digital marketing in Mokama",
       "ecommerce website in Mokama",
@@ -73,19 +73,19 @@ const mokameh: CityContent = {
     },
     {
       id: "mokama-tal-pulses",
-      heading: "Website development company in Mokama for Tal lentil and grain traders",
+      heading: "Website development team in Mokama for Tal lentil and grain traders",
       paragraphs: [
         "Mokama Tal is a wide, low-lying belt beside the Ganga that stays under water for part of the year. As the water recedes, farmers sow masoor, gram, peas and other rabi pulses, and the area is counted among the country's biggest lentil-producing zones. Traders, commission agents, dal mills and warehouse owners in and around Mokama buy the crop and send it onward by truck and rail.",
-        "A <strong>website development company in Mokama</strong> can help such traders look as solid online as they are in the mandi. Useful pages cover the pulses handled, grades and sizes, bag weights, minimum lot sizes, where you dispatch, how buyers can check samples, and your GST and licence details. A named contact with a direct WhatsApp number does more than any slogan.",
+        "A <strong>website development team in Mokama</strong> can help such traders look as solid online as they are in the mandi. Useful pages cover the pulses handled, grades and sizes, bag weights, minimum lot sizes, where you dispatch, how buyers can check samples, and your GST and licence details. A named contact with a direct WhatsApp number does more than any slogan.",
         "Rates move daily, so we avoid printing them on fixed pages; instead a simple admin screen lets you update the day's indicative rates in a minute, or the site asks buyers to message for a quote. Sites like this start at ₹10,000 for up to 100 pages. Later, a trader can add a record of lots bought from farmers and sold to mills.",
       ],
     },
     {
       id: "transport-bridges-software",
-      heading: "Software company in Mokama for truck owners and transporters on the Ganga bridges",
+      heading: "Software team in Mokama for truck owners and transporters on the Ganga bridges",
       paragraphs: [
         "With two Ganga bridges, national highways meeting at Hathidah and a main-line rail junction, Mokama has many transport businesses: truck and tractor owners, bus operators, goods booking agents, tyre and repair workshops, and fuel and spare parts dealers. The new bridge is expected to shorten heavy-vehicle routes between north and south Bihar, which may bring more work and more paperwork.",
-        "Acting as a <strong>software company in Mokama</strong> for these firms, we build small, focused tools. Each trip is entered once from a phone with truck number, route, load, freight rate and advance paid. The owner sees running totals by truck and by party, freight still due, diesel and toll spending, and alerts before fitness, permit or insurance papers expire.",
+        "Acting as a <strong>software team in Mokama</strong> for these firms, we build small, focused tools. Each trip is entered once from a phone with truck number, route, load, freight rate and advance paid. The owner sees running totals by truck and by party, freight still due, diesel and toll spending, and alerts before fitness, permit or insurance papers expire.",
         "Tools of this type begin at ₹60,000 and grow in stages across six to twelve weeks. We start with the trip and freight register because unpaid freight is where most money leaks, then add driver records and document alerts. Data exports to Excel at any time for your munshi or CA.",
       ],
     },
@@ -103,7 +103,7 @@ const mokameh: CityContent = {
       heading: "Android app development in Mokama, plus iOS apps for local firms",
       paragraphs: [
         "An app belongs on a phone only if the same people come back to it week after week. In Mokama, the likely candidates are drivers logging trips for a transport owner, parents following a school's homework and fee notices, patients booking a slot at a busy nursing home, and village kirana shops re-ordering from a wholesaler. Someone who needs your number once will not install anything.",
-        "We are a remote <strong>app development company in Mokama</strong> that builds with Flutter or React Native. One codebase powers both the Android version and the iPhone version, which keeps cost and upkeep lower. A typical first release has mobile OTP login, push notifications, the few key screens and a web admin panel, with Hindi and English text. We publish to Google Play and the Apple App Store using developer accounts opened in your firm's name.",
+        "We are a remote <strong>app development team in Mokama</strong> that builds with Flutter or React Native. One codebase powers both the Android version and the iPhone version, which keeps cost and upkeep lower. A typical first release has mobile OTP login, push notifications, the few key screens and a web admin panel, with Hindi and English text. We publish to Google Play and the Apple App Store using developer accounts opened in your firm's name.",
         "<strong>Android app development in Mokama</strong> begins at ₹40,000. Online payment, offline mode for patchy network in the Tal villages, GPS trip tracking and billing software links are priced as separate items. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "Where customers only want your address, timings and a rate list, a website does the same job for about a quarter of the money, and we will steer you towards it.",
       ],
@@ -137,10 +137,10 @@ const mokameh: CityContent = {
     },
     {
       id: "health-mokama",
-      heading: "IT company in Mokama for hospitals, nursing homes and clinics",
+      heading: "IT services team in Mokama for hospitals, nursing homes and clinics",
       paragraphs: [
         "Nazareth Hospital, run for decades by the Sisters of Charity of Nazareth, is one of the town's best-known institutions, and Mokama also has private clinics, nursing homes, diagnostic labs and pharmacies serving patients from the Tal villages and across the river.",
-        "An <strong>IT company in Mokama</strong> working with healthcare must be careful with facts. A clinic website should list doctors with qualifications, OPD days and timings, departments, emergency numbers and the tests available. It should not make claims about cures or success rates. Patient data stays private and is never shown publicly.",
+        "An <strong>IT services team in Mokama</strong> working with healthcare must be careful with facts. A clinic website should list doctors with qualifications, OPD days and timings, departments, emergency numbers and the tests available. It should not make claims about cures or success rates. Patient data stays private and is never shown publicly.",
         "WhatsApp appointment requests, a simple token display and reminders for follow-up visits are often more useful than a large website. Where daily patient numbers are high, a token app on Android and iPhone can follow later.",
       ],
     },
@@ -231,7 +231,7 @@ const mokameh: CityContent = {
         "Basic sites usually go live one to two weeks after your photos and details arrive. A 700+ page SEO build needs three to five weeks, a store four to eight and custom software six to twelve. Sending content early is the single biggest thing that speeds a project up.",
     },
     {
-      question: "Which is the best IT company in Mokama?",
+      question: "Which is the best IT services team in Mokama?",
       answer:
         "Look for one that shows prices openly, registers the domain and code in your name, answers after the site goes live and can point to real work. Ask each provider the same questions. We meet those standards and reply on WhatsApp every day, but comparing two or three before you choose is sensible.",
     },

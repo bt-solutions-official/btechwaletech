@@ -10,12 +10,12 @@ const thiruvallur: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Thiruvallur SIDCO units, suppliers, plot promoters, colleges and temple-town shops.",
     keywords: [
       "IT services in Thiruvallur",
-      "IT company in Thiruvallur",
-      "website development company in Thiruvallur",
+      "IT services team in Thiruvallur",
+      "website development team in Thiruvallur",
       "web design in Thiruvallur",
-      "app development company in Thiruvallur",
+      "app development team in Thiruvallur",
       "Android app development in Thiruvallur",
-      "software company in Thiruvallur",
+      "software team in Thiruvallur",
       "SEO services in Thiruvallur",
       "digital marketing in Thiruvallur",
       "ecommerce website in Thiruvallur",
@@ -28,7 +28,7 @@ const thiruvallur: CityContent = {
       "Thiruvallur me website banwana",
       "Thiruvallur-la website panna",
       "திருவள்ளூர் வெப்சைட் டிசைன்",
-      "Tiruvallur web design company",
+      "Tiruvallur web design team",
     ],
   },
   hero: {
@@ -75,20 +75,20 @@ const thiruvallur: CityContent = {
     },
     {
       id: "sidco-kakkalur-manufacturers",
-      heading: "Website development company in Thiruvallur for SIDCO Kakkalur units",
+      heading: "Website development team in Thiruvallur for SIDCO Kakkalur units",
       paragraphs: [
         "The SIDCO industrial estate at Kakkalur, a few kilometres from the town centre, houses small manufacturers in engineering, fabrication, chemicals, coatings, furniture and food. Across the wider district, plants of firms such as Caterpillar and Delphi TVS depend on networks of machine shops, tool rooms, packaging suppliers and service contractors, many of them small family firms.",
-        "Those small firms are judged online before they are ever visited. A <strong>website development company in Thiruvallur</strong> should build them sites that answer a buyer's checklist: processes and machines, materials handled, tolerances you can honestly hold, quality systems you actually run, capacity in plain terms, sectors served, and GST and registration details. Clear photographs of your own shop floor say more than any stock image.",
+        "Those small firms are judged online before they are ever visited. A <strong>website development team in Thiruvallur</strong> should build them sites that answer a buyer's checklist: processes and machines, materials handled, tolerances you can honestly hold, quality systems you actually run, capacity in plain terms, sectors served, and GST and registration details. Clear photographs of your own shop floor say more than any stock image.",
         "We add a quotation form that accepts drawings and asks for material, quantity and delivery date, so enquiries arrive with what you need to price them. Customer names and logos are shown only with written permission from those customers, and certifications appear only if you hold them.",
         "A capability website like this starts at ₹10,000 for a static build and is usually ready in one to two weeks. Firms with many products or processes often move to the 700+ page SEO website, from ₹20,000, so each capability has its own findable page.",
       ],
     },
     {
       id: "workshop-software-thiruvallur",
-      heading: "Software company in Thiruvallur for job shops, quotations and dispatch",
+      heading: "Software team in Thiruvallur for job shops, quotations and dispatch",
       paragraphs: [
         "In a typical Thiruvallur job shop, the owner quotes from memory or an old spreadsheet, the supervisor tracks jobs on a whiteboard, and customers call three times a day asking when parts will ship. Rework, material shortages and unpaid invoices slip through because nobody sees the whole picture at once.",
-        "Working as a <strong>software company in Thiruvallur</strong>, we build web tools sized for such shops. Quotations are prepared from saved rates for material, machining hours and finishing, then sent as a PDF. Once approved, each job gets a card showing stages, machine, operator and due date. Dispatches and delivery challans are recorded, and outstanding invoices are listed by customer and age.",
+        "Working as a <strong>software team in Thiruvallur</strong>, we build web tools sized for such shops. Quotations are prepared from saved rates for material, machining hours and finishing, then sent as a PDF. Once approved, each job gets a card showing stages, machine, operator and due date. Dispatches and delivery challans are recorded, and outstanding invoices are listed by customer and age.",
         "Customers can be given a login to see the status of their own orders, which cuts down status calls. Data can be exported for your accountant's Tally, and staff logins restrict who sees costs and margins.",
         "Such systems start at ₹60,000 and are delivered in stages over six to twelve weeks. We normally build the job card and dispatch register first, since it pays back fastest, then add quotations, customer logins and reports.",
       ],
@@ -128,7 +128,7 @@ const thiruvallur: CityContent = {
       heading: "Android app development in Thiruvallur, and iOS apps for local firms",
       paragraphs: [
         "A mobile app earns its place only when the same people open it week after week. In Thiruvallur that means things like a buyer tracking job status at a SIDCO workshop, a supervisor logging production from the shop floor, students receiving timetables and notices, parents paying school fees, or patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Thiruvallur</strong> that works remotely, we use Flutter or React Native, which means one set of code runs on Android and on iPhone. First releases usually contain phone-number login, alerts, the core screens and a browser-based admin panel for your office. We list the app on Google Play and the Apple App Store under developer accounts set up in your name.",
+        "As an <strong>app development team in Thiruvallur</strong> that works remotely, we use Flutter or React Native, which means one set of code runs on Android and on iPhone. First releases usually contain phone-number login, alerts, the core screens and a browser-based admin panel for your office. We list the app on Google Play and the Apple App Store under developer accounts set up in your name.",
         "<strong>Android app development in Thiruvallur</strong> with us starts at ₹40,000. The estimate grows with payments inside the app, offline use on the shop floor, photo uploads, maps or a connection to your job-card system, and each shows as a separate line. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> covers the details.",
         "Many local businesses do not need an app. If customers only want your address, timings and a phone number, a website and WhatsApp handle that for far less, and we will advise that route. An app installed once and never reopened helps nobody.",
       ],
@@ -233,7 +233,7 @@ const thiruvallur: CityContent = {
         "A basic static site is usually live one to two weeks after your photos and details reach us. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Quick replies and early content shorten every timeline.",
     },
     {
-      question: "Which is the best website development company in Thiruvallur?",
+      question: "Which is the best website development team in Thiruvallur?",
       answer:
         "Pick the provider that shows prices openly, registers domain and code to you, keeps supporting you after launch and can show live work. Ask each candidate identical questions. We meet those tests and answer WhatsApp every day, but comparing two or three options first is always a good idea.",
     },

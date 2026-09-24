@@ -9,7 +9,7 @@ const bagaha: CityContent = {
     description:
       "Websites, Hindi SEO, safari and eco-stay pages, trader catalogues and WhatsApp automation for Bagaha shops, sugarcane and banana traders, clinics and schools.",
     keywords: [
-      "website development company in Bagaha",
+      "website development team in Bagaha",
       "web designer Bagaha",
       "website developer Bagaha Bihar",
       "website cost Bagaha",
@@ -21,7 +21,7 @@ const bagaha: CityContent = {
       "coaching institute website Bagaha",
       "clinic website Bagaha",
       "WhatsApp automation Bagaha",
-      "software company West Champaran",
+      "software team West Champaran",
       "website maintenance Bagaha",
       "Google Maps listing Bagaha",
       "बगहा वेबसाइट बनवाना",

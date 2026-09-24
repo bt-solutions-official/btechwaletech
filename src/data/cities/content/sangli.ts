@@ -9,10 +9,10 @@ const sangli: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Sangli turmeric traders, raisin sellers, Miraj hospitals and Kupwad MIDC units. From ₹10,000, you own everything.",
     keywords: [
-      "website development company in Sangli",
+      "website development team in Sangli",
       "website designer Sangli",
       "web design Sangli Miraj",
-      "SEO company in Sangli",
+      "SEO team in Sangli",
       "local SEO Sangli",
       "turmeric trader website",
       "Sangli raisins online store",
@@ -20,7 +20,7 @@ const sangli: CityContent = {
       "hospital website Miraj",
       "Kupwad MIDC web developer",
       "WhatsApp automation Sangli",
-      "software company Sangli",
+      "software team Sangli",
       "Sangli madhe website banvun milel ka",
       "सांगली वेबसाईट डिझाईन",
       "website banane wala Sangli",

@@ -9,7 +9,7 @@ const thanjavur: CityContent = {
     description:
       "Websites, Tamil and English SEO, craft stores and WhatsApp automation for Thanjavur rice mills, artisans, clinics and colleges. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Thanjavur",
+      "website development team in Thanjavur",
       "web design Thanjavur",
       "website designer Tanjore",
       "SEO services Thanjavur",
@@ -17,7 +17,7 @@ const thanjavur: CityContent = {
       "Thanjavur painting online store",
       "ecommerce website Thanjavur",
       "rice mill website Thanjavur",
-      "software company Thanjavur",
+      "software team Thanjavur",
       "WhatsApp automation Thanjavur",
       "website cost Thanjavur",
       "website design Kumbakonam",

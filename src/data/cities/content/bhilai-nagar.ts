@@ -9,7 +9,7 @@ const bhilai: CityContent = {
     description:
       "Websites, SEO, job trackers and WhatsApp automation for Bhilai steel ancillaries in Hathkhoj, coaching institutes, clinics and Supela shops. From ₹10,000.",
     keywords: [
-      "website development company in Bhilai",
+      "website development team in Bhilai",
       "web designer Bhilai",
       "website design Bhilai Chhattisgarh",
       "freelance web developer Bhilai",

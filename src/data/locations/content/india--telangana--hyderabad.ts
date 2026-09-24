@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Hyderabad by a freelance team of three engineers: web apps, AI assistants, Android and iOS apps, cloud, data and SEO.",
     keywords: [
-      "IT solutions company in Hyderabad",
+      "IT solutions team in Hyderabad",
       "IT consulting Hyderabad",
       "digital transformation Hyderabad",
-      "best IT company in Hyderabad",
+      "best IT services team in Hyderabad",
       "freelance IT consultant Hyderabad",
       "IT solutions near me Hyderabad",
       "vendor portal for GCC suppliers Hyderabad",
@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "Hyderabad · Financial District to Secunderabad, Patancheru to Uppal",
     h1: "IT consulting and digital transformation in Hyderabad, from a freelance team that builds what it recommends",
     lede:
-      "Hyderabad is full of software talent, which makes choosing an IT solutions company in Hyderabad harder, not easier. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We offer IT consulting for Hyderabad SMEs, suppliers, restaurants, builders, clinics, institutes and founders, then build the result end to end: web applications, Android and iOS apps, generative AI assistants and automation, cloud and DevOps, data and BI, SEO and ecommerce. You deal directly with the engineers, and every account and repository is yours.",
+      "Hyderabad is full of software talent, which makes choosing an IT solutions team in Hyderabad harder, not easier. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We offer IT consulting for Hyderabad SMEs, suppliers, restaurants, builders, clinics, institutes and founders, then build the result end to end: web applications, Android and iOS apps, generative AI assistants and automation, cloud and DevOps, data and BI, SEO and ecommerce. You deal directly with the engineers, and every account and repository is yours.",
     pills: ["Consulting call free", "Web apps from ₹60,000", "Android & iOS from ₹40,000", "Telugu, Urdu, Hindi, English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Hyderabad as a remote freelance group of three engineers, not a company or agency. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom web apps from ₹60,000, with five months of free maintenance after launch.",
+    "BtechWaleTech provides IT consulting and IT solutions in Hyderabad as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom web apps from ₹60,000, with five months of free maintenance after launch.",
   snapshot: [
     { label: "Tech districts", value: "HITEC City, Madhapur, Gachibowli, Kondapur and the Financial District at Nanakramguda, home to large IT campuses and global capability centres" },
     { label: "Industrial areas", value: "Patancheru, Pashamylaram, Jeedimetla, Balanagar, Cherlapally and Uppal, with pharma, engineering, packaging and plastics units" },
@@ -79,11 +79,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-hyderabad-shortlist",
-      heading: "How to shortlist the best IT company in Hyderabad for your project",
+      heading: "How to shortlist the best IT services team in Hyderabad for your project",
       paragraphs: [
-        "To shortlist the best IT company in Hyderabad for your project, match the provider's size and specialisation to your scope, then verify their claims with live work, direct conversations with developers and a clearly itemised quote. The right partner for a ₹1 lakh internal tool is rarely the right partner for a ₹1 crore enterprise rollout.",
+        "To shortlist the best IT services team in Hyderabad for your project, match the provider's size and specialisation to your scope, then verify their claims with live work, direct conversations with developers and a clearly itemised quote. The right partner for a ₹1 lakh internal tool is rarely the right partner for a ₹1 crore enterprise rollout.",
         "Hyderabad has everything from global IT services firms and product companies to boutique studios and solo freelancers. If you are comparing IT companies in Hyderabad, run a short checklist. Can they show systems in production that they still maintain? Will the person you speak with write or review the code? Are features priced individually? Will domains, cloud, app store and repository accounts be in your name? What will support cost after launch, and who provides it?",
-        "Where do we fit? BtechWaleTech is a freelance group of three engineers, not a company. Ankur Kumar leads full stack development, Santosh Sharma handles AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and data work. We suit owner-led businesses and founders who want direct access and continuity. We are not suited to projects needing on-site staff, dozens of developers or a staffed round-the-clock support desk.",
+        "Where do we fit? BtechWaleTech is a freelance group of three engineers. Ankur Kumar leads full stack development, Santosh Sharma handles AI, machine learning, AWS and data science, and Vedansh Shrivastava runs project management, automation and data work. We suit owner-led businesses and founders who want direct access and continuity. We are not suited to projects needing on-site staff, dozens of developers or a staffed round-the-clock support desk.",
       ],
       list: [
         "Match team size to project size",
@@ -246,9 +246,9 @@ const content: CityContent = {
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, with no office in Hyderabad or anywhere in Telangana. We run consulting, reviews, testing and training over video calls, screen shares and WhatsApp. You get a live preview link from the first week, so progress is always visible without meetings.",
     },
     {
-      question: "Are you the best IT company in Hyderabad?",
+      question: "Are you the best IT services team in Hyderabad?",
       answer:
-        "We make no such claim, and we are not a company; we are a freelance team. The best choice depends on your project. We fit owner-led businesses and founders who want engineers directly involved, itemised pricing and full ownership. Projects needing large teams, on-site staff or enterprise contracts are better served by bigger firms.",
+        "We make no such claim; we are a small freelance team of three developers. The best choice depends on your project. We fit owner-led businesses and founders who want engineers directly involved, itemised pricing and full ownership. Projects needing large teams, on-site staff or enterprise contracts are better served by bigger firms.",
     },
     {
       question: "How do Hyderabad clients pay?",

@@ -10,12 +10,12 @@ const nilambur: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Nilambur teak merchants, homestays, terracotta makers, colleges and shops.",
     keywords: [
       "IT services in Nilambur",
-      "IT company in Nilambur",
-      "website development company in Nilambur",
+      "IT services team in Nilambur",
+      "website development team in Nilambur",
       "web design in Nilambur",
-      "app development company in Nilambur",
+      "app development team in Nilambur",
       "Android app development in Nilambur",
-      "software company in Nilambur",
+      "software team in Nilambur",
       "SEO services in Nilambur",
       "digital marketing in Nilambur",
       "ecommerce website in Nilambur",
@@ -69,16 +69,16 @@ const nilambur: CityContent = {
       paragraphs: [
         "Nilambur lies in the eastern part of Malappuram district, on the Chaliyar where the land starts rising towards the Nilgiris. The municipality itself is modest, about 46,000 people in the 2011 census, but it is the market town for Nilambur taluk, the biggest taluk in Kerala by area, which reaches out to Wandoor, Edakkara, Mampad, Kalikavu, Karuvarakundu and a long line of villages along the forest edge. Timber, rubber, pepper, retail and a regular stream of visitors keep its roads busy.",
         "Requests for <strong>IT services in Nilambur</strong> tend to be concrete. A timber merchant wants buyers in Coimbatore or Mysuru to see what is in his yard this week. A homestay near Adyanpara wants direct bookings instead of paying commission to a portal. A coaching centre wants its June admission enquiries sorted before they drown the office phone. A textile shop wants its Google Maps pin to stop pointing at the wrong junction.",
-        "We are an <strong>IT company in Nilambur</strong> only in the sense that we work for it; our three engineers are remote and keep no office in the town. What we deliver is websites, Android and iOS apps, SEO, custom software, AI and WhatsApp automation and dashboards, each costed on its own line and set up so that the owner, not the developer, holds the keys.",
+        "We are an <strong>IT services team in Nilambur</strong> only in the sense that we work for it; our three engineers are remote and keep no office in the town. What we deliver is websites, Android and iOS apps, SEO, custom software, AI and WhatsApp automation and dashboards, each costed on its own line and set up so that the owner, not the developer, holds the keys.",
       ],
     },
     {
       id: "teak-timber-trade",
-      heading: "Software company in Nilambur for teak merchants, sawmills and furniture makers",
+      heading: "Software team in Nilambur for teak merchants, sawmills and furniture makers",
       paragraphs: [
         "The town's name travels with its teak. The world's first teak plantation was raised here in the 1840s, and Conolly's Plot, planted in 1846, still stands about two kilometres from town. In late 2017 Nilambur Teak was registered as a Geographical Indication after a push by the Nilambur Teak Heritage Society, the Kerala Forest Research Institute, the forest department and Kerala Agricultural University, mainly to stop ordinary timber being sold under the Nilambur name.",
         "Forest department sales at the Nedumkayam depot bring in timber merchants from Kerala, Tamil Nadu, Karnataka and Andhra Pradesh. Around them work sawmills, private depots, door and window frame workshops, furniture units, lorry owners and brokers. A lot of that business still runs on ledgers, phone calls and photographs forwarded on WhatsApp.",
-        "As a <strong>software company in Nilambur</strong> for this trade, we would start with a lot register. Each log or sawn batch is entered with species, girth or dimensions, source, purchase date and cost, then followed through cutting and seasoning to the invoice. Regular buyers can open a stock page with fresh photographs, while the owner sees margin per lot and money still owed. Custom tools of this kind start at ₹60,000 and take six to twelve weeks.",
+        "As a <strong>software team in Nilambur</strong> for this trade, we would start with a lot register. Each log or sawn batch is entered with species, girth or dimensions, source, purchase date and cost, then followed through cutting and seasoning to the invoice. Regular buyers can open a stock page with fresh photographs, while the owner sees margin per lot and money still owed. Custom tools of this kind start at ₹60,000 and take six to twelve weeks.",
         "If your wood carries the GI claim, keep the documents that prove its origin attached to each lot inside the system. When a buyer asks for proof, you should be able to send it in one message rather than searching through files.",
       ],
     },
@@ -111,10 +111,10 @@ const nilambur: CityContent = {
     },
     {
       id: "colleges-coaching-nilambur",
-      heading: "Website development company in Nilambur for colleges, schools and coaching centres",
+      heading: "Website development team in Nilambur for colleges, schools and coaching centres",
       paragraphs: [
         "Nilambur joined the UNESCO Global Network of Learning Cities in 2022, and education is one of the larger employers around the town. Amal College of Advanced Studies, set up in 2005, has a 26-acre campus at Myladi on the Chaliyar, and Dr. Ghafoor Memorial MES Mampad College, founded in 1965, is a short ride east. Schools, tuition centres, PSC and entrance coaching institutes and computer training centres make up the rest.",
-        "When you pick a <strong>website development company in Nilambur</strong> for an institution, judge it by what parents and students can find in under a minute: courses, eligibility, fee ranges if you publish them, admission dates, bus routes, hostel details and results. We write those pages in Malayalam and English, add an enquiry form that records the course and home village of each applicant, and give the office a simple panel for posting notices without calling a developer.",
+        "When you pick a <strong>website development team in Nilambur</strong> for an institution, judge it by what parents and students can find in under a minute: courses, eligibility, fee ranges if you publish them, admission dates, bus routes, hostel details and results. We write those pages in Malayalam and English, add an enquiry form that records the course and home village of each applicant, and give the office a simple panel for posting notices without calling a developer.",
         "An institution site with a notice board and admission form usually fits a static build from ₹10,000. Student logins, mark sheets or fee tracking push it into custom software. If your office answers the same admission questions hundreds of times each season, pair the site with the WhatsApp automation described further down.",
       ],
     },
@@ -129,10 +129,10 @@ const nilambur: CityContent = {
     },
     {
       id: "android-ios-apps-nilambur",
-      heading: "App development company in Nilambur: Android and iOS apps people keep using",
+      heading: "App development team in Nilambur: Android and iOS apps people keep using",
       paragraphs: [
         "An app earns its place when the same people open it every week. Around Nilambur that might be a coaching centre whose students check timetables and mock test scores, a timber yard whose regular buyers look for fresh stock, a supermarket or bakery taking repeat home-delivery orders, or a group of homestays whose guests need directions, meal times and check-out details even where the signal drops.",
-        "We work as an <strong>app development company in Nilambur</strong> without a local desk, building in Flutter or React Native so one codebase produces both the Android app and the iPhone app. A usual first release has OTP login, push notifications, the four or five screens your users need most and a web admin panel for your staff. We handle submission to Google Play and the App Store using developer accounts opened in your name.",
+        "We work as an <strong>app development team in Nilambur</strong> without a local desk, building in Flutter or React Native so one codebase produces both the Android app and the iPhone app. A usual first release has OTP login, push notifications, the four or five screens your users need most and a web admin panel for your staff. We handle submission to Google Play and the App Store using developer accounts opened in your name.",
         "<strong>Android app development in Nilambur</strong> with us starts at ₹40,000. Online payment, offline storage, map screens and a link to your billing software each add a line to the quote, and you can strike out any of them. There is more detail on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Skip the app if your customers come once a year. A tourist looking for a room, or a buyer checking whether you stock a certain plank size, will use a quick website and never install anything. If that describes your business, we will say so and quote the website.",
       ],
@@ -238,7 +238,7 @@ const nilambur: CityContent = {
         "A static site for a shop, clinic or homestay usually takes one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays almost always come from missing content, so sending text and pictures early is the fastest shortcut.",
     },
     {
-      question: "Which is the best IT company in Nilambur for websites and apps?",
+      question: "Which is the best IT services team in Nilambur for websites and apps?",
       answer:
         "Judge any provider on published prices, whether the domain and code are registered to you, real examples you can open, and how they respond after launch. Put the same questions to each one. We meet those tests and answer WhatsApp every day, but talking to two or three options before choosing is sensible for any Nilambur business.",
     },

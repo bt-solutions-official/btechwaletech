@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Ukhrul: tourism and homestay sites, festival booking, Longpi and Kachai stores, Android and iOS apps, automation and support.",
     keywords: [
-      "software development company in Ukhrul",
-      "IT company in Ukhrul",
+      "software development team in Ukhrul",
+      "IT services team in Ukhrul",
       "IT solutions Ukhrul",
       "freelance software developer Ukhrul",
       "tourism website Ukhrul",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT solutions · Ukhrul, Manipur",
     h1: "Freelance software developers in Ukhrul for tourism, festivals, crafts and local enterprise",
     lede:
-      "Few people find a software development company in Ukhrul itself, and most businesses here need something lighter anyway: fast tourism pages, booking and enquiry tools, a store for Longpi pottery or Kachai lemons, and someone to call when things break. BtechWaleTech is a freelance group of three engineers working remotely from India who build and support exactly that, for Ukhrul town and villages across the district.",
+      "Few people find a software development team in Ukhrul itself, and most businesses here need something lighter anyway: fast tourism pages, booking and enquiry tools, a store for Longpi pottery or Kachai lemons, and someone to call when things break. BtechWaleTech is a freelance group of three engineers working remotely from India who build and support exactly that, for Ukhrul town and villages across the district.",
     pills: ["Tourism sites from ₹10,000", "Festival booking tools", "Android and iOS apps from ₹40,000", "Mobile-first, light pages", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Rather than a software development company in Ukhrul, BtechWaleTech is a remote freelance group of three engineers. Tourism and homestay websites start at ₹10,000 (one to two weeks), automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom booking or record software at ₹60,000. We have no Manipur office, offer remote support and quote itemised prices in about two working days.",
+    "Rather than a software development team in Ukhrul, BtechWaleTech is a remote freelance group of three engineers. Tourism and homestay websites start at ₹10,000 (one to two weeks), automation and Android and iOS apps at ₹40,000, online stores at ₹50,000 and custom booking or record software at ₹60,000. We have no Manipur office, offer remote support and quote itemised prices in about two working days.",
   snapshot: [
     { label: "Location", value: "Highest hill station in Manipur, roughly 80 km north-east of Imphal by road" },
     { label: "People", value: "Home of the Tangkhul Naga, with Tangkhul the main language and English widely used" },
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-developers-ukhrul",
-      heading: "What should a software development company in Ukhrul offer local businesses?",
+      heading: "What should a software development team in Ukhrul offer local businesses?",
       paragraphs: [
-        "A software development company in Ukhrul, or a freelance team serving the district, should offer light and dependable tools: mobile-first tourism and business websites, booking and enquiry systems, online stores for crafts and produce, simple records for groups and schools, and ongoing support. In the hills, reliability and ease of use matter far more than advanced features.",
+        "A software development team in Ukhrul, or a freelance team serving the district, should offer light and dependable tools: mobile-first tourism and business websites, booking and enquiry systems, online stores for crafts and produce, simple records for groups and schools, and ongoing support. In the hills, reliability and ease of use matter far more than advanced features.",
         "Ukhrul's economy mixes hill farming and horticulture, crafts such as Longpi pottery and Tangkhul weaving, churches, schools and government services, and a growing tourism trade built on Shirui Kashung, the Shirui Lily Festival, Khangkhui cave and the cool climate. Many enterprises are small and family-run, and many rely on word of mouth that no longer reaches visitors planning trips online.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Ukhrul or anywhere in Manipur. Projects run over WhatsApp, phone and email, with voice notes and small files when video is not practical.",
       ],
@@ -204,7 +204,7 @@ const content: CityContent = {
       heading: "What does IT work cost in Ukhrul, and how do you choose who to hire?",
       paragraphs: [
         "IT work for Ukhrul clients with BtechWaleTech starts at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation, ₹40,000 for an Android and iOS app, ₹50,000 for a store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. The full list is on the <a href='/pricing/'>pricing page</a>.",
-        "If you are weighing a software development company against a freelance team for an Ukhrul project, compare earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how pages perform on weak signal. Local providers can visit; remote teams usually cost less.",
+        "If you are weighing a software development team against a freelance team for an Ukhrul project, compare earlier work, who writes the code, whether the scope is written down, whether the domain, hosting and store accounts will be in your name, and how pages perform on weak signal. Local providers can visit; remote teams usually cost less.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. See our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a>.",
       ],
     },
@@ -312,7 +312,7 @@ const content: CityContent = {
         "Yes, and it is often the most economical option. One website can list every member homestay with its own page, photos and prices, a shared map and a common enquiry form that routes each request to the right host. Hosts update their own details, and the association keeps the domain and accounts. A simple shared site starts at ₹10,000; shared booking calendars with deposits start at ₹60,000.",
     },
     {
-      question: "Is there a software development company based in Ukhrul?",
+      question: "Is there a software development team based in Ukhrul?",
       answer:
         "Ukhrul has a handful of local computer and web service providers, and many businesses also hire developers from Imphal or work with remote teams. For tourism sites, booking tools, stores and apps, where the developer sits matters less than how they work: earlier examples, a written scope, accounts in your name, pages tested on slow networks and clear support terms after launch.",
     },

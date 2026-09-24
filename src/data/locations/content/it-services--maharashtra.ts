@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Maharashtra: custom software, Android and iOS apps, AI automation, dashboards, SEO and ecommerce. Apps from ₹40,000, quote in 2 days.",
     keywords: [
       "IT services in Maharashtra",
-      "software development company in Maharashtra",
-      "IT company in Maharashtra",
+      "software development team in Maharashtra",
+      "IT services team in Maharashtra",
       "freelance software developers Maharashtra",
       "custom software development Maharashtra",
       "Android app development Maharashtra",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Freelance IT services · Maharashtra",
     h1: "Freelance IT services in Maharashtra: software, Android and iOS apps and AI automation",
     lede:
-      "BtechWaleTech delivers IT services in Maharashtra as a freelance group of three engineers working remotely from India, a lean alternative to hiring a software development company in Maharashtra. We build custom software, Android and iOS apps, AI and WhatsApp automations, dashboards, ecommerce stores and SEO websites for businesses from Mumbai and Pune to Nagpur, Nashik, Kolhapur and the Konkan.",
+      "BtechWaleTech delivers IT services in Maharashtra as a freelance group of three engineers working remotely from India, a lean alternative to hiring a software development team in Maharashtra. We build custom software, Android and iOS apps, AI and WhatsApp automations, dashboards, ecommerce stores and SEO websites for businesses from Mumbai and Pune to Nagpur, Nashik, Kolhapur and the Konkan.",
     pills: ["Software from ₹60,000", "Android & iOS apps from ₹40,000", "Automation from ₹40,000", "Marathi, Hindi and English", "5 months free maintenance"],
   },
   quickAnswer:
@@ -83,7 +83,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-mh",
-      heading: "Freelance IT team or software development company in Maharashtra: which fits you?",
+      heading: "Freelance IT team or software development team in Maharashtra: which fits you?",
       paragraphs: [
         "A freelance group fits Maharashtra businesses that need a focused system with direct access to the engineers and controlled cost; a larger software development company in Maharashtra fits enterprises that need big teams, formal certifications, on-site staff or multi-year outsourcing contracts. Most SMEs, cooperatives, traders and startups outside the enterprise tier are better served by the first.",
         "Search results for IT companies in Maharashtra are dominated by large brands in Mumbai and Pune and by directories listing hundreds of firms. Large providers are excellent for enterprise programmes but often cannot prioritise a ₹1 lakh project for a distributor in Jalgaon. Small studios may be affordable but sometimes lack engineering depth or disappear after launch.",
@@ -216,7 +216,7 @@ const content: CityContent = {
       id: "cost-timeline-mh",
       heading: "What do IT services cost in Maharashtra, and how long do they take?",
       paragraphs: [
-        "Pricing from one IT company in Maharashtra to the next varies enormously, but BtechWaleTech's starting prices are ₹10,000 for a static website (1 to 2 weeks), ₹20,000 for a 700+ page SEO website (3 to 5 weeks), ₹40,000 for Android and iOS apps (6 to 10 weeks), ₹40,000 for AI automation (2 to 4 weeks), ₹50,000 for ecommerce (4 to 8 weeks) and ₹60,000 for custom software (6 to 12 weeks).",
+        "Pricing from one IT services team in Maharashtra to the next varies enormously, but BtechWaleTech's starting prices are ₹10,000 for a static website (1 to 2 weeks), ₹20,000 for a 700+ page SEO website (3 to 5 weeks), ₹40,000 for Android and iOS apps (6 to 10 weeks), ₹40,000 for AI automation (2 to 4 weeks), ₹50,000 for ecommerce (4 to 8 weeks) and ₹60,000 for custom software (6 to 12 weeks).",
         "Cost rises with user roles, integrations, reports, languages and data migration. Linking to Tally, importing years of records, or supporting several plants adds scope. We list each item separately so you can phase the build. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 after five free months.",
         "Payment is by UPI QR code or bank transfer in INR, in milestones written into the quote. Full details are on the <a href='/pricing/'>pricing page</a>.",
       ],

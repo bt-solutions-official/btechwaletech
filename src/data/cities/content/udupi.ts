@@ -9,7 +9,7 @@ const udupi: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Udupi and Manipal restaurants, clinics, homestays, cashew units and startups. Sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Udupi",
+      "website development team in Udupi",
       "web designer Udupi",
       "website design Manipal",
       "website cost Udupi",

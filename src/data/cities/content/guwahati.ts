@@ -9,12 +9,12 @@ const guwahati: CityContent = {
     description:
       "Website design, SEO, ecommerce and WhatsApp automation for Guwahati firms and Northeast suppliers. Sites from ₹10,000 with five months of free maintenance.",
     keywords: [
-      "website development company in Guwahati",
-      "web design company Guwahati",
+      "website development team in Guwahati",
+      "web design team Guwahati",
       "website designer Guwahati",
       "freelance web developer Guwahati",
       "website price Guwahati",
-      "SEO company Guwahati",
+      "SEO team Guwahati",
       "local SEO Guwahati",
       "ecommerce website Guwahati",
       "tea company website design Assam",

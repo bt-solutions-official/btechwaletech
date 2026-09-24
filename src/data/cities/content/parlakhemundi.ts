@@ -10,12 +10,12 @@ const parlakhemundi: CityContent = {
       "Odia, Telugu and English websites, Android and iOS apps, SEO and WhatsApp automation for Parlakhemundi colleges, rice mills, craft sellers and heritage stays.",
     keywords: [
       "IT services in Parlakhemundi",
-      "IT company in Parlakhemundi",
-      "website development company in Parlakhemundi",
+      "IT services team in Parlakhemundi",
+      "website development team in Parlakhemundi",
       "web design in Parlakhemundi",
-      "app development company in Parlakhemundi",
+      "app development team in Parlakhemundi",
       "Android app development in Parlakhemundi",
-      "software company in Parlakhemundi",
+      "software team in Parlakhemundi",
       "SEO services in Parlakhemundi",
       "digital marketing in Parlakhemundi",
       "ecommerce website in Parlakhemundi",
@@ -74,10 +74,10 @@ const parlakhemundi: CityContent = {
     },
     {
       id: "border-trade-website-parlakhemundi",
-      heading: "Website development company in Parlakhemundi for Odia–Telugu border trade",
+      heading: "Website development team in Parlakhemundi for Odia–Telugu border trade",
       paragraphs: [
         "Few Odisha towns sit as close to another state as this one. About 15 per cent of Gajapati district's people speak Telugu as their first language, and shopkeepers routinely switch between Odia, Telugu and Hindi within the same sale. Wholesale buyers come from Kashinagar, from the villages of Gosani block and from the Andhra side, and many of them first check a shop on their phone.",
-        "As a <strong>website development company in Parlakhemundi</strong>, we build sites that respect that mix. The same product list, rates and delivery details can appear in Odia, Telugu and English, with a language switch at the top rather than three separate sites to maintain. We keep the pages small, because mobile coverage drops quickly once you leave town, and add a WhatsApp button that opens an enquiry in the customer's chosen language.",
+        "As a <strong>website development team in Parlakhemundi</strong>, we build sites that respect that mix. The same product list, rates and delivery details can appear in Odia, Telugu and English, with a language switch at the top rather than three separate sites to maintain. We keep the pages small, because mobile coverage drops quickly once you leave town, and add a WhatsApp button that opens an enquiry in the customer's chosen language.",
         "A static site of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks; adding a second or third language raises the estimate by the translation and checking work involved, which we show as a separate line. The <a href=\"/services/web-development/\">web development page</a> explains our build and handover process.",
       ],
     },
@@ -92,10 +92,10 @@ const parlakhemundi: CityContent = {
     },
     {
       id: "mills-software-parlakhemundi",
-      heading: "Software company in Parlakhemundi for rice mills, cashew units and granite yards",
+      heading: "Software team in Parlakhemundi for rice mills, cashew units and granite yards",
       paragraphs: [
         "Paddy is the main crop around the town, alongside sugarcane and maize, and rice mills convert it for markets inside and outside the district. Cashew and mango processing units and granite businesses add to the list. Each has the same headache: stock moving in and out in large quantities, recorded by different people in different books.",
-        "As a <strong>software company in Parlakhemundi</strong>, we build browser-based tools shaped around those flows. For a rice mill that means paddy intake by farmer or agent with moisture and weight, milling batches, rice and bran output, and dispatch by lorry. For a cashew unit it means raw nut purchases, drying and shelling batches, grades and packing. For a granite yard it means blocks, slabs, sizes and orders. Owners see totals and pending payments on a phone, and accountants get clean exports.",
+        "As a <strong>software team in Parlakhemundi</strong>, we build browser-based tools shaped around those flows. For a rice mill that means paddy intake by farmer or agent with moisture and weight, milling batches, rice and bran output, and dispatch by lorry. For a cashew unit it means raw nut purchases, drying and shelling batches, grades and packing. For a granite yard it means blocks, slabs, sizes and orders. Owners see totals and pending payments on a phone, and accountants get clean exports.",
         "Custom software starts at ₹60,000 and generally takes six to twelve weeks, delivered one module at a time so the most-used register comes first. For a small unit, a properly designed spreadsheet with a daily WhatsApp report may be the sensible first step, and we will propose it when it is.",
       ],
     },
@@ -131,7 +131,7 @@ const parlakhemundi: CityContent = {
       heading: "Android app development in Parlakhemundi: apps for students, stores and tours",
       paragraphs: [
         "Before paying for an app, ask one question: will people open it every week? A hostel with two hundred residents, a grocery or pharmacy delivering daily across town, a coaching class with daily tests, or a tour operator running regular group trips can say yes. A lodge that sees most guests once cannot, and is better served by a strong website and map listing.",
-        "As an <strong>app development company in Parlakhemundi</strong>, we build Android and iOS apps from one Flutter or React Native codebase. A hostel app handles room allocation, mess menus, fee dues and notices. A delivery app shows the product list, takes orders with UPI or card payment and tracks delivery. Every app has mobile login, push notifications and an admin panel your staff can use without training manuals.",
+        "As an <strong>app development team in Parlakhemundi</strong>, we build Android and iOS apps from one Flutter or React Native codebase. A hostel app handles room allocation, mess menus, fee dues and notices. A delivery app shows the product list, takes orders with UPI or card payment and tracks delivery. Every app has mobile login, push notifications and an admin panel your staff can use without training manuals.",
         "<strong>Android app development in Parlakhemundi</strong> with us starts at ₹40,000, and the iOS version comes from the same code. We publish on Google Play and the App Store under developer accounts registered to you. Since most users here are on Android, we test on budget phones and weak networks first. Read more on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -146,11 +146,11 @@ const parlakhemundi: CityContent = {
     },
     {
       id: "clinics-festivals-parlakhemundi",
-      heading: "IT company in Parlakhemundi for clinics, schools and festival committees",
+      heading: "IT services team in Parlakhemundi for clinics, schools and festival committees",
       paragraphs: [
         "As the district headquarters, Parlakhemundi draws patients from blocks such as Mohana, R. Udayagiri and Kashinagar. Clinics, diagnostic labs and pharmacies benefit from simple pages listing doctors, days, timings and tests, linked to an accurate Google Maps pin so a family driving in from a village finds the right door.",
         "The town's Ratha Yatra is among the best known in Odisha outside Puri, and festival committees handle schedules, volunteers, donations and crowd information every year. A small committee website or notice page with timings, routes, donation receipts and contact numbers saves organisers many phone calls in the busiest week.",
-        "An <strong>IT company in Parlakhemundi</strong> doing this kind of work should keep things plain and quick to update. Schools, too, need admission forms, holiday lists and transport routes that staff can edit themselves, and we set them up that way.",
+        "An <strong>IT services team in Parlakhemundi</strong> doing this kind of work should keep things plain and quick to update. Schools, too, need admission forms, holiday lists and transport routes that staff can edit themselves, and we set them up that way.",
       ],
     },
     {
@@ -234,7 +234,7 @@ const parlakhemundi: CityContent = {
         "Most simple sites launch within one to two weeks of receiving content. An SEO site takes three to five weeks, a store four to eight and custom software six to twelve. If you need Odia and Telugu versions, allow a few extra days for translation and your checking.",
     },
     {
-      question: "How do I choose the best IT company in Parlakhemundi?",
+      question: "How do I choose the best IT services team in Parlakhemundi?",
       answer:
         "Look for written, itemised quotes, published starting prices, sites that are still running a year or more later, support in the languages your customers use, and ownership of the domain and code in your name. Compare two or three providers on the same questions. We meet those standards, but comparison is always wise.",
     },

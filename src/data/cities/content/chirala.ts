@@ -10,12 +10,12 @@ const chirala: CityContent = {
       "Telugu websites, Android and iOS apps, SEO and WhatsApp automation for Chirala handloom weavers, saree traders, beach resorts at Vodarevu, colleges and clinics.",
     keywords: [
       "IT services in Chirala",
-      "IT company in Chirala",
-      "website development company in Chirala",
+      "IT services team in Chirala",
+      "website development team in Chirala",
       "web design in Chirala",
-      "app development company in Chirala",
+      "app development team in Chirala",
       "Android app development in Chirala",
-      "software company in Chirala",
+      "software team in Chirala",
       "SEO services in Chirala",
       "digital marketing in Chirala",
       "ecommerce website in Chirala",
@@ -83,10 +83,10 @@ const chirala: CityContent = {
     },
     {
       id: "master-weavers-software",
-      heading: "Software company in Chirala for master weavers and saree wholesalers",
+      heading: "Software team in Chirala for master weavers and saree wholesalers",
       paragraphs: [
         "Behind every saree on a shop shelf is a chain of transactions. Master weavers issue yarn and zari to loom households, track which design is on which loom, receive finished pieces, check quality, pay wages and advances, and sell to wholesalers and retailers across Andhra Pradesh, Telangana and beyond. Most of this still lives in registers.",
-        "As a <strong>software company in Chirala</strong> in the everyday sense, we build web tools that match this chain: yarn and zari issue per weaver, design and loom tracking, receipts and rejects, wage and advance ledgers, and buyer-wise dues with WhatsApp reminders. The owner sees stock and outstanding amounts on a phone at any time.",
+        "As a <strong>software team in Chirala</strong> in the everyday sense, we build web tools that match this chain: yarn and zari issue per weaver, design and loom tracking, receipts and rejects, wage and advance ledgers, and buyer-wise dues with WhatsApp reminders. The owner sees stock and outstanding amounts on a phone at any time.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually begin with the issue-and-receipt register, because it removes the most disputes, and connect to Tally later if you use it.",
       ],
     },
@@ -101,19 +101,19 @@ const chirala: CityContent = {
     },
     {
       id: "colleges-chirala",
-      heading: "Website development company in Chirala for engineering and degree colleges",
+      heading: "Website development team in Chirala for engineering and degree colleges",
       paragraphs: [
         "Chirala and Vetapalem have a cluster of higher education institutions, including St. Ann's College of Engineering and Technology, set up in 2001 and now autonomous, and VRS & YRN College of Engineering and Technology on Vodarevu Road. Around them are junior colleges, schools, coaching centres and hostels that compete for the same students.",
-        "A <strong>website development company in Chirala</strong> working with colleges has to keep sites current and fast. Course and intake pages, fee ranges, placement pages that use only verified data, faculty lists, admission forms and hostel information matter more than animation. Parents check these pages on phones, often in Telugu.",
+        "A <strong>website development team in Chirala</strong> working with colleges has to keep sites current and fast. Course and intake pages, fee ranges, placement pages that use only verified data, faculty lists, admission forms and hostel information matter more than animation. Parents check these pages on phones, often in Telugu.",
         "For smaller institutes, a static site from ₹10,000 is enough. Larger colleges often need notice boards, event archives and forms linked to their office systems; we quote those as a web app, starting at ₹60,000, after reviewing what staff can realistically keep updated.",
       ],
     },
     {
       id: "chirala-traders-market",
-      heading: "IT company in Chirala for textile traders, shops and wholesale markets",
+      heading: "IT services team in Chirala for textile traders, shops and wholesale markets",
       paragraphs: [
         "Chirala's saree shops, yarn and dye merchants, and textile wholesalers serve buyers from across coastal Andhra. Alongside them are gold and jewellery shops, electronics dealers, agricultural input dealers serving paddy and maize farmers, and hardware stores supplying the town's steady construction.",
-        "As an <strong>IT company in Chirala</strong>, we help these traders with the basics that bring in buyers: a Google Business Profile with the right category and photographs, a catalogue page or PDF that can be shared on WhatsApp, and a short site that explains wholesale terms, minimum orders and dispatch options.",
+        "As an <strong>IT services team in Chirala</strong>, we help these traders with the basics that bring in buyers: a Google Business Profile with the right category and photographs, a catalogue page or PDF that can be shared on WhatsApp, and a short site that explains wholesale terms, minimum orders and dispatch options.",
         "For wholesale saree traders, a catalogue with design codes lets retailers in other towns order by number over WhatsApp without confusion. For input dealers, a stock and credit tool helps plan for kharif and rabi seasons. Each of these starts small and grows only when it pays back.",
       ],
     },
@@ -131,7 +131,7 @@ const chirala: CityContent = {
       heading: "Android app development in Chirala, and iOS apps for local businesses",
       paragraphs: [
         "An app pays off when a known group uses it regularly. In Chirala, strong cases are saree retailers in other towns re-ordering from a wholesaler, master weavers recording yarn issue and receipts on the go, resorts handling repeat guests, colleges sending notices to students, and hospitals issuing tokens.",
-        "As an <strong>app development company in Chirala</strong> working remotely, we build in Flutter or React Native so one codebase serves Android phones and iPhones. A first version usually has mobile number login, push notifications, the screens your users need and an admin panel for staff. We publish the app on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Chirala</strong> working remotely, we build in Flutter or React Native so one codebase serves Android phones and iPhones. A first version usually has mobile number login, push notifications, the screens your users need and an admin panel for staff. We publish the app on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Chirala</strong> with us starts at ₹40,000. Payments, offline mode, catalogues with hundreds of designs and integrations add to the cost, and each is listed separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "If buyers only need to see your catalogue and contact you, a website and a WhatsApp catalogue do that for far less. We will recommend that route when it fits, because an app nobody opens is money wasted.",
       ],
@@ -238,7 +238,7 @@ const chirala: CityContent = {
         "A static website usually goes live in one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Saree photography is often the step that decides the timeline.",
     },
     {
-      question: "Who is the best website development company in Chirala?",
+      question: "Who is the best website development team in Chirala?",
       answer:
         "Compare providers on published prices, domain and code ownership in your name, support after launch and real work you can inspect. Ask each one the same questions. We meet those tests and answer on WhatsApp seven days a week, but talking to two or three options before choosing is wise.",
     },

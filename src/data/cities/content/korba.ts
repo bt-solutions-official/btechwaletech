@@ -9,7 +9,7 @@ const korba: CityContent = {
     description:
       "Websites, local SEO, vendor profiles and WhatsApp automation for Korba contractors, suppliers, shops and clinics near NTPC, BALCO and SECL. Plans from ₹10,000.",
     keywords: [
-      "website development company in Korba",
+      "website development team in Korba",
       "website designer Korba",
       "web design Korba Chhattisgarh",
       "SEO services Korba",

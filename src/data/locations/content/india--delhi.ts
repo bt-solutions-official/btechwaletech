@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "Freelance IT consulting for Delhi: digital transformation roadmaps, custom software, Android and iOS apps, AI automation, cloud, data and SEO for every district.",
     keywords: [
-      "IT solutions company in Delhi",
+      "IT solutions team in Delhi",
       "IT consulting Delhi",
       "digital transformation Delhi",
-      "best IT company in Delhi",
+      "best IT services team in Delhi",
       "freelance IT consultant Delhi",
       "digital transformation for SMEs Delhi",
       "legacy software migration Delhi",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Delhi · National Capital Territory · Consulting-led IT",
     h1: "Freelance IT consultants in Delhi for digital transformation that starts with your process, not a product",
     lede:
-      "Most Delhi businesses searching for an IT solutions company in Delhi are not short of vendors; they are short of someone who will look at the whole operation and say what to fix first. BtechWaleTech is a freelance group of three engineers working remotely from India. We run consulting-led digital transformation for Delhi traders, manufacturers, clinics, institutes and service firms: a process audit and roadmap, then the build itself, covering custom software, Android and iOS apps, AI automation, cloud, data dashboards, SEO, ecommerce and support.",
+      "Most Delhi businesses searching for an IT solutions team in Delhi are not short of vendors; they are short of someone who will look at the whole operation and say what to fix first. BtechWaleTech is a freelance group of three engineers working remotely from India. We run consulting-led digital transformation for Delhi traders, manufacturers, clinics, institutes and service firms: a process audit and roadmap, then the build itself, covering custom software, Android and iOS apps, AI automation, cloud, data dashboards, SEO, ecommerce and support.",
     pills: ["Roadmap before code", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "5 months support free"],
   },
   quickAnswer:
@@ -197,11 +197,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-delhi-choosing",
-      heading: "How do you find the best IT company in Delhi for your needs?",
+      heading: "How do you find the best IT services team in Delhi for your needs?",
       paragraphs: [
-        "The best IT company in Delhi for your business is the one that understands your process, proposes the smallest effective solution, shows itemised costs and leaves you owning everything. Size and brand matter less than whether the people you meet are the people who will build, and whether they will explain trade-offs honestly.",
+        "The best IT services team in Delhi for your business is the one that understands your process, proposes the smallest effective solution, shows itemised costs and leaves you owning everything. Size and brand matter less than whether the people you meet are the people who will build, and whether they will explain trade-offs honestly.",
         "When comparing IT companies in Delhi, ask each for a written scope, an itemised quote, examples of live work you can test on a phone, clarity on who owns the code, domain and data, and the cost of support after year one. Beware of proposals that list many modules you never mentioned.",
-        "BtechWaleTech is not a company; we are a freelance group of three engineers working remotely. We have no Delhi office and do not provide on-site hardware or networking. What we offer is consulting and building by the same people, weekly progress links, and complete handover. Browse our <a href='/portfolio/'>portfolio</a> or compare nearby hubs such as <a href='/india/haryana/gurgaon/'>Gurgaon</a> and <a href='/india/haryana/faridabad/'>Faridabad</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely. We have no Delhi office and do not provide on-site hardware or networking. What we offer is consulting and building by the same people, weekly progress links, and complete handover. Browse our <a href='/portfolio/'>portfolio</a> or compare nearby hubs such as <a href='/india/haryana/gurgaon/'>Gurgaon</a> and <a href='/india/haryana/faridabad/'>Faridabad</a>.",
       ],
     },
     {
@@ -244,8 +244,8 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company with an office in Delhi?",
-      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office, branch or staff in Delhi. We run audits, workshops and training over video and phone, use WhatsApp for day-to-day questions, and share staging links you test on your own devices.",
+      question: "Is BtechWaleTech an IT services team with an office in Delhi?",
+      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office, branch or staff in Delhi. We run audits, workshops and training over video and phone, use WhatsApp for day-to-day questions, and share staging links you test on your own devices.",
     },
     {
       question: "How do Delhi clients pay?",

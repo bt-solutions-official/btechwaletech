@@ -10,12 +10,12 @@ const nanpara: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Nanpara traders, border transporters, rice millers, clinics and schools.",
     keywords: [
       "IT services in Nanpara",
-      "IT company in Nanpara",
-      "website development company in Nanpara",
+      "IT services team in Nanpara",
+      "website development team in Nanpara",
       "web design in Nanpara",
-      "app development company in Nanpara",
+      "app development team in Nanpara",
       "Android app development in Nanpara",
-      "software company in Nanpara",
+      "software team in Nanpara",
       "SEO services in Nanpara",
       "digital marketing in Nanpara",
       "ecommerce website in Nanpara",
@@ -74,28 +74,28 @@ const nanpara: CityContent = {
     },
     {
       id: "border-transport-nanpara",
-      heading: "Software company in Nanpara for transporters and border logistics",
+      heading: "Software team in Nanpara for transporters and border logistics",
       paragraphs: [
         "The Rupaidiha–Nepalgunj route is one of the busiest trade crossings between India and Nepal, and a lot of the trucking, loading and consignment work around it is managed from Nanpara and Bahraich. Transport owners juggle vehicles, drivers, diesel advances, freight rates, consignment notes, waiting days at the border and payments that arrive late.",
-        "As a <strong>software company in Nanpara</strong> in practical terms, we build web tools for exactly this. Each trip is entered once with the vehicle, driver, consignment note number, party, freight and advance. The system then shows totals per vehicle, pending freight by party, driver balances and document expiry dates for permits, fitness and insurance. Staff can update it from an Android phone at the loading point.",
+        "As a <strong>software team in Nanpara</strong> in practical terms, we build web tools for exactly this. Each trip is entered once with the vehicle, driver, consignment note number, party, freight and advance. The system then shows totals per vehicle, pending freight by party, driver balances and document expiry dates for permits, fitness and insurance. Staff can update it from an Android phone at the loading point.",
         "Expect a starting cost of ₹60,000 and a build spread over six to twelve weeks, one module at a time. The freight register normally comes first, because unpaid freight from slow-paying parties is where transport margins quietly disappear. Customs paperwork remains with your clearing agent; our job is to hand that agent cleaner, complete records.",
       ],
     },
     {
       id: "rice-sugar-mills-nanpara",
-      heading: "Website development company in Nanpara for rice mills and agro units",
+      heading: "Website development team in Nanpara for rice mills and agro units",
       paragraphs: [
         "Bahraich district grows a lot of paddy, and rice mills and other small agro-processing units are among the few industries around Nanpara. There is also a sugar mill in the Nanpara area, which brings a cane season full of tractor-trolleys, weighbridge slips and payment follow-ups for the farmers and contractors who supply it.",
-        "A <strong>website development company in Nanpara</strong> can help a rice mill in two ways. A plain website shows buyers in other districts what the mill produces, its capacity in honest terms, packing sizes, quality checks and contact people, which matters when a new buyer is checking you out. Inside the mill, a purchase and stock tool records each paddy lot with the farmer or agent, weight, moisture and rate, and tracks milled output and dispatches.",
+        "A <strong>website development team in Nanpara</strong> can help a rice mill in two ways. A plain website shows buyers in other districts what the mill produces, its capacity in honest terms, packing sizes, quality checks and contact people, which matters when a new buyer is checking you out. Inside the mill, a purchase and stock tool records each paddy lot with the farmer or agent, weight, moisture and rate, and tracks milled output and dispatches.",
         "Mill websites start at ₹10,000 and purchase or stock tools at ₹60,000. We never list a buyer's name or brand on your site without their written permission, and we keep the numbers on the site to ones you are comfortable standing behind.",
       ],
     },
     {
       id: "wholesale-trade-nanpara",
-      heading: "IT company in Nanpara for wholesalers and distributors",
+      heading: "IT services team in Nanpara for wholesalers and distributors",
       paragraphs: [
         "Nanpara's wholesale market supplies grocery, cloth, hardware, cement and farm-input shops in villages across the tehsil and towards the border. Much of the trade runs on credit, and the owner's diary is often the only complete record.",
-        "As an <strong>IT company in Nanpara</strong> that works remotely, we build order and credit tools that replace that diary without making life harder. Retailers' orders are logged with date and items, credit is tracked per shop with reminders before festivals, stock shows what is running low, and a daily sheet lists deliveries by route. Everything prints in Hindi for staff who prefer paper.",
+        "As an <strong>IT services team in Nanpara</strong> that works remotely, we build order and credit tools that replace that diary without making life harder. Retailers' orders are logged with date and items, credit is tracked per shop with reminders before festivals, stock shows what is running low, and a daily sheet lists deliveries by route. Everything prints in Hindi for staff who prefer paper.",
         "Wholesalers who want retailers to order on their own can add a simple Android app later. We suggest starting with the ledger and a WhatsApp order format, because once retailers are used to sending orders in a fixed pattern, moving them to an app is much easier.",
       ],
     },
@@ -131,7 +131,7 @@ const nanpara: CityContent = {
       heading: "Android app development in Nanpara, with the same app on iPhone",
       paragraphs: [
         "An app is worth the cost when a known group of people use it again and again. Around Nanpara, good examples are truck drivers updating trip status and uploading slips, village retailers re-ordering from a wholesaler, parents receiving school notices and fee reminders, and patients taking a token at a busy hospital.",
-        "For an <strong>app development company in Nanpara</strong> brief, we pick Flutter or React Native, which lets a single set of code serve Android handsets and iPhones alike. The opening release tends to include OTP sign-in, notifications, the few screens drivers or retailers really use, and an office-side admin panel. Publishing happens on Google Play and the App Store, using developer accounts that belong to you.",
+        "For an <strong>app development team in Nanpara</strong> brief, we pick Flutter or React Native, which lets a single set of code serve Android handsets and iPhones alike. The opening release tends to include OTP sign-in, notifications, the few screens drivers or retailers really use, and an office-side admin panel. Publishing happens on Google Play and the App Store, using developer accounts that belong to you.",
         "<strong>Android app development in Nanpara</strong> with us starts at ₹40,000. GPS tracking, offline entry for areas with weak signal, payments and integrations each add to the cost and appear as separate lines. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If customers only need your address, phone number and rate list, a website does the job for a quarter of the price. We will recommend the website in that case, since an app nobody opens after a week helps no one.",
       ],
@@ -232,7 +232,7 @@ const nanpara: CityContent = {
         "Count on one to two weeks for a simple shop site, measured from the day your photos and details reach us. Bigger jobs take longer: three to five weeks for a 700+ page SEO site, four to eight for a store, six to twelve for custom software. Sending content in the first few days is the single best way to finish early.",
     },
     {
-      question: "Who is the best website development company in Nanpara?",
+      question: "Who is the best website development team in Nanpara?",
       answer:
         "Judge any provider, us included, on four points: are prices published, will the domain and code be registered to you, can they show live work, and do they still answer after launch? Put the same questions to two or three candidates in writing and compare the replies. We answer on WhatsApp all week and are happy to be compared.",
     },

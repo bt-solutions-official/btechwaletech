@@ -10,12 +10,12 @@ const talcher: CityContent = {
       "Websites, Android and iOS apps, Odia local SEO and WhatsApp automation for Talcher coal contractors, plant vendors, transporters, clinics, schools and shops.",
     keywords: [
       "IT services in Talcher",
-      "IT company in Talcher",
-      "website development company in Talcher",
+      "IT services team in Talcher",
+      "website development team in Talcher",
       "web design in Talcher",
-      "app development company in Talcher",
+      "app development team in Talcher",
       "Android app development in Talcher",
-      "software company in Talcher",
+      "software team in Talcher",
       "SEO services in Talcher",
       "digital marketing in Talcher",
       "ecommerce website in Talcher",
@@ -74,30 +74,30 @@ const talcher: CityContent = {
     },
     {
       id: "coal-transport-software",
-      heading: "Software company in Talcher for coal transporters and mine contractors",
+      heading: "Software team in Talcher for coal transporters and mine contractors",
       paragraphs: [
         "The Talcher Coalfield is split into MCL areas named Talcher, Jagannath, Kalinga, Lingaraj and Hingula, with mines such as Bharatpur, Ananta, Lingaraj, Hingula and Balram. Coal leaves by rail and by road, and a large share of local income comes from trucks, tippers, payloaders and the people who run them under contract.",
         "The records behind that work are messy. An owner with twelve trucks needs to know which vehicle made how many trips from which face or siding, the tonnage on each challan, diesel advances, tyre and repair costs, driver payments and what the principal still owes. Most keep this in registers and a WhatsApp group, which works until someone disputes a figure.",
-        "As a <strong>software company in Talcher</strong> in the everyday sense, we build web tools that fix this one problem at a time. Each trip is entered from a phone with vehicle number, challan, weight and rate. Totals roll up by vehicle, driver, site and month. Fitness, permit, insurance and pollution certificate dates trigger reminders before they lapse. Custom software like this starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the trip register because it pays for itself soonest.",
+        "As a <strong>software team in Talcher</strong> in the everyday sense, we build web tools that fix this one problem at a time. Each trip is entered from a phone with vehicle number, challan, weight and rate. Totals roll up by vehicle, driver, site and month. Fitness, permit, insurance and pollution certificate dates trigger reminders before they lapse. Custom software like this starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the trip register because it pays for itself soonest.",
         "We keep the screens plain and large, because they will be used by supervisors standing next to a weighbridge, not by clerks at a desk. If the data already lives in Excel or Tally, we import it rather than asking your staff to type it again.",
       ],
     },
     {
       id: "kaniha-plant-vendors",
-      heading: "Website development company in Talcher for NTPC, MCL and plant vendors",
+      heading: "Website development team in Talcher for NTPC, MCL and plant vendors",
       paragraphs: [
         "NTPC Talcher Kaniha is a 3,000 MW station, and it was the country's first power plant of that size. Add the MCL mines, the heavy water plant, the Talcher Fertilizers coal-gasification project and the aluminium and steel units around Angul, and you have a large market for maintenance, civil, electrical, mechanical and housekeeping contractors.",
-        "Purchase and contracts departments do look vendors up. A firm that turns up with a free email address and no website looks smaller than it is, even if it has worked inside the plant boundary for fifteen years. A <strong>website development company in Talcher</strong> should give such firms a factual, quick-loading site: scope of work, equipment owned, manpower strength, safety record and certifications, licences, GST and registration numbers, and named contacts.",
+        "Purchase and contracts departments do look vendors up. A firm that turns up with a free email address and no website looks smaller than it is, even if it has worked inside the plant boundary for fifteen years. A <strong>website development team in Talcher</strong> should give such firms a factual, quick-loading site: scope of work, equipment owned, manpower strength, safety record and certifications, licences, GST and registration numbers, and named contacts.",
         "We never list a principal or client name on your site unless you confirm you are allowed to. Photos should be your own, taken at your yard or workshop, not stock images of foreign factories. For firms that quote regularly, we add an enquiry form with drawing or BOQ upload and an auto-reply that confirms receipt. A static site of up to 100 pages starts at ₹10,000 and takes one to two weeks. Details of how we build sites are on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "project-housing-services",
-      heading: "IT company in Talcher for rentals, canteens and project-staff services",
+      heading: "IT services team in Talcher for rentals, canteens and project-staff services",
       paragraphs: [
         "Large projects bring waves of engineers, supervisors and skilled workers who need somewhere to live and eat for months at a time. The revival of the old fertiliser site as a coal-gasification urea complex, promoted by GAIL, Coal India, RCF and FCIL, is one example; shutdowns and expansions at Kaniha and the mines bring more.",
         "Local owners of rooms, flats, lodges, mess kitchens, laundries, vehicle-hire services and tiffin services compete for this crowd, and the crowd searches from outside Odisha before arriving. A newcomer from Kerala or Uttar Pradesh types “room on rent Talcher” or “guest house near Kaniha” into Google, and the listings with clear photos, prices or price ranges, and a working phone number win the call.",
-        "As an <strong>IT company in Talcher</strong>, we set these businesses up with a small bilingual site, a correct Google Business Profile, and a WhatsApp booking flow that asks the right questions: dates, number of people, food preference, company name for billing. For operators with several properties, a simple web app can track rooms, occupancy, advances and monthly invoices to contractor firms. We keep booking forms short, because most of these enquiries arrive from someone standing at a bus stop with one bar of signal.",
+        "As an <strong>IT services team in Talcher</strong>, we set these businesses up with a small bilingual site, a correct Google Business Profile, and a WhatsApp booking flow that asks the right questions: dates, number of people, food preference, company name for billing. For operators with several properties, a simple web app can track rooms, occupancy, advances and monthly invoices to contractor firms. We keep booking forms short, because most of these enquiries arrive from someone standing at a bus stop with one bar of signal.",
       ],
     },
     {
@@ -132,7 +132,7 @@ const talcher: CityContent = {
       heading: "Android app development in Talcher, with iOS versions from the same build",
       paragraphs: [
         "An app earns its place when the same people open it again and again. In Talcher that describes truck drivers recording loads at the end of every trip, site supervisors filing daily progress and manpower reports, a school's parents checking notices and fees, a hospital's regular patients booking tokens, or a hardware dealer's contractor customers re-ordering consumables.",
-        "Working as an <strong>app development company in Talcher</strong>, we build in Flutter or React Native so one codebase serves both Android phones and iPhones. A typical first version has mobile-number login with OTP, the four to eight screens your users actually need, push notifications, photo upload for challans or site pictures, and an admin panel where your office sees everything. Offline entry that syncs later is useful for pits and sidings where the network drops.",
+        "Working as an <strong>app development team in Talcher</strong>, we build in Flutter or React Native so one codebase serves both Android phones and iPhones. A typical first version has mobile-number login with OTP, the four to eight screens your users actually need, push notifications, photo upload for challans or site pictures, and an admin panel where your office sees everything. Offline entry that syncs later is useful for pits and sidings where the network drops.",
         "<strong>Android app development in Talcher</strong> with us starts at ₹40,000, and the quote shows each extra item separately: payments, maps and GPS, offline mode, integrations with your existing software. The app goes live on Google Play and the Apple App Store under developer accounts that belong to you. There is more detail on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Sometimes an app is the wrong answer. If customers only need your phone number, location and rate list, a website costs a quarter as much and does the job without asking anyone to install anything. We will say so.",
       ],
@@ -233,7 +233,7 @@ const talcher: CityContent = {
         "Yes. Each trip is entered once with vehicle, challan, tonnage and rate, and the tool shows totals by vehicle, driver, site and principal, plus pending payments and certificate expiry reminders. It can import your existing Excel data. Custom software starts at ₹60,000 and is usually built in stages over six to twelve weeks.",
     },
     {
-      question: "Which is the best website development company in Talcher?",
+      question: "Which is the best website development team in Talcher?",
       answer:
         "The best choice is the one that publishes its prices, puts the domain and code in your name, shows real past work and still answers after launch. Ask every option the same questions and compare the written answers. We meet those tests and reply on WhatsApp all week, but it is sensible to compare two or three before deciding.",
     },

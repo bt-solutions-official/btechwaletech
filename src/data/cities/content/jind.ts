@@ -9,7 +9,7 @@ const jind: CityContent = {
     description:
       "Websites, Google Maps SEO and WhatsApp automation for Jind grain traders, dairies, coaching centres and clinics. Sites from ₹10,000, built by a remote team.",
     keywords: [
-      "website development company in Jind",
+      "website development team in Jind",
       "web designer Jind",
       "website design Jind price",
       "SEO services Jind",

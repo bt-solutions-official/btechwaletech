@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Jabalpur: vendor and garment software, legal case tools, AI agents, apps and dashboards. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
-      "software development company in Jabalpur",
-      "IT company in Jabalpur",
+      "software development team in Jabalpur",
+      "IT services team in Jabalpur",
       "IT solutions Jabalpur",
       "freelance software developer Jabalpur",
       "custom software development Jabalpur",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Jabalpur, Madhya Pradesh",
     h1: "Freelance software developers in Jabalpur for vendors, garment units, lawyers and tour operators",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Jabalpur defence and railway vendors, Ganjipura garment units, advocates, clinics and safari operators hire us instead of a software development company in Jabalpur for order and inspection tracking, case diaries, booking systems, AI agents, apps and dashboards, with hosting and SEO included.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Jabalpur defence and railway vendors, Ganjipura garment units, advocates, clinics and safari operators hire us instead of a software development team in Jabalpur for order and inspection tracking, case diaries, booking systems, AI agents, apps and dashboards, with hosting and SEO included.",
     pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Vendor and PO tracking", "Hindi-first screens", "5 months free maintenance"],
   },
   quickAnswer:
-    "Comparing a software development company in Jabalpur with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You get an itemised quote in about two working days plus five months of free maintenance.",
+    "Comparing a software development team in Jabalpur with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. You get an itemised quote in about two working days plus five months of free maintenance.",
   snapshot: [
     { label: "Regional role", value: "Commercial centre of the Mahakoshal region and headquarters of West Central Railway" },
     { label: "Defence manufacturing", value: "Ordnance Factory Khamaria, Gun Carriage Factory, Vehicle Factory Jabalpur and Grey Iron Foundry, with a large vendor base" },
@@ -71,7 +71,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-jabalpur",
-      heading: "Freelance software developers vs a software development company in Jabalpur",
+      heading: "Freelance software developers vs a software development team in Jabalpur",
       paragraphs: [
         "A freelance group suits Jabalpur businesses that want a focused system, direct contact with the engineers and lower cost, while a larger software development company in Jabalpur suits projects needing big teams, on-site staff or formal vendor registration. Most Jabalpur traders, vendors, garment units and professionals fall into the first group.",
         "Search results for software companies in Jabalpur list a mix of long-running local firms, training institutes that also build websites, and national outsourcing brands with Jabalpur pages. Quality varies, and the same problems come up often: vague quotes, developers who change halfway, hosting registered in the developer's name, and no response after the final payment.",
@@ -248,9 +248,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company in Jabalpur?",
+      question: "Is BtechWaleTech a software team in Jabalpur?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Jabalpur. We serve Jabalpur clients online through video calls, WhatsApp and phone, and you talk directly to the engineers who build and support your software.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Jabalpur. We serve Jabalpur clients online through video calls, WhatsApp and phone, and you talk directly to the engineers who build and support your software.",
     },
     {
       question: "How do Jabalpur clients pay?",

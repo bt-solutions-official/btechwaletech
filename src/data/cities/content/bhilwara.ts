@@ -9,7 +9,7 @@ const bhilwara: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Bhilwara textile mills, traders and shops. Sites from ₹10,000, catalogues for suiting fabric, 5 months free upkeep.",
     keywords: [
-      "website development company in Bhilwara",
+      "website development team in Bhilwara",
       "web designer Bhilwara",
       "website design Bhilwara Rajasthan",
       "textile website design Bhilwara",

@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Shimla: hotel operations software, fruit-trade billing, AI agents, apps, dashboards, cloud hosting and SEO. Starting from ₹10,000.",
     keywords: [
-      "software development company in Shimla",
-      "IT company in Shimla",
+      "software development team in Shimla",
+      "IT services team in Shimla",
       "IT solutions Shimla",
       "freelance software developer Shimla",
       "hotel management software Shimla",
@@ -194,10 +194,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-shimla",
-      heading: "Freelance developers vs a software development company in Shimla: which suits you?",
+      heading: "Freelance developers vs a software development team in Shimla: which suits you?",
       paragraphs: [
-        "Freelance developers suit Shimla businesses that want direct contact with the person writing the code, published prices and lower overheads; a software development company in Shimla or Chandigarh suits buyers who need on-site staff, a large parallel team or formal procurement. Both work if scope and ownership are clear.",
-        "BtechWaleTech is a freelance group of three engineers, not a company with a local branch. You will not meet us on the Mall, but you will reach the engineer building your system on WhatsApp seven days a week. For owners who spend the day with guests or at the mandi, that is often more useful than scheduled meetings.",
+        "Freelance developers suit Shimla businesses that want direct contact with the person writing the code, published prices and lower overheads; a software development team in Shimla or Chandigarh suits buyers who need on-site staff, a large parallel team or formal procurement. Both work if scope and ownership are clear.",
+        "BtechWaleTech is a freelance group of three engineers with a local branch. You will not meet us on the Mall, but you will reach the engineer building your system on WhatsApp seven days a week. For owners who spend the day with guests or at the mandi, that is often more useful than scheduled meetings.",
         "Whoever you choose, ask who writes the code, whether the domain, hosting and repository are in your name, what maintenance costs after launch, and whether you can see live work. Our <a href='/portfolio/'>portfolio</a> shows the kind of systems we build.",
       ],
       list: [
@@ -300,7 +300,7 @@ const content: CityContent = {
         "Usually two to four months for local map visibility once your Business Profile, reviews and pages are in order, and longer for competitive tourism searches. Starting before the season helps. We do not guarantee rankings; monthly SEO from ₹10,000 includes Search Console reports so you can see what is improving.",
     },
     {
-      question: "Should we hire a software development company in Shimla or freelancers?",
+      question: "Should we hire a software development team in Shimla or freelancers?",
       answer:
         "It depends on your needs. A local company can visit in person and may suit large, formal projects. A freelance group like ours offers direct developer access, published starting prices and quick WhatsApp replies. In either case, get a written scope and make sure the domain, hosting and code are registered to you.",
     },

@@ -10,12 +10,12 @@ const bobbili: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Bobbili veena makers, growth centre suppliers, rice and mango traders, and clinics.",
     keywords: [
       "IT services in Bobbili",
-      "IT company in Bobbili",
-      "website development company in Bobbili",
+      "IT services team in Bobbili",
+      "website development team in Bobbili",
       "web design in Bobbili",
-      "app development company in Bobbili",
+      "app development team in Bobbili",
       "Android app development in Bobbili",
-      "software company in Bobbili",
+      "software team in Bobbili",
       "SEO services in Bobbili",
       "digital marketing in Bobbili",
       "ecommerce website in Bobbili",
@@ -82,19 +82,19 @@ const bobbili: CityContent = {
     },
     {
       id: "growth-centre-suppliers",
-      heading: "Website development company in Bobbili for growth centre suppliers and contractors",
+      heading: "Website development team in Bobbili for growth centre suppliers and contractors",
       paragraphs: [
         "APIIC set up the Industrial Development Area at Bobbili in 2008 on more than a thousand acres, and several ferro alloy plants now operate at the growth centre. These plants need a steady supply of services: fabrication and maintenance workshops, electrical contractors, transporters, material handlers, canteen and housekeeping operators, security agencies and labour contractors.",
-        "Purchase and contracts teams usually check a vendor online before issuing an order. A <strong>website development company in Bobbili</strong> should build supplier sites that pass that check quickly: services offered, equipment and vehicles owned, sectors served, safety practices, GST and labour registration details, and named contacts. The site should look professional on a desktop screen in a plant office, not only on a phone.",
+        "Purchase and contracts teams usually check a vendor online before issuing an order. A <strong>website development team in Bobbili</strong> should build supplier sites that pass that check quickly: services offered, equipment and vehicles owned, sectors served, safety practices, GST and labour registration details, and named contacts. The site should look professional on a desktop screen in a plant office, not only on a phone.",
         "Plant names and logos stay off your pages unless that plant has agreed in writing. Contractors who send many quotations can add an enquiry form that accepts drawings or scope documents. A site of this kind starts at ₹10,000 for up to 100 pages and can be extended later with a client login or job status page.",
       ],
     },
     {
       id: "contractor-software-bobbili",
-      heading: "Software company in Bobbili for labour, vehicle and dispatch records",
+      heading: "Software team in Bobbili for labour, vehicle and dispatch records",
       paragraphs: [
         "Contractors serving the growth centre plants carry a lot of paperwork. They track workers on each shift, wages and advances, vehicles and trips, diesel issued, safety permits and the monthly bills they raise to each plant. When records live in notebooks and scattered spreadsheets, bills go out late and disputes take weeks to settle.",
-        "As a <strong>software company in Bobbili</strong> in practical terms, we build web tools that fit this work. Supervisors mark attendance from a phone at the gate. Vehicle trips are entered once with vehicle number, material, weight and destination. Monthly bills are generated from the actual records, and document expiry alerts warn you before a permit or insurance lapses.",
+        "As a <strong>software team in Bobbili</strong> in practical terms, we build web tools that fit this work. Supervisors mark attendance from a phone at the gate. Vehicle trips are entered once with vehicle number, material, weight and destination. Monthly bills are generated from the actual records, and document expiry alerts warn you before a permit or insurance lapses.",
         "Budget ₹60,000 or more for such a tool, delivered piece by piece over a six-to-twelve-week window. The shift and wage register normally comes first, since wage disputes are what keep contractors up at night; trip logs and plant billing follow once supervisors trust the first module. Your accountant can pull any table into Excel whenever needed.",
       ],
     },
@@ -103,7 +103,7 @@ const bobbili: CityContent = {
       heading: "Android app development in Bobbili, and iOS apps for local businesses",
       paragraphs: [
         "Apps pay off only for regular, repeat users. In and around Bobbili those might be a contractor's gate supervisors punching in shift attendance at the growth centre, parents checking a school's circulars and fee dues, patients taking a queue number at a crowded clinic, or retailers from nearby mandals topping up stock from a distributor each week.",
-        "Working as a remote <strong>app development company in Bobbili</strong>, we write apps in Flutter or React Native. That means one shared codebase for Android handsets and iPhones instead of two separate builds. Version one generally has OTP login on a mobile number, push alerts, the handful of screens your users will touch daily and a web admin for your office staff, in Telugu, English or both. Publishing on Google Play and the Apple App Store happens under developer accounts held by your business.",
+        "Working as a remote <strong>app development team in Bobbili</strong>, we write apps in Flutter or React Native. That means one shared codebase for Android handsets and iPhones instead of two separate builds. Version one generally has OTP login on a mobile number, push alerts, the handful of screens your users will touch daily and a web admin for your office staff, in Telugu, English or both. Publishing on Google Play and the Apple App Store happens under developer accounts held by your business.",
         "<strong>Android app development in Bobbili</strong> starts at ₹40,000 with us. Payment gateways, offline mode for weak-signal villages, GPS tracking and a billing software link each add to that and are priced as their own lines. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how a build runs.",
         "Plenty of Bobbili businesses do not need an app at all. When customers only look up your location, opening hours and rates, a website covers it at roughly one quarter of the spend, and that is what we will advise.",
       ],
@@ -137,10 +137,10 @@ const bobbili: CityContent = {
     },
     {
       id: "schools-clinics-bobbili",
-      heading: "IT company in Bobbili for schools, colleges, hospitals and clinics",
+      heading: "IT services team in Bobbili for schools, colleges, hospitals and clinics",
       paragraphs: [
         "Bobbili's education roots go back a long way: Samsthanam High School dates from 1864, and Rajah R.S.R.K. Ranga Rao College has taught since 1962. Today the town also has private schools, junior colleges, coaching centres for EAMCET and government exams, and hospitals, nursing homes and diagnostic labs that serve patients from surrounding villages.",
-        "An <strong>IT company in Bobbili</strong> working with these institutions has to keep information accurate. A school page should give classes, board, fee ranges, transport routes and admission dates. A coaching centre should show batches, timings and only the results it can prove. A clinic should list doctors, specialities, OPD days and emergency numbers that are current.",
+        "An <strong>IT services team in Bobbili</strong> working with these institutions has to keep information accurate. A school page should give classes, board, fee ranges, transport routes and admission dates. A coaching centre should show batches, timings and only the results it can prove. A clinic should list doctors, specialities, OPD days and emergency numbers that are current.",
         "Pages go up in Telugu with English beside them, each carrying a map link and a WhatsApp button. Admission and appointment forms drop straight into a Google Sheet or your existing software. A circular or token app for Android and iPhone is a second step, worth it only once enquiry numbers are high.",
       ],
     },
@@ -231,7 +231,7 @@ const bobbili: CityContent = {
         "Once your photos and shop details reach us, a basic site is generally up within seven to fourteen days. Bigger builds need more: three to five weeks for 700+ SEO pages, four to eight for a store, six to twelve for bespoke software. Owners who hand over content in week one see the quickest launches.",
     },
     {
-      question: "Which is the best website development company in Bobbili?",
+      question: "Which is the best website development team in Bobbili?",
       answer:
         "The safest pick shows its rates openly, puts your name on the domain and code, stays reachable after launch and has live work you can open. Put identical questions to every option and weigh the replies side by side. We tick those boxes, yet a quick comparison with two or three others is still worth your time.",
     },

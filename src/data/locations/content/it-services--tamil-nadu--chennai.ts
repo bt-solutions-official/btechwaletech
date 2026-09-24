@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Comparing software development companies in Chennai? Hire three freelance engineers for web apps, SaaS MVPs, AI agents, Android and iOS apps and dashboards.",
     keywords: [
-      "software development company in Chennai",
-      "IT company in Chennai",
+      "software development team in Chennai",
+      "IT services team in Chennai",
       "IT solutions Chennai",
       "freelance software developers Chennai",
       "custom software development Chennai",
@@ -68,15 +68,15 @@ const content: CityContent = {
   sections: [
     {
       id: "chennai-freelance-vs-company",
-      heading: "Freelance developers vs a software development company in Chennai: which should you hire?",
+      heading: "Freelance developers vs a software development team in Chennai: which should you hire?",
       paragraphs: [
-        "Hire freelance developers in Chennai when you want direct access to the engineers, fast decisions and lower overheads for a clearly scoped product; hire a software development company when you need a large dedicated team, on-site presence, formal enterprise procurement or round-the-clock support. Startups, mid-sized manufacturers and clinics often fit the first profile.",
-        "BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we do not have a Chennai office. Between us we cover product scoping, interface design, backend development, Android and iOS apps, AI integration, cloud deployment and maintenance. You speak with the people writing the code, not a project coordinator relaying messages.",
+        "Hire freelance developers in Chennai when you want direct access to the engineers, fast decisions and lower overheads for a clearly scoped product; hire a software development team when you need a large dedicated team, on-site presence, formal enterprise procurement or round-the-clock support. Startups, mid-sized manufacturers and clinics often fit the first profile.",
+        "BtechWaleTech is a freelance group of three engineers working remotely from India, and we do not have a Chennai office. Between us we cover product scoping, interface design, backend development, Android and iOS apps, AI integration, cloud deployment and maintenance. You speak with the people writing the code, not a project coordinator relaying messages.",
         "The trade-offs are honest. Three people cannot staff a support desk at night or run a fifty-person programme, and we will say so if that is what you need. For focused builds, however, the lack of overhead usually shows up as lower cost and faster iteration. Our <a href='/about/'>about page</a> introduces us, and the <a href='/it-services/tamil-nadu/'>Tamil Nadu hub</a> covers the rest of the state.",
       ],
       list: [
         "Freelance group: direct engineers, lower overheads, fast iteration",
-        "Software company: large teams, formal processes, higher cost",
+        "Software team: large teams, formal processes, higher cost",
         "Either way: code, cloud accounts and data in your name",
       ],
     },
@@ -169,7 +169,7 @@ const content: CityContent = {
     },
     {
       id: "chennai-software-cost",
-      heading: "How much does a software development company in Chennai charge compared with a freelance group?",
+      heading: "How much does a software development team in Chennai charge compared with a freelance group?",
       paragraphs: [
         "Software development companies in Chennai often price by team size and months, which suits large projects but can be expensive for focused builds; BtechWaleTech, a freelance group, starts at ₹60,000 for custom web applications, ₹40,000 for Android and iOS apps or AI automation, ₹50,000 for online stores, ₹20,000 for SEO websites and ₹10,000 for static websites.",
         "These are starting prices; the final figure depends on features, integrations and users. A focused internal tool sits near the starting point; a multi-tenant SaaS MVP with billing, admin and a mobile companion app sits higher. Every quote is itemised, which makes comparing vendors straightforward.",
@@ -236,7 +236,7 @@ const content: CityContent = {
     { name: "D2C and retail brands", need: "Direct online sales with good margins", build: "Ecommerce stores, loyalty apps and WhatsApp order updates" },
   ],
   faqs: [
-    { question: "Is BtechWaleTech a Chennai software company?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Chennai. We work with Chennai clients over video calls, WhatsApp and shared staging links, and you speak directly with the engineers building your product." },
+    { question: "Is BtechWaleTech a Chennai software team?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Chennai. We work with Chennai clients over video calls, WhatsApp and shared staging links, and you speak directly with the engineers building your product." },
     { question: "How do we pay?", answer: "Payments are accepted only in INR, by UPI through our QR code or by direct bank transfer to our bank account. Projects are split into milestones tied to working deliverables, and each payment gets an invoice. For your product's own customer payments, we set up a payment gateway account in your company's name." },
     { question: "How much does custom software development cost in Chennai with you?", answer: "Custom web applications and SaaS MVPs start at ₹60,000, Android and iOS apps and AI automation at ₹40,000, online stores at ₹50,000, SEO websites at ₹20,000 and static websites at ₹10,000. We send an itemised quote in about two working days so you can compare it line by line." },
     { question: "How long does a SaaS MVP take?", answer: "Usually six to twelve weeks, depending on scope. We keep the first version focused on the core workflow, with authentication, roles, admin and a clean data model. Weekly builds on a staging link let you show progress to design partners before launch." },

@@ -9,7 +9,7 @@ const anantnag: CityContent = {
     description:
       "Web design, local SEO, dry fruit and craft stores, and WhatsApp booking tools for Anantnag apple growers, bat makers, Pahalgam hotels and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Anantnag",
+      "website development team in Anantnag",
       "web designer Anantnag",
       "website design Islamabad Kashmir",
       "SEO services Anantnag",
@@ -23,7 +23,7 @@ const anantnag: CityContent = {
       "coaching centre website Anantnag",
       "South Kashmir web development",
       "Anantnag mein website banwani hai",
-      "software company Anantnag",
+      "software team Anantnag",
     ],
   },
   hero: {

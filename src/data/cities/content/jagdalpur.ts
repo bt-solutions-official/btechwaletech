@@ -9,7 +9,7 @@ const jagdalpur: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Jagdalpur hotels, tour operators, craft sellers, rice mills, clinics and schools. Sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Jagdalpur",
+      "website development team in Jagdalpur",
       "website designer Jagdalpur",
       "website cost Jagdalpur",
       "SEO services Jagdalpur",

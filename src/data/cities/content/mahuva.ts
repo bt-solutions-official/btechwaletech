@@ -10,12 +10,12 @@ const mahuva: CityContent = {
       "Websites, Android and iOS apps, Gujarati SEO and WhatsApp automation for Mahuva onion traders, dehydration exporters, toy makers, shops and clinics. From ₹10,000.",
     keywords: [
       "IT services in Mahuva",
-      "IT company in Mahuva",
-      "website development company in Mahuva",
+      "IT services team in Mahuva",
+      "website development team in Mahuva",
       "web design in Mahuva",
-      "app development company in Mahuva",
+      "app development team in Mahuva",
       "Android app development in Mahuva",
-      "software company in Mahuva",
+      "software team in Mahuva",
       "SEO services in Mahuva",
       "digital marketing in Mahuva",
       "ecommerce website in Mahuva",
@@ -75,7 +75,7 @@ const mahuva: CityContent = {
     },
     {
       id: "dehydration-exporters",
-      heading: "Website development company in Mahuva for dehydrated onion and garlic exporters",
+      heading: "Website development team in Mahuva for dehydrated onion and garlic exporters",
       paragraphs: [
         "Mahuva is one of the main centres of onion and garlic dehydration in the country. Units in and around the town, at Nesvad village, in the GIDC area and along the Savarkundla road, turn white onion into flakes, kibbled pieces, minced, granules and powder, and many sell to buyers abroad through Pipavav port, about 50 km away. Directory listings alone show close to a hundred exporters, so a buyer comparing suppliers has plenty of choice.",
         "An importer or food manufacturer in another country usually finds suppliers through search and trade directories, then checks the website before asking for a sample. A thin one-page site with stock photographs sends that buyer to the next name on the list. What works is a clear product catalogue with each form and mesh size, typical specifications for moisture and colour, packaging options, container loading quantities, certifications you actually hold, and a proper sample request form.",
@@ -125,7 +125,7 @@ const mahuva: CityContent = {
     },
     {
       id: "logistics-storage",
-      heading: "Software company in Mahuva for transporters, cold storage and packers",
+      heading: "Software team in Mahuva for transporters, cold storage and packers",
       paragraphs: [
         "Onion, dehydrated products and coconuts all move by road, so Mahuva has many lorry owners, transport offices, packing contractors and cold storage operators. A dehydrated onion cold storage has been set up at the Mahuva APMC, and private godowns hold stock for traders waiting for better rates.",
         "The records in these businesses are often split between a notebook, a phone gallery and the owner's memory. We build compact tools that keep them in one place. A transporter logs each trip with vehicle, route, load, freight, diesel and driver advance, and sees profit per vehicle and dues by party. A cold storage or godown records lots in and out by owner, variety, bag count and date, and bills rent automatically.",
@@ -138,7 +138,7 @@ const mahuva: CityContent = {
       heading: "Android app development in Mahuva: Android and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when the same people use it again and again. In Mahuva that usually means a dehydration unit's field buyers entering purchases from villages, a trader's regular dealers placing repeat orders, a transporter's drivers logging trips, or a clinic's patients booking follow-up visits. For a one-time visitor, a good website is enough.",
-        "As an app development company in Mahuva, we build Android and iOS apps with Flutter or React Native, so one codebase serves both platforms. A typical app has login by phone number, a product or rate list, order or entry forms, push notifications for rate changes or appointment reminders, and a web admin panel where your office staff manage everything. Apps can work in Gujarati, Hindi and English.",
+        "As an app development team in Mahuva, we build Android and iOS apps with Flutter or React Native, so one codebase serves both platforms. A typical app has login by phone number, a product or rate list, order or entry forms, push notifications for rate changes or appointment reminders, and a web admin panel where your office staff manage everything. Apps can work in Gujarati, Hindi and English.",
         "We publish the app on Google Play and the Apple App Store under your own developer accounts, so the listing belongs to you. Android and iOS apps start at <a href=\"/it-services/android-ios-app/\">₹40,000</a>, and the quote lists each screen and feature separately so you can drop what you do not need.",
         "Before building, we ask a plain question: will your customers install this and open it more than once a month? If not, we will suggest a website with a WhatsApp button instead and save you the money. Many Mahuva businesses start with a site and add an app a year later, once they know what customers repeatedly ask for.",
       ],
@@ -182,7 +182,7 @@ const mahuva: CityContent = {
     },
     {
       id: "remote-it-company",
-      heading: "An IT company in Mahuva without an office: how we work remotely",
+      heading: "An IT services team in Mahuva without an office: how we work remotely",
       paragraphs: [
         "We do not have an office in Mahuva, Bhavnagar or anywhere in Gujarat, and we will not pretend to. BtechWaleTech is three engineers who work remotely. Ankur Kumar handles full-stack development of websites and web apps. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava runs project management, data science and automation.",
         "You describe what you need on WhatsApp or a short call, in Gujarati, Hindi or English. Within about two working days you receive an itemised written quote. Work starts only after you approve it in writing, and nothing is billed before that. During the build you check progress on a live preview link and send comments whenever you find time between auctions or patients.",
@@ -241,7 +241,7 @@ const mahuva: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, with phone login, push notifications, order or entry forms and an admin panel, and publish them on Google Play and the App Store under your accounts. Apps start at ₹40,000. If a website would serve you better, we will say so.",
     },
     {
-      question: "Which is the best IT company in Mahuva for a website?",
+      question: "Which is the best IT services team in Mahuva for a website?",
       answer:
         "Judge any developer by work you can inspect: live sites, how fast they load on a phone, whether the domain and code will be in your name, and what support costs after launch. We are a remote team, not a local office, and we put starting prices and every quote item in writing so you can compare fairly.",
     },

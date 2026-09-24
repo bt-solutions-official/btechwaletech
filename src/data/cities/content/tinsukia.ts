@@ -9,7 +9,7 @@ const tinsukia: CityContent = {
     description:
       "Websites, multilingual local SEO, dealer catalogues and WhatsApp order tools for Tinsukia wholesalers, tea factories, contractors and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Tinsukia",
+      "website development team in Tinsukia",
       "web designer Tinsukia",
       "website developer Upper Assam",
       "website cost Tinsukia",
@@ -21,7 +21,7 @@ const tinsukia: CityContent = {
       "contractor website Digboi",
       "ecommerce website Tinsukia",
       "WhatsApp order automation Tinsukia",
-      "software company Tinsukia",
+      "software team Tinsukia",
       "website maintenance Tinsukia",
       "Dibru-Saikhowa homestay website",
     ],

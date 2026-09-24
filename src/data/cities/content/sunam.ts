@@ -10,12 +10,12 @@ const sunam: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Sunam arhtiyas, cloth and utensil wholesalers, jewellers, colleges and clinics.",
     keywords: [
       "IT services in Sunam",
-      "IT company in Sunam",
-      "website development company in Sunam",
+      "IT services team in Sunam",
+      "website development team in Sunam",
       "web design in Sunam",
-      "app development company in Sunam",
+      "app development team in Sunam",
       "Android app development in Sunam",
-      "software company in Sunam",
+      "software team in Sunam",
       "SEO services in Sunam",
       "digital marketing in Sunam",
       "ecommerce website in Sunam",
@@ -75,10 +75,10 @@ const sunam: CityContent = {
     },
     {
       id: "arhtiya-software-sunam",
-      heading: "Software company in Sunam for arhtiyas and the grain market",
+      heading: "Software team in Sunam for arhtiyas and the grain market",
       paragraphs: [
         "In the Sunam grain market, arhtiyas stand between farmers and buyers. Each season they record arrivals, arrange cleaning and weighing, deal with procurement agencies and private buyers, pay labour, and keep running accounts with farmers who may take advances months before harvest. Most of this still lives in handwritten bahis and a few spreadsheets.",
-        "Working as a <strong>software company in Sunam</strong>, we build ledger tools that match how arhtiyas already think. Each farmer has an account showing advances, arrivals by date and crop, deductions, payments received from buyers and amounts paid out. The owner sees totals for the day and the season, and a statement for any farmer can be printed or sent on WhatsApp in seconds.",
+        "Working as a <strong>software team in Sunam</strong>, we build ledger tools that match how arhtiyas already think. Each farmer has an account showing advances, arrivals by date and crop, deductions, payments received from buyers and amounts paid out. The owner sees totals for the day and the season, and a statement for any farmer can be printed or sent on WhatsApp in seconds.",
         "Staff can enter arrivals at the phad on a phone while the munim works on a desktop in the office, and each person sees only what they need. Interest or commission calculations follow the rules you set, not ones we invent. If your accountant uses Tally, entries can be exported in a form that imports without retyping.",
         "These systems start at ₹60,000 and take six to twelve weeks, built in stages. We usually deliver the farmer ledger first, well before a procurement season, and add buyer accounts, labour payments and reports afterwards. We never move your records without a full backup and a period of running old and new side by side.",
       ],
@@ -118,7 +118,7 @@ const sunam: CityContent = {
       heading: "Android app development in Sunam, and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when the same people use it every week. In Sunam that could be village retailers reordering from a cloth or utensil wholesaler, farmers checking their account balance with an arhtiya, students receiving timetables and notices from a college, parents paying school fees, or patients taking tokens at a busy clinic.",
-        "As an <strong>app development company in Sunam</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login, push notifications, the few screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Sunam</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login, push notifications, the few screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Sunam</strong> with us starts at ₹40,000. Costs rise with online payments, offline entry for the mandi floor, photo catalogues, maps or links to your existing ledger, and each of those appears as its own line in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the steps.",
         "Many Sunam businesses are better served by a website and a WhatsApp number. If your customers only need your address, phone and a price list, that costs far less than an app, and we will recommend it. An app that nobody opens after a week is money wasted.",
       ],
@@ -135,10 +135,10 @@ const sunam: CityContent = {
     },
     {
       id: "heritage-visitors-sunam",
-      heading: "Website development company in Sunam for heritage, gurdwara and temple visitors",
+      heading: "Website development team in Sunam for heritage, gurdwara and temple visitors",
       paragraphs: [
         "Sunam draws visitors for its history as well as its markets. People come to honour Shaheed Udham Singh, whose name the railway station carries. The Sitasar tank, spread over about 80 bighas, is tied to a local tradition about Sita, and the ruins of the Suraj Kund sun temple lie about 1.5 km east of the town. The Samadh of Baba Bhai Mool Chand and the shrine of Peer Banna Banoi are also visited.",
-        "A <strong>website development company in Sunam</strong> can help the small businesses that serve these visitors: sweet shops, dhabas, guest houses, taxi operators and shops selling religious items. Their sites need to be short and accurate, with timings, menus or services, directions from the railway station and a WhatsApp button.",
+        "A <strong>website development team in Sunam</strong> can help the small businesses that serve these visitors: sweet shops, dhabas, guest houses, taxi operators and shops selling religious items. Their sites need to be short and accurate, with timings, menus or services, directions from the railway station and a WhatsApp button.",
         "Pages about heritage sites must be written carefully. We use information from published and official sources, attribute traditions as traditions, and avoid inventing dates or stories. A short, reliable guide page on visiting Sunam can bring visitors to a business year after year.",
         "Institutions and trusts that manage shrines or memorials can also have simple websites with visiting hours, events and contact details. These start at ₹10,000 as static sites, and donation collection by UPI can be added where the trust wants it.",
       ],
@@ -233,7 +233,7 @@ const sunam: CityContent = {
         "Once photographs and shop details reach us, a basic site generally goes live within a fortnight. Bigger work needs longer: roughly three to five weeks for a 700+ page site, four to eight for a store and six to twelve for software. Owners who send material early see their site sooner.",
     },
     {
-      question: "Which is the best website development company in Sunam?",
+      question: "Which is the best website development team in Sunam?",
       answer:
         "The right choice is whoever shows prices openly, keeps your domain and code in your name, is still answering the phone a year later and can point to live work. Put identical questions to every candidate. We pass those checks and reply daily on WhatsApp, yet hearing two or three options before deciding remains wise.",
     },

@@ -9,10 +9,10 @@ const pondicherry: CityContent = {
     description:
       "Websites, SEO and WhatsApp booking tools for Pondicherry guesthouses, cafés, potters, clinics and industrial units. Tamil, English and French. From ₹10,000.",
     keywords: [
-      "website development company in Pondicherry",
+      "website development team in Pondicherry",
       "website designer Puducherry",
       "web design Pondicherry",
-      "SEO company in Pondicherry",
+      "SEO team in Pondicherry",
       "local SEO Puducherry",
       "guesthouse website Pondicherry",
       "hotel booking website White Town",
@@ -20,7 +20,7 @@ const pondicherry: CityContent = {
       "restaurant website Pondicherry",
       "ecommerce website Puducherry",
       "WhatsApp automation Pondicherry",
-      "software company Pondicherry",
+      "software team Pondicherry",
       "Pondy web developer",
       "Pondicherry-la website design",
       "புதுச்சேரி வெப்சைட் டிசைன்",

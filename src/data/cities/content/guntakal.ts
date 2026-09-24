@@ -9,7 +9,7 @@ const guntakal: CityContent = {
     description:
       "Website design, local SEO and WhatsApp automation for Guntakal shops, clinics, schools, lodges and railway-side suppliers. Sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Guntakal",
+      "website development team in Guntakal",
       "website designer Guntakal",
       "website cost Guntakal",
       "SEO services Guntakal",

@@ -10,12 +10,12 @@ const firozpurCantt: CityContent = {
       "Websites, Android and iOS apps, Maps SEO and WhatsApp tools for Firozpur Cantt shops on Mall Road and Sadar Bazar, and for services used by defence families.",
     keywords: [
       "IT services in Firozpur Cantt",
-      "IT company in Firozpur Cantt",
-      "website development company in Firozpur Cantt",
+      "IT services team in Firozpur Cantt",
+      "website development team in Firozpur Cantt",
       "web design in Firozpur Cantt",
-      "app development company in Firozpur Cantt",
+      "app development team in Firozpur Cantt",
       "Android app development in Firozpur Cantt",
-      "software company in Firozpur Cantt",
+      "software team in Firozpur Cantt",
       "SEO services in Firozpur Cantt",
       "digital marketing in Firozpur Cantt",
       "ecommerce website in Firozpur Cantt",
@@ -70,7 +70,7 @@ const firozpurCantt: CityContent = {
         "A cantonment behaves differently from the city beside it. In Firozpur Cantt, a large share of households belong to officers, soldiers and railway staff on postings of two or three years, so the customer base turns over constantly. Each summer new families arrive who know no shop, no doctor and no tutor, and each winter others pack up and leave. A business that relied on word of mouth alone has to keep winning its market back.",
         "That is why most requests we see for <strong>IT services in Firozpur Cantt</strong> are about being found quickly by newcomers: a clear English website, an accurate Google Maps pin inside the cantonment, a WhatsApp line that answers the same questions every family asks in its first month, and a way to keep in touch with customers after they move on. Our separate <a href=\"/firozpur/\">Firozpur city page</a> covers the chilli trade, rice shellers and arhtiyas; this one stays with the Cantt.",
         "The work is done by three engineers operating remotely. Ankur Kumar writes the full-stack code, Santosh Sharma leads AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. None of us sits in an office in Firozpur Cantt, and we would rather tell you that on day one than have you discover it later.",
-        "If you prefer an <strong>IT company in Firozpur Cantt</strong> whose door you can knock on, that is a reasonable choice. Our offer in place of a door is a written scope, public starting prices and every account in your name from the start.",
+        "If you prefer an <strong>IT services team in Firozpur Cantt</strong> whose door you can knock on, that is a reasonable choice. Our offer in place of a door is a written scope, public starting prices and every account in your name from the start.",
       ],
     },
     {
@@ -94,19 +94,19 @@ const firozpurCantt: CityContent = {
     },
     {
       id: "cantonment-board-services",
-      heading: "Software company in Firozpur Cantt for landlords, tenants and board paperwork",
+      heading: "Software team in Firozpur Cantt for landlords, tenants and board paperwork",
       paragraphs: [
         "The Ferozepur Cantonment Board keeps house tax and water tax registers, raises bills, and issues trade licences to shopkeepers and traders, with its office on Burt Road. Many of its services are handled online through the Ministry of Defence's e-Chhawani portal. Residents and shopkeepers still juggle a surprising amount of paper around these dues, especially those who own several shops or let out rooms.",
-        "Acting as a <strong>software company in Firozpur Cantt</strong> in the everyday sense, we build small tools that sit on your side of that paperwork, not the board's. A landlord with shops and flats can keep a tenant register with rent due, deposits, agreement renewal dates, and reminders for house tax and water tax deadlines in one place. A trader with more than one outlet can track licence renewals and staff documents. A school can keep fee and transport records that parents can see.",
+        "Acting as a <strong>software team in Firozpur Cantt</strong> in the everyday sense, we build small tools that sit on your side of that paperwork, not the board's. A landlord with shops and flats can keep a tenant register with rent due, deposits, agreement renewal dates, and reminders for house tax and water tax deadlines in one place. A trader with more than one outlet can track licence renewals and staff documents. A school can keep fee and transport records that parents can see.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. We do not file anything with the Cantonment Board on your behalf, and we do not copy its forms or branding. Our job is to make sure you know what is due and when, and have the records ready if an official asks.",
       ],
     },
     {
       id: "schools-defence-coaching",
-      heading: "Website development company in Firozpur Cantt for schools and defence-exam coaching",
+      heading: "Website development team in Firozpur Cantt for schools and defence-exam coaching",
       paragraphs: [
         "The cantonment has a dense cluster of schools, including Army Public School, Kendriya Vidyalaya No. 1, St. Joseph's Convent School, Dass and Brown World School, B.M. Jain Senior Secondary School and others, with D.A.V. College and Guru Nanak College nearby. Private schools, tuition centres and coaching institutes preparing students for defence entrance and recruitment exams have grown up around them.",
-        "A <strong>website development company in Firozpur Cantt</strong> can help private schools and institutes publish what transferring parents look for first: whether mid-session admission is possible, which boards and streams are offered, transport routes across Cantt and city, fee structure or fee ranges, and the documents needed for a transfer certificate. For coaching centres, batch timings, the exams covered, physical training arrangements if any, and honest result claims backed by student consent.",
+        "A <strong>website development team in Firozpur Cantt</strong> can help private schools and institutes publish what transferring parents look for first: whether mid-session admission is possible, which boards and streams are offered, transport routes across Cantt and city, fee structure or fee ranges, and the documents needed for a transfer certificate. For coaching centres, batch timings, the exams covered, physical training arrangements if any, and honest result claims backed by student consent.",
         "We will not use the name, crest or photographs of any government or Army-run school on a private institute's site, and we do not write that a centre is “approved” or “affiliated” unless you can show the paper. A school or coaching site starts at ₹10,000; a results portal with student logins is priced as custom software from ₹60,000.",
       ],
     },
@@ -115,7 +115,7 @@ const firozpurCantt: CityContent = {
       heading: "Android app development in Firozpur Cantt, with the iPhone version included",
       paragraphs: [
         "Apps make sense in the Cantt when a fixed group opens them every week. Coaching centres preparing students for defence exams can push mock-test schedules, scores and study material. Private schools can send circulars and fee reminders to parents, many of whom are away on duty. A Sadar Bazar grocer or bakery with regular Cantt customers can take repeat orders, and a clinic can hand out tokens so patients do not wait in the corridor.",
-        "For an <strong>app development company in Firozpur Cantt</strong> to be worth hiring, it should hand you a working app on both platforms and leave you in control of it. We write one codebase in Flutter or React Native that installs on Android phones and iPhones. A first release covers phone-number sign-in with OTP, push alerts, the key screens your users need, and a staff console for posting updates. We publish on Google Play and the Apple App Store through developer accounts that belong to you.",
+        "For an <strong>app development team in Firozpur Cantt</strong> to be worth hiring, it should hand you a working app on both platforms and leave you in control of it. We write one codebase in Flutter or React Native that installs on Android phones and iPhones. A first release covers phone-number sign-in with OTP, push alerts, the key screens your users need, and a staff console for posting updates. We publish on Google Play and the Apple App Store through developer accounts that belong to you.",
         "<strong>Android app development in Firozpur Cantt</strong> with us starts at ₹40,000. In-app payment, video lessons, offline use, maps and billing links raise the figure, and each is priced separately so you can leave out what you do not need. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "A shop whose customers only need an address, hours and a phone number should not buy an app. A website and a correct map listing do that for about a quarter of the cost and nobody has to download anything. We will say so if that is your case.",
       ],
@@ -225,7 +225,7 @@ const firozpurCantt: CityContent = {
         "Usually within one to two weeks of sending us photographs, timings and a list of what you sell. Larger jobs need more time: three to five weeks for a 700+ page SEO site, four to eight for an online store, six to twelve for custom software. Shops that send material quickly go live quickest.",
     },
     {
-      question: "Who is the best website development company in Firozpur Cantt?",
+      question: "Who is the best website development team in Firozpur Cantt?",
       answer:
         "There is no single answer, so test each option the same way: are prices published, will the domain and code be in your name, is there support after launch, and can you open live work they have built? We meet those points and reply on WhatsApp daily, but you should still compare two or three providers.",
     },

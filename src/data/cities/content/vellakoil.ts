@@ -10,12 +10,12 @@ const vellakoil: CityContent = {
       "Tamil websites, Android and iOS apps, SEO and WhatsApp automation for Vellakoil power looms, spinning mills, coconut oil units, poultry farms and shops.",
     keywords: [
       "IT services in Vellakoil",
-      "IT company in Vellakoil",
-      "website development company in Vellakoil",
+      "IT services team in Vellakoil",
+      "website development team in Vellakoil",
       "web design in Vellakoil",
-      "app development company in Vellakoil",
+      "app development team in Vellakoil",
       "Android app development in Vellakoil",
-      "software company in Vellakoil",
+      "software team in Vellakoil",
       "SEO services in Vellakoil",
       "digital marketing in Vellakoil",
       "ecommerce website in Vellakoil",
@@ -68,7 +68,7 @@ const vellakoil: CityContent = {
       heading: "IT services in Vellakoil for a highway town that weaves, presses and trades",
       paragraphs: [
         "Buses on the Trichy–Coimbatore highway stop at Vellakoil through the day, and the town has grown around that traffic. Behind the bus stand and the bazaar are power loom sheds weaving bedsheets and floor mats, spinning mills, coconut oil units, poultry farms and a produce market that collects vegetables, fruit and grain from the surrounding villages.",
-        "Very little of this trade has a proper online presence. A loom owner who supplies a Karur exporter may have no page that shows his qualities and widths. An oil mill sells in bulk to traders who found it by word of mouth. A grocery wholesaler updates rates by forwarding photographs of a handwritten list. When people look for an <strong>IT company in Vellakoil</strong>, what they usually want is to fix one of these gaps, not to buy a large system.",
+        "Very little of this trade has a proper online presence. A loom owner who supplies a Karur exporter may have no page that shows his qualities and widths. An oil mill sells in bulk to traders who found it by word of mouth. A grocery wholesaler updates rates by forwarding photographs of a handwritten list. When people look for an <strong>IT services team in Vellakoil</strong>, what they usually want is to fix one of these gaps, not to buy a large system.",
         "That is how we approach <strong>IT services in Vellakoil</strong>. We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Vellakoil or in Tiruppur, and we say that before anything else. Everything is agreed in writing, discussed on WhatsApp and calls, and shown to you on preview links that open on your phone.",
         "The rest of this page goes trade by trade: what a weaver, a mill, an oil unit, a poultry farm or a college in Vellakoil can use, what it costs to start, and what it is better to skip.",
       ],
@@ -85,10 +85,10 @@ const vellakoil: CityContent = {
     },
     {
       id: "spinning-mills-software",
-      heading: "Software company in Vellakoil for spinning mills, sizing units and job work",
+      heading: "Software team in Vellakoil for spinning mills, sizing units and job work",
       paragraphs: [
         "Yarn spinning mills are part of Vellakoil's industrial base, and around them sits a web of sizing units, transporters, cone winders, waste cotton buyers and spare part dealers. The paperwork between these firms is where money leaks: yarn issued to a weaver but not reconciled, a lot returned short, a transporter's trip counted twice, a payment promised for the fifteenth that never arrives.",
-        "As a <strong>software company in Vellakoil</strong> in the practical sense, we build small web applications for exactly this. A yarn issue and receipt register records count, weight and lot number against each weaver. A job-work ledger computes wages per metre or per piece from the output entered. A dispatch screen prints delivery challans and tracks which lots have been billed. A dues page shows who owes what, sorted by age.",
+        "As a <strong>software team in Vellakoil</strong> in the practical sense, we build small web applications for exactly this. A yarn issue and receipt register records count, weight and lot number against each weaver. A job-work ledger computes wages per metre or per piece from the output entered. A dispatch screen prints delivery challans and tracks which lots have been billed. A dues page shows who owes what, sorted by age.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. We start with whatever register causes the most arguments today, run it alongside your paper books for a few weeks, and only then add the next piece. If your accountant already uses Tally, the software can export entries in a format that saves retyping.",
         "Staff logins are separated so a supervisor sees production, the accountant sees payments and only the owner sees margins. The data sits on hosting billed to you.",
       ],
@@ -128,7 +128,7 @@ const vellakoil: CityContent = {
       heading: "Android app development in Vellakoil, with iOS apps from the same build",
       paragraphs: [
         "Most Vellakoil businesses do not need an app, and we would rather say that than sell one. An app earns its cost when the same people open it every week: loom supervisors entering daily metres, a poultry integrator's farm staff logging shed data, a school sending homework and fee notices, a wholesaler's village retailers placing standing orders, or regular buyers of a coconut oil brand re-ordering every month.",
-        "For those cases, we work as an <strong>app development company in Vellakoil</strong> using Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first release usually has mobile number login with OTP, push notifications, the three or four screens your users actually need, Tamil and English labels, and an admin panel on the web for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "For those cases, we work as an <strong>app development team in Vellakoil</strong> using Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first release usually has mobile number login with OTP, push notifications, the three or four screens your users actually need, Tamil and English labels, and an admin panel on the web for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Vellakoil</strong> with us starts at ₹40,000. The quote rises with payments inside the app, offline entry for sheds with weak signal, photo uploads, maps or links to your existing software, and each of those is priced as a separate line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for how the build is staged.",
         "If your customers only want your phone number, address, product list and a WhatsApp button, a website does the job at a quarter of the price and needs no download. We will recommend the website in that case.",
       ],
@@ -184,10 +184,10 @@ const vellakoil: CityContent = {
     },
     {
       id: "around-vellakoil",
-      heading: "Website development company in Vellakoil serving Muthur, Kangeyam and Dharapuram",
+      heading: "Website development team in Vellakoil serving Muthur, Kangeyam and Dharapuram",
       paragraphs: [
         "We work with businesses across Vellakoil block and the towns around it: Muthur town panchayat, villages such as Uthamapalayam, Mettupalayam, Lakkamanaickenpatti, Velappanaickenvalasu and Dasavanaickenpatti, and further to Kangeyam, Dharapuram, Mulanur, Karur, Tiruppur and Erode.",
-        "As a <strong>website development company in Vellakoil</strong> clients sometimes ask us for one page per town they serve. We do that only when each page has something true to say about that place: a branch, a delivery route, the villages covered, a local phone number. Copying a page and swapping the town name looks lazy to readers and Google tends to ignore it.",
+        "As a <strong>website development team in Vellakoil</strong> clients sometimes ask us for one page per town they serve. We do that only when each page has something true to say about that place: a branch, a delivery route, the villages covered, a local phone number. Copying a page and swapping the town name looks lazy to readers and Google tends to ignore it.",
         "Not sure where to begin? Send us two or three lines on WhatsApp about your business. Sometimes the right answer is a full website or app; sometimes it is fixing a wrong map pin and adding ten good photographs, which you can do yourself this week, and we will tell you so.",
       ],
     },
@@ -233,7 +233,7 @@ const vellakoil: CityContent = {
         "A simple shop or clinic site usually goes live within one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early helps.",
     },
     {
-      question: "Which is the best IT company in Vellakoil for a small business?",
+      question: "Which is the best IT services team in Vellakoil for a small business?",
       answer:
         "The best choice is whoever publishes clear prices, registers the domain and code in your name, tests on ordinary phones and still answers after launch. Ask every provider the same questions and compare in writing. We meet those tests, but speaking to two or three options before deciding is sensible.",
     },

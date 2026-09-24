@@ -9,7 +9,7 @@ const bharuch: CityContent = {
     description:
       "Websites, SEO and automation for Bharuch chemical traders, Dahej and Ankleshwar suppliers, contractors, khari sing sellers, clinics and shops. From ₹10,000.",
     keywords: [
-      "website development company in Bharuch",
+      "website development team in Bharuch",
       "web designer Bharuch",
       "website design Bharuch Gujarat",
       "SEO services Bharuch",

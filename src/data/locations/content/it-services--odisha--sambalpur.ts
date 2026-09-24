@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Comparing software development companies in Sambalpur? Hire freelance engineers for rice mill and weaver software, automation, apps and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Sambalpur",
-      "IT company in Sambalpur",
+      "software development team in Sambalpur",
+      "IT services team in Sambalpur",
       "IT solutions Sambalpur",
       "freelance software developers Sambalpur",
       "rice mill software western Odisha",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "IT services · Sambalpur, Odisha",
     h1: "Freelance software and automation developers for Sambalpur and western Odisha",
     lede:
-      "Businesses searching for a software development company in Sambalpur usually want one thing: less manual work. BtechWaleTech is a freelance group of three engineers working remotely from India. We build software for rice mills, weaver groups and contractors, enquiry-to-invoice automation, Android and iOS apps, dashboards, service pages and local SEO for Sambalpur, Burla, Hirakud and the wider western Odisha belt.",
+      "Businesses searching for a software development team in Sambalpur usually want one thing: less manual work. BtechWaleTech is a freelance group of three engineers working remotely from India. We build software for rice mills, weaver groups and contractors, enquiry-to-invoice automation, Android and iOS apps, dashboards, service pages and local SEO for Sambalpur, Burla, Hirakud and the wider western Odisha belt.",
     pills: ["Rice mill and trade software", "Weaver group tools", "Automation from ₹40,000", "Apps from ₹40,000", "Service pages from ₹10,000"],
   },
   quickAnswer:
-    "For IT solutions in Sambalpur, BtechWaleTech is a freelance group of three engineers, not a software development company: service websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom software for mills, weavers or contractors from ₹60,000 (6 to 12 weeks). We work remotely, with five months of free maintenance.",
+    "For IT solutions in Sambalpur, BtechWaleTech is a freelance group of three engineers, not a software development team: service websites from ₹10,000 (1 to 2 weeks), automation and Android and iOS apps from ₹40,000, and custom software for mills, weavers or contractors from ₹60,000 (6 to 12 weeks). We work remotely, with five months of free maintenance.",
   snapshot: [
     { label: "Regional role", value: "The commercial and administrative centre of western Odisha, headquarters of Sambalpur district and of a railway division" },
     { label: "Hirakud", value: "Hirakud Dam on the Mahanadi, one of the world's longest earthen dams, with its reservoir, canals and irrigated farmland" },
@@ -69,10 +69,10 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-or-company-sambalpur",
-      heading: "Freelance software team or a software development company in Sambalpur: how should you choose?",
+      heading: "Freelance software team or a software development team in Sambalpur: how should you choose?",
       paragraphs: [
-        "Choose a freelance software team in Sambalpur when your project is focused, your budget is moderate and you want to talk directly to the people building it; choose a software development company when you need a large team, tender eligibility or staff on your premises. For most mills, weaver groups, clinics and traders in the city, the first option is the better fit.",
-        "BtechWaleTech is a freelance group, not a company, and we have no office in Sambalpur. Three engineers work remotely from India. You explain your process over a call or screen-share, we send an itemised estimate, and you see progress on a test link every week. At handover you receive the source code, logins and a document of every account and renewal.",
+        "Choose a freelance software team in Sambalpur when your project is focused, your budget is moderate and you want to talk directly to the people building it; choose a software development team when you need a large team, tender eligibility or staff on your premises. For most mills, weaver groups, clinics and traders in the city, the first option is the better fit.",
+        "BtechWaleTech is a small freelance group, and we have no office in Sambalpur. Three engineers work remotely from India. You explain your process over a call or screen-share, we send an itemised estimate, and you see progress on a test link every week. At handover you receive the source code, logins and a document of every account and renewal.",
         "We will tell you when we are the wrong choice, for example when hardware installation, on-site staff or registered-firm tender eligibility is essential. Honest scoping at the start saves both sides time and money.",
       ],
       list: [

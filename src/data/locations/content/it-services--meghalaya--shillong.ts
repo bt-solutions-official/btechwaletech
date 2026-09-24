@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Shillong: tour and booking software, hostel, college and clinic systems, Android and iOS apps, AI automation, SEO and hosting.",
     keywords: [
-      "software development company in Shillong",
-      "IT company in Shillong",
+      "software development team in Shillong",
+      "IT services team in Shillong",
       "IT solutions Shillong",
       "freelance software developer Shillong",
       "custom software development Shillong",
@@ -27,21 +27,21 @@ const content: CityContent = {
       "mobile app developers Shillong",
       "iPhone app developers Shillong",
       "cloud hosting and DevOps Shillong",
-      "IT company near me Laitumkhrah",
+      "IT services team near me Laitumkhrah",
       "website maintenance Shillong",
       "Shillong software developer leh website",
-      "Shillong mein software company",
+      "Shillong mein software team",
     ],
   },
   hero: {
     eyebrow: "Freelance software and IT solutions · Shillong, Meghalaya",
     h1: "Freelance software developers in Shillong for tour operators, institutions, hostels and retailers",
     lede:
-      "If you are searching for a software development company in Shillong because a website alone is no longer enough, BtechWaleTech may fit. We are a freelance group of three engineers working remotely from India, building tour and booking software, college, hostel and clinic systems, Android and iOS apps, AI and WhatsApp automation, and the hosting and SEO around them for Shillong businesses.",
+      "If you are searching for a software development team in Shillong because a website alone is no longer enough, BtechWaleTech may fit. We are a freelance group of three engineers working remotely from India, building tour and booking software, college, hostel and clinic systems, Android and iOS apps, AI and WhatsApp automation, and the hosting and SEO around them for Shillong businesses.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "Tour booking and dispatch", "Hostel and college systems", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "In place of a software development company in Shillong, BtechWaleTech is a remote freelance group of three engineers. Custom software and booking systems start at ₹60,000 (six to twelve weeks), AI automation and Android and iOS apps at ₹40,000, and websites at ₹10,000. We have no Shillong office, work online and send an itemised quote in about two working days.",
+    "In place of a software development team in Shillong, BtechWaleTech is a remote freelance group of three engineers. Custom software and booking systems start at ₹60,000 (six to twelve weeks), AI automation and Android and iOS apps at ₹40,000, and websites at ₹10,000. We have no Shillong office, work online and send an itemised quote in about two working days.",
   snapshot: [
     { label: "Commercial centres", value: "Police Bazar, Iewduh (Bara Bazar), Laitumkhrah and the Jail Road and GS Road stretches" },
     { label: "Education", value: "NEHU, IIM Shillong at Umsawli, NIFT Shillong and long-established colleges such as St. Edmund's and St. Anthony's" },
@@ -70,9 +70,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-development-shillong",
-      heading: "What does a software development company in Shillong build for local businesses?",
+      heading: "What does a software development team in Shillong build for local businesses?",
       paragraphs: [
-        "A software development company in Shillong, or a freelance team like ours, builds the systems behind a business: tour package and booking software, driver dispatch, college and coaching systems, hostel and PG management, clinic patient portals, inventory tools, Android and iOS apps, and the automation that connects them. The website is often the smallest piece.",
+        "A software development team in Shillong, or a freelance team like ours, builds the systems behind a business: tour package and booking software, driver dispatch, college and coaching systems, hostel and PG management, clinic patient portals, inventory tools, Android and iOS apps, and the automation that connects them. The website is often the smallest piece.",
         "Shillong's economy shapes this demand. The city is the base for most tourism in Meghalaya, an education centre for the whole Northeast, a regional healthcare hub, and a busy retail market around Police Bazar, Iewduh and Laitumkhrah. It also has a growing startup and IT services community around the PRIME hub and the Shillong Technology Park at Umsawli.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Shillong. We run projects through WhatsApp, email and video calls, share working versions early, and hand over all code and accounts at launch, followed by five months of free maintenance.",
       ],
@@ -211,7 +211,7 @@ const content: CityContent = {
       heading: "How much does software development cost in Shillong, and how do you choose?",
       paragraphs: [
         "Software development for a Shillong business with BtechWaleTech starts at ₹60,000 for custom software, ₹40,000 for an Android and iOS app or AI automation, ₹50,000 for a store, ₹20,000 for a 700+ page SEO website and ₹10,000 for a static website. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
-        "If you are weighing a software development company in Shillong against a freelance team, compare earlier work, who writes the code, written scope, ownership of domain, hosting, store accounts and code, and post-launch support terms. A local company can visit; a remote freelance group usually costs less and gives direct access to engineers. Our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a> help with that comparison, and our <a href='/shillong/'>Shillong web services page</a> covers websites and local SEO in more detail.",
+        "If you are weighing a software development team in Shillong against a freelance team, compare earlier work, who writes the code, written scope, ownership of domain, hosting, store accounts and code, and post-launch support terms. A local company can visit; a remote freelance group usually costs less and gives direct access to engineers. Our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a> help with that comparison, and our <a href='/shillong/'>Shillong web services page</a> covers websites and local SEO in more detail.",
         "Payments to us are only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. Start with a WhatsApp message; see all <a href='/services/'>services</a> or the statewide <a href='/it-services/meghalaya/'>Meghalaya hub</a>.",
       ],
     },
@@ -301,12 +301,12 @@ const content: CityContent = {
         "Yes. We build reservation pages, event pages with ticket tiers and QR tickets checked at the door, with payments going to the venue's own payment gateway account. Simple pages start at ₹10,000; full ticketing with check-in and dashboards starts at ₹60,000.",
     },
     {
-      question: "Should we hire a Shillong IT company or a remote freelance team?",
+      question: "Should we hire a Shillong IT services team or a remote freelance team?",
       answer:
         "For hardware, networks and on-site support, a local company is the right choice. For software, apps, automation and SEO, a remote freelance team works well and usually costs less, with direct access to engineers. Compare any option on earlier work, written scope, account ownership and support terms.",
     },
     {
-      question: "Which is the best IT company in Shillong for custom software?",
+      question: "Which is the best IT services team in Shillong for custom software?",
       answer:
         "No single company is best for every project. The right Shillong partner is the one with relevant earlier work, a written scope and price, code and accounts in your name, a plan for slow hill networks and clear support terms. Shortlist a few options, including local firms and freelance teams like ours, and compare them on those points rather than on advertising claims.",
     },

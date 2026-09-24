@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Dibrugarh for vendor compliance tools, pharmacy stock, tea traceability, AI and apps. Three remote engineers, from ₹10,000.",
     keywords: [
-      "software development company in Dibrugarh",
-      "IT company in Dibrugarh",
+      "software development team in Dibrugarh",
+      "IT services team in Dibrugarh",
       "IT solutions Dibrugarh",
       "freelance software developers in Dibrugarh",
       "Android app development Dibrugarh",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Dibrugarh · Upper Assam",
     h1: "Freelance software and app developers in Dibrugarh for industry suppliers, pharmacies, tea brands and builders",
     lede:
-      "BtechWaleTech is a freelance group of three software developers serving Dibrugarh remotely from India, and an alternative to hiring a software development company in Dibrugarh for jobs like vendor compliance records, pharmacy stock and expiry tracking, tea traceability, builder CRMs, AI agents, Android and iOS apps and business dashboards. Starting prices are published, you talk to the engineers directly, and five months of maintenance are free.",
+      "BtechWaleTech is a freelance group of three software developers serving Dibrugarh remotely from India, and an alternative to hiring a software development team in Dibrugarh for jobs like vendor compliance records, pharmacy stock and expiry tracking, tea traceability, builder CRMs, AI agents, Android and iOS apps and business dashboards. Starting prices are published, you talk to the engineers directly, and five months of maintenance are free.",
     pills: ["Compliance and records tools", "Android & iOS apps from ₹40,000", "Custom software from ₹60,000", "AI automation from ₹40,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -197,9 +197,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-dibrugarh",
-      heading: "Freelance developers or a software development company in Dibrugarh: costs, timelines and choice",
+      heading: "Freelance developers or a software development team in Dibrugarh: costs, timelines and choice",
       paragraphs: [
-        "Freelance developers like BtechWaleTech generally cost less than a software development company in Dibrugarh and give you direct access to the people writing code, while a larger company may offer on-site visits, hardware support and bigger teams. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
+        "Freelance developers like BtechWaleTech generally cost less than a software development team in Dibrugarh and give you direct access to the people writing code, while a larger company may offer on-site visits, hardware support and bigger teams. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
         "Timelines run from one to two weeks for a website, two to four for automation, six to ten for an app and six to twelve for custom software. Quotes are itemised, payments are staged, and you pay only by UPI QR or bank transfer in INR. Details are on the <a href='/pricing/'>pricing page</a>; examples of our work are on the <a href='/portfolio/'>portfolio</a>.",
         "Whichever route you take, insist on ownership of the domain, hosting and code in your name, a live preview during the build, and written support terms. Read <a href='/about/'>about the three of us</a>, see statewide context on <a href='/it-services/assam/'>IT services in Assam</a>, or <a href='/contact/'>contact us</a> to start.",
       ],
@@ -295,7 +295,7 @@ const content: CityContent = {
         "No. Our work covers software, apps, automation, websites and hosting. Hardware repair, networking and CCTV need a local technician. We are happy to coordinate with your technician when their work touches systems we look after.",
     },
     {
-      question: "Should we choose a freelance team or an IT company in Dibrugarh?",
+      question: "Should we choose a freelance team or an IT services team in Dibrugarh?",
       answer:
         "It depends on what you need. A freelance group like ours gives direct engineer access, published prices and lower overheads, but works remotely. A local IT company may offer visits and hardware support at higher cost. Either way, ensure ownership in your name and written support terms.",
     },

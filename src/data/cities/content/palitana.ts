@@ -10,12 +10,12 @@ const palitana: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Palitana dharamshalas, bhojanshalas, yatra organisers, shops and clinics.",
     keywords: [
       "IT services in Palitana",
-      "IT company in Palitana",
-      "website development company in Palitana",
+      "IT services team in Palitana",
+      "website development team in Palitana",
       "web design in Palitana",
-      "app development company in Palitana",
+      "app development team in Palitana",
       "Android app development in Palitana",
-      "software company in Palitana",
+      "software team in Palitana",
       "SEO services in Palitana",
       "digital marketing in Palitana",
       "ecommerce website in Palitana",
@@ -74,19 +74,19 @@ const palitana: CityContent = {
     },
     {
       id: "dharamshala-booking-palitana",
-      heading: "Website development company in Palitana for dharamshalas and bhavans",
+      heading: "Website development team in Palitana for dharamshalas and bhavans",
       paragraphs: [
         "The road leading to Taleti, the foot of the hill, is lined with dharamshalas, bhavans and rest houses run by trusts and community groups. Many still take bookings through a manager's mobile number, which works until three families arrive for the same room during Kartik Purnima. Pilgrims planning from Mumbai, Ahmedabad, Chennai or abroad would rather see what is available and reserve it before they travel.",
-        "As a <strong>website development company in Palitana</strong>, we build dharamshala sites that show room types with real photographs, the distance on foot to Taleti, rules on arrival and departure times, food arrangements, lift or ground-floor rooms for elderly guests, and contact details for the office. A booking calendar can hold rooms against a UPI or card deposit, with the trust's own donation or contribution rules explained clearly.",
+        "As a <strong>website development team in Palitana</strong>, we build dharamshala sites that show room types with real photographs, the distance on foot to Taleti, rules on arrival and departure times, food arrangements, lift or ground-floor rooms for elderly guests, and contact details for the office. A booking calendar can hold rooms against a UPI or card deposit, with the trust's own donation or contribution rules explained clearly.",
         "The admin side matters as much as the public page. Office staff see which rooms are occupied, which are due to be vacated, and which bookings are unpaid. During the monsoon, when the hill is closed to pilgrims, the site can switch to showing reopening dates and advance booking for the season ahead.",
       ],
     },
     {
       id: "yatra-organisers-palitana",
-      heading: "App development company in Palitana for yatra organisers and sangh groups",
+      heading: "App development team in Palitana for yatra organisers and sangh groups",
       paragraphs: [
         "Group pilgrimages, whether a sangh travelling together, a chhari-palit yatra or a family group of forty, need a lot of coordination: registrations, room allotment, meal counts, transport, medical details for elderly members and constant updates. Organisers often manage all of it on WhatsApp groups and spreadsheets that break under the load.",
-        "As an <strong>app development company in Palitana</strong>, we build Android and iOS apps from a single Flutter or React Native codebase that let participants register, pay their share by UPI or card, upload ID details, and receive push notifications about departure times and schedule changes. The organiser uses an admin panel to see headcounts, dietary notes and payment status in one place. We publish on Google Play and the App Store under the organiser's own accounts.",
+        "As an <strong>app development team in Palitana</strong>, we build Android and iOS apps from a single Flutter or React Native codebase that let participants register, pay their share by UPI or card, upload ID details, and receive push notifications about departure times and schedule changes. The organiser uses an admin panel to see headcounts, dietary notes and payment status in one place. We publish on Google Play and the App Store under the organiser's own accounts.",
         "<strong>Android app development in Palitana</strong> for this kind of group work starts at ₹40,000. If your yatra runs once a year for a small group, a registration website with a payment link and a WhatsApp broadcast list may be all you need, and we will say so honestly. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
       ],
     },
@@ -119,10 +119,10 @@ const palitana: CityContent = {
     },
     {
       id: "trust-software-palitana",
-      heading: "Software company in Palitana for trusts, donations and room allotment",
+      heading: "Software team in Palitana for trusts, donations and room allotment",
       paragraphs: [
         "Religious trusts in Palitana handle rooms, kitchens, donations, staff and events, often with several registers kept by different people. Reconciling them at the end of a busy season takes days, and donors increasingly expect digital receipts.",
-        "As a <strong>software company in Palitana</strong>, we build browser-based systems that bring these records together. A typical system covers room allotment and check-out, meal counts per day, donations with receipt numbers, and staff rosters, with a summary dashboard for trustees. Receipts can go to donors on WhatsApp or email automatically. Data sits in cloud storage registered to the trust.",
+        "As a <strong>software team in Palitana</strong>, we build browser-based systems that bring these records together. A typical system covers room allotment and check-out, meal counts per day, donations with receipt numbers, and staff rosters, with a summary dashboard for trustees. Receipts can go to donors on WhatsApp or email automatically. Data sits in cloud storage registered to the trust.",
         "Custom software is ₹60,000 onwards and usually takes six to twelve weeks, delivered in parts so the most used module comes first. Where the trust's needs are simple, a well-set-up spreadsheet may be enough, and we will suggest that instead of a larger build.",
       ],
     },
@@ -155,11 +155,11 @@ const palitana: CityContent = {
     },
     {
       id: "remote-it-company-palitana",
-      heading: "IT company in Palitana with no local office: how we work",
+      heading: "IT services team in Palitana with no local office: how we work",
       paragraphs: [
         "We do not keep an office in Palitana or anywhere in Saurashtra. What keeps the arrangement safe is that everything is written down: the scope, the delivery dates and the costed list reach you before work begins. Each stage is shared on a preview link you can open on a phone, and we continue only after you say yes.",
         "We reply on WhatsApp every day of the week, Indian time, and set up calls or screen shares whenever something needs a proper explanation. Trustees and owners can send photographs, voice notes in Gujarati or Hindi, and documents. For new photographs of rooms or products, we send tips on shooting with a phone, or suggest a local photographer.",
-        "Hiring an <strong>IT company in Palitana</strong> that works remotely changes only where conversations happen. The finished work belongs to you from the beginning.",
+        "Hiring an <strong>IT services team in Palitana</strong> that works remotely changes only where conversations happen. The finished work belongs to you from the beginning.",
       ],
     },
     {
@@ -216,7 +216,7 @@ const palitana: CityContent = {
         "A straightforward site usually takes seven to fourteen days after your photographs and text reach us. An SEO site needs three to five weeks, a store four to eight and custom software six to twelve. Trusts that finalise room lists and rules early get their sites fastest.",
     },
     {
-      question: "How do I choose a website development company in Palitana?",
+      question: "How do I choose a website development team in Palitana?",
       answer:
         "Prefer a provider who shows starting prices openly, registers domain and code in your name, can show sites still live after a year, and keeps answering after launch. Put the same questions to each and compare written replies. We meet those tests and reply on WhatsApp daily, but comparing a few quotes is wise.",
     },

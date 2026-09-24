@@ -10,12 +10,12 @@ const madhubani: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Madhubani painting artists, makhana traders, fish farms, clinics, coaching and shops.",
     keywords: [
       "IT services in Madhubani",
-      "IT company in Madhubani",
-      "website development company in Madhubani",
+      "IT services team in Madhubani",
+      "website development team in Madhubani",
       "web design in Madhubani",
-      "app development company in Madhubani",
+      "app development team in Madhubani",
       "Android app development in Madhubani",
-      "software company in Madhubani",
+      "software team in Madhubani",
       "SEO services in Madhubani",
       "digital marketing in Madhubani",
       "ecommerce website in Madhubani",
@@ -84,19 +84,19 @@ const madhubani: CityContent = {
     },
     {
       id: "makhana-traders",
-      heading: "Website development company in Madhubani for makhana processors",
+      heading: "Website development team in Madhubani for makhana processors",
       paragraphs: [
         "Mithila makhana received its GI tag in 2022, and Madhubani is one of the districts where farmers depend on its cultivation. Processors pop, grade and pack the seeds, and traders sell to wholesalers and brands elsewhere. Buyers increasingly search online for suppliers, grades and packing options before they pick up the phone.",
-        "As a <strong>website development company in Madhubani</strong> for this trade, we build supplier sites showing grades, sizes, packing options, minimum order quantities, dispatch capacity you can actually deliver, and certificates you actually hold. An enquiry form collects the buyer's city, quantity and grade, and sends it to your WhatsApp.",
+        "As a <strong>website development team in Madhubani</strong> for this trade, we build supplier sites showing grades, sizes, packing options, minimum order quantities, dispatch capacity you can actually deliver, and certificates you actually hold. An enquiry form collects the buyer's city, quantity and grade, and sends it to your WhatsApp.",
         "For brands selling roasted or flavoured makhana directly to consumers, an online store with small packs and repeat-order options makes more sense. A supplier site starts at ₹10,000, and a consumer store starts at ₹50,000. We never invent client names or export claims for these pages.",
       ],
     },
     {
       id: "makhana-fish-software",
-      heading: "Software company in Madhubani for makhana, fish and farm-produce trade",
+      heading: "Software team in Madhubani for makhana, fish and farm-produce trade",
       paragraphs: [
         "Madhubani district was Bihar's largest fish-producing district in 2022, and its ponds and wetlands also support makhana. Fish traders, pond owners, hatcheries and makhana processors handle daily purchases from farmers, grading, cold storage or drying, and sales on credit.",
-        "As a <strong>software company in Madhubani</strong>, we build simple web tools for this: each purchase recorded once from a phone with farmer, quantity, grade and rate; stock by grade; sales to each buyer; and money owed in both directions. Reports show daily and monthly totals, and the data can connect to Tally where needed.",
+        "As a <strong>software team in Madhubani</strong>, we build simple web tools for this: each purchase recorded once from a phone with farmer, quantity, grade and rate; stock by grade; sales to each buyer; and money owed in both directions. Reports show daily and monthly totals, and the data can connect to Tally where needed.",
         "Such tools begin at ₹60,000 and grow over six to twelve weeks. The first module is always the purchase entry screen, since arguments with farmers over weight and grade usually start there. Stock and buyer ledgers come next, once your staff are comfortable entering purchases every morning.",
       ],
     },
@@ -120,10 +120,10 @@ const madhubani: CityContent = {
     },
     {
       id: "coaching-education",
-      heading: "App development company in Madhubani for coaching centres and colleges",
+      heading: "App development team in Madhubani for coaching centres and colleges",
       paragraphs: [
         "Madhubani has a large student population preparing for board exams, BPSC, railway, SSC, banking, police, NEET and JEE. Coaching centres, libraries and hostels crowd the town, and institutions such as Madhubani Medical College and Ram Krishna College draw students from across the district.",
-        "As an <strong>app development company in Madhubani</strong> for education, we build admission enquiry forms, batch timetables, fee receipts, attendance, online test series with results and notices that reach students and parents on WhatsApp or through an app. A coaching website can show faculty, batches, results you can back up, and fees.",
+        "As an <strong>app development team in Madhubani</strong> for education, we build admission enquiry forms, batch timetables, fee receipts, attendance, online test series with results and notices that reach students and parents on WhatsApp or through an app. A coaching website can show faculty, batches, results you can back up, and fees.",
         "A coaching website starts at ₹10,000. A test and notice app starts at ₹40,000, and fee and attendance software starts at ₹60,000. We never publish selection numbers or toppers you cannot prove, since that damages trust faster than it builds it.",
         "Libraries and hostels near the colleges have their own needs. A reading library can show seat availability, monthly fees and timings, and let students reserve a seat by paying through UPI. A hostel can list rooms, mess charges and rules for parents who are deciding from another district. Both are small websites, usually ready within two weeks, and both answer questions that currently take up the owner's whole evening on the phone.",
       ],
@@ -166,9 +166,9 @@ const madhubani: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "IT company in Madhubani without an office: how we work",
+      heading: "IT services team in Madhubani without an office: how we work",
       paragraphs: [
-        "We are not a local <strong>IT company in Madhubani</strong> with a shop near Station Chowk. We are three engineers working remotely, and we state that plainly. Not paying for an office in every town is one reason our starting prices stay low.",
+        "We are not a local <strong>IT services team in Madhubani</strong> with a shop near Station Chowk. We are three engineers working remotely, and we state that plainly. Not paying for an office in every town is one reason our starting prices stay low.",
         "It starts with a WhatsApp note describing what you sell and who buys it. A handful of follow-up questions, and perhaps a ten-minute call, give us enough to write the quote. Once you agree, a private preview link lets you watch pages appear and mark changes. Painters get a short guide to shooting their work near a window in daylight, so reds and yellows on screen match the paper.",
         "Messages get answered every day, Sunday included, on Indian time. Write to us from the <a href=\"/contact/\">contact page</a>, or see how we build on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -219,7 +219,7 @@ const madhubani: CityContent = {
         "Once photos and business details reach us, a simple site is ready inside two weeks. Large SEO builds need three to five weeks, online shops four to eight, and bespoke software six to twelve. With painters, the slowest part is usually photographing every artwork properly, not the coding.",
     },
     {
-      question: "Which is the best website development company in Madhubani?",
+      question: "Which is the best website development team in Madhubani?",
       answer:
         "Judge any website development company in Madhubani by three things: working sites you can open, a written quote broken into items, and a domain registered to you rather than to them. Also ask what renewal costs, who writes Hindi text, and whether code is handed over. Our starting prices are public and every login is yours.",
     },

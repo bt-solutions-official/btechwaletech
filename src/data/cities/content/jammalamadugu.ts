@@ -10,12 +10,12 @@ const jammalamadugu: CityContent = {
       "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Jammalamadugu cement suppliers, Gandikota tourism, traders and clinics.",
     keywords: [
       "IT services in Jammalamadugu",
-      "IT company in Jammalamadugu",
-      "website development company in Jammalamadugu",
+      "IT services team in Jammalamadugu",
+      "website development team in Jammalamadugu",
       "web design in Jammalamadugu",
-      "app development company in Jammalamadugu",
+      "app development team in Jammalamadugu",
       "Android app development in Jammalamadugu",
-      "software company in Jammalamadugu",
+      "software team in Jammalamadugu",
       "SEO services in Jammalamadugu",
       "digital marketing in Jammalamadugu",
       "ecommerce website in Jammalamadugu",
@@ -74,11 +74,11 @@ const jammalamadugu: CityContent = {
     },
     {
       id: "cement-belt-software",
-      heading: "Software company in Jammalamadugu for cement and power-plant contractors",
+      heading: "Software team in Jammalamadugu for cement and power-plant contractors",
       paragraphs: [
         "Kamalapuram, Yerraguntla and Jammalamadugu are often described as Kadapa's cement triangle. Limestone quarries, clinker and bagged cement, fly ash from the Rayalaseema Thermal Power Project at Kalamalla, and a steady stream of tippers and bulkers keep hundreds of small businesses running: transporters, loading contractors, spare-part shops, tyre dealers, welding and fabrication workshops, and labour suppliers.",
         "Most of them run on notebooks and memory. Which truck went to which plant, how many tonnes, what advance the driver took, when the permit or fitness certificate expires, which bill the plant has not yet cleared. When a dispute comes up, nobody can find the slip.",
-        "As a <strong>software company in Jammalamadugu</strong> in the practical sense, we build web tools that fix exactly this. A supervisor enters each trip once on a phone, with vehicle, challan number, weight and rate. The owner sees totals per vehicle, per driver and per plant, plus money still due, and gets reminders before insurance or permits lapse. For workshops, we add job cards and parts used per vehicle.",
+        "As a <strong>software team in Jammalamadugu</strong> in the practical sense, we build web tools that fix exactly this. A supervisor enters each trip once on a phone, with vehicle, challan number, weight and rate. The owner sees totals per vehicle, per driver and per plant, plus money still due, and gets reminders before insurance or permits lapse. For workshops, we add job cards and parts used per vehicle.",
         "Custom software starts at ₹60,000 and is delivered in parts over six to twelve weeks. We usually ship the trip register first, because it starts saving money within the first month, then add the driver app and the reports once the data is flowing.",
       ],
     },
@@ -102,16 +102,16 @@ const jammalamadugu: CityContent = {
     },
     {
       id: "hospitals-schools-jammalamadugu",
-      heading: "Website development company in Jammalamadugu for hospitals, clinics and schools",
+      heading: "Website development team in Jammalamadugu for hospitals, clinics and schools",
       paragraphs: [
         "Patients come into Jammalamadugu from across the division, and CSI Campbell Hospital has served the town since colonial times, alongside newer private clinics, diagnostic labs and pharmacies. For a family travelling from a village, a wasted trip costs a day's wages. They want to know which doctor sits on which day, whether a scan needs an appointment and what time the OPD closes.",
-        "As a <strong>website development company in Jammalamadugu</strong>, we build doctor and department pages with timings, a simple appointment request form, directions from the bus stand and railway station, and a WhatsApp link that shares the clinic location. Nothing medical is written without the doctor approving it.",
+        "As a <strong>website development team in Jammalamadugu</strong>, we build doctor and department pages with timings, a simple appointment request form, directions from the bus stand and railway station, and a WhatsApp link that shares the clinic location. Nothing medical is written without the doctor approving it.",
         "Schools, junior colleges and coaching centres need something similar: courses, fees, results, transport routes, admission forms and a notice section that parents actually check. Where volume is high, a parent app with push notifications replaces the tangle of WhatsApp groups. Simple sites start at ₹10,000; the app route starts at ₹40,000.",
       ],
     },
     {
       id: "android-ios-apps-jammalamadugu",
-      heading: "App development company in Jammalamadugu: Android & iOS apps that earn their keep",
+      heading: "App development team in Jammalamadugu: Android & iOS apps that earn their keep",
       paragraphs: [
         "Most phones in Jammalamadugu run Android, but teachers, doctors and families with relatives abroad increasingly carry iPhones. That is why we build in Flutter or React Native: one codebase, two apps, published on Google Play and the Apple App Store under your developer accounts.",
         "Who actually benefits from <strong>Android app development in Jammalamadugu</strong>? A transporter whose drivers log trips and upload challan photos from the road. A school that pushes homework, fee reminders and bus timing changes. A pharmacy or grocery with regular customers who re-order the same items each month. A Gandikota guesthouse or tour operator taking repeat bookings from travel groups.",
@@ -156,9 +156,9 @@ const jammalamadugu: CityContent = {
     },
     {
       id: "remote-team-jammalamadugu",
-      heading: "Working with a remote IT company in Jammalamadugu's region",
+      heading: "Working with a remote IT services team in Jammalamadugu's region",
       paragraphs: [
-        "Clients sometimes ask whether they can trust an <strong>IT company in Jammalamadugu</strong>'s market that has no desk in town. Our answer is paperwork and visibility. After a first call, you receive a written outline of pages or screens, timelines and a cost for every item, and work begins only when you sign off. Nothing is billed before that approval.",
+        "Clients sometimes ask whether they can trust an <strong>IT services team in Jammalamadugu</strong>'s market that has no desk in town. Our answer is paperwork and visibility. After a first call, you receive a written outline of pages or screens, timelines and a cost for every item, and work begins only when you sign off. Nothing is billed before that approval.",
         "During the build you get preview links that open on any phone, so your brother in Hyderabad or your partner at the shop can check them too. Telugu text is sent for your reading before it goes live, because a wrong word on a school or temple-related page gets noticed quickly.",
         "We answer WhatsApp every day of the week on Indian time. When a date slips, you hear about it that day, with the reason and the new date. Payments are tied to stages you can see working. If you want to meet in person, we will be frank that it is not how we operate; a <a href=\"/contact/\">message or call</a> is.",
       ],
@@ -223,7 +223,7 @@ const jammalamadugu: CityContent = {
         "A simple static site is usually ready one to two weeks after we receive your photos, prices and details. A 700+ page SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends content early.",
     },
     {
-      question: "Which is the best website development company in Jammalamadugu?",
+      question: "Which is the best website development team in Jammalamadugu?",
       answer:
         "Judge any provider by whether they publish prices, put the domain and code in your name, show real past work and keep answering after launch. Ask each one the same questions and compare. We meet those tests and answer on WhatsApp all week, but talking to two or three options first is sensible.",
     },

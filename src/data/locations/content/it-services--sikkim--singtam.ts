@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Singtam, Sikkim",
     description:
-      "Need an IT company in Singtam? Hire a freelance group for wholesale order apps, produce trade tools, lead forms, mobile websites and WhatsApp automation.",
+      "Need an IT services team in Singtam? Hire a freelance group for wholesale order apps, produce trade tools, lead forms, mobile websites and WhatsApp automation.",
     keywords: [
       "Android app development Singtam",
       "iOS app development Singtam",
       "mobile app developers Singtam",
       "iPhone app developers Singtam",
-      "software development company in Singtam",
-      "IT company in Singtam",
+      "software development team in Singtam",
+      "IT services team in Singtam",
       "IT solutions Singtam",
       "freelance developer Singtam Sikkim",
       "wholesale order app Sikkim",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Singtam · Gangtok and Pakyong districts · Freelance IT",
     h1: "Freelance software developers in Singtam for traders, distributors and local service businesses",
     lede:
-      "Businesses searching for a software development company in Singtam usually need something practical: order apps for wholesalers, stock and credit tracking, mobile websites with lead forms, and WhatsApp automation. BtechWaleTech is a freelance group of three engineers working remotely from India who build exactly that, keep it updated and hand you every login.",
+      "Businesses searching for a software development team in Singtam usually need something practical: order apps for wholesalers, stock and credit tracking, mobile websites with lead forms, and WhatsApp automation. BtechWaleTech is a freelance group of three engineers working remotely from India who build exactly that, keep it updated and hand you every login.",
     pills: ["Wholesale order apps", "Stock and credit tracking", "Mobile websites from ₹10,000", "Lead forms to WhatsApp", "Regular updates included"],
   },
   quickAnswer:
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "singtam-it-options",
-      heading: "Software development company or freelance group: what does a Singtam trader actually need?",
+      heading: "Software development team or freelance group: what does a Singtam trader actually need?",
       paragraphs: [
-        "A Singtam trader usually needs a small set of reliable tools, such as an order system, stock and credit tracking, a mobile website and WhatsApp automation, rather than the large packages a software development company might offer; a freelance group can build those pieces one at a time and keep them updated at a lower cost.",
+        "A Singtam trader usually needs a small set of reliable tools, such as an order system, stock and credit tracking, a mobile website and WhatsApp automation, rather than the large packages a software development team might offer; a freelance group can build those pieces one at a time and keep them updated at a lower cost.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no shop or office in Singtam, and we are open about that. We build web applications, mobile apps and PWAs, AI and WhatsApp automation, dashboards, websites and SEO, ecommerce stores and cloud hosting, and we provide updates and support remotely.",
         "If you need computers repaired, a billing machine installed or CCTV set up, a local technician is the right person. If you need software that saves hours each week, we can help. Read our <a href='/about/'>about page</a> or the <a href='/it-services/sikkim/'>Sikkim IT services hub</a> for more.",
       ],
@@ -276,7 +276,7 @@ const content: CityContent = {
     { question: "How long before we appear on Google Maps?", answer: "A complete and verified Google Business Profile can start showing in local results within a few weeks. Website SEO usually takes three to six months to build steady traffic. We do not guarantee positions, but we report changes and results monthly." },
     { question: "Can you build an Android and iOS app for our retailers and salesmen?", answer: "Yes. Ordering apps for Android and iOS start from ₹40,000 and take six to ten weeks. Retailers reorder and see balances, salesmen take orders offline, and you manage everything from an admin panel. The app runs well on budget Android phones and is published on Google Play and the App Store under your own name." },
     { question: "Do you fix computers or billing machines?", answer: "No. We are remote software engineers and do not repair hardware or install equipment. A local technician handles that. We cover websites, software, apps, automation, hosting and online support." },
-    { question: "Which is the best IT company in Singtam?", answer: "That depends on your need. For hardware, choose a reliable local technician. For software, compare providers on past work, code and data ownership, itemised prices and after-launch support. We are a remote freelance group, so hold us to the same standard." },
+    { question: "Which is the best IT services team in Singtam?", answer: "That depends on your need. For hardware, choose a reliable local technician. For software, compare providers on past work, code and data ownership, itemised prices and after-launch support. We are a remote freelance group, so hold us to the same standard." },
     { question: "Is a WhatsApp catalogue enough, or do we need a website?", answer: "A WhatsApp Business catalogue is a good start for existing customers, but it does not help new customers find you on Google. A small website from ₹10,000, linked to your Google Business Profile and catalogue, lets people searching for your products discover you, check timings and send a lead form at any hour." },
     { question: "Can you build software for a produce trading season only?", answer: "Yes. Purchase and lot tracking for ginger, cardamom or oranges can be built before the season and paused afterwards, with data kept safely for the next year. Hosting and maintenance can be scaled down in the off-season to keep running costs low." },
     { question: "How do we get started?", answer: "Message us on WhatsApp or use the <a href='/contact/'>contact page</a> with a few lines about your business and what slows you down. We usually arrange a short call, then send an itemised quote in about two working days. Work begins after approval and the first milestone payment." },

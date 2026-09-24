@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Dhanbad: Coal & AI",
     description:
-      "Need a software development company in Dhanbad? Hire our freelance group for coal dispatch, weighbridge and equipment software, AI automation and apps.",
+      "Need a software development team in Dhanbad? Hire our freelance group for coal dispatch, weighbridge and equipment software, AI automation and apps.",
     keywords: [
-      "software development company in Dhanbad",
-      "IT company in Dhanbad",
+      "software development team in Dhanbad",
+      "IT services team in Dhanbad",
       "IT solutions Dhanbad",
       "Android app development Dhanbad",
       "iOS app development Dhanbad",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Dhanbad · Jharkhand",
     h1: "Freelance software developers in Dhanbad for coal logistics, equipment fleets and local businesses",
     lede:
-      "Before hiring a software development company in Dhanbad, look at a freelance option: BtechWaleTech is three engineers working remotely from India. We build coal dispatch and weighbridge systems, equipment hire and fleet software, pharmacy and hostel management tools, construction trackers, AI automation, dashboards, apps and websites for businesses from Bank More and Hirapur to Jharia, Katras, Sindri and Govindpur, with published starting prices.",
+      "Before hiring a software development team in Dhanbad, look at a freelance option: BtechWaleTech is three engineers working remotely from India. We build coal dispatch and weighbridge systems, equipment hire and fleet software, pharmacy and hostel management tools, construction trackers, AI automation, dashboards, apps and websites for businesses from Bank More and Hirapur to Jharia, Katras, Sindri and Govindpur, with published starting prices.",
     pills: ["Dispatch software from ₹60,000", "AI automation from ₹40,000", "Weighbridge integration", "Hindi-first screens", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "If you need a software development company in Dhanbad, BtechWaleTech offers a freelance alternative: three remote engineers building dispatch, fleet and inventory software from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000. Quotes are itemised in about two working days, with five months of free maintenance.",
+    "If you need a software development team in Dhanbad, BtechWaleTech offers a freelance alternative: three remote engineers building dispatch, fleet and inventory software from ₹60,000 (6–12 weeks), AI automation or Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000. Quotes are itemised in about two working days, with five months of free maintenance.",
   snapshot: [
     { label: "Known as", value: "The Coal Capital of India, at the centre of the Jharia coalfield" },
     { label: "Coal companies", value: "Bharat Coking Coal Limited (BCCL) headquartered at Koyla Nagar, with ECL operations nearby toward Nirsa and Mugma" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-dhanbad-overview",
-      heading: "What does a software development company in Dhanbad build for coal-belt businesses?",
+      heading: "What does a software development team in Dhanbad build for coal-belt businesses?",
       paragraphs: [
-        "A software development company in Dhanbad, or a freelance team serving the district, builds systems that track coal and material movement, weighbridge readings, equipment hours, stock, bookings and money for businesses that still run largely on registers and phone calls. It also builds AI automation, dashboards, apps, online stores and websites, but the biggest gains usually come from operational software.",
+        "A software development team in Dhanbad, or a freelance team serving the district, builds systems that track coal and material movement, weighbridge readings, equipment hours, stock, bookings and money for businesses that still run largely on registers and phone calls. It also builds AI automation, dashboards, apps, online stores and websites, but the biggest gains usually come from operational software.",
         "Dhanbad's economy revolves around the Jharia coalfield. BCCL is headquartered at Koyla Nagar, and around it operate coal traders and buyers lifting coal against delivery orders, transporters, siding operators, equipment hire firms, washery and coke-oven units, fabrication shops and suppliers. The city is also an education centre anchored by IIT (ISM), with coaching institutes and student hostels, and a healthcare hub for the surrounding districts.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Dhanbad, and we say so plainly. We work through WhatsApp, calls and test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every account and repository, and include five months of maintenance after launch. The <a href='/dhanbad/'>Dhanbad city page</a> covers websites and local SEO; this page focuses on software and automation.",
       ],
@@ -225,7 +225,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-dhanbad",
-      heading: "Freelance developers vs a software development company in Dhanbad: which should you choose?",
+      heading: "Freelance developers vs a software development team in Dhanbad: which should you choose?",
       paragraphs: [
         "Choose freelance developers when you need a specific system built quickly by engineers you talk to directly at lower overhead; choose a larger software development company in Dhanbad or elsewhere when you need on-site staff, large teams or long enterprise rollouts. Many Dhanbad businesses benefit most from one well-built system that fixes their biggest leak.",
         "A larger vendor brings more people and formal project management, and may offer local visits. A freelance group like BtechWaleTech brings the same three engineers from scoping to support, published starting prices and quick replies, with limited capacity and no presence in Dhanbad. Whatever you choose, ask for an itemised quote, ownership of code and data, a working test link before final payment, and written support terms.",
@@ -318,9 +318,9 @@ const content: CityContent = {
         "Yes. We build systems for room and bed allocation, rent and deposit tracking with UPI reminders, mess billing, visitor logs and complaints. Pricing starts from ₹40,000 for automation-based setups and ₹60,000 for full custom apps covering several properties. Rent goes directly into the owner's account.",
     },
     {
-      question: "Which is the best IT company in Dhanbad?",
+      question: "Which is the best IT services team in Dhanbad?",
       answer:
-        "There is no single best; it depends on whether you need a website, dispatch software or an ERP. Compare live work, itemised quotes, ownership terms and support after launch. We are a freelance group, not a company, and we make no claims of rankings or awards. Talking to two or three providers is wise.",
+        "There is no single best; it depends on whether you need a website, dispatch software or an ERP. Compare live work, itemised quotes, ownership terms and support after launch. We are a small freelance group of three developers, and we make no claims of rankings or awards. Talking to two or three providers is wise.",
     },
     {
       question: "Is there an IT park in Dhanbad?",

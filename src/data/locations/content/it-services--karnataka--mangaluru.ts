@@ -7,13 +7,13 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Mangaluru",
     description:
-      "Freelance software developers for Mangaluru hospitals, exporters and colleges, an alternative to a software development company. Custom software from ₹60,000.",
+      "Freelance software developers for Mangaluru hospitals, exporters and colleges, an alternative to a software development team. Custom software from ₹60,000.",
     keywords: [
       "Android app development Mangaluru",
       "iOS app development Mangalore",
       "iPhone app developers Mangaluru",
-      "software development company in Mangaluru",
-      "IT company in Mangaluru",
+      "software development team in Mangaluru",
+      "IT services team in Mangaluru",
       "IT solutions Mangaluru",
       "freelance software developers Mangalore",
       "custom software development Mangalore",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Mangaluru, Dakshina Kannada",
     h1: "Freelance software developers in Mangaluru for hospitals, exporters and colleges",
     lede:
-      "Shortlisting a software development company in Mangaluru? Consider a freelance group instead. BtechWaleTech is three engineers working remotely from India who build patient and appointment systems, export and logistics tools, college software, AI and WhatsApp automation, dashboards, apps and SEO websites for Mangaluru businesses, with the code, domain and cloud accounts always in the client's name.",
+      "Shortlisting a software development team in Mangaluru? Consider a freelance group instead. BtechWaleTech is three engineers working remotely from India who build patient and appointment systems, export and logistics tools, college software, AI and WhatsApp automation, dashboards, apps and SEO websites for Mangaluru businesses, with the code, domain and cloud accounts always in the client's name.",
     pills: ["Hospital and clinic software", "Export and port tools", "AI agents from ₹40,000", "Tulu, Konkani, Kannada aware", "Code handed over"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Mangaluru remotely, instead of a software development company in Mangaluru with an office. Custom software starts at ₹60,000 (6 to 12 weeks), AI automation at ₹40,000 (2 to 4 weeks), online stores at ₹50,000 and websites at ₹10,000. Itemised quotes arrive in about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Mangaluru remotely, instead of a software development team in Mangaluru with an office. Custom software starts at ₹60,000 (6 to 12 weeks), AI automation at ₹40,000 (2 to 4 weeks), online stores at ₹50,000 and websites at ₹10,000. Itemised quotes arrive in about two working days.",
   snapshot: [
     { label: "Port and industry", value: "New Mangalore Port at Panambur, MRPL refinery, and the Baikampady and Yeyyadi industrial areas" },
     { label: "Special economic zone", value: "Mangaluru SEZ near Bajpe, home to petrochemical and processing units" },
@@ -70,9 +70,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-mangaluru",
-      heading: "Should you hire a software development company in Mangaluru or freelance developers?",
+      heading: "Should you hire a software development team in Mangaluru or freelance developers?",
       paragraphs: [
-        "Hire a software development company in Mangaluru if you need a large team on a long contract with formal account management; hire freelance developers if you need a focused system, such as a clinic scheduler or an export order tracker, built and supported by the same engineers you talk to. For most coastal SMEs, the second option costs less and moves faster.",
+        "Hire a software development team in Mangaluru if you need a large team on a long contract with formal account management; hire freelance developers if you need a focused system, such as a clinic scheduler or an export order tracker, built and supported by the same engineers you talk to. For most coastal SMEs, the second option costs less and moves faster.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no Mangaluru office and no sales staff, which keeps overheads out of your quote. The limit is capacity: we cannot staff a fifty-person project, and we will say so before taking your advance.",
       ],
       list: [
@@ -197,17 +197,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-mangaluru",
-      heading: "What does a software development company in Mangaluru cost compared with freelancers?",
+      heading: "What does a software development team in Mangaluru cost compared with freelancers?",
       paragraphs: [
-        "A software development company in Mangaluru usually prices in office rent, sales staff and management layers, so the same scope often costs more than with a freelance group. Our starting prices are public: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Mangaluru usually prices in office rent, sales staff and management layers, so the same scope often costs more than with a freelance group. Our starting prices are public: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "The final figure depends on user roles, screens, reports, integrations such as Tally or hospital billing systems, data migration and design. The full table is on our <a href='/pricing/'>pricing page</a>, and each quote is itemised so you can trim modules to budget. Payment is in INR by UPI QR or bank transfer, split into milestones.",
       ],
     },
     {
       id: "questions-before-hiring-mangaluru",
-      heading: "Questions to ask before hiring a software development company in Mangaluru",
+      heading: "Questions to ask before hiring a software development team in Mangaluru",
       paragraphs: [
-        "Before hiring a software development company in Mangaluru or any freelancer, ask questions that reveal who does the work, who owns it and how problems get fixed. Good answers are specific and written down; vague answers are a warning.",
+        "Before hiring a software development team in Mangaluru or any freelancer, ask questions that reveal who does the work, who owns it and how problems get fixed. Good answers are specific and written down; vague answers are a warning.",
       ],
       list: [
         "Who will write the code, and can I speak to them before signing?",
@@ -284,7 +284,7 @@ const content: CityContent = {
     { question: "Can you work with our existing hospital or billing software?", answer: "Usually yes, if it offers an API, database access or scheduled exports. We check what is possible first and tell you in writing what can be integrated automatically and what needs a manual step. We would rather extend a working system than replace it without reason." },
     { question: "Can you take over a project from another Mangaluru developer?", answer: "Often. We need access to the code, database and hosting to review it. We then tell you whether it can be stabilised and at what cost, or whether a smaller rebuild is cheaper. We do not quote without seeing the code." },
     { question: "Do you sign NDAs for export or healthcare projects?", answer: "Yes. We sign mutual NDAs before you share sensitive business, buyer or patient-related details. For healthcare projects we also agree on data handling rules in writing, such as where data is stored, who can access it and how long logs are kept." },
-    { question: "Which is the best IT company in Mangaluru for a small business?", answer: "No single IT company in Mangaluru is best for everyone. Larger firms suit big, long contracts with many staff; a freelance group like ours suits focused software, automation and websites where the owner wants to speak directly with the engineers. Compare written scopes, ownership terms, support periods and live work you can open yourself before choosing." },
+    { question: "Which is the best IT services team in Mangaluru for a small business?", answer: "No single IT services team in Mangaluru is best for everyone. Larger firms suit big, long contracts with many staff; a freelance group like ours suits focused software, automation and websites where the owner wants to speak directly with the engineers. Compare written scopes, ownership terms, support periods and live work you can open yourself before choosing." },
     { question: "Will you ever visit our office in Mangaluru?", answer: "Usually not, because we work remotely and keep costs low by not travelling for routine meetings. Video calls with screen sharing cover requirement discussions, reviews and staff training well. If a project genuinely needs an on-site visit, we discuss it openly beforehand, including any travel cost, rather than adding it quietly later." },
     { "question":"Will our monthly bills go to you or directly to the providers?","answer":"Directly to the providers. Hosting, cloud storage, WhatsApp Business API and AI usage are billed to accounts opened in your hospital's, college's or firm's name. We invoice only for our own work, payable by UPI QR or bank transfer. That keeps costs transparent and means you stay in control even if you stop working with us." },
     { "question":"Can you reduce the running cost of a system another developer built?","answer":"Often, yes. Typical savings come from moving a mostly static website off an oversized server, compressing stored images and PDFs, deleting forgotten cloud resources and trimming unnecessary promotional broadcasts. We review the setup first and give you a written list of changes with the expected effort before touching anything live." },

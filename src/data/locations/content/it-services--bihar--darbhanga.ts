@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Darbhanga: clinic and hospital software, makhana trade tools, AI automation, apps, dashboards and local SEO. From ₹10,000.",
     keywords: [
-      "software development company in Darbhanga",
-      "IT company in Darbhanga",
+      "software development team in Darbhanga",
+      "IT services team in Darbhanga",
       "IT solutions Darbhanga",
       "freelance software developer Darbhanga",
       "hospital management software Darbhanga",
@@ -81,9 +81,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-darbhanga",
-      heading: "Freelance developers or an IT company in Darbhanga: an honest comparison",
+      heading: "Freelance developers or an IT services team in Darbhanga: an honest comparison",
       paragraphs: [
-        "Freelance developers are usually the better fit for focused projects where the owner wants direct contact with the people writing code, while a software development company in Darbhanga or Patna is better for large, multi-team projects or formal government tenders. Neither is automatically cheaper or better; the project decides.",
+        "Freelance developers are usually the better fit for focused projects where the owner wants direct contact with the people writing code, while a software development team in Darbhanga or Patna is better for large, multi-team projects or formal government tenders. Neither is automatically cheaper or better; the project decides.",
         "BtechWaleTech is three engineers working remotely, without an office in Darbhanga. You get direct communication, published starting prices and fast decisions, but limited capacity: we take a few projects at a time. A larger company brings more staff and a local office but also sales layers and higher overhead. Whichever you choose, the checks are the same.",
       ],
       list: [

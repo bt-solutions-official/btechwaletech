@@ -9,7 +9,7 @@ const khair: CityContent = {
     description:
       "Websites, Google Maps setup and WhatsApp tools for Khair shops, cold stores, schools and dealers, plus Tappal and Jattari. Business sites start from ₹10,000.",
     keywords: [
-      "website development company in Khair",
+      "website development team in Khair",
       "web designer Khair Aligarh",
       "website banane wala Khair",
       "SEO services Khair",

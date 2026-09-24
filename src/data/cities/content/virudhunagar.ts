@@ -10,12 +10,12 @@ const virudhunagar: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Virudhunagar oil mills, chilli and pulse traders, SIDCO units, colleges and clinics.",
     keywords: [
       "IT services in Virudhunagar",
-      "IT company in Virudhunagar",
-      "website development company in Virudhunagar",
+      "IT services team in Virudhunagar",
+      "website development team in Virudhunagar",
       "web design in Virudhunagar",
-      "app development company in Virudhunagar",
+      "app development team in Virudhunagar",
       "Android app development in Virudhunagar",
-      "software company in Virudhunagar",
+      "software team in Virudhunagar",
       "SEO services in Virudhunagar",
       "digital marketing in Virudhunagar",
       "ecommerce website in Virudhunagar",
@@ -75,30 +75,30 @@ const virudhunagar: CityContent = {
     },
     {
       id: "edible-oil-mills",
-      heading: "Website development company in Virudhunagar for edible oil mills",
+      heading: "Website development team in Virudhunagar for edible oil mills",
       paragraphs: [
         "Edible oils are central to Virudhunagar's economy. Mills here crush groundnut, sesame and other oilseeds and pack oil under their own brands, some sold nationally and some exported to the Gulf and Sri Lanka. Smaller units focus on cold-pressed or wood-pressed oil for health-conscious buyers in cities.",
-        "Distributors, supermarket buyers and importers check a mill online before they commit. A <strong>website development company in Virudhunagar</strong> should give each mill a site that answers their questions directly: brands and pack sizes, oil types and processing methods, FSSAI and other licences you actually hold, quality testing, minimum order quantities, packing formats, dispatch lead times and a named sales contact.",
+        "Distributors, supermarket buyers and importers check a mill online before they commit. A <strong>website development team in Virudhunagar</strong> should give each mill a site that answers their questions directly: brands and pack sizes, oil types and processing methods, FSSAI and other licences you actually hold, quality testing, minimum order quantities, packing formats, dispatch lead times and a named sales contact.",
         "For export-focused mills, we add an English enquiry form that captures country, quantity and packing needs, plus a document section for certificates. For retail brands, product pages with clear labels and a store locator or online ordering can follow. We never put a distributor or retailer name on your site without their written consent.",
         "Once your text and photos reach us, a static mill site is typically finished inside a fortnight, priced from ₹10,000. A larger site with a product catalogue in Tamil and English, or a dealer portal with logins, is quoted separately with each part listed.",
       ],
     },
     {
       id: "chilli-pulse-traders",
-      heading: "Software company in Virudhunagar for chilli, pulse and oilseed traders",
+      heading: "Software team in Virudhunagar for chilli, pulse and oilseed traders",
       paragraphs: [
         "Virudhunagar is one of the main markets in south Tamil Nadu for dry chillies and pulses, and dal mills and traders cluster along roads such as Ramamoorthy Road and around Allampatti. Commission agents buy from growers and suppliers, grade and store stock, and sell to wholesalers and processors across the south, with rates moving every day.",
         "The accounts behind this are detailed. Each lot has a supplier, weight, grade, moisture and rate. Commissions, hamali and transport are deducted. Buyers pay on credit, and some stock sits in cold storage or godowns for months waiting for better prices. Many firms still reconcile all of this by hand at the end of each day.",
-        "As a <strong>software company in Virudhunagar</strong> in the practical sense, we build web tools for exactly that flow: lots entered once from a phone or desk, supplier and buyer ledgers updated automatically, stock by godown and grade, dispatches with lorry number and rate, and a daily summary of purchases, sales and dues. Figures can be exported to Tally so your accountant keeps working the way they do now.",
+        "As a <strong>software team in Virudhunagar</strong> in the practical sense, we build web tools for exactly that flow: lots entered once from a phone or desk, supplier and buyer ledgers updated automatically, stock by godown and grade, dispatches with lorry number and rate, and a daily summary of purchases, sales and dues. Figures can be exported to Tally so your accountant keeps working the way they do now.",
         "A trading system like this is priced from ₹60,000 and delivered in phases across roughly six to twelve weeks. The purchase-and-sales register usually comes first, since that is the book behind most disputes with suppliers.",
       ],
     },
     {
       id: "sidco-manufacturers",
-      heading: "IT company in Virudhunagar for SIDCO estate units and textile firms",
+      heading: "IT services team in Virudhunagar for SIDCO estate units and textile firms",
       paragraphs: [
         "The SIDCO industrial estate on the edge of town hosts food processing, packaging, engineering and other small manufacturing units. Cotton and textile work also continues in and around the district, and match and printing industries in nearby Sivakasi create demand for packaging, cartons and labels that Virudhunagar units supply.",
-        "Purchase managers and buyers outside Tamil Nadu will look up a supplier before they send an enquiry. An <strong>IT company in Virudhunagar</strong> can help these units present themselves accurately: products and specifications, machinery and capacity described in your own words, quality checks, certifications you hold, packing and dispatch options, and a responsive contact.",
+        "Purchase managers and buyers outside Tamil Nadu will look up a supplier before they send an enquiry. An <strong>IT services team in Virudhunagar</strong> can help these units present themselves accurately: products and specifications, machinery and capacity described in your own words, quality checks, certifications you hold, packing and dispatch options, and a responsive contact.",
         "We build clean capability sites with a request-for-quote form that accepts drawings or specification files, and for repeat buyers, a simple order status page so they stop calling for dispatch updates. We keep everything factual; if a certification is pending, the site says pending. A static site of this kind starts at ₹10,000.",
       ],
     },
@@ -134,7 +134,7 @@ const virudhunagar: CityContent = {
       heading: "Android app development in Virudhunagar, with iOS apps from one codebase",
       paragraphs: [
         "Apps pay off when the same users come back often. In Virudhunagar, sensible candidates are distributors placing repeat orders with an oil or dal mill, field sales staff recording dealer visits and orders, a trader's regular buyers checking stock and rates, patients booking tokens at a busy hospital, or parents receiving updates from a school.",
-        "Working as a remote <strong>app development company in Virudhunagar</strong>, we write one Flutter or React Native project that installs on both Android handsets and iPhones. Release one normally has OTP sign-in, notifications, the handful of screens users really open, Tamil alongside English, and a web dashboard for your staff. The listing goes live on Google Play and Apple's App Store under developer accounts that belong to your firm.",
+        "Working as a remote <strong>app development team in Virudhunagar</strong>, we write one Flutter or React Native project that installs on both Android handsets and iPhones. Release one normally has OTP sign-in, notifications, the handful of screens users really open, Tamil alongside English, and a web dashboard for your staff. The listing goes live on Google Play and Apple's App Store under developer accounts that belong to your firm.",
         "<strong>Android app development in Virudhunagar</strong> with us starts at ₹40,000. Online payments, offline order entry for field staff, maps and connections to Tally add to the price, and each is listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Where buyers just want to find your godown, call you and see what you sell, a website does the job for far less, and that is what we will advise. Paying for an app people install once and forget helps nobody.",
       ],
@@ -235,7 +235,7 @@ const virudhunagar: CityContent = {
         "Once content is in hand, a simple site is normally online inside a fortnight. Budget three to five weeks for a large SEO site of 700+ pages, one to two months for a shop and around six to twelve weeks for custom software. The single biggest delay is waiting for text and pictures, so gather those first.",
     },
     {
-      question: "Who is the best website development company in Virudhunagar?",
+      question: "Who is the best website development team in Virudhunagar?",
       answer:
         "There is no official ranking, so judge on evidence: open price lists, your name on the domain and code, a person who still answers months after launch, and live sites you can check. Send the same brief to two or three developers and compare what they put in writing. We are happy to be one of those you test.",
     },

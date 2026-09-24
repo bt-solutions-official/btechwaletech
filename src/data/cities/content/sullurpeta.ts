@@ -10,12 +10,12 @@ const sullurpeta: CityContent = {
       "Telugu and Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Sullurpeta traders, Sri City suppliers, lodges, colleges and clinics.",
     keywords: [
       "IT services in Sullurpeta",
-      "IT company in Sullurpeta",
-      "website development company in Sullurpeta",
+      "IT services team in Sullurpeta",
+      "website development team in Sullurpeta",
       "web design in Sullurpeta",
-      "app development company in Sullurpeta",
+      "app development team in Sullurpeta",
       "Android app development in Sullurpeta",
-      "software company in Sullurpeta",
+      "software team in Sullurpeta",
       "SEO services in Sullurpeta",
       "digital marketing in Sullurpeta",
       "ecommerce website in Sullurpeta",
@@ -74,10 +74,10 @@ const sullurpeta: CityContent = {
     },
     {
       id: "sri-city-suppliers",
-      heading: "Website development company in Sullurpeta for Sri City and Tada belt suppliers",
+      heading: "Website development team in Sullurpeta for Sri City and Tada belt suppliers",
       paragraphs: [
         "Sri City has a multi-product special economic zone, a domestic tariff zone, a free trade and warehousing zone and an electronics manufacturing cluster. The factories there buy far more than raw material. They hire transporters, canteen operators, housekeeping and security agencies, fabrication shops, electrical and civil contractors, staffing firms, uniform suppliers and hostel owners. Many of those vendors live or keep their yards in Sullurpeta, Tada and Varadaiahpalem.",
-        "When a purchase or admin team shortlists vendors, someone usually searches the name first. A <strong>website development company in Sullurpeta</strong> worth hiring will give that search something solid to land on: what you do, the equipment and vehicles you run, the number of people you can deploy, safety and statutory registrations, service area, and a named person with a phone number. Multinational buyers often read in English on a desktop, so the site should look tidy there as well as on a phone.",
+        "When a purchase or admin team shortlists vendors, someone usually searches the name first. A <strong>website development team in Sullurpeta</strong> worth hiring will give that search something solid to land on: what you do, the equipment and vehicles you run, the number of people you can deploy, safety and statutory registrations, service area, and a named person with a phone number. Multinational buyers often read in English on a desktop, so the site should look tidy there as well as on a phone.",
         "We add a quotation request form that accepts drawings or scope documents, and for firms that bid regularly, a simple document library with GST, PF, ESI and insurance certificates that can be shared as one link. We never list a customer on your site unless that customer has agreed in writing. A capability site like this starts at ₹10,000; a larger version with service pages for each industrial zone and nearby town falls under our SEO website, from ₹20,000.",
       ],
     },
@@ -101,10 +101,10 @@ const sullurpeta: CityContent = {
     },
     {
       id: "contractors-transport-software",
-      heading: "Software company in Sullurpeta for contractors, transporters and workshops",
+      heading: "Software team in Sullurpeta for contractors, transporters and workshops",
       paragraphs: [
         "A lot of Sullurpeta's income comes from contracting. Labour contractors send teams to factories, transport owners run buses and vans for shift workers, and fabrication and electrical shops take jobs from plants across the industrial belt. The paperwork grows fast: daily attendance by site, overtime, advances, vehicle trips and diesel, invoices that clients pay thirty or sixty days later, and statutory records that auditors ask for.",
-        "As a <strong>software company in Sullurpeta</strong> in the working sense, we build small web applications for exactly this. A supervisor marks attendance from a phone; the system totals days and overtime by worker and by client; trips are logged with vehicle number and route; invoices are generated from the same records; and a dues screen shows which client owes what. Document expiry alerts cover vehicle fitness, permits and insurance.",
+        "As a <strong>software team in Sullurpeta</strong> in the working sense, we build small web applications for exactly this. A supervisor marks attendance from a phone; the system totals days and overtime by worker and by client; trips are logged with vehicle number and route; invoices are generated from the same records; and a dues screen shows which client owes what. Document expiry alerts cover vehicle fitness, permits and insurance.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We build it in stages, beginning with whichever register causes the most trouble today, so you start using the first part within weeks. Data stays in a cloud account registered to you, and it can be exported to Excel whenever your accountant asks.",
       ],
     },
@@ -113,7 +113,7 @@ const sullurpeta: CityContent = {
       heading: "Android app development in Sullurpeta, with iOS apps for the same users",
       paragraphs: [
         "An app pays for itself only when the same people open it again and again. In and around Sullurpeta, that describes a contractor's site supervisors marking attendance twice a day, drivers on shift-bus routes, parents of a school or coaching centre who need notices and fee reminders, a hospital's regular patients booking tokens, or a lodge's front desk handling bookings during a crowded launch week.",
-        "As an <strong>app development company in Sullurpeta</strong> working remotely, we write apps in Flutter or React Native, so one codebase covers Android phones and iPhones. A typical first version has mobile number login with OTP, push notifications, the few screens your users need most and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, so the listing belongs to you.",
+        "As an <strong>app development team in Sullurpeta</strong> working remotely, we write apps in Flutter or React Native, so one codebase covers Android phones and iPhones. A typical first version has mobile number login with OTP, push notifications, the few screens your users need most and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, so the listing belongs to you.",
         "<strong>Android app development in Sullurpeta</strong> with us starts at ₹40,000. The quote rises with online payments, offline use for sites with weak signal, GPS tracking, Telugu and Tamil interfaces and links to other software, and each of those is shown as a separate line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for how the work is staged.",
         "Sometimes an app is the wrong answer. If your customers only need your timings, prices, location and a phone number, a website and a Maps listing do the job at a quarter of the cost, and nobody has to download anything. We will say so before you spend money on an app nobody keeps.",
       ],
@@ -129,10 +129,10 @@ const sullurpeta: CityContent = {
     },
     {
       id: "schools-colleges-clinics",
-      heading: "IT company in Sullurpeta for engineering colleges, schools and hospitals",
+      heading: "IT services team in Sullurpeta for engineering colleges, schools and hospitals",
       paragraphs: [
         "Sullurpeta has its own engineering colleges, including Gokula Krishna College of Engineering and Priyadarshini College of Engineering, along with junior colleges, schools and coaching centres. Hospitals, nursing homes and diagnostic labs serve the town and the villages of the mandal. All of them handle a steady stream of repeated questions from students, parents and patients.",
-        "An <strong>IT company in Sullurpeta</strong> can help these institutions without large systems. For a college, that means course and fee pages, admission forms that save data to a sheet, placement and internship information connected to nearby industry, and a notice board that is actually updated. For a hospital, it means doctor schedules, specialities, emergency contact and a token or appointment request on WhatsApp.",
+        "An <strong>IT services team in Sullurpeta</strong> can help these institutions without large systems. For a college, that means course and fee pages, admission forms that save data to a sheet, placement and internship information connected to nearby industry, and a notice board that is actually updated. For a hospital, it means doctor schedules, specialities, emergency contact and a token or appointment request on WhatsApp.",
         "We write these pages carefully. Medical content avoids claims that cannot be supported, and college pages show only the approvals and affiliations you can document. When a school needs regular communication with parents, a small app with push notices and fee reminders often replaces dozens of daily calls, and it starts at ₹40,000.",
       ],
     },
@@ -222,7 +222,7 @@ const sullurpeta: CityContent = {
         "A static site usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest factor in speed is how quickly content and approvals come in.",
     },
     {
-      question: "Which is the best website development company in Sullurpeta?",
+      question: "Which is the best website development team in Sullurpeta?",
       answer:
         "Judge any provider on published prices, ownership of the domain and code in your name, real past work and support after launch. Ask each one the same questions and compare in writing. We meet those tests and answer WhatsApp seven days a week, but talking to two or three options first is sensible.",
     },

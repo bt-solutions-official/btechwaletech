@@ -9,12 +9,12 @@ const surat: CityContent = {
     description:
       "Websites, catalogues, SEO and WhatsApp automation for Surat textile, diamond and trading firms. Sites from ₹10,000, stores from ₹50,000, five months' upkeep free.",
     keywords: [
-      "website development company in Surat",
-      "web design company Surat",
+      "website development team in Surat",
+      "web design team Surat",
       "website designer Surat",
       "freelance web developer Surat",
       "website cost in Surat",
-      "SEO company in Surat",
+      "SEO team in Surat",
       "local SEO Surat",
       "ecommerce website development Surat",
       "saree catalogue website Surat",
@@ -253,7 +253,7 @@ const surat: CityContent = {
     {
       question: "How long does SEO take in Surat?",
       answer:
-        "Map results for local searches often improve within six to ten weeks once your profile and site are in order. Competitive terms like “website development company in Surat” usually take four to eight months of steady work. No one can honestly guarantee a first-page ranking, and we won't.",
+        "Map results for local searches often improve within six to ten weeks once your profile and site are in order. Competitive terms like “website development team in Surat” usually take four to eight months of steady work. No one can honestly guarantee a first-page ranking, and we won't.",
     },
     {
       question: "Do your online stores accept UPI and cash on delivery?",

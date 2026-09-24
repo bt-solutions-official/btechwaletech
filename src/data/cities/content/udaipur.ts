@@ -9,7 +9,7 @@ const udaipur: CityContent = {
     description:
       "Websites for Udaipur hotels, wedding planners, marble firms and handicraft shops. Prices from ₹10,000, local SEO, WhatsApp automation, 5 months free upkeep.",
     keywords: [
-      "website development company in Udaipur",
+      "website development team in Udaipur",
       "web design Udaipur",
       "website designer in Udaipur",
       "freelance web developer Udaipur",

@@ -9,7 +9,7 @@ const barnala: CityContent = {
     description:
       "Websites, SEO, UPI stores and WhatsApp bots for Barnala harvester makers, grain market arhtiyas, clinics and Sadar Bazar shops. From ₹10,000, 5 months upkeep free.",
     keywords: [
-      "website development company in Barnala",
+      "website development team in Barnala",
       "web designer Barnala",
       "website design Barnala Punjab",
       "freelance web developer Barnala",
@@ -272,7 +272,7 @@ const barnala: CityContent = {
     {
       question: "How soon will SEO bring results in Barnala?",
       answer:
-        "Map results for nearby searches often improve within six to ten weeks once the profile and website are in order. Wider terms such as “website development company in Barnala” or “combine harvester manufacturer Punjab” can take four to eight months of steady work. Nobody can honestly guarantee the first position.",
+        "Map results for nearby searches often improve within six to ten weeks once the profile and website are in order. Wider terms such as “website development team in Barnala” or “combine harvester manufacturer Punjab” can take four to eight months of steady work. Nobody can honestly guarantee the first position.",
     },
     {
       question: "Do you also work with businesses in Sangrur, Bathinda and Ludhiana?",

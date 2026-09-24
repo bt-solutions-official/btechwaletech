@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Arunachal Pradesh: tourism booking systems, software, Android and iOS apps, AI automation and SEO for Itanagar, Tawang, Pasighat and beyond.",
     keywords: [
       "IT services in Arunachal Pradesh",
-      "software development company in Arunachal Pradesh",
-      "IT company in Arunachal Pradesh",
+      "software development team in Arunachal Pradesh",
+      "IT services team in Arunachal Pradesh",
       "freelance developers Arunachal Pradesh",
       "website design Itanagar",
       "homestay booking website Arunachal",
@@ -185,9 +185,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-arunachal",
-      heading: "Freelance team vs an IT company in Arunachal Pradesh: which to hire?",
+      heading: "Freelance team vs an IT services team in Arunachal Pradesh: which to hire?",
       paragraphs: [
-        "An IT company from Guwahati, Kolkata or a metro offers larger teams and formal project management, which suits big government or institutional projects, while a freelance group like BtechWaleTech suits Arunachal homestays, tour operators, schools, clinics, contractors and cooperatives that want direct access to engineers and lower overhead. For most businesses in the state, the project is focused and the budget careful.",
+        "An IT services team from Guwahati, Kolkata or a metro offers larger teams and formal project management, which suits big government or institutional projects, while a freelance group like BtechWaleTech suits Arunachal homestays, tour operators, schools, clinics, contractors and cooperatives that want direct access to engineers and lower overhead. For most businesses in the state, the project is focused and the budget careful.",
         "The honest limit: three engineers cannot staff very large parallel projects or post someone on site. If your project needs that, we will say so.",
         "Either way, check who writes the code, get an itemised written quote, and keep domain, hosting and code in your name. See our <a href='/portfolio/'>portfolio</a>, read about us on the <a href='/about/'>about page</a>, or check <a href='/pricing/'>starting prices</a>.",
       ],

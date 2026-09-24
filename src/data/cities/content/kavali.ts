@@ -10,12 +10,12 @@ const kavali: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Kavali shrimp farmers, feed dealers, colleges, hospitals and NH16 businesses.",
     keywords: [
       "IT services in Kavali",
-      "IT company in Kavali",
-      "website development company in Kavali",
+      "IT services team in Kavali",
+      "website development team in Kavali",
       "web design in Kavali",
-      "app development company in Kavali",
+      "app development team in Kavali",
       "Android app development in Kavali",
-      "software company in Kavali",
+      "software team in Kavali",
       "SEO services in Kavali",
       "digital marketing in Kavali",
       "ecommerce website in Kavali",
@@ -74,20 +74,20 @@ const kavali: CityContent = {
     },
     {
       id: "aqua-farm-software",
-      heading: "Software company in Kavali for shrimp farmers and aqua culture records",
+      heading: "Software team in Kavali for shrimp farmers and aqua culture records",
       paragraphs: [
         "Kavali is one of the main shrimp farming areas of Nellore district, along with Kota, Gudur and the areas around Nellore itself. Local farmers follow a crop holiday between February and May, which has helped keep disease under control and production steady, and a government fish seed farm also operates in the town.",
         "Running a pond well depends on records: stocking date and count, daily feed by tray check, water parameters, medicines and probiotics used, sampling weights, and finally the harvest count, weight and buyer rate. Many farmers keep this in notebooks or scattered WhatsApp photos, which makes it hard to compare one crop with the next.",
-        "As a <strong>software company in Kavali</strong>, in practical terms, we build pond-wise culture registers that supervisors fill on a phone, with feed and medicine stock, cost per pond and a harvest summary the owner can see from anywhere. These start at ₹60,000 and are built in stages over six to twelve weeks, ideally during the crop holiday when there is time to set them up.",
+        "As a <strong>software team in Kavali</strong>, in practical terms, we build pond-wise culture registers that supervisors fill on a phone, with feed and medicine stock, cost per pond and a harvest summary the owner can see from anywhere. These start at ₹60,000 and are built in stages over six to twelve weeks, ideally during the crop holiday when there is time to set them up.",
         "We keep the screens simple enough for pond workers, with Telugu labels and large buttons, and entries can be made offline and synced later when signal returns near the coast.",
       ],
     },
     {
       id: "feed-dealers-hatchery-agents",
-      heading: "Website development company in Kavali for feed dealers, hatchery agents and processors",
+      heading: "Website development team in Kavali for feed dealers, hatchery agents and processors",
       paragraphs: [
         "Around the farms is a supply chain of feed and medicine dealers, seed agents representing hatcheries, aerator and pump suppliers, electrical contractors, harvest labour teams, ice suppliers and transporters taking harvests to processors. Most of it runs on credit and phone calls.",
-        "A <strong>website development company in Kavali</strong> can help these firms in two ways. First, a plain, accurate website listing products and brands they are authorised to sell, service areas, technical support offered, GST details and contact numbers. Second, a dealer credit tool that shows what each farmer owes, which invoices are due after harvest, and sends reminders on WhatsApp.",
+        "A <strong>website development team in Kavali</strong> can help these firms in two ways. First, a plain, accurate website listing products and brands they are authorised to sell, service areas, technical support offered, GST details and contact numbers. Second, a dealer credit tool that shows what each farmer owes, which invoices are due after harvest, and sends reminders on WhatsApp.",
         "Websites start at ₹10,000 and dealer software at ₹60,000. We never write that you are an authorised dealer for a brand unless you can show the paperwork, and we never publish farmer names or dues on public pages.",
         "Timing matters in this trade. Feed and seed orders spike when stocking begins after the crop holiday, and payments bunch up when harvests are sold. A dealer who can see, on one screen, which farmers stocked when and roughly when each is likely to harvest can plan stock and follow up on dues without guesswork. That view is usually worth more than any feature on a public website, and it is where we suggest most dealers start.",
       ],
@@ -122,10 +122,10 @@ const kavali: CityContent = {
     },
     {
       id: "ramayapatnam-port-suppliers",
-      heading: "IT company in Kavali for contractors near Ramayapatnam port and new projects",
+      heading: "IT services team in Kavali for contractors near Ramayapatnam port and new projects",
       paragraphs: [
         "Ramayapatnam port, about 20 km from Kavali, is under development, and an airport at Damavaram, roughly 30 km away, is under construction. Projects like these bring demand for civil and electrical contractors, transporters, equipment rental, lodging, canteens and labour agencies, many of which are small local firms.",
-        "Large project buyers check suppliers online before calling. An <strong>IT company in Kavali</strong> can give these firms a professional presence: services, equipment and vehicles owned, safety practices, GST and registration details, named contacts and photos of real work. A quote request form with file upload saves time for both sides.",
+        "Large project buyers check suppliers online before calling. An <strong>IT services team in Kavali</strong> can give these firms a professional presence: services, equipment and vehicles owned, safety practices, GST and registration details, named contacts and photos of real work. A quote request form with file upload saves time for both sides.",
         "We will not list any project or client name on your website without written permission, and we avoid predicting timelines for government projects. A capability site starts at ₹10,000; a job and equipment tracking tool falls under custom software from ₹60,000.",
       ],
     },
@@ -134,7 +134,7 @@ const kavali: CityContent = {
       heading: "Android app development in Kavali, and iOS apps for the same business",
       paragraphs: [
         "An app is only worth building when a known group of people will use it every week. In Kavali, the clearest cases are pond supervisors logging daily feed and readings, farmers checking their account with a feed dealer, students and parents following a college or coaching centre, and patients booking tokens at a busy hospital.",
-        "As an <strong>app development company in Kavali</strong>, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version usually has mobile number login, push notifications, Telugu and English screens, the core forms your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Kavali</strong>, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version usually has mobile number login, push notifications, Telugu and English screens, the core forms your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Kavali</strong> with us starts at ₹40,000. Offline entry, payments, maps, photo uploads and links to your billing software each add to the quote and are listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS apps page</a>.",
         "When customers only need your address, phone number and a price list, a website does it for a fraction of the cost and needs no download. We will tell you when that is the better choice.",
       ],
@@ -231,7 +231,7 @@ const kavali: CityContent = {
         "A static website is usually live in one to two weeks once your text and photos arrive. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Content being ready is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Kavali?",
+      question: "Who is the best website development team in Kavali?",
       answer:
         "Look for someone who publishes prices, puts the domain and code in your name, answers after launch and can show real work. Ask everyone the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options first is always sensible.",
     },

@@ -9,7 +9,7 @@ const sivakasi: CityContent = {
     description:
       "Websites, Tamil SEO, dealer catalogues and WhatsApp order tools for Sivakasi printers, fireworks and match makers and local shops. Sites from ₹10,000.",
     keywords: [
-      "website development company in Sivakasi",
+      "website development team in Sivakasi",
       "web designer Sivakasi",
       "printing press website Sivakasi",
       "calendar printers website",

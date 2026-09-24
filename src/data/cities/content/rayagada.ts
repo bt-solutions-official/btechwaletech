@@ -10,12 +10,12 @@ const rayagada: CityContent = {
       "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Rayagada's paper and alumina suppliers, traders, clinics and colleges.",
     keywords: [
       "IT services in Rayagada",
-      "IT company in Rayagada",
-      "website development company in Rayagada",
+      "IT services team in Rayagada",
+      "website development team in Rayagada",
       "web design in Rayagada",
-      "app development company in Rayagada",
+      "app development team in Rayagada",
       "Android app development in Rayagada",
-      "software company in Rayagada",
+      "software team in Rayagada",
       "SEO services in Rayagada",
       "digital marketing in Rayagada",
       "ecommerce website in Rayagada",
@@ -75,10 +75,10 @@ const rayagada: CityContent = {
     },
     {
       id: "industrial-vendors",
-      heading: "Website development company in Rayagada for plant vendors and contractors",
+      heading: "Website development team in Rayagada for plant vendors and contractors",
       paragraphs: [
         "Firms that supply the Jaykaypur paper mill or the Doraguda refinery usually win work through tenders, vendor registration and word of mouth. A website does not replace any of that, but it helps at the moments that matter: when a purchase department checks whether you are a real business, when a larger company from Visakhapatnam or Bhubaneswar looks for a local partner, or when you apply for registration with a new plant.",
-        "As a <strong>website development company in Rayagada</strong> for this kind of client, we keep the site factual. It covers what you do (fabrication, civil work, material handling, manpower, transport, electrical maintenance), the equipment you own, the safety certifications you actually hold, project photographs you have permission to show, and contact details that work. We do not publish client logos or plant names without your written confirmation that you are allowed to.",
+        "As a <strong>website development team in Rayagada</strong> for this kind of client, we keep the site factual. It covers what you do (fabrication, civil work, material handling, manpower, transport, electrical maintenance), the equipment you own, the safety certifications you actually hold, project photographs you have permission to show, and contact details that work. We do not publish client logos or plant names without your written confirmation that you are allowed to.",
         "Many contractors also need a small internal tool. Common examples are a labour attendance sheet that supervisors fill on a phone at the gate, a vehicle trip register with diesel and driver entries, or a bill tracker showing which invoices are pending with which department and for how long. These can start as a simple web app and grow later.",
         "We write the site in plain English, add an Odia version when your local hiring or customers need it, and keep it light enough to open on the site-office phone with one bar of signal.",
       ],
@@ -108,7 +108,7 @@ const rayagada: CityContent = {
       heading: "Android app development in Rayagada: when an app helps and when a website is enough",
       paragraphs: [
         "An app makes sense when the same people use it again and again. In Rayagada that often means field crews, not the public. A transport contractor can have drivers log trips, loading points and diesel issues from the cab. A labour contractor can have supervisors mark attendance with a photograph at the gate. A school can send homework notices and fee reminders to parents with push notifications instead of paper slips.",
-        "Working as an <strong>app development company in Rayagada</strong> for such clients, we build in Flutter or React Native, so one codebase runs on Android and on iPhone. A typical first version includes login, the few screens your staff actually need, push notifications, offline entry that syncs when signal returns, and an admin panel on the web where you see everything. <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> start at ₹40,000, and we publish them on Google Play and the App Store under your own developer accounts.",
+        "Working as an <strong>app development team in Rayagada</strong> for such clients, we build in Flutter or React Native, so one codebase runs on Android and on iPhone. A typical first version includes login, the few screens your staff actually need, push notifications, offline entry that syncs when signal returns, and an admin panel on the web where you see everything. <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> start at ₹40,000, and we publish them on Google Play and the App Store under your own developer accounts.",
         "Offline entry matters here. Roads towards Kashipur, Muniguda and the hill blocks lose network for long stretches, so an app that fails without signal is useless. We test for that before handing over.",
         "When is a website enough? If your customers visit once, such as a lodge guest, a first-time patient or a buyer checking a price, a mobile-friendly website with WhatsApp does the job for far less. Ask for both quotes and we will explain the difference honestly.",
       ],
@@ -175,19 +175,19 @@ const rayagada: CityContent = {
     },
     {
       id: "ownership-maintenance",
-      heading: "Software company in Rayagada terms: you own it, we maintain it",
+      heading: "Software team in Rayagada terms: you own it, we maintain it",
       paragraphs: [
         "A frequent complaint we hear from businesses in smaller towns is that a previous developer registered the domain in their own name, kept the hosting login, and disappeared. The site then cannot be edited or moved. We avoid that by setting up the domain, hosting, source code repository, Google Play and App Store accounts in your name, with your email, before any work begins.",
         "After launch you get five months of free maintenance covering bug fixes, security updates and small content changes. After that, maintenance starts at ₹8,000 a month and includes backups, updates, uptime checks and a set number of edits. You can also stop and take the work elsewhere; the code is yours.",
-        "When you compare any <strong>software company in Rayagada</strong> or outside it, ask these questions directly: whose name is the domain in, where is the code stored, who holds the admin password, and what does it cost to leave. Straight answers to those four tell you more than any portfolio.",
+        "When you compare any <strong>software team in Rayagada</strong> or outside it, ask these questions directly: whose name is the domain in, where is the code stored, who holds the admin password, and what does it cost to leave. Straight answers to those four tell you more than any portfolio.",
         "We write a short handover note for every project listing all logins and where they live.",
       ],
     },
     {
       id: "remote-team-rayagada",
-      heading: "IT company in Rayagada without an office: how our remote work runs",
+      heading: "IT services team in Rayagada without an office: how our remote work runs",
       paragraphs: [
-        "We are not a local <strong>IT company in Rayagada</strong> with a front desk, and we say that plainly. We are three engineers working remotely across India, and we have built for clients in towns where no developer is available locally. Distance has not been the problem; unclear requirements usually are.",
+        "We are not a local <strong>IT services team in Rayagada</strong> with a front desk, and we say that plainly. We are three engineers working remotely across India, and we have built for clients in towns where no developer is available locally. Distance has not been the problem; unclear requirements usually are.",
         "The process is simple. You message us on WhatsApp with what you want and a few photos or examples. We ask questions, then send an itemised quote in about two working days. Once approved, you get a first draft within the agreed time, give feedback in voice notes or text, and see every change before it goes live. We reply seven days a week on Indian time.",
         "If you prefer a phone call over typing, that works too, in Hindi or English. For Odia content, we write carefully and ask you to review it, since you know how your customers speak better than we do.",
         "Ready to talk? <a href=\"/contact/\">Send a message</a> with your business name and what you need.",
@@ -235,7 +235,7 @@ const rayagada: CityContent = {
         "A static website is usually ready in one to two weeks once we have your text and photos. An SEO website with hundreds of pages takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays mostly come from waiting for content, so having photos ready helps a lot.",
     },
     {
-      question: "Which is the best website development company in Rayagada?",
+      question: "Which is the best website development team in Rayagada?",
       answer:
         "The best choice is whoever puts the domain, hosting and code in your name, gives an itemised quote, and shows you similar work. Ask any developer those questions. We are a remote team of three engineers with no Rayagada office, published starting prices and written quotes, so you can compare us fairly with local options.",
     },

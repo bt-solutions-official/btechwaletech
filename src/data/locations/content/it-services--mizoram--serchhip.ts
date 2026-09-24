@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software and web developers for Serchhip and Thenzawl: records software, easy-update websites, Android and iOS apps, AI automation and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Serchhip",
-      "IT company in Serchhip",
+      "software development team in Serchhip",
+      "IT services team in Serchhip",
       "IT solutions Serchhip",
       "freelance software developers Serchhip",
       "web developer Serchhip",
@@ -67,9 +67,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-or-company-serchhip",
-      heading: "Freelance developers or a software development company for Serchhip?",
+      heading: "Freelance developers or a software development team for Serchhip?",
       paragraphs: [
-        "For most Serchhip projects, freelance developers are the better value: you speak with the engineers directly, pay published starting prices and get software sized to a smaller market. A software development company makes sense when you need staff in Serchhip regularly, hardware installation or formal tender eligibility.",
+        "For most Serchhip projects, freelance developers are the better value: you speak with the engineers directly, pay published starting prices and get software sized to a smaller market. A software development team makes sense when you need staff in Serchhip regularly, hardware installation or formal tender eligibility.",
         "BtechWaleTech is three independent engineers working remotely from India. We have no office in Serchhip or anywhere in Mizoram, and we do not install computers or networks. We build, host and maintain software, and the engineer answering your message is the one writing your code.",
         "If you are comparing IT companies for a Serchhip project, ask who builds it, whether the domain and code are registered to you, what support costs after launch and how quickly they reply. Our prices are on the <a href='/pricing/'>pricing page</a>, and the statewide overview is on our <a href='/it-services/mizoram/'>Mizoram IT services page</a>.",
       ],

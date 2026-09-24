@@ -9,11 +9,11 @@ const mysore: CityContent = {
     description:
       "Websites, SEO and automation for Mysuru hotels, silk and sandalwood sellers, clinics and IT firms. Sites from ₹10,000, stores from ₹50,000, 5 months free support.",
     keywords: [
-      "website development company in Mysore",
-      "web design company Mysuru",
+      "website development team in Mysore",
+      "web design team Mysuru",
       "website designer Mysore",
       "freelance web developer Mysuru",
-      "SEO company Mysore",
+      "SEO team Mysore",
       "local SEO Mysuru",
       "hotel website design Mysore",
       "ecommerce website Mysore",
@@ -45,7 +45,7 @@ const mysore: CityContent = {
   ],
   serviceNotes: {
     web: "Fast websites for Mysuru shops, clinics, consultants and heritage hotels that read well for a Kannada-speaking local and a first-time visitor alike.",
-    seo: "Visibility for searches like “homestay near Mysore Palace”, “dentist in Kuvempunagar” or “software company Hebbal Mysore”, in English and Kannada.",
+    seo: "Visibility for searches like “homestay near Mysore Palace”, “dentist in Kuvempunagar” or “software team Hebbal Mysore”, in English and Kannada.",
     ecommerce: "UPI and Razorpay stores for Mysore silk sarees, sandalwood items, agarbatti and sweets shipped to buyers across India and abroad.",
     software: "Portals, booking engines and admin systems for Mysuru hotels, training institutes, manufacturers at Hootagalli and property managers.",
     ai: "WhatsApp and web assistants that answer tourist, patient or student questions in Kannada and English and pass real enquiries to staff.",

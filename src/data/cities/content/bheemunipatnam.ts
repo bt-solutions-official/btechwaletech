@@ -10,12 +10,12 @@ const bheemunipatnam: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Bheemili beach resorts, homestays, builders, clinics, schools and shops near Vizag.",
     keywords: [
       "IT services in Bheemunipatnam",
-      "IT company in Bheemunipatnam",
-      "website development company in Bheemunipatnam",
+      "IT services team in Bheemunipatnam",
+      "website development team in Bheemunipatnam",
       "web design in Bheemunipatnam",
-      "app development company in Bheemunipatnam",
+      "app development team in Bheemunipatnam",
       "Android app development in Bheemunipatnam",
-      "software company in Bheemunipatnam",
+      "software team in Bheemunipatnam",
       "SEO services in Bheemunipatnam",
       "digital marketing in Bheemunipatnam",
       "ecommerce website in Bheemunipatnam",
@@ -74,10 +74,10 @@ const bheemunipatnam: CityContent = {
     },
     {
       id: "beach-resorts-homestays",
-      heading: "Website development company in Bheemunipatnam for resorts, homestays and beach-road cafés",
+      heading: "Website development team in Bheemunipatnam for resorts, homestays and beach-road cafés",
       paragraphs: [
         "The stretch from Rushikonda past Thotlakonda and Mangamaripeta to Bheemili Beach draws weekend traffic from Vizag and holiday visitors from Hyderabad, Odisha and beyond. Many of the places they stay in are small: a few cottages, a family-run guest house, a café with rooms upstairs. These owners lose a share of every booking to travel portals and have little control over how their property is described.",
-        "As a <strong>website development company in Bheemunipatnam</strong>, we build booking-ready sites that show real room photographs, sea-facing or garden-facing clearly, check-in rules, parking, distance to the beach and the red sand hills, and a direct WhatsApp button. An availability calendar can be added so guests see open dates without calling. Payment by UPI or card can be taken as an advance, with the balance at check-in if that is how you prefer to work.",
+        "As a <strong>website development team in Bheemunipatnam</strong>, we build booking-ready sites that show real room photographs, sea-facing or garden-facing clearly, check-in rules, parking, distance to the beach and the red sand hills, and a direct WhatsApp button. An availability calendar can be added so guests see open dates without calling. Payment by UPI or card can be taken as an advance, with the balance at check-in if that is how you prefer to work.",
         "We keep pages light because many guests search on patchy mobile data along the coast road. Clear pages for weddings, beach events and group stays help you capture larger bookings. Travel portals remain useful for discovery; the aim is simply to let repeat and referred guests book with you directly and at a lower cost.",
       ],
     },
@@ -110,10 +110,10 @@ const bheemunipatnam: CityContent = {
     },
     {
       id: "android-ios-apps-bheemunipatnam",
-      heading: "App development company in Bheemunipatnam: Android and iOS apps for local businesses",
+      heading: "App development team in Bheemunipatnam: Android and iOS apps for local businesses",
       paragraphs: [
         "Not every Bheemili business needs an app, and we will say so. An app makes sense when the same customers return often or when staff need a tool in the field. A resort group with several properties can let guests book rooms, order food to the cottage and pay from one app. A layout developer can give buyers an app to see instalment dues, payment receipts and construction photographs. A school can send homework, fee reminders and bus timings through push notifications.",
-        "As an <strong>app development company in Bheemunipatnam</strong>, we build <strong>Android app development in Bheemunipatnam</strong> projects and iOS apps together using Flutter or React Native, so one codebase serves both phones. A typical app includes login by phone number, push notifications, a booking or order flow, payment by UPI or card, and an admin panel your staff use from a laptop. We publish it on Google Play and the App Store under your own developer accounts.",
+        "As an <strong>app development team in Bheemunipatnam</strong>, we build <strong>Android app development in Bheemunipatnam</strong> projects and iOS apps together using Flutter or React Native, so one codebase serves both phones. A typical app includes login by phone number, push notifications, a booking or order flow, payment by UPI or card, and an admin panel your staff use from a laptop. We publish it on Google Play and the App Store under your own developer accounts.",
         "Apps start at ₹40,000, and the final quote depends on screens and features. If your customers visit once a year, a fast website with WhatsApp booking will serve them better and cost less, and we will recommend that instead. More detail sits on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -137,10 +137,10 @@ const bheemunipatnam: CityContent = {
     },
     {
       id: "schools-clinics-institutions",
-      heading: "Software company in Bheemunipatnam for schools, clinics and service businesses",
+      heading: "Software team in Bheemunipatnam for schools, clinics and service businesses",
       paragraphs: [
         "Schools, coaching centres, nursing homes and diagnostic labs in Bheemili and Tagarapuvalasa serve families from the town and the villages along NH-16. Their daily problems are records and reminders: fee dues, test results, appointment slots, attendance, staff rosters. Paper registers and scattered spreadsheets break down once numbers grow.",
-        "As a <strong>software company in Bheemunipatnam</strong>, we build web apps that match how you already work. A school might get admission forms, fee receipts and parent messages in one system. A clinic might get appointment booking, visit history and report download for patients. A tour operator might get a trip register with vehicles, drivers and advance payments. Each system runs in the browser, works on phones, and keeps data in cloud storage you own.",
+        "As a <strong>software team in Bheemunipatnam</strong>, we build web apps that match how you already work. A school might get admission forms, fee receipts and parent messages in one system. A clinic might get appointment booking, visit history and report download for patients. A tour operator might get a trip register with vehicles, drivers and advance payments. Each system runs in the browser, works on phones, and keeps data in cloud storage you own.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We build in stages so you can start using the most important part early. Where a ready-made tool already fits your need at a small monthly fee, we will point you to it instead of building from scratch.",
       ],
     },
@@ -155,11 +155,11 @@ const bheemunipatnam: CityContent = {
     },
     {
       id: "remote-team-bheemunipatnam",
-      heading: "IT company in Bheemunipatnam without a local office: how remote work runs",
+      heading: "IT services team in Bheemunipatnam without a local office: how remote work runs",
       paragraphs: [
         "We have no office in Bheemili or Vizag. Some owners worry about this, which is fair. The protection lies in how the work is organised rather than in a signboard. You receive the scope, timeline and costed list in writing before anything starts. Each stage appears on a preview link you can open on your phone, and you approve it before we move on.",
         "Communication runs on WhatsApp seven days a week in Indian time, with calls and screen shares when something needs explaining. You can send photographs of your rooms, shop or site, voice notes about what you want, and documents, and we turn them into pages. For content we cannot gather remotely, such as fresh photographs, we suggest a local photographer or guide you to shoot on your own phone.",
-        "Choosing an <strong>IT company in Bheemunipatnam</strong> that is not physically in the town mostly changes where meetings happen. It does not change who owns the work, which stays with you from the first day.",
+        "Choosing an <strong>IT services team in Bheemunipatnam</strong> that is not physically in the town mostly changes where meetings happen. It does not change who owns the work, which stays with you from the first day.",
       ],
     },
     {
@@ -216,7 +216,7 @@ const bheemunipatnam: CityContent = {
         "A simple site takes one to two weeks once we have your photographs and details. A large SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Delays usually come from missing content, so sending room photographs, price lists and timings early keeps the project on schedule.",
     },
     {
-      question: "Which is the best website development company in Bheemunipatnam?",
+      question: "Which is the best website development team in Bheemunipatnam?",
       answer:
         "The right choice is the provider that publishes starting prices, registers the domain and code in your name, can show live work and still answers after launch. Ask each option the same questions and compare written quotes. We meet those tests and reply on WhatsApp daily, but comparing two or three providers is sensible.",
     },

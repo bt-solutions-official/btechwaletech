@@ -10,12 +10,12 @@ const tamluk: CityContent = {
       "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Tamluk clinics, colleges, traders, Haldia suppliers and Purba Medinipur shops.",
     keywords: [
       "IT services in Tamluk",
-      "IT company in Tamluk",
-      "website development company in Tamluk",
+      "IT services team in Tamluk",
+      "website development team in Tamluk",
       "web design in Tamluk",
-      "app development company in Tamluk",
+      "app development team in Tamluk",
       "Android app development in Tamluk",
-      "software company in Tamluk",
+      "software team in Tamluk",
       "SEO services in Tamluk",
       "digital marketing in Tamluk",
       "ecommerce website in Tamluk",
@@ -89,11 +89,11 @@ const tamluk: CityContent = {
     },
     {
       id: "courts-offices-professionals",
-      heading: "Website development company in Tamluk for lawyers, accountants and consultants",
+      heading: "Website development team in Tamluk for lawyers, accountants and consultants",
       paragraphs: [
         "Because Tamluk hosts the district administration and courts, it has a large community of advocates, tax practitioners, chartered accountants, deed writers, surveyors and document service centres. Their clients are often first-time visitors from rural blocks who do not know where to go or what papers to bring.",
         "A short, well-organised website helps. It can list practice areas, the documents needed for common matters such as mutation, succession or GST registration, office hours and a map from the court complex. For accountants we can add a secure upload form so clients send bank statements and invoices before the meeting instead of carrying loose papers.",
-        "As a <strong>website development company in Tamluk</strong>'s professionals can hire without a long contract, we keep these sites modest in cost. Bar Council rules restrict how advocates may advertise, so we write informational pages rather than promotional ones, and we ask you to review every sentence before anything goes live.",
+        "As a <strong>website development team in Tamluk</strong>'s professionals can hire without a long contract, we keep these sites modest in cost. Bar Council rules restrict how advocates may advertise, so we write informational pages rather than promotional ones, and we ask you to review every sentence before anything goes live.",
       ],
     },
     {
@@ -107,10 +107,10 @@ const tamluk: CityContent = {
     },
     {
       id: "haldia-suppliers",
-      heading: "Software company in Tamluk for Haldia contractors, transporters and suppliers",
+      heading: "Software team in Tamluk for Haldia contractors, transporters and suppliers",
       paragraphs: [
         "Haldia, with its port and refinery and chemical plants, lies roughly 30 km away by road, and many Tamluk families earn from it indirectly. Labour contractors, fabrication shops, transport operators, safety equipment dealers, canteen suppliers and small engineering firms are based in and around Tamluk while their work sites are in Haldia.",
-        "Large plants expect paperwork: registration documents, safety records, work orders, invoices that match purchase orders, and attendance for contract workers. Much of this still lives in registers and spreadsheets on one person's laptop. As a <strong>software company in Tamluk</strong> in the practical sense, we build web apps that keep worker attendance, vehicle trips, material issued, bills raised and payments received in one place, available to the owner and the site supervisor on their phones.",
+        "Large plants expect paperwork: registration documents, safety records, work orders, invoices that match purchase orders, and attendance for contract workers. Much of this still lives in registers and spreadsheets on one person's laptop. As a <strong>software team in Tamluk</strong> in the practical sense, we build web apps that keep worker attendance, vehicle trips, material issued, bills raised and payments received in one place, available to the owner and the site supervisor on their phones.",
         "A clean capability website also matters here. Purchase departments often search a vendor's name before approving them. A site with your services, equipment list, past work types (without naming clients unless you have permission), certifications you actually hold and a contact form gives them what they need to move your file forward.",
       ],
     },
@@ -134,18 +134,18 @@ const tamluk: CityContent = {
     },
     {
       id: "traders-wholesale",
-      heading: "IT company in Tamluk for wholesale traders, pharmacies and retail shops",
+      heading: "IT services team in Tamluk for wholesale traders, pharmacies and retail shops",
       paragraphs: [
         "Tamluk's markets supply a wide catchment of villages and smaller towns. Wholesalers of groceries, fertiliser, building materials, electrical goods and medicines serve retailers across the blocks, often on credit and through phone orders.",
-        "An <strong>IT company in Tamluk</strong> that understands this trade builds for how orders really arrive. We make simple retailer ordering apps or web portals where a shopkeeper picks items and quantities, sees the last price and outstanding balance, and places an order that reaches your counter as a clean list. Payment reminders go out on WhatsApp on the dates you choose.",
+        "An <strong>IT services team in Tamluk</strong> that understands this trade builds for how orders really arrive. We make simple retailer ordering apps or web portals where a shopkeeper picks items and quantities, sees the last price and outstanding balance, and places an order that reaches your counter as a clean list. Payment reminders go out on WhatsApp on the dates you choose.",
         "Retail shops usually need less: a product or brand page, a correct map pin, clear opening hours and a WhatsApp link. If you already use Tally or another billing package, we can often read its export to show stock and dues on a dashboard without changing how your accountant works.",
       ],
     },
     {
       id: "android-ios-apps-tamluk",
-      heading: "App development company in Tamluk: Android and iOS apps for local businesses",
+      heading: "App development team in Tamluk: Android and iOS apps for local businesses",
       paragraphs: [
-        "Most customers in Tamluk use Android phones, with a growing number on iPhones, particularly among professionals and families with members working outside Bengal. As an <strong>app development company in Tamluk</strong>'s businesses can reach remotely, we build apps in Flutter or React Native so one codebase runs on both platforms.",
+        "Most customers in Tamluk use Android phones, with a growing number on iPhones, particularly among professionals and families with members working outside Bengal. As an <strong>app development team in Tamluk</strong>'s businesses can reach remotely, we build apps in Flutter or React Native so one codebase runs on both platforms.",
         "Who actually needs an app? Businesses with repeat users. A nursing home whose patients return for follow-ups, a coaching centre that sends daily notices, a wholesaler with two hundred retailers ordering every week, or a transporter whose drivers log trips. A typical app includes phone-number login, push notifications, a few core screens and an admin panel where your staff manage content and orders.",
         "<strong>Android app development in Tamluk</strong> with us starts at ₹40,000, and iOS is built from the same code. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, so you keep control. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for what a first version usually covers.",
         "When is a website enough? If people visit you once or twice a year, or only need your address and timings, a fast website and a Google listing do the job at a fraction of the cost. We will say so rather than sell you an app nobody opens.",
@@ -224,7 +224,7 @@ const tamluk: CityContent = {
         "A static business website usually takes one to two weeks once we have your content and photographs. SEO websites with many pages take three to five weeks, online stores four to eight weeks, and custom software six to twelve weeks. Delays usually come from waiting for content, so we give you a checklist on day one.",
     },
     {
-      question: "Which is the best IT company in Tamluk for a small business?",
+      question: "Which is the best IT services team in Tamluk for a small business?",
       answer:
         "The right choice is whoever explains the work clearly, puts the domain and code in your name, publishes prices and supports you after launch. Ask any IT company in Tamluk for an itemised quote, samples and references. We are a remote team of three engineers, and we would rather lose a job than overpromise.",
     },

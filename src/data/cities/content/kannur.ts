@@ -10,12 +10,12 @@ const kannur: CityContent = {
       "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kannur handloom exporters, traders, hospitals, colleges and homestays.",
     keywords: [
       "IT services in Kannur",
-      "IT company in Kannur",
-      "website development company in Kannur",
+      "IT services team in Kannur",
+      "website development team in Kannur",
       "web design in Kannur",
-      "app development company in Kannur",
+      "app development team in Kannur",
       "Android app development in Kannur",
-      "software company in Kannur",
+      "software team in Kannur",
       "SEO services in Kannur",
       "digital marketing in Kannur",
       "ecommerce website in Kannur",
@@ -74,19 +74,19 @@ const kannur: CityContent = {
     },
     {
       id: "handloom-export-kannur",
-      heading: "Website development company in Kannur for handloom exporters and weavers' societies",
+      heading: "Website development team in Kannur for handloom exporters and weavers' societies",
       paragraphs: [
         "Cannanore Home Furnishings, registered as a Geographical Indication in 2009, covers curtains, bed and bath linen, table and kitchen linen, upholstery fabric and smaller items such as tassels and ropes. Weaving came to the Chirakkal area centuries ago, and today the trade runs through cooperative societies, private units and exporters across the district, including around Thalassery.",
-        "Buyers who import home textiles check suppliers online before they ask for samples. A <strong>website development company in Kannur</strong> should give them what they look for: product ranges with clear photographs, fabric composition and weights, standard sizes, minimum order quantities, lead times, certifications you actually hold, and a named export contact. The GI connection is a real selling point and deserves its own page, explained without exaggeration.",
+        "Buyers who import home textiles check suppliers online before they ask for samples. A <strong>website development team in Kannur</strong> should give them what they look for: product ranges with clear photographs, fabric composition and weights, standard sizes, minimum order quantities, lead times, certifications you actually hold, and a named export contact. The GI connection is a real selling point and deserves its own page, explained without exaggeration.",
         "We build these sites in English first, with Malayalam pages for local buyers and staff. An enquiry form that asks for product, quantity, destination port and target date saves several rounds of email. We never display a buyer's name or logo without their written permission. Export catalogue sites start at ₹10,000 for up to 100 pages and grow as your range does.",
       ],
     },
     {
       id: "cooperatives-software",
-      heading: "Software company in Kannur for cooperatives, looms and wholesale traders",
+      heading: "Software team in Kannur for cooperatives, looms and wholesale traders",
       paragraphs: [
         "Kerala Dinesh, which began in 1969 as a cooperative for beedi workers who had lost their jobs, is one example of how Kannur organises work: shared ownership, many members and careful accounting. Handloom societies, milk and farming cooperatives and trade associations across the district work in similar ways, and many still keep key records in registers and spreadsheets.",
-        "As a <strong>software company in Kannur</strong> in the everyday sense, we build web tools that suit this style of work. A handloom unit can track yarn issued, looms assigned, pieces woven and wages due to each weaver. A wholesale trader can record orders, dispatches and outstanding amounts by customer. A society can give members a simple login to see their own accounts, with the office keeping full control.",
+        "As a <strong>software team in Kannur</strong> in the everyday sense, we build web tools that suit this style of work. A handloom unit can track yarn issued, looms assigned, pieces woven and wages due to each weaver. A wholesale trader can record orders, dispatches and outstanding amounts by customer. A society can give members a simple login to see their own accounts, with the office keeping full control.",
         "These start at ₹60,000 and are built in stages over six to twelve weeks. We begin with the part that causes the most arguments or delays today, usually payments due, and add the rest once staff are comfortable. Records can be exported to Excel at any time, so your auditor is never stuck.",
       ],
     },
@@ -104,7 +104,7 @@ const kannur: CityContent = {
       heading: "Android app development in Kannur, and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when the same people use it often. In Kannur, that might be patients booking tokens at a hospital that draws people from across the district, parents following notices and fees at a school or entrance coaching centre, regular customers of a supermarket or bakery ordering for home delivery, or a wholesaler's retailers placing weekly orders.",
-        "As an <strong>app development company in Kannur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens your users need and an admin panel for your staff. Screens can be in Malayalam, English or both. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Kannur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens your users need and an admin panel for your staff. Screens can be in Malayalam, English or both. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Kannur</strong> with us starts at ₹40,000. Costs rise with online payments, offline mode, maps, delivery tracking and links to your billing software, and each of these is quoted separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Where customers only need your address, hours and a price list, a website does that job for a quarter of the cost. We will recommend the website in that case, since an app that is uninstalled after a week wastes your money.",
       ],
@@ -138,10 +138,10 @@ const kannur: CityContent = {
     },
     {
       id: "hospitals-colleges-kannur",
-      heading: "IT company in Kannur for hospitals, colleges and entrance coaching",
+      heading: "IT services team in Kannur for hospitals, colleges and entrance coaching",
       paragraphs: [
         "Kannur is an education and health centre for North Malabar. Kannur University has campuses across the district, the Government College of Engineering has run since 1986, the Government Medical College is at Pariyaram, and the Indian Naval Academy is at Ezhimala. Private schools, nursing and paramedical colleges, and coaching centres for entrance exams and Kerala PSC tests fill in around them, along with hospitals, clinics and labs.",
-        "An <strong>IT company in Kannur</strong> working with these institutions has to be careful about accuracy. A hospital page must list doctors, departments, OPD days and emergency numbers that are actually current. A college page must give courses, affiliation, fees or fee ranges and admission dates without inflated claims. A coaching centre should show results it can prove, with students' consent.",
+        "An <strong>IT services team in Kannur</strong> working with these institutions has to be careful about accuracy. A hospital page must list doctors, departments, OPD days and emergency numbers that are actually current. A college page must give courses, affiliation, fees or fee ranges and admission dates without inflated claims. A coaching centre should show results it can prove, with students' consent.",
         "We build these sites in Malayalam and English, link them to Google Maps and WhatsApp, and add online forms for admissions or appointments that feed into a sheet or your software. Where volume is high, a token or notice app on Android and iPhone can follow, but most institutions should start with a complete, honest website.",
       ],
     },
@@ -232,7 +232,7 @@ const kannur: CityContent = {
         "A simple static site is usually live within one to two weeks after we receive your photographs and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where content arrives in the first few days.",
     },
     {
-      question: "Who is the best website development company in Kannur?",
+      question: "Who is the best website development team in Kannur?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, supports you after launch and can show real work. Ask each one the same questions and compare answers. We meet those tests and reply on WhatsApp every day, but comparing two or three options before deciding is wise.",
     },

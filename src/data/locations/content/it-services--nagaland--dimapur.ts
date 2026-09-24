@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Comparing software development companies in Dimapur? Hire freelance developers for custom software, AI agents, apps and SEO. Software from ₹60,000.",
     keywords: [
-      "software development company in Dimapur",
-      "IT company in Dimapur",
+      "software development team in Dimapur",
+      "IT services team in Dimapur",
       "IT solutions Dimapur",
       "custom software development Dimapur",
       "billing and inventory software Dimapur",
@@ -26,23 +26,23 @@ const content: CityContent = {
       "business dashboard development Dimapur",
       "cloud hosting and deployment Dimapur",
       "IT support for small business Dimapur",
-      "software company near me Dimapur",
+      "software team near me Dimapur",
       "software developer near Chümoukedima",
       "ecommerce development Dimapur",
       "SEO services Dimapur",
-      "IT company Nagaland",
-      "Dimapur mein software company",
+      "IT services team Nagaland",
+      "Dimapur mein software team",
     ],
   },
   hero: {
     eyebrow: "IT services · Dimapur, Nagaland",
     h1: "Freelance software developers in Dimapur for custom software, AI automation and apps",
     lede:
-      "Looking for a software development company in Dimapur? BtechWaleTech is a freelance group of three engineers who build custom software and IT solutions for Dimapur traders, transporters and distributors. Dimapur moves most of Nagaland's goods, and most of that movement is still tracked in registers, Excel files and WhatsApp threads. Working remotely from India, we build order software, stock and dispatch tools, AI assistants, dashboards, apps and search-ready websites for businesses here, with starting prices published and every login handed to you.",
+      "Looking for a software development team in Dimapur? BtechWaleTech is a freelance group of three engineers who build custom software and IT solutions for Dimapur traders, transporters and distributors. Dimapur moves most of Nagaland's goods, and most of that movement is still tracked in registers, Excel files and WhatsApp threads. Working remotely from India, we build order software, stock and dispatch tools, AI assistants, dashboards, apps and search-ready websites for businesses here, with starting prices published and every login handed to you.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Order and dispatch tools", "Dashboards from your data", "Websites from ₹10,000"],
   },
   quickAnswer:
-    "Instead of a software development company in Dimapur, hire BtechWaleTech, a freelance group of three engineers: custom software from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no Dimapur office, and include five months of free maintenance.",
+    "Instead of a software development team in Dimapur, hire BtechWaleTech, a freelance group of three engineers: custom software from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and websites from ₹10,000. We work remotely from India, with no Dimapur office, and include five months of free maintenance.",
   snapshot: [
     { label: "Role in the state", value: "Nagaland's commercial capital and main entry point for goods, fuel and passengers from Assam and the rest of India" },
     { label: "Connectivity", value: "Dimapur railway station (the state's principal railhead), Dimapur Airport, and the national highway climbing to Kohima and Imphal" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-dimapur",
-      heading: "Freelance team vs a software development company in Dimapur: which should you hire?",
+      heading: "Freelance team vs a software development team in Dimapur: which should you hire?",
       paragraphs: [
-        "A Dimapur business needs the same software whether it hires a software development company or a freelance team: order booking, stock tracking, credit ledgers, dispatch sheets, staff logins and reports, plus the website and apps customers see. The difference is overhead and who you talk to. The website is often the smallest part. The bigger return usually comes from replacing the notebook, the Excel file and the three WhatsApp groups that currently hold your operations together.",
+        "A Dimapur business needs the same software whether it hires a software development team or a freelance team: order booking, stock tracking, credit ledgers, dispatch sheets, staff logins and reports, plus the website and apps customers see. The difference is overhead and who you talk to. The website is often the smallest part. The bigger return usually comes from replacing the notebook, the Excel file and the three WhatsApp groups that currently hold your operations together.",
         "Dimapur's economy is built on movement. Goods arrive by rail and truck from Assam, get broken into smaller lots in godowns near the station and around Dhobinala, and travel up to Kohima, Wokha, Mokokchung, Zunheboto and the eastern districts. Every hand-off creates paperwork, and every piece of paperwork is a chance for a missed order, a wrong rate or an unpaid bill. Software that follows a consignment from arrival to delivery is where a trader here saves real money.",
         "BtechWaleTech is not a Dimapur office or a large software house. We are a freelance group of three engineers working remotely from India, and we take on <a href=\"/services/\">the full range of IT work</a>: custom software, web applications, mobile apps, AI automation, data dashboards, cloud hosting, SEO, online stores and maintenance. You talk directly to the people writing the code, over WhatsApp, calls and screen-shares, and you own everything we build.",
       ],
@@ -207,9 +207,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-dimapur",
-      heading: "How to choose an IT company in Dimapur without regret",
+      heading: "How to choose an IT services team in Dimapur without regret",
       paragraphs: [
-        "Choose an IT company in Dimapur by checking who will actually build your system, who will own the code and accounts, how support works after launch, and whether the quote is itemised. A glossy presentation matters less than straight answers to those four questions.",
+        "Choose an IT services team in Dimapur by checking who will actually build your system, who will own the code and accounts, how support works after launch, and whether the quote is itemised. A glossy presentation matters less than straight answers to those four questions.",
         "Ask to speak with the developer, not only the salesperson. Ask whether the domain, hosting and source code will be registered and handed over in your name. Ask what happens if you stop paying for support: does the system keep running, and can someone else take over? Ask for a list of exactly which features are included, and which ones would cost extra.",
         "Be wary of annual lock-in plans that bundle hosting you cannot move, of software where your data can only be exported by the vendor, and of anyone guaranteeing top Google rankings. Also be wary of very cheap quotes for complex systems, because they usually mean a template with your logo on it.",
         "We answer all of those questions in writing. You can read about how we work on the <a href=\"/about/\">about page</a>, and if you would rather compare approaches first, the city page for <a href=\"/dimapur/\">IT services in Dimapur</a> covers the website side of things in more detail.",

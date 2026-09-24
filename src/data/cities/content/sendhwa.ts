@@ -10,12 +10,12 @@ const sendhwa: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sendhwa cotton ginners, highway transporters, dhabas, farm dealers, clinics and shops.",
     keywords: [
       "IT services in Sendhwa",
-      "IT company in Sendhwa",
-      "website development company in Sendhwa",
+      "IT services team in Sendhwa",
+      "website development team in Sendhwa",
       "web design in Sendhwa",
-      "app development company in Sendhwa",
+      "app development team in Sendhwa",
       "Android app development in Sendhwa",
-      "software company in Sendhwa",
+      "software team in Sendhwa",
       "SEO services in Sendhwa",
       "digital marketing in Sendhwa",
       "ecommerce website in Sendhwa",
@@ -69,17 +69,17 @@ const sendhwa: CityContent = {
       paragraphs: [
         "Sendhwa earns its living from two things that meet at the edge of town: the cotton that farmers from across the tehsil bring to its mandi and ginning factories, and the endless line of trucks on the Agra–Mumbai road heading to and from Maharashtra. Around those two sit the usual needs of a subdivision headquarters: hospitals, schools, coaching classes, banks, showrooms, spare-part shops and government offices serving villages from Warla to Niwali.",
         "Each of these businesses gets more of its enquiries from phones than it did a few years ago. A trader in Gujarat wants the contact of a ginner with bales ready. A truck driver with a broken leaf spring searches for a workshop near the highway. A family in Palsud checks which Sendhwa clinic has a gynaecologist on Thursdays. Whoever appears first with correct details tends to get the call.",
-        "The work we are asked to do as an <strong>IT company in Sendhwa</strong> is usually specific: a clean Hindi website, a Maps pin that leads to the real gate, a way to handle WhatsApp enquiries without missing any, and simple records that replace the season's notebooks. Our <strong>IT services in Sendhwa</strong> cover websites, SEO, apps, custom software, AI and WhatsApp automation, data dashboards and maintenance, all delivered remotely by a team of three.",
+        "The work we are asked to do as an <strong>IT services team in Sendhwa</strong> is usually specific: a clean Hindi website, a Maps pin that leads to the real gate, a way to handle WhatsApp enquiries without missing any, and simple records that replace the season's notebooks. Our <strong>IT services in Sendhwa</strong> cover websites, SEO, apps, custom software, AI and WhatsApp automation, data dashboards and maintenance, all delivered remotely by a team of three.",
         "Because there is no office rent or sales staff behind us, starting prices stay low. You deal directly with the engineers who build your project, and every rupee is shown in writing before anything starts.",
       ],
     },
     {
       id: "cotton-ginning-software",
-      heading: "Software company in Sendhwa for cotton ginning and pressing units",
+      heading: "Software team in Sendhwa for cotton ginning and pressing units",
       paragraphs: [
         "From October onward, tractors and bullock carts loaded with kapas queue at Sendhwa's mandi and at the ginning factories around town. Ginners buy seed cotton lot by lot, gin it into lint and cottonseed, press the lint into bales and sell to spinning mills and traders, often in Gujarat and Maharashtra. Margins depend on getting the outturn right, tracking every lot and collecting payment on time.",
         "In many units this is still spread across a weighbridge slip, a purchase register, a pressing book and the owner's phone. When a mill disputes bale weight or quality, or a farmer questions his rate, piecing the facts together takes hours.",
-        "As a <strong>software company in Sendhwa</strong>, we build web tools that follow the cotton through the factory. Each purchase lot is entered once with farmer, village, gross and net weight, moisture, rate and payment mode. Ginning output is recorded per lot as lint, seed and waste, so outturn and cost per quintal are calculated automatically. Pressed bales get numbers linked to their source lots, and dispatches carry buyer, truck and invoice details.",
+        "As a <strong>software team in Sendhwa</strong>, we build web tools that follow the cotton through the factory. Each purchase lot is entered once with farmer, village, gross and net weight, moisture, rate and payment mode. Ginning output is recorded per lot as lint, seed and waste, so outturn and cost per quintal are calculated automatically. Pressed bales get numbers linked to their source lots, and dispatches carry buyer, truck and invoice details.",
         "The dashboard then shows stock of kapas, lint, bales and seed at a glance, pending payments to farmers, and dues from each buyer. Tools of this kind start at ₹60,000 and take six to twelve weeks, and we recommend building them in the off-season so they are ready before the first arrivals. Screens are in Hindi and simple enough for a munshi to use on a phone at the weighbridge.",
       ],
     },
@@ -105,10 +105,10 @@ const sendhwa: CityContent = {
     },
     {
       id: "website-development-sendhwa",
-      heading: "Website development company in Sendhwa for ginners selling to mills and traders",
+      heading: "Website development team in Sendhwa for ginners selling to mills and traders",
       paragraphs: [
         "Buyers from spinning mills and cotton trading houses often shortlist ginners they have never visited. Before calling, they look for a website that confirms the unit is real and capable. Many Sendhwa factories are well run but invisible online, so they lose first contact to competitors in Khargone, Dhule or Gujarat.",
-        "A <strong>website development company in Sendhwa</strong> should build such a site around facts a buyer checks: the number of gins and presses, bale capacity, storage, the varieties and staple lengths usually handled, quality testing done in-house or outside, certifications you hold, GST details, loading capacity and named contacts with direct numbers. Real photographs of the ginning hall, the press and the bale yard are worth more than any stock image.",
+        "A <strong>website development team in Sendhwa</strong> should build such a site around facts a buyer checks: the number of gins and presses, bale capacity, storage, the varieties and staple lengths usually handled, quality testing done in-house or outside, certifications you hold, GST details, loading capacity and named contacts with direct numbers. Real photographs of the ginning hall, the press and the bale yard are worth more than any stock image.",
         "We never list a mill or trader as your customer without their written permission. For units that want trade enquiries, we add a form asking for quantity, quality parameters and delivery location, sent straight to your WhatsApp. A season page updated with available lots keeps repeat buyers in touch.",
         "Most such sites start at ₹10,000 as a static build and go live within two weeks. Ginners who also sell cottonseed or oilcake to local feed buyers may want separate Hindi pages for that trade, which fit easily in the same site.",
       ],
@@ -135,10 +135,10 @@ const sendhwa: CityContent = {
     },
     {
       id: "apps-sendhwa",
-      heading: "App development company in Sendhwa: when an Android and iOS app is worth it",
+      heading: "App development team in Sendhwa: when an Android and iOS app is worth it",
       paragraphs: [
         "Outside the transport trade, an app makes sense in Sendhwa when a known group of users will open it often. Good examples are a school or coaching class sending homework, notices and fee reminders to parents; a clinic giving tokens and report downloads to patients; a farm-input dealer taking weekly reorders from village retailers; and a ginner's field agents recording kapas offers from farmers before the lot reaches the factory.",
-        "As an <strong>app development company in Sendhwa</strong> working remotely, we build in Flutter or React Native so one codebase delivers both an Android app and an iPhone app. A first version typically includes OTP login, push notifications, the handful of screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Sendhwa</strong> working remotely, we build in Flutter or React Native so one codebase delivers both an Android app and an iPhone app. A first version typically includes OTP login, push notifications, the handful of screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
         "Apps start at ₹40,000. Online payment, offline mode for villages with weak signal, maps, attendance and links to existing software each add to the cost and are listed separately in the quote. There is more on scope and process on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings, phone number and rates, a website does that job for a quarter of the price, with nothing to download. We will tell you so, and suggest an app only when repeat use is clear.",
       ],
@@ -235,7 +235,7 @@ const sendhwa: CityContent = {
         "A simple static website is usually live one to two weeks after we receive your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The sooner you send content, the sooner the project finishes.",
     },
     {
-      question: "Which is the best website development company in Sendhwa?",
+      question: "Which is the best website development team in Sendhwa?",
       answer:
         "Look for someone who publishes prices, registers the domain and code in your name, supports you after launch and can show real work. Ask every option the same questions and compare written answers. We meet those standards and reply on WhatsApp daily, but it is wise to compare two or three providers.",
     },

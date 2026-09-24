@@ -10,12 +10,12 @@ const narasapuram: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Narasapuram lace exporters, aquaculture traders, colleges, hospitals and shops.",
     keywords: [
       "IT services in Narasapuram",
-      "IT company in Narasapuram",
-      "website development company in Narasapuram",
+      "IT services team in Narasapuram",
+      "website development team in Narasapuram",
       "web design in Narasapuram",
-      "app development company in Narasapuram",
+      "app development team in Narasapuram",
       "Android app development in Narasapuram",
-      "software company in Narasapuram",
+      "software team in Narasapuram",
       "SEO services in Narasapuram",
       "digital marketing in Narasapuram",
       "ecommerce website in Narasapuram",
@@ -74,19 +74,19 @@ const narasapuram: CityContent = {
     },
     {
       id: "crochet-lace-exporters",
-      heading: "Website development company in Narasapuram for crochet lace exporters",
+      heading: "Website development team in Narasapuram for crochet lace exporters",
       paragraphs: [
         "Narsapur crochet lace has been made in the Godavari delta since Scottish missionaries introduced it in 1844, and it now carries a Geographical Indication tag covering mandals of West Godavari and Konaseema. Thousands of women crochet tablecloths, bedspreads, runners, doilies, cushion covers and garment trims at home, and traders in Narasapuram, Palakollu, Razole and Amalapuram collect, finish and sell the pieces, much of it for export.",
-        "A <strong>website development company in Narasapuram</strong> serving this trade should build a catalogue a foreign buyer can trust: clear photographs of each design on a plain background, dimensions, thread type and colours available, minimum order quantities, lead times, packing, and the GI connection explained accurately. An enquiry form should ask for design codes, quantities, destination port and required delivery date, so your office can quote without five rounds of email.",
+        "A <strong>website development team in Narasapuram</strong> serving this trade should build a catalogue a foreign buyer can trust: clear photographs of each design on a plain background, dimensions, thread type and colours available, minimum order quantities, lead times, packing, and the GI connection explained accurately. An enquiry form should ask for design codes, quantities, destination port and required delivery date, so your office can quote without five rounds of email.",
         "Static catalogue sites start at ₹10,000 and larger design libraries fit a 700+ page SEO build from ₹20,000. We never list overseas buyers by name without their written permission, and we avoid inflated claims about volumes or awards. Good photographs and honest detail win more repeat orders than grand wording.",
       ],
     },
     {
       id: "lace-piecework-software",
-      heading: "Software company in Narasapuram for lace orders and piece-work payments",
+      heading: "Software team in Narasapuram for lace orders and piece-work payments",
       paragraphs: [
         "The lace trade runs on a network of home workers. A trader issues thread and a design to a group leader, the group distributes it, finished pieces come back weeks later, and payment is made per piece or per weight after quality checks. Keeping track of which thread went to whom, which pieces are late, which have been rejected and what each maker is owed is hard work on paper.",
-        "Acting as a <strong>software company in Narasapuram</strong>, we build web tools for exactly this. Thread and design issues are logged against each group or maker, returns are entered with counts and quality notes, payments are calculated automatically, and every export order shows how many pieces are ready, in progress or overdue. Makers or group leaders can receive a payment summary on WhatsApp in Telugu.",
+        "Acting as a <strong>software team in Narasapuram</strong>, we build web tools for exactly this. Thread and design issues are logged against each group or maker, returns are entered with counts and quality notes, payments are calculated automatically, and every export order shows how many pieces are ready, in progress or overdue. Makers or group leaders can receive a payment summary on WhatsApp in Telugu.",
         "These tools begin at ₹60,000 and are introduced in stages over six to twelve weeks. We normally start with the issue-and-return register, since it removes the most disputes, and add order tracking and export packing lists once the first part is working well. Records stay on hosting registered to you, with daily backups.",
       ],
     },
@@ -113,7 +113,7 @@ const narasapuram: CityContent = {
       heading: "Android app development in Narasapuram, and iOS apps for delta firms",
       paragraphs: [
         "An app is justified when a steady group of people returns to it often. In Narasapuram that could be a lace trader whose group leaders log pieces issued and returned, a boutique buyer browsing new designs, an aqua feed dealer taking re-orders from farmers across the mandals, a hospital issuing OPD tokens, or a college sending notices and exam updates to students.",
-        "As an <strong>app development company in Narasapuram</strong> that works remotely, we use Flutter or React Native so a single code base produces both the Android and iPhone versions. The first release typically includes phone-number login, push notifications, the few screens your users truly need and an admin panel for staff. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
+        "As an <strong>app development team in Narasapuram</strong> that works remotely, we use Flutter or React Native so a single code base produces both the Android and iPhone versions. The first release typically includes phone-number login, push notifications, the few screens your users truly need and an admin panel for staff. We publish on Google Play and the Apple App Store under developer accounts registered to your business.",
         "<strong>Android app development in Narasapuram</strong> with us starts at ₹40,000. Payments, offline entry for ponds and villages with patchy signal, maps and links to your accounts software add cost, and each is listed separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for the stages.",
         "If your customers only need your address, phone number and a list of what you sell, a website does that for a fraction of the price, and we will recommend it over an app.",
       ],
@@ -157,9 +157,9 @@ const narasapuram: CityContent = {
     },
     {
       id: "remote-team-narasapuram",
-      heading: "IT company in Narasapuram without a local office: how we operate",
+      heading: "IT services team in Narasapuram without a local office: how we operate",
       paragraphs: [
-        "Searching for an <strong>IT company in Narasapuram</strong> may bring to mind an office near the bus stand. We have none, and we make that clear straight away. Instead, our process is written at every stage so nothing depends on a face-to-face meeting.",
+        "Searching for an <strong>IT services team in Narasapuram</strong> may bring to mind an office near the bus stand. We have none, and we make that clear straight away. Instead, our process is written at every stage so nothing depends on a face-to-face meeting.",
         "We start with a call about your trade and customers. You then get a page or screen plan, a delivery schedule and a price for each item. After approval, preview links arrive on WhatsApp so you and your partners can test the work on your own phones. Telugu text comes to you for checking, and nothing is published without your say-so.",
         "We answer every day of the week on Indian Standard Time. Any delay is reported when we learn of it, not on the due date. Payments follow visible progress. <a href=\"/contact/\">Get in touch</a> with a short note about your business.",
       ],
@@ -224,7 +224,7 @@ const narasapuram: CityContent = {
         "Expect one to two weeks for a static site once we have your photographs and text. A 700+ page SEO build needs three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content to us promptly is what shortens the schedule most.",
     },
     {
-      question: "Which is the best website development company in Narasapuram?",
+      question: "Which is the best website development team in Narasapuram?",
       answer:
         "Look for someone who shows you working sites, prices in writing, keeps the domain and code under your name and stays available after launch. Ask every provider the same questions, us included. We are glad to be judged that way, and we still recommend comparing two or three options before you commit.",
     },

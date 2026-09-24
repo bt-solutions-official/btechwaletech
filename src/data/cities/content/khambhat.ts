@@ -10,12 +10,12 @@ const khambhat: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Khambhat agate bead exporters, kite makers, halwasan shops and traders.",
     keywords: [
       "IT services in Khambhat",
-      "IT company in Khambhat",
-      "website development company in Khambhat",
+      "IT services team in Khambhat",
+      "website development team in Khambhat",
       "web design in Khambhat",
-      "app development company in Khambhat",
+      "app development team in Khambhat",
       "Android app development in Khambhat",
-      "software company in Khambhat",
+      "software team in Khambhat",
       "SEO services in Khambhat",
       "digital marketing in Khambhat",
       "ecommerce website in Khambhat",
@@ -75,10 +75,10 @@ const khambhat: CityContent = {
     },
     {
       id: "agate-bead-exporters",
-      heading: "Website development company in Khambhat for agate and carnelian bead exporters",
+      heading: "Website development team in Khambhat for agate and carnelian bead exporters",
       paragraphs: [
         "Khambhat is probably the only place in India where agate bead making survives as a living craft from the Harappan period. The town has no stone of its own; the raw material has long come from the Rajpipla hills, and it is then heated, chipped, drilled and polished in small workshops and homes across the old lanes around Lal Darwaja and Pith Bazar.",
-        "Buyers who import beads, cabochons, tumbled stones and healing crystals judge a supplier quickly on the web. A <strong>website development company in Khambhat</strong> should build them a catalogue with honest photographs under consistent light, stone names in the terms international buyers use, sizes in millimetres, minimum order quantities, packing standards and a clear enquiry form that captures country, quantity and target date.",
+        "Buyers who import beads, cabochons, tumbled stones and healing crystals judge a supplier quickly on the web. A <strong>website development team in Khambhat</strong> should build them a catalogue with honest photographs under consistent light, stone names in the terms international buyers use, sizes in millimetres, minimum order quantities, packing standards and a clear enquiry form that captures country, quantity and target date.",
         "We build these as fast static sites from ₹10,000, or as larger SEO sites from ₹20,000 when the range runs to hundreds of shapes and stones. Prices are usually shown to logged-in trade buyers only. We never claim certifications, export awards or client names on your behalf; the site states only what you can document.",
       ],
     },
@@ -102,10 +102,10 @@ const khambhat: CityContent = {
     },
     {
       id: "gidc-kansari-industry",
-      heading: "Software company in Khambhat for Kansari GIDC units and suppliers",
+      heading: "Software team in Khambhat for Kansari GIDC units and suppliers",
       paragraphs: [
         "Khambhat's GIDC estate sits in the Kansari area, where the Khambhat Industries Association is also based. Units there and around the town include engineering works, food processing, rice mills, packaging and suppliers linked to salt, fishing and ONGC's oil and gas operations in the region.",
-        "These firms mostly need two things. The first is a credible website that a purchase officer can check: products or services, machines, capacity in plain terms, GST details and named contacts. The second is software to replace scattered registers. As a <strong>software company in Khambhat</strong>, in practice, we build small web tools for job cards, dispatch challans, machine maintenance schedules, stock by lot and payment follow-up.",
+        "These firms mostly need two things. The first is a credible website that a purchase officer can check: products or services, machines, capacity in plain terms, GST details and named contacts. The second is software to replace scattered registers. As a <strong>software team in Khambhat</strong>, in practice, we build small web tools for job cards, dispatch challans, machine maintenance schedules, stock by lot and payment follow-up.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the one register that causes the most arguments, usually dispatch or dues, and add the rest after your staff are comfortable. Nothing on your website mentions a customer name unless that customer agrees in writing.",
       ],
     },
@@ -123,7 +123,7 @@ const khambhat: CityContent = {
       heading: "Android app development in Khambhat, plus iOS apps for repeat buyers",
       paragraphs: [
         "An app only earns its cost when the same people open it again and again. In Khambhat that points to a few clear cases: foreign and domestic buyers who reorder beads every month, retailers who stock kites from one wholesaler every season, parents of a school or coaching class who need notices and fee reminders, or patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Khambhat</strong> working remotely, we use Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally has mobile number or email login, push notifications, a product or notice list, ordering or booking, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Khambhat</strong> working remotely, we use Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally has mobile number or email login, push notifications, a product or notice list, ordering or booking, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Khambhat</strong> with us starts at ₹40,000. The quote rises with payments, multiple currencies, offline mode, maps and integrations with your billing, and each appears as its own line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for what a first version includes.",
         "If buyers only need your catalogue, address and a way to message you, a website does it for a fraction of the price and needs no install. We will say so plainly rather than sell an app nobody opens after the first week.",
       ],
@@ -166,7 +166,7 @@ const khambhat: CityContent = {
     },
     {
       id: "remote-team-ownership-khambhat",
-      heading: "Working with a remote IT company in Khambhat: process, ownership and maintenance",
+      heading: "Working with a remote IT services team in Khambhat: process, ownership and maintenance",
       paragraphs: [
         "Because we are not in Khambhat, we put everything in writing. After a first call about your business and customers, you get a page or screen plan, a timeline and an itemised quote. Once approved, we share preview links that you can open on your own phone and show to family or partners. We reply on WhatsApp every day, including weekends, on Indian Standard Time.",
         "The domain, hosting, source code, Google Business Profile, and Play Store and App Store accounts are registered in your name, and the logins are handed over in writing. Maintenance is free for five months after launch, covering updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, it starts at ₹8,000 a month if you want us to continue, and you are free to move to another developer at any time.",
@@ -229,7 +229,7 @@ const khambhat: CityContent = {
         "A static website is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is the biggest factor in speed.",
     },
     {
-      question: "Which is the best website development company in Khambhat?",
+      question: "Which is the best website development team in Khambhat?",
       answer:
         "Choose one that publishes prices, puts the domain and code in your name, answers after launch and can show real work. Ask every option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers before deciding is sensible.",
     },

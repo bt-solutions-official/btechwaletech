@@ -10,12 +10,12 @@ const shirpurWarwade: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Shirpur-Warwade ginning units, banana growers, colleges, hostels, clinics and shops.",
     keywords: [
       "IT services in Shirpur",
-      "IT company in Shirpur",
-      "website development company in Shirpur",
+      "IT services team in Shirpur",
+      "website development team in Shirpur",
       "web design in Shirpur",
-      "app development company in Shirpur",
+      "app development team in Shirpur",
       "Android app development in Shirpur",
-      "software company in Shirpur",
+      "software team in Shirpur",
       "SEO services in Shirpur",
       "digital marketing in Shirpur",
       "ecommerce website in Shirpur",
@@ -74,10 +74,10 @@ const shirpurWarwade: CityContent = {
     },
     {
       id: "cotton-ginning-software",
-      heading: "Software company in Shirpur for cotton ginning, pressing and oil mills",
+      heading: "Software team in Shirpur for cotton ginning, pressing and oil mills",
       paragraphs: [
         "Cotton is the crop that sets Shirpur's calendar. From the first pickings until the last arrivals, ginning and pressing units run long shifts, oil mills crush seed, and traders juggle purchases from hundreds of farmers with sales to spinning mills far away. Much of the record keeping still happens in registers and scattered spreadsheets.",
-        "As a <strong>software company in Shirpur</strong> in the practical sense, we build web tools that fit this work: each purchase entered once with farmer, vehicle, weight, moisture, rate and deductions; bales tracked by lot and pressing date; seed and oil stock updated as it moves; and a clear view of what each buyer owes and what each farmer is still due.",
+        "As a <strong>software team in Shirpur</strong> in the practical sense, we build web tools that fit this work: each purchase entered once with farmer, vehicle, weight, moisture, rate and deductions; bales tracked by lot and pressing date; seed and oil stock updated as it moves; and a clear view of what each buyer owes and what each farmer is still due.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. The off-season is the right time to build and test, so the purchase register is ready and familiar to staff before the first trolleys arrive. Reports can be exported for your accountant, and the data stays on hosting registered to you.",
         "The same approach works for the town's larger plants and their suppliers. Shirpur has a big gold refinery set on a 50-acre complex, along with sugar, starch, paper and textile units, and each of them buys from local transporters, electrical contractors, fabricators, canteen operators and security agencies. Those smaller firms benefit from a factual capability website listing services, equipment, safety practice, GST details and named contacts, plus a quotation form. We never place a client's name on your site without that client's written permission.",
       ],
@@ -93,10 +93,10 @@ const shirpurWarwade: CityContent = {
     },
     {
       id: "colleges-hostels-shirpur",
-      heading: "Website development company in Shirpur for hostels, PGs and student services",
+      heading: "Website development team in Shirpur for hostels, PGs and student services",
       paragraphs: [
         "Shirpur has an unusually large student population for a town of its size. The NMIMS campus runs engineering, pharmacy and aviation schools, the R. C. Patel Institute of Technology near Nimzari Naka on Shahada Road dates from 2001, and the R. C. Patel pharmacy institute near Karvand Naka from 1992, alongside polytechnics and schools.",
-        "Students and parents arriving from Mumbai, Pune, Gujarat or Madhya Pradesh search for rooms, mess food, laundry, stationery, bike rentals and coaching before they set foot in town. A <strong>website development company in Shirpur</strong> serving these businesses should help them answer the questions parents actually ask: room types and rent, deposit, food timings, rules, security, distance to campus and who to call at night.",
+        "Students and parents arriving from Mumbai, Pune, Gujarat or Madhya Pradesh search for rooms, mess food, laundry, stationery, bike rentals and coaching before they set foot in town. A <strong>website development team in Shirpur</strong> serving these businesses should help them answer the questions parents actually ask: room types and rent, deposit, food timings, rules, security, distance to campus and who to call at night.",
         "We build hostel and PG sites with real photographs, a clear rent table or range, a booking request form and a Maps pin, and connect them to WhatsApp for quick replies. Coaching classes get batch, fee and result pages. We never claim affiliation with a college on your site unless you have it in writing.",
       ],
     },
@@ -105,7 +105,7 @@ const shirpurWarwade: CityContent = {
       heading: "Android app development in Shirpur, and iOS apps for Khandesh businesses",
       paragraphs: [
         "An app pays off when the same group of people use it every week. In Shirpur, that might be students in a large hostel who report maintenance issues and pay rent, coaching students who need tests and notes, a dealer's village retailers placing repeat orders, or ginning staff logging arrivals at the weighbridge.",
-        "As an <strong>app development company in Shirpur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens your users need and an admin panel for your team. The app is published on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Shirpur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens your users need and an admin panel for your team. The app is published on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Shirpur</strong> with us starts at ₹40,000. The quote rises with online payments, offline entry for field staff in villages with poor signal, maps, multiple user roles and links to other software, and each of these is priced separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for the process.",
         "If customers only need your address, rates and a way to message you, an app is the wrong purchase. A website and a well-kept Maps listing do that job for much less, and that is what we will recommend.",
       ],
@@ -130,10 +130,10 @@ const shirpurWarwade: CityContent = {
     },
     {
       id: "retail-trade-shirpur",
-      heading: "IT company in Shirpur for jewellers, retailers and wholesale traders",
+      heading: "IT services team in Shirpur for jewellers, retailers and wholesale traders",
       paragraphs: [
         "The town's market serves a wide catchment. Jewellers, cloth merchants, electronics and furniture shops, hardware stores, grain traders and wholesalers sell to farmers after harvest, to families before weddings and festivals, and to the steady campus crowd all year.",
-        "An <strong>IT company in Shirpur</strong> that works for these businesses should begin with basics: a correct Maps listing, a WhatsApp Business catalogue, and one clear page with address, timings, categories stocked and a way to ask for a rate. Jewellers can add a page explaining purity marks and making charges; wholesalers can add a price list that updates without a phone call.",
+        "An <strong>IT services team in Shirpur</strong> that works for these businesses should begin with basics: a correct Maps listing, a WhatsApp Business catalogue, and one clear page with address, timings, categories stocked and a way to ask for a rate. Jewellers can add a page explaining purity marks and making charges; wholesalers can add a price list that updates without a phone call.",
         "Once that brings enquiries, you might add festival offer pages before Diwali, an order page for delivery within town, or a customer list for WhatsApp updates. We suggest these only after the basics are working, so money goes where it returns something.",
         "Shirpur is also known for its water conservation work, the “Shirpur pattern” of deepening and widening nallas that began in 2004. Contractors, engineers and NGOs involved in similar watershed projects can use a simple portfolio site with project photographs, locations and methods to show their experience to government departments and villages elsewhere.",
       ],
@@ -225,7 +225,7 @@ const shirpurWarwade: CityContent = {
         "A static website is normally live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Shirpur?",
+      question: "Who is the best website development team in Shirpur?",
       answer:
         "Test every provider the same way: published prices, domain and code registered in your name, real work you can inspect and support after launch. We meet those tests and reply on WhatsApp seven days a week, but compare two or three options before you decide.",
     },

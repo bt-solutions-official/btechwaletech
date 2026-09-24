@@ -9,8 +9,8 @@ const thanesar: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Kurukshetra and Thanesar hotels, coaching, clinics, shops and grain trade. Sites from ₹10,000, 5 months free upkeep.",
     keywords: [
-      "website development company in Kurukshetra",
-      "website development company in Thanesar",
+      "website development team in Kurukshetra",
+      "website development team in Thanesar",
       "web design Kurukshetra",
       "website designer Kurukshetra",
       "SEO services Kurukshetra",

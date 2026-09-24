@@ -10,12 +10,12 @@ const saundattiYellamma: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Saundatti lodges, pilgrim services, cane growers, input dealers, clinics and schools.",
     keywords: [
       "IT services in Saundatti",
-      "IT company in Saundatti",
-      "website development company in Saundatti",
+      "IT services team in Saundatti",
+      "website development team in Saundatti",
       "web design in Saundatti",
-      "app development company in Saundatti",
+      "app development team in Saundatti",
       "Android app development in Saundatti",
-      "software company in Saundatti",
+      "software team in Saundatti",
       "SEO services in Saundatti",
       "digital marketing in Saundatti",
       "ecommerce website in Saundatti",
@@ -83,19 +83,19 @@ const saundattiYellamma: CityContent = {
     },
     {
       id: "multilingual-pilgrim-websites",
-      heading: "Website development company in Saundatti for Marathi, Telugu and Hindi-speaking devotees",
+      heading: "Website development team in Saundatti for Marathi, Telugu and Hindi-speaking devotees",
       paragraphs: [
-        "The Yellamma temple draws large numbers from Maharashtra, Goa and Andhra Pradesh as well as Karnataka. Many of those visitors search in Marathi, Telugu or Hindi, and a Kannada-only page will not match what they type. A <strong>website development company in Saundatti</strong> that serves pilgrim trade should plan for more than one language from the start.",
+        "The Yellamma temple draws large numbers from Maharashtra, Goa and Andhra Pradesh as well as Karnataka. Many of those visitors search in Marathi, Telugu or Hindi, and a Kannada-only page will not match what they type. A <strong>website development team in Saundatti</strong> that serves pilgrim trade should plan for more than one language from the start.",
         "Our approach is simple. The main pages go up in Kannada and English, then separate Marathi, Telugu or Hindi versions are added for the audiences you actually receive, each with its own address so Google can show the right one. We draft the text, but a native speaker you trust, often a relative or regular customer, reads it before it goes live. A machine translation left unchecked tends to get room rates, directions or the goddess's names wrong, and devotees notice.",
         "For transport operators and larger lodges, a 700+ page SEO website from ₹20,000 can cover the routes people really search, such as travel from Kolhapur, Belagavi, Hubballi or Bagalkot, the jatre calendar, and practical guides to parking and darshan timings. We only publish a page when it carries facts that are true for that route. Thin pages that swap one city name for another get ignored by search engines and make a business look careless.",
       ],
     },
     {
       id: "sugar-farm-software-saundatti",
-      heading: "Software company in Saundatti for cane growers, sugar-mill suppliers and input dealers",
+      heading: "Software team in Saundatti for cane growers, sugar-mill suppliers and input dealers",
       paragraphs: [
         "Away from the hill, Saundatti taluk is farm country. Water from the Renuka Sagara reservoir, held back by the Navilutheertha dam on the Malaprabha since 1974, irrigates part of the land, and village records list cotton, maize and wheat among the main crops. Shree Renuka Sugars has a sugar and distillery unit at Munoli in the taluk, which keeps cane growing, harvesting gangs and transport busy through the crushing season.",
-        "That activity creates paperwork most families still keep by hand. A cane grower tracks advances, harvest dates and payments due from the mill. A harvesting contractor records labour attendance and wages. An input dealer gives seed and fertiliser on credit to dozens of farmers and waits for the crop to be sold before collecting. As a <strong>software company in Saundatti</strong> in practical terms, we build small web tools for exactly these records.",
+        "That activity creates paperwork most families still keep by hand. A cane grower tracks advances, harvest dates and payments due from the mill. A harvesting contractor records labour attendance and wages. An input dealer gives seed and fertiliser on credit to dozens of farmers and waits for the crop to be sold before collecting. As a <strong>software team in Saundatti</strong> in practical terms, we build small web tools for exactly these records.",
         "A typical first version holds one ledger per farmer or supplier, entries made from a phone in a few taps, running balances, due-date reminders sent on WhatsApp, stock by batch and expiry for pesticides, and a monthly summary you can print. Custom software starts at ₹60,000 and takes six to twelve weeks. We build the part that saves the most time first, usually the credit ledger, so it is working before the next sowing season.",
       ],
     },
@@ -131,7 +131,7 @@ const saundattiYellamma: CityContent = {
       heading: "Android app development in Saundatti, and iOS apps where they pay back",
       paragraphs: [
         "An app makes sense when the same people use it every week. In Saundatti, that describes village retailers re-ordering seed and fertiliser from a dealer, parents following a school's notices and fee dates, patients booking tokens at a busy hospital, or a harvesting contractor's supervisors marking attendance in the field. A lodge that sees each guest once a year rarely needs one.",
-        "As an <strong>app development company in Saundatti</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. The first version usually covers mobile number login, push notifications, the three or four screens your users need most, and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Saundatti</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. The first version usually covers mobile number login, push notifications, the three or four screens your users need most, and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Saundatti</strong> starts at ₹40,000. The price rises with online payments, offline entry for fields with weak signal, maps, multiple languages and links to your billing software, and each of these is priced separately in the quote. There is more detail on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, rates and a phone number, a website does that job at a quarter of the cost and needs no download. We will say so plainly, because an app that is opened once and forgotten is money you could have spent elsewhere.",
       ],
@@ -172,7 +172,7 @@ const saundattiYellamma: CityContent = {
     },
     {
       id: "remote-it-company-saundatti",
-      heading: "Working with a remote IT company in Saundatti: how a project moves",
+      heading: "Working with a remote IT services team in Saundatti: how a project moves",
       paragraphs: [
         "We are three engineers with no office in Saundatti or anywhere else, so the process has to be clear enough to replace a meeting across a table. It starts with a call about your trade, your customers and the season that matters most to you. Within about two working days you receive a written note listing the pages or app screens, the timeline and the cost of every item.",
         "Work begins only when you approve that note, and nothing is billed before then. While we build, you get preview links that open on any phone, so a partner at the lodge or a son studying in Dharwad can check them too. Any Kannada, Marathi or Telugu wording comes to you for a read before launch, since a mistake on a rate card or a temple timing costs more than it looks.",
@@ -244,7 +244,7 @@ const saundattiYellamma: CityContent = {
         "A simple Saundatti shop or clinic website usually goes live one to two weeks after we receive photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content in the first few days is the easiest way to keep the date.",
     },
     {
-      question: "Which is the best IT company in Saundatti for a website or app?",
+      question: "Which is the best IT services team in Saundatti for a website or app?",
       answer:
         "Judge any IT company in Saundatti by the same tests: published starting prices, domain and code registered in your name, real support after launch and work you can inspect. We meet those tests and reply on WhatsApp seven days a week, but asking two or three providers the same questions before you decide is sensible.",
     },

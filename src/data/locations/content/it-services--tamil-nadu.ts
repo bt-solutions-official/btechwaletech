@@ -10,8 +10,8 @@ const content: CityContent = {
       "IT services in Tamil Nadu from a freelance group of three engineers: manufacturing software, dealer portals, Tamil-first apps, AI automation, SEO. From ₹10,000.",
     keywords: [
       "IT services in Tamil Nadu",
-      "software development company in Tamil Nadu",
-      "IT company in Tamil Nadu",
+      "software development team in Tamil Nadu",
+      "IT services team in Tamil Nadu",
       "freelance software developers Tamil Nadu",
       "Android app development Tamil Nadu",
       "iOS app development Tamil Nadu",
@@ -84,9 +84,9 @@ const content: CityContent = {
     },
     {
       id: "tamil-nadu-freelance-vs-company",
-      heading: "Freelance group vs a software development company in Tamil Nadu: which should you choose?",
+      heading: "Freelance group vs a software development team in Tamil Nadu: which should you choose?",
       paragraphs: [
-        "Choose a freelance group when you want direct access to the engineers, flexible modular scope and lower overheads; choose a software development company in Tamil Nadu when you need a large team, on-site deployment at several plants, strict enterprise procurement or round-the-clock staffed support. Many mid-sized manufacturers and institutions are well served by the first option.",
+        "Choose a freelance group when you want direct access to the engineers, flexible modular scope and lower overheads; choose a software development team in Tamil Nadu when you need a large team, on-site deployment at several plants, strict enterprise procurement or round-the-clock staffed support. Many mid-sized manufacturers and institutions are well served by the first option.",
         "Chennai and Coimbatore have many capable software firms, and some projects genuinely need them. What a freelance group offers is speed and clarity: the three people you speak to write the code, quotes are itemised, decisions happen on a WhatsApp call, and the code, data and accounts are yours at the end.",
         "Our limits are clear too. We do not provide on-site hardware, networking or dedicated round-the-clock help desks, and we will say so if your project needs a bigger team. Read more on our <a href='/about/'>about page</a>.",
       ],
@@ -265,7 +265,7 @@ const content: CityContent = {
     { question: "How long does SEO take in Tamil Nadu?", answer: "Usually three to six months for steady results, longer in competitive Chennai and Coimbatore markets. Specific B2B product pages and Tamil-language local pages often move sooner. We do not guarantee rankings and report progress monthly." },
     { question: "Can you build AI automation for our factory?", answer: "Yes, for the business side. AI and workflow automation can answer dealer queries, generate order summaries, route service requests, send dispatch updates and compile daily reports. We do not build machine control or safety systems; those need specialist industrial vendors." },
     { question: "Do you work with small shops as well as factories?", answer: "Yes. A static website from ₹10,000 suits shops, clinics and service providers, and many start there before adding WhatsApp automation or an online store. Larger manufacturers usually start with a focused custom tool." },
-    { question: "Which is the best IT company in Tamil Nadu?", answer: "There is no single best choice. Tamil Nadu has large software firms, specialist ERP vendors, local web studios and remote freelance groups like ours. Compare them on relevant work, ownership, itemised pricing, support and who actually writes the code." },
+    { question: "Which is the best IT services team in Tamil Nadu?", answer: "There is no single best choice. Tamil Nadu has large software firms, specialist ERP vendors, local web studios and remote freelance groups like ours. Compare them on relevant work, ownership, itemised pricing, support and who actually writes the code." },
     { question: "How do we start?", answer: "Send a WhatsApp message or use the <a href='/contact/'>contact page</a> with a short description of your business, city and requirement. We usually arrange a call, then send an itemised quote in about two working days. Work starts after approval and the first milestone payment." },
   ],
   nearby: ["chennai", "coimbatore", "madurai", "tiruchirappalli", "salem", "tiruppur", "erode", "vellore", "thanjavur", "tirunelveli", "pondicherry"],

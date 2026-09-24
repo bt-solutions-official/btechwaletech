@@ -9,7 +9,7 @@ const pudukkottai: CityContent = {
     description:
       "Websites, Tamil local SEO, cashew and seafood stores, and WhatsApp automation for Pudukkottai shops, SIPCOT units, clinics and colleges. Sites from ₹10,000.",
     keywords: [
-      "website development company in Pudukkottai",
+      "website development team in Pudukkottai",
       "web designer Pudukkottai",
       "website design Pudukkottai Tamil Nadu",
       "SEO services Pudukkottai",
@@ -23,7 +23,7 @@ const pudukkottai: CityContent = {
       "Aranthangi website designer",
       "Pudukkottai website podanum",
       "புதுக்கோட்டை வெப்சைட் டிசைன்",
-      "software company Pudukkottai",
+      "software team Pudukkottai",
     ],
   },
   hero: {

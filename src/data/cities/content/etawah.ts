@@ -9,7 +9,7 @@ const etawah: CityContent = {
     description:
       "Websites, Hindi local SEO and WhatsApp automation for Etawah textile units, ghee and dairy sellers, clinics, schools and highway businesses. From ₹10,000.",
     keywords: [
-      "website development company in Etawah",
+      "website development team in Etawah",
       "web designer Etawah",
       "website banane wala Etawah",
       "SEO services Etawah",

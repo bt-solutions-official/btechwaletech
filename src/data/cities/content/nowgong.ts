@@ -10,12 +10,12 @@ const nowgong: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Nowgong highway hotels, colleges, grain and dal traders, clinics and shops.",
     keywords: [
       "IT services in Nowgong",
-      "IT company in Nowgong",
-      "website development company in Nowgong",
+      "IT services team in Nowgong",
+      "website development team in Nowgong",
       "web design in Nowgong",
-      "app development company in Nowgong",
+      "app development team in Nowgong",
       "Android app development in Nowgong",
-      "software company in Nowgong",
+      "software team in Nowgong",
       "SEO services in Nowgong",
       "digital marketing in Nowgong",
       "ecommerce website in Nowgong",
@@ -92,19 +92,19 @@ const nowgong: CityContent = {
     },
     {
       id: "colleges-coaching-nowgong",
-      heading: "Website development company in Nowgong for colleges, coaching and hostels",
+      heading: "Website development team in Nowgong for colleges, coaching and hostels",
       paragraphs: [
         "Nowgong Polytechnic College, set up in 1952, is often described as the first polytechnic in Bundelkhand, and a Government Engineering College opened in the town in 2012. Along with government colleges and private schools, they bring students from across Chhatarpur district and neighbouring Uttar Pradesh. Around them grow the usual services: coaching classes, rooms and hostels on rent, reading rooms, stationery and photocopy shops, and cheap eateries.",
-        "A <strong>website development company in Nowgong</strong> can make these services easier to find. A coaching institute needs a page per course with batch timings, fee ranges, faculty and results it is allowed to publish, plus an enquiry form. A hostel or room owner needs photos, rent, facilities, rules and distance from the campus. A reading room needs its hours, seat charges and a WhatsApp link.",
+        "A <strong>website development team in Nowgong</strong> can make these services easier to find. A coaching institute needs a page per course with batch timings, fee ranges, faculty and results it is allowed to publish, plus an enquiry form. A hostel or room owner needs photos, rent, facilities, rules and distance from the campus. A reading room needs its hours, seat charges and a WhatsApp link.",
         "We write these pages in Hindi with English where students expect it, and make sure they open quickly on budget phones. Coaching institutes that want online tests, fee reminders and attendance can add a small web app later. For most, a static site from ₹10,000 plus a good Maps listing is the right start.",
       ],
     },
     {
       id: "grain-dal-oil-trade",
-      heading: "Software company in Nowgong for grain traders, dal mills and oil mills",
+      heading: "Software team in Nowgong for grain traders, dal mills and oil mills",
       paragraphs: [
         "Farming around Nowgong depends on wheat and pulses, and the local trade follows the harvest. Grain traders and commission agents buy from farmers, store and sell onward. At Harpalpur, a short distance north, the economy leans on mustard oil mills and pulse mills, many run by trading families who came from Rath across the Uttar Pradesh border. Seed, fertiliser and tractor part dealers sell into the same villages.",
-        "Much of this business still runs on registers and phone calls. As a <strong>software company in Nowgong</strong>, we build small web tools that replace the register without changing how you trade. Each purchase is entered once with farmer name, quantity, rate and deductions. Stock in each godown updates automatically. Outstanding amounts from retailers and payments due to farmers appear on one screen, and a daily summary can go to the owner on WhatsApp.",
+        "Much of this business still runs on registers and phone calls. As a <strong>software team in Nowgong</strong>, we build small web tools that replace the register without changing how you trade. Each purchase is entered once with farmer name, quantity, rate and deductions. Stock in each godown updates automatically. Outstanding amounts from retailers and payments due to farmers appear on one screen, and a daily summary can go to the owner on WhatsApp.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with whatever causes the most arguments, which is usually payment records. Everything can export to Excel or your accountant's format, so nothing is locked in. A mill that sells packed dal or oil to retailers can add a simple order page for them.",
       ],
     },
@@ -140,7 +140,7 @@ const nowgong: CityContent = {
       heading: "Android app development in Nowgong, with iOS apps from the same code",
       paragraphs: [
         "An app is only worth its cost if people open it regularly. In Nowgong that fits a coaching institute sharing tests, notes and results with enrolled students; a trader or mill taking repeat orders from retailers in surrounding villages; a school sending notices and fee reminders to parents; or a clinic group managing appointments and reports.",
-        "As an <strong>app development company in Nowgong</strong> that works remotely, we build in Flutter or React Native, which means one codebase runs on Android and on iPhone. A first release usually includes mobile number login, push notifications, the main screens your users need and a web admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Nowgong</strong> that works remotely, we build in Flutter or React Native, which means one codebase runs on Android and on iPhone. A first release usually includes mobile number login, push notifications, the main screens your users need and a web admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Nowgong</strong> with us starts at ₹40,000. Online payment, offline mode for villages with weak networks, Hindi and English, and links to your billing software each appear as separate lines. Details are on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number and price list, a website does that job for a quarter of the price, and we will recommend it.",
       ],
@@ -228,7 +228,7 @@ const nowgong: CityContent = {
         "A simple static site takes one to two weeks once we receive your photos and details. An SEO site of 700+ pages takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The fastest projects are those where the owner sends content early.",
     },
     {
-      question: "Which is the best IT company in Nowgong?",
+      question: "Which is the best IT services team in Nowgong?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code to you, tests on ordinary phones and answers after launch. Ask each one for live examples and a written quote. We meet these tests and reply on WhatsApp daily, but comparing two or three options first is sensible.",
     },

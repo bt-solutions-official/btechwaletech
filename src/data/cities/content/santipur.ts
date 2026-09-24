@@ -9,7 +9,7 @@ const santipur: CityContent = {
     description:
       "Websites, saree stores, SEO and WhatsApp automation for Santipur and Phulia weavers, traders and local businesses. Static sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Santipur",
+      "website development team in Santipur",
       "web designer Santipur",
       "Shantipur website design",
       "saree ecommerce website Santipur",

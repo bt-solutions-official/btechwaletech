@@ -9,7 +9,7 @@ const raeBareli: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Rae Bareli clinics near AIIMS, coaching centres, contractors, traders and shops. Static sites start at ₹10,000.",
     keywords: [
-      "website development company in Rae Bareli",
+      "website development team in Rae Bareli",
       "web designer Raebareli",
       "website design Rae Bareli Uttar Pradesh",
       "SEO services Raebareli",

@@ -9,14 +9,14 @@ const bhopal: CityContent = {
     description:
       "Website design, local SEO and WhatsApp automation for Bhopal businesses. Sites from ₹10,000, SEO sites from ₹20,000, itemised quotes and 5 months free upkeep.",
     keywords: [
-      "website development company in Bhopal",
+      "website development team in Bhopal",
       "website designer in Bhopal",
       "web design Bhopal",
       "website design cost Bhopal",
       "SEO services Bhopal",
       "local SEO MP Nagar",
       "ecommerce website Bhopal",
-      "software development company Bhopal",
+      "software development team Bhopal",
       "web developer Govindpura",
       "website for Mandideep manufacturers",
       "WhatsApp automation Bhopal",

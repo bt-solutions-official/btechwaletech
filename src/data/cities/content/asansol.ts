@@ -9,13 +9,13 @@ const asansol: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Asansol, Burnpur, Kulti and Raniganj firms. From ₹10,000, with 5 months of free maintenance.",
     keywords: [
-      "website development company in Asansol",
+      "website development team in Asansol",
       "web designer Asansol",
       "website design Asansol price",
       "SEO services Asansol",
       "local SEO Asansol",
       "ecommerce website Asansol",
-      "software company Asansol",
+      "software team Asansol",
       "web app development Asansol",
       "WhatsApp automation Asansol",
       "AI automation West Bengal",

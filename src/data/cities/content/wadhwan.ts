@@ -10,13 +10,13 @@ const wadhwan: CityContent = {
       "Websites, Android and iOS apps, Gujarati local SEO and WhatsApp automation for Wadhwan and Surendranagar ginners, ceramic units, salt traders and shops.",
     keywords: [
       "IT services in Wadhwan",
-      "IT company in Surendranagar",
-      "website development company in Wadhwan",
-      "website development company in Surendranagar",
+      "IT services team in Surendranagar",
+      "website development team in Wadhwan",
+      "website development team in Surendranagar",
       "web design in Surendranagar",
-      "app development company in Surendranagar",
+      "app development team in Surendranagar",
       "Android app development in Wadhwan",
-      "software company in Surendranagar",
+      "software team in Surendranagar",
       "SEO services in Surendranagar",
       "digital marketing in Wadhwan",
       "ecommerce website in Surendranagar",
@@ -69,7 +69,7 @@ const wadhwan: CityContent = {
       heading: "IT services in Wadhwan and Surendranagar: one market, two names",
       paragraphs: [
         "Outsiders often treat Wadhwan and Surendranagar as separate places, but for business they work as one. Wadhwan is the older town, once the seat of a Jhala Rajput princely state, with its palaces and stepwells beside the Bhogavo river. Surendranagar grew up as the newer commercial side, and the municipality now covers both. A customer in Muli or Sayla will say they are going to “Surendranagar” for shopping and “Wadhwan” for a particular temple or old market, and search Google with either name.",
-        "That double identity matters when you choose an IT company in Surendranagar or anywhere else. Your website, Google Business Profile and directory listings should mention both names where they are true, along with Dudhrej and Joravarnagar if you serve them. A shop that appears only under “Wadhwan City” can miss buyers who type “Surendranagar”, and the reverse happens too.",
+        "That double identity matters when you choose an IT services team in Surendranagar or anywhere else. Your website, Google Business Profile and directory listings should mention both names where they are true, along with Dudhrej and Joravarnagar if you serve them. A shop that appears only under “Wadhwan City” can miss buyers who type “Surendranagar”, and the reverse happens too.",
         "The district also sends a steady stream of people into town for hospitals, colleges, court work and wholesale buying. Families from Limbdi, Chotila, Dhrangadhra and Thangadh plan these trips on their phones before leaving, usually in Gujarati. Being findable, with correct timings and a phone number that someone answers, wins much of that traffic before a competitor even hears about it.",
         "We build for that reality: plain, fast pages in Gujarati and English, map listings that match your signboard, Android and iOS apps where repeat customers justify one, and simple software that replaces the registers you already keep.",
       ],
@@ -81,7 +81,7 @@ const wadhwan: CityContent = {
         "Surendranagar is one of Gujarat's best-known cotton towns. Ginning and pressing factories around the city process kapas from Jhalawad farms into bales and cottonseed, and the Surendranagar Cotton Oil and Oilseeds Association, set up in 1964, gave the town an early place in cotton futures trading. Shankar cotton from this belt is sold to spinning mills across the country.",
         "Most ginners still run the season on registers and phone calls. Kapas purchases are noted farmer by farmer, bales are numbered by hand, and lot details reach buyers as photographs of a notebook. When a mill asks for staple length, micronaire, trash content or moisture for a particular lot, someone has to dig through paper.",
         "We build lot and bale registers that fix this. Each kapas purchase is entered once with weight, rate and payment. Pressed bales get a number linked to their lot, with test results attached when you have them. Dispatches are logged against each buyer, and outstanding payments show on a phone screen. At the end of the season the owner can see yield, cost per bale and who still owes money without waiting for the accountant.",
-        "For the sales side, a simple website listing your factory, capacity, cotton varieties handled, GST details and contact people helps mill buyers and brokers check you before calling. A software company in Surendranagar should not sell you a heavy ERP for this; a focused tool that the munim will actually fill in every day is worth far more. Custom software of this kind starts at ₹60,000 and is built season by season.",
+        "For the sales side, a simple website listing your factory, capacity, cotton varieties handled, GST details and contact people helps mill buyers and brokers check you before calling. A software team in Surendranagar should not sell you a heavy ERP for this; a focused tool that the munim will actually fill in every day is worth far more. Custom software of this kind starts at ₹60,000 and is built season by season.",
       ],
     },
     {
@@ -166,7 +166,7 @@ const wadhwan: CityContent = {
       heading: "Android app development in Surendranagar: when an app makes sense",
       paragraphs: [
         "Many owners ask us about an app before they have a working website. An app is worth building when the same people come back often: ceramic dealers reordering every month, ginning buyers checking lots in season, coaching students looking at notes and tests, or customers of a dairy or grocery delivery service ordering every morning. For a one-time customer who just wants your address, a website is enough.",
-        "As an app development company in Surendranagar clients can reach on WhatsApp, we build Android and iOS apps with Flutter or React Native, so one codebase serves both platforms. Typical features include phone or email login, a product or lot catalogue, orders or bookings, push notifications for new stock, rates or notices, and an admin panel your staff use to update content and see orders.",
+        "As an app development team in Surendranagar clients can reach on WhatsApp, we build Android and iOS apps with Flutter or React Native, so one codebase serves both platforms. Typical features include phone or email login, a product or lot catalogue, orders or bookings, push notifications for new stock, rates or notices, and an admin panel your staff use to update content and see orders.",
         "Apps start at ₹40,000. The final figure depends on screens, roles such as dealer, salesperson and admin, payment options and links to Tally or your website. We handle publishing on Google Play and the App Store, and the developer accounts are registered in your name so the app stays yours. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for examples.",
         "Before building, we often suggest a mobile-friendly web app as a first step. If dealers use it daily and ask for notifications, moving to a store app is a small next step rather than a gamble.",
       ],
@@ -231,7 +231,7 @@ const wadhwan: CityContent = {
         "A static website of up to 100 pages starts at ₹10,000 and takes one to two weeks. An SEO website with 700+ pages starts at ₹20,000, an ecommerce store from ₹50,000 and custom software from ₹60,000. You get an itemised written quote in about two working days, and nothing is billed before you approve it.",
     },
     {
-      question: "Which is the best website development company in Surendranagar?",
+      question: "Which is the best website development team in Surendranagar?",
       answer:
         "The best choice is whoever puts the domain, hosting and code in your name, shows past work, gives a written itemised quote and stays reachable after launch. Check those four things with any developer, local or remote. We meet all four, publish our starting prices, and are happy to be compared on them.",
     },

@@ -10,9 +10,9 @@ const content: CityContent = {
       "Freelance IT services in Madhya Pradesh: custom software, web and mobile apps, AI automation, dashboards, SEO and ecommerce for MP firms. Sites from ₹10,000.",
     keywords: [
       "IT services in Madhya Pradesh",
-      "software development company in Madhya Pradesh",
-      "IT company in Madhya Pradesh",
-      "software company MP",
+      "software development team in Madhya Pradesh",
+      "IT services team in Madhya Pradesh",
+      "software team MP",
       "custom software development Madhya Pradesh",
       "web application development MP",
       "mobile app development Madhya Pradesh",
@@ -23,12 +23,12 @@ const content: CityContent = {
       "business dashboard Madhya Pradesh",
       "SEO services Madhya Pradesh",
       "ecommerce website Madhya Pradesh",
-      "IT company near me Indore Bhopal",
+      "IT services team near me Indore Bhopal",
       "software developers Jabalpur Gwalior Ujjain",
       "website maintenance Madhya Pradesh",
       "मध्य प्रदेश में सॉफ्टवेयर कंपनी",
       "MP mein software banwana",
-      "affordable IT company Madhya Pradesh",
+      "affordable IT services team Madhya Pradesh",
       "Android app development Madhya Pradesh",
       "mobile app developers Madhya Pradesh",
       "iOS app development Madhya Pradesh",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "IT services · Madhya Pradesh",
     h1: "Freelance IT services in Madhya Pradesh: custom software, apps and AI automation",
     lede:
-      "BtechWaleTech provides IT services in Madhya Pradesh as a freelance group of three engineers working remotely from India, an alternative to hiring a software development company in Madhya Pradesh. We build custom software, web applications, mobile apps, AI and WhatsApp automations, dashboards, ecommerce stores and SEO websites for firms from Indore and Bhopal to Jabalpur, Gwalior, Ujjain and the district towns in between.",
+      "BtechWaleTech provides IT services in Madhya Pradesh as a freelance group of three engineers working remotely from India, an alternative to hiring a software development team in Madhya Pradesh. We build custom software, web applications, mobile apps, AI and WhatsApp automations, dashboards, ecommerce stores and SEO websites for firms from Indore and Bhopal to Jabalpur, Gwalior, Ujjain and the district towns in between.",
     pills: ["Software from ₹60,000", "Android & iOS apps from ₹40,000", "Automation from ₹40,000", "Hindi-first interfaces", "All 55 districts, remotely", "5 months free maintenance"],
   },
   quickAnswer:
@@ -87,9 +87,9 @@ const content: CityContent = {
     },
     {
       id: "choose-software-company-mp",
-      heading: "Freelance team or software development company in Madhya Pradesh: how to choose",
+      heading: "Freelance team or software development team in Madhya Pradesh: how to choose",
       paragraphs: [
-        "Whether you hire a software development company in Madhya Pradesh or a freelance team, check three things: who writes the code, whether the quote lists every module with a price, and whether the domain, hosting and source code will be registered in your name. A provider that answers these clearly is far less likely to leave you stranded after launch.",
+        "Whether you hire a software development team in Madhya Pradesh or a freelance team, check three things: who writes the code, whether the quote lists every module with a price, and whether the domain, hosting and source code will be registered in your name. A provider that answers these clearly is far less likely to leave you stranded after launch.",
         "Search results for software companies in Indore, Bhopal and other MP cities show a wide spread, from global delivery centres and staffing firms to small local studios that mostly build websites. Large firms suit enterprise budgets. Very small shops can be good but sometimes disappear once the final payment is made. For a mid-sized trader, manufacturer or institute, the best fit is often a small freelance group with real engineering skills, clear pricing and a habit of answering the phone.",
         "Before signing, ask for a live demo or preview link rather than slides, confirm the technology stack, and ask what happens when a bug appears six months later. Ask whether the interface can be in Hindi for floor or field staff. Ask how data will be backed up. You can read <a href='/about/'>how our team works</a> and browse <a href='/portfolio/'>our portfolio</a> to judge us on the same tests.",
       ],
@@ -218,7 +218,7 @@ const content: CityContent = {
       id: "cost-timeline-mp",
       heading: "What do IT services cost in Madhya Pradesh, and how long does work take?",
       paragraphs: [
-        "IT project costs in Madhya Pradesh vary widely from one IT company in Madhya Pradesh to the next, but with BtechWaleTech a static website starts at ₹10,000 (1 to 2 weeks), a 700+ page SEO website at ₹20,000 (3 to 5 weeks), AI automation at ₹40,000 (2 to 4 weeks), ecommerce at ₹50,000 (4 to 8 weeks) and custom software at ₹60,000 (6 to 12 weeks).",
+        "IT project costs in Madhya Pradesh vary widely from one IT services team in Madhya Pradesh to the next, but with BtechWaleTech a static website starts at ₹10,000 (1 to 2 weeks), a 700+ page SEO website at ₹20,000 (3 to 5 weeks), AI automation at ₹40,000 (2 to 4 weeks), ecommerce at ₹50,000 (4 to 8 weeks) and custom software at ₹60,000 (6 to 12 weeks).",
         "Costs rise with user roles, integrations, data migration and the number of reports. Importing years of Tally or Excel history adds work; so does connecting courier, SMS or WhatsApp APIs. We list each item separately, so an owner can decide what to build now and what to add later. Maintenance is ₹8,000 a month after the first five free months, and monthly SEO is ₹10,000.",
         "Timelines depend as much on the client as on us. A business that shares sample data early and reviews the preview link weekly will finish on schedule. Full details are on our <a href='/pricing/'>pricing page</a>, and payment is by UPI QR or bank transfer in INR, in milestones written into the quote.",
       ],

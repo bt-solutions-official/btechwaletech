@@ -9,7 +9,7 @@ const rajahmundry: CityContent = {
     description:
       "Websites, Telugu SEO, UPI stores and WhatsApp automation for Rajamahendravaram jewellers, Kadiyam nurseries, clinics and KG basin vendors. From ₹10,000.",
     keywords: [
-      "website development company in Rajahmundry",
+      "website development team in Rajahmundry",
       "web design Rajamahendravaram",
       "website designer Rajahmundry",
       "freelance web developer Rajahmundry",
@@ -273,7 +273,7 @@ const rajahmundry: CityContent = {
     {
       question: "How long does SEO take in Rajahmundry?",
       answer:
-        "Nearby map searches tend to respond first, often in six to ten weeks after the listing and site are fixed. City-wide terms like “website development company in Rajahmundry” are slower and usually need four to eight months of consistent effort. Anyone guaranteeing the top spot is guessing, and we will not make that promise.",
+        "Nearby map searches tend to respond first, often in six to ten weeks after the listing and site are fixed. City-wide terms like “website development team in Rajahmundry” are slower and usually need four to eight months of consistent effort. Anyone guaranteeing the top spot is guessing, and we will not make that promise.",
     },
     {
       question: "Do you work with businesses in Kakinada, Kovvur, Mandapeta and Amalapuram?",

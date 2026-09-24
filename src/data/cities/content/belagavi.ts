@@ -9,10 +9,10 @@ const belagavi: CityContent = {
     description:
       "Websites for Belagavi foundries, aerospace suppliers, Kunda shops, clinics and colleges. From ₹10,000, itemised quotes, 5 months free maintenance, you own the code.",
     keywords: [
-      "website development company in Belagavi",
+      "website development team in Belagavi",
       "web design Belgaum",
       "website designer Belagavi",
-      "SEO company Belgaum",
+      "SEO team Belgaum",
       "local SEO Belagavi",
       "foundry website design Belgaum",
       "ecommerce website Belagavi",

@@ -9,7 +9,7 @@ const sambalpur: CityContent = {
     description:
       "Websites, local SEO, handloom stores and WhatsApp automation for Sambalpur, Burla and Hirakud businesses. Static sites from ₹10,000, with five months of free upkeep.",
     keywords: [
-      "website development company in Sambalpur",
+      "website development team in Sambalpur",
       "web design Sambalpur",
       "website designer Sambalpur",
       "freelance web developer Sambalpur",

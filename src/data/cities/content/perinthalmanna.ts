@@ -10,12 +10,12 @@ const perinthalmanna: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Perinthalmanna hospitals, nursing colleges, NH 966 shops and Gulf-linked firms.",
     keywords: [
       "IT services in Perinthalmanna",
-      "IT company in Perinthalmanna",
-      "website development company in Perinthalmanna",
+      "IT services team in Perinthalmanna",
+      "website development team in Perinthalmanna",
       "web design in Perinthalmanna",
-      "app development company in Perinthalmanna",
+      "app development team in Perinthalmanna",
       "Android app development in Perinthalmanna",
-      "software company in Perinthalmanna",
+      "software team in Perinthalmanna",
       "SEO services in Perinthalmanna",
       "digital marketing in Perinthalmanna",
       "ecommerce website in Perinthalmanna",
@@ -74,19 +74,19 @@ const perinthalmanna: CityContent = {
     },
     {
       id: "hospitals-clinics",
-      heading: "Software company in Perinthalmanna for hospitals, clinics and diagnostic labs",
+      heading: "Software team in Perinthalmanna for hospitals, clinics and diagnostic labs",
       paragraphs: [
         "Few towns of about fifty thousand people carry as many multi-speciality hospitals. Alongside the government district hospital there are MES Medical College Hospital, Moulana, KIMS Al Shifa and the EMS Memorial Co-operative Hospital, plus eye, ENT and smaller speciality centres. Each one handles a stream of repeat questions every day: OPD timings, doctor availability, health check packages, insurance tie-ups, visiting hours and directions to the right block.",
-        "As a <strong>software company in Perinthalmanna</strong> we build the pieces that take that load off the reception desk. A department-wise doctor directory with OPD days kept current by your own staff. Appointment request forms that land in a queue rather than a personal phone. Pages for each health package, with inclusions listed plainly. Where a hospital wants it, a secure portal for downloading lab reports, protected by mobile number login and kept separate from the public website.",
+        "As a <strong>software team in Perinthalmanna</strong> we build the pieces that take that load off the reception desk. A department-wise doctor directory with OPD days kept current by your own staff. Appointment request forms that land in a queue rather than a personal phone. Pages for each health package, with inclusions listed plainly. Where a hospital wants it, a secure portal for downloading lab reports, protected by mobile number login and kept separate from the public website.",
         "Medical content needs restraint. Doctors in India work under professional conduct rules on self-promotion, so we keep pages factual: qualifications, specialities, timings and services, with no miracle claims, testimonials of cures or before-and-after photographs. Smaller clinics and diagnostic labs usually need only a clean site, a correct map listing and a WhatsApp link, which starts at ₹10,000. Custom booking or token software starts at ₹60,000 and is built in stages over six to twelve weeks.",
       ],
     },
     {
       id: "medical-nursing-colleges",
-      heading: "Website development company in Perinthalmanna for medical, nursing and technical institutes",
+      heading: "Website development team in Perinthalmanna for medical, nursing and technical institutes",
       paragraphs: [
         "The hospitals brought colleges with them. MES Academy of Medical Sciences at Malaparamba runs medical, dental, nursing and paramedical programmes, and there are further nursing and allied health institutes linked to Shifa, Moulana and EMS Memorial, an optometry college, the Government Polytechnic near Angadipuram, engineering colleges at Vengoor and Pooppalam, and a long list of ITIs. The Aligarh Muslim University Malappuram Centre at Chelamala has operated since 2012, and PTM Government College dates to 1975.",
-        "Applicants for these courses come from across Kerala and often from other states, and they compare several institutes at once. A <strong>website development company in Perinthalmanna</strong> should give them what the brochure rarely does: eligibility for each course, seat categories, the fee structure or at least a clear range, hostel and transport details, the affiliating university and council approvals, admission dates and a named person to contact.",
+        "Applicants for these courses come from across Kerala and often from other states, and they compare several institutes at once. A <strong>website development team in Perinthalmanna</strong> should give them what the brochure rarely does: eligibility for each course, seat categories, the fee structure or at least a clear range, hostel and transport details, the affiliating university and council approvals, admission dates and a named person to contact.",
         "We build course pages that stand on their own in search results, admission enquiry forms that ask the right questions up front, and simple dashboards that show which courses and districts send the most enquiries. Placement numbers and rankings appear only if you can document them. For institutes with hostels, a parent notice board or app for circulars and fee reminders saves the office many phone calls each term.",
       ],
     },
@@ -131,7 +131,7 @@ const perinthalmanna: CityContent = {
       heading: "Android app development in Perinthalmanna, with iOS apps built alongside",
       paragraphs: [
         "An app earns its place when the same people come back to it again and again. In Perinthalmanna the obvious cases are hospitals issuing OPD tokens and showing live queue numbers, nursing and paramedical institutes sending circulars, attendance and fee reminders to students and parents, supermarkets with regular home-delivery customers, and diagnostic labs sharing reports with patients who visit every few months.",
-        "As an <strong>app development company in Perinthalmanna</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release normally covers mobile number login, push notifications, the three or four screens your users rely on, and an admin panel where your staff update content. Malayalam labels are included where your users need them. We publish the app on Google Play and the Apple App Store using developer accounts registered to your organisation.",
+        "As an <strong>app development team in Perinthalmanna</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release normally covers mobile number login, push notifications, the three or four screens your users rely on, and an admin panel where your staff update content. Malayalam labels are included where your users need them. We publish the app on Google Play and the Apple App Store using developer accounts registered to your organisation.",
         "<strong>Android app development in Perinthalmanna</strong> with us starts at ₹40,000. Online payment, offline access, maps, integration with hospital or college software and multiple user roles each add to that, and every addition appears as a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses are better served by a website. If people visit you once a year, or only need your number, timings and a price list, a mobile-friendly site does the job at a fraction of the cost and needs no download. We say this before quoting, not after.",
       ],
@@ -156,7 +156,7 @@ const perinthalmanna: CityContent = {
     },
     {
       id: "remote-team-perinthalmanna",
-      heading: "Working with a remote IT company in Perinthalmanna: how a project runs",
+      heading: "Working with a remote IT services team in Perinthalmanna: how a project runs",
       paragraphs: [
         "Every project starts with a conversation, usually on WhatsApp or a phone call, about what your business does and what you want the website or app to change. Within about two working days you receive a written plan: pages or screens, timeline, and an itemised cost. You can question any line, remove it, or ask for alternatives. Work begins only once you approve, and nothing is billed before that.",
         "During the build you see progress on preview links that open on any phone, so a hospital's medical director, a college principal or a shop owner's son in Muscat can review the same draft. Malayalam text is sent to you for checking before it goes live, because a wrong word on a notice or price tag reflects on your business, not ours.",
@@ -223,7 +223,7 @@ const perinthalmanna: CityContent = {
         "Yes. Hospital sites usually need a department-wise doctor directory with OPD days, health package pages, appointment requests and clear emergency contacts. We keep medical content factual, avoid claims that professional rules discourage, and can add a secure report download area. A clinic site starts at ₹10,000; hospital booking software starts at ₹60,000.",
     },
     {
-      question: "Which is the best website development company in Perinthalmanna?",
+      question: "Which is the best website development team in Perinthalmanna?",
       answer:
         "The best choice publishes its prices, registers your domain and code in your name, shows real finished work, and still answers after launch. Put the same questions to every option and compare written quotes. We meet those tests and reply on WhatsApp all week, but hearing from two or three providers first is sensible.",
     },

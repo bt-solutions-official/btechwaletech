@@ -10,12 +10,12 @@ const manmad: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Manmad onion traders, transporters, railway-town shops, clinics and schools.",
     keywords: [
       "IT services in Manmad",
-      "IT company in Manmad",
-      "website development company in Manmad",
+      "IT services team in Manmad",
+      "website development team in Manmad",
       "web design in Manmad",
-      "app development company in Manmad",
+      "app development team in Manmad",
       "Android app development in Manmad",
-      "software company in Manmad",
+      "software team in Manmad",
       "SEO services in Manmad",
       "digital marketing in Manmad",
       "ecommerce website in Manmad",
@@ -75,11 +75,11 @@ const manmad: CityContent = {
     },
     {
       id: "onion-traders-software",
-      heading: "Software company in Manmad for onion traders and commission agents",
+      heading: "Software team in Manmad for onion traders and commission agents",
       paragraphs: [
         "Manmad is one of the bigger onion markets in the Nashik belt, second in the area mainly to Lasalgaon. Farmers from surrounding villages bring their crop to be sold to wholesale traders, who then grade, store and send it on to Mumbai and other markets. Prices move sharply with arrivals, weather and export news, and a trader may deal with dozens of farmers in a single morning.",
         "The bookkeeping behind this is demanding. Each lot needs a weight, grade and rate. Farmers expect prompt payment, often part in cash and part by transfer. Stock sits in onion chawls or godowns, where storage losses have to be tracked. Loads leave by truck to different buyers who pay on their own schedules.",
-        "As a <strong>software company in Manmad</strong> in the everyday sense, we build web tools that handle exactly this. Lots are entered on a phone with farmer, bags or weight, grade and rate. Farmer ledgers update on their own. Stock is shown by godown and grade, and dispatches carry truck number, buyer and rate, with dues listed by buyer. A day-end summary can go to the owner on WhatsApp.",
+        "As a <strong>software team in Manmad</strong> in the everyday sense, we build web tools that handle exactly this. Lots are entered on a phone with farmer, bags or weight, grade and rate. Farmer ledgers update on their own. Stock is shown by godown and grade, and dispatches carry truck number, buyer and rate, with dues listed by buyer. A day-end summary can go to the owner on WhatsApp.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. The purchase register usually comes first because it removes the most disputes. Everything is stored in accounts you own, so the records remain yours even if you change developers later.",
       ],
     },
@@ -105,10 +105,10 @@ const manmad: CityContent = {
     },
     {
       id: "railway-workshop-suppliers",
-      heading: "Website development company in Manmad for railway and depot suppliers",
+      heading: "Website development team in Manmad for railway and depot suppliers",
       paragraphs: [
         "The Central Railway engineering workshop at Manmad has built and maintained railway bridges for more than a hundred years. Together with the fuel terminals and the FCI warehouses, it supports a network of smaller firms: fabrication and welding shops, electrical and civil contractors, labour suppliers, security agencies, canteens, loading contractors and hardware dealers.",
-        "Government and public sector buyers increasingly check suppliers online and on tender portals. A <strong>website development company in Manmad</strong> should give these firms a plain, trustworthy presence: services and capacity, equipment owned, past work described accurately, safety practices, registrations and GST details, and named contact people with working numbers.",
+        "Government and public sector buyers increasingly check suppliers online and on tender portals. A <strong>website development team in Manmad</strong> should give these firms a plain, trustworthy presence: services and capacity, equipment owned, past work described accurately, safety practices, registrations and GST details, and named contact people with working numbers.",
         "We never list a department, company or client on your site without written permission. For firms that bid regularly, we can add a document library with your certificates in one place, and a simple enquiry form that asks for scope, location and deadline. A static capability site starts at ₹10,000 and is ready in one to two weeks once your details are in hand.",
       ],
     },
@@ -135,7 +135,7 @@ const manmad: CityContent = {
       heading: "Android app development in Manmad, plus iOS apps for local business",
       paragraphs: [
         "Apps make sense when the same group of people returns to them often. In Manmad that could be tanker and truck drivers logging trips and uploading papers, regular buyers checking an onion trader's stock and rates, patients booking tokens at a busy clinic, or parents receiving homework and fee reminders from a school.",
-        "As an <strong>app development company in Manmad</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version typically includes mobile number login, push notifications, the screens your users actually need, Marathi and English text, and an admin panel. We publish on Google Play and the Apple App Store under accounts registered to you.",
+        "As an <strong>app development team in Manmad</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version typically includes mobile number login, push notifications, the screens your users actually need, Marathi and English text, and an admin panel. We publish on Google Play and the Apple App Store under accounts registered to you.",
         "<strong>Android app development in Manmad</strong> with us starts at ₹40,000. Payments, GPS tracking, offline entry for drivers on highways with poor signal and links to your accounts add to the price, and each appears as its own quote line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more detail.",
         "If people only need your address, number and timings, a website does that job at a quarter of the cost. We will recommend the website in that case. An app installed once and never opened again helps nobody.",
       ],
@@ -169,9 +169,9 @@ const manmad: CityContent = {
     },
     {
       id: "remote-team-manmad",
-      heading: "Working with a remote IT company in Manmad, day to day",
+      heading: "Working with a remote IT services team in Manmad, day to day",
       paragraphs: [
-        "Clients sometimes search for an <strong>IT company in Manmad</strong> expecting an office down the road. We are three engineers working remotely, so we make up for distance with written clarity. The first call covers your business and goals. After that, you receive a page or screen plan, a timeline and an itemised quote before any work starts.",
+        "Clients sometimes search for an <strong>IT services team in Manmad</strong> expecting an office down the road. We are three engineers working remotely, so we make up for distance with written clarity. The first call covers your business and goals. After that, you receive a page or screen plan, a timeline and an itemised quote before any work starts.",
         "Once you approve, we share preview links you can open on your phone and show to partners or family. Marathi text is sent for your checking before it goes live. We reply on WhatsApp seven days a week on Indian Standard Time, and if something is running late, you hear it from us early rather than on the due date.",
         "Payments are tied to visible progress, and nothing is billed until you approve the quote in writing. You can start with a message on WhatsApp or through our <a href=\"/contact/\">contact page</a>; the first discussion and the quote cost nothing.",
       ],
@@ -236,7 +236,7 @@ const manmad: CityContent = {
         "A static website usually goes live within one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is what speeds things up most.",
     },
     {
-      question: "Who is the best website development company in Manmad?",
+      question: "Who is the best website development team in Manmad?",
       answer:
         "The right provider publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Put the same questions to each option and compare written answers. We meet those standards and reply on WhatsApp daily, but comparing two or three providers is wise.",
     },

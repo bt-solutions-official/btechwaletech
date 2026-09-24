@@ -10,12 +10,12 @@ const rudrapur: CityContent = {
       "Websites, Android & iOS apps, SEO, vendor portals and WhatsApp automation for Rudrapur's SIDCUL suppliers, Gol Market traders, schools and clinics.",
     keywords: [
       "IT services in Rudrapur",
-      "IT company in Rudrapur",
-      "website development company in Rudrapur",
+      "IT services team in Rudrapur",
+      "website development team in Rudrapur",
       "web design in Rudrapur",
-      "app development company in Rudrapur",
+      "app development team in Rudrapur",
       "Android app development in Rudrapur",
-      "software company in Rudrapur",
+      "software team in Rudrapur",
       "SEO services in Rudrapur",
       "digital marketing in Rudrapur",
       "ecommerce website in Rudrapur",
@@ -75,10 +75,10 @@ const rudrapur: CityContent = {
     },
     {
       id: "plant-software",
-      heading: "Software company in Rudrapur for job cards, dispatch and rejection tracking",
+      heading: "Software team in Rudrapur for job cards, dispatch and rejection tracking",
       paragraphs: [
         "Inside a small factory in the estate, the daily paperwork is heavier than it looks from outside. Job cards move from machine to machine, gate passes are written for every outgoing vehicle, delivery challans must match the purchase order, and the customer's quality team sends back rejection reports that someone has to reconcile against what was dispatched. Much of this still sits in registers and scattered Excel files that only one person understands.",
-        "As a software company in Rudrapur working remotely, we build small web applications that replace those registers one at a time. A typical first module is a dispatch register: part number, quantity, vehicle, challan number and customer PO, entered once and searchable later. After that come job cards with operator and machine, inward inspection of raw material, and a rejection log that shows which part and which machine cause the most returns.",
+        "As a software team in Rudrapur working remotely, we build small web applications that replace those registers one at a time. A typical first module is a dispatch register: part number, quantity, vehicle, challan number and customer PO, entered once and searchable later. After that come job cards with operator and machine, inward inspection of raw material, and a rejection log that shows which part and which machine cause the most returns.",
         "The owner sees output per shift, pending orders by customer and rejection percentage on a phone screen. Accounts can export the month's dispatch to Tally without retyping. We keep the screens simple enough for a supervisor to use on the shop floor, because software that needs a trained operator usually stops being used within a month.",
         "Custom software of this kind starts at ₹60,000 and takes six to twelve weeks, built in stages so the first module is in use while the next is being developed. Everything runs in your own cloud account, and the data can be exported whenever you want.",
       ],
@@ -133,7 +133,7 @@ const rudrapur: CityContent = {
       id: "android-ios-apps-rudrapur",
       heading: "Android app development in Rudrapur: who needs an app and what it costs",
       paragraphs: [
-        "As an app development company in Rudrapur's market, we get two kinds of request. Some owners want an app because a competitor has one. Others have a real repeat-use problem: sales reps visiting dealers across Kumaon need to log orders, school parents need daily notices, a distributor's retailers want to reorder without calling, or delivery riders need to mark drops and collect UPI payments. An app is worth building in the second case.",
+        "As an app development team in Rudrapur's market, we get two kinds of request. Some owners want an app because a competitor has one. Others have a real repeat-use problem: sales reps visiting dealers across Kumaon need to log orders, school parents need daily notices, a distributor's retailers want to reorder without calling, or delivery riders need to mark drops and collect UPI payments. An app is worth building in the second case.",
         "We build Android and iOS apps in Flutter or React Native, which means one codebase serves both platforms. A typical build includes phone number or email login, role-based screens (owner, staff, customer), push notifications, an admin panel on the web to manage data and users, and publishing on Google Play and the App Store under your own developer accounts. Apps for field staff can also capture photographs, GPS location at check-in and signatures.",
         "Android and iOS apps start at ₹40,000. A simple catalogue-and-order app for a Rudrapur distributor stays near that starting point; an app with payments, live tracking or integration with an ERP costs more, and the quote lists each feature separately so you can drop what you do not need. Store publishing, review responses from Apple and Google and the first round of fixes are part of the work.",
         "When is a website enough? If customers visit you once or twice a year, or only need to find your address and call, a mobile-friendly website is cheaper and easier to keep current. We say so plainly when an app would be money spent for no gain. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page for how builds are planned.",
@@ -186,7 +186,7 @@ const rudrapur: CityContent = {
     },
     {
       id: "remote-team-rudrapur",
-      heading: "An IT company in Rudrapur's market without a Rudrapur office",
+      heading: "An IT services team in Rudrapur's market without a Rudrapur office",
       paragraphs: [
         "We do not have an office in Rudrapur, Pantnagar or anywhere in Uttarakhand, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation.",
         "Work happens on WhatsApp, email and video calls. You describe what you need, we ask questions, and within about two working days you get an itemised written quote. Nothing is billed until you approve it in writing. During the build you see progress on a live preview link and can comment from the shop floor or the counter whenever you have a minute.",
@@ -244,7 +244,7 @@ const rudrapur: CityContent = {
         "Yes. We build Android and iOS apps in Flutter or React Native with login, push notifications and an admin panel, and publish them on Google Play and the App Store under your accounts. Common Rudrapur uses are dealer reordering, field sales visits and school parent apps. Apps start at ₹40,000.",
     },
     {
-      question: "Which is the best IT company in Rudrapur for a small business?",
+      question: "Which is the best IT services team in Rudrapur for a small business?",
       answer:
         "The best choice is whoever puts ownership, scope and support in writing. Ask any IT company in Rudrapur who owns the domain and code, what the quote includes, and what maintenance costs later. We publish starting prices, itemise every quote, and register everything in your name, so you can compare us fairly.",
     },

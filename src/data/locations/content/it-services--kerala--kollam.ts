@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Kollam: custom software, web and mobile apps, AI automation, dashboards and SEO. Web apps from ₹60,000, quote in 2 days.",
     keywords: [
-      "software development company in Kollam",
-      "IT company in Kollam",
+      "software development team in Kollam",
+      "IT services team in Kollam",
       "IT solutions Kollam",
       "custom software development Kollam",
       "web application development Kollam",
@@ -22,13 +22,13 @@ const content: CityContent = {
       "business dashboard Kollam",
       "cloud hosting Kollam",
       "IT support near me Kollam",
-      "software company near Chinnakada",
+      "software team near Chinnakada",
       "IT services Karunagappally",
       "software developers Kottarakkara",
-      "SEO company Kollam",
+      "SEO team Kollam",
       "ecommerce development Kollam",
       "കൊല്ലം സോഫ്റ്റ്‌വെയർ കമ്പനി",
-      "Kollam software company near me",
+      "Kollam software team near me",
       "Android app development Kollam",
       "mobile app developers Kollam",
       "iOS app development Kollam",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "IT services · Kollam, Kerala",
     h1: "Freelance software developers in Kollam for custom apps, AI automation and IT support",
     lede:
-      "BtechWaleTech is a freelance group of three engineers, working remotely from India, that Kollam firms hire instead of a software development company in Kollam. We build order systems, export paperwork tools, booking apps, WhatsApp automations and reporting dashboards for Kollam companies. Websites and SEO are part of the work, but the main job is replacing the registers, spreadsheets and phone chains that slow a growing firm down.",
+      "BtechWaleTech is a freelance group of three engineers, working remotely from India, that Kollam firms hire instead of a software development team in Kollam. We build order systems, export paperwork tools, booking apps, WhatsApp automations and reporting dashboards for Kollam companies. Websites and SEO are part of the work, but the main job is replacing the registers, spreadsheets and phone chains that slow a growing firm down.",
     pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI automation from ₹40,000", "Export and processing tools", "Malayalam-ready interfaces", "5 months free maintenance"],
   },
   quickAnswer:
-    "Comparing a software development company in Kollam with freelancers? BtechWaleTech is a freelance group of three remote engineers in India. Custom web apps start at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation from ₹40,000, and websites from ₹10,000. You get an itemised quote in about two working days and five months of free maintenance after launch.",
+    "Comparing a software development team in Kollam with freelancers? BtechWaleTech is a freelance group of three remote engineers in India. Custom web apps start at ₹60,000 (6 to 12 weeks), Android and iOS apps and AI automation from ₹40,000, and websites from ₹10,000. You get an itemised quote in about two working days and five months of free maintenance after launch.",
   snapshot: [
     { label: "Signature industry", value: "Cashew processing and export, with processing units spread across the district and a long export history" },
     { label: "Coastal economy", value: "Neendakara and Sakthikulangara fishing harbours, seafood processing and the mineral sands belt at Chavara" },
@@ -75,7 +75,7 @@ const content: CityContent = {
       id: "kollam-software-needs",
       heading: "What software do Kollam businesses need from a development team?",
       paragraphs: [
-        "Whether you hire a software development company in Kollam or a freelance team, the most useful software records daily operations in one place. Most Kollam companies need exactly that: raw material purchases, production, stock, dispatch, payments and staff attendance. The typical starting point is a mix of paper registers, a Tally installation on one computer, several Excel files and a dozen WhatsApp groups. It works while the owner remembers everything, and it breaks when the business grows or a key clerk leaves.",
+        "Whether you hire a software development team in Kollam or a freelance team, the most useful software records daily operations in one place. Most Kollam companies need exactly that: raw material purchases, production, stock, dispatch, payments and staff attendance. The typical starting point is a mix of paper registers, a Tally installation on one computer, several Excel files and a dozen WhatsApp groups. It works while the owner remembers everything, and it breaks when the business grows or a key clerk leaves.",
         "The district has a clear industrial profile. Cashew processing has been Kollam's defining trade for generations, and processing units still need to track raw nut arrivals, shelling output, grading, packing and export containers. The harbours at Neendakara and Sakthikulangara feed seafood processors and traders. Around them sit hospitals, schools, coaching centres, wholesale merchants, tile and building material dealers, and a large number of families with members or customers in the Gulf.",
         "For these firms, a useful piece of software is rarely a big ERP. It is a focused web application that does four or five things very well, runs in a browser on any computer or phone, and produces the report the owner looks at every evening. That is the kind of system we build, starting from ₹60,000 for a custom web app.",
       ],
@@ -176,9 +176,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-kollam",
-      heading: "Freelance developers vs a software development company in Kollam: which should you hire?",
+      heading: "Freelance developers vs a software development team in Kollam: which should you hire?",
       paragraphs: [
-        "Whether you hire an IT company in Kollam or a freelance group serving Kollam remotely, choose by checking who will actually write the code, whether the quote is itemised, and whether you will own the code, domain and hosting at the end. Those three questions filter out most bad experiences before they happen.",
+        "Whether you hire an IT services team in Kollam or a freelance group serving Kollam remotely, choose by checking who will actually write the code, whether the quote is itemised, and whether you will own the code, domain and hosting at the end. Those three questions filter out most bad experiences before they happen.",
         "Ask to speak with the developer, not just a salesperson. Ask for a written list of screens, reports and integrations with a price against each group. Ask how changes after launch are handled and what support costs. Ask where the code is stored and whether you get admin access to hosting and the domain registrar. A good partner will answer all of this without hesitation.",
         "Also check how they handle your local context. Staff in a cashew unit may be more comfortable with Malayalam labels. A seafood trader needs mobile entry that survives weak signal at the harbour. A clinic needs patient data handled carefully. We are happy to discuss all of this on a free first call. You can read <a href='/about/'>who we are</a> and look at <a href='/portfolio/'>our portfolio</a> before deciding.",
       ],

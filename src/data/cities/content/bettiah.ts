@@ -9,7 +9,7 @@ const bettiah: CityContent = {
     description:
       "Websites, Google Maps listings and WhatsApp tools for Bettiah traders, sugarcane and rice businesses, clinics, schools and Valmiki Nagar stays. From ₹10,000.",
     keywords: [
-      "website development company in Bettiah",
+      "website development team in Bettiah",
       "web designer Bettiah",
       "website design West Champaran",
       "SEO services Bettiah",

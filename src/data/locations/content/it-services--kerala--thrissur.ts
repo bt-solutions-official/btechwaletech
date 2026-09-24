@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & IT Developers in Thrissur",
     description:
-      "Freelance developers for Thrissur jewellers, showrooms and finance firms, an alternative to a software development company: apps, AI, SEO. From ₹10,000.",
+      "Freelance developers for Thrissur jewellers, showrooms and finance firms, an alternative to a software development team: apps, AI, SEO. From ₹10,000.",
     keywords: [
-      "software development company in Thrissur",
-      "IT company in Thrissur",
+      "software development team in Thrissur",
+      "IT services team in Thrissur",
       "IT solutions Thrissur",
       "freelance software developers Thrissur",
       "custom software development Thrissur",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Thrissur, Kerala",
     h1: "Freelance software and IT developers in Thrissur for jewellers, retailers and institutions",
     lede:
-      "Deciding between a software development company in Thrissur and a freelance team? Here is who we are. BtechWaleTech is three independent engineers, working remotely from India as one freelance group, who build jewellery catalogues and scheme software, showroom systems, Android and iOS apps, AI and WhatsApp automation, dashboards, cloud hosting, search-friendly websites and long-term maintenance for Thrissur businesses. Every login stays with you.",
+      "Deciding between a software development team in Thrissur and a freelance team? Here is who we are. BtechWaleTech is three independent engineers, working remotely from India as one freelance group, who build jewellery catalogues and scheme software, showroom systems, Android and iOS apps, AI and WhatsApp automation, dashboards, cloud hosting, search-friendly websites and long-term maintenance for Thrissur businesses. Every login stays with you.",
     pills: ["Jewellery and scheme software", "Android and iOS apps from ₹40,000", "Retail website maintenance", "Malayalam and English", "5 months free support"],
   },
   quickAnswer:
-    "For Thrissur, BtechWaleTech works remotely as three freelance engineers rather than a software development company in Thrissur with a showroom-side office. Sites begin at ₹10,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Maintenance is free for five months, then from ₹8,000 monthly. Expect an itemised quote within roughly two working days.",
+    "For Thrissur, BtechWaleTech works remotely as three freelance engineers rather than a software development team in Thrissur with a showroom-side office. Sites begin at ₹10,000, Android and iOS apps and AI automation at ₹40,000 each, online stores at ₹50,000 and custom software at ₹60,000. Maintenance is free for five months, then from ₹8,000 monthly. Expect an itemised quote within roughly two working days.",
   snapshot: [
     { label: "City centre", value: "Swaraj Round around Thekkinkadu Maidan and the Vadakkunnathan Temple, the heart of Thrissur Pooram" },
     { label: "Gold trade", value: "Widely known as Kerala's gold capital, with jewellery manufacturing concentrated around Kuriachira and nearby areas" },
@@ -77,14 +77,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-thrissur",
-      heading: "Freelance team or a software development company in Thrissur: which to hire?",
+      heading: "Freelance team or a software development team in Thrissur: which to hire?",
       paragraphs: [
-        "Hire a software development company in Thrissur when you need a large team, formal tenders or regulated core systems such as banking platforms. Hire a freelance team when you need focused retail software, apps, automation, websites or maintenance with direct engineer contact and lower overhead. Most Thrissur showrooms, jewellers, institutes and clinics fit the second case.",
+        "Hire a software development team in Thrissur when you need a large team, formal tenders or regulated core systems such as banking platforms. Hire a freelance team when you need focused retail software, apps, automation, websites or maintenance with direct engineer contact and lower overhead. Most Thrissur showrooms, jewellers, institutes and clinics fit the second case.",
         "We are clear about capacity: three engineers, a few projects at a time, no hidden subcontracting. If a project needs a bigger team, we say so on the first call.",
       ],
       list: [
         "Freelance engineers: you talk to the builder, prices are published, weekends are covered, but only a few projects run at once",
-        "Software company: larger teams and process, higher overhead",
+        "Software team: larger teams and process, higher overhead",
         "Both: written scope, milestone billing and code in your own accounts",
       ],
     },
@@ -225,17 +225,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-thrissur",
-      heading: "What does a software development company in Thrissur charge compared with us?",
+      heading: "What does a software development team in Thrissur charge compared with us?",
       paragraphs: [
-        "A software development company in Thrissur has rent, salaried sales staff and managers to cover, and those costs sit inside every estimate. We publish our starting points instead: ₹10,000 for a website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for a store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for upkeep.",
+        "A software development team in Thrissur has rent, salaried sales staff and managers to cover, and those costs sit inside every estimate. We publish our starting points instead: ₹10,000 for a website, ₹20,000 for a 700+ page SEO site, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for a store, ₹60,000 for custom software, ₹10,000 a month for SEO and ₹8,000 a month for upkeep.",
         "Branches, modules, integrations and moving old data decide where your quote lands above those figures; the <a href='/pricing/'>pricing page</a> lists every plan. We invoice in rupees and accept only a UPI QR scan or a bank transfer, one milestone at a time, after you have checked the work.",
       ],
     },
     {
       id: "choosing-software-company-thrissur",
-      heading: "How to choose a software development company in Thrissur",
+      heading: "How to choose a software development team in Thrissur",
       paragraphs: [
-        "Picking a software development company in Thrissur, or three freelancers like us, gets easier with five questions: who actually codes, what the signed scope leaves out, whose name is on each account, where you can watch progress, and who fixes things in month six. Price is the last comparison, not the first.",
+        "Picking a software development team in Thrissur, or three freelancers like us, gets easier with five questions: who actually codes, what the signed scope leaves out, whose name is on each account, where you can watch progress, and who fixes things in month six. Price is the last comparison, not the first.",
       ],
       list: [
         "Talk to the engineer who will build it",
@@ -305,7 +305,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Thrissur?", answer: "No, there is no Thrissur office or Koratty desk. We are three freelance engineers based in India who work remotely, so meetings happen on video, updates come on WhatsApp, and every build is visible on a staging link you can open from the showroom or from home." },
-    { question: "Which is the best software company in Thrissur?", answer: "There is no universal answer. Bigger Thrissur software companies make sense for regulated core systems and large teams. For catalogue software, apps, automation, websites or upkeep, a small freelance group often gives better value and faster replies. Judge any option by its written scope, account ownership, support terms and work you can open yourself." },
+    { question: "Which is the best software team in Thrissur?", answer: "There is no universal answer. Bigger Thrissur software companies make sense for regulated core systems and large teams. For catalogue software, apps, automation, websites or upkeep, a small freelance group often gives better value and faster replies. Judge any option by its written scope, account ownership, support terms and work you can open yourself." },
     { question: "How much does jewellery or scheme software cost?", answer: "Custom software, including jewellery catalogues and scheme modules, starts at ₹60,000. A catalogue with rate-linked prices sits near that figure; multi-branch scheme management with reminders and reports costs more. Quotes are itemised within about two working days." },
     { question: "How long do projects take?", answer: "Roughly: a website in one to two weeks, automation in two to four, an Android and iOS app in six to ten, a store in four to eight and custom software in six to twelve. Having product photos, scheme rules and content ready is what most often speeds things up." },
     { question: "How do we pay you?", answer: "Payment is in rupees through exactly two routes: scanning our UPI QR code or a direct transfer into our bank account. No gateway or payment link is used for our invoices. Each milestone is paid only after you have reviewed that stage on staging." },

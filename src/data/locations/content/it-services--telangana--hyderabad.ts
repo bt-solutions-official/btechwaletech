@@ -9,11 +9,11 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Hyderabad for MVPs, SaaS modules, AI agents, web apps, DevOps and dashboards. Custom software from ₹60,000, quote in 2 days.",
     keywords: [
-      "software development company in Hyderabad",
+      "software development team in Hyderabad",
       "Android app development Hyderabad",
       "iOS app development Hyderabad",
       "mobile app developers Hyderabad",
-      "IT company in Hyderabad",
+      "IT services team in Hyderabad",
       "IT solutions Hyderabad",
       "freelance software developers Hyderabad",
       "hire freelance developers Hyderabad",
@@ -21,7 +21,7 @@ const content: CityContent = {
       "SaaS development Hyderabad",
       "custom software development Hyderabad",
       "AI agent development Hyderabad",
-      "AI automation company Hyderabad",
+      "AI automation team Hyderabad",
       "web application development Hyderabad",
       "React Native Flutter app developers Hyderabad",
       "DevOps and AWS setup Hyderabad",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "IT services · Hyderabad, Telangana",
     h1: "Freelance software developers for Hyderabad startups, SMEs and old-city businesses",
     lede:
-      "Hire freelance software developers in Hyderabad instead of a full software development company: BtechWaleTech is a freelance group of three remote engineers who build MVPs, SaaS modules, internal tools, AI agents, WhatsApp automation, cloud and DevOps setups, dashboards and mobile apps for founders in HITEC City and Gachibowli, pharma suppliers in Jeedimetla and traders in Begum Bazaar. Starting prices are published and maintenance is free for five months after launch.",
+      "Hire freelance software developers in Hyderabad instead of a full software development team: BtechWaleTech is a freelance group of three remote engineers who build MVPs, SaaS modules, internal tools, AI agents, WhatsApp automation, cloud and DevOps setups, dashboards and mobile apps for founders in HITEC City and Gachibowli, pharma suppliers in Jeedimetla and traders in Begum Bazaar. Starting prices are published and maintenance is free for five months after launch.",
     pills: ["MVPs and SaaS modules", "AI agents and automation", "AWS, CI/CD and DevOps", "React, Next.js, Node, Python", "Code in your repo"],
   },
   quickAnswer:
@@ -190,7 +190,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-hyderabad",
-      heading: "Freelance software developers vs a software development company in Hyderabad",
+      heading: "Freelance software developers vs a software development team in Hyderabad",
       paragraphs: [
         "Choose freelance software developers in Hyderabad when you want senior engineers directly on your project, clear scope and lower cost; choose a larger software development company in Hyderabad when you need a big dedicated team, 24-hour coverage or formal enterprise compliance. Hyderabad has many good options in both categories.",
         "BtechWaleTech is a freelance group of three engineers. The benefit is direct access and efficiency. The limit is capacity, so we take a small number of projects at once. If you need ten developers next month, we are the wrong choice, and we will say so.",

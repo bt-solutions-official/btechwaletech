@@ -10,12 +10,12 @@ const siruguppa: CityContent = {
       "Websites, Android and iOS apps, Kannada local SEO and WhatsApp automation for Siruguppa rice mills, oil units, paddy traders, clinics and schools.",
     keywords: [
       "IT services in Siruguppa",
-      "IT company in Siruguppa",
-      "website development company in Siruguppa",
+      "IT services team in Siruguppa",
+      "website development team in Siruguppa",
       "web design in Siruguppa",
-      "app development company in Siruguppa",
+      "app development team in Siruguppa",
       "Android app development in Siruguppa",
-      "software company in Siruguppa",
+      "software team in Siruguppa",
       "SEO services in Siruguppa",
       "digital marketing in Siruguppa",
       "ecommerce website in Siruguppa",
@@ -75,10 +75,10 @@ const siruguppa: CityContent = {
     },
     {
       id: "rice-mill-software-siruguppa",
-      heading: "Software company in Siruguppa for rice mills: arrivals to dispatch",
+      heading: "Software team in Siruguppa for rice mills: arrivals to dispatch",
       paragraphs: [
         "With more than 150 rice mills, Siruguppa has the largest cluster in Karnataka, and together with Sindhanur and Gangavati it forms one of the state's main rice belts. Yet many mills still run the season on registers and spreadsheets that only one person fully understands.",
-        "As a <strong>software company in Siruguppa</strong> for this trade, we build web tools shaped around how a mill actually moves. Each lorry or tractor of paddy is entered once with the farmer or agent, variety, weight, moisture and rate. Hulling batches record input and output so yield and broken percentage are visible per lot. Bag stock is tracked by brand and size, and dispatches produce a GST invoice and a lorry slip in the same step.",
+        "As a <strong>software team in Siruguppa</strong> for this trade, we build web tools shaped around how a mill actually moves. Each lorry or tractor of paddy is entered once with the farmer or agent, variety, weight, moisture and rate. Hulling batches record input and output so yield and broken percentage are visible per lot. Bag stock is tracked by brand and size, and dispatches produce a GST invoice and a lorry slip in the same step.",
         "Owners then see what matters in the evening: paddy bought today, rice ready, stock in the godown, money owed to farmers and money due from buyers. Access is split, so the weighbridge clerk sees entry screens and the partners see profit.",
       ],
       list: [
@@ -91,10 +91,10 @@ const siruguppa: CityContent = {
     },
     {
       id: "rice-brand-websites",
-      heading: "Website development company in Siruguppa for rice brands and wholesale buyers",
+      heading: "Website development team in Siruguppa for rice brands and wholesale buyers",
       paragraphs: [
         "Many Siruguppa mills pack under their own brand names, but a buyer in Chennai or Pune often cannot find anything about them beyond a phone number. A clear website fixes that. It shows the varieties you mill, bag sizes, packing options, the mill's capacity in plain terms, quality checks you actually do, photos of the plant, and a form that asks the questions you would otherwise ask on the phone: quantity, destination, delivery window.",
-        "Working as a <strong>website development company in Siruguppa</strong>, we write these sites in English for distant buyers and Kannada for local farmers and agents, with separate pages for each variety so they can be found individually in search. A simple static site starts at ₹10,000 and is usually live in one to two weeks. A larger SEO site of 700+ pages, useful if you want pages for many destination cities and rice varieties, starts at ₹20,000 and takes three to five weeks.",
+        "Working as a <strong>website development team in Siruguppa</strong>, we write these sites in English for distant buyers and Kannada for local farmers and agents, with separate pages for each variety so they can be found individually in search. A simple static site starts at ₹10,000 and is usually live in one to two weeks. A larger SEO site of 700+ pages, useful if you want pages for many destination cities and rice varieties, starts at ₹20,000 and takes three to five weeks.",
         "We do not invent certifications, capacities or export claims. If the mill has an FSSAI licence or a lab report, we show it. If it does not, the page simply does not mention one. Buyers check, and a wrong claim loses the order.",
       ],
     },
@@ -136,10 +136,10 @@ const siruguppa: CityContent = {
     },
     {
       id: "android-ios-apps-siruguppa",
-      heading: "App development company in Siruguppa: Android and iOS apps that earn their cost",
+      heading: "App development team in Siruguppa: Android and iOS apps that earn their cost",
       paragraphs: [
         "An app makes sense when the same people use your service again and again. In Siruguppa that usually means rice buyers who reorder every month, farmers selling to the same mill each season, field staff logging paddy purchases in villages, parents checking school notices, or patients booking repeat visits.",
-        "As an <strong>app development company in Siruguppa</strong>, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. Typical features are login by mobile number, push notifications for rates or dispatch updates, an order or entry screen, and an admin panel on the web where you manage users and data. We publish the app on Google Play and the App Store under your own developer accounts.",
+        "As an <strong>app development team in Siruguppa</strong>, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. Typical features are login by mobile number, push notifications for rates or dispatch updates, an order or entry screen, and an admin panel on the web where you manage users and data. We publish the app on Google Play and the App Store under your own developer accounts.",
         "<strong>Android app development in Siruguppa</strong> with us starts at ₹40,000. Price rises with the number of screens, offline entry for areas with weak signal, payments and links to your existing software. Most of our local clients start Android-first because that is what their customers carry, then add iOS when buyers in cities ask for it.",
         "If people will only visit you once or twice a year, skip the app. A fast website with a WhatsApp button does the job for far less. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we decide.",
       ],
@@ -172,9 +172,9 @@ const siruguppa: CityContent = {
     },
     {
       id: "remote-team-siruguppa",
-      heading: "IT company in Siruguppa without an office here: how the work runs",
+      heading: "IT services team in Siruguppa without an office here: how the work runs",
       paragraphs: [
-        "Choosing a remote <strong>IT company in Siruguppa</strong> raises a fair question: what happens if something goes wrong and nobody is nearby? Our answer is process. You get a named contact, a written scope, a shared folder of designs and a test link where you see the site or app while it is built. Nothing goes live without your approval.",
+        "Choosing a remote <strong>IT services team in Siruguppa</strong> raises a fair question: what happens if something goes wrong and nobody is nearby? Our answer is process. You get a named contact, a written scope, a shared folder of designs and a test link where you see the site or app while it is built. Nothing goes live without your approval.",
         "A typical project starts with a thirty-minute call and a few photos of your premises or products. We send a plan and quote in about two working days. After approval, you see progress every few days on WhatsApp. Training happens by screen share, recorded so your staff can replay it during the next harvest when nobody has time.",
         "We work in Indian Standard Time and reply on WhatsApp every day of the week, including the Sundays when mill owners actually have time to think about their website. <a href=\"/contact/\">Contact us</a> to start.",
       ],
@@ -235,7 +235,7 @@ const siruguppa: CityContent = {
         "A simple shop or clinic website normally goes live in one to two weeks, provided we receive photos, timings and service details early. A 700+ page SEO site takes three to five weeks and an online store four to eight. Delays usually come from waiting for content, so we send a checklist on day one.",
     },
     {
-      question: "Which is the best website development company in Siruguppa?",
+      question: "Which is the best website development team in Siruguppa?",
       answer:
         "The best one for you publishes its prices, puts the domain and code in your name, shows real past work and stays reachable after launch. Ask each option the same questions and compare written quotes. We meet those tests and reply daily on WhatsApp, but talking to two or three providers is sensible.",
     },

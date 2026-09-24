@@ -9,7 +9,7 @@ const udgir: CityContent = {
     description:
       "Marathi and English websites, SEO, online stores and WhatsApp tools for Udgir dal mills, market-yard traders, colleges, clinics and shops. Prices from ₹10,000.",
     keywords: [
-      "website development company in Udgir",
+      "website development team in Udgir",
       "web designer Udgir",
       "website design Udgir Latur",
       "website cost Udgir",

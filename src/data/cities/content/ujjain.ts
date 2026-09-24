@@ -9,7 +9,7 @@ const ujjain: CityContent = {
     description:
       "Websites, local SEO, booking pages and WhatsApp automation for Ujjain hotels, puja services, batik sellers, shops and factories. From ₹10,000, 5 months free support.",
     keywords: [
-      "website development company in Ujjain",
+      "website development team in Ujjain",
       "website designer Ujjain",
       "web design Ujjain cost",
       "SEO services Ujjain",

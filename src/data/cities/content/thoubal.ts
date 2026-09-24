@@ -10,12 +10,12 @@ const thoubal: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Thoubal handloom weavers, kouna crafts, rice traders, colleges and bazaar shops.",
     keywords: [
       "IT services in Thoubal",
-      "IT company in Thoubal",
-      "website development company in Thoubal",
+      "IT services team in Thoubal",
+      "website development team in Thoubal",
       "web design in Thoubal",
-      "app development company in Thoubal",
+      "app development team in Thoubal",
       "Android app development in Thoubal",
-      "software company in Thoubal",
+      "software team in Thoubal",
       "SEO services in Thoubal",
       "digital marketing in Thoubal",
       "ecommerce website in Thoubal",
@@ -93,10 +93,10 @@ const thoubal: CityContent = {
     },
     {
       id: "rice-traders-software",
-      heading: "Software company in Thoubal for rice traders, wholesalers and credit books",
+      heading: "Software team in Thoubal for rice traders, wholesalers and credit books",
       paragraphs: [
         "Rice accounts for more than nine-tenths of the district's cultivated land, and a rice research centre operates at Khangabok. Around that crop sit paddy traders, small mills, fertiliser and seed dealers, and wholesalers who supply grocery shops across the valley on weekly credit.",
-        "Most of these businesses track stock and dues on paper. It works until a son takes over, a notebook gets wet, or a customer disputes a balance. As a <strong>software company in Thoubal</strong> in the practical sense, we build small web tools for exactly this: goods received and sent, customer-wise credit, payments received by UPI or cash, and an outstanding list that can be sent to each shop on WhatsApp.",
+        "Most of these businesses track stock and dues on paper. It works until a son takes over, a notebook gets wet, or a customer disputes a balance. As a <strong>software team in Thoubal</strong> in the practical sense, we build small web tools for exactly this: goods received and sent, customer-wise credit, payments received by UPI or cash, and an outstanding list that can be sent to each shop on WhatsApp.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the part that saves most time. They run in a phone browser, so there is nothing to install, and every entry keeps a record of who made it and when.",
       ],
       list: [
@@ -118,10 +118,10 @@ const thoubal: CityContent = {
     },
     {
       id: "colleges-coaching-thoubal",
-      heading: "Website development company in Thoubal for colleges, schools and coaching",
+      heading: "Website development team in Thoubal for colleges, schools and coaching",
       paragraphs: [
         "Thoubal College and Waikhom Mani Girls' College, founded in 1980 to expand higher education for women, draw students from across the district. Around them sit private schools, tuition centres and coaching classes preparing students for entrance and competitive exams.",
-        "Students and parents want the same few facts: courses, seats, fees, dates, documents, results and how to contact someone who will actually reply. A <strong>website development company in Thoubal</strong> should put those on clear pages and keep them updated through the admission season, not just publish once and forget.",
+        "Students and parents want the same few facts: courses, seats, fees, dates, documents, results and how to contact someone who will actually reply. A <strong>website development team in Thoubal</strong> should put those on clear pages and keep them updated through the admission season, not just publish once and forget.",
         "We build admission pages with online forms and document uploads, notice boards that staff can update from a phone, results pages, and a gallery. Coaching centres get batch schedules, faculty pages and a demo class request. Where a college already uses a government or university portal, we link to it clearly instead of duplicating it.",
         "A site of this kind starts at ₹10,000. A 700+ page SEO build, useful when an institute wants separate pages for every course, subject and nearby town, starts at ₹20,000.",
       ],
@@ -140,7 +140,7 @@ const thoubal: CityContent = {
       heading: "Android app development in Thoubal, with iOS included",
       paragraphs: [
         "Before anyone spends ₹40,000 on an app, it is worth asking whether people will open it every week. In Thoubal, the honest yes cases are coaching centres sending tests and results to students, schools sending notices and fee reminders to parents, wholesalers taking repeat orders from village shops, and clinics with regular patients.",
-        "As an <strong>app development company in Thoubal</strong> that works remotely, we build with Flutter or React Native, so one project produces both an Android app and an iPhone app. A typical first version has login by phone number, push notifications, the main screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Thoubal</strong> that works remotely, we build with Flutter or React Native, so one project produces both an Android app and an iPhone app. A typical first version has login by phone number, push notifications, the main screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you.",
         "Connectivity in Manipur has been unreliable at times, including long mobile internet suspensions in recent years. We design apps to keep working with what they already downloaded, save entries on the phone and send them when the network returns. Offline features add cost, and the quote shows exactly how much.",
         "<strong>Android app development in Thoubal</strong> with us starts at ₹40,000. If your customers just need your phone number, timings and a price list, a website does it for far less, and we will recommend that instead. More on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
@@ -174,9 +174,9 @@ const thoubal: CityContent = {
     },
     {
       id: "remote-team-thoubal",
-      heading: "IT company in Thoubal without an office: how the work actually runs",
+      heading: "IT services team in Thoubal without an office: how the work actually runs",
       paragraphs: [
-        "Choosing an <strong>IT company in Thoubal</strong> that has no local desk means the process has to carry the trust. Ours starts with a WhatsApp or video call about your business, your customers and what you want to change. Within about two working days you receive a written scope: pages or screens, features, dates and a price against each item.",
+        "Choosing an <strong>IT services team in Thoubal</strong> that has no local desk means the process has to carry the trust. Ours starts with a WhatsApp or video call about your business, your customers and what you want to change. Within about two working days you receive a written scope: pages or screens, features, dates and a price against each item.",
         "No work begins and nothing is billed until you approve that document. During the build, you get preview links that open on any phone, so you can show them to family or partners and send comments as text or voice notes. We write back with what we changed.",
         "We reply on WhatsApp all seven days, on Indian time. If a delay comes up, from our side or yours, we say so the same day with a new date. Payments are tied to milestones you have already seen working, which keeps your risk low if this is your first website.",
       ],
@@ -241,7 +241,7 @@ const thoubal: CityContent = {
         "A simple site usually goes live in one to two weeks after we receive photos and details. Allow three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Waiting for content is the most common cause of delay.",
     },
     {
-      question: "Which is the best website design company in Thoubal?",
+      question: "Which is the best website design team in Thoubal?",
       answer:
         "Look for someone who shows real work, gives an itemised written quote, registers the domain and code in your name, tests on cheap phones and still replies after launch. Ask each option the same questions. We meet those standards, but comparing a few providers before deciding is always wise.",
     },

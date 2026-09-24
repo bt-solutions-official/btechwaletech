@@ -9,7 +9,7 @@ const rajnandgaon: CityContent = {
     description:
       "Websites and local SEO for Rajnandgaon rice and dal mills, traders, schools, clinics and Dongargarh hotels. Remote team, sites from ₹10,000, you own the code.",
     keywords: [
-      "website development company in Rajnandgaon",
+      "website development team in Rajnandgaon",
       "web designer Rajnandgaon",
       "website design Rajnandgaon",
       "SEO services Rajnandgaon",

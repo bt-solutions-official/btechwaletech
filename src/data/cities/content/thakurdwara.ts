@@ -10,12 +10,12 @@ const thakurdwara: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Thakurdwara cane growers, mentha traders, weavers, dealers, clinics and colleges.",
     keywords: [
       "IT services in Thakurdwara",
-      "IT company in Thakurdwara",
-      "website development company in Thakurdwara",
+      "IT services team in Thakurdwara",
+      "website development team in Thakurdwara",
       "web design in Thakurdwara",
-      "app development company in Thakurdwara",
+      "app development team in Thakurdwara",
       "Android app development in Thakurdwara",
-      "software company in Thakurdwara",
+      "software team in Thakurdwara",
       "SEO services in Thakurdwara",
       "digital marketing in Thakurdwara",
       "ecommerce website in Thakurdwara",
@@ -74,11 +74,11 @@ const thakurdwara: CityContent = {
     },
     {
       id: "sugarcane-growers-contractors",
-      heading: "Software company in Thakurdwara for cane growers, harvest contractors and mill suppliers",
+      heading: "Software team in Thakurdwara for cane growers, harvest contractors and mill suppliers",
       paragraphs: [
         "Sugarcane is one of the main crops in Moradabad district, and the mill at Rani Nangal near Thakurdwara runs through the crushing season. Around it work large farmers, harvest labour contractors, tractor-trolley owners, input dealers and repair workshops. For all of them, the season means a flood of small transactions that are easy to lose track of.",
         "Who cut how much, on which day, on whose field? Which trolley made how many trips? How much advance did each labourer take, and when did the mill payment for each supply arrive? Most of this lives in notebooks and memory. When payments come late, as they often do, the arguments start.",
-        "As a <strong>software company in Thakurdwara</strong> for this work, we build simple web tools that a munshi can use from a phone: each supply or trip entered once, advances recorded against each worker, running balances per farmer and per vehicle, and a list of payments still due. Reports can be printed or sent on WhatsApp. These start at ₹60,000 and are built in stages, with the part that saves the most arguments done first. We usually suggest building in the months before crushing begins, so the tool is tested before the rush.",
+        "As a <strong>software team in Thakurdwara</strong> for this work, we build simple web tools that a munshi can use from a phone: each supply or trip entered once, advances recorded against each worker, running balances per farmer and per vehicle, and a list of payments still due. Reports can be printed or sent on WhatsApp. These start at ₹60,000 and are built in stages, with the part that saves the most arguments done first. We usually suggest building in the months before crushing begins, so the tool is tested before the rush.",
       ],
     },
     {
@@ -110,19 +110,19 @@ const thakurdwara: CityContent = {
     },
     {
       id: "acrylic-plant-suppliers",
-      heading: "Website development company in Thakurdwara for plant suppliers, dealers and transporters",
+      heading: "Website development team in Thakurdwara for plant suppliers, dealers and transporters",
       paragraphs: [
         "Thakurdwara has a sizeable industrial neighbour of its own: an acrylic fibre plant on about ninety acres near the town. Plants like this need a steady supply of local services, including fabrication, electrical and civil contractors, transport, packing material, canteen and security staff. Across the border, the factories around Kashipur buy many of the same services.",
-        "Purchase teams at these units check a vendor online before they call. A <strong>website development company in Thakurdwara</strong> should make that check easy: what the firm does, the equipment and vehicles it owns, the staff strength it can put on a job, safety practices, GST and registration details, and named contacts with phone numbers. Photographs of real work matter more than stock images.",
+        "Purchase teams at these units check a vendor online before they call. A <strong>website development team in Thakurdwara</strong> should make that check easy: what the firm does, the equipment and vehicles it owns, the staff strength it can put on a job, safety practices, GST and registration details, and named contacts with phone numbers. Photographs of real work matter more than stock images.",
         "We never list a client's name on your site without their written permission. For transporters, we can add a trip and vehicle document tracker that reminds you before permits, fitness certificates and insurance lapse. The website starts at ₹10,000; the tracker is custom work from ₹60,000.",
       ],
     },
     {
       id: "polytechnic-colleges-clinics",
-      heading: "IT company in Thakurdwara for colleges, the polytechnic, schools and clinics",
+      heading: "IT services team in Thakurdwara for colleges, the polytechnic, schools and clinics",
       paragraphs: [
         "Students from across the tehsil study in Thakurdwara. The Government Polytechnic offers diplomas in architectural assistantship, mechanical production engineering, and plastic and mould technology. Krishna Degree College, affiliated to MJP Rohilkhand University in Bareilly, runs undergraduate courses, and private schools and coaching centres fill in the rest.",
-        "An <strong>IT company in Thakurdwara</strong> can help these institutions answer the same questions without twenty phone calls a day. A college site should list courses, eligibility, fee ranges, admission dates and documents needed. A coaching centre needs batch timings, subjects and a form that drops enquiries into a sheet. A school needs notices, holidays and transport routes.",
+        "An <strong>IT services team in Thakurdwara</strong> can help these institutions answer the same questions without twenty phone calls a day. A college site should list courses, eligibility, fee ranges, admission dates and documents needed. A coaching centre needs batch timings, subjects and a form that drops enquiries into a sheet. A school needs notices, holidays and transport routes.",
         "Clinics and nursing homes have the same problem in a different form. Patients from surrounding villages travel a long way and need to know which doctor is in on which day, what tests are available and whether the clinic takes emergencies at night. A clear page and a WhatsApp appointment flow reduce wasted trips. These sites start at ₹10,000 and are usually live within two weeks.",
       ],
     },
@@ -131,7 +131,7 @@ const thakurdwara: CityContent = {
       heading: "Android app development in Thakurdwara: when an app makes sense",
       paragraphs: [
         "A small-town business rarely needs an app for everyone. It needs one when a fixed group of people returns every week. In Thakurdwara, that could be the forty village retailers who buy seed, fertiliser and pesticide from one dealer; parents of a school or coaching centre who need notices and fee reminders; or harvest supervisors logging cane supplies in the field.",
-        "We build these as an <strong>app development company in Thakurdwara</strong> working remotely, using Flutter or React Native so the same code runs on Android and iPhone. The first version normally covers OTP login, the handful of screens your users really need, push notifications and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts opened in your name.",
+        "We build these as an <strong>app development team in Thakurdwara</strong> working remotely, using Flutter or React Native so the same code runs on Android and iPhone. The first version normally covers OTP login, the handful of screens your users really need, push notifications and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts opened in your name.",
         "<strong>Android app development in Thakurdwara</strong> with us starts at ₹40,000. Offline entry for fields with no signal, credit limits per retailer, online payment or a link to your billing software each add a separate line to the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "If your customers only need your phone number, timings and a price list, skip the app. A ₹10,000 website and an accurate Maps listing will do more for you, and we would rather recommend that than sell you something nobody opens.",
       ],
@@ -225,7 +225,7 @@ const thakurdwara: CityContent = {
         "Yes. We build apps in Flutter or React Native that work on Android phones and iPhones, with OTP login, push notifications and an admin panel. They are published on Google Play and the App Store in your name. Apps start at ₹40,000. Useful local cases include retailer reordering, school notices and cane supply logging.",
     },
     {
-      question: "Which is the best IT company in Thakurdwara for a small business?",
+      question: "Which is the best IT services team in Thakurdwara for a small business?",
       answer:
         "Pick the provider that shows real past work, gives a written itemised quote, puts the domain and code in your name and replies after launch. Ask each option the same questions before deciding. We meet those standards and answer on WhatsApp every day, but comparing two or three quotes is always wise.",
     },

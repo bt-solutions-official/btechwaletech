@@ -10,12 +10,12 @@ const ambejogai: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Ambejogai hospitals, colleges, temple-town lodges, traders and custard apple growers.",
     keywords: [
       "IT services in Ambejogai",
-      "IT company in Ambajogai",
-      "website development company in Ambejogai",
+      "IT services team in Ambajogai",
+      "website development team in Ambejogai",
       "web design in Ambejogai",
-      "app development company in Ambejogai",
+      "app development team in Ambejogai",
       "Android app development in Ambejogai",
-      "software company in Ambejogai",
+      "software team in Ambejogai",
       "SEO services in Ambejogai",
       "digital marketing in Ambejogai",
       "ecommerce website in Ambejogai",
@@ -95,10 +95,10 @@ const ambejogai: CityContent = {
     },
     {
       id: "temple-town-lodges",
-      heading: "Website development company in Ambejogai for temple-town lodges and shops",
+      heading: "Website development team in Ambejogai for temple-town lodges and shops",
       paragraphs: [
         "The Yogeshwari temple brings devotees throughout the year, with larger crowds during Navratri. Beyond it, visitors look for the Kholeshwar temple built around 1240 CE in the Hemadpanti style, the rock-cut Shivleni or Bhucharnath caves, the Jain sculptures of the elephant caves, the old Hatti Khana, and the samadhi of Mukundraj on the Balaghat hill. Many arrive by bus or car and search for rooms and food on the way.",
-        "A <strong>website development company in Ambejogai</strong> can help lodges, dharamshalas, restaurants, puja-item sellers and taxi operators reach these visitors early. The pages should say how far each place is from the temple, what rooms cost from, parking, check-in times, food options and a WhatsApp number that someone actually answers.",
+        "A <strong>website development team in Ambejogai</strong> can help lodges, dharamshalas, restaurants, puja-item sellers and taxi operators reach these visitors early. The pages should say how far each place is from the temple, what rooms cost from, parking, check-in times, food options and a WhatsApp number that someone actually answers.",
         "We write short, accurate guides to the temples and caves for your site, based on facts you and published sources can confirm, which also helps the pages appear in search. We avoid invented legends or claims about crowd numbers.",
         "A lodge or shop site starts at ₹10,000. For festival periods, a simple room-request form that saves to a sheet and alerts you on WhatsApp prevents double bookings without complicated software.",
       ],
@@ -115,10 +115,10 @@ const ambejogai: CityContent = {
     },
     {
       id: "traders-mondha-ambejogai",
-      heading: "Software company in Ambejogai for Mondha traders, dealers and retailers",
+      heading: "Software team in Ambejogai for Mondha traders, dealers and retailers",
       paragraphs: [
         "Ambejogai's markets around Mondha Road, Main Road and Prashant Nagar near the bus stand supply grain, groceries, cloth, gold, hardware, seeds, fertilisers and pesticides to a large rural area. Many shops still manage credit, stock and dispatch in registers, and lose track of money owed after a busy season.",
-        "As a <strong>software company in Ambejogai</strong>, we build simple web tools for these businesses: a billing and stock system for farm-input dealers, a credit ledger with automatic WhatsApp reminders, a retailer order portal for wholesalers supplying village shops, and dispatch records with challans. The tools run in a browser on a phone or shop computer, with separate access for the owner and staff.",
+        "As a <strong>software team in Ambejogai</strong>, we build simple web tools for these businesses: a billing and stock system for farm-input dealers, a credit ledger with automatic WhatsApp reminders, a retailer order portal for wholesalers supplying village shops, and dispatch records with challans. The tools run in a browser on a phone or shop computer, with separate access for the owner and staff.",
         "Sugarcane is the big crop across Beed district, and transport contractors and cane-cutting labour contractors deal with large sums and many people each season. Trip, advance and settlement registers for them follow the same pattern and cut arguments at the end of the season.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We build the part that saves the most money first, test it during a real week of business, and extend it after that.",
       ],
@@ -128,7 +128,7 @@ const ambejogai: CityContent = {
       heading: "Android app development in Ambejogai, and iOS apps from one codebase",
       paragraphs: [
         "An app makes sense in Ambejogai when a fixed group uses it often. Good examples are a coaching class sharing notes, test papers and results with hundreds of students; a hospital issuing OPD tokens and showing reports; a wholesaler whose village retailers re-order every week; or a school sending homework and fee reminders to parents.",
-        "As an <strong>app development company in Ambejogai</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the main screens for your users and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Ambejogai</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the main screens for your users and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Ambejogai</strong> with us starts at ₹40,000. Online payments, offline use in areas with weak signal, video lessons, maps and integrations each add cost, and each appears as its own line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more detail.",
         "If your customers only need your address, timings and a price list, a website does the job for much less money. We will recommend that first and suggest an app only when repeat use justifies it.",
       ],
@@ -165,11 +165,11 @@ const ambejogai: CityContent = {
     },
     {
       id: "remote-team-ambejogai",
-      heading: "Working with a remote IT company in Ambejogai without an office visit",
+      heading: "Working with a remote IT services team in Ambejogai without an office visit",
       paragraphs: [
         "Since we are not in Ambejogai, everything is written. After a first call about your business and goals, you receive a page or screen plan, a timeline and an itemised quote. Work starts only after your written approval.",
         "You then get preview links to open on your own phone and show family or partners. Marathi text is sent to you for checking before publication, and nothing goes live without your yes. We answer WhatsApp seven days a week on Indian Standard Time and tell you about any delay as soon as we know.",
-        "Payments are split into stages linked to visible progress, and nothing is billed before the quote is approved. For people searching for an <strong>IT company in Ambejogai</strong>, this is exactly what you get: no local desk, but clear records and quick replies.",
+        "Payments are split into stages linked to visible progress, and nothing is billed before the quote is approved. For people searching for an <strong>IT services team in Ambejogai</strong>, this is exactly what you get: no local desk, but clear records and quick replies.",
       ],
     },
     {
@@ -232,7 +232,7 @@ const ambejogai: CityContent = {
         "A static website usually goes live one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick content and approvals from you speed everything up.",
     },
     {
-      question: "Who is the best website development company in Ambejogai?",
+      question: "Who is the best website development team in Ambejogai?",
       answer:
         "Compare providers on published prices, written quotes, domain and code in your name, real past work and support after launch. We meet those tests and reply on WhatsApp seven days a week, but talking to two or three providers before choosing is sensible for any business.",
     },

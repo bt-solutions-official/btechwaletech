@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance IT and app developers in Tezpur: mobile-first sites, local landing pages, apps, AI automation and maintenance for Sonitpur. Remote team, from ₹10,000.",
     keywords: [
-      "software development company in Tezpur",
-      "IT company in Tezpur",
+      "software development team in Tezpur",
+      "IT services team in Tezpur",
       "IT solutions Tezpur",
       "freelance IT developers Tezpur",
       "Android app development Tezpur",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Tezpur · Sonitpur · Assam",
     h1: "Freelance IT and app developers in Tezpur for mobile-first sites, local pages, apps and upkeep",
     lede:
-      "BtechWaleTech is a freelance group of three IT and app developers serving Tezpur remotely from India. Instead of a software development company in Tezpur, you work directly with the engineers who build your mobile-first website, local landing pages for Sonitpur towns, Android and iOS apps, booking systems for the Tawang and Nameri routes, AI automation and the maintenance that keeps it all running.",
+      "BtechWaleTech is a freelance group of three IT and app developers serving Tezpur remotely from India. Instead of a software development team in Tezpur, you work directly with the engineers who build your mobile-first website, local landing pages for Sonitpur towns, Android and iOS apps, booking systems for the Tawang and Nameri routes, AI automation and the maintenance that keeps it all running.",
     pills: ["Mobile-first sites from ₹10,000", "Local landing pages", "Android & iOS apps from ₹40,000", "Maintenance from ₹8,000/month", "5 months upkeep free"],
   },
   quickAnswer:
@@ -198,9 +198,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-tezpur",
-      heading: "Freelance developers vs a software development company in Tezpur: costs, timelines and fit",
+      heading: "Freelance developers vs a software development team in Tezpur: costs, timelines and fit",
       paragraphs: [
-        "Freelance developers such as BtechWaleTech usually cost less than a software development company in Tezpur and let you talk directly to the engineers, while a larger company may provide office visits and bigger teams. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
+        "Freelance developers such as BtechWaleTech usually cost less than a software development team in Tezpur and let you talk directly to the engineers, while a larger company may provide office visits and bigger teams. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
         "Timelines are one to two weeks for a website, two to four for automation, three to five for an SEO site with local pages, six to ten for an app and six to twelve for custom software. Payments are staged and made only by UPI QR or bank transfer in INR. See the <a href='/pricing/'>pricing page</a> and examples on the <a href='/portfolio/'>portfolio</a>.",
         "Whoever you hire, keep the domain, hosting, code and store listings in your name, ask for a live preview, and get maintenance terms in writing. Read <a href='/about/'>about the three of us</a>, see the rest of the state on <a href='/it-services/assam/'>IT services in Assam</a>, or <a href='/contact/'>contact us</a>.",
       ],
@@ -296,7 +296,7 @@ const content: CityContent = {
         "No. We write clear, accurate pages explaining which permits travellers need for Arunachal Pradesh and link to the official application portals. Processing permits is up to the traveller or your team. We avoid publishing promises on behalf of authorities.",
     },
     {
-      question: "Should we hire a freelance team or an IT company in Tezpur?",
+      question: "Should we hire a freelance team or an IT services team in Tezpur?",
       answer:
         "It depends on your priorities. A freelance group like ours offers direct engineer contact, published prices and lower overheads, but works remotely. A local IT company can visit and may handle hardware, usually at higher cost. Either way, insist on ownership in your name and written support terms.",
     },

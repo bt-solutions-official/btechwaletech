@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Jammu and Kashmir: hotel and houseboat booking, apple and saffron stores, offline-ready apps, AI bots and SEO. From ₹10,000, remote team.",
     keywords: [
       "IT services in Jammu and Kashmir",
-      "software development company in Jammu and Kashmir",
-      "IT company in Jammu and Kashmir",
+      "software development team in Jammu and Kashmir",
+      "IT services team in Jammu and Kashmir",
       "freelance software developers Jammu Kashmir",
       "hotel booking software Srinagar",
       "houseboat booking website Dal Lake",
@@ -36,7 +36,7 @@ const content: CityContent = {
     eyebrow: "Jammu and Kashmir (UT) · Srinagar, Jammu, Anantnag, Baramulla, Kathua",
     h1: "Freelance IT services across Jammu and Kashmir, from Dal Lake houseboats to Kathua factories",
     lede:
-      "Searching for IT services in Jammu and Kashmir, or for a software development company that understands the Union Territory's seasons, connectivity and trades? BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in J&K. We build booking systems for hotels, houseboats and tour operators, online stores for saffron, apples, dry fruits and handicrafts, offline-ready Android and iOS apps, AI and WhatsApp automation, dashboards and SEO websites.",
+      "Searching for IT services in Jammu and Kashmir, or for a software development team that understands the Union Territory's seasons, connectivity and trades? BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in J&K. We build booking systems for hotels, houseboats and tour operators, online stores for saffron, apples, dry fruits and handicrafts, offline-ready Android and iOS apps, AI and WhatsApp automation, dashboards and SEO websites.",
     pills: ["Websites from ₹10,000", "Android and iOS apps from ₹40,000", "Booking software from ₹60,000", "Offline-first design", "Urdu, Hindi and English"],
   },
   quickAnswer:
@@ -86,9 +86,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-jk",
-      heading: "Freelance team or a software development company in Jammu and Kashmir: what is the difference?",
+      heading: "Freelance team or a software development team in Jammu and Kashmir: what is the difference?",
       paragraphs: [
-        "A software development company in Jammu and Kashmir, such as the firms in Srinagar's Rangreth complex or in Jammu, offers local presence and on-site meetings; a freelance group like BtechWaleTech offers direct engineer access, published starting prices and full ownership, while working remotely. Both can deliver good work if the scope is written clearly and the code is handed over.",
+        "A software development team in Jammu and Kashmir, such as the firms in Srinagar's Rangreth complex or in Jammu, offers local presence and on-site meetings; a freelance group like BtechWaleTech offers direct engineer access, published starting prices and full ownership, while working remotely. Both can deliver good work if the scope is written clearly and the code is handed over.",
         "A local vendor can visit your hotel or factory and understands local networks personally. A remote freelance group costs less at the start, answers on WhatsApp every day, and brings experience from businesses across India. For many owners, the deciding factor is simply who explains the plan most clearly and who commits to ownership and support in writing.",
         "Whoever you choose, ask the same questions: who writes the code, whether the domain, hosting, app store accounts and data are in your name, how changes are priced, and what support costs after launch. We answer them in every quote. Read more <a href=\"/about/\">about our group</a>.",
       ],

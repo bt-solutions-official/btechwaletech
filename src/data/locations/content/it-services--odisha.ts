@@ -10,8 +10,8 @@ const content: CityContent = {
       "IT services in Odisha from a freelance group: custom software, AI automation, apps, dashboards, ecommerce and SEO for all 30 districts. Sites from ₹10,000.",
     keywords: [
       "IT services in Odisha",
-      "software development company in Odisha",
-      "IT company in Odisha",
+      "software development team in Odisha",
+      "IT services team in Odisha",
       "freelance software developers Odisha",
       "custom software development Odisha",
       "web application development Odisha",
@@ -42,7 +42,7 @@ const content: CityContent = {
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Odia and English interfaces", "Online stores from ₹50,000", "Serving all 30 districts"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT services in Odisha as a freelance group of three engineers, not a software development company: websites from ₹10,000 (1 to 2 weeks), AI automation or Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000 (6 to 12 weeks). We work remotely with every district, and maintenance is free for five months.",
+    "BtechWaleTech provides IT services in Odisha as a freelance group of three engineers, not a software development team: websites from ₹10,000 (1 to 2 weeks), AI automation or Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000 (6 to 12 weeks). We work remotely with every district, and maintenance is free for five months.",
   snapshot: [
     { label: "Capital and IT hub", value: "Bhubaneswar, with the Infocity and Infovalley IT SEZs and several IT towers" },
     { label: "Software parks network", value: "STPI Bhubaneswar with sub-centres at Berhampur, Rourkela, Balasore, Jeypore (Koraput) and Jajpur" },
@@ -75,7 +75,7 @@ const content: CityContent = {
       heading: "What do IT services in Odisha include from a freelance software team?",
       paragraphs: [
         "IT services in Odisha from a freelance software team cover the full stack a business needs: custom software and web applications, mobile apps and PWAs, AI automation and agents, WhatsApp and CRM automation, data dashboards, cloud hosting and deployment, SEO, ecommerce, and ongoing maintenance. BtechWaleTech delivers all of these remotely to organisations anywhere in the state.",
-        "We are three engineers working together as a freelance group, not a company with Odisha offices. That shapes how we work: no sales team, no branch rent and no account managers. You speak directly with the engineers who plan and build your system, over WhatsApp, calls and video, and you receive the source code, logins and documentation at the end.",
+        "We are three engineers working together as a freelance group, with no offices in Odisha. That shapes how we work: no sales team, no branch rent and no account managers. You speak directly with the engineers who plan and build your system, over WhatsApp, calls and video, and you receive the source code, logins and documentation at the end.",
         "For Odisha clients, the practical benefit is consistency. A supplier in Rourkela, a hotel in Puri and a weaver cooperative near Sambalpur all get the same process and the same starting prices. You can explore each service in more detail on our <a href=\"/services/\">services page</a> or look at <a href=\"/portfolio/\">past work</a>.",
       ],
       list: [
@@ -87,14 +87,14 @@ const content: CityContent = {
     },
     {
       id: "company-vs-freelance-odisha",
-      heading: "Software development company in Odisha or a freelance group: how should you decide?",
+      heading: "Software development team in Odisha or a freelance group: how should you decide?",
       paragraphs: [
         "Decide based on project size, budget and support needs: an established software development company in Odisha suits large, multi-year programmes, tender-bound work and projects needing on-site staff, while a freelance group suits well-defined builds where direct contact with engineers, faster replies and lower overheads matter more than headcount.",
         "Bhubaneswar has many IT firms, from STPI-registered exporters to small studios, and some do excellent work. The common complaints we hear from Odisha business owners are about the model rather than the skill: quotes that bundle hosting you cannot move, junior developers you never meet, and support that slows once the invoice is paid.",
         "If you are comparing IT companies in Odisha with freelance teams, ask each the same questions. Who will actually write the code? Will the domain, hosting and repository be in my name? What does support cost after launch, and how quickly do you reply? Is the quote itemised? Whoever answers those clearly in writing is likely to be a safe choice.",
       ],
       list: [
-        "Large tenders or on-site staffing: an IT company",
+        "Large tenders or on-site staffing: an IT services team",
         "Focused software, automation or websites: a freelance group often gives better value",
         "Either way: insist on ownership, itemised quotes and written support terms",
       ],

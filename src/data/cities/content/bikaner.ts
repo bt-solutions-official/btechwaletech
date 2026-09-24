@@ -9,7 +9,7 @@ const bikaner: CityContent = {
     description:
       "Websites, online stores, SEO and WhatsApp automation for Bikaner bhujia makers, wool and gypsum units, hotels and shops. Static sites start at ₹10,000.",
     keywords: [
-      "website development company in Bikaner",
+      "website development team in Bikaner",
       "web designer Bikaner",
       "website design Bikaner Rajasthan",
       "freelance web developer Bikaner",

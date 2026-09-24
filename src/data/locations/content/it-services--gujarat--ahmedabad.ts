@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Ahmedabad for custom ERP, startup MVPs, Android and iOS apps, AI agents and cloud. Starting prices, 3 engineers, UPI or bank.",
     keywords: [
-      "software development company in Ahmedabad",
-      "IT company in Ahmedabad",
+      "software development team in Ahmedabad",
+      "IT services team in Ahmedabad",
       "IT solutions Ahmedabad",
       "freelance software developers Ahmedabad",
       "custom ERP development Ahmedabad",
@@ -203,9 +203,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-ahmedabad",
-      heading: "Freelance developers vs a software development company in Ahmedabad",
+      heading: "Freelance developers vs a software development team in Ahmedabad",
       paragraphs: [
-        "A software development company in Ahmedabad suits projects needing large teams, on-site staff or enterprise contracts; freelance developers like BtechWaleTech suit focused systems, MVPs, apps and automations where you want to talk directly to the engineers, pay lower overheads and own everything. Judge both on the same criteria.",
+        "A software development team in Ahmedabad suits projects needing large teams, on-site staff or enterprise contracts; freelance developers like BtechWaleTech suit focused systems, MVPs, apps and automations where you want to talk directly to the engineers, pay lower overheads and own everything. Judge both on the same criteria.",
         "Ask who writes the code, how often you see working builds, whose name the repository, hosting, domain and app-store accounts are in, and what support costs after launch. We are three independent engineers working remotely, as our <a href='/about/'>about page</a> explains, with samples on our <a href='/portfolio/'>portfolio</a>. We have no Ahmedabad office and do not offer on-site staff. For nearby markets, see our <a href='/it-services/gujarat/vadodara/'>Vadodara page</a> and <a href='/it-services/gujarat/surat/'>Surat page</a>.",
       ],
       list: [
@@ -242,7 +242,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company in Ahmedabad?",
+      question: "Is BtechWaleTech a software team in Ahmedabad?",
       answer:
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, with no office or staff in Ahmedabad. We work with Ahmedabad clients through WhatsApp, calls and video, share live previews during development and hand over code and accounts at the end. You work directly with the engineers who write your software.",
     },

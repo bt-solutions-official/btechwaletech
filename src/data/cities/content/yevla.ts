@@ -10,12 +10,12 @@ const yevla: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Yeola Paithani weavers, saree showrooms, onion traders, schools and clinics.",
     keywords: [
       "IT services in Yeola",
-      "IT company in Yevla",
-      "website development company in Yeola",
+      "IT services team in Yevla",
+      "website development team in Yeola",
       "web design in Yeola",
-      "app development company in Yeola",
+      "app development team in Yeola",
       "Android app development in Yeola",
-      "software company in Yeola",
+      "software team in Yeola",
       "SEO services in Yeola",
       "digital marketing in Yeola",
       "ecommerce website in Yeola",
@@ -92,19 +92,19 @@ const yevla: CityContent = {
     },
     {
       id: "loom-order-software",
-      heading: "Software company in Yeola for Paithani workshops and showrooms",
+      heading: "Software team in Yeola for Paithani workshops and showrooms",
       paragraphs: [
         "A workshop with several looms, or a showroom that places orders with many weavers, juggles a lot: which design is on which loom, how much silk and zari was issued, what advance each weaver has taken, when a custom bridal order is due and which customer has paid the balance.",
-        "As a <strong>software company in Yeola</strong>, we build web tools for this. Each order records the design, colours, loom, weaver, yarn issued, wages and due date. The owner sees what is on every loom, which orders are late and what is owed in both directions. Customers with custom orders can receive progress photographs on WhatsApp at agreed stages.",
+        "As a <strong>software team in Yeola</strong>, we build web tools for this. Each order records the design, colours, loom, weaver, yarn issued, wages and due date. The owner sees what is on every loom, which orders are late and what is owed in both directions. Customers with custom orders can receive progress photographs on WhatsApp at agreed stages.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, starting with the order and yarn register because that is where money leaks first. Data stays in your account, and exports to Excel or Tally are included when your accountant needs them.",
       ],
     },
     {
       id: "onion-traders-andarsul",
-      heading: "IT company in Yeola for onion traders and farm businesses",
+      heading: "IT services team in Yeola for onion traders and farm businesses",
       paragraphs: [
         "Yeola taluka sits in Nashik district's onion country, and onion is traded at the Yeola market as well as larger centres nearby such as Lasalgaon. Andarsul, the biggest village in the taluka, and many others grow onion, other vegetables and field crops, supporting traders, storage owners, transporters, and seed and fertiliser dealers.",
-        "An <strong>IT company in Yeola</strong> can make this trade easier to manage. Traders need records of lots bought by farmer and grade, storage losses, sale rates, trucks dispatched and payments due both ways. Dealers need credit accounts that are settled after harvest. We build ledgers where each entry is made once from a phone, with balances and printable slips in Marathi.",
+        "An <strong>IT services team in Yeola</strong> can make this trade easier to manage. Traders need records of lots bought by farmer and grade, storage losses, sale rates, trucks dispatched and payments due both ways. Dealers need credit accounts that are settled after harvest. We build ledgers where each entry is made once from a phone, with balances and printable slips in Marathi.",
         "These tools start at ₹60,000 for a full custom system, though a smaller setup built on Google Sheets can cost less and suit a single trader. A dealer mainly needing to be found by farmers may only need a ₹10,000 website and a correct map listing.",
       ],
     },
@@ -119,10 +119,10 @@ const yevla: CityContent = {
     },
     {
       id: "midc-suppliers-yeola",
-      heading: "Website development company in Yeola for MIDC units and contractors",
+      heading: "Website development team in Yeola for MIDC units and contractors",
       paragraphs: [
         "Yeola has an MIDC industrial area, and the town also serves as a base for contractors, fabricators, electrical firms, transporters and suppliers who work across Nashik district and towards Aurangabad. Purchase officers and larger buyers check suppliers online before calling.",
-        "A <strong>website development company in Yeola</strong> should keep such sites factual: products or services, machines and capacity, materials handled, registrations and GST details, delivery areas and named contacts. A quotation form that accepts drawings saves repeated phone calls, and photographs should show your own work.",
+        "A <strong>website development team in Yeola</strong> should keep such sites factual: products or services, machines and capacity, materials handled, registrations and GST details, delivery areas and named contacts. A quotation form that accepts drawings saves repeated phone calls, and photographs should show your own work.",
         "We never list a client on your site without their written permission. A capability website starts at ₹10,000 and is usually live within two weeks. Units handling repeat orders can later add a job status page so regular customers stop calling to ask where their order is.",
       ],
     },
@@ -140,7 +140,7 @@ const yevla: CityContent = {
       heading: "Android app development in Yeola, and iOS from the same code",
       paragraphs: [
         "An app pays for itself when the same people use it again and again. In Yeola that could be repeat Paithani buyers browsing new designs and following a custom order through the loom, showroom staff recording stock and sales, onion traders logging lots and trucks, or parents of a school reading notices and paying fees.",
-        "As an <strong>app development company in Yeola</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the key screens and an admin panel. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Yeola</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the key screens and an admin panel. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Yeola</strong> with us starts at ₹40,000. Payments, video galleries, offline use and integrations add cost, and each is listed separately in the quote. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If buyers only need to see your saris and message you, a good website and WhatsApp catalogue do that for much less. We will recommend that route when it fits, because an unused app is money thrown away.",
       ],
@@ -223,7 +223,7 @@ const yevla: CityContent = {
         "Yes. We build stores with close-up photographs of pallu and border, weave and silk details you can support, custom-order terms, UPI and card checkout and insured courier across India. Stores start at ₹50,000 and take four to eight weeks. We never publish handloom or purity claims you cannot back up.",
     },
     {
-      question: "Who is the best website development company in Yeola?",
+      question: "Who is the best website development team in Yeola?",
       answer:
         "Look for a provider that shows real work, publishes starting prices, registers the domain and code in your name and still answers after launch. Ask each option the same questions and compare written quotes. We meet those tests and reply on WhatsApp all week, but comparing two or three providers is wise.",
     },

@@ -12,8 +12,8 @@ const content: CityContent = {
       "Android app development Amritsar",
       "iOS app development Amritsar",
       "mobile app developers Amritsar",
-      "software development company in Amritsar",
-      "IT company in Amritsar",
+      "software development team in Amritsar",
+      "IT services team in Amritsar",
       "IT solutions Amritsar",
       "freelance software developer Amritsar",
       "hotel management software Amritsar",
@@ -69,9 +69,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-it-company-amritsar",
-      heading: "Freelance developers vs a software development company in Amritsar: what is the difference?",
+      heading: "Freelance developers vs a software development team in Amritsar: what is the difference?",
       paragraphs: [
-        "The main difference between hiring freelance developers and a software development company in Amritsar is who you actually deal with. With BtechWaleTech, a freelance group of three engineers, you talk to the people who design, code and deploy your system, rather than a sales executive who passes notes to a team you never meet.",
+        "The main difference between hiring freelance developers and a software development team in Amritsar is who you actually deal with. With BtechWaleTech, a freelance group of three engineers, you talk to the people who design, code and deploy your system, rather than a sales executive who passes notes to a team you never meet.",
         "A larger IT company can make sense for projects needing a big on-site team or round-the-clock staff in Amritsar. Most local businesses, however, need a focused build: a booking system, a dispatch app, a CRM or an automation. For that, a small, experienced freelance group usually delivers faster, costs less and stays easier to reach.",
         "We are open about how we work. There is no Amritsar office; discussions happen on calls and WhatsApp, and you test progress on a live preview link. You get a written scope, an itemised quote, and full ownership of the code and accounts. More about us is on the <a href='/about/'>about page</a>.",
       ],
@@ -252,7 +252,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company based in Amritsar?",
+      question: "Is BtechWaleTech a software team based in Amritsar?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or staff in Amritsar. Amritsar businesses hire us as freelance developers and work with us through calls, WhatsApp and live preview links. You deal directly with the engineers writing your code, and you own every account and line of code.",
     },

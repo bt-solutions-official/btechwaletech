@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance IT & Software Developers in Namchi",
     description:
-      "Searching for an IT company in Namchi? Hire a freelance group for pilgrim booking systems, tour pages, tea and cardamom stores, AI replies and apps. From ₹10,000.",
+      "Searching for an IT services team in Namchi? Hire freelancers for pilgrim booking systems, tour pages, tea and cardamom stores, AI replies and apps. From ₹10,000.",
     keywords: [
       "Android app development Namchi",
       "iOS app development Namchi",
       "mobile app developers Namchi",
       "iPhone app developers Namchi",
-      "software development company in Namchi",
-      "IT company in Namchi",
+      "software development team in Namchi",
+      "IT services team in Namchi",
       "IT solutions Namchi",
       "freelance web developer Namchi Sikkim",
       "hotel booking website Namchi",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Namchi · South Sikkim · Freelance IT group",
     h1: "Freelance IT and software developers in Namchi for pilgrim tourism, tea country and local services",
     lede:
-      "If you are looking for a software development company in Namchi, a freelance group may be a simpler fit. BtechWaleTech is three engineers working remotely from India. We build booking systems for hotels near Char Dham and Samdruptse, tour pages for Ravangla and Temi, stores for tea and cardamom, contact and enquiry flows, AI replies, apps and school tools.",
+      "If you are looking for a software development team in Namchi, a freelance group may be a simpler fit. BtechWaleTech is three engineers working remotely from India. We build booking systems for hotels near Char Dham and Samdruptse, tour pages for Ravangla and Temi, stores for tea and cardamom, contact and enquiry flows, AI replies, apps and school tools.",
     pills: ["Pilgrim booking flows", "Tour and route pages", "Contact forms that reach you", "Websites from ₹10,000", "Automation from ₹40,000"],
   },
   quickAnswer:
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "namchi-freelance-it-team",
-      heading: "Freelance group or software development company in Namchi: what suits local businesses?",
+      heading: "Freelance group or software development team in Namchi: what suits local businesses?",
       paragraphs: [
-        "For most Namchi hotels, shops, clinics and tour operators, a freelance group suits better than a software development company because the projects are small to medium, budgets are careful, and owners want to speak directly with whoever builds the system. Larger companies make sense for projects needing on-site teams or government tender paperwork.",
+        "For most Namchi hotels, shops, clinics and tour operators, a freelance group suits better than a software development team because the projects are small to medium, budgets are careful, and owners want to speak directly with whoever builds the system. Larger companies make sense for projects needing on-site teams or government tender paperwork.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, and we do not have an office in Namchi. We build websites, SEO, booking systems, custom web applications, mobile apps and PWAs, AI and WhatsApp automation, data dashboards, online stores, and we host and maintain what we build.",
         "What we will not do is claim local presence or promise results we cannot control, such as a guaranteed search position or a set number of pilgrims. What you do get is direct contact, written starting prices and ownership of everything at the end. The <a href='/it-services/sikkim/'>Sikkim hub</a> shows the other towns we work with, and our <a href='/about/'>about page</a> introduces us.",
       ],
@@ -260,7 +260,7 @@ const content: CityContent = {
     { question: "Do you repair computers or set up internet?", answer: "No. We are remote software engineers, so we do not handle hardware, CCTV or networking. For those, a local technician is best. We look after websites, software, apps, automation, hosting and online support." },
     { question: "Can you work with cooperatives and self-help groups?", answer: "Yes. We build member and ledger systems, produce catalogues and simple stores for cooperatives and self-help groups. We keep screens simple and in plain language so members with little computer experience can use them on a phone." },
     { question: "Is a Facebook or Instagram page enough instead of a website?", answer: "Not on its own. Social pages are useful for photos and updates, but they rarely appear for searches like “hotel near Char Dham”, and you do not control them if an account is blocked. A small website you own, linked to your Google Business Profile and social pages, gives visitors a reliable place to check rooms, prices and directions." },
-    { question: "Which is the best IT company in Namchi?", answer: "It depends on the job. For computer repairs or networking, a local technician is best. For websites, booking systems, apps and automation, compare providers on past work, ownership of code and domain, itemised pricing and support after launch. We are a remote freelance group, so judge us on those same points." },
+    { question: "Which is the best IT services team in Namchi?", answer: "It depends on the job. For computer repairs or networking, a local technician is best. For websites, booking systems, apps and automation, compare providers on past work, ownership of code and domain, itemised pricing and support after launch. We are a remote freelance group, so judge us on those same points." },
     { question: "How do we get started?", answer: "Send a WhatsApp message or use our <a href='/contact/'>contact page</a> with a few lines about your business. We will ask a few questions, usually on a short call, and send an itemised quote in about two working days. Work begins after you approve it and pay the first milestone." },
   ],
   nearby: ["darjiling", "siliguri", "jalpaiguri", "kishanganj", "raiganj", "english-bazar"],

@@ -9,12 +9,12 @@ const chandigarh: CityContent = {
     description:
       "Websites, SEO, online stores and AI automation for Chandigarh, Mohali and Panchkula businesses. Sites from ₹10,000, SEO sites from ₹20,000, free upkeep.",
     keywords: [
-      "website development company in Chandigarh",
-      "web design company Chandigarh",
+      "website development team in Chandigarh",
+      "web design team Chandigarh",
       "website designer Chandigarh",
       "freelance web developer Chandigarh",
       "website cost Chandigarh",
-      "SEO company Chandigarh",
+      "SEO team Chandigarh",
       "local SEO Chandigarh tricity",
       "ecommerce website development Chandigarh",
       "immigration consultant website design",

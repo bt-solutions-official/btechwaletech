@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Mapusa for POS and stock software, catalogue apps, online stores, villa systems and AI automation across Bardez. Starting prices.",
     keywords: [
-      "software development company in Mapusa",
-      "IT company in Mapusa",
+      "software development team in Mapusa",
+      "IT services team in Mapusa",
       "IT solutions Mapusa",
       "freelance software developer Mapusa",
       "POS and inventory software Mapusa",
@@ -213,9 +213,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-mapusa",
-      heading: "Freelance developers vs a software company in Mapusa: what to ask",
+      heading: "Freelance developers vs a software team in Mapusa: what to ask",
       paragraphs: [
-        "If you are comparing a software company in Mapusa with freelance developers, ask the same questions of both: who writes the code, how soon you see working screens, whose name the accounts are in and who answers when something breaks in December. The answers matter far more than the size of the office.",
+        "If you are comparing a software team in Mapusa with freelance developers, ask the same questions of both: who writes the code, how soon you see working screens, whose name the accounts are in and who answers when something breaks in December. The answers matter far more than the size of the office.",
         "BtechWaleTech is a freelance group of three independent engineers working remotely, as described on our <a href='/about/'>about page</a>, with past work on our <a href='/portfolio/'>portfolio</a>. We have no Mapusa office and cannot visit to fix hardware, but you deal directly with the engineers, prices are published and ownership is yours. For the rest of Goa, see the <a href='/it-services/goa/'>Goa hub</a> and the <a href='/it-services/goa/panaji/'>Panaji page</a>.",
       ],
     },
@@ -244,7 +244,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software company located in Mapusa?",
+      question: "Are you a software team located in Mapusa?",
       answer:
         "No. BtechWaleTech is a freelance group of three independent engineers who work remotely from India, and we have no office or staff in Mapusa. We work with Mapusa clients over WhatsApp, calls and video, share working previews as we build and hand over all accounts at the end. You always talk directly with the engineers.",
     },

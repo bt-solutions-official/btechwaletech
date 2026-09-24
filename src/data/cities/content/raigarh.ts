@@ -9,7 +9,7 @@ const raigarh: CityContent = {
     description:
       "Web design, local SEO, UPI stores and WhatsApp automation in Raigarh for steel and power vendors, Kosa silk weavers, clinics and Gandhi Ganj shops. ₹10,000 onwards.",
     keywords: [
-      "website development company in Raigarh",
+      "website development team in Raigarh",
       "web designer Raigarh Chhattisgarh",
       "website design Raigarh",
       "freelance web developer Raigarh",
@@ -271,7 +271,7 @@ const raigarh: CityContent = {
     {
       question: "How soon can SEO bring enquiries in Raigarh?",
       answer:
-        "Map visibility for nearby searches usually starts improving six to ten weeks after the profile and website are properly set up. Wider terms such as “website development company in Raigarh” generally need four to eight months of steady work. Any promise of a guaranteed first position should make you cautious.",
+        "Map visibility for nearby searches usually starts improving six to ten weeks after the profile and website are properly set up. Wider terms such as “website development team in Raigarh” generally need four to eight months of steady work. Any promise of a guaranteed first position should make you cautious.",
     },
     {
       question: "Do you take projects from Kharsia, Sarangarh, Korba or Jharsuguda?",

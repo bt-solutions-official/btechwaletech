@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Karimnagar: granite yard software, hospital systems, dashboards, AI agents, Android and iOS apps and SEO. Websites from ₹10,000.",
     keywords: [
-      "software development company in Karimnagar",
-      "IT company in Karimnagar",
+      "software development team in Karimnagar",
+      "IT services team in Karimnagar",
       "IT solutions Karimnagar",
       "freelance software developers Karimnagar",
       "granite quarry software Karimnagar",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "IT services · Karimnagar, Telangana",
     h1: "Freelance software developers for Karimnagar's granite yards, hospitals and growing businesses",
     lede:
-      "Freelance software developers for Karimnagar: BtechWaleTech is a freelance group of three remote engineers building block and slab tracking for granite quarries and processors, patient systems for the city's hospitals, owner dashboards, Telugu WhatsApp agents, Android and iOS apps, business websites and proper SEO setup. For anyone comparing a software development company in Karimnagar, our starting prices are published and maintenance is free for five months after launch.",
+      "Freelance software developers for Karimnagar: BtechWaleTech is a freelance group of three remote engineers building block and slab tracking for granite quarries and processors, patient systems for the city's hospitals, owner dashboards, Telugu WhatsApp agents, Android and iOS apps, business websites and proper SEO setup. For anyone comparing a software development team in Karimnagar, our starting prices are published and maintenance is free for five months after launch.",
     pills: ["Granite block and slab tracking", "Hospital and clinic systems", "Owner dashboards", "Android and iOS apps", "SEO setup done properly"],
   },
   quickAnswer:
@@ -202,7 +202,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-karimnagar",
-      heading: "Freelance software developers or a software company in Karimnagar?",
+      heading: "Freelance software developers or a software team in Karimnagar?",
       paragraphs: [
         "Choose freelance software developers when your Karimnagar project has a defined scope, you want direct access to engineers and cost matters; choose a larger software company in Karimnagar or Hyderabad when you need many developers, on-site staff or enterprise contracts. Both can succeed; fit matters more than size.",
         "BtechWaleTech is a freelance group of three engineers with no Karimnagar office. You deal directly with us, prices are public, and we support what we build. Capacity is our limit, and we will say if your project needs a larger team.",

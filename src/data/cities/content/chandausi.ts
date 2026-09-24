@@ -9,7 +9,7 @@ const chandausi: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Chandausi mentha and grain traders, Station Road shops, schools and clinics. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Chandausi",
+      "website development team in Chandausi",
       "web design Chandausi",
       "website designer Chandausi",
       "SEO services Chandausi",

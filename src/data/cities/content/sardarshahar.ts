@@ -10,12 +10,12 @@ const sardarshahar: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sardarshahar silversmiths, sweet shops, havelis, schools and Churu district traders.",
     keywords: [
       "IT services in Sardarshahar",
-      "IT company in Sardarshahar",
-      "website development company in Sardarshahar",
+      "IT services team in Sardarshahar",
+      "website development team in Sardarshahar",
       "web design in Sardarshahar",
-      "app development company in Sardarshahar",
+      "app development team in Sardarshahar",
       "Android app development in Sardarshahar",
-      "software company in Sardarshahar",
+      "software team in Sardarshahar",
       "SEO services in Sardarshahar",
       "digital marketing in Sardarshahar",
       "ecommerce website in Sardarshahar",
@@ -70,7 +70,7 @@ const sardarshahar: CityContent = {
         "Sardarshahar serves a wide ring of desert villages. Farmers come in to buy seed, fertiliser and tractor parts, families shop for weddings and silver, students arrive for schools and colleges, and pilgrims visit the Terapanth sites linked to Acharya Mahashraman, who was born here. Before any of these trips, people now check a phone: is the shop open, does the college have seats, which sweet shop takes bulk orders, how far is the haveli from the clock tower.",
         "Most requests for <strong>IT services in Sardarshahar</strong> are practical. An owner wants a clear Hindi website, a correct Google Maps pin, orders arriving on WhatsApp in an organised way, or a simple register that the whole family can check. Our team of three handles this remotely. Ankur Kumar builds the websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation.",
         "We have no office in Sardarshahar, and we would rather say that plainly than pretend otherwise. Work happens over WhatsApp, phone calls and screen shares, with written plans at every step. Because there is no rented showroom to pay for, our starting prices stay low, and you do not have to travel to Bikaner or Jaipur to meet anyone.",
-        "If you are looking for an <strong>IT company in Sardarshahar</strong> simply because a relative in Kolkata or Bengaluru told you to “go online”, start with a WhatsApp message. We will tell you whether you need a website, a map listing, an app or nothing at all yet.",
+        "If you are looking for an <strong>IT services team in Sardarshahar</strong> simply because a relative in Kolkata or Bengaluru told you to “go online”, start with a WhatsApp message. We will tell you whether you need a website, a map listing, an app or nothing at all yet.",
       ],
     },
     {
@@ -105,20 +105,20 @@ const sardarshahar: CityContent = {
     },
     {
       id: "schools-colleges-coaching",
-      heading: "Website development company in Sardarshahar for schools, colleges and coaching",
+      heading: "Website development team in Sardarshahar for schools, colleges and coaching",
       paragraphs: [
         "Education is a large part of Sardarshahar's identity. The Gandhi Vidya Mandir campus, whose foundation stone was laid by Dr Rajendra Prasad in 1955, houses IASE Deemed University and teaches students from kindergarten to doctoral level. Around it are private schools, coaching centres, hostels, bookshops and stationers that depend on a steady flow of students from Churu, Bikaner and Hanumangarh districts.",
-        "Parents compare institutions online before they visit. A <strong>website development company in Sardarshahar</strong> should build education sites that answer their questions without a phone call: courses and classes offered, fee ranges, admission dates, hostel facilities, transport routes, results and faculty. Pages should be in Hindi with English alongside, and they must load quickly on basic phones.",
+        "Parents compare institutions online before they visit. A <strong>website development team in Sardarshahar</strong> should build education sites that answer their questions without a phone call: courses and classes offered, fee ranges, admission dates, hostel facilities, transport routes, results and faculty. Pages should be in Hindi with English alongside, and they must load quickly on basic phones.",
         "For schools and coaching centres with several hundred students, we add admission enquiry forms that save to a sheet, fee reminder messages on WhatsApp, a notice board parents can check, and simple results pages. Hostels benefit from a page listing rules, meal timings, fees and photographs of real rooms.",
         "We do not publish rankings, toppers' names or photographs of students without written consent from the institution and, for minors, from parents. That caution protects both the students and your reputation.",
       ],
     },
     {
       id: "riico-industrial-sardarshahar",
-      heading: "Software company in Sardarshahar for RIICO units, oil mills and farm trade",
+      heading: "Software team in Sardarshahar for RIICO units, oil mills and farm trade",
       paragraphs: [
         "Sardarshahar has a RIICO industrial area, and RIICO has planned a larger industrial estate on the town's extension close to the railway station and state highways. Across Churu district, small units work in guar gum, oil processing, aluminium utensils, woollen blankets and cement. Much of the local economy also rests on farming: bajra, wheat, mustard and guar grown on sandy soils, sold through traders and commission agents.",
-        "If you are searching for a <strong>software company in Sardarshahar</strong> to organise this kind of business, the need is usually specific. A mustard oil or guar trader wants purchase entries by farmer and vehicle, lot-wise stock, payments due and a daily summary on the phone. A small factory wants dispatch records, simple quality logs and reminders for licence and insurance renewals.",
+        "If you are searching for a <strong>software team in Sardarshahar</strong> to organise this kind of business, the need is usually specific. A mustard oil or guar trader wants purchase entries by farmer and vehicle, lot-wise stock, payments due and a daily summary on the phone. A small factory wants dispatch records, simple quality logs and reminders for licence and insurance renewals.",
         "We build these as small web tools that run on a phone and a desktop, with each entry made once and totals worked out automatically. Custom software starts at ₹60,000 and takes six to twelve weeks. We usually build the part that saves the most time first, such as the purchase register, and add the rest after you have used it for a season.",
         "Units in the industrial area that supply buyers outside Rajasthan also need a factual capability website: products, capacities, packing options, certifications and named contacts. Purchase managers in Jaipur or Delhi check these before calling.",
       ],
@@ -128,7 +128,7 @@ const sardarshahar: CityContent = {
       heading: "Android app development in Sardarshahar, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost when the same group of people opens it again and again. In Sardarshahar, good cases include a school sending daily notices and fee reminders to parents, a coaching centre sharing test schedules and results, a jeweller whose regular customers want to see new designs and current silver rates, a sweet shop taking repeat orders from families in other cities, or a farm input dealer taking orders from village retailers.",
-        "As an <strong>app development company in Sardarshahar</strong> working remotely, we build apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally includes mobile number login, push notifications, the few screens your users need most, and an admin panel your staff can use without training. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Sardarshahar</strong> working remotely, we build apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally includes mobile number login, push notifications, the few screens your users need most, and an admin panel your staff can use without training. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Sardarshahar</strong> with us starts at ₹40,000. The price rises with online payment, offline mode for patchy networks in outlying villages, maps, multiple user roles or links to your billing software, and each of these appears as its own line in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses do not need an app at all. If your customers only look for your address, phone number, timings and a price list, a website and map listing do the job at a quarter of the cost. We will say so, because an app that people install once and forget is a waste of your money.",
       ],
@@ -233,7 +233,7 @@ const sardarshahar: CityContent = {
         "A static site usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor in speed is how quickly your content and approvals reach us.",
     },
     {
-      question: "Which is the best website development company in Sardarshahar?",
+      question: "Which is the best website development team in Sardarshahar?",
       answer:
         "Judge any provider by the same tests: published prices, domain and code registered in your name, real past work, and support after launch. Ask each one the same questions and compare the answers. We meet those tests and reply on WhatsApp every day, but talking to two or three options first is sensible.",
     },

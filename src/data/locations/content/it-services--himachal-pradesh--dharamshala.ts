@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Dharamshala",
     description:
-      "Searching for a software development company in Dharamshala? Hire our freelance group of 3 engineers for booking software, AI agents, apps and SEO.",
+      "Searching for a software development team in Dharamshala? Hire our freelance group of 3 engineers for booking software, AI agents, apps and SEO.",
     keywords: [
-      "software development company in Dharamshala",
-      "IT company in Dharamshala",
+      "software development team in Dharamshala",
+      "IT services team in Dharamshala",
       "IT solutions Dharamshala",
       "Android app development Dharamshala",
       "iOS app development Dharamshala",
@@ -28,9 +28,9 @@ const content: CityContent = {
       "ecommerce website Tibetan handicrafts",
       "website maintenance Dharamshala",
       "IT services near me Dharamshala",
-      "software company near Kangra",
+      "software team near Kangra",
       "yoga retreat website developer Dharamkot",
-      "Dharamshala mein software company",
+      "Dharamshala mein software team",
       "धर्मशाला में सॉफ्टवेयर कंपनी",
     ],
   },
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Dharamshala · Kangra · Himachal Pradesh",
     h1: "Freelance software developers in Dharamshala for guesthouses, retreats and Kangra valley businesses",
     lede:
-      "Searching for a software development company in Dharamshala? BtechWaleTech is a freelance group of three independent engineers, remote from India, building booking engines, retreat management tools, AI enquiry assistants, apps, dashboards and search-ready websites for businesses from McLeod Ganj down to Kangra town. You talk directly to the people writing your code, prices start low and are written down, and the first five months of upkeep after launch cost nothing.",
+      "Searching for a software development team in Dharamshala? BtechWaleTech is a freelance group of three independent engineers, remote from India, building booking engines, retreat management tools, AI enquiry assistants, apps, dashboards and search-ready websites for businesses from McLeod Ganj down to Kangra town. You talk directly to the people writing your code, prices start low and are written down, and the first five months of upkeep after launch cost nothing.",
     pills: ["Booking and retreat software", "AI enquiry assistants", "Web apps from ₹60,000", "Multilingual SEO", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Looking for a software development company in Dharamshala? BtechWaleTech is a freelance group of three engineers working remotely from India. Custom web apps and booking systems start at ₹60,000 (6–12 weeks), AI automation at ₹40,000 (2–4 weeks), Android and iOS apps from ₹40,000 (6–10 weeks), websites at ₹10,000 (1–2 weeks) and online stores at ₹50,000. You get an itemised quote in about two working days and five months of free maintenance.",
+    "Looking for a software development team in Dharamshala? BtechWaleTech is a freelance group of three engineers working remotely from India. Custom web apps and booking systems start at ₹60,000 (6–12 weeks), AI automation at ₹40,000 (2–4 weeks), Android and iOS apps from ₹40,000 (6–10 weeks), websites at ₹10,000 (1–2 weeks) and online stores at ₹50,000. You get an itemised quote in about two working days and five months of free maintenance.",
   snapshot: [
     { label: "District and status", value: "Headquarters of Kangra district and the winter seat of the Himachal Pradesh Vidhan Sabha at Tapovan, Sidhbari" },
     { label: "Upper town", value: "McLeod Ganj, home of the Central Tibetan Administration, Tsuglagkhang complex and a large Tibetan community" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-dharamshala",
-      heading: "What does a software development company in Dharamshala actually build?",
+      heading: "What does a software development team in Dharamshala actually build?",
       paragraphs: [
-        "A software development company serving Dharamshala mostly builds tools that help small hospitality, wellness and retail businesses handle bookings, enquiries and payments without a large office team. The town has very few large employers outside government, education and the Tibetan administration. Most businesses are family guesthouses, cafés, trekking outfits, meditation and yoga centres, handicraft shops and small clinics, and each runs with a handful of people who also do the cooking, the cleaning and the accounts.",
+        "A software development team serving Dharamshala mostly builds tools that help small hospitality, wellness and retail businesses handle bookings, enquiries and payments without a large office team. The town has very few large employers outside government, education and the Tibetan administration. Most businesses are family guesthouses, cafés, trekking outfits, meditation and yoga centres, handicraft shops and small clinics, and each runs with a handful of people who also do the cooking, the cleaning and the accounts.",
         "That shapes what software is useful here. A 12-room guesthouse in Bhagsu does not need an enterprise property management system with forty modules. It needs a calendar that cannot double-book, a way to take a deposit by UPI, automatic confirmation messages, and a single view of what online travel agencies, walk-ins and repeat guests have booked. A retreat in Dharamkot needs course registration, dietary notes and a waiting list. A carpet workshop needs a catalogue that overseas buyers can browse and a way to quote shipping.",
         "We are BtechWaleTech, a freelance group of three engineers working remotely from India. We have no office in Kangra district, and we say so upfront. What we offer instead is direct contact with the people designing and coding your system, starting prices that are published on our <a href='/pricing/'>pricing page</a>, and five months of maintenance after launch at no charge. The rest of this page walks through the kinds of software, automation and web work that fit Dharamshala, what each costs to start, and how long it takes.",
       ],
@@ -83,7 +83,7 @@ const content: CityContent = {
       heading: "Is there an IT industry in Dharamshala, and which technologies do we use?",
       paragraphs: [
         "Dharamshala has a small IT scene of local freelancers and web studios rather than an IT park, so most custom software for Kangra district businesses is built remotely by teams in Mohali, Chandigarh, Delhi or elsewhere in India. Himachal Pradesh's better-known technology anchors, such as the Jaypee University of Information Technology at Waknaghat near Solan and IIT Mandi at Kamand, sit a long drive away from the Dhauladhar foothills.",
-        "That matters less than it used to. A guesthouse owner in Bhagsu or a retreat manager in Dharamkot now reviews screens on a phone, tests a staging link over mobile data and approves changes on WhatsApp. What matters is that the software development company you pick uses mainstream, well-documented technology that any competent developer can maintain later, instead of a private framework that only the original author understands.",
+        "That matters less than it used to. A guesthouse owner in Bhagsu or a retreat manager in Dharamkot now reviews screens on a phone, tests a staging link over mobile data and approves changes on WhatsApp. What matters is that the software development team you pick uses mainstream, well-documented technology that any competent developer can maintain later, instead of a private framework that only the original author understands.",
         "BtechWaleTech builds fast marketing sites with Astro and Next.js, web applications with React on the front end and Node.js or Python on the back end, and databases such as PostgreSQL. Workflow automation runs on n8n or custom Node.js services, messaging on the official WhatsApp Business API, and AI features use large language models connected to your own data. Android and iOS apps are built once in Flutter or React Native and published on Google Play and the App Store, with installable web apps as a lighter option. Hosting is on AWS, Vercel, Netlify or similar providers, in an account registered to you.",
       ],
       list: [
@@ -216,11 +216,11 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner",
-      heading: "Freelance team vs a software development company in Dharamshala: which should you hire?",
+      heading: "Freelance team vs a software development team in Dharamshala: which should you hire?",
       paragraphs: [
-        "Whether you hire a freelance team like ours or a software development company in Dharamshala or Chandigarh, the best test is to check who owns the domain and code at the end, who will actually build it, what happens after launch, and whether the quote lists each feature. Those four answers reveal more than any portfolio slideshow.",
+        "Whether you hire a freelance team like ours or a software development team in Dharamshala or Chandigarh, the best test is to check who owns the domain and code at the end, who will actually build it, what happens after launch, and whether the quote lists each feature. Those four answers reveal more than any portfolio slideshow.",
         "Ask to see work that is live, not only screenshots, and open it on your phone using mobile data rather than Wi-Fi. Ask whether the booking data stays in your hosting account or inside the developer's platform. Ask what a change costs after launch, and how quickly they reply in the peak season when you need a rate updated tonight. If the answers are vague, expect the project to be vague too.",
-        "A registered software company can offer a larger bench of staff and formal account management, which suits big multi-property groups; a freelance group like BtechWaleTech offers direct contact with the engineers, lower overheads and faster replies, which suits most family-run guesthouses and retreats. We encourage clients to compare. You can look at our <a href='/portfolio/'>portfolio</a>, read how we work on our <a href='/about/'>about page</a>, and talk to us before paying anything. If a local freelancer in Dharamshala or a Chandigarh agency is a better fit for you, that is a perfectly fine outcome; the aim is that you end up with software you own and understand.",
+        "A registered software team can offer a larger bench of staff and formal account management, which suits big multi-property groups; a freelance group like BtechWaleTech offers direct contact with the engineers, lower overheads and faster replies, which suits most family-run guesthouses and retreats. We encourage clients to compare. You can look at our <a href='/portfolio/'>portfolio</a>, read how we work on our <a href='/about/'>about page</a>, and talk to us before paying anything. If a local freelancer in Dharamshala or a Chandigarh agency is a better fit for you, that is a perfectly fine outcome; the aim is that you end up with software you own and understand.",
       ],
     },
     {
@@ -328,9 +328,9 @@ const content: CityContent = {
         "We set up uptime monitoring on every project, so we usually know about an outage before you do. During the free maintenance period and on a paid plan, we investigate and fix hosting or code issues as a priority, and you can reach us on WhatsApp seven days a week. Daily backups mean data can be restored if something goes badly wrong.",
     },
     {
-      question: "Which is the best IT company in Dharamshala?",
+      question: "Which is the best IT services team in Dharamshala?",
       answer:
-        "There is no single best IT company in Dharamshala for everyone; the right one depends on what you need built. Judge any shortlist on live work you can open on a phone, an itemised quote, clear ownership of domain and code, and support after launch. We would like to be on that shortlist, but we do not claim rankings or awards we have not earned, and we encourage you to compare.",
+        "There is no single best IT services team in Dharamshala for everyone; the right one depends on what you need built. Judge any shortlist on live work you can open on a phone, an itemised quote, clear ownership of domain and code, and support after launch. We would like to be on that shortlist, but we do not claim rankings or awards we have not earned, and we encourage you to compare.",
     },
     {
       question: "How quickly will we get a quote?",

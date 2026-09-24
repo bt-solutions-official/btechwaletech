@@ -10,12 +10,12 @@ const tohana: CityContent = {
       "Hindi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tohana rice millers, grain mandi arhtiyas, dealers, schools and clinics.",
     keywords: [
       "IT services in Tohana",
-      "IT company in Tohana",
-      "website development company in Tohana",
+      "IT services team in Tohana",
+      "website development team in Tohana",
       "web design in Tohana",
-      "app development company in Tohana",
+      "app development team in Tohana",
       "Android app development in Tohana",
-      "software company in Tohana",
+      "software team in Tohana",
       "SEO services in Tohana",
       "digital marketing in Tohana",
       "ecommerce website in Tohana",
@@ -75,20 +75,20 @@ const tohana: CityContent = {
     },
     {
       id: "rice-mills-tohana",
-      heading: "Website development company in Tohana for basmati rice mills and exporters",
+      heading: "Website development team in Tohana for basmati rice mills and exporters",
       paragraphs: [
         "Tohana's rice mills, many of them along Himmatpura Road and the approaches to the town, buy paddy from the mandi and mill it into basmati and non-basmati grades. Their customers are wholesalers across north India, brand owners who pack under their own label, and exporters who need consistent quality and paperwork.",
-        "Those buyers judge a mill before they call. A <strong>website development company in Tohana</strong> working with a miller should put the essentials in front of them: varieties handled, such as 1121 and other basmati types, sella, steam and raw processing, grain length and packing options, milling and sorting capacity described honestly, food safety and export registrations, and named people for domestic and export enquiries. English is the main language here, with Hindi pages for local suppliers and transporters.",
+        "Those buyers judge a mill before they call. A <strong>website development team in Tohana</strong> working with a miller should put the essentials in front of them: varieties handled, such as 1121 and other basmati types, sella, steam and raw processing, grain length and packing options, milling and sorting capacity described honestly, food safety and export registrations, and named people for domestic and export enquiries. English is the main language here, with Hindi pages for local suppliers and transporters.",
         "We keep such sites fast and factual. We do not print buyer or brand names without their written consent, and we do not publish capacity or turnover figures you cannot back up. A sample request form that records variety, quantity, packing and destination port saves a lot of phone time during the busy months.",
         "A capability website starts at ₹10,000 and usually goes live within two weeks. Mills that want a private area for buyers to download certificates, specifications and dispatch documents can add that as a web app later.",
       ],
     },
     {
       id: "grain-mandi-software",
-      heading: "Software company in Tohana for arhtiyas and grain market traders",
+      heading: "Software team in Tohana for arhtiyas and grain market traders",
       paragraphs: [
         "The Tohana anaj mandi is where the town's money moves each season. Arhtiyas receive wheat in April and paddy from late September, arrange cleaning and weighing, sell to millers or government agencies, and settle with farmers. Each heap has a farmer, a lot number, a weight, deductions, a buyer and a payment date, and a single commission agent may handle hundreds of these in a week.",
-        "Many firms still run this from notebooks, printed forms and a spreadsheet kept by one family member. When a buyer delays payment or a farmer disputes a weight, finding the right entry takes hours. As a practical <strong>software company in Tohana</strong>, we build web tools shaped around mandi work: arrival entries by farmer and lot, weights and deductions, sale to buyer, labour and cleaning charges, advances, and a running balance per farmer that the office can print or send on WhatsApp.",
+        "Many firms still run this from notebooks, printed forms and a spreadsheet kept by one family member. When a buyer delays payment or a farmer disputes a weight, finding the right entry takes hours. As a practical <strong>software team in Tohana</strong>, we build web tools shaped around mandi work: arrival entries by farmer and lot, weights and deductions, sale to buyer, labour and cleaning charges, advances, and a running balance per farmer that the office can print or send on WhatsApp.",
         "We can add season summaries, pending dues by buyer, and exports your accountant can load into Tally. Government procurement portals have their own rules, so we keep your records ready for them rather than trying to replace them.",
         "These tools start at ₹60,000 and are built over six to twelve weeks. We recommend building in the gap between the wheat and paddy seasons, so staff can practise on real entries before the heaps arrive.",
       ],
@@ -138,7 +138,7 @@ const tohana: CityContent = {
       heading: "Android app development in Tohana, plus iOS apps for local firms",
       paragraphs: [
         "Apps pay off when the same people open them every week. In Tohana, that could be village retailers re-ordering from a fertiliser dealer, farmers checking rates and settlement status from their arhtiya, transporters logging trips during the paddy rush, students receiving class notices and test results, or patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Tohana</strong> that works remotely, we use Flutter or React Native, so a single build covers both Android and iPhone. A typical first release includes OTP login, push alerts, the handful of screens your users need and a staff dashboard. We publish it on Google Play and the Apple App Store through developer accounts registered to your business.",
+        "As an <strong>app development team in Tohana</strong> that works remotely, we use Flutter or React Native, so a single build covers both Android and iPhone. A typical first release includes OTP login, push alerts, the handful of screens your users need and a staff dashboard. We publish it on Google Play and the Apple App Store through developer accounts registered to your business.",
         "<strong>Android app development in Tohana</strong> with us begins at ₹40,000. Payment features, offline use in fields with poor signal, maps, live tracking and links to Tally each raise the figure, and each is priced separately in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process.",
         "Be sure you need an app before paying for one. If customers only want your address, rates and phone number, a website does the job for a fraction of the cost and needs no download. We will say so plainly rather than sell you something that sits unopened.",
       ],
@@ -182,7 +182,7 @@ const tohana: CityContent = {
     },
     {
       id: "around-tohana",
-      heading: "IT company in Tohana serving Jakhal, Ratia, Narwana and the Punjab border belt",
+      heading: "IT services team in Tohana serving Jakhal, Ratia, Narwana and the Punjab border belt",
       paragraphs: [
         "Our clients in this area are spread across Fatehabad district and beyond. We take work from Jakhal Mandi, Kulan, Bhuna, Uklana and Ratia, from Fatehabad and Hisar, from Narwana and Jind to the east, and from Punjab towns across the border such as Moonak, Lehragaga, Patran and Sunam.",
         "Many Tohana firms buy and sell across state lines. For them, we create separate pages for each town only when there is something real to say: a branch or collection point, delivery routes, a local number. Pages that repeat the same words with a different town name are filtered out by Google and do nothing for customers.",
@@ -231,7 +231,7 @@ const tohana: CityContent = {
         "Once your wording and photographs are with us, a simple site is usually live inside two weeks. A 700+ page SEO site needs three to five weeks, a store four to eight and custom software six to twelve. Most delays come from waiting for content, so gathering it early helps.",
     },
     {
-      question: "Which is the best website development company in Tohana?",
+      question: "Which is the best website development team in Tohana?",
       answer:
         "Ask every option the same things: are prices published, will the domain and code be in your name, can you see live work, and who fixes problems later? We meet those standards and reply on WhatsApp all week, but speaking with two or three developers before you choose is always a good idea.",
     },

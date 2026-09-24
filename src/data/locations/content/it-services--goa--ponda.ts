@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Ponda for internal tools, plant records, college portals, temple seva booking and AI automation. Starting prices, three engineers.",
     keywords: [
-      "software development company in Ponda",
-      "IT company in Ponda",
+      "software development team in Ponda",
+      "IT services team in Ponda",
       "IT solutions Ponda",
       "freelance software developer Ponda Goa",
       "internal tools for manufacturers Kundaim",
@@ -213,9 +213,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-ponda",
-      heading: "Freelance team or a software company in Ponda: which is right for you?",
+      heading: "Freelance team or a software team in Ponda: which is right for you?",
       paragraphs: [
-        "A software company in Ponda or elsewhere suits you if you need on-site staff, formal system validation or a large team; a freelance group like BtechWaleTech suits focused internal tools, automations and websites where direct contact with engineers and clear ownership matter most.",
+        "A software team in Ponda or elsewhere suits you if you need on-site staff, formal system validation or a large team; a freelance group like BtechWaleTech suits focused internal tools, automations and websites where direct contact with engineers and clear ownership matter most.",
         "We are three independent engineers working remotely, as described on our <a href='/about/'>about page</a>, with examples on our <a href='/portfolio/'>portfolio</a>. We have no Ponda office. For the rest of Goa, see the <a href='/it-services/goa/'>Goa IT services hub</a> and the <a href='/it-services/goa/mapusa/'>Mapusa page</a>.",
       ],
       list: [

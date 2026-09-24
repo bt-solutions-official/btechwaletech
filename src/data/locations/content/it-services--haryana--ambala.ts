@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Ambala: custom software, web apps, Android and iOS apps, AI automation, dashboards and SEO. Starting prices, 5 months free upkeep.",
     keywords: [
-      "software development company in Ambala",
-      "IT company in Ambala",
+      "software development team in Ambala",
+      "IT services team in Ambala",
       "IT solutions Ambala",
       "IT services Ambala Cantt",
       "custom software development Ambala",
@@ -26,11 +26,11 @@ const content: CityContent = {
       "school admission software Ambala",
       "hospital appointment system Ambala",
       "SEO services Ambala City",
-      "IT company near me Ambala Cantt",
-      "software company near Mullana",
+      "IT services team near me Ambala Cantt",
+      "software team near Mullana",
       "cloud hosting and deployment Ambala",
       "IT support and maintenance Ambala",
-      "Ambala mein software company",
+      "Ambala mein software team",
       "अंबाला सॉफ्टवेयर कंपनी",
     ],
   },
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Ambala · Haryana",
     h1: "Freelance software developers in Ambala for instrument makers, traders, schools and clinics",
     lede:
-      "Hiring a software development company in Ambala? Consider BtechWaleTech, a freelance group of three engineers working remotely from India and building order systems, admissions portals, appointment tools, AI assistants and dashboards for businesses in Ambala Cantt, Ambala City, Mullana and Saha. You deal directly with the people writing the code, prices start low and are published, and every project comes with five months of free maintenance after launch.",
+      "Hiring a software development team in Ambala? Consider BtechWaleTech, a freelance group of three engineers working remotely from India and building order systems, admissions portals, appointment tools, AI assistants and dashboards for businesses in Ambala Cantt, Ambala City, Mullana and Saha. You deal directly with the people writing the code, prices start low and are published, and every project comes with five months of free maintenance after launch.",
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Android & iOS apps from ₹40,000", "Dashboards over Tally and Excel", "Replies 7 days on WhatsApp"],
   },
   quickAnswer:
@@ -159,7 +159,7 @@ const content: CityContent = {
       id: "cloud-hosting-devops",
       heading: "Which tech stack and cloud hosting should an Ambala software project use?",
       paragraphs: [
-        "Any IT partner for an Ambala business, freelance or an IT company, should pick a boring, well-supported tech stack and deploy it on cloud hosting in the client's own name. BtechWaleTech builds websites with Astro or Next.js, web applications with React and Node.js or Python, mobile apps with React Native or Flutter, and automations with n8n and the WhatsApp Business API, hosted on AWS or similar cloud with SSL, backups and monitoring. Hosting choice depends on the application: static sites go on fast global hosting at very low cost, while web applications with databases run on managed cloud servers sized for the actual load.",
+        "Any IT partner for an Ambala business, freelance or an IT services team, should pick a boring, well-supported tech stack and deploy it on cloud hosting in the client's own name. BtechWaleTech builds websites with Astro or Next.js, web applications with React and Node.js or Python, mobile apps with React Native or Flutter, and automations with n8n and the WhatsApp Business API, hosted on AWS or similar cloud with SSL, backups and monitoring. Hosting choice depends on the application: static sites go on fast global hosting at very low cost, while web applications with databases run on managed cloud servers sized for the actual load.",
         "We set up automated backups, uptime alerts and security updates, and we deploy through version control so every change can be traced and rolled back. Domain, hosting, email and code repository accounts are registered to your business, and you receive every login at handover. If we ever stop working together, your software keeps running and another developer can pick it up.",
         "For firms with existing systems on old shared hosting or a local server in the office, we can plan a migration: moving data, testing, switching over on a quiet evening and keeping the old system available until everyone is confident. This is also where our <a href='/services/'>maintenance and support plans</a> begin, covering updates, fixes and checks after the five free months end.",
       ],
@@ -193,9 +193,9 @@ const content: CityContent = {
     },
     {
       id: "choose-it-partner-ambala",
-      heading: "Freelance team vs a software development company in Ambala: how to choose",
+      heading: "Freelance team vs a software development team in Ambala: how to choose",
       paragraphs: [
-        "The best way to choose an IT company in Ambala is to ask five plain questions before you pay anything: who writes the code, who owns the domain and hosting, what happens after launch, how changes are priced, and can you see similar work. Clear answers to those five questions rule out most bad outcomes.",
+        "The best way to choose an IT services team in Ambala is to ask five plain questions before you pay anything: who writes the code, who owns the domain and hosting, what happens after launch, how changes are priced, and can you see similar work. Clear answers to those five questions rule out most bad outcomes.",
         "Ownership is the question most often skipped. Some providers register the domain and hosting in their own name, which makes switching painful later. With us, every account is in your name from day one. Ask to see real work too; our <a href='/portfolio/'>portfolio</a> shows what we have built, and we will not show you anything we did not make.",
         "Finally, check communication. A partner who takes three days to reply before you have paid will not be faster afterwards. We answer on WhatsApp seven days a week and give you a named engineer, not a ticket number.",
       ],
@@ -316,7 +316,7 @@ const content: CityContent = {
         "Yes. We build admission portals with online forms, document upload, scheduling and fee collection through UPI and card checkout connected to a payment account in the institution's own name. Enquiries from every channel land in one list, and automated reminders follow up on pending documents and fees. The same system can later handle circulars, attendance and report cards.",
     },
     {
-      question: "Should we hire a software development company in Ambala or a freelance team?",
+      question: "Should we hire a software development team in Ambala or a freelance team?",
       answer:
         "It depends on your project. A local software development company in Ambala Cantt offers in-person meetings, while a freelance group like BtechWaleTech offers published starting prices, direct access to the engineers and code in your name. Compare two or three options on ownership, maintenance terms and live work you can check before you decide.",
     },

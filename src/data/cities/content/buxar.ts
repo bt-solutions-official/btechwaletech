@@ -9,7 +9,7 @@ const buxar: CityContent = {
     description:
       "Websites, Google Maps listings and WhatsApp automation for Buxar and Dumraon traders, rice sellers, clinics, schools and ghat-side shops. From ₹10,000, you own it.",
     keywords: [
-      "website development company in Buxar",
+      "website development team in Buxar",
       "web designer Buxar",
       "website design Dumraon",
       "SEO services Buxar",

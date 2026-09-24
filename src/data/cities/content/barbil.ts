@@ -10,12 +10,12 @@ const barbil: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Barbil mining contractors, transporters, crushers, hotels, clinics and Main Road shops.",
     keywords: [
       "IT services in Barbil",
-      "IT company in Barbil",
-      "website development company in Barbil",
+      "IT services team in Barbil",
+      "website development team in Barbil",
       "web design in Barbil",
-      "app development company in Barbil",
+      "app development team in Barbil",
       "Android app development in Barbil",
-      "software company in Barbil",
+      "software team in Barbil",
       "SEO services in Barbil",
       "digital marketing in Barbil",
       "ecommerce website in Barbil",
@@ -74,19 +74,19 @@ const barbil: CityContent = {
     },
     {
       id: "ore-transport-software",
-      heading: "Software company in Barbil for ore transporters and fleet owners",
+      heading: "Software team in Barbil for ore transporters and fleet owners",
       paragraphs: [
         "Ore transport is the busiest trade in Barbil. Studies of the belt have described daily truck movements rising from around a thousand to many thousands during the mining boom years, and the business still runs on long hours, diesel advances, weighbridge slips and payments that arrive weeks later. Most fleet owners track this in notebooks and phone calls.",
-        "Working as a <strong>software company in Barbil</strong>, we build trip registers that fit the job. Each trip is entered once with truck number, loading point, destination, weighbridge tonnage, rate and diesel given. Totals appear per truck, per driver and per party. Document expiry alerts cover permits, fitness, insurance and pollution certificates, and a breakdown log shows which vehicles are costing more than they earn.",
+        "Working as a <strong>software team in Barbil</strong>, we build trip registers that fit the job. Each trip is entered once with truck number, loading point, destination, weighbridge tonnage, rate and diesel given. Totals appear per truck, per driver and per party. Document expiry alerts cover permits, fitness, insurance and pollution certificates, and a breakdown log shows which vehicles are costing more than they earn.",
         "These systems start at ₹60,000 and are built in stages over six to twelve weeks. We start with the trip and payment register because it pays back fastest, then add driver advances, tyre and spare records, and statements you can send to each party. Data exports to Excel or Tally for your accountant.",
       ],
     },
     {
       id: "mining-contractors-websites",
-      heading: "Website development company in Barbil for mining contractors and plant suppliers",
+      heading: "Website development team in Barbil for mining contractors and plant suppliers",
       paragraphs: [
         "Around the big mines of the belt, including SAIL's Bolani mines and the leases along the Thakurani range, a large supply chain of smaller firms has grown: raising and loading contractors, earthmover and crane hire, crusher and screening plant operators, welding and fabrication shops, electrical contractors, security agencies, canteens and labour suppliers.",
-        "Purchase and contract teams at mining companies check a vendor online before shortlisting. A <strong>website development company in Barbil</strong> should build such sites plainly: services, equipment list with capacities, work experience in general terms, safety practice, statutory registrations, GST details and named contact persons. They must read well on a desktop in a head office in Bhubaneswar or Kolkata, not only on a phone.",
+        "Purchase and contract teams at mining companies check a vendor online before shortlisting. A <strong>website development team in Barbil</strong> should build such sites plainly: services, equipment list with capacities, work experience in general terms, safety practice, statutory registrations, GST details and named contact persons. They must read well on a desktop in a head office in Bhubaneswar or Kolkata, not only on a phone.",
         "We never put a mining company's name or logo on your site as a client unless you have written permission from them. Equipment hire firms can add a simple availability page, and fabrication shops can accept drawings through an upload form, which saves repeated calls and lost WhatsApp files.",
       ],
     },
@@ -104,7 +104,7 @@ const barbil: CityContent = {
       heading: "Android app development in Barbil and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when a known group of people uses it every day. In Barbil, the strongest cases are drivers logging trips and uploading weighbridge slips from the road, supervisors recording shift output at a crusher, a hospital giving out tokens and reports, a school sending notices to parents, or a hotel taking repeat bookings from companies that send staff every month.",
-        "As an <strong>app development company in Barbil</strong>, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the key screens your users need, and an admin panel for your office. Because signal drops on hill roads, we can add offline entry that syncs once a phone reconnects.",
+        "As an <strong>app development team in Barbil</strong>, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the key screens your users need, and an admin panel for your office. Because signal drops on hill roads, we can add offline entry that syncs once a phone reconnects.",
         "<strong>Android app development in Barbil</strong> starts at ₹40,000 with us. Offline mode, GPS, payments and integrations each add to the quote, listed line by line. We publish on Google Play and the Apple App Store under developer accounts in your name. See <a href=\"/it-services/android-ios-app/\">our Android and iOS app service</a> for what a first release includes.",
         "If your customers only need your number, address and rates, a website will do that job at a quarter of the cost, and we will recommend it. An app that sits unused on a driver's phone is money lost.",
       ],
@@ -160,7 +160,7 @@ const barbil: CityContent = {
       paragraphs: [
         "Since we are not in Barbil, everything is put in writing. A first call covers your business, your customers and what the site or app must do. You then receive a page or screen plan, a timeline and an itemised quote. Once you approve, we send preview links you can open on your own phone and share with partners.",
         "We answer WhatsApp every day of the week, on Indian Standard Time. Odia and Hindi text is sent to you for checking before anything goes live, and nothing is published without your approval. If a problem or delay comes up, we tell you as soon as we know.",
-        "Payments are staged against work you can see, and no billing happens before your written approval. For an <strong>IT company in Barbil</strong>'s mining belt that you have never met, this keeps the risk on your side small.",
+        "Payments are staged against work you can see, and no billing happens before your written approval. For an <strong>IT services team in Barbil</strong>'s mining belt that you have never met, this keeps the risk on your side small.",
       ],
     },
     {
@@ -228,7 +228,7 @@ const barbil: CityContent = {
         "A static site is usually live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Late content is the most common reason for delay.",
     },
     {
-      question: "Who is the best website development company in Barbil?",
+      question: "Who is the best website development team in Barbil?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask each option the same questions. We meet those tests and reply on WhatsApp seven days a week, but it is sensible to compare two or three before choosing.",
     },

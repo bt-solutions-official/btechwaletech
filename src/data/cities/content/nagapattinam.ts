@@ -9,7 +9,7 @@ const nagapattinam: CityContent = {
     description:
       "Websites, Tamil-English local SEO and WhatsApp automation for Nagapattinam fish traders, lodges, Velankanni and Nagore shops. Sites from ₹10,000, you own them.",
     keywords: [
-      "website development company in Nagapattinam",
+      "website development team in Nagapattinam",
       "web designer Nagapattinam",
       "website design Nagai",
       "SEO services Nagapattinam",

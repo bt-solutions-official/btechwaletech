@@ -9,7 +9,7 @@ const sitapur: CityContent = {
     description:
       "Hindi-first websites, local SEO, durrie stores and WhatsApp automation for Sitapur traders, Naimisharanya hosts, schools, eye and general clinics. From ₹10,000.",
     keywords: [
-      "website development company in Sitapur",
+      "website development team in Sitapur",
       "web designer Sitapur",
       "website design Sitapur Uttar Pradesh",
       "freelance web developer Sitapur",

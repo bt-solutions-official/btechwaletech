@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Rajasthan: software, Android and iOS apps, AI automation, SEO and stores for Jaipur, Jodhpur, Kota, Udaipur and Ajmer. From ₹10,000.",
     keywords: [
       "IT services in Rajasthan",
-      "software development company in Rajasthan",
-      "IT company in Rajasthan",
+      "software development team in Rajasthan",
+      "IT services team in Rajasthan",
       "freelance software developers Rajasthan",
       "IT solutions Rajasthan",
       "custom software development Rajasthan",
@@ -84,7 +84,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-rajasthan",
-      heading: "Freelance IT team or a software development company in Rajasthan?",
+      heading: "Freelance IT team or a software development team in Rajasthan?",
       paragraphs: [
         "A freelance IT team suits most Rajasthan projects better than a large software development company in Rajasthan when the work is focused, such as a tracker, an app, a CRM or an automation, because you work directly with the engineers and do not pay for offices, sales staff or management layers. BtechWaleTech is a freelance group of three engineers; there is no intermediary between you and the code.",
         "Larger IT companies in Jaipur's Mahindra World City or elsewhere are the better option for projects needing big teams, strict on-site presence or 24-hour operations. We say so when that fits your case rather than stretching three people too thin.",
@@ -220,7 +220,7 @@ const content: CityContent = {
       id: "choose-partner-rajasthan",
       heading: "How to choose an IT partner in Rajasthan: questions worth asking",
       paragraphs: [
-        "The right IT partner in Rajasthan, whether a freelance team or an IT company, explains the plan clearly, quotes in writing, registers every account in your name and stays reachable after launch. These questions protect you whoever you hire.",
+        "The right IT partner in Rajasthan, whether a freelance team or an IT services team, explains the plan clearly, quotes in writing, registers every account in your name and stays reachable after launch. These questions protect you whoever you hire.",
         "Many Rajasthan owners discover too late that a past developer registered the domain or app listing in his own name. Checking that first, before any new project, saves months of trouble.",
       ],
       list: [

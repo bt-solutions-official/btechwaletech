@@ -9,7 +9,7 @@ const ganjbasoda: CityContent = {
     description:
       "Websites, SEO, stone export catalogues and WhatsApp automation for Ganjbasoda mandi traders, sandstone firms and local shops. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Ganjbasoda",
+      "website development team in Ganjbasoda",
       "Ganj Basoda web design",
       "website designer Basoda",
       "sandstone exporter website",

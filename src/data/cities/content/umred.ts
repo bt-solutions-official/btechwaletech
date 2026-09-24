@@ -10,12 +10,12 @@ const umred: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Umred coal-belt contractors, chilli traders, safari stays, clinics and shops.",
     keywords: [
       "IT services in Umred",
-      "IT company in Umred",
-      "website development company in Umred",
+      "IT services team in Umred",
+      "website development team in Umred",
       "web design in Umred",
-      "app development company in Umred",
+      "app development team in Umred",
       "Android app development in Umred",
-      "software company in Umred",
+      "software team in Umred",
       "SEO services in Umred",
       "digital marketing in Umred",
       "ecommerce website in Umred",
@@ -75,11 +75,11 @@ const umred: CityContent = {
     },
     {
       id: "coal-mine-contractors-umred",
-      heading: "Software company in Umred for WCL contractors, transporters and workshops",
+      heading: "Software team in Umred for WCL contractors, transporters and workshops",
       paragraphs: [
         "The Umred opencast mine run by Western Coalfields Limited, a Coal India subsidiary headquartered in Nagpur, supports a wide ring of smaller businesses. Tipper and dumper owners haul coal and overburden, workshops repair heavy vehicles and pumps, labour contractors supply shifts, and suppliers deliver tyres, lubricants, safety gear and spare parts. Much of this is still recorded in diaries and on loose slips.",
         "The cost of that shows up at billing time. A contractor needs to know which vehicle made how many trips on which shift, how much diesel was issued, what advance each driver took, and which bills are still pending with which client. When a register goes missing or two partners keep separate notebooks, arguments follow and money leaks.",
-        "As a <strong>software company in Umred</strong> in the plain sense, we build small web tools for exactly this. A supervisor enters each trip once from a phone with the vehicle number, shift, load type and slip number. Diesel issues and driver advances go into the same system. The owner sees running totals by vehicle, by driver and by client, and gets reminders before fitness certificates, permits or insurance expire.",
+        "As a <strong>software team in Umred</strong> in the plain sense, we build small web tools for exactly this. A supervisor enters each trip once from a phone with the vehicle number, shift, load type and slip number. Diesel issues and driver advances go into the same system. The owner sees running totals by vehicle, by driver and by client, and gets reminders before fitness certificates, permits or insurance expire.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We normally start with the trip and diesel register, because that is where most contractors lose money first, and add billing, payroll or a driver app later only if the first part is being used every day.",
       ],
     },
@@ -105,10 +105,10 @@ const umred: CityContent = {
     },
     {
       id: "shops-market-umred",
-      heading: "Website development company in Umred for shops, traders and the weekly market",
+      heading: "Website development team in Umred for shops, traders and the weekly market",
       paragraphs: [
         "Umred's market streets serve the whole taluka and villages beyond it. Cloth shops, jewellers, mobile and electronics stores, hardware dealers, farm input shops, furniture makers and sweet shops all depend on customers who travel in from outside the town. Before they make that trip, more of them now check a phone to see whether a shop is open and has what they need.",
-        "A <strong>website development company in Umred</strong> should keep these sites light and useful. The pages that matter are the stock categories, opening days including weekly closures and festival changes, a map, and a WhatsApp link for price checks. For a jeweller that might mean making charges explained and hallmark details. For a farm input dealer it means seed and fertiliser brands carried and the season when stock arrives.",
+        "A <strong>website development team in Umred</strong> should keep these sites light and useful. The pages that matter are the stock categories, opening days including weekly closures and festival changes, a map, and a WhatsApp link for price checks. For a jeweller that might mean making charges explained and hallmark details. For a farm input dealer it means seed and fertiliser brands carried and the season when stock arrives.",
         "We write in Marathi first with English alongside, since many customers search in Marathi or Hindi, and we keep images small so pages open on weak village connections. A static website of up to 100 pages starts at ₹10,000. Traders who later want to take orders online can move to a store without rebuilding from scratch.",
         "Where a shop has a branch or delivery area in a nearby town, we add a separate page for that town only if the details are genuinely different: the address, the phone number, the delivery days. Copying one page and swapping the town name helps nobody and Google usually ignores it.",
       ],
@@ -128,7 +128,7 @@ const umred: CityContent = {
       heading: "Android app development in Umred, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its place when a fixed group of people opens it again and again. In Umred that could be a transporter's drivers recording trips and diesel on every shift, a coaching class sending test marks and fee reminders to parents, a hospital issuing OPD tokens, a farm input dealer taking repeat orders from village retailers, or a safari stay whose returning guests want to book without calling.",
-        "As an <strong>app development company in Umred</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login with OTP, push notifications, the few screens your users truly need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts that belong to you, not to us.",
+        "As an <strong>app development team in Umred</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually has mobile number login with OTP, push notifications, the few screens your users truly need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts that belong to you, not to us.",
         "<strong>Android app development in Umred</strong> with us starts at ₹40,000. The cost goes up with online payment, offline mode for drivers in patches with no signal, maps and tracking, or links to your billing software, and each of these is a separate line on the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Sometimes an app is the wrong answer. If your customers only need your address, timings and a price list, a website does that for a quarter of the cost and needs no download. We will say so plainly, because an app that nobody opens after the first week is money wasted.",
       ],
@@ -231,7 +231,7 @@ const umred: CityContent = {
         "A simple static site for a shop or clinic is usually live one to two weeks after we receive your photographs and details. Bigger projects take longer: about three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Sending content early is what speeds things up most.",
     },
     {
-      question: "Which is the best IT company in Umred?",
+      question: "Which is the best IT services team in Umred?",
       answer:
         "Judge any provider on a few plain tests: published prices, the domain and code registered in your name, replies after launch and real work you can check. Put the same questions to everyone. We meet these tests and answer WhatsApp seven days a week, but comparing two or three options before deciding is sensible.",
     },

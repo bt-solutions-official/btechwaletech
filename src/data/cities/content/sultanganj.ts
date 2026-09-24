@@ -10,12 +10,12 @@ const sultanganj: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sultanganj dharamshalas, kanwar shops, traders, clinics and schools.",
     keywords: [
       "IT services in Sultanganj",
-      "IT company in Sultanganj",
-      "website development company in Sultanganj",
+      "IT services team in Sultanganj",
+      "website development team in Sultanganj",
       "web design in Sultanganj",
-      "app development company in Sultanganj",
+      "app development team in Sultanganj",
       "Android app development in Sultanganj",
-      "software company in Sultanganj",
+      "software team in Sultanganj",
       "SEO services in Sultanganj",
       "digital marketing in Sultanganj",
       "ecommerce website in Sultanganj",
@@ -69,15 +69,15 @@ const sultanganj: CityContent = {
       paragraphs: [
         "Sultanganj runs on two calendars. For about a month in July and August, the Shravani Mela brings kanwariyas in saffron to the ghats below the Ajgaibinath temple. They fill pots with water from the Ganga, which flows north at this point, and walk roughly 105 km to Baidyanath Temple in Deoghar. For the other eleven months, Sultanganj is a trading and farming town of about fifty thousand people, 25 km west of Bhagalpur, with the usual demand for doctors, schools, shops and transport.",
         "That split shapes most requests we get for <strong>IT services in Sultanganj</strong>. A dharamshala wants group bookings sorted before the rush. A shop selling kanwars and puja items wants advance orders from other districts. A clinic wants its hours and doctors listed in Hindi. A grain trader wants his books out of the notebook and onto a phone.",
-        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. There is no office in Sultanganj or Bhagalpur, and we never claim one. Anyone searching for an <strong>IT company in Sultanganj</strong> should know that up front: we meet on calls and WhatsApp, and everything we agree is written down.",
+        "We are a remote team of three engineers. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. There is no office in Sultanganj or Bhagalpur, and we never claim one. Anyone searching for an <strong>IT services team in Sultanganj</strong> should know that up front: we meet on calls and WhatsApp, and everything we agree is written down.",
       ],
     },
     {
       id: "dharamshala-lodge-websites",
-      heading: "Website development company in Sultanganj for dharamshalas, lodges and pilgrim stays",
+      heading: "Website development team in Sultanganj for dharamshalas, lodges and pilgrim stays",
       paragraphs: [
         "When a group of forty pilgrims from Patna, Gaya or elsewhere in Bihar plans the yatra, the organiser starts looking for a place to stay weeks ahead. Where he looks is his phone. If your dharamshala or lodge has no page with rooms, rates, distance from the ghat and a contact number, he books somewhere that does.",
-        "As a <strong>website development company in Sultanganj</strong>, we build stay websites that answer his questions before he calls. Photographs of the actual rooms and halls. How many people fit in each. Whether there is space for bags, washing and resting feet after the walk. Shravan rates next to normal rates, and the dates when bookings open. A map pin that leads to the gate, not the next lane.",
+        "As a <strong>website development team in Sultanganj</strong>, we build stay websites that answer his questions before he calls. Photographs of the actual rooms and halls. How many people fit in each. Whether there is space for bags, washing and resting feet after the walk. Shravan rates next to normal rates, and the dates when bookings open. A map pin that leads to the gate, not the next lane.",
         "Bookings work best as requests rather than instant confirmations, because most owners here juggle regular groups and walk-ins. A form collects group size, dates and a phone number, sends it to you on WhatsApp, and you confirm by hand. A static site like this starts at ₹10,000 and goes live in one to two weeks. Owners with several properties or a large hall can add a room calendar later, once the simple version has proved itself through one mela.",
       ],
     },
@@ -92,10 +92,10 @@ const sultanganj: CityContent = {
     },
     {
       id: "seva-camp-software",
-      heading: "Software company in Sultanganj for seva camps, transport and the mela month",
+      heading: "Software team in Sultanganj for seva camps, transport and the mela month",
       paragraphs: [
         "Along the kanwar route, seva camps give pilgrims food, water, rest and first aid. Organisers juggle volunteer shifts, ration stock, donations and supplies arriving from several towns, often on paper and phone calls. Transport operators juggle vehicles, drivers and return trips from Deoghar. Every one of these is a small logistics problem squeezed into a few weeks.",
-        "A <strong>software company in Sultanganj</strong> can help without building anything grand. We make web tools that run on any phone: a volunteer roster with shifts and contact numbers, a stock register showing what arrived and what is running low, a donation log with receipts, or a vehicle and trip board for a transport operator. Each record is entered once, and the organiser sees totals without phoning ten people.",
+        "A <strong>software team in Sultanganj</strong> can help without building anything grand. We make web tools that run on any phone: a volunteer roster with shifts and contact numbers, a stock register showing what arrived and what is running low, a donation log with receipts, or a vehicle and trip board for a transport operator. Each record is entered once, and the organiser sees totals without phoning ten people.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built in stages. We deliver the most useful piece first and ask you to trial it before the mela, then add the rest. After the season, the same tool gives you a clear record of what was spent, donated and used, which makes planning next year easier and keeps accounts clean.",
       ],
     },
@@ -110,19 +110,19 @@ const sultanganj: CityContent = {
     },
     {
       id: "traders-ganga-belt",
-      heading: "IT company in Sultanganj for grain traders, Katarni rice sellers and silk buyers",
+      heading: "IT services team in Sultanganj for grain traders, Katarni rice sellers and silk buyers",
       paragraphs: [
         "Away from the ghats, Sultanganj is a market for the farming villages around it. The Ganga's alluvial soil supports rice, wheat, maize and other crops, and Bhagalpur district holds geographical indication tags for Katarni rice, Zardalu mango and Bhagalpur silk. Traders, millers, fertiliser dealers, hardware shops and transporters all do business on credit, and most still track it in notebooks.",
-        "For them, an <strong>IT company in Sultanganj</strong> is useful only if it saves time or money. We build billing and stock tools that print GST invoices, show credit outstanding by customer, and warn when stock runs low. For sellers of Katarni rice or Zardalu mangoes who want buyers outside Bihar, we build product pages that explain the GI origin clearly, with pack sizes, dispatch windows and UPI or card payment.",
+        "For them, an <strong>IT services team in Sultanganj</strong> is useful only if it saves time or money. We build billing and stock tools that print GST invoices, show credit outstanding by customer, and warn when stock runs low. For sellers of Katarni rice or Zardalu mangoes who want buyers outside Bihar, we build product pages that explain the GI origin clearly, with pack sizes, dispatch windows and UPI or card payment.",
         "Data work fits here too. Santosh Sharma can turn two or three years of sales, purchases and dues into a dashboard that shows which customers pay late, which products move in which months, and how the mela weeks compare with the rest of the year. Owners usually find one or two surprises that pay for the exercise.",
       ],
     },
     {
       id: "android-ios-apps-sultanganj",
-      heading: "App development company in Sultanganj: Android and iOS apps for the yatra and after",
+      heading: "App development team in Sultanganj: Android and iOS apps for the yatra and after",
       paragraphs: [
         "Who in Sultanganj actually needs an app? A few groups stand out. Organisations that bring pilgrim groups every year and want members to register, pay and get updates in one place. Seva camps with dozens of volunteers who need shift alerts. Schools and coaching centres sending notices and fee reminders. Wholesalers taking weekly orders from village shops. Each has a known set of users who open the app again and again.",
-        "As an <strong>app development company in Sultanganj</strong>, we build in Flutter or React Native so the same app runs on Android phones and iPhones. The usual first release has OTP login, push notifications, the few screens that matter, and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you, and we deal with the store review steps.",
+        "As an <strong>app development team in Sultanganj</strong>, we build in Flutter or React Native so the same app runs on Android phones and iPhones. The usual first release has OTP login, push notifications, the few screens that matter, and an admin panel for your staff. We publish it on Google Play and the Apple App Store using developer accounts registered to you, and we deal with the store review steps.",
         "<strong>Android app development in Sultanganj</strong> starts at ₹40,000. Payment collection, offline mode for weak signal along the route, maps, Hindi screens and links to your accounts each add cost and each is shown separately in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS apps page</a>.",
         "If people just need your number, address and rates, skip the app. A website does that without asking anyone to install something they will use once a year, and it costs a fraction of the price.",
       ],
@@ -232,7 +232,7 @@ const sultanganj: CityContent = {
         "Two to three months ahead is ideal. A simple site takes one to two weeks to build, but Google needs time to find and trust new pages, and organisers begin searching well before July. Starting in April or May also gives you a chance to test booking requests with regular groups.",
     },
     {
-      question: "Who is the best website development company in Sultanganj?",
+      question: "Who is the best website development team in Sultanganj?",
       answer:
         "Choose whoever publishes prices, registers the domain and code in your name, can show real work and keeps answering after launch, especially during the mela. Ask every option the same questions. We meet those tests and reply on WhatsApp daily, but it is sensible to compare two or three providers before deciding.",
     },

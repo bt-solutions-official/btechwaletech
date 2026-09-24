@@ -10,12 +10,12 @@ const rayachoti: CityContent = {
       "Telugu and Urdu websites, Android and iOS apps, local SEO and WhatsApp automation for Rayachoti traders, farm dealers, hospitals, colleges and highway businesses.",
     keywords: [
       "IT services in Rayachoti",
-      "IT company in Rayachoti",
-      "website development company in Rayachoti",
+      "IT services team in Rayachoti",
+      "website development team in Rayachoti",
       "web design in Rayachoti",
-      "app development company in Rayachoti",
+      "app development team in Rayachoti",
       "Android app development in Rayachoti",
-      "software company in Rayachoti",
+      "software team in Rayachoti",
       "SEO services in Rayachoti",
       "digital marketing in Rayachoti",
       "ecommerce website in Rayachoti",
@@ -75,11 +75,11 @@ const rayachoti: CityContent = {
     },
     {
       id: "farm-input-dealers",
-      heading: "Software company in Rayachoti for seed, fertiliser and pesticide dealers",
+      heading: "Software team in Rayachoti for seed, fertiliser and pesticide dealers",
       paragraphs: [
         "Agriculture in the Rayachoti area is mostly rain-fed and semi-arid. Groundnut is the main field crop, alongside paddy where water allows, sunflower, cotton and betel leaf, and farmers watch the monsoon closely because one weak season changes everything. Input dealers carry much of that risk, selling seed, fertiliser and pesticide on credit that is repaid after harvest.",
         "Credit books are where money quietly leaks. A dealer may have hundreds of farmer accounts across villages, some paid partly in cash, some in produce, some carried over from the previous year. Stock needs tracking by batch and expiry, and government schemes add their own paperwork.",
-        "As a <strong>software company in Rayachoti</strong> in practical terms, we build billing and credit tools for this trade. Each sale is entered once with farmer, village, product, batch and amount. Credit balances update automatically and can be sorted by village or overdue period. Stock and expiry alerts help avoid dead inventory, and a WhatsApp reminder can go to farmers when payment is due, in Telugu.",
+        "As a <strong>software team in Rayachoti</strong> in practical terms, we build billing and credit tools for this trade. Each sale is entered once with farmer, village, product, batch and amount. Credit balances update automatically and can be sorted by village or overdue period. Stock and expiry alerts help avoid dead inventory, and a WhatsApp reminder can go to farmers when payment is due, in Telugu.",
         "These projects start at ₹60,000 and are built in stages over six to twelve weeks. We normally start with billing and the credit ledger, because that is where a dealer sees the benefit first, and add stock and reports later.",
       ],
     },
@@ -104,10 +104,10 @@ const rayachoti: CityContent = {
     },
     {
       id: "colleges-coaching-rayachoti",
-      heading: "Website development company in Rayachoti for colleges and coaching centres",
+      heading: "Website development team in Rayachoti for colleges and coaching centres",
       paragraphs: [
         "Rayachoti has a District Institute of Education and Training, an engineering college, a government polytechnic, degree and junior colleges, and a planned postgraduate extension of Yogi Vemana University. Coaching centres for competitive exams, EAMCET and government jobs are common, and students from surrounding mandals stay in hostels and rooms in the town.",
-        "A <strong>website development company in Rayachoti</strong> can help each of these reach the right families. A college site should list courses, eligibility, fees or fee ranges, admission dates, facilities and transport. A coaching centre should show batches, timings, faculty, results shared with student permission and a clear enquiry form. Hostels need real photographs, rent, rules and distance to the college.",
+        "A <strong>website development team in Rayachoti</strong> can help each of these reach the right families. A college site should list courses, eligibility, fees or fee ranges, admission dates, facilities and transport. A coaching centre should show batches, timings, faculty, results shared with student permission and a clear enquiry form. Hostels need real photographs, rent, rules and distance to the college.",
         "We write in simple Telugu and English, and in Urdu where an institution serves Urdu-medium families. A static site starts at ₹10,000. When an institution wants student logins, online fee payment or attendance, that becomes a custom web app from ₹60,000, or a parent app from ₹40,000.",
       ],
     },
@@ -143,7 +143,7 @@ const rayachoti: CityContent = {
       heading: "Android app development in Rayachoti, with iOS apps for the same users",
       paragraphs: [
         "An app is worth its cost when the same people use it every week. In Rayachoti that might be village retailers re-ordering from a wholesaler, patients booking tokens at a busy hospital, parents getting homework, attendance and fee reminders, or a trader's regular farmers checking the day's rate and their balance.",
-        "As an <strong>app development company in Rayachoti</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need, Telugu and English text, and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Rayachoti</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need, Telugu and English text, and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Rayachoti</strong> with us starts at ₹40,000. Payments, offline entry for villages with weak signal, maps and links to billing software add to the price, and each is quoted on its own line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "If customers only need your address, phone number and price list, a website does the job for much less. We will tell you so, because an app people install once and ignore is money gone.",
       ],
@@ -168,9 +168,9 @@ const rayachoti: CityContent = {
     },
     {
       id: "remote-team-rayachoti",
-      heading: "How an IT company in Rayachoti can work with you remotely",
+      heading: "How an IT services team in Rayachoti can work with you remotely",
       paragraphs: [
-        "People searching for an <strong>IT company in Rayachoti</strong> often expect an office they can visit. We do not have one, so we compensate with clear written communication. After a first call about your business, you receive a page or screen plan, a timeline and an itemised quote before any work begins.",
+        "People searching for an <strong>IT services team in Rayachoti</strong> often expect an office they can visit. We do not have one, so we compensate with clear written communication. After a first call about your business, you receive a page or screen plan, a timeline and an itemised quote before any work begins.",
         "Once you approve, we send preview links that you can open on your phone and show to your partners or family. Telugu and Urdu text is sent to you for checking before it goes live. We reply on WhatsApp every day of the week on Indian Standard Time, and if something slips, we tell you early.",
         "Payments follow visible progress, and nothing is billed until you have approved the quote in writing. You can start with a WhatsApp message or through our <a href=\"/contact/\">contact page</a>; the first conversation and the quote are free.",
       ],
@@ -235,7 +235,7 @@ const rayachoti: CityContent = {
         "A static website usually goes live in one to two weeks after we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The fastest projects are those where content is ready early.",
     },
     {
-      question: "Which is the best website development company in Rayachoti?",
+      question: "Which is the best website development team in Rayachoti?",
       answer:
         "A good provider publishes prices, registers the domain and code in your name, stays reachable after launch and shows real past work. Ask every option the same questions and compare their written replies. We meet those tests and answer WhatsApp every day, but it is sensible to compare two or three before deciding.",
     },

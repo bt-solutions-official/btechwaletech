@@ -10,12 +10,12 @@ const parli: CityContent = {
       "Websites, Android & iOS apps, Marathi SEO and WhatsApp automation for Parli Vaijnath pilgrim lodges, thermal-plant contractors, cotton traders and clinics.",
     keywords: [
       "IT services in Parli",
-      "IT company in Parli Vaijnath",
-      "website development company in Parli",
+      "IT services team in Parli Vaijnath",
+      "website development team in Parli",
       "web design in Parli",
-      "app development company in Parli",
+      "app development team in Parli",
       "Android app development in Parli",
-      "software company in Parli",
+      "software team in Parli",
       "SEO services in Parli",
       "digital marketing in Parli Vaijnath",
       "ecommerce website in Parli",
@@ -84,11 +84,11 @@ const parli: CityContent = {
     },
     {
       id: "contractor-software",
-      heading: "Software company in Parli for contractor billing and labour records",
+      heading: "Software team in Parli for contractor billing and labour records",
       paragraphs: [
         "Contract work inside a power station or sugar factory generates a surprising amount of paper. Every day there are gate passes, labour attendance by site, hours for each crane or hydra, material issued from stores, measurement books, running bills and statutory records for wages and PF. Small contractors often keep all this in notebooks and a few Excel sheets, and discover missing hours or unbilled work only when the payment comes in short.",
         "We build web applications for exactly this. Supervisors enter attendance and equipment hours from a phone at the site. Material issue and measurements are logged against each work order. At the month end, the owner sees what is billable, what has been billed and what is still pending, grouped by work order and department. Wage sheets can be exported for the accountant, and document expiry dates for vehicles, insurance and licences show up as reminders.",
-        "As a software company in Parli's market that works remotely, we start with the one register causing the most trouble, usually attendance or equipment hours, and add the rest once staff are using it daily. Custom software starts at ₹60,000 and takes six to twelve weeks, and the data stays in your own cloud account, exportable to Excel whenever you need it.",
+        "As a software team in Parli's market that works remotely, we start with the one register causing the most trouble, usually attendance or equipment hours, and add the rest once staff are using it daily. Custom software starts at ₹60,000 and takes six to twelve weeks, and the data stays in your own cloud account, exportable to Excel whenever you need it.",
       ],
     },
     {
@@ -123,7 +123,7 @@ const parli: CityContent = {
       heading: "Android app development in Parli and when a business needs an app",
       paragraphs: [
         "People ask us whether a Parli business really needs an app. The honest answer is sometimes. An app earns its cost when the same users open it again and again: a contractor's supervisors logging hours at three sites every day, parents checking notices from a school with a thousand students, a dal mill's regular buyers reordering, or a coaching class sharing test results weekly. For a lodge that a pilgrim visits once, a fast website with a booking button works better.",
-        "As an app development company for Parli clients, we build Android and iOS apps in Flutter or React Native, so one codebase runs on both platforms. Typical features include mobile number or email login, separate screens for owner, staff and customer, push notifications, photo and GPS capture for field entries, and a web admin panel to manage users and data. We publish on Google Play and the App Store under your own developer accounts.",
+        "As an app development team for Parli clients, we build Android and iOS apps in Flutter or React Native, so one codebase runs on both platforms. Typical features include mobile number or email login, separate screens for owner, staff and customer, push notifications, photo and GPS capture for field entries, and a web admin panel to manage users and data. We publish on Google Play and the App Store under your own developer accounts.",
         "Android and iOS apps start at ₹40,000. A straightforward attendance or catalogue app stays close to that figure, while payment collection, offline sync for poor-network sites or links to billing software add to it, each listed separately in the quote. We handle store submission and respond to review feedback from Google and Apple until the app is live.",
         "If a website will do the job, we say so and save you the money. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page explains how we plan builds and what to prepare.",
       ],
@@ -175,7 +175,7 @@ const parli: CityContent = {
     },
     {
       id: "remote-team-parli",
-      heading: "An IT company in Parli's market that works remotely",
+      heading: "An IT services team in Parli's market that works remotely",
       paragraphs: [
         "We have no office in Parli, Beed or anywhere in Marathwada, and we say that upfront. BtechWaleTech is a team of three engineers. Ankur Kumar builds full-stack web applications, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation.",
         "The process is simple. You tell us on WhatsApp or a call what you need; we ask a few questions; about two working days later you receive a written quote with every item priced. Nothing is charged until you approve it in writing. While we build, you watch progress on a preview link and send comments whenever it suits you, whether from the lodge counter, the yard or a site office.",
@@ -238,7 +238,7 @@ const parli: CityContent = {
         "Yes. We build lodge sites with room photographs, starting tariffs, walking distance to the temple, parking details, check-in rules and a WhatsApp booking button. We can add an automated assistant for festival-season enquiries. We only publish temple timings you confirm are current.",
     },
     {
-      question: "Which is the best IT company in Parli for a small business?",
+      question: "Which is the best IT services team in Parli for a small business?",
       answer:
         "Pick the provider that puts ownership, scope and support in writing. Ask who owns the domain and code, what the quote includes and what maintenance costs later. We publish starting prices, itemise every quote and register everything in your name, which makes comparison straightforward.",
     },

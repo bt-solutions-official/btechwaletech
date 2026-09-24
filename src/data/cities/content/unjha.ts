@@ -10,12 +10,12 @@ const unjha: CityContent = {
       "Export websites, Android and iOS apps, SEO and WhatsApp automation for Unjha jeera, fennel and isabgol traders, spice processors, APMC firms, clinics and shops.",
     keywords: [
       "IT services in Unjha",
-      "IT company in Unjha",
-      "website development company in Unjha",
+      "IT services team in Unjha",
+      "website development team in Unjha",
       "web design in Unjha",
-      "app development company in Unjha",
+      "app development team in Unjha",
       "Android app development in Unjha",
-      "software company in Unjha",
+      "software team in Unjha",
       "SEO services in Unjha",
       "digital marketing in Unjha",
       "ecommerce website in Unjha",
@@ -74,28 +74,28 @@ const unjha: CityContent = {
     },
     {
       id: "spice-exporter-websites",
-      heading: "Website development company in Unjha for spice exporters",
+      heading: "Website development team in Unjha for spice exporters",
       paragraphs: [
         "An importer in Europe, the Gulf or America usually meets an Unjha exporter online first. They compare several suppliers in an afternoon, and the ones with vague websites or only a directory listing tend to drop off the list before anyone asks for a sample.",
-        "A competent <strong>website development company in Unjha</strong> will build an exporter's site around what buyers check: products with botanical and trade names, available grades and purity levels, typical specifications such as moisture and admixture, packing options and container loads, certifications and registrations you actually hold, processing and cleaning facilities with real photographs, and a sample request form. Pages should load quickly abroad and read clearly in plain English.",
+        "A competent <strong>website development team in Unjha</strong> will build an exporter's site around what buyers check: products with botanical and trade names, available grades and purity levels, typical specifications such as moisture and admixture, packing options and container loads, certifications and registrations you actually hold, processing and cleaning facilities with real photographs, and a sample request form. Pages should load quickly abroad and read clearly in plain English.",
         "Exporters with many products and grades benefit from our 700+ page SEO build, starting at ₹20,000, where each product and grade gets a proper page. We never put a buyer's name, a certification or a volume figure on your site unless you can document it, because importers verify such claims. Our <a href=\"/services/web-development/\">web development service</a> explains what is included.",
       ],
     },
     {
       id: "trader-lot-software",
-      heading: "Software company in Unjha for APMC traders and commission agents",
+      heading: "Software team in Unjha for APMC traders and commission agents",
       paragraphs: [
         "A busy Unjha trading firm may buy dozens of lots a day during the arrival season. Each has a commodity, a farmer or agent, weight, moisture, quality notes, rate, brokerage and market fees. Later come cleaning losses, godown movements, sale contracts, dispatch and payments. When these sit across notebooks and spreadsheets, errors creep in and nobody knows the true margin on a lot until much later.",
-        "As a <strong>software company in Unjha</strong>, we build web tools that follow a lot from purchase to sale. Staff enter each lot once from a phone or desktop. Stock updates by commodity, grade and godown. Sale contracts link to the lots that fill them, dispatch records follow, and ledgers show who owes what. Gujarati labels can sit alongside English so staff are comfortable.",
+        "As a <strong>software team in Unjha</strong>, we build web tools that follow a lot from purchase to sale. Staff enter each lot once from a phone or desktop. Stock updates by commodity, grade and godown. Sale contracts link to the lots that fill them, dispatch records follow, and ledgers show who owes what. Gujarati labels can sit alongside English so staff are comfortable.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with purchase and stock, because those registers are used every hour, then add contracts, dispatch and Tally export as needed. The system stays with you: code, database and hosting are all in your name.",
       ],
     },
     {
       id: "processing-units-isabgol",
-      heading: "IT company in Unjha for cleaning, sortex and isabgol processing units",
+      heading: "IT services team in Unjha for cleaning, sortex and isabgol processing units",
       paragraphs: [
         "Isabgol processing units operate in and around Unjha and Sidhpur, and Unjha also has cleaning and grading units for cumin, fennel and other seeds, oil mills and pulse mills. Processing firms deal with a different set of problems from traders: yields, machine time, batch quality, lab results, packing and buyer specifications.",
-        "An <strong>IT company in Unjha</strong> serving these units should build batch records that link raw lots to cleaned or processed output, record husk, powder or seed yields, attach lab reports to each batch, and track packing by buyer. A simple dashboard showing yield by batch and operator often reveals losses that were invisible in paper registers.",
+        "An <strong>IT services team in Unjha</strong> serving these units should build batch records that link raw lots to cleaned or processed output, record husk, powder or seed yields, attach lab reports to each batch, and track packing by buyer. A simple dashboard showing yield by batch and operator often reveals losses that were invisible in paper registers.",
         "For processors that sell to pharmaceutical, food or export buyers, a factual capability website helps: process description, capacity stated only as you can support it, quality control steps, certifications held and sample request forms. We write these pages carefully and keep technical claims within what your documents show.",
       ],
     },
@@ -131,7 +131,7 @@ const unjha: CityContent = {
       heading: "Android app development in Unjha, and iOS apps for trading firms",
       paragraphs: [
         "An app is worth the investment when the same group uses it regularly. In Unjha, the strongest cases are a trader whose regular domestic buyers check offers and confirm orders, a processing unit whose staff log lots and batches on the floor, a school sending notices to parents, or a hospital issuing tokens.",
-        "As an <strong>app development company in Unjha</strong> working remotely, we build with Flutter or React Native so one codebase runs on Android and iPhone. A first version usually includes mobile OTP login, push notifications, the key screens your users need and an admin panel for your staff. Apps are published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Unjha</strong> working remotely, we build with Flutter or React Native so one codebase runs on Android and iPhone. A first version usually includes mobile OTP login, push notifications, the key screens your users need and an admin panel for your staff. Apps are published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Unjha</strong> with us starts at ₹40,000. Offline entry, payments, barcode scanning for bags, or Tally integration increase cost and appear as separate items. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If buyers only need your product list, contact details and a way to enquire, a website is enough and costs far less. We will recommend that, because an app that buyers install and never open again brings no return.",
       ],
@@ -232,7 +232,7 @@ const unjha: CityContent = {
         "A simple static site usually goes live one to two weeks after we receive your content and photographs. A 700+ page SEO site for an exporter takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Early content from you keeps the schedule short.",
     },
     {
-      question: "Which is the best website development company in Unjha for exporters?",
+      question: "Which is the best website development team in Unjha for exporters?",
       answer:
         "Look for a provider that publishes prices, registers the domain and code in your name, understands how importers evaluate suppliers and can show real work. Ask every option the same questions and compare written quotes. We meet those tests and reply on WhatsApp daily, but comparing a few providers is wise.",
     },

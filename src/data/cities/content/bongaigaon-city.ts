@@ -10,12 +10,12 @@ const bongaigaon: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Bongaigaon traders, refinery and railway suppliers, colleges, hospitals and shops in Assam.",
     keywords: [
       "IT services in Bongaigaon",
-      "IT company in Bongaigaon",
-      "website development company in Bongaigaon",
+      "IT services team in Bongaigaon",
+      "website development team in Bongaigaon",
       "web design in Bongaigaon",
-      "app development company in Bongaigaon",
+      "app development team in Bongaigaon",
       "Android app development in Bongaigaon",
-      "software company in Bongaigaon",
+      "software team in Bongaigaon",
       "SEO services in Bongaigaon",
       "digital marketing in Bongaigaon",
       "ecommerce website in Bongaigaon",
@@ -74,19 +74,19 @@ const bongaigaon: CityContent = {
     },
     {
       id: "wholesale-distributors-bongaigaon",
-      heading: "Software company in Bongaigaon for wholesale distributors and stockists",
+      heading: "Software team in Bongaigaon for wholesale distributors and stockists",
       paragraphs: [
         "Because of its rail and road links, Bongaigaon works as a stocking point for goods moving into Lower Assam and beyond. Distributors and stockists here supply retailers in Bongaigaon, Chirang, Kokrajhar, Goalpara, Barpeta and Dhubri districts, and the daily routine is heavy: orders by phone, salesman visits, route planning, credit limits, schemes, returns and collections.",
-        "As a <strong>software company in Bongaigaon</strong>, we build web tools around that routine. Salesmen take orders on a phone, the warehouse sees a picking list, invoices come from the same data, and the owner sees outstanding amounts by retailer and by route. Credit limit warnings stop a truck leaving with goods for a shop that has not paid.",
+        "As a <strong>software team in Bongaigaon</strong>, we build web tools around that routine. Salesmen take orders on a phone, the warehouse sees a picking list, invoices come from the same data, and the owner sees outstanding amounts by retailer and by route. Credit limit warnings stop a truck leaving with goods for a shop that has not paid.",
         "Pricing for this kind of system begins at ₹60,000. We usually deliver it in phases across six to twelve weeks, with order entry and retailer dues going first since that is where most hours disappear. Tally sync, challan printing and screens in Hindi, Assamese or Bengali are all possible. A small stockist with a few dozen shops may be better off with a tidy shared spreadsheet, and we will build that when it fits.",
       ],
     },
     {
       id: "refinery-railway-suppliers",
-      heading: "Website development company in Bongaigaon for refinery, power plant and railway suppliers",
+      heading: "Website development team in Bongaigaon for refinery, power plant and railway suppliers",
       paragraphs: [
         "The refinery at Dhaligaon, the power station at Salakati and the large railway establishment at New Bongaigaon depend on local contractors and suppliers: fabrication and electrical works, manpower agencies, transporters, crane hire, scaffolding, housekeeping, catering and hardware. These firms compete for work where credibility and paperwork matter.",
-        "A <strong>website development company in Bongaigaon</strong> should keep such sites strictly factual. Pages set out services, equipment with capacities, licences and registrations you hold, safety practice, the kinds of jobs you handle and a named contact for tenders. We never show client names or logos without their written permission.",
+        "A <strong>website development team in Bongaigaon</strong> should keep such sites strictly factual. Pages set out services, equipment with capacities, licences and registrations you hold, safety practice, the kinds of jobs you handle and a named contact for tenders. We never show client names or logos without their written permission.",
         "A capability site starts at ₹10,000. Firms with frequent repeat jobs can add a quote request form with drawing upload, and later a simple job status page or a site attendance tool. Purchase and engineering staff notice a clean, accurate profile more than any slogan.",
       ],
     },
@@ -95,7 +95,7 @@ const bongaigaon: CityContent = {
       heading: "Android app development in Bongaigaon and iOS apps for retailers and students",
       paragraphs: [
         "An app is only worth building when the same people open it often. In Bongaigaon, strong candidates are a distributor's retailers across Lower Assam reordering every week, a coaching centre's students checking tests and notes, a contractor's supervisors marking attendance at the refinery gate, or a clinic's patients booking follow-ups.",
-        "We write apps once in Flutter or React Native and ship them to both Android and iPhone, which keeps the cost down for an <strong>app development company in Bongaigaon</strong> working at a distance. Most first releases contain phone-number sign-in, a catalogue or class screen, alerts for new schemes or notices, and a control panel for the owner to change prices and content.",
+        "We write apps once in Flutter or React Native and ship them to both Android and iPhone, which keeps the cost down for an <strong>app development team in Bongaigaon</strong> working at a distance. Most first releases contain phone-number sign-in, a catalogue or class screen, alerts for new schemes or notices, and a control panel for the owner to change prices and content.",
         "<strong>Android app development in Bongaigaon</strong> with us starts at ₹40,000. Payments, offline order taking for areas with weak signal, GPS for salesmen, barcode scanning or Tally links add to the cost, each shown separately. We publish on Google Play and the App Store under developer accounts registered to you.",
         "If your customers only need an address, phone number and price list, a website with a WhatsApp button does that far more cheaply. We will recommend it whenever an app would sit unused on people's phones.",
       ],
@@ -156,9 +156,9 @@ const bongaigaon: CityContent = {
     },
     {
       id: "remote-team-bongaigaon",
-      heading: "Choosing an IT company in Bongaigaon that works remotely",
+      heading: "Choosing an IT services team in Bongaigaon that works remotely",
       paragraphs: [
-        "Anyone hunting for an <strong>IT company in Bongaigaon</strong> will find that we never turn up at the shop, because we are not based there. What replaces the visit is paperwork you can hold us to. After one conversation about the business, you receive a written list of pages or app screens, delivery dates and a quote broken into items, generally inside two working days.",
+        "Anyone hunting for an <strong>IT services team in Bongaigaon</strong> will find that we never turn up at the shop, because we are not based there. What replaces the visit is paperwork you can hold us to. After one conversation about the business, you receive a written list of pages or app screens, delivery dates and a quote broken into items, generally inside two working days.",
         "Messages on WhatsApp get answered on all seven days, during Indian working hours. Any Assamese, Bengali or Hindi wording is sent for your review before the public sees it, and a staging link lets you watch the build grow. You pay in instalments linked to finished stages, and not a rupee is charged until you have agreed to the quote in writing.",
         "Skipping an office keeps costs lower for both sides, and no one has to travel to Guwahati to sit in a meeting. Say hello through the <a href=\"/contact/\">contact page</a>, or first look at how our <a href=\"/services/web-development/\">web development</a> projects are run.",
       ],
@@ -223,7 +223,7 @@ const bongaigaon: CityContent = {
         "Once your wording and pictures reach us, a static site generally goes online inside a fortnight. Plan three to five weeks for an SEO site of 700+ pages, one to two months for an online shop and six to twelve weeks for bespoke software. The fastest projects are the ones where content arrives at the start.",
     },
     {
-      question: "Which is the best website development company in Bongaigaon?",
+      question: "Which is the best website development team in Bongaigaon?",
       answer:
         "There is no single answer, so use a checklist. Does the provider show prices openly? Will the domain and code sit in your name? Do you get an itemised quote in writing, working examples and support after the launch? Put identical questions to every option, including us; we are happy to be judged on those points.",
     },

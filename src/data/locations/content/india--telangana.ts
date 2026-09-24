@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Telangana from a freelance team: software, Telugu AI agents, Android and iOS apps, dashboards and SEO for every district.",
     keywords: [
-      "IT solutions company in Telangana",
+      "IT solutions team in Telangana",
       "IT consulting Telangana",
       "digital transformation Telangana",
       "freelance IT consultant Telangana",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Telangana · Hyderabad plus 32 district headquarters",
     h1: "Freelance IT consulting and digital transformation for Telangana businesses beyond the IT corridor",
     lede:
-      "Telangana is famous for Hyderabad's tech giants, yet most businesses in the state are pharma suppliers, seed and agri-input firms, traders, granite units, textile makers, hospitals and schools that still run on registers and WhatsApp. If you are looking for an IT solutions company in Telangana to change that, BtechWaleTech offers a different option: a freelance group of three independent engineers working remotely from India. We start with IT consulting and then build software, Android and iOS apps, Telugu AI agents, dashboards, cloud hosting, SEO and online stores, in Hyderabad and every district.",
+      "Telangana is famous for Hyderabad's tech giants, yet most businesses in the state are pharma suppliers, seed and agri-input firms, traders, granite units, textile makers, hospitals and schools that still run on registers and WhatsApp. If you are looking for an IT solutions team in Telangana to change that, BtechWaleTech offers a different option: a freelance group of three independent engineers working remotely from India. We start with IT consulting and then build software, Android and iOS apps, Telugu AI agents, dashboards, cloud hosting, SEO and online stores, in Hyderabad and every district.",
     pills: ["IT consulting first", "Telugu and English", "Apps from ₹40,000", "Custom software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "For IT consulting and IT solutions in Telangana, BtechWaleTech is a remote freelance group of three engineers, not a company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, usually delivered in one to twelve weeks, with five months of maintenance free after launch.",
+    "For IT consulting and IT solutions in Telangana, BtechWaleTech is a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, usually delivered in one to twelve weeks, with five months of maintenance free after launch.",
   snapshot: [
     { label: "Capital and major cities", value: "Hyderabad is the capital; Warangal, Nizamabad, Karimnagar, Khammam, Ramagundam and Mahbubnagar are the next largest urban centres" },
     { label: "Technology hubs", value: "HITEC City, Madhapur, Gachibowli and the Financial District, with T-Hub, T-Works and WE-Hub supporting startups and hardware makers" },
@@ -80,11 +80,11 @@ const content: CityContent = {
     },
     {
       id: "it-solutions-company-vs-freelance-telangana",
-      heading: "IT solutions company or freelance IT group: which suits Telangana MSMEs?",
+      heading: "IT solutions team or freelance IT group: which suits Telangana MSMEs?",
       paragraphs: [
-        "A freelance IT group suits most Telangana MSMEs whose projects are well defined and budget-conscious, because they get direct engineer access and lower overheads; an IT solutions company suits organisations needing large teams, on-site staff or long enterprise contracts.",
+        "A freelance IT group suits most Telangana MSMEs whose projects are well defined and budget-conscious, because they get direct engineer access and lower overheads; an IT solutions team suits organisations needing large teams, on-site staff or long enterprise contracts.",
         "Hyderabad's IT industry is enormous, but many of its firms focus on global enterprise clients, and small local projects can end up with junior staff or long waits. District businesses face the opposite problem: fewer local options and a habit of hiring whoever built a relative's website. If you are comparing IT companies in Telangana, ask the same practical questions of everyone: who builds it, who owns the accounts, how are changes priced, and what happens after launch.",
-        "BtechWaleTech is a freelance team, not a company. The three of us handle consulting, design, development, deployment and support. We do not staff offices, visit sites or run a round-the-clock helpdesk. In exchange you get continuity, quick answers on WhatsApp and itemised pricing. Everything we build is registered to you, so you are never locked in.",
+        "BtechWaleTech is a small freelance team of three developers. The three of us handle consulting, design, development, deployment and support. We do not staff offices, visit sites or run a round-the-clock helpdesk. In exchange you get continuity, quick answers on WhatsApp and itemised pricing. Everything we build is registered to you, so you are never locked in.",
       ],
     },
     {
@@ -236,9 +236,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT solutions company with an office in Telangana?",
+      question: "Is BtechWaleTech an IT solutions team with an office in Telangana?",
       answer:
-        "No. We are a freelance group of three independent engineers, not a company, and we work remotely from India. We have no office in Hyderabad or any Telangana district. Consulting, design reviews, testing and training happen over video calls, screen shares and WhatsApp, and you see a live preview of your project from the first week.",
+        "No. We are a freelance group of three independent engineers, and we work remotely from India. We have no office in Hyderabad or any Telangana district. Consulting, design reviews, testing and training happen over video calls, screen shares and WhatsApp, and you see a live preview of your project from the first week.",
     },
     {
       question: "Do you build software and AI agents in Telugu?",

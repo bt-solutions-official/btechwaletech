@@ -9,7 +9,7 @@ const srikakulam: CityContent = {
     description:
       "Websites, Telugu SEO, online stores and WhatsApp tools for Srikakulam khadi weavers, cashew units, pharma suppliers, temple lodges and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Srikakulam",
+      "website development team in Srikakulam",
       "web designer Srikakulam",
       "website design Srikakulam Andhra Pradesh",
       "SEO services Srikakulam",
@@ -19,7 +19,7 @@ const srikakulam: CityContent = {
       "pharma supplier website Pydibhimavaram",
       "ecommerce website Srikakulam",
       "WhatsApp automation Srikakulam",
-      "software company Srikakulam",
+      "software team Srikakulam",
       "website cost Srikakulam",
       "freelance web developer Srikakulam",
       "Srikakulam lo website design",

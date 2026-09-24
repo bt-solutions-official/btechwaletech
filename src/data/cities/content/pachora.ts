@@ -10,12 +10,12 @@ const pachora: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Pachora ginning units, banana traders, krishi kendras, clinics and colleges.",
     keywords: [
       "IT services in Pachora",
-      "IT company in Pachora",
-      "website development company in Pachora",
+      "IT services team in Pachora",
+      "website development team in Pachora",
       "web design in Pachora",
-      "app development company in Pachora",
+      "app development team in Pachora",
       "Android app development in Pachora",
-      "software company in Pachora",
+      "software team in Pachora",
       "SEO services in Pachora",
       "digital marketing in Pachora",
       "ecommerce website in Pachora",
@@ -75,20 +75,20 @@ const pachora: CityContent = {
     },
     {
       id: "ginning-pressing-software",
-      heading: "Software company in Pachora for ginning, pressing and cotton buying",
+      heading: "Software team in Pachora for ginning, pressing and cotton buying",
       paragraphs: [
         "Cotton has long been one of the main crops around Pachora, and ginning and pressing factories sit along the roads out of town, including the industrial plots on Mondala Road. From October onwards, tractors and tempos queue with kapas from the villages, and the office of each factory turns into a counter of weighbridge slips, moisture deductions, rates, advances and payments.",
         "Much of that is still written in registers or kept in separate Excel files on one computer. When a farmer asks what he was paid for last week's load, or a buyer asks how many bales from a lot are ready, someone has to search. A mismatch between the weighbridge figure and the payment slip can take an afternoon to settle.",
-        "As a <strong>software company in Pachora</strong> in the practical sense, we build web tools that follow your existing process rather than replacing it. Each purchase is entered once with farmer name, village, vehicle number, gross and net weight, moisture cut and rate. The system then shows totals per farmer and per village, cash and bank payments due, lint and seed output per day and bales pressed per lot. A buyer-facing page can show lots available without exposing your purchase prices.",
+        "As a <strong>software team in Pachora</strong> in the practical sense, we build web tools that follow your existing process rather than replacing it. Each purchase is entered once with farmer name, village, vehicle number, gross and net weight, moisture cut and rate. The system then shows totals per farmer and per village, cash and bank payments due, lint and seed output per day and bales pressed per lot. A buyer-facing page can show lots available without exposing your purchase prices.",
         "These projects start at ₹60,000 and usually take six to twelve weeks. We suggest building the purchase register before the season opens and adding reports and dashboards once it is in daily use.",
       ],
     },
     {
       id: "banana-growers-traders",
-      heading: "Website development company in Pachora for banana growers and traders",
+      heading: "Website development team in Pachora for banana growers and traders",
       paragraphs: [
         "Jalgaon district is known across India for bananas, and the name “Jalgaon Banana” has carried a geographical indication tag since 2016. Pachora taluka is part of that belt. Banana moves differently from cotton: it is cut to order, loaded quickly and sent to markets far from Khandesh, so the trader's reputation and phone number matter more than a shop front.",
-        "A <strong>website development company in Pachora</strong> can help a banana trader, grower group or packhouse look as dependable online as it is in the field. The site we would build is plain and factual: the villages you source from, varieties and grades handled, how bunches are cut and packed, loading capacity, the months you are most active, GST details and one named person for buyers to call.",
+        "A <strong>website development team in Pachora</strong> can help a banana trader, grower group or packhouse look as dependable online as it is in the field. The site we would build is plain and factual: the villages you source from, varieties and grades handled, how bunches are cut and packed, loading capacity, the months you are most active, GST details and one named person for buyers to call.",
         "Buyers in other states often check a supplier before sending an advance, and a clear site with real photographs of plots, cutting crews and loaded trucks answers questions that a visiting card cannot. We will not add claims you cannot back, such as export certifications you do not hold, because a buyer who checks and finds a gap will not come back.",
         "A static site like this starts at ₹10,000. If you later want buyers to log in and see load schedules or past invoices, it can grow into a small portal without being rebuilt.",
       ],
@@ -125,10 +125,10 @@ const pachora: CityContent = {
     },
     {
       id: "hospitals-clinics-pachora",
-      heading: "IT company in Pachora for hospitals, clinics and diagnostic labs",
+      heading: "IT services team in Pachora for hospitals, clinics and diagnostic labs",
       paragraphs: [
         "Patients from the taluka's villages, and from Bhadgaon and Jamner, travel to Pachora for consultations, surgery, scans and tests. A wasted journey costs a farming family a day's work and bus fare, so the questions they ask before leaving home are practical: is the doctor in today, what time does OPD start, is there a queue, does the lab open on Sunday.",
-        "A sensible <strong>IT company in Pachora</strong> for healthcare should answer those questions first. We build hospital and clinic sites with doctor profiles, specialities, OPD days and timings, emergency numbers, directions from the railway station and bus stand, and a list of tests with preparation instructions for labs. All of it in Marathi first, with Hindi and English alongside.",
+        "A sensible <strong>IT services team in Pachora</strong> for healthcare should answer those questions first. We build hospital and clinic sites with doctor profiles, specialities, OPD days and timings, emergency numbers, directions from the railway station and bus stand, and a list of tests with preparation instructions for labs. All of it in Marathi first, with Hindi and English alongside.",
         "For busier practices we add appointment requests through WhatsApp or a form, a token display that patients can check from home, and report download with a mobile number check so reports are not left lying at the counter. Patient data stays on hosting in your name and is never shared or used for promotion.",
         "We do not write medical advice or promise cures on your behalf. Every clinical statement on the site comes from you, and we keep a record of your approval.",
       ],
@@ -158,7 +158,7 @@ const pachora: CityContent = {
       heading: "Android app development in Pachora, with iOS apps for the same users",
       paragraphs: [
         "An app pays off only when the same people open it again and again. Around Pachora, that describes a ginning unit registering farmers and sending them rate updates, an input dealer whose village retailers re-order every week, a coaching class sharing tests and notices with students, or a hospital issuing tokens to returning patients.",
-        "As an <strong>app development company in Pachora</strong> that works remotely, we write apps in Flutter or React Native, so one codebase serves Android phones and iPhones alike. A first release usually covers mobile number login with OTP, the handful of screens your users need, push notifications for rates or reminders, and an admin panel your staff use from a computer. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Pachora</strong> that works remotely, we write apps in Flutter or React Native, so one codebase serves Android phones and iPhones alike. A first release usually covers mobile number login with OTP, the handful of screens your users need, push notifications for rates or reminders, and an admin panel your staff use from a computer. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Pachora</strong> with us starts at ₹40,000. The price rises with payments, offline entry for fields and villages with poor signal, maps, photo uploads or links to your billing software, and each of those appears as its own line in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many Pachora businesses do not need an app at all. If customers only want your address, timings and prices, a website and a Google listing cover it at a quarter of the cost, and nobody has to install anything. We will say that plainly before you spend on an app.",
       ],
@@ -244,7 +244,7 @@ const pachora: CityContent = {
         "A shop or clinic site is usually live within one to two weeks after we receive your photographs, timings and product details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early helps.",
     },
     {
-      question: "Which is the best website development company in Pachora?",
+      question: "Which is the best website development team in Pachora?",
       answer:
         "The best choice is the one that publishes prices, puts the domain and code in your name, tests on budget phones, answers after launch and can show real work. Put the same questions to every option. We meet those tests and reply on WhatsApp all week, but comparing two or three providers before deciding is wise.",
     },

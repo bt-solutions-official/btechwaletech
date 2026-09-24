@@ -10,12 +10,12 @@ const nelamangala: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Nelamangala warehouses, Dabaspet factories, agarbathi makers, highway businesses and clinics.",
     keywords: [
       "IT services in Nelamangala",
-      "IT company in Nelamangala",
-      "website development company in Nelamangala",
+      "IT services team in Nelamangala",
+      "website development team in Nelamangala",
       "web design in Nelamangala",
-      "app development company in Nelamangala",
+      "app development team in Nelamangala",
       "Android app development in Nelamangala",
-      "software company in Nelamangala",
+      "software team in Nelamangala",
       "SEO services in Nelamangala",
       "digital marketing in Nelamangala",
       "ecommerce website in Nelamangala",
@@ -75,19 +75,19 @@ const nelamangala: CityContent = {
     },
     {
       id: "warehouse-logistics-software",
-      heading: "Software company in Nelamangala for warehouses, transporters and 3PL yards",
+      heading: "Software team in Nelamangala for warehouses, transporters and 3PL yards",
       paragraphs: [
         "Nelamangala is often called the logistics hub of Karnataka, and the label fits once you drive the Tumakuru Road stretch past rows of warehouse sheds and truck bays. Warehouse operators, small third-party logistics firms, fleet owners and freight brokers here share one problem: the day runs on phone calls, paper gate passes and spreadsheets that only one clerk understands.",
-        "As a <strong>software company in Nelamangala</strong> in the practical sense, we build web tools that replace those registers. A typical first version covers dock slot booking so trucks stop queuing on the service road, gate-in and gate-out entries with vehicle number and photo, goods received against each purchase order, bay-wise stock, and a dispatch log that customers can check without calling. For fleet owners, the equivalent is a trip register: vehicle, driver, route, diesel advance, freight amount and whether the bill has been paid.",
+        "As a <strong>software team in Nelamangala</strong> in the practical sense, we build web tools that replace those registers. A typical first version covers dock slot booking so trucks stop queuing on the service road, gate-in and gate-out entries with vehicle number and photo, goods received against each purchase order, bay-wise stock, and a dispatch log that customers can check without calling. For fleet owners, the equivalent is a trip register: vehicle, driver, route, diesel advance, freight amount and whether the bill has been paid.",
         "Santosh adds a dashboard on top so the owner sees turnaround time per dock, trips per vehicle this month and money outstanding by customer. These projects start at ₹60,000 and run six to twelve weeks, built in stages. We usually ship the gate and dispatch module first, because it removes the most calls in the first month and shows whether the rest is worth doing.",
       ],
     },
     {
       id: "dabaspet-kiadb-suppliers",
-      heading: "Website development company in Nelamangala for Dabaspet's electrical and engineering units",
+      heading: "Website development team in Nelamangala for Dabaspet's electrical and engineering units",
       paragraphs: [
         "Around 22 km up NH 48, the KIADB industrial area at Dabaspet holds a few hundred units, most of them MSMEs. They make electrical equipment and transformers, power and turbine parts, automobile and engineering components, fabricated metal and packaging. Many sell to larger plants in Bengaluru, Tumakuru and beyond, and the first thing a new purchase team does is search for the supplier's website.",
-        "A <strong>website development company in Nelamangala</strong> serving these units should build plain, factual sites. That means a capability page listing machines and processes, the materials and tolerances you work to, certifications you actually hold, industries served, photographs of the shop floor, GST and registration details, and named contacts for sales and quality. It should read well on a desktop in a purchase office and load properly on a phone in the field.",
+        "A <strong>website development team in Nelamangala</strong> serving these units should build plain, factual sites. That means a capability page listing machines and processes, the materials and tolerances you work to, certifications you actually hold, industries served, photographs of the shop floor, GST and registration details, and named contacts for sales and quality. It should read well on a desktop in a purchase office and load properly on a phone in the field.",
         "For job shops, Ankur adds a request-for-quote form that accepts drawings, quantity and required date, and emails them straight to the estimator. Units that repeat orders for the same customers can have a small order status page so buyers stop calling for updates. We never add a customer's name or logo to your site unless that customer has agreed in writing.",
       ],
     },
@@ -111,10 +111,10 @@ const nelamangala: CityContent = {
     },
     {
       id: "highway-workshops-dhabas",
-      heading: "IT company in Nelamangala for highway workshops, tyre shops, fuel stops and eateries",
+      heading: "IT services team in Nelamangala for highway workshops, tyre shops, fuel stops and eateries",
       paragraphs: [
         "Long-haul trucks, buses and cars pass through Nelamangala at all hours, and a whole economy lives on that traffic: truck and bus repair workshops, tyre and battery dealers, spare parts shops, weighbridges, towing services, fuel stations and highway eateries. Their customers are drivers who search on a phone in a hurry, often in Kannada, Hindi or Tamil.",
-        "For these businesses an <strong>IT company in Nelamangala</strong> should focus on the listing before anything else. A correct Google Maps pin on the right side of the highway, the right category, a phone number that is answered at night, photographs of the bay or kitchen, and a line saying which vehicles you handle matters more than a large website. We set this up, then add a one-page site with services, timings, towing contacts and languages spoken.",
+        "For these businesses an <strong>IT services team in Nelamangala</strong> should focus on the listing before anything else. A correct Google Maps pin on the right side of the highway, the right category, a phone number that is answered at night, photographs of the bay or kitchen, and a line saying which vehicles you handle matters more than a large website. We set this up, then add a one-page site with services, timings, towing contacts and languages spoken.",
         "Workshops that service regular fleets can go further with a job card system. Each vehicle gets a record of complaints, parts fitted, labour, and next service date, and the fleet manager receives the bill and photos on WhatsApp. That record also settles the arguments that come up when a driver says a part was never changed.",
       ],
     },
@@ -132,7 +132,7 @@ const nelamangala: CityContent = {
       heading: "Android app development in Nelamangala, and iOS apps for fleets and distributors",
       paragraphs: [
         "An app makes sense when the same people will open it again and again. In Nelamangala, the strongest cases we see are drivers who need to log trips, upload proof of delivery and see their next load; retailers who re-order agarbathi, FMCG or spare parts from a distributor every week; parents who get notices and fee reminders from a school; and warehouse staff scanning goods in and out.",
-        "As an <strong>app development company in Nelamangala</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first release normally includes OTP login, push notifications, the main screens your users need, offline entry for places with patchy signal, and an admin panel for your office. Ankur builds the app, Vedansh writes the test plan with your staff, and we publish it on Google Play and the Apple App Store under developer accounts registered to your business.",
+        "As an <strong>app development team in Nelamangala</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first release normally includes OTP login, push notifications, the main screens your users need, offline entry for places with patchy signal, and an admin panel for your office. Ankur builds the app, Vedansh writes the test plan with your staff, and we publish it on Google Play and the Apple App Store under developer accounts registered to your business.",
         "<strong>Android app development in Nelamangala</strong> with us starts at ₹40,000. The quote rises with features you choose, such as payments, GPS tracking, barcode scanning or a link to your billing software, and each appears as a separate line. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your location, timings and a price list, a website does the job for far less. We will say so. An app that is installed once and forgotten helps nobody, and the upkeep of store listings is a real recurring cost.",
       ],
@@ -238,9 +238,9 @@ const nelamangala: CityContent = {
         "A simple website for a Nelamangala shop or clinic is usually live in one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds a project up.",
     },
     {
-      question: "Which is the best IT company in Nelamangala for a small business?",
+      question: "Which is the best IT services team in Nelamangala for a small business?",
       answer:
-        "The right IT company in Nelamangala for you is one that publishes starting prices, puts the domain and code in your name, supports you after launch and can show real work. Ask two or three providers the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing is sensible.",
+        "The right IT services team in Nelamangala for you is one that publishes starting prices, puts the domain and code in your name, supports you after launch and can show real work. Ask two or three providers the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing is sensible.",
     },
     {
       question: "Can you get my Nelamangala business onto Google Maps?",

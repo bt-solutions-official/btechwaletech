@@ -9,7 +9,7 @@ const yavatmal: CityContent = {
     description:
       "Websites, local SEO, UPI stores and WhatsApp bots for Yavatmal ginners, agri dealers, clinics and Lohara MIDC units. Sites from ₹10,000, 5 months upkeep free.",
     keywords: [
-      "website development company in Yavatmal",
+      "website development team in Yavatmal",
       "web designer Yavatmal",
       "website design Yavatmal Maharashtra",
       "freelance web developer Yavatmal",
@@ -273,7 +273,7 @@ const yavatmal: CityContent = {
     {
       question: "How long before SEO shows results in Yavatmal?",
       answer:
-        "Map results for nearby searches often improve within six to ten weeks once the profile and site are set up well. Broader terms such as “website development company in Yavatmal” or “cotton ginning in Yavatmal” usually take four to eight months of steady work. Anyone guaranteeing the first position is not being honest with you.",
+        "Map results for nearby searches often improve within six to ten weeks once the profile and site are set up well. Broader terms such as “website development team in Yavatmal” or “cotton ginning in Yavatmal” usually take four to eight months of steady work. Anyone guaranteeing the first position is not being honest with you.",
     },
     {
       question: "Do you work with businesses in Pusad, Wani, Amravati and Wardha?",

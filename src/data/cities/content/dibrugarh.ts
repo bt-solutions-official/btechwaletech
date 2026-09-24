@@ -9,7 +9,7 @@ const dibrugarh: CityContent = {
     description:
       "Websites, Assamese and English SEO, tea brand stores and WhatsApp automation for Dibrugarh tea growers, oil-belt contractors, hotels and clinics. Code stays yours.",
     keywords: [
-      "website development company in Dibrugarh",
+      "website development team in Dibrugarh",
       "web designer Dibrugarh",
       "website developer Upper Assam",
       "website cost Dibrugarh",
@@ -21,7 +21,7 @@ const dibrugarh: CityContent = {
       "hotel website Dibrugarh",
       "ecommerce website Dibrugarh",
       "WhatsApp automation Dibrugarh",
-      "software company Dibrugarh",
+      "software team Dibrugarh",
       "website maintenance Dibrugarh",
       "Google Maps listing Dibrugarh",
       "ডিব্ৰুগড় ৱেবছাইট",

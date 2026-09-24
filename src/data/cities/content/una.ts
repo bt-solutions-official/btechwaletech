@@ -10,12 +10,12 @@ const una: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Una traders, Kesar mango growers, fish exporters, Diu-bound hotels and clinics.",
     keywords: [
       "IT services in Una",
-      "IT company in Una Gujarat",
-      "website development company in Una",
+      "IT services team in Una Gujarat",
+      "website development team in Una",
       "web design in Una",
-      "app development company in Una",
+      "app development team in Una",
       "Android app development in Una",
-      "software company in Una",
+      "software team in Una",
       "SEO services in Una",
       "digital marketing in Una",
       "ecommerce website in Una",
@@ -75,10 +75,10 @@ const una: CityContent = {
     },
     {
       id: "fishing-harbours",
-      heading: "Software company in Una for fish traders at Navabandar and Saiyad Rajpara",
+      heading: "Software team in Una for fish traders at Navabandar and Saiyad Rajpara",
       paragraphs: [
         "Una's coastline supports two working fishing harbours, Navabandar and Saiyad Rajpara, and a fishery harbour development project at Navabandar underlines how much the district depends on them. Boats go out for days, the catch is sold on landing, and money moves between boat owners, crew, commission agents, ice suppliers, diesel dealers and exporters.",
-        "As a <strong>software company in Una</strong> for this trade, we build small web tools that match how the harbour already works. Each trip is recorded with the boat, crew, days at sea and expenses. Landings are entered by species and weight, sales by buyer and rate, and advances by person. A running statement shows every boat's profit and every buyer's balance, and alerts remind you of licence and insurance renewals.",
+        "As a <strong>software team in Una</strong> for this trade, we build small web tools that match how the harbour already works. Each trip is recorded with the boat, crew, days at sea and expenses. Landings are entered by species and weight, sales by buyer and rate, and advances by person. A running statement shows every boat's profit and every buyer's balance, and alerts remind you of licence and insurance renewals.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the part that causes most arguments, usually crew advances or buyer dues, and make sure it works on a basic Android phone in Gujarati before adding anything else.",
         "Exporters and processors who buy from Una's harbours have different needs again. They want buyer-facing pages that list species handled, processing and packing capacity, certifications you actually hold and a clear enquiry route. A plain, accurate English site with Gujarati contact details often does more for a trade buyer in another state than a glossy brochure.",
       ],
@@ -104,10 +104,10 @@ const una: CityContent = {
     },
     {
       id: "wholesale-agri-una",
-      heading: "Website development company in Una for wholesalers and agri-input dealers",
+      heading: "Website development team in Una for wholesalers and agri-input dealers",
       paragraphs: [
         "With so many villages depending on it, Una has a large wholesale trade in groceries, cloth, hardware, cement, seeds, fertiliser and pesticides. Retailers from across the taluka and from Gir Gadhada side order by phone, collect on market days and pay on credit, and dealers carry long lists of dues in notebooks.",
-        "As a <strong>website development company in Una</strong>, we build catalogue sites that show your brands, products and pack sizes in Gujarati, with a WhatsApp order button and your delivery routes. For dealers, the site can explain crop-wise product advice and seasonal availability, which cuts down on repeated calls during sowing time.",
+        "As a <strong>website development team in Una</strong>, we build catalogue sites that show your brands, products and pack sizes in Gujarati, with a WhatsApp order button and your delivery routes. For dealers, the site can explain crop-wise product advice and seasonal availability, which cuts down on repeated calls during sowing time.",
         "A catalogue site starts at ₹10,000 and takes one to two weeks. When order volume grows, we add a retailer login with order history and outstanding balance, so shopkeepers can check their account without calling your counter. Our approach is explained on the <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
@@ -159,19 +159,19 @@ const una: CityContent = {
     },
     {
       id: "nearby-una",
-      heading: "App development company in Una for Delwada, Kodinar, Gir Gadhada and Diu",
+      heading: "App development team in Una for Delwada, Kodinar, Gir Gadhada and Diu",
       paragraphs: [
         "Una's trade reaches well beyond the town. Delwada sits on the road to Diu, Navabandar and Saiyad Rajpara are on the coast, Gir Gadhada lies inland towards the forest, and Kodinar and Veraval are the larger centres to the west. Rajula and Mahuva are the next towns along the coast towards Bhavnagar.",
-        "Because we work remotely, being an <strong>app development company in Una</strong> for us means the same service across the whole area. A dealer in Delwada, a hotel near Ahmedpur Mandvi or a trader in Kodinar gets the same process, starting prices and response time as a shop in Una's main market.",
+        "Because we work remotely, being an <strong>app development team in Una</strong> for us means the same service across the whole area. A dealer in Delwada, a hotel near Ahmedpur Mandvi or a trader in Kodinar gets the same process, starting prices and response time as a shop in Una's main market.",
         "If you serve many villages, a set of well-written location pages helps customers from each one find you. We write them from what you actually offer there, not from a template.",
         "Diu deserves its own mention. Because it is a separate union territory with its own rules for some trades, a business in Una that serves Diu customers, such as a transporter, caterer or building supplier, should say clearly on its site what it delivers across the boundary and on what terms.",
       ],
     },
     {
       id: "remote-team-una",
-      heading: "Working with a remote IT company in Una without a local office",
+      heading: "Working with a remote IT services team in Una without a local office",
       paragraphs: [
-        "It is fair to ask how an <strong>IT company in Una</strong> works without a local office. Our answer is transparency. You speak directly to the three engineers who do the work, receive a written plan and an itemised quote, watch progress on a staging link, and approve each stage before the next starts.",
+        "It is fair to ask how an <strong>IT services team in Una</strong> works without a local office. Our answer is transparency. You speak directly to the three engineers who do the work, receive a written plan and an itemised quote, watch progress on a staging link, and approve each stage before the next starts.",
         "We reply on WhatsApp seven days a week in Indian Standard Time. Short calls and screen shares replace meetings, which suits traders who are at the harbour at dawn and the market by noon. <strong>Digital marketing in Una</strong> through us follows the same pattern: small, measured steps you can see and approve.",
         "To begin, message us on WhatsApp or through the <a href=\"/contact/\">contact</a> page with a few lines about your business. The first conversation and the quote cost nothing.",
       ],
@@ -227,7 +227,7 @@ const una: CityContent = {
         "A small business website usually takes one to two weeks once we receive your text, photographs and prices. SEO websites take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Mango sellers should start by February so the site is found in time.",
     },
     {
-      question: "Which is the best website development company in Una?",
+      question: "Which is the best website development team in Una?",
       answer:
         "Pick a provider who publishes prices, registers the domain and code in your name, supports you after launch and shows real work you can check. Ask each option the same questions. We meet those tests and reply on WhatsApp all week, but comparing two or three providers first is sensible.",
     },

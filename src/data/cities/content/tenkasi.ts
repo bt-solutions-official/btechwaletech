@@ -10,12 +10,12 @@ const tenkasi: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Tenkasi and Courtallam resorts, lemon and coconut traders, textile units and clinics.",
     keywords: [
       "IT services in Tenkasi",
-      "IT company in Tenkasi",
-      "website development company in Tenkasi",
+      "IT services team in Tenkasi",
+      "website development team in Tenkasi",
       "web design in Tenkasi",
-      "app development company in Tenkasi",
+      "app development team in Tenkasi",
       "Android app development in Tenkasi",
-      "software company in Tenkasi",
+      "software team in Tenkasi",
       "SEO services in Tenkasi",
       "digital marketing in Tenkasi",
       "ecommerce website in Tenkasi",
@@ -86,20 +86,20 @@ const tenkasi: CityContent = {
     },
     {
       id: "farm-trade-lemon-coconut",
-      heading: "Software company in Tenkasi for lemon, coconut and farm produce traders",
+      heading: "Software team in Tenkasi for lemon, coconut and farm produce traders",
       paragraphs: [
         "The district's farm economy reaches well beyond paddy. Puliyangudi is known as a lemon town, with large markets at Puliyangudi and Punnaiyapuram that send lemons to other states. Coconut groves surround Tenkasi and Kadayanallur, and the villages at the foot of the Ghats grow bananas, vegetables and spices for markets in Tamil Nadu and Kerala.",
-        "Commission agents and traders who move this produce handle a large number of small transactions: farmer arrivals, weights, grades, rates, advances, lorry hire, buyer payments. As a <strong>software company in Tenkasi</strong>, we build web tools that record each arrival once from a phone, calculate the farmer's payable after charges, send a statement on WhatsApp and show what each outstation buyer still owes.",
+        "Commission agents and traders who move this produce handle a large number of small transactions: farmer arrivals, weights, grades, rates, advances, lorry hire, buyer payments. As a <strong>software team in Tenkasi</strong>, we build web tools that record each arrival once from a phone, calculate the farmer's payable after charges, send a statement on WhatsApp and show what each outstation buyer still owes.",
         "The first version stays close to your existing register, because staff will only use software that feels familiar. Reports and buyer logins come in the second stage.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We export entries in a form your accountant can import into Tally rather than having them typed again.",
       ],
     },
     {
       id: "textile-sidco-kadayanallur",
-      heading: "Website development company in Tenkasi for textile and SIDCO units",
+      heading: "Website development team in Tenkasi for textile and SIDCO units",
       paragraphs: [
         "Weaving has a long history in the Tenkasi area. Kadayanallur is known for its textile trade, Sankarankovil has thousands of powerlooms, and the SIDCO industrial estate at Kadayanallur houses small units in textiles, garments, food processing, engineering and packaging. Most sell to buyers who have never visited the district.",
-        "As a <strong>website development company in Tenkasi</strong>, we build factual sites for such units: products, fabric counts and sizes, machines and capacity, minimum order quantities, packing, dispatch terms, GST and registration details and named contacts. Daylight photographs of the actual products and workshop do more for a buyer than stock images.",
+        "As a <strong>website development team in Tenkasi</strong>, we build factual sites for such units: products, fabric counts and sizes, machines and capacity, minimum order quantities, packing, dispatch terms, GST and registration details and named contacts. Daylight photographs of the actual products and workshop do more for a buyer than stock images.",
         "We never list a client or certification without proof and permission. Units with regular buyers can add an enquiry form that asks for quantity, specification and delivery city, or a small order status page so buyers stop phoning to ask where their consignment is.",
         "A catalogue site starts at ₹10,000. It can later grow into a wholesale store on the same domain.",
       ],
@@ -119,7 +119,7 @@ const tenkasi: CityContent = {
       heading: "Android app development in Tenkasi, with iOS apps from the same code",
       paragraphs: [
         "An app pays off when a known group of users returns to it often. In Tenkasi, strong candidates include schools sending homework, fee reminders and bus alerts to parents, hospitals issuing tokens and reports, wholesalers taking repeat orders from retailers across the district, and resort groups whose regular guests book every season.",
-        "As an <strong>app development company in Tenkasi</strong> working remotely, we use Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the essential screens and an admin panel for staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Tenkasi</strong> working remotely, we use Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the essential screens and an admin panel for staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Tenkasi</strong> with us starts at ₹40,000. Payments, Tamil and Malayalam screens, offline mode for estates and villages in the hills with weak signal, maps and billing integrations each add cost and appear as separate items. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for the process.",
         "If people only need your address, number, prices and a WhatsApp link, a website does the job for much less, and we will suggest that instead.",
       ],
@@ -166,9 +166,9 @@ const tenkasi: CityContent = {
     },
     {
       id: "remote-team-tenkasi",
-      heading: "IT company in Tenkasi, working remotely: what to expect from us",
+      heading: "IT services team in Tenkasi, working remotely: what to expect from us",
       paragraphs: [
-        "As a remote <strong>IT company in Tenkasi</strong>, we make up for the missing office with clear documents. After a first call, you get a written page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links that you can open on your phone and show to your family or partners before anything goes live.",
+        "As a remote <strong>IT services team in Tenkasi</strong>, we make up for the missing office with clear documents. After a first call, you get a written page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links that you can open on your phone and show to your family or partners before anything goes live.",
         "We reply on WhatsApp every day, weekends included, on Indian Standard Time. Tamil and Malayalam text is sent to you for checking before publishing. If there is a delay, you hear about it as soon as we know.",
         "Payments are staged against visible progress, and no bill is raised before written approval. Start a conversation any time on our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -233,7 +233,7 @@ const tenkasi: CityContent = {
         "A static site usually launches within one to two weeks of receiving your content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content speeds up every project.",
     },
     {
-      question: "Which is the best website development company in Tenkasi?",
+      question: "Which is the best website development team in Tenkasi?",
       answer:
         "Pick a provider who publishes prices, registers your domain and code in your name, stays reachable after launch and shows live work. Ask each one the same questions. We meet those standards and answer WhatsApp seven days a week, but it is sensible to compare two or three options first.",
     },

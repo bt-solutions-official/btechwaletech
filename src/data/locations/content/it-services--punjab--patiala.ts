@@ -12,8 +12,8 @@ const content: CityContent = {
       "Android app development Patiala",
       "iOS app development Patiala",
       "mobile app developers Patiala",
-      "software development company in Patiala",
-      "IT company in Patiala",
+      "software development team in Patiala",
+      "IT services team in Patiala",
       "IT solutions Patiala",
       "freelance software developer Patiala",
       "coaching institute software Patiala",
@@ -69,7 +69,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-patiala",
-      heading: "Freelance IT team or software development company in Patiala: which fits your business?",
+      heading: "Freelance IT team or software development team in Patiala: which fits your business?",
       paragraphs: [
         "For most Patiala institutes, clinics and shops, a small freelance IT team fits better than a large software development company in Patiala, because the project is focused and the owner wants to talk to the person building it. With BtechWaleTech, a freelance group of three engineers, there is no salesperson in between.",
         "We work remotely from India and do not have a Patiala office. Scoping happens over calls and WhatsApp, and progress is shared on a live preview you can click through on your phone. When a project needs dozens of developers or daily on-site staff, a bigger IT company is the sensible choice, and we will say so honestly.",
@@ -275,7 +275,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company located in Patiala?",
+      question: "Is BtechWaleTech an IT services team located in Patiala?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or staff in Patiala. Patiala clients hire us as freelance developers and work with us over calls, WhatsApp and live preview links. You speak directly to the engineers building your system and own everything they create.",
     },

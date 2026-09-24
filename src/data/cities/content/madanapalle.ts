@@ -9,7 +9,7 @@ const madanapalle: CityContent = {
     description:
       "Websites, Google Maps setup and WhatsApp automation for Madanapalle tomato traders, silk saree weavers, schools, clinics and Horsley Hills stays. From ₹10,000.",
     keywords: [
-      "website development company in Madanapalle",
+      "website development team in Madanapalle",
       "web designer Madanapalle",
       "website design Annamayya district",
       "SEO services Madanapalle",

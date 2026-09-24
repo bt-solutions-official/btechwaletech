@@ -10,12 +10,12 @@ const dhenkanal: CityContent = {
       "Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Dhenkanal's industrial suppliers, dokra and brass makers, colleges, clinics and shops.",
     keywords: [
       "IT services in Dhenkanal",
-      "IT company in Dhenkanal",
-      "website development company in Dhenkanal",
+      "IT services team in Dhenkanal",
+      "website development team in Dhenkanal",
       "web design in Dhenkanal",
-      "app development company in Dhenkanal",
+      "app development team in Dhenkanal",
       "Android app development in Dhenkanal",
-      "software company in Dhenkanal",
+      "software team in Dhenkanal",
       "SEO services in Dhenkanal",
       "digital marketing in Dhenkanal",
       "ecommerce website in Dhenkanal",
@@ -74,19 +74,19 @@ const dhenkanal: CityContent = {
     },
     {
       id: "industrial-suppliers-dhenkanal",
-      heading: "Website development company in Dhenkanal for plant contractors and industrial suppliers",
+      heading: "Website development team in Dhenkanal for plant contractors and industrial suppliers",
       paragraphs: [
         "Large plants in Dhenkanal district rely on a long chain of local businesses: fabrication and welding shops, electrical contractors, manpower suppliers, crane and equipment hire firms, transporters, scaffolding providers, canteens and hardware dealers. Getting onto a vendor list, and staying there, depends partly on looking organised.",
-        "A <strong>website development company in Dhenkanal</strong> that understands this keeps such sites factual. Pages list services, equipment owned with capacities, certifications and licences you actually hold, safety practices, typical job types and contact details for the person who handles tenders. We never add client names or logos without written permission from those clients.",
+        "A <strong>website development team in Dhenkanal</strong> that understands this keeps such sites factual. Pages list services, equipment owned with capacities, certifications and licences you actually hold, safety practices, typical job types and contact details for the person who handles tenders. We never add client names or logos without written permission from those clients.",
         "A capability site starts at ₹10,000. Contractors with many repeat jobs can add a request-for-quote form with drawing upload, or later a small portal where purchase staff check job status. Plain, accurate information impresses a plant engineer far more than stock photos of skyscrapers.",
       ],
     },
     {
       id: "contractor-software-dhenkanal",
-      heading: "Software company in Dhenkanal for contractors, manpower and equipment hire",
+      heading: "Software team in Dhenkanal for contractors, manpower and equipment hire",
       paragraphs: [
         "Contract work for plants generates a lot of paperwork: daily attendance of workers at different sites, overtime, equipment hours, diesel issued, work orders, running bills, deductions and retention money. When this lives in registers and scattered spreadsheets, bills go out late and disputes over hours become hard to settle.",
-        "As a <strong>software company in Dhenkanal</strong>, we build web tools for that exact cycle. Supervisors mark attendance and equipment hours from a phone at the site gate, the office sees totals by work order, and running bills are prepared from the same data. Document expiry alerts for licences, insurance and vehicle fitness can be included.",
+        "As a <strong>software team in Dhenkanal</strong>, we build web tools for that exact cycle. Supervisors mark attendance and equipment hours from a phone at the site gate, the office sees totals by work order, and running bills are prepared from the same data. Document expiry alerts for licences, insurance and vehicle fitness can be included.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, so the attendance and hours register goes live first. We can export to Tally, keep Odia labels for supervisors and set user roles so site staff see only what they need. If a well-designed spreadsheet is enough for your size, we will say so and set that up instead.",
       ],
     },
@@ -105,7 +105,7 @@ const dhenkanal: CityContent = {
       heading: "Android app development in Dhenkanal and iOS apps for local teams",
       paragraphs: [
         "An app pays off when a known group uses it again and again. In Dhenkanal that might be a contractor's site supervisors logging attendance at several plants, a coaching centre's students checking tests and notes, a distributor's retailers reordering across the district, or a clinic's regular patients booking slots.",
-        "As an <strong>app development company in Dhenkanal</strong> that works remotely, we build with Flutter or React Native so a single codebase covers Android phones and iPhones. A first version usually includes mobile-number login, the key screens for your use case, push notifications and an admin panel. Offline entry is useful for sites where signal is weak inside plant premises.",
+        "As an <strong>app development team in Dhenkanal</strong> that works remotely, we build with Flutter or React Native so a single codebase covers Android phones and iPhones. A first version usually includes mobile-number login, the key screens for your use case, push notifications and an admin panel. Offline entry is useful for sites where signal is weak inside plant premises.",
         "<strong>Android app development in Dhenkanal</strong> with us starts at ₹40,000. Payments, GPS attendance, photo uploads, barcode scanning or ERP links add to that, each on a separate line. We publish on Google Play and the App Store with developer accounts registered to you.",
         "Where customers only need your address, phone number and price list, a website and a well-kept Maps listing will serve them better and cost far less. We will recommend that when it is the sensible choice.",
       ],
@@ -158,9 +158,9 @@ const dhenkanal: CityContent = {
     },
     {
       id: "remote-team-dhenkanal",
-      heading: "IT company in Dhenkanal, working remotely: what to expect",
+      heading: "IT services team in Dhenkanal, working remotely: what to expect",
       paragraphs: [
-        "If you are searching for an <strong>IT company in Dhenkanal</strong>, you may be used to someone visiting the office. We replace that visit with a written process. After a first call about your business and goals, you get a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
+        "If you are searching for an <strong>IT services team in Dhenkanal</strong>, you may be used to someone visiting the office. We replace that visit with a written process. After a first call about your business and goals, you get a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
         "We answer WhatsApp seven days a week on Indian Standard Time. Odia text goes to you for checking before publication, and progress shows up on preview links you can open on your phone. Payments are linked to visible milestones, and nothing is billed until you approve the quote in writing.",
         "This keeps our starting prices low and saves you trips to Cuttack or Bhubaneswar for meetings. Reach us through the <a href=\"/contact/\">contact page</a>, or read more about our <a href=\"/services/web-development/\">web development services</a> first.",
       ],
@@ -225,7 +225,7 @@ const dhenkanal: CityContent = {
         "A static site usually goes live in one to two weeks after we receive text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Preparing content early is the easiest way to stay on schedule.",
     },
     {
-      question: "Which is the best website development company in Dhenkanal?",
+      question: "Which is the best website development team in Dhenkanal?",
       answer:
         "Judge every provider on the same basis: published starting prices, domain and code in your name, a written itemised quote, real work you can open, and someone who answers after launch. Put the same questions to each. We meet those tests and answer WhatsApp daily, but check everyone, including us.",
     },

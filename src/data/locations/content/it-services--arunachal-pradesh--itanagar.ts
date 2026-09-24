@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Itanagar for school and clinic systems, contractor apps, Android and iOS apps, AI automation and SEO. Quote in 2 days.",
     keywords: [
-      "software development company in Itanagar",
-      "IT company in Itanagar",
+      "software development team in Itanagar",
+      "IT services team in Itanagar",
       "IT solutions Itanagar",
       "freelance software developers Itanagar",
       "website developer Itanagar",
@@ -204,9 +204,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-itanagar",
-      heading: "Freelance developers vs an IT company in Itanagar: how to decide",
+      heading: "Freelance developers vs an IT services team in Itanagar: how to decide",
       paragraphs: [
-        "An IT company offers larger teams, formal project managers and on-site staff, which suits big government or multi-department projects, while freelance developers like BtechWaleTech suit Itanagar schools, clinics, hotels, contractors and distributors that want direct contact with the engineers and lower overhead. Most businesses in the capital need a focused system built well rather than a large team.",
+        "An IT services team offers larger teams, formal project managers and on-site staff, which suits big government or multi-department projects, while freelance developers like BtechWaleTech suit Itanagar schools, clinics, hotels, contractors and distributors that want direct contact with the engineers and lower overhead. Most businesses in the capital need a focused system built well rather than a large team.",
         "The honest limit: three engineers cannot run huge parallel projects or station someone in your office. If you need that, we will say so early.",
         "Whoever you hire, check who writes the code, get an itemised written quote, and keep domain, hosting and repository in your name. See our <a href='/portfolio/'>portfolio</a> and <a href='/about/'>about page</a>, or compare <a href='/pricing/'>starting prices</a>.",
       ],

@@ -10,12 +10,12 @@ const faridkot: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Faridkot arhtiyas, hospitals, implement makers, IELTS centres and shops.",
     keywords: [
       "IT services in Faridkot",
-      "IT company in Faridkot",
-      "website development company in Faridkot",
+      "IT services team in Faridkot",
+      "website development team in Faridkot",
       "web design in Faridkot",
-      "app development company in Faridkot",
+      "app development team in Faridkot",
       "Android app development in Faridkot",
-      "software company in Faridkot",
+      "software team in Faridkot",
       "SEO services in Faridkot",
       "digital marketing in Faridkot",
       "ecommerce website in Faridkot",
@@ -74,10 +74,10 @@ const faridkot: CityContent = {
     },
     {
       id: "hospitals-medical-faridkot",
-      heading: "Website development company in Faridkot for hospitals, clinics and pharmacies",
+      heading: "Website development team in Faridkot for hospitals, clinics and pharmacies",
       paragraphs: [
         "Baba Farid University of Health Sciences and the Guru Gobind Singh Medical College and Hospital on Sadiq Road make Faridkot a medical town. Patients come from Firozpur, Muktsar, Moga and villages across the division, and around the campus a ring of private clinics, diagnostic labs, chemists, physiotherapy centres and nursing homes has grown up to serve them.",
-        "A <strong>website development company in Faridkot</strong> working for healthcare needs to put accuracy first. Each doctor's page should state qualifications, speciality and OPD days. Lab pages should list tests with preparation instructions and report times. Emergency and ambulance numbers belong at the top of every screen, and the Google Maps pin should lead to the right gate on a crowded road.",
+        "A <strong>website development team in Faridkot</strong> working for healthcare needs to put accuracy first. Each doctor's page should state qualifications, speciality and OPD days. Lab pages should list tests with preparation instructions and report times. Emergency and ambulance numbers belong at the top of every screen, and the Google Maps pin should lead to the right gate on a crowded road.",
         "We build these sites in Punjabi, Hindi and English as needed, link them to WhatsApp for appointment requests, and keep the language factual. Health advertising has rules, so we avoid claims about cures or guaranteed results. A static clinic site starts at ₹10,000; hospitals with several departments and online booking usually sit higher, and the quote shows exactly why. See our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
@@ -92,10 +92,10 @@ const faridkot: CityContent = {
     },
     {
       id: "arhtiya-grain-software",
-      heading: "Software company in Faridkot for arhtiyas and the grain market",
+      heading: "Software team in Faridkot for arhtiyas and the grain market",
       paragraphs: [
         "Wheat in April and paddy in October fill the Faridkot grain market and the smaller yards around the district, with cotton adding a third season. Commission agents, the arhtiyas, sit at the centre of it: they handle a farmer's crop through auction and payment, give advances through the year, and keep ledgers that run into hundreds of accounts.",
-        "As a <strong>software company in Faridkot</strong> in the plain sense, we build web tools that follow this routine instead of forcing a textbook accounting format on it. Each farmer's account shows advances, interest if you charge it, crop lots sold, deductions and payments. Buyer accounts show bags lifted, rates and dues. Labour and transport charges are recorded per lot. Reports open on the owner's phone during the season.",
+        "As a <strong>software team in Faridkot</strong> in the plain sense, we build web tools that follow this routine instead of forcing a textbook accounting format on it. Each farmer's account shows advances, interest if you charge it, crop lots sold, deductions and payments. Buyer accounts show bags lifted, rates and dues. Labour and transport charges are recorded per lot. Reports open on the owner's phone during the season.",
         "These start at ₹60,000 and are built in stages over six to twelve weeks, with a Tally export where your accountant needs it. We recommend building in the quiet months between seasons, so the system is tested on old data before the first trolley arrives. Your data stays in an account registered to you, not on our servers alone.",
       ],
     },
@@ -131,7 +131,7 @@ const faridkot: CityContent = {
       heading: "Android app development in Faridkot, and iPhone apps from the same code",
       paragraphs: [
         "An app is worth the money when the same people will use it again and again. In Faridkot good examples are a hospital's patients booking tokens and receiving reports, a coaching or IELTS centre's students watching class schedules and mock test results, an arhtiya's farmers checking their account balance, or a parts dealer's retailers re-ordering stock.",
-        "As an <strong>app development company in Faridkot</strong> that works remotely, we build in Flutter or React Native, so one codebase gives you both the Android app and the iPhone app. A first version usually has mobile number login, push notifications, the key screens and a web admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Faridkot</strong> that works remotely, we build in Flutter or React Native, so one codebase gives you both the Android app and the iPhone app. A first version usually has mobile number login, push notifications, the key screens and a web admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you.",
         "<strong>Android app development in Faridkot</strong> starts at ₹40,000. Payments, offline use, multiple user roles, maps and links to existing software add cost, and each is itemised. Read about the process on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number, timings and a price list, a website serves them better at a fraction of the cost, and nobody has to download anything. We will recommend the website in that case.",
       ],
@@ -223,7 +223,7 @@ const faridkot: CityContent = {
         "A static website is usually ready one to two weeks after we receive your content. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your text, photographs and logo ready at the start saves the most time.",
     },
     {
-      question: "Which is the best website development company in Faridkot?",
+      question: "Which is the best website development team in Faridkot?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, shows real finished work and answers after launch. Ask everyone the same questions and compare. We meet those tests and reply on WhatsApp every day, but speaking to two or three options before deciding is sensible.",
     },

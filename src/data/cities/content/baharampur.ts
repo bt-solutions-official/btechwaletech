@@ -9,7 +9,7 @@ const baharampur: CityContent = {
     description:
       "Bengali and English websites, Google Maps work, silk and sweet shop stores and WhatsApp automation for Berhampore businesses. Remote team, prices from ₹10,000.",
     keywords: [
-      "website development company in Baharampur",
+      "website development team in Baharampur",
       "website designer Berhampore",
       "web design Berhampore Murshidabad",
       "Bengali website design Murshidabad",

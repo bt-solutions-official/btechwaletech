@@ -10,12 +10,12 @@ const dumraon: CityContent = {
       "Hindi-first websites, Android and iOS apps, local SEO and WhatsApp automation for Dumraon rice traders, colleges, clinics and shops in Buxar district.",
     keywords: [
       "IT services in Dumraon",
-      "IT company in Dumraon",
-      "website development company in Dumraon",
+      "IT services team in Dumraon",
+      "website development team in Dumraon",
       "web design in Dumraon",
-      "app development company in Dumraon",
+      "app development team in Dumraon",
       "Android app development in Dumraon",
-      "software company in Dumraon",
+      "software team in Dumraon",
       "SEO services in Dumraon",
       "digital marketing in Dumraon",
       "ecommerce website in Dumraon",
@@ -75,11 +75,11 @@ const dumraon: CityContent = {
     },
     {
       id: "rice-mills-grain-trade",
-      heading: "Software company in Dumraon for rice mills, paddy buyers and grain wholesalers",
+      heading: "Software team in Dumraon for rice mills, paddy buyers and grain wholesalers",
       paragraphs: [
         "Buxar district is part of the rice-growing belt of south-west Bihar, and Dumraon has one of the district's important wholesale markets. Around the town you find rice mills, paddy buyers, commission agents, gunny bag suppliers, tractor and truck owners, and fertiliser and seed dealers who extend credit through the season and collect after harvest.",
         "The records behind all this are still mostly kept in registers and diaries. A miller needs to know how much paddy came from which farmer or agent, at what moisture and rate, how much rice and bran came out, what was dispatched on which truck and which buyer still owes money. A seed dealer tracks credit to dozens of farmers across villages. When the register is the only copy, one missing page can mean a lost payment.",
-        "Working as a <strong>software company in Dumraon</strong>, we build small web tools that replace those diaries without forcing a big change. Purchases, milling batches and dispatches are entered once from a phone; totals appear per farmer, per agent, per buyer and per truck; outstanding amounts and cheque dates are listed in one place; and a daily summary can come to the owner on WhatsApp.",
+        "Working as a <strong>software team in Dumraon</strong>, we build small web tools that replace those diaries without forcing a big change. Purchases, milling batches and dispatches are entered once from a phone; totals appear per farmer, per agent, per buyer and per truck; outstanding amounts and cheque dates are listed in one place; and a daily summary can come to the owner on WhatsApp.",
         "These tools start at ₹60,000 and take six to twelve weeks, built in stages so the purchase register is usable before the season rather than halfway through it. If Tally is already used for accounts, we export entries in a format your accountant can import instead of asking anyone to type twice.",
       ],
     },
@@ -95,10 +95,10 @@ const dumraon: CityContent = {
     },
     {
       id: "dumraon-market-shops",
-      heading: "Website development company in Dumraon for market shops and wholesale traders",
+      heading: "Website development team in Dumraon for market shops and wholesale traders",
       paragraphs: [
         "The market streets of Dumraon sell almost everything a rural household needs: cloth and readymade garments, gold and silver ornaments, utensils, electronics, mobile phones, furniture, building material, medicines and farm inputs. Many of these shops also supply smaller retailers in villages, so they run a retail counter and a wholesale business at the same time.",
-        "A <strong>website development company in Dumraon</strong> should not sell these shops a glossy site full of stock photos. What works is a clear page per category with real photographs, the shop's address and landmark, timings, the owner's WhatsApp number, and a price list or at least a note on price ranges. For wholesale buyers, a separate page with minimum order, delivery days and credit terms stops the same questions being asked again and again.",
+        "A <strong>website development team in Dumraon</strong> should not sell these shops a glossy site full of stock photos. What works is a clear page per category with real photographs, the shop's address and landmark, timings, the owner's WhatsApp number, and a price list or at least a note on price ranges. For wholesale buyers, a separate page with minimum order, delivery days and credit terms stops the same questions being asked again and again.",
         "We also look after the details that local customers notice. The site must load on an entry-level Android phone, the call button must work in one tap, Hindi text must read naturally, and the map pin must sit on the right lane, not two streets away. Wedding-season stock, festival offers and new arrivals can be posted by the shop staff themselves.",
         "If a shop later wants online orders with delivery across Buxar and Bhojpur, the same site can be extended into a store with UPI and card checkout. Our <a href=\"/services/web-development/\">web development page</a> explains how we plan such upgrades.",
       ],
@@ -117,7 +117,7 @@ const dumraon: CityContent = {
       heading: "Android app development in Dumraon, with iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost when the same group of people opens it again and again. In Dumraon, the strongest cases are coaching institutes that send daily tests, notes and fee reminders to students; schools that share homework and notices with parents; wholesale traders who take repeat orders from village shops; and clinics or labs that issue tokens and share reports.",
-        "As an <strong>app development company in Dumraon</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones alike. A first release usually covers mobile number login, push notifications, the screens your users need most and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name, not ours.",
+        "As an <strong>app development team in Dumraon</strong> that works remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones alike. A first release usually covers mobile number login, push notifications, the screens your users need most and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name, not ours.",
         "<strong>Android app development in Dumraon</strong> with us starts at ₹40,000. The price rises with online payments, offline mode for students in low-signal villages, video lessons, maps and integrations, and each appears as a separate line in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many local businesses do not need an app at all. If customers only want your address, timings and a price list, a website does that for a fraction of the cost, and we will say so. An app that people install once and forget is the most expensive way to be online.",
       ],
@@ -227,7 +227,7 @@ const dumraon: CityContent = {
         "A simple static site is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends content early.",
     },
     {
-      question: "Which is the best website development company in Dumraon?",
+      question: "Which is the best website development team in Dumraon?",
       answer:
         "Choose one that publishes prices, puts the domain and code in your name, shows real past work and answers after launch. Ask every provider the same questions and compare the written replies. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options first is wise.",
     },

@@ -10,12 +10,12 @@ const mandideep: CityContent = {
       "Websites, Android and iOS apps, factory software, SEO and WhatsApp automation for Mandideep vendors, plant suppliers, transporters, clinics and shops.",
     keywords: [
       "IT services in Mandideep",
-      "IT company in Mandideep",
-      "website development company in Mandideep",
+      "IT services team in Mandideep",
+      "website development team in Mandideep",
       "web design in Mandideep",
-      "app development company in Mandideep",
+      "app development team in Mandideep",
       "Android app development in Mandideep",
-      "software company in Mandideep",
+      "software team in Mandideep",
       "SEO services in Mandideep",
       "digital marketing in Mandideep",
       "ecommerce website in Mandideep",
@@ -75,20 +75,20 @@ const mandideep: CityContent = {
     },
     {
       id: "vendor-websites-mandideep",
-      heading: "Website development company in Mandideep for plant vendors and job-work units",
+      heading: "Website development team in Mandideep for plant vendors and job-work units",
       paragraphs: [
         "When a purchase team in a large plant shortlists a new vendor, someone usually opens a browser before calling. If they find nothing, or a single page with a phone number, the vendor looks smaller than it is. That matters in Mandideep, where machining, sheet-metal, fabrication, tool-room and maintenance firms compete for the same approved-vendor lists.",
-        "As a <strong>website development company in Mandideep</strong>, we write these sites around what an evaluator checks: machines with make, bed size or capacity; materials handled; tolerances you can hold; inspection instruments; quality certificates; GST, Udyam and factory registration numbers; safety practice; and the plot number in Sector A, Sector B or Phase II with a working map link. Photographs of your own shop floor beat any stock image.",
+        "As a <strong>website development team in Mandideep</strong>, we write these sites around what an evaluator checks: machines with make, bed size or capacity; materials handled; tolerances you can hold; inspection instruments; quality certificates; GST, Udyam and factory registration numbers; safety practice; and the plot number in Sector A, Sector B or Phase II with a working map link. Photographs of your own shop floor beat any stock image.",
         "Two features pay for themselves. The first is an RFQ form that accepts a drawing upload and asks for material, quantity and required date, so enquiries arrive complete. The second is a downloadable company profile PDF that matches the website, because many vendor registration portals ask for one.",
         "We never list a plant as your customer unless you hold written permission to do so. A capability site of this kind starts at ₹10,000 and is usually live in one to two weeks. See <a href=\"/services/web-development/\">how we build websites</a> for the technical side.",
       ],
     },
     {
       id: "factory-software-mandideep",
-      heading: "Software company in Mandideep for job cards, gate passes and maintenance logs",
+      heading: "Software team in Mandideep for job cards, gate passes and maintenance logs",
       paragraphs: [
         "Walk into many Mandideep units and the real system is a stack of registers: inward material, outward challans, job cards, gate passes, breakdown logs, calibration due dates and a contractor's attendance sheet. It works until an auditor asks for last March's records or a customer disputes a delivery.",
-        "Working as a <strong>software company in Mandideep</strong>, we replace those registers with one web tool that opens on a desktop in the office and a phone on the floor. A supervisor raises a job card against a purchase order, operators mark stages, rejected pieces are logged with a reason, and the dispatch clerk prints a challan from the same record. Gate passes carry the vehicle number and time. Machines get a maintenance calendar with reminders before a service is due.",
+        "Working as a <strong>software team in Mandideep</strong>, we replace those registers with one web tool that opens on a desktop in the office and a phone on the floor. A supervisor raises a job card against a purchase order, operators mark stages, rejected pieces are logged with a reason, and the dispatch clerk prints a challan from the same record. Gate passes carry the vehicle number and time. Machines get a maintenance calendar with reminders before a service is due.",
         "Contract labour is its own headache. A simple attendance module with shift, gate entry and overtime hours gives both the unit and the manpower contractor one set of numbers at month end, which ends a regular argument.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We build it in stages, beginning with whichever register causes the most trouble, and it can export to Excel or Tally so your accountant keeps working the way they already do. Santosh sets up hosting on AWS or a similar provider in your name.",
       ],
@@ -118,7 +118,7 @@ const mandideep: CityContent = {
       heading: "Android app development in Mandideep, and iOS apps for field and shift teams",
       paragraphs: [
         "An app earns its cost when the same group of people opens it several times a week. In Mandideep that describes contract workers marking attendance at a gate, drivers updating trip status, maintenance technicians closing breakdown tickets from the floor, sales staff of a supplier booking orders from dealers in Bhopal and Vidisha, or regular customers of a pharmacy or grocery re-ordering.",
-        "As an <strong>app development company in Mandideep</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release normally has mobile OTP login, push notifications, the three or four screens your users need most, photo upload where proof matters, and an admin panel on the web for your office. Offline entry that syncs later helps in sheds with weak signal.",
+        "As an <strong>app development team in Mandideep</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release normally has mobile OTP login, push notifications, the three or four screens your users need most, photo upload where proof matters, and an admin panel on the web for your office. Offline entry that syncs later helps in sheds with weak signal.",
         "<strong>Android app development in Mandideep</strong> with us starts at ₹40,000. The quote rises with features such as GPS tracking, payments, multiple languages or links to your existing software, and each is priced separately. We publish the app on Google Play and the Apple App Store under developer accounts registered to your business, not ours. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Do not build an app just because a competitor has one. If people only need your address, machine list and phone number, a website does that at a quarter of the cost, and nobody has to install anything.",
       ],
@@ -175,7 +175,7 @@ const mandideep: CityContent = {
     },
     {
       id: "remote-team-mandideep",
-      heading: "Working with an IT company in Mandideep that has no office there",
+      heading: "Working with an IT services team in Mandideep that has no office there",
       paragraphs: [
         "We are open about it: there is no BtechWaleTech office in Mandideep, Bhopal or anywhere else. We work remotely, and for industrial clients this usually suits better than it sounds, because owners and plant managers rarely have time for meetings in a showroom anyway.",
         "Here is how a project runs. A first call or WhatsApp exchange covers what you make, who buys it and what is going wrong. Vedansh then sends a written scope listing pages, screens or modules, the timeline and an itemised cost. Nothing starts, and nothing is billed, until you approve that document. Ankur builds, Santosh handles anything involving AI, cloud or data, and you watch progress on preview links that open on any phone or office computer.",
@@ -245,9 +245,9 @@ const mandideep: CityContent = {
         "Yes. A capability site for a Mandideep unit lists your machines, materials, tolerances, inspection equipment, certificates and registrations, with shop-floor photographs and a map pin on your plot. We add an RFQ form that accepts drawings and a matching company profile PDF. These start at ₹10,000 and are usually live within two weeks.",
     },
     {
-      question: "Which is the best IT company in Mandideep for a small manufacturer?",
+      question: "Which is the best IT services team in Mandideep for a small manufacturer?",
       answer:
-        "The right IT company for a Mandideep manufacturer puts prices in writing, registers the domain and code in your name, understands purchase and dispatch paperwork, and still answers after launch. Ask each option the same questions and look at real work. We meet those tests, but comparing two or three providers first is sensible.",
+        "The right IT services team for a Mandideep manufacturer puts prices in writing, registers the domain and code in your name, understands purchase and dispatch paperwork, and still answers after launch. Ask each option the same questions and look at real work. We meet those tests, but comparing two or three providers first is sensible.",
     },
     {
       question: "How long does it take to build software for a Mandideep factory?",

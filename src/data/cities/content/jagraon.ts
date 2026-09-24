@@ -10,12 +10,12 @@ const jagraon: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Jagraon arhtiyas, dealers, clinics, schools and IELTS centres.",
     keywords: [
       "IT services in Jagraon",
-      "IT company in Jagraon",
-      "website development company in Jagraon",
+      "IT services team in Jagraon",
+      "website development team in Jagraon",
       "web design in Jagraon",
-      "app development company in Jagraon",
+      "app development team in Jagraon",
       "Android app development in Jagraon",
-      "software company in Jagraon",
+      "software team in Jagraon",
       "SEO services in Jagraon",
       "digital marketing in Jagraon",
       "ecommerce website in Jagraon",
@@ -74,10 +74,10 @@ const jagraon: CityContent = {
     },
     {
       id: "arhtiya-mandi-software",
-      heading: "Software company in Jagraon for arhtiyas and grain market traders",
+      heading: "Software team in Jagraon for arhtiyas and grain market traders",
       paragraphs: [
         "The Jagraon grain market is regularly described in the Punjab press as the second largest in Asia after Khanna. During wheat procurement in April and paddy in October, arrivals, auctions, weighing, bagging, lifting and payments all happen under pressure, and the commission agents in the middle carry a heavy paperwork load.",
-        "Many arhtiyas still keep farmer accounts in bahi registers or basic spreadsheets. Advances given during the year, fertiliser or diesel supplied on credit, crop sold, deductions and final payments have to reconcile, and farmers increasingly ask for a statement on their phone. As a <strong>software company in Jagraon</strong> we build ledger web apps that keep each farmer's account in one place, generate a statement in Punjabi or English, and send it on WhatsApp on request.",
+        "Many arhtiyas still keep farmer accounts in bahi registers or basic spreadsheets. Advances given during the year, fertiliser or diesel supplied on credit, crop sold, deductions and final payments have to reconcile, and farmers increasingly ask for a statement on their phone. As a <strong>software team in Jagraon</strong> we build ledger web apps that keep each farmer's account in one place, generate a statement in Punjabi or English, and send it on WhatsApp on request.",
         "We do not replace government procurement portals or the market committee's systems, and we do not claim to integrate with them unless an official interface exists. What we build sits on your side: your records, your labour and transport costs, your dues. Custom software starts at ₹60,000 and usually takes six to twelve weeks, depending on how many users and reports you need.",
       ],
       list: [
@@ -98,10 +98,10 @@ const jagraon: CityContent = {
     },
     {
       id: "healthcare-jagraon",
-      heading: "Website development company in Jagraon for hospitals and clinics",
+      heading: "Website development team in Jagraon for hospitals and clinics",
       paragraphs: [
         "Jagraon's hospitals, nursing homes, dental and eye clinics, and diagnostic labs serve patients from dozens of surrounding villages. Families often travel with an elder or a child and cannot afford a wasted journey, so information quality matters more than design flourishes.",
-        "As a <strong>website development company in Jagraon</strong> for health businesses, we build pages that list doctors, specialities, OPD days and timings, test preparation instructions and emergency contact numbers, in Punjabi and English. A WhatsApp appointment request collects the patient's name, village and preferred slot, and the front desk confirms with a tap.",
+        "As a <strong>website development team in Jagraon</strong> for health businesses, we build pages that list doctors, specialities, OPD days and timings, test preparation instructions and emergency contact numbers, in Punjabi and English. A WhatsApp appointment request collects the patient's name, village and preferred slot, and the front desk confirms with a tap.",
         "We keep claims factual. We will not write “best hospital” or promise outcomes. We describe services plainly and ask your doctors to review medical text before it goes live. For multi-doctor hospitals we add an admin panel so staff can change schedules without calling us.",
       ],
     },
@@ -125,11 +125,11 @@ const jagraon: CityContent = {
     },
     {
       id: "religious-visitors",
-      heading: "IT company in Jagraon for gurdwara visitors, fairs and local shops",
+      heading: "IT services team in Jagraon for gurdwara visitors, fairs and local shops",
       paragraphs: [
         "Jagraon draws visitors for faith as well as trade. Gurdwara Nanaksar, associated with Sant Nand Singh, attracts large congregations, Gurdwara Guru Sar stands at nearby Kaunke, and the Roshni Mela at the mazar of Peer Baba Mohkumdeen is one of the best-known fairs in the region.",
         "During these periods, visitors search for places to eat, park, shop and stay. Local shops, dhabas, sweet sellers and transport operators benefit from correct map listings, festival-hour updates and simple pages that explain how to reach them from the bus stand or the Ludhiana–Ferozepur road.",
-        "An <strong>IT company in Jagraon</strong> can help here without much cost. A static page with directions, timings and a WhatsApp number, plus a well-kept Google listing, is often all a small shop needs. We avoid presenting religious institutions as businesses and write respectfully about them.",
+        "An <strong>IT services team in Jagraon</strong> can help here without much cost. A static page with directions, timings and a WhatsApp number, plus a well-kept Google listing, is often all a small shop needs. We avoid presenting religious institutions as businesses and write respectfully about them.",
       ],
     },
     {
@@ -143,9 +143,9 @@ const jagraon: CityContent = {
     },
     {
       id: "android-ios-apps-jagraon",
-      heading: "App development company in Jagraon: Android and iOS apps that people keep using",
+      heading: "App development team in Jagraon: Android and iOS apps that people keep using",
       paragraphs: [
-        "Almost everyone in the Jagraon belt carries an Android phone, and many families with relatives abroad also use iPhones. As an <strong>app development company in Jagraon</strong>'s businesses can work with remotely, we build apps in Flutter or React Native so one codebase serves both platforms.",
+        "Almost everyone in the Jagraon belt carries an Android phone, and many families with relatives abroad also use iPhones. As an <strong>app development team in Jagraon</strong>'s businesses can work with remotely, we build apps in Flutter or React Native so one codebase serves both platforms.",
         "Apps make sense when customers return often. An arhtiya whose farmers check their accounts, a dealer whose customers book services, a school sending daily notices, or a dairy or feed supplier taking weekly orders from village shops. A first version normally includes phone-number login, push notifications, a few core screens and an admin panel.",
         "<strong>Android app development in Jagraon</strong> with us starts at ₹40,000, with the iOS version built from the same code. We publish on Google Play and the Apple App Store under developer accounts registered to you. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your location, timings and phone number, a website and a Google listing are enough. We will tell you if an app would sit unused, because a cheaper website that works is better than an app nobody opens.",
@@ -224,7 +224,7 @@ const jagraon: CityContent = {
         "A static business website usually takes one to two weeks after we receive content and photographs. SEO websites take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. We share a content checklist on the first day, because waiting for text and photos is the most common delay.",
     },
     {
-      question: "Which is the best IT company in Jagraon?",
+      question: "Which is the best IT services team in Jagraon?",
       answer:
         "Look for someone who explains the work clearly, puts the domain and code in your name, shows real samples and supports you after launch. Ask every IT company in Jagraon for an itemised quote. We are a remote three-engineer team, and we prefer telling you what not to build over selling extras.",
     },

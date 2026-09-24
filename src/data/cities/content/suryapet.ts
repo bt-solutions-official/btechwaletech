@@ -9,7 +9,7 @@ const suryapet: CityContent = {
     description:
       "Websites from ₹10,000 for Suryapet rice millers, cotton traders, hospitals, colleges and NH65 businesses, with Telugu pages, Google Maps work and WhatsApp tools.",
     keywords: [
-      "website development company in Suryapet",
+      "website development team in Suryapet",
       "web designer Suryapet",
       "website design Suryapet Telangana",
       "rice mill website Suryapet",

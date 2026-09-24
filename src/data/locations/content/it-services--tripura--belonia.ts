@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance developers for Belonia and South Tripura: custom software, border trade and logistics tools, apps, AI automation and SEO. Sites from ₹10,000.",
     keywords: [
-      "software development company in Belonia",
-      "IT company in Belonia",
+      "software development team in Belonia",
+      "IT services team in Belonia",
       "IT solutions Belonia",
       "freelance software developer Belonia",
       "custom software South Tripura",
@@ -93,11 +93,11 @@ const content: CityContent = {
     },
     {
       id: "belonia-freelance-vs-company",
-      heading: "Freelance group or software development company in Belonia?",
+      heading: "Freelance group or software development team in Belonia?",
       paragraphs: [
-        "A freelance group is usually the better value for Belonia projects because most involve one focused system or website and a limited budget. A software development company suits projects needing many developers, formal tenders or permanent on-site staff. Very few such companies operate in Belonia, so remote providers are the norm either way.",
-        "When people search for a software development company in Belonia, most results point to Agartala or national directories. The practical question is not the label but the working arrangement: who writes the code, whose name the accounts are in, how quickly they reply and what happens after launch.",
-        "BtechWaleTech is a freelance group, not a company, and we are upfront about it. You deal directly with the three engineers, see published starting prices and own all code and accounts. We will also tell you when a project is too large for us, or when a local hardware shop is the right call.",
+        "A freelance group is usually the better value for Belonia projects because most involve one focused system or website and a limited budget. A software development team suits projects needing many developers, formal tenders or permanent on-site staff. Very few such companies operate in Belonia, so remote providers are the norm either way.",
+        "When people search for a software development team in Belonia, most results point to Agartala or national directories. The practical question is not the label but the working arrangement: who writes the code, whose name the accounts are in, how quickly they reply and what happens after launch.",
+        "BtechWaleTech is a small freelance group of three developers, and we are upfront about it. You deal directly with the three engineers, see published starting prices and own all code and accounts. We will also tell you when a project is too large for us, or when a local hardware shop is the right call.",
       ],
     },
     {

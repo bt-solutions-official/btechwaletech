@@ -9,12 +9,12 @@ const gwalior: CityContent = {
     description:
       "Websites, SEO and automation for Gwalior traders, schools, hospitals, hotels and Malanpur suppliers. Sites from ₹10,000, itemised quotes, code stays yours.",
     keywords: [
-      "website development company in Gwalior",
+      "website development team in Gwalior",
       "website designer Gwalior",
-      "web design company Gwalior",
+      "web design team Gwalior",
       "freelance web developer Gwalior",
       "website cost in Gwalior",
-      "SEO company Gwalior",
+      "SEO team Gwalior",
       "local SEO City Centre Gwalior",
       "school website design Gwalior",
       "hotel website Gwalior fort",

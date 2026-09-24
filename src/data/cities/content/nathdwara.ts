@@ -10,12 +10,12 @@ const nathdwara: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Nathdwara hotels, Pichwai artists, prasad shops, meenakari jewellers and marble units.",
     keywords: [
       "IT services in Nathdwara",
-      "IT company in Nathdwara",
-      "website development company in Nathdwara",
+      "IT services team in Nathdwara",
+      "website development team in Nathdwara",
       "web design in Nathdwara",
-      "app development company in Nathdwara",
+      "app development team in Nathdwara",
       "Android app development in Nathdwara",
-      "software company in Nathdwara",
+      "software team in Nathdwara",
       "SEO services in Nathdwara",
       "digital marketing in Nathdwara",
       "ecommerce website in Nathdwara",
@@ -74,10 +74,10 @@ const nathdwara: CityContent = {
     },
     {
       id: "hotels-guest-houses",
-      heading: "Website development company in Nathdwara for hotels, guest houses and dharamshalas",
+      heading: "Website development team in Nathdwara for hotels, guest houses and dharamshalas",
       paragraphs: [
         "Rooms are Nathdwara's biggest service trade. Hotels near the temple, guest houses in the lanes, community-run dharamshalas and newer properties towards Ganesh Tekri all compete for the same pilgrim. That pilgrim books weeks ahead of Annakut, Janmashtami and Holi, and sometimes at midnight for the next morning's first darshan.",
-        "As a <strong>website development company in Nathdwara</strong> for this trade, we begin with what guests actually ask on the phone. How long is the walk to the haveli? Is there a lift? Does the kitchen serve satvik or Jain food? Can a tempo traveller park outside? Is early check-in possible before the morning darshan, and what is the rule on children and extra beds? A site that answers these on one screen cuts down the calls your manager takes during festival weeks.",
+        "As a <strong>website development team in Nathdwara</strong> for this trade, we begin with what guests actually ask on the phone. How long is the walk to the haveli? Is there a lift? Does the kitchen serve satvik or Jain food? Can a tempo traveller park outside? Is early check-in possible before the morning darshan, and what is the rule on children and extra beds? A site that answers these on one screen cuts down the calls your manager takes during festival weeks.",
         "Booking can be as light or as detailed as you want. Many dharamshalas prefer an enquiry form that sends the family's dates and head count to WhatsApp, with a manager confirming by hand. Larger hotels often want a date-wise availability calendar, an advance paid by UPI or card and an automatic confirmation message, which takes the job into custom software from ₹60,000. For most guest houses, a clear site from ₹10,000 with honest photographs of every room type is the right first step.",
       ],
     },
@@ -102,10 +102,10 @@ const nathdwara: CityContent = {
     },
     {
       id: "meenakari-silver",
-      heading: "Software company in Nathdwara for meenakari jewellers and silversmiths",
+      heading: "Software team in Nathdwara for meenakari jewellers and silversmiths",
       paragraphs: [
         "Nathdwara is one of Rajasthan's centres for silver meenakari, the enamel work that fills engraved silver with coloured glaze. Workshops make boxes, bangles, pendants, idol ornaments and puja items, and they sell to walk-in pilgrims, to wholesalers in Udaipur and Jaipur, and more and more to online resellers.",
-        "The hard part is rarely the design. It is the record keeping. Silver goes out to karigars by weight and comes back as finished pieces minus an agreed wastage; wholesale orders carry different making charges from retail ones; trays of finished stock sit uncounted since the last Diwali. As a <strong>software company in Nathdwara</strong> for such workshops, we build small web tools that record silver issued and received per karigar, work in progress per order, making charges per design and finished stock with a photograph and code for every piece.",
+        "The hard part is rarely the design. It is the record keeping. Silver goes out to karigars by weight and comes back as finished pieces minus an agreed wastage; wholesale orders carry different making charges from retail ones; trays of finished stock sit uncounted since the last Diwali. As a <strong>software team in Nathdwara</strong> for such workshops, we build small web tools that record silver issued and received per karigar, work in progress per order, making charges per design and finished stock with a photograph and code for every piece.",
         "A tool like this starts at ₹60,000 and is built in stages over six to twelve weeks, beginning with the karigar ledger because that is where money leaks quietly. The same product photographs then feed a catalogue website or an online store, so the work is done once and reused. Where silver rates move daily, the site can calculate prices from weight and the rate you enter each morning, instead of someone editing fifty prices by hand.",
       ],
     },
@@ -132,7 +132,7 @@ const nathdwara: CityContent = {
       heading: "Android app development in Nathdwara: when an Android and iOS app earns its cost",
       paragraphs: [
         "A Nathdwara business needs an app only when the same people return again and again. Three cases fit well here: a hotel group whose pilgrim families book every season, a prasad or shringar seller whose devotees reorder every month from other cities, and a marble trader whose dealers and site staff check stock and place orders on the move.",
-        "As an <strong>app development company in Nathdwara</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release usually has mobile OTP login, push notifications for festival offers or order status, the core booking or ordering screens, and an admin panel your staff use from a laptop at the counter. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Nathdwara</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release usually has mobile OTP login, push notifications for festival offers or order status, the core booking or ordering screens, and an admin panel your staff use from a laptop at the counter. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Nathdwara</strong> starts at ₹40,000. The quote rises line by line for payments, offline use, extra languages, maps and links to billing software, and you can strike out any line you do not need. The full picture is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If a guest only needs your address, room photos and a WhatsApp button once a year, a website handles that without anyone installing anything, at a fraction of the price. In that case we will recommend the website and save you the app budget.",
       ],
@@ -173,10 +173,10 @@ const nathdwara: CityContent = {
     },
     {
       id: "colleges-clinics-nathdwara",
-      heading: "IT company in Nathdwara for colleges, schools and clinics",
+      heading: "IT services team in Nathdwara for colleges, schools and clinics",
       paragraphs: [
         "Nathdwara is not only a temple economy. Shrinathji Institute of Technology and Engineering has run on its campus at Upali Oden since 2003, and the town has schools, coaching centres and clinics that serve families from villages across Rajsamand district as well as visitors who fall ill in the middle of a trip.",
-        "For a college or school, an <strong>IT company in Nathdwara</strong> should build something parents and students can use without phoning the office: courses and intake, fees or fee ranges, hostel and bus details, admission dates, results and notices, and a form that routes enquiries to the admission cell. For a clinic, the parts that matter are doctors, OPD timings, emergency numbers and a map pin that works for a pilgrim who has never been to the town before.",
+        "For a college or school, an <strong>IT services team in Nathdwara</strong> should build something parents and students can use without phoning the office: courses and intake, fees or fee ranges, hostel and bus details, admission dates, results and notices, and a form that routes enquiries to the admission cell. For a clinic, the parts that matter are doctors, OPD timings, emergency numbers and a map pin that works for a pilgrim who has never been to the town before.",
         "Institutions that send frequent notices can add a parent app or WhatsApp broadcasts in a second phase. We start with the website and the Google listing, because that is where the searches land first and where a wrong phone number does the most damage.",
       ],
     },
@@ -254,7 +254,7 @@ const nathdwara: CityContent = {
         "A guest house site in Nathdwara usually goes live in one to two weeks once we have room photos, rates and rules. A hotel wanting a date-wise availability calendar and advance payment needs custom software, which takes six to twelve weeks. Starting a month before Annakut or Janmashtami leaves time to test everything.",
     },
     {
-      question: "Which is the best website development company in Nathdwara?",
+      question: "Which is the best website development team in Nathdwara?",
       answer:
         "The right choice for a Nathdwara business is whoever publishes prices, registers the domain and code in your name, tests on ordinary phones and still answers after launch. Put the same questions to every provider. We meet those tests and reply on WhatsApp all week, but comparing two or three quotes is sensible.",
     },

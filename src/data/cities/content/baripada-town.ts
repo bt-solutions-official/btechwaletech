@@ -9,7 +9,7 @@ const baripada: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Baripada's sabai craft makers, Similipal tour operators, clinics, colleges and shops. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Baripada",
+      "website development team in Baripada",
       "web design Baripada",
       "website designer Mayurbhanj",
       "SEO services Baripada",

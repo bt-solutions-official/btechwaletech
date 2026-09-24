@@ -10,12 +10,12 @@ const neyyattinkara: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Neyyattinkara handloom sellers, Poovar resorts, clinics, colleges and shops.",
     keywords: [
       "IT services in Neyyattinkara",
-      "IT company in Neyyattinkara",
-      "website development company in Neyyattinkara",
+      "IT services team in Neyyattinkara",
+      "website development team in Neyyattinkara",
       "web design in Neyyattinkara",
-      "app development company in Neyyattinkara",
+      "app development team in Neyyattinkara",
       "Android app development in Neyyattinkara",
-      "software company in Neyyattinkara",
+      "software team in Neyyattinkara",
       "SEO services in Neyyattinkara",
       "digital marketing in Neyyattinkara",
       "ecommerce website in Neyyattinkara",
@@ -28,7 +28,7 @@ const neyyattinkara: CityContent = {
       "Neyyattinkara me website banwana",
       "Neyyattinkarayil website cheyyan",
       "നെയ്യാറ്റിൻകര വെബ്സൈറ്റ്",
-      "Aralummoodu software company",
+      "Aralummoodu software team",
     ],
   },
   hero: {
@@ -85,10 +85,10 @@ const neyyattinkara: CityContent = {
     },
     {
       id: "website-development-company-in-neyyattinkara",
-      heading: "Website development company in Neyyattinkara: what the first build covers",
+      heading: "Website development team in Neyyattinkara: what the first build covers",
       paragraphs: [
         "A small business site in Neyyattinkara has one job above all: to answer the questions people already ring about. Which road is the shop on, and is it near the Krishna Swamy temple or the bus stand? Is the stock in? What does the service cost roughly? Is there parking? When those answers are on a clean page, calls turn into visits.",
-        "As a <strong>website development company in Neyyattinkara</strong> that clients reach online, we open with a short call to fix the page list. Usually that means a home page, a page for each product or service line, a contact page with a precise map pin and a gallery of genuine photographs. Static sites of up to 100 pages are ₹10,000 onwards and generally go live within one to two weeks.",
+        "As a <strong>website development team in Neyyattinkara</strong> that clients reach online, we open with a short call to fix the page list. Usually that means a home page, a page for each product or service line, a contact page with a precise map pin and a gallery of genuine photographs. Static sites of up to 100 pages are ₹10,000 onwards and generally go live within one to two weeks.",
         "For <strong>web design in Neyyattinkara</strong>, we avoid heavy templates. Your own pictures, product names and a few sentences about your history do the persuading. Malayalam is typed as real text, not baked into images, so it reads well on older phones and is visible to Google. Where customers come from the Tamil Nadu side, a short Tamil page helps too.",
         "Light pages and always-visible call and WhatsApp buttons matter here, because many visitors open the site on mobile data while travelling. Our approach is described on the <a href=\"/services/web-development/\">web development</a> page. Tell us the three questions you hear most, and the first draft will answer them.",
       ],
@@ -118,17 +118,17 @@ const neyyattinkara: CityContent = {
       heading: "Android and iOS app development in Neyyattinkara, and when to skip it",
       paragraphs: [
         "An app pays off in Neyyattinkara when people use it more than once a month. A supermarket or fish and meat delivery service with loyal households fits. So does a college with hundreds of students who need timetables and fee reminders, a resort that wants guests to order food or book boat rides from their room, or a distributor whose staff visit shops across the taluk.",
-        "As an <strong>app development company in Neyyattinkara</strong> businesses can reach on WhatsApp, we build in Flutter or React Native, which gives you Android and iOS apps from one codebase. A normal build has phone-number login, push notifications, an admin panel for staff and simple reports. We publish on Google Play and the App Store using developer accounts opened in your name.",
+        "As an <strong>app development team in Neyyattinkara</strong> businesses can reach on WhatsApp, we build in Flutter or React Native, which gives you Android and iOS apps from one codebase. A normal build has phone-number login, push notifications, an admin panel for staff and simple reports. We publish on Google Play and the App Store using developer accounts opened in your name.",
         "<strong>Android app development in Neyyattinkara</strong> is usually where demand is, since most local customers carry Android phones. But many families have relatives abroad on iPhones, and resort guests often use iOS, so shipping both together is usually worth it. Apps start at ₹40,000; screens, in-app payment, delivery slots and links to billing software shape the final figure.",
         "If your customers only need to find you and check a price list, skip the app. A fast website and a correct Maps listing will do more, for less, with nothing to install. We will tell you plainly. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> page for examples of what we include.",
       ],
     },
     {
       id: "kal-aralummoodu-dealers-workshops",
-      heading: "Software company in Neyyattinkara for dealers, workshops and small manufacturers",
+      heading: "Software team in Neyyattinkara for dealers, workshops and small manufacturers",
       paragraphs: [
         "Aralummoodu, on the edge of the town, is home to Kerala Automobiles Limited, the public-sector unit that builds three-wheelers and now electric autorickshaws. Around any such unit, and along the highway through Neyyattinkara, you find spare-parts dealers, service workshops, fabricators, tyre shops and small engineering suppliers. Most of them run on job cards, notebooks and a spreadsheet that only one person understands.",
-        "As a <strong>software company in Neyyattinkara</strong> working remotely, we build web-based tools that pull these records together. A workshop can open a job card on a phone, add parts and labour, send the customer a WhatsApp message when the vehicle is ready and see pending payments at a glance. A dealer can track stock by part number, reorder levels and sales by customer.",
+        "As a <strong>software team in Neyyattinkara</strong> working remotely, we build web-based tools that pull these records together. A workshop can open a job card on a phone, add parts and labour, send the customer a WhatsApp message when the vehicle is ready and see pending payments at a glance. A dealer can track stock by part number, reorder levels and sales by customer.",
         "We do not claim any link with KAL or its suppliers, and we will not put such claims on your site either. If you do supply a larger manufacturer, we describe the work in general terms unless you have permission to name them.",
         "Custom software starts at ₹60,000 and generally takes six to twelve weeks. We agree screens, roles and reports in a written list first, then build in stages so your staff can test each part with real entries before the next one begins. Billing starts only after that list is approved.",
       ],
@@ -175,11 +175,11 @@ const neyyattinkara: CityContent = {
     },
     {
       id: "remote-it-company-neyyattinkara",
-      heading: "An IT company in Neyyattinkara that works remotely, and how that plays out",
+      heading: "An IT services team in Neyyattinkara that works remotely, and how that plays out",
       paragraphs: [
         "Plenty of owners would rather meet a vendor in person, and some will choose a firm in Thiruvananthapuram for that reason. We are upfront that we have no office in Neyyattinkara or in the capital. We are three people working remotely, and we have tuned our process so that distance costs you nothing in clarity.",
         "Projects start on WhatsApp. Send us photographs, voice notes, a price list or links to websites you like, and we come back with questions and a short plan. Calls and screen shares happen at hours that suit you, including after closing time. Replies come seven days a week on IST, and every stage ends with something you can check on your phone.",
-        "What matters when you pick an <strong>IT company in Neyyattinkara</strong> is simple: quick replies, plain explanations and promises in writing. We keep a shared record of decisions, changes and dates, which anyone you add, including relatives abroad, can read.",
+        "What matters when you pick an <strong>IT services team in Neyyattinkara</strong> is simple: quick replies, plain explanations and promises in writing. We keep a shared record of decisions, changes and dates, which anyone you add, including relatives abroad, can read.",
         "Without office rent or a sales team, more of your spend goes into the actual build. To begin, send a message via our <a href=\"/contact/\">contact page</a> with your business name and the outcome you want.",
       ],
     },
@@ -230,7 +230,7 @@ const neyyattinkara: CityContent = {
         "Once your photographs and details are with us, a small site is typically ready in one to two weeks. Larger SEO sites need three to five weeks, stores four to eight and custom software six to twelve. Late content is the usual cause of delay, so we send a clear list of what we need at the start.",
     },
     {
-      question: "Which is the best website development company in Neyyattinkara?",
+      question: "Which is the best website development team in Neyyattinkara?",
       answer:
         "Judge any provider by four things: the domain and hosting are registered to you, the source code is handed over, the quote is itemised, and replies continue after launch. We meet all four as a remote team with no Neyyattinkara office. Ask everyone you compare, us included, to show live work and put ownership terms in writing.",
     },

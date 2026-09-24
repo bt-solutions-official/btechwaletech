@@ -10,12 +10,12 @@ const mertaCity: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Merta City mandi traders, spice grinders, pilgrim guest houses, clinics and shops.",
     keywords: [
       "IT services in Merta City",
-      "IT company in Merta City",
-      "website development company in Merta City",
+      "IT services team in Merta City",
+      "website development team in Merta City",
       "web design in Merta City",
-      "app development company in Merta City",
+      "app development team in Merta City",
       "Android app development in Merta City",
-      "software company in Merta City",
+      "software team in Merta City",
       "SEO services in Merta City",
       "digital marketing in Merta City",
       "ecommerce website in Merta City",
@@ -65,19 +65,19 @@ const mertaCity: CityContent = {
   sections: [
     {
       id: "it-company-merta-city",
-      heading: "IT company in Merta City: what Meera's town actually needs from one",
+      heading: "IT services team in Merta City: what Meera's town actually needs from one",
       paragraphs: [
-        "Ask a shopkeeper near the Charbhuja temple what he wants from the internet and the answer is rarely “a website”. It is more likely to be: fewer calls asking the same rate, pilgrims who can find his guest house before they reach the town, or a buyer in Gujarat who can see his cumin samples without a trip. Those are the problems we try to solve when someone looks for an <strong>IT company in Merta City</strong>.",
+        "Ask a shopkeeper near the Charbhuja temple what he wants from the internet and the answer is rarely “a website”. It is more likely to be: fewer calls asking the same rate, pilgrims who can find his guest house before they reach the town, or a buyer in Gujarat who can see his cumin samples without a trip. Those are the problems we try to solve when someone looks for an <strong>IT services team in Merta City</strong>.",
         "We are three engineers working remotely. Ankur Kumar builds websites and web applications end to end. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava plans projects and handles data science and automation. There is no BtechWaleTech office in Merta City, in Nagaur or anywhere in Rajasthan, and we would rather tell you that on the first call than have you discover it later.",
         "What replaces the office is a written trail. You get a scope in writing, a costed list, dates, preview links on your phone and a WhatsApp line that is answered seven days a week on Indian time. Our <strong>IT services in Merta City</strong> cover websites, local SEO, online stores, Android and iOS apps, custom software, AI and WhatsApp automation, dashboards and upkeep, and every one of them is priced from a published starting figure.",
       ],
     },
     {
       id: "mandi-trader-software",
-      heading: "Software company in Merta City for jeera, mustard and isabgol traders",
+      heading: "Software team in Merta City for jeera, mustard and isabgol traders",
       paragraphs: [
         "The Merta mandi trades raida mustard, cumin, gram, isabgol and fenugreek, and in the rabi harvest months the yard fills with tractor-trolleys from villages across the tehsil. Behind each sale is a chain of paper: gate entry, lot number, bid, weighment, deductions, the farmer's payment, the buyer's bill and the dispatch. Commission agents who handle hundreds of lots a day still keep much of it in bound registers.",
-        "As a <strong>software company in Merta City</strong> we build small web tools that match how a firm already works rather than forcing a new method. A lot register takes entries from a phone at the yard. A payment ledger shows what each farmer is owed and what has been paid, with receipts that can be sent on WhatsApp. A buyer ledger tracks outstanding bills by party and age. A rate screen shows the day's sale prices by commodity and quality for your own staff.",
+        "As a <strong>software team in Merta City</strong> we build small web tools that match how a firm already works rather than forcing a new method. A lot register takes entries from a phone at the yard. A payment ledger shows what each farmer is owed and what has been paid, with receipts that can be sent on WhatsApp. A buyer ledger tracks outstanding bills by party and age. A rate screen shows the day's sale prices by commodity and quality for your own staff.",
         "Software of this kind starts at ₹60,000 and is delivered in stages over six to twelve weeks, ideally before the busy season rather than during it. We begin with one register, run it next to your books for a few weeks, and add the next only when the first is trusted. If your munim uses Tally, entries can be exported in a form that saves retyping.",
         "We do not connect to any government trading platform on your behalf unless you ask and the platform allows it; the tool is for your own records.",
       ],
@@ -104,10 +104,10 @@ const mertaCity: CityContent = {
     },
     {
       id: "gotan-suppliers-website",
-      heading: "Website development company in Merta City for suppliers to Gotan's cement belt",
+      heading: "Website development team in Merta City for suppliers to Gotan's cement belt",
       paragraphs: [
         "Gotan, a village in Merta tehsil, has limestone reserves and a large white cement works, and the quarries and plant there support a wider circle of transporters, earthmoving contractors, workshops, electrical firms, canteens and labour contractors. Some of these firms are based in Merta City itself.",
-        "Purchase and contracts teams at large plants check vendors online before calling them. A <strong>website development company in Merta City</strong> should keep such a site plain and factual: fleet or machine list, services offered, sectors served, safety practices, registrations and GST number, and a named person to contact. It must look proper on a desktop screen in a purchase office, not only on a phone.",
+        "Purchase and contracts teams at large plants check vendors online before calling them. A <strong>website development team in Merta City</strong> should keep such a site plain and factual: fleet or machine list, services offered, sectors served, safety practices, registrations and GST number, and a named person to contact. It must look proper on a desktop screen in a purchase office, not only on a phone.",
         "We do not put any plant's or company's name on your site as a client without written permission from that client. Where you need it, we add a quotation request form with file upload for drawings, or a simple job-status page for regular customers.",
         "These sites are usually static builds from ₹10,000. A transporter with many vehicles may later want a trip and document register, which moves into custom software from ₹60,000.",
       ],
@@ -124,7 +124,7 @@ const mertaCity: CityContent = {
     },
     {
       id: "android-ios-apps-merta",
-      heading: "App development company in Merta City: Android and iOS apps worth building",
+      heading: "App development team in Merta City: Android and iOS apps worth building",
       paragraphs: [
         "An app makes sense in Merta City only where a known group returns to it often. A commission agent's regular buyers checking lots and rates, a spice brand's shop customers re-ordering every fortnight, a coaching centre sending test results and notices to students, or a transporter's drivers logging trips are good examples. A one-time pilgrim will not install anything, and a website serves him better.",
         "When an app is the right answer, we build it in Flutter or React Native so a single codebase runs on Android and on iPhone. A first version usually includes mobile number login, push notifications, Hindi and English screens, the handful of features your users need and a web admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
@@ -239,7 +239,7 @@ const mertaCity: CityContent = {
         "A simple static site is normally ready in one to two weeks once we have your text and photographs. Larger work takes longer: three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Sending content early is the easiest way to finish on time.",
     },
     {
-      question: "Who is the best website development company in Merta City?",
+      question: "Who is the best website development team in Merta City?",
       answer:
         "Judge any provider on four things: published prices, domain and code registered in your name, testing on ordinary phones, and support after launch. Put the same questions to everyone and compare the answers in writing. We meet those tests, but it is sensible to speak to two or three options first.",
     },

@@ -10,12 +10,12 @@ const supaul: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Supaul traders, makhana sellers, coaching centres, clinics and Kosi-belt shops.",
     keywords: [
       "IT services in Supaul",
-      "IT company in Supaul",
-      "website development company in Supaul",
+      "IT services team in Supaul",
+      "website development team in Supaul",
       "web design in Supaul",
-      "app development company in Supaul",
+      "app development team in Supaul",
       "Android app development in Supaul",
-      "software company in Supaul",
+      "software team in Supaul",
       "SEO services in Supaul",
       "digital marketing in Supaul",
       "ecommerce website in Supaul",
@@ -85,10 +85,10 @@ const supaul: CityContent = {
     },
     {
       id: "grain-input-dealers",
-      heading: "Software company in Supaul for grain traders and farm input dealers",
+      heading: "Software team in Supaul for grain traders and farm input dealers",
       paragraphs: [
         "Paddy, wheat and maize move from Supaul's villages through local traders, and the same villages buy seed, fertiliser, pesticide and farm equipment from dealers in the town and in block markets like Simrahi. Much of this trade runs on credit that is repaid after harvest, and the records live in notebooks.",
-        "As a practical <strong>software company in Supaul</strong>, we build web tools for this: purchases and sales entered once on a phone, running balances per customer, credit due dates, stock by item and batch, and reminders sent on WhatsApp before the harvest season. Owners and their sons can see the same figures from anywhere.",
+        "As a practical <strong>software team in Supaul</strong>, we build web tools for this: purchases and sales entered once on a phone, running balances per customer, credit due dates, stock by item and batch, and reminders sent on WhatsApp before the harvest season. Owners and their sons can see the same figures from anywhere.",
         "Budget ₹60,000 onwards for a tool like this, delivered piece by piece across six to twelve weeks, with the customer ledger first because that is where most money gets stuck. Screens stay simple and in Hindi, because they will be used at a busy counter on an ordinary Android phone.",
         "If you already use Tally for GST, we connect to it rather than replace it, so your accountant's work does not change.",
       ],
@@ -108,7 +108,7 @@ const supaul: CityContent = {
       heading: "Android app development in Supaul, and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when a fixed group of people will use it regularly. In Supaul, the strongest cases are coaching students checking tests, notes, attendance and fee dues; parents receiving school notices; village retailers re-ordering stock from a town wholesaler; and patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Supaul</strong> working remotely, we write the app once in Flutter or React Native and ship it to both Android and iPhone. Version one normally has OTP login with a mobile number, push alerts for new tests or notices, the handful of screens students or dealers really use, and a web panel where your office staff manage content. It goes live on Google Play and Apple's App Store through developer accounts opened in your name.",
+        "As an <strong>app development team in Supaul</strong> working remotely, we write the app once in Flutter or React Native and ship it to both Android and iPhone. Version one normally has OTP login with a mobile number, push alerts for new tests or notices, the handful of screens students or dealers really use, and a web panel where your office staff manage content. It goes live on Google Play and Apple's App Store through developer accounts opened in your name.",
         "<strong>Android app development in Supaul</strong> begins at ₹40,000 with us. Collecting fees inside the app, hosting recorded lectures, working offline where the network drops in rural blocks, and linking to other software each add a priced line to the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If students or customers only need timings, fees and a phone number, a website and a WhatsApp group do the job for less. We will say so, because an app nobody opens is money lost.",
       ],
@@ -135,20 +135,20 @@ const supaul: CityContent = {
     },
     {
       id: "retail-bazaar",
-      heading: "IT company in Supaul for bazaar shops and wedding-season trade",
+      heading: "IT services team in Supaul for bazaar shops and wedding-season trade",
       paragraphs: [
         "Supaul Bazar sells clothing, sarees, gold and silver, electronics, mobiles, furniture, utensils and household goods to families from the whole district, with sharp peaks around weddings, Chhath, Durga Puja and Eid. Many shoppers now check a shop on their phone before making the trip from their village.",
-        "An <strong>IT company in Supaul</strong> can help a shop turn that phone check into a visit. A simple site with categories, brands, timings, real photographs of the counter and stock, and a WhatsApp button for price checks does more than any banner. For jewellers and furniture shops, a catalogue with photographs lets families shortlist before they come.",
+        "An <strong>IT services team in Supaul</strong> can help a shop turn that phone check into a visit. A simple site with categories, brands, timings, real photographs of the counter and stock, and a WhatsApp button for price checks does more than any banner. For jewellers and furniture shops, a catalogue with photographs lets families shortlist before they come.",
         "We build these in Hindi first, connect them to Google Maps and WhatsApp, and add simple tracking so you know which pages bring calls.",
         "Shops that deliver in town can add a WhatsApp order form. A full online store is rarely needed for a bazaar shop at first, and we will say so.",
       ],
     },
     {
       id: "kosi-barrage-birpur",
-      heading: "Website development company in Supaul for Birpur, Bhimnagar and border trade",
+      heading: "Website development team in Supaul for Birpur, Bhimnagar and border trade",
       paragraphs: [
         "North of Supaul, the Kosi Barrage at Bhimnagar sits on the India–Nepal border and draws visitors for its size and the river views, especially in the evening. Birpur, one of the district's four subdivisions, is close by, and the area has lodges, eateries, transporters and traders who deal with customers from both sides of the border.",
-        "A <strong>website development company in Supaul</strong> can give these businesses an honest online presence: a lodge site with room photographs, prices or price ranges and a WhatsApp booking link; a transporter page with routes, vehicle types and contact numbers; a trader's catalogue with delivery areas.",
+        "A <strong>website development team in Supaul</strong> can give these businesses an honest online presence: a lodge site with room photographs, prices or price ranges and a WhatsApp booking link; a transporter page with routes, vehicle types and contact numbers; a trader's catalogue with delivery areas.",
         "The Kosi Rail Mahasetu, opened in 2020, and the East–West road corridor have made travel across the region easier, and more visitors now search for places to stay and eat along the way. A correct map listing and a page with directions and parking details are often enough to catch that traffic.",
         "We write only what is true about each business and place, and never add claims about the barrage or the border that we cannot check.",
       ],
@@ -240,7 +240,7 @@ const supaul: CityContent = {
         "Around one to two weeks for a simple shop site, counted from the day your photographs and details arrive. Bigger jobs need longer: three to five weeks for a 700+ page SEO build, four to eight for an online shop, six to twelve for custom software. Sending content promptly is the single biggest thing that speeds things up.",
     },
     {
-      question: "Who is the best website development company in Supaul?",
+      question: "Who is the best website development team in Supaul?",
       answer:
         "Rather than trust any claim of “best”, check four things: are prices public, will the domain and code be in your name, do they pick up the phone after launch, and can they show sites that are live today? Put identical questions to each option. We pass those checks, yet getting two or three quotes before deciding is still good sense.",
     },

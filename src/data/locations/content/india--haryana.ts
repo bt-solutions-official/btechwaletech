@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT consulting for Haryana: roadmaps, custom software, Android and iOS apps, AI automation, cloud and dashboards for rice mills, auto suppliers and weavers.",
     keywords: [
-      "IT solutions company in Haryana",
+      "IT solutions team in Haryana",
       "IT consulting Haryana",
       "digital transformation Haryana",
       "freelance IT consultant Haryana",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Haryana · State hub · Consulting-led IT",
     h1: "Freelance IT consulting and digital transformation for Haryana's mills, plants and market towns",
     lede:
-      "Haryana firms that search for an IT solutions company in Haryana usually get pitched the same Gurugram-priced product, whether they run a basmati mill in Karnal, a blanket unit in Panipat or a shoe factory in Bahadurgarh. BtechWaleTech is a freelance group of three engineers working remotely from India. We start with IT consulting, a plain look at how your operation runs, then build the plan: custom software, Android and iOS apps, AI automation, cloud hosting, dashboards, ecommerce and Hindi-English SEO for businesses in every district.",
+      "Haryana firms that search for an IT solutions team in Haryana usually get pitched the same Gurugram-priced product, whether they run a basmati mill in Karnal, a blanket unit in Panipat or a shoe factory in Bahadurgarh. BtechWaleTech is a freelance group of three engineers working remotely from India. We start with IT consulting, a plain look at how your operation runs, then build the plan: custom software, Android and iOS apps, AI automation, cloud hosting, dashboards, ecommerce and Hindi-English SEO for businesses in every district.",
     pills: ["Consult, then build", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Hindi screens available"],
   },
   quickAnswer:
@@ -196,7 +196,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner-haryana",
-      heading: "Freelance IT team or an IT company in Haryana: which should you pick?",
+      heading: "Freelance IT team or an IT services team in Haryana: which should you pick?",
       paragraphs: [
         "Pick a freelance IT team when you want consulting and building by the same engineers, itemised pricing and full ownership, and pick a larger IT company in Haryana when you need on-site implementation staff, hardware, networking or a staffed helpdesk. Many firms use a local hardware vendor alongside a remote software team.",
         "When comparing IT companies in Haryana, ask who writes the code, for a written scope and itemised quote, for live examples you can test on a phone, and for confirmation that code, domain and app accounts will be in your name. Ask about licence renewals after year one.",

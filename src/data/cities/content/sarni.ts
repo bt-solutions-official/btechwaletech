@@ -10,12 +10,12 @@ const sarni: CityContent = {
       "Websites, Android & iOS apps, Hindi local SEO and WhatsApp automation for Sarni and Pathakhera contractors, shops, clinics, schools and coaching classes.",
     keywords: [
       "IT services in Sarni",
-      "IT company in Sarni",
-      "website development company in Sarni",
+      "IT services team in Sarni",
+      "website development team in Sarni",
       "web design in Sarni",
-      "app development company in Sarni",
+      "app development team in Sarni",
       "Android app development in Sarni",
-      "software company in Sarni",
+      "software team in Sarni",
       "SEO services in Sarni",
       "digital marketing in Sarni",
       "ecommerce website in Sarni",
@@ -70,12 +70,12 @@ const sarni: CityContent = {
         "Sarni is unusual among Madhya Pradesh towns. It did not grow from a market or a fort but was planned in the 1960s as a project town, together with Pathakhera, Shobhapur Colony and Bagdona, to house people working at the Satpura Thermal Power Station and the Pathakhera coal mines. Today one municipal council looks after all four settlements, which together held about 86,000 people at the last census.",
         "The Satpura station is run by MP Power Generation Company. It began generating in 1967, and after two 250 MW units were added in 2014 and older small units retired, its installed capacity stands at 1,330 MW. Western Coalfields runs several mines in the Pathakhera area that deliver coal to the plant, and the Satpura Dam reservoir supplies its water.",
         "This gives Sarni a customer base unlike a typical farm town: salaried employees, contractors and suppliers, and their families. They expect decent schools, doctors, coaching and shops, and they compare options on their phones before spending.",
-        "As an IT company serving Sarni remotely, our job is to make sure local businesses show up properly when those searches happen, and to give contractors and suppliers tools that make their paperwork easier to manage.",
+        "As an IT services team serving Sarni remotely, our job is to make sure local businesses show up properly when those searches happen, and to give contractors and suppliers tools that make their paperwork easier to manage.",
       ],
     },
     {
       id: "contractors-vendors",
-      heading: "Website development company in Sarni for contractors and vendors",
+      heading: "Website development team in Sarni for contractors and vendors",
       paragraphs: [
         "A power station and a group of coal mines need a long list of outside help: civil and electrical contractors, fabrication and machining workshops, labour suppliers, vehicle and equipment hire, housekeeping and canteen services, and dealers in spares, safety gear and consumables. Many of these firms are local and have worked in Sarni for years.",
         "When they bid for work or register as vendors, the people on the other side increasingly look them up online. A missing website, a Gmail address and no GST details on record make a capable firm look smaller than it is. A plain company site fixes that: services, equipment owned, types of work done, safety practices, registrations, team and contact details.",
@@ -85,7 +85,7 @@ const sarni: CityContent = {
     },
     {
       id: "contractor-software",
-      heading: "Software company in Sarni: labour, hire and billing records",
+      heading: "Software team in Sarni: labour, hire and billing records",
       paragraphs: [
         "Contractors here usually juggle three problems at once: daily labour attendance across sites, hired vehicles and machines whose hours must be logged, and bills that have to match the work order before payment is released. Most of this is still done in registers and spreadsheets that live on one person's laptop.",
         "We build web-based tools that bring these records together. Supervisors enter attendance and vehicle hours from a phone at the site. The office sees wages due, hire charges owed, bills raised against each work order and payments still pending. Reminders flag licence, insurance and fitness renewals for owned vehicles.",
@@ -139,7 +139,7 @@ const sarni: CityContent = {
     },
     {
       id: "android-ios-apps-sarni",
-      heading: "App development company in Sarni: Android and iOS apps",
+      heading: "App development team in Sarni: Android and iOS apps",
       paragraphs: [
         "An app is worth building in Sarni when people use your service repeatedly. Good examples are a coaching institute with students checking notes, tests and attendance; a contractor whose site supervisors log labour and vehicle hours daily; a distributor whose retailers in nearby villages re-order every week; or a clinic that issues tokens every morning.",
         "We build Android and iOS apps with Flutter or React Native, so one codebase serves both. A typical app includes login by mobile number, lists of products, courses or tasks, bookings or orders, push notifications and an admin panel your staff use from any browser. Hindi screens are added where your users prefer them, and offline entry can be included for sites with weak signal.",
@@ -244,7 +244,7 @@ const sarni: CityContent = {
         "WhatsApp par apna kaam aur zaroorat Hindi me likh dijiye. Website ₹10,000 se shuru hoti hai, Android aur iOS app ₹40,000 se. Do working din me item-wise likhit quote milega. Aap haan kahenge tabhi kaam shuru hoga, aur domain, code sab aapke naam par rahega.",
     },
     {
-      question: "Which is the best website development company in Sarni?",
+      question: "Which is the best website development team in Sarni?",
       answer:
         "Look for a developer who registers the domain and code in your name, gives a written itemised quote and keeps replying after launch. Ask for past work and the yearly maintenance cost. We publish starting prices and hand over all logins, which makes comparison easy.",
     },

@@ -9,14 +9,14 @@ const vadodara: CityContent = {
     description:
       "Website development, Gujarati and English SEO, online stores and automation for Vadodara firms. From ₹10,000, itemised quotes, 5 months of free maintenance.",
     keywords: [
-      "website development company in Vadodara",
-      "web design company Baroda",
+      "website development team in Vadodara",
+      "web design team Baroda",
       "website designer in Vadodara",
       "website design cost Vadodara",
-      "SEO company Vadodara",
+      "SEO team Vadodara",
       "local SEO Alkapuri",
       "ecommerce website development Vadodara",
-      "software company in Vadodara",
+      "software team in Vadodara",
       "website for Makarpura GIDC manufacturers",
       "industrial website design Baroda",
       "WhatsApp automation Vadodara",

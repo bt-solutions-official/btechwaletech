@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance IT and software developers in Guntur: chilli trade software, hospital and college systems, apps, AI agents and SEO. From ₹10,000, itemised quote in 2 days.",
     keywords: [
-      "software development company in Guntur",
-      "IT company in Guntur",
+      "software development team in Guntur",
+      "IT services team in Guntur",
       "IT solutions Guntur",
       "freelance software developers Guntur",
       "chilli commission agent software",
@@ -195,9 +195,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-guntur",
-      heading: "Freelance developers vs a software company in Guntur: which should you hire?",
+      heading: "Freelance developers vs a software team in Guntur: which should you hire?",
       paragraphs: [
-        "A software company in Guntur suits large, multi-team projects and institutions that need formal tenders, while freelance developers like BtechWaleTech suit traders, cold storages, hospitals and colleges that want the engineers themselves on the phone and less overhead in every quote. Most Guntur businesses need a focused system built well, not a large team.",
+        "A software team in Guntur suits large, multi-team projects and institutions that need formal tenders, while freelance developers like BtechWaleTech suit traders, cold storages, hospitals and colleges that want the engineers themselves on the phone and less overhead in every quote. Most Guntur businesses need a focused system built well, not a large team.",
         "The honest limit: a group of three engineers cannot staff a very large project in parallel. If your needs exceed that, we will say so early rather than stretch.",
         "Whichever you choose, get an itemised written quote, keep domain, hosting and repository in your name, and agree on post-launch support. Review our work on the <a href='/portfolio/'>portfolio</a>, read about us on the <a href='/about/'>about page</a>, or start on the <a href='/contact/'>contact page</a>.",
       ],

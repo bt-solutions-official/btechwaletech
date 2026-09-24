@@ -9,7 +9,7 @@ const bhimavaram: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Bhimavaram aqua farms, hatcheries, feed dealers, rice mills, colleges and clinics. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Bhimavaram",
+      "website development team in Bhimavaram",
       "web designer Bhimavaram",
       "website design Bhimavaram",
       "SEO services Bhimavaram",

@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services across Himachal Pradesh: booking systems, pharma software, AI automation, apps, dashboards and SEO for Shimla to Baddi. Prices from ₹10,000.",
     keywords: [
       "IT services in Himachal Pradesh",
-      "software development company in Himachal Pradesh",
-      "IT company in Himachal Pradesh",
+      "software development team in Himachal Pradesh",
+      "IT services team in Himachal Pradesh",
       "freelance software developers Himachal Pradesh",
       "hotel booking software Himachal",
       "homestay booking website Himachal Pradesh",
@@ -194,7 +194,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-himachal",
-      heading: "Freelance team vs an IT company in Himachal Pradesh: which should you hire?",
+      heading: "Freelance team vs an IT services team in Himachal Pradesh: which should you hire?",
       paragraphs: [
         "Hire a freelance team when you want direct contact with the developers, published prices and lower overheads; hire a larger IT company in Himachal Pradesh or Chandigarh when you need on-site staff, formal enterprise contracts or a big team working at once. Both can work well if ownership, scope and support are clear.",
         "BtechWaleTech is a freelance group of three engineers. We do not have an office in Shimla, Solan or anywhere else in the state, so you will not meet us in person, but you will talk directly to the person building your system on WhatsApp or a video call. That tends to suit owners who are busy with guests or production and want quick, clear answers.",
@@ -310,9 +310,9 @@ const content: CityContent = {
         "Yes. Because we work remotely, any district gets the same price and support. For areas with limited connectivity, we design lighter pages and offline-capable tools, and we schedule calls around when you have a reliable signal. Several steps, such as content review, can happen over WhatsApp voice notes and photos.",
     },
     {
-      question: "Should we hire an IT company in Chandigarh or a freelance team?",
+      question: "Should we hire an IT services team in Chandigarh or a freelance team?",
       answer:
-        "It depends on scope. A Chandigarh IT company may suit you if you need on-site visits or a large team. A freelance group like ours suits businesses that want published prices, direct developer contact and quick replies without agency overheads. Either way, insist on a written scope and on owning your domain, hosting and code.",
+        "It depends on scope. A Chandigarh IT services team may suit you if you need on-site visits or a large team. A freelance group like ours suits businesses that want published prices, direct developer contact and quick replies without agency overheads. Either way, insist on a written scope and on owning your domain, hosting and code.",
     },
   ],
   nearby: ["shimla", "chandigarh", "panchkula", "mohali", "zirakpur", "pathankot", "hoshiarpur", "dehradun", "yamunanagar"],

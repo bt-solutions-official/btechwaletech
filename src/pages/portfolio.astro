@@ -12,7 +12,6 @@ const team = [
   {
     name: "Ankur Kumar",
     qualification: "B.Tech, Computer Science and Engineering",
-    batch: "2025 batch",
     initials: "AK",
     focus: "Full stack developer",
     linkedin: "https://www.linkedin.com/in/ankur-kumar-74061b234/",
@@ -22,7 +21,6 @@ const team = [
   {
     name: "Santosh Sharma",
     qualification: "B.Tech, Computer Science and Engineering",
-    batch: "2025 batch",
     initials: "SS",
     focus: "AI/ML engineer, AWS and data science",
     linkedin: "https://www.linkedin.com/in/santosh-sharma-ai/",
@@ -32,7 +30,6 @@ const team = [
   {
     name: "Vedansh Shrivastava",
     qualification: "B.Tech, Computer Science and Engineering",
-    batch: "2025 batch",
     initials: "VS",
     focus: "Project manager, data science, AI and automation",
     linkedin: "https://www.linkedin.com/in/vedanshs22/",
@@ -90,7 +87,7 @@ const faqs = [
   {
     question: "Who is behind BtechWaleTech?",
     answer:
-      "Three Computer Science engineers: Ankur Kumar, Santosh Sharma and Vedansh Shrivastava, all B.Tech CSE 2025 batch. It is a small freelance group rather than an agency, so you talk directly to the people building your project.",
+      "Three Computer Science engineers: Ankur Kumar, Santosh Sharma and Vedansh Shrivastava, all B.Tech CSE graduates. It is a small freelance group, so you talk directly to the people building your project.",
   },
   {
     question: "Can I see examples of your work?",
@@ -140,7 +137,7 @@ const page = createPageSeo({
   locale: "en_US",
   alternateLocales: ["en_GB", "en_CA", "en_AU", "en_IN"],
   keywords: [
-    "web development company portfolio",
+    "web development team portfolio",
     "hire web developers",
     "hire web developers from India",
     "offshore web development team",
@@ -222,7 +219,6 @@ const teamSchema = {
               <p class="it-team-focus">{member.focus}</p>
               <p class="it-team-meta">
                 {member.qualification}
-                <span class="it-team-batch">{member.batch}</span>
               </p>
               <p>{member.body}</p>
               <a class="it-team-link" href={member.linkedin} target="_blank" rel="noopener noreferrer">
@@ -458,11 +454,6 @@ const teamSchema = {
     border-bottom: 1px solid rgba(22, 36, 46, 0.1);
     color: #5c6a70;
     font-size: 0.9rem;
-  }
-
-  .it-team-batch {
-    color: #16242e;
-    font-weight: 650;
   }
 
   .it-work-scope {

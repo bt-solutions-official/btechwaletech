@@ -10,12 +10,12 @@ const hansi: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Hansi grain traders, arhtiyas, sweet shops, schools, clinics and new district offices.",
     keywords: [
       "IT services in Hansi",
-      "IT company in Hansi",
-      "website development company in Hansi",
+      "IT services team in Hansi",
+      "website development team in Hansi",
       "web design in Hansi",
-      "app development company in Hansi",
+      "app development team in Hansi",
       "Android app development in Hansi",
-      "software company in Hansi",
+      "software team in Hansi",
       "SEO services in Hansi",
       "digital marketing in Hansi",
       "ecommerce website in Hansi",
@@ -74,10 +74,10 @@ const hansi: CityContent = {
     },
     {
       id: "arhtiya-mandi-software",
-      heading: "Software company in Hansi for arhtiyas and grain market traders",
+      heading: "Software team in Hansi for arhtiyas and grain market traders",
       paragraphs: [
         "The grain market in Sector 6 fills with wheat in April and with paddy, cotton and bajra after the kharif harvest. Commission agents, or arhtiyas, keep long relationships with farmers from villages across Hansi, Bass and Narnaund, advancing money through the year, selling their crop, and settling accounts after deductions. Most of this still sits in bahi-khata ledgers and calculators, and mistakes are costly in both money and trust.",
-        "As a <strong>software company in Hansi</strong> we build tools shaped around that routine. Each farmer has a running account showing advances, crop sold, weight, rate, mandi charges, labour and final payment. Buyer accounts show what each trader or mill owes and when. Daily arrival and dispatch registers, gate slips and a printed or WhatsApp statement for the farmer come out of the same entries, so nobody retypes figures.",
+        "As a <strong>software team in Hansi</strong> we build tools shaped around that routine. Each farmer has a running account showing advances, crop sold, weight, rate, mandi charges, labour and final payment. Buyer accounts show what each trader or mill owes and when. Daily arrival and dispatch registers, gate slips and a printed or WhatsApp statement for the farmer come out of the same entries, so nobody retypes figures.",
         "Tools like this start at ₹60,000 and are built in stages over six to twelve weeks. We start with the farmer ledger, because that is where disputes begin, and add buyer dues, reports and staff logins later. We do not claim any link to government procurement portals; your software keeps your own books straight and can export what your accountant needs. Data stays in accounts registered to you.",
       ],
     },
@@ -92,10 +92,10 @@ const hansi: CityContent = {
     },
     {
       id: "dealers-agri-inputs",
-      heading: "Website development company in Hansi for tractor, implement and agri-input dealers",
+      heading: "Website development team in Hansi for tractor, implement and agri-input dealers",
       paragraphs: [
         "Farming around Hansi relies on canal irrigation and tubewells, and the town's highway stretch is lined with tractor showrooms, implement makers, spare parts shops, seed and fertiliser dealers, pesticide sellers, tyre shops and workshops. Farmers compare prices by phone before they drive in, and many now search on YouTube and Google first.",
-        "A <strong>website development company in Hansi</strong> should give such a dealer a clear site: brands and models stocked, implements available on hire, spare parts categories, service timings, finance options you actually offer, the exact location on NH-9 and a WhatsApp button that reaches the right counter. Pages in Hindi work best for farmers, with English where brand names and specifications need it.",
+        "A <strong>website development team in Hansi</strong> should give such a dealer a clear site: brands and models stocked, implements available on hire, spare parts categories, service timings, finance options you actually offer, the exact location on NH-9 and a WhatsApp button that reaches the right counter. Pages in Hindi work best for farmers, with English where brand names and specifications need it.",
         "We add an enquiry form that asks for model, crop and village, so each lead arrives with what your staff need to call back. We never publish a subsidy promise or price that you cannot stand behind in writing. A dealer site starts at ₹10,000. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -119,10 +119,10 @@ const hansi: CityContent = {
     },
     {
       id: "professionals-new-district",
-      heading: "IT company in Hansi for advocates, CAs, builders and new district services",
+      heading: "IT services team in Hansi for advocates, CAs, builders and new district services",
       paragraphs: [
         "A new district headquarters brings new courts, offices and demand for professionals. Advocates, chartered accountants, tax consultants, property dealers, builders, architects, insurance agents and banking correspondents in Hansi will see more clients coming from Narnaund, Bass and the surrounding villages who have never met them before and search online first.",
-        "An <strong>IT company in Hansi</strong> can help here without overbuilding. For advocates, a simple profile site that follows Bar Council rules, stating areas of practice and contact details without advertising claims. For CAs and tax consultants, service pages, a document checklist and WhatsApp reminders for filing dates. For builders and property dealers, project pages with approvals you actually hold, layout plans and location maps.",
+        "An <strong>IT services team in Hansi</strong> can help here without overbuilding. For advocates, a simple profile site that follows Bar Council rules, stating areas of practice and contact details without advertising claims. For CAs and tax consultants, service pages, a document checklist and WhatsApp reminders for filing dates. For builders and property dealers, project pages with approvals you actually hold, layout plans and location maps.",
         "Most of these start as ₹10,000 static sites. Professionals who handle many repeat clients sometimes add a small client portal or WhatsApp reminder system later. We write nothing that suggests an official status you do not have, and we avoid any claim about approvals, rankings or results that you cannot document.",
       ],
     },
@@ -131,7 +131,7 @@ const hansi: CityContent = {
       heading: "Android app development in Hansi, with iPhone apps from one build",
       paragraphs: [
         "An app is worth the money only when a fixed group of people will open it again and again. In Hansi, sensible cases include a coaching institute sharing tests, marks and attendance with students and parents, an arhtiya giving farmers their running account on the phone, a dealer's field staff logging visits in villages, or a sweet shop taking repeat orders from families outside the town.",
-        "As an <strong>app development company in Hansi</strong> working remotely, we build in Flutter or React Native, so one codebase produces both the Android and the iPhone app. A first release normally has mobile number login, push notifications, the key screens your users need and a web admin panel for your office. We publish it on Google Play and the Apple App Store through developer accounts opened in your name.",
+        "As an <strong>app development team in Hansi</strong> working remotely, we build in Flutter or React Native, so one codebase produces both the Android and the iPhone app. A first release normally has mobile number login, push notifications, the key screens your users need and a web admin panel for your office. We publish it on Google Play and the Apple App Store through developer accounts opened in your name.",
         "<strong>Android app development in Hansi</strong> starts at ₹40,000. Online payment, offline entry, maps, photo uploads, a Hindi interface and extra user roles each add work and appear as separate items on your quote. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the stages.",
         "If people only need your address, timings, rates or a phone number, a website handles that for much less and nobody has to install anything. In those cases we recommend the website instead.",
       ],
@@ -232,7 +232,7 @@ const hansi: CityContent = {
         "A simple shop website usually takes one to two weeks after we receive your photographs and text. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content arriving late is the most common cause of delay.",
     },
     {
-      question: "Which is the best IT company in Hansi?",
+      question: "Which is the best IT services team in Hansi?",
       answer:
         "No list can answer that honestly, so judge by how a provider behaves. A good one shares prices upfront, registers your domain in your name, shows live work and still replies months after launch. We try to meet all four standards, but put the same questions to others before you choose.",
     },

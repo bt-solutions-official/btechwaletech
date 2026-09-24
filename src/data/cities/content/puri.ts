@@ -9,7 +9,7 @@ const puri: CityContent = {
     description:
       "Websites, local SEO and WhatsApp booking automation for Puri hotels, tour operators, handicraft sellers and clinics. From ₹10,000, with 5 free months of upkeep.",
     keywords: [
-      "website development company in Puri",
+      "website development team in Puri",
       "hotel website design Puri",
       "web designer Puri Odisha",
       "freelance web developer Puri",

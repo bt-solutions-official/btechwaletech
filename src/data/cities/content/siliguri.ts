@@ -9,7 +9,7 @@ const siliguri: CityContent = {
     description:
       "Websites, SEO and automation for Siliguri travel agents, tea traders, wholesalers and clinics. From ₹10,000, remote team, five months of free maintenance.",
     keywords: [
-      "website development company in Siliguri",
+      "website development team in Siliguri",
       "web designer Siliguri",
       "website design Siliguri",
       "freelance web developer Siliguri",
@@ -19,7 +19,7 @@ const siliguri: CityContent = {
       "travel agency website Siliguri",
       "tea company website Siliguri",
       "ecommerce website Siliguri",
-      "software company Siliguri",
+      "software team Siliguri",
       "WhatsApp automation Siliguri",
       "website for Sevoke Road business",
       "website maintenance Siliguri",

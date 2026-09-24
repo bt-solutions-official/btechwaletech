@@ -10,12 +10,12 @@ const nirmal: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Nirmal toy artisans, cotton traders, highway businesses, hospitals and colleges.",
     keywords: [
       "IT services in Nirmal",
-      "IT company in Nirmal",
-      "website development company in Nirmal",
+      "IT services team in Nirmal",
+      "website development team in Nirmal",
       "web design in Nirmal",
-      "app development company in Nirmal",
+      "app development team in Nirmal",
       "Android app development in Nirmal",
-      "software company in Nirmal",
+      "software team in Nirmal",
       "SEO services in Nirmal",
       "digital marketing in Nirmal",
       "ecommerce website in Nirmal",
@@ -101,10 +101,10 @@ const nirmal: CityContent = {
     },
     {
       id: "cotton-agri-traders",
-      heading: "Software company in Nirmal for cotton, seed and fertiliser traders",
+      heading: "Software team in Nirmal for cotton, seed and fertiliser traders",
       paragraphs: [
         "The mandals around Nirmal are farming country, largely rain-fed, with cotton the crop most traders here talk about, alongside maize, soybean and paddy where irrigation from the local projects reaches. That makes the town a trading base for seed, fertiliser and pesticide dealers, cotton buyers and farm equipment sellers who serve hundreds of village retailers.",
-        "Credit is the pressure point. Dealers give inputs at sowing and recover at harvest, and the records often sit in several notebooks. As a <strong>software company in Nirmal</strong> for this trade, we build billing and credit tools that show each retailer's dues, record partial payments, flag overdue accounts and print or share invoices on WhatsApp.",
+        "Credit is the pressure point. Dealers give inputs at sowing and recover at harvest, and the records often sit in several notebooks. As a <strong>software team in Nirmal</strong> for this trade, we build billing and credit tools that show each retailer's dues, record partial payments, flag overdue accounts and print or share invoices on WhatsApp.",
         "For larger dealers, a retailer app lets village shops check stock and place orders in Telugu. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We usually start with the credit ledger, because recovering one season's slow payments often covers the whole project.",
       ],
     },
@@ -140,16 +140,16 @@ const nirmal: CityContent = {
       heading: "Android app development in Nirmal for repeat customers",
       paragraphs: [
         "A phone app is worth building when the same people open it every week. In Nirmal that means input dealers whose retailers re-order often, hospitals with regular patients, colleges and coaching centres that send daily notices, and craft sellers with repeat corporate buyers. For a shop people visit once a year, a good website is enough, and we will tell you so.",
-        "As an <strong>app development company in Nirmal</strong>, we build with Flutter or React Native, which lets one app run on both Android phones and iPhones. Every app comes with login, push notifications and a web admin panel where you add products or send messages. We publish on Google Play and the App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Nirmal</strong>, we build with Flutter or React Native, which lets one app run on both Android phones and iPhones. Every app comes with login, push notifications and a web admin panel where you add products or send messages. We publish on Google Play and the App Store under developer accounts registered to you.",
         "Apps start at ₹40,000. We test on inexpensive Android phones because that is what most users here carry, and we keep the app small enough to download on a weak connection. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> page.",
       ],
     },
     {
       id: "hospitals-colleges-nirmal",
-      heading: "Website development company in Nirmal for hospitals and colleges",
+      heading: "Website development team in Nirmal for hospitals and colleges",
       paragraphs: [
         "With the Government Medical College and a growing number of private hospitals and diagnostic centres, Nirmal draws patients from across the district and beyond. Families travelling from a village want to know which doctor sits on which day, whether a scan needs an appointment and where to park. Answering those questions online saves them a wasted journey.",
-        "A <strong>website development company in Nirmal</strong> working for hospitals should keep things clear: doctor profiles with specialities and timings, a WhatsApp appointment request, directions, and Telugu text for patients who prefer it. We avoid medical claims we cannot support and keep the site easy for your staff to update.",
+        "A <strong>website development team in Nirmal</strong> working for hospitals should keep things clear: doctor profiles with specialities and timings, a WhatsApp appointment request, directions, and Telugu text for patients who prefer it. We avoid medical claims we cannot support and keep the site easy for your staff to update.",
         "Colleges, junior colleges and coaching institutes need course pages, fee details, results, hostel information and an admission enquiry form that reaches the office directly. Parents from Bhainsa or Khanapur often compare two or three institutes online before visiting, so a clear site can decide which one they visit first.",
       ],
     },
@@ -173,11 +173,11 @@ const nirmal: CityContent = {
     },
     {
       id: "remote-it-company-nirmal",
-      heading: "IT company in Nirmal without a local office",
+      heading: "IT services team in Nirmal without a local office",
       paragraphs: [
         "We are not a local office with a signboard. We are three engineers working remotely, and that lets us keep starting prices where they are. For a Nirmal client, the process is straightforward: a WhatsApp message, a call to understand your business, a written quote, and a preview link you can open on your phone as the work progresses.",
         "Changes are noted in writing so nothing is forgotten between calls, and you approve each stage before we move on. If you are busy with the season, a family member or staff member can handle the checks and you approve the final version.",
-        "We reply on WhatsApp seven days a week during Indian working hours. For anyone looking for an <strong>IT company in Nirmal</strong> that will still answer a year after launch, that reliability counts for more than an address. You can start a conversation on our <a href=\"/contact/\">contact page</a>.",
+        "We reply on WhatsApp seven days a week during Indian working hours. For anyone looking for an <strong>IT services team in Nirmal</strong> that will still answer a year after launch, that reliability counts for more than an address. You can start a conversation on our <a href=\"/contact/\">contact page</a>.",
       ],
     },
     {
@@ -231,7 +231,7 @@ const nirmal: CityContent = {
         "A static website usually takes one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. The biggest factor in speed is how quickly content reaches us.",
     },
     {
-      question: "Who is the best website development company in Nirmal?",
+      question: "Who is the best website development team in Nirmal?",
       answer:
         "The right choice is whoever publishes prices, registers the domain and code in your name, shows real work and stays available after launch. Put the same questions to every option. We meet those standards and answer WhatsApp daily, but comparing two or three quotes before deciding is wise.",
     },

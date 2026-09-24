@@ -10,12 +10,12 @@ const sheikhpura: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sheikhpura crushers, Barbigha traders, coaching centres and clinics. Sites from ₹10,000.",
     keywords: [
       "IT services in Sheikhpura",
-      "IT company in Sheikhpura",
-      "website development company in Sheikhpura",
+      "IT services team in Sheikhpura",
+      "website development team in Sheikhpura",
       "web design in Sheikhpura",
-      "app development company in Sheikhpura",
+      "app development team in Sheikhpura",
       "Android app development in Sheikhpura",
-      "software company in Sheikhpura",
+      "software team in Sheikhpura",
       "SEO services in Sheikhpura",
       "digital marketing in Sheikhpura",
       "ecommerce website in Sheikhpura",
@@ -74,19 +74,19 @@ const sheikhpura: CityContent = {
     },
     {
       id: "crusher-software-sheikhpura",
-      heading: "Software company in Sheikhpura for stone crushers and chips suppliers",
+      heading: "Software team in Sheikhpura for stone crushers and chips suppliers",
       paragraphs: [
         "The district's own profile names small-scale mining of the smaller hillocks, with crushers, as a main source of work after farming. A crusher unit sells chips and stone dust to contractors, road builders and house builders across south Bihar, and a busy day can mean dozens of trucks and tractors, each with its own weight slip, rate, buyer and payment status. Most of that still lives in a notebook and the munshi's memory.",
-        "As a <strong>software company in Sheikhpura</strong>, we build straightforward browser-based registers for this trade. Each vehicle entry records the number plate, material size, weighbridge figure, buyer, rate and whether it was paid in cash, by UPI or on credit. The owner sees daily totals and outstanding balances by buyer on a phone, and regular customers can receive a month-end statement on WhatsApp. If you already use accounting software, entries can be exported in a format your accountant can import.",
+        "As a <strong>software team in Sheikhpura</strong>, we build straightforward browser-based registers for this trade. Each vehicle entry records the number plate, material size, weighbridge figure, buyer, rate and whether it was paid in cash, by UPI or on credit. The owner sees daily totals and outstanding balances by buyer on a phone, and regular customers can receive a month-end statement on WhatsApp. If you already use accounting software, entries can be exported in a format your accountant can import.",
         "Custom systems start at ₹60,000 and usually take six to twelve weeks, delivered in parts so the vehicle register goes live first. A unit sending out only a handful of loads a day may be better off with a well-designed spreadsheet and a daily WhatsApp summary, and we will suggest that when it is enough. We do not advise on mining permissions or royalty rules; your consultant or accountant handles that side.",
       ],
     },
     {
       id: "barbigha-traders-website",
-      heading: "Website development company in Sheikhpura for Barbigha's traders and wholesalers",
+      heading: "Website development team in Sheikhpura for Barbigha's traders and wholesalers",
       paragraphs: [
         "Barbigha's market serves a wide ring of villages, and many of its shops sell wholesale as well as retail: grain, pulses, seeds, fertiliser, cement, iron rods, cloth, utensils and mobile phones. Their buyers are shopkeepers and farmers who ring before they travel, asking what is in stock, what today's rate is and whether the shop can deliver to their village.",
-        "As a <strong>website development company in Sheikhpura</strong>, we give these traders a site that answers most of those calls in advance. It carries a product list with photographs, brands and pack sizes; rates marked “from” where they move daily; delivery areas named block by block; opening hours around market days; and a WhatsApp button that opens a pre-filled enquiry. Pages load quickly on a basic Android phone, which is what most village buyers carry.",
+        "As a <strong>website development team in Sheikhpura</strong>, we give these traders a site that answers most of those calls in advance. It carries a product list with photographs, brands and pack sizes; rates marked “from” where they move daily; delivery areas named block by block; opening hours around market days; and a WhatsApp button that opens a pre-filled enquiry. Pages load quickly on a basic Android phone, which is what most village buyers carry.",
         "A static site of up to 100 pages starts at ₹10,000 and is typically ready in one to two weeks. Wholesalers who want dealer logins, or a rate list visible only to registered shopkeepers, need a small web app, which we estimate separately. The <a href=\"/services/web-development/\">web development page</a> explains how we build and hand over sites.",
       ],
     },
@@ -119,10 +119,10 @@ const sheikhpura: CityContent = {
     },
     {
       id: "android-ios-apps-sheikhpura",
-      heading: "App development company in Sheikhpura: Android and iOS apps that earn their cost",
+      heading: "App development team in Sheikhpura: Android and iOS apps that earn their cost",
       paragraphs: [
         "An app is worth building when the same people come back often. Here that usually means a coaching centre with hundreds of students, a pharmacy with regular monthly buyers, a crusher whose contractors order every week, or a school that must reach parents daily. A shop that customers visit twice a year needs a good website and a Google listing, not an app, and we will tell you so.",
-        "As an <strong>app development company in Sheikhpura</strong>, we build Android and iOS apps from one Flutter or React Native codebase. A typical coaching app has mobile-number login, batch schedules, test scores, fee reminders and push notifications for holidays or extra classes. A pharmacy app lets customers upload a prescription and reorder. A crusher app lets regular buyers place orders and check their statement. Every app comes with an admin panel for the owner.",
+        "As an <strong>app development team in Sheikhpura</strong>, we build Android and iOS apps from one Flutter or React Native codebase. A typical coaching app has mobile-number login, batch schedules, test scores, fee reminders and push notifications for holidays or extra classes. A pharmacy app lets customers upload a prescription and reorder. A crusher app lets regular buyers place orders and check their statement. Every app comes with an admin panel for the owner.",
         "<strong>Android app development in Sheikhpura</strong> with us starts at ₹40,000, and the iOS version is built from the same code. We publish to Google Play and the App Store under developer accounts registered in your name, so the listing stays yours. Since most local users carry Android phones, we test on low-cost handsets first. More detail is on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -146,11 +146,11 @@ const sheikhpura: CityContent = {
     },
     {
       id: "weddings-temples-sheikhpura",
-      heading: "IT company in Sheikhpura for marriage halls, caterers and temple committees",
+      heading: "IT services team in Sheikhpura for marriage halls, caterers and temple committees",
       paragraphs: [
         "Wedding season fills marriage halls, tent houses, caterers, decorators and band parties across the district, and relatives living in Patna, Delhi or Kolkata increasingly book them from a distance. A plain website with venue photos, capacity, parking, menu options shown as starting rates and open dates saves a lot of back-and-forth. A booking calendar with a UPI deposit stops double bookings on the busiest muhurat dates.",
         "Temple committees have their own needs. The Vishnu temple at Samas, about five kilometres from Barbigha, stands in the middle of a large pond and holds a black granite idol from the Gupta period that draws visitors from well beyond the district. The Girihinda Pahar Shiv temple is about two kilometres from Sheikhpura station. A committee website can list puja timings, festival arrangements, donation details with receipts, and directions from the railway station.",
-        "For any <strong>IT company in Sheikhpura</strong> taking on this work, accurate dates and timings matter more than decoration. We keep these sites easy to edit, so the committee secretary or hall owner can post a change the same day it is decided.",
+        "For any <strong>IT services team in Sheikhpura</strong> taking on this work, accurate dates and timings matter more than decoration. We keep these sites easy to edit, so the committee secretary or hall owner can post a change the same day it is decided.",
       ],
     },
     {
@@ -225,7 +225,7 @@ const sheikhpura: CityContent = {
         "A simple site is usually live one to two weeks after we receive your text and photographs. SEO sites need three to five weeks, stores four to eight, and custom software six to twelve. Delays almost always come from waiting on content, so having your rate list and photos ready speeds things up.",
     },
     {
-      question: "Which is the best website development company in Sheikhpura?",
+      question: "Which is the best website development team in Sheikhpura?",
       answer:
         "Judge any provider on the same points: published starting prices, domain and code registered in your name, live sites that are still running after a year, Hindi support and quick replies after launch. Ask each for a written, itemised quote and compare. We meet those tests, but getting two or three quotes is sensible.",
     },

@@ -10,12 +10,12 @@ const pusad: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Pusad cotton traders, ginning units, agri dealers, clinics, colleges and shops.",
     keywords: [
       "IT services in Pusad",
-      "IT company in Pusad",
-      "website development company in Pusad",
+      "IT services team in Pusad",
+      "website development team in Pusad",
       "web design in Pusad",
-      "app development company in Pusad",
+      "app development team in Pusad",
       "Android app development in Pusad",
-      "software company in Pusad",
+      "software team in Pusad",
       "SEO services in Pusad",
       "digital marketing in Pusad",
       "ecommerce website in Pusad",
@@ -74,10 +74,10 @@ const pusad: CityContent = {
     },
     {
       id: "cotton-ginning-software",
-      heading: "Software company in Pusad for cotton traders and ginning units",
+      heading: "Software team in Pusad for cotton traders and ginning units",
       paragraphs: [
         "Cotton ginning and oil pressing have been part of Pusad's economy for decades, and its traders buy cotton from farms across the surrounding talukas. The work is seasonal and intense: in a few months, a unit weighs thousands of loads, pays hundreds of farmers, presses bales and sells lint and seed to buyers elsewhere.",
-        "Most of this is still tracked on paper slips and a diary. That leads to disputes over weight, moisture deductions and payment dates. As a <strong>software company in Pusad</strong>, we build web tools where each weighment is entered once, with vehicle number, farmer name, gross and tare weight, deduction and rate. The system shows what is owed to each farmer, what has been paid by UPI or bank transfer, and daily totals of bales pressed.",
+        "Most of this is still tracked on paper slips and a diary. That leads to disputes over weight, moisture deductions and payment dates. As a <strong>software team in Pusad</strong>, we build web tools where each weighment is entered once, with vehicle number, farmer name, gross and tare weight, deduction and rate. The system shows what is owed to each farmer, what has been paid by UPI or bank transfer, and daily totals of bales pressed.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We usually build the weighment and payment register first, because it prevents arguments immediately, and add stock and sales modules in the next stage.",
         "Owners who want to see the season at a glance can add a dashboard: quintals bought per day, average rate paid, bales pressed against target, and farmer payments still pending. Santosh Sharma sets these up from the same register, so nobody has to type figures twice, and the owner can check them on a phone from anywhere without calling the weighbridge clerk.",
       ],
@@ -111,10 +111,10 @@ const pusad: CityContent = {
     },
     {
       id: "colleges-coaching",
-      heading: "App development company in Pusad for colleges and coaching classes",
+      heading: "App development team in Pusad for colleges and coaching classes",
       paragraphs: [
         "Pusad is an education centre for the region. Phulsing Naik Mahavidyalaya on the Pusad–Nagpur road has taught arts, commerce and science since 1961, Babasaheb Naik College of Engineering has run since 1983, and there is a pharmacy institute along with many schools and coaching classes preparing students for board exams, NEET, JEE and police and government recruitment.",
-        "As an <strong>app development company in Pusad</strong> for education, we build admission forms, fee receipts, attendance, test series with results, and notices that reach parents on WhatsApp or through an app. College websites can carry department pages, faculty lists, accreditation documents and notices without becoming slow or cluttered.",
+        "As an <strong>app development team in Pusad</strong> for education, we build admission forms, fee receipts, attendance, test series with results, and notices that reach parents on WhatsApp or through an app. College websites can carry department pages, faculty lists, accreditation documents and notices without becoming slow or cluttered.",
         "A coaching class website starts at ₹10,000. An app for tests and notices starts at ₹40,000, and full fee and attendance software starts at ₹60,000. We deliver these in stages, so staff learn one module before the next arrives.",
       ],
     },
@@ -165,18 +165,18 @@ const pusad: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "IT company in Pusad without an office: how we work remotely",
+      heading: "IT services team in Pusad without an office: how we work remotely",
       paragraphs: [
-        "We are not a local <strong>IT company in Pusad</strong> with a shop on the main road. We are three engineers working remotely, and we say that plainly. Not paying rent for a local office is one reason our starting prices are where they are.",
+        "We are not a local <strong>IT services team in Pusad</strong> with a shop on the main road. We are three engineers working remotely, and we say that plainly. Not paying rent for a local office is one reason our starting prices are where they are.",
         "The process is simple. You message us on WhatsApp about your business. We ask a few questions, sometimes over a short call, and send an itemised quote. Once you approve it, you get a staging link where you watch the site or app come together and ask for changes. Photographs can come from your phone; we tell you what to shoot.",
         "We reply seven days a week in Indian time. You can reach us through our <a href=\"/contact/\">contact page</a>, or read about how we build sites on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
     {
       id: "ownership-maintenance",
-      heading: "Website development company in Pusad that leaves you in control",
+      heading: "Website development team in Pusad that leaves you in control",
       paragraphs: [
-        "When we finish, everything is yours. The domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts are registered in your name. If you move to another <strong>website development company in Pusad</strong> or anywhere else, you hand over the logins and they continue.",
+        "When we finish, everything is yours. The domain, hosting, source code, Google Business Profile and the Google Play and App Store developer accounts are registered in your name. If you move to another <strong>website development team in Pusad</strong> or anywhere else, you hand over the logins and they continue.",
         "Every project includes five months of free maintenance after launch. After that, maintenance starts at ₹8,000 a month and covers updates, backups, security fixes and small content edits. For seasonal businesses, the most useful task is a check before sowing and before the cotton season: are stock lists current, does the enquiry form still reach the right phone, are timings correct on Maps.",
         "If you only need occasional changes, we can quote each one separately instead of a monthly plan.",
       ],
@@ -218,7 +218,7 @@ const pusad: CityContent = {
         "A basic business website takes one to two weeks once we have your photographs, contact details and content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. For seasonal businesses, we plan the launch so the site is live before sowing or the cotton season.",
     },
     {
-      question: "Which is the best website development company in Pusad?",
+      question: "Which is the best website development team in Pusad?",
       answer:
         "Look for someone who shows real, live work, sends an itemised quote and registers the domain and hosting in your name. Ask any website development company in Pusad about renewal costs, who writes the Marathi content and whether you receive the source code. We publish starting prices and hand over every login, which makes comparison easy.",
     },

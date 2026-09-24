@@ -10,12 +10,12 @@ const umarkhed: CityContent = {
       "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Umarkhed cotton and soybean traders, input dealers, clinics, colleges and shops.",
     keywords: [
       "IT services in Umarkhed",
-      "IT company in Umarkhed",
-      "website development company in Umarkhed",
+      "IT services team in Umarkhed",
+      "website development team in Umarkhed",
       "web design in Umarkhed",
-      "app development company in Umarkhed",
+      "app development team in Umarkhed",
       "Android app development in Umarkhed",
-      "software company in Umarkhed",
+      "software team in Umarkhed",
       "SEO services in Umarkhed",
       "digital marketing in Umarkhed",
       "ecommerce website in Umarkhed",
@@ -75,11 +75,11 @@ const umarkhed: CityContent = {
     },
     {
       id: "cotton-soybean-traders",
-      heading: "Software company in Umarkhed for cotton, soybean and grain traders",
+      heading: "Software team in Umarkhed for cotton, soybean and grain traders",
       paragraphs: [
         "The black soil of this part of Vidarbha grows cotton and soybean on a large scale, and a good part of that produce passes through traders and commission agents in and around Umarkhed. During the season a single shop may record hundreds of purchases a week: farmer name, village, vehicle, weight, moisture deductions, rate and the amount still owed.",
         "Much of this still lives in carbon-copy books and a calculator. That works until a farmer disputes a weight from three weeks ago, a partner asks for the week's total by village, or the accountant needs the figures for GST. Then the hunting begins.",
-        "As a <strong>software company in Umarkhed</strong> in the everyday sense, we build small web tools for exactly this: purchases entered once from a phone or a counter PC, a printed or WhatsApp receipt for the farmer, running dues per farmer and per village, sales to buyers and mills, and a simple godown stock view. Staff logins keep each person to their own screens.",
+        "As a <strong>software team in Umarkhed</strong> in the everyday sense, we build small web tools for exactly this: purchases entered once from a phone or a counter PC, a printed or WhatsApp receipt for the farmer, running dues per farmer and per village, sales to buyers and mills, and a simple godown stock view. Staff logins keep each person to their own screens.",
         "These tools start at ₹60,000 and are built over six to twelve weeks. We suggest building the purchase register first, testing it through part of a season, and adding sales and stock later, so the software fits how your counter actually works.",
       ],
     },
@@ -95,10 +95,10 @@ const umarkhed: CityContent = {
     },
     {
       id: "colleges-coaching-umarkhed",
-      heading: "Website development company in Umarkhed for colleges and coaching classes",
+      heading: "Website development team in Umarkhed for colleges and coaching classes",
       paragraphs: [
         "Umarkhed has more higher education than its size suggests. The College of Agriculture at Brahmangaon, affiliated to Dr. Panjabrao Deshmukh Krishi Vidyapeeth, Akola, has run since 2001, and Gopikabai Sitaram Gawande College on Dhanki Road has taught arts and commerce students since 1966. Schools, junior colleges and coaching classes fill in the rest.",
-        "Students and parents search for courses, fees, hostel availability, bus timings and results, usually on a phone and often late in the evening. A <strong>website development company in Umarkhed</strong> should make those answers easy to find: a course page for each programme, admission dates, documents required, a downloadable prospectus, a gallery of the actual campus and a contact form that reaches the office.",
+        "Students and parents search for courses, fees, hostel availability, bus timings and results, usually on a phone and often late in the evening. A <strong>website development team in Umarkhed</strong> should make those answers easy to find: a course page for each programme, admission dates, documents required, a downloadable prospectus, a gallery of the actual campus and a contact form that reaches the office.",
         "For coaching classes, the useful additions are batch timings, results with the student's consent, a demo class request and fee reminders on WhatsApp. For hostels, mess and rooms near the agriculture campus, a single page with photographs, rules and a phone number often fills the beds.",
         "We write in Marathi and English, keep the site fast on low-cost phones, and hand over a simple admin panel so your office staff can post notices without calling us.",
       ],
@@ -138,7 +138,7 @@ const umarkhed: CityContent = {
       heading: "Android app development in Umarkhed and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense in Umarkhed when a fixed group of people needs to do the same thing again and again. Village retailers reordering from an input dealer every week, patients booking tokens at a busy clinic, parents following a coaching class's notices and fee dues, or a trader's field staff recording purchases at farm gates are all good examples.",
-        "As an <strong>app development company in Umarkhed</strong> that works remotely, we use Flutter or React Native, so one codebase gives you an Android app and an iPhone app. A typical first version has mobile OTP login, push notifications, the few screens your users need, and an admin panel on the web for your staff. Marathi labels are included where your users prefer them.",
+        "As an <strong>app development team in Umarkhed</strong> that works remotely, we use Flutter or React Native, so one codebase gives you an Android app and an iPhone app. A typical first version has mobile OTP login, push notifications, the few screens your users need, and an admin panel on the web for your staff. Marathi labels are included where your users prefer them.",
         "<strong>Android app development in Umarkhed</strong> with us starts at ₹40,000. The quote rises only with features you choose, such as online payments, offline entry for fields with no signal, maps, or links to your billing software. We publish the app on Google Play and the Apple App Store under developer accounts registered to you. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for details.",
         "If your customers only want your address, timings and a phone number, a website does that for a quarter of the cost, and we will say so plainly.",
       ],
@@ -175,7 +175,7 @@ const umarkhed: CityContent = {
     },
     {
       id: "remote-team-umarkhed",
-      heading: "An IT company in Umarkhed's reach without an Umarkhed office",
+      heading: "An IT services team in Umarkhed's reach without an Umarkhed office",
       paragraphs: [
         "We are three engineers who work remotely, and we do not keep an office in Umarkhed or anywhere nearby. What replaces the office is a written trail. After a first call about your business, you receive a short plan: pages or screens, dates, and a costed list of each item. You approve it, change it, or walk away at no cost.",
         "No work is billed before that written approval. Once work starts, you get preview links that open on any phone, so a son in Pune or a partner at the shop can look at the same draft. Marathi text is sent to you for checking, because a wrong word on a price list or admission notice is noticed quickly in a small town.",
@@ -244,7 +244,7 @@ const umarkhed: CityContent = {
         "A simple shop or clinic website is usually live one to two weeks after you send photographs and details. An SEO website of 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds things up.",
     },
     {
-      question: "Which is the best website development company in Umarkhed?",
+      question: "Which is the best website development team in Umarkhed?",
       answer:
         "Judge any provider on published prices, whether the domain and code are registered in your name, real work you can open, and how they respond after launch. Ask each one the same questions and compare in writing. We meet those tests, but speaking to two or three options before deciding is sensible.",
     },

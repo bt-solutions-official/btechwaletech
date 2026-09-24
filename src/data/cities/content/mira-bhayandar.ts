@@ -9,7 +9,7 @@ const miraBhayandar: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Mira Road and Bhayandar shops, clinics, galas and caterers. Sites from ₹10,000, five months of free upkeep.",
     keywords: [
-      "website development company in Mira-Bhayandar",
+      "website development team in Mira-Bhayandar",
       "web designer Mira Road",
       "website design Bhayandar",
       "freelance web developer Mira Road East",

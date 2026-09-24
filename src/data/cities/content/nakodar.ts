@@ -10,12 +10,12 @@ const nakodar: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Nakodar visa offices, arhtiyas, colleges, clinics and NRI-facing firms.",
     keywords: [
       "IT services in Nakodar",
-      "IT company in Nakodar",
-      "website development company in Nakodar",
+      "IT services team in Nakodar",
+      "website development team in Nakodar",
       "web design in Nakodar",
-      "app development company in Nakodar",
+      "app development team in Nakodar",
       "Android app development in Nakodar",
-      "software company in Nakodar",
+      "software team in Nakodar",
       "SEO services in Nakodar",
       "digital marketing in Nakodar",
       "ecommerce website in Nakodar",
@@ -75,10 +75,10 @@ const nakodar: CityContent = {
     },
     {
       id: "visa-ielts-offices-nakodar",
-      heading: "Website development company in Nakodar for IELTS centres and visa consultants",
+      heading: "Website development team in Nakodar for IELTS centres and visa consultants",
       paragraphs: [
         "Walk down any main road in Nakodar and you will pass boards for IELTS and PTE coaching, study-visa files, work permits, tourist visas and air tickets. Competition among these offices is intense, and students compare them on their phones long before they climb the stairs to a counselling room.",
-        "A <strong>website development company in Nakodar</strong> can help these offices look accountable. That means batch timings and fee ranges for each test, the names and qualifications of trainers, the countries and course types you actually handle, a clear list of documents a student should bring, and an enquiry form that records the band score and intake the student is aiming for. Success stories should be real and used only with the student's written consent; invented visa approvals damage trust quickly and can attract complaints.",
+        "A <strong>website development team in Nakodar</strong> can help these offices look accountable. That means batch timings and fee ranges for each test, the names and qualifications of trainers, the countries and course types you actually handle, a clear list of documents a student should bring, and an enquiry form that records the band score and intake the student is aiming for. Success stories should be real and used only with the student's written consent; invented visa approvals damage trust quickly and can attract complaints.",
         "Behind the public site, a small file tracker helps an office know which student's offer letter, fee receipt, medical or biometrics appointment is pending, and who on the staff is responsible. We build that as a secure web tool with staff logins, starting at ₹60,000. A simple consultant website starts at ₹10,000.",
       ],
     },
@@ -102,10 +102,10 @@ const nakodar: CityContent = {
     },
     {
       id: "grain-market-arhtiyas",
-      heading: "Software company in Nakodar for the grain market, arhtiyas and input dealers",
+      heading: "Software team in Nakodar for the grain market, arhtiyas and input dealers",
       paragraphs: [
         "Farms around Nakodar follow the familiar Doaba rotation of wheat in winter and paddy or maize in the kharif season. Twice a year the grain market becomes the busiest place in town, with commission agents weighing arrivals, arranging labour, advancing money to farmers and settling accounts with buyers.",
-        "Much of this is still done in thick registers, and errors are expensive when a farmer disputes a weight or an advance. As a <strong>software company in Nakodar</strong> in the practical sense, we build ledgers that record each arrival with the farmer's name, crop, gate pass, weight and rate, track advances and interest agreed in writing, and print or send a clean statement on WhatsApp at settlement.",
+        "Much of this is still done in thick registers, and errors are expensive when a farmer disputes a weight or an advance. As a <strong>software team in Nakodar</strong> in the practical sense, we build ledgers that record each arrival with the farmer's name, crop, gate pass, weight and rate, track advances and interest agreed in writing, and print or send a clean statement on WhatsApp at settlement.",
         "Seed, fertiliser and pesticide dealers need a different tool: stock by batch and expiry, credit given to farmers until harvest, and reminders when payment is due. These custom systems start at ₹60,000 and take six to twelve weeks. We usually build the part that saves the most arguments first, then add the rest before the next season opens.",
       ],
     },
@@ -120,10 +120,10 @@ const nakodar: CityContent = {
     },
     {
       id: "android-ios-apps-nakodar",
-      heading: "App development company in Nakodar: Android and iOS apps for local businesses",
+      heading: "App development team in Nakodar: Android and iOS apps for local businesses",
       paragraphs: [
         "An app earns its keep when the same people open it again and again. In Nakodar that might be IELTS students checking mock-test scores and class changes, patients booking follow-ups at a hospital, parents reading school notices and paying fees, farm-input retailers re-ordering stock from a distributor, or NRI clients following the progress of a house being built for them.",
-        "As an <strong>app development company in Nakodar</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A typical first release includes login by mobile number or email, push notifications, the core screens your users need and a web admin panel for staff. We publish it on Google Play and the App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Nakodar</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A typical first release includes login by mobile number or email, push notifications, the core screens your users need and a web admin panel for staff. We publish it on Google Play and the App Store using developer accounts registered in your name.",
         "<strong>Android app development in Nakodar</strong> with us starts at ₹40,000, with iOS included in the same build. Payment screens, document uploads, chat, offline use and integrations add to the cost, and each one is quoted separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "Plenty of businesses do not need an app at all. If customers mainly want your address, timings and prices, a fast website and a WhatsApp link do that job for a fraction of the cost, and we will tell you so before you spend money on something people download once and forget.",
       ],
@@ -157,7 +157,7 @@ const nakodar: CityContent = {
     },
     {
       id: "remote-team-nakodar",
-      heading: "Working with a remote IT company in Nakodar's time zone and your family's",
+      heading: "Working with a remote IT services team in Nakodar's time zone and your family's",
       paragraphs: [
         "Because we have no office, everything is done over WhatsApp, phone calls and shared screens. That suits Nakodar better than one might expect: the decision-maker is often a son or daughter abroad, and a remote process lets them join the same call as the parent who runs the shop, without anyone driving to Jalandhar.",
         "The process is simple. We start with a conversation about your customers and what you want the site or app to change. Within about two working days you get a written plan with pages or screens, a timeline and an itemised cost. Work begins only after you approve it, and no money is asked for before that approval. Preview links let everyone in the family check progress on their own phone.",
@@ -224,7 +224,7 @@ const nakodar: CityContent = {
         "A static business site is usually live in one to two weeks once we have your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early speeds things up.",
     },
     {
-      question: "Which is the best IT company in Nakodar?",
+      question: "Which is the best IT services team in Nakodar?",
       answer:
         "The best choice is the one whose terms protect you. Ask whether the domain and code will be in your name, whether prices are written down, who answers after launch and whether you can see real work. We meet those tests, but it is sensible to compare two or three providers with the same questions.",
     },

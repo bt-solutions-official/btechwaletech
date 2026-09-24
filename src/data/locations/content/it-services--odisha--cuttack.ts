@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & App Developers in Cuttack",
     description:
-      "Looking for a software development company in Cuttack? Hire freelance engineers for distributor software, case tools, apps, AI and SEO. From ₹10,000.",
+      "Looking for a software development team in Cuttack? Hire freelance engineers for distributor software, case tools, apps, AI and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Cuttack",
-      "IT company in Cuttack",
+      "software development team in Cuttack",
+      "IT services team in Cuttack",
       "IT solutions Cuttack",
       "freelance software developers Cuttack",
       "distributor billing software Cuttack",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "IT services · Cuttack, Odisha",
     h1: "Freelance software and app developers for Cuttack's distributors, advocates and clinics",
     lede:
-      "When Cuttack businesses look for a software development company in Cuttack, they usually end up across the river in Bhubaneswar. BtechWaleTech is a freelance group of three engineers working remotely from India. We build distribution and billing software, case and client tools for advocates, clinic systems, Android and iOS apps, AI automation, lead capture and local SEO for the Silver City, with every price starting in the open.",
+      "When Cuttack businesses look for a software development team in Cuttack, they usually end up across the river in Bhubaneswar. BtechWaleTech is a freelance group of three engineers working remotely from India. We build distribution and billing software, case and client tools for advocates, clinic systems, Android and iOS apps, AI automation, lead capture and local SEO for the Silver City, with every price starting in the open.",
     pills: ["Distributor software", "Case tools for advocates", "Android and iOS apps from ₹40,000", "Lead forms and WhatsApp CRM", "Sites from ₹10,000"],
   },
   quickAnswer:
-    "For IT solutions in Cuttack, BtechWaleTech is a freelance group rather than a software development company: websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks by scope. Three engineers work remotely from India; maintenance is free for five months.",
+    "For IT solutions in Cuttack, BtechWaleTech is a freelance group rather than a software development team: websites from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks by scope. Three engineers work remotely from India; maintenance is free for five months.",
   snapshot: [
     { label: "City character", value: "Odisha's former capital and oldest city, known as the Silver City and the Millennium City, on the delta between the Mahanadi and Kathajodi rivers" },
     { label: "Legal hub", value: "The Orissa High Court, with many advocates' chambers, notaries and legal service providers across the city" },
@@ -69,9 +69,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-cuttack",
-      heading: "Freelance developers or a software development company in Cuttack: what changes for you?",
+      heading: "Freelance developers or a software development team in Cuttack: what changes for you?",
       paragraphs: [
-        "Hiring freelance developers instead of a software development company in Cuttack mainly changes three things: you speak directly with the engineers, the price carries no office or sales overhead, and the team is smaller. Large companies suit big, multi-year or tender-bound work; a freelance group suits focused software, apps, automation and websites for Cuttack's family firms and professionals.",
+        "Hiring freelance developers instead of a software development team in Cuttack mainly changes three things: you speak directly with the engineers, the price carries no office or sales overhead, and the team is smaller. Large companies suit big, multi-year or tender-bound work; a freelance group suits focused software, apps, automation and websites for Cuttack's family firms and professionals.",
         "BtechWaleTech is three engineers working together as a freelance group, remotely from India. We have no office in Cuttack or Bhubaneswar. Discovery happens on a call, progress is shown on a test link every week, and handover includes source code, admin access and a document listing every account and renewal date.",
         "What we will not pretend: we cannot attend meetings at your shop, install hardware or bid on tenders that require a registered company. If you need those, choose a local firm. If you need a well-built tool at a clear price and support that continues after launch, a freelance team is usually the more practical option.",
       ],

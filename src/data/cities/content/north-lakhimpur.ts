@@ -10,12 +10,12 @@ const northLakhimpur: CityContent = {
       "Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for North Lakhimpur tea growers, traders, clinics, colleges and shops.",
     keywords: [
       "IT services in North Lakhimpur",
-      "IT company in North Lakhimpur",
-      "website development company in North Lakhimpur",
+      "IT services team in North Lakhimpur",
+      "website development team in North Lakhimpur",
       "web design in North Lakhimpur",
-      "app development company in North Lakhimpur",
+      "app development team in North Lakhimpur",
       "Android app development in North Lakhimpur",
-      "software company in North Lakhimpur",
+      "software team in North Lakhimpur",
       "SEO services in North Lakhimpur",
       "digital marketing in North Lakhimpur",
       "ecommerce website in North Lakhimpur",
@@ -74,10 +74,10 @@ const northLakhimpur: CityContent = {
     },
     {
       id: "tea-growers-north-lakhimpur",
-      heading: "Software company in North Lakhimpur for small tea growers and bought-leaf factories",
+      heading: "Software team in North Lakhimpur for small tea growers and bought-leaf factories",
       paragraphs: [
         "Lakhimpur district holds a special place in Assam's tea story: it was the first district into which tea cultivation was introduced, when the Assam Company began work in 1840. Today, alongside the estates, a large number of small tea growers sell green leaf to bought-leaf factories through agents, and the records of who delivered how many kilograms at what rate are often kept by hand.",
-        "As a <strong>software company in North Lakhimpur</strong>, we build simple tools for this chain. A collection agent enters each delivery once on a phone with grower name, weight, date and rate. The system keeps running totals per grower, deductions, advances and pending payments, and sends each grower a WhatsApp statement. Factories can see intake by day and by agent.",
+        "As a <strong>software team in North Lakhimpur</strong>, we build simple tools for this chain. A collection agent enters each delivery once on a phone with grower name, weight, date and rate. The system keeps running totals per grower, deductions, advances and pending payments, and sends each grower a WhatsApp statement. Factories can see intake by day and by agent.",
         "Small growers and self-help groups also benefit from basic record keeping for fertiliser, labour and plucking rounds. Custom tools start at ₹60,000 and are built in stages over six to twelve weeks. We start with the leaf register, because accurate weights and rates remove most payment disputes.",
       ],
     },
@@ -92,10 +92,10 @@ const northLakhimpur: CityContent = {
     },
     {
       id: "wholesale-traders-north-lakhimpur",
-      heading: "IT company in North Lakhimpur for wholesalers, rice mills and distributors",
+      heading: "IT services team in North Lakhimpur for wholesalers, rice mills and distributors",
       paragraphs: [
         "As a district headquarters with road links along NH-15 and towards Arunachal Pradesh, North Lakhimpur has a sizeable wholesale trade in groceries, rice, mustard oil, building materials, hardware, electrical goods and farm inputs. Rice and mustard mills in the district, and distributors supplying shops in smaller towns, handle many small orders on credit.",
-        "An <strong>IT company in North Lakhimpur</strong> can take a lot of phone calls off these desks. A retailer ordering app lets shops in Bihpuria, Narayanpur or Dhakuakhana place orders from a price list you control. A billing and stock tool tracks what each retailer owes, and a delivery sheet shows which van carries what. Links to Tally mean your accountant does not re-enter everything.",
+        "An <strong>IT services team in North Lakhimpur</strong> can take a lot of phone calls off these desks. A retailer ordering app lets shops in Bihpuria, Narayanpur or Dhakuakhana place orders from a price list you control. A billing and stock tool tracks what each retailer owes, and a delivery sheet shows which van carries what. Links to Tally mean your accountant does not re-enter everything.",
         "We build the most painful piece first, usually orders and credit, and add the rest once it is in daily use. Software of this kind starts at ₹60,000. For a smaller trader, a plain website with a price list and WhatsApp ordering, from ₹10,000, may be enough to begin with.",
       ],
     },
@@ -119,10 +119,10 @@ const northLakhimpur: CityContent = {
     },
     {
       id: "floods-reliability-north-lakhimpur",
-      heading: "Website development company in North Lakhimpur that plans for floods and outages",
+      heading: "Website development team in North Lakhimpur that plans for floods and outages",
       paragraphs: [
         "Floods from the Ranganadi, Subansiri and other rivers affect Lakhimpur district most years, and power and network cuts come with them. A business that depends on a computer in its office loses its records when that computer is damaged, and one that depends on a single phone loses its customers when the phone is out of reach.",
-        "A <strong>website development company in North Lakhimpur</strong> should build with this in mind. We host websites and records in the cloud with daily backups, so nothing is lost when your office is closed. Forms and orders arrive on WhatsApp and email, so more than one person can respond. A short notice banner can tell customers about temporary closures or changed timings within minutes.",
+        "A <strong>website development team in North Lakhimpur</strong> should build with this in mind. We host websites and records in the cloud with daily backups, so nothing is lost when your office is closed. Forms and orders arrive on WhatsApp and email, so more than one person can respond. A short notice banner can tell customers about temporary closures or changed timings within minutes.",
         "For traders and clinics, this reliability is often the real reason to move records off paper. If the shop floods, the ledger survives. Our AWS work, led by Santosh Sharma, keeps hosting costs modest for small businesses while giving them backups they do not have to think about.",
       ],
     },
@@ -131,7 +131,7 @@ const northLakhimpur: CityContent = {
       heading: "Android app development in North Lakhimpur, with iOS versions from the same code",
       paragraphs: [
         "An app is worth its cost when a defined group of people will use it often. In North Lakhimpur, good examples are a coaching centre sharing tests, results and notices with students; a hospital or lab issuing tokens and reports; a distributor taking repeat orders from retailers across the district; a school sending fee reminders to parents; or a leaf agent sharing weights and payments with growers.",
-        "As an <strong>app development company in North Lakhimpur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version typically has OTP login, push notifications, the key screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in North Lakhimpur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version typically has OTP login, push notifications, the key screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in North Lakhimpur</strong> with us starts at ₹40,000. Payments, offline mode for low-signal villages, maps and delivery tracking, and integrations with existing software add to the cost, each on its own line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> shows how a build is staged.",
         "If your customers only need your address, phone number and price list, a website does that for about a quarter of the cost. We will recommend it, because an app that is opened once and forgotten is money spent for nothing.",
       ],
@@ -223,7 +223,7 @@ const northLakhimpur: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content being ready is the main factor in speed.",
     },
     {
-      question: "Which is the best website development company in North Lakhimpur?",
+      question: "Which is the best website development team in North Lakhimpur?",
       answer:
         "Look for a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask everyone the same questions. We meet those tests and reply on WhatsApp every day, but comparing two or three options before deciding is sensible.",
     },

@@ -10,12 +10,12 @@ const sopore: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sopore fruit mandi traders, apple growers, Wular fish sellers, clinics, colleges and shops.",
     keywords: [
       "IT services in Sopore",
-      "IT company in Sopore",
-      "website development company in Sopore",
+      "IT services team in Sopore",
+      "website development team in Sopore",
       "web design in Sopore",
-      "app development company in Sopore",
+      "app development team in Sopore",
       "Android app development in Sopore",
-      "software company in Sopore",
+      "software team in Sopore",
       "SEO services in Sopore",
       "digital marketing in Sopore",
       "ecommerce website in Sopore",
@@ -75,10 +75,10 @@ const sopore: CityContent = {
     },
     {
       id: "fruit-mandi-software-sopore",
-      heading: "Software company in Sopore for fruit mandi firms and commission agents",
+      heading: "Software team in Sopore for fruit mandi firms and commission agents",
       paragraphs: [
         "A commission agent at the Sopore mandi keeps track of an enormous amount in a few months: which grower sent how many boxes, which lot went to which buyer at what rate, freight and labour deductions, advances given before the season, and payments still due from buyers hundreds of kilometres away. Much of this still lives in registers, diaries and scattered WhatsApp photos.",
-        "As a <strong>software company in Sopore</strong> that builds to order, we make simple web applications for exactly this work. A typical first version records arrivals by grower and variety, records sales by lot and buyer, calculates commission and deductions, and prints or sends a sale patti to the grower. A buyer ledger shows who owes what and since when.",
+        "As a <strong>software team in Sopore</strong> that builds to order, we make simple web applications for exactly this work. A typical first version records arrivals by grower and variety, records sales by lot and buyer, calculates commission and deductions, and prints or sends a sale patti to the grower. A buyer ledger shows who owes what and since when.",
         "The software works in a browser on a laptop in the shed and on a phone at the auction. It can export to Excel or Tally so your accountant keeps working the way they know. Growers can receive their sale report on WhatsApp the same evening, which saves a lot of phone calls.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We suggest building it in the off-season, between December and June, so it is tested and your staff are comfortable before the first trucks arrive. Details are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -122,20 +122,20 @@ const sopore: CityContent = {
     },
     {
       id: "wular-fish-agri-sopore",
-      heading: "Website development company in Sopore for Wular fish traders, nurseries and agri dealers",
+      heading: "Website development team in Sopore for Wular fish traders, nurseries and agri dealers",
       paragraphs: [
         "Wular Lake, between Sopore and Bandipora, is one of the largest freshwater lakes in Asia and supports fishing and water chestnut collection in the villages along its shore. Chota Bazar's fish market draws buyers from across the area. These are small, cash-driven trades, and most of them do not need a website at all.",
-        "The businesses around them often do. Fruit plant nurseries selling high-density apple saplings, pesticide and fertiliser dealers, cold storage operators, box and packaging suppliers, and transporters who carry apples to the plains all have customers who search before they call. As a <strong>website development company in Sopore</strong>, we build clear, trustworthy sites for these firms.",
+        "The businesses around them often do. Fruit plant nurseries selling high-density apple saplings, pesticide and fertiliser dealers, cold storage operators, box and packaging suppliers, and transporters who carry apples to the plains all have customers who search before they call. As a <strong>website development team in Sopore</strong>, we build clear, trustworthy sites for these firms.",
         "A nursery site might list varieties and rootstocks with booking dates. A packaging supplier's site shows box sizes, printing options and minimum order quantities. A transporter's page gives routes, truck types and a quick quote form. Each is written for the customer who is comparing two or three suppliers on a phone.",
         "We ask for your real price lists and photographs rather than stock images. We will not invent claims about your business, and we advise against publishing prices that change daily unless you are ready to update them.",
       ],
     },
     {
       id: "android-ios-apps-sopore",
-      heading: "App development company in Sopore: Android and iOS apps for growers and buyers",
+      heading: "App development team in Sopore: Android and iOS apps for growers and buyers",
       paragraphs: [
         "An app is worth building when the same people use your service again and again. In Sopore that could be growers checking their sale reports and pending payments with a mandi firm, outstation buyers booking consignments and tracking dispatch, a school sending attendance and fee notices to parents, or a pharmacy letting regular customers reorder medicines.",
-        "As an <strong>app development company in Sopore</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes login by mobile number, push notifications, the key screens your users need, and an admin panel your staff use to add data and send updates.",
+        "As an <strong>app development team in Sopore</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually includes login by mobile number, push notifications, the key screens your users need, and an admin panel your staff use to add data and send updates.",
         "<strong>Android app development in Sopore</strong> with us starts at ₹40,000. The price rises with online payments, offline mode for areas with weak signal, maps, multiple user roles and links to your existing software; the quote lists each one. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, a phone number and your rates, a website does that for far less money. We will say so plainly, because an app that is opened once and forgotten helps nobody.",
       ],
@@ -172,10 +172,10 @@ const sopore: CityContent = {
     },
     {
       id: "remote-team-sopore",
-      heading: "An IT company in Sopore without a Sopore office: how we work remotely",
+      heading: "An IT services team in Sopore without a Sopore office: how we work remotely",
       paragraphs: [
         "We should be clear: we have no office in Sopore or anywhere else in Kashmir. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma works on AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and builds data science and automation work.",
-        "Working with an <strong>IT company in Sopore</strong> that is not physically in Sopore is simpler than it sounds. We start with a WhatsApp or video call, you share photographs, price lists and samples of your paperwork, and we send a written plan and quote. During the build you see a working preview link and can ask for changes at each stage.",
+        "Working with an <strong>IT services team in Sopore</strong> that is not physically in Sopore is simpler than it sounds. We start with a WhatsApp or video call, you share photographs, price lists and samples of your paperwork, and we send a written plan and quote. During the build you see a working preview link and can ask for changes at each stage.",
         "We reply on WhatsApp seven days a week during Indian working hours. When mobile data in the valley is slow or interrupted, we switch to phone calls and email so the project keeps moving.",
         "Payments are staged and tied to delivered work, and every milestone is written down. If you want to meet someone in person, we are not the right fit, and we would rather say that now.",
       ],
@@ -237,7 +237,7 @@ const sopore: CityContent = {
         "A simple static website usually takes one to two weeks once we have your photographs and details. A large SEO website takes three to five weeks, an online store four to eight weeks, and custom mandi software six to twelve weeks. Delays usually come from missing content, so we send a clear checklist at the start.",
     },
     {
-      question: "Which is the best website development company in Sopore?",
+      question: "Which is the best website development team in Sopore?",
       answer:
         "The best choice is the one that gives you a written itemised quote, puts the domain and code in your name, shows past work and explains maintenance costs. We cannot claim to be the best, but we meet all of those tests and are happy to be compared with local developers on them.",
     },

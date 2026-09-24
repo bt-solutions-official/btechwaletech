@@ -10,12 +10,12 @@ const periyakulam: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Periyakulam mango traders, nurseries, clinics, schools and shops. Sites from ₹10,000.",
     keywords: [
       "IT services in Periyakulam",
-      "IT company in Periyakulam",
-      "website development company in Periyakulam",
+      "IT services team in Periyakulam",
+      "website development team in Periyakulam",
       "web design in Periyakulam",
-      "app development company in Periyakulam",
+      "app development team in Periyakulam",
       "Android app development in Periyakulam",
-      "software company in Periyakulam",
+      "software team in Periyakulam",
       "SEO services in Periyakulam",
       "digital marketing in Periyakulam",
       "ecommerce website in Periyakulam",
@@ -69,7 +69,7 @@ const periyakulam: CityContent = {
       paragraphs: [
         "Periyakulam is a working agricultural town rather than a commercial city. Mango orchards climb toward the hills, the Varaha river splits the streets into Thenkarai and Vadakarai, and the horticulture college brings students and researchers from across Tamil Nadu. Families from Devadanapatti, Vadugapatti, Jeyamangalam and nearby villages come in for hospitals, schools, cloth, jewellery and farm inputs, and more of them now check a phone before they set out.",
         "Requests we get for <strong>IT services in Periyakulam</strong> are rarely grand. A mango trader wants pre-orders from Chennai and Bengaluru before the season opens. A clinic wants its doctors' timings online in Tamil. A nursery owner wants a catalogue that answers “do you have grafted Senthuram saplings?” without a phone call. A coaching centre wants admission enquiries sorted instead of buried in WhatsApp.",
-        "We take these on as a remote group of three engineers. Ankur Kumar writes websites and web apps end to end, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project planning, data science and automation. If you were hoping for an <strong>IT company in Periyakulam</strong> with a shopfront, we are not that: there is no office in the town or anywhere in Theni district. Calls, screen shares and WhatsApp replace the visit, and every plan and estimate reaches you in writing.",
+        "We take these on as a remote group of three engineers. Ankur Kumar writes websites and web apps end to end, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project planning, data science and automation. If you were hoping for an <strong>IT services team in Periyakulam</strong> with a shopfront, we are not that: there is no office in the town or anywhere in Theni district. Calls, screen shares and WhatsApp replace the visit, and every plan and estimate reaches you in writing.",
       ],
     },
     {
@@ -83,10 +83,10 @@ const periyakulam: CityContent = {
     },
     {
       id: "commission-agent-software",
-      heading: "Software company in Periyakulam for mango commission agents and crop contracts",
+      heading: "Software team in Periyakulam for mango commission agents and crop contracts",
       paragraphs: [
         "Behind every lorry of mangoes leaving Periyakulam sits a pile of notebooks. Agents record lots received from each grower, weights, grades, the day's rate, advances paid before harvest, commission, loading charges and what a buyer in another town still owes. When a standing crop is contracted before it ripens, there are instalments and dates to follow as well. One wrong entry becomes an argument that lasts the whole off-season.",
-        "A <strong>software company in Periyakulam</strong> worth hiring for this should build something narrow and dependable. We begin with a lot register that works on a phone: grower, variety, crates or weight, grade and rate typed once, with the grower's running account updated automatically. Buyer ledgers follow, then pending payments sorted by age, and a nightly summary sent to the owner on WhatsApp.",
+        "A <strong>software team in Periyakulam</strong> worth hiring for this should build something narrow and dependable. We begin with a lot register that works on a phone: grower, variety, crates or weight, grade and rate typed once, with the grower's running account updated automatically. Buyer ledgers follow, then pending payments sorted by age, and a nightly summary sent to the owner on WhatsApp.",
         "Custom software starts at ₹60,000 and arrives in stages over six to twelve weeks. We deliver the first stage in the lean months so staff have practised before the rush. Export to Excel is always included because your accountant will ask for it, and the data sits on hosting registered to you. The same pattern suits coconut and banana traders, and the grape and cardamom dealers elsewhere in the district who keep very similar books.",
       ],
     },
@@ -101,10 +101,10 @@ const periyakulam: CityContent = {
     },
     {
       id: "hospitals-schools-colleges",
-      heading: "Website development company in Periyakulam for hospitals, schools and colleges",
+      heading: "Website development team in Periyakulam for hospitals, schools and colleges",
       paragraphs: [
         "As the taluk headquarters, Periyakulam pulls patients and students from a wide area. Hospitals and clinics serve families from villages along the foothills, while the Government Nursing College, the horticulture college and long-running schools such as Victoria Memorial High School keep students and parents moving through town. For these institutions the website is often the first place a worried parent or patient looks.",
-        "A <strong>website development company in Periyakulam</strong> should treat such sites as information services. For a clinic that means doctors, specialities, OPD days, emergency numbers, what to bring for a scan, and a Tamil version that elderly patients can actually read. For a school or coaching centre it means classes, a fee structure or range, admission dates, bus routes and a notice page that is kept current. Heavy animation helps nobody on a crowded bus with one bar of signal.",
+        "A <strong>website development team in Periyakulam</strong> should treat such sites as information services. For a clinic that means doctors, specialities, OPD days, emergency numbers, what to bring for a scan, and a Tamil version that elderly patients can actually read. For a school or coaching centre it means classes, a fee structure or range, admission dates, bus routes and a notice page that is kept current. Heavy animation helps nobody on a crowded bus with one bar of signal.",
         "We keep these sites light, add a WhatsApp link for appointment or admission questions, and tie them to the Google Business Profile so the address and hours match everywhere. Where a hospital wants online appointment requests, a simple form sends each one to the front desk, with a clear note that emergencies should call. Medical and fee details are always checked with you before they go live.",
       ],
     },
@@ -122,7 +122,7 @@ const periyakulam: CityContent = {
       heading: "Android app development in Periyakulam: when an app earns its place",
       paragraphs: [
         "An app makes sense when the same people come back to you over and over. Around Periyakulam that might be mango buyers who reorder every season, parents who need school notices and fee reminders, a clinic's regular patients booking follow-ups, an input dealer's field staff logging farm visits, or village retailers placing weekly orders with a wholesaler in town.",
-        "As an <strong>app development company in Periyakulam</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version usually has phone number login with OTP, push notifications, the three or four screens your users need most, and an admin panel your staff use from a laptop. We publish it on Google Play and the Apple App Store under developer accounts in your name and see it through both stores' review process.",
+        "As an <strong>app development team in Periyakulam</strong> that works remotely, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version usually has phone number login with OTP, push notifications, the three or four screens your users need most, and an admin panel your staff use from a laptop. We publish it on Google Play and the Apple App Store under developer accounts in your name and see it through both stores' review process.",
         "<strong>Android app development in Periyakulam</strong> with us starts at ₹40,000. Offline entry for orchards with patchy coverage, online payments, maps, Tamil screens and links to billing software each add to the quote, and each appears as its own line so you can decide. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Plenty of businesses here do not need an app at all. If customers only want your address, rate list and phone number, a website costs far less and nobody has to download anything. We will say so before you spend money on the wrong tool.",
       ],
@@ -230,7 +230,7 @@ const periyakulam: CityContent = {
         "A simple shop or clinic site usually goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The biggest delay is usually waiting for content, so sending it early speeds everything up.",
     },
     {
-      question: "Which is the best IT company in Periyakulam for websites and apps?",
+      question: "Which is the best IT services team in Periyakulam for websites and apps?",
       answer:
         "The best choice is whoever publishes clear prices, registers the domain and code in your name, can show real past work and still answers after launch. Put the same questions to every option you consider. We meet those tests and reply on WhatsApp every day, but comparing two or three providers before deciding is sensible.",
     },

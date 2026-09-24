@@ -10,12 +10,12 @@ const mandvi: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Mandvi hotels, dhow yards, bandhani sellers and GIDC bentonite units.",
     keywords: [
       "IT services in Mandvi",
-      "IT company in Mandvi Kutch",
-      "website development company in Mandvi",
+      "IT services team in Mandvi Kutch",
+      "website development team in Mandvi",
       "web design in Mandvi",
-      "app development company in Mandvi",
+      "app development team in Mandvi",
       "Android app development in Mandvi",
-      "software company in Mandvi",
+      "software team in Mandvi",
       "SEO services in Mandvi",
       "digital marketing in Mandvi",
       "ecommerce website in Mandvi",
@@ -69,17 +69,17 @@ const mandvi: CityContent = {
       paragraphs: [
         "Mandvi was founded in the 1580s by Rao Khengarji I and grew into the chief port of the old Kutch state, placed where the camel caravan routes of the desert met sea lanes running to East Africa, the Malabar coast and the Persian Gulf. By the eighteenth century its merchants owned a fleet of about four hundred vessels. The habit of keeping exact ledgers that such trade demanded has never quite left the town.",
         "The customers have changed, though. A family from Ahmedabad picks between two beach stays on Google Maps before leaving home. A bentonite buyer in another state reads a supplier's website before asking for samples. Someone in Mumbai whose grandparents came from Mandvi wants bandhani for a wedding without a trip back. Every one of these journeys now begins on a phone.",
-        "Our job as an <strong>IT company in Mandvi</strong> is to make those first searches end with you. We are three engineers working remotely: Ankur Kumar writes websites and web apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Mandvi or anywhere in Kutch, and every plan, quote and progress note reaches you in writing on WhatsApp or email.",
+        "Our job as an <strong>IT services team in Mandvi</strong> is to make those first searches end with you. We are three engineers working remotely: Ankur Kumar writes websites and web apps, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava handles project management, data science and automation. We have no office in Mandvi or anywhere in Kutch, and every plan, quote and progress note reaches you in writing on WhatsApp or email.",
         "Projects range from a ten-page Gujarati site for a guest house to an Android app for a dealer network. Each is priced on its own merits rather than pushed into a bundle you do not need.",
       ],
     },
     {
       id: "dhow-yards-software",
-      heading: "Software company in Mandvi for dhow builders and marine suppliers",
+      heading: "Software team in Mandvi for dhow builders and marine suppliers",
       paragraphs: [
         "Drive along Bunder Road beside the Rukmavati and you see hulls at every stage: keels laid on the sand, ribs rising like a whale's skeleton, planked sides waiting for paint. Craftsmen of the Kharva community have built these wooden vahan here for around four centuries, mostly by hand, for owners who sail them to ports around the Arabian Peninsula. People sometimes call a finished dhow the largest handicraft in the world, and in Mandvi it remains a working trade rather than a museum piece.",
         "The trade has had lean years. Since 2010 Indian dhows have been barred from sailing south of Oman after a series of hijackings, which hurt both cargo work and new orders. Yards that stay busy rely on a few serious buyers, and those buyers want confidence before committing to a vessel that takes a long time to finish.",
-        "As a <strong>software company in Mandvi</strong>, we can build a private job book for each hull: timber bought and its cost, labour days, dated milestone photographs, payments received and the balance still due. The owner abroad gets a login to follow progress, and the yard learns whether a vessel is earning or losing money before it is launched. Suppliers of timber, fittings, rope and engines can use a lighter version for orders and credit. Custom tools like these start at ₹60,000 and arrive in stages over six to twelve weeks.",
+        "As a <strong>software team in Mandvi</strong>, we can build a private job book for each hull: timber bought and its cost, labour days, dated milestone photographs, payments received and the balance still due. The owner abroad gets a login to follow progress, and the yard learns whether a vessel is earning or losing money before it is launched. Suppliers of timber, fittings, rope and engines can use a lighter version for orders and credit. Custom tools like these start at ₹60,000 and arrive in stages over six to twelve weeks.",
         "We never put a buyer's name, a vessel photograph or a price on a public page without written consent from everyone involved.",
       ],
     },
@@ -113,17 +113,17 @@ const mandvi: CityContent = {
     },
     {
       id: "bentonite-gidc-mandvi",
-      heading: "Website development company in Mandvi for GIDC Durgapur and bentonite units",
+      heading: "Website development team in Mandvi for GIDC Durgapur and bentonite units",
       paragraphs: [
         "Mandvi lies in the middle of large bentonite deposits, and the GIDC estate at Durgapur holds several units that mine, dry and grind this clay into powder and granules. Their customers are usually far away: drilling contractors, foundries, civil engineering firms and exporters who line up several suppliers before placing an order.",
-        "Such buyers seldom visit Kutch before a first enquiry. A <strong>website development company in Mandvi</strong> should therefore build pages that answer a purchase engineer's checklist: the products and forms you supply, typical applications, the test parameters you report, bag and bulk packing sizes, dispatch options by road and port, and any certifications you actually hold. A request-for-quote form asking for grade, quantity, destination and packing saves days of back-and-forth email.",
+        "Such buyers seldom visit Kutch before a first enquiry. A <strong>website development team in Mandvi</strong> should therefore build pages that answer a purchase engineer's checklist: the products and forms you supply, typical applications, the test parameters you report, bag and bulk packing sizes, dispatch options by road and port, and any certifications you actually hold. A request-for-quote form asking for grade, quantity, destination and packing saves days of back-and-forth email.",
         "We keep these sites factual and quick to load, in English first with Gujarati wherever your local vendors need it. Where volumes justify it, a small internal tool can track lots, lab results, truck dispatches and invoices, starting at ₹60,000. We never name a client or project on your site without written permission, and we do not publish a capacity figure unless you have given it to us in writing.",
         "Oil mills, fabrication shops and transporters working around the estate can use a lighter version of the same approach.",
       ],
     },
     {
       id: "farm-oil-fishing-mandvi",
-      heading: "IT company in Mandvi for oil mills, farm traders and the fishing trade",
+      heading: "IT services team in Mandvi for oil mills, farm traders and the fishing trade",
       paragraphs: [
         "Away from the beach, Mandvi taluka is farm country. Its villages grow wheat and cotton, with groundnut, bajra and jowar common across the district, and edible oil production is one of the town's recognised small industries. Fishing along the coast supports another circle of boat owners, traders and transporters.",
         "These businesses need dependable records more than showy websites. An oil mill wants to know how much seed came from which farmer at what rate, how much oil and cake it yielded, and which dealer still owes money. A fish trader needs daily weights, rates and buyer balances on one screen. A seed and fertiliser shop wants stock and credit alerts before the sowing rush begins.",
@@ -136,7 +136,7 @@ const mandvi: CityContent = {
       heading: "Android app development in Mandvi and iOS apps for Kutch businesses",
       paragraphs: [
         "An app pays for itself only when the same people open it again and again. Around Mandvi that could be a resort whose guests check in, order food and book activities from their phones; an oil or farm-input dealer network that re-orders every week; a school or coaching centre sending notices and fee reminders to parents; a yard owner sharing build progress with a buyer overseas; or a fish trader whose regular buyers check the day's rates.",
-        "As an <strong>app development company in Mandvi</strong>, we build in Flutter or React Native, so a single codebase runs on Android phones and iPhones alike. A first version normally covers mobile number login, push notifications, the handful of screens your users actually need and a web admin panel for staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name, and we deal with the review process at both stores.",
+        "As an <strong>app development team in Mandvi</strong>, we build in Flutter or React Native, so a single codebase runs on Android phones and iPhones alike. A first version normally covers mobile number login, push notifications, the handful of screens your users actually need and a web admin panel for staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name, and we deal with the review process at both stores.",
         "<strong>Android app development in Mandvi</strong> with us starts at ₹40,000. The price climbs with online payments, offline use where coastal signal is weak, maps, more than one language and links to billing software, and each of these shows up as a separate line in the quote. More detail sits on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
         "If your customers only need a phone number, location, menu or rate card, skip the app. A good website and Google listing handle that for a fraction of the cost, and nobody has to download anything.",
       ],
@@ -237,7 +237,7 @@ const mandvi: CityContent = {
         "A static site for a shop, clinic or guest house normally goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and feedback promptly.",
     },
     {
-      question: "Which is the best website development company in Mandvi, Kutch?",
+      question: "Which is the best website development team in Mandvi, Kutch?",
       answer:
         "The best choice is whoever registers your domain and code in your name, publishes clear prices, answers after launch and can show real work. Put the same questions to every provider you consider. We meet those tests and reply on WhatsApp every day, but comparing two or three options before deciding is always sensible.",
     },

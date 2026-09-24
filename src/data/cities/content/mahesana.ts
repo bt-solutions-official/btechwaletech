@@ -9,7 +9,7 @@ const mahesana: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Mehsana, Unjha, Kadi and Visnagar firms. Static sites start at ₹10,000, with five months of free upkeep.",
     keywords: [
-      "website development company in Mehsana",
+      "website development team in Mehsana",
       "web design Mehsana",
       "website designer Mahesana",
       "freelance web developer Mehsana",

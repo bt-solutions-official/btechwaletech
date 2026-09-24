@@ -9,7 +9,7 @@ const morvi: CityContent = {
     description:
       "Export-ready websites, product catalogues, SEO and WhatsApp automation for Morbi's tile, sanitaryware and wall clock makers, traders and local shops. From ₹10,000.",
     keywords: [
-      "website development company in Morbi",
+      "website development team in Morbi",
       "website designer Morvi",
       "ceramic tiles website design",
       "tile manufacturer website Morbi",

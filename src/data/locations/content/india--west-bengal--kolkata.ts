@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Kolkata by a freelance team of three engineers: legacy upgrades, group MIS, apps, AI agents, cloud and SEO.",
     keywords: [
-      "IT solutions company in Kolkata",
+      "IT solutions team in Kolkata",
       "IT consulting Kolkata",
       "digital transformation Kolkata",
-      "best IT company in Kolkata",
+      "best IT services team in Kolkata",
       "freelance IT consultant Kolkata",
       "IT solutions near me Kolkata",
       "FoxPro software replacement Kolkata",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Kolkata · Dalhousie and Burrabazar to Sector V and New Town",
     h1: "IT consulting and digital transformation in Kolkata, from a freelance team that stays after launch",
     lede:
-      "Many Kolkata businesses searching for an IT solutions company in Kolkata already have software, often a decades-old desktop system, a tangle of Excel files and an accountant who holds everything together. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We offer IT consulting that starts from what you already run, then modernise it end to end: custom software and web apps, group MIS dashboards, Android and iOS apps, Bengali and English AI agents, cloud hosting and security, SEO and ecommerce, with every account registered to you.",
+      "Many Kolkata businesses searching for an IT solutions team in Kolkata already have software, often a decades-old desktop system, a tangle of Excel files and an accountant who holds everything together. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We offer IT consulting that starts from what you already run, then modernise it end to end: custom software and web apps, group MIS dashboards, Android and iOS apps, Bengali and English AI agents, cloud hosting and security, SEO and ecommerce, with every account registered to you.",
     pills: ["Consulting call free", "Legacy upgrades from ₹60,000", "Android & iOS from ₹40,000", "Bengali, Hindi and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Kolkata as a remote freelance group of three engineers, not a Kolkata company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
+    "BtechWaleTech provides IT consulting and IT solutions in Kolkata as a remote freelance group of three engineers working from India, with no office in Kolkata. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, ecommerce from ₹50,000 and custom software from ₹60,000, delivered in one to twelve weeks with five months of free maintenance.",
   snapshot: [
     { label: "Business districts", value: "Dalhousie (BBD Bagh), Park Street, Camac Street, Chowringhee and Esplanade for offices; Burrabazar and Posta for wholesale trade" },
     { label: "Tech hubs", value: "Salt Lake Sector V and New Town (Rajarhat), home to IT parks, ITeS operations and a growing startup community" },
@@ -80,11 +80,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-kolkata-freelance",
-      heading: "Looking for the best IT company in Kolkata? Here is where a freelance team fits",
+      heading: "Looking for the best IT services team in Kolkata? Here is where a freelance team fits",
       paragraphs: [
-        "The best IT company in Kolkata for your project is the one that matches its scale, skills and support model, which you can judge by using its live work, meeting the developers and reading an itemised quote. For owner-led businesses with focused needs, a small freelance team is often the better match.",
+        "The best IT services team in Kolkata for your project is the one that matches its scale, skills and support model, which you can judge by using its live work, meeting the developers and reading an itemised quote. For owner-led businesses with focused needs, a small freelance team is often the better match.",
         "If you are comparing IT companies in Kolkata, you will find large firms in Sector V and New Town, mid-sized software houses, and many individual developers. Ask each for a working system you can use today, the name of the person who will code your project, a feature-by-feature quote, written confirmation that all accounts and code will be yours, and the cost and terms of support in year two.",
-        "BtechWaleTech is a freelance group, not a company. Ankur Kumar leads full stack development, Santosh Sharma handles AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, automation and data work. We have no Kolkata office, do not work on site and take limited projects at once. In return, you get direct engineers, continuity and transparent pricing.",
+        "BtechWaleTech is a freelance group of three developers. Ankur Kumar leads full stack development, Santosh Sharma handles AI, machine learning, AWS and data science, and Vedansh Shrivastava manages projects, automation and data work. We have no Kolkata office, do not work on site and take limited projects at once. In return, you get direct engineers, continuity and transparent pricing.",
       ],
       list: [
         "Use a live system the vendor built",
@@ -232,9 +232,9 @@ const content: CityContent = {
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, with no office in Kolkata or elsewhere in West Bengal. We run consulting, reviews, testing and training over video calls, screen shares and WhatsApp, and you see a live preview of your project from the first week.",
     },
     {
-      question: "Are you the best IT company in Kolkata?",
+      question: "Are you the best IT services team in Kolkata?",
       answer:
-        "We do not claim that, and we are not a company; we are a freelance team. The right choice depends on your project. We suit owner-led businesses that want direct access to engineers, itemised pricing and full ownership. Large enterprise projects needing big teams or on-site staff are better served by larger firms.",
+        "We do not claim that; we are a small freelance team of three developers. The right choice depends on your project. We suit owner-led businesses that want direct access to engineers, itemised pricing and full ownership. Large enterprise projects needing big teams or on-site staff are better served by larger firms.",
     },
     {
       question: "How do Kolkata clients pay?",

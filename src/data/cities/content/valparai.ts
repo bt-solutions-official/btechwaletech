@@ -10,12 +10,12 @@ const valparai: CityContent = {
       "Tamil websites, Android and iOS apps, Google Maps SEO and WhatsApp booking automation for Valparai homestays, tea and coffee estates, taxis, shops and schools.",
     keywords: [
       "IT services in Valparai",
-      "IT company in Valparai",
-      "website development company in Valparai",
+      "IT services team in Valparai",
+      "website development team in Valparai",
       "web design in Valparai",
-      "app development company in Valparai",
+      "app development team in Valparai",
       "Android app development in Valparai",
-      "software company in Valparai",
+      "software team in Valparai",
       "SEO services in Valparai",
       "digital marketing in Valparai",
       "ecommerce website in Valparai",
@@ -83,10 +83,10 @@ const valparai: CityContent = {
     },
     {
       id: "plantation-estate-software",
-      heading: "Software company in Valparai for tea and coffee estate offices",
+      heading: "Software team in Valparai for tea and coffee estate offices",
       paragraphs: [
         "Around 56 estates share the Valparai plateau, each divided into divisions with their own lines, staff and factory links. Much of the recordkeeping still happens on paper: daily muster, plucking weights per worker, leave, wage advances, housing allocation, medical visits and ration supplies. The same figures are copied more than once before they reach the manager or head office.",
-        "As a <strong>software company in Valparai</strong> in practice, we build tools that fit estate routines instead of forcing office software onto them. Division supervisors can enter attendance and weights on a phone or tablet, even with no signal, and the data syncs when they reach the office. Wage calculations follow the rules you set, and managers see daily division-wise totals, trends by week and exceptions that need attention.",
+        "As a <strong>software team in Valparai</strong> in practice, we build tools that fit estate routines instead of forcing office software onto them. Division supervisors can enter attendance and weights on a phone or tablet, even with no signal, and the data syncs when they reach the office. Wage calculations follow the rules you set, and managers see daily division-wise totals, trends by week and exceptions that need attention.",
         "Welfare and housing records, which estates must maintain carefully, can sit in the same system with restricted access. Custom software starts at ₹60,000 and is usually built in stages over six to twelve weeks, beginning with the module that removes the most copying.",
         "We do not replace your accounts package; where needed, we export figures in a format your accountant or head office already uses.",
       ],
@@ -111,19 +111,19 @@ const valparai: CityContent = {
     },
     {
       id: "town-shops-valparai",
-      heading: "Website development company in Valparai for market shops and services",
+      heading: "Website development team in Valparai for market shops and services",
       paragraphs: [
         "The town market serves estate families from across the plateau: provisions, clothing, mobile phones, hardware, medicines, gas, stationery and school supplies. Many shoppers come in once a week or less, often on estate transport, so knowing in advance that a shop has what they need saves a wasted trip.",
-        "A <strong>website development company in Valparai</strong> should keep these sites short and useful. A stock category list, current timings including Sunday and festival hours, a phone and WhatsApp number, and a clear map pin do most of the work. For pharmacies and hardware shops, a request form lets customers ask for an item and collect it when the order arrives from Pollachi or Coimbatore.",
+        "A <strong>website development team in Valparai</strong> should keep these sites short and useful. A stock category list, current timings including Sunday and festival hours, a phone and WhatsApp number, and a clear map pin do most of the work. For pharmacies and hardware shops, a request form lets customers ask for an item and collect it when the order arrives from Pollachi or Coimbatore.",
         "These sites start at ₹10,000. We design them in Tamil first with English where visitors need it, and keep images compressed so the pages still open on a slow mobile connection.",
       ],
     },
     {
       id: "schools-clinics-valparai",
-      heading: "IT company in Valparai for schools, hospitals and community services",
+      heading: "IT services team in Valparai for schools, hospitals and community services",
       paragraphs: [
         "Valparai's schools, hospitals and clinics serve families who may live an hour's drive away on an estate road. Parents want fee dates, bus timings, holiday notices and exam schedules without travelling to ask. Patients want to know which doctor is available, whether a scan can be done locally, and what to bring.",
-        "As an <strong>IT company in Valparai</strong> for these organisations, we build plain, fast sites with notice boards that staff can update from a phone, doctor schedules and OPD timings, emergency contacts in large text, and forms for admissions or appointment requests. Where connectivity is poor, SMS or WhatsApp alerts reach more people than a website alone.",
+        "As an <strong>IT services team in Valparai</strong> for these organisations, we build plain, fast sites with notice boards that staff can update from a phone, doctor schedules and OPD timings, emergency contacts in large text, and forms for admissions or appointment requests. Where connectivity is poor, SMS or WhatsApp alerts reach more people than a website alone.",
         "We avoid medical claims and do not publish patient information. Student and patient data is stored with access limited to the staff who need it.",
       ],
     },
@@ -132,7 +132,7 @@ const valparai: CityContent = {
       heading: "Android app development in Valparai and iOS apps for estates and tourism",
       paragraphs: [
         "An app pays for itself only when a known group opens it regularly. In Valparai, strong candidates are estate supervisors entering daily data, a taxi service taking bookings from repeat travellers, a school sending notices to parents on estates, a large homestay group managing several properties, or a tea outlet whose customers reorder every month.",
-        "As an <strong>app development company in Valparai</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version usually has mobile number login, push notifications, the key screens your users need and an admin panel for your staff. Offline entry matters here more than almost anywhere, and we plan for it from the first screen.",
+        "As an <strong>app development team in Valparai</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version usually has mobile number login, push notifications, the key screens your users need and an admin panel for your staff. Offline entry matters here more than almost anywhere, and we plan for it from the first screen.",
         "<strong>Android app development in Valparai</strong> with us starts at ₹40,000. Payments, maps, offline sync and connections to other software add to the scope, and each appears on the quote as its own item. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If guests only need your tariff, photos and a phone number, a website does the job at a quarter of the cost, and we will recommend it. Nobody should pay for an app that sits unopened.",
       ],
@@ -224,7 +224,7 @@ const valparai: CityContent = {
         "A static homestay site usually goes live one to two weeks after we receive your photos, room details and tariffs. Adding a booking calendar or online advance payment adds a little time. A 700+ page SEO site takes three to five weeks, and a full online store four to eight weeks.",
     },
     {
-      question: "Who is the best website development company in Valparai?",
+      question: "Who is the best website development team in Valparai?",
       answer:
         "Choose a provider who publishes prices, registers your domain and code in your name, tests the site on slow mobile networks and stays reachable after launch. Ask each option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers is sensible.",
     },

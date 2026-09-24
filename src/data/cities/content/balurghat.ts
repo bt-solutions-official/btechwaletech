@@ -9,7 +9,7 @@ const balurghat: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Balurghat, Hili and Gangarampur businesses. Remote engineers, static sites from ₹10,000.",
     keywords: [
-      "website development company in Balurghat",
+      "website development team in Balurghat",
       "web design Balurghat",
       "website designer Dakshin Dinajpur",
       "freelance web developer Balurghat",

@@ -10,12 +10,12 @@ const namakkal: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Namakkal poultry farms, lorry body builders, transporters and schools.",
     keywords: [
       "IT services in Namakkal",
-      "IT company in Namakkal",
-      "website development company in Namakkal",
+      "IT services team in Namakkal",
+      "website development team in Namakkal",
       "web design in Namakkal",
-      "app development company in Namakkal",
+      "app development team in Namakkal",
       "Android app development in Namakkal",
-      "software company in Namakkal",
+      "software team in Namakkal",
       "SEO services in Namakkal",
       "digital marketing in Namakkal",
       "ecommerce website in Namakkal",
@@ -74,20 +74,20 @@ const namakkal: CityContent = {
     },
     {
       id: "poultry-farm-software",
-      heading: "Software company in Namakkal for poultry farms and egg traders",
+      heading: "Software team in Namakkal for poultry farms and egg traders",
       paragraphs: [
         "Namakkal's nickname, Egg City, comes from the hundreds of layer farms across the district. Around them sit feed mills, hatcheries, vaccine and medicine suppliers, equipment dealers, egg traders and the trucks that carry trays to markets across India. Daily egg prices in the region follow benchmark rates set by the National Egg Coordination Committee.",
         "Running a layer farm means tracking a lot of numbers every day: birds per shed, mortality, feed consumed, eggs collected and broken, vaccination schedules, trays dispatched and payments due from traders. Many farms still keep these in registers, and the owner sees the picture only at month end.",
-        "As a <strong>software company in Namakkal</strong>, we build farm tools that fix this. Supervisors enter shed-wise counts, feed and mortality from a phone each day. The owner sees production, feed cost per egg and flock health on one screen. Dispatch and trader ledgers show what has been sent, at what rate and what is still unpaid. These tools start at ₹60,000 and are built in stages over six to twelve weeks, starting with the daily shed register.",
+        "As a <strong>software team in Namakkal</strong>, we build farm tools that fix this. Supervisors enter shed-wise counts, feed and mortality from a phone each day. The owner sees production, feed cost per egg and flock health on one screen. Dispatch and trader ledgers show what has been sent, at what rate and what is still unpaid. These tools start at ₹60,000 and are built in stages over six to twelve weeks, starting with the daily shed register.",
         "We do not publish egg rates or price predictions on your site as fact. Rates change daily, and your own updates are the only reliable source.",
       ],
     },
     {
       id: "lorry-body-building",
-      heading: "Website development company in Namakkal for lorry body builders",
+      heading: "Website development team in Namakkal for lorry body builders",
       paragraphs: [
         "More than 150 lorry body building workshops operate in and around Namakkal, and they have been doing so since the 1960s. They build cargo bodies, tippers, trailers, LPG and fuel tankers and specialised vehicles, and they are supported by fabricators, painters, electrical workshops and suppliers of steel, fittings and paint. Fleet owners from many states bring chassis here to have bodies built.",
-        "A <strong>website development company in Namakkal</strong> can give these workshops a proper shop window. Each body type gets its own page with real photographs, dimensions, material and gauge options, compatible chassis, typical build time and finishing choices. A quote form asks for chassis make, body type, load and delivery date, and accepts photos or drawings.",
+        "A <strong>website development team in Namakkal</strong> can give these workshops a proper shop window. Each body type gets its own page with real photographs, dimensions, material and gauge options, compatible chassis, typical build time and finishing choices. A quote form asks for chassis make, body type, load and delivery date, and accepts photos or drawings.",
         "We never claim approvals, certifications or customer names on your site unless you can show us the documents or written permission. Buyers who travel from Maharashtra or Andhra Pradesh to Namakkal want accurate information, not big adjectives.",
         "A catalogue site starts at ₹10,000. Workshops that handle many builds at once can add a job card and status system, so customers can see progress without calling the supervisor.",
       ],
@@ -137,7 +137,7 @@ const namakkal: CityContent = {
       heading: "Android app development in Namakkal, and iOS apps for fleets and farms",
       paragraphs: [
         "Apps are worth building when the same people use them daily. In Namakkal that describes drivers logging trips and expenses, farm supervisors entering shed counts, egg traders checking stock and placing orders, body building customers following their vehicle's progress, and parents of boarding students receiving notices and fee reminders.",
-        "As an <strong>app development company in Namakkal</strong> working remotely, we build in Flutter or React Native, giving one codebase for Android phones and iPhones. A first version usually includes OTP login, push notifications, the key screens, Tamil labels where helpful and an admin panel. We publish on Google Play and the Apple App Store under developer accounts owned by you.",
+        "As an <strong>app development team in Namakkal</strong> working remotely, we build in Flutter or React Native, giving one codebase for Android phones and iPhones. A first version usually includes OTP login, push notifications, the key screens, Tamil labels where helpful and an admin panel. We publish on Google Play and the Apple App Store under developer accounts owned by you.",
         "<strong>Android app development in Namakkal</strong> with us starts at ₹40,000. Payments, offline entry for drivers on highways with weak signal, maps and GPS, and links to accounting software add to the quote, each as a separate line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "If your customers only need your location, hours and a price list, a website is enough and costs much less. We will recommend that instead of an app nobody keeps.",
       ],
@@ -171,9 +171,9 @@ const namakkal: CityContent = {
     },
     {
       id: "remote-team-namakkal",
-      heading: "How our remote IT company works with Namakkal clients",
+      heading: "How our remote IT services team works with Namakkal clients",
       paragraphs: [
-        "An <strong>IT company in Namakkal</strong> with a signboard and a reception desk is not what we are. We are three engineers working remotely, without an office anywhere, and we would rather you knew that from the first message. What we offer instead is paperwork you can hold us to: after an initial call, a written outline of pages or screens, delivery dates and a costed list of each item.",
+        "An <strong>IT services team in Namakkal</strong> with a signboard and a reception desk is not what we are. We are three engineers working remotely, without an office anywhere, and we would rather you knew that from the first message. What we offer instead is paperwork you can hold us to: after an initial call, a written outline of pages or screens, delivery dates and a costed list of each item.",
         "We start only when you approve that list, and we bill nothing before approval. While we build, preview links open on any phone, so a partner at the farm or a manager at the fleet office can review them too. All Tamil text is sent to you to check before it goes live.",
         "Our main line is WhatsApp, answered every day of the week on Indian time. If a date moves, you are told that day with a revised plan, and payments follow stages you can test yourself.",
       ],
@@ -238,7 +238,7 @@ const namakkal: CityContent = {
         "Expect a simple site for a shop, hospital or workshop to be live around two weeks after your photos and details arrive. SEO builds of 700+ pages need three to five weeks, stores four to eight and fleet or farm software six to twelve. The biggest delays come from waiting for content, so gathering it early helps.",
     },
     {
-      question: "Which is the best website development company in Namakkal?",
+      question: "Which is the best website development team in Namakkal?",
       answer:
         "Judge any provider on published prices, ownership of domain and code in your name, support after launch and real work you can check. Ask each the same questions and compare the answers. We meet those standards and reply on WhatsApp daily, but speaking to a few providers before you commit is a good habit.",
     },

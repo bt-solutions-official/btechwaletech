@@ -10,12 +10,12 @@ const bodhan: CityContent = {
       "Websites, Android and iOS apps, Telugu and Urdu SEO, rice mill software and WhatsApp automation for Bodhan traders, clinics and schools. Websites from ₹10,000.",
     keywords: [
       "IT services in Bodhan",
-      "IT company in Bodhan",
-      "website development company in Bodhan",
+      "IT services team in Bodhan",
+      "website development team in Bodhan",
       "web design in Bodhan",
-      "app development company in Bodhan",
+      "app development team in Bodhan",
       "Android app development in Bodhan",
-      "software company in Bodhan",
+      "software team in Bodhan",
       "SEO services in Bodhan",
       "digital marketing in Bodhan",
       "ecommerce website in Bodhan",
@@ -75,11 +75,11 @@ const bodhan: CityContent = {
     },
     {
       id: "rice-mills-bodhan",
-      heading: "Software company in Bodhan for rice mills and paddy traders",
+      heading: "Software team in Bodhan for rice mills and paddy traders",
       paragraphs: [
         "The Nizam Sagar canal system made the Bodhan area one of the steady paddy belts of northern Telangana, and rice milling became the town's working industry. Mills here buy paddy from farmers and commission agents, process it into raw and boiled rice, and sell to wholesalers, supply schemes and buyers in other districts. Most of this business still runs on registers and phone calls.",
         "A mill owner's real questions are simple: how much paddy came in this week and from whom, what yield did each lot give, how much rice of each variety is in the godown, which buyers owe money and for how long. We build web-based software that answers these on a phone screen. Paddy intake is entered once at the weighbridge with lot number, moisture and rate. Milling output is recorded by variety and grade. Dispatches are logged against each buyer with vehicle number and invoice.",
-        "Because a software company in Bodhan should respect how mills already work, we keep screens few and fields short, and we let the accountant keep using Tally. The software exports to Excel and reads Tally data where needed. A dashboard then shows yield per lot, stock by variety and the ageing of dues.",
+        "Because a software team in Bodhan should respect how mills already work, we keep screens few and fields short, and we let the accountant keep using Tally. The software exports to Excel and reads Tally data where needed. A dashboard then shows yield per lot, stock by variety and the ageing of dues.",
         "Custom mill software starts at ₹60,000 and usually takes six to twelve weeks, built in stages. We normally begin with intake and stock, and add the buyer ledger and an agent app once staff are comfortable with daily entries.",
       ],
     },
@@ -136,7 +136,7 @@ const bodhan: CityContent = {
       heading: "Android app development in Bodhan, and iOS apps for local businesses",
       paragraphs: [
         "Not every Bodhan business needs an app, and we say so openly. But some clearly do. A rice mill with field agents buying paddy in villages needs them to enter lots, weights and rates from a phone. A wholesale trader with fifty regular retailers benefits when those retailers can reorder from an app instead of calling at dinner time. A school with a thousand parents gains from fee reminders and notices that arrive as push notifications.",
-        "As an app development company in Bodhan working remotely, we build these in Flutter or React Native, so one codebase runs on both Android and iOS. A typical app has login by phone number and OTP, the main screens for the task (lot entry, product catalogue, fee status or appointment booking), push notifications and an admin panel on the web for the owner or office staff to manage everything.",
+        "As an app development team in Bodhan working remotely, we build these in Flutter or React Native, so one codebase runs on both Android and iOS. A typical app has login by phone number and OTP, the main screens for the task (lot entry, product catalogue, fee status or appointment booking), push notifications and an admin panel on the web for the owner or office staff to manage everything.",
         "Android app development in Bodhan should assume inexpensive phones and patchy data in villages, so we design for small screens, offline entry where needed and quick sync when signal returns. We publish the app on Google Play and the Apple App Store under your own developer accounts, so it stays yours if you ever change developers.",
         "Apps start at ₹40,000, with the final amount depending on screens, roles and integrations. When a website with a WhatsApp button would do the same job, we recommend that instead, since it costs less and needs no store updates.",
       ],
@@ -180,7 +180,7 @@ const bodhan: CityContent = {
     },
     {
       id: "remote-team-bodhan",
-      heading: "An IT company in Bodhan without an office here: how we work",
+      heading: "An IT services team in Bodhan without an office here: how we work",
       paragraphs: [
         "We should be clear: BtechWaleTech has no office in Bodhan, Nizamabad or anywhere in Telangana. We are three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava handles project management, data science and automation.",
         "Working with us from Bodhan is straightforward. You describe the business on WhatsApp or a short call. Within about two working days you receive an itemised written quote. Once you approve it in writing, we start and share a live preview link so you can check progress from the shop or the mill and send comments whenever you have time.",
@@ -228,7 +228,7 @@ const bodhan: CityContent = {
         "A business website with us starts at ₹10,000 and is usually ready in one to two weeks. A 700+ page SEO website starts at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. You receive an itemised written quote in about two working days and pay nothing before approving it.",
     },
     {
-      question: "Which is the best IT company in Bodhan for a small business?",
+      question: "Which is the best IT services team in Bodhan for a small business?",
       answer:
         "The right one is whoever replies quickly, puts every price in writing, registers the domain and hosting in your name and shows past work you can check. We are a remote team with no Bodhan office, so judge us on those same tests before deciding.",
     },

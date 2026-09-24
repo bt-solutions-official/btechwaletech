@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Hire Freelance Software Developers in Kohima",
     description:
-      "Skip the software development company in Kohima: hire three freelance engineers for booking systems, portals, AI agents and apps. Software from ₹60,000.",
+      "Skip the software development team in Kohima: hire three freelance engineers for booking systems, portals, AI agents and apps. Software from ₹60,000.",
     keywords: [
-      "software development company in Kohima",
-      "IT company in Kohima",
+      "software development team in Kohima",
+      "IT services team in Kohima",
       "IT solutions Kohima",
       "freelance software developer Kohima",
       "custom software Kohima Nagaland",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT services · Kohima, Nagaland",
     h1: "Freelance software developers in Kohima for bookings, portals, AI agents and apps",
     lede:
-      "Searching for a software development company in Kohima often ends with a long wait and a quote padded for overheads. BtechWaleTech is a freelance group of three engineers working remotely from India. We build booking engines for homestays, project trackers for contractors, portals for schools and societies, AI agents, dashboards, apps and search-ready websites for Nagaland's capital, with starting prices in the open.",
+      "Searching for a software development team in Kohima often ends with a long wait and a quote padded for overheads. BtechWaleTech is a freelance group of three engineers working remotely from India. We build booking engines for homestays, project trackers for contractors, portals for schools and societies, AI agents, dashboards, apps and search-ready websites for Nagaland's capital, with starting prices in the open.",
     pills: ["Booking and guest software", "Contractor project trackers", "AI agents from ₹40,000", "Portals from ₹60,000", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech offers IT solutions in Kohima as a freelance team, not a software development company: portals and custom software from ₹60,000 (6 to 12 weeks), AI agents and Android and iOS apps from ₹40,000, and websites from ₹10,000. Three engineers work remotely from India, and maintenance is free for five months after launch.",
+    "BtechWaleTech offers IT solutions in Kohima as a freelance team, not a software development team: portals and custom software from ₹60,000 (6 to 12 weeks), AI agents and Android and iOS apps from ₹40,000, and websites from ₹10,000. Three engineers work remotely from India, and maintenance is free for five months after launch.",
   snapshot: [
     { label: "Administrative role", value: "Capital of Nagaland, home to the Civil Secretariat, the Legislative Assembly and most state directorates" },
     { label: "Signature event", value: "The Hornbill Festival at the Naga Heritage Village, Kisama, about 12 km from town, every December, plus a Night Bazaar in the town itself" },
@@ -71,10 +71,10 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-it-company-kohima",
-      heading: "Should you hire a software development company in Kohima or a freelance team?",
+      heading: "Should you hire a software development team in Kohima or a freelance team?",
       paragraphs: [
         "For most Kohima organisations, a freelance software team is the more practical choice when the project is well defined and the budget is modest, while a larger software development company suits long contracts that need big teams, formal tenders and on-site staff. Both can build the same technology; the difference lies in overhead, speed of reply and who writes your code.",
-        "BtechWaleTech is a freelance group of three engineers, not a company with a Kohima branch. We work remotely from India, which means no office rent in the price and no account manager between you and the developer. A homestay owner at Jotsoma, a contractor near the Secretariat or a school principal at PR Hill talks to the same people who design the database and write the screens.",
+        "BtechWaleTech is a freelance group of three engineers with a Kohima branch. We work remotely from India, which means no office rent in the price and no account manager between you and the developer. A homestay owner at Jotsoma, a contractor near the Secretariat or a school principal at PR Hill talks to the same people who design the database and write the screens.",
         "The trade-off is honest: we cannot send someone to your office for a meeting, and we do not bid on large government tenders that demand a registered firm with a local presence. What we offer instead is careful discovery over video, a working test link every week and a written handover that lets anyone continue the work later.",
       ],
       list: [
@@ -258,7 +258,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software development company in Kohima?",
+      question: "Is BtechWaleTech a software development team in Kohima?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or staff in Kohima. We serve Kohima clients over WhatsApp, calls and video, share a working test link every week and hand over all code and logins at the end. If you need on-site staff or tender eligibility, a registered local company is the better fit.",
     },

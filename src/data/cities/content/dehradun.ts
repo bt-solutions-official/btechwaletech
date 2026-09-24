@@ -9,12 +9,12 @@ const dehradun: CityContent = {
     description:
       "Websites, SEO and automation for Dehradun schools, homestays, Selaqui pharma units and Rajpur Road shops. From ₹10,000, you own the code, 5 months free upkeep.",
     keywords: [
-      "website development company in Dehradun",
+      "website development team in Dehradun",
       "web design Dehradun",
       "website designer in Dehradun",
       "freelance web developer Dehradun",
       "website cost Dehradun",
-      "SEO company in Dehradun",
+      "SEO team in Dehradun",
       "local SEO Dehradun",
       "ecommerce website Dehradun",
       "school website design Dehradun",
@@ -197,7 +197,7 @@ const dehradun: CityContent = {
     { name: "Ballupur and Vasant Vihar", note: "Growing residential and retail demand. Map-first profiles for services and shops." },
     { name: "Prem Nagar", note: "Schools, coaching, hostels and markets near the western side. Course pages and hostel listings." },
     { name: "Clement Town", note: "Schools, colleges and residential areas in the south. Admissions and service sites." },
-    { name: "Sahastradhara Road", note: "SIDCUL IT Park and homestays towards the springs. IT company sites and booking pages." },
+    { name: "Sahastradhara Road", note: "SIDCUL IT Park and homestays towards the springs. IT services team sites and booking pages." },
     { name: "Selaqui", note: "Pharma City and industrial units. Product databases, certifications and franchise enquiry forms." },
     { name: "ISBT and Majra", note: "Transport hub and trade. Travel, lodging and wholesale sites with clear directions." },
     { name: "Jakhan and the Mussoorie road", note: "Homestays, cafés and residential growth. Room pages, menus and map listings." },

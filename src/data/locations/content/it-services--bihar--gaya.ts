@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "Freelance software developers for Gaya and Bodh Gaya: booking systems, web and mobile apps, AI automation, dashboards and SEO. From ₹10,000, 5 months free support.",
     keywords: [
-      "software development company in Gaya",
-      "IT company in Gaya",
+      "software development team in Gaya",
+      "IT services team in Gaya",
       "IT solutions Gaya",
-      "software company in Gaya Bihar",
+      "software team in Gaya Bihar",
       "custom software development Gaya",
       "hotel booking software Bodh Gaya",
       "pind daan booking website Gaya",
@@ -22,7 +22,7 @@ const content: CityContent = {
       "WhatsApp automation Gaya",
       "powerloom production software Manpur",
       "school management software Gaya",
-      "software company near me Gaya",
+      "software team near me Gaya",
       "IT services near Swarajpuri Road Gaya",
       "SEO services Gaya",
       "ecommerce website for tilkut Gaya",
@@ -72,7 +72,7 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-gaya",
-      heading: "Freelance developers or a software development company in Gaya: why build software, not just a website?",
+      heading: "Freelance developers or a software development team in Gaya: why build software, not just a website?",
       paragraphs: [
         "Software development, whether bought from a company or a freelance group like ours, means building the systems behind a business, not just its front page, and in Gaya those systems are what decide whether a busy season is profitable or chaotic. Booking engines, ritual schedules, room allocation, loom production records, fee tracking and automated replies all sit behind the website, and they are where most of the time is lost today.",
         "Gaya ji is unusual among Bihar cities because so much of its income depends on visitors who plan remotely. A family in Pune arranging pind daan, a Thai monastery group planning a Bodh Gaya retreat or a Sri Lankan tour operator reserving thirty rooms all expect to confirm details, pay an advance and receive a receipt without phoning five times. That is a software problem more than a design problem.",
@@ -212,9 +212,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-software-company-gaya",
-      heading: "Checklist: freelance team vs a software development company or IT company in Gaya",
+      heading: "Checklist: freelance team vs a software development team or IT services team in Gaya",
       paragraphs: [
-        "The safest way to choose an IT company in Gaya is to judge ownership, access and support rather than promises. Before paying anyone, confirm that the domain, hosting, app listing and source code will be in your name, that you will see working demos during the build, and that support terms after launch are written down.",
+        "The safest way to choose an IT services team in Gaya is to judge ownership, access and support rather than promises. Before paying anyone, confirm that the domain, hosting, app listing and source code will be in your name, that you will see working demos during the build, and that support terms after launch are written down.",
         "BtechWaleTech has no office in Gaya. We are three engineers working remotely, and all meetings, demos and training happen over video and WhatsApp. That keeps our prices lower and means you speak directly to the people building your software. You can read more <a href='/about/'>about us</a>, look at the <a href='/portfolio/'>portfolio</a>, or compare with our <a href='/it-services/bihar/patna/'>Patna IT services page</a>.",
       ],
       list: [
@@ -250,9 +250,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company based in Gaya?",
+      question: "Is BtechWaleTech a software team based in Gaya?",
       answer:
-        "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, not a company, and we have no office or staff in Gaya. We work with Gaya and Bodh Gaya businesses over video calls, screen sharing and WhatsApp. Because we do not pay local rent, our starting prices stay lower, and you talk directly to the engineers building your software.",
+        "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we have no office or staff in Gaya. We work with Gaya and Bodh Gaya businesses over video calls, screen sharing and WhatsApp. Because we do not pay local rent, our starting prices stay lower, and you talk directly to the engineers building your software.",
     },
     {
       question: "How much does a pilgrim or hotel booking system cost?",

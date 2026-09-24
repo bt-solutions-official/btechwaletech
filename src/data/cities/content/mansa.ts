@@ -10,12 +10,12 @@ const mansa: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Mansa cotton traders, arhtiyas, rice mills, clinics and coaching centres.",
     keywords: [
       "IT services in Mansa",
-      "IT company in Mansa",
-      "website development company in Mansa",
+      "IT services team in Mansa",
+      "website development team in Mansa",
       "web design in Mansa",
-      "app development company in Mansa",
+      "app development team in Mansa",
       "Android app development in Mansa",
-      "software company in Mansa",
+      "software team in Mansa",
       "SEO services in Mansa",
       "digital marketing in Mansa",
       "ecommerce website in Mansa",
@@ -75,10 +75,10 @@ const mansa: CityContent = {
     },
     {
       id: "arhtiya-mandi-software-mansa",
-      heading: "Software company in Mansa for arhtiyas and mandi traders",
+      heading: "Software team in Mansa for arhtiyas and mandi traders",
       paragraphs: [
         "The commission agent sits at the heart of Punjab's grain and cotton trade, and much of the work is still done in thick bahi-khatas. Each farmer has a running account of advances, crop sold, deductions and payments. Each buyer has lots, weights and dues. During wheat and paddy procurement and the cotton season, the volume of entries multiplies, and mistakes become expensive.",
-        "As a <strong>software company in Mansa</strong> clients hire remotely, we build web-based ledgers designed around how an arhtiya actually works. A farmer's page shows every advance, every lot and every payment in date order. A buyer's page shows what was sold and what is outstanding. A daily summary tells the owner how much came in, how much went out and who needs a follow-up call. Staff can enter data on a laptop at the shop or on a phone at the mandi.",
+        "As a <strong>software team in Mansa</strong> clients hire remotely, we build web-based ledgers designed around how an arhtiya actually works. A farmer's page shows every advance, every lot and every payment in date order. A buyer's page shows what was sold and what is outstanding. A daily summary tells the owner how much came in, how much went out and who needs a follow-up call. Staff can enter data on a laptop at the shop or on a phone at the mandi.",
         "We keep these tools deliberately plain. Large buttons, Punjabi or Hindi labels where helpful, and printouts that look like the slips farmers are used to. Access is controlled so that a munshi can enter lots but only the owner sees totals and margins. Backups run automatically, so a stolen or broken laptop does not wipe years of accounts.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We start with a written list of screens and reports, confirm it with you, and build in stages so that you can test each part during a quieter month before the season starts.",
       ],
@@ -95,10 +95,10 @@ const mansa: CityContent = {
     },
     {
       id: "website-development-company-in-mansa",
-      heading: "Website development company in Mansa: getting the first site right",
+      heading: "Website development team in Mansa: getting the first site right",
       paragraphs: [
         "A first website for a Mansa business should answer the questions customers already ask on the phone. Where exactly is the shop? What brands or products are in stock? What are the timings during harvest season? Is there parking for a tractor-trolley? How do I pay? When these answers sit clearly on one page, the calls you receive are about buying, not about directions.",
-        "As a <strong>website development company in Mansa</strong> that works remotely, we begin with a short call to list the pages you need. A typical small site includes a home page, pages for each product line or service, a contact page with a correct Google Maps pin and a gallery of real photographs. Static websites of up to 100 pages start at ₹10,000 and usually go live in one to two weeks.",
+        "As a <strong>website development team in Mansa</strong> that works remotely, we begin with a short call to list the pages you need. A typical small site includes a home page, pages for each product line or service, a contact page with a correct Google Maps pin and a gallery of real photographs. Static websites of up to 100 pages start at ₹10,000 and usually go live in one to two weeks.",
         "For <strong>web design in Mansa</strong>, we keep the design honest. Your photographs, product names and a few lines in your own words about how long the business has been running do more than stock images of skyscrapers. Text in Punjabi Gurmukhi or Hindi is set as real text, so Google can read it and customers can zoom in on older phones.",
         "Pages are built to load fast on village networks, with the call and WhatsApp buttons always visible. You can see how we approach builds on the <a href=\"/services/web-development/\">web development</a> page. Send us the three questions customers ask most, and we will shape the first draft around them.",
       ],
@@ -118,7 +118,7 @@ const mansa: CityContent = {
       heading: "Android and iOS app development in Mansa: when an app pays back",
       paragraphs: [
         "An app is worth building in Mansa when the same people come back often. A seed and pesticide distributor whose field staff visit retailers in villages across the district can use an app to log orders and collections on the spot. A coaching or IELTS institute can use one for class schedules, mock test results and fee reminders. A dairy or grocery business with regular customers can take repeat orders without phone calls.",
-        "As an <strong>app development company in Mansa</strong> clients can reach on WhatsApp, we build Android and iOS apps in Flutter or React Native, so one codebase runs on both platforms. A typical build includes phone-number login, push notifications, an admin panel for your staff and simple reports. We publish the app on Google Play and the App Store under developer accounts registered to you, so the app remains your property.",
+        "As an <strong>app development team in Mansa</strong> clients can reach on WhatsApp, we build Android and iOS apps in Flutter or React Native, so one codebase runs on both platforms. A typical build includes phone-number login, push notifications, an admin panel for your staff and simple reports. We publish the app on Google Play and the App Store under developer accounts registered to you, so the app remains your property.",
         "<strong>Android app development in Mansa</strong> is usually the priority, since most customers and staff here carry Android phones, but adding iOS costs little extra with a shared codebase. Apps start at ₹40,000. The final price depends on screens, offline use for staff in low-signal villages, payments inside the app and any link to your accounts software.",
         "An app is not always the answer. If your customers only need a location, timings and a price list, a fast website and a correct Maps listing will serve them better at a much lower cost. We will tell you when that is the case. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> page.",
       ],
@@ -175,11 +175,11 @@ const mansa: CityContent = {
     },
     {
       id: "remote-it-company-mansa",
-      heading: "Hiring a remote IT company in Mansa without a local office",
+      heading: "Hiring a remote IT services team in Mansa without a local office",
       paragraphs: [
         "Many owners in Mansa prefer to meet a vendor face to face, and we respect that. We are upfront that we have no office in Mansa or anywhere in Punjab. We are a remote team of three, and our process is designed so that the distance is not a disadvantage.",
         "Projects begin on WhatsApp. You send voice notes, photographs, price lists or old visiting cards; we reply with questions and a short written plan. Calls and screen shares are fixed at times that suit you, including after the shop closes. We answer seven days a week on IST, and every stage ends with something you can open and check on your phone.",
-        "When choosing an <strong>IT company in Mansa</strong>, the practical test is whether the vendor replies on time, explains things without jargon and writes commitments down. We keep a shared record of decisions, changes and dates, so nothing depends on anyone's memory, and a son, daughter or partner abroad can review the same record.",
+        "When choosing an <strong>IT services team in Mansa</strong>, the practical test is whether the vendor replies on time, explains things without jargon and writes commitments down. We keep a shared record of decisions, changes and dates, so nothing depends on anyone's memory, and a son, daughter or partner abroad can review the same record.",
         "Because we carry no office rent or sales staff, more of your budget goes into the work itself. To begin, send a short message through our <a href=\"/contact/\">contact page</a> with your business name and what you want customers to do.",
       ],
     },
@@ -230,7 +230,7 @@ const mansa: CityContent = {
         "A simple site usually goes live within one to two weeks of receiving your photographs and details. Large SEO sites take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Waiting for content is the usual cause of delay, so we send a short checklist on the first day.",
     },
     {
-      question: "Which is the best website development company in Mansa?",
+      question: "Which is the best website development team in Mansa?",
       answer:
         "Look for a provider that registers the domain and hosting in your name, hands over the source code, gives an itemised quote and keeps replying after launch. We meet those tests as a remote team without a Mansa office. Ask every vendor you compare, us included, to show live work and explain ownership clearly.",
     },

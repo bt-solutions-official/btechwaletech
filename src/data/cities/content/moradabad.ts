@@ -9,12 +9,12 @@ const moradabad: CityContent = {
     description:
       "Export catalogue websites, local SEO and WhatsApp automation for Moradabad brass exporters, traders and clinics. Sites from ₹10,000, you own everything.",
     keywords: [
-      "website development company in Moradabad",
+      "website development team in Moradabad",
       "website designer Moradabad",
       "web design Moradabad",
       "handicraft exporter website Moradabad",
       "brassware catalogue website",
-      "SEO company Moradabad",
+      "SEO team Moradabad",
       "local SEO Moradabad",
       "ecommerce website Moradabad",
       "software development Moradabad",

@@ -10,12 +10,12 @@ const diphu: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Diphu ginger and turmeric traders, handloom makers, colleges, clinics, hotels and shops.",
     keywords: [
       "IT services in Diphu",
-      "IT company in Diphu",
-      "website development company in Diphu",
+      "IT services team in Diphu",
+      "website development team in Diphu",
       "web design in Diphu",
-      "app development company in Diphu",
+      "app development team in Diphu",
       "Android app development in Diphu",
-      "software company in Diphu",
+      "software team in Diphu",
       "SEO services in Diphu",
       "digital marketing in Diphu",
       "ecommerce website in Diphu",
@@ -74,19 +74,19 @@ const diphu: CityContent = {
     },
     {
       id: "ginger-turmeric-traders",
-      heading: "Website development company in Diphu for ginger, turmeric and produce traders",
+      heading: "Website development team in Diphu for ginger, turmeric and produce traders",
       paragraphs: [
         "Agriculture, horticulture and forestry are the backbone of Karbi Anglong's economy, and the district is known for ginger, turmeric, pineapple and arecanut. Traders and aggregators in and around Diphu buy from hill villages and sell to wholesalers in Guwahati, Siliguri, Kolkata and beyond, often through brokers who take a large share.",
-        "A <strong>website development company in Diphu</strong> can help those traders reach buyers directly with a factual site: crops handled, varieties and grades, fresh and dried forms, harvest seasons, packing, minimum order quantities, licences and GST details, photographs of real stock and a quote form that asks for quantity and delivery location. Buyers for spices, especially organic or speciality buyers, want to see where the produce comes from.",
+        "A <strong>website development team in Diphu</strong> can help those traders reach buyers directly with a factual site: crops handled, varieties and grades, fresh and dried forms, harvest seasons, packing, minimum order quantities, licences and GST details, photographs of real stock and a quote form that asks for quantity and delivery location. Buyers for spices, especially organic or speciality buyers, want to see where the produce comes from.",
         "We never claim organic, GI or export certification that you do not hold, and we show certificates only when they are real. A static site of this kind starts at ₹10,000, and a larger SEO site with separate pages for each crop and form starts at ₹20,000.",
       ],
     },
     {
       id: "trader-purchase-software",
-      heading: "Software company in Diphu for aggregators, wholesalers and contractors",
+      heading: "Software team in Diphu for aggregators, wholesalers and contractors",
       paragraphs: [
         "Buying produce from dozens of villages creates a lot of small records: who supplied how many kilos, at what grade and rate, what advance was given, which lot went to which buyer, and what is still owed. Wholesalers supplying shops across the district face the same problem in reverse, and contractors working on government and council projects need clean records of bills, materials and labour.",
-        "As a <strong>software company in Diphu</strong> for these businesses, we build web tools where each purchase, sale or bill is entered once from a phone, totals appear by supplier, buyer, lot or work order, and balances are always visible. Entries can be made offline in areas with weak signal and synced later, which matters in the hills.",
+        "As a <strong>software team in Diphu</strong> for these businesses, we build web tools where each purchase, sale or bill is entered once from a phone, totals appear by supplier, buyer, lot or work order, and balances are always visible. Entries can be made offline in areas with weak signal and synced later, which matters in the hills.",
         "Such systems start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the register that causes the most disputes. We can export to Tally so your accountant does not need to change how they work, and add a daily WhatsApp summary for the owner.",
       ],
     },
@@ -131,7 +131,7 @@ const diphu: CityContent = {
       heading: "Android app development in Diphu, and iOS apps from the same code",
       paragraphs: [
         "An app is worth building when a known group of people opens it regularly. In Diphu, that might be coaching students taking tests and downloading notes, parents receiving school notices, patients booking clinic slots, village retailers ordering from a wholesaler, or produce agents logging purchases in the field, including in places with patchy signal.",
-        "As an <strong>app development company in Diphu</strong> working remotely, we build apps in Flutter or React Native, so one codebase runs on Android and iPhone. A first version usually includes OTP login, push notifications, the key screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Diphu</strong> working remotely, we build apps in Flutter or React Native, so one codebase runs on Android and iPhone. A first version usually includes OTP login, push notifications, the key screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Diphu</strong> with us starts at ₹40,000. Online payments, offline entry, maps and links to other software add to the cost, and each is listed separately in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need an address, phone number and price list, a website and map listing will do that job for a fraction of the cost. We will recommend that instead of an app your customers would not install.",
       ],
@@ -224,7 +224,7 @@ const diphu: CityContent = {
         "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick content and approvals shorten the timeline most.",
     },
     {
-      question: "Which is the best IT company in Diphu?",
+      question: "Which is the best IT services team in Diphu?",
       answer:
         "There is no official ranking, so judge on evidence. A dependable provider shows its prices openly, puts the domain and code in the client's name, answers the phone after launch and can point to live work. Send the same list of questions to two or three options, including us, and decide on the written replies.",
     },

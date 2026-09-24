@@ -9,7 +9,7 @@ const hugliChinsurah: CityContent = {
     description:
       "Websites, Google Maps work, online stores and WhatsApp tools for Hugli-Chinsurah shops, clinics, lawyers, tutors and Bandel businesses. Itemised quotes.",
     keywords: [
-      "website development company in Chinsurah",
+      "website development team in Chinsurah",
       "web designer Hooghly",
       "website design Hugli-Chinsurah",
       "website designer Bandel",

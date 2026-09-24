@@ -13,8 +13,8 @@ const content: CityContent = {
       "mobile app developers Silchar",
       "iOS app development Silchar",
       "iPhone app developers Silchar",
-      "software development company in Silchar",
-      "IT company in Silchar",
+      "software development team in Silchar",
+      "IT services team in Silchar",
       "IT solutions Silchar",
       "freelance software developers in Silchar",
       "billing and inventory software Silchar",
@@ -71,10 +71,10 @@ const content: CityContent = {
   sections: [
     {
       id: "hire-freelance-developers-silchar",
-      heading: "Why hire freelance software developers in Silchar instead of a software company?",
+      heading: "Why hire freelance software developers in Silchar instead of a software team?",
       paragraphs: [
         "Silchar businesses hire freelance software developers when they want lower overheads, direct contact with the people writing code, and software shaped around their own process rather than a generic package. BtechWaleTech is a freelance group of three engineers working remotely from India; we have no Silchar office and never claim one.",
-        "A software development company in Silchar or Guwahati can suit organisations that need large teams, formal account managers or someone to visit the premises. For many traders, hospitals, institutes and tea gardens in the Barak Valley, the need is narrower: a billing system that fits how the godown actually works, a token system for a busy OPD, or a payroll tool that matches garden rules.",
+        "A software development team in Silchar or Guwahati can suit organisations that need large teams, formal account managers or someone to visit the premises. For many traders, hospitals, institutes and tea gardens in the Barak Valley, the need is narrower: a billing system that fits how the godown actually works, a token system for a busy OPD, or a payroll tool that matches garden rules.",
         "Our work in Silchar therefore starts with how things are done today, not with a product demo. We ask for sample bills, registers and message screenshots, map the process, and then propose the smallest system that removes the most manual work. The full range of what we build is on our <a href='/services/'>services page</a>; for a website-focused view of the city, see <a href='/silchar/'>Silchar web design</a>.",
       ],
     },
@@ -311,9 +311,9 @@ const content: CityContent = {
         "Yes, from Excel, CSV and most accounting software exports. Paper registers need to be typed in, which your staff or a data-entry helper can do using simple import sheets we provide. We check imported data with you before go-live so opening balances and stock are correct.",
     },
     {
-      question: "Should we hire freelancers or an IT company in Silchar?",
+      question: "Should we hire freelancers or an IT services team in Silchar?",
       answer:
-        "It depends. A freelance group like ours offers lower overheads, direct engineer contact and published prices, but works remotely. A local or Guwahati IT company may offer site visits and larger teams at higher cost. Whichever you choose, insist on ownership in your name and written support terms.",
+        "It depends. A freelance group like ours offers lower overheads, direct engineer contact and published prices, but works remotely. A local or Guwahati IT services team may offer site visits and larger teams at higher cost. Whichever you choose, insist on ownership in your name and written support terms.",
     },
     {
       question: "How do we get started?",

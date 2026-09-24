@@ -9,7 +9,7 @@ const firozabad: CityContent = {
     description:
       "Websites, online catalogues, SEO and WhatsApp ordering for Firozabad glass, bangle and local businesses. Sites from ₹10,000, 5 months free maintenance.",
     keywords: [
-      "website development company in Firozabad",
+      "website development team in Firozabad",
       "website designer Firozabad",
       "web design Firozabad",
       "website cost Firozabad",

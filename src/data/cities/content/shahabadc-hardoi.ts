@@ -10,12 +10,12 @@ const shahabadHardoi: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Shahabad, Hardoi: carpet weavers, mandi traders, dairies, clinics, schools and shops.",
     keywords: [
       "IT services in Shahabad Hardoi",
-      "IT company in Shahabad",
-      "website development company in Shahabad",
+      "IT services team in Shahabad",
+      "website development team in Shahabad",
       "web design in Shahabad Hardoi",
-      "app development company in Shahabad",
+      "app development team in Shahabad",
       "Android app development in Shahabad",
-      "software company in Shahabad Hardoi",
+      "software team in Shahabad Hardoi",
       "SEO services in Shahabad",
       "digital marketing in Shahabad Hardoi",
       "ecommerce website in Shahabad",
@@ -83,19 +83,19 @@ const shahabadHardoi: CityContent = {
     },
     {
       id: "mandi-traders-software",
-      heading: "Software company in Shahabad for mandi traders and commission agents",
+      heading: "Software team in Shahabad for mandi traders and commission agents",
       paragraphs: [
         "The Shahabad New Mandi handles grain and produce from villages across the tehsil. Traders and commission agents juggle purchases from farmers, sales to mills and outside buyers, weighments, bags, labour charges, advances and payments that come in over weeks. Much of it still lives in bahi-khata registers.",
-        "As a <strong>software company in Shahabad</strong> in the practical sense, we build web tools for exactly this. Each purchase or sale is entered once from a phone or computer, with party, commodity, weight, rate and charges. The owner sees party-wise balances, daily totals, stock by commodity and pending payments without adding columns by hand.",
+        "As a <strong>software team in Shahabad</strong> in the practical sense, we build web tools for exactly this. Each purchase or sale is entered once from a phone or computer, with party, commodity, weight, rate and charges. The owner sees party-wise balances, daily totals, stock by commodity and pending payments without adding columns by hand.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built in stages so the ledger goes live first. We can print bills, export to Tally and keep the screens in Hindi. If your volume is small and a good spreadsheet would do, we will set that up and not sell you software you do not need.",
       ],
     },
     {
       id: "dairy-sweets-shahabad",
-      heading: "Website development company in Shahabad for dairies and sweet shops",
+      heading: "Website development team in Shahabad for dairies and sweet shops",
       paragraphs: [
         "Dairy products are another pillar of the local economy. Milk collection centres, paneer and khoya makers, sweet shops and small dairies deal with dozens of suppliers and hundreds of daily customers. The paperwork is repetitive: litres and fat per supplier, payment cycles, daily sales and wedding-season bulk orders.",
-        "Working as a <strong>website development company in Shahabad</strong> for this trade, we build two kinds of tools. For customers, a simple site with the menu or product list, prices where you want them shown, bulk order details for weddings and festivals, and a WhatsApp order button. For the back office, a collection register that shows each supplier's quantity, fat reading and amount due.",
+        "Working as a <strong>website development team in Shahabad</strong> for this trade, we build two kinds of tools. For customers, a simple site with the menu or product list, prices where you want them shown, bulk order details for weddings and festivals, and a WhatsApp order button. For the back office, a collection register that shows each supplier's quantity, fat reading and amount due.",
         "A supplier app is worth considering when many farmers want to see their own entries and payments without calling. Otherwise a daily WhatsApp summary sent automatically is cheaper and just as useful. We will explain both options with prices before you choose.",
         "Sweet shops have their own rhythm. Orders for weddings, Eid and Diwali arrive in bursts, often with specific quantities, delivery dates and addresses in nearby villages. A simple order form that records item, weight, date and advance paid, and sends the counter a WhatsApp alert, prevents the missed or double-booked orders that cost goodwill in the busiest weeks of the year.",
       ],
@@ -114,7 +114,7 @@ const shahabadHardoi: CityContent = {
       heading: "Android app development in Shahabad and iOS apps for local businesses",
       paragraphs: [
         "An app is worth the money when the same people open it often. In Shahabad that could be milk suppliers checking daily entries and payments, a school's parents receiving homework and fee reminders, a coaching centre's students seeing test results, or a distributor's retailers across the tehsil placing repeat orders.",
-        "As an <strong>app development company in Shahabad</strong> that works remotely, we build with Flutter or React Native so one codebase serves both Android phones and iPhones. A first release usually has mobile-number login, the core screens, push notifications and an admin panel for the owner. Hindi text throughout is standard for us.",
+        "As an <strong>app development team in Shahabad</strong> that works remotely, we build with Flutter or React Native so one codebase serves both Android phones and iPhones. A first release usually has mobile-number login, the core screens, push notifications and an admin panel for the owner. Hindi text throughout is standard for us.",
         "<strong>Android app development in Shahabad</strong> starts at ₹40,000 with us. Online payments, offline entry for villages with weak signal, location tracking for delivery staff or links to billing software add cost, and each appears as its own line in the quote. We publish the app on Google Play and the App Store under accounts in your name.",
         "If your customers only need your phone number, timings and a price list, a website with a WhatsApp button costs far less and does the job better than an app nobody keeps. We will tell you that honestly.",
       ],
@@ -157,9 +157,9 @@ const shahabadHardoi: CityContent = {
     },
     {
       id: "remote-team-shahabad",
-      heading: "An IT company in Shahabad that works remotely: our process",
+      heading: "An IT services team in Shahabad that works remotely: our process",
       paragraphs: [
-        "Anyone looking for an <strong>IT company in Shahabad</strong> may hope for someone to sit in the shop and discuss things. We cannot do that, so we put every step in writing. After a first call about your business, you receive a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
+        "Anyone looking for an <strong>IT services team in Shahabad</strong> may hope for someone to sit in the shop and discuss things. We cannot do that, so we put every step in writing. After a first call about your business, you receive a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. Hindi content is shared for your approval before it goes live, and you see the work on preview links on your own phone. Payments are tied to milestones you can see, and nothing is billed before you approve the quote in writing.",
         "This keeps our starting prices low and spares you trips to Hardoi, Shahjahanpur or Lucknow for meetings. Message us from the <a href=\"/contact/\">contact page</a>, or first read about our <a href=\"/services/web-development/\">web development services</a>.",
       ],
@@ -224,7 +224,7 @@ const shahabadHardoi: CityContent = {
         "A static website is usually ready in one to two weeks after we get your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the simplest way to keep to the timeline.",
     },
     {
-      question: "Which is the best website development company in Shahabad?",
+      question: "Which is the best website development team in Shahabad?",
       answer:
         "Compare every option on the same points: published starting prices, domain and code in your name, a written itemised quote, real work you can check and support after launch. Ask each the same questions. We meet those standards and reply on WhatsApp daily, but you should check everyone, including us.",
     },

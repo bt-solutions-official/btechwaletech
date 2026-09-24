@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Ujjain: hotel and puja booking systems, Simhastha-ready apps, AI agents, factory software and dashboards. Mobile apps from ₹40,000.",
     keywords: [
-      "software development company in Ujjain",
-      "IT company in Ujjain",
+      "software development team in Ujjain",
+      "IT services team in Ujjain",
       "IT solutions Ujjain",
       "freelance software developer Ujjain",
       "hotel booking software Ujjain",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Ujjain, Madhya Pradesh",
     h1: "Freelance software developers in Ujjain for pilgrim services, hotels, industry and trade",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Ujjain hotels, dharamshalas, puja service providers, taxi operators, Vikram Udyogpuri and Maksi Road units and mandi traders hire us instead of a software development company in Ujjain to build booking engines, Simhastha-ready apps, AI agents, factory software and dashboards, with hosting and SEO handled.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Ujjain hotels, dharamshalas, puja service providers, taxi operators, Vikram Udyogpuri and Maksi Road units and mandi traders hire us instead of a software development team in Ujjain to build booking engines, Simhastha-ready apps, AI agents, factory software and dashboards, with hosting and SEO handled.",
     pills: ["Booking systems from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "Simhastha-ready hosting", "Multilingual pilgrim flows", "5 months free maintenance"],
   },
   quickAnswer:
-    "Looking for a software development company in Ujjain? BtechWaleTech is a freelance group of three remote engineers. Booking engines and custom software start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. Quotes are itemised within about two working days, with five months of free maintenance.",
+    "Looking for a software development team in Ujjain? BtechWaleTech is a freelance group of three remote engineers. Booking engines and custom software start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000, ecommerce at ₹50,000 and websites at ₹10,000. Quotes are itemised within about two working days, with five months of free maintenance.",
   snapshot: [
     { label: "Pilgrimage centre", value: "Mahakaleshwar Jyotirlinga and the Mahakal Lok corridor, plus Kal Bhairav, Harsiddhi and Ram Ghat on the Shipra" },
     { label: "Major event", value: "Simhastha Kumbh held every 12 years, with the next one due in 2028 and large infrastructure work underway" },
@@ -71,7 +71,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-ujjain",
-      heading: "Should an Ujjain business hire freelancers or a software development company in Ujjain?",
+      heading: "Should an Ujjain business hire freelancers or a software development team in Ujjain?",
       paragraphs: [
         "Hire a freelance group when you need a focused booking system, automation or app with direct engineer contact and controlled cost; hire a larger software development company in Ujjain or Indore when you need a big team, formal certifications or on-site staff. Most Ujjain hotels, service providers and traders fit the first profile.",
         "Ujjain has a handful of local software firms and many more serving it from Indore. Hotel and service owners often end up choosing between a costly agency build and a cheap template that collapses when traffic surges on a festival weekend. Neither is ideal for a business whose income depends on a few peak periods each year.",
@@ -248,9 +248,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an Ujjain software company?",
+      question: "Is BtechWaleTech an Ujjain software team?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Ujjain. We work with Ujjain businesses online through video calls, WhatsApp and phone, and the engineers who build your system are the people you speak with.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Ujjain. We work with Ujjain businesses online through video calls, WhatsApp and phone, and the engineers who build your system are the people you speak with.",
     },
     {
       question: "How do Ujjain clients pay?",

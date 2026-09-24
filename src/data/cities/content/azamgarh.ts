@@ -9,7 +9,7 @@ const azamgarh: CityContent = {
     description:
       "Websites, Hindi and Bhojpuri local SEO, saree and black pottery stores and WhatsApp automation for Azamgarh shops, clinics, schools and NRI families. From ₹10,000.",
     keywords: [
-      "website development company in Azamgarh",
+      "website development team in Azamgarh",
       "website designer Azamgarh",
       "web design Azamgarh Uttar Pradesh",
       "SEO services Azamgarh",

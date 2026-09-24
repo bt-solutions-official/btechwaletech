@@ -9,7 +9,7 @@ const neemuch: CityContent = {
     description:
       "Websites, export catalogues, SEO and WhatsApp automation for Neemuch mandi traders, herb exporters, processors and clinics. Sites from ₹10,000, free upkeep 5 months.",
     keywords: [
-      "website development company in Neemuch",
+      "website development team in Neemuch",
       "web designer Neemuch",
       "website design Neemuch MP",
       "freelance web developer Neemuch",

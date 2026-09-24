@@ -9,7 +9,7 @@ const shivpuri: CityContent = {
     description:
       "Websites, Google Maps setup, stores and WhatsApp automation for Shivpuri shops, clinics, coaching centres, stays near Madhav Tiger Reserve and agri traders.",
     keywords: [
-      "website development company in Shivpuri",
+      "website development team in Shivpuri",
       "web designer Shivpuri MP",
       "website design Shivpuri Madhya Pradesh",
       "freelance web developer Shivpuri",

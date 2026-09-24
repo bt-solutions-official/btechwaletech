@@ -10,12 +10,12 @@ const ratnagiri: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Ratnagiri Alphonso growers, fish exporters, MIDC units, beach stays and clinics.",
     keywords: [
       "IT services in Ratnagiri",
-      "IT company in Ratnagiri",
-      "website development company in Ratnagiri",
+      "IT services team in Ratnagiri",
+      "website development team in Ratnagiri",
       "web design in Ratnagiri",
-      "app development company in Ratnagiri",
+      "app development team in Ratnagiri",
       "Android app development in Ratnagiri",
-      "software company in Ratnagiri",
+      "software team in Ratnagiri",
       "SEO services in Ratnagiri",
       "digital marketing in Ratnagiri",
       "ecommerce website in Ratnagiri",
@@ -85,20 +85,20 @@ const ratnagiri: CityContent = {
     },
     {
       id: "fishing-mirkarwada-software",
-      heading: "Software company in Ratnagiri for Mirkarwada fish traders and boat owners",
+      heading: "Software team in Ratnagiri for Mirkarwada fish traders and boat owners",
       paragraphs: [
         "Mirkarwada is one of Maharashtra's main fish landing centres, and much of the town's working economy runs through it: boat owners, crew, auctioneers, commission agents, ice suppliers, processing and export buyers, transporters and net and diesel dealers. Accounts are complex and settled quickly, and disputes over weights or rates are common.",
-        "As a <strong>software company in Ratnagiri</strong>, we build web tools that follow the way the harbour already works. Each landing is recorded by boat, species, weight and rate; commission, ice and transport are deducted automatically; buyer dues and boat-wise earnings show on one screen; and a statement can be sent on WhatsApp to the boat owner or crew leader the same day.",
+        "As a <strong>software team in Ratnagiri</strong>, we build web tools that follow the way the harbour already works. Each landing is recorded by boat, species, weight and rate; commission, ice and transport are deducted automatically; buyer dues and boat-wise earnings show on one screen; and a statement can be sent on WhatsApp to the boat owner or crew leader the same day.",
         "Traders who supply processors or exporters can add lot records with grade, packing and cold storage details, which makes buyer audits much easier. During the monsoon fishing ban, the software is a good time to review a season's numbers rather than a pile of diaries.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We keep the first version close to your register, then add reports once your team uses it daily.",
       ],
     },
     {
       id: "midc-suppliers-ratnagiri",
-      heading: "Website development company in Ratnagiri for MIDC and industrial suppliers",
+      heading: "Website development team in Ratnagiri for MIDC and industrial suppliers",
       paragraphs: [
         "Ratnagiri's industrial base is larger than many visitors expect. The MIDC area at Mirjole houses a range of units, Finolex operates a PVC plant at Ranpar near Pawas, and JSW runs a port and a thermal power station at Jaigad further up the coast. Around these sit fabricators, electrical and instrumentation contractors, transporters, canteen and housekeeping contractors, safety equipment suppliers and machine shops.",
-        "Purchase and vendor registration teams look for suppliers online, and a firm with no proper site often never makes the shortlist. As a <strong>website development company in Ratnagiri</strong>, we build factual sites covering services, machines and equipment, capacities, safety practices and certifications you actually hold, GST and registration details and named contacts. They load fast on an office desktop and read well on a manager's phone.",
+        "Purchase and vendor registration teams look for suppliers online, and a firm with no proper site often never makes the shortlist. As a <strong>website development team in Ratnagiri</strong>, we build factual sites covering services, machines and equipment, capacities, safety practices and certifications you actually hold, GST and registration details and named contacts. They load fast on an office desktop and read well on a manager's phone.",
         "We never name a client or plant on your site without written permission. Workshops with repeat jobs can add an RFQ form with drawing upload or a job status page.",
         "A capability site starts at ₹10,000 and can grow into a full enquiry and job-tracking system later on the same domain.",
       ],
@@ -118,7 +118,7 @@ const ratnagiri: CityContent = {
       heading: "Android app development in Ratnagiri, and iOS apps for loyal customers",
       paragraphs: [
         "An app is worth building when a known group returns to it again and again. In Ratnagiri, that describes mango buyers who order every season and want to pre-book early, fish traders sharing daily rates with regular buyers, schools and colleges sending notices to parents and students, hospitals issuing tokens, and MIDC contractors logging work at plant sites.",
-        "As an <strong>app development company in Ratnagiri</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release usually has mobile number login, push notifications, the main screens and an admin panel. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Ratnagiri</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first release usually has mobile number login, push notifications, the main screens and an admin panel. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Ratnagiri</strong> with us starts at ₹40,000. Payments, Marathi screens, offline entry for sheds and boats with weak signal, maps and billing integrations add scope and are priced separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the steps.",
         "Many mango sellers do not need an app at all. A good store and a WhatsApp broadcast reach the same buyers for less, and we will tell you if that is your case.",
       ],
@@ -165,9 +165,9 @@ const ratnagiri: CityContent = {
     },
     {
       id: "remote-team-ratnagiri",
-      heading: "IT company in Ratnagiri without an office: how the remote work runs",
+      heading: "IT services team in Ratnagiri without an office: how the remote work runs",
       paragraphs: [
-        "Working as a remote <strong>IT company in Ratnagiri</strong>, we replace office visits with clear documents and visible progress. After a first call, you receive a written page or screen plan, a timeline and an itemised quote. Once you approve, preview links show the real state of the work on your phone.",
+        "Working as a remote <strong>IT services team in Ratnagiri</strong>, we replace office visits with clear documents and visible progress. After a first call, you receive a written page or screen plan, a timeline and an itemised quote. Once you approve, preview links show the real state of the work on your phone.",
         "We answer WhatsApp every day, weekends included, on Indian Standard Time. Marathi text is sent to you for checking before anything is published. If something slips, we tell you the moment we know, which matters most when a mango launch date is fixed by the fruit.",
         "Payments are staged against progress, and nothing is billed before you approve the quote in writing. Reach us any time on our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -232,7 +232,7 @@ const ratnagiri: CityContent = {
         "Ideally in October or November. An online store takes four to eight weeks, and search engines need time to find your pages before buyers start looking in January and February. Starting late usually means launching without testing, which is risky for perishable fruit and courier timings.",
     },
     {
-      question: "Who is the best website development company in Ratnagiri?",
+      question: "Who is the best website development team in Ratnagiri?",
       answer:
         "Choose a provider who publishes prices, puts your domain and code in your name, stays reachable during your busy season and shows live work. Ask each one the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing a few options first is sensible.",
     },

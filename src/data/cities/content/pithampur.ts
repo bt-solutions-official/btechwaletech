@@ -10,12 +10,12 @@ const pithampur: CityContent = {
       "Websites, Android and iOS apps, supplier software, SEO and WhatsApp automation for Pithampur auto component makers, pharma units, transporters and local shops.",
     keywords: [
       "IT services in Pithampur",
-      "IT company in Pithampur",
-      "website development company in Pithampur",
+      "IT services team in Pithampur",
+      "website development team in Pithampur",
       "web design in Pithampur",
-      "app development company in Pithampur",
+      "app development team in Pithampur",
       "Android app development in Pithampur",
-      "software company in Pithampur",
+      "software team in Pithampur",
       "SEO services in Pithampur",
       "digital marketing in Pithampur",
       "ecommerce website in Pithampur",
@@ -75,10 +75,10 @@ const pithampur: CityContent = {
     },
     {
       id: "auto-component-vendors",
-      heading: "Website development company in Pithampur for auto component suppliers",
+      heading: "Website development team in Pithampur for auto component suppliers",
       paragraphs: [
         "Pithampur's reputation as the “Detroit of India” comes from its vehicle makers, and each large plant depends on dozens of smaller suppliers: machined parts, sheet metal, castings, forgings, rubber and plastic components, wiring, fasteners, paint shops, tool rooms and heat treatment. Their customers also include plants in Indore, Dewas and other states.",
-        "A <strong>website development company in Pithampur</strong> serving these firms has one job: present the supplier accurately to engineers and buyers who have never visited the shop floor. That means a list of machines with make, bed size and capacity, the materials and tolerances you work with, inspection equipment, certifications you actually hold, industries served, monthly capacity and clear contact people for sales and quality.",
+        "A <strong>website development team in Pithampur</strong> serving these firms has one job: present the supplier accurately to engineers and buyers who have never visited the shop floor. That means a list of machines with make, bed size and capacity, the materials and tolerances you work with, inspection equipment, certifications you actually hold, industries served, monthly capacity and clear contact people for sales and quality.",
         "An RFQ form that accepts drawings and specifies quantity, material and target date saves back-and-forth email. For regular customers, a small portal showing order status and dispatch dates cuts down on follow-up calls. We never list a customer brand on your website without written permission from that customer, because many supply agreements forbid it.",
         "A capability website starts at ₹10,000 and usually takes one to two weeks once photographs and machine lists are ready. Good photographs of the shop floor, taken on a clean day, do more for credibility than any design effect. See our <a href=\"/services/web-development/\">web development service</a> for what is included.",
       ],
@@ -95,10 +95,10 @@ const pithampur: CityContent = {
     },
     {
       id: "vendor-dispatch-software",
-      heading: "Software company in Pithampur for dispatch, job cards and vendor tracking",
+      heading: "Software team in Pithampur for dispatch, job cards and vendor tracking",
       paragraphs: [
         "Much of the paperwork in Pithampur's supplier units still runs on registers, Excel sheets and WhatsApp photos. Job cards move from machine to machine on paper, dispatch challans are typed separately from invoices, rejections come back without a clear record, and payment follow-ups depend on someone's memory.",
-        "As a <strong>software company in Pithampur</strong> in the practical sense, we build focused web tools for these gaps. A job card system tracks each order through operations with operator, machine and time. A dispatch module links challans, vehicle numbers and invoices. A rejection log records the reason, quantity and corrective action so that the next audit is not a scramble. A payments view shows what each customer plant owes and since when.",
+        "As a <strong>software team in Pithampur</strong> in the practical sense, we build focused web tools for these gaps. A job card system tracks each order through operations with operator, machine and time. A dispatch module links challans, vehicle numbers and invoices. A rejection log records the reason, quantity and corrective action so that the next audit is not a scramble. A payments view shows what each customer plant owes and since when.",
         "These tools run in a browser on shop floor tablets and office computers, with user roles so supervisors, quality staff and accounts see what they need. Where you already use Tally, we import or export data rather than replacing it. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, starting with the module that saves the most time.",
         "We keep the first version plain. Fancy screens can wait; what matters is that operators actually enter data during a busy shift.",
       ],
@@ -115,10 +115,10 @@ const pithampur: CityContent = {
     },
     {
       id: "android-ios-apps-pithampur",
-      heading: "App development company in Pithampur: when an Android or iOS app makes sense",
+      heading: "App development team in Pithampur: when an Android or iOS app makes sense",
       paragraphs: [
         "Apps work when a defined group of users open them often. Around Pithampur, good cases include a factory canteen or staff transport contractor managing daily passes, a training institute sending batch updates, a hospital near the sectors issuing tokens, a grocery or pharmacy delivering to worker colonies, and a vendor that wants its customers to check order status on their phones.",
-        "As an <strong>app development company in Pithampur</strong> working remotely, we plan the app in writing first: who uses it, the three or four screens that matter, what the admin panel controls, and what happens when there is no network. Then we build, test on real devices and publish on Google Play and the Apple App Store. Plants often issue iPhones to managers, so the iOS version is not an afterthought.",
+        "As an <strong>app development team in Pithampur</strong> working remotely, we plan the app in writing first: who uses it, the three or four screens that matter, what the admin panel controls, and what happens when there is no network. Then we build, test on real devices and publish on Google Play and the Apple App Store. Plants often issue iPhones to managers, so the iOS version is not an afterthought.",
         "Apps start at ₹40,000. Payments, maps, integration with your software, multiple languages and offline sync add cost, and each addition is listed separately in the quote. Store accounts are registered to you, so the app remains yours if you ever change developers. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a>.",
         "If customers only need your address, phone number and a product list, a fast website and a correct map listing do that for much less. We will recommend that path first when it is enough.",
       ],
@@ -164,7 +164,7 @@ const pithampur: CityContent = {
     },
     {
       id: "remote-team-pithampur",
-      heading: "How our remote IT company works with Pithampur clients",
+      heading: "How our remote IT services team works with Pithampur clients",
       paragraphs: [
         "We are not in Pithampur, so the process is documented. A first call covers what you make or sell, who your customers are and what the website, app or software should do. You then receive a written plan, a timeline and an itemised quote that your management can approve. After approval, we share preview links you can open on any phone or office computer.",
         "We answer WhatsApp every day, including weekends, on Indian Standard Time. For factory software, we schedule updates outside your peak dispatch hours and tell you in advance. If a problem or delay arises, you hear about it as soon as we know.",
@@ -231,7 +231,7 @@ const pithampur: CityContent = {
         "A capability website usually goes live in one to two weeks after we receive machine lists, photographs and company details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Clear content from your side is the biggest factor.",
     },
     {
-      question: "Who is the best software company in Pithampur?",
+      question: "Who is the best software team in Pithampur?",
       answer:
         "The right provider publishes prices, puts the domain and code in your company's name, documents scope in writing and stays reachable after launch. Ask every option the same questions and look at working examples. We meet those tests and answer on WhatsApp all week, but comparing two or three providers is wise.",
     },

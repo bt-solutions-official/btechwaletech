@@ -10,12 +10,12 @@ const mahasamund: CityContent = {
       "Hindi and Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Mahasamund rice millers, Belsonda units, clinics, colleges and shops.",
     keywords: [
       "IT services in Mahasamund",
-      "IT company in Mahasamund",
-      "website development company in Mahasamund",
+      "IT services team in Mahasamund",
+      "website development team in Mahasamund",
       "web design in Mahasamund",
-      "app development company in Mahasamund",
+      "app development team in Mahasamund",
       "Android app development in Mahasamund",
-      "software company in Mahasamund",
+      "software team in Mahasamund",
       "SEO services in Mahasamund",
       "digital marketing in Mahasamund",
       "ecommerce website in Mahasamund",
@@ -74,10 +74,10 @@ const mahasamund: CityContent = {
     },
     {
       id: "rice-mills-software",
-      heading: "Software company in Mahasamund for rice mills and grain traders",
+      heading: "Software team in Mahasamund for rice mills and grain traders",
       paragraphs: [
         "Paddy is the main crop of the district, and the rice mills around Mahasamund, including those along the new mandi road, handle a heavy season every year. Trucks of paddy arrive, get weighed and sampled, and are milled into rice, broken rice and bran that move on to buyers inside and outside Chhattisgarh. Most of this is still tracked in registers and a spreadsheet kept by one trusted munim.",
-        "As a <strong>software company in Mahasamund</strong> in practical terms, we build small web tools that fit the mill's real routine. Each truck is entered once with vehicle number, weight, moisture and lot. Milling output is recorded against the lot, so recovery is visible by batch. Stock of rice, broken rice and bran is always current, and dispatch slips, buyer dues and transporter payments sit on the same screen. The owner can see the day's position on a phone from anywhere.",
+        "As a <strong>software team in Mahasamund</strong> in practical terms, we build small web tools that fit the mill's real routine. Each truck is entered once with vehicle number, weight, moisture and lot. Milling output is recorded against the lot, so recovery is visible by batch. Stock of rice, broken rice and bran is always current, and dispatch slips, buyer dues and transporter payments sit on the same screen. The owner can see the day's position on a phone from anywhere.",
         "These systems start at ₹60,000 and are built in phases over six to twelve weeks. We normally begin with intake and stock, because that is where money leaks first, and add buyer accounts, reports and a Tally export later. The best time to build is the off-season, so the tool is tested before the next rush of paddy arrives.",
       ],
     },
@@ -92,10 +92,10 @@ const mahasamund: CityContent = {
     },
     {
       id: "belsonda-birkoni-industry",
-      heading: "Website development company in Mahasamund for Belsonda and Birkoni units",
+      heading: "Website development team in Mahasamund for Belsonda and Birkoni units",
       paragraphs: [
         "Belsonda, about five kilometres from the town centre on the Raipur side, is Mahasamund's main industrial pocket, with power plants, an LPG bottling unit and a newer railway goods yard. Birkoni, on the highway to the north, has more units. The district also has deposits of granite, limestone, quartz and black stone, which feed stone-cutting factories and tile makers.",
-        "These plants rely on smaller firms for fabrication, electrical work, transport, loading labour, canteens, security, and spare parts. Purchase officers often look a supplier up online before they call. A <strong>website development company in Mahasamund</strong> should give such firms a site that answers their questions: what work you take, which machines and vehicles you own, safety practices, GST and registration details, and who to call.",
+        "These plants rely on smaller firms for fabrication, electrical work, transport, loading labour, canteens, security, and spare parts. Purchase officers often look a supplier up online before they call. A <strong>website development team in Mahasamund</strong> should give such firms a site that answers their questions: what work you take, which machines and vehicles you own, safety practices, GST and registration details, and who to call.",
         "For stone and tile units, a product catalogue with finishes, sizes, thickness and loading details saves many phone calls from builders and dealers in Raipur and Odisha. We add an enquiry form that asks for quantity, size and delivery point, so every enquiry arrives complete. We never list a client's name on your site unless that client has agreed in writing.",
       ],
     },
@@ -131,7 +131,7 @@ const mahasamund: CityContent = {
       heading: "Android app development in Mahasamund, with iOS apps from the same build",
       paragraphs: [
         "An app makes sense when a known group of people will open it every week. In Mahasamund that could be a rice mill's regular buyers placing orders and checking dispatch, a coaching institute's parents viewing attendance and test marks, a hospital's patients taking tokens, a wholesale trader's retailers in Bagbahara and Saraipali re-ordering stock, or a transporter's drivers logging trips.",
-        "As an <strong>app development company in Mahasamund</strong> that works remotely, we use Flutter or React Native, so one codebase produces both the Android app and the iPhone app. A typical first version has mobile number login, push notifications, the few screens your users need, and a web admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Mahasamund</strong> that works remotely, we use Flutter or React Native, so one codebase produces both the Android app and the iPhone app. A typical first version has mobile number login, push notifications, the few screens your users need, and a web admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Mahasamund</strong> starts at ₹40,000. The price rises with online payment, offline use in low-signal villages, maps, multiple user roles or links to your existing software, and each of these appears separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how the work is staged.",
         "If your customers only need your address, phone number, timings and a price list, a website does that job at a fraction of the cost, and nobody has to install anything. In that case we will advise the website and save you the app budget.",
       ],
@@ -223,7 +223,7 @@ const mahasamund: CityContent = {
         "A static website usually takes one to two weeks after we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content that is ready on day one is the biggest factor in speed.",
     },
     {
-      question: "Which is the best IT company in Mahasamund for a small business?",
+      question: "Which is the best IT services team in Mahasamund for a small business?",
       answer:
         "Choose whoever publishes prices, registers the domain and code in your name, can show finished work and stays reachable after launch. Ask each option the same questions and compare the answers. We meet those tests and reply on WhatsApp every day, but talking to two or three providers first is sensible.",
     },

@@ -10,12 +10,12 @@ const rampurhat: CityContent = {
       "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Rampurhat stone crushers, Tarapith hotels, clinics, colleges and traders.",
     keywords: [
       "IT services in Rampurhat",
-      "IT company in Rampurhat",
-      "website development company in Rampurhat",
+      "IT services team in Rampurhat",
+      "website development team in Rampurhat",
       "web design in Rampurhat",
-      "app development company in Rampurhat",
+      "app development team in Rampurhat",
       "Android app development in Rampurhat",
-      "software company in Rampurhat",
+      "software team in Rampurhat",
       "SEO services in Rampurhat",
       "digital marketing in Rampurhat",
       "ecommerce website in Rampurhat",
@@ -74,11 +74,11 @@ const rampurhat: CityContent = {
     },
     {
       id: "stone-crusher-software",
-      heading: "Software company in Rampurhat for the Pachami and Salbadra stone belt",
+      heading: "Software team in Rampurhat for the Pachami and Salbadra stone belt",
       paragraphs: [
         "The quarries and crushers around Pachami, Salbadra, Nalhati and Rajgram supply a large share of the stone chips and aggregates used in West Bengal's roads and buildings. Hundreds of crushers operate in the belt, and the trade around them includes truck owners, loaders, weighbridge operators, spare parts dealers, diesel suppliers and commission agents.",
         "The paperwork is heavy. Each load needs a weighment, a grade, a buyer, a vehicle number, a challan and a rate, and payments come in at different times from builders, contractors and depots. Owners who still reconcile this from registers at night lose money through gaps they cannot see.",
-        "As a <strong>software company in Rampurhat</strong>, we build web tools that record each dispatch once, from the weighbridge office or a phone: vehicle, grade, tonnes, buyer and rate. Totals appear by day, by buyer and by truck, outstanding amounts are listed by party, and document expiry alerts cover permits, fitness and insurance. Reports export to Excel or feed into Tally.",
+        "As a <strong>software team in Rampurhat</strong>, we build web tools that record each dispatch once, from the weighbridge office or a phone: vehicle, grade, tonnes, buyer and rate. Totals appear by day, by buyer and by truck, outstanding amounts are listed by party, and document expiry alerts cover permits, fitness and insurance. Reports export to Excel or feed into Tally.",
         "These systems start at ₹60,000 and are built over six to twelve weeks. We start with the dispatch register, because it pays for itself fastest, and add payment follow-up and dashboards later. We do not handle mining permissions or compliance filings; the software records what you enter.",
       ],
     },
@@ -94,10 +94,10 @@ const rampurhat: CityContent = {
     },
     {
       id: "clinics-medical-college",
-      heading: "Website development company in Rampurhat for clinics, labs and pharmacies",
+      heading: "Website development team in Rampurhat for clinics, labs and pharmacies",
       paragraphs: [
         "Rampurhat Government Medical College and Hospital at Batail is the main referral hospital for the subdivision and beyond, and it has shaped the town around it. Private clinics, diagnostic centres, pharmacies, nursing homes, ambulance services and lodges for patients' families have grown up nearby.",
-        "Families travelling from villages in Murarai, Nalhati or across the border in Jharkhand want to know before they leave: which doctor sits on which day, whether a test needs fasting, when reports come, what the charges are. A <strong>website development company in Rampurhat</strong> can answer these questions with simple, accurate pages, cutting down on wasted journeys.",
+        "Families travelling from villages in Murarai, Nalhati or across the border in Jharkhand want to know before they leave: which doctor sits on which day, whether a test needs fasting, when reports come, what the charges are. A <strong>website development team in Rampurhat</strong> can answer these questions with simple, accurate pages, cutting down on wasted journeys.",
         "We build doctor and department pages, test lists with preparation notes, OPD schedules, and a WhatsApp appointment flow that confirms slots. Diagnostic centres can add report downloads protected by a patient code. We keep medical content factual and ask a doctor on your side to check every clinical line.",
         "Nothing on the site suggests a link with the government hospital unless one exists, and we write no health claims that your doctors would not sign off.",
       ],
@@ -137,7 +137,7 @@ const rampurhat: CityContent = {
       heading: "Android app development in Rampurhat, and iOS apps for local businesses",
       paragraphs: [
         "Apps are worth building when a known group uses them often. In Rampurhat, good cases include crusher dispatch staff recording loads at the gate, lodge guests who return every year to Tarapith, a diagnostic centre's patients checking reports, a coaching centre's parents getting notices and marks, and a wholesaler's retailers placing weekly orders.",
-        "As an <strong>app development company in Rampurhat</strong> that works remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version includes mobile number login, push notifications, the key screens your users need and an admin panel. We publish on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Rampurhat</strong> that works remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version includes mobile number login, push notifications, the key screens your users need and an admin panel. We publish on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Rampurhat</strong> with us starts at ₹40,000. Costs rise with offline mode for quarry sites with weak signal, online payment, maps, weighbridge or printer links, and multiple user roles, each quoted as a separate line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for detail.",
         "If people only need your address, timings and prices, a website does the job for far less and needs no download. We will recommend that, because an unused app is money wasted.",
       ],
@@ -174,9 +174,9 @@ const rampurhat: CityContent = {
     },
     {
       id: "remote-team-rampurhat",
-      heading: "How our remote IT company works with Rampurhat clients",
+      heading: "How our remote IT services team works with Rampurhat clients",
       paragraphs: [
-        "We are not an IT company in Rampurhat with a local office; we are three engineers working remotely, and we say so on the first call. The work begins with a conversation about your business, your customers and what you want to change. You then receive a written plan of pages or screens, dates and a costed list of every item.",
+        "We are not an IT services team in Rampurhat with a local office; we are three engineers working remotely, and we say so on the first call. The work begins with a conversation about your business, your customers and what you want to change. You then receive a written plan of pages or screens, dates and a costed list of every item.",
         "Work starts only after you approve that list, and no bill comes before then. You see progress on preview links that open on any phone, so partners and family can comment without meeting us. Bengali text is sent to you for checking before anything goes live.",
         "WhatsApp is our main channel, answered seven days a week on Indian time. If a date slips, you hear about it the day we know, along with the new date. Payments follow milestones you can see working.",
       ],
@@ -241,7 +241,7 @@ const rampurhat: CityContent = {
         "A simple static site usually goes live within one to two weeks of receiving your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content early.",
     },
     {
-      question: "Who is the best website development company in Rampurhat?",
+      question: "Who is the best website development team in Rampurhat?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, shows real work and answers after launch. Ask everyone the same questions and compare. We meet those tests and reply on WhatsApp every day, but speaking to two or three options before deciding is wise.",
     },

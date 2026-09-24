@@ -9,7 +9,7 @@ const navsari: CityContent = {
     description:
       "Websites, local SEO and automation for Navsari traders, chikoo growers, clinics and diamond units. Sites from ₹10,000, with 5 months of free maintenance.",
     keywords: [
-      "website development company in Navsari",
+      "website development team in Navsari",
       "website designer Navsari",
       "web design Navsari Gujarat",
       "freelance web developer Navsari",
@@ -17,7 +17,7 @@ const navsari: CityContent = {
       "local SEO Navsari",
       "ecommerce website Navsari",
       "Amalsad chikoo online store",
-      "software company Navsari",
+      "software team Navsari",
       "WhatsApp automation Navsari",
       "AI automation South Gujarat",
       "website maintenance Navsari",

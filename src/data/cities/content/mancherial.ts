@@ -9,7 +9,7 @@ const mancherial: CityContent = {
     description:
       "Websites, Telugu SEO and WhatsApp tools for Mancherial coal-belt contractors, cement suppliers, hospitals, colleges and Hamaliwada traders. Starts at ₹10,000.",
     keywords: [
-      "website development company in Mancherial",
+      "website development team in Mancherial",
       "web designer Mancherial",
       "website design Mancherial Telangana",
       "SEO services Mancherial",
@@ -19,7 +19,7 @@ const mancherial: CityContent = {
       "hospital website Mancherial",
       "ecommerce website Mancherial",
       "WhatsApp automation Mancherial",
-      "software company Mancherial",
+      "software team Mancherial",
       "website cost Mancherial",
       "freelance web developer Mancherial",
       "Mancherial lo website",

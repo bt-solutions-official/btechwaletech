@@ -9,7 +9,7 @@ const adilabad: CityContent = {
     description:
       "Websites, Telugu and Marathi SEO, stores and WhatsApp tools for Adilabad ginning mills, agri dealers, NH 44 hotels, Dokra artisans, clinics and shops. From ₹10,000.",
     keywords: [
-      "website development company in Adilabad",
+      "website development team in Adilabad",
       "web designer Adilabad",
       "website design Adilabad Telangana",
       "SEO services Adilabad",
@@ -19,7 +19,7 @@ const adilabad: CityContent = {
       "Dokra craft online store",
       "ecommerce website Adilabad",
       "WhatsApp automation Adilabad",
-      "software company Adilabad",
+      "software team Adilabad",
       "website cost Adilabad",
       "freelance web developer Adilabad",
       "Adilabad mein website",

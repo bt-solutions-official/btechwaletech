@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & IT Developers in Mokokchung",
     description:
-      "Need a software development company in Mokokchung? Hire three freelance engineers for school portals, billing software, AI tools, apps and local SEO.",
+      "Need a software development team in Mokokchung? Hire three freelance engineers for school portals, billing software, AI tools, apps and local SEO.",
     keywords: [
-      "software development company in Mokokchung",
-      "IT company in Mokokchung",
+      "software development team in Mokokchung",
+      "IT services team in Mokokchung",
       "IT solutions Mokokchung",
       "freelance software developer Mokokchung",
       "school management software Mokokchung",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT services · Mokokchung, Nagaland",
     h1: "Freelance software developers for Mokokchung's schools, shops and service offices",
     lede:
-      "Most people searching for a software development company in Mokokchung need something specific: a fee portal, a billing tool, a mobile-friendly site that finally shows up on Google, or someone who keeps it running. BtechWaleTech is a freelance group of three engineers working remotely from India, delivering custom software, apps, AI automation, dashboards, SEO and maintenance to the Ao heartland at published starting prices.",
+      "Most people searching for a software development team in Mokokchung need something specific: a fee portal, a billing tool, a mobile-friendly site that finally shows up on Google, or someone who keeps it running. BtechWaleTech is a freelance group of three engineers working remotely from India, delivering custom software, apps, AI automation, dashboards, SEO and maintenance to the Ao heartland at published starting prices.",
     pills: ["School and fee portals", "Billing and stock tools", "Mobile-first websites from ₹10,000", "Maintenance from ₹8,000/month", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "For IT solutions in Mokokchung, BtechWaleTech works as a freelance team, not a software development company: websites from ₹10,000 in 1 to 2 weeks, AI automation or Android and iOS apps from ₹40,000, and custom software such as school or billing portals from ₹60,000 in 6 to 12 weeks. We are three engineers working remotely; maintenance is free for five months.",
+    "For IT solutions in Mokokchung, BtechWaleTech works as a freelance team, not a software development team: websites from ₹10,000 in 1 to 2 weeks, AI automation or Android and iOS apps from ₹40,000, and custom software such as school or billing portals from ₹60,000 in 6 to 12 weeks. We are three engineers working remotely; maintenance is free for five months.",
   snapshot: [
     { label: "Place in Nagaland", value: "Headquarters of Mokokchung district and the main town of the Ao Naga people, often described as the state's cultural and intellectual centre" },
     { label: "Town layout", value: "Wards on a ridge, including Kumlong, Sangtemla, Alempang and Yimyu, with the market and offices along the main road" },
@@ -86,10 +86,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-mokokchung",
-      heading: "Freelance developers or an IT company in Mokokchung: how do they compare?",
+      heading: "Freelance developers or an IT services team in Mokokchung: how do they compare?",
       paragraphs: [
-        "Freelance developers usually cost less, reply faster and let you speak with the person writing the code, while an IT company offers larger teams, formal contracts and sometimes a local presence. For a Mokokchung school, clinic or shop with a clear, modest project, a freelance team is often the better value.",
-        "BtechWaleTech is not an IT company with a Mokokchung branch. We are three engineers who have chosen to work as a freelance group from elsewhere in India. You will not get a visiting sales representative, but you will get a direct line to the developer, a weekly test link and written documentation of everything built.",
+        "Freelance developers usually cost less, reply faster and let you speak with the person writing the code, while an IT services team offers larger teams, formal contracts and sometimes a local presence. For a Mokokchung school, clinic or shop with a clear, modest project, a freelance team is often the better value.",
+        "BtechWaleTech is not an IT services team with a Mokokchung branch. We are three engineers who have chosen to work as a freelance group from elsewhere in India. You will not get a visiting sales representative, but you will get a direct line to the developer, a weekly test link and written documentation of everything built.",
         "There are cases where a local or larger company is the right call: projects requiring government tender eligibility, on-site hardware installation, or a big team working for years. We say so openly when that applies, because a mismatched hire wastes everyone's money.",
       ],
       list: [
@@ -272,7 +272,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software company based in Mokokchung?",
+      question: "Are you a software team based in Mokokchung?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or employees in Mokokchung. We work with clients over WhatsApp, phone and video, share weekly test links and hand over every login and all source code. Nothing about the project requires you to travel.",
     },

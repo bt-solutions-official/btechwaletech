@@ -10,12 +10,12 @@ const vinukonda: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Vinukonda cotton and chilli traders, input dealers, clinics, schools and shops.",
     keywords: [
       "IT services in Vinukonda",
-      "IT company in Vinukonda",
-      "website development company in Vinukonda",
+      "IT services team in Vinukonda",
+      "website development team in Vinukonda",
       "web design in Vinukonda",
-      "app development company in Vinukonda",
+      "app development team in Vinukonda",
       "Android app development in Vinukonda",
-      "software company in Vinukonda",
+      "software team in Vinukonda",
       "SEO services in Vinukonda",
       "digital marketing in Vinukonda",
       "ecommerce website in Vinukonda",
@@ -74,19 +74,19 @@ const vinukonda: CityContent = {
     },
     {
       id: "cotton-chilli-traders",
-      heading: "Software company in Vinukonda for cotton, chilli and pulses traders",
+      heading: "Software team in Vinukonda for cotton, chilli and pulses traders",
       paragraphs: [
         "Palnadu is one of Andhra Pradesh's major cotton and chilli belts, with paddy and pulses where water allows. Much of the chilli from the region is finally traded at the Guntur mirchi yard, while cotton moves to ginning units. Between the farmer and those markets sit local traders and commission agents who buy lot by lot, pay advances before the season, and settle accounts when prices are known.",
-        "As a <strong>software company in Vinukonda</strong>, we build simple tools for these traders. Each purchase is entered once on a phone: farmer, village, crop, variety, bags or quintals, moisture or grade, rate and weighbridge slip number. The system keeps running balances per farmer, advances and interest if you charge it, stock by lot, and dispatches to each buyer with payments pending.",
+        "As a <strong>software team in Vinukonda</strong>, we build simple tools for these traders. Each purchase is entered once on a phone: farmer, village, crop, variety, bags or quintals, moisture or grade, rate and weighbridge slip number. The system keeps running balances per farmer, advances and interest if you charge it, stock by lot, and dispatches to each buyer with payments pending.",
         "Sending the day's rate to farmers on WhatsApp alone can cut dozens of calls at harvest. Such software starts at ₹60,000, delivered in phases across six to twelve weeks. Phase one is always the purchase book and farmer ledger, where disputes cost the most, with a Tally export for the accountant.",
       ],
     },
     {
       id: "input-dealers-vinukonda",
-      heading: "IT company in Vinukonda for fertiliser, seed and pesticide dealers",
+      heading: "IT services team in Vinukonda for fertiliser, seed and pesticide dealers",
       paragraphs: [
         "Farm input dealers are among the busiest businesses in any Palnadu town. They carry hundreds of products, sell a large share on credit until harvest, deal with company schemes and rate changes, and must keep licence and stock records in order. Many also supply smaller retailers in surrounding villages.",
-        "An <strong>IT company in Vinukonda</strong> can take much of this off paper. We build billing and stock tools with batch and expiry tracking, farmer-wise credit with due dates, and statements that can be sent on WhatsApp. For dealers who supply village shops, a retailer ordering app shows your current price list and lets orders come in without phone calls.",
+        "An <strong>IT services team in Vinukonda</strong> can take much of this off paper. We build billing and stock tools with batch and expiry tracking, farmer-wise credit with due dates, and statements that can be sent on WhatsApp. For dealers who supply village shops, a retailer ordering app shows your current price list and lets orders come in without phone calls.",
         "We never give crop advice on your behalf, and product pages only show what the manufacturer's label and your licence allow. A plain website listing brands, services and a contact number starts at ₹10,000; billing and credit software starts at ₹60,000 and grows with your business.",
       ],
     },
@@ -101,10 +101,10 @@ const vinukonda: CityContent = {
     },
     {
       id: "water-health-vinukonda",
-      heading: "Website development company in Vinukonda for hospitals, clinics and RO water suppliers",
+      heading: "Website development team in Vinukonda for hospitals, clinics and RO water suppliers",
       paragraphs: [
         "Groundwater in and around Vinukonda has long been known for high fluoride, and drinking water is a daily concern. That has created a steady local trade in RO water plants, can delivery services, purifier dealers and service technicians. At the same time, hospitals, dental clinics, orthopaedic practices, diagnostic labs and pharmacies serve patients from the whole mandal and beyond.",
-        "A <strong>website development company in Vinukonda</strong> can help both groups. For water suppliers, a simple site with areas served, can sizes, delivery timings and a WhatsApp order button, plus a subscription sheet for regular households, removes a lot of phone work. For clinics, pages list doctors, specialities, consultation days, test preparation and emergency numbers.",
+        "A <strong>website development team in Vinukonda</strong> can help both groups. For water suppliers, a simple site with areas served, can sizes, delivery timings and a WhatsApp order button, plus a subscription sheet for regular households, removes a lot of phone work. For clinics, pages list doctors, specialities, consultation days, test preparation and emergency numbers.",
         "Health pages are always reviewed by the doctor before they go live. We do not make medical claims, and we never publish patient photographs or reviews without written consent. Appointment and token systems start at ₹60,000 for a custom build, or can be handled more simply through WhatsApp automation from ₹40,000.",
       ],
     },
@@ -131,7 +131,7 @@ const vinukonda: CityContent = {
       heading: "Android app development in Vinukonda, with iOS apps from the same code",
       paragraphs: [
         "An app pays off when the same people use it again and again. In Vinukonda, good cases are a school sending homework, notices and fee reminders to parents; a coaching centre sharing tests and results; a hospital or lab giving tokens and reports; an input dealer taking orders from village retailers; or a water supplier managing regular can deliveries.",
-        "Working as an <strong>app development company in Vinukonda</strong> from a distance, we write the app once in Flutter or React Native and ship it to both Android and iPhone users. Version one tends to cover login by phone OTP, alerts pushed to users, three to six core screens, and a back-office panel your staff can use from a laptop. Google Play and App Store listings are opened under your own developer accounts.",
+        "Working as an <strong>app development team in Vinukonda</strong> from a distance, we write the app once in Flutter or React Native and ship it to both Android and iPhone users. Version one tends to cover login by phone OTP, alerts pushed to users, three to six core screens, and a back-office panel your staff can use from a laptop. Google Play and App Store listings are opened under your own developer accounts.",
         "<strong>Android app development in Vinukonda</strong> begins at ₹40,000. UPI payment inside the app, offline entry for villages with poor coverage, delivery route maps, and a link to your billing software are priced as separate lines. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> walks through the phases.",
         "Many Vinukonda businesses do not need an app yet. When buyers only look up your number, location and rates once in a while, a ₹10,000 website serves them better, and we will say so before you spend four times that.",
       ],
@@ -223,7 +223,7 @@ const vinukonda: CityContent = {
         "Count one to two weeks for a basic site, counted from the day your photos and text reach us. Larger SEO sites need three to five weeks, shops four to eight, and dealer or trader software six to twelve. The most common delay is waiting for content, so gather it before we start.",
     },
     {
-      question: "Which is the best website development company in Vinukonda?",
+      question: "Which is the best website development team in Vinukonda?",
       answer:
         "“Best” depends on what you need, but some tests apply to anyone: do they show prices openly, will the domain and code be in your name, can you reach them months later, and can they show live projects? We pass those tests and answer WhatsApp daily. Still, speak to two or three providers before choosing.",
     },

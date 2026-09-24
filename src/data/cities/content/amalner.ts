@@ -9,7 +9,7 @@ const amalner: CityContent = {
     description:
       "Websites, Marathi and English SEO, online stores and WhatsApp automation for Amalner, Parola and Chopda businesses. Static sites start at ₹10,000.",
     keywords: [
-      "website development company in Amalner",
+      "website development team in Amalner",
       "website designer Amalner",
       "web design Amalner",
       "SEO services Amalner",
@@ -64,7 +64,7 @@ const amalner: CityContent = {
       heading: "An old trading town with a surprising business history",
       paragraphs: [
         "Amalner is a taluka town on the Bori river in western Jalgaon district, with a population of just under a lakh at the last census. It serves a wide rural hinterland: farmers bring cotton, soybean and groundnut to its market yard, families come in for schools, colleges and hospitals, and pilgrims arrive for Sant Sakharam Maharaj's samadhi and the Mangal Graha temple.",
-        "The town also has an unusual place in Indian business history. Wipro began in Amalner in 1945 as a maker of vanaspati from sunflower seeds, long before it became a software company. Many local families held shares in the company for decades. It is a useful reminder that serious businesses can grow from a small Khandesh town, provided they reach customers beyond it.",
+        "The town also has an unusual place in Indian business history. Wipro began in Amalner in 1945 as a maker of vanaspati from sunflower seeds, long before it became a software team. Many local families held shares in the company for decades. It is a useful reminder that serious businesses can grow from a small Khandesh town, provided they reach customers beyond it.",
         "Today, reaching those customers means being findable online. A textile buyer in Surat, a seed company's area manager in Jalgaon, a parent in Dhule comparing colleges or a devotee planning a trip from Pune will search before they call. Most Amalner businesses show up, if at all, as a thin directory entry with an old phone number.",
         "That is the opening. Online competition in Amalner is light. A clear, fast website with honest information, a correct Google map listing and a few well-written pages in Marathi and English can make a small firm look more organised than competitors who have been around for thirty years but never updated anything.",
       ],

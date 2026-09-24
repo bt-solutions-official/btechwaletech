@@ -10,12 +10,12 @@ const thirumangalam: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Thirumangalam's Kappalur factories, jasmine traders, schools, clinics and shops.",
     keywords: [
       "IT services in Thirumangalam",
-      "IT company in Thirumangalam",
-      "website development company in Thirumangalam",
+      "IT services team in Thirumangalam",
+      "website development team in Thirumangalam",
       "web design in Thirumangalam",
-      "app development company in Thirumangalam",
+      "app development team in Thirumangalam",
       "Android app development in Thirumangalam",
-      "software company in Thirumangalam",
+      "software team in Thirumangalam",
       "SEO services in Thirumangalam",
       "digital marketing in Thirumangalam",
       "ecommerce website in Thirumangalam",
@@ -73,19 +73,19 @@ const thirumangalam: CityContent = {
     },
     {
       id: "kappalur-sidco-manufacturers",
-      heading: "Website development company in Thirumangalam for Kappalur SIDCO units",
+      heading: "Website development team in Thirumangalam for Kappalur SIDCO units",
       paragraphs: [
         "Small manufacturers in the Kappalur estate sell plastic and polymer goods, houseware, engineering parts and services to distributors, retailers and larger companies across the state. Their buyers usually search online before calling, and a factory without a proper website loses those first conversations to competitors who have one.",
-        "A <strong>website development company in Thirumangalam</strong> serving these units should build for buyers, not for decoration. That means a product catalogue with sizes, materials, colours and packing quantities; photographs of the actual products and the shop floor; machines and capacity; quality checks; GST and registration details; and a named contact who replies. The site must look professional on a purchase manager's desktop and still work on a dealer's phone.",
+        "A <strong>website development team in Thirumangalam</strong> serving these units should build for buyers, not for decoration. That means a product catalogue with sizes, materials, colours and packing quantities; photographs of the actual products and the shop floor; machines and capacity; quality checks; GST and registration details; and a named contact who replies. The site must look professional on a purchase manager's desktop and still work on a dealer's phone.",
         "Each dealer enquiry is captured by a form that notes product, quantity and town in one sheet, so leads stop vanishing inside chat threads. A catalogue site like this is a static build from ₹10,000; once it runs to several hundred product pages it belongs in our SEO website range, from ₹20,000. No customer's name goes on your site unless that customer has agreed in writing.",
       ],
     },
     {
       id: "factory-order-software",
-      heading: "Software company in Thirumangalam for orders, production and dispatch",
+      heading: "Software team in Thirumangalam for orders, production and dispatch",
       paragraphs: [
         "Once a small factory grows past a few dealers, orders start to slip between phone calls, WhatsApp messages and the dispatch register. The owner spends evenings answering the same questions: has my order been packed, when will the lorry leave, what is my balance.",
-        "Working as a <strong>software company in Thirumangalam</strong>, we build simple web tools for this. Orders are entered once with dealer, items, quantities and promised date; the production team sees what to make today; dispatch records the vehicle, LR number and invoice; and each dealer's outstanding balance is always up to date. Dealers can receive dispatch details on WhatsApp automatically.",
+        "Working as a <strong>software team in Thirumangalam</strong>, we build simple web tools for this. Orders are entered once with dealer, items, quantities and promised date; the production team sees what to make today; dispatch records the vehicle, LR number and invoice; and each dealer's outstanding balance is always up to date. Dealers can receive dispatch details on WhatsApp automatically.",
         "If your accounts are kept in Tally, the tool passes entries to it rather than replacing it. These systems are priced from ₹60,000 and grow in stages across six to twelve weeks; the order and dispatch register usually comes first because it ends the most phone calls. Should an off-the-shelf app already match how you work, we will point you to it and save you the build.",
       ],
     },
@@ -130,7 +130,7 @@ const thirumangalam: CityContent = {
       heading: "Android app development in Thirumangalam, and iOS apps too",
       paragraphs: [
         "Apps make sense when one group of people returns to them daily or weekly. Around Thirumangalam that means dealers re-ordering from a Kappalur factory, flower agents keying in morning purchases, a school sending notices and fee reminders to parents, a hospital issuing tokens, or a retailer's regular customers checking offers.",
-        "We develop in Flutter or React Native, which gives one codebase for Android phones and iPhones alike. As an <strong>app development company in Thirumangalam</strong> that works remotely, our usual first release includes OTP sign-in, notifications, the core screens your users need, and an admin panel for the office staff. The app is listed on Google Play and the Apple App Store through developer accounts that belong to you, so you control the listing, the reviews and every future update.",
+        "We develop in Flutter or React Native, which gives one codebase for Android phones and iPhones alike. As an <strong>app development team in Thirumangalam</strong> that works remotely, our usual first release includes OTP sign-in, notifications, the core screens your users need, and an admin panel for the office staff. The app is listed on Google Play and the Apple App Store through developer accounts that belong to you, so you control the listing, the reviews and every future update.",
         "<strong>Android app development in Thirumangalam</strong> with us starts at ₹40,000. Costs rise with in-app payments, offline entry, catalogue size, maps and links to other software, each shown separately in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process.",
         "Not every business needs one. When customers only want your address, timings and price list, a website gives them that at a fraction of the cost, and we will steer you there. An app is worth its price only if people open it again next week.",
       ],
@@ -249,7 +249,7 @@ const thirumangalam: CityContent = {
         "Count one to two weeks for a shop, clinic or school site, starting from the day we have your photographs and details. A 700+ page SEO site needs three to five weeks, an online store four to eight, and custom software six to twelve. Sending text and pictures early is the simplest way to shorten any of these.",
     },
     {
-      question: "Which is the best IT company in Thirumangalam for a website?",
+      question: "Which is the best IT services team in Thirumangalam for a website?",
       answer:
         "Rather than a name, use a checklist. The provider should publish prices, register your domain and code to you, show live work you can open, and keep answering after launch. Ask everyone the same questions, us included. We meet those standards and reply on WhatsApp daily, but hearing from two or three providers before you decide is still the sensible route.",
     },

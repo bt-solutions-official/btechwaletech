@@ -10,12 +10,12 @@ const dhubri: CityContent = {
       "Bengali, Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for Dhubri traders, clinics, colleges and river businesses.",
     keywords: [
       "IT services in Dhubri",
-      "IT company in Dhubri",
-      "website development company in Dhubri",
+      "IT services team in Dhubri",
+      "website development team in Dhubri",
       "web design in Dhubri",
-      "app development company in Dhubri",
+      "app development team in Dhubri",
       "Android app development in Dhubri",
-      "software company in Dhubri",
+      "software team in Dhubri",
       "SEO services in Dhubri",
       "digital marketing in Dhubri",
       "ecommerce website in Dhubri",
@@ -75,10 +75,10 @@ const dhubri: CityContent = {
     },
     {
       id: "rice-jute-fish-traders",
-      heading: "Software company in Dhubri for rice, jute, fish and mustard traders",
+      heading: "Software team in Dhubri for rice, jute, fish and mustard traders",
       paragraphs: [
         "Paddy is the main source of farm income across Dhubri district, with jute and mustard as important cash crops and fish coming from the river and the wetlands. Traders and commission agents in town buy from farmers and char villages, store in godowns, and sell to mills, wholesalers and buyers in other states.",
-        "This trade runs on credit and memory. Quantities, grades and moisture change with every lot, rates move through the season, advances go out to suppliers and payments come in late from buyers. When all of it sits in paper khatas and phone chats, disputes and losses are hard to avoid. As a practical <strong>software company in Dhubri</strong>, we build tools that fit this work: purchase entries by supplier with weight, grade and rate, stock by godown, sales and dispatches with vehicle or boat details, advances, and balances per supplier and per buyer.",
+        "This trade runs on credit and memory. Quantities, grades and moisture change with every lot, rates move through the season, advances go out to suppliers and payments come in late from buyers. When all of it sits in paper khatas and phone chats, disputes and losses are hard to avoid. As a practical <strong>software team in Dhubri</strong>, we build tools that fit this work: purchase entries by supplier with weight, grade and rate, stock by godown, sales and dispatches with vehicle or boat details, advances, and balances per supplier and per buyer.",
         "Entries can be made from a phone at the ghat or godown, and reports can be exported for your accountant or linked to Tally. Screens can be in Bengali or Assamese where staff prefer.",
         "These systems start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the purchase and stock register because it usually saves money first.",
       ],
@@ -95,10 +95,10 @@ const dhubri: CityContent = {
     },
     {
       id: "colleges-coaching-dhubri",
-      heading: "Website development company in Dhubri for colleges, schools and coaching centres",
+      heading: "Website development team in Dhubri for colleges, schools and coaching centres",
       paragraphs: [
         "Bholanath College, founded in 1946 and given autonomous status in 2024, is the oldest college in western Assam, and Dhubri also has a girls' college, the medical college, schools in several media of instruction, and many coaching centres for board exams, entrance tests and government jobs. Students arrive from across the district and neighbouring areas.",
-        "A <strong>website development company in Dhubri</strong> working with an institution should answer the practical questions first: courses and eligibility, fee structure or ranges, admission calendar, hostel and transport, faculty, and a named contact who answers. Notices and results need a page staff can update in minutes. Coaching centres should publish batch times, subjects, fees and demo class dates, and show past results honestly, without invented ranks.",
+        "A <strong>website development team in Dhubri</strong> working with an institution should answer the practical questions first: courses and eligibility, fee structure or ranges, admission calendar, hostel and transport, faculty, and a named contact who answers. Notices and results need a page staff can update in minutes. Coaching centres should publish batch times, subjects, fees and demo class dates, and show past results honestly, without invented ranks.",
         "We build these sites in English with Bengali or Assamese pages as needed, add an admission enquiry form that records the course or class, and set up the Maps listing so families reach the right building.",
         "An institution website starts at ₹10,000. Online fee payment, student logins or exam portals are custom web apps from ₹60,000, planned so the admissions module is ready before the next session.",
       ],
@@ -138,7 +138,7 @@ const dhubri: CityContent = {
       heading: "Android app development in Dhubri, and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense only when the same people will use it often. In Dhubri, examples include a wholesaler whose retailers in Gauripur and Golakganj re-order weekly, a coaching centre sending class notices and test results, a hospital or clinic issuing tokens and reports, a transport operator logging trips, or a trader sharing daily rates with regular suppliers.",
-        "As an <strong>app development company in Dhubri</strong> working remotely, we build with Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version usually has OTP login, push notifications, the essential screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Dhubri</strong> working remotely, we build with Flutter or React Native, so one codebase serves both Android phones and iPhones. A first version usually has OTP login, push notifications, the essential screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Dhubri</strong> with us starts at ₹40,000. Payments, offline use for char areas with weak signal, maps and tracking, or links to Tally add to the cost, and each is listed separately in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number and rates, a website does that for about a quarter of the cost with nothing to install. We will recommend the website in that case.",
       ],
@@ -182,7 +182,7 @@ const dhubri: CityContent = {
     },
     {
       id: "around-dhubri",
-      heading: "IT company in Dhubri serving Gauripur, Golakganj, Bilasipara and nearby districts",
+      heading: "IT services team in Dhubri serving Gauripur, Golakganj, Bilasipara and nearby districts",
       paragraphs: [
         "We work with businesses across Dhubri district, including Gauripur and Asharikandi, Golakganj, Agomani, Chapar, Bilasipara and the Rupsi area, and further in Mankachar, Goalpara, Bongaigaon, Kokrajhar, Barpeta and Tura.",
         "For businesses that serve several towns, we create a page for each only where there is genuine local information: a branch or agent, delivery days, a local number. Copies with only the place name changed are filtered out by search engines and ignored by customers, so we avoid them.",
@@ -231,7 +231,7 @@ const dhubri: CityContent = {
         "A simple site normally goes live one to two weeks after we get your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Getting content to us early is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Dhubri?",
+      question: "Which is the best website development team in Dhubri?",
       answer:
         "Check every option against the same list: prices shown openly, domain and code in your name, live projects to look at, and support after launch. We meet those points and reply on WhatsApp every day, but talking to two or three developers before deciding is still a good idea.",
     },

@@ -9,12 +9,12 @@ const khanna: CityContent = {
     description:
       "Website design, local SEO and WhatsApp automation for Khanna arhtiyas, traders, schools and clinics on GT Road. Sites from ₹10,000, 5 months free maintenance.",
     keywords: [
-      "website development company in Khanna",
+      "website development team in Khanna",
       "web designer Khanna Punjab",
       "website design Khanna",
       "freelance web developer Khanna",
       "website cost Khanna",
-      "SEO company Khanna",
+      "SEO team Khanna",
       "local SEO Khanna Ludhiana",
       "arhtiya software Khanna",
       "grain market website Khanna",

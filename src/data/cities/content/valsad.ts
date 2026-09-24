@@ -9,7 +9,7 @@ const valsad: CityContent = {
     description:
       "Websites, SEO, mango and chikoo stores and WhatsApp automation for Valsad traders, Gundlav units and Atul suppliers. Static sites start at ₹10,000.",
     keywords: [
-      "website development company in Valsad",
+      "website development team in Valsad",
       "web design Valsad",
       "website designer Valsad",
       "SEO services Valsad",

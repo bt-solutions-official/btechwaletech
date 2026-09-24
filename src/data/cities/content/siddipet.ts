@@ -10,12 +10,12 @@ const siddipet: CityContent = {
       "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Siddipet handloom weavers, hospitals, colleges, traders and new startups.",
     keywords: [
       "IT services in Siddipet",
-      "IT company in Siddipet",
-      "website development company in Siddipet",
+      "IT services team in Siddipet",
+      "website development team in Siddipet",
       "web design in Siddipet",
-      "app development company in Siddipet",
+      "app development team in Siddipet",
       "Android app development in Siddipet",
-      "software company in Siddipet",
+      "software team in Siddipet",
       "SEO services in Siddipet",
       "digital marketing in Siddipet",
       "ecommerce website in Siddipet",
@@ -92,10 +92,10 @@ const siddipet: CityContent = {
     },
     {
       id: "it-tower-startups",
-      heading: "Software company in Siddipet for IT tower firms and local startups",
+      heading: "Software team in Siddipet for IT tower firms and local startups",
       paragraphs: [
         "The Siddipet IT tower, a four-storey building opened in 2023, gave local graduates a chance to work in technology without moving to Hyderabad, and space in it was allotted to a group of companies. Small software, BPO and services firms here need the same things as city startups: a credible website, product pages, careers pages and tools for their own operations.",
-        "As a <strong>software company in Siddipet</strong>'s orbit working remotely, we can take on overflow development for such firms, build their marketing sites, or create internal tools: client portals, ticketing, timesheets, or dashboards pulling data from their own systems. Custom web apps start at ₹60,000 and are delivered in stages over six to twelve weeks.",
+        "As a <strong>software team in Siddipet</strong>'s orbit working remotely, we can take on overflow development for such firms, build their marketing sites, or create internal tools: client portals, ticketing, timesheets, or dashboards pulling data from their own systems. Custom web apps start at ₹60,000 and are delivered in stages over six to twelve weeks.",
         "We also work with Siddipet entrepreneurs outside IT who want software: a transport operator's booking system, a function hall's calendar, a wholesale distributor's order portal. We start with the one process that wastes the most staff time and build outwards from there.",
         "Firms in the tower that sell to overseas clients often need their sites in clean English with case studies, privacy policies and contact forms that meet those clients' expectations. We write these carefully, never inventing clients or figures, and set up hosting close to the audience so pages load quickly for buyers abroad as well as in Hyderabad.",
       ],
@@ -121,10 +121,10 @@ const siddipet: CityContent = {
     },
     {
       id: "tourism-function-halls",
-      heading: "Website development company in Siddipet for tourism, temples and event venues",
+      heading: "Website development team in Siddipet for tourism, temples and event venues",
       paragraphs: [
         "Siddipet district has become a weekend destination for Hyderabad families. Komati Cheruvu in the town, promoted as a mini tank bund, the Ranganayaka Sagar reservoir at Chinnakodur, the Kaleshwaram-linked reservoirs of Mallanna Sagar and Kondapochamma Sagar, the Koti Lingeshwara temple and the Komuravelli Mallanna temple all draw visitors.",
-        "A <strong>website development company in Siddipet</strong> can help hotels, restaurants, function halls, event decorators, taxi operators and photographers reach those visitors and the town's own wedding market. We build pages with real photographs, capacity and facilities, parking, food options, directions from Hyderabad and a booking-request form that sends details straight to WhatsApp.",
+        "A <strong>website development team in Siddipet</strong> can help hotels, restaurants, function halls, event decorators, taxi operators and photographers reach those visitors and the town's own wedding market. We build pages with real photographs, capacity and facilities, parking, food options, directions from Hyderabad and a booking-request form that sends details straight to WhatsApp.",
         "Function halls in particular benefit from a public availability calendar and clear package descriptions, which cut down the repeated calls that come in every wedding season. We keep all such details accurate and let you update them yourself.",
         "Visitor numbers here swing with the calendar: weekends, school holidays, the Mallanna jatara season at Komuravelli and the wedding muhurtham months each bring a different crowd. A venue or lodge that updates its page and listing before each of those peaks, with current photographs and a working phone number, catches searches that a stale listing simply misses.",
       ],
@@ -134,7 +134,7 @@ const siddipet: CityContent = {
       heading: "Android app development in Siddipet, with iOS apps built alongside",
       paragraphs: [
         "An app is worth its cost when the same users return to it often. In Siddipet that could be patients booking OPD tokens and getting reports, coaching students downloading material and taking tests, parents receiving school notices, a retail chain's loyalty customers, or dealers placing weekly orders with a distributor.",
-        "As an <strong>app development company in Siddipet</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has OTP login, push notifications, the core screens your users need and a web admin panel for staff. We publish on Google Play and the Apple App Store through developer accounts registered to you.",
+        "As an <strong>app development team in Siddipet</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has OTP login, push notifications, the core screens your users need and a web admin panel for staff. We publish on Google Play and the Apple App Store through developer accounts registered to you.",
         "<strong>Android app development in Siddipet</strong> with us starts at ₹40,000. Payments, offline use, maps and integration with hospital or accounting software add to the cost, and each is shown as a separate item in the quote. More is explained on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need an address, phone number and price list, you do not need an app. A good website and map listing will do that job at a much lower cost, and we will tell you so.",
       ],
@@ -159,7 +159,7 @@ const siddipet: CityContent = {
     },
     {
       id: "remote-team-siddipet",
-      heading: "How our remote IT company serves Siddipet clients",
+      heading: "How our remote IT services team serves Siddipet clients",
       paragraphs: [
         "We do not have staff in Siddipet, so we make up for it with clear documents. After a first call about your business and customers, you receive a page or screen plan, timeline and itemised quote. Once approved, we share preview links you can open on your phone, show to partners and comment on directly.",
         "We reply on WhatsApp every day of the week on Indian Standard Time. All Telugu text is sent to you for checking before it goes live. If anything delays delivery, we tell you as soon as we know, with the reason and a new date.",
@@ -228,7 +228,7 @@ const siddipet: CityContent = {
         "A static website usually goes live in one to two weeks after we receive content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Timely text, photographs and approvals from your side keep the schedule short.",
     },
     {
-      question: "Which is the best IT company in Siddipet?",
+      question: "Which is the best IT services team in Siddipet?",
       answer:
         "A good provider publishes prices, registers the domain and code in your name, remains reachable after launch and can show real work. Put the same questions to each option and compare the answers in writing. We meet those tests and reply on WhatsApp all week, but comparing a few is sensible.",
     },

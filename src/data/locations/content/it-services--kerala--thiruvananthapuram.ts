@@ -7,12 +7,12 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Thiruvananthapuram",
     description:
-      "Freelance developers for Trivandrum institutions, clinics and coaching centres, not a software development company: custom tools, apps, AI. From ₹10,000.",
+      "Freelance developers for Trivandrum institutions, clinics and coaching centres, not a software development team: custom tools, apps, AI. From ₹10,000.",
     keywords: [
-      "software development company in Thiruvananthapuram",
-      "IT company in Thiruvananthapuram",
+      "software development team in Thiruvananthapuram",
+      "IT services team in Thiruvananthapuram",
       "IT solutions Thiruvananthapuram",
-      "software company in Trivandrum",
+      "software team in Trivandrum",
       "freelance software developers Trivandrum",
       "custom software development Thiruvananthapuram",
       "Android app development Thiruvananthapuram",
@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Thiruvananthapuram (Trivandrum), Kerala",
     h1: "Freelance software developers in Thiruvananthapuram for institutions and custom tools",
     lede:
-      "If you are weighing a software development company in Thiruvananthapuram against freelancers, meet BtechWaleTech: a freelance group of three engineers working remotely from India. We build custom tools for institutions and associations, clinic and coaching software, Android and iOS apps, AI and WhatsApp automation, dashboards, secure cloud hosting and SEO websites for Trivandrum organisations, with every account kept in your name.",
+      "If you are weighing a software development team in Thiruvananthapuram against freelancers, meet BtechWaleTech: a freelance group of three engineers working remotely from India. We build custom tools for institutions and associations, clinic and coaching software, Android and iOS apps, AI and WhatsApp automation, dashboards, secure cloud hosting and SEO websites for Trivandrum organisations, with every account kept in your name.",
     pills: ["Custom tools from ₹60,000", "Android and iOS apps from ₹40,000", "Coaching and exam apps", "Secure, role-based access", "5 months free maintenance"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Thiruvananthapuram remotely, as an alternative to a software development company in Thiruvananthapuram. Custom tools start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. No Trivandrum office; itemised quotes in about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Thiruvananthapuram remotely, as an alternative to a software development team in Thiruvananthapuram. Custom tools start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. No Trivandrum office; itemised quotes in about two working days.",
   snapshot: [
     { label: "Technology parks", value: "Technopark at Kazhakkoottam, India's first technology park, plus Technocity at Pallippuram and the KINFRA Film and Video Park" },
     { label: "Startup support", value: "Kerala Startup Mission is headquartered in the city and runs incubation and funding programmes" },
@@ -78,14 +78,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-trivandrum",
-      heading: "Freelance developers or a software development company in Thiruvananthapuram?",
+      heading: "Freelance developers or a software development team in Thiruvananthapuram?",
       paragraphs: [
-        "Choose a software development company in Thiruvananthapuram for large programmes with many staff, formal tender processes or multi-year support contracts. Choose freelance developers for focused tools, apps, automation and websites where you want direct engineer contact and lower overhead. Many associations, clinics, coaching centres and small firms fit the second case.",
+        "Choose a software development team in Thiruvananthapuram for large programmes with many staff, formal tender processes or multi-year support contracts. Choose freelance developers for focused tools, apps, automation and websites where you want direct engineer contact and lower overhead. Many associations, clinics, coaching centres and small firms fit the second case.",
         "We do not bid on large government tenders and we do not pretend to be a hundred-person vendor. Three engineers take a few projects at a time, and we tell you at the first call if your scope needs a bigger team.",
       ],
       list: [
         "Freelance group: direct engineer access, published starting prices, faster changes, limited capacity",
-        "Software company: more staff, formal processes, higher cost",
+        "Software team: more staff, formal processes, higher cost",
         "In both cases: written scope, milestone billing and accounts in your name",
       ],
     },
@@ -220,17 +220,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-trivandrum",
-      heading: "What does a software development company in Thiruvananthapuram charge, and what do we charge?",
+      heading: "What does a software development team in Thiruvananthapuram charge, and what do we charge?",
       paragraphs: [
-        "A software development company in Thiruvananthapuram typically includes office, sales and management costs in its quote. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
+        "A software development team in Thiruvananthapuram typically includes office, sales and management costs in its quote. Our starting prices are published: websites ₹10,000, 700+ page SEO websites ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month.",
         "Final cost depends on modules, roles, integrations, languages and data migration. See the <a href='/pricing/'>pricing page</a>. Payment is in INR, only by UPI QR or bank transfer, in milestones after you review work on staging.",
       ],
     },
     {
       id: "choosing-software-company-trivandrum",
-      heading: "How to choose a software development company in Thiruvananthapuram",
+      heading: "How to choose a software development team in Thiruvananthapuram",
       paragraphs: [
-        "Choose a software development company in Thiruvananthapuram, or freelancers, by checking who builds the system, what the scope includes, who owns the accounts and data, how progress is shown and what support follows. Institutions should also ask how access and personal data are handled.",
+        "Choose a software development team in Thiruvananthapuram, or freelancers, by checking who builds the system, what the scope includes, who owns the accounts and data, how progress is shown and what support follows. Institutions should also ask how access and personal data are handled.",
       ],
       list: [
         "Meet the engineer who will build it",
@@ -301,7 +301,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Thiruvananthapuram?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Thiruvananthapuram or Technopark. We work over WhatsApp, calls, video meetings and shared documents, and you review progress on a live staging link." },
-    { question: "Which is the best software company in Trivandrum?", answer: "It depends on your project. Larger Trivandrum software companies suit big programmes and tenders; a freelance group suits focused tools, apps, automation and websites where you want direct contact with engineers. Compare written scopes, data handling, ownership terms and live work before choosing." },
+    { question: "Which is the best software team in Trivandrum?", answer: "It depends on your project. Larger Trivandrum software companies suit big programmes and tenders; a freelance group suits focused tools, apps, automation and websites where you want direct contact with engineers. Compare written scopes, data handling, ownership terms and live work before choosing." },
     { question: "How much does custom software cost?", answer: "Custom software starts at ₹60,000. A single-purpose tool sits near that price; multi-module systems with roles, approvals and integrations cost more. Android and iOS apps and AI automation start at ₹40,000 and websites at ₹10,000. Itemised quotes arrive in about two working days." },
     { question: "How long does a project take?", answer: "Websites take one to two weeks, AI automation two to four weeks, Android and iOS apps six to ten weeks, ecommerce four to eight weeks and custom software six to twelve weeks. Quick decisions and ready content shorten these." },
     { question: "How do we pay?", answer: "Only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not take payments through gateways or payment links. Projects are split into milestones, each paid after you review the work." },

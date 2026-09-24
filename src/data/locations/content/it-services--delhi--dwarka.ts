@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & App Developers in Dwarka",
     description:
-      "Hire freelance developers in Dwarka, Delhi instead of a software development company: clinic booking, school portals, society apps, AI bots and SEO from ₹10,000.",
+      "Hire freelance developers in Dwarka, Delhi instead of a software development team: clinic booking, school portals, society apps, AI bots and SEO from ₹10,000.",
     keywords: [
       "iOS app development Dwarka",
       "iPhone app developers Dwarka",
       "Android and iOS app development Dwarka",
       "mobile app developers Dwarka",
-      "software development company in Dwarka",
-      "IT company in Dwarka",
+      "software development team in Dwarka",
+      "IT services team in Dwarka",
       "IT solutions Dwarka",
       "freelance software developer Dwarka Delhi",
       "clinic appointment software Dwarka",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Dwarka · South West Delhi · Sectors 1 to 29",
     h1: "Freelance software and app developers for Dwarka's clinics, schools and housing societies",
     lede:
-      "Before you shortlist a software development company in Dwarka, look at what the sub-city actually needs: appointment systems for its hospitals and clinics, admission and fee portals for its schools and coaching centres, apps for its cooperative housing societies, and booking tools for hotels near the airport. BtechWaleTech is a freelance group of three remote engineers who build all of those, plus the local SEO that helps Dwarka residents find you.",
+      "Before you shortlist a software development team in Dwarka, look at what the sub-city actually needs: appointment systems for its hospitals and clinics, admission and fee portals for its schools and coaching centres, apps for its cooperative housing societies, and booking tools for hotels near the airport. BtechWaleTech is a freelance group of three remote engineers who build all of those, plus the local SEO that helps Dwarka residents find you.",
     pills: ["Booking systems from ₹60,000", "Android and iOS apps from ₹40,000", "Clinic and school sites from ₹10,000", "Sector-level local SEO", "5 months free maintenance"],
   },
   quickAnswer:
-    "Instead of a software development company in Dwarka, you can hire BtechWaleTech, a freelance group of three remote engineers. We build booking systems, school portals and society apps from ₹60,000 (six to twelve weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks) and clinic or institute websites from ₹10,000. No Dwarka office; itemised quotes in about two working days.",
+    "Instead of a software development team in Dwarka, you can hire BtechWaleTech, a freelance group of three remote engineers. We build booking systems, school portals and society apps from ₹60,000 (six to twelve weeks), WhatsApp and AI automation from ₹40,000 (two to four weeks) and clinic or institute websites from ₹10,000. No Dwarka office; itemised quotes in about two working days.",
   snapshot: [
     { label: "What Dwarka is", value: "A planned sub-city in South West Delhi developed by DDA, laid out in numbered sectors, mostly residential with sector markets and district centres" },
     { label: "Housing pattern", value: "Hundreds of cooperative group housing societies (CGHS) and DDA flats, each with its own managing committee" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "dwarka-software-company",
-      heading: "What should Dwarka businesses expect from a software development company in Dwarka?",
+      heading: "What should Dwarka businesses expect from a software development team in Dwarka?",
       paragraphs: [
-        "Dwarka businesses should expect a software development company in Dwarka, or any freelance alternative, to understand a residential market: bookings, reminders, fee collection, resident communication and local search. Dwarka is primarily where people live, study and get treated, so most useful software here serves families rather than factories.",
+        "Dwarka businesses should expect a software development team in Dwarka, or any freelance alternative, to understand a residential market: bookings, reminders, fee collection, resident communication and local search. Dwarka is primarily where people live, study and get treated, so most useful software here serves families rather than factories.",
         "The sub-city was planned in sectors, each with housing societies, schools, a market and clinics. That structure shapes demand. A dental clinic in Sector 7 draws patients from a few surrounding sectors; a coaching institute near Sector 12 draws students from across Dwarka and Palam; a society in Sector 22 needs a way to collect maintenance and handle complaints. Each is a software problem with a clear, local audience.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, with no Dwarka office. We build <a href=\"/services/\">booking systems, portals, apps, automation, dashboards and websites</a> for these businesses, starting with a conversation about how bookings, fees or complaints flow today and ending with a handover of code and accounts in your name.",
       ],
@@ -193,16 +193,16 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-dwarka",
-      heading: "Freelance developers or a software development company in Dwarka: how to choose",
+      heading: "Freelance developers or a software development team in Dwarka: how to choose",
       paragraphs: [
-        "Choose a software development company in Dwarka if you want someone who can visit your premises regularly or a large team for a complex system; choose a freelance group like BtechWaleTech if you want direct contact with engineers, lower starting prices and complete ownership. Directories list several IT firms in Dwarka's sectors, so compare on substance.",
+        "Choose a software development team in Dwarka if you want someone who can visit your premises regularly or a large team for a complex system; choose a freelance group like BtechWaleTech if you want direct contact with engineers, lower starting prices and complete ownership. Directories list several IT firms in Dwarka's sectors, so compare on substance.",
         "Ask each option who writes the code, whether you receive the source and accounts, how scope changes are priced and what support costs after launch. Ask to see a similar system in action. Ask for an itemised quote. These questions protect you regardless of size.",
-        "We are three engineers, not a company or agency, and we work remotely. That suits owners who are comfortable with WhatsApp and video calls and who want weekly progress they can test. You can read about us on the <a href=\"/about/\">about page</a> and see examples on the <a href=\"/portfolio/\">portfolio</a>.",
+        "We are three freelance engineers, and we work remotely. That suits owners who are comfortable with WhatsApp and video calls and who want weekly progress they can test. You can read about us on the <a href=\"/about/\">about page</a> and see examples on the <a href=\"/portfolio/\">portfolio</a>.",
       ],
     },
     {
       id: "cost-timeline-dwarka",
-      heading: "What does a software development company in Dwarka charge, and how long do projects take?",
+      heading: "What does a software development team in Dwarka charge, and how long do projects take?",
       paragraphs: [
         "With BtechWaleTech, Dwarka projects start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 700+ page SEO website (three to five weeks), ₹40,000 for WhatsApp or AI automation (two to four weeks) or an Android and iOS app (six to ten weeks), ₹50,000 for an online store (four to eight weeks) and ₹60,000 for custom software such as booking systems or society apps (six to twelve weeks).",
         "Costs depend on users, branches, integrations and features such as payments or report delivery. We itemise quotes and suggest a first phase that solves the most pressing problem. Payment is in INR only, by UPI through our QR code or by bank transfer to our account, in milestones.",

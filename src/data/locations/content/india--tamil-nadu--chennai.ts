@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "IT consulting and digital transformation in Chennai by a freelance team of three engineers: SaaS builds, apps, AI agents, cloud, data and SEO, with starting prices.",
     keywords: [
-      "IT solutions company in Chennai",
+      "IT solutions team in Chennai",
       "IT consulting Chennai",
       "digital transformation Chennai",
-      "best IT company in Chennai",
+      "best IT services team in Chennai",
       "freelance IT consultant Chennai",
       "IT solutions near me Chennai",
       "SaaS development Chennai",
@@ -37,11 +37,11 @@ const content: CityContent = {
     eyebrow: "Chennai · OMR, Guindy, Ambattur, T. Nagar and the port belt",
     h1: "IT consulting and digital transformation in Chennai from a freelance IT solutions team",
     lede:
-      "Chennai has no shortage of IT companies, so the better question when you look for an IT solutions company in Chennai is who will understand your process, give straight advice and still be answering messages a year later. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We consult first, then build end to end: SaaS products and web apps, Android and iOS apps, AI agents and process automation, data pipelines and dashboards, cloud and DevOps, SEO and ecommerce, for Chennai manufacturers, hospitals, logistics firms, retailers and founders.",
+      "Chennai has no shortage of IT companies, so the better question when you look for an IT solutions team in Chennai is who will understand your process, give straight advice and still be answering messages a year later. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We consult first, then build end to end: SaaS products and web apps, Android and iOS apps, AI agents and process automation, data pipelines and dashboards, cloud and DevOps, SEO and ecommerce, for Chennai manufacturers, hospitals, logistics firms, retailers and founders.",
     pills: ["Free first consultation", "SaaS and web apps from ₹60,000", "Android & iOS from ₹40,000", "Tamil and English", "UPI QR or bank transfer"],
   },
   quickAnswer:
-    "BtechWaleTech provides IT consulting and IT solutions in Chennai as a remote freelance group of three engineers rather than a company. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000, and custom software or SaaS builds from ₹60,000, with five months of free maintenance after launch.",
+    "BtechWaleTech provides IT consulting and IT solutions in Chennai as a remote freelance group of three engineers working from India. Websites start from ₹10,000, AI automation and Android and iOS apps from ₹40,000, online stores from ₹50,000, and custom software or SaaS builds from ₹60,000, with five months of free maintenance after launch.",
   snapshot: [
     { label: "IT corridor", value: "Old Mahabalipuram Road (OMR) from Taramani and Perungudi to Sholinganallur and Siruseri, with TIDEL Park, SIPCOT IT Park and many tech campuses" },
     { label: "Industrial estates", value: "Guindy and Ambattur industrial estates in the city; Sriperumbudur, Oragadam, Irungattukottai and Mahindra World City, Chengalpattu on the outskirts" },
@@ -80,11 +80,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-chennai-vs-freelance",
-      heading: "Finding the best IT company in Chennai: where a freelance group fits",
+      heading: "Finding the best IT services team in Chennai: where a freelance group fits",
       paragraphs: [
-        "The best IT company in Chennai for a given project is the one whose team size, specialisation and working style match that project; for owner-led businesses and early-stage founders with focused requirements, a small freelance group is often a better fit than a large firm.",
+        "The best IT services team in Chennai for a given project is the one whose team size, specialisation and working style match that project; for owner-led businesses and early-stage founders with focused requirements, a small freelance group is often a better fit than a large firm.",
         "If you are comparing IT companies in Chennai, look past the logo walls. Ask to see production systems they built and maintain today. Ask who will write your code and whether you can speak with them. Check if quotes are itemised. Confirm that the domain, cloud, app store and repository accounts will be yours. Ask what happens to your project if a key developer leaves.",
-        "BtechWaleTech is not a company; we are three engineers working as a freelance team. Ankur Kumar leads full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava handles project management, automation and data work. That means continuity and direct access, but also limits: no on-site staff, no round-the-clock staffed helpdesk and a small number of concurrent projects. We will tell you plainly if your project needs a bigger team.",
+        "BtechWaleTech is three engineers working as a freelance team. Ankur Kumar leads full stack development, Santosh Sharma covers AI, machine learning, AWS and data science, and Vedansh Shrivastava handles project management, automation and data work. That means continuity and direct access, but also limits: no on-site staff, no round-the-clock staffed helpdesk and a small number of concurrent projects. We will tell you plainly if your project needs a bigger team.",
       ],
       list: [
         "See live systems they maintain, not only screenshots",
@@ -242,9 +242,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company based in Chennai?",
+      question: "Is BtechWaleTech an IT services team based in Chennai?",
       answer:
-        "No. We are a freelance group of three independent engineers, not a company, and we work remotely from India without any office in Chennai. We serve Chennai clients through video calls, screen shares, WhatsApp and email. You get a live preview link early in every project, so you can follow progress without meetings.",
+        "No. We are a freelance group of three independent engineers, and we work remotely from India without any office in Chennai. We serve Chennai clients through video calls, screen shares, WhatsApp and email. You get a live preview link early in every project, so you can follow progress without meetings.",
     },
     {
       question: "How much does IT consulting cost in Chennai?",

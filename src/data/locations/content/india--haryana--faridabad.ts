@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "Freelance IT consulting in Faridabad: digitisation audits, custom software, Android and iOS apps, AI automation, cloud and dashboards for NIT and Sector 24 units.",
     keywords: [
-      "IT solutions company in Faridabad",
+      "IT solutions team in Faridabad",
       "IT consulting Faridabad",
       "digital transformation Faridabad",
-      "best IT company in Faridabad",
+      "best IT services team in Faridabad",
       "freelance IT consultant Faridabad",
       "MSME digitisation Faridabad",
       "manufacturing software Sector 24 Faridabad",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Faridabad · Haryana · NCR · Consulting-led IT",
     h1: "Freelance IT consultants in Faridabad who digitise the shop floor first and the brochure second",
     lede:
-      "Faridabad owners looking for an IT solutions company in Faridabad are rarely short of software salesmen; what they lack is someone who will stand back, study the factory's paper trail and say which piece to digitise first. BtechWaleTech is a freelance group of three engineers working remotely from India. We run consulting-led digital transformation for Faridabad manufacturers, tool rooms, hospitals, builders and traders, then build the roadmap ourselves: custom software, Android and iOS apps, AI automation, cloud, dashboards, SEO and support.",
+      "Faridabad owners looking for an IT solutions team in Faridabad are rarely short of software salesmen; what they lack is someone who will stand back, study the factory's paper trail and say which piece to digitise first. BtechWaleTech is a freelance group of three engineers working remotely from India. We run consulting-led digital transformation for Faridabad manufacturers, tool rooms, hospitals, builders and traders, then build the roadmap ourselves: custom software, Android and iOS apps, AI automation, cloud, dashboards, SEO and support.",
     pills: ["Shop-floor audit first", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "Hindi-friendly screens"],
   },
   quickAnswer:
@@ -205,11 +205,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-faridabad",
-      heading: "How should you choose the best IT company in Faridabad?",
+      heading: "How should you choose the best IT services team in Faridabad?",
       paragraphs: [
-        "The best IT company in Faridabad for your business is the one that understands your shop floor, recommends the smallest effective fix, itemises costs and leaves you owning code, data and accounts. Being next to Delhi means you have many options; the question is who will still be answering your calls a year after launch.",
+        "The best IT services team in Faridabad for your business is the one that understands your shop floor, recommends the smallest effective fix, itemises costs and leaves you owning code, data and accounts. Being next to Delhi means you have many options; the question is who will still be answering your calls a year after launch.",
         "When comparing IT companies in Faridabad, ask who will write the code, for a written scope and itemised quote, for a live system you can try, and for confirmation that domain, hosting and app accounts will be yours. Ask what support costs after year one and whether licences apply.",
-        "BtechWaleTech is not a company; we are a freelance group of three engineers working remotely, with no Faridabad office, so we cannot visit your plant. What you get is direct access to the builders and full handover. See our <a href='/portfolio/'>portfolio</a>, the <a href='/india/haryana/'>Haryana hub</a> or nearby <a href='/india/delhi/'>Delhi</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely, with no Faridabad office, so we cannot visit your plant. What you get is direct access to the builders and full handover. See our <a href='/portfolio/'>portfolio</a>, the <a href='/india/haryana/'>Haryana hub</a> or nearby <a href='/india/delhi/'>Delhi</a>.",
       ],
     },
     {
@@ -268,8 +268,8 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company based in Faridabad?",
-      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office or staff in Faridabad. Audits and training take place over video, phone and WhatsApp, and your team tests every build through staging links on their own phones and computers.",
+      question: "Is BtechWaleTech an IT services team based in Faridabad?",
+      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office or staff in Faridabad. Audits and training take place over video, phone and WhatsApp, and your team tests every build through staging links on their own phones and computers.",
     },
     {
       question: "How do Faridabad clients pay?",

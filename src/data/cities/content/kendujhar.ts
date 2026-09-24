@@ -10,12 +10,12 @@ const kendujhar: CityContent = {
       "Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Kendujhar (Keonjhar) mining contractors, transporters, colleges, hospitals and shops.",
     keywords: [
       "IT services in Kendujhar",
-      "IT company in Keonjhar",
-      "website development company in Kendujhar",
+      "IT services team in Keonjhar",
+      "website development team in Kendujhar",
       "web design in Keonjhar",
-      "app development company in Kendujhar",
+      "app development team in Kendujhar",
       "Android app development in Keonjhar",
-      "software company in Kendujhar",
+      "software team in Kendujhar",
       "SEO services in Keonjhar",
       "digital marketing in Kendujhar",
       "ecommerce website in Keonjhar",
@@ -75,20 +75,20 @@ const kendujhar: CityContent = {
     },
     {
       id: "mining-transport-software",
-      heading: "Software company in Kendujhar for ore transporters and fleet owners",
+      heading: "Software team in Kendujhar for ore transporters and fleet owners",
       paragraphs: [
         "Iron ore from Joda, Barbil, Banspani and Barjamda moves by road and rail, and a large part of the local economy consists of truck owners, tipper fleets, loaders, workshops and fuel suppliers serving that movement. Anyone who has driven the district's roads knows how much traffic the mines generate.",
         "The records behind a fleet are demanding. Owners track trips per vehicle, loading and unloading points, weighbridge tonnage, freight rates, diesel issued, driver advances, tyre and repair costs, and payments from each client. Permits, fitness certificates, insurance and pollution certificates have to be renewed on time or vehicles sit idle.",
-        "Working as a <strong>software company in Kendujhar</strong>, we build web-based fleet registers that drivers or supervisors fill from a phone: trip, challan number, tonnage, diesel and advance. Owners see running totals per truck and per client, profit per vehicle for the month, pending payments and a list of documents expiring soon. Exports match what your accountant needs for Tally.",
+        "Working as a <strong>software team in Kendujhar</strong>, we build web-based fleet registers that drivers or supervisors fill from a phone: trip, challan number, tonnage, diesel and advance. Owners see running totals per truck and per client, profit per vehicle for the month, pending payments and a list of documents expiring soon. Exports match what your accountant needs for Tally.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We begin with the trip and diesel register, because leakage there costs the most, and add maintenance and document tracking next. We do not connect to government or mine systems unless an official integration is available and you have the right to use it.",
       ],
     },
     {
       id: "mining-service-contractors",
-      heading: "Website development company in Kendujhar for mining service contractors and suppliers",
+      heading: "Website development team in Kendujhar for mining service contractors and suppliers",
       paragraphs: [
         "Around the mines there are many firms supplying labour, earthmoving equipment, drilling and blasting services, civil work, safety equipment, spare parts, canteen services and security. Large mining companies and public sector units often check a vendor's website and documents before inviting them to register or bid.",
-        "As a <strong>website development company in Kendujhar</strong> for these firms, we build clean, formal websites that list services, equipment owned, key projects you are permitted to name, safety practices, registrations and certifications you actually hold, and contact details for procurement teams. A downloadable company profile PDF often helps during vendor registration.",
+        "As a <strong>website development team in Kendujhar</strong> for these firms, we build clean, formal websites that list services, equipment owned, key projects you are permitted to name, safety practices, registrations and certifications you actually hold, and contact details for procurement teams. A downloadable company profile PDF often helps during vendor registration.",
         "We are strict about accuracy. We never add client logos, project names, capacities or certificates without your written confirmation, because a false claim can cost you a contract. If you have not yet obtained a certification, we leave it out rather than hint at it.",
         "Contractors with many services or equipment types can use a larger SEO website of 700+ pages, starting at ₹20,000 over three to five weeks, so each service can be found on its own. Enquiry forms go straight to email and WhatsApp so procurement staff get a quick response.",
       ],
@@ -115,11 +115,11 @@ const kendujhar: CityContent = {
     },
     {
       id: "android-ios-apps-kendujhar",
-      heading: "App development company in Kendujhar: Android and iOS apps with a clear purpose",
+      heading: "App development team in Kendujhar: Android and iOS apps with a clear purpose",
       paragraphs: [
         "Android phones are common across the district, while many contractors, doctors, officials and visitors from the cities use iPhones. We build one codebase in Flutter or React Native for both, with login, push notifications and an admin panel, and publish on Google Play and the App Store under developer accounts registered to you.",
         "Useful cases in Keonjhar include driver apps that record trips, tonnage and diesel with photos of challans; supervisor apps for mining service contractors to log attendance and machine hours at remote sites; hotel booking apps for repeat guests; coaching and college apps for notes and results; and delivery apps for grocery or medicine stores in town.",
-        "As an <strong>app development company in Kendujhar</strong>, we plan for weak signal in forest and mine areas by allowing offline entry that syncs later. Apps start at ₹40,000, and the final price depends on screens, roles, offline needs, payments and links to existing records. We prepare store listings, screenshots and privacy details and guide you through both review processes.",
+        "As an <strong>app development team in Kendujhar</strong>, we plan for weak signal in forest and mine areas by allowing offline entry that syncs later. Apps start at ₹40,000, and the final price depends on screens, roles, offline needs, payments and links to existing records. We prepare store listings, screenshots and privacy details and guide you through both review processes.",
         "Plenty of businesses do not need an app. If customers mainly want to find you and message you, a website and a correct Google Maps profile cost far less. We will tell you which fits. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a> for details.",
       ],
     },
@@ -175,9 +175,9 @@ const kendujhar: CityContent = {
     },
     {
       id: "remote-team-kendujhar",
-      heading: "IT company in Keonjhar that works remotely: what to expect",
+      heading: "IT services team in Keonjhar that works remotely: what to expect",
       paragraphs: [
-        "People looking for an <strong>IT company in Keonjhar</strong> naturally ask about an office. We do not have one here or elsewhere. We are three engineers working remotely, with a process built to keep everything clear in writing.",
+        "People looking for an <strong>IT services team in Keonjhar</strong> naturally ask about an office. We do not have one here or elsewhere. We are three engineers working remotely, with a process built to keep everything clear in writing.",
         "You message us on WhatsApp with what you need. We ask questions and may set up a short video call so you can show us your registers, hotel or current website. You receive a written scope and an itemised quote. After approval, a staging link lets you follow progress on your phone and share it with partners.",
         "We reply seven days a week during Indian working hours, which suits owners who spend the day on sites or roads and check messages in the evening. Every decision stays in the chat as a record.",
         "If meeting your developer in person matters most, a local provider may suit you better. If clear pricing, full ownership and one team for websites, apps and software matter more, reach us through the <a href=\"/contact/\">contact page</a>.",
@@ -230,7 +230,7 @@ const kendujhar: CityContent = {
         "Yes. We build Android and iOS apps from ₹40,000 in Flutter or React Native, with login, push notifications and an admin panel. Local examples include driver trip apps for ore transporters, site supervisor apps for contractors and booking apps for hotels. We publish on Google Play and the App Store under your own accounts.",
     },
     {
-      question: "Which is the best IT company in Kendujhar?",
+      question: "Which is the best IT services team in Kendujhar?",
       answer:
         "Choose a provider that gives public starting prices, a written itemised quote, real past work and full ownership of your domain, hosting and code. Ask who will build it and who will support it after launch. We are a remote team of three engineers and are glad to be compared on those points.",
     },

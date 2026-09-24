@@ -9,7 +9,7 @@ const panipat: CityContent = {
     description:
       "Export catalogues, SEO and WhatsApp automation for Panipat home-furnishing, blanket and yarn firms, plus local shops. Sites from ₹10,000, stores from ₹50,000.",
     keywords: [
-      "website development company in Panipat",
+      "website development team in Panipat",
       "web designer Panipat",
       "website design Panipat price",
       "home furnishing exporter website",

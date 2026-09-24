@@ -9,7 +9,7 @@ const marmagao: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Vasco da Gama and Mormugao port agents, shipyard suppliers, hotels, Verna units and shops. From ₹10,000.",
     keywords: [
-      "website development company in Vasco da Gama",
+      "website development team in Vasco da Gama",
       "web designer Vasco Goa",
       "website design Mormugao",
       "website cost Vasco da Gama",

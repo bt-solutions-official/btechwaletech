@@ -9,7 +9,7 @@ const kharagpur: CityContent = {
     description:
       "Websites, SEO and automation for Kharagpur's railway and industrial vendors, IIT-area startups, clinics, tutors and shops. Sites from ₹10,000; you own everything.",
     keywords: [
-      "website development company in Kharagpur",
+      "website development team in Kharagpur",
       "web designer Kharagpur",
       "website design cost Kharagpur",
       "freelance web developer Kharagpur",

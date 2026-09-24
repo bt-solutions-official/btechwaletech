@@ -10,12 +10,12 @@ const padrauna: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Padrauna traders, clinics, colleges, banana fibre makers and Kushinagar hotels.",
     keywords: [
       "IT services in Padrauna",
-      "IT company in Padrauna",
-      "website development company in Padrauna",
+      "IT services team in Padrauna",
+      "website development team in Padrauna",
       "web design in Padrauna",
-      "app development company in Padrauna",
+      "app development team in Padrauna",
       "Android app development in Padrauna",
-      "software company in Padrauna",
+      "software team in Padrauna",
       "SEO services in Padrauna",
       "digital marketing in Padrauna",
       "ecommerce website in Padrauna",
@@ -68,17 +68,17 @@ const padrauna: CityContent = {
       heading: "IT services in Padrauna: serving a district headquarters and its villages",
       paragraphs: [
         "Padrauna is small by census numbers, just under fifty thousand people in 2011, yet it carries the load of a district headquarters. Government offices and courts bring people in from Hata, Kasia, Khadda, Tamkuhiraj and Kaptanganj, and while they are in town they shop, eat, see doctors and visit coaching centres. Subhash Chowk, where the roads from Gorakhpur and Ramkola meet the town, is where much of that traffic first arrives.",
-        "That trip now starts on a phone. Before leaving the village, a farmer checks whether a seed shop stocks the variety he wants; a parent looks up a coaching batch; a family compares two nursing homes. The business that answers online usually gets the visit. As an <strong>IT company in Padrauna</strong> in the working sense, we help local firms give those answers through websites, map listings, Android and iOS apps and WhatsApp automation.",
+        "That trip now starts on a phone. Before leaving the village, a farmer checks whether a seed shop stocks the variety he wants; a parent looks up a coaching batch; a family compares two nursing homes. The business that answers online usually gets the visit. As an <strong>IT services team in Padrauna</strong> in the working sense, we help local firms give those answers through websites, map listings, Android and iOS apps and WhatsApp automation.",
         "We are three engineers. Ankur Kumar handles full-stack development of sites and apps, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Padrauna or in Gorakhpur, and we would rather say that plainly than print an address that does not exist.",
       ],
     },
     {
       id: "cane-belt-dealers",
-      heading: "Software company in Padrauna for the cane belt: dealers, transporters and farm inputs",
+      heading: "Software team in Padrauna for the cane belt: dealers, transporters and farm inputs",
       paragraphs: [
         "Kushinagar was long spoken of as a sugar bowl of eastern Uttar Pradesh. Several of its mills, including those at Padrauna and Ramkola and the old Kanpur Sugar Works, have shut, but cane is still the district's main cash crop, and in the 2025-26 season more than two lakh farmers supplied the mills that remain. Around that crop runs a steady trade in fertiliser, seed, pesticide, tractor parts, diesel and hired transport.",
         "Most of this trade still lives in registers and in the owner's memory. A dealer extends credit to hundreds of farmers and village shops, and repayment waits for cane money. A transporter tracks trolleys, trips and driver advances in a notebook. When a son or partner takes over the counter, half the history is unreadable.",
-        "As a <strong>software company in Padrauna</strong> for these firms, we build plain web tools: a customer ledger with credit limits and due dates, payment reminders sent on WhatsApp, stock by godown, and a trip register for each vehicle. Custom software starts at ₹60,000 and takes six to twelve weeks. We build the part that saves most money first, so it can help pay for the rest.",
+        "As a <strong>software team in Padrauna</strong> for these firms, we build plain web tools: a customer ledger with credit limits and due dates, payment reminders sent on WhatsApp, stock by godown, and a trip register for each vehicle. Custom software starts at ₹60,000 and takes six to twelve weeks. We build the part that saves most money first, so it can help pay for the rest.",
       ],
     },
     {
@@ -101,10 +101,10 @@ const padrauna: CityContent = {
     },
     {
       id: "clinics-medical-college",
-      heading: "Website development company in Padrauna for clinics, labs and pharmacies",
+      heading: "Website development team in Padrauna for clinics, labs and pharmacies",
       paragraphs: [
         "Health care is one of the strongest reasons people travel into Padrauna. The Autonomous State Medical College on Kubersthan Road at Harka has brought more doctors and patients to the town, and private nursing homes, diagnostic labs, dental clinics and chemists serve families from across the district and from the Bihar side.",
-        "A patient who has spent an hour on a bus wants certainty: which doctor sits on which day, whether the lab does a particular test, what the fee roughly is, and where the building actually stands. A <strong>website development company in Padrauna</strong> should give clinics exactly that, Hindi first, with qualifications, OPD timings, emergency numbers and a map pin that leads to the right gate.",
+        "A patient who has spent an hour on a bus wants certainty: which doctor sits on which day, whether the lab does a particular test, what the fee roughly is, and where the building actually stands. A <strong>website development team in Padrauna</strong> should give clinics exactly that, Hindi first, with qualifications, OPD timings, emergency numbers and a map pin that leads to the right gate.",
         "We can add appointment requests on WhatsApp, a report download page for labs and a simple count of daily registrations. We do not write medical claims that cannot be backed up, and patient data stays off public pages. Clinic websites start at ₹10,000; token apps and booking systems are quoted separately.",
       ],
     },
@@ -119,11 +119,11 @@ const padrauna: CityContent = {
     },
     {
       id: "wholesale-bihar-border",
-      heading: "IT company in Padrauna for wholesalers selling across Kushinagar and into Bihar",
+      heading: "IT services team in Padrauna for wholesalers selling across Kushinagar and into Bihar",
       paragraphs: [
         "Kushinagar district meets West Champaran and Gopalganj in Bihar along its north-eastern side, and Padrauna's wholesalers of grocery, cloth, hardware, electrical goods and mobile accessories supply shops on both sides of the state line. Orders come by call and WhatsApp, rates change every week, and credit is part of almost every relationship.",
         "For these traders a showy website matters less than order discipline. We build WhatsApp catalogues and simple order portals where retailers choose items and quantities, a dispatch list for the godown, and a dues screen by shop and by route. Trade rates can stay hidden from the public and appear only to approved buyers after login.",
-        "Being a remote <strong>IT company in Padrauna</strong> does not stop us from understanding a route-based business. We ask for a week of real orders, with names removed if you prefer, and design the screens around how your staff already work. If you use Tally, its exports can feed the dashboard so nobody types the same bill twice.",
+        "Being a remote <strong>IT services team in Padrauna</strong> does not stop us from understanding a route-based business. We ask for a week of real orders, with names removed if you prefer, and design the screens around how your staff already work. If you use Tally, its exports can feed the dashboard so nobody types the same bill twice.",
       ],
     },
     {
@@ -131,7 +131,7 @@ const padrauna: CityContent = {
       heading: "Android app development in Padrauna: when an app is worth building",
       paragraphs: [
         "An app earns its place when the same people open it again and again. In Padrauna that fits a few groups well: village retailers re-ordering from a wholesaler every week, coaching students who need notes, test dates and results, patients booking repeat visits at a clinic, and tour operators coordinating vehicles and guests during the pilgrim season.",
-        "We build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release usually has mobile OTP login, push notifications for new stock, results or appointments, the few screens users truly need, and an admin panel your staff run from a laptop. As an <strong>app development company in Padrauna</strong> working remotely, we publish on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "We build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A first release usually has mobile OTP login, push notifications for new stock, results or appointments, the few screens users truly need, and an admin panel your staff run from a laptop. As an <strong>app development team in Padrauna</strong> working remotely, we publish on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Padrauna</strong> with us starts at ₹40,000. Online payment, offline use for villages with weak signal, GPS tracking and a link to billing software each add a line to the quote, so you can see what drives the cost. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Not every business needs an app. A shop whose customers only want timings, a phone number and directions is better served by a website and a strong Google listing at a quarter of the price, and we will say so before you spend anything.",
       ],
@@ -234,7 +234,7 @@ const padrauna: CityContent = {
         "A simple static site usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends text and pictures in the first few days.",
     },
     {
-      question: "Which is the best IT company in Padrauna for a small business?",
+      question: "Which is the best IT services team in Padrauna for a small business?",
       answer:
         "The right choice is the one that publishes prices, puts the domain and code in your name, can show real work and still answers after launch. Ask every option the same questions and compare the written replies. We meet those tests and reply on WhatsApp every day, but speaking to two or three providers first is sensible.",
     },

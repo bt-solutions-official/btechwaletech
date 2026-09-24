@@ -9,7 +9,7 @@ const aizawl: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Aizawl shops, weavers, homestays and clinics. Sites from ₹10,000, five months of free maintenance.",
     keywords: [
-      "website development company in Aizawl",
+      "website development team in Aizawl",
       "web design Aizawl",
       "website designer Aizawl Mizoram",
       "freelance web developer Aizawl",

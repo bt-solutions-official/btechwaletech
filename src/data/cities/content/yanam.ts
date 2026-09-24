@@ -10,12 +10,12 @@ const yanam: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Yanam traders, aqua farmers, clinics, lodges and colleges.",
     keywords: [
       "IT services in Yanam",
-      "IT company in Yanam",
-      "website development company in Yanam",
+      "IT services team in Yanam",
+      "website development team in Yanam",
       "web design in Yanam",
-      "app development company in Yanam",
+      "app development team in Yanam",
       "Android app development in Yanam",
-      "software company in Yanam",
+      "software team in Yanam",
       "SEO services in Yanam",
       "digital marketing in Yanam",
       "ecommerce website in Yanam",
@@ -75,11 +75,11 @@ const yanam: CityContent = {
     },
     {
       id: "aqua-software-yanam",
-      heading: "Software company in Yanam for aqua farms, feed dealers and seafood traders",
+      heading: "Software team in Yanam for aqua farms, feed dealers and seafood traders",
       paragraphs: [
         "The Godavari delta around Yanam is one of India's busiest aquaculture belts. Shrimp and fish ponds stretch through the surrounding Andhra villages, and the brackish estuary itself has seen pond development near the town. Around those ponds sit feed and medicine dealers, aerator and pump mechanics, ice suppliers, harvest labour contractors and traders who move the catch towards Kakinada and processing plants further up the coast.",
         "Most of this business still runs on notebooks and phone calls. A farmer keeps stocking dates, feed bags, water test readings and medicine doses in a diary; a dealer tracks credit given to dozens of farmers against the next harvest; a trader notes counts, weights and rates on slips that go missing.",
-        "As a <strong>software company in Yanam</strong> in the practical sense, we build small web tools for exactly this. A pond register records stocking, daily feed and test values from a phone. A dealer ledger shows each farmer's outstanding balance and the harvest it is due against. A trader sheet totals weight and value per load and per buyer. Such tools start at ₹60,000 and are delivered in stages over six to twelve weeks, with the part that saves the most arguments built first.",
+        "As a <strong>software team in Yanam</strong> in the practical sense, we build small web tools for exactly this. A pond register records stocking, daily feed and test values from a phone. A dealer ledger shows each farmer's outstanding balance and the harvest it is due against. A trader sheet totals weight and value per load and per buyer. Such tools start at ₹60,000 and are delivered in stages over six to twelve weeks, with the part that saves the most arguments built first.",
         "We keep screens in Telugu where the people entering data prefer it, and make them work on weak mobile signal at the pond edge, saving entries until the network returns.",
       ],
     },
@@ -105,10 +105,10 @@ const yanam: CityContent = {
     },
     {
       id: "clinics-schools-yanam",
-      heading: "Website development company in Yanam for hospitals, clinics and colleges",
+      heading: "Website development team in Yanam for hospitals, clinics and colleges",
       paragraphs: [
         "Yanam's hospitals, private clinics, diagnostic centres and pharmacies see patients from villages across the delta, and many of those patients travel some distance on a bus or two-wheeler. Schools and Dr. S.R.K. Government Arts College, affiliated to Pondicherry University, draw students from the town and surrounding Andhra villages.",
-        "A <strong>website development company in Yanam</strong> should build these sites for the parent or patient who is checking before leaving home. A clinic page lists doctors, specialities, consultation days, fees if you are willing to publish them, emergency numbers and directions. A school or coaching institute page gives classes, admission dates, transport routes, fee ranges and results you can actually document.",
+        "A <strong>website development team in Yanam</strong> should build these sites for the parent or patient who is checking before leaving home. A clinic page lists doctors, specialities, consultation days, fees if you are willing to publish them, emergency numbers and directions. A school or coaching institute page gives classes, admission dates, transport routes, fee ranges and results you can actually document.",
         "We write in Telugu first where your audience reads Telugu, with English alongside, and we send every line for your review because a wrong timing or a misspelt doctor's name is noticed at once. We do not publish patient photographs or reviews without written consent.",
         "Hospitals that field many phone calls can add online token requests or a WhatsApp appointment flow, which we describe further down this page.",
       ],
@@ -128,7 +128,7 @@ const yanam: CityContent = {
       heading: "Android app development in Yanam, and iOS apps for delta businesses",
       paragraphs: [
         "An app earns its keep when a known group of people opens it again and again. In and around Yanam that might be a clinic's patients booking tokens, a feed dealer's farmers placing orders and checking dues, a school's parents receiving notices and fee reminders, or a food seller's regular buyers in other cities reordering.",
-        "As an <strong>app development company in Yanam</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones alike. A first release usually has mobile number login, push notifications, the few screens your users truly need, Telugu labels where helpful and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Yanam</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones alike. A first release usually has mobile number login, push notifications, the few screens your users truly need, Telugu labels where helpful and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Yanam</strong> with us starts at ₹40,000. The quote rises with payments, offline entry for ponds and villages with poor signal, maps, and links to billing software, and each of those is shown as its own line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a price list, a website does that job at a fraction of the cost, and we will say so plainly. An app that nobody opens after the first week is money gone.",
       ],
@@ -162,9 +162,9 @@ const yanam: CityContent = {
     },
     {
       id: "remote-team-yanam",
-      heading: "How our remote IT company in Yanam's region works with you",
+      heading: "How our remote IT services team in Yanam's region works with you",
       paragraphs: [
-        "Calling ourselves an <strong>IT company in Yanam</strong> would be misleading if we let you picture a local office; we have none, in Yanam or elsewhere. Three engineers work remotely, and a written record takes the place of face-to-face meetings. After a first call about your trade and your customers, you receive an outline of pages or app screens, delivery dates and a costed list of every item.",
+        "Calling ourselves an <strong>IT services team in Yanam</strong> would be misleading if we let you picture a local office; we have none, in Yanam or elsewhere. Three engineers work remotely, and a written record takes the place of face-to-face meetings. After a first call about your trade and your customers, you receive an outline of pages or app screens, delivery dates and a costed list of every item.",
         "Work begins only once you approve that list, and nothing is billed before then. As the build progresses, you get preview links that open on any phone, so you can show them to a partner at the shop or a family member abroad. Telugu wording is always sent to you to check, because a spelling slip on a menu or a notice to parents gets noticed.",
         "WhatsApp is our main channel and is answered seven days a week on Indian time. If a date slips, you hear about it the same day along with a revised plan. Payments follow milestones you can see working, which keeps the risk low for a family business trying this for the first time.",
       ],
@@ -229,7 +229,7 @@ const yanam: CityContent = {
         "A simple shop website is usually live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Yanam?",
+      question: "Which is the best website development team in Yanam?",
       answer:
         "Choose a provider that shows its prices, registers the domain and code in your name, stays available after launch and can show real work. Ask each option the same questions and compare. We meet those tests and answer WhatsApp seven days a week, but speaking to two or three providers before deciding is wise.",
     },

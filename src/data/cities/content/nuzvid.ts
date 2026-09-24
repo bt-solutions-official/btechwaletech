@@ -10,12 +10,12 @@ const nuzvid: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Nuzvid mango growers, traders, RGUKT-area hostels, clinics, schools and shops.",
     keywords: [
       "IT services in Nuzvid",
-      "IT company in Nuzvid",
-      "website development company in Nuzvid",
+      "IT services team in Nuzvid",
+      "website development team in Nuzvid",
       "web design in Nuzvid",
-      "app development company in Nuzvid",
+      "app development team in Nuzvid",
       "Android app development in Nuzvid",
-      "software company in Nuzvid",
+      "software team in Nuzvid",
       "SEO services in Nuzvid",
       "digital marketing in Nuzvid",
       "ecommerce website in Nuzvid",
@@ -75,10 +75,10 @@ const nuzvid: CityContent = {
     },
     {
       id: "mango-growers-traders",
-      heading: "Website development company in Nuzvid for mango growers and commission agents",
+      heading: "Website development team in Nuzvid for mango growers and commission agents",
       paragraphs: [
         "Nuzvid mangoes carry a name that buyers already search for. People in Hyderabad, Bengaluru and Chennai type “Nuzvid Banginapalli” or “Nuzvid mangoes home delivery” every summer, and not every seller they find owns an orchard. A grower or agent with a clear website and a verified map listing can take that demand directly.",
-        "As a <strong>website development company in Nuzvid</strong> in practice, we build sites that show which varieties you grow, when each is usually ready, how fruit is ripened, box sizes, minimum order for wholesale buyers, and how to reach you on WhatsApp. Photographs of your own orchard and packing shed matter more than stock images, and we help you plan them before the season begins.",
+        "As a <strong>website development team in Nuzvid</strong> in practice, we build sites that show which varieties you grow, when each is usually ready, how fruit is ripened, box sizes, minimum order for wholesale buyers, and how to reach you on WhatsApp. Photographs of your own orchard and packing shed matter more than stock images, and we help you plan them before the season begins.",
         "A simple site starts at ₹10,000 and is ready in one to two weeks. Build it in January or February, not in May. Google needs weeks to trust a new page, and the best time to be found is the first fortnight of the harvest, when buyers are still deciding whom to call. You can read how we work on our <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
@@ -102,10 +102,10 @@ const nuzvid: CityContent = {
     },
     {
       id: "software-for-traders",
-      heading: "Software company in Nuzvid for orchard leases, picking crews and lorry dispatch",
+      heading: "Software team in Nuzvid for orchard leases, picking crews and lorry dispatch",
       paragraphs: [
         "Much of Nuzvid's mango crop moves through leases and commission arrangements. A trader may take several orchards on lease before flowering, hire picking crews, arrange packing, and load lorries for distant markets, with advances flowing in every direction. Most of this lives in notebooks and phone memory, and disputes are common.",
-        "Working as a <strong>software company in Nuzvid</strong> for such businesses, we build small web tools that fit the season. Each orchard lease is recorded with its terms and instalments. Daily picking is entered by crew, boxes are counted by variety and grade, each lorry gets a dispatch entry with its destination and freight, and a running statement shows who owes what.",
+        "Working as a <strong>software team in Nuzvid</strong> for such businesses, we build small web tools that fit the season. Each orchard lease is recorded with its terms and instalments. Daily picking is entered by crew, boxes are counted by variety and grade, each lorry gets a dispatch entry with its destination and freight, and a running statement shows who owes what.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We recommend starting in the off-season and running the first version on a small part of your business, so that by April your staff already trust it.",
       ],
     },
@@ -156,19 +156,19 @@ const nuzvid: CityContent = {
     },
     {
       id: "nearby-towns-nuzvid",
-      heading: "App development company in Nuzvid serving Hanuman Junction, Agiripalli and nearby mandals",
+      heading: "App development team in Nuzvid serving Hanuman Junction, Agiripalli and nearby mandals",
       paragraphs: [
         "Nuzvid's trade links run in several directions. Hanuman Junction, about 20 km away on the main rail line, is where many lorries and passengers connect. Agiripalli, Musunuru and Reddigudem mandals border the town, and Vijayawada, Eluru and Gudivada are the larger markets that buyers and suppliers travel to.",
-        "Because we work remotely, being an <strong>app development company in Nuzvid</strong> for us means serving the whole belt in the same way. A dealer in Agiripalli, a clinic in Hanuman Junction or a school on the Tiruvuru road gets the same process, pricing and response times as a shop near Chinna Gandhi Bomma Centre.",
+        "Because we work remotely, being an <strong>app development team in Nuzvid</strong> for us means serving the whole belt in the same way. A dealer in Agiripalli, a clinic in Hanuman Junction or a school on the Tiruvuru road gets the same process, pricing and response times as a shop near Chinna Gandhi Bomma Centre.",
         "Where it helps, we build location pages for each town you serve, so a buyer searching from Eluru or Gudivada finds a page that speaks to them rather than a generic one.",
         "Trade in this belt also crosses district lines. A packing shed in Nuzvid may supply buyers in Krishna and West Godavari as well as markets in Telangana, so we write each page with the places your customers actually come from, and we list delivery or service areas honestly instead of claiming the whole state.",
       ],
     },
     {
       id: "remote-team-nuzvid",
-      heading: "Working with a remote IT company in Nuzvid that has no local office",
+      heading: "Working with a remote IT services team in Nuzvid that has no local office",
       paragraphs: [
-        "People sometimes ask how an <strong>IT company in Nuzvid</strong> can be trusted if it has no office in town. Our answer is transparency. You speak to the three people who actually do the work, you get a written plan and itemised quote, you see progress on a staging link during the build, and you approve each stage before the next begins.",
+        "People sometimes ask how an <strong>IT services team in Nuzvid</strong> can be trusted if it has no office in town. Our answer is transparency. You speak to the three people who actually do the work, you get a written plan and itemised quote, you see progress on a staging link during the build, and you approve each stage before the next begins.",
         "We reply on WhatsApp seven days a week in Indian Standard Time, and we are used to short calls during the harvest when owners have ten minutes between lorries. Screen sharing lets us walk you through your admin panel or Google listing without anyone travelling to Vijayawada.",
         "When you want to talk, you can reach us through our <a href=\"/contact/\">contact</a> page or WhatsApp directly. The first conversation and the quote cost nothing.",
       ],
@@ -224,7 +224,7 @@ const nuzvid: CityContent = {
         "A simple site of a few pages usually takes one to two weeks once we have your photographs, prices and text. Larger SEO websites take three to five weeks and online stores four to eight weeks. For mango sellers we suggest starting in January so the site is indexed before the harvest.",
     },
     {
-      question: "Which is the best website development company in Nuzvid?",
+      question: "Which is the best website development team in Nuzvid?",
       answer:
         "Judge any provider by what they put in writing: published starting prices, domain and code in your name, support after launch and real work you can check. Ask each one the same questions. We meet those tests and reply on WhatsApp all week, but comparing two or three options first is sensible.",
     },

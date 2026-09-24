@@ -10,12 +10,12 @@ const tezpur: CityContent = {
       "Assamese and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tezpur tea estates, litchi growers, hospitals, colleges and shops.",
     keywords: [
       "IT services in Tezpur",
-      "IT company in Tezpur",
-      "website development company in Tezpur",
+      "IT services team in Tezpur",
+      "website development team in Tezpur",
       "web design in Tezpur",
-      "app development company in Tezpur",
+      "app development team in Tezpur",
       "Android app development in Tezpur",
-      "software company in Tezpur",
+      "software team in Tezpur",
       "SEO services in Tezpur",
       "digital marketing in Tezpur",
       "ecommerce website in Tezpur",
@@ -75,10 +75,10 @@ const tezpur: CityContent = {
     },
     {
       id: "tea-estates-suppliers",
-      heading: "Website development company in Tezpur for tea gardens and estate suppliers",
+      heading: "Website development team in Tezpur for tea gardens and estate suppliers",
       paragraphs: [
         "Tea shaped modern Tezpur. Gardens developed around the town in the late nineteenth century, and a river port and a narrow-gauge line once carried their chests to the wider world. Sonitpur still has around seventy tea gardens, along with a larger ring of small growers who sell green leaf to bought-leaf factories.",
-        "As a <strong>website development company in Tezpur</strong>, we build sites for the businesses around this sector: suppliers of fertiliser, machinery parts, packing material and uniforms; transporters; workshops; and gardens or small factories that want to sell their own tea under a name. A good garden website shows the estate, the teas it makes, grades and packing sizes, and a direct way for buyers or visitors to reach the right person.",
+        "As a <strong>website development team in Tezpur</strong>, we build sites for the businesses around this sector: suppliers of fertiliser, machinery parts, packing material and uniforms; transporters; workshops; and gardens or small factories that want to sell their own tea under a name. A good garden website shows the estate, the teas it makes, grades and packing sizes, and a direct way for buyers or visitors to reach the right person.",
         "Simple sites start at ₹10,000 and are ready in one to two weeks. For small growers and factories, we also build pages that explain leaf collection, rates and payment days in Assamese, which saves many repeated phone calls. You can see our process on the <a href=\"/services/web-development/\">web development</a> page.",
         "Garden visits can be another opening. If your estate welcomes guests for bungalow stays or factory walks, those visitors usually search months ahead. A page with honest photographs, the season when plucking and manufacture can be seen, how to reach the estate from Salonibari airport and whom to contact turns a vague interest into a booking without adding staff.",
       ],
@@ -122,10 +122,10 @@ const tezpur: CityContent = {
     },
     {
       id: "traders-industry-tezpur",
-      heading: "Software company in Tezpur for traders, workshops and the Dolabari estate",
+      heading: "Software team in Tezpur for traders, workshops and the Dolabari estate",
       paragraphs: [
         "Tezpur's wholesale trade supplies shops across the district with groceries, hardware, cement, electricals and farm inputs, and the Dolabari industrial estate, set up in 1990 on about fifteen acres, hosts small manufacturing and processing units. Most of these businesses still run on a mix of billing software, notebooks and phone calls.",
-        "As a <strong>software company in Tezpur</strong> in practical terms, we build web tools that close the gaps: order booking by retailers on the phone, route-wise delivery lists, outstanding balances by customer, stock alerts, job cards for workshops, and simple production records for small units. Where you already use Tally or another package, we connect to it rather than replace it.",
+        "As a <strong>software team in Tezpur</strong> in practical terms, we build web tools that close the gaps: order booking by retailers on the phone, route-wise delivery lists, outstanding balances by customer, stock alerts, job cards for workshops, and simple production records for small units. Where you already use Tally or another package, we connect to it rather than replace it.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We begin with the single process that wastes the most time, usually dues tracking or order booking, so the first stage pays for itself before we add more.",
         "Transporters and distributors who cover the north bank benefit from route-wise records in particular. A simple screen showing which vehicle left for Biswanath or Rangapara, what it carried, what was collected and what is still due gives the owner a clear picture each evening without phoning every driver.",
       ],
@@ -159,19 +159,19 @@ const tezpur: CityContent = {
     },
     {
       id: "nearby-north-bank",
-      heading: "App development company in Tezpur for Dhekiajuli, Rangapara, Biswanath and Balipara",
+      heading: "App development team in Tezpur for Dhekiajuli, Rangapara, Biswanath and Balipara",
       paragraphs: [
         "Businesses in Tezpur rarely serve Tezpur alone. Dhekiajuli, Rangapara and Balipara lie within the same trading area, Biswanath Chariali and Gohpur sit further east along the north bank, and the Kolia Bhomora Setu links the town to Nagaon district across the river.",
-        "Because we work remotely, being an <strong>app development company in Tezpur</strong> means the same service for all of these places. A dealer in Rangapara or a clinic in Dhekiajuli gets the same process, starting prices and response time as a shop near the Tezpur bus stand.",
+        "Because we work remotely, being an <strong>app development team in Tezpur</strong> means the same service for all of these places. A dealer in Rangapara or a clinic in Dhekiajuli gets the same process, starting prices and response time as a shop near the Tezpur bus stand.",
         "If you serve several towns, we can build a page for each, written for the people there, so a search from Biswanath or Nagaon lands on something relevant rather than a generic home page.",
         "Arunachal traffic matters as well. Travellers and traders heading north towards Bhalukpong often pass through or stay in Tezpur, so hotels, vehicle workshops and supply shops on that side of town benefit from pages that mention the route clearly.",
       ],
     },
     {
       id: "remote-team-tezpur",
-      heading: "Working with a remote IT company in Tezpur with no local office",
+      heading: "Working with a remote IT services team in Tezpur with no local office",
       paragraphs: [
-        "Choosing an <strong>IT company in Tezpur</strong> that has no office in town is a fair thing to question. We answer it with openness. You talk directly to the three engineers who do the work, you receive a written plan and itemised quote, you watch progress on a staging link, and you sign off each stage before the next one starts.",
+        "Choosing an <strong>IT services team in Tezpur</strong> that has no office in town is a fair thing to question. We answer it with openness. You talk directly to the three engineers who do the work, you receive a written plan and itemised quote, you watch progress on a staging link, and you sign off each stage before the next one starts.",
         "We reply on WhatsApp seven days a week in Indian Standard Time. Short video calls and screen shares replace office visits, and they suit doctors, garden managers and shop owners who cannot spare an afternoon for a meeting.",
         "To start, write to us through the <a href=\"/contact/\">contact</a> page or on WhatsApp with a few lines about your business. The first discussion and the quote are free.",
       ],
@@ -227,7 +227,7 @@ const tezpur: CityContent = {
         "A small business site usually takes one to two weeks after we receive your text, photographs and details. SEO websites take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Delays usually come from missing content, so we send a simple checklist first.",
     },
     {
-      question: "Which is the best website development company in Tezpur?",
+      question: "Which is the best website development team in Tezpur?",
       answer:
         "The best choice is a provider who publishes prices, puts the domain and code in your name, supports you after launch and can show real work. Ask every option the same questions. We meet those standards and answer on WhatsApp all week, but comparing two or three providers first is wise.",
     },

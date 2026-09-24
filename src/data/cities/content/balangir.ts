@@ -9,7 +9,7 @@ const balangir: CityContent = {
     description:
       "Websites, Bandha saree stores, local SEO and WhatsApp automation for Balangir, Patnagarh, Titlagarh and Kantabanji businesses. Sites from ₹10,000 onwards.",
     keywords: [
-      "website development company in Balangir",
+      "website development team in Balangir",
       "web designer Bolangir",
       "website design Balangir",
       "freelance web developer Balangir",

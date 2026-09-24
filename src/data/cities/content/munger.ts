@@ -9,7 +9,7 @@ const munger: CityContent = {
     description:
       "Websites, Hindi and English SEO, online stores and WhatsApp automation for Munger and Jamalpur shops, clinics, coaching centres and yoga visitors. From ₹10,000.",
     keywords: [
-      "website development company in Munger",
+      "website development team in Munger",
       "web designer Munger",
       "website design Munger Bihar",
       "website designer Jamalpur",
@@ -19,7 +19,7 @@ const munger: CityContent = {
       "hospital website design Munger",
       "ecommerce website Munger",
       "WhatsApp automation Munger",
-      "software company Munger",
+      "software team Munger",
       "website cost in Munger",
       "freelance web developer Munger",
       "Munger mein website banwana",

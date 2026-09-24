@@ -10,12 +10,12 @@ const thiruvalla: CityContent = {
       "Malayalam and English websites, Android and iOS apps, local SEO and WhatsApp automation for Thiruvalla hospitals, colleges, NRI families, traders and builders.",
     keywords: [
       "IT services in Thiruvalla",
-      "IT company in Thiruvalla",
-      "website development company in Thiruvalla",
+      "IT services team in Thiruvalla",
+      "website development team in Thiruvalla",
       "web design in Thiruvalla",
-      "app development company in Thiruvalla",
+      "app development team in Thiruvalla",
       "Android app development in Thiruvalla",
-      "software company in Thiruvalla",
+      "software team in Thiruvalla",
       "SEO services in Thiruvalla",
       "digital marketing in Thiruvalla",
       "ecommerce website in Thiruvalla",
@@ -75,10 +75,10 @@ const thiruvalla: CityContent = {
     },
     {
       id: "hospitals-medical-colleges",
-      heading: "Website development company in Thiruvalla for hospitals and medical colleges",
+      heading: "Website development team in Thiruvalla for hospitals and medical colleges",
       paragraphs: [
         "Healthcare is the town's largest draw. Believers Church Medical College Hospital at Kuttapuzha is attached to a multi-speciality hospital of about 750 beds, Pushpagiri Institute of Medical Sciences has run for decades, and TMM Hospital, nursing homes, dental clinics, diagnostic labs and physiotherapy centres fill the gaps between them. Patients arrive from across Pathanamthitta, Alappuzha and Kottayam districts.",
-        "A <strong>website development company in Thiruvalla</strong> working in this sector has to be careful. Doctor pages should list qualifications, departments and OP days that are actually kept up to date. Emergency numbers must be correct on every page. Package rates, if published, must match what the billing counter charges. We never publish success rates, rankings or patient testimonials that the hospital cannot back with records, and we keep patient data out of plain forms and email.",
+        "A <strong>website development team in Thiruvalla</strong> working in this sector has to be careful. Doctor pages should list qualifications, departments and OP days that are actually kept up to date. Emergency numbers must be correct on every page. Package rates, if published, must match what the billing counter charges. We never publish success rates, rankings or patient testimonials that the hospital cannot back with records, and we keep patient data out of plain forms and email.",
         "For smaller clinics, a clear five-to-ten page site with a department list, timings, directions from Thiruvalla railway station and KSRTC stand, and a WhatsApp appointment button does most of the work. Larger hospitals usually need a doctor directory that staff can edit, a careers section for nurses and technicians, a department blog, and pages for international patients or relatives abroad who want to arrange treatment for family.",
       ],
     },
@@ -93,10 +93,10 @@ const thiruvalla: CityContent = {
     },
     {
       id: "nri-families-property",
-      heading: "Software company in Thiruvalla for NRI families, property care and remittance-led businesses",
+      heading: "Software team in Thiruvalla for NRI families, property care and remittance-led businesses",
       paragraphs: [
         "Kerala Tourism describes Thiruvalla as the land of NRIs, and the town's streets show it: large houses kept locked for most of the year, parents living alone, and a steady trade in construction, interiors, caretaking, rentals, travel and documentation. Much of that trade still runs on phone calls at odd hours and photographs sent over WhatsApp.",
-        "Working as a <strong>software company in Thiruvalla</strong> for these businesses, we build tools that remove the guesswork for someone thousands of kilometres away. A property care firm can log every visit with date, photos and notes; record rent received, electricity and water bills paid and repairs done; and give each owner a login that shows the history for their house. A builder can share construction stage updates, payment schedules and drawings in one place instead of scattered chats.",
+        "Working as a <strong>software team in Thiruvalla</strong> for these businesses, we build tools that remove the guesswork for someone thousands of kilometres away. A property care firm can log every visit with date, photos and notes; record rent received, electricity and water bills paid and repairs done; and give each owner a login that shows the history for their house. A builder can share construction stage updates, payment schedules and drawings in one place instead of scattered chats.",
         "Custom tools of this kind start at ₹60,000 and are built over six to twelve weeks, usually beginning with the single register that causes the most arguments. Everything is hosted in your name, and owners abroad receive access by email, so nothing depends on one staff member's phone.",
       ],
     },
@@ -120,10 +120,10 @@ const thiruvalla: CityContent = {
     },
     {
       id: "upper-kuttanad-agri-trade",
-      heading: "IT company in Thiruvalla for Upper Kuttanad farm trade, rubber and small industry",
+      heading: "IT services team in Thiruvalla for Upper Kuttanad farm trade, rubber and small industry",
       paragraphs: [
         "West and south of the town, the land drops into the paddy fields of Upper Kuttanad around Niranam, Peringara and the Pamba banks, while the eastern side of Pathanamthitta district is rubber and plantation country. Thiruvalla's traders sit between the two: fertiliser and pesticide dealers, rubber sheet buyers, pump and motor workshops, hardware and cement dealers, and transporters.",
-        "As a remote <strong>IT company in Thiruvalla</strong>, we build small, sturdy tools for these firms. A dealer who gives credit to farmers across several panchayats needs a clear ledger with due dates and WhatsApp reminders. A hardware shop needs stock that matches the counter. A workshop wants a job card system so customers stop calling to ask whether their motor is ready. None of this needs to be complicated, and all of it should work on an ordinary Android phone.",
+        "As a remote <strong>IT services team in Thiruvalla</strong>, we build small, sturdy tools for these firms. A dealer who gives credit to farmers across several panchayats needs a clear ledger with due dates and WhatsApp reminders. A hardware shop needs stock that matches the counter. A workshop wants a job card system so customers stop calling to ask whether their motor is ready. None of this needs to be complicated, and all of it should work on an ordinary Android phone.",
         "Where a firm already uses Tally or another accounting package, we connect to it rather than replacing it, and we keep entry screens in Malayalam when the staff prefer. The goal is fewer phone calls and fewer disputes, not new software for its own sake.",
       ],
     },
@@ -132,7 +132,7 @@ const thiruvalla: CityContent = {
       heading: "Android app development in Thiruvalla, and iOS apps for families spread across countries",
       paragraphs: [
         "In a town where half the family may be abroad, an app makes sense more often than elsewhere, but not always. Good candidates in Thiruvalla are hospitals that want patients to book slots, see lab reports and receive reminders; colleges and schools that send notices, fee alerts and attendance to parents; property care firms whose owners abroad want visit photos and bills in one place; and bakeries or caterers with repeat customers who order for every family function.",
-        "As an <strong>app development company in Thiruvalla</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones alike. A first version normally includes mobile number or email login, push notifications, the few screens your users need most and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, which matters for relatives abroad who mostly use iPhones.",
+        "As an <strong>app development team in Thiruvalla</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones alike. A first version normally includes mobile number or email login, push notifications, the few screens your users need most and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, which matters for relatives abroad who mostly use iPhones.",
         "<strong>Android app development in Thiruvalla</strong> with us starts at ₹40,000. Costs rise with payments, report uploads, multiple languages, offline mode and integration with hospital or college software, and each of those is priced as a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need timings, a phone number and a map, a website does that job at a fraction of the cost, and we will say so. An app that people open twice and then delete is money spent for nothing.",
       ],
@@ -233,7 +233,7 @@ const thiruvalla: CityContent = {
         "A standard site is usually live within one to two weeks of receiving your content and photographs. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when someone at your end sends text and pictures in the first few days.",
     },
     {
-      question: "Which is the best website development company in Thiruvalla?",
+      question: "Which is the best website development team in Thiruvalla?",
       answer:
         "The right choice is whoever registers the domain and code in your name, publishes clear prices, answers after launch and can show real work. Put the same questions to every option. We meet those tests and reply on WhatsApp seven days a week, but it makes sense to compare two or three before deciding.",
     },

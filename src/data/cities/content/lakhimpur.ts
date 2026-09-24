@@ -9,7 +9,7 @@ const lakhimpur: CityContent = {
     description:
       "Hindi and English websites, local SEO, stores and WhatsApp automation for Lakhimpur Kheri sugar-belt traders, Dudhwa resorts, schools and clinics. From ₹10,000.",
     keywords: [
-      "website development company in Lakhimpur",
+      "website development team in Lakhimpur",
       "web designer Lakhimpur Kheri",
       "website design Lakhimpur Kheri",
       "freelance web developer Lakhimpur",

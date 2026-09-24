@@ -10,12 +10,12 @@ const vaijapur: CityContent = {
       "Marathi websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Vaijapur onion traders, transporters on the Samruddhi route, colleges and clinics.",
     keywords: [
       "IT services in Vaijapur",
-      "IT company in Vaijapur",
-      "website development company in Vaijapur",
+      "IT services team in Vaijapur",
+      "website development team in Vaijapur",
       "web design in Vaijapur",
-      "app development company in Vaijapur",
+      "app development team in Vaijapur",
       "Android app development in Vaijapur",
-      "software company in Vaijapur",
+      "software team in Vaijapur",
       "SEO services in Vaijapur",
       "digital marketing in Vaijapur",
       "ecommerce website in Vaijapur",
@@ -69,7 +69,7 @@ const vaijapur: CityContent = {
       paragraphs: [
         "Ask a Vaijapur shopkeeper where customers come from and the answer is rarely just the town. Farmers ride in from Shiur, Lasurgaon, Nagamthan and Aghur; truck drivers stop on the way to Nashik, Yeola or Chhatrapati Sambhajinagar; pilgrims pass through on their way to Shirdi. The town grew as a market for all of them, and in the Hyderabad State years it shipped cotton out to wider markets.",
         "That mix shapes what <strong>IT services in Vaijapur</strong> should look like. A dealer needs village farmers to see stock and rates. A lodge needs Shirdi-bound families to find it at night. A college needs students from neighbouring talukas to understand fees and hostel options. Each problem is small, specific and fixable in weeks rather than months.",
-        "Before you shortlist any <strong>IT company in Vaijapur</strong>, one thing about us: we do not have an office here or in Sambhajinagar. We are three engineers who work remotely. Ankur Kumar writes the full-stack code, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. Meetings happen on WhatsApp calls and shared screens, and every decision is written down.",
+        "Before you shortlist any <strong>IT services team in Vaijapur</strong>, one thing about us: we do not have an office here or in Sambhajinagar. We are three engineers who work remotely. Ankur Kumar writes the full-stack code, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects, data science and automation. Meetings happen on WhatsApp calls and shared screens, and every decision is written down.",
       ],
     },
     {
@@ -83,10 +83,10 @@ const vaijapur: CityContent = {
     },
     {
       id: "samruddhi-transport",
-      heading: "Software company in Vaijapur for transporters on the Samruddhi route",
+      heading: "Software team in Vaijapur for transporters on the Samruddhi route",
       paragraphs: [
         "The Mumbai–Nagpur Expressway, better known as the Samruddhi Mahamarg, has an interchange at Vaijapur, and the older roads to Chhatrapati Sambhajinagar, Gangapur and Yeola still carry heavy produce traffic. Truck and tempo owners in the taluka haul onion, maize, cotton and cane, and many run three to ten vehicles with a notebook as the only record.",
-        "Where does the money leak? Usually in diesel advances nobody reconciled, toll and driver expenses paid in cash, trips billed late, and part payments that were never followed up. As a <strong>software company in Vaijapur</strong> in practice, we build fleet registers where each trip is logged with vehicle, driver, route, load and rate, and expenses attach to the trip. The owner sees profit per vehicle and money outstanding per party.",
+        "Where does the money leak? Usually in diesel advances nobody reconciled, toll and driver expenses paid in cash, trips billed late, and part payments that were never followed up. As a <strong>software team in Vaijapur</strong> in practice, we build fleet registers where each trip is logged with vehicle, driver, route, load and rate, and expenses attach to the trip. The owner sees profit per vehicle and money outstanding per party.",
       ],
       list: [
         "Trip entry from a phone, including photos of loading slips",
@@ -97,10 +97,10 @@ const vaijapur: CityContent = {
     },
     {
       id: "irrigation-input-dealers",
-      heading: "Website development company in Vaijapur for seed, fertiliser and drip dealers",
+      heading: "Website development team in Vaijapur for seed, fertiliser and drip dealers",
       paragraphs: [
         "Irrigation from the Dheku, Kolhi and Narangi-Sarangi projects, together with wells and farm ponds, keeps demand steady for seed, fertiliser, pesticides, pumps, pipes and drip and sprinkler systems. Dealers in Vaijapur serve farmers from dozens of villages, often on credit that is settled after harvest.",
-        "A <strong>website development company in Vaijapur</strong> that understands this trade will not stop at a home page. Farmers want to know which onion seed variety you stock, which fertiliser is in short supply, and whether you install drip systems or only sell parts. Short Marathi pages with product categories, crop advice written with an agronomist's input, and a WhatsApp enquiry button cover this well.",
+        "A <strong>website development team in Vaijapur</strong> that understands this trade will not stop at a home page. Farmers want to know which onion seed variety you stock, which fertiliser is in short supply, and whether you install drip systems or only sell parts. Short Marathi pages with product categories, crop advice written with an agronomist's input, and a WhatsApp enquiry button cover this well.",
         "The real headache for most dealers is the credit ledger. We can build a web tool that records every sale by farmer and village, shows dues by crop season, and prints a simple statement for the farmer on request. That starts at ₹60,000 as custom software and is built over six to twelve weeks; a straightforward dealer website on its own starts at ₹10,000.",
       ],
     },
@@ -115,7 +115,7 @@ const vaijapur: CityContent = {
     },
     {
       id: "colleges-rotegaon-aghur",
-      heading: "IT company in Vaijapur for colleges in town, Rotegaon and Aghur",
+      heading: "IT services team in Vaijapur for colleges in town, Rotegaon and Aghur",
       paragraphs: [
         "The taluka has a denser cluster of colleges than its size suggests. MIT College of Engineering stands at Rotegaon, Aghur has pharmacy and B.Ed. colleges along with Raje Sambhaji College, and Vaijapur town has Vinayakrao Patil Mahavidyalaya and J.K. Jadhav College, plus a range of schools and coaching classes.",
         "Parents and students compare these institutions on phones, often late in the evening during admission season. They want course lists, eligibility, fee ranges, hostel and bus facilities, faculty details, results and the admission timetable, preferably in Marathi and English. When a college site is slow or out of date, the enquiry goes to Sambhajinagar or Nashik instead.",
@@ -136,7 +136,7 @@ const vaijapur: CityContent = {
       heading: "Android app development in Vaijapur and iOS apps that people actually open",
       paragraphs: [
         "An app is the right answer when a defined group uses it every week. Around Vaijapur that could be drivers entering trips and diesel, farmers re-ordering fertiliser from a dealer, students and parents following a college's notices, or patients booking a token at a busy clinic. It is the wrong answer when people only need your phone number once.",
-        "When we act as your <strong>app development company in Vaijapur</strong>, we use Flutter or React Native, which gives one codebase for Android and iPhone. The first version usually carries OTP login, the main working screens, push notifications and a web admin panel. Marathi labels, offline entry for places with weak signal, and photo upload for loading slips are common additions.",
+        "When we act as your <strong>app development team in Vaijapur</strong>, we use Flutter or React Native, which gives one codebase for Android and iPhone. The first version usually carries OTP login, the main working screens, push notifications and a web admin panel. Marathi labels, offline entry for places with weak signal, and photo upload for loading slips are common additions.",
         "<strong>Android app development in Vaijapur</strong> with us starts at ₹40,000, with each additional feature priced on its own line. The app is published on Google Play and the Apple App Store using developer accounts in your name, and we handle the store review steps. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for more.",
         "If a website would serve your customers just as well, we will recommend the website. It costs less, needs no download and is easier to keep current.",
       ],
@@ -223,7 +223,7 @@ const vaijapur: CityContent = {
         "Yes. We build Flutter or React Native apps that work on both Android and iPhone, with OTP login, push notifications and an admin panel, and publish them on Google Play and the App Store in your name. Apps start at ₹40,000. Driver trip logs, dealer re-orders and college notices are typical uses here.",
     },
     {
-      question: "Who is the best website development company in Vaijapur?",
+      question: "Who is the best website development team in Vaijapur?",
       answer:
         "The best choice is the one that shows real work, publishes its prices, puts the domain and code in your name and still answers after launch. Ask each provider the same questions and compare the written answers. We meet those tests and reply on WhatsApp daily, but talking to two or three options first is wise.",
     },

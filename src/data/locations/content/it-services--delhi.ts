@@ -14,8 +14,8 @@ const content: CityContent = {
       "Android and iOS app development Delhi",
       "mobile app developers Delhi",
       "IT services in Delhi",
-      "software development company in Delhi",
-      "IT company in Delhi",
+      "software development team in Delhi",
+      "IT services team in Delhi",
       "freelance software developers Delhi",
       "freelance IT services Delhi NCT",
       "custom software development Delhi",
@@ -90,9 +90,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-delhi",
-      heading: "Freelance IT team or a software development company in Delhi: how do they differ?",
+      heading: "Freelance IT team or a software development team in Delhi: how do they differ?",
       paragraphs: [
-        "A software development company in Delhi typically offers a larger team, project managers, sales staff and an office you can visit, with published custom software budgets that often start around ₹2 lakh. A freelance group like BtechWaleTech offers fewer layers, direct engineer access and lower starting prices, with the limit that we work remotely and take on fewer projects at a time.",
+        "A software development team in Delhi typically offers a larger team, project managers, sales staff and an office you can visit, with published custom software budgets that often start around ₹2 lakh. A freelance group like BtechWaleTech offers fewer layers, direct engineer access and lower starting prices, with the limit that we work remotely and take on fewer projects at a time.",
         "Neither model is automatically better. Large enterprises with compliance audits, dozens of integrations and a need for on-site staff are usually better served by an established IT company. Small and mid-sized Delhi businesses, such as a Sadar Bazar wholesaler, an Okhla exporter, a clinic chain in West Delhi or a coaching institute in North Delhi, often get more from a small team that listens carefully and ships in weekly steps.",
         "Whoever you choose, judge them on the same things: who writes the code, whether you own the source and accounts, how scope changes are priced and what support looks like a year later. We answer those questions plainly: our three engineers write it, you own it, changes are quoted in advance, and support is free for five months and from ₹8,000 a month thereafter.",
       ],

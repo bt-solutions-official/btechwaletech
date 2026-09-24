@@ -10,12 +10,12 @@ const barpeta: CityContent = {
       "Assamese and Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Barpeta jewellers, satra committees, clinics, colleges and traders.",
     keywords: [
       "IT services in Barpeta",
-      "IT company in Barpeta",
-      "website development company in Barpeta",
+      "IT services team in Barpeta",
+      "website development team in Barpeta",
       "web design in Barpeta",
-      "app development company in Barpeta",
+      "app development team in Barpeta",
       "Android app development in Barpeta",
-      "software company in Barpeta",
+      "software team in Barpeta",
       "SEO services in Barpeta",
       "digital marketing in Barpeta",
       "ecommerce website in Barpeta",
@@ -95,10 +95,10 @@ const barpeta: CityContent = {
     },
     {
       id: "fireworks-atoshbaji-barpeta",
-      heading: "Website development company in Barpeta for atoshbaji fireworks makers",
+      heading: "Website development team in Barpeta for atoshbaji fireworks makers",
       paragraphs: [
         "Barpeta's fireworks, known locally as atoshbaji or fotoka, go back well over a century. A published study traces the trade to Lakshiram Pathak of Majorhati, who received a licence in 1920, and describes a handful of family units that still make thirty-odd varieties by hand for Diwali, weddings and festivals across Assam.",
-        "The sales problem is visibility. Buyers in Guwahati or Bongaigaon often do not know these makers exist, and the season is short. A <strong>website development company in Barpeta</strong> can help, but the build has to respect the law. Fireworks cannot simply be shipped by courier like a sari, and licence conditions govern storage and sale.",
+        "The sales problem is visibility. Buyers in Guwahati or Bongaigaon often do not know these makers exist, and the season is short. A <strong>website development team in Barpeta</strong> can help, but the build has to respect the law. Fireworks cannot simply be shipped by courier like a sari, and licence conditions govern storage and sale.",
         "So the site we would build is a catalogue and enquiry tool, not a checkout. It shows the product range with safety notes, licence details, the season's order window, bulk rates for event organisers on request, and pickup or approved dealer arrangements. Orders arrive as structured WhatsApp messages with quantity, date and location, which the family can confirm by phone.",
         "We keep claims modest and verifiable. If a product has a safety instruction, it goes on the page in Assamese and English. If the family has a story worth telling, we write it from their own account and let them approve each line before it is published.",
       ],
@@ -115,10 +115,10 @@ const barpeta: CityContent = {
     },
     {
       id: "colleges-coaching-barpeta",
-      heading: "Software company in Barpeta for colleges, schools and coaching centres",
+      heading: "Software team in Barpeta for colleges, schools and coaching centres",
       paragraphs: [
         "Barpeta has an unusually strong education base for its size: Madhab Choudhury College, Barpeta Girls' College, Barpeta Vidyapith, Kendriya Vidyalaya, and a medical college that draws aspirants from across lower Assam. Private schools, tuition centres and coaching institutes serve students preparing for board exams, NEET and state recruitment tests.",
-        "Working as a <strong>software company in Barpeta</strong> for these institutions means solving daily administrative friction. Fee collection with UPI receipts, attendance marked on a phone, test results shared with parents, hostel records, and notice boards that reach families who do not check email. We build these as small web applications from ₹60,000, delivered in stages over six to twelve weeks so the fee module is working before the next term starts.",
+        "Working as a <strong>software team in Barpeta</strong> for these institutions means solving daily administrative friction. Fee collection with UPI receipts, attendance marked on a phone, test results shared with parents, hostel records, and notice boards that reach families who do not check email. We build these as small web applications from ₹60,000, delivered in stages over six to twelve weeks so the fee module is working before the next term starts.",
         "For admissions, a clear website often matters more than software. Parents want courses, faculty, fees or fee ranges, results they can verify, transport routes and hostel details. We write these pages in Assamese, Bengali and English as needed, and avoid inflated claims about toppers or selection counts unless the institute can show the records.",
         "Student data needs protecting. Access is limited by role, parents see only their own child's records, and backups run daily to storage you control.",
       ],
@@ -158,7 +158,7 @@ const barpeta: CityContent = {
       heading: "Android app development in Barpeta: when an app is worth the money",
       paragraphs: [
         "An app earns its cost only when the same people open it again and again. In Barpeta that points to a few clear cases: a jeweller whose customers pay for ornaments in monthly instalments and want to check their balance, a coaching centre sending test schedules and results, a clinic issuing tokens so patients from far villages do not wait all morning, or a Barpeta Road distributor whose retailers reorder every week.",
-        "As an <strong>app development company in Barpeta</strong>, we build in Flutter or React Native, so one codebase produces both the Android app and the iPhone app. A first release usually covers login by mobile number, push notifications, the three or four screens your users need most, and an admin panel for your staff. We handle the store listing, screenshots and review process, and publish on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Barpeta</strong>, we build in Flutter or React Native, so one codebase produces both the Android app and the iPhone app. A first release usually covers login by mobile number, push notifications, the three or four screens your users need most, and an admin panel for your staff. We handle the store listing, screenshots and review process, and publish on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Barpeta</strong> with us starts at ₹40,000. The quote grows with features you choose: online payments, offline mode for areas with weak signal, maps, Assamese and Bengali interfaces, or links to billing software. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a phone number, a website does that job at a quarter of the price. We will tell you so, because an app that gets deleted after one use helps nobody.",
       ],
@@ -243,7 +243,7 @@ const barpeta: CityContent = {
         "A simple static site is usually live within one to two weeks once we have your text, photographs and contact details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Delays mostly come from waiting for content, so sending it early is the easiest way to launch sooner.",
     },
     {
-      question: "Which is the best IT company in Barpeta for a website or app?",
+      question: "Which is the best IT services team in Barpeta for a website or app?",
       answer:
         "The best choice is whoever gives you a written itemised quote, registers the domain and code in your name, shows real finished work and still answers after launch. Ask every provider the same questions and compare. We meet those tests and reply on WhatsApp seven days a week, but you should still compare two or three options.",
     },

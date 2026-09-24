@@ -10,12 +10,12 @@ const sircilla: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Sircilla powerloom owners, saree traders, garment units, clinics and colleges.",
     keywords: [
       "IT services in Sircilla",
-      "IT company in Sircilla",
-      "website development company in Sircilla",
+      "IT services team in Sircilla",
+      "website development team in Sircilla",
       "web design in Sircilla",
-      "app development company in Sircilla",
+      "app development team in Sircilla",
       "Android app development in Sircilla",
-      "software company in Sircilla",
+      "software team in Sircilla",
       "SEO services in Sircilla",
       "digital marketing in Sircilla",
       "ecommerce website in Sircilla",
@@ -75,19 +75,19 @@ const sircilla: CityContent = {
     },
     {
       id: "powerloom-production-software",
-      heading: "Software company in Sircilla for powerloom owners and master weavers",
+      heading: "Software team in Sircilla for powerloom owners and master weavers",
       paragraphs: [
         "The district's handloom and textile department counts about 1,600 small powerloom holders with fewer than 20 looms, over a hundred larger units, and 126 registered weavers' cooperative societies. Around 11,000 older plain looms have been modernised, and a common facility centre operates at Chandrampet. Much of the work is done on job rates, with a master weaver or trader supplying yarn and collecting cloth.",
-        "That arrangement generates a lot of arithmetic: warp and weft issued per loom, beams loaded, metres produced per shift, rejects, wages per metre for each weaver, advances and deductions, and the balance owed by each trader. As a <strong>software company in Sircilla</strong> working at the scale of real loom sheds, we build web tools where a supervisor enters the day's metres from a phone and the wage sheet, yarn balance and trader account update from that single entry.",
+        "That arrangement generates a lot of arithmetic: warp and weft issued per loom, beams loaded, metres produced per shift, rejects, wages per metre for each weaver, advances and deductions, and the balance owed by each trader. As a <strong>software team in Sircilla</strong> working at the scale of real loom sheds, we build web tools where a supervisor enters the day's metres from a phone and the wage sheet, yarn balance and trader account update from that single entry.",
         "We start small. A loom-wise production and wage register is usually the first module, because weekly wage calculation is where errors cause the most friction. Trader accounts and dashboards follow. Custom software starts at ₹60,000 and is delivered in six to twelve weeks, and all data stays in accounts that belong to you.",
       ],
     },
     {
       id: "bathukamma-saree-traders",
-      heading: "Website development company in Sircilla for saree and fabric traders",
+      heading: "Website development team in Sircilla for saree and fabric traders",
       paragraphs: [
         "Since 2018, Sircilla's looms have woven Bathukamma sarees ordered by the state government for distribution to women across Telangana's districts before the festival, and the cluster also turns out uniform cloth, check shirting, PV suiting, Pongal sarees for Tamil Nadu, silk sarees, linen shirting and tie-dye fabric. Traders here sell to wholesalers and retailers in many states.",
-        "A <strong>website development company in Sircilla</strong> can give these traders a catalogue that works harder than a WhatsApp photo dump. Each fabric or saree gets its own page with clear photographs, count, width, weight, colour options, minimum order and lead time. A wholesale enquiry form asks for quantity, destination and delivery date, and buyers can download a current price list if you choose to share one.",
+        "A <strong>website development team in Sircilla</strong> can give these traders a catalogue that works harder than a WhatsApp photo dump. Each fabric or saree gets its own page with clear photographs, count, width, weight, colour options, minimum order and lead time. A wholesale enquiry form asks for quantity, destination and delivery date, and buyers can download a current price list if you choose to share one.",
         "We never state that a trader supplies a government scheme or a named retailer unless you confirm it in writing, and we never invent production capacity. A catalogue site starts at ₹10,000, and a larger 700+ page site that targets fabric searches by type and city starts at ₹20,000.",
       ],
     },
@@ -133,7 +133,7 @@ const sircilla: CityContent = {
       heading: "Android app development in Sircilla, with iOS apps for the same codebase",
       paragraphs: [
         "An app is justified when the same people open it often. In Sircilla, that could mean weavers entering daily metres and checking their wages, traders sending new saree designs to regular retailers with one tap, a hospital issuing OPD tokens, a coaching centre sharing tests and attendance, or a yarn dealer taking re-orders from loom owners.",
-        "As an <strong>app development company in Sircilla</strong> that works remotely, we use Flutter or React Native, so one project produces both the Android and iPhone versions. First releases usually include mobile number login, push notifications, the key screens for your users in Telugu and English, and an admin panel. The apps are published on Google Play and the App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Sircilla</strong> that works remotely, we use Flutter or React Native, so one project produces both the Android and iPhone versions. First releases usually include mobile number login, push notifications, the key screens for your users in Telugu and English, and an admin panel. The apps are published on Google Play and the App Store under developer accounts registered to you.",
         "<strong>Android app development in Sircilla</strong> with us starts at ₹40,000. Payments, catalogues with many images, offline entry and connections to other software raise the cost, and each is listed separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
         "If your buyers only need your number, address and a catalogue, a website costs a quarter as much and does the job. We will recommend it rather than sell an app that sits unused.",
       ],
@@ -225,7 +225,7 @@ const sircilla: CityContent = {
         "With your text and photos in hand, a static website is normally ready in one to two weeks. A 700+ page SEO site needs three to five weeks, an online store four to eight and custom software six to twelve. For textile catalogues, photographing designs is often the slowest part, so start on it early.",
     },
     {
-      question: "Who is the best website development company in Sircilla?",
+      question: "Who is the best website development team in Sircilla?",
       answer:
         "Test providers on a few plain points: are prices published, will the domain and code be registered to you, can you open live sites they built, and do they answer after launch? We welcome that comparison and reply on WhatsApp every day, but speaking to two or three providers first is a sensible habit.",
     },

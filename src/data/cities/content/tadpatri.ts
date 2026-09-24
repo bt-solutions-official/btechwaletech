@@ -9,7 +9,7 @@ const tadpatri: CityContent = {
     description:
       "Website design, Telugu local SEO, granite catalogues, fleet and order software, and WhatsApp automation for Tadpatri stone polishers, transporters and shops.",
     keywords: [
-      "website development company in Tadpatri",
+      "website development team in Tadpatri",
       "web designer Tadipatri",
       "website design Tadipatri Andhra Pradesh",
       "granite polishing unit website",
@@ -23,7 +23,7 @@ const tadpatri: CityContent = {
       "school website Tadipatri",
       "Tadipatri lo website kavali",
       "తాడిపత్రి వెబ్‌సైట్ డిజైన్",
-      "software company Tadipatri",
+      "software team Tadipatri",
     ],
   },
   hero: {

@@ -9,7 +9,7 @@ const neyveli: CityContent = {
     description:
       "Tamil and English websites, SEO, online stores and WhatsApp automation for Neyveli NLC vendors, Main Bazaar shops, clinics, tuition centres and farm sellers.",
     keywords: [
-      "website development company in Neyveli",
+      "website development team in Neyveli",
       "web designer Neyveli",
       "Neyveli township website design",
       "website cost Neyveli",

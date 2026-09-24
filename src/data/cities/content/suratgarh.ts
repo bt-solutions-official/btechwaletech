@@ -10,12 +10,12 @@ const suratgarh: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Suratgarh cotton and grain traders, brick kilns, clinics, schools and dealers.",
     keywords: [
       "IT services in Suratgarh",
-      "IT company in Suratgarh",
-      "website development company in Suratgarh",
+      "IT services team in Suratgarh",
+      "website development team in Suratgarh",
       "web design in Suratgarh",
-      "app development company in Suratgarh",
+      "app development team in Suratgarh",
       "Android app development in Suratgarh",
-      "software company in Suratgarh",
+      "software team in Suratgarh",
       "SEO services in Suratgarh",
       "digital marketing in Suratgarh",
       "ecommerce website in Suratgarh",
@@ -74,28 +74,28 @@ const suratgarh: CityContent = {
     },
     {
       id: "cotton-grain-traders",
-      heading: "Software company in Suratgarh for cotton, mustard and grain traders",
+      heading: "Software team in Suratgarh for cotton, mustard and grain traders",
       paragraphs: [
         "Cotton decides the mood of Suratgarh in the kharif season, and wheat, mustard and guar take over after it. Traders and commission agents buy from farmers, advance money for inputs, arrange weighment and transport, and sell on to ginning units, oil mills and buyers across the country. The money comes in slowly and goes out quickly, and most of the tracking is still done in registers and on calculators.",
-        "As a <strong>software company in Suratgarh</strong> in the practical sense, we build web tools for this trade. Each purchase is entered once with farmer, village, crop, weight, moisture or quality notes and rate. Advances, deductions and payments are tracked in the same place. Dispatch records follow each truck to its buyer, and the trader sees at any moment who owes what, and to whom he owes.",
+        "As a <strong>software team in Suratgarh</strong> in the practical sense, we build web tools for this trade. Each purchase is entered once with farmer, village, crop, weight, moisture or quality notes and rate. Advances, deductions and payments are tracked in the same place. Dispatch records follow each truck to its buyer, and the trader sees at any moment who owes what, and to whom he owes.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We prefer building in stages, finishing the purchase register before the cotton arrives and adding dispatch and reports afterwards, so the busiest weeks are never interrupted. Staff can enter data from a phone at the mandi, and the owner can check totals from anywhere.",
       ],
     },
     {
       id: "farm-dealers-central-farm",
-      heading: "Website development company in Suratgarh for tractor, seed and farm equipment dealers",
+      heading: "Website development team in Suratgarh for tractor, seed and farm equipment dealers",
       paragraphs: [
         "Canal farming runs on machines and inputs. Tractor, combine and implement dealers, drip and pump suppliers, seed and fertiliser shops, and workshops that repair farm machinery are among the busiest businesses in the tehsil. The Central State Farm near the town, often described as one of the largest mechanised farms in Asia, is a reminder of how central machinery is to agriculture here.",
-        "A <strong>website development company in Suratgarh</strong> can help these dealers in modest but real ways. A site listing brands and models carried, spare parts available, service facilities, finance options you actually offer, and a WhatsApp enquiry button lets farmers compare before they drive in. A service booking form, with reminders for regular servicing, brings customers back at the right time.",
+        "A <strong>website development team in Suratgarh</strong> can help these dealers in modest but real ways. A site listing brands and models carried, spare parts available, service facilities, finance options you actually offer, and a WhatsApp enquiry button lets farmers compare before they drive in. A service booking form, with reminders for regular servicing, brings customers back at the right time.",
         "For dealers selling on credit to many villages, a billing and dues tool can follow. A dealer site starts at ₹10,000 and is usually live within two weeks. We only publish brand names and authorisations you hold, and we keep product pages factual rather than inflated.",
       ],
     },
     {
       id: "brick-kilns-gypsum",
-      heading: "IT company in Suratgarh for brick kilns, gypsum and construction suppliers",
+      heading: "IT services team in Suratgarh for brick kilns, gypsum and construction suppliers",
       paragraphs: [
         "Brick making and gypsum mining are among Suratgarh's other trades, supplying builders across the region. Kiln owners manage labour, fuel, firing cycles, stock by grade and a stream of truck deliveries to contractors, often on credit. Gypsum is also used by farmers to treat soil, so suppliers deal with both builders and cultivators.",
-        "Working as an <strong>IT company in Suratgarh</strong> for this sector, we build simple tools: dispatch slips entered from a phone, stock by grade, delivery and payment records by contractor, and reminders when a payment is overdue. A website with product grades, delivery areas, rates on request and a WhatsApp order button helps contractors from nearby towns reach you directly.",
+        "Working as an <strong>IT services team in Suratgarh</strong> for this sector, we build simple tools: dispatch slips entered from a phone, stock by grade, delivery and payment records by contractor, and reminders when a payment is overdue. A website with product grades, delivery areas, rates on request and a WhatsApp order button helps contractors from nearby towns reach you directly.",
         "Cement, steel and building material shops, and the truckers who haul for the kilns, fit the same pattern. These tools run in a browser on the office PC or the owner's phone, and the data sits in an account you control.",
       ],
     },
@@ -131,7 +131,7 @@ const suratgarh: CityContent = {
       heading: "Android app development in Suratgarh, and iOS apps for regular users",
       paragraphs: [
         "An app pays off when a known group of people opens it often. In Suratgarh that might be village retailers re-ordering from a wholesale dealer, farmers checking a trader's daily rates, coaching students following tests and results, parents getting school notices, or regular patients collecting clinic tokens. A shop people visit twice a year needs a website, not an app.",
-        "Working as a remote <strong>app development company in Suratgarh</strong>, we write the app once in Flutter or React Native and ship it to both Android and iPhone. Release one normally has OTP login, push alerts, the handful of screens your users need and an admin panel for staff. Publishing on Google Play and the Apple App Store goes through developer accounts in your name, and we prepare the listings and deal with store review.",
+        "Working as a remote <strong>app development team in Suratgarh</strong>, we write the app once in Flutter or React Native and ship it to both Android and iPhone. Release one normally has OTP login, push alerts, the handful of screens your users need and an admin panel for staff. Publishing on Google Play and the Apple App Store goes through developer accounts in your name, and we prepare the listings and deal with store review.",
         "<strong>Android app development in Suratgarh</strong> with us starts at ₹40,000. Costs rise with payments, offline use in fields and low-signal villages, maps, Hindi content and billing software links, and each is a separate line in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page explains more.",
         "Most phones in the villages around Suratgarh run Android, so many clients launch on Google Play first and add iPhone later. If customers only need your address, timings and price list, we will say that a website does the job for far less.",
       ],
@@ -231,7 +231,7 @@ const suratgarh: CityContent = {
         "Plan on a week or two for a basic static site once photos and shop details reach us. A 700+ page SEO build needs three to five weeks, an online shop four to eight and bespoke software six to twelve. The biggest delay is usually waiting for content, so gathering it before the cotton rush helps.",
     },
     {
-      question: "Who is the best website development company in Suratgarh?",
+      question: "Who is the best website development team in Suratgarh?",
       answer:
         "There is no official ranking, so judge on evidence. A sound provider quotes in writing, puts the domain and code under your name, can show sites it has actually built and still answers messages months after launch. Ask each candidate the same things and compare the replies. We are glad to be judged that way.",
     },

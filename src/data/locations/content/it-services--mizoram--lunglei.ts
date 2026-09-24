@@ -13,8 +13,8 @@ const content: CityContent = {
       "iOS app development Lunglei",
       "mobile app developers Lunglei",
       "iPhone app developers Lunglei",
-      "software development company in Lunglei",
-      "IT company in Lunglei",
+      "software development team in Lunglei",
+      "IT services team in Lunglei",
       "IT solutions Lunglei",
       "freelance software developers Lunglei",
       "mobile website Lunglei",
@@ -69,9 +69,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-or-company-lunglei",
-      heading: "Should Lunglei organisations hire freelance developers or a software development company?",
+      heading: "Should Lunglei organisations hire freelance developers or a software development team?",
       paragraphs: [
-        "Lunglei organisations should hire freelance developers when they want direct contact with the builder, clear starting prices and focused software work, and choose a software development company when they need on-site staff, hardware installation or formal tender eligibility. For most software, websites and automation, a freelance group is a practical fit.",
+        "Lunglei organisations should hire freelance developers when they want direct contact with the builder, clear starting prices and focused software work, and choose a software development team when they need on-site staff, hardware installation or formal tender eligibility. For most software, websites and automation, a freelance group is a practical fit.",
         "BtechWaleTech is three independent engineers working remotely from India. We have no office in Lunglei or anywhere in Mizoram, and we do not install networks or computers. We design, build, host and maintain software, and the engineer who answers your message writes the code.",
         "If you are comparing IT companies for a Lunglei project, check who builds the system, whether code and domain are registered to you, what support costs after launch and how quickly they reply at weekends. Our starting prices are on the <a href='/pricing/'>pricing page</a>, and the statewide picture is on our <a href='/it-services/mizoram/'>Mizoram IT services page</a>.",
       ],

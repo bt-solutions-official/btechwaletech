@@ -9,10 +9,10 @@ const davanagere: CityContent = {
     description:
       "Websites, Kannada and English SEO and WhatsApp tools for Davanagere colleges, hospitals, maize and rice traders, benne dose hotels and shops. From ₹10,000.",
     keywords: [
-      "website development company in Davanagere",
+      "website development team in Davanagere",
       "website designer Davangere",
-      "web design company Davangere",
-      "SEO company Davanagere",
+      "web design team Davangere",
+      "SEO team Davanagere",
       "local SEO Davangere",
       "college website design Davangere",
       "hospital website Davanagere",
@@ -21,7 +21,7 @@ const davanagere: CityContent = {
       "ecommerce website Davangere",
       "mandakki online store",
       "WhatsApp automation Davanagere",
-      "software company Davangere",
+      "software team Davangere",
       "Davanagere alli website maadisabeku",
       "ದಾವಣಗೆರೆ ವೆಬ್‌ಸೈಟ್ ವಿನ್ಯಾಸ",
       "website design PJ Extension",

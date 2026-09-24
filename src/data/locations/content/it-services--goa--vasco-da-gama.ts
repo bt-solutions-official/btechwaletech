@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Vasco-da-Gama for port logistics tools, fleet apps, AI email agents, B2B websites and cloud hosting. Starting prices, 3 engineers.",
     keywords: [
-      "software development company in Vasco-da-Gama",
-      "IT company in Vasco-da-Gama",
+      "software development team in Vasco-da-Gama",
+      "IT services team in Vasco-da-Gama",
       "IT solutions Vasco-da-Gama",
       "freelance software developer Vasco Goa",
       "logistics software Mormugao",
@@ -207,9 +207,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-company-vasco",
-      heading: "Freelance developers or an IT company in Vasco-da-Gama: how to decide",
+      heading: "Freelance developers or an IT services team in Vasco-da-Gama: how to decide",
       paragraphs: [
-        "Choose an IT company in Vasco-da-Gama if you need on-site staff and a large team; choose freelance developers like BtechWaleTech if you want direct contact with the engineers, lower overheads and full ownership of what is built. Either way, insist on working previews, clear handover and written ownership terms.",
+        "Choose an IT services team in Vasco-da-Gama if you need on-site staff and a large team; choose freelance developers like BtechWaleTech if you want direct contact with the engineers, lower overheads and full ownership of what is built. Either way, insist on working previews, clear handover and written ownership terms.",
         "We are a freelance group of three independent engineers, working remotely, as explained on our <a href='/about/'>about page</a>. We take on a limited number of projects at a time so each gets proper attention. For wider Goa context, see the <a href='/it-services/goa/'>Goa IT services hub</a>, or compare with our <a href='/it-services/goa/margao/'>Margao page</a> for South Goa trade.",
       ],
       list: [

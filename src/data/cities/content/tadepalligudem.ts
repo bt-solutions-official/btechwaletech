@@ -9,7 +9,7 @@ const tadepalligudem: CityContent = {
     description:
       "Telugu and English websites, SEO, stores and WhatsApp automation for Tadepalligudem rice mills, aqua dealers, colleges, transporters, clinics and shops.",
     keywords: [
-      "website development company in Tadepalligudem",
+      "website development team in Tadepalligudem",
       "web designer Tadepalligudem",
       "website design West Godavari",
       "website cost Tadepalligudem",

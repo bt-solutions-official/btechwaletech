@@ -9,7 +9,7 @@ const murwaraKatni: CityContent = {
     description:
       "Websites, Hindi SEO and WhatsApp automation for Katni's lime, marble, dal mill, transport and retail businesses. Static sites from ₹10,000, five months free upkeep.",
     keywords: [
-      "website development company in Katni",
+      "website development team in Katni",
       "web designer Katni",
       "website design Murwara",
       "SEO services Katni",

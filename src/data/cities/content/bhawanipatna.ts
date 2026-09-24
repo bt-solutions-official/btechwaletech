@@ -10,12 +10,12 @@ const bhawanipatna: CityContent = {
       "Odia websites, Android and iOS apps, local SEO and WhatsApp automation for Bhawanipatna rice millers, traders, hospitals, colleges and Kalahandi's handloom makers.",
     keywords: [
       "IT services in Bhawanipatna",
-      "IT company in Bhawanipatna",
-      "website development company in Bhawanipatna",
+      "IT services team in Bhawanipatna",
+      "website development team in Bhawanipatna",
       "web design in Bhawanipatna",
-      "app development company in Bhawanipatna",
+      "app development team in Bhawanipatna",
       "Android app development in Bhawanipatna",
-      "software company in Bhawanipatna",
+      "software team in Bhawanipatna",
       "SEO services in Bhawanipatna",
       "digital marketing in Bhawanipatna",
       "ecommerce website in Bhawanipatna",
@@ -74,19 +74,19 @@ const bhawanipatna: CityContent = {
     },
     {
       id: "rice-mills-software",
-      heading: "Software company in Bhawanipatna for rice mills and paddy traders",
+      heading: "Software team in Bhawanipatna for rice mills and paddy traders",
       paragraphs: [
         "Kalahandi was once known mainly for drought, but irrigation from the Upper Indravati project changed large parts of the district, allowing two crops a year and a rapid rise in rice mills. Bhawanipatna sits at the centre of that trade, with millers, commission agents, transporters, gunny bag suppliers and spare-part dealers all dealing in paddy season after season.",
-        "The records are demanding: truck-wise paddy intake with moisture and weight, farmer or society references, milling output, broken rice and bran, stock by lot, dispatch challans and money owed by each buyer. As a <strong>software company in Bhawanipatna</strong> for this trade, we build web tools where each entry is made once and the owner sees totals by lot, buyer and month.",
+        "The records are demanding: truck-wise paddy intake with moisture and weight, farmer or society references, milling output, broken rice and bran, stock by lot, dispatch challans and money owed by each buyer. As a <strong>software team in Bhawanipatna</strong> for this trade, we build web tools where each entry is made once and the owner sees totals by lot, buyer and month.",
         "Such tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the intake register because it prevents the most costly errors. We can add Tally export, SMS or WhatsApp alerts for dispatches, and Odia labels for staff who prefer them. If a clean spreadsheet solves your problem, we will build that instead and tell you why.",
       ],
     },
     {
       id: "hospitals-medical-college",
-      heading: "Website development company in Bhawanipatna for hospitals, clinics and pharmacies",
+      heading: "Website development team in Bhawanipatna for hospitals, clinics and pharmacies",
       paragraphs: [
         "The government medical college and hospital, now named Saheed Rendo Majhi Medical College and Hospital, has made Bhawanipatna a larger medical destination for Kalahandi and parts of neighbouring districts. Around it have come private clinics, diagnostic labs, pharmacies, lodges for attendants and eateries. Families travelling long distances want to know where to go before they leave home.",
-        "A <strong>website development company in Bhawanipatna</strong> should keep healthcare sites simple and accurate. A clinic page needs doctors' names and qualifications, specialities, OPD days, fees if you choose to show them, emergency numbers, and directions from the bus stand and railway station. A diagnostic lab needs test lists, sample timings and report collection details.",
+        "A <strong>website development team in Bhawanipatna</strong> should keep healthcare sites simple and accurate. A clinic page needs doctors' names and qualifications, specialities, OPD days, fees if you choose to show them, emergency numbers, and directions from the bus stand and railway station. A diagnostic lab needs test lists, sample timings and report collection details.",
         "We never publish medical claims you cannot back up, and we keep patient data out of public forms. An appointment request can go to WhatsApp or a private admin panel. A static clinic site starts at ₹10,000; appointment systems and patient apps are quoted separately so you can see what each part costs.",
         "Pharmacies and labs around the hospital can gain a lot from small touches: a page listing which medicines or tests are usually in stock, a note on home sample collection within town limits, and a WhatsApp link that opens with the patient's name and test already filled in. Attendants staying for several days also search for lodges, tiffin services and medical equipment on rent, so those businesses deserve clear listings of their own.",
       ],
@@ -105,7 +105,7 @@ const bhawanipatna: CityContent = {
       heading: "Android app development in Bhawanipatna and iOS apps for local services",
       paragraphs: [
         "An app makes sense when the same people use it every week. In Bhawanipatna that could be a coaching centre's students checking tests and notes, a clinic's regular patients booking slots, a distributor's retailers across Kalahandi placing orders, or a rice mill's staff logging trucks at the gate.",
-        "As an <strong>app development company in Bhawanipatna</strong> working remotely, we build in Flutter or React Native, so a single codebase runs on Android and iPhone. A first version normally includes mobile-number login, the main screens for your use case, push notifications and an admin panel you control. Offline entry helps where network coverage drops outside town.",
+        "As an <strong>app development team in Bhawanipatna</strong> working remotely, we build in Flutter or React Native, so a single codebase runs on Android and iPhone. A first version normally includes mobile-number login, the main screens for your use case, push notifications and an admin panel you control. Offline entry helps where network coverage drops outside town.",
         "<strong>Android app development in Bhawanipatna</strong> with us starts at ₹40,000. Payments, maps, barcode scanning and links to billing software add to that, and each is listed separately. We publish on Google Play and the App Store using developer accounts registered to you, so the app stays yours.",
         "If people only need your number, timings and location, a website and a good Maps listing are cheaper and more useful than an app nobody installs. We will recommend that when it is the better choice.",
       ],
@@ -158,9 +158,9 @@ const bhawanipatna: CityContent = {
     },
     {
       id: "remote-team-bhawanipatna",
-      heading: "An IT company in Bhawanipatna without a local office: how we work",
+      heading: "An IT services team in Bhawanipatna without a local office: how we work",
       paragraphs: [
-        "If you are searching for an <strong>IT company in Bhawanipatna</strong>, you may expect someone who drops by the shop. We cannot, so we make every step visible instead. After a first call about your business and customers, you get a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
+        "If you are searching for an <strong>IT services team in Bhawanipatna</strong>, you may expect someone who drops by the shop. We cannot, so we make every step visible instead. After a first call about your business and customers, you get a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
         "We answer WhatsApp seven days a week on Indian Standard Time. Odia text is sent to you for checking before it goes live, and progress appears on preview links so you can see the site or app taking shape. Payments are staged against visible milestones, and nothing is billed until you approve the quote in writing.",
         "Working this way keeps prices low and saves you trips to Bhubaneswar or Raipur for meetings. You can start on our <a href=\"/contact/\">contact page</a>, or read more about our <a href=\"/services/web-development/\">web development services</a> first.",
       ],
@@ -225,7 +225,7 @@ const bhawanipatna: CityContent = {
         "A static website usually goes live within one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content ready early is the easiest way to avoid delays.",
     },
     {
-      question: "Who is the best website development company in Bhawanipatna?",
+      question: "Who is the best website development team in Bhawanipatna?",
       answer:
         "Check every provider on the same things: published starting prices, domain and code in your name, a written itemised quote, real work you can open, and support after launch. Ask each the same questions. We meet those standards and answer WhatsApp every day, but comparing honestly is the best way to choose.",
     },

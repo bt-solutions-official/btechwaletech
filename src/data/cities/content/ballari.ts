@@ -9,7 +9,7 @@ const ballari: CityContent = {
     description:
       "Websites, Kannada and Telugu SEO, jeans catalogues and WhatsApp automation for Ballari garment units, steel and mining vendors, clinics and shops. From ₹10,000.",
     keywords: [
-      "website development company in Ballari",
+      "website development team in Ballari",
       "web design Bellary",
       "website designer Ballari",
       "freelance web developer Bellary",
@@ -271,7 +271,7 @@ const ballari: CityContent = {
     {
       question: "When will SEO start bringing enquiries in Ballari?",
       answer:
-        "Nearby map searches usually improve first, often within six to ten weeks of fixing your listing and website. Wider phrases such as “jeans manufacturer in Ballari” or “website development company in Ballari” take longer, commonly four to eight months of steady work. Nobody can honestly guarantee a first-place ranking.",
+        "Nearby map searches usually improve first, often within six to ten weeks of fixing your listing and website. Wider phrases such as “jeans manufacturer in Ballari” or “website development team in Ballari” take longer, commonly four to eight months of steady work. Nobody can honestly guarantee a first-place ranking.",
     },
     {
       question: "Do you work with businesses in Sanduru, Siruguppa, Hosapete and Adoni?",

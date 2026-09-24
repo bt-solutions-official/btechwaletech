@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Gandhinagar for portals, web apps, AI agents, dashboards and SEO. Software from ₹60,000, apps from ₹40,000, quotes in 2 days.",
     keywords: [
-      "software development company in Gandhinagar",
-      "IT company in Gandhinagar",
+      "software development team in Gandhinagar",
+      "IT services team in Gandhinagar",
       "IT solutions Gandhinagar",
       "custom software development Gandhinagar",
       "web application development Gandhinagar",
@@ -32,7 +32,7 @@ const content: CityContent = {
       "cloud hosting and maintenance Gandhinagar",
       "software developer near me Kudasan",
       "IT services Sargasan Raysan",
-      "Gandhinagar ma software company",
+      "Gandhinagar ma software team",
       "ગાંધીનગર સોફ્ટવેર ડેવલપમેન્ટ",
     ],
   },
@@ -200,9 +200,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-developers-vs-software-company-gandhinagar",
-      heading: "Freelance software developers vs a software development company in Gandhinagar",
+      heading: "Freelance software developers vs a software development team in Gandhinagar",
       paragraphs: [
-        "Gandhinagar buyers should choose freelance software developers when they want the engineers themselves on every call, a lean budget and a focused portal or tool delivered in weeks; a software development company suits projects needing vendor empanelment, large teams or staffed round-the-clock support. Many institutes and small firms fall clearly into the first group.",
+        "Gandhinagar buyers should choose freelance software developers when they want the engineers themselves on every call, a lean budget and a focused portal or tool delivered in weeks; a software development team suits projects needing vendor empanelment, large teams or staffed round-the-clock support. Many institutes and small firms fall clearly into the first group.",
         "The city has a large and well-established IT services sector, from multinational delivery centres to local software houses in Infocity, the Sector 25 GIDC area and Kudasan. If you are comparing IT companies in Gandhinagar with a freelance group like BtechWaleTech, look at the structure rather than the logo. A company adds sales staff, project managers and layers of review, which helps on very large programmes. A freelance group removes those layers: the three engineers who write your requirements also write the code, deploy it and answer your WhatsApp messages after launch.",
         "Our technology choices are mainstream and easy to hand over. We use <strong>Next.js</strong> and <strong>React</strong> for portals and dashboards, <strong>Node.js</strong> or <strong>Python</strong> for backends and AI features, <strong>PostgreSQL</strong> for data, <strong>Astro</strong> for fast public websites, <strong>Flutter</strong> or <strong>React Native</strong> for Android and iOS apps on Google Play and the App Store, <strong>n8n</strong> for workflow automation, the <strong>WhatsApp Business API</strong> for messaging, and <strong>AWS</strong> or a similar cloud with an India region for hosting.",
         "Our limits are stated plainly. We do not bid for government tenders, cannot run a 24-hour help desk, and prefer phased projects over one enormous contract. In exchange you get direct accountability, published starting prices and complete ownership of everything built.",

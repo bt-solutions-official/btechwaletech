@@ -9,14 +9,14 @@ const raurkela: CityContent = {
     description:
       "Websites, SEO and automation for Rourkela steel ancillaries, Kalunga units, shops, clinics and coaching centres. From ₹10,000, itemised quotes, you own everything.",
     keywords: [
-      "website development company in Rourkela",
+      "website development team in Rourkela",
       "web design Rourkela",
       "website designer Raurkela",
       "SEO services Rourkela",
       "local SEO Rourkela",
       "ecommerce website Rourkela",
       "industrial website design Kalunga",
-      "software company Rourkela",
+      "software team Rourkela",
       "web application development Rourkela",
       "WhatsApp automation Rourkela",
       "AI automation Odisha",

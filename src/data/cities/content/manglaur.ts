@@ -10,12 +10,12 @@ const manglaur: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Manglaur highway businesses, cane-belt suppliers, industrial vendors, schools and shops.",
     keywords: [
       "IT services in Manglaur",
-      "IT company in Manglaur",
-      "website development company in Manglaur",
+      "IT services team in Manglaur",
+      "website development team in Manglaur",
       "web design in Manglaur",
-      "app development company in Manglaur",
+      "app development team in Manglaur",
       "Android app development in Manglaur",
-      "software company in Manglaur",
+      "software team in Manglaur",
       "SEO services in Manglaur",
       "digital marketing in Manglaur",
       "ecommerce website in Manglaur",
@@ -79,11 +79,11 @@ const manglaur: CityContent = {
     },
     {
       id: "cane-belt-software-manglaur",
-      heading: "Software company in Manglaur for the sugarcane season",
+      heading: "Software team in Manglaur for the sugarcane season",
       paragraphs: [
         "Between October and spring, the roads around Manglaur fill with tractor-trolleys carrying cane. The Uttam Sugar mill at Libberheri is close by, and farmers across Narsan and Roorkee blocks plan their year around the crushing calendar. Behind every trolley sits a small business: the tractor owner, the diesel supplier, the mechanic, the fertiliser and pesticide dealer, and the moneylender who bridges the wait for cane payments.",
         "Most of these records are still kept in registers. That works until two brothers disagree about how many trips a trolley made, or a dealer loses track of which farmer owes what after three months of credit sales.",
-        "Acting as a <strong>software company in Manglaur</strong>, we build compact web tools for exactly this. A trip is entered once from a phone with vehicle, date, supply slip and weight. Diesel and advances are logged against the driver. Dealers see each farmer's purchases, payments and balance on one screen, and a WhatsApp reminder goes out when a payment date arrives. Staff can use it in Hindi.",
+        "Acting as a <strong>software team in Manglaur</strong>, we build compact web tools for exactly this. A trip is entered once from a phone with vehicle, date, supply slip and weight. Diesel and advances are logged against the driver. Dealers see each farmer's purchases, payments and balance on one screen, and a WhatsApp reminder goes out when a payment date arrives. Staff can use it in Hindi.",
         "Custom tools like these start at ₹60,000 and are built in stages over six to twelve weeks. We suggest starting in the off-season, so the register is tested and familiar before the first trolley rolls towards the mill.",
       ],
     },
@@ -99,11 +99,11 @@ const manglaur: CityContent = {
     },
     {
       id: "industrial-vendors-manglaur",
-      heading: "Website development company in Manglaur for suppliers to Haridwar's industrial estates",
+      heading: "Website development team in Manglaur for suppliers to Haridwar's industrial estates",
       paragraphs: [
         "Haridwar district is one of Uttarakhand's biggest industrial bases. The SIDCUL estate at Ranipur, the Bahadrabad and Landhaura industrial areas, the Roorkee industrial estate and several private estates around Bhagwanpur host units in electrical goods, pharmaceuticals, plastics, automobile parts, packaging and food processing, according to the district industries centre's own profile.",
         "Every one of those plants depends on smaller firms: fabricators, machine shops, electrical contractors, packaging suppliers, labour contractors, canteens, transporters and security agencies. Many of them are based in and around Manglaur, where land and labour are cheaper than next to the estates.",
-        "A purchase team checking a new vendor looks for a proper website before it looks at a price. As a <strong>website development company in Manglaur</strong>, we build capability sites that answer the questions a vendor-registration form will ask anyway: what you make or do, machines and capacity, certifications, the sectors you serve, GST and registration numbers, safety practices, and named contacts with direct phone numbers.",
+        "A purchase team checking a new vendor looks for a proper website before it looks at a price. As a <strong>website development team in Manglaur</strong>, we build capability sites that answer the questions a vendor-registration form will ask anyway: what you make or do, machines and capacity, certifications, the sectors you serve, GST and registration numbers, safety practices, and named contacts with direct phone numbers.",
         "We never list a client's name or logo on your site without written permission from that client. Workshops that handle drawings can add a quote form with file upload, and firms with repeat orders can add a simple job-status page so the buyer stops calling for updates.",
       ],
     },
@@ -146,10 +146,10 @@ const manglaur: CityContent = {
     },
     {
       id: "android-ios-apps-manglaur",
-      heading: "App development company in Manglaur: Android and iOS apps that get used",
+      heading: "App development team in Manglaur: Android and iOS apps that get used",
       paragraphs: [
         "Before quoting for an app, we ask one question: will the same people open it at least once a week? In Manglaur the honest yes answers include tractor and truck drivers logging cane trips and diesel, a school sending homework and fee reminders to parents, a wholesaler whose village retailers reorder regularly, and a clinic issuing tokens so patients stop queuing from dawn.",
-        "As an <strong>app development company in Manglaur</strong> working remotely, we use Flutter or React Native so one codebase serves both Android phones and iPhones. A typical first version includes mobile-number login with OTP, push notifications, the few screens your users need most, Hindi labels, and an admin panel for your office. We prepare store listings and publish on Google Play and the App Store under your own developer accounts.",
+        "As an <strong>app development team in Manglaur</strong> working remotely, we use Flutter or React Native so one codebase serves both Android phones and iPhones. A typical first version includes mobile-number login with OTP, push notifications, the few screens your users need most, Hindi labels, and an admin panel for your office. We prepare store listings and publish on Google Play and the App Store under your own developer accounts.",
         "<strong>Android app development in Manglaur</strong> with us starts at ₹40,000. Offline entry for fields with weak signal, payments, maps and integration with billing software add to the cost, and each appears as a separate line in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for examples of scope.",
         "If your customers only need an address, timings and a phone number, a website does the job for far less, and we will say so. Plenty of apps are installed once and deleted; we would rather not build one of those for you.",
       ],
@@ -237,7 +237,7 @@ const manglaur: CityContent = {
         "A simple static website usually goes live in one to two weeks after we receive your text, photos and contact details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where content arrives in the first few days.",
     },
     {
-      question: "Which is the best website development company in Manglaur?",
+      question: "Which is the best website development team in Manglaur?",
       answer:
         "Judge any provider on four things: a written itemised quote, the domain and code registered in your name, real work you can open and check, and support after launch. Ask everyone the same questions. We meet those tests and answer WhatsApp seven days a week, but comparing two or three options is still wise.",
     },

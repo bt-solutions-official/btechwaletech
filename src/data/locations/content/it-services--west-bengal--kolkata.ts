@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Kolkata",
     description:
-      "Comparing a software development company in Kolkata? Hire our freelance team for custom software, Android and iOS apps, AI agents and dashboards. From ₹40,000.",
+      "Comparing a software development team in Kolkata? Hire our freelance team for custom software, Android and iOS apps, AI agents and dashboards. From ₹40,000.",
     keywords: [
-      "software development company in Kolkata",
-      "IT company in Kolkata",
+      "software development team in Kolkata",
+      "IT services team in Kolkata",
       "IT solutions Kolkata",
       "freelance software developers Kolkata",
       "custom software development Kolkata",
@@ -36,7 +36,7 @@ const content: CityContent = {
     eyebrow: "Kolkata · West Bengal · Freelance software, apps and automation",
     h1: "Freelance software developers in Kolkata for web apps, Android and iOS apps and AI automation",
     lede:
-      "Kolkata has hundreds of IT firms, from global names in Sector V to small studios in Behala, so searching for a software development company in Kolkata rarely narrows things down. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI agents, dashboards and cloud deployments for Kolkata traders, freight forwarders, hospitals, startups, restaurants and Puja committees, at published starting prices.",
+      "Kolkata has hundreds of IT firms, from global names in Sector V to small studios in Behala, so searching for a software development team in Kolkata rarely narrows things down. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, Android and iOS apps, AI agents, dashboards and cloud deployments for Kolkata traders, freight forwarders, hospitals, startups, restaurants and Puja committees, at published starting prices.",
     pills: ["Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents in Bengali", "Startup MVPs", "Five months' free maintenance"],
   },
   quickAnswer:
@@ -70,7 +70,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-kolkata",
-      heading: "Freelance developers vs a software development company in Kolkata: which is right for you?",
+      heading: "Freelance developers vs a software development team in Kolkata: which is right for you?",
       paragraphs: [
         "For most Kolkata businesses commissioning one focused system, such as an order portal, an app or an AI workflow, a small freelance team offers faster communication and lower cost, while a large software development company in Kolkata suits enterprise programmes needing dozens of developers and formal delivery structures. BtechWaleTech is a freelance group of three engineers, so we fit the first case.",
         "The city's IT market is shaped by large employers in Sector V and New Town serving overseas clients. Those firms are strong at long enterprise contracts but are rarely built around a Burrabazar distributor or a single hospital. Smaller agencies fill the gap, often with sales staff between client and developer. With us, the person answering your WhatsApp is the engineer writing the code, and the quote reflects engineering time rather than office rent on Park Street.",
@@ -258,9 +258,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software development company in Kolkata?",
+      question: "Is BtechWaleTech a software development team in Kolkata?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company and not based in Kolkata. We serve Kolkata clients online over WhatsApp, video calls and live preview links. Many people searching for a software development company in Kolkata choose us because they speak directly with the developers.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and not based in Kolkata. We serve Kolkata clients online over WhatsApp, video calls and live preview links. Many people searching for a software development team in Kolkata choose us because they speak directly with the developers.",
     },
     {
       question: "How are payments made?",

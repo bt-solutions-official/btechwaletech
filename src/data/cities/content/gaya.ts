@@ -9,10 +9,10 @@ const gaya: CityContent = {
     description:
       "Websites, SEO and WhatsApp booking tools for Gaya hotels, pind daan pandas, tilkut sellers, Manpur weavers, clinics and coaching. From ₹10,000, you own it all.",
     keywords: [
-      "website development company in Gaya",
+      "website development team in Gaya",
       "website designer Gaya Bihar",
-      "web design company Gaya",
-      "SEO company in Gaya",
+      "web design team Gaya",
+      "SEO team in Gaya",
       "local SEO Gaya",
       "hotel website Bodh Gaya",
       "pind daan booking website",

@@ -10,12 +10,12 @@ const pipariya: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp bots for Pipariya grain traders, dal and rice mills, Pachmarhi taxi operators, clinics and schools.",
     keywords: [
       "IT services in Pipariya",
-      "IT company in Pipariya",
-      "website development company in Pipariya",
+      "IT services team in Pipariya",
+      "website development team in Pipariya",
       "web design in Pipariya",
-      "app development company in Pipariya",
+      "app development team in Pipariya",
       "Android app development in Pipariya",
-      "software company in Pipariya",
+      "software team in Pipariya",
       "SEO services in Pipariya",
       "digital marketing in Pipariya",
       "ecommerce website in Pipariya",
@@ -74,19 +74,19 @@ const pipariya: CityContent = {
     },
     {
       id: "mandi-grain-traders",
-      heading: "Software company in Pipariya for grain traders and commission agents",
+      heading: "Software team in Pipariya for grain traders and commission agents",
       paragraphs: [
         "Pipariya's Krishi Upaj Mandi Samiti handles produce from a wide belt of irrigated villages, and a trader here may buy wheat, gram, soybean and moong in the same season. Behind every lot is a trail of records: the farmer's name, weight, rate, deductions, hamali, the truck it left on and the warehouse it went into. Many firms still keep this in bound registers and a calculator.",
-        "As a <strong>software company in Pipariya</strong>, we build internal tools that sit alongside the official mandi process rather than replacing it. A typical first version records each purchase once, prints or shares a clear slip for the farmer, totals stock by commodity and by warehouse, and shows who is still waiting for payment. Sale contracts, truck dispatches and broker commissions can be added in a second stage.",
+        "As a <strong>software team in Pipariya</strong>, we build internal tools that sit alongside the official mandi process rather than replacing it. A typical first version records each purchase once, prints or shares a clear slip for the farmer, totals stock by commodity and by warehouse, and shows who is still waiting for payment. Sale contracts, truck dispatches and broker commissions can be added in a second stage.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built phase by phase so that the purchase register is working before the busy season. We keep the screens in plain Hindi and English and make sure they run on the ordinary laptop or phone already in your office.",
       ],
     },
     {
       id: "dal-rice-mills",
-      heading: "Website development company in Pipariya for dal mills, rice mills and food park units",
+      heading: "Website development team in Pipariya for dal mills, rice mills and food park units",
       paragraphs: [
         "Pulse and rice mills, warehouses and the processing units of Pipariya's food park turn local crops into packed goods sold far beyond Narmadapuram district. Their buyers are wholesalers, retail chains, institutional kitchens and brokers who often shortlist suppliers online before they ever phone.",
-        "A <strong>website development company in Pipariya</strong> should build these firms a site that reads like a clear supplier profile: products and grades, pack sizes from retail pouches to bulk bags, milling and cleaning capacity stated honestly, FSSAI and GST details, dispatch options by road and rail, and named people to call. A bulk enquiry form that asks for product, quantity and destination saves both sides a round of calls.",
+        "A <strong>website development team in Pipariya</strong> should build these firms a site that reads like a clear supplier profile: products and grades, pack sizes from retail pouches to bulk bags, milling and cleaning capacity stated honestly, FSSAI and GST details, dispatch options by road and rail, and named people to call. A bulk enquiry form that asks for product, quantity and destination saves both sides a round of calls.",
         "We never invent capacity figures or client names. If you want to show a buyer's logo, we need that buyer's written consent. A supplier site of this kind starts at ₹10,000; adding a private price list for approved dealers or a Tally-linked stock page is quoted as a separate line.",
       ],
     },
@@ -119,18 +119,18 @@ const pipariya: CityContent = {
     },
     {
       id: "tractor-seed-fertiliser-dealers",
-      heading: "IT company in Pipariya for tractor, seed and fertiliser dealers",
+      heading: "IT services team in Pipariya for tractor, seed and fertiliser dealers",
       paragraphs: [
         "Two or three crops a year on canal-irrigated land keep Pipariya's farm dealers busy almost all year round. Tractor and implement showrooms juggle service bookings, spare parts and warranty dates; seed and fertiliser shops sell on credit that clears after harvest.",
-        "An <strong>IT company in Pipariya</strong> can help most with the unglamorous parts. We build service registers that send a WhatsApp reminder when a tractor is due for its next service, a searchable spare-parts list for counter staff, and a customer ledger that shows each farmer's purchases, payments and pending balance by village. Before sowing, a broadcast list can tell farmers which seed varieties have arrived.",
+        "An <strong>IT services team in Pipariya</strong> can help most with the unglamorous parts. We build service registers that send a WhatsApp reminder when a tractor is due for its next service, a searchable spare-parts list for counter staff, and a customer ledger that shows each farmer's purchases, payments and pending balance by village. Before sowing, a broadcast list can tell farmers which seed varieties have arrived.",
         "These tools start at ₹60,000 as custom software. Smaller needs, like a dealer website with product lines, branch timings and a map pin, start at ₹10,000.",
       ],
     },
     {
       id: "android-ios-apps-pipariya",
-      heading: "App development company in Pipariya: Android and iOS apps people keep using",
+      heading: "App development team in Pipariya: Android and iOS apps people keep using",
       paragraphs: [
-        "An app is worth paying for only if a defined group of people will open it every week. We build them in Flutter or React Native, so the same code runs on Android phones and iPhones, with OTP login, push notifications and an admin panel for your staff. As an <strong>app development company in Pipariya</strong>, we publish the finished app on Google Play and the App Store using developer accounts registered to your business.",
+        "An app is worth paying for only if a defined group of people will open it every week. We build them in Flutter or React Native, so the same code runs on Android phones and iPhones, with OTP login, push notifications and an admin panel for your staff. As an <strong>app development team in Pipariya</strong>, we publish the finished app on Google Play and the App Store using developer accounts registered to your business.",
         "<strong>Android app development in Pipariya</strong> starts at ₹40,000 with us. Payment collection, live vehicle location, offline mode for hill roads without signal and links to billing software add to the cost, each shown separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "If your customers only need your number, rates and location, a website with a Google listing does the job for far less, and that is what we will recommend. Where an app does make sense, these are the kinds that suit Pipariya businesses:",
       ],
@@ -239,7 +239,7 @@ const pipariya: CityContent = {
         "A small static site is usually live one to two weeks after we receive your details and photographs. An SEO website of 700+ pages takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending your content early is the single biggest thing that speeds a project up.",
     },
     {
-      question: "Who is a good website development company in Pipariya?",
+      question: "Who is a good website development team in Pipariya?",
       answer:
         "Judge any provider on facts: published prices, the domain and code registered to you, real past work you can open, and support after launch. Ask the same questions of each and compare written answers. We meet those standards and reply on WhatsApp all week, but comparing a few options is always wise.",
     },

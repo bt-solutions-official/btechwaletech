@@ -10,12 +10,12 @@ const nabha: CityContent = {
       "Punjabi and English websites, Android and iOS apps, dealer software, local SEO and WhatsApp automation for Nabha harvester makers, arhtiyas, schools and shops.",
     keywords: [
       "IT services in Nabha",
-      "IT company in Nabha",
-      "website development company in Nabha",
+      "IT services team in Nabha",
+      "website development team in Nabha",
       "web design in Nabha",
-      "app development company in Nabha",
+      "app development team in Nabha",
       "Android app development in Nabha",
-      "software company in Nabha",
+      "software team in Nabha",
       "SEO services in Nabha",
       "digital marketing in Nabha",
       "ecommerce website in Nabha",
@@ -75,20 +75,20 @@ const nabha: CityContent = {
     },
     {
       id: "combine-harvester-makers",
-      heading: "Website development company in Nabha for combine harvester and implement makers",
+      heading: "Website development team in Nabha for combine harvester and implement makers",
       paragraphs: [
         "Nabha's workshops and factories build self-propelled and tractor-mounted combines, straw reapers, and a range of implements and parts. Their buyers are spread across Punjab, Haryana, Uttar Pradesh, Madhya Pradesh, Maharashtra and further, and many of them first see a machine on a phone, often through a video forwarded by another operator.",
-        "A <strong>website development company in Nabha</strong> building for these makers should put technical facts first. Each model needs its own page: engine and horsepower, cutter bar width, grain tank capacity, crops handled, attachments, fuel use under typical conditions if you have measured it, and real photographs and videos from the field. Buyers compare these numbers closely, and vague brochure language loses them.",
+        "A <strong>website development team in Nabha</strong> building for these makers should put technical facts first. Each model needs its own page: engine and horsepower, cutter bar width, grain tank capacity, crops handled, attachments, fuel use under typical conditions if you have measured it, and real photographs and videos from the field. Buyers compare these numbers closely, and vague brochure language loses them.",
         "Add a dealer locator, a spare parts section with part numbers and exploded diagrams, warranty terms, a service contact list by state, and an enquiry form that asks for crop, acreage and location. For operators who hire out machines, a page explaining financing options you genuinely offer can help.",
         "We never publish performance figures, awards or customer names that you cannot back up. A model website starts at ₹10,000 for a small range; larger catalogues with spare parts search fall under the SEO website or custom software starting prices. See our <a href=\"/services/web-development/\">web development service</a> for details.",
       ],
     },
     {
       id: "harvester-dealer-service-software",
-      heading: "Software company in Nabha for dealer networks, service and warranty",
+      heading: "Software team in Nabha for dealer networks, service and warranty",
       paragraphs: [
         "Harvesting seasons compress months of business into a few weeks. Machines move from state to state following the crop, breakdowns need parts delivered quickly, dealers want stock updates, and warranty claims pile up after the season. Most of this still runs on phone calls, diaries and WhatsApp photos.",
-        "As a <strong>software company in Nabha</strong>, we build web tools that bring this together. A dealer portal shows available stock, price lists and order status for each dealer. A service module records every breakdown call with machine serial number, location, engineer assigned, parts used and time to fix. A warranty tracker links claims to serial numbers and sale dates, so disputes are settled with records rather than memory.",
+        "As a <strong>software team in Nabha</strong>, we build web tools that bring this together. A dealer portal shows available stock, price lists and order status for each dealer. A service module records every breakdown call with machine serial number, location, engineer assigned, parts used and time to fix. A warranty tracker links claims to serial numbers and sale dates, so disputes are settled with records rather than memory.",
         "A spare parts system can show which parts fail most in which crop and region, which helps plan stock before the next season instead of rushing orders during it. Everything runs in a browser on phones and office computers, with separate logins for dealers, engineers and head office.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We suggest building in the off-season and starting with the service register, because that is where lost time costs the most money.",
       ],
@@ -118,7 +118,7 @@ const nabha: CityContent = {
       heading: "Android app development in Nabha, with iOS versions for the same apps",
       paragraphs: [
         "Apps pay off when a known group of people will use them repeatedly. In Nabha, strong examples are service engineers recording breakdown calls in the field, dealers checking stock and placing orders, harvester operators booking service or ordering parts, parents of a school receiving notices and fee reminders, and customers of a busy clinic booking tokens.",
-        "As an <strong>app development company in Nabha</strong> working remotely, we build apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first version includes phone number login, push notifications, offline entry for fields with no signal, photo upload for machine faults, and an admin panel for head office.",
+        "As an <strong>app development team in Nabha</strong> working remotely, we build apps in Flutter or React Native, so one codebase runs on Android phones and iPhones. A typical first version includes phone number login, push notifications, offline entry for fields with no signal, photo upload for machine faults, and an admin panel for head office.",
         "<strong>Android app development in Nabha</strong> with us starts at ₹40,000. Payments, maps and location tracking, Punjabi and Hindi interfaces, and links to your dealer software add cost, and each is itemised. We publish on Google Play and the Apple App Store under developer accounts registered to your business, so the app stays yours. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more.",
         "If your customers only need to see your address, models and a phone number, a well-built website and a map listing do that at a fraction of the cost. We will suggest that first whenever it is enough.",
       ],
@@ -164,7 +164,7 @@ const nabha: CityContent = {
     },
     {
       id: "remote-team-nabha",
-      heading: "How our remote IT company works with Nabha businesses",
+      heading: "How our remote IT services team works with Nabha businesses",
       paragraphs: [
         "Since we are not in Nabha, we document everything. A first call covers your products, customers and what the website, app or software should do. You then receive a written plan, a timeline and an itemised quote. Once you approve, we share preview links you can open on your phone and show to partners, family or your dealers.",
         "We reply to WhatsApp every day, weekends included, on Indian Standard Time. For machinery businesses, we plan major launches before the season rather than during it, and schedule updates when your staff are least busy. If something is delayed, you hear about it as soon as we know.",
@@ -231,7 +231,7 @@ const nabha: CityContent = {
         "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. For machinery makers, organised model and parts data speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Nabha?",
+      question: "Which is the best website development team in Nabha?",
       answer:
         "Pick a provider that publishes prices, puts the domain and code in your name, answers after launch and can show working sites. Ask every option the same questions. We meet those tests and reply on WhatsApp seven days a week, but it is sensible to compare two or three before you decide.",
     },

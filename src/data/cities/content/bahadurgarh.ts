@@ -9,7 +9,7 @@ const bahadurgarh: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Bahadurgarh footwear makers, MIE and HSIIDC factories, warehouses and shops. Sites from ₹10,000, SEO sites from ₹20,000.",
     keywords: [
-      "website development company in Bahadurgarh",
+      "website development team in Bahadurgarh",
       "web designer Bahadurgarh",
       "website design Bahadurgarh Haryana",
       "SEO services Bahadurgarh",

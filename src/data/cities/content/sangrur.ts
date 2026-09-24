@@ -10,12 +10,12 @@ const sangrur: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Sangrur rice shellers, farm machinery makers, arhtiyas, hospitals and shops.",
     keywords: [
       "IT services in Sangrur",
-      "IT company in Sangrur",
-      "website development company in Sangrur",
+      "IT services team in Sangrur",
+      "website development team in Sangrur",
       "web design in Sangrur",
-      "app development company in Sangrur",
+      "app development team in Sangrur",
       "Android app development in Sangrur",
-      "software company in Sangrur",
+      "software team in Sangrur",
       "SEO services in Sangrur",
       "digital marketing in Sangrur",
       "ecommerce website in Sangrur",
@@ -74,19 +74,19 @@ const sangrur: CityContent = {
     },
     {
       id: "arhtiya-grain-software",
-      heading: "Software company in Sangrur for arhtiyas and grain market traders",
+      heading: "Software team in Sangrur for arhtiyas and grain market traders",
       paragraphs: [
         "Wheat in April and paddy in October bring an enormous volume of grain through the markets of Sangrur district, including the large yards at Dhuri and Sunam. Commission agents handle procurement for many farmers at once, arrange labour, deal with procurement agencies and millers, and keep accounts that run through the whole year because advances and repayments do not stop when the season ends.",
-        "As a <strong>software company in Sangrur</strong> in plain terms, we build ledgers that match how arhtiyas already work. Each farmer has an account showing heaps brought, quantities weighed, dates, labour and other charges, advances given and payments received. Staff enter arrivals from a phone at the yard, and the owner sees totals by day, by farmer and by buyer. Farmers can receive a WhatsApp statement instead of queuing at the shop to read the bahi.",
+        "As a <strong>software team in Sangrur</strong> in plain terms, we build ledgers that match how arhtiyas already work. Each farmer has an account showing heaps brought, quantities weighed, dates, labour and other charges, advances given and payments received. Staff enter arrivals from a phone at the yard, and the owner sees totals by day, by farmer and by buyer. Farmers can receive a WhatsApp statement instead of queuing at the shop to read the bahi.",
         "Tools like this start at ₹60,000 and take six to twelve weeks, built in steps with the farmer ledger first. We plan exports in the format your accountant needs. Government procurement portals have their own rules and logins, and we do not try to replace them; the software sits alongside them so your own records stay complete and easy to check when a dispute comes up.",
       ],
     },
     {
       id: "rice-shellers-processors",
-      heading: "Website development company in Sangrur for rice shellers and processors",
+      heading: "Website development team in Sangrur for rice shellers and processors",
       paragraphs: [
         "Rice shellers, rice bran oil units, poultry feed makers and dairy processors form a large part of Sangrur's industry, according to the district's own industrial chamber. Many sell to buyers in other states or abroad, and those buyers check a website, a Google listing and sometimes a LinkedIn page before they ever pick up the phone.",
-        "A <strong>website development company in Sangrur</strong> should build such a site around facts a buyer can use: varieties handled, processing and sorting equipment, capacity if you are comfortable sharing it, packing options, storage, quality testing, certifications you actually hold, GST details and named contacts for sales and dispatch. Plain photographs of the plant, the sorting line and a packed consignment are more convincing than stock images of paddy fields.",
+        "A <strong>website development team in Sangrur</strong> should build such a site around facts a buyer can use: varieties handled, processing and sorting equipment, capacity if you are comfortable sharing it, packing options, storage, quality testing, certifications you actually hold, GST details and named contacts for sales and dispatch. Plain photographs of the plant, the sorting line and a packed consignment are more convincing than stock images of paddy fields.",
         "We do not display any buyer's name or logo without that buyer's written permission, and we avoid claims about purity or grading that you cannot document. For units that receive many rate enquiries, an enquiry form that asks for variety, quantity, packing and destination filters out time-wasters. A static site starts at ₹10,000, and a version with Punjabi or Hindi pages alongside English is quoted as a separate line.",
       ],
     },
@@ -101,10 +101,10 @@ const sangrur: CityContent = {
     },
     {
       id: "android-ios-apps-sangrur",
-      heading: "App development company in Sangrur: who should build an Android and iOS app",
+      heading: "App development team in Sangrur: who should build an Android and iOS app",
       paragraphs: [
         "An app is a good investment when a known group of people will open it again and again. In Sangrur, that means implement dealers and mechanics, students of IELTS and competitive exam coaching centres who need batch changes and mock test scores, parents of private schools, patients of a busy hospital who need tokens and reports, and customers of a dairy or grocery that delivers daily.",
-        "As an <strong>app development company in Sangrur</strong> working remotely, we build in Flutter or React Native, so a single codebase serves both Android and iPhone users. A first release normally includes OTP login, push notifications, the core screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts that belong to you.",
+        "As an <strong>app development team in Sangrur</strong> working remotely, we build in Flutter or React Native, so a single codebase serves both Android and iPhone users. A first release normally includes OTP login, push notifications, the core screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts that belong to you.",
         "Apps start at ₹40,000. The quote goes up for online payments, offline use in fields with no signal, maps, Punjabi and English screens, and links to billing software, and each of these is priced separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a> for more.",
         "Plenty of businesses do not need an app at all. If customers only want your address, timings and a price list, a website serves them for a quarter of the cost and asks nothing of their phone storage. We will recommend that route whenever it fits.",
       ],
@@ -165,9 +165,9 @@ const sangrur: CityContent = {
     },
     {
       id: "remote-team-sangrur",
-      heading: "IT company in Sangrur without a local office: how we work with you",
+      heading: "IT services team in Sangrur without a local office: how we work with you",
       paragraphs: [
-        "When people look for an <strong>IT company in Sangrur</strong>, they often picture an office they can walk into. We are three engineers working remotely, so we replace the visit with clear records. The first call covers your business, your customers and what you want built. After that you receive a written plan of pages or screens, a timeline and an itemised quote.",
+        "When people look for an <strong>IT services team in Sangrur</strong>, they often picture an office they can walk into. We are three engineers working remotely, so we replace the visit with clear records. The first call covers your business, your customers and what you want built. After that you receive a written plan of pages or screens, a timeline and an itemised quote.",
         "Once you approve, you get preview links to open on your own phone, pass to partners or children who handle the business's online side, and comment on directly. Punjabi text is sent to you to check before anything is published, and nothing goes live without your say. We answer WhatsApp seven days a week on Indian Standard Time, and if a delay appears we tell you the moment we know.",
         "Payments follow visible progress, and nothing is billed before you approve the quote in writing. For owners trying a website or app for the first time, that keeps the risk small. You can also start with a single task, such as correcting your Google listing, and decide on the rest later.",
       ],
@@ -223,7 +223,7 @@ const sangrur: CityContent = {
         "A static website usually goes live within one to two weeks of receiving your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Getting content and approvals to us quickly is what speeds things up most.",
     },
     {
-      question: "Who is the best website development company in Sangrur?",
+      question: "Who is the best website development team in Sangrur?",
       answer:
         "Compare every option on the same points: published prices, domain and code in your name, real work you can check, a clear timeline and support after launch. We meet those tests and reply on WhatsApp seven days a week, but talking to two or three providers before deciding is always wise.",
     },

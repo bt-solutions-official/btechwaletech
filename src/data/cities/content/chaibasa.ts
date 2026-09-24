@@ -10,12 +10,12 @@ const chaibasa: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Chaibasa mining contractors, transporters, Sadar Bazar shops, colleges and clinics.",
     keywords: [
       "IT services in Chaibasa",
-      "IT company in Chaibasa",
-      "website development company in Chaibasa",
+      "IT services team in Chaibasa",
+      "website development team in Chaibasa",
       "web design in Chaibasa",
-      "app development company in Chaibasa",
+      "app development team in Chaibasa",
       "Android app development in Chaibasa",
-      "software company in Chaibasa",
+      "software team in Chaibasa",
       "SEO services in Chaibasa",
       "digital marketing in Chaibasa",
       "ecommerce website in Chaibasa",
@@ -76,20 +76,20 @@ const chaibasa: CityContent = {
     },
     {
       id: "mining-contractors-software",
-      heading: "Software company in Chaibasa for mining contractors and transporters",
+      heading: "Software team in Chaibasa for mining contractors and transporters",
       paragraphs: [
         "West Singhbhum holds a large share of India's iron ore. Tata Steel mines at Noamundi, and there are operations at Gua, Barajamda and Kiriburu-Meghahatuburu. Around these mines work hundreds of smaller firms: ore transporters, earthmoving equipment owners, labour contractors, fabrication and repair shops, canteen and housekeeping contractors, and suppliers of tyres, spares and safety gear.",
         "Their records are usually split between diaries, WhatsApp photos and spreadsheets on one person's laptop. Owners need to know how many trips each truck made, what diesel and advances were paid, which challans are still unbilled, how many workers were present on which site, and when a vehicle's permit or insurance expires.",
-        "As a <strong>software company in Chaibasa</strong> in practical terms, we build web tools for exactly this. Trips and attendance are entered once from a phone; totals appear by vehicle, site and client; bills are prepared from verified entries; and alerts go out before documents lapse. Where mobile signal is weak near the mines, the entry app can save data offline and sync later.",
+        "As a <strong>software team in Chaibasa</strong> in practical terms, we build web tools for exactly this. Trips and attendance are entered once from a phone; totals appear by vehicle, site and client; bills are prepared from verified entries; and alerts go out before documents lapse. Where mobile signal is weak near the mines, the entry app can save data offline and sync later.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We normally start with the trip or attendance register, because that is where lost money is easiest to find.",
       ],
     },
     {
       id: "vendor-websites-chaibasa",
-      heading: "Website development company in Chaibasa for mine and plant suppliers",
+      heading: "Website development team in Chaibasa for mine and plant suppliers",
       paragraphs: [
         "Large mining and cement companies, including the ACC works at Jhinkpani, register vendors through formal processes, and the people checking a new supplier often look it up online first. A contractor with no website, or with a page that just says “under construction”, starts that process at a disadvantage.",
-        "A <strong>website development company in Chaibasa</strong> should keep vendor sites factual and easy to verify: the services you provide, equipment and vehicles you own, sites where you have worked if you have permission to say so, safety practices, licences and registrations, GST details, and the names and numbers of people who actually answer. We write it plainly, because vendor desks read hundreds of these and dislike empty claims.",
+        "A <strong>website development team in Chaibasa</strong> should keep vendor sites factual and easy to verify: the services you provide, equipment and vehicles you own, sites where you have worked if you have permission to say so, safety practices, licences and registrations, GST details, and the names and numbers of people who actually answer. We write it plainly, because vendor desks read hundreds of these and dislike empty claims.",
         "For firms bidding on repeat work, we can add a document section where current certificates are always available, and a simple enquiry form that sends details straight to your phone. The site should look professional on the desktop of a purchase office and still load quickly on a phone in Noamundi.",
         "We will not put a client's name or logo on your site without their written agreement. A false claim found during vendor checks can cost you the contract.",
       ],
@@ -119,7 +119,7 @@ const chaibasa: CityContent = {
       heading: "Android app development in Chaibasa, and iOS apps for local businesses",
       paragraphs: [
         "Ask one question before paying for an app: who will open it every week? Around Chaibasa the honest answers tend to be a handful. A fleet owner's drivers punching in loads and diesel between Noamundi and the railway siding. Students of a Tata College area coaching batch checking test results. Families from the blocks taking a token at a private hospital before they board the bus. A shopkeeper in Tonto repeating last week's order from a Bari Bazar wholesaler.",
-        "For groups like these, we work as a remote <strong>app development company in Chaibasa</strong> and write a single Flutter or React Native codebase that installs on both Android handsets and iPhones. The first release is kept small: sign-in by mobile OTP, push alerts, the three or four screens people actually use, and a web dashboard where your office staff see entries and send notices. Listing on Google Play and the Apple App Store is done through developer accounts opened in your own name, not ours.",
+        "For groups like these, we work as a remote <strong>app development team in Chaibasa</strong> and write a single Flutter or React Native codebase that installs on both Android handsets and iPhones. The first release is kept small: sign-in by mobile OTP, push alerts, the three or four screens people actually use, and a web dashboard where your office staff see entries and send notices. Listing on Google Play and the Apple App Store is done through developer accounts opened in your own name, not ours.",
         "Budget for <strong>Android app development in Chaibasa</strong> begins at ₹40,000. Extras are priced one by one on the quote, so you can drop any of them: an offline mode for pits and forest roads with no network, GPS stamps on trips, camera upload of challans and weighbridge slips, UPI collection, or a link into your accounts software. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the build steps.",
         "Plenty of Chaibasa businesses do not need any of this. A clinic, a hardware counter or a guest house near the station mostly gets calls from people who want directions, hours and rates, and a fast mobile website answers them without asking anyone to download something. When that is your situation we will say so and quote the website instead.",
       ],
@@ -166,9 +166,9 @@ const chaibasa: CityContent = {
     },
     {
       id: "remote-team-chaibasa",
-      heading: "IT company in Chaibasa terms: how a remote team works with you",
+      heading: "IT services team in Chaibasa terms: how a remote team works with you",
       paragraphs: [
-        "Many owners searching for an <strong>IT company in Chaibasa</strong> want someone local they can visit. What matters more is whether the team answers, delivers on time and writes things down. We are remote, and we replace the office visit with a clear process.",
+        "Many owners searching for an <strong>IT services team in Chaibasa</strong> want someone local they can visit. What matters more is whether the team answers, delivers on time and writes things down. We are remote, and we replace the office visit with a clear process.",
         "A first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After approval, we send preview links you can open on your phone and share with partners. Changes are collected in lists and made in rounds.",
         "We reply on WhatsApp every day of the week on Indian Standard Time. If a delay happens, we tell you as soon as we know. Payments are tied to visible progress, and nothing is billed before your written approval of the quote.",
         "To begin, write to us through the <a href=\"/contact/\">contact page</a> or on WhatsApp with a few lines about your work and what you want to achieve.",
@@ -234,7 +234,7 @@ const chaibasa: CityContent = {
         "A static website usually takes one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending your content early is the single biggest factor in finishing on time.",
     },
     {
-      question: "Which is the best website development company in Chaibasa?",
+      question: "Which is the best website development team in Chaibasa?",
       answer:
         "Choose a provider that publishes prices, registers your domain and code in your name, can show real finished work and still answers after launch. Ask each one the same questions and get answers in writing. We meet those tests and reply seven days a week, but comparing two or three options is sensible.",
     },

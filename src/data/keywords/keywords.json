@@ -1,0 +1,806 @@
+[
+ {
+  "slug": "freelance-web-developer",
+  "angle": "Core hub: what a freelance web developer does, how to choose one, costs, process"
+ },
+ {
+  "slug": "freelance-website-developer",
+  "angle": "Business-owner view: getting a complete website (design, content, domain, hosting) from one freelance team"
+ },
+ {
+  "slug": "web-developer-near-me",
+  "angle": "\"Near me\" intent: why a remote Indian developer can beat a local one, how to vet, links to city pages"
+ },
+ {
+  "slug": "website-developer-near-me",
+  "angle": "Small shops and clinics wanting a local site: Google Maps, WhatsApp button, local SEO basics"
+ },
+ {
+  "slug": "freelance-web-developer-near-me",
+  "angle": "Nearby freelancer vs remote freelancer: meetings, trust, payments, accountability"
+ },
+ {
+  "slug": "freelance-website-developer-near-me",
+  "angle": "Checklist for meeting and vetting a website freelancer locally or over video"
+ },
+ {
+  "slug": "hire-web-developer",
+  "angle": "Hiring guide: brief, interview questions, test task, contract, red flags"
+ },
+ {
+  "slug": "hire-website-developer",
+  "angle": "Buying a website as a project: scope document, quote comparison, milestones"
+ },
+ {
+  "slug": "web-developer-for-hire",
+  "angle": "Available-now project booking: capacity, start dates, what the first week looks like"
+ },
+ {
+  "slug": "website-developer-for-hire",
+  "angle": "Short projects: landing pages, redesigns, fixes, per-page work"
+ },
+ {
+  "slug": "freelance-web-development",
+  "angle": "Service overview: web development as a freelance service, stacks, deliverables"
+ },
+ {
+  "slug": "freelance-website-development",
+  "angle": "End-to-end website build process from sitemap to launch"
+ },
+ {
+  "slug": "freelance-app-developer",
+  "angle": "Apps via freelancers: Android and iOS, cross-platform choice, cost, publishing"
+ },
+ {
+  "slug": "freelance-mobile-app-developer",
+  "angle": "Mobile-specific: UX on phones, offline mode, push, app store review"
+ },
+ {
+  "slug": "app-developer-near-me",
+  "angle": "Local businesses wanting an app: when an app is worth it vs a website"
+ },
+ {
+  "slug": "mobile-app-developer-near-me",
+  "angle": "Choosing a mobile app developer: portfolio checks, Play Console and App Store account ownership"
+ },
+ {
+  "slug": "freelance-android-developer",
+  "angle": "Android-only: Kotlin vs Flutter, Play Store policies, device fragmentation in India"
+ },
+ {
+  "slug": "android-developer-near-me",
+  "angle": "Android app for Indian SMB customers (most users on Android), low-end devices, data costs"
+ },
+ {
+  "slug": "freelance-android-app-developer",
+  "angle": "Android app project lifecycle: from first build to Play Store release tracks"
+ },
+ {
+  "slug": "hire-android-developer",
+  "angle": "Hiring an Android developer: skills to check, test task, costs"
+ },
+ {
+  "slug": "hire-app-developer",
+  "angle": "Hiring for an app: brief template, feature list, budget bands"
+ },
+ {
+  "slug": "app-developer-for-hire",
+  "angle": "App MVP booking: 6-10 week plan, what ships in version one"
+ },
+ {
+  "slug": "freelance-software-developer",
+  "angle": "Custom software (portals, internal tools, billing) built by freelancers"
+ },
+ {
+  "slug": "software-developer-near-me",
+  "angle": "Local businesses needing software: inventory, billing, CRM"
+ },
+ {
+  "slug": "hire-software-developer",
+  "angle": "Hiring for custom software: requirements, ownership, source code, IP"
+ },
+ {
+  "slug": "freelance-ai-developer",
+  "angle": "AI projects: chatbots, RAG, document AI, automation; realistic expectations"
+ },
+ {
+  "slug": "ai-developer-near-me",
+  "angle": "SMB AI use cases in India: WhatsApp bots, lead qualification, invoice reading"
+ },
+ {
+  "slug": "hire-ai-developer",
+  "angle": "Hiring an AI developer: evaluating claims, data privacy, API usage costs"
+ },
+ {
+  "slug": "freelance-developer-near-me",
+  "angle": "Generalist need: site + app + automation from one small team"
+ },
+ {
+  "slug": "affordable-web-developer",
+  "angle": "Affordable without cheap: where the money goes, what not to cut, starting prices"
+ },
+ {
+  "slug": "freelance-web-developer-india",
+  "angle": "India-wide: rates across cities, invoices, time zones, languages"
+ },
+ {
+  "slug": "freelance-website-developer-india",
+  "angle": "Indian businesses getting websites: UPI, Hindi and regional content, mobile-first"
+ },
+ {
+  "slug": "best-freelance-web-developer-in-india",
+  "angle": "How to judge \"best\": evidence, portfolio, references, process; no fake claims"
+ },
+ {
+  "slug": "hire-indian-developers",
+  "angle": "Foreign clients hiring from India: overlap hours, USD billing, contracts"
+ },
+ {
+  "slug": "hire-developers-in-india",
+  "angle": "Offshore hiring models: freelancer vs agency vs dedicated team"
+ },
+ {
+  "slug": "outsource-web-development-to-india",
+  "angle": "Outsourcing guide for US/UK/AU clients: risks and controls"
+ },
+ {
+  "slug": "remote-web-developer-india",
+  "angle": "Remote working model: async updates, staging links, communication cadence"
+ },
+ {
+  "slug": "freelance-web-designer",
+  "angle": "Design-first: layout, typography, brand, mobile UX"
+ },
+ {
+  "slug": "freelance-website-designer",
+  "angle": "Website design for businesses: mockups, revisions, handoff to development"
+ },
+ {
+  "slug": "web-designer-near-me",
+  "angle": "Local design need: brochure site, Google Business Profile tie-in"
+ },
+ {
+  "slug": "website-designer-near-me",
+  "angle": "Choosing a website designer for a shop, clinic or school"
+ },
+ {
+  "slug": "hire-web-designer",
+  "angle": "Hiring a designer: portfolio review, design brief, revision rounds"
+ },
+ {
+  "slug": "website-design-freelancer",
+  "angle": "Freelancer vs template builder vs agency for website design"
+ },
+ {
+  "slug": "freelance-ui-ux-designer",
+  "angle": "UI/UX for apps and SaaS: wireframes, prototypes, usability testing"
+ },
+ {
+  "slug": "freelance-full-stack-developer",
+  "angle": "Full stack: frontend + backend + database + deployment from one team"
+ },
+ {
+  "slug": "hire-full-stack-developer",
+  "angle": "Hiring full stack: stack choices, test task, cost"
+ },
+ {
+  "slug": "freelance-mern-stack-developer",
+  "angle": "MERN specifics: MongoDB, Express, React, Node, when it fits"
+ },
+ {
+  "slug": "freelance-react-developer",
+  "angle": "React SPAs and dashboards: performance, SEO caveats, Next.js"
+ },
+ {
+  "slug": "hire-react-developer",
+  "angle": "Hiring React developers: hooks, state, testing, code review"
+ },
+ {
+  "slug": "freelance-nextjs-developer",
+  "angle": "Next.js for SEO sites and apps: SSR/SSG, hosting"
+ },
+ {
+  "slug": "freelance-nodejs-developer",
+  "angle": "Node.js backends and APIs: real-time, queues, integrations"
+ },
+ {
+  "slug": "hire-nodejs-developer",
+  "angle": "Hiring Node developers: API design, security, scaling"
+ },
+ {
+  "slug": "freelance-python-developer",
+  "angle": "Python: Django/FastAPI, scripts, data, automation"
+ },
+ {
+  "slug": "hire-python-developer",
+  "angle": "Hiring Python developers for backend, data and AI"
+ },
+ {
+  "slug": "freelance-django-developer",
+  "angle": "Django projects: admin panels, portals, ERPs"
+ },
+ {
+  "slug": "freelance-php-developer",
+  "angle": "PHP projects: legacy maintenance, Laravel, CodeIgniter"
+ },
+ {
+  "slug": "freelance-laravel-developer",
+  "angle": "Laravel apps: SaaS, portals, APIs, version upgrades"
+ },
+ {
+  "slug": "hire-php-developer",
+  "angle": "Hiring PHP developers for legacy rescue and upgrades"
+ },
+ {
+  "slug": "freelance-wordpress-developer",
+  "angle": "WordPress: custom themes, plugins, speed, security"
+ },
+ {
+  "slug": "hire-wordpress-developer",
+  "angle": "Hiring WordPress developers: avoiding plugin bloat, ownership"
+ },
+ {
+  "slug": "wordpress-developer-near-me",
+  "angle": "Small businesses on WordPress: updates, hacks, backups"
+ },
+ {
+  "slug": "freelance-shopify-developer",
+  "angle": "Shopify stores: themes, apps, UPI checkout, shipping in India"
+ },
+ {
+  "slug": "hire-shopify-developer",
+  "angle": "Hiring a Shopify expert: migrations, theme customisation"
+ },
+ {
+  "slug": "freelance-woocommerce-developer",
+  "angle": "WooCommerce stores: plugins, GST invoices, shipping"
+ },
+ {
+  "slug": "freelance-ecommerce-developer",
+  "angle": "Ecommerce builds: platform choice, catalogue, checkout, operations"
+ },
+ {
+  "slug": "ecommerce-website-developer-near-me",
+  "angle": "Local retailers going online: catalogue, WhatsApp orders, delivery"
+ },
+ {
+  "slug": "hire-ecommerce-developer",
+  "angle": "Hiring for an online store: requirements, platform, costs"
+ },
+ {
+  "slug": "freelance-frontend-developer",
+  "angle": "Frontend: HTML/CSS/JS, accessibility, Core Web Vitals"
+ },
+ {
+  "slug": "freelance-backend-developer",
+  "angle": "Backend: APIs, databases, auth, security"
+ },
+ {
+  "slug": "freelance-api-developer",
+  "angle": "API development and integrations: payments, SMS, ERP, CRM"
+ },
+ {
+  "slug": "freelance-flutter-developer",
+  "angle": "Flutter: one codebase for Android and iOS, performance, packages"
+ },
+ {
+  "slug": "hire-flutter-developer",
+  "angle": "Hiring Flutter developers: state management, testing, publishing"
+ },
+ {
+  "slug": "freelance-react-native-developer",
+  "angle": "React Native: JS teams, Expo, native modules"
+ },
+ {
+  "slug": "hire-react-native-developer",
+  "angle": "Hiring React Native developers: evaluation, costs"
+ },
+ {
+  "slug": "freelance-ios-developer",
+  "angle": "iOS: App Store review, Apple developer account, TestFlight"
+ },
+ {
+  "slug": "hire-ios-developer",
+  "angle": "Hiring iOS developers; Swift vs cross-platform"
+ },
+ {
+  "slug": "ios-app-developer-near-me",
+  "angle": "iPhone app for a local business: when iOS matters in India"
+ },
+ {
+  "slug": "freelance-kotlin-developer",
+  "angle": "Kotlin native Android: when native beats cross-platform"
+ },
+ {
+  "slug": "freelance-game-developer",
+  "angle": "Simple 2D, casual and educational games and gamified apps (scoped honestly)"
+ },
+ {
+  "slug": "freelance-saas-developer",
+  "angle": "Building SaaS: multi-tenant, subscriptions, auth, MVP"
+ },
+ {
+  "slug": "freelance-mvp-developer",
+  "angle": "MVP for startups: scope cutting, 6-10 week build"
+ },
+ {
+  "slug": "startup-app-developer",
+  "angle": "Startups: technical co-founder alternative, MVP, investor demo"
+ },
+ {
+  "slug": "freelance-programmer",
+  "angle": "Programmer for hire: scripts, bug fixes, small tools"
+ },
+ {
+  "slug": "freelance-coder",
+  "angle": "Coding help: fixes, features, code review for small projects"
+ },
+ {
+  "slug": "freelance-software-engineer",
+  "angle": "Engineering quality: tests, CI, documentation"
+ },
+ {
+  "slug": "hire-freelance-developer",
+  "angle": "Generic developer hiring: freelance platforms vs hiring directly"
+ },
+ {
+  "slug": "freelance-developer-india",
+  "angle": "Indian freelance developers overview for Indian and global clients"
+ },
+ {
+  "slug": "hire-remote-developer",
+  "angle": "Remote developer hiring: time zones, tools, trust"
+ },
+ {
+  "slug": "part-time-web-developer",
+  "angle": "Part-time or ongoing help: retainers, hours, maintenance"
+ },
+ {
+  "slug": "dedicated-web-developer",
+  "angle": "Dedicated monthly developer model vs project model"
+ },
+ {
+  "slug": "freelance-web-developer-for-small-business",
+  "angle": "Small business sites: budget, which pages, lead capture"
+ },
+ {
+  "slug": "website-developer-for-small-business",
+  "angle": "Components of a complete small business website"
+ },
+ {
+  "slug": "freelance-web-developer-for-startups",
+  "angle": "Startup websites: landing pages, product sites, pitch-ready"
+ },
+ {
+  "slug": "cheap-web-developer",
+  "angle": "Low-budget websites honestly: risks of ultra-cheap, minimum viable site"
+ },
+ {
+  "slug": "low-cost-website-developer",
+  "angle": "Low-cost website plan: static site from ₹10,000, what is included"
+ },
+ {
+  "slug": "website-developer-cost",
+  "angle": "Cost breakdown of hiring a website developer in India"
+ },
+ {
+  "slug": "freelance-web-developer-rates",
+  "angle": "Hourly vs project rates in India and abroad; how to compare quotes"
+ },
+ {
+  "slug": "website-making-cost-in-india",
+  "angle": "Website cost in India by type: static, SEO, ecommerce, custom"
+ },
+ {
+  "slug": "app-development-cost-in-india",
+  "angle": "App cost in India by complexity, platforms, backend"
+ },
+ {
+  "slug": "freelance-app-developer-cost",
+  "angle": "Freelance app developer rates and budgeting"
+ },
+ {
+  "slug": "website-banwana-hai",
+  "angle": "Hinglish intent \"website banwana hai\": steps, cost, time, in simple language"
+ },
+ {
+  "slug": "app-banwana-hai",
+  "angle": "Hinglish intent \"app banwana hai\": steps, cost, Play Store"
+ },
+ {
+  "slug": "website-kaise-banwaye",
+  "angle": "Hinglish how-to \"website kaise banwaye\": kya chahiye, kitna kharcha"
+ },
+ {
+  "slug": "personal-website-developer",
+  "angle": "Personal sites for professionals, doctors, lawyers, creators"
+ },
+ {
+  "slug": "portfolio-website-developer",
+  "angle": "Portfolio sites for designers, photographers, job seekers"
+ },
+ {
+  "slug": "landing-page-developer",
+  "angle": "Landing pages for ads: speed, conversion, tracking"
+ },
+ {
+  "slug": "freelance-landing-page-designer",
+  "angle": "Landing page design: copy, CRO, A/B testing"
+ },
+ {
+  "slug": "website-redesign-freelancer",
+  "angle": "Redesigning an old site: keep SEO, migrate content, redirects"
+ },
+ {
+  "slug": "website-maintenance-freelancer",
+  "angle": "Ongoing maintenance: updates, backups, uptime, fixes"
+ },
+ {
+  "slug": "website-speed-optimization-freelancer",
+  "angle": "Core Web Vitals fixes: images, JS, hosting"
+ },
+ {
+  "slug": "website-bug-fixing-freelancer",
+  "angle": "Fixing broken sites: diagnostics, emergency fixes"
+ },
+ {
+  "slug": "website-migration-freelancer",
+  "angle": "Hosting and platform migrations without losing SEO"
+ },
+ {
+  "slug": "freelance-seo-expert",
+  "angle": "SEO freelancer: technical, on-page, content, local"
+ },
+ {
+  "slug": "seo-expert-near-me",
+  "angle": "Local SEO for businesses: Google Maps, reviews, citations"
+ },
+ {
+  "slug": "hire-seo-expert",
+  "angle": "Hiring SEO: what to ask, red flags (guaranteed #1), reporting"
+ },
+ {
+  "slug": "freelance-seo-consultant",
+  "angle": "SEO consulting: audits, strategy, roadmaps"
+ },
+ {
+  "slug": "local-seo-expert",
+  "angle": "Local SEO: Google Business Profile, NAP, location pages"
+ },
+ {
+  "slug": "technical-seo-freelancer",
+  "angle": "Technical SEO: crawling, indexing, schema, speed"
+ },
+ {
+  "slug": "freelance-digital-marketing-expert",
+  "angle": "Digital marketing: SEO, Google Ads basics, social, email"
+ },
+ {
+  "slug": "digital-marketing-freelancer-near-me",
+  "angle": "Local digital marketing for small businesses"
+ },
+ {
+  "slug": "google-business-profile-expert",
+  "angle": "Google Business Profile setup and optimisation, reviews, posts"
+ },
+ {
+  "slug": "ecommerce-seo-freelancer",
+  "angle": "SEO for online stores: categories, product schema"
+ },
+ {
+  "slug": "seo-website-developer",
+  "angle": "Building SEO-first websites: structure, schema, 700+ pages"
+ },
+ {
+  "slug": "freelance-chatbot-developer",
+  "angle": "Chatbots: website and WhatsApp, LLM vs rule-based"
+ },
+ {
+  "slug": "whatsapp-chatbot-developer",
+  "angle": "WhatsApp Business API bots: use cases, costs, opt-in rules"
+ },
+ {
+  "slug": "whatsapp-automation-expert",
+  "angle": "WhatsApp automation: broadcasts, order updates, CRM sync"
+ },
+ {
+  "slug": "ai-automation-freelancer",
+  "angle": "AI automation of business workflows: documents, emails, sheets"
+ },
+ {
+  "slug": "ai-automation-expert-near-me",
+  "angle": "Practical first AI automation projects for local SMBs"
+ },
+ {
+  "slug": "ai-agent-developer",
+  "angle": "AI agents: tool use, guardrails, evaluation, running costs"
+ },
+ {
+  "slug": "chatgpt-integration-developer",
+  "angle": "Integrating LLM APIs into apps: prompts, RAG, cost control"
+ },
+ {
+  "slug": "freelance-machine-learning-engineer",
+  "angle": "ML projects: forecasting, classification, data readiness"
+ },
+ {
+  "slug": "hire-machine-learning-engineer",
+  "angle": "Hiring for ML: data audit first, evaluation metrics"
+ },
+ {
+  "slug": "freelance-data-scientist",
+  "angle": "Data science: analysis, models, dashboards"
+ },
+ {
+  "slug": "freelance-data-analyst",
+  "angle": "Data analysis: Excel, SQL, Python, reports"
+ },
+ {
+  "slug": "power-bi-developer-freelance",
+  "angle": "Power BI dashboards: data model, refresh, sharing"
+ },
+ {
+  "slug": "dashboard-developer",
+  "angle": "Business dashboards: KPIs, data sources, tools"
+ },
+ {
+  "slug": "python-automation-freelancer",
+  "angle": "Python scripts: Excel automation, scraping, reports"
+ },
+ {
+  "slug": "web-scraping-freelancer",
+  "angle": "Web scraping: legality, data quality, schedules"
+ },
+ {
+  "slug": "n8n-automation-expert",
+  "angle": "n8n workflows: self-hosted automation, integrations"
+ },
+ {
+  "slug": "zapier-automation-expert",
+  "angle": "Zapier/Make automations for SMBs; when to self-host instead"
+ },
+ {
+  "slug": "freelance-aws-developer",
+  "angle": "AWS: hosting, serverless, cost optimisation"
+ },
+ {
+  "slug": "freelance-devops-engineer",
+  "angle": "DevOps: CI/CD, Docker, monitoring, backups"
+ },
+ {
+  "slug": "cloud-hosting-setup-freelancer",
+  "angle": "Hosting setup: VPS, domains, SSL, business email"
+ },
+ {
+  "slug": "freelance-crm-developer",
+  "angle": "Custom CRM: leads, follow-ups, WhatsApp integration"
+ },
+ {
+  "slug": "erp-software-developer",
+  "angle": "ERP for SMEs: inventory, accounts, production modules"
+ },
+ {
+  "slug": "billing-software-developer",
+  "angle": "Billing and invoice software with GST"
+ },
+ {
+  "slug": "inventory-management-software-developer",
+  "angle": "Inventory systems for shops and warehouses"
+ },
+ {
+  "slug": "school-management-software-developer",
+  "angle": "School ERP: fees, attendance, parents app"
+ },
+ {
+  "slug": "hospital-management-software-developer",
+  "angle": "Clinic and hospital software: appointments, records, privacy"
+ },
+ {
+  "slug": "real-estate-website-developer",
+  "angle": "Property sites: listings, leads, portals"
+ },
+ {
+  "slug": "restaurant-website-developer",
+  "angle": "Restaurant sites: menus, online ordering, reservations"
+ },
+ {
+  "slug": "hotel-website-developer",
+  "angle": "Hotel and homestay sites: booking engine, OTA links"
+ },
+ {
+  "slug": "doctor-website-developer",
+  "angle": "Doctor and clinic websites: appointments, trust, medical ad rules"
+ },
+ {
+  "slug": "school-website-developer",
+  "angle": "School and college websites: admissions, notices"
+ },
+ {
+  "slug": "coaching-institute-website-developer",
+  "angle": "Coaching institutes: courses, leads, LMS"
+ },
+ {
+  "slug": "ngo-website-developer",
+  "angle": "NGO sites: donations via UPI, reports, transparency"
+ },
+ {
+  "slug": "travel-website-developer",
+  "angle": "Travel agency sites: packages, enquiries"
+ },
+ {
+  "slug": "education-app-developer",
+  "angle": "EdTech and LMS apps: courses, video, tests"
+ },
+ {
+  "slug": "ecommerce-app-developer",
+  "angle": "Shopping apps: catalogue, cart, orders, delivery"
+ },
+ {
+  "slug": "food-delivery-app-developer",
+  "angle": "Food ordering apps for restaurants and cloud kitchens"
+ },
+ {
+  "slug": "taxi-app-developer",
+  "angle": "Ride booking apps: honest scope, maps, driver app"
+ },
+ {
+  "slug": "grocery-app-developer",
+  "angle": "Grocery and kirana ordering apps"
+ },
+ {
+  "slug": "fitness-app-developer",
+  "angle": "Gym and fitness apps: memberships, workouts"
+ },
+ {
+  "slug": "healthcare-app-developer",
+  "angle": "Health apps: appointments, teleconsult basics, privacy"
+ },
+ {
+  "slug": "real-estate-app-developer",
+  "angle": "Property apps: listings, site visits, brokers"
+ },
+ {
+  "slug": "delivery-app-developer",
+  "angle": "Local delivery and logistics apps"
+ },
+ {
+  "slug": "booking-app-developer",
+  "angle": "Appointment and booking apps for salons, clinics, services"
+ },
+ {
+  "slug": "social-media-app-developer",
+  "angle": "Community and social apps: scope, moderation"
+ },
+ {
+  "slug": "lms-developer",
+  "angle": "Learning management systems: custom vs Moodle"
+ },
+ {
+  "slug": "membership-website-developer",
+  "angle": "Membership and subscription sites"
+ },
+ {
+  "slug": "job-portal-developer",
+  "angle": "Job portal development: listings, resumes, employer accounts"
+ },
+ {
+  "slug": "marketplace-website-developer",
+  "angle": "Multi-vendor marketplaces: vendors, commissions"
+ },
+ {
+  "slug": "directory-website-developer",
+  "angle": "Business directory sites: listings, SEO"
+ },
+ {
+  "slug": "news-portal-developer",
+  "angle": "News and blog portals: CMS, speed, ads"
+ },
+ {
+  "slug": "blog-website-developer",
+  "angle": "Blogs: WordPress or static, SEO, monetisation"
+ },
+ {
+  "slug": "b2b-website-developer",
+  "angle": "B2B sites: catalogues, RFQs, lead qualification"
+ },
+ {
+  "slug": "manufacturer-website-developer",
+  "angle": "Industrial and manufacturer websites: product catalogues, dealer enquiries"
+ },
+ {
+  "slug": "export-business-website-developer",
+  "angle": "Exporters: international SEO, multilingual, buyer trust"
+ },
+ {
+  "slug": "static-website-developer",
+  "angle": "Static sites: speed, security, cheap hosting"
+ },
+ {
+  "slug": "dynamic-website-developer",
+  "angle": "Dynamic sites: admin panel, database, CMS"
+ },
+ {
+  "slug": "custom-website-developer",
+  "angle": "Custom-coded vs template sites"
+ },
+ {
+  "slug": "responsive-website-developer",
+  "angle": "Mobile-responsive design in a mobile-first India"
+ },
+ {
+  "slug": "progressive-web-app-developer",
+  "angle": "PWAs: installable web apps, offline support"
+ },
+ {
+  "slug": "web-application-developer",
+  "angle": "Web apps: portals, dashboards, SaaS"
+ },
+ {
+  "slug": "portal-development-freelancer",
+  "angle": "Customer, vendor and employee portals"
+ },
+ {
+  "slug": "payment-gateway-integration-developer",
+  "angle": "Checkout, UPI and card integration concepts (no gateway brand names)"
+ },
+ {
+  "slug": "website-security-freelancer",
+  "angle": "Security hardening, malware cleanup, SSL"
+ },
+ {
+  "slug": "hacked-website-repair",
+  "angle": "Hacked site recovery: steps, cleanup, prevention"
+ },
+ {
+  "slug": "wordpress-to-nextjs-migration",
+  "angle": "Migrating WordPress to a modern stack; when it is worth it"
+ },
+ {
+  "slug": "freelance-web-developer-for-usa-clients",
+  "angle": "US clients hiring from India: rates, overlap, contracts"
+ },
+ {
+  "slug": "freelance-web-developer-for-uk-clients",
+  "angle": "UK clients: GDPR, overlap, billing"
+ },
+ {
+  "slug": "freelance-web-developer-for-australia-clients",
+  "angle": "Australian clients: time zone, AUD, privacy"
+ },
+ {
+  "slug": "freelance-web-developer-for-uae-clients",
+  "angle": "UAE clients: Arabic/English, WhatsApp-heavy communication"
+ },
+ {
+  "slug": "freelance-web-developer-for-canada-clients",
+  "angle": "Canadian clients: bilingual sites, overlap hours"
+ },
+ {
+  "slug": "offshore-web-development-team",
+  "angle": "Small offshore team model vs big vendor"
+ },
+ {
+  "slug": "white-label-web-development",
+  "angle": "White-label for agencies: NDA, branding, SLAs"
+ },
+ {
+  "slug": "web-development-for-agencies",
+  "angle": "Agency overflow partner model"
+ },
+ {
+  "slug": "website-for-local-business",
+  "angle": "Local business website essentials"
+ },
+ {
+  "slug": "website-for-shop",
+  "angle": "Shop and retail website with WhatsApp orders"
+ },
+ {
+  "slug": "website-for-startup",
+  "angle": "Startup website: messaging, pitch, product pages"
+ },
+ {
+  "slug": "wix-to-custom-website",
+  "angle": "Moving off Wix, Google Sites or Squarespace to an owned custom site"
+ }
+]

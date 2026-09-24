@@ -10,12 +10,12 @@ const memari: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Memari rice mills, potato cold storages, GT Road shops, colleges and clinics.",
     keywords: [
       "IT services in Memari",
-      "IT company in Memari",
-      "website development company in Memari",
+      "IT services team in Memari",
+      "website development team in Memari",
       "web design in Memari",
-      "app development company in Memari",
+      "app development team in Memari",
       "Android app development in Memari",
-      "software company in Memari",
+      "software team in Memari",
       "SEO services in Memari",
       "digital marketing in Memari",
       "ecommerce website in Memari",
@@ -74,10 +74,10 @@ const memari: CityContent = {
     },
     {
       id: "rice-mills-memari",
-      heading: "Software company in Memari for rice mills and paddy traders",
+      heading: "Software team in Memari for rice mills and paddy traders",
       paragraphs: [
         "Rice mills around Memari work on thin margins, and much of the money is won or lost in the records: how much paddy came in, at what moisture, how much rice it yielded, and where the bran, husk and broken grain went. Studies of the district's rice trade count Memari among its main markets, with buyers spread across Howrah, Hooghly, both 24 Parganas districts and Purba Medinipur.",
-        "Working as a <strong>software company in Memari</strong>, we build web tools a mill office can run from a desktop or a phone. A purchase entry captures the farmer or aratdar, variety, bag count, weight, moisture deduction and rate. Milling batches show out-turn against input. Dispatch slips follow each truck, buyer and payment. At closing time the owner sees stock, dues and cash on one screen instead of three ledgers and a calculator.",
+        "Working as a <strong>software team in Memari</strong>, we build web tools a mill office can run from a desktop or a phone. A purchase entry captures the farmer or aratdar, variety, bag count, weight, moisture deduction and rate. Milling batches show out-turn against input. Dispatch slips follow each truck, buyer and payment. At closing time the owner sees stock, dues and cash on one screen instead of three ledgers and a calculator.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We begin with the purchase register, because that is where most disputes start, and add milling, dispatch and reports once the staff trust the numbers. An export to Tally or Excel can be included so the accountant's month-end routine stays the same.",
       ],
     },
@@ -92,10 +92,10 @@ const memari: CityContent = {
     },
     {
       id: "shops-gt-road-memari",
-      heading: "Website development company in Memari for GT Road and SH 15 shops",
+      heading: "Website development team in Memari for GT Road and SH 15 shops",
       paragraphs: [
         "Memari's retail stretches along the old GT Road, SH 15 and the lanes near the station. Jewellers, sari and readymade garment shops, mobile and electronics stores, sweet shops, hardware dealers and furniture showrooms all compete for the same families, and competition sharpens in the weeks before Durga Puja, Poila Baisakh and the wedding months.",
-        "A <strong>website development company in Memari</strong> is only useful to these shops if the site answers what a buyer wants to know before stepping out: is the item in stock, roughly what does it cost, when is the shop open and where can the scooter be parked. We build short Bengali and English catalogues with category pages, festival offers, a WhatsApp button for price checks and a map pin placed on the correct side of the road.",
+        "A <strong>website development team in Memari</strong> is only useful to these shops if the site answers what a buyer wants to know before stepping out: is the item in stock, roughly what does it cost, when is the shop open and where can the scooter be parked. We build short Bengali and English catalogues with category pages, festival offers, a WhatsApp button for price checks and a map pin placed on the correct side of the road.",
         "A static site of up to 100 pages starts at ₹10,000 and is normally live within one to two weeks. For shops whose stock changes every week, we add a small admin screen so a staff member can upload photos straight from a phone. If a listing and a single page will cover your needs, we will recommend exactly that.",
       ],
     },
@@ -132,7 +132,7 @@ const memari: CityContent = {
       paragraphs: [
         "An app pays for itself in Memari when the same people need to check something every week; for occasional customers, a website and WhatsApp do the job at a fraction of the cost. The question to ask is not “should we have an app?” but “who would open it on a Tuesday?”",
         "Good candidates are easy to spot here. Cold storage clients checking bag balances and rent. A mill's buying agents entering paddy purchases in villages where the signal drops, with offline entries that sync later. Village retailers reordering from a fertiliser or FMCG distributor. Parents following attendance and homework from a tuition centre. A pharmacy taking repeat monthly orders.",
-        "As an <strong>app development company in Memari</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has OTP login, push notifications, the few screens your users open most, Bengali and English text, and an admin panel for your office. We publish on Google Play and the App Store under developer accounts registered to you. <strong>Android app development in Memari</strong> with us starts at ₹40,000, and payments, maps or links to existing software are listed as separate items. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we plan and test.",
+        "As an <strong>app development team in Memari</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has OTP login, push notifications, the few screens your users open most, Bengali and English text, and an admin panel for your office. We publish on Google Play and the App Store under developer accounts registered to you. <strong>Android app development in Memari</strong> with us starts at ₹40,000, and payments, maps or links to existing software are listed as separate items. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we plan and test.",
         "If your customers only need your rates, timings and phone number, skip the app. A fast website and a weekly WhatsApp broadcast cover that, and we will say so plainly.",
       ],
     },
@@ -174,10 +174,10 @@ const memari: CityContent = {
     },
     {
       id: "clinics-memari",
-      heading: "IT company in Memari for clinics, diagnostic centres and pharmacies",
+      heading: "IT services team in Memari for clinics, diagnostic centres and pharmacies",
       paragraphs: [
         "Families from both Memari blocks come into town for doctors, tests and medicines, and many of those trips start with a phone search. When a listing shows the wrong chamber hours, a patient from Kuchut or Bohar may travel for nothing, and the clinic loses that visit to a rival.",
-        "Acting as an <strong>IT company in Memari</strong> for healthcare, we build plain, trustworthy pages: doctors and their qualifications, chamber days, fees if you choose to show them, tests offered, report collection times and an emergency number. Appointment requests can arrive on WhatsApp or save to a sheet, and diagnostic centres can send report-ready messages so patients do not queue to ask.",
+        "Acting as an <strong>IT services team in Memari</strong> for healthcare, we build plain, trustworthy pages: doctors and their qualifications, chamber days, fees if you choose to show them, tests offered, report collection times and an emergency number. Appointment requests can arrive on WhatsApp or save to a sheet, and diagnostic centres can send report-ready messages so patients do not queue to ask.",
         "We avoid medical claims that cannot be supported, keep patient data off public pages and use hosting in your name. Most clinic sites fit within the ₹10,000 starting build, with booking and reminders added as separate lines you can accept or leave out.",
       ],
     },
@@ -255,9 +255,9 @@ const memari: CityContent = {
         "A simple Memari business website is usually live one to two weeks after we receive your details and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. If you want a site ready before Durga Puja or the potato harvest, message us a month or more ahead.",
     },
     {
-      question: "Which is the best IT company in Memari for a small business?",
+      question: "Which is the best IT services team in Memari for a small business?",
       answer:
-        "The best IT company in Memari for you is one that publishes starting prices, registers the domain and code in your name, answers after launch and can show working projects. Ask every provider the same questions before deciding. We meet those tests and reply on WhatsApp all week, but comparing two or three quotes is always sensible.",
+        "The best IT services team in Memari for you is one that publishes starting prices, registers the domain and code in your name, answers after launch and can show working projects. Ask every provider the same questions before deciding. We meet those tests and reply on WhatsApp all week, but comparing two or three quotes is always sensible.",
     },
     {
       question: "Can you help my Memari shop appear on Google Maps?",

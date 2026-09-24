@@ -10,12 +10,12 @@ const alirajpur: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Alirajpur mango traders, dolomite units, dealers, clinics, schools and shops.",
     keywords: [
       "IT services in Alirajpur",
-      "IT company in Alirajpur",
-      "website development company in Alirajpur",
+      "IT services team in Alirajpur",
+      "website development team in Alirajpur",
       "web design in Alirajpur",
-      "app development company in Alirajpur",
+      "app development team in Alirajpur",
       "Android app development in Alirajpur",
-      "software company in Alirajpur",
+      "software team in Alirajpur",
       "SEO services in Alirajpur",
       "digital marketing in Alirajpur",
       "ecommerce website in Alirajpur",
@@ -74,10 +74,10 @@ const alirajpur: CityContent = {
     },
     {
       id: "mango-traders",
-      heading: "Software company in Alirajpur for mango traders and commission agents",
+      heading: "Software team in Alirajpur for mango traders and commission agents",
       paragraphs: [
         "Alirajpur's agricultural trading yard is described as the biggest in Madhya Pradesh for mango trading. In season, growers and collectors from across the district bring fruit in, and traders buy, grade, pack and dispatch it to markets outside the district. The season is short, cash moves fast and records are easy to lose.",
-        "As a <strong>software company in Alirajpur</strong> we build lightweight purchase and dispatch systems for this trade. Each purchase is logged with the seller, variety, grade, quantity and rate; each truck with its destination, crates and freight; and each buyer with what they owe. The owner sees totals on a phone at the end of the day, and statements go out on WhatsApp.",
+        "As a <strong>software team in Alirajpur</strong> we build lightweight purchase and dispatch systems for this trade. Each purchase is logged with the seller, variety, grade, quantity and rate; each truck with its destination, crates and freight; and each buyer with what they owe. The owner sees totals on a phone at the end of the day, and statements go out on WhatsApp.",
         "We keep these tools simple because they are used in a busy yard, often by people who are not comfortable with computers. Custom software starts at ₹60,000 and usually takes six to twelve weeks. For a first season, a smaller web app or spreadsheet-backed tool may be enough, and we will say so.",
       ],
       list: [
@@ -89,10 +89,10 @@ const alirajpur: CityContent = {
     },
     {
       id: "dolomite-mining-suppliers",
-      heading: "IT company in Alirajpur for dolomite mines, crushers and transporters",
+      heading: "IT services team in Alirajpur for dolomite mines, crushers and transporters",
       paragraphs: [
         "Dolomite extraction is one of the district's economic mainstays, and around it are crushing and grinding units, truck owners, loaders, diesel and tyre suppliers, and small engineering workshops. Buyers such as steel, glass, ceramics and fertiliser plants are usually far away and judge suppliers by their paperwork and responsiveness.",
-        "An <strong>IT company in Alirajpur</strong> can help in two ways. First, a factual capability website: the grades and sizes you supply, what testing you can arrange, dispatch capacity, loading points and contact details, with certifications and clients listed only if you can prove them. Industrial buyers often search a supplier's name before placing an order.",
+        "An <strong>IT services team in Alirajpur</strong> can help in two ways. First, a factual capability website: the grades and sizes you supply, what testing you can arrange, dispatch capacity, loading points and contact details, with certifications and clients listed only if you can prove them. Industrial buyers often search a supplier's name before placing an order.",
         "Second, a dispatch and billing tool that records each truck, weight, royalty or transit pass reference you enter, invoice and payment. We do not handle mining permissions or government portals; the system simply keeps your own records straight and makes month-end reconciliation faster.",
       ],
     },
@@ -116,10 +116,10 @@ const alirajpur: CityContent = {
     },
     {
       id: "healthcare-alirajpur",
-      heading: "Website development company in Alirajpur for clinics and diagnostic labs",
+      heading: "Website development team in Alirajpur for clinics and diagnostic labs",
       paragraphs: [
         "Patients travel into Alirajpur from villages spread across hilly terrain, often by shared jeep or bus. Arriving on the wrong day or at the wrong time can cost a family a day's wages, so accurate, easy-to-read information is the most useful thing a clinic can put online.",
-        "As a <strong>website development company in Alirajpur</strong> for health businesses, we build Hindi pages with doctor names and photos, specialities, OPD days and timings, test instructions, report collection times and a map. The WhatsApp button lets a relative send the patient's name and preferred day, and staff confirm with a quick reply or a voice note.",
+        "As a <strong>website development team in Alirajpur</strong> for health businesses, we build Hindi pages with doctor names and photos, specialities, OPD days and timings, test instructions, report collection times and a map. The WhatsApp button lets a relative send the patient's name and preferred day, and staff confirm with a quick reply or a voice note.",
         "We avoid medical claims and ask your doctors to check every page. For larger centres, a small admin panel lets the front desk update schedules and holiday closures without calling us.",
       ],
     },
@@ -152,9 +152,9 @@ const alirajpur: CityContent = {
     },
     {
       id: "android-ios-apps-alirajpur",
-      heading: "App development company in Alirajpur: Android and iOS apps kept simple",
+      heading: "App development team in Alirajpur: Android and iOS apps kept simple",
       paragraphs: [
-        "Most people in Alirajpur use Android phones, often budget models, while traders dealing with buyers in Gujarat and Indore increasingly use iPhones too. As an <strong>app development company in Alirajpur</strong>'s businesses can work with remotely, we build in Flutter or React Native so one codebase covers both.",
+        "Most people in Alirajpur use Android phones, often budget models, while traders dealing with buyers in Gujarat and Indore increasingly use iPhones too. As an <strong>app development team in Alirajpur</strong>'s businesses can work with remotely, we build in Flutter or React Native so one codebase covers both.",
         "Apps are worth it when customers or staff use them again and again: a trader's buyers placing orders every day of the season, village retailers re-ordering from a wholesaler, a school sending notices, or truck drivers logging trips. We design for low-end phones and low literacy, with icons, photographs, Hindi labels and voice-friendly features.",
         "<strong>Android app development in Alirajpur</strong> with us starts at ₹40,000, including phone-number login, push notifications and an admin panel, with the iOS version built from the same code. We publish on Google Play and the Apple App Store under developer accounts in your name. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and phone number, a website and a Google listing are enough. We will tell you if an app is not worth the cost for your business.",
@@ -233,7 +233,7 @@ const alirajpur: CityContent = {
         "A static website usually takes one to two weeks after we receive content and photographs. SEO websites take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. For mango season tools, start at least two months before the fruit arrives.",
     },
     {
-      question: "Which is the best IT company in Alirajpur?",
+      question: "Which is the best IT services team in Alirajpur?",
       answer:
         "Look for someone who explains the work clearly, registers the domain and code in your name, shows real samples and supports you after launch. Ask every IT company in Alirajpur for an itemised quote. We are a remote team of three engineers, and we would rather keep your project small than oversell it.",
     },

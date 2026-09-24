@@ -9,14 +9,14 @@ const content: CityContent = {
     description:
       "Comparing software development companies in Mandi? Hire our freelance group for custom software, AI automation, apps and SEO, with starting prices in INR.",
     keywords: [
-      "software development company in Mandi",
-      "IT company in Mandi",
+      "software development team in Mandi",
+      "IT services team in Mandi",
       "IT solutions Mandi",
       "Android app development Mandi",
       "iOS app development Mandi",
       "mobile app developers Mandi",
       "iPhone app developers Himachal Pradesh",
-      "software company Mandi Himachal Pradesh",
+      "software team Mandi Himachal Pradesh",
       "custom software Mandi",
       "billing and inventory software Mandi",
       "transport management software Himachal",
@@ -31,7 +31,7 @@ const content: CityContent = {
       "IT services Nerchowk",
       "ecommerce website Himachali products",
       "website maintenance Mandi",
-      "Mandi mein software company",
+      "Mandi mein software team",
       "मंडी में सॉफ्टवेयर कंपनी",
     ],
   },
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Mandi · Himachal Pradesh",
     h1: "Freelance software developers in Mandi for traders, transporters, contractors and founders",
     lede:
-      "If you are searching for a software development company in Mandi, BtechWaleTech offers another route: a freelance group of three engineers, working remotely from India, who build billing and stock systems, fleet trackers, contractor dashboards, AI and WhatsApp automation, apps, online stores and search-ready websites for businesses from Seri Bazaar to Sundernagar and Kamand. Prices start low and are published, and five months of maintenance after launch are free.",
+      "If you are searching for a software development team in Mandi, BtechWaleTech offers another route: a freelance group of three engineers, working remotely from India, who build billing and stock systems, fleet trackers, contractor dashboards, AI and WhatsApp automation, apps, online stores and search-ready websites for businesses from Seri Bazaar to Sundernagar and Kamand. Prices start low and are published, and five months of maintenance after launch are free.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Hindi-first interfaces", "Five months free upkeep", "Pay by UPI or bank transfer"],
   },
   quickAnswer:
-    "Instead of a software development company in Mandi, you can hire BtechWaleTech, a freelance group of three remote engineers, for custom software and web apps from ₹60,000 in 6–12 weeks, AI and WhatsApp automation or Android and iOS apps from ₹40,000, websites from ₹10,000 in 1–2 weeks and online stores from ₹50,000. You get an itemised quote in about two working days.",
+    "Instead of a software development team in Mandi, you can hire BtechWaleTech, a freelance group of three remote engineers, for custom software and web apps from ₹60,000 in 6–12 weeks, AI and WhatsApp automation or Android and iOS apps from ₹40,000, websites from ₹10,000 in 1–2 weeks and online stores from ₹50,000. You get an itemised quote in about two working days.",
   snapshot: [
     { label: "Role in the region", value: "District headquarters and a trading and transit town on the Beas, linking the plains with Kullu, Manali and Lahaul" },
     { label: "Heritage", value: "Known as 'Chhoti Kashi' for its many old temples, and host of the International Shivratri Fair each year" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-development-company-mandi",
-      heading: "What does a software development company in Mandi do for local businesses?",
+      heading: "What does a software development team in Mandi do for local businesses?",
       paragraphs: [
-        "A software development company in Mandi builds the systems that let a trading and transit town run with fewer registers and fewer phone calls: billing and credit software for wholesalers, trip and fleet tracking for transporters, cost dashboards for contractors, booking tools for hotels, and websites and search visibility for everyone who wants to be found. The emphasis is on software that saves time every day, not on decoration.",
+        "A software development team in Mandi builds the systems that let a trading and transit town run with fewer registers and fewer phone calls: billing and credit software for wholesalers, trip and fleet tracking for transporters, cost dashboards for contractors, booking tools for hotels, and websites and search visibility for everyone who wants to be found. The emphasis is on software that saves time every day, not on decoration.",
         "Mandi sits where the road from the plains meets the routes to Kullu, Manali and the upper valleys, which is why so much of its economy is about moving goods and people. Wholesalers in the old bazaars supply shops far up the Beas and Uhl valleys. Truck and taxi operators run the highway. Contractors work on hydropower schemes and road widening. Orchardists and vegetable growers in Karsog, Seraj and Janjehli sell through commission agents. Each of these businesses has a lot of repetitive paperwork that software can shrink.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have an office in Mandi or anywhere in Himachal Pradesh, and we never pretend to. We work over WhatsApp, calls and shared test links, publish our starting prices on the <a href='/pricing/'>pricing page</a>, hand over every login and repository at the end, and include five months of maintenance after launch without charge.",
       ],
@@ -225,9 +225,9 @@ const content: CityContent = {
     },
     {
       id: "choose-it-company-mandi",
-      heading: "Freelance developers or an IT company in Mandi: how to choose",
+      heading: "Freelance developers or an IT services team in Mandi: how to choose",
       paragraphs: [
-        "Whether you hire freelance developers or an IT company in Mandi, compare who owns the code and data, whether the quote is itemised, who will actually write the software, how support works after launch, and whether you can see and test live work. These questions separate dependable partners from sellers of templates, whether the firm is local, in Chandigarh or remote.",
+        "Whether you hire freelance developers or an IT services team in Mandi, compare who owns the code and data, whether the quote is itemised, who will actually write the software, how support works after launch, and whether you can see and test live work. These questions separate dependable partners from sellers of templates, whether the firm is local, in Chandigarh or remote.",
         "A larger software company brings more staff and formal processes, useful for multi-branch operations; a freelance group such as BtechWaleTech brings direct access to the engineers who write the code and lower overheads. Ask for a demo you can use yourself, not a slideshow. Ask what happens if the developer disappears: can another programmer pick up the code from your repository? Ask for the monthly hosting and messaging costs in writing. Ask how long a small change takes after launch and what it costs. And ask for one reference whose business resembles yours.",
         "You can review our <a href='/portfolio/'>portfolio</a>, read about how we work on the <a href='/about/'>about page</a>, or compare notes with our pages for <a href='/it-services/himachal-pradesh/dharamshala/'>Dharamshala</a> and <a href='/it-services/himachal-pradesh/baddi/'>Baddi</a>, and the wider <a href='/it-services/himachal-pradesh/'>Himachal Pradesh</a> overview. If another provider fits better, you should hire them; what matters is that you end up owning software that works.",
       ],
@@ -320,7 +320,7 @@ const content: CityContent = {
         "Yes. We build MVPs with sign-up, core workflow, admin panel and deployment, typically using React or Next.js with Node.js or Python and PostgreSQL. Custom web apps start from ₹60,000 and take six to twelve weeks. Code lives in your company's repository from day one. We are not affiliated with IIT Mandi or its incubator; we are an independent remote team.",
     },
     {
-      question: "Which is the best software company in Mandi?",
+      question: "Which is the best software team in Mandi?",
       answer:
         "It depends on the job. A good choice for billing software may not be the best for an ecommerce store. Compare live work, itemised quotes, ownership terms and support after launch. We would like to be considered, but we do not claim to be number one or cite awards we do not have. Talking to two or three providers is sensible.",
     },

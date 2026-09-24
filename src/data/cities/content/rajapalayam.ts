@@ -9,7 +9,7 @@ const rajapalayam: CityContent = {
     description:
       "Websites, SEO, B2B catalogues and WhatsApp automation for Rajapalayam textile mills, bandage makers, nightwear units and mango growers. Sites from ₹10,000.",
     keywords: [
-      "website development company in Rajapalayam",
+      "website development team in Rajapalayam",
       "web design Rajapalayam",
       "website designer Rajapalayam",
       "SEO services Rajapalayam",

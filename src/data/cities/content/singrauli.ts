@@ -9,7 +9,7 @@ const singrauli: CityContent = {
     description:
       "Websites, Hindi local SEO and WhatsApp automation for Singrauli mining contractors, PSU vendors, hotels, schools and clinics in Waidhan and Morwa. From ₹10,000.",
     keywords: [
-      "website development company in Singrauli",
+      "website development team in Singrauli",
       "website designer Singrauli",
       "web design Waidhan",
       "SEO services Singrauli",

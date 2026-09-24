@@ -7,13 +7,13 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Madurai",
     description:
-      "Freelance software developers for Madurai: booking, hospital and college software, AI agents, apps and SEO. An alternative to a software company. From ₹60,000.",
+      "Freelance software developers for Madurai: booking, hospital and college software, AI agents, apps and SEO. An alternative to a software team. From ₹60,000.",
     keywords: [
-      "software development company in Madurai",
+      "software development team in Madurai",
       "Android app development Madurai",
       "iPhone app developers Madurai",
       "mobile app developers Madurai",
-      "IT company in Madurai",
+      "IT services team in Madurai",
       "IT solutions Madurai",
       "custom software development Madurai",
       "hotel booking software Madurai",
@@ -22,7 +22,7 @@ const content: CityContent = {
       "mobile app development Madurai",
       "AI chatbot WhatsApp automation Madurai",
       "web application development Madurai",
-      "software company near me Madurai",
+      "software team near me Madurai",
       "IT services near Anna Nagar Madurai",
       "software developer K.K. Nagar Madurai",
       "Madurai ELCOT IT park software",
@@ -30,7 +30,7 @@ const content: CityContent = {
       "local SEO Madurai",
       "ecommerce website Madurai sungudi sarees",
       "IT support and maintenance Madurai",
-      "Madurai software company Tamil",
+      "Madurai software team Tamil",
       "மதுரை மென்பொருள் நிறுவனம்",
     ],
   },
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Madurai, Tamil Nadu",
     h1: "Freelance software developers for Madurai's hotels, hospitals, colleges and traders",
     lede:
-      "If you are searching for a software development company in Madurai, consider BtechWaleTech instead, a freelance group of three remote engineers who build the systems behind the Temple City's businesses: room and yatra booking engines, patient appointment tools, admission CRMs for colleges, WhatsApp AI agents, dashboards and the mobile-first websites that pilgrims and students actually find. Starting prices are public, and five months of maintenance are included after launch.",
+      "If you are searching for a software development team in Madurai, consider BtechWaleTech instead, a freelance group of three remote engineers who build the systems behind the Temple City's businesses: room and yatra booking engines, patient appointment tools, admission CRMs for colleges, WhatsApp AI agents, dashboards and the mobile-first websites that pilgrims and students actually find. Starting prices are public, and five months of maintenance are included after launch.",
     pills: ["Booking and hospital software", "AI agents on WhatsApp", "College admission CRMs", "Tamil-first interfaces", "UPI or bank transfer only"],
   },
   quickAnswer:
@@ -73,7 +73,7 @@ const content: CityContent = {
       id: "madurai-software-company-role",
       heading: "What should a software developer in Madurai build first for your business?",
       paragraphs: [
-        "Any software developer working with a Madurai business, whether a software development company in Madurai or a freelance group like ours, should first build the tool that removes the most repeated manual work, which for most local businesses is enquiry handling and booking. Hotels near the temple field the same room questions dozens of times a day. Clinics answer doctor-timing calls. Colleges answer fee and admission calls every June. Automating those conversations frees staff for work that needs a person.",
+        "Any software developer working with a Madurai business, whether a software development team in Madurai or a freelance group like ours, should first build the tool that removes the most repeated manual work, which for most local businesses is enquiry handling and booking. Hotels near the temple field the same room questions dozens of times a day. Clinics answer doctor-timing calls. Colleges answer fee and admission calls every June. Automating those conversations frees staff for work that needs a person.",
         "After enquiries, the next priority is usually a single record of customers or patients, followed by a dashboard. Many Madurai firms hold their most valuable data in a receptionist's notebook or a WhatsApp chat history. Moving it into a simple, searchable system means repeat pilgrims can be greeted by name, patients get reminders, and alumni and parents can be reached again.",
         "The website comes alongside, not first. A clean, fast site with correct timings, location and prices is essential for discovery, but it pays off far more when enquiries from it land straight in the new system rather than in an inbox nobody checks. That sequence, enquiries then records then reporting, is how we usually plan Madurai projects.",
       ],
@@ -191,9 +191,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-madurai",
-      heading: "Freelance team vs an IT company in Madurai: questions worth asking",
+      heading: "Freelance team vs an IT services team in Madurai: questions worth asking",
       paragraphs: [
-        "When choosing an IT company in Madurai, ask who will write the code, whose name the hosting and domain will be in, what happens after launch, and how changes are priced. These four questions separate reliable partners from those who leave businesses stranded. A good answer is specific and written down, not a verbal reassurance.",
+        "When choosing an IT services team in Madurai, ask who will write the code, whose name the hosting and domain will be in, what happens after launch, and how changes are priced. These four questions separate reliable partners from those who leave businesses stranded. A good answer is specific and written down, not a verbal reassurance.",
         "Ask to see a working system similar to yours, and ask how data will be moved from your current tools. Check whether the quote lists features individually or just gives a lump sum. Confirm the payment schedule is tied to visible milestones. And ask what the partner will not do: an honest vendor names limits, such as not guaranteeing rankings or not replacing certified hospital software.",
         "BtechWaleTech is a freelance group of three engineers with no Madurai office. That keeps costs down and means you always talk to an engineer, but it also means we are not suited to projects needing a large on-site team. You can read <a href=\"/about/\">about how we work</a> or see <a href=\"/portfolio/\">examples of our work</a> before deciding.",
       ],

@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance app and software developers for Durg: mobile-first sites, enquiry systems, retail and mill software, Android and iOS apps, AI and support. From ₹10,000.",
     keywords: [
-      "software development company in Durg",
-      "IT company in Durg",
+      "software development team in Durg",
+      "IT services team in Durg",
       "IT solutions Durg",
       "freelance software developer Durg",
       "mobile-first website design Durg",
@@ -78,9 +78,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-or-company-durg",
-      heading: "Freelance group or a software development company in Durg: what suits a local business?",
+      heading: "Freelance group or a software development team in Durg: what suits a local business?",
       paragraphs: [
-        "A freelance group suits most Durg shops, mills, dealers and service providers, because their projects are focused and they benefit from direct contact with the developers, while a software development company suits large projects needing on-site teams or tender paperwork. The best choice is the one that will still answer you a year after launch.",
+        "A freelance group suits most Durg shops, mills, dealers and service providers, because their projects are focused and they benefit from direct contact with the developers, while a software development team suits large projects needing on-site teams or tender paperwork. The best choice is the one that will still answer you a year after launch.",
         "BtechWaleTech is three engineers working remotely without an office in Durg. You get published starting prices, one WhatsApp thread with the people doing the work and ownership of every account. You do not get someone visiting your shop in person. When comparing IT companies in Durg or Bhilai, ask each vendor the same practical questions.",
       ],
       list: [

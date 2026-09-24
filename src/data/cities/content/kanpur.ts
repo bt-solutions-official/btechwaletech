@@ -9,8 +9,8 @@ const kanpur: CityContent = {
     description:
       "Websites, export catalogues, SEO and automation for Kanpur tanneries, hosiery units, traders and coaching institutes. From ₹10,000 with 5 months free maintenance.",
     keywords: [
-      "website development company in Kanpur",
-      "web design company Kanpur",
+      "website development team in Kanpur",
+      "web design team Kanpur",
       "website designer Kanpur",
       "freelance web developer Kanpur",
       "website making cost Kanpur",

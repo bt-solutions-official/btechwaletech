@@ -10,12 +10,12 @@ const bhatapara: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Bhatapara rice, poha and dal mills, mandi traders, cement-belt suppliers and shops.",
     keywords: [
       "IT services in Bhatapara",
-      "IT company in Bhatapara",
-      "website development company in Bhatapara",
+      "IT services team in Bhatapara",
+      "website development team in Bhatapara",
       "web design in Bhatapara",
-      "app development company in Bhatapara",
+      "app development team in Bhatapara",
       "Android app development in Bhatapara",
-      "software company in Bhatapara",
+      "software team in Bhatapara",
       "SEO services in Bhatapara",
       "digital marketing in Bhatapara",
       "ecommerce website in Bhatapara",
@@ -75,28 +75,28 @@ const bhatapara: CityContent = {
     },
     {
       id: "rice-poha-dal-mill-software",
-      heading: "Software company in Bhatapara for rice, poha and dal mills",
+      heading: "Software team in Bhatapara for rice, poha and dal mills",
       paragraphs: [
         "Milling in Bhatapara is a volume business with thin margins, and those margins disappear quietly when records are loose. A mill tracks paddy arriving by tractor and truck, moisture and weight at the kanta, how much goes into each batch, the yield of head rice, brokens and bran, bag stock by grade, and lorries leaving for each buyer. Poha units add soaking, roasting and flattening stages; dal mills track husk and split output. Much of this still lives in registers and a munim's memory.",
-        "As a <strong>software company in Bhatapara</strong> in the practical sense, we build web tools that follow the mill's own sequence. Weighbridge slips are entered once from a phone. Batches link to the paddy they came from. Output by grade updates the godown count automatically, and each dispatch creates a challan and adds to the buyer's ledger. The owner sees a single screen with stock, pending dispatches and money due.",
+        "As a <strong>software team in Bhatapara</strong> in the practical sense, we build web tools that follow the mill's own sequence. Weighbridge slips are entered once from a phone. Batches link to the paddy they came from. Output by grade updates the godown count automatically, and each dispatch creates a challan and adds to the buyer's ledger. The owner sees a single screen with stock, pending dispatches and money due.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually start with the intake and dispatch registers, because those two lists answer the owner's most frequent question: how much came in, how much went out, and who still owes what. Integration with Tally or your existing billing is quoted as a separate line if you want it.",
       ],
     },
     {
       id: "mandi-traders-websites",
-      heading: "Website development company in Bhatapara for mandi traders and commission agents",
+      heading: "Website development team in Bhatapara for mandi traders and commission agents",
       paragraphs: [
         "Traders at the Bhatapara mandi deal with buyers who may never visit the town. A rice buyer in Nagpur, a poha distributor in Indore or a dal wholesaler in Hyderabad will usually search online before calling, and a trader with no website or only a half-filled directory profile looks smaller than he really is.",
-        "A good <strong>website development company in Bhatapara</strong> should keep a trader's site plain and useful. That means the commodities and grades you deal in, packing options and bag sizes, the states you supply, GST and licence details, photographs of the godown and loading, and named contacts with WhatsApp links. A short page on how orders, advance payments and dispatch work removes most of the doubts a first-time buyer has.",
+        "A good <strong>website development team in Bhatapara</strong> should keep a trader's site plain and useful. That means the commodities and grades you deal in, packing options and bag sizes, the states you supply, GST and licence details, photographs of the godown and loading, and named contacts with WhatsApp links. A short page on how orders, advance payments and dispatch work removes most of the doubts a first-time buyer has.",
         "Rates change daily, so we avoid printing prices that go stale by evening. Instead we can add a small rate board that you update from your phone, visible only to buyers you approve, or a simple enquiry form that asks for commodity, quantity, destination and delivery month. A static site of this kind starts at ₹10,000; see our <a href=\"/services/web-development/\">web development service</a> for what is included.",
       ],
     },
     {
       id: "cement-belt-suppliers",
-      heading: "IT company in Bhatapara for cement-belt contractors and transporters",
+      heading: "IT services team in Bhatapara for cement-belt contractors and transporters",
       paragraphs: [
         "Baloda Bazar-Bhatapara district has limestone, and that has brought large cement plants to villages such as Hirmi, Rawan, Sonadih and Risda. Around each plant is a web of smaller businesses: bulker and truck fleets, loading contractors, mechanical and electrical workshops, canteen and housekeeping contractors, security agencies, hardware and spares shops, and labour suppliers. Many of these firms are run from Bhatapara, Baloda Bazar or Tilda.",
-        "Plant purchase and vendor teams judge a supplier partly on how it presents itself. An <strong>IT company in Bhatapara</strong> that understands this will build a factual capability site: services offered, fleet size and vehicle types, equipment owned, safety training and PPE practices, statutory registrations, and contact people. We never list a client's name on your site unless that client has agreed in writing.",
+        "Plant purchase and vendor teams judge a supplier partly on how it presents itself. An <strong>IT services team in Bhatapara</strong> that understands this will build a factual capability site: services offered, fleet size and vehicle types, equipment owned, safety training and PPE practices, statutory registrations, and contact people. We never list a client's name on your site unless that client has agreed in writing.",
         "Transporters benefit most from software. A trip register that records vehicle, driver, route, tonnage, diesel advance and freight due, with expiry alerts for permits, fitness and insurance, saves hours at month end and stops disputes. Drivers can log trips from an Android app, and the owner sees totals by vehicle and by plant. We build the register first and add the app only if your drivers will actually use it.",
       ],
     },
@@ -123,7 +123,7 @@ const bhatapara: CityContent = {
       heading: "Android app development in Bhatapara, plus iOS apps for local businesses",
       paragraphs: [
         "An app earns its cost when a fixed group of people opens it again and again. In Bhatapara the strongest cases are a trader whose regular buyers check rates and place orders every week, a mill where supervisors log trucks at the gate, a transporter whose drivers record trips, a school sending homework and fee reminders to parents, or a hospital issuing OPD tokens.",
-        "As an <strong>app development company in Bhatapara</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally has mobile OTP login, push notifications, the few screens your users need, and an admin panel where your staff update rates, notices or orders. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Bhatapara</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally has mobile OTP login, push notifications, the few screens your users need, and an admin panel where your staff update rates, notices or orders. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Bhatapara</strong> with us starts at ₹40,000. Offline entry for weak-signal godowns, payment collection, GPS tracking or Tally sync each add to the cost and appear as separate items. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "Many businesses do not need an app at all. If customers only want your address, phone number, timings and product list, a website does the job for a fraction of the price and needs no download. We will say so, because an app that sits unopened on a buyer's phone is wasted money.",
       ],
@@ -233,7 +233,7 @@ const bhatapara: CityContent = {
         "A simple static website is usually ready in one to two weeks after you send photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner shares content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Bhatapara?",
+      question: "Which is the best website development team in Bhatapara?",
       answer:
         "The best choice is one that publishes its prices, registers the domain and code in your name, supports you after launch and can show real work. Ask every provider the same questions and compare written quotes. We meet those tests and reply on WhatsApp all week, but comparing two or three options is sensible.",
     },

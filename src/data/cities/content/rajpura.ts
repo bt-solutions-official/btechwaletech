@@ -10,12 +10,12 @@ const rajpura: CityContent = {
       "Websites, Android & iOS apps, SEO and AI automation for Rajpura factories, Focal Point units, mandi traders, colleges and Township shops. Starting ₹10,000.",
     keywords: [
       "IT services in Rajpura",
-      "IT company in Rajpura",
-      "website development company in Rajpura",
+      "IT services team in Rajpura",
+      "website development team in Rajpura",
       "web design in Rajpura",
-      "app development company in Rajpura",
+      "app development team in Rajpura",
       "Android app development in Rajpura",
-      "software company in Rajpura",
+      "software team in Rajpura",
       "SEO services in Rajpura",
       "digital marketing in Rajpura",
       "ecommerce website in Rajpura",
@@ -76,7 +76,7 @@ const rajpura: CityContent = {
       id: "website-cost-rajpura",
       heading: "Website cost in Rajpura, and what the price should include",
       paragraphs: [
-        "Ask around for a <strong>website development company in Rajpura</strong> and you will hear quotes that vary widely, from a relative's friend who builds a template in an evening to a tricity agency with monthly retainers. Instead of comparing only the total, compare what is included: whose name the domain and hosting are in, whether Punjabi or Hindi text is part of the job, whether a Google Business Profile is set up, and who fixes things after launch.",
+        "Ask around for a <strong>website development team in Rajpura</strong> and you will hear quotes that vary widely, from a relative's friend who builds a template in an evening to a tricity agency with monthly retainers. Instead of comparing only the total, compare what is included: whose name the domain and hosting are in, whether Punjabi or Hindi text is part of the job, whether a Google Business Profile is set up, and who fixes things after launch.",
         "Our starting prices are listed on the <a href=\"/pricing/\">pricing page</a>. A static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website with 700+ pages, built around the products, services and nearby towns you actually serve, starts at ₹20,000 and takes three to five weeks. Android and iOS apps start at ₹40,000, as does AI automation. Online stores start at ₹50,000 and custom web applications at ₹60,000. Monthly SEO starts at ₹10,000.",
         "A single-doctor clinic in the Township needs a few pages. A machinery maker with forty models, spec sheets and dealer enquiries needs far more. We talk through what you sell and who buys it, then send a written, itemised quote. Work starts only after you approve it.",
       ],
@@ -90,7 +90,7 @@ const rajpura: CityContent = {
     },
     {
       id: "focal-point-manufacturers",
-      heading: "Website development company in Rajpura for Focal Point manufacturers",
+      heading: "Website development team in Rajpura for Focal Point manufacturers",
       paragraphs: [
         "The Industrial Focal Point is where much of Rajpura's small and medium manufacturing sits: steel fabrication, machinery, parts and components, packaging and the job-work units that feed larger plants. Hindustan Unilever's facilities brought vendors and transporters to the town, and the newer steel and cement investments have added more. Most of these units still get orders through old contacts, and many have no site at all or a single page made years ago.",
         "Buyers now shortlist suppliers online before they call. A purchase officer in Ludhiana, Baddi or Delhi wants to see what you make, in what sizes and materials, your machine list, the certifications you actually hold, minimum order quantities and how you dispatch. We build that as clear product pages with real photos taken on your shop floor, downloadable spec sheets and an enquiry form that asks for quantity and delivery location, so your sales person gets useful leads.",
@@ -99,11 +99,11 @@ const rajpura: CityContent = {
     },
     {
       id: "imc-rajpura-suppliers",
-      heading: "Software company in Rajpura for the new manufacturing cluster and its suppliers",
+      heading: "Software team in Rajpura for the new manufacturing cluster and its suppliers",
       paragraphs: [
         "The Integrated Manufacturing Cluster planned on about 1,099 acres near the national highways, together with the new focal point proposed at Pabra and Takhtu Majra villages, points to more industry arriving around Rajpura. Every new plant needs local vendors: fabricators, electrical contractors, transporters, canteens, security agencies, housekeeping firms, labour contractors, hardware and safety equipment dealers.",
         "These vendors usually lose tenders to competitors who simply look more organised. A clean company website with services, past work described honestly, equipment owned, team size, GST and registration details, and a contact person helps you get past the first screening. We also build simple portals where you log manpower attendance, work orders and bills against each client, so month-end billing does not depend on one accountant's diary.",
-        "As a <strong>software company in Rajpura</strong>'s market, we keep these tools plain. A transporter might need trip sheets, diesel entries and freight dues. A fabricator might need job cards and material issue. We build only what your process needs, starting at ₹60,000 for custom web applications, and hand over the full code at the end.",
+        "As a <strong>software team in Rajpura</strong>'s market, we keep these tools plain. A transporter might need trip sheets, diesel entries and freight dues. A fabricator might need job cards and material issue. We build only what your process needs, starting at ₹60,000 for custom web applications, and hand over the full code at the end.",
       ],
     },
     {
@@ -144,9 +144,9 @@ const rajpura: CityContent = {
     },
     {
       id: "android-ios-apps-rajpura",
-      heading: "App development company in Rajpura: Android and iOS apps for local businesses",
+      heading: "App development team in Rajpura: Android and iOS apps for local businesses",
       paragraphs: [
-        "Searching for an <strong>app development company in Rajpura</strong> usually starts with one of a few problems. A distributor wants dealers to place repeat orders without calling at night. A school or coaching centre wants parents to see attendance, fees and notices. A clinic wants patients to book tokens instead of crowding the reception. A transporter wants drivers to update trip status from the road. These are the jobs where an app earns its place.",
+        "Searching for an <strong>app development team in Rajpura</strong> usually starts with one of a few problems. A distributor wants dealers to place repeat orders without calling at night. A school or coaching centre wants parents to see attendance, fees and notices. A clinic wants patients to book tokens instead of crowding the reception. A transporter wants drivers to update trip status from the road. These are the jobs where an app earns its place.",
         "We build <strong>Android app development in Rajpura</strong> projects and their iOS versions together using Flutter or React Native, so one codebase serves both phones. A typical app includes login by phone number, push notifications, the core screens your users need, and an admin panel your staff use from a laptop to update products, prices, notices or bookings. We handle publishing on Google Play and the Apple App Store under your own developer accounts, so the listing belongs to you.",
         "Apps start at ₹40,000, and the final quote depends on screens, roles and integrations such as payments or your billing software. Be honest with yourself about usage, though. If customers will only visit once, such as a PG enquiry or a one-time hotel booking, a fast website with a WhatsApp button does the job better and costs less. Apps suit repeat users. See <a href=\"/it-services/android-ios-app/\">our Android and iOS app service</a> for how the build and store review work.",
       ],
@@ -171,9 +171,9 @@ const rajpura: CityContent = {
     },
     {
       id: "remote-team-rajpura",
-      heading: "An IT company in Rajpura's market without a Rajpura office",
+      heading: "An IT services team in Rajpura's market without a Rajpura office",
       paragraphs: [
-        "We should be plain about this: we are not a local <strong>IT company in Rajpura</strong> with a shopfront. We are a remote team of three engineers working for clients across India, and we have no office in Rajpura or anywhere else. Without rent and sales staff to pay for, we keep starting prices lower, and you speak directly with the people who write your code.",
+        "We should be plain about this: we are not a local <strong>IT services team in Rajpura</strong> with a shopfront. We are a remote team of three engineers working for clients across India, and we have no office in Rajpura or anywhere else. Without rent and sales staff to pay for, we keep starting prices lower, and you speak directly with the people who write your code.",
         "Work happens over calls, WhatsApp and screen sharing. First we discuss your business. Then we send a page or screen plan, a timeline and an itemised quote. For a small site you usually see a live preview link within one to two weeks, which you can open on your phone and show to your partners. We reply seven days a week on Indian time, and small changes are often done the same day.",
         "Ankur Kumar handles full-stack development. Santosh Sharma works on AI, machine learning, AWS and data. Vedansh Shrivastava manages projects and works on data science and automation. You can <a href=\"/contact/\">contact us</a> and talk to any of them.",
       ],
@@ -224,7 +224,7 @@ const rajpura: CityContent = {
         "Hamari simple website ₹10,000 se shuru hoti hai, 700+ page wali SEO website ₹20,000 se, aur Android aur iOS app ₹40,000 se. Pehle aapko likhit quote milta hai jisme har kaam alag likha hota hai. Aapki manzoori ke baad hi kaam shuru hota hai aur domain aapke naam par rehta hai.",
     },
     {
-      question: "Which is the best IT company in Rajpura for a small business?",
+      question: "Which is the best IT services team in Rajpura for a small business?",
       answer:
         "The best choice is the one that puts the domain in your name, gives a written itemised quote, shows real work and stays reachable after launch. We are a remote three-engineer team, not a local office, and we meet those conditions. Ask any provider you compare, including us, the same questions.",
     },

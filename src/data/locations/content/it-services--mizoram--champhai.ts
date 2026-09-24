@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Champhai: trade and stock software, catalogues, Android and iOS apps, AI automation, tourism pages and SEO setup. From ₹10,000.",
     keywords: [
-      "software development company in Champhai",
-      "IT company in Champhai",
+      "software development team in Champhai",
+      "IT services team in Champhai",
       "IT solutions Champhai",
       "freelance software developers Champhai",
       "Android app development Champhai",
@@ -67,9 +67,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-champhai",
-      heading: "Freelance software developers or a software development company for Champhai?",
+      heading: "Freelance software developers or a software development team for Champhai?",
       paragraphs: [
-        "For most Champhai projects, freelance software developers are the practical choice: you talk directly to the engineers, pay published starting prices and get software shaped to your trade. A software development company suits you better only when you need someone on site in Champhai regularly or formal eligibility for large tenders.",
+        "For most Champhai projects, freelance software developers are the practical choice: you talk directly to the engineers, pay published starting prices and get software shaped to your trade. A software development team suits you better only when you need someone on site in Champhai regularly or formal eligibility for large tenders.",
         "BtechWaleTech is three independent engineers working remotely from India. We have no office in Champhai or anywhere in Mizoram and do not install hardware. Our work is software: designing, building, hosting and maintaining it, with the same engineer answering your message and writing your code.",
         "If you are weighing IT companies in Aizawl or elsewhere for a Champhai project, ask each who actually builds it, whether code and domain are registered to you, what support costs after launch and how quickly they reply on weekends. Our starting prices are listed on the <a href='/pricing/'>pricing page</a>, and the statewide overview is on our <a href='/it-services/mizoram/'>Mizoram IT services page</a>.",
       ],

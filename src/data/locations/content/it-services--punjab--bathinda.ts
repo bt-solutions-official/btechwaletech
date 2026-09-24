@@ -12,8 +12,8 @@ const content: CityContent = {
       "Android app development Bathinda",
       "iOS app development Bathinda",
       "mobile app developers Bathinda",
-      "software development company in Bathinda",
-      "IT company in Bathinda",
+      "software development team in Bathinda",
+      "IT services team in Bathinda",
       "IT solutions Bathinda",
       "freelance software developers Bathinda",
       "custom software Bathinda",
@@ -69,9 +69,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-bathinda",
-      heading: "Freelance developers or a software development company in Bathinda: how do they compare?",
+      heading: "Freelance developers or a software development team in Bathinda: how do they compare?",
       paragraphs: [
-        "Freelance developers and a software development company in Bathinda can build similar software, but they differ in who you deal with and what you pay for. With BtechWaleTech, a freelance group of three engineers, the people on your calls are the people writing the code, and there is no office rent, sales team or account manager built into the quote.",
+        "Freelance developers and a software development team in Bathinda can build similar software, but they differ in who you deal with and what you pay for. With BtechWaleTech, a freelance group of three engineers, the people on your calls are the people writing the code, and there is no office rent, sales team or account manager built into the quote.",
         "A larger IT company is the better option when you need a big team, round-the-clock staff or someone physically present every day. For most Bathinda projects, such as a vendor tracker, a CRM, a dashboard or a corporate website, a small experienced freelance group delivers faster and remains easier to reach after launch.",
         "We work remotely from India and have no Bathinda office. Scoping happens over calls and WhatsApp, progress appears on a live preview you can test, and every account is in your name. You can read more about the group on our <a href='/about/'>about page</a>.",
       ],
@@ -269,7 +269,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company in Bathinda?",
+      question: "Is BtechWaleTech an IT services team in Bathinda?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office, branch or staff in Bathinda. Businesses there hire us as freelance developers and work with us through calls, WhatsApp and live preview links, dealing directly with the engineers who build the software and owning everything we deliver.",
     },

@@ -10,12 +10,12 @@ const tindivanam: CityContent = {
       "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tindivanam traders, SIPCOT units, colleges, clinics and highway businesses.",
     keywords: [
       "IT services in Tindivanam",
-      "IT company in Tindivanam",
-      "website development company in Tindivanam",
+      "IT services team in Tindivanam",
+      "website development team in Tindivanam",
       "web design in Tindivanam",
-      "app development company in Tindivanam",
+      "app development team in Tindivanam",
       "Android app development in Tindivanam",
-      "software company in Tindivanam",
+      "software team in Tindivanam",
       "SEO services in Tindivanam",
       "digital marketing in Tindivanam",
       "ecommerce website in Tindivanam",
@@ -75,10 +75,10 @@ const tindivanam: CityContent = {
     },
     {
       id: "website-development-company-in-tindivanam",
-      heading: "Website development company in Tindivanam: what a first site should do",
+      heading: "Website development team in Tindivanam: what a first site should do",
       paragraphs: [
         "Most Tindivanam businesses do not need fifty pages to start. They need a site that answers the questions customers already ask on the phone: where exactly is the shop, what are the timings, what does it stock, what does a service cost, and how do I pay. If those answers are on one clear page in Tamil and English, the phone rings with better questions and fewer wasted trips.",
-        "As a <strong>website development company in Tindivanam</strong> clients reach remotely, we start with a short call to list the pages you actually need. A typical first site has a home page, a page for each service or product line, a contact page with a correct map pin, and a gallery of real photos from your shop, workshop or campus. Static sites of up to 100 pages start at ₹10,000 and usually go live in one to two weeks.",
+        "As a <strong>website development team in Tindivanam</strong> clients reach remotely, we start with a short call to list the pages you actually need. A typical first site has a home page, a page for each service or product line, a contact page with a correct map pin, and a gallery of real photos from your shop, workshop or campus. Static sites of up to 100 pages start at ₹10,000 and usually go live in one to two weeks.",
         "Speed matters here. Many visitors open the site on a phone standing at the bus stand or sitting in a lorry cabin, often on a patchy connection. We compress images, avoid heavy sliders and keep the call and WhatsApp buttons within thumb reach. Tamil text is set in a readable font size, not squeezed into a banner image that Google cannot read.",
         "For <strong>web design in Tindivanam</strong>, we avoid templates that look like every other site in Viluppuram district. Your photographs, your price notes and your own words about the business carry the design. You can read more about how we build on our <a href=\"/services/web-development/\">web development</a> page, and send us the three questions your customers ask most so we can build the first draft around them.",
       ],
@@ -89,7 +89,7 @@ const tindivanam: CityContent = {
       paragraphs: [
         "The SIPCOT Industrial Park near Pelakuppam, with its food park set aside for agro-based and food-processing units, gives Tindivanam something most towns of its size do not have: manufacturers who sell to buyers far outside the district. Those buyers judge a supplier partly on how it presents itself online. A factory that has a proper website with product specifications, certifications it actually holds, packing options and a contact form looks more dependable than one that only shares a phone number.",
         "For such units we build plain, fast B2B sites with a product catalogue, downloadable specification sheets and an enquiry form that sends every lead to both email and WhatsApp. We do not invent certifications, client names or capacity figures; the site says only what you can back up when a buyer asks.",
-        "Inside the plant, the bigger payoff is often custom software. Gate entry for raw material lorries, batch records, stock of packing material, dispatch notes and invoice tracking are commonly kept across registers and several spreadsheets. As a <strong>software company in Tindivanam</strong> clients hire remotely, we build web apps that pull these together so the owner can see the day's inward and outward movement on a phone. Custom web apps start at ₹60,000 and usually take six to twelve weeks, depending on how many roles and reports are needed.",
+        "Inside the plant, the bigger payoff is often custom software. Gate entry for raw material lorries, batch records, stock of packing material, dispatch notes and invoice tracking are commonly kept across registers and several spreadsheets. As a <strong>software team in Tindivanam</strong> clients hire remotely, we build web apps that pull these together so the owner can see the day's inward and outward movement on a phone. Custom web apps start at ₹60,000 and usually take six to twelve weeks, depending on how many roles and reports are needed.",
         "We begin with a written list of screens and reports, agree it with you, and build in stages so the floor staff can test each part before the next one starts. Nothing is billed before that list is approved in writing.",
       ],
     },
@@ -118,7 +118,7 @@ const tindivanam: CityContent = {
       heading: "Android and iOS app development in Tindivanam: who really needs an app",
       paragraphs: [
         "An app makes sense in Tindivanam when the same people come back again and again. A college or coaching centre that sends daily notices, timetables and fee reminders to hundreds of students is a good fit. So is a distributor whose field staff visit retailers across the taluk and need to log orders on the spot, or a restaurant or bakery with regular customers who re-order from home.",
-        "As an <strong>app development company in Tindivanam</strong> businesses can reach on WhatsApp, we build Android and iOS apps in Flutter or React Native. That means one codebase serves both phone types, which keeps cost and maintenance down. A typical app includes login by phone number, push notifications, an admin panel where your staff update content or see orders, and a simple report screen. We publish it on Google Play and the App Store under your own developer accounts, so the app belongs to you.",
+        "As an <strong>app development team in Tindivanam</strong> businesses can reach on WhatsApp, we build Android and iOS apps in Flutter or React Native. That means one codebase serves both phone types, which keeps cost and maintenance down. A typical app includes login by phone number, push notifications, an admin panel where your staff update content or see orders, and a simple report screen. We publish it on Google Play and the App Store under your own developer accounts, so the app belongs to you.",
         "<strong>Android app development in Tindivanam</strong> usually matters most, because most customers here use Android phones, but building for iOS alongside costs little extra with a shared codebase. Apps start at ₹40,000. The final quote depends on the number of screens, whether payments are taken inside the app, offline use for field staff and any link to your billing software.",
         "Sometimes an app is the wrong answer. If customers only need your address, timings and a price list, a fast website and a Google Maps listing do the job at a fraction of the cost, and nobody has to install anything. We will say so. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> page for more.",
       ],
@@ -175,11 +175,11 @@ const tindivanam: CityContent = {
     },
     {
       id: "remote-team-no-office",
-      heading: "Working with a remote IT company in Tindivanam without a local office",
+      heading: "Working with a remote IT services team in Tindivanam without a local office",
       paragraphs: [
         "Some owners prefer to sit across a table before hiring anyone. We understand that, and we are clear from the first message that we do not have an office in Tindivanam or anywhere in Viluppuram district. We are a remote team of three, and we have built our process so that distance does not become a problem.",
         "Work starts on WhatsApp. You send photographs, voice notes, a price list or a rough sketch; we reply with questions and a short written plan. Calls and screen shares are scheduled at times that suit shop hours, including evenings. We reply seven days a week on IST, and each stage ends with something you can open on your phone and check: a draft page, a test app build or a working report.",
-        "For someone looking for an <strong>IT company in Tindivanam</strong>, the practical test is whether the vendor answers promptly, explains things plainly and puts commitments in writing. We keep a running document of decisions, changes and dates so that nothing depends on memory. If a family member or partner needs to review the work, they get the same link.",
+        "For someone looking for an <strong>IT services team in Tindivanam</strong>, the practical test is whether the vendor answers promptly, explains things plainly and puts commitments in writing. We keep a running document of decisions, changes and dates so that nothing depends on memory. If a family member or partner needs to review the work, they get the same link.",
         "Because we do not carry office rent or a sales team, more of your budget goes into the build itself. If you want to start, the simplest step is a message through our <a href=\"/contact/\">contact page</a> with your business name and what you want customers to do.",
       ],
     },
@@ -230,7 +230,7 @@ const tindivanam: CityContent = {
         "A simple site usually goes live in one to two weeks once we have your photos, text and details. Large SEO sites take three to five weeks, online stores four to eight weeks, and custom software six to twelve weeks. The biggest delays are usually waiting for content, so we give you a short checklist on day one.",
     },
     {
-      question: "Which is the best website development company in Tindivanam?",
+      question: "Which is the best website development team in Tindivanam?",
       answer:
         "The best choice is the one that registers the domain and hosting in your name, hands over source code, gives an itemised quote and replies reliably after launch. We meet those tests as a remote team without a local office. Ask any vendor you compare, including us, to show live work and explain who owns what.",
     },

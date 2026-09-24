@@ -9,11 +9,11 @@ const bilaspur: CityContent = {
     description:
       "Web design, SEO and WhatsApp automation for Bilaspur, Chhattisgarh: advocates, rice mills, coal and railway suppliers, clinics. Sites from ₹10,000.",
     keywords: [
-      "website development company in Bilaspur",
+      "website development team in Bilaspur",
       "web designer Bilaspur Chhattisgarh",
       "website design Bilaspur CG",
       "freelance web developer Bilaspur",
-      "SEO company Bilaspur",
+      "SEO team Bilaspur",
       "local SEO Bilaspur Chhattisgarh",
       "advocate website Bilaspur High Court",
       "rice mill website design",

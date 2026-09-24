@@ -9,7 +9,7 @@ const loni: CityContent = {
     description:
       "Websites, Hindi-first local SEO and WhatsApp tools for Loni factories, Tronica City units, clinics, schools and shops near the Delhi border. From ₹10,000.",
     keywords: [
-      "website development company in Loni",
+      "website development team in Loni",
       "website designer Loni Ghaziabad",
       "web design Tronica City",
       "SEO services Loni",

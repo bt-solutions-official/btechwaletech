@@ -9,7 +9,7 @@ const anand: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Anand dairy suppliers, GIDC units, Vidyanagar institutes, clinics and NRI-facing firms. Sites from ₹10,000.",
     keywords: [
-      "website development company in Anand",
+      "website development team in Anand",
       "web designer Anand Gujarat",
       "website design Vallabh Vidyanagar",
       "Anand website price",
@@ -282,7 +282,7 @@ const anand: CityContent = {
     {
       question: "How soon will SEO bring enquiries in Anand?",
       answer:
-        "Nearby Maps searches often improve within six to ten weeks once your profile and site are set up well. Broader terms such as “website development company in Anand” or supplier searches from other states can take four to eight months. Monthly SEO starts at ₹10,000 and we never guarantee rankings.",
+        "Nearby Maps searches often improve within six to ten weeks once your profile and site are set up well. Broader terms such as “website development team in Anand” or supplier searches from other states can take four to eight months. Monthly SEO starts at ₹10,000 and we never guarantee rankings.",
     },
   ],
   nearby: ["nadiad", "vadodara", "ahmedabad", "petlad", "khambhat", "umreth", "kapadvanj", "mahemdabad"],

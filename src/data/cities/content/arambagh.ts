@@ -10,12 +10,12 @@ const arambagh: CityContent = {
       "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Arambagh cold storages, rice mills, handloom weavers, clinics, tutors and shops.",
     keywords: [
       "IT services in Arambagh",
-      "IT company in Arambagh",
-      "website development company in Arambagh",
+      "IT services team in Arambagh",
+      "website development team in Arambagh",
       "web design in Arambagh",
-      "app development company in Arambagh",
+      "app development team in Arambagh",
       "Android app development in Arambagh",
-      "software company in Arambagh",
+      "software team in Arambagh",
       "SEO services in Arambagh",
       "digital marketing in Arambagh",
       "ecommerce website in Arambagh",
@@ -74,19 +74,19 @@ const arambagh: CityContent = {
     },
     {
       id: "cold-storage-software",
-      heading: "Software company in Arambagh for potato cold storages",
+      heading: "Software team in Arambagh for potato cold storages",
       paragraphs: [
         "Hooghly is one of West Bengal's main potato districts, and Arambagh, Goghat and Pursurah blocks contribute much of that crop. Villages such as Muthadanga have several cold storages, and each one holds thousands of bags on behalf of farmers and traders from March until the stock is sold through the year.",
-        "The records behind this are demanding. Every lot needs a bond number, the farmer's name, bag count, chamber and rack, date in, rent due and loans or advances against the stock. When prices rise, dozens of farmers call the same day asking whether their bags can be released. As a <strong>software company in Arambagh</strong> for this trade, we build web tools where each lot is entered once and anyone at the office can pull up a bond in seconds, see rent owed, and print a release slip.",
+        "The records behind this are demanding. Every lot needs a bond number, the farmer's name, bag count, chamber and rack, date in, rent due and loans or advances against the stock. When prices rise, dozens of farmers call the same day asking whether their bags can be released. As a <strong>software team in Arambagh</strong> for this trade, we build web tools where each lot is entered once and anyone at the office can pull up a bond in seconds, see rent owed, and print a release slip.",
         "Owners can see occupancy by chamber, lots due for release and total rent pending on one screen. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, beginning with the bond register because that is where most errors happen.",
       ],
     },
     {
       id: "rice-mills",
-      heading: "Website development company in Arambagh for rice mills and paddy traders",
+      heading: "Website development team in Arambagh for rice mills and paddy traders",
       paragraphs: [
         "Rice mills in and around Arambagh buy paddy from the surrounding blocks and sell milled rice, bran and broken rice to wholesalers and brands elsewhere in Bengal and beyond. Buyers now look online for suppliers before they call, and a mill with no website, or only an old Facebook page, is easy to pass over.",
-        "As a <strong>website development company in Arambagh</strong> for mills, we build plain, credible sites: varieties handled, packing sizes, milling capacity you can actually deliver, certificates you actually hold, dispatch areas and an enquiry form that reaches the right person on WhatsApp. We do not invent client lists or export claims.",
+        "As a <strong>website development team in Arambagh</strong> for mills, we build plain, credible sites: varieties handled, packing sizes, milling capacity you can actually deliver, certificates you actually hold, dispatch areas and an enquiry form that reaches the right person on WhatsApp. We do not invent client lists or export claims.",
         "Behind the site, a purchase and dispatch register can record paddy bought per farmer or aratdar, moisture deductions, rice produced and trucks sent out. A supplier website starts at ₹10,000; the purchase and dispatch tool is custom work from ₹60,000.",
       ],
     },
@@ -128,10 +128,10 @@ const arambagh: CityContent = {
     },
     {
       id: "tuition-colleges",
-      heading: "App development company in Arambagh for tutors, schools and colleges",
+      heading: "App development team in Arambagh for tutors, schools and colleges",
       paragraphs: [
         "Private tuition is a big business in Arambagh, as it is across Bengal. Students from the town and the villages prepare for Madhyamik, Higher Secondary, JEE, NEET, WBJEE and WBCS, and colleges such as Netaji Mahavidyalaya, founded in 1948, draw students from across the subdivision.",
-        "As an <strong>app development company in Arambagh</strong> for education, we build admission forms, batch timetables, monthly fee receipts, attendance, online tests with instant marks and notices that reach guardians by WhatsApp or app notification. A tuition centre site can show subjects, batches, teachers and results you can prove.",
+        "As an <strong>app development team in Arambagh</strong> for education, we build admission forms, batch timetables, monthly fee receipts, attendance, online tests with instant marks and notices that reach guardians by WhatsApp or app notification. A tuition centre site can show subjects, batches, teachers and results you can prove.",
         "A tutor or school website starts at ₹10,000. A tests-and-notices app starts at ₹40,000, and fee and attendance software at ₹60,000. We never publish rank claims or toppers you cannot document, because guardians in a town this size compare notes.",
       ],
     },
@@ -164,9 +164,9 @@ const arambagh: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "IT company in Arambagh without a local office: our way of working",
+      heading: "IT services team in Arambagh without a local office: our way of working",
       paragraphs: [
-        "We are not an <strong>IT company in Arambagh</strong> with a signboard on Link Road. We are three engineers spread across India who work remotely, and saying so up front saves everyone time. Skipping local rent is one reason our floors are where they are.",
+        "We are not an <strong>IT services team in Arambagh</strong> with a signboard on Link Road. We are three engineers spread across India who work remotely, and saying so up front saves everyone time. Skipping local rent is one reason our floors are where they are.",
         "It starts with a WhatsApp message describing what you do and what is going wrong. A few questions, perhaps a short call, and we send the quote. Once you approve, a private preview link shows the site or app as it takes shape, and you mark changes on it. Photographs can come from your own phone; we send a short note on light and angles for storefronts, sarees or rooms.",
         "We answer every day, Sundays and puja holidays included, on Indian time. Write to us through the <a href=\"/contact/\">contact page</a>, or see how builds are done on the <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -217,7 +217,7 @@ const arambagh: CityContent = {
         "A simple site is usually ready one to two weeks after your photographs and details reach us. Large SEO builds need three to five weeks, online shops four to eight, and bespoke software six to twelve. For puja-season or wedding-season businesses, we suggest starting at least a month before the rush begins.",
     },
     {
-      question: "How do I choose a website development company in Arambagh?",
+      question: "How do I choose a website development team in Arambagh?",
       answer:
         "Check three things with any website development company in Arambagh: live sites you can open yourself, a written quote broken into items, and a domain registered to you rather than to them. Then ask about renewal costs, who writes Bengali text and whether code is handed over. Our floors are public and every login is yours.",
     },

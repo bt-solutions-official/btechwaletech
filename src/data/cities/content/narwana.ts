@@ -10,12 +10,12 @@ const narwana: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Narwana arhtiyas, rice shellers, IIDC units, coaching centres, clinics and shops.",
     keywords: [
       "IT services in Narwana",
-      "IT company in Narwana",
-      "website development company in Narwana",
+      "IT services team in Narwana",
+      "website development team in Narwana",
       "web design in Narwana",
-      "app development company in Narwana",
+      "app development team in Narwana",
       "Android app development in Narwana",
-      "software company in Narwana",
+      "software team in Narwana",
       "SEO services in Narwana",
       "digital marketing in Narwana",
       "ecommerce website in Narwana",
@@ -74,19 +74,19 @@ const narwana: CityContent = {
     },
     {
       id: "arhtiya-software-narwana",
-      heading: "Software company in Narwana for arhtiyas and the grain market",
+      heading: "Software team in Narwana for arhtiyas and the grain market",
       paragraphs: [
         "Commission agents in the Narwana mandi carry a heavy record-keeping load. During paddy and wheat procurement they track every heap that arrives, the farmer it belongs to, moisture and cleaning deductions, auction or procurement rates, labour and loading charges, and advances already given against the crop. Payments then move through government portals and bank transfers, and farmers phone repeatedly to ask where their money is.",
-        "As a <strong>software company in Narwana</strong> in the practical sense, we build web-based arhat ledgers around the way your munim already keeps books. Each arrival is entered once from a phone or desktop; the system calculates deductions, commission and net payable; and the farmer's account shows advances, interest if you charge it, and what has been paid. Reports can be printed in the format your auditor expects, and data can be exported to Tally.",
+        "As a <strong>software team in Narwana</strong> in the practical sense, we build web-based arhat ledgers around the way your munim already keeps books. Each arrival is entered once from a phone or desktop; the system calculates deductions, commission and net payable; and the farmer's account shows advances, interest if you charge it, and what has been paid. Reports can be printed in the format your auditor expects, and data can be exported to Tally.",
         "Such tools start at ₹60,000 and are built in stages over six to twelve weeks. We usually deliver the arrival and farmer ledger before the next procurement season opens, then add purchase, stock and outstanding reports once your staff are comfortable with the first part.",
       ],
     },
     {
       id: "rice-shellers-narwana",
-      heading: "Website development company in Narwana for rice shellers and basmati packers",
+      heading: "Website development team in Narwana for rice shellers and basmati packers",
       paragraphs: [
         "Paddy, including basmati varieties, is the main kharif crop across Jind district, and rice shellers sit along the roads around Narwana, Uchana and Jind. Some mill paddy on custom terms, some sell under their own brand to wholesalers in Delhi and Punjab, and a few ship to exporters. Buyers they have never met check them online before sending a sample request.",
-        "A <strong>website development company in Narwana</strong> should give a sheller a site that answers a buyer's questions without a phone call: varieties handled, grain length and grades, sortex and packing capacity in terms you can verify, bag sizes and private labelling, FSSAI and GST registration, and a named contact for trade enquiries. Photographs of your own plant carry more weight than stock images, so we plan a short photography list with you.",
+        "A <strong>website development team in Narwana</strong> should give a sheller a site that answers a buyer's questions without a phone call: varieties handled, grain length and grades, sortex and packing capacity in terms you can verify, bag sizes and private labelling, FSSAI and GST registration, and a named contact for trade enquiries. Photographs of your own plant carry more weight than stock images, so we plan a short photography list with you.",
         "For shellers with many accounts, we can add a buyer login that shows order status, dispatch details and lorry numbers, or a sample request form that captures variety, quantity and destination. A capability site starts at ₹10,000; buyer portals are quoted as custom software. You can compare scope on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -113,7 +113,7 @@ const narwana: CityContent = {
       heading: "Android app development in Narwana, with iOS apps for the same users",
       paragraphs: [
         "An app earns its cost only when a known group of people opens it again and again. In Narwana that group might be farmers who sell through one arhtiya and want to see arrivals and payments, students who take weekly tests, a dealer's village retailers placing repeat orders for seed and fertiliser, or patients booking tokens at a busy clinic.",
-        "As an <strong>app development company in Narwana</strong> working remotely, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release normally has mobile number login, push notifications, the core screens and an admin panel for your office staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Narwana</strong> working remotely, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release normally has mobile number login, push notifications, the core screens and an admin panel for your office staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Narwana</strong> with us starts at ₹40,000. The quote rises with payment collection, offline entry for fields with weak signal, Hindi and English interfaces, maps, and connections to your ledger or accounting data. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your location, rates and a phone number, a website does the job at a quarter of the cost. We will recommend that instead, because an app deleted after the first week helps nobody.",
       ],
@@ -156,9 +156,9 @@ const narwana: CityContent = {
     },
     {
       id: "remote-team-narwana",
-      heading: "How our remote IT company in Narwana's region works with you",
+      heading: "How our remote IT services team in Narwana's region works with you",
       paragraphs: [
-        "Clients sometimes call us an <strong>IT company in Narwana</strong>, but we are a remote team, and the process is built around that. A first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After approval, we share preview links you can open on your own phone and pass around the family or partners.",
+        "Clients sometimes call us an <strong>IT services team in Narwana</strong>, but we are a remote team, and the process is built around that. A first call covers your business, customers and goals. You then receive a page or screen plan, a timeline and an itemised quote. After approval, we share preview links you can open on your own phone and pass around the family or partners.",
         "We answer WhatsApp every day, weekends included, on Indian Standard Time. Hindi text is sent for your approval before it goes live, and nothing is published without your yes. If a delay appears, you hear about it the day we know, not on the promised delivery date.",
         "Payment is tied to visible milestones and nothing is billed before written approval of the quote. For a family firm trying a website or software for the first time, that keeps the risk small. When you are ready, a message through our <a href=\"/contact/\">contact page</a> is enough to start.",
       ],
@@ -228,7 +228,7 @@ const narwana: CityContent = {
         "A static website normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content and logo ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Narwana?",
+      question: "Which is the best website development team in Narwana?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Put the same questions to everyone you consider. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options first is sensible.",
     },

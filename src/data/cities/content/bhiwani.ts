@@ -9,11 +9,11 @@ const bhiwani: CityContent = {
     description:
       "Websites and local SEO for Bhiwani textile traders, boxing academies, coaching centres, clinics and mandi dealers. Sites from ₹10,000; the domain and code are yours.",
     keywords: [
-      "website development company in Bhiwani",
+      "website development team in Bhiwani",
       "web designer Bhiwani",
       "Bhiwani website price",
       "freelance web developer Bhiwani",
-      "SEO company Bhiwani",
+      "SEO team Bhiwani",
       "Google Maps listing Bhiwani",
       "boxing academy website",
       "textile trader website Haryana",
@@ -269,7 +269,7 @@ const bhiwani: CityContent = {
     {
       question: "How long before SEO shows results in Bhiwani?",
       answer:
-        "Nearby Maps results often improve in six to ten weeks once your profile and site are in order. Broader searches, such as “website development company in Bhiwani” or competitive medical terms, can take four to eight months. Monthly SEO starts at ₹10,000 and we never guarantee rankings.",
+        "Nearby Maps results often improve in six to ten weeks once your profile and site are in order. Broader searches, such as “website development team in Bhiwani” or competitive medical terms, can take four to eight months. Monthly SEO starts at ₹10,000 and we never guarantee rankings.",
     },
     {
       question: "What do I need to share for a quote?",

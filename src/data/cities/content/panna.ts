@@ -10,12 +10,12 @@ const panna: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Panna tiger-reserve stays, safari operators, temples, diamond traders and shops.",
     keywords: [
       "IT services in Panna",
-      "IT company in Panna",
-      "website development company in Panna",
+      "IT services team in Panna",
+      "website development team in Panna",
       "web design in Panna",
-      "app development company in Panna",
+      "app development team in Panna",
       "Android app development in Panna",
-      "software company in Panna",
+      "software team in Panna",
       "SEO services in Panna",
       "digital marketing in Panna",
       "ecommerce website in Panna",
@@ -74,10 +74,10 @@ const panna: CityContent = {
     },
     {
       id: "tiger-reserve-stays-safari",
-      heading: "Website development company in Panna for tiger reserve stays and safari operators",
+      heading: "Website development team in Panna for tiger reserve stays and safari operators",
       paragraphs: [
         "The Panna Tiger Reserve is one of the better-known conservation stories in central India: tigers were reintroduced here after the population collapsed, and visitors now come for jeep safaris, the Ken river and Pandav Falls. Lodges, guest houses and jeep operators around Madla and the town compete for those visitors, many of whom plan the trip together with Khajuraho.",
-        "As a <strong>website development company in Panna</strong>, we build sites that answer a visitor's real questions: how far the stay is from the Madla gate, which safari zones and timings apply, how to book a permit through the official channel, what the room looks like, whether meals are included and how to reach from Khajuraho airport or Satna station. Clear photographs and honest descriptions do more than adjectives.",
+        "As a <strong>website development team in Panna</strong>, we build sites that answer a visitor's real questions: how far the stay is from the Madla gate, which safari zones and timings apply, how to book a permit through the official channel, what the room looks like, whether meals are included and how to reach from Khajuraho airport or Satna station. Clear photographs and honest descriptions do more than adjectives.",
         "A booking calendar with an advance payment by UPI or card helps you lock in guests, and a WhatsApp button handles the questions a form cannot. We keep the pages light so they open on the patchy signal travellers often have on the road. Safari permits themselves are issued through the forest department's system, so we link to it rather than pretending to sell them.",
       ],
     },
@@ -110,10 +110,10 @@ const panna: CityContent = {
     },
     {
       id: "android-ios-apps-panna",
-      heading: "App development company in Panna: Android and iOS apps for local businesses",
+      heading: "App development team in Panna: Android and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when customers or staff will open it again and again. A safari and stay operator with several jeeps and rooms can let guests book, pay an advance and get reminders from one app, while drivers see their daily assignments. A school can send fee reminders, homework and holiday notices. A wholesaler supplying shops in Ajaigarh and Pawai can let retailers reorder and check dues.",
-        "As an <strong>app development company in Panna</strong>, we handle <strong>Android app development in Panna</strong> and iOS apps together using Flutter or React Native, so one codebase covers both. A typical app includes phone-number login, push notifications, booking or ordering screens, UPI and card payment and an admin panel your staff use on a laptop. We publish on Google Play and the App Store under developer accounts you own.",
+        "As an <strong>app development team in Panna</strong>, we handle <strong>Android app development in Panna</strong> and iOS apps together using Flutter or React Native, so one codebase covers both. A typical app includes phone-number login, push notifications, booking or ordering screens, UPI and card payment and an admin panel your staff use on a laptop. We publish on Google Play and the App Store under developer accounts you own.",
         "Apps start at ₹40,000, with the final price set by screens and features. If your customers visit once and never return, a quick website with WhatsApp booking will do the job better, and we will recommend that. More on the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -137,10 +137,10 @@ const panna: CityContent = {
     },
     {
       id: "schools-clinics-traders-panna",
-      heading: "Software company in Panna for schools, hospitals, coaching and traders",
+      heading: "Software team in Panna for schools, hospitals, coaching and traders",
       paragraphs: [
         "As the district headquarters, Panna has schools, coaching centres, nursing homes, labs and wholesale traders serving a wide rural area. Their headaches are records and follow-up: fee dues, test results, stock levels, credit given to retailers, appointment queues. Registers and spreadsheets stop working once numbers grow.",
-        "As a <strong>software company in Panna</strong>, we build web apps shaped around how you already work. A school might get admissions, fee receipts, attendance and parent messages in one system. A clinic might get appointment booking and report download. A wholesaler might get billing, stock and credit tracking with reminders to shops that are overdue. Each system runs in a browser, works on phones, and keeps data in cloud storage you own.",
+        "As a <strong>software team in Panna</strong>, we build web apps shaped around how you already work. A school might get admissions, fee receipts, attendance and parent messages in one system. A clinic might get appointment booking and report download. A wholesaler might get billing, stock and credit tracking with reminders to shops that are overdue. Each system runs in a browser, works on phones, and keeps data in cloud storage you own.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks, built in stages so the most useful part goes live first. If a ready-made tool fits your need for a small monthly fee, we will tell you rather than build from scratch.",
       ],
     },
@@ -155,11 +155,11 @@ const panna: CityContent = {
     },
     {
       id: "remote-it-company-panna",
-      heading: "IT company in Panna without an office: how we work remotely",
+      heading: "IT services team in Panna without an office: how we work remotely",
       paragraphs: [
         "We have no office in Panna, Satna or Khajuraho. What protects you is the process. Scope, timeline and costs arrive in writing before work begins. Each stage appears on a preview link you can open on your phone, and nothing moves forward until you approve it.",
         "We reply on WhatsApp seven days a week in Indian time and use calls and screen shares whenever something needs explaining. You can send photographs, voice notes and documents in Hindi or English. For new photographs of rooms, safari vehicles or products, we suggest how to shoot them on your phone or recommend using a local photographer.",
-        "Choosing an <strong>IT company in Panna</strong> that works remotely changes where meetings happen, not who owns the result. The work belongs to you from the first day.",
+        "Choosing an <strong>IT services team in Panna</strong> that works remotely changes where meetings happen, not who owns the result. The work belongs to you from the first day.",
       ],
     },
     {
@@ -216,7 +216,7 @@ const panna: CityContent = {
         "A simple site is usually ready in one to two weeks after we receive photographs and details. Larger SEO sites take three to five weeks, stores four to eight, and custom software six to twelve. The fastest projects are those where the owner sends rates, timings and pictures in the first few days.",
     },
     {
-      question: "Who is the best website development company in Panna?",
+      question: "Who is the best website development team in Panna?",
       answer:
         "Pick the provider that publishes starting prices, registers the domain and code in your name, shows live work and still replies after launch. Put the same questions to each one and compare written quotes. We meet those standards and answer WhatsApp every day, but comparing two or three options first is wise.",
     },

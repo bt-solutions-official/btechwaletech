@@ -10,12 +10,12 @@ const vaniyambadi: CityContent = {
       "Websites, Android and iOS apps, export catalogues, local SEO and WhatsApp automation for Vaniyambadi leather exporters, biryani outlets, colleges and shops.",
     keywords: [
       "IT services in Vaniyambadi",
-      "IT company in Vaniyambadi",
-      "website development company in Vaniyambadi",
+      "IT services team in Vaniyambadi",
+      "website development team in Vaniyambadi",
       "web design in Vaniyambadi",
-      "app development company in Vaniyambadi",
+      "app development team in Vaniyambadi",
       "Android app development in Vaniyambadi",
-      "software company in Vaniyambadi",
+      "software team in Vaniyambadi",
       "SEO services in Vaniyambadi",
       "digital marketing in Vaniyambadi",
       "ecommerce website in Vaniyambadi",
@@ -68,25 +68,25 @@ const vaniyambadi: CityContent = {
       heading: "IT services in Vaniyambadi for a leather and trading town",
       paragraphs: [
         "Vaniyambadi is one of the four municipalities of Tirupathur district, formed when the district was split from Vellore in 2019. The town grew around the Palar and the road that is now NH 48, and it has long been linked with leather, education and trade. Buyers reach it from Ambur, Tirupattur, Jolarpettai, Alangayam and Natrampalli, and from Bengaluru and Chennai for leather and food.",
-        "When a business owner here asks for an IT company in Vaniyambadi, the need is usually concrete. A tannery wants its finishes and certificates presented properly to foreign buyers. A biryani outlet wants its Google listing fixed and a way to take parcel orders without a busy phone line. A college or school wants admissions pages that parents can read in Tamil. We handle each of these, and we will tell you when a small website is all you need.",
+        "When a business owner here asks for an IT services team in Vaniyambadi, the need is usually concrete. A tannery wants its finishes and certificates presented properly to foreign buyers. A biryani outlet wants its Google listing fixed and a way to take parcel orders without a busy phone line. A college or school wants admissions pages that parents can read in Tamil. We handle each of these, and we will tell you when a small website is all you need.",
         "Every project begins with your customers: where they are, which language they read, what they ask before placing an order and how they pay. That decides the pages, the language mix and whether anything beyond a website is worth building. It also stops you paying for features that nobody in your market will use.",
       ],
     },
     {
       id: "leather-export-websites",
-      heading: "Website development company in Vaniyambadi for tanneries and leather exporters",
+      heading: "Website development team in Vaniyambadi for tanneries and leather exporters",
       paragraphs: [
         "Vaniyambadi has more than 150 tanneries and two common effluent treatment plants, and its units export leather garments, gloves and shoe components, much of it to Europe and North America. A buyer's sourcing team usually checks a supplier online before replying to an email, and a thin website with stock photos can lose the enquiry at that stage.",
-        "As a website development company in Vaniyambadi, we build export sites that show what a sourcing manager actually looks for: leather types and finishes, thickness ranges, product categories, monthly capacity, sampling process, compliance and effluent treatment arrangements, and a clear enquiry form in English. Certificates are shown only if you hold them, with current validity. We never list a brand as a customer without written permission.",
+        "As a website development team in Vaniyambadi, we build export sites that show what a sourcing manager actually looks for: leather types and finishes, thickness ranges, product categories, monthly capacity, sampling process, compliance and effluent treatment arrangements, and a clear enquiry form in English. Certificates are shown only if you hold them, with current validity. We never list a brand as a customer without written permission.",
         "The site can carry separate pages for finished leather, garments, gloves and components, each with its own photographs and enquiry form so that requests reach the right person. For buyers who prefer another language, we can add a short German, French or Spanish summary page if you provide or approve the translation. A catalogue website of this kind usually starts at ₹10,000 for a small range and rises with the number of product pages and languages.",
       ],
     },
     {
       id: "tannery-software",
-      heading: "Software company in Vaniyambadi for tanning batches and export orders",
+      heading: "Software team in Vaniyambadi for tanning batches and export orders",
       paragraphs: [
         "A tannery's profit is decided by details that slip through a paper register: raw hides and skins bought per supplier, weight and grade, chemicals issued per batch, time in each process, finished area obtained, rejections and the buyer each lot is reserved for. Garment and glove units add cutting, stitching, checking and packing on top.",
-        "As a software company in Vaniyambadi, we build tools that record raw material inward, move each batch through soaking, tanning, dyeing and finishing, and log output and rejections at every stage. The owner sees yield per batch, pending orders by buyer and shipment dates from a phone, while supervisors enter data on a simple screen that works on an ordinary Android handset.",
+        "As a software team in Vaniyambadi, we build tools that record raw material inward, move each batch through soaking, tanning, dyeing and finishing, and log output and rejections at every stage. The owner sees yield per batch, pending orders by buyer and shipment dates from a phone, while supervisors enter data on a simple screen that works on an ordinary Android handset.",
         "Export order registers can hold the proforma, sample approvals, production status, inspection date and shipping documents for each order, so a buyer's question about status gets an answer in minutes. We start with the part that hurts most, usually batch tracking, and add the rest once staff are using it daily. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, with the data kept in your own account.",
       ],
     },
@@ -140,7 +140,7 @@ const vaniyambadi: CityContent = {
       heading: "Android app development in Vaniyambadi: who needs an app, and who doesn't",
       paragraphs: [
         "An app makes sense when the same people come back often. In Vaniyambadi that could be a biryani outlet with regular parcel customers, a leather goods wholesaler whose retailers reorder every month, a school that sends daily notices to parents, or a clinic group that manages repeat appointments. For them, an app on the phone's home screen is quicker than searching each time.",
-        "As an app development company in Vaniyambadi, we build Android and iOS apps with Flutter or React Native from one codebase. Typical features are OTP login, a product or menu list, orders or bookings, push notifications for offers and reminders, and an admin panel where your staff update prices and see orders. Apps are published on Google Play and the App Store under your own developer accounts.",
+        "As an app development team in Vaniyambadi, we build Android and iOS apps with Flutter or React Native from one codebase. Typical features are OTP login, a product or menu list, orders or bookings, push notifications for offers and reminders, and an admin panel where your staff update prices and see orders. Apps are published on Google Play and the App Store under your own developer accounts.",
         "Android and iOS apps start at ₹40,000. The final cost depends on features, payment integration, and how many user roles you need, such as customer, dealer and staff. Store review adds a few days before launch. If most of your visitors come once, for example tourists passing on the highway, a fast website with a WhatsApp button will do the job at a fraction of the cost, and we will say so. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -225,7 +225,7 @@ const vaniyambadi: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, with OTP login, product or menu lists, orders, push notifications and an admin panel. Apps start at ₹40,000 and are published on Google Play and the App Store under your own accounts. If customers rarely return, we will suggest a website first.",
     },
     {
-      question: "Which is the best IT company in Vaniyambadi for a small business?",
+      question: "Which is the best IT services team in Vaniyambadi for a small business?",
       answer:
         "Choose a provider who gives a written itemised quote, registers the domain and code in your name and keeps responding after launch. We do all three, publish our starting prices and include five months of free maintenance. We should be clear, though: we are a remote team, not an office in the town.",
     },

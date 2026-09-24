@@ -9,7 +9,7 @@ const kashipur: CityContent = {
     description:
       "Websites, Hindi SEO, vendor pages and WhatsApp tools for Kashipur factories, paper and chemical units, traders, schools and Corbett-route hotels. From ₹10,000.",
     keywords: [
-      "website development company in Kashipur",
+      "website development team in Kashipur",
       "web designer Kashipur Uttarakhand",
       "website design Kashipur",
       "SEO services Kashipur",
@@ -22,7 +22,7 @@ const kashipur: CityContent = {
       "school website Kashipur",
       "Kashipur mein website banwana",
       "website cost Kashipur",
-      "software company Kashipur",
+      "software team Kashipur",
       "website maintenance Kashipur",
       "freelance web developer Udham Singh Nagar",
     ],

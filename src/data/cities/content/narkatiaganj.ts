@@ -10,12 +10,12 @@ const narkatiaganj: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Narkatiaganj rice millers, cane suppliers, wholesalers, clinics and coaching centres.",
     keywords: [
       "IT services in Narkatiaganj",
-      "IT company in Narkatiaganj",
-      "website development company in Narkatiaganj",
+      "IT services team in Narkatiaganj",
+      "website development team in Narkatiaganj",
       "web design in Narkatiaganj",
-      "app development company in Narkatiaganj",
+      "app development team in Narkatiaganj",
       "Android app development in Narkatiaganj",
-      "software company in Narkatiaganj",
+      "software team in Narkatiaganj",
       "SEO services in Narkatiaganj",
       "digital marketing in Narkatiaganj",
       "ecommerce website in Narkatiaganj",
@@ -70,7 +70,7 @@ const narkatiaganj: CityContent = {
         "Narkatiaganj grew around its railway junction. Trains from Gorakhpur, Muzaffarpur and Raxaul meet here, and the town serves villages across Gaunaha, Mainatand, Lauriya and Ramnagar blocks as well as buyers who cross from the Nepal side. Grain, rice, sugarcane, cloth, hardware and medicines move through its markets, and a good share of the trade still runs on phone calls, paper slips and trust.",
         "What people ask us for under <strong>IT services in Narkatiaganj</strong> is usually practical. A rice trader wants a Hindi page with current varieties and a WhatsApp button. A doctor wants patients from Gaunaha to find the correct clinic on Google Maps. A coaching centre wants admissions enquiries collected in one list instead of scattered across three phones. A dealer wants to know which village owes how much.",
         "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Narkatiaganj or anywhere in Bihar, and we do not pretend otherwise. Calls, WhatsApp and screen sharing are how the work gets done, and every stage reaches you as a preview link you can open on your phone.",
-        "If you are comparing an <strong>IT company in Narkatiaganj</strong> or Bettiah with a remote team, ask each for the same three things: a written list of what is included, whose name the domain and hosting will be registered in, and what happens after launch. Our answers are on this page, and our starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
+        "If you are comparing an <strong>IT services team in Narkatiaganj</strong> or Bettiah with a remote team, ask each for the same three things: a written list of what is included, whose name the domain and hosting will be registered in, and what happens after launch. Our answers are on this page, and our starting prices are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
     },
     {
@@ -85,10 +85,10 @@ const narkatiaganj: CityContent = {
     },
     {
       id: "cane-sugar-mill-suppliers",
-      heading: "Software company in Narkatiaganj for cane growers, transporters and mill suppliers",
+      heading: "Software team in Narkatiaganj for cane growers, transporters and mill suppliers",
       paragraphs: [
         "The New Swadeshi Sugar Mills at Narkatiaganj, a unit of Magadh Sugar & Energy, draws cane from villages across the area, and Harinagar lies a short drive away in the same district. Around every crushing season a chain of small businesses depends on the mill: tractor and trolley owners, cane contractors, fertiliser and pesticide dealers, spare parts shops and workshops that keep vehicles running through the winter.",
-        "As a <strong>software company in Narkatiaganj</strong> clients can reach on WhatsApp, we build tools that fit this seasonal rhythm. A trip register records vehicle number, slip number, farmer, weight and rate once, and shows totals by vehicle, grower and date. A dealer ledger tracks credit given in sowing season against payments received after the mill clears dues. Reminders go out before insurance, fitness certificates or permits expire.",
+        "As a <strong>software team in Narkatiaganj</strong> clients can reach on WhatsApp, we build tools that fit this seasonal rhythm. A trip register records vehicle number, slip number, farmer, weight and rate once, and shows totals by vehicle, grower and date. A dealer ledger tracks credit given in sowing season against payments received after the mill clears dues. Reminders go out before insurance, fitness certificates or permits expire.",
         "These tools can be a web app opened on a laptop in the shop, with a light Android app for drivers or field staff who only need to enter trips. Custom software starts at ₹60,000 and typically takes six to twelve weeks. If the season is close, we can build the essential register first and add reports and alerts during the off-season, so nobody is learning a new system in the busiest week of the year.",
         "We do not connect to the mill's internal systems unless the mill itself provides access. Your records stay your own, exported to Excel whenever your accountant asks, and stored on hosting in your name.",
       ],
@@ -118,7 +118,7 @@ const narkatiaganj: CityContent = {
       heading: "Android app development in Narkatiaganj: when an app is worth it",
       paragraphs: [
         "Most small businesses in Narkatiaganj do not need an app on day one. A website and WhatsApp cover discovery and enquiries. An app earns its cost when the same people use it again and again: repeat buyers reordering rice or groceries, delivery staff logging drops in villages, students checking tests and notes, or a dealer's field agents recording orders from retailers across the blocks.",
-        "As an <strong>app development company in Narkatiaganj</strong> clients can reach on WhatsApp, we build Android and iOS apps with Flutter or React Native from a single codebase. Typical features include phone number login, product or service lists, order history, push notifications for offers or reminders, and an admin panel where you manage everything from a browser. Android matters most locally, but an iOS version helps when your buyers include families in metros or abroad.",
+        "As an <strong>app development team in Narkatiaganj</strong> clients can reach on WhatsApp, we build Android and iOS apps with Flutter or React Native from a single codebase. Typical features include phone number login, product or service lists, order history, push notifications for offers or reminders, and an admin panel where you manage everything from a browser. Android matters most locally, but an iOS version helps when your buyers include families in metros or abroad.",
         "Apps start at ₹40,000. A simple ordering or attendance app usually takes four to eight weeks, depending on screens and integrations. We publish on Google Play and the App Store under developer accounts registered in your name, so the app, its reviews and its downloads stay with your business.",
         "If you are unsure, start with the website. We design it so the same product data and admin panel can later feed an app, which means you are not paying twice for the same catalogue. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
@@ -175,9 +175,9 @@ const narkatiaganj: CityContent = {
     },
     {
       id: "remote-team-narkatiaganj",
-      heading: "Working with a remote website development company in Narkatiaganj",
+      heading: "Working with a remote website development team in Narkatiaganj",
       paragraphs: [
-        "Choosing a <strong>website development company in Narkatiaganj</strong> that has no local office can feel risky, so here is exactly how we work. We begin with a WhatsApp chat or a call where you explain the business. We send a written, itemised quote. Once you approve, we share a timeline and start. Progress arrives as preview links you can open on your own phone, and you tell us what to change.",
+        "Choosing a <strong>website development team in Narkatiaganj</strong> that has no local office can feel risky, so here is exactly how we work. We begin with a WhatsApp chat or a call where you explain the business. We send a written, itemised quote. Once you approve, we share a timeline and start. Progress arrives as preview links you can open on your own phone, and you tell us what to change.",
         "We reply on WhatsApp seven days a week during Indian working hours. Calls and screen shares can be set for evenings if the shop keeps you busy during the day. Content can be sent as voice notes in Hindi, photographs of your price list or visiting card, or pictures of the shop; we turn them into clean pages and show you before publishing.",
         "There is no need to visit anyone or hand over documents in person. Payments are made in stages against visible progress, and billing starts only after your written approval of the quote. If something is not working for you, you can stop, and everything built so far stays in your accounts.",
         "Remote work also means you are not paying for a city office. That saving is part of why our starting prices are lower than many local quotes for the same scope.",
@@ -224,7 +224,7 @@ const narkatiaganj: CityContent = {
         "With us a static website of up to 100 pages starts at ₹10,000 and is usually ready in one to two weeks. An SEO website of 700+ pages starts at ₹20,000, and an online store at ₹50,000. These are starting prices; your written quote lists each item and rises only with the features you choose.",
     },
     {
-      question: "Which is the best website development company in Narkatiaganj?",
+      question: "Which is the best website development team in Narkatiaganj?",
       answer:
         "The best choice is whoever gives you a clear written scope, registers the domain and hosting in your name and supports the site after launch. Compare local designers and remote teams on those points rather than on the lowest figure. We meet all three, and our starting prices and process are published openly.",
     },

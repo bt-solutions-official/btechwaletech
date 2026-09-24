@@ -12,8 +12,8 @@ const content: CityContent = {
       "Android app development Puri",
       "iOS app development Puri",
       "mobile app developers Puri",
-      "software development company in Puri",
-      "IT company in Puri",
+      "software development team in Puri",
+      "IT services team in Puri",
       "IT solutions Puri",
       "hotel booking software Puri",
       "custom software Puri Odisha",
@@ -24,13 +24,13 @@ const content: CityContent = {
       "dashboard development Puri",
       "web application development Puri",
       "IT services near Puri beach",
-      "software company near Grand Road Puri",
+      "software team near Grand Road Puri",
       "homestay booking website Konark",
       "cloud hosting setup Puri",
       "ecommerce for Raghurajpur pattachitra",
       "IT support Puri",
       "SEO for hotels in Puri",
-      "Puri re software company",
+      "Puri re software team",
       "ପୁରୀ ସଫ୍ଟୱେର କମ୍ପାନୀ",
     ],
   },
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT solutions · Puri, Odisha",
     h1: "Freelance software developers in Puri for hotels, pilgrim services and craft sellers",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Puri businesses that would otherwise look for a software development company in Puri. We build the software a pilgrim town actually runs on: room and tour booking engines, WhatsApp enquiry bots, staff and inventory dashboards, installable apps and fast, search-ready websites. You message the people writing the code, prices start low and are published, and five months of upkeep after launch cost nothing.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Puri businesses that would otherwise look for a software development team in Puri. We build the software a pilgrim town actually runs on: room and tour booking engines, WhatsApp enquiry bots, staff and inventory dashboards, installable apps and fast, search-ready websites. You message the people writing the code, prices start low and are published, and five months of upkeep after launch cost nothing.",
     pills: ["Booking engines", "WhatsApp enquiry bots", "Hotel dashboards", "Apps and PWAs", "Software from ₹60,000"],
   },
   quickAnswer:
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-puri",
-      heading: "Freelance software developers or a software development company in Puri: what gets built?",
+      heading: "Freelance software developers or a software development team in Puri: what gets built?",
       paragraphs: [
-        "Freelance software developers build the same tools a software development company in Puri would, the ones that sit behind your counter: the system that holds room availability, the form that takes an advance, the bot that answers 'is there parking?' at midnight and the report that tells you how Rath Yatra week went. In Puri, that work matters more than a brochure website, because most revenue arrives in short, crowded bursts and small mistakes during those bursts cost real money.",
+        "Freelance software developers build the same tools a software development team in Puri would, the ones that sit behind your counter: the system that holds room availability, the form that takes an advance, the bot that answers 'is there parking?' at midnight and the report that tells you how Rath Yatra week went. In Puri, that work matters more than a brochure website, because most revenue arrives in short, crowded bursts and small mistakes during those bursts cost real money.",
         "We are a <a href='/about/'>freelance group of three engineers</a> based in India and working remotely. We do not have a Puri office and we do not pretend to. What we offer instead is direct access to the developers, a written scope before any payment, and software you own outright. Our <a href='/services/'>full service list</a> covers web applications, automation, mobile-first apps, dashboards, hosting and search work.",
         "The typical starting point in Puri is not 'make me a website'. It is usually a problem like double-booked rooms, a register of advances kept in three notebooks, or a WhatsApp number that gets two hundred messages a day in December. We begin with that problem and choose the smallest build that fixes it.",
       ],
@@ -189,7 +189,7 @@ const content: CityContent = {
     },
     {
       id: "choose-it-partner-puri",
-      heading: "Freelance team or IT company in Puri: questions to ask before you pay",
+      heading: "Freelance team or IT services team in Puri: questions to ask before you pay",
       paragraphs: [
         "The best IT partner for a Puri business is one that explains the plan in plain words, puts the price in writing, hands you every login and answers during the season when you need them most. A nearby office is less important than those four things, because almost all software work happens online anyway.",
         "Before you pay anyone, ask who will actually write the code, whether the domain and hosting will be in your name, what happens if something breaks during Rath Yatra, and whether you can see similar live work. Ask for a staged payment plan tied to visible progress. If the answers are vague, keep looking.",

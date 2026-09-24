@@ -9,7 +9,7 @@ const patiala: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Patiala shops, clinics, institutes and Focal Point units. Sites from ₹10,000, itemised quotes, you own everything.",
     keywords: [
-      "website design company in Patiala",
+      "website design team in Patiala",
       "website development Patiala",
       "web designer Patiala",
       "freelance web developer Patiala",

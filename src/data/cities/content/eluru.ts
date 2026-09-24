@@ -9,7 +9,7 @@ const eluru: CityContent = {
     description:
       "Websites, Telugu and English SEO, stores and WhatsApp automation for Eluru aqua farms, carpet exporters, oil palm firms, hospitals and colleges. From ₹10,000.",
     keywords: [
-      "website development company in Eluru",
+      "website development team in Eluru",
       "web designer Eluru",
       "website design Eluru Andhra Pradesh",
       "SEO services Eluru",
@@ -19,7 +19,7 @@ const eluru: CityContent = {
       "carpet exporter website Eluru",
       "ecommerce website Eluru",
       "WhatsApp automation Eluru",
-      "software company Eluru",
+      "software team Eluru",
       "website cost in Eluru",
       "freelance web developer Eluru",
       "Eluru lo website design",

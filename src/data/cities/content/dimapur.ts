@@ -9,7 +9,7 @@ const dimapur: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Dimapur and Chümoukedima traders, wholesalers and schools. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Dimapur",
+      "website development team in Dimapur",
       "web design Dimapur",
       "website designer Nagaland",
       "SEO services Dimapur",

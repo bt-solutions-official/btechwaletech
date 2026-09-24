@@ -9,7 +9,7 @@ const vidisha: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Vidisha grain traders, Ganjbasoda stone firms, shops, clinics and schools. Sites from ₹10,000, remote team, free upkeep.",
     keywords: [
-      "website development company in Vidisha",
+      "website development team in Vidisha",
       "web design Vidisha",
       "website designer Vidisha",
       "SEO services Vidisha",

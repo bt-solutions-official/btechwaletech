@@ -10,12 +10,12 @@ const tiptur: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Tiptur copra traders, desiccated coconut units, garment firms, colleges and shops.",
     keywords: [
       "IT services in Tiptur",
-      "IT company in Tiptur",
-      "website development company in Tiptur",
+      "IT services team in Tiptur",
+      "website development team in Tiptur",
       "web design in Tiptur",
-      "app development company in Tiptur",
+      "app development team in Tiptur",
       "Android app development in Tiptur",
-      "software company in Tiptur",
+      "software team in Tiptur",
       "SEO services in Tiptur",
       "digital marketing in Tiptur",
       "ecommerce website in Tiptur",
@@ -74,19 +74,19 @@ const tiptur: CityContent = {
     },
     {
       id: "copra-apmc-traders",
-      heading: "Software company in Tiptur for copra commission agents and APMC traders",
+      heading: "Software team in Tiptur for copra commission agents and APMC traders",
       paragraphs: [
         "The Tiptur APMC yard holds copra auctions every Wednesday and Saturday. Growers from across the taluk and from neighbouring areas as far as Channarayapatna bring ball copra and cup copra, commission agents arrange the sale, and traders buy for oil mills, processors and markets in other states. On an auction day, a single agent can handle dozens of lots, each with its own weight, grade, bid and deductions.",
-        "As a <strong>software company in Tiptur</strong>, we build lot registers designed for that pressure. Each lot is logged once on a phone with grower name, village, copra type, bags, weight, grade and winning bid. The system calculates commission and deductions, keeps each grower's running account, lists payments due, and prints or sends a clean settlement slip. Buyers get their own statement of lots bought and dues.",
+        "As a <strong>software team in Tiptur</strong>, we build lot registers designed for that pressure. Each lot is logged once on a phone with grower name, village, copra type, bags, weight, grade and winning bid. The system calculates commission and deductions, keeps each grower's running account, lists payments due, and prints or sends a clean settlement slip. Buyers get their own statement of lots bought and dues.",
         "An auction-day summary can go to every grower on WhatsApp, which ends the stream of calls asking “what did my copra fetch?”. Such tools start at ₹60,000 and are delivered in phases over six to twelve weeks, with the lot register first because it touches every rupee. We can export entries to Tally so your accountant works from the same figures.",
       ],
     },
     {
       id: "desiccated-coconut-exporters",
-      heading: "Website development company in Tiptur for desiccated coconut units and exporters",
+      heading: "Website development team in Tiptur for desiccated coconut units and exporters",
       paragraphs: [
         "Tiptur and its surroundings have several units that turn copra into desiccated coconut powder, flakes and related products and sell them across India and abroad. Their customers are food manufacturers, bakeries, sweet makers and importers, and these buyers usually check a supplier's website before they ask for samples.",
-        "A <strong>website development company in Tiptur</strong> serving these processors should build for a purchase manager, not a casual shopper. That means product pages with grades, mesh sizes, fat and moisture specifications you can stand behind, packing formats and minimum order quantities; certifications you actually hold, such as FSSAI or export registration; photographs of the facility; and a sample request form that asks for destination, quantity and intended use.",
+        "A <strong>website development team in Tiptur</strong> serving these processors should build for a purchase manager, not a casual shopper. That means product pages with grades, mesh sizes, fat and moisture specifications you can stand behind, packing formats and minimum order quantities; certifications you actually hold, such as FSSAI or export registration; photographs of the facility; and a sample request form that asks for destination, quantity and intended use.",
         "We never list a buyer's name or logo without their written permission, and we do not invent certifications or capacities. For units targeting importers, an English site with clear specifications usually works better than a flashy one. A capability site of this kind begins at ₹10,000, while a larger catalogue with enquiry tracking may fall into the 700+ page SEO build from ₹20,000.",
       ],
     },
@@ -101,10 +101,10 @@ const tiptur: CityContent = {
     },
     {
       id: "garment-silk-units",
-      heading: "IT company in Tiptur for garment factories, silk firms and small manufacturers",
+      heading: "IT services team in Tiptur for garment factories, silk firms and small manufacturers",
       paragraphs: [
         "Beyond coconut, Tiptur has silk firms and garment factories that employ a large number of local workers. These units supply bigger manufacturers and brands, and depend on accurate records of orders, production, attendance and dispatch. Engineering workshops, packaging suppliers, transporters and electrical contractors serve them and the coconut units alike.",
-        "An <strong>IT company in Tiptur</strong> can help these firms with practical systems. A production tracker records pieces completed per line and per day. An attendance and wage sheet cuts errors at month end. A dispatch register links challans to buyer orders. For suppliers, a plain website listing services, machines and sectors served helps pass purchase department checks.",
+        "An <strong>IT services team in Tiptur</strong> can help these firms with practical systems. A production tracker records pieces completed per line and per day. An attendance and wage sheet cuts errors at month end. A dispatch register links challans to buyer orders. For suppliers, a plain website listing services, machines and sectors served helps pass purchase department checks.",
         "We start with whichever record costs the most time or money, often attendance or dispatch, and keep the first version simple enough that supervisors actually use it. Custom tools begin at ₹60,000. Where a firm only needs to look credible to buyers, a static website from ₹10,000 does the job without any software at all.",
       ],
     },
@@ -131,7 +131,7 @@ const tiptur: CityContent = {
       heading: "Android app development in Tiptur, plus iOS apps from one codebase",
       paragraphs: [
         "An app pays for itself when a known group of people opens it many times a week. In Tiptur, that includes copra growers checking their lot results and settlement after each auction, a college's students getting timetables, results and notices, a hospital's patients booking tokens and downloading reports, a distributor's retailers reordering stock, and a school's parents following homework and fees.",
-        "As an <strong>app development company in Tiptur</strong> that works at a distance, we build with Flutter or React Native, so the same code produces an Android app and an iPhone app. The first release normally has login by mobile OTP, push alerts, the handful of screens that matter, and a web panel your staff use to update content. The app goes live on Google Play and the Apple App Store through developer accounts owned by you.",
+        "As an <strong>app development team in Tiptur</strong> that works at a distance, we build with Flutter or React Native, so the same code produces an Android app and an iPhone app. The first release normally has login by mobile OTP, push alerts, the handful of screens that matter, and a web panel your staff use to update content. The app goes live on Google Play and the Apple App Store through developer accounts owned by you.",
         "<strong>Android app development in Tiptur</strong> starts at ₹40,000. Extras such as in-app UPI payment, offline entry for groves with weak coverage, maps, and a link to your trading software are each priced on a separate line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the stages.",
         "If your customers only look you up for a phone number and address now and then, skip the app. A website at a quarter of the price covers that need, and we would sooner tell you so than build something that goes unused.",
       ],
@@ -223,7 +223,7 @@ const tiptur: CityContent = {
         "Plan on one to two weeks for a basic site from the day we have your text and photographs. A large SEO site needs three to five weeks, a store four to eight, and trading or production software six to twelve. Waiting for content is the usual cause of delay, so gather it early.",
     },
     {
-      question: "Which is the best website development company in Tiptur?",
+      question: "Which is the best website development team in Tiptur?",
       answer:
         "The right choice publishes its prices, puts the domain and code in your name, answers months after launch and can show sites that are live. Put the same questions to every option. We meet those tests and reply on WhatsApp daily, yet speaking to two or three providers first is still wise.",
     },

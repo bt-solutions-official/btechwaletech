@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Hire freelance web developers in Mumbai for web applications, B2B portals, SaaS, ecommerce, APIs and CMS sites. Sites from ₹10,000, web apps from ₹60,000.",
     keywords: [
-      "web development company in Mumbai",
+      "web development team in Mumbai",
       "freelance web developers Mumbai",
       "hire web developer Mumbai",
       "web application development Mumbai",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-web-developers-vs-web-development-company-mumbai",
-      heading: "Should you hire freelance web developers or a web development company in Mumbai?",
+      heading: "Should you hire freelance web developers or a web development team in Mumbai?",
       paragraphs: [
-        "Hire freelance web developers in Mumbai when you want the builders themselves on your project, a lean budget and quick decisions; hire a web development company when you need large teams, formal vendor onboarding and on-site presence. If you are comparing web development companies in Mumbai, ask each one who will write your code and whether you can speak with that person directly.",
-        "BtechWaleTech is a freelance group of three engineers rather than an agency. We cannot staff a twenty-person programme, and we do not visit offices. For small and mid-sized Mumbai projects, however, three experienced developers who own the whole stack usually deliver faster than larger teams with several handoffs.",
+        "Hire freelance web developers in Mumbai when you want the builders themselves on your project, a lean budget and quick decisions; hire a web development team when you need large teams, formal vendor onboarding and on-site presence. If you are comparing web development companies in Mumbai, ask each one who will write your code and whether you can speak with that person directly.",
+        "BtechWaleTech is a small freelance group of three engineers. We cannot staff a twenty-person programme, and we do not visit offices. For small and mid-sized Mumbai projects, however, three experienced developers who own the whole stack usually deliver faster than larger teams with several handoffs.",
         "Solo freelancers carry continuity risk. Our group reduces it: more than one of us knows each codebase, everything lives in your repositories and cloud accounts, and documentation is part of every delivery.",
       ],
     },
@@ -294,9 +294,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a web development company in Mumbai?",
+      question: "Is BtechWaleTech a web development team in Mumbai?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers, not a company, and we have no Mumbai office. We work remotely from India and serve Mumbai clients via video calls, WhatsApp and phone, seven days a week, sharing weekly progress on a live preview link.",
+        "No. BtechWaleTech is a freelance group of three engineers, and we have no Mumbai office. We work remotely from India and serve Mumbai clients via video calls, WhatsApp and phone, seven days a week, sharing weekly progress on a live preview link.",
     },
     {
       question: "How much does a website cost in Mumbai?",

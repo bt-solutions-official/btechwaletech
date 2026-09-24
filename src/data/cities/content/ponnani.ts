@@ -10,12 +10,12 @@ const ponnani: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Ponnani fish traders, boat owners, Gulf-linked shops, madrasas and clinics.",
     keywords: [
       "IT services in Ponnani",
-      "IT company in Ponnani",
-      "website development company in Ponnani",
+      "IT services team in Ponnani",
+      "website development team in Ponnani",
       "web design in Ponnani",
-      "app development company in Ponnani",
+      "app development team in Ponnani",
       "Android app development in Ponnani",
-      "software company in Ponnani",
+      "software team in Ponnani",
       "SEO services in Ponnani",
       "digital marketing in Ponnani",
       "ecommerce website in Ponnani",
@@ -75,20 +75,20 @@ const ponnani: CityContent = {
     },
     {
       id: "fishing-harbour-software",
-      heading: "Software company in Ponnani for the fishing harbour and fish trade",
+      heading: "Software team in Ponnani for the fishing harbour and fish trade",
       paragraphs: [
         "Ponnani is one of the main fishing centres on the Kerala coast. Boats land their catch at the fishing harbour on the estuary, where auctioneers, commission agents, wholesale buyers, exporters' agents, ice suppliers, truck operators and retail vendors all do business in a few busy hours. Money changes hands quickly, often on credit, and the records are frequently kept in notebooks and memory.",
-        "As a <strong>software company in Ponnani</strong> for this trade, we build simple web tools that match how the harbour works. An auctioneer or agent records each lot by boat, species, weight or basket count, buyer and rate, from a phone. The system then calculates commission, pending amounts from each buyer, payments due to each boat, and daily totals, and can send statements on WhatsApp in Malayalam.",
+        "As a <strong>software team in Ponnani</strong> for this trade, we build simple web tools that match how the harbour works. An auctioneer or agent records each lot by boat, species, weight or basket count, buyer and rate, from a phone. The system then calculates commission, pending amounts from each buyer, payments due to each boat, and daily totals, and can send statements on WhatsApp in Malayalam.",
         "For boat owners, the key problem is trip accounts. Every trip has diesel, ice, food and other costs, and the net is divided among owner and crew according to agreed shares. A trip register that records costs and sale proceeds and calculates each person's share removes a common source of dispute and gives the owner a clear picture across the season, including the monsoon ban period.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We design for phones first, because nobody at the harbour is sitting at a desktop, and we keep screens large and simple enough to use with wet hands. See our <a href=\"/services/web-development/\">web development page</a> for how we work.",
       ],
     },
     {
       id: "retail-gulf-families-ponnani",
-      heading: "Website development company in Ponnani for textile, jewellery and retail shops",
+      heading: "Website development team in Ponnani for textile, jewellery and retail shops",
       paragraphs: [
         "Ponnani and the nearby towns of Edappal and Changaramkulam have a large number of textile, jewellery, footwear, electronics, furniture and bakery shops. Many families in the area have members working in the Gulf, and shopping peaks around weddings, Eid, Onam and the months when people come home on leave. Customers often decide which shop to visit after checking on their phones or asking relatives abroad.",
-        "A <strong>website development company in Ponnani</strong> can give these shops a clear and trustworthy presence. A good retail site shows real photographs of the shop and its range, categories and price bands, opening hours including Friday prayer breaks, parking and directions, and a WhatsApp button for quick questions. Wedding and bulk-purchase pages help families plan a visit and ask for items to be kept aside.",
+        "A <strong>website development team in Ponnani</strong> can give these shops a clear and trustworthy presence. A good retail site shows real photographs of the shop and its range, categories and price bands, opening hours including Friday prayer breaks, parking and directions, and a WhatsApp button for quick questions. Wedding and bulk-purchase pages help families plan a visit and ask for items to be kept aside.",
         "For shops with a strong Gulf customer base, we add features that suit buyers abroad: prices shown clearly in rupees, the option to pay online for something a relative will collect in Ponnani, and clear delivery information within Kerala.",
         "A catalogue website starts at ₹10,000 and is ready in one to two weeks. It can be upgraded into a full store later without starting again. We write copy in Malayalam and English and check every Malayalam line with you before publishing.",
       ],
@@ -138,7 +138,7 @@ const ponnani: CityContent = {
       heading: "Android app development in Ponnani, and iOS apps for local businesses",
       paragraphs: [
         "Some Ponnani businesses genuinely need an app. A boat owner or agent can use one to log each trip's catch, costs and crew shares from the harbour. A madrasa or school can send notices, attendance and fee reminders to parents, including those abroad. A bakery or fish seller can take repeat orders from regular customers. A hospital can issue tokens so patients wait at home instead of in a crowded corridor.",
-        "As an <strong>app development company in Ponnani</strong> working remotely, we build in Flutter or React Native, so the same code runs on Android phones and iPhones. A first version usually includes OTP login, push notifications, the main screens for your users and an admin panel for your staff. Malayalam and English are both supported, and parents in the Gulf can use the app exactly as local ones do.",
+        "As an <strong>app development team in Ponnani</strong> working remotely, we build in Flutter or React Native, so the same code runs on Android phones and iPhones. A first version usually includes OTP login, push notifications, the main screens for your users and an admin panel for your staff. Malayalam and English are both supported, and parents in the Gulf can use the app exactly as local ones do.",
         "<strong>Android app development in Ponnani</strong> with us starts at ₹40,000. Online payments, offline entry for areas with weak signal, maps, several user roles and links to billing software add to that, and each appears on the quote. We publish on Google Play and the Apple App Store under developer accounts registered to you. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When customers only need your address, timings, a price list and a quick way to message you, a website and a proper map listing are enough and cost a fraction of an app. We suggest that option whenever it fits.",
       ],
@@ -165,9 +165,9 @@ const ponnani: CityContent = {
     },
     {
       id: "remote-team-ponnani",
-      heading: "Working with us as your remote IT company in Ponnani",
+      heading: "Working with us as your remote IT services team in Ponnani",
       paragraphs: [
-        "Anyone looking for an <strong>IT company in Ponnani</strong> should know from the start that we are not based there. What we offer instead is a clear written process. After a first call about your business and goals, you receive a list of pages or app screens, a timeline and an itemised quote. Once you approve, preview links let you check progress on your own phone and share it with partners in Ponnani or relatives abroad.",
+        "Anyone looking for an <strong>IT services team in Ponnani</strong> should know from the start that we are not based there. What we offer instead is a clear written process. After a first call about your business and goals, you receive a list of pages or app screens, a timeline and an itemised quote. Once you approve, preview links let you check progress on your own phone and share it with partners in Ponnani or relatives abroad.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time, which also suits clients in the Gulf. Malayalam content always comes to you for approval before it goes live. If a problem or delay appears, we tell you straight away rather than on the delivery date.",
         "Payment is staged against work you have seen, and nothing is billed before your written approval of the quote. If you would like to test us with something small first, such as correcting a map listing, that is a sensible way to begin.",
       ],
@@ -232,7 +232,7 @@ const ponnani: CityContent = {
         "Once we have your text and photos, a static site normally goes live in one to two weeks. A 700+ page SEO site needs three to five weeks, a store four to eight weeks and custom software six to twelve weeks. Content that is ready early makes the biggest difference.",
     },
     {
-      question: "Which is the best website development company in Ponnani?",
+      question: "Which is the best website development team in Ponnani?",
       answer:
         "Judge any provider by whether it shows prices openly, registers your domain and code in your name, responds after launch and can point to real work. Put the same questions to each. We pass those checks and answer WhatsApp every day, but comparing two or three quotes is still a good idea.",
     },

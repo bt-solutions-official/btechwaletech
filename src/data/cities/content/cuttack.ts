@@ -9,7 +9,7 @@ const cuttack: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Cuttack traders, clinics and filigree makers. Published prices from ₹10,000, code and domain yours.",
     keywords: [
-      "website development company in Cuttack",
+      "website development team in Cuttack",
       "web design Cuttack",
       "website designer Cuttack",
       "freelance web developer Cuttack",

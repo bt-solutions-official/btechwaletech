@@ -9,7 +9,7 @@ const barmer: CityContent = {
     description:
       "Websites, Google Maps setup, craft stores and WhatsApp automation for Barmer's oilfield contractors, handicraft sellers, traders, clinics and coaching centres.",
     keywords: [
-      "website development company in Barmer",
+      "website development team in Barmer",
       "web designer Barmer Rajasthan",
       "website design Barmer",
       "oilfield contractor website Barmer",

@@ -10,12 +10,12 @@ const ashokNagar: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Ashok Nagar grain traders, Chanderi weavers, clinics, schools and shops.",
     keywords: [
       "IT services in Ashok Nagar",
-      "IT company in Ashok Nagar",
-      "website development company in Ashok Nagar",
+      "IT services team in Ashok Nagar",
+      "website development team in Ashok Nagar",
       "web design in Ashok Nagar",
-      "app development company in Ashok Nagar",
+      "app development team in Ashok Nagar",
       "Android app development in Ashok Nagar",
-      "software company in Ashok Nagar",
+      "software team in Ashok Nagar",
       "SEO services in Ashok Nagar",
       "digital marketing in Ashok Nagar",
       "ecommerce website in Ashok Nagar",
@@ -75,11 +75,11 @@ const ashokNagar: CityContent = {
     },
     {
       id: "grain-mandi-software",
-      heading: "Software company in Ashok Nagar for the grain mandi and commission agents",
+      heading: "Software team in Ashok Nagar for the grain mandi and commission agents",
       paragraphs: [
         "The Ashok Nagar Krishi Upaj Mandi is the heart of the local economy, and its name is tied to sharbati wheat, the golden, slightly sweet grain that flour brands across India advertise. Around the mandi work arhatiyas, brokers, graders, cleaning and packing units, hammals, transporters and warehouse owners, each with their own paper trail.",
         "A typical agent keeps track of which farmer brought how many bags, the moisture and quality notes, the rate, the buyer each lot went to, the truck number, freight advanced, and when the buyer's payment will arrive. Most of this still lives in registers and phone photos. During peak arrivals after the rabi harvest, mistakes creep in and follow-up calls take hours.",
-        "As a <strong>software company in Ashok Nagar</strong> in the practical sense, we build small web tools for exactly this: lot entry from a phone, farmer and buyer ledgers, dispatch slips, outstanding payments by buyer, and a WhatsApp message to the buyer when a truck leaves. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually deliver the lot and dispatch register first, since that saves time in the very first season.",
+        "As a <strong>software team in Ashok Nagar</strong> in the practical sense, we build small web tools for exactly this: lot entry from a phone, farmer and buyer ledgers, dispatch slips, outstanding payments by buyer, and a WhatsApp message to the buyer when a truck leaves. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually deliver the lot and dispatch register first, since that saves time in the very first season.",
         "We do not replace mandi board systems or official e-trading records. Our tools sit alongside them and keep your own firm's accounts clear.",
       ],
     },
@@ -105,10 +105,10 @@ const ashokNagar: CityContent = {
     },
     {
       id: "trade-shops-website-development",
-      heading: "Website development company in Ashok Nagar for shops, dealers and showrooms",
+      heading: "Website development team in Ashok Nagar for shops, dealers and showrooms",
       paragraphs: [
         "Ashok Nagar's shops serve customers from the whole district. Families from Isagarh, Shadora, Piprai and Bahadurpur come in for gold and silver, wedding clothes, furniture, mobile phones, two-wheelers and tractors. Before they travel, more of them now check prices, stock and timings on their phones.",
-        "A <strong>website development company in Ashok Nagar</strong> should build pages that answer those questions: what you sell, brands you stock, current offers, finance options where relevant, opening hours, parking, a map and a WhatsApp link for price checks. For seed, fertiliser and pesticide dealers, a page per crop season with product names and usage advice brings useful traffic from farmers.",
+        "A <strong>website development team in Ashok Nagar</strong> should build pages that answer those questions: what you sell, brands you stock, current offers, finance options where relevant, opening hours, parking, a map and a WhatsApp link for price checks. For seed, fertiliser and pesticide dealers, a page per crop season with product names and usage advice brings useful traffic from farmers.",
         "We write in Hindi first with English alongside, because that is how customers search here, and we keep pages light so they open on basic phones with a weak signal. Photographs you take yourself of the actual shop and staff work better than stock images.",
         "Our <a href=\"/services/web-development/\">web development</a> work covers everything from a five-page site for a single shop to a larger site for a dealer network with branch pages across the district.",
       ],
@@ -118,7 +118,7 @@ const ashokNagar: CityContent = {
       heading: "Android app development in Ashok Nagar, plus iOS apps for local firms",
       paragraphs: [
         "An app makes sense when a fixed group of people opens it again and again. In Ashok Nagar that might be regular grain buyers checking today's lots and rates from an agent, school parents receiving homework, fee reminders and bus timings, patients booking tokens at a busy hospital, or village retailers re-ordering seed and fertiliser from a dealer.",
-        "As an <strong>app development company in Ashok Nagar</strong> that works remotely, we use Flutter or React Native so one codebase runs on both Android phones and iPhones. A first version normally includes mobile number login with OTP, push notifications, the main screens your users need, and an admin panel your staff can use from a computer. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Ashok Nagar</strong> that works remotely, we use Flutter or React Native so one codebase runs on both Android phones and iPhones. A first version normally includes mobile number login with OTP, push notifications, the main screens your users need, and an admin panel your staff can use from a computer. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Ashok Nagar</strong> with us starts at ₹40,000. The price rises with online payments, offline mode for villages with poor coverage, maps, invoice printing or links to existing software, and each of these is listed separately in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many local businesses do not need an app at all. If customers only want your address, phone number and a price list, a website does the job at a quarter of the cost, and we will say so. An app nobody opens after the first week is money wasted.",
       ],
@@ -164,9 +164,9 @@ const ashokNagar: CityContent = {
     },
     {
       id: "remote-team-ashok-nagar",
-      heading: "IT company in Ashok Nagar terms, delivered by a remote team",
+      heading: "IT services team in Ashok Nagar terms, delivered by a remote team",
       paragraphs: [
-        "People searching for an <strong>IT company in Ashok Nagar</strong> often expect to walk into an office. We do not have one here, and we say so at the start. What you get instead is direct contact with the three people doing the work, and a written record of every decision.",
+        "People searching for an <strong>IT services team in Ashok Nagar</strong> often expect to walk into an office. We do not have one here, and we say so at the start. What you get instead is direct contact with the three people doing the work, and a written record of every decision.",
         "The process is simple. A first call covers your business, your customers and what you want the website or app to do. You then receive a page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links you can open on your own phone and show to family members or partners before anything goes live. Hindi text is always sent to you for checking.",
         "We answer WhatsApp every day of the week, including Sundays, on Indian Standard Time. If a delay comes up, we tell you when we know, not on the delivery date. Payments are tied to visible progress, and nothing is billed before your written approval. You can reach us any time through our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -231,7 +231,7 @@ const ashokNagar: CityContent = {
         "A static website is usually live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Ashok Nagar?",
+      question: "Which is the best website development team in Ashok Nagar?",
       answer:
         "Pick a provider that shows starting prices openly, puts the domain and code in your name, answers after launch and can show real work. Ask every option the same questions. We meet those tests and reply on WhatsApp seven days a week, but it is sensible to compare two or three before deciding.",
     },

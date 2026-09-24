@@ -10,12 +10,12 @@ const rudauli: CityContent = {
       "Hindi and Urdu websites, Android and iOS apps, local SEO and WhatsApp automation for Rudauli traders, gur makers, clinics, colleges and highway businesses.",
     keywords: [
       "IT services in Rudauli",
-      "IT company in Rudauli",
-      "website development company in Rudauli",
+      "IT services team in Rudauli",
+      "website development team in Rudauli",
       "web design in Rudauli",
-      "app development company in Rudauli",
+      "app development team in Rudauli",
       "Android app development in Rudauli",
-      "software company in Rudauli",
+      "software team in Rudauli",
       "SEO services in Rudauli",
       "digital marketing in Rudauli",
       "ecommerce website in Rudauli",
@@ -69,7 +69,7 @@ const rudauli: CityContent = {
       paragraphs: [
         "Rudauli sits on the old Awadh road almost midway between Lucknow and Ayodhya. It is a tehsil town of about 43,000 people that for centuries was better known for its Sufi shrine and its Urdu poets than for trade. Today it is also the place where a wide belt of villages in the western part of Ayodhya district comes to shop, study and see a doctor, and the highway past Bhelsar carries pilgrims and freight day and night.",
         "The enquiries we get for <strong>IT services in Rudauli</strong> are down to earth. A cloth merchant wants his shop to appear when someone in Mawai searches for bridal suits. A clinic wants patients to stop phoning just to ask about OPD timing. A gur trader wants buyers in Lucknow and Kanpur to see his rates without a call. A college wants its admission form online before the session opens. None of this needs a large agency; it needs someone who listens first and then builds the right small thing.",
-        "We are three engineers who work remotely. Ankur Kumar builds websites and web applications from database to screen, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs projects and builds automation and data-science pieces. If you were looking for an <strong>IT company in Rudauli</strong> with a counter you can walk up to, we are not that, and we say so openly. There is no office here or in Ayodhya; there are written plans, lower starting prices and replies seven days a week.",
+        "We are three engineers who work remotely. Ankur Kumar builds websites and web applications from database to screen, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs projects and builds automation and data-science pieces. If you were looking for an <strong>IT services team in Rudauli</strong> with a counter you can walk up to, we are not that, and we say so openly. There is no office here or in Ayodhya; there are written plans, lower starting prices and replies seven days a week.",
         "Language shapes every project in this town. Hindi and Urdu are both official, and Awadhi is what people speak at home. We build in Hindi first, add Urdu where your customers read it, and keep English for course names, medical terms and anything a buyer in a big city might type.",
       ],
     },
@@ -95,10 +95,10 @@ const rudauli: CityContent = {
     },
     {
       id: "farm-inputs-software-rudauli",
-      heading: "Software company in Rudauli for farm input dealers, mint growers and commission agents",
+      heading: "Software team in Rudauli for farm input dealers, mint growers and commission agents",
       paragraphs: [
         "Rudauli belonged to Barabanki district until its tehsil was merged into Faizabad, now Ayodhya, and the farming ties to the west are still close. Barabanki is known nationally for menthol mint, grown in the lean months between the rabi harvest and the monsoon. Mint, cane, paddy and wheat together keep a large network of seed, fertiliser, pesticide and pump-set dealers busy across the area.",
-        "These businesses run on credit. A dealer may carry hundreds of farmers in his ledger, each paying back after the harvest, and the notebook that holds those accounts is the most valuable thing in the shop. As a <strong>software company in Rudauli</strong> in the practical sense, we build simple web tools to replace that notebook: customer accounts with phone number and village, goods sold on credit, part payments, and a morning list of who is due this week.",
+        "These businesses run on credit. A dealer may carry hundreds of farmers in his ledger, each paying back after the harvest, and the notebook that holds those accounts is the most valuable thing in the shop. As a <strong>software team in Rudauli</strong> in the practical sense, we build simple web tools to replace that notebook: customer accounts with phone number and village, goods sold on credit, part payments, and a morning list of who is due this week.",
         "Useful additions include stock with batch numbers and expiry dates for pesticides, GST bills printed from a phone, and an automatic Hindi WhatsApp reminder a few days before a farmer's due date. For commission agents dealing in grain, a purchase register with weights, deductions and rates cuts down arguments at settlement time.",
         "Custom tools start at ₹60,000 and are built in stages over six to twelve weeks. The credit ledger usually comes first because it proves its worth within one season. More about how we scope this work is on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -115,10 +115,10 @@ const rudauli: CityContent = {
     },
     {
       id: "events-hospitality-rudauli",
-      heading: "Website development company in Rudauli for caterers, marriage lawns and urs visitors",
+      heading: "Website development team in Rudauli for caterers, marriage lawns and urs visitors",
       paragraphs: [
         "The dargah of Makhdoom Shaikh Ahmad Abdul Haq, the fourteenth-century saint of the Chishti Sabri order, stands on Dargah Road in the Makhdoomzada area. His annual urs brings qawwali gatherings and a large fair that draws people of every faith from the surrounding villages and towns, and those days bring extra trade for lodges, eateries, transporters and stall-holders.",
-        "Weddings are the other big season. Marriage lawns, caterers, tent houses, decorators, photographers and bridal wear shops in Rudauli serve families from dozens of villages, and most bookings still travel by word of mouth. A <strong>website development company in Rudauli</strong> can make that word of mouth easier to act on: a gallery of real events, hall capacity and parking, menu options split into vegetarian and non-vegetarian, a calendar of booked dates, and a form that sends every enquiry straight to your WhatsApp.",
+        "Weddings are the other big season. Marriage lawns, caterers, tent houses, decorators, photographers and bridal wear shops in Rudauli serve families from dozens of villages, and most bookings still travel by word of mouth. A <strong>website development team in Rudauli</strong> can make that word of mouth easier to act on: a gallery of real events, hall capacity and parking, menu options split into vegetarian and non-vegetarian, a calendar of booked dates, and a form that sends every enquiry straight to your WhatsApp.",
         "We keep these sites respectful and accurate. If your business stands near the dargah, we describe the location and timings plainly and do not turn a place of worship into advertising. Photographs are yours or used with permission, and guest faces are shown only when the family agrees.",
         "A static site for a venue or caterer starts at ₹10,000. A booking calendar that takes an advance by UPI can be added when you are ready, and it is quoted as a separate line.",
       ],
@@ -146,7 +146,7 @@ const rudauli: CityContent = {
       heading: "Android app development in Rudauli: who needs an app and who does not",
       paragraphs: [
         "An app earns its place on a phone only when the same person opens it again and again. In Rudauli the realistic candidates are a school or coaching centre sending homework, attendance and fee reminders to parents; a wholesaler whose shopkeeper customers reorder every week; a dealer whose field staff collect payments in villages; a clinic with repeat patients who want a token number; or a transporter tracking trips and diesel.",
-        "As an <strong>app development company in Rudauli</strong> that works remotely, we write one codebase in Flutter or React Native that runs on both Android phones and iPhones. A typical first release has OTP login, the handful of screens your users need most, push notifications for orders or notices, and a web admin panel where your staff add products or send messages. We publish it on Google Play and the Apple App Store through developer accounts registered in your name, so the listing is yours.",
+        "As an <strong>app development team in Rudauli</strong> that works remotely, we write one codebase in Flutter or React Native that runs on both Android phones and iPhones. A typical first release has OTP login, the handful of screens your users need most, push notifications for orders or notices, and a web admin panel where your staff add products or send messages. We publish it on Google Play and the Apple App Store through developer accounts registered in your name, so the listing is yours.",
         "<strong>Android app development in Rudauli</strong> with us starts at ₹40,000. The figure rises with in-app payments, offline mode for weak-signal villages, Hindi and Urdu screens, maps or delivery tracking, and each of those appears as its own line in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When your customers only need your address, timings, phone number and a price list, skip the app. A website with a proper Google listing covers that for far less money and asks nobody to install anything. We will say this plainly, since an app that lies unopened after its first week helps no one.",
       ],
@@ -257,7 +257,7 @@ const rudauli: CityContent = {
         "A simple shop website is usually live in one to two weeks after you send photos, timings and product details. A 700+ page SEO website takes three to five weeks, an online store four to eight, and custom software six to twelve. Most delays come from waiting for content, so sending your photos and price list early is the quickest route to launch.",
     },
     {
-      question: "Which is the best IT company in Rudauli?",
+      question: "Which is the best IT services team in Rudauli?",
       answer:
         "The right choice is whoever shows real work, puts prices in writing, registers the domain and code in your name, and still answers after launch. Ask every option the same questions and compare the replies side by side. We meet those tests and reply on WhatsApp seven days a week, but we would rather you compare two or three providers than choose anyone blindly.",
     },

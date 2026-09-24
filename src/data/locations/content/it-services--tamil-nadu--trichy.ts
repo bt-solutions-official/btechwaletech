@@ -9,13 +9,13 @@ const content: CityContent = {
     description:
       "Freelance software developers for Tiruchirappalli (Trichy): vendor portals, institution ERPs, AI agents, apps and SEO. Web apps from ₹60,000, quote in 2 days.",
     keywords: [
-      "software development company in Tiruchirappalli",
+      "software development team in Tiruchirappalli",
       "Android app development Trichy",
       "iOS app development Tiruchirappalli",
       "mobile app developers Tiruchirappalli",
-      "IT company in Tiruchirappalli",
+      "IT services team in Tiruchirappalli",
       "IT solutions Tiruchirappalli",
-      "software company in Trichy",
+      "software team in Trichy",
       "freelance software developer Trichy",
       "custom software development Trichy",
       "fabrication job tracking software Trichy",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "IT services · Tiruchirappalli, Tamil Nadu",
     h1: "Freelance software developers for Tiruchirappalli's fabricators, institutions and service businesses",
     lede:
-      "Freelance software developers for Tiruchirappalli, working as a group of three remote engineers under the BtechWaleTech name. We build vendor job-tracking systems for the fabrication units around BHEL, admission and fee software for Trichy's schools and colleges, WhatsApp AI agents, dashboards, mobile apps and the websites that bring in enquiries. If you were about to hire a software development company in Tiruchirappalli, compare us first: prices are public and five months of maintenance come free.",
+      "Freelance software developers for Tiruchirappalli, working as a group of three remote engineers under the BtechWaleTech name. We build vendor job-tracking systems for the fabrication units around BHEL, admission and fee software for Trichy's schools and colleges, WhatsApp AI agents, dashboards, mobile apps and the websites that bring in enquiries. If you were about to hire a software development team in Tiruchirappalli, compare us first: prices are public and five months of maintenance come free.",
     pills: ["Fabrication job tracking", "School and college ERPs", "Lead forms that reach a CRM", "Tamil and English screens", "Code in your name"],
   },
   quickAnswer:
@@ -173,7 +173,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-trichy",
-      heading: "Freelance software developers vs a software development company in Tiruchirappalli",
+      heading: "Freelance software developers vs a software development team in Tiruchirappalli",
       paragraphs: [
         "Freelance software developers suit Tiruchirappalli businesses that want direct contact with the people coding, lower overheads and a focused scope, while a larger software development company in Tiruchirappalli suits projects needing big on-site teams or formal enterprise procurement. Neither is automatically better; the right choice depends on project size and how you prefer to work.",
         "BtechWaleTech is a freelance group of three engineers with no office in Trichy. You talk directly to us on WhatsApp and video calls, and the engineer who scoped the work builds it. We do not have account managers, sales teams or a large bench, which is why starting prices stay lower. The trade-off is capacity: we take on a limited number of projects at once.",

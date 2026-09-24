@@ -10,12 +10,12 @@ const fazilka: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Fazilka kinnow growers, cotton traders, jutti makers, clinics, schools and shops.",
     keywords: [
       "IT services in Fazilka",
-      "IT company in Fazilka",
-      "website development company in Fazilka",
+      "IT services team in Fazilka",
+      "website development team in Fazilka",
       "web design in Fazilka",
-      "app development company in Fazilka",
+      "app development team in Fazilka",
       "Android app development in Fazilka",
-      "software company in Fazilka",
+      "software team in Fazilka",
       "SEO services in Fazilka",
       "digital marketing in Fazilka",
       "ecommerce website in Fazilka",
@@ -74,10 +74,10 @@ const fazilka: CityContent = {
     },
     {
       id: "kinnow-growers-traders",
-      heading: "Software company in Fazilka for kinnow growers, waxing units and fruit traders",
+      heading: "Software team in Fazilka for kinnow growers, waxing units and fruit traders",
       paragraphs: [
         "Fazilka district leads Punjab's kinnow belt, and the harvest from roughly December to March keeps orchards, contractors, waxing and grading plants, box suppliers, transporters and commission agents busy for months. Fruit goes out by the truckload to terminal markets in Delhi, Kolkata, Bengaluru and elsewhere, and some reaches export buyers. Every truck involves a grower, a grade, a box count, a rate, freight and a payment that may take weeks to arrive.",
-        "As a <strong>software company in Fazilka</strong> in practical terms, we build tools that keep this straight. Each lot is recorded once with orchard, grade, box count and vehicle; dispatches are tracked by market and buyer; freight and packing costs are added automatically; and outstanding payments are listed by buyer so nothing slips through. Growers can receive a WhatsApp summary of their dispatches and dues instead of calling the agent every evening.",
+        "As a <strong>software team in Fazilka</strong> in practical terms, we build tools that keep this straight. Each lot is recorded once with orchard, grade, box count and vehicle; dispatches are tracked by market and buyer; freight and packing costs are added automatically; and outstanding payments are listed by buyer so nothing slips through. Growers can receive a WhatsApp summary of their dispatches and dues instead of calling the agent every evening.",
         "For waxing and grading plants, a simple daily log of fruit received, boxes packed by grade, wastage and labour hours shows where the season's money is going. These tools start at ₹60,000 and are built in stages over six to twelve weeks. Building them in the monsoon months, before picking begins, lets staff learn without pressure.",
       ],
     },
@@ -92,10 +92,10 @@ const fazilka: CityContent = {
     },
     {
       id: "cotton-grain-traders",
-      heading: "Website development company in Fazilka for cotton, wheat and rice traders",
+      heading: "Website development team in Fazilka for cotton, wheat and rice traders",
       paragraphs: [
         "Fazilka and Abohar have long been described as Punjab's cotton country, and wheat and rice fill the rest of the calendar. Ginning units, cotton traders, commission agents, rice shellers and input dealers across Fazilka, Abohar, Jalalabad and Arniwala depend on buyers and suppliers who often live far away and judge a business by what they can see online.",
-        "A <strong>website development company in Fazilka</strong> should make these sites plain and useful. What you buy and sell, the months you are active, processing or storage facilities, quality testing, GST and registration details, bank-verified contact numbers and named people for purchase and dispatch. Photographs of your own yard, bales or godown say more than any stock image. Buyers from other states want proof you exist and a way to contact the right person quickly.",
+        "A <strong>website development team in Fazilka</strong> should make these sites plain and useful. What you buy and sell, the months you are active, processing or storage facilities, quality testing, GST and registration details, bank-verified contact numbers and named people for purchase and dispatch. Photographs of your own yard, bales or godown say more than any stock image. Buyers from other states want proof you exist and a way to contact the right person quickly.",
         "We never publish a client's buyers or suppliers without their written permission, and we keep claims to what you can document. A static site like this starts at ₹10,000, and Punjabi or Hindi pages alongside English are quoted as a separate line. For traders who need daily ledgers, the same team can build a web app that plugs into the site later.",
       ],
     },
@@ -105,7 +105,7 @@ const fazilka: CityContent = {
       paragraphs: [
         "An app is worth building when a fixed group of people will use it again and again. In Fazilka, good examples are fruit buyers who want to see available kinnow lots and grades each morning, jutti retailers in other cities who re-order designs every month, parents of a school or coaching centre who need notices and fee reminders, patients who need tokens at a busy hospital, and farmers who buy from the same input dealer every season.",
         "<strong>Android app development in Fazilka</strong> with us uses Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version includes mobile number login with OTP, push notifications, the main screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
-        "As an <strong>app development company in Fazilka</strong> that works remotely, our apps start at ₹40,000. The quote grows with online payments, offline mode for orchards and villages with weak signal, photo uploads, Punjabi and English screens and links to your billing software, each shown as its own line. More is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "As an <strong>app development team in Fazilka</strong> that works remotely, our apps start at ₹40,000. The quote grows with online payments, offline mode for orchards and villages with weak signal, photo uploads, Punjabi and English screens and links to your billing software, each shown as its own line. More is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses need a website rather than an app. If customers only want your address, timings and a price list, a website does that at a quarter of the cost and needs no download. We will recommend the cheaper route when it fits, because an app that sits unopened is wasted money.",
       ],
     },
@@ -156,9 +156,9 @@ const fazilka: CityContent = {
     },
     {
       id: "remote-team-fazilka",
-      heading: "IT company in Fazilka without an office: how our remote team runs a project",
+      heading: "IT services team in Fazilka without an office: how our remote team runs a project",
       paragraphs: [
-        "Business owners looking for an <strong>IT company in Fazilka</strong> often expect to meet in person. We are a remote team of three, so we make up for it with thorough records. The first call covers your business, your customers and what you want built. You then receive a written plan of pages or screens, a timeline and an itemised quote you can show to family or partners.",
+        "Business owners looking for an <strong>IT services team in Fazilka</strong> often expect to meet in person. We are a remote team of three, so we make up for it with thorough records. The first call covers your business, your customers and what you want built. You then receive a written plan of pages or screens, a timeline and an itemised quote you can show to family or partners.",
         "After approval, you get live preview links to check on your own phone and comment on. Punjabi and Hindi text is sent to you for checking before anything is published, and nothing goes live without your approval. We reply on WhatsApp seven days a week on Indian Standard Time, and if there is a delay we tell you when we find out, not on the day of delivery.",
         "Payments follow progress you can see, and nothing is billed before you approve the quote in writing. That keeps things low-risk for a business trying a website or app for the first time. You can also begin with one small job, such as fixing your Google listing, and decide on bigger work later.",
       ],
@@ -223,7 +223,7 @@ const fazilka: CityContent = {
         "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready and approving quickly makes the biggest difference.",
     },
     {
-      question: "Which is the best website development company in Fazilka?",
+      question: "Which is the best website development team in Fazilka?",
       answer:
         "Test every provider on the same things: published prices, domain and code in your name, real work you can verify, clear timelines and help after launch. We meet those tests and answer WhatsApp seven days a week, but it is wise to compare two or three options before you choose.",
     },

@@ -10,12 +10,12 @@ const araria: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Araria makhana and maize traders, clinics, coaching centres and Nepal-border shops.",
     keywords: [
       "IT services in Araria",
-      "IT company in Araria",
-      "website development company in Araria",
+      "IT services team in Araria",
+      "website development team in Araria",
       "web design in Araria",
-      "app development company in Araria",
+      "app development team in Araria",
       "Android app development in Araria",
-      "software company in Araria",
+      "software team in Araria",
       "SEO services in Araria",
       "digital marketing in Araria",
       "ecommerce website in Araria",
@@ -83,19 +83,19 @@ const araria: CityContent = {
     },
     {
       id: "maize-paddy-traders",
-      heading: "Software company in Araria for maize, paddy and jute traders",
+      heading: "Software team in Araria for maize, paddy and jute traders",
       paragraphs: [
         "Maize has become one of the main cash crops of north-east Bihar, and during the season trucks leave the district for feed mills and starch plants elsewhere. Paddy supports rice mills, and jute, once the district's big earner, is still grown and traded. Around these crops sit commission agents, godown owners, transporters and fertiliser and seed dealers.",
         "Their books are mostly handwritten. Advances to farmers, weights recorded at the kanta, moisture deductions, truck freight, and payments that arrive weeks later from outside buyers all need to match. When they do not, the argument costs more than the error.",
-        "As a <strong>software company in Araria</strong> for these businesses, we build compact web tools: purchase entries with weight and moisture, party ledgers, godown stock, truck dispatch records with freight and buyer, and a dues list with WhatsApp reminders. Such tools begin at ₹60,000, delivered in phases across six to twelve weeks, beginning with the purchase and dues register. Data can be exported for your accountant or Tally.",
+        "As a <strong>software team in Araria</strong> for these businesses, we build compact web tools: purchase entries with weight and moisture, party ledgers, godown stock, truck dispatch records with freight and buyer, and a dues list with WhatsApp reminders. Such tools begin at ₹60,000, delivered in phases across six to twelve weeks, beginning with the purchase and dues register. Data can be exported for your accountant or Tally.",
       ],
     },
     {
       id: "forbesganj-jogbani-border",
-      heading: "Website development company in Araria for Forbesganj and Jogbani traders",
+      heading: "Website development team in Araria for Forbesganj and Jogbani traders",
       paragraphs: [
         "Forbesganj, the district's second sub-division, has long been a trading town, and Jogbani on the border faces Biratnagar in Nepal. Goods for Nepalese buyers, from building material to consumer goods and farm inputs, pass through wholesalers and transporters based here.",
-        "A <strong>website development company in Araria</strong> serving this trade should keep sites factual and quick: product categories, brands handled, minimum order quantities, delivery areas on both sides of the border where legally allowed, GST details and named contact people. Many buyers from Nepal message on WhatsApp, so that button should be on every page.",
+        "A <strong>website development team in Araria</strong> serving this trade should keep sites factual and quick: product categories, brands handled, minimum order quantities, delivery areas on both sides of the border where legally allowed, GST details and named contact people. Many buyers from Nepal message on WhatsApp, so that button should be on every page.",
         "We keep compliance statements accurate and do not promise anything about customs or border paperwork that you cannot deliver. For transport and clearing firms, a simple consignment status page can cut the number of “where is my truck” calls. Sites of this kind start at ₹10,000; status tools are quoted separately.",
       ],
     },
@@ -122,7 +122,7 @@ const araria: CityContent = {
       heading: "Android app development in Araria and iPhone apps for Seemanchal businesses",
       paragraphs: [
         "Money spent on an app comes back only when the same users return to it week after week. In Araria, good cases include a coaching centre sharing notes, test results and fee reminders; a distributor taking repeat orders from village retailers; a hospital giving out OPD tokens; or a makhana brand whose regular buyers re-order every month.",
-        "As an <strong>app development company in Araria</strong> working remotely, we build with Flutter or React Native, so a single codebase covers Android and iPhone alike. Version one normally brings OTP login, push alerts, the handful of screens that matter and a staff admin panel. Publishing happens on the Play Store and Apple's App Store through developer accounts that belong to you.",
+        "As an <strong>app development team in Araria</strong> working remotely, we build with Flutter or React Native, so a single codebase covers Android and iPhone alike. Version one normally brings OTP login, push alerts, the handful of screens that matter and a staff admin panel. Publishing happens on the Play Store and Apple's App Store through developer accounts that belong to you.",
         "<strong>Android app development in Araria</strong> starts at ₹40,000 with us. Payments, offline use in low-signal villages, maps and links to billing software raise the cost, and each appears as its own line on the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for detail.",
         "If customers mainly need your address, timings and a price list, a website does the job for far less. We will tell you so; an unused app is just a monthly reminder of wasted money.",
       ],
@@ -166,9 +166,9 @@ const araria: CityContent = {
     },
     {
       id: "remote-team-araria",
-      heading: "Working with a remote IT company in Araria's terms",
+      heading: "Working with a remote IT services team in Araria's terms",
       paragraphs: [
-        "People searching for an <strong>IT company in Araria</strong> often expect someone to walk into the shop. We cannot do that, so paper does the job instead. A first call covers what you sell and who buys it. Soon after, a written outline arrives listing each page or app screen, the delivery dates and an itemised cost. When you agree, you receive preview links that work on any phone, so partners and family can look before the public does.",
+        "People searching for an <strong>IT services team in Araria</strong> often expect someone to walk into the shop. We cannot do that, so paper does the job instead. A first call covers what you sell and who buys it. Soon after, a written outline arrives listing each page or app screen, the delivery dates and an itemised cost. When you agree, you receive preview links that work on any phone, so partners and family can look before the public does.",
         "Messages on WhatsApp get answered daily, weekends included, on IST. Every Hindi or Urdu line comes to you for proofreading ahead of publishing. Should a delay appear, we tell you the same day we spot it. Payments are split across milestones you can see, and billing starts only after you sign off the quote.",
       ],
     },
@@ -223,7 +223,7 @@ const araria: CityContent = {
         "Once your text and photos reach us, a simple site is usually live inside two weeks. Larger SEO sites need three to five weeks, stores about one to two months, and custom software six to twelve weeks. Delays nearly always come from missing content, so gathering it early saves the most time.",
     },
     {
-      question: "Which is the best website development company in Araria?",
+      question: "Which is the best website development team in Araria?",
       answer:
         "The safest choice is whoever shows you real past work, states prices openly, puts the domain and code in your name and still answers the phone a year later. Put the same checklist to every candidate. We think we pass it, and we are on WhatsApp daily, but do compare a couple of options first.",
     },

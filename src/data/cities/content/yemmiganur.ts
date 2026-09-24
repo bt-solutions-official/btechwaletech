@@ -10,7 +10,7 @@ const yemmiganur: CityContent = {
       "Websites, SEO, handloom stores, custom software and WhatsApp automation for Yemmiganur weavers, cotton traders and shops. Static sites start from ₹10,000.",
     keywords: [
       "IT services Yemmiganur",
-      "website development company in Yemmiganur",
+      "website development team in Yemmiganur",
       "web designer Yemmiganur",
       "Yemmiganur handloom online store",
       "handloom website Kurnool",

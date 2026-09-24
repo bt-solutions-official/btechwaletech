@@ -9,7 +9,7 @@ const pollachi: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Pollachi coir exporters, coconut traders, colleges and clinics. Sites from ₹10,000, 5 months free maintenance.",
     keywords: [
-      "website development company in Pollachi",
+      "website development team in Pollachi",
       "web design Pollachi",
       "website designer Pollachi",
       "freelance web developer Pollachi",

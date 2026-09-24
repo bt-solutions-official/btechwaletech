@@ -9,14 +9,14 @@ const jammu: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Jammu traders, hotels, clinics and Bari Brahmana units. Sites from ₹10,000, itemised quotes, you own everything.",
     keywords: [
-      "website development company in Jammu",
+      "website development team in Jammu",
       "web designer Jammu",
       "website design Jammu Tawi",
       "SEO services Jammu",
       "local SEO Jammu",
       "ecommerce website Jammu",
       "hotel website Katra",
-      "software company Jammu",
+      "software team Jammu",
       "web app development Jammu",
       "WhatsApp automation Jammu",
       "AI automation Jammu",

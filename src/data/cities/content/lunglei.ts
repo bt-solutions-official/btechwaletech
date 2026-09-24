@@ -10,12 +10,12 @@ const lunglei: CityContent = {
       "Mizo and English websites, Android and iOS apps, local SEO and WhatsApp automation for Lunglei colleges, hospitals, shops, homestays, traders and transporters.",
     keywords: [
       "IT services in Lunglei",
-      "IT company in Lunglei",
-      "website development company in Lunglei",
+      "IT services team in Lunglei",
+      "website development team in Lunglei",
       "web design in Lunglei",
-      "app development company in Lunglei",
+      "app development team in Lunglei",
       "Android app development in Lunglei",
-      "software company in Lunglei",
+      "software team in Lunglei",
       "SEO services in Lunglei",
       "digital marketing in Lunglei",
       "ecommerce website in Lunglei",
@@ -83,10 +83,10 @@ const lunglei: CityContent = {
     },
     {
       id: "hospitals-churches-ngos",
-      heading: "Website development company in Lunglei for hospitals, churches and NGOs",
+      heading: "Website development team in Lunglei for hospitals, churches and NGOs",
       paragraphs: [
         "Lunglei is a medical and church centre for the south. Christian Hospital Serkawn, run by the Baptist Church of Mizoram, began in 1919 and was the first hospital and nursing school in the state, and the Baptist Church of Mizoram has its headquarters at Serkawn. The civil hospital, private clinics, pharmacies and diagnostic labs serve patients from across the district.",
-        "A thoughtful <strong>website development company in Lunglei</strong> will build hospital and clinic sites around what patients need: departments, doctors and specialities, OPD days, emergency numbers, directions and visiting rules. For churches, mission bodies and NGOs, the priorities are different: programmes, events, publications, contact people and, where appropriate, a secure way to receive contributions with clear receipts.",
+        "A thoughtful <strong>website development team in Lunglei</strong> will build hospital and clinic sites around what patients need: departments, doctors and specialities, OPD days, emergency numbers, directions and visiting rules. For churches, mission bodies and NGOs, the priorities are different: programmes, events, publications, contact people and, where appropriate, a secure way to receive contributions with clear receipts.",
         "We do not use any institution's name or logo on our own pages as a client unless it has agreed in writing, and we keep claims on your site to what you can document. A static site starts at ₹10,000, and an appointment or token app for a hospital starts at ₹40,000. See our <a href=\"/services/web-development/\">web development service</a> for what is included.",
       ],
     },
@@ -110,10 +110,10 @@ const lunglei: CityContent = {
     },
     {
       id: "traders-transport-software",
-      heading: "Software company in Lunglei for wholesalers, suppliers and transporters",
+      heading: "Software team in Lunglei for wholesalers, suppliers and transporters",
       paragraphs: [
         "Most goods reach Lunglei by road from Aizawl and Silchar, and wholesalers, distributors and transporters keep the south supplied. Towards the Bangladesh border, Tlabung has a border trade facilitation centre, and suppliers in Lunglei also serve government works, schools and hospitals across the district.",
-        "As a <strong>software company in Lunglei</strong>, we build practical web tools for these firms: stock and billing with credit accounts for retailers, purchase records by supplier, trip registers for trucks and taxis with fuel, freight and driver details, and expiry alerts for permits, fitness certificates and insurance. The owner sees stock, pending deliveries and money due on one screen.",
+        "As a <strong>software team in Lunglei</strong>, we build practical web tools for these firms: stock and billing with credit accounts for retailers, purchase records by supplier, trip registers for trucks and taxis with fuel, freight and driver details, and expiry alerts for permits, fitness certificates and insurance. The owner sees stock, pending deliveries and money due on one screen.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with whichever register causes the most confusion today. Because mobile signal can be patchy on hill roads, driver or delivery apps can store entries offline and sync when the phone reconnects.",
       ],
     },
@@ -122,7 +122,7 @@ const lunglei: CityContent = {
       heading: "Android app development in Lunglei, and iOS apps for local organisations",
       paragraphs: [
         "An app is worth building when the same people open it often. In Lunglei that could be students checking notices and results, patients booking tokens, a church or NGO sharing events with members, a wholesaler's retailers placing weekly orders, or a transporter's drivers logging trips.",
-        "As an <strong>app development company in Lunglei</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Lunglei</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Lunglei</strong> with us starts at ₹40,000. Offline mode, payments, maps or integration with other software add to the cost and are listed separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
         "If people only need your address, phone number and timings, a website does the job for far less and needs no download. We will recommend that, because an app nobody opens after the first week is money wasted.",
       ],
@@ -223,7 +223,7 @@ const lunglei: CityContent = {
         "A simple static site is normally ready in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Sending content early, including approved Mizo text, keeps things moving.",
     },
     {
-      question: "Which is the best website development company in Lunglei?",
+      question: "Which is the best website development team in Lunglei?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, supports you after launch and can show real work. Ask each provider the same questions and compare written quotes. We meet those standards and reply on WhatsApp all week, but comparing a few options is sensible.",
     },

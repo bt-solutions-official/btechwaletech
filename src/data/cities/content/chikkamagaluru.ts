@@ -9,7 +9,7 @@ const chikkamagaluru: CityContent = {
     description:
       "Websites, coffee stores, Kannada SEO and WhatsApp booking tools for Chikkamagaluru estates, curing works, homestays, resorts and local shops. From ₹10,000.",
     keywords: [
-      "website development company in Chikkamagaluru",
+      "website development team in Chikkamagaluru",
       "web designer Chikmagalur",
       "coffee estate website design",
       "Chikmagalur coffee online store",

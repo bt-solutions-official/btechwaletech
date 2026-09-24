@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance IT team for Udaipur, Gomati: custom software, apps, AI automation, SEO and hotel booking sites near Tripura Sundari Temple. Sites from ₹10,000.",
     keywords: [
-      "software development company in Udaipur Tripura",
-      "IT company in Udaipur Tripura",
+      "software development team in Udaipur Tripura",
+      "IT services team in Udaipur Tripura",
       "IT solutions Udaipur Tripura",
       "freelance software developer Udaipur Gomati",
       "custom software Gomati district",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "udaipur-freelance-vs-company",
-      heading: "Freelance developers or a software development company in Udaipur, Tripura?",
+      heading: "Freelance developers or a software development team in Udaipur, Tripura?",
       paragraphs: [
         "A freelance group is usually the better fit for Udaipur, Tripura businesses with one focused project and a modest budget, while a larger software development company suits organisations needing many developers, formal procurement or on-site staff. Very few software companies operate in Udaipur itself, so most owners end up hiring from Agartala or outside the state anyway.",
-        "Searching for a software development company in Udaipur often returns firms from Udaipur in Rajasthan, which can be confusing. Before contacting anyone, check that they understand the Tripura town, its language and its customers. A developer who assumes your visitors are foreign tourists at a lake palace will build the wrong product for a Matabari lodge serving Bengali-speaking pilgrims.",
+        "Searching for a software development team in Udaipur often returns firms from Udaipur in Rajasthan, which can be confusing. Before contacting anyone, check that they understand the Tripura town, its language and its customers. A developer who assumes your visitors are foreign tourists at a lake palace will build the wrong product for a Matabari lodge serving Bengali-speaking pilgrims.",
         "BtechWaleTech is a freelance group, not a registered company, and we say so openly. The advantages are direct access to the engineers, lower overheads and flexible scope. The limits are also real: three people can handle a focused project well, but not a state-wide rollout with dozens of on-site trainers. We will tell you which side of that line your project falls on before quoting.",
       ],
     },

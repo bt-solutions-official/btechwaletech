@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Agra: Apps & AI",
     description:
-      "Looking for a software development company in Agra? Hire our freelance team for custom software, apps, AI automation and SEO. From ₹60,000, quote in 2 days.",
+      "Looking for a software development team in Agra? Hire our freelance team for custom software, apps, AI automation and SEO. From ₹60,000, quote in 2 days.",
     keywords: [
-      "software development company in Agra",
-      "IT company in Agra",
+      "software development team in Agra",
+      "IT services team in Agra",
       "IT solutions Agra",
       "custom software development Agra",
       "web application development Agra",
@@ -23,7 +23,7 @@ const content: CityContent = {
       "data dashboard development Agra",
       "cloud hosting and deployment Agra",
       "SEO services Agra",
-      "software company near me Agra",
+      "software team near me Agra",
       "software developer Sikandra industrial area",
       "IT services Sanjay Place Agra",
       "ecommerce development Agra",
@@ -40,7 +40,7 @@ const content: CityContent = {
     eyebrow: "Agra · Uttar Pradesh · Software and automation",
     h1: "Freelance software developers in Agra for order systems, apps and AI workflows",
     lede:
-      "If you are searching for a software development company in Agra, BtechWaleTech offers another route: a freelance group of three engineers in India who write custom software, web applications, installable apps and AI automations for Agra businesses. Footwear units in Sikandra, hotels on Fatehabad Road, petha and marble-inlay sellers, clinics and schools all get the same thing: a quoted starting price, direct access to the developers and five months of free maintenance once you go live.",
+      "If you are searching for a software development team in Agra, BtechWaleTech offers another route: a freelance group of three engineers in India who write custom software, web applications, installable apps and AI automations for Agra businesses. Footwear units in Sikandra, hotels on Fatehabad Road, petha and marble-inlay sellers, clinics and schools all get the same thing: a quoted starting price, direct access to the developers and five months of free maintenance once you go live.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Export order tracking", "Hotel and tour booking flows", "Code and domain in your name"],
   },
   quickAnswer:
@@ -73,9 +73,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-agra",
-      heading: "What should a software development company in Agra, or a freelance team, actually build?",
+      heading: "What should a software development team in Agra, or a freelance team, actually build?",
       paragraphs: [
-        "Whether you hire a software development company in Agra or freelance developers, the work should produce tools that remove manual work from real local processes: order tracking for footwear units, room and tour booking for hotels, fee and attendance systems for schools, and billing or inventory panels for traders. Websites are only one part of that. For many firms in the city the bigger return comes from software that replaces registers, phone calls and scattered WhatsApp messages.",
+        "Whether you hire a software development team in Agra or freelance developers, the work should produce tools that remove manual work from real local processes: order tracking for footwear units, room and tour booking for hotels, fee and attendance systems for schools, and billing or inventory panels for traders. Websites are only one part of that. For many firms in the city the bigger return comes from software that replaces registers, phone calls and scattered WhatsApp messages.",
         "Our work for Agra clients falls into a few groups. The first is custom business software: web-based portals with logins, roles and an admin panel, running on a cloud server and opening in any browser. The second is automation, where we connect WhatsApp, Google Sheets, email and your accounting tool so that routine steps happen without anyone copying data. The third is customer-facing systems such as booking engines, catalogues and online stores. The fourth is search visibility, so the right buyers can find you in the first place.",
         "Everything is built by the three of us, working remotely from India. We do not have an office in Agra and we do not pretend to. What we offer instead is direct contact with the engineers writing your software, <a href='/pricing/'>published starting prices</a>, and a working pattern built around WhatsApp and short video calls that suits owners who spend their day on a factory floor or at a hotel front desk.",
       ],
@@ -205,7 +205,7 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner-agra",
-      heading: "Freelance team vs a software development company in Agra: how to choose",
+      heading: "Freelance team vs a software development team in Agra: how to choose",
       paragraphs: [
         "Choose an IT partner in Agra by checking who will actually write your code, whether you will own it, and what happens after launch, rather than by office address or the size of a sales team. A local firm with a showroom can still outsource everything, and a remote team can still be accountable if the terms are written down.",
         "Ask to speak to the developer, not only a salesperson. Ask for an itemised quote with a timeline for each part. Confirm that the domain, hosting account, source code and database will be in your name. Check how bugs are handled in the months after launch and how quickly someone responds. Look at <a href='/portfolio/'>examples of past work</a> and ask what each project involved.",
@@ -247,9 +247,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Which is the best software company in Agra?",
+      question: "Which is the best software team in Agra?",
       answer:
-        "There is no single best software company in Agra for every buyer. The right choice depends on whether you need a brochure site, an export order system or an AI automation. Compare every option, including freelance groups like ours, on who writes the code, whether you will own it, how clearly the quote is itemised and what support follows launch. We are happy to be one of the teams you compare, and we will say if another option suits you better.",
+        "There is no single best software team in Agra for every buyer. The right choice depends on whether you need a brochure site, an export order system or an AI automation. Compare every option, including freelance groups like ours, on who writes the code, whether you will own it, how clearly the quote is itemised and what support follows launch. We are happy to be one of the teams you compare, and we will say if another option suits you better.",
     },
     {
       question: "Do you have an office in Agra?",

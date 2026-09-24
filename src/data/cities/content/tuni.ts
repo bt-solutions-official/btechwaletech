@@ -10,12 +10,12 @@ const tuni: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Tuni mango traders, cashew units, NH16 businesses, Lova pilgrims, schools and clinics.",
     keywords: [
       "IT services in Tuni",
-      "IT company in Tuni",
-      "website development company in Tuni",
+      "IT services team in Tuni",
+      "website development team in Tuni",
       "web design in Tuni",
-      "app development company in Tuni",
+      "app development team in Tuni",
       "Android app development in Tuni",
-      "software company in Tuni",
+      "software team in Tuni",
       "SEO services in Tuni",
       "digital marketing in Tuni",
       "ecommerce website in Tuni",
@@ -85,10 +85,10 @@ const tuni: CityContent = {
     },
     {
       id: "cashew-processing-software",
-      heading: "Software company in Tuni for cashew processors and commodity traders",
+      heading: "Software team in Tuni for cashew processors and commodity traders",
       paragraphs: [
         "Cashew processing is one of Tuni's established industries. Raw nuts come in by the bag, go through roasting or steaming, shelling, peeling and grading, and leave as kernels sorted into grades for wholesale buyers. At each step weight is lost and value is added, and an owner who cannot see the numbers stage by stage cannot tell a good batch from a leaky one.",
-        "As a <strong>software company in Tuni</strong>, we build compact web systems for exactly that. Raw nut purchases are logged with supplier, bag count, weight and rate; each batch records input and output at every stage; graded kernels go into stock by grade; dispatches tie to buyer orders and invoices; and a screen shows yield per batch and money owed by each buyer. Supervisors enter data from a phone on the floor.",
+        "As a <strong>software team in Tuni</strong>, we build compact web systems for exactly that. Raw nut purchases are logged with supplier, bag count, weight and rate; each batch records input and output at every stage; graded kernels go into stock by grade; dispatches tie to buyer orders and invoices; and a screen shows yield per batch and money owed by each buyer. Supervisors enter data from a phone on the floor.",
         "Systems of this kind start at ₹60,000 and are delivered in stages across six to twelve weeks, purchase and stock first. The same pattern suits mango commission agents, betel leaf traders and jute bag makers who juggle lots, grades and credit. If your accountant lives in Tally, we produce exports that import straight into it.",
       ],
     },
@@ -112,10 +112,10 @@ const tuni: CityContent = {
     },
     {
       id: "website-development-tuni",
-      heading: "Website development company in Tuni for shops, wholesalers and the twin-town market",
+      heading: "Website development team in Tuni for shops, wholesalers and the twin-town market",
       paragraphs: [
         "Tuni's market serves a long rural stretch plus the twin town of Payakaraopeta. Shops sell cloth, gold, electronics, furniture, fertiliser, seeds and hardware to families from Tetagunta, Chamavaram, Suravaram, Velama Kothuru and many villages further out, while wholesalers push groceries, oil and building material to village retailers.",
-        "A <strong>website development company in Tuni</strong> should build these shops something they will actually use: a page per department with genuine photos, a landmark-based address, hours, a one-tap call link and a WhatsApp rate button. Wholesalers get a page just for retailers, spelling out minimum orders, which villages the van covers on which day, and credit terms.",
+        "A <strong>website development team in Tuni</strong> should build these shops something they will actually use: a page per department with genuine photos, a landmark-based address, hours, a one-tap call link and a WhatsApp rate button. Wholesalers get a page just for retailers, spelling out minimum orders, which villages the van covers on which day, and credit terms.",
         "Text goes in natural Telugu with English beside it, never a stiff machine translation. The pages are tried on low-cost phones and slow connections, and your staff can change prices and add new stock themselves. Our <a href=\"/services/web-development/\">web development page</a> describes how a basic site later grows into a store.",
       ],
     },
@@ -133,7 +133,7 @@ const tuni: CityContent = {
       heading: "Android app development in Tuni, and iOS apps for regular customers",
       paragraphs: [
         "An app is only worth its cost if the same people open it often. In Tuni that means a mango or cashew seller whose city customers re-order every season, a wholesaler whose village retailers order every week, a school that sends daily homework and circulars to parents, or a hospital that hands out tokens and lab reports.",
-        "As an <strong>app development company in Tuni</strong> working from a distance, we use Flutter or React Native so one codebase covers Android and iPhone. The first release usually carries phone-number login with OTP, push alerts, the four or five screens your users need and a back office for your staff. We publish it on Google Play and Apple's App Store under developer accounts that belong to you.",
+        "As an <strong>app development team in Tuni</strong> working from a distance, we use Flutter or React Native so one codebase covers Android and iPhone. The first release usually carries phone-number login with OTP, push alerts, the four or five screens your users need and a back office for your staff. We publish it on Google Play and Apple's App Store under developer accounts that belong to you.",
         "<strong>Android app development in Tuni</strong> begins at ₹40,000. Payment inside the app, offline use for buyers in low-signal villages, order tracking and a Tally connection each add a separate, visible line to the quote. See the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for detail.",
         "If buyers only need your address, rate list and timings, skip the app. A website does that job for about a quarter of the money, and we will tell you so.",
       ],
@@ -234,7 +234,7 @@ const tuni: CityContent = {
         "Expect a simple site in about seven to fourteen days after your photos and details arrive. A 700+ page SEO site needs three to five weeks, a store four to eight and custom software six to twelve. For the mango season, begin in February so the store is tested well before the first boxes ship.",
     },
     {
-      question: "Who is the best website development company in Tuni?",
+      question: "Who is the best website development team in Tuni?",
       answer:
         "Judge on facts, not promises. The right provider lists prices openly, registers the domain and code to you, can point to live work and still answers a year after launch. Put identical questions to every option and read the written replies. We are glad to be among the providers you compare.",
     },

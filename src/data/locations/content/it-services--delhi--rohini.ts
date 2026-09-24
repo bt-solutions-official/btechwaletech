@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Rohini, Delhi",
     description:
-      "Freelance developers in Rohini as an alternative to a software development company: coaching LMS, test apps, lab and factory software, AI bots. Apps from ₹40,000.",
+      "Freelance developers in Rohini as an alternative to a software development team: coaching LMS, test apps, lab and factory software, AI bots. Apps from ₹40,000.",
     keywords: [
-      "software development company in Rohini",
-      "IT company in Rohini",
+      "software development team in Rohini",
+      "IT services team in Rohini",
       "IT solutions Rohini",
       "freelance software developers Rohini",
       "coaching institute software Rohini",
@@ -36,11 +36,11 @@ const content: CityContent = {
     eyebrow: "Rohini · North West Delhi · NSP, Pitampura, Bawana",
     h1: "Freelance software developers for Rohini's coaching institutes, hospitals and factories",
     lede:
-      "People who search for a software development company in Rohini usually run one of three things: a coaching institute preparing students for boards, JEE, NEET or government exams; a hospital, clinic or diagnostic lab; or a factory unit in Bawana or Mangolpuri. BtechWaleTech is a freelance group of three remote engineers who build test-series apps, admission CRMs, lab report systems, inventory software, AI automation and local SEO pages for all three.",
+      "People who search for a software development team in Rohini usually run one of three things: a coaching institute preparing students for boards, JEE, NEET or government exams; a hospital, clinic or diagnostic lab; or a factory unit in Bawana or Mangolpuri. BtechWaleTech is a freelance group of three remote engineers who build test-series apps, admission CRMs, lab report systems, inventory software, AI automation and local SEO pages for all three.",
     pills: ["Android and iOS apps from ₹40,000", "Coaching LMS from ₹60,000", "Admission bots from ₹40,000", "Sector-wise local SEO", "Hindi and English"],
   },
   quickAnswer:
-    "Rather than a software development company in Rohini, BtechWaleTech is a freelance group of three remote engineers. We build coaching LMS, lab and factory software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), admission and WhatsApp automation from ₹40,000 and websites from ₹10,000. No Rohini office; itemised quotes in about two working days.",
+    "Rather than a software development team in Rohini, BtechWaleTech is a freelance group of three remote engineers. We build coaching LMS, lab and factory software from ₹60,000 (six to twelve weeks), Android and iOS apps from ₹40,000 (six to ten weeks), admission and WhatsApp automation from ₹40,000 and websites from ₹10,000. No Rohini office; itemised quotes in about two working days.",
   snapshot: [
     { label: "What Rohini is", value: "One of Delhi's largest planned residential sub-cities, developed by DDA in numbered sectors in North West Delhi" },
     { label: "Commercial hubs", value: "Netaji Subhash Place (NSP), Rohini District Centre in Sector 10, and the markets of Sectors 3, 7, 8 and 11" },
@@ -70,9 +70,9 @@ const content: CityContent = {
   sections: [
     {
       id: "rohini-software-needs",
-      heading: "What does a software development company in Rohini typically build?",
+      heading: "What does a software development team in Rohini typically build?",
       paragraphs: [
-        "A software development company in Rohini typically builds admission and learning systems for coaching institutes, appointment and report systems for hospitals and labs, and inventory and production software for nearby industrial areas. Those three sectors dominate Rohini's economy, and each has repetitive processes that software handles better than registers and WhatsApp groups.",
+        "A software development team in Rohini typically builds admission and learning systems for coaching institutes, appointment and report systems for hospitals and labs, and inventory and production software for nearby industrial areas. Those three sectors dominate Rohini's economy, and each has repetitive processes that software handles better than registers and WhatsApp groups.",
         "Rohini and neighbouring Pitampura host one of Delhi's densest concentrations of coaching institutes, from small tuition centres in sector markets to large branches of national brands near the metro. Healthcare is the second pillar, with a cancer institute, a large government hospital and dozens of private hospitals, clinics and diagnostic labs. The third pillar sits on the edge: Bawana, Mangolpuri, Badli and Narela industrial areas, where thousands of small units make plastics, footwear, electricals, auto parts and packaging.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Rohini. We build <a href=\"/services/\">software, web apps, Android and iOS apps, automation, dashboards and websites</a> for all three sectors. Each project starts with how your process works today and ends with a handover of code, data and accounts in your name.",
       ],
@@ -181,16 +181,16 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-rohini",
-      heading: "Freelance developers vs a software development company in Rohini",
+      heading: "Freelance developers vs a software development team in Rohini",
       paragraphs: [
-        "A software development company in Rohini suits buyers who want regular in-person meetings and a larger team; a freelance group like BtechWaleTech suits buyers who want direct engineer access, lower starting prices and full ownership, and who are comfortable working over WhatsApp and video. Several IT firms operate in Rohini's sectors, so compare options on substance rather than proximity.",
+        "A software development team in Rohini suits buyers who want regular in-person meetings and a larger team; a freelance group like BtechWaleTech suits buyers who want direct engineer access, lower starting prices and full ownership, and who are comfortable working over WhatsApp and video. Several IT firms operate in Rohini's sectors, so compare options on substance rather than proximity.",
         "Ask every candidate the same questions. Who will write the code? Will I receive the source code, database and store accounts? How are changes priced after the scope is agreed? What does support cost after launch? Can I see a similar system working? A clear answer to each is worth more than a polished presentation.",
-        "We are three engineers, not a company or agency, and we take on a limited number of projects so each gets proper attention. You can read about our approach on the <a href=\"/about/\">about page</a>, see work on the <a href=\"/portfolio/\">portfolio</a>, or explore the wider <a href=\"/it-services/delhi/\">Delhi IT services hub</a>.",
+        "We are a small freelance team of three engineers, and we take on a limited number of projects so each gets proper attention. You can read about our approach on the <a href=\"/about/\">about page</a>, see work on the <a href=\"/portfolio/\">portfolio</a>, or explore the wider <a href=\"/it-services/delhi/\">Delhi IT services hub</a>.",
       ],
     },
     {
       id: "cost-timeline-rohini",
-      heading: "What does a software development company in Rohini charge, and how long does it take?",
+      heading: "What does a software development team in Rohini charge, and how long does it take?",
       paragraphs: [
         "With BtechWaleTech, Rohini projects start at ₹10,000 for a website (one to two weeks), ₹20,000 for a 700+ page SEO website (three to five weeks), ₹40,000 for AI or admission automation (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a course store (four to eight weeks) and ₹60,000 for an LMS or custom software (six to twelve weeks).",
         "Price depends on users, branches, modules and integrations. An LMS for one centre with tests and fees costs less than a multi-branch system with live classes, question banks and a student app. Quotes are itemised so you can phase the work. Payment is in INR only, via UPI with our QR code or by direct bank transfer to our account, in milestones.",

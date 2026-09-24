@@ -10,12 +10,12 @@ const balaghat: CityContent = {
       "Websites, Android and iOS apps, Hindi local SEO and WhatsApp automation for Balaghat rice mills, Chinnor rice sellers, mine vendors, clinics and Kanha stays.",
     keywords: [
       "IT services in Balaghat",
-      "IT company in Balaghat",
-      "website development company in Balaghat",
+      "IT services team in Balaghat",
+      "website development team in Balaghat",
       "web design in Balaghat",
-      "app development company in Balaghat",
+      "app development team in Balaghat",
       "Android app development in Balaghat",
-      "software company in Balaghat",
+      "software team in Balaghat",
       "SEO services in Balaghat",
       "digital marketing in Balaghat",
       "ecommerce website in Balaghat",
@@ -68,7 +68,7 @@ const balaghat: CityContent = {
       heading: "IT services in Balaghat for a district town with a wide hinterland",
       paragraphs: [
         "Balaghat is the headquarters of a large, mostly forested district that stretches from the Wainganga plains to the hills around Baihar and Kanha. Families from Waraseoni, Katangi, Lalbarra, Kirnapur, Lanji and Paraswada come into the city for hospitals, college admissions, court work and bigger purchases. A Balaghat business therefore serves customers from twelve tehsils, and more and more of them decide where to go after a search on the phone.",
-        "When someone looks for an IT company in Balaghat, the request is usually practical: a site that explains the business, a correct map listing near Hanuman Chowk or Kali Putli Chowk, and a WhatsApp button that someone answers. Some need more, such as an online store for Chinnor rice, mill software or an app for regular buyers. We build all of these, and we will say so when a smaller option covers your need.",
+        "When someone looks for an IT services team in Balaghat, the request is usually practical: a site that explains the business, a correct map listing near Hanuman Chowk or Kali Putli Chowk, and a WhatsApp button that someone answers. Some need more, such as an online store for Chinnor rice, mill software or an app for regular buyers. We build all of these, and we will say so when a smaller option covers your need.",
         "Every project starts with a conversation about your customers: where they come from, what they ask before buying and how they pay. That decides the pages, the Hindi and English balance, and whether anything beyond a website is worth paying for.",
       ],
     },
@@ -83,7 +83,7 @@ const balaghat: CityContent = {
     },
     {
       id: "rice-mill-software",
-      heading: "Software company in Balaghat for rice mills and paddy traders",
+      heading: "Software team in Balaghat for rice mills and paddy traders",
       paragraphs: [
         "Rice mills are among Balaghat's main industries. A mill's margin depends on details that are hard to watch in a ledger: paddy bought per farmer and trader, moisture and deductions, outturn of head rice and broken rice per lot, bran and husk sold, electricity per quintal, and which wholesaler has not paid for last month's lorries.",
         "We build mill software that records paddy inward with weight, moisture and rate, milling batches with yield, and rice, broken, bran and husk sales with dispatch details. The owner sees stock by variety and grade, yield per batch and dues by buyer from a phone. Supervisors enter data on a simple screen that works on a basic Android phone.",
@@ -140,7 +140,7 @@ const balaghat: CityContent = {
       heading: "Android app development in Balaghat: who needs an app, and who doesn't",
       paragraphs: [
         "An app pays off when the same people use it again and again. In Balaghat that could be kirana shops that reorder rice every fortnight from a mill, parents who check school notices daily, field staff logging paddy purchases in villages, or regular guests of a Kanha homestay. If customers find you once and rarely come back, a website is the better investment.",
-        "As an app development company for Balaghat businesses, we build Android and iOS apps from a single codebase in Flutter or React Native. Typical features are OTP login, a product list or dashboard, orders or bookings, push notifications for rates, offers or reminders, and an admin panel for your staff.",
+        "As an app development team for Balaghat businesses, we build Android and iOS apps from a single codebase in Flutter or React Native. Typical features are OTP login, a product list or dashboard, orders or bookings, push notifications for rates, offers or reminders, and an admin panel for your staff.",
         "Apps start at ₹40,000. We publish them on Google Play and the Apple App Store under developer accounts in your name, so the listings, reviews and customer data belong to you. Store approval usually adds a few days.",
         "The same backend can power your website and app together, so starting with a website does not waste money. When usage shows customers keep coming back, the app can be added on top of what already exists.",
       ],
@@ -232,7 +232,7 @@ const balaghat: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, including OTP login, product lists or bookings, push notifications and an admin panel. Apps start at ₹40,000 and are published on Google Play and the App Store under your own accounts. If customers rarely return, we will suggest a website first.",
     },
     {
-      question: "Which is the best IT company in Balaghat for a small business?",
+      question: "Which is the best IT services team in Balaghat for a small business?",
       answer:
         "Look for a provider who gives a written itemised quote, puts the domain and code in your name and keeps answering after launch. We do all three and publish our starting prices, with five months of free maintenance. We are a remote team, though, not a local office in the city.",
     },

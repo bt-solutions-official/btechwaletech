@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Udaipur",
     description:
-      "Looking for a software development company in Udaipur? Hire our freelance group for hotel booking engines, AI concierge bots, apps and SEO. Quotes in 2 days.",
+      "Looking for a software development team in Udaipur? Hire our freelance group for hotel booking engines, AI concierge bots, apps and SEO. Quotes in 2 days.",
     keywords: [
       "Android app development Udaipur",
       "iOS app development Udaipur",
       "mobile app developers Udaipur",
       "iPhone app developers Udaipur",
-      "software development company in Udaipur",
-      "IT company in Udaipur",
+      "software development team in Udaipur",
+      "IT services team in Udaipur",
       "IT solutions Udaipur",
       "hotel booking engine development Udaipur",
       "hotel software Udaipur",
@@ -24,10 +24,10 @@ const content: CityContent = {
             "AI chatbot for hotels Udaipur",
       "WhatsApp Business API Udaipur",
       "marble ERP software Udaipur",
-      "SEO company Udaipur",
+      "SEO team Udaipur",
       "hotel SEO Lake Pichola",
       "software developer near me Udaipur",
-      "IT company Hiran Magri Udaipur",
+      "IT services team Hiran Magri Udaipur",
       "cloud hosting and IT support Udaipur",
       "handicraft ecommerce website Udaipur",
       "उदयपुर में सॉफ्टवेयर कंपनी",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Udaipur · Mewar · Software for hospitality and industry",
     h1: "Freelance software developers in Udaipur for booking engines, hotel operations and AI automation",
     lede:
-      "Looking for a software development company in Udaipur that understands both lakeside hotels and Madri factories? BtechWaleTech is a freelance group of three engineers working remotely from India, building direct-booking engines, guest messaging bots, wedding event CRMs, marble order portals and dashboards. Websites, SEO and apps sit on top of that software, not the other way round.",
+      "Looking for a software development team in Udaipur that understands both lakeside hotels and Madri factories? BtechWaleTech is a freelance group of three engineers working remotely from India, building direct-booking engines, guest messaging bots, wedding event CRMs, marble order portals and dashboards. Websites, SEO and apps sit on top of that software, not the other way round.",
     pills: ["Direct booking engines", "AI guest concierge on WhatsApp", "Web apps from ₹60,000", "Automation from ₹40,000", "Code and data in your name"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three remote engineers serving Udaipur, an alternative to a software development company. Custom software and booking portals start at ₹60,000 (6 to 12 weeks), AI and WhatsApp automation at ₹40,000 (2 to 4 weeks), online stores at ₹50,000 and websites at ₹10,000. Itemised quotes in about two working days, and five months of maintenance included after launch.",
+    "BtechWaleTech is a freelance group of three remote engineers serving Udaipur, an alternative to a software development team. Custom software and booking portals start at ₹60,000 (6 to 12 weeks), AI and WhatsApp automation at ₹40,000 (2 to 4 weeks), online stores at ₹50,000 and websites at ₹10,000. Itemised quotes in about two working days, and five months of maintenance included after launch.",
   snapshot: [
     { label: "Economy", value: "Heritage tourism and luxury hospitality alongside mining, marble processing and a growing local IT services scene" },
     { label: "Tourist core", value: "Old city around City Palace, Jagdish Chowk, Lal Ghat, Gangaur Ghat and the shores of Lake Pichola and Fateh Sagar" },
@@ -71,11 +71,11 @@ const content: CityContent = {
   sections: [
     {
       id: "udaipur-software-development-company",
-      heading: "What should you expect from a software development company in Udaipur?",
+      heading: "What should you expect from a software development team in Udaipur?",
       paragraphs: [
-        "A software development company in Udaipur should be able to build three kinds of systems: guest-facing booking and messaging tools for hospitality, back-office software for events and trade, and data or order systems for the city's industrial base. If a vendor only talks about website design, you are speaking to a web studio, which is fine for brochures but not for operations.",
+        "A software development team in Udaipur should be able to build three kinds of systems: guest-facing booking and messaging tools for hospitality, back-office software for events and trade, and data or order systems for the city's industrial base. If a vendor only talks about website design, you are speaking to a web studio, which is fine for brochures but not for operations.",
         "BtechWaleTech works across all three as a freelance group, not a software house: three engineers working remotely from India, with no office in Udaipur, and we build through video calls, WhatsApp and shared test links. Our work covers custom web applications, AI agents, WhatsApp Business API automation, mobile apps and PWAs, data dashboards, cloud hosting, ecommerce, SEO and ongoing IT support. Everything is scoped in writing before any payment is taken.",
-        "The practical test for any Udaipur IT company is ownership. After launch you should hold the source code, database, domain, hosting account and every third-party account in your own name. We hand these over as standard, and our <a href='/about/'>about page</a> explains who the three of us are. For other Rajasthan cities, see the <a href='/it-services/rajasthan/'>Rajasthan hub</a>.",
+        "The practical test for any Udaipur IT services team is ownership. After launch you should hold the source code, database, domain, hosting account and every third-party account in your own name. We hand these over as standard, and our <a href='/about/'>about page</a> explains who the three of us are. For other Rajasthan cities, see the <a href='/it-services/rajasthan/'>Rajasthan hub</a>.",
       ],
     },
     {
@@ -183,7 +183,7 @@ const content: CityContent = {
     },
     {
       id: "udaipur-software-cost",
-      heading: "How much does a software development company in Udaipur charge?",
+      heading: "How much does a software development team in Udaipur charge?",
       paragraphs: [
         "With BtechWaleTech, Udaipur projects start at ₹10,000 for a static website, ₹20,000 for a 700+ page SEO website, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software such as a booking engine or event CRM, with SEO from ₹10,000 and maintenance from ₹8,000 per month.",
         "These are starting prices; the final figure moves with scope. A single-property booking engine with one payment option sits near the starting point; a multi-property system with a channel manager connection, multilingual AI concierge and owner dashboard sits well above it. We break every quote into line items so you can drop or phase anything that is not essential.",
@@ -208,9 +208,9 @@ const content: CityContent = {
     },
     {
       id: "choose-it-company-udaipur",
-      heading: "Freelance group or IT company in Udaipur: a hiring checklist",
+      heading: "Freelance group or IT services team in Udaipur: a hiring checklist",
       paragraphs: [
-        "Before hiring an IT company in Udaipur, confirm who writes the code, who owns the accounts, how bookings and payments are secured, what support costs after launch, and whether the firm has built something similar; these five checks prevent most of the disputes business owners describe after a bad project.",
+        "Before hiring an IT services team in Udaipur, confirm who writes the code, who owns the accounts, how bookings and payments are secured, what support costs after launch, and whether the firm has built something similar; these five checks prevent most of the disputes business owners describe after a bad project.",
         "Hospitality software deserves extra care. Ask how double bookings are prevented, where guest data is stored, how payment details are handled and whether the system still works if an OTA connection fails. Ask for a demo on a phone, since most guests will book that way.",
         "Also check the commercial terms. Monthly subscription products can suit some properties, but the fees continue for as long as you use them. Custom software costs more up front but belongs to you. Neither is wrong; what matters is knowing which you are buying and what leaving would cost.",
       ],
@@ -252,7 +252,7 @@ const content: CityContent = {
     { question: "How much does an Android and iOS app cost in Udaipur?", answer: "Android and iOS apps start from ₹40,000 and usually take six to ten weeks. We build once in Flutter or React Native and publish on both Google Play and the Apple App Store. The starting plan includes login, forms, push notifications and an admin panel; integrations with booking engines or channel managers add to the scope and are shown in the itemised quote." },
     { question: "Can you work with marble and industrial businesses too?", answer: "Yes. Besides hospitality, we build quotation portals, stock catalogues, dispatch trackers, vendor portals and receivables dashboards for marble processors and units in Madri, Sukher and Kaladwas. Where accounting runs in Tally, we sync or export data rather than replacing it." },
     { question: "Do you also make websites for small Udaipur shops?", answer: "Yes. A static website starts at ₹10,000 and suits cafés, craft shops, homestays and service providers. It includes mobile-friendly design, enquiry forms, basic SEO and a sitemap. Many small businesses start there and add a WhatsApp bot or online store later." },
-    { question: "Which is the best IT company in Udaipur?", answer: "It depends on what you need. Udaipur has established IT firms, specialist hospitality software vendors and freelancers. Compare them on relevant past work, ownership of code and data, itemised pricing, support after launch and who actually writes the code. Choose the one whose answers are clearest, not whose claims are biggest." },
+    { question: "Which is the best IT services team in Udaipur?", answer: "It depends on what you need. Udaipur has established IT firms, specialist hospitality software vendors and freelancers. Compare them on relevant past work, ownership of code and data, itemised pricing, support after launch and who actually writes the code. Choose the one whose answers are clearest, not whose claims are biggest." },
     { question: "How do we get started?", answer: "Message us on WhatsApp or through the <a href='/contact/'>contact page</a> with a short description of your business and the problem you want solved. We usually arrange a call, then send a written scope and itemised quote in about two working days. Work starts after you approve the scope and pay the first milestone." },
   ],
   nearby: ["ajmer", "pali", "bhilwara", "jodhpur", "jaipur", "ahmedabad", "vadodara", "neemuch"],

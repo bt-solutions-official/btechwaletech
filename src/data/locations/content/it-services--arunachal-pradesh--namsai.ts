@@ -13,8 +13,8 @@ const content: CityContent = {
       "iPhone app developers Namsai",
       "Android app development Namsai",
       "mobile app developers Namsai",
-      "software development company in Namsai",
-      "IT company in Namsai",
+      "software development team in Namsai",
+      "IT services team in Namsai",
       "freelance software developers in Namsai",
       "IT solutions Namsai",
       "custom software Namsai Arunachal",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Namsai · Namsai district · Arunachal Pradesh",
     h1: "Freelance software developers in Namsai for colleges, markets, tea growers and pagoda tourism",
     lede:
-      "Looking for a software development company in Namsai? BtechWaleTech is a freelance group of three software developers working remotely from India, building admission portals, workflow automation, mobile-first websites, AI assistants and simple dashboards for institutions and businesses across Namsai district. Starting prices are published, you deal directly with the engineers, and maintenance is free for five months after launch.",
+      "Looking for a software development team in Namsai? BtechWaleTech is a freelance group of three software developers working remotely from India, building admission portals, workflow automation, mobile-first websites, AI assistants and simple dashboards for institutions and businesses across Namsai district. Starting prices are published, you deal directly with the engineers, and maintenance is free for five months after launch.",
     pills: ["Admission and fee systems", "Workflow automation from ₹40,000", "Mobile-first sites from ₹10,000", "Android & iOS apps from ₹40,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -211,9 +211,9 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-company-namsai",
-      heading: "Freelance developers vs an IT company in Namsai: a hiring checklist",
+      heading: "Freelance developers vs an IT services team in Namsai: a hiring checklist",
       paragraphs: [
-        "Whether you hire freelance developers or an IT company in Namsai, compare written answers on ownership, support and scope, not just the headline price. A cheap build that locks you out of your own domain, or a developer who disappears after launch, usually ends up costing more than a properly scoped project.",
+        "Whether you hire freelance developers or an IT services team in Namsai, compare written answers on ownership, support and scope, not just the headline price. A cheap build that locks you out of your own domain, or a developer who disappears after launch, usually ends up costing more than a properly scoped project.",
         "Ask each provider for an itemised quote, examples of previous work (ours are on the <a href='/portfolio/'>portfolio</a>), the technologies they will use, and a written maintenance plan. Confirm that the domain, hosting and code will be in your name. For an admission portal, ask how they will handle the peak weeks when hundreds of students apply at once.",
         "Finally, test how they communicate before you pay anything. Send a question on WhatsApp on a Sunday evening and see how the reply reads. More about who we are is on our <a href='/about/'>about page</a>, and you can reach us through the <a href='/contact/'>contact page</a>.",
       ],

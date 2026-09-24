@@ -10,12 +10,12 @@ const bhainsa: CityContent = {
       "Telugu, Urdu and Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Bhainsa cotton traders, ginning units, dealers, clinics and schools.",
     keywords: [
       "IT services in Bhainsa",
-      "IT company in Bhainsa",
-      "website development company in Bhainsa",
+      "IT services team in Bhainsa",
+      "website development team in Bhainsa",
       "web design in Bhainsa",
-      "app development company in Bhainsa",
+      "app development team in Bhainsa",
       "Android app development in Bhainsa",
-      "software company in Bhainsa",
+      "software team in Bhainsa",
       "SEO services in Bhainsa",
       "digital marketing in Bhainsa",
       "ecommerce website in Bhainsa",
@@ -75,10 +75,10 @@ const bhainsa: CityContent = {
     },
     {
       id: "cotton-traders-ginning",
-      heading: "Software company in Bhainsa for cotton traders and ginning units",
+      heading: "Software team in Bhainsa for cotton traders and ginning units",
       paragraphs: [
         "Cotton is the crop that sets the rhythm of Bhainsa's year. When picking starts, carts and tractors queue at the market yard and ginning factories, and traders buy thousands of quintals over a few months. Each purchase involves a farmer's name, village, moisture and quality notes, a weighbridge slip, a rate, deductions, and a payment that may be split across days.",
-        "Most of this is still written in registers and copied into Excel late at night. Errors in weights or rates lead to disputes, and a missing entry can mean a farmer is paid twice or not at all. As a <strong>software company in Bhainsa</strong> in practical terms, we build purchase and payment tools that fix this. Each lot is entered once from a phone or the weighbridge computer, running totals appear per farmer and per day, and pending payments are listed clearly.",
+        "Most of this is still written in registers and copied into Excel late at night. Errors in weights or rates lead to disputes, and a missing entry can mean a farmer is paid twice or not at all. As a <strong>software team in Bhainsa</strong> in practical terms, we build purchase and payment tools that fix this. Each lot is entered once from a phone or the weighbridge computer, running totals appear per farmer and per day, and pending payments are listed clearly.",
         "Ginning and pressing units can track kapas received, lint and seed output, bale numbers, and dispatches to spinning mills with lorry details. Commission agents in the grain trade get a similar tool for paddy and maize. These systems start at ₹60,000 and are built in stages over six to twelve weeks; we suggest building in the off-season so the tool is tested before the next rush.",
         "Screens can be in Telugu, Urdu or Marathi for staff who prefer them, and data exports cleanly to Excel or your accountant's software. Nothing here replaces the official procurement systems; it simply keeps your own books straight.",
       ],
@@ -108,27 +108,27 @@ const bhainsa: CityContent = {
       heading: "Android app development in Bhainsa, and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when a known group of people will open it often. In Bhainsa, good examples are a cotton trader sending daily rate alerts to hundreds of regular farmers, a dealer taking orders from village retailers during the sowing rush, a school or coaching centre sending homework and fee reminders to parents, and a hospital issuing tokens so patients from distant villages know when to arrive.",
-        "As an <strong>app development company in Bhainsa</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version normally includes mobile number login, push notifications, the key screens your users need, and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Bhainsa</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version normally includes mobile number login, push notifications, the key screens your users need, and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Bhainsa</strong> with us starts at ₹40,000. Costs rise only for features you choose, such as online payment, offline mode for villages with weak signal, multilingual screens, maps or a link to your billing software. Each is priced separately in the quote. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, phone number and a rate list, a website plus a WhatsApp broadcast list does that job for much less. We will tell you so, because an app that farmers install once and forget is wasted money.",
       ],
     },
     {
       id: "hospitals-clinics-bhainsa",
-      heading: "Website development company in Bhainsa for hospitals, clinics and diagnostic centres",
+      heading: "Website development team in Bhainsa for hospitals, clinics and diagnostic centres",
       paragraphs: [
         "Bhainsa's hospitals, nursing homes, clinics and diagnostic centres serve a wide area, and patients often travel for an hour or more by bus or auto. A wasted trip because the doctor was not available is a real cost for a farming family. Clear information online prevents many of those trips.",
-        "A sensible <strong>website development company in Bhainsa</strong> keeps hospital sites plain and accurate: departments, doctors with qualifications and OPD days, emergency and ambulance numbers, test lists with preparation notes, insurance or scheme details where they apply, and a map. Pages should be in the languages your patients read, and should load quickly on slow connections.",
+        "A sensible <strong>website development team in Bhainsa</strong> keeps hospital sites plain and accurate: departments, doctors with qualifications and OPD days, emergency and ambulance numbers, test lists with preparation notes, insurance or scheme details where they apply, and a map. Pages should be in the languages your patients read, and should load quickly on slow connections.",
         "Adding a WhatsApp appointment link or a simple token booking form reduces crowding at the reception counter. Diagnostic centres can offer report download with a secure link, which saves patients a second journey. We avoid medical claims that cannot be supported and follow your guidance on what may be said about treatments.",
         "These sites start at ₹10,000 for a small clinic and grow with the number of departments and features. Hospitals that want patient records or billing software get a separate web app, starting at ₹60,000, built with attention to privacy and access control.",
       ],
     },
     {
       id: "schools-coaching-bhainsa",
-      heading: "IT company in Bhainsa for schools, junior colleges and coaching centres",
+      heading: "IT services team in Bhainsa for schools, junior colleges and coaching centres",
       paragraphs: [
         "Families across the division send children to Bhainsa for schooling, intermediate colleges and coaching, and many aim for the IIIT campus at nearby Basar or other competitive entrance exams. Parents want to compare fees, results, transport routes and hostels before they visit, and they want answers in their own language.",
-        "When schools approach us looking for an <strong>IT company in Bhainsa</strong>, the most useful work tends to be practical. An admission page with eligibility, fee structure and a form; a transport page with routes and stops; a results page stated carefully; a gallery of real events; and a notice board that staff can update from a phone without calling a developer.",
+        "When schools approach us looking for an <strong>IT services team in Bhainsa</strong>, the most useful work tends to be practical. An admission page with eligibility, fee structure and a form; a transport page with routes and stops; a results page stated carefully; a gallery of real events; and a notice board that staff can update from a phone without calling a developer.",
         "For coaching centres, we add batch timings, test schedules and a counselling-call booking form. For larger institutions, we build parent apps that deliver homework, attendance, fee reminders and circulars as push notifications, which saves the printing and the paper chits that never reach home.",
         "Fee collection by UPI with automatic receipts, document upload for admissions and a dashboard of enquiries by class are all possible, and each is priced as a separate item so you choose only what helps.",
       ],
@@ -235,7 +235,7 @@ const bhainsa: CityContent = {
         "A simple site is normally live within one to two weeks of receiving your details and photos. A 700+ page SEO site takes about three to five weeks, an online store four to eight weeks, and custom software six to twelve. Sending content early is the surest way to keep a project fast.",
     },
     {
-      question: "Which is the best website development company in Bhainsa?",
+      question: "Which is the best website development team in Bhainsa?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, supports you after launch and can show real work. Ask everyone the same questions and compare. We meet those tests and reply on WhatsApp seven days a week, but looking at two or three options first is sensible.",
     },

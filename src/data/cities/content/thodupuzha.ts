@@ -10,12 +10,12 @@ const thodupuzha: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Thodupuzha spice and rubber traders, pineapple growers, colleges and clinics.",
     keywords: [
       "IT services in Thodupuzha",
-      "IT company in Thodupuzha",
-      "website development company in Thodupuzha",
+      "IT services team in Thodupuzha",
+      "website development team in Thodupuzha",
       "web design in Thodupuzha",
-      "app development company in Thodupuzha",
+      "app development team in Thodupuzha",
       "Android app development in Thodupuzha",
-      "software company in Thodupuzha",
+      "software team in Thodupuzha",
       "SEO services in Thodupuzha",
       "digital marketing in Thodupuzha",
       "ecommerce website in Thodupuzha",
@@ -74,10 +74,10 @@ const thodupuzha: CityContent = {
     },
     {
       id: "spice-rubber-traders",
-      heading: "Website development company in Thodupuzha for spice, rubber and produce traders",
+      heading: "Website development team in Thodupuzha for spice, rubber and produce traders",
       paragraphs: [
         "Produce trading in Thodupuzha runs on trust, daily rates and long relationships with growers. Many dealers still keep purchase books by hand and share rates by phone. Buyers in other states, meanwhile, search online for Idukki pepper, cardamom and coffee and often land on sellers who have never been near the hills.",
-        "As a <strong>website development company in Thodupuzha</strong>, we build sites that show what you actually trade: grades you deal in, packing sizes, minimum order quantities for wholesale buyers, licences you hold and how to contact you. A page updated with daily indicative rates, clearly marked as indicative, often brings repeat visits from growers and small buyers.",
+        "As a <strong>website development team in Thodupuzha</strong>, we build sites that show what you actually trade: grades you deal in, packing sizes, minimum order quantities for wholesale buyers, licences you hold and how to contact you. A page updated with daily indicative rates, clearly marked as indicative, often brings repeat visits from growers and small buyers.",
         "Behind the site, a purchase register can record each farmer's lot with weight, grade, moisture notes, rate and payment status, with totals by day and by grower. Staff enter data on a phone at the counter, and you see the summary on a laptop. This is usually simpler and cheaper than a full accounting system, and it can export to your accountant's software.",
       ],
     },
@@ -110,10 +110,10 @@ const thodupuzha: CityContent = {
     },
     {
       id: "android-ios-apps-thodupuzha",
-      heading: "App development company in Thodupuzha: Android and iOS apps that get used",
+      heading: "App development team in Thodupuzha: Android and iOS apps that get used",
       paragraphs: [
         "An app earns its cost when the same people open it often. A produce trader with collection agents in the hills can give them an app to record lots, weights and advances in the field, even with weak signal, and sync when back in range. A college can send timetables, exam notices and fee reminders by push notification. A hospital can let patients book tokens and download lab reports. A textile chain can run a loyalty and offer app for regular customers.",
-        "As an <strong>app development company in Thodupuzha</strong>, we deliver <strong>Android app development in Thodupuzha</strong> and iOS apps from one codebase using Flutter or React Native. A typical app includes phone-number login, push notifications, the main booking, ordering or data-entry flow, UPI and card payment where needed, and an admin panel for your office. We publish it on Google Play and the App Store under your own accounts.",
+        "As an <strong>app development team in Thodupuzha</strong>, we deliver <strong>Android app development in Thodupuzha</strong> and iOS apps from one codebase using Flutter or React Native. A typical app includes phone-number login, push notifications, the main booking, ordering or data-entry flow, UPI and card payment where needed, and an admin panel for your office. We publish it on Google Play and the App Store under your own accounts.",
         "Apps start at ₹40,000, and the final quote depends on screens and features. If your customers come once a year, a quick website with WhatsApp booking is the better choice, and we will say that. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -137,10 +137,10 @@ const thodupuzha: CityContent = {
     },
     {
       id: "colleges-hospitals-software",
-      heading: "Software company in Thodupuzha for colleges, hospitals and wholesalers",
+      heading: "Software team in Thodupuzha for colleges, hospitals and wholesalers",
       paragraphs: [
         "With Newman College, St. Joseph's College, the University College of Engineering and many schools and coaching centres, Thodupuzha has a large student population. Its hospitals and diagnostic centres serve patients from across the taluk and the hills. Wholesalers supply shops in the villages above. All of them struggle with the same things: records, reminders and follow-up.",
-        "As a <strong>software company in Thodupuzha</strong>, we build browser-based systems that follow your existing workflow. A coaching centre might get admissions, batches, fee dues and attendance with parent messages. A clinic might get appointment tokens, patient history and report download. A wholesaler might get billing, stock and credit limits with reminders for overdue shops. Data sits in cloud storage you own.",
+        "As a <strong>software team in Thodupuzha</strong>, we build browser-based systems that follow your existing workflow. A coaching centre might get admissions, batches, fee dues and attendance with parent messages. A clinic might get appointment tokens, patient history and report download. A wholesaler might get billing, stock and credit limits with reminders for overdue shops. Data sits in cloud storage you own.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks, delivered in stages so the most useful part is ready first. If an existing tool already fits your need at a small monthly cost, we will point you to it.",
       ],
     },
@@ -155,11 +155,11 @@ const thodupuzha: CityContent = {
     },
     {
       id: "remote-it-company-thodupuzha",
-      heading: "IT company in Thodupuzha without an office: how remote work is organised",
+      heading: "IT services team in Thodupuzha without an office: how remote work is organised",
       paragraphs: [
         "We have no office in Thodupuzha, Kochi or anywhere else in Kerala. What protects you is a written process. Scope, timeline and itemised costs arrive before any work starts. Each stage is shared on a preview link you can open on your phone, and we move on only after you approve.",
         "We answer on WhatsApp seven days a week in Indian time, and use calls and screen shares whenever something needs explaining. You can send photographs, voice notes and documents in Malayalam or English. If new photographs are needed, we explain how to take usable ones on a phone or suggest hiring a local photographer for a day.",
-        "Working with an <strong>IT company in Thodupuzha</strong> that is remote changes where meetings happen, not who owns the work. That belongs to you from the first day.",
+        "Working with an <strong>IT services team in Thodupuzha</strong> that is remote changes where meetings happen, not who owns the work. That belongs to you from the first day.",
       ],
     },
     {
@@ -218,7 +218,7 @@ const thodupuzha: CityContent = {
         "Once we have your photographs and details, a simple site takes one to two weeks. A large SEO site takes three to five weeks, a store four to eight, and custom software six to twelve. Projects move fastest when price lists, timings and pictures reach us in the first few days.",
     },
     {
-      question: "Which is the best website development company in Thodupuzha?",
+      question: "Which is the best website development team in Thodupuzha?",
       answer:
         "The best choice is a provider who publishes starting prices, registers the domain and code in your name, shows live work and still replies after launch. Ask each option the same questions and compare written quotes. We meet those tests and reply on WhatsApp daily, but comparing a few providers is sensible.",
     },

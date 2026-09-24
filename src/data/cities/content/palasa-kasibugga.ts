@@ -10,12 +10,12 @@ const palasaKasibugga: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Palasa cashew processors, traders, Uddanam growers, clinics and schools.",
     keywords: [
       "IT services in Palasa Kasibugga",
-      "IT company in Palasa",
-      "website development company in Palasa Kasibugga",
+      "IT services team in Palasa",
+      "website development team in Palasa Kasibugga",
       "web design in Palasa",
-      "app development company in Palasa Kasibugga",
+      "app development team in Palasa Kasibugga",
       "Android app development in Palasa",
-      "software company in Palasa Kasibugga",
+      "software team in Palasa Kasibugga",
       "SEO services in Palasa",
       "digital marketing in Palasa Kasibugga",
       "ecommerce website in Palasa",
@@ -74,19 +74,19 @@ const palasaKasibugga: CityContent = {
     },
     {
       id: "cashew-processing-software",
-      heading: "Software company in Palasa for cashew processing units",
+      heading: "Software team in Palasa for cashew processing units",
       paragraphs: [
         "Palasa has more than 350 cashew processing units, and the sector supports around 15,000 people directly and indirectly. A unit buys raw nuts from local farmers or imported lots, then dries, boils or roasts, shells, peels, grades and packs the kernels. Every stage changes weight, and every lot yields differently.",
         "Owners need to know which lot of raw nut produced how many kilograms of each grade, what wages were paid for shelling and peeling, what stock sits in the godown and which buyer still owes money. Much of this lives in registers and on the supervisor's memory.",
-        "As a <strong>software company in Palasa Kasibugga</strong>, we build web tools shaped around that flow. A lot is entered when raw nuts arrive, output by grade is recorded after grading, and the system calculates yield, cost per kilogram and stock by grade. Buyer orders, dispatches and payments sit alongside. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, starting with the lot and yield register because it shows losses fastest.",
+        "As a <strong>software team in Palasa Kasibugga</strong>, we build web tools shaped around that flow. A lot is entered when raw nuts arrive, output by grade is recorded after grading, and the system calculates yield, cost per kilogram and stock by grade. Buyer orders, dispatches and payments sit alongside. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, starting with the lot and yield register because it shows losses fastest.",
       ],
     },
     {
       id: "cashew-traders-exporters-websites",
-      heading: "Website development company in Palasa Kasibugga for cashew traders and wholesalers",
+      heading: "Website development team in Palasa Kasibugga for cashew traders and wholesalers",
       paragraphs: [
         "Palasa is described as the largest cashew kernel centre in Andhra Pradesh, and its traders sell to wholesalers, dry fruit shops, sweet makers and brands across the country. Those buyers increasingly check a supplier online before placing a first order.",
-        "A <strong>website development company in Palasa Kasibugga</strong> should give such buyers what they check: grades offered, packing sizes and formats, moisture and quality practices you actually follow, FSSAI and GST details, minimum order quantities, dispatch methods and named contacts. Real photographs of your unit and your packed product matter more than decorative design.",
+        "A <strong>website development team in Palasa Kasibugga</strong> should give such buyers what they check: grades offered, packing sizes and formats, moisture and quality practices you actually follow, FSSAI and GST details, minimum order quantities, dispatch methods and named contacts. Real photographs of your unit and your packed product matter more than decorative design.",
         "We do not publish certifications, capacities or client names that you cannot document, and we never list a buyer without permission. A trade catalogue site starts at ₹10,000. Adding a wholesale enquiry form that captures grade, quantity and delivery city means you receive useful leads instead of vague messages.",
       ],
     },
@@ -110,10 +110,10 @@ const palasaKasibugga: CityContent = {
     },
     {
       id: "hospitals-clinics-palasa",
-      heading: "IT company in Palasa Kasibugga for hospitals, clinics and diagnostic labs",
+      heading: "IT services team in Palasa Kasibugga for hospitals, clinics and diagnostic labs",
       paragraphs: [
         "Patients from the Uddanam mandals and from towns across the Odisha border come to Palasa for treatment. The region has been studied for years because of the chronic kidney disease reported among its farming families, and clinics, dialysis centres, labs and pharmacies serve a steady stream of people who need clear information.",
-        "An <strong>IT company in Palasa Kasibugga</strong> can help a hospital publish that information in Telugu and English: departments, doctors and qualifications, OPD days, tests available, emergency numbers and directions from the bus stand and railway station. Pages should load quickly on basic phones.",
+        "An <strong>IT services team in Palasa Kasibugga</strong> can help a hospital publish that information in Telugu and English: departments, doctors and qualifications, OPD days, tests available, emergency numbers and directions from the bus stand and railway station. Pages should load quickly on basic phones.",
         "We never publish medical claims or patient stories without written consent. A clinic website starts at ₹10,000, and appointment requests, WhatsApp reminders or lab report downloads are quoted as separate items so you can choose what actually reduces crowding at your counter.",
       ],
     },
@@ -149,7 +149,7 @@ const palasaKasibugga: CityContent = {
       heading: "Android app development in Palasa Kasibugga, with iOS from one codebase",
       paragraphs: [
         "An app pays off when a known group returns to it often. In Palasa that could be wholesale buyers checking current grades and stock and placing repeat orders, supervisors in a processing unit logging daily output by grade, a school's parents reading notices and paying fees, or a hospital's patients booking follow-up visits.",
-        "As an <strong>app development company in Palasa Kasibugga</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release usually has mobile number login, push notifications, the main screens your users need and an admin panel. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Palasa Kasibugga</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first release usually has mobile number login, push notifications, the main screens your users need and an admin panel. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Palasa</strong> with us starts at ₹40,000. Payments, offline use inside units with weak signal, multiple languages and integrations add cost, and each is listed in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "If buyers only need your grade list, prices and phone number, a website does that for far less. We will recommend it in that case, since an app installed once and never opened is wasted money.",
       ],
@@ -232,7 +232,7 @@ const palasaKasibugga: CityContent = {
         "A simple website of up to 100 pages usually goes live in one to two weeks after we receive photographs, grade or price lists and text. SEO websites take three to five weeks and online stores four to eight. Content delays are the usual cause of slippage, so we send a checklist on day one.",
     },
     {
-      question: "Who is the best website development company in Palasa Kasibugga?",
+      question: "Who is the best website development team in Palasa Kasibugga?",
       answer:
         "Choose one that shows real work, publishes starting prices, registers your domain and code in your name and answers after launch. Ask every provider the same questions and compare written quotes. We meet those tests and reply on WhatsApp all week, but speaking to two or three options is sensible.",
     },

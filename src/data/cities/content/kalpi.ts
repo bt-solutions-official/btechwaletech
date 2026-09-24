@@ -10,12 +10,12 @@ const kalpi: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Kalpi handmade paper units, grain traders, schools, clinics and shops on NH 27.",
     keywords: [
       "IT services in Kalpi",
-      "IT company in Kalpi",
-      "website development company in Kalpi",
+      "IT services team in Kalpi",
+      "website development team in Kalpi",
       "web design in Kalpi",
-      "app development company in Kalpi",
+      "app development team in Kalpi",
       "Android app development in Kalpi",
-      "software company in Kalpi",
+      "software team in Kalpi",
       "SEO services in Kalpi",
       "digital marketing in Kalpi",
       "ecommerce website in Kalpi",
@@ -74,10 +74,10 @@ const kalpi: CityContent = {
     },
     {
       id: "handmade-paper-kalpi",
-      heading: "Website development company in Kalpi for handmade paper manufacturers",
+      heading: "Website development team in Kalpi for handmade paper manufacturers",
       paragraphs: [
         "The handmade paper trade is Kalpi's best-known industry and the notified One District One Product item for Jalaun. Units collect cotton cutting waste from garment makers, chop it, beat it into pulp and form sheets by hand, which are then pressed, dried and converted into office files, carry bags, visiting cards, gift wrap, blotting and absorption sheets. The local association has spoken of around eighteen active factories in the industrial area, with many more workers in allied jobs.",
-        "Buyers for these products are often far away: stationery wholesalers, corporate gifting firms, eco-friendly packaging brands and export houses. They look for a supplier online before they pick up the phone. A <strong>website development company in Kalpi</strong> should therefore build pages that answer a purchase manager's questions directly: sheet sizes and GSM ranges, colours and textures, finished products, minimum order quantities, sample policy, lead times, packing, GST number and a named contact.",
+        "Buyers for these products are often far away: stationery wholesalers, corporate gifting firms, eco-friendly packaging brands and export houses. They look for a supplier online before they pick up the phone. A <strong>website development team in Kalpi</strong> should therefore build pages that answer a purchase manager's questions directly: sheet sizes and GSM ranges, colours and textures, finished products, minimum order quantities, sample policy, lead times, packing, GST number and a named contact.",
         "We add clear photographs of real sheets against a plain background, close-ups that show the fibre, and a short, honest account of the process from rag to sheet. A sample request form that asks for product, quantity and delivery city filters out casual enquiries. For units that also export, we can add an English catalogue with specifications in a downloadable PDF. A static catalogue site starts at ₹10,000; a larger build with separate pages for every product line starts at ₹20,000.",
       ],
       list: [
@@ -98,10 +98,10 @@ const kalpi: CityContent = {
     },
     {
       id: "grain-ghee-traders",
-      heading: "Software company in Kalpi for grain, ghee and farm input traders",
+      heading: "Software team in Kalpi for grain, ghee and farm input traders",
       paragraphs: [
         "Kalpi has been a trading post for grain, ghee and cotton for a long time, and the surrounding villages of Jalaun still depend on wheat, pulses and oilseeds. Traders, commission agents, fertiliser and seed dealers, and ghee sellers handle large volumes on thin margins, and much of their record-keeping still lives in registers and memory.",
-        "As a <strong>software company in Kalpi</strong> in the practical sense, we build small web tools that replace the parts of that paperwork that cause disputes. A purchase register records each lot with farmer, commodity, weight, rate and deductions. A sales side tracks buyers, dispatch and truck details. A ledger shows who owes what, and reminders go out on WhatsApp when a payment is overdue. Dealers of seeds and fertiliser can add stock by batch and expiry date.",
+        "As a <strong>software team in Kalpi</strong> in the practical sense, we build small web tools that replace the parts of that paperwork that cause disputes. A purchase register records each lot with farmer, commodity, weight, rate and deductions. A sales side tracks buyers, dispatch and truck details. A ledger shows who owes what, and reminders go out on WhatsApp when a payment is overdue. Dealers of seeds and fertiliser can add stock by batch and expiry date.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually begin with the one register that loses you the most money when it goes wrong, get it working on staff phones, and add the rest only after you have used it through one season. If a ready-made billing package already does what you need, we will tell you to buy that instead.",
       ],
     },
@@ -110,7 +110,7 @@ const kalpi: CityContent = {
       heading: "Android app development in Kalpi and iOS apps for local businesses",
       paragraphs: [
         "A mobile app earns its keep when the same group of people opens it again and again. In Kalpi, likely cases are dealers and retailers who reorder paper products every month, a coaching centre or school that sends homework, fee reminders and notices to parents, a clinic that gives out tokens, a transporter whose drivers log trips on NH 27, or a grain trader whose regular buyers want to check rates and place orders.",
-        "As an <strong>app development company in Kalpi</strong> that works remotely, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version typically includes login by mobile number, push notifications, the few screens your users really need, and an admin panel your staff can run from a laptop or phone. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
+        "As an <strong>app development team in Kalpi</strong> that works remotely, we use Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version typically includes login by mobile number, push notifications, the few screens your users really need, and an admin panel your staff can run from a laptop or phone. We publish the app on Google Play and the Apple App Store using developer accounts registered in your name.",
         "<strong>Android app development in Kalpi</strong> with us starts at ₹40,000. The price rises with online payment, offline mode for patchy networks, maps, barcode scanning or links to your billing software, and each of these appears as its own line in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
         "An app is not always the answer. If customers only need your address, phone number, product photos and a price list, a well-made website does that job at a fraction of the cost and needs no download. We will say so plainly, because an app that is installed once and forgotten is money you will not get back.",
       ],
@@ -234,7 +234,7 @@ const kalpi: CityContent = {
         "A simple shop website is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Kalpi?",
+      question: "Which is the best website development team in Kalpi?",
       answer:
         "Choose a provider that shows its prices, registers the domain and code in your name, keeps supporting you after launch and can show real work. Put the same questions to everyone. We meet those standards and reply on WhatsApp every day, but comparing two or three options before deciding is sensible.",
     },

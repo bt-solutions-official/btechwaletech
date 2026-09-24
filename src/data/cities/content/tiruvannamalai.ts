@@ -9,7 +9,7 @@ const tiruvannamalai: CityContent = {
     description:
       "Websites, local SEO, stores and WhatsApp automation for Tiruvannamalai lodges, ashram-area cafés, pilgrim services, clinics, colleges and Arani silk sellers.",
     keywords: [
-      "website development company in Tiruvannamalai",
+      "website development team in Tiruvannamalai",
       "web designer Tiruvannamalai",
       "website design Tiruvannamalai Tamil Nadu",
       "freelance web developer Tiruvannamalai",

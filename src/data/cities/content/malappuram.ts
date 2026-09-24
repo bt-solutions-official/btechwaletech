@@ -9,7 +9,7 @@ const malappuram: CityContent = {
     description:
       "Websites, Malayalam-aware SEO and WhatsApp automation for Malappuram clinics, Ayurveda firms, travel agents and retailers. From ₹10,000, and you own the code.",
     keywords: [
-      "website development company in Malappuram",
+      "website development team in Malappuram",
       "web design Malappuram",
       "Malappuram website cost",
       "SEO services Malappuram",

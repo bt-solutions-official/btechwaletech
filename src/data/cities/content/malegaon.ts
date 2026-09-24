@@ -9,12 +9,12 @@ const malegaon: CityContent = {
     description:
       "Websites, SEO and WhatsApp order systems for Malegaon powerloom owners, cloth traders, clinics and schools. Marathi, Urdu and Hindi content, from ₹10,000.",
     keywords: [
-      "website development company in Malegaon",
+      "website development team in Malegaon",
       "web designer Malegaon",
       "website design Malegaon Nashik",
       "powerloom business website",
       "grey cloth manufacturer website",
-      "SEO company Malegaon",
+      "SEO team Malegaon",
       "local SEO Malegaon",
       "ecommerce website Malegaon",
       "software for powerloom units",

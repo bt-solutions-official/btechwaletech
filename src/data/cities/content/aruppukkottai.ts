@@ -10,12 +10,12 @@ const aruppukkottai: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Aruppukkottai spinning mills, saree weavers, powerloom units, rice mills and clinics.",
     keywords: [
       "IT services in Aruppukkottai",
-      "IT company in Aruppukottai",
-      "website development company in Aruppukkottai",
+      "IT services team in Aruppukottai",
+      "website development team in Aruppukkottai",
       "web design in Aruppukottai",
-      "app development company in Aruppukkottai",
+      "app development team in Aruppukkottai",
       "Android app development in Aruppukottai",
-      "software company in Aruppukkottai",
+      "software team in Aruppukkottai",
       "SEO services in Aruppukottai",
       "digital marketing in Aruppukkottai",
       "ecommerce website in Aruppukkottai",
@@ -75,11 +75,11 @@ const aruppukkottai: CityContent = {
     },
     {
       id: "spinning-mills-software",
-      heading: "Software company in Aruppukkottai for spinning mills and yarn traders",
+      heading: "Software team in Aruppukkottai for spinning mills and yarn traders",
       paragraphs: [
         "Spinning mills are among the largest employers in Aruppukkottai, and several line the roads out of town, including the road to Tiruchuli. They buy cotton, spin yarn in different counts, and sell to weavers, knitters and garment makers in Tamil Nadu and beyond. Yarn agents and traders connect smaller mills with buyers.",
         "The data problems here are familiar. Mills track cotton bales received by variety and lot, yarn produced by count and shift, stock in the godown, orders from each buyer, dispatches, quality test reports and payments due. When this sits in separate spreadsheets or registers, the owner cannot see the true position without calling three people.",
-        "As a <strong>software company in Aruppukkottai</strong>, we build web tools that bring these records into one place. Supervisors enter production and dispatches from a phone or desktop, and the owner sees stock by count, pending orders, dispatch plans and outstanding amounts on one screen. Buyer statements and dispatch details can go out on WhatsApp or email automatically.",
+        "As a <strong>software team in Aruppukkottai</strong>, we build web tools that bring these records into one place. Supervisors enter production and dispatches from a phone or desktop, and the owner sees stock by count, pending orders, dispatch plans and outstanding amounts on one screen. Buyer statements and dispatch details can go out on WhatsApp or email automatically.",
         "We do not replace the machine-level systems that larger mills already run. We fill the gap between the shop floor and the office. Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, with Tally exports planned alongside your accountant. See our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -95,10 +95,10 @@ const aruppukkottai: CityContent = {
     },
     {
       id: "powerloom-towels-lungis",
-      heading: "Website development company in Aruppukkottai for powerloom units",
+      heading: "Website development team in Aruppukkottai for powerloom units",
       paragraphs: [
         "Beside the handloom tradition, Aruppukkottai has many powerloom units making cotton towels, lungis and bedsheets. Most sell through agents and wholesalers to shops across Tamil Nadu and other states, and some take bulk orders from hotels, hospitals and exporters.",
-        "A <strong>website development company in Aruppukkottai</strong> can help these units reach buyers directly. A clear product site shows each range with sizes, GSM or weight, colours, packing, minimum order quantity and delivery time, along with GST details and a direct contact. Buyers searching for a towel manufacturer near Madurai often shortlist suppliers from what they find online.",
+        "A <strong>website development team in Aruppukkottai</strong> can help these units reach buyers directly. A clear product site shows each range with sizes, GSM or weight, colours, packing, minimum order quantity and delivery time, along with GST details and a direct contact. Buyers searching for a towel manufacturer near Madurai often shortlist suppliers from what they find online.",
         "Inside the unit, a simple production tool records loom-wise output per shift, weaver attendance and piece-rate wages, yarn issued and returned, and finished stock by product. Weekly wage calculations that take hours by hand can be done in minutes, and the owner can check output from a phone.",
         "A product website starts at ₹10,000 and is live in one to two weeks. Production and wage tools are quoted as custom software. We never name a customer on your site without their written consent.",
       ],
@@ -138,7 +138,7 @@ const aruppukkottai: CityContent = {
       heading: "Android app development in Aruppukkottai, and iOS apps for local firms",
       paragraphs: [
         "An app pays off when a defined group uses it frequently. In Aruppukkottai, good examples are a weaving unit where supervisors log loom output and wages each shift, a saree seller whose repeat buyers re-order favourite designs, a yarn trader sharing daily stock and rates with regular customers, a school sending notices and fee reminders, or a hospital issuing tokens.",
-        "As an <strong>app development company in Aruppukkottai</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes OTP login, push notifications, the main screens your users need and an admin panel. Tamil and English are both supported, and we test on the budget Android phones that most workers carry.",
+        "As an <strong>app development team in Aruppukkottai</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes OTP login, push notifications, the main screens your users need and an admin panel. Tamil and English are both supported, and we test on the budget Android phones that most workers carry.",
         "<strong>Android app development in Aruppukkottai</strong> with us starts at ₹40,000. Payments, offline entry for areas with weak signal, maps, multiple user roles and links to your billing software add cost, and each is shown on the quote. We publish on Google Play and the Apple App Store under developer accounts registered to you. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings, a catalogue and a way to message you, a website with a good map listing does the job for much less. We will say so when that is the better choice.",
       ],
@@ -165,9 +165,9 @@ const aruppukkottai: CityContent = {
     },
     {
       id: "remote-team-aruppukkottai",
-      heading: "IT company in Aruppukkottai or remote team? How we actually work",
+      heading: "IT services team in Aruppukkottai or remote team? How we actually work",
       paragraphs: [
-        "Plenty of people reach us by searching for an <strong>IT company in Aruppukkottai</strong>, and it is fair to be upfront: none of our three engineers lives there, and we keep no local office. What replaces the office visit is paperwork done properly. After an opening call about your business, you receive a written scope listing every page or app screen, a delivery schedule and the itemised quote.",
+        "Plenty of people reach us by searching for an <strong>IT services team in Aruppukkottai</strong>, and it is fair to be upfront: none of our three engineers lives there, and we keep no local office. What replaces the office visit is paperwork done properly. After an opening call about your business, you receive a written scope listing every page or app screen, a delivery schedule and the itemised quote.",
         "Once you say yes, work appears on a private preview link. Open it on your phone at the mill, pass it to your son in Chennai, show it to the college principal, and send us comments on WhatsApp. Any Tamil copy comes to you for approval before publishing. We answer messages seven days a week, on Indian Standard Time, and if a date is going to slip we say so early rather than on the day.",
         "Money moves in stages linked to finished work you have already seen, and no invoice is raised until the written quote has your approval. A first-time client can begin with something small, like cleaning up a Google listing, and judge us on that before committing to a store or software.",
       ],
@@ -232,7 +232,7 @@ const aruppukkottai: CityContent = {
         "Once your photos and text reach us, a static site is normally live within one to two weeks. Larger SEO sites need three to five weeks, stores four to eight, and custom software six to twelve. Delays usually come from waiting on content, so collecting product photos early saves the most time.",
     },
     {
-      question: "Which is the best website development company in Aruppukkottai?",
+      question: "Which is the best website development team in Aruppukkottai?",
       answer:
         "There is no single answer, so test each option the same way. Does the provider show starting prices openly, register your domain and code under your name, answer after launch, and show sites it has actually built? We pass those checks, but we still suggest getting two or three quotes side by side.",
     },

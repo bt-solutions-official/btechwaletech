@@ -1,0 +1,22 @@
+---
+import FreelancePage from "@components/freelance/FreelancePage.astro";
+import type { FreelanceContent } from "@data/freelance/types";
+
+// /{keyword}/ service-keyword pages. Like [city].astro, a page is only generated once its content file exists.
+export function getStaticPaths() {
+  const modules = import.meta.glob<{ default: FreelanceContent }>("../data/keywords/content/*.ts", { eager: true });
+  return Object.entries(modules).map(([file, { default: content }]) => {
+    const slug = file.split("/").pop()!.replace(/\.ts$/, "");
+    if (content.path !== `/${slug}/`) throw new Error(`Keyword content ${file} has path "${content.path}", expected "/${slug}/"`);
+    return { params: { keyword: slug }, props: { content } };
+  });
+}
+
+interface Props {
+  content: FreelanceContent;
+}
+
+const { content } = Astro.props;
+---
+
+<FreelancePage content={content} />

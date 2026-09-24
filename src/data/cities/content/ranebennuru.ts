@@ -9,7 +9,7 @@ const ranebennuru: CityContent = {
     description:
       "Websites from ₹10,000 for Ranebennuru seed companies, cotton and APMC traders, clinics, colleges and shops, with Kannada pages, Google Maps work and WhatsApp tools.",
     keywords: [
-      "website development company in Ranebennuru",
+      "website development team in Ranebennuru",
       "website design Ranebennur",
       "web designer Ranibennur",
       "seed company website Karnataka",

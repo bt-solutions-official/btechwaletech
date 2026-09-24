@@ -9,7 +9,7 @@ const anantapur: CityContent = {
     description:
       "Websites, Telugu SEO, online stores and WhatsApp automation for Anantapur agri traders, Dharmavaram silk sellers, institutes and clinics. Sites from ₹10,000.",
     keywords: [
-      "website development company in Anantapur",
+      "website development team in Anantapur",
       "web designer Anantapur",
       "website design Ananthapuramu",
       "freelance web developer Anantapur",

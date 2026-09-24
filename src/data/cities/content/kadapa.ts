@@ -9,7 +9,7 @@ const kadapa: CityContent = {
     description:
       "Websites, Telugu and English SEO and WhatsApp tools for Kadapa clinics, colleges, cement and mineral suppliers, jewellers and traders. From ₹10,000, owned by you.",
     keywords: [
-      "website development company in Kadapa",
+      "website development team in Kadapa",
       "website designer Kadapa",
       "web developer Cuddapah",
       "SEO services Kadapa",

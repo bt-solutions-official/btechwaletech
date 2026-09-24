@@ -10,12 +10,12 @@ const rampuraPhul: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Rampura Phul arhtiyas, rice shellers, vet clinics, colleges and farm supply dealers.",
     keywords: [
       "IT services in Rampura Phul",
-      "IT company in Rampura Phul",
-      "website development company in Rampura Phul",
+      "IT services team in Rampura Phul",
+      "website development team in Rampura Phul",
       "web design in Rampura Phul",
-      "app development company in Rampura Phul",
+      "app development team in Rampura Phul",
       "Android app development in Rampura Phul",
-      "software company in Rampura Phul",
+      "software team in Rampura Phul",
       "SEO services in Rampura Phul",
       "digital marketing in Rampura Phul",
       "ecommerce website in Rampura Phul",
@@ -74,19 +74,19 @@ const rampuraPhul: CityContent = {
     },
     {
       id: "arhtiya-software",
-      heading: "Software company in Rampura Phul for arhtiyas and the grain trade",
+      heading: "Software team in Rampura Phul for arhtiyas and the grain trade",
       paragraphs: [
         "The most useful digital tool for an arhtiya in Rampura Phul is an accurate account book; a website comes second. During wheat procurement in April and the paddy season from October, commission agents here receive crop from dozens of villages, advance cash to farmers who sell through them every year, pay labour for cleaning, filling and loading, and then wait for payments from procurement agencies to come through.",
-        "As a <strong>software company in Rampura Phul</strong> for this trade, we build a web-based register that works from a phone or the office computer. Each heap is recorded once with farmer name, village, crop, bags, weight and rate. Advances are tracked per farmer, labour and transport costs are split by lot, and a running statement can be sent to the farmer on WhatsApp in Punjabi. Each partner in the firm gets a login with the right permissions.",
+        "As a <strong>software team in Rampura Phul</strong> for this trade, we build a web-based register that works from a phone or the office computer. Each heap is recorded once with farmer name, village, crop, bags, weight and rate. Advances are tracked per farmer, labour and transport costs are split by lot, and a running statement can be sent to the farmer on WhatsApp in Punjabi. Each partner in the firm gets a login with the right permissions.",
         "Tools like this start at ₹60,000 and are delivered in stages over six to twelve weeks. We usually build the farmer ledger first and time the launch for the gap between seasons, so nobody learns new software while the yard is full of heaps. Existing records can be imported from Excel sheets or Tally exports if you keep them.",
       ],
     },
     {
       id: "rice-shellers-cotton-ginners",
-      heading: "Website development company in Rampura Phul for rice shellers and cotton ginners",
+      heading: "Website development team in Rampura Phul for rice shellers and cotton ginners",
       paragraphs: [
         "Rampura Phul's small industry is mostly agro-processing: rice shellers that mill paddy from the surrounding fields and ginning units that separate cotton lint from seed before it moves on to spinning mills. Several units sit around the industrial focal point on the Maur road side of town, and others are spread along the roads leading out to the villages.",
-        "For these units, a <strong>website development company in Rampura Phul</strong> should build something a purchase manager in Ludhiana or a buyer from another state takes seriously. That means a plain, fast site listing milling or ginning capacity, varieties handled, packing options, storage, quality checks, GST registration and a named person to call. The photographs should show your own plant, never stock images of somebody else's machinery.",
+        "For these units, a <strong>website development team in Rampura Phul</strong> should build something a purchase manager in Ludhiana or a buyer from another state takes seriously. That means a plain, fast site listing milling or ginning capacity, varieties handled, packing options, storage, quality checks, GST registration and a named person to call. The photographs should show your own plant, never stock images of somebody else's machinery.",
         "Behind the website, the same unit can run a paddy intake and milling register: truckloads received, moisture readings, bags milled per shift, output dispatched and stock lying in each godown. For ginners, bale numbers and lot quality can be tied to every sale. The website starts at ₹10,000 and the register is custom software from ₹60,000; we quote the two separately so you can do one now and the other next season.",
       ],
     },
@@ -128,10 +128,10 @@ const rampuraPhul: CityContent = {
     },
     {
       id: "android-ios-apps-rampura-phul",
-      heading: "App development company in Rampura Phul: Android and iOS apps people keep opening",
+      heading: "App development team in Rampura Phul: Android and iOS apps people keep opening",
       paragraphs: [
         "An app earns its cost in Rampura Phul when the same people use it every week. Good examples are dairy farmers booking vet visits and checking vaccination history, village retailers re-ordering spares or feed from a wholesaler, students checking notices and fee dues, or an arhtiya's regular farmers viewing their own statements. A one-time visitor looking for your address does not need an app at all.",
-        "As an <strong>app development company in Rampura Phul</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally has login by mobile number, push notifications, the three to six screens your users need most, and a web admin panel where your staff add products, notices or bookings. We publish it on Google Play and the Apple App Store under developer accounts registered to your firm.",
+        "As an <strong>app development team in Rampura Phul</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version normally has login by mobile number, push notifications, the three to six screens your users need most, and a web admin panel where your staff add products, notices or bookings. We publish it on Google Play and the Apple App Store under developer accounts registered to your firm.",
         "<strong>Android app development in Rampura Phul</strong> with us starts at ₹40,000. Online payments, offline entry for fields with weak signal, Punjabi interface text, maps and links to your billing software each add to the quote, and each shows up as a separate line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app service page</a> explains what a typical build includes.",
         "If your customers mostly need your phone number, location and today's rates, a website and a Google listing do that job at a quarter of the price. We will say so plainly rather than sell you an app that gets uninstalled within a month.",
       ],
@@ -174,7 +174,7 @@ const rampuraPhul: CityContent = {
     },
     {
       id: "remote-it-company",
-      heading: "IT company in Rampura Phul without an office: how the remote arrangement works",
+      heading: "IT services team in Rampura Phul without an office: how the remote arrangement works",
       paragraphs: [
         "We are not a local shop with a counter, and it is fairer to say that at the start. BtechWaleTech is three engineers working remotely. You never pay for an office, a receptionist or a sales executive's travel, and you speak to the person who is actually building your project.",
         "It begins with a call or a few voice notes about your business. Vedansh Shrivastava turns that into a written scope listing pages or screens, features, dates and a price for each item. Nothing starts and nothing is billed until you approve it. Ankur Kumar then builds, and you receive preview links that open on any phone, so partners and family members can check progress from the shop or the mandi office.",
@@ -236,7 +236,7 @@ const rampuraPhul: CityContent = {
         "Yes. For Rampura Phul businesses we build Flutter or React Native apps that run on Android and iPhone, with mobile number login, push notifications and an admin panel, published on Google Play and the App Store under your own accounts. Apps start at ₹40,000. Common uses are vet visit booking, retailer re-orders and farmer statements.",
     },
     {
-      question: "Which is the best IT company in Rampura Phul for a small business?",
+      question: "Which is the best IT services team in Rampura Phul for a small business?",
       answer:
         "The right choice in Rampura Phul is whoever publishes prices, registers the domain and code in your name, can show real finished work and still answers after launch. Put the same questions to each provider. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before deciding is sensible.",
     },

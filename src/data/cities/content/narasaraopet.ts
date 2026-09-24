@@ -9,7 +9,7 @@ const narasaraopet: CityContent = {
     description:
       "Telugu and English websites, SEO, UPI stores and WhatsApp bots for Narasaraopet hospitals, colleges, chilli and cotton traders. From ₹10,000, 5 months upkeep free.",
     keywords: [
-      "website development company in Narasaraopet",
+      "website development team in Narasaraopet",
       "web designer Narasaraopet",
       "website design Palnadu district",
       "freelance web developer Narasaraopet",
@@ -263,7 +263,7 @@ const narasaraopet: CityContent = {
     {
       question: "How long does SEO take to work in Narasaraopet?",
       answer:
-        "Once the profile and site are in good shape, nearby map positions typically start moving in six to ten weeks. Wider phrases such as “website development company in Narasaraopet” or “hospital in Palnadu” generally need four to eight months of consistent effort. Treat any guaranteed number-one ranking as a red flag.",
+        "Once the profile and site are in good shape, nearby map positions typically start moving in six to ten weeks. Wider phrases such as “website development team in Narasaraopet” or “hospital in Palnadu” generally need four to eight months of consistent effort. Treat any guaranteed number-one ranking as a red flag.",
     },
     {
       question: "Do you work with businesses in Chilakaluripet, Sattenapalle and Guntur?",

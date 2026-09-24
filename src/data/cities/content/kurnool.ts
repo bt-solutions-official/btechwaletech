@@ -9,7 +9,7 @@ const kurnool: CityContent = {
     description:
       "Websites, Telugu and English SEO, UPI stores and WhatsApp automation for Kurnool traders, clinics, colleges and Orvakal suppliers. From ₹10,000 with free upkeep.",
     keywords: [
-      "website development company in Kurnool",
+      "website development team in Kurnool",
       "web design Kurnool",
       "website designer Kurnool",
       "freelance web developer Kurnool",
@@ -17,7 +17,7 @@ const kurnool: CityContent = {
       "SEO services Kurnool",
       "local SEO Kurnool",
       "ecommerce website Kurnool",
-      "software company Kurnool",
+      "software team Kurnool",
       "WhatsApp automation Kurnool",
       "Orvakal industrial vendor website",
       "hospital website design Kurnool",
@@ -264,7 +264,7 @@ const kurnool: CityContent = {
     {
       question: "How long does SEO take in Kurnool?",
       answer:
-        "Map listings for nearby searches usually improve within six to ten weeks once your profile and site are set up correctly. Broader terms like “best hospital in Kurnool” or “website development company in Kurnool” take four to eight months of steady work. Nobody can honestly guarantee a first-position ranking.",
+        "Map listings for nearby searches usually improve within six to ten weeks once your profile and site are set up correctly. Broader terms like “best hospital in Kurnool” or “website development team in Kurnool” take four to eight months of steady work. Nobody can honestly guarantee a first-position ranking.",
     },
     {
       question: "Do you work with businesses in Nandyal, Adoni, Yemmiganur and Gadwal?",

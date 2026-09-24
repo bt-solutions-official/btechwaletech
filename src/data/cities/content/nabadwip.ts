@@ -9,7 +9,7 @@ const nabadwip: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Nabadwip ashrams, guest houses, sweet shops, weavers, clinics and schools. Sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Nabadwip",
+      "website development team in Nabadwip",
       "website designer Nabadwip",
       "website price Nabadwip",
       "SEO services Nabadwip",

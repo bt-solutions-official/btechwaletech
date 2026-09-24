@@ -10,12 +10,12 @@ const palwancha: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Palwancha power-plant contractors, NH-30 traders, colleges and clinics.",
     keywords: [
       "IT services in Palwancha",
-      "IT company in Palwancha",
-      "website development company in Palwancha",
+      "IT services team in Palwancha",
+      "website development team in Palwancha",
       "web design in Palwancha",
-      "app development company in Palwancha",
+      "app development team in Palwancha",
       "Android app development in Palwancha",
-      "software company in Palwancha",
+      "software team in Palwancha",
       "SEO services in Palwancha",
       "digital marketing in Palwancha",
       "ecommerce website in Palwancha",
@@ -76,20 +76,20 @@ const palwancha: CityContent = {
     },
     {
       id: "ktps-contractors-software",
-      heading: "Software company in Palwancha for KTPS and plant contractors",
+      heading: "Software team in Palwancha for KTPS and plant contractors",
       paragraphs: [
         "A thermal power station depends on a large ring of contractors: coal and ash handling, civil and structural works, mechanical and electrical maintenance, housekeeping, canteen, security, transport and labour supply. Each of these firms must track manpower by shift and gate pass, work orders, material issued, measurement books, running bills and statutory records.",
         "Most of this still lives in registers and spreadsheets. When a bill is questioned, the owner spends days assembling proof. When a gate pass or insurance expires, workers are turned away at the gate.",
-        "As a <strong>software company in Palwancha</strong> for these firms, we build web tools that record attendance and work entries from a phone, show totals by work order and client, prepare bills from verified entries, and send reminders before passes, licences or insurance run out. Supervisors see only their own sites; owners see everything on one screen.",
+        "As a <strong>software team in Palwancha</strong> for these firms, we build web tools that record attendance and work entries from a phone, show totals by work order and client, prepare bills from verified entries, and send reminders before passes, licences or insurance run out. Supervisors see only their own sites; owners see everything on one screen.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We usually start with manpower attendance, because it drives both wages and billing, and add the rest once the first part is in daily use.",
       ],
     },
     {
       id: "vendor-websites-palwancha",
-      heading: "Website development company in Palwancha for industrial vendors",
+      heading: "Website development team in Palwancha for industrial vendors",
       paragraphs: [
         "Plants and public sector companies in the district, and larger firms elsewhere in Telangana and Andhra Pradesh, now check suppliers online before inviting them to bid or placing a first order. A vendor with only a phone number and a GST certificate looks smaller than it really is.",
-        "A <strong>website development company in Palwancha</strong> should build vendor sites around facts a purchase officer can confirm: the services you offer, equipment and vehicles you own, experience you have permission to mention, registrations and licences, safety practices, GST details and people who answer calls. We write in clear English, with Telugu pages where your local customers need them.",
+        "A <strong>website development team in Palwancha</strong> should build vendor sites around facts a purchase officer can confirm: the services you offer, equipment and vehicles you own, experience you have permission to mention, registrations and licences, safety practices, GST details and people who answer calls. We write in clear English, with Telugu pages where your local customers need them.",
         "Firms that bid frequently benefit from a documents page where current certificates are always available, and a quote request form that accepts drawings or BOQs. The site should look professional on an office screen and open quickly on a phone at a plant gate.",
         "We will never show a client's name or logo without their written consent. A claim that fails a vendor check can close doors that stay closed for a long time.",
       ],
@@ -119,7 +119,7 @@ const palwancha: CityContent = {
       heading: "Android app development in Palwancha, and iOS apps for local firms",
       paragraphs: [
         "An app earns its cost when a defined group of people uses it again and again. In Palwancha, good cases include contractors recording shift attendance at several plant sites, colleges and schools sending notices, timetables and fee reminders to students and parents, hospitals issuing tokens and reports, and dealers taking repeat orders from retailers in nearby mandals.",
-        "As an <strong>app development company in Palwancha</strong> working remotely, we build in Flutter or React Native, so one app runs on Android phones and iPhones. The first version usually includes mobile OTP login, push notifications, the key screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Palwancha</strong> working remotely, we build in Flutter or React Native, so one app runs on Android phones and iPhones. The first version usually includes mobile OTP login, push notifications, the key screens your users need and an admin panel for your office. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Palwancha</strong> with us starts at ₹40,000. Offline entry, GPS, photo uploads, payments and integrations raise the quote, and each is shown as its own line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains more.",
         "If your customers only need your address, timings and a price list, a website does that at a fraction of the cost and needs no download. We will say so, because an app installed once and forgotten helps nobody.",
       ],
@@ -166,9 +166,9 @@ const palwancha: CityContent = {
     },
     {
       id: "remote-team-palwancha",
-      heading: "IT company in Palwancha terms: how our remote team delivers",
+      heading: "IT services team in Palwancha terms: how our remote team delivers",
       paragraphs: [
-        "Owners looking for an <strong>IT company in Palwancha</strong> often want someone nearby. What really protects you is a team that replies, meets dates and records everything in writing. We are remote, so our process does the job a local office would.",
+        "Owners looking for an <strong>IT services team in Palwancha</strong> often want someone nearby. What really protects you is a team that replies, meets dates and records everything in writing. We are remote, so our process does the job a local office would.",
         "It starts with a call about your business and goals. You get a page or screen plan, a timeline and an itemised quote. Once you approve, we send preview links to open on your phone and share with partners. Changes are listed and completed in rounds, so nothing is lost in long chats.",
         "We answer on WhatsApp seven days a week, Indian Standard Time. If something is delayed, we tell you early rather than on the due date. Payments follow visible progress, and nothing is billed before you approve the quote in writing.",
         "To begin, reach us through the <a href=\"/contact/\">contact page</a> or WhatsApp with a short description of your work.",
@@ -234,7 +234,7 @@ const palwancha: CityContent = {
         "A static website usually takes one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Having your content ready early is the biggest factor in speed.",
     },
     {
-      question: "Which is the best website development company in Palwancha?",
+      question: "Which is the best website development team in Palwancha?",
       answer:
         "Look for a provider that publishes prices, registers your domain and code in your name, can show real work and still answers after launch. Put the same questions to everyone and compare the written answers. We meet those tests and reply seven days a week, but comparing a few options is wise.",
     },

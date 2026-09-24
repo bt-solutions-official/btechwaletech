@@ -9,12 +9,12 @@ const bhagalpur: CityContent = {
     description:
       "Websites, silk saree stores, local SEO and WhatsApp automation for Bhagalpur weavers, traders, clinics and coaching centres. Plans from ₹10,000 with full ownership.",
     keywords: [
-      "website development company in Bhagalpur",
+      "website development team in Bhagalpur",
       "website designer Bhagalpur",
       "web design Bhagalpur Bihar",
       "Bhagalpuri silk saree online store",
       "silk weaver website Nathnagar",
-      "SEO company Bhagalpur",
+      "SEO team Bhagalpur",
       "local SEO Bhagalpur",
       "Google Maps listing Bhagalpur",
       "ecommerce website Bhagalpur",

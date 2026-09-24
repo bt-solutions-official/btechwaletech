@@ -10,12 +10,12 @@ const seoni: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Seoni's Pench resorts, NH44 transport trade, rice mills, colleges, clinics and shops.",
     keywords: [
       "IT services in Seoni",
-      "IT company in Seoni",
-      "website development company in Seoni",
+      "IT services team in Seoni",
+      "website development team in Seoni",
       "web design in Seoni",
-      "app development company in Seoni",
+      "app development team in Seoni",
       "Android app development in Seoni",
-      "software company in Seoni",
+      "software team in Seoni",
       "SEO services in Seoni",
       "digital marketing in Seoni",
       "ecommerce website in Seoni",
@@ -74,20 +74,20 @@ const seoni: CityContent = {
     },
     {
       id: "pench-resorts-websites",
-      heading: "Website development company in Seoni for Pench resorts and homestays",
+      heading: "Website development team in Seoni for Pench resorts and homestays",
       paragraphs: [
         "Pench Tiger Reserve draws wildlife tourists from Nagpur, Mumbai, Delhi, Bengaluru and abroad, and a cluster of resorts, homestays and safari operators has grown on the Seoni side near Turia gate and Khawasa. Guests compare properties online, read reviews and check distance to the gate before they book. Properties that depend entirely on travel portals lose a share of every booking to commission.",
-        "As a <strong>website development company in Seoni</strong> for wildlife tourism, we build resort sites with the details guests actually weigh: room and cottage types with real photographs, meal plans, distance and drive time to the safari gates, how safari permits are arranged, the park's closure season, pick-up from Nagpur, and rates or rate range. A booking request form or calendar collects dates, guests and safari preferences.",
+        "As a <strong>website development team in Seoni</strong> for wildlife tourism, we build resort sites with the details guests actually weigh: room and cottage types with real photographs, meal plans, distance and drive time to the safari gates, how safari permits are arranged, the park's closure season, pick-up from Nagpur, and rates or rate range. A booking request form or calendar collects dates, guests and safari preferences.",
         "We keep claims factual. We do not promise tiger sightings, invent wildlife counts or copy text from the forest department site. Direct booking with UPI or Razorpay advance payment can be added, along with a clear cancellation policy. A simple resort site starts at ₹10,000; booking systems with payments are quoted separately.",
         "Timing matters for resort sites. The core zones close for the monsoon, and enquiries for the winter season start weeks earlier, so a site launched in October misses the families who planned their trip in August. We work backwards from the season opening, publish the pages first and add the booking calendar once your rates for the season are settled.",
       ],
     },
     {
       id: "nh44-transport-highway",
-      heading: "Software company in Seoni for transporters and NH44 highway businesses",
+      heading: "Software team in Seoni for transporters and NH44 highway businesses",
       paragraphs: [
         "The national highway is one of the town's largest employers in practice. Truck owners, transport booking agents, tyre and spare-part shops, workshops, fuel stations, dhabas and hotels along the route all live off the traffic between north and south India. Many of these businesses still manage trips, advances and dues in notebooks and memory.",
-        "Working as a <strong>software company in Seoni</strong> for transport operators, we build web tools that record each trip with vehicle, driver, route, freight, advance and diesel, show running balances by vehicle and by party, and send reminders for permit, fitness and insurance renewals. Owners see the whole fleet on a phone, and the office stops calling drivers for figures they already sent.",
+        "Working as a <strong>software team in Seoni</strong> for transport operators, we build web tools that record each trip with vehicle, driver, route, freight, advance and diesel, show running balances by vehicle and by party, and send reminders for permit, fitness and insurance renewals. Owners see the whole fleet on a phone, and the office stops calling drivers for figures they already sent.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, with the trip and payment register first. For highway workshops, hotels and dhabas, a Google Maps listing with correct hours, phone number and services often brings more calls than any other step, and we can set it up alongside a small website.",
       ],
     },
@@ -115,7 +115,7 @@ const seoni: CityContent = {
       heading: "Android app development in Seoni and iOS apps for local businesses",
       paragraphs: [
         "An app pays off when a clear group of people opens it again and again. In Seoni, that might be a resort's returning guests and safari clients, a school or coaching institute sending homework, attendance and fee reminders to parents, a hospital issuing OPD tokens, a transporter's drivers logging trips, or a dealer taking orders from village retailers.",
-        "As an <strong>app development company in Seoni</strong>, we build in Flutter or React Native so one codebase runs on both Android and iPhone. A first version typically has mobile number login, the key screens your users need, push notifications and an admin panel. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Seoni</strong>, we build in Flutter or React Native so one codebase runs on both Android and iPhone. A first version typically has mobile number login, the key screens your users need, push notifications and an admin panel. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Seoni</strong> with us starts at ₹40,000. Offline mode for drivers on forest stretches with weak signal, online payment, maps and integration with your software add to the cost and are priced as separate lines. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> covers the process step by step.",
         "If your customers only need your address, phone number and price list, a website and Google Maps listing do that job for a fraction of an app's cost. We will say so and recommend the website instead.",
       ],
@@ -158,9 +158,9 @@ const seoni: CityContent = {
     },
     {
       id: "remote-team-seoni",
-      heading: "IT company in Seoni without an office: how the remote process works",
+      heading: "IT services team in Seoni without an office: how the remote process works",
       paragraphs: [
-        "We are not an <strong>IT company in Seoni</strong> with a local office, and we will not pretend to be. We are three engineers working remotely, which keeps our starting prices low and saves you trips to Nagpur or Jabalpur for meetings.",
+        "We are not an <strong>IT services team in Seoni</strong> with a local office, and we will not pretend to be. We are three engineers working remotely, which keeps our starting prices low and saves you trips to Nagpur or Jabalpur for meetings.",
         "It starts with a call or WhatsApp conversation about your business and customers. We then send a written list of pages or screens, a timeline and an itemised quote. After approval, you get preview links to check on your own phone, and Hindi text is shared with you for correction before it goes live.",
         "We reply to WhatsApp every day, weekends included, on Indian Standard Time. Payments are linked to visible stages, and nothing is billed before you approve the quote in writing. If anything slips, we tell you early.",
       ],
@@ -225,7 +225,7 @@ const seoni: CityContent = {
         "Yes. We show rooms, meal plans, distance to the safari gates, permit arrangements, pick-up options and rates, with a booking form or calendar and optional UPI or Razorpay advance payment. We never promise sightings. A simple resort site starts at ₹10,000, with booking systems quoted separately.",
     },
     {
-      question: "Who is the best website development company in Seoni?",
+      question: "Who is the best website development team in Seoni?",
       answer:
         "Look for published prices, domain and code registered in your name, support after launch and real examples of work. Ask every provider the same questions. We meet those tests and reply on WhatsApp every day, but comparing two or three options before choosing is always sensible.",
     },

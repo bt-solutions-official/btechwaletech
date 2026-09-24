@@ -10,12 +10,12 @@ const madhupur: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Madhupur heritage guest houses, station-side traders, schools and clinics in Deoghar district.",
     keywords: [
       "IT services in Madhupur",
-      "IT company in Madhupur",
-      "website development company in Madhupur",
+      "IT services team in Madhupur",
+      "website development team in Madhupur",
       "web design in Madhupur",
-      "app development company in Madhupur",
+      "app development team in Madhupur",
       "Android app development in Madhupur",
-      "software company in Madhupur",
+      "software team in Madhupur",
       "SEO services in Madhupur",
       "digital marketing in Madhupur",
       "ecommerce website in Madhupur",
@@ -75,20 +75,20 @@ const madhupur: CityContent = {
     },
     {
       id: "heritage-guest-houses",
-      heading: "Website development company in Madhupur for heritage kothis, guest houses and holiday homes",
+      heading: "Website development team in Madhupur for heritage kothis, guest houses and holiday homes",
       paragraphs: [
         "The Bengali-style bungalows of Madhupur, many built as holiday retreats between the early 1900s and the 1970s, are now some of its most distinctive businesses. Several run as heritage guest houses or rent rooms to families who remember the town from childhood. Their guests mostly come from Kolkata and other Bengal towns, and they plan online.",
-        "A <strong>website development company in Madhupur</strong> should give such a property a site that does justice to it. That means real photographs of verandahs, gardens and rooms rather than stock images, a short honest history of the house, room types with starting rates, meal options, rules for pets or large groups, how to reach the house from Madhupur Junction or Deoghar Airport, and a booking request form that lands on WhatsApp.",
+        "A <strong>website development team in Madhupur</strong> should give such a property a site that does justice to it. That means real photographs of verandahs, gardens and rooms rather than stock images, a short honest history of the house, room types with starting rates, meal options, rules for pets or large groups, how to reach the house from Madhupur Junction or Deoghar Airport, and a booking request form that lands on WhatsApp.",
         "A Bengali version of the main pages often matters more than design flourishes, because that is how many guests search and think. We write it with you and check each line before publishing.",
         "Direct bookings save the commission that travel portals charge. A simple availability calendar and UPI advance payment can be added when you are ready. We never invent reviews or awards for a property, and we suggest collecting genuine guest reviews on Google after every stay.",
       ],
     },
     {
       id: "wholesale-traders-madhupur",
-      heading: "Software company in Madhupur for wholesalers and distributors near the station",
+      heading: "Software team in Madhupur for wholesalers and distributors near the station",
       paragraphs: [
         "Madhupur's Sadar Bazaar sits close to the railway station, and wholesale trade in groceries, cloth, hardware and daily goods supplies shops across the subdivision's blocks: Madhupur, Margomunda, Karon, Sarath and Palojori. Much of that trade still runs on handwritten challans, a diary of dues and memory.",
-        "As a <strong>software company in Madhupur</strong>, we build small web tools that fit this work. A salesman or owner records each order from a phone, bills print or go out on WhatsApp, stock updates automatically, and each shop's balance is visible at a glance. Route-wise views show which villages are due for a visit and which shops have not paid for a month.",
+        "As a <strong>software team in Madhupur</strong>, we build small web tools that fit this work. A salesman or owner records each order from a phone, bills print or go out on WhatsApp, stock updates automatically, and each shop's balance is visible at a glance. Route-wise views show which villages are due for a visit and which shops have not paid for a month.",
         "We keep screens few and simple, since the people entering data are busy, and we make sure the tool still works when the network is weak by saving entries until the signal returns. GST-ready bills and exports for your accountant are part of the design.",
         "Custom tools like this start at ₹60,000 and take six to twelve weeks. We usually build billing and dues first, run them for a month, then add stock and routes, so the software grows around how you really trade rather than how a template assumes you do.",
       ],
@@ -125,10 +125,10 @@ const madhupur: CityContent = {
     },
     {
       id: "schools-colleges-madhupur",
-      heading: "IT company in Madhupur for schools, Madhupur College and coaching institutes",
+      heading: "IT services team in Madhupur for schools, Madhupur College and coaching institutes",
       paragraphs: [
         "For a town of its size, Madhupur has a wide spread of schools, with CBSE, CISCE and JAC-affiliated institutions including Carmel School, a Kendriya Vidyalaya and St. Xavier's Mission School, plus Madhupur College for higher studies and a number of coaching institutes.",
-        "Parents here compare schools on a phone before they visit. An <strong>IT company in Madhupur</strong> working with schools should give them what they look for: affiliation and board, classes offered, admission process and dates, fee structure or at least fee ranges, transport routes, facilities with real photographs, and a way to contact the office.",
+        "Parents here compare schools on a phone before they visit. An <strong>IT services team in Madhupur</strong> working with schools should give them what they look for: affiliation and board, classes offered, admission process and dates, fee structure or at least fee ranges, transport routes, facilities with real photographs, and a way to contact the office.",
         "Behind the public site, schools often need a notice board, circulars as downloads, a photo gallery the staff can update, and online admission forms that collect documents in one place. Coaching institutes need batch timings, results shared with consent and a demo class request.",
         "We build in Hindi and English, keep pages light so they load on basic phones, and train your staff to post updates themselves. A parent app with notices and fee reminders can be added later if a website is not enough.",
       ],
@@ -148,7 +148,7 @@ const madhupur: CityContent = {
       heading: "Android app development in Madhupur, with iOS apps from the same build",
       paragraphs: [
         "Not every Madhupur business needs an app, but some clearly do. A school sending daily notices and fee reminders to hundreds of parents, a wholesaler whose retailers reorder every week, a guest house group handling repeat guests, or a clinic with long queues all gain from something people keep on their home screen.",
-        "As an <strong>app development company in Madhupur</strong>, we build with Flutter or React Native, which gives you an Android app and an iPhone app from one codebase. The first version normally includes phone number login with OTP, push notifications, the core screens, and a web admin panel for your staff. Hindi labels come as standard where your users need them.",
+        "As an <strong>app development team in Madhupur</strong>, we build with Flutter or React Native, which gives you an Android app and an iPhone app from one codebase. The first version normally includes phone number login with OTP, push notifications, the core screens, and a web admin panel for your staff. Hindi labels come as standard where your users need them.",
         "<strong>Android app development in Madhupur</strong> with us starts at ₹40,000. Payments, offline entry, maps, bookings or links to billing software add cost, and each is listed separately. We publish on Google Play and the Apple App Store under accounts registered to you. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When your customers only need your phone number, rates and location, a website does the job better and for much less. We will recommend that instead.",
       ],
@@ -250,7 +250,7 @@ const madhupur: CityContent = {
         "Yes. We build a site with real photographs, room types, starting rates, directions from the station and airport, and a booking request that arrives on WhatsApp. UPI advance payments and an availability calendar can be added. Direct bookings avoid portal commission, though many owners keep both channels running.",
     },
     {
-      question: "Who is the best IT company in Madhupur for a small business?",
+      question: "Who is the best IT services team in Madhupur for a small business?",
       answer:
         "The right choice publishes its prices, puts the domain and code in your name, shows real work and stays reachable after launch. Ask each option the same questions and compare written answers. We meet these tests and reply on WhatsApp every day, but comparing a few choices is always wise.",
     },

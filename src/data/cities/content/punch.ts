@@ -10,12 +10,12 @@ const punch: CityContent = {
       "Websites, Android and iOS apps, Urdu and English local SEO and WhatsApp bots for Poonch guest houses, taxi operators, rajma and pecan sellers, coaching and clinics.",
     keywords: [
       "IT services in Poonch",
-      "IT company in Poonch",
-      "website development company in Poonch",
+      "IT services team in Poonch",
+      "website development team in Poonch",
       "web design in Poonch",
-      "app development company in Poonch",
+      "app development team in Poonch",
       "Android app development in Poonch",
-      "software company in Poonch",
+      "software team in Poonch",
       "SEO services in Poonch",
       "digital marketing in Poonch",
       "ecommerce website in Poonch",
@@ -83,10 +83,10 @@ const punch: CityContent = {
     },
     {
       id: "pilgrim-visitors",
-      heading: "Website development company in Poonch for pilgrimage and heritage visitors",
+      heading: "Website development team in Poonch for pilgrimage and heritage visitors",
       paragraphs: [
         "Faith brings many people to the district. Gurdwara Nangali Sahib, on a small hill about seven kilometres from town on the Drungali stream, is one of the oldest Sikh shrines in the region. The Budha Amarnath temple in Mandi tehsil and the district's Muslim shrines draw their own visitors, and Poonch Fort in the town reflects Mughal, Sikh, Dogra and European influences.",
-        "A <strong>website development company in Poonch</strong> can help the businesses around these places without exaggeration. A lodge near the gurdwara, a transport operator who runs pilgrim trips, a sweet or dry fruit shop that pilgrims visit on the way back, or a local guide can each publish a page with accurate timings, distances, facilities and contact numbers.",
+        "A <strong>website development team in Poonch</strong> can help the businesses around these places without exaggeration. A lodge near the gurdwara, a transport operator who runs pilgrim trips, a sweet or dry fruit shop that pilgrims visit on the way back, or a local guide can each publish a page with accurate timings, distances, facilities and contact numbers.",
         "We keep such pages factual and respectful, and we check event dates with you rather than guessing. Where a shrine committee or trust runs its own site, we never copy its content or imply a connection that does not exist.",
       ],
     },
@@ -101,10 +101,10 @@ const punch: CityContent = {
     },
     {
       id: "contractors-suppliers",
-      heading: "Software company in Poonch for contractors, suppliers and wholesale traders",
+      heading: "Software team in Poonch for contractors, suppliers and wholesale traders",
       paragraphs: [
         "A district headquarters runs on works and supplies: road and building contractors, hardware and cement dealers, electrical and plumbing suppliers, transporters, and wholesale traders who stock shops in Mendhar, Surankote and Mandi. Most of this still runs on diaries, invoices in a drawer and memory.",
-        "As a <strong>software company in Poonch</strong>, we build small web tools that fit this kind of business. A wholesaler can record credit given to each retailer and see who is overdue. A contractor can track materials sent to each site, labour and machine hours, and bills raised and paid. A transporter can log trips, diesel and driver advances.",
+        "As a <strong>software team in Poonch</strong>, we build small web tools that fit this kind of business. A wholesaler can record credit given to each retailer and see who is overdue. A contractor can track materials sent to each site, labour and machine hours, and bills raised and paid. A transporter can log trips, diesel and driver advances.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. We start with the one record that causes the most arguments, usually outstanding payments, and make it work well on a phone before adding anything else. Data is backed up daily, so a lost or broken phone does not mean lost accounts.",
       ],
     },
@@ -119,10 +119,10 @@ const punch: CityContent = {
     },
     {
       id: "clinics-bazaar-shops",
-      heading: "IT company in Poonch for clinics, pharmacies and bazaar shops",
+      heading: "IT services team in Poonch for clinics, pharmacies and bazaar shops",
       paragraphs: [
         "Patients travel from distant villages to see doctors in Poonch, sometimes after hours on the road. Private clinics, dental practices, diagnostic labs and pharmacies around the town benefit most from information that saves those patients a wasted trip: which doctor sits on which day, what tests are available, whether reports can be sent on WhatsApp.",
-        "An <strong>IT company in Poonch</strong> can set this up simply: a clinic page with doctors, timings and fees, an appointment request form, and a WhatsApp link for reports. Shops in the bazaar, from cloth and footwear to mobiles and hardware, need a map pin that actually points to the shop, timings, product categories and a price-check button.",
+        "An <strong>IT services team in Poonch</strong> can set this up simply: a clinic page with doctors, timings and fees, an appointment request form, and a WhatsApp link for reports. Shops in the bazaar, from cloth and footwear to mobiles and hardware, need a map pin that actually points to the shop, timings, product categories and a price-check button.",
         "Each page is written in English with Urdu or Hindi where your customers read it, and checked by you before it goes live. Simple sites start at ₹10,000.",
       ],
     },
@@ -141,11 +141,11 @@ const punch: CityContent = {
     },
     {
       id: "app-build-details-poonch",
-      heading: "App development company in Poonch: what you get from ₹40,000",
+      heading: "App development team in Poonch: what you get from ₹40,000",
       paragraphs: [
         "We build in Flutter or React Native, so the same app runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the few screens your users really need and an admin panel for your staff. It is published on Google Play and the Apple App Store through developer accounts registered to you, not to us.",
         "<strong>Android app development in Poonch</strong> with us starts at ₹40,000. Features such as online payment, offline entry for areas where the signal drops, maps or a link to your accounts each add a line to the quote, so you choose what is worth paying for. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
-        "If your customers only need your number, location and prices, a website does that for about a quarter of the cost, and we will tell you so. As an <strong>app development company in Poonch</strong> that is paid for results rather than downloads, we would rather you spend less and see it used.",
+        "If your customers only need your number, location and prices, a website does that for about a quarter of the cost, and we will tell you so. As an <strong>app development team in Poonch</strong> that is paid for results rather than downloads, we would rather you spend less and see it used.",
       ],
     },
     {
@@ -242,7 +242,7 @@ const punch: CityContent = {
         "A simple site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Sending content early is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Poonch?",
+      question: "Who is the best website development team in Poonch?",
       answer:
         "Pick a provider that publishes prices, puts the domain and code in your name, stays available after launch and shows real work. Ask every option the same questions. We meet those standards and reply on WhatsApp every day, but comparing two or three providers first is sensible.",
     },

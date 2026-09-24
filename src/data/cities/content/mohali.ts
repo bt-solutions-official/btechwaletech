@@ -9,7 +9,7 @@ const mohali: CityContent = {
     description:
       "Websites, SEO, SaaS builds and WhatsApp automation for Mohali (SAS Nagar) startups, clinics, builders and consultants. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Mohali",
+      "website development team in Mohali",
       "web development Mohali",
       "website designer SAS Nagar",
       "SEO services Mohali",

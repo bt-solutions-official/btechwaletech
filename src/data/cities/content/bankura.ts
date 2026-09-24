@@ -9,7 +9,7 @@ const bankura: CityContent = {
     description:
       "Websites, Bengali SEO, craft stores and WhatsApp automation for Bankura terracotta and Baluchari sellers, rice mills, clinics, schools and homestays. Code is yours.",
     keywords: [
-      "website development company in Bankura",
+      "website development team in Bankura",
       "web designer Bankura",
       "website developer Bankura West Bengal",
       "website cost Bankura",
@@ -21,7 +21,7 @@ const bankura: CityContent = {
       "rice mill website Bankura",
       "homestay website Mukutmanipur",
       "WhatsApp automation Bankura",
-      "software company Bankura",
+      "software team Bankura",
       "website maintenance Bankura",
       "Google Maps listing Bankura",
       "বাঁকুড়া ওয়েবসাইট তৈরি",

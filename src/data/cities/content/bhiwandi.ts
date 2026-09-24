@@ -9,7 +9,7 @@ const bhiwandi: CityContent = {
     description:
       "Websites, warehouse software, SEO and WhatsApp automation for Bhiwandi powerloom units, godowns, transporters and traders. Sites from ₹10,000, fair quotes.",
     keywords: [
-      "website development company in Bhiwandi",
+      "website development team in Bhiwandi",
       "web designer Bhiwandi",
       "website design cost Bhiwandi",
       "freelance web developer Bhiwandi",

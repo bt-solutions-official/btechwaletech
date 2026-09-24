@@ -10,12 +10,12 @@ const tirupathur: CityContent = {
       "Tamil and English websites, Android and iOS apps, local SEO and WhatsApp automation for Tirupathur colleges, leather suppliers, Yelagiri stays, clinics and shops.",
     keywords: [
       "IT services in Tirupathur",
-      "IT company in Tirupathur",
-      "website development company in Tirupathur",
+      "IT services team in Tirupathur",
+      "website development team in Tirupathur",
       "web design in Tirupathur",
-      "app development company in Tirupathur",
+      "app development team in Tirupathur",
       "Android app development in Tirupathur",
-      "software company in Tirupathur",
+      "software team in Tirupathur",
       "SEO services in Tirupathur",
       "digital marketing in Tirupathur",
       "ecommerce website in Tirupathur",
@@ -75,20 +75,20 @@ const tirupathur: CityContent = {
     },
     {
       id: "colleges-education",
-      heading: "Website development company in Tirupathur for colleges, schools and coaching centres",
+      heading: "Website development team in Tirupathur for colleges, schools and coaching centres",
       paragraphs: [
         "Education is one of Tirupathur's biggest draws. Sacred Heart College, founded in 1951 by Salesian missionaries and now autonomous under Thiruvalluvar University, brings students from across the region, and the town also has engineering and polytechnic colleges, nursing and teacher training institutes, matriculation and CBSE schools, and coaching centres for government exams.",
-        "Parents and students compare these options online long before they visit. A <strong>website development company in Tirupathur</strong> working with an institution should make that comparison easy: courses with eligibility and intake, fee structure or fee ranges, hostel and transport details, faculty lists, admission calendars and a contact person who actually picks up the phone. Result announcements and circulars need a place where they can be posted in minutes, not buried in a PDF nobody opens.",
+        "Parents and students compare these options online long before they visit. A <strong>website development team in Tirupathur</strong> working with an institution should make that comparison easy: courses with eligibility and intake, fee structure or fee ranges, hostel and transport details, faculty lists, admission calendars and a contact person who actually picks up the phone. Result announcements and circulars need a place where they can be posted in minutes, not buried in a PDF nobody opens.",
         "We build these sites in English and Tamil, with an admissions enquiry form that records the course applied for and sends each lead to the right office. Coaching centres benefit from batch timetables, demo class booking and a page of past results presented honestly, without invented ranks or percentages.",
         "An institution website starts at ₹10,000 for a static site. If you want online fee payment, student logins, attendance or an exam portal, that becomes a custom web app from ₹60,000, planned in stages so the admissions module is ready before the next intake.",
       ],
     },
     {
       id: "leather-belt-suppliers",
-      heading: "Software company in Tirupathur for the Ambur and Vaniyambadi leather supply chain",
+      heading: "Software team in Tirupathur for the Ambur and Vaniyambadi leather supply chain",
       paragraphs: [
         "Tirupathur district holds one of the best-known leather and footwear belts in India, centred on Ambur and Vaniyambadi. Around the tanneries and shoe factories sits a large network of smaller firms: upper stitching units, sole and component makers, chemical and packaging suppliers, transporters, job-work contractors and export agents. Many of them work out of Tirupathur or employ people from its villages.",
-        "These firms live on orders, deadlines and job-work records. A buyer sends a specification, work is split across units, material moves back and forth, and payment depends on accurate counts. When all of this sits in notebooks and chat threads, disputes and delays follow. As a practical <strong>software company in Tirupathur</strong>, we build small web tools to keep it straight: orders with specifications and due dates, job-work issued and received by contractor, pieces rejected and reworked, dispatch notes and outstanding payments.",
+        "These firms live on orders, deadlines and job-work records. A buyer sends a specification, work is split across units, material moves back and forth, and payment depends on accurate counts. When all of this sits in notebooks and chat threads, disputes and delays follow. As a practical <strong>software team in Tirupathur</strong>, we build small web tools to keep it straight: orders with specifications and due dates, job-work issued and received by contractor, pieces rejected and reworked, dispatch notes and outstanding payments.",
         "Firms selling to exporters or overseas buyers also need an English capability website: products, capacity, machines, certifications and compliance practices, and named contacts. We never list a brand or buyer as your client without written permission from them.",
         "Custom tools start at ₹60,000 and are built over six to twelve weeks, beginning with the part that causes the most arguments, usually the job-work register. Capability websites start at ₹10,000.",
       ],
@@ -138,7 +138,7 @@ const tirupathur: CityContent = {
       heading: "Android app development in Tirupathur, and iOS apps for local firms",
       paragraphs: [
         "An app is worth building when a known group of people use it often. In Tirupathur, good examples are a college or school sending circulars, timetables and fee reminders to students and parents, a Yelagiri resort letting repeat guests book directly, a dealer whose village retailers re-order every week, a job-work contractor tracking pieces across several units, or a hospital issuing tokens and reports.",
-        "As an <strong>app development company in Tirupathur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Tirupathur</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Tirupathur</strong> with us starts at ₹40,000. Costs rise with online payments, offline use for areas with weak signal on the hills, maps and tracking, or integration with other software, and each item is listed separately. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number, timings and price list, a website does that job for about a quarter of the cost and needs no download. In that case we will recommend the website, because an app that is uninstalled after a week does not help anyone.",
       ],
@@ -182,7 +182,7 @@ const tirupathur: CityContent = {
     },
     {
       id: "around-tirupathur",
-      heading: "IT company in Tirupathur serving Jolarpettai, Vaniyambadi, Ambur and Yelagiri",
+      heading: "IT services team in Tirupathur serving Jolarpettai, Vaniyambadi, Ambur and Yelagiri",
       paragraphs: [
         "We take projects across Tirupathur district: Jolarpettai with its railway junction, Kandili and Natrampalli, Alangayam and the Kavalur side, Yelagiri on the hill, and the leather towns of Vaniyambadi and Ambur. We also work further out in Vellore, Tiruvannamalai, Krishnagiri and Salem.",
         "For businesses serving several towns, we create location pages only when there is real information for each: a branch address, delivery or service area, travel time and a local number. Pages that copy the same text with the town name swapped are filtered out by search engines and ignored by customers.",
@@ -231,7 +231,7 @@ const tirupathur: CityContent = {
         "Once your wording and pictures reach us, a simple site is normally online within a fortnight. Plan on three to five weeks for a 700+ page SEO build, four to eight for a shop and six to twelve for custom software. Delays almost always come from missing content, not from coding.",
     },
     {
-      question: "Who is the best website development company in Tirupathur?",
+      question: "Who is the best website development team in Tirupathur?",
       answer:
         "There is no single answer, so test each candidate the same way: are prices public, will the domain and code be yours, can you see live projects, and who helps after launch? We pass those checks and answer WhatsApp daily, yet talking to two or three developers first is still wise.",
     },

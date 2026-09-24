@@ -9,7 +9,7 @@ const firozpur: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Firozpur arhtiyas, chilli processors, schools, clinics and Cantt shops. Static sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Firozpur",
+      "website development team in Firozpur",
       "web design Ferozepur",
       "website designer Firozpur Punjab",
       "SEO services Firozpur",

@@ -10,12 +10,12 @@ const bhabua: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Bhabua rice mills, grain traders, coaching centres, clinics and Kaimur pilgrimage trade.",
     keywords: [
       "IT services in Bhabua",
-      "IT company in Bhabua",
-      "website development company in Bhabua",
+      "IT services team in Bhabua",
+      "website development team in Bhabua",
       "web design in Bhabua",
-      "app development company in Bhabua",
+      "app development team in Bhabua",
       "Android app development in Bhabua",
-      "software company in Bhabua",
+      "software team in Bhabua",
       "SEO services in Bhabua",
       "digital marketing in Bhabua",
       "ecommerce website in Bhabua",
@@ -75,11 +75,11 @@ const bhabua: CityContent = {
     },
     {
       id: "rice-mills-grain-trade",
-      heading: "Software company in Bhabua for rice mills, paddy buyers and grain traders",
+      heading: "Software team in Bhabua for rice mills, paddy buyers and grain traders",
       paragraphs: [
         "Kaimur sits inside the canal-irrigated paddy belt that Bihar calls its “dhan ka katora”, the bowl of rice, alongside Rohtas and Buxar. After the kharif harvest, paddy moves from villages to procurement points, private buyers and mills, and the rice then leaves by truck for Varanasi, Patna and further. Wheat, pulses, oilseeds and maize follow in the rabi season.",
         "Most of the record-keeping behind this trade is still done by hand. A miller or commission agent has to remember which farmer delivered how many bags, the moisture deduction, the rate agreed, the advance already paid, the truck that took the rice and the buyer who still owes money. When the season is heavy, the notebook falls behind and disputes follow.",
-        "As a <strong>software company in Bhabua</strong> in the practical sense, we build small web tools for this. Each purchase is entered once from a phone with farmer name, village, bags, weight and rate; stock is tracked by lot; dispatches carry the truck number and buyer; and a dues screen shows who owes whom. Staff get limited logins, owners see everything.",
+        "As a <strong>software team in Bhabua</strong> in the practical sense, we build small web tools for this. Each purchase is entered once from a phone with farmer name, village, bags, weight and rate; stock is tracked by lot; dispatches carry the truck number and buyer; and a dues screen shows who owes whom. Staff get limited logins, owners see everything.",
         "Tools like this start at ₹60,000 and are built in stages over six to twelve weeks. We usually begin with the purchase register because it removes the most arguments, then add dispatch and payments once your team is comfortable. The data stays in an account registered to you.",
       ],
     },
@@ -95,10 +95,10 @@ const bhabua: CityContent = {
     },
     {
       id: "clinics-hospitals-bhabua",
-      heading: "Website development company in Bhabua for hospitals, clinics and diagnostic centres",
+      heading: "Website development team in Bhabua for hospitals, clinics and diagnostic centres",
       paragraphs: [
         "Patients reach Bhabua from villages up to the Jharkhand and Uttar Pradesh borders, often after a long ride, and a closed clinic or an absent specialist means a lost day of wages. Nursing homes, private hospitals, dental clinics, pathology labs and ultrasound centres in the town all compete to be the name people trust before they set out.",
-        "A <strong>website development company in Bhabua</strong> working for a clinic should keep the site factual and calm. That means doctor names with qualifications, OPD days and hours, the tests or procedures available, emergency numbers that are actually answered, fees where you are comfortable publishing them, and landmarks from the nearest chowk. We avoid dramatic claims, because medical advertising has rules and patients are wary of hype.",
+        "A <strong>website development team in Bhabua</strong> working for a clinic should keep the site factual and calm. That means doctor names with qualifications, OPD days and hours, the tests or procedures available, emergency numbers that are actually answered, fees where you are comfortable publishing them, and landmarks from the nearest chowk. We avoid dramatic claims, because medical advertising has rules and patients are wary of hype.",
         "For busier practices, we add WhatsApp appointment requests that land in a shared sheet, token numbers sent by message, and a page for reports that patients can download with a code. Everything is tested on the low-cost Android phones most visitors carry.",
       ],
     },
@@ -125,7 +125,7 @@ const bhabua: CityContent = {
       heading: "Android app development in Bhabua and iOS apps for local businesses",
       paragraphs: [
         "An app earns its keep when a fixed group of people opens it again and again. In Bhabua the strongest cases are coaching institutes, where students check test schedules, notes and results daily; schools sending homework and fee reminders to parents; dealers who take repeat orders from dozens of village shops; and hospitals issuing tokens so patients can wait at home instead of in a crowded corridor.",
-        "As an <strong>app development company in Bhabua</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and on iPhones. A first release normally includes mobile number login, push notifications, the few screens your users truly need, and an admin panel where your staff add content and see activity. We publish it on Google Play and the Apple App Store under developer accounts that belong to you.",
+        "As an <strong>app development team in Bhabua</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and on iPhones. A first release normally includes mobile number login, push notifications, the few screens your users truly need, and an admin panel where your staff add content and see activity. We publish it on Google Play and the Apple App Store under developer accounts that belong to you.",
         "<strong>Android app development in Bhabua</strong> with us starts at ₹40,000. The price climbs with online payments, offline use for areas with patchy signal, video lessons, maps or links to other software, and each of these is listed separately in your quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your phone number, address and a rate list, a website does that for a fraction of the cost and needs no download. In that case we will recommend the website and save you the app budget.",
       ],
@@ -160,9 +160,9 @@ const bhabua: CityContent = {
     },
     {
       id: "remote-team-bhabua",
-      heading: "IT company in Bhabua, working remotely: how the process runs",
+      heading: "IT services team in Bhabua, working remotely: how the process runs",
       paragraphs: [
-        "Calling us an <strong>IT company in Bhabua</strong> is only half right: we are three engineers who work remotely, without a local office, and we would rather say so than have you discover it later. What replaces the office is paperwork you can hold on to. After a first call about your business and customers, you get a written plan listing pages or app screens, delivery dates and the cost of each item.",
+        "Calling us an <strong>IT services team in Bhabua</strong> is only half right: we are three engineers who work remotely, without a local office, and we would rather say so than have you discover it later. What replaces the office is paperwork you can hold on to. After a first call about your business and customers, you get a written plan listing pages or app screens, delivery dates and the cost of each item.",
         "Work starts only after you approve that plan, and billing starts no earlier. As the build moves forward, you receive preview links that open on any phone, so you can show them to your partner, your munim or your children before saying yes. Hindi text is always sent for your check first, because a wrong matra on a school notice or a shop banner gets noticed.",
         "WhatsApp is our main line and is answered on all seven days, on Indian time. If something is running late, we tell you on the day we find out and give a new date. Payments are tied to milestones you have seen working, which keeps the risk low for a family business trying this for the first time.",
       ],
@@ -227,7 +227,7 @@ const bhabua: CityContent = {
         "A simple shop or clinic website is normally ready in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Bhabua?",
+      question: "Which is the best website development team in Bhabua?",
       answer:
         "The best choice is a provider who publishes prices, puts the domain and code in your name, answers after launch and can show real work. Ask every option the same questions. We meet those tests and reply on WhatsApp all week, but comparing two or three quotes before deciding is sensible.",
     },

@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Kathua: workflow tools for Ghatti and SICOP units, B2B sites, Android and iOS apps, AI agents, dashboards and support.",
     keywords: [
-      "software development company in Kathua",
-      "IT company in Kathua",
+      "software development team in Kathua",
+      "IT services team in Kathua",
       "IT solutions Kathua",
       "freelance software developers Kathua",
       "ERP software for small manufacturers Kathua",
@@ -26,8 +26,8 @@ const content: CityContent = {
       "dashboard development Kathua",
       "IT support and maintenance Kathua",
       "SEO services Kathua",
-      "software company near me Hiranagar",
-      "Kathua mein software company",
+      "software team near me Hiranagar",
+      "Kathua mein software team",
       "कठुआ सॉफ्टवेयर डेवलपमेंट",
     ],
   },
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Kathua · Jammu division · Gateway to J&K",
     h1: "Freelance software developers in Kathua for Ghatti and SICOP factories, suppliers and growing MSMEs",
     lede:
-      "Kathua has become one of the busiest places in Jammu and Kashmir to set up a factory, and owners searching for a software development company in Kathua usually need workflow systems more than brochures: purchase and production records, dispatch and e-way bill logs, vendor portals and management dashboards. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, B2B websites, Android and iOS apps, AI automation and ongoing support for Kathua district businesses, with published starting prices and five months of free maintenance.",
+      "Kathua has become one of the busiest places in Jammu and Kashmir to set up a factory, and owners searching for a software development team in Kathua usually need workflow systems more than brochures: purchase and production records, dispatch and e-way bill logs, vendor portals and management dashboards. BtechWaleTech is a freelance group of three engineers working remotely from India. We build custom software, B2B websites, Android and iOS apps, AI automation and ongoing support for Kathua district businesses, with published starting prices and five months of free maintenance.",
     pills: ["Workflow software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "B2B websites from ₹10,000", "Tally-friendly exports"],
   },
   quickAnswer:
@@ -189,7 +189,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-kathua",
-      heading: "Freelance team vs a software development company in Kathua: which should you hire?",
+      heading: "Freelance team vs a software development team in Kathua: which should you hire?",
       paragraphs: [
         "A freelance team suits Kathua businesses that want engineers who build directly, clear starting prices and a phased approach, while a larger software development company suits projects needing big teams, on-site implementation staff or round-the-clock helpdesks. Your process, budget and support expectations should decide.",
         "When comparing IT companies in Kathua, Jammu or Pathankot, ask who writes the code, whether licences or renewals apply, whether the quote is itemised, and who owns the database and domain. Ask to speak to the engineer, not only the salesperson.",

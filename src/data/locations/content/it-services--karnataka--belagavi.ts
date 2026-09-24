@@ -7,15 +7,15 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Belagavi (Belgaum)",
     description:
-      "Freelance developers for Belagavi foundries, aerospace suppliers and colleges, not a software development company: B2B sites, ERP-lite, AI. From ₹10,000.",
+      "Freelance developers for Belagavi foundries, aerospace suppliers and colleges, not a software development team: B2B sites, ERP-lite, AI. From ₹10,000.",
     keywords: [
       "Android app development Belagavi",
       "iOS app development Belgaum",
       "iPhone app developers Belagavi",
-      "software development company in Belagavi",
-      "IT company in Belagavi",
+      "software development team in Belagavi",
+      "IT services team in Belagavi",
       "IT solutions Belagavi",
-      "software company in Belgaum",
+      "software team in Belgaum",
       "freelance software developers Belgaum",
       "custom software development Belagavi",
       "foundry ERP software Belgaum",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "IT solutions · Belagavi (Belgaum), Karnataka",
     h1: "Freelance software developers in Belagavi for foundries, suppliers and institutes",
     lede:
-      "If you are comparing a software development company in Belagavi with freelancers, here is the short version of us: BtechWaleTech is a freelance group of three engineers working remotely from India. We build B2B websites and RFQ portals, production and traceability software, AI and WhatsApp automation, dashboards, apps and cloud setups for Belagavi foundries, machine shops, sugar and textile units, colleges and clinics.",
+      "If you are comparing a software development team in Belagavi with freelancers, here is the short version of us: BtechWaleTech is a freelance group of three engineers working remotely from India. We build B2B websites and RFQ portals, production and traceability software, AI and WhatsApp automation, dashboards, apps and cloud setups for Belagavi foundries, machine shops, sugar and textile units, colleges and clinics.",
     pills: ["B2B sites and RFQ portals", "Traceability software", "AI automation from ₹40,000", "Kannada and Marathi", "5 months free support"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three engineers serving Belagavi remotely, not a software development company in Belagavi with an office. B2B websites start at ₹10,000 (1 to 2 weeks), AI automation at ₹40,000 (2 to 4 weeks) and custom production or traceability software at ₹60,000 (6 to 12 weeks). You get an itemised quote in about two working days.",
+    "BtechWaleTech is a freelance group of three engineers serving Belagavi remotely, not a software development team in Belagavi with an office. B2B websites start at ₹10,000 (1 to 2 weeks), AI automation at ₹40,000 (2 to 4 weeks) and custom production or traceability software at ₹60,000 (6 to 12 weeks). You get an itemised quote in about two working days.",
   snapshot: [
     { label: "Industrial estates", value: "Udyambag, Macche, Kanbargi and the Honga industrial area, with many small and mid-sized engineering units" },
     { label: "Foundry cluster", value: "One of India's recognised foundry clusters, casting for automotive, pump, valve and machinery customers" },
@@ -80,14 +80,14 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-belagavi",
-      heading: "Freelance team or a software development company in Belagavi: which is right?",
+      heading: "Freelance team or a software development team in Belagavi: which is right?",
       paragraphs: [
-        "A software development company in Belagavi is the right choice for large ERP rollouts that need on-site staff and a long support contract. A freelance team is the right choice for focused modules, B2B websites, automation and dashboards where you want lower cost and direct contact with engineers. Many Belagavi SMEs start with the second and never need the first.",
+        "A software development team in Belagavi is the right choice for large ERP rollouts that need on-site staff and a long support contract. A freelance team is the right choice for focused modules, B2B websites, automation and dashboards where you want lower cost and direct contact with engineers. Many Belagavi SMEs start with the second and never need the first.",
         "We are open about capacity. Three engineers cannot run a plant-wide ERP for a large group, and we will say so. What we do well is the focused module that fixes the step costing you the most time or rework, built to connect with whatever you add later.",
       ],
       list: [
         "Freelance group: direct engineer contact, published starting prices, smaller team",
-        "Software company: larger team, more process, higher overhead",
+        "Software team: larger team, more process, higher overhead",
         "Either way: keep the code, domain and cloud accounts in your own name",
       ],
     },
@@ -223,17 +223,17 @@ const content: CityContent = {
     },
     {
       id: "software-cost-belagavi",
-      heading: "How much does a software development company in Belagavi charge, and what do we charge?",
+      heading: "How much does a software development team in Belagavi charge, and what do we charge?",
       paragraphs: [
-        "A software development company in Belagavi generally includes office and sales costs in its quote. Our starting prices are published: websites ₹10,000, SEO websites with 700+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. See the <a href='/pricing/'>pricing page</a>.",
+        "A software development team in Belagavi generally includes office and sales costs in its quote. Our starting prices are published: websites ₹10,000, SEO websites with 700+ pages ₹20,000, AI automation ₹40,000, Android and iOS apps ₹40,000, ecommerce ₹50,000, custom software ₹60,000, monthly SEO ₹10,000 and maintenance ₹8,000 a month. See the <a href='/pricing/'>pricing page</a>.",
         "The final cost depends on modules, users, reports, integrations such as Tally and data migration. Quotes are itemised so you can remove or delay modules. Payment is in INR by UPI QR or bank transfer only, in milestones after you review work on staging.",
       ],
     },
     {
       id: "choosing-software-company-belagavi",
-      heading: "Checklist before hiring a software development company in Belagavi",
+      heading: "Checklist before hiring a software development team in Belagavi",
       paragraphs: [
-        "Before hiring a software development company in Belagavi, or a freelance team like ours, check who builds it, what the scope includes, who owns the accounts, how progress is shown and what support follows launch.",
+        "Before hiring a software development team in Belagavi, or a freelance team like ours, check who builds it, what the scope includes, who owns the accounts, how progress is shown and what support follows launch.",
       ],
       list: [
         "Meet the developer, not only a salesperson",
@@ -304,7 +304,7 @@ const content: CityContent = {
   ],
   faqs: [
     { question: "Do you have an office in Belagavi?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office or branch in Belagavi. We work over WhatsApp, calls, video meetings and shared documents, and you review progress on a live staging link. Plant walkthroughs can be done over video when needed." },
-    { question: "Which is the best software company in Belgaum for a foundry?", answer: "The best fit depends on scope. A larger software company in Belgaum suits a full ERP rollout with on-site staff; a freelance group suits focused modules like heat and job records, RFQ portals and dashboards. Compare written scopes, code ownership, support and live work before choosing." },
+    { question: "Which is the best software team in Belgaum for a foundry?", answer: "The best fit depends on scope. A larger software company in Belgaum suits a full ERP rollout with on-site staff; a freelance group suits focused modules like heat and job records, RFQ portals and dashboards. Compare written scopes, code ownership, support and live work before choosing." },
     { question: "How much does foundry or traceability software cost?", answer: "Custom software starts at ₹60,000. A single module, such as heat and job records, sits near that figure; a multi-module system with inspection, NCR and customer reports costs more. You get an itemised quote about two working days after a call." },
     { question: "How long does it take?", answer: "Custom software takes six to twelve weeks, AI automation two to four weeks, ecommerce four to eight weeks and a website one to two weeks. Phased delivery means the first module can be in use well before the last is built." },
     { question: "How do we pay?", answer: "Only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in INR. We do not take payments through gateways or payment links. Projects are split into milestones, each paid after you review the work on staging." },

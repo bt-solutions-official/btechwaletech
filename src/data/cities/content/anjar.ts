@@ -10,12 +10,12 @@ const anjar: CityContent = {
       "Gujarati websites, Android and iOS apps, SEO and WhatsApp automation for Anjar pipe and steel suppliers, bandhani and knife makers, transporters, shops and clinics.",
     keywords: [
       "IT services in Anjar",
-      "IT company in Anjar",
-      "website development company in Anjar",
+      "IT services team in Anjar",
+      "website development team in Anjar",
       "web design in Anjar",
-      "app development company in Anjar",
+      "app development team in Anjar",
       "Android app development in Anjar",
-      "software company in Anjar",
+      "software team in Anjar",
       "SEO services in Anjar",
       "digital marketing in Anjar",
       "ecommerce website in Anjar",
@@ -74,19 +74,19 @@ const anjar: CityContent = {
     },
     {
       id: "pipe-steel-suppliers",
-      heading: "Website development company in Anjar for pipe, steel and plant suppliers",
+      heading: "Website development team in Anjar for pipe, steel and plant suppliers",
       paragraphs: [
         "Anjar taluka has become a major centre for steel pipe; by 2006 the town was already producing over a million tonnes of pipeline a year for oil, gas, water and sewage lines. Plants at Varsamedi, Khedoi, Bhimasar and Meghpar Borichi make pipe, steel and alloys, and each depends on hundreds of smaller firms: fabricators, machine shops, electrical and instrumentation contractors, scaffolding and crane hire, inspection agencies, canteens, security and manpower suppliers.",
-        "A <strong>website development company in Anjar</strong> serving these firms should produce sites that answer a purchase engineer's questions quickly: services and capabilities, machines with sizes and capacities, certifications held, safety practice, sectors served, GST and registration details, and named contacts with phone numbers. The site should open fast on an office desktop and look tidy when printed for a vendor file.",
+        "A <strong>website development team in Anjar</strong> serving these firms should produce sites that answer a purchase engineer's questions quickly: services and capabilities, machines with sizes and capacities, certifications held, safety practice, sectors served, GST and registration details, and named contacts with phone numbers. The site should open fast on an office desktop and look tidy when printed for a vendor file.",
         "We never display a client name or logo on your site without that client's written permission, and we do not claim certifications you do not hold. Machine shops that handle drawings can add an enquiry form with file upload, and repeat customers can get a simple job status page so they stop calling for updates.",
       ],
     },
     {
       id: "transport-logistics-anjar",
-      heading: "Software company in Anjar for transporters and logistics firms",
+      heading: "Software team in Anjar for transporters and logistics firms",
       paragraphs: [
         "Eastern Kutch moves a great deal of cargo. Pipes, coils, towels, salt, coal and containers travel by trailer between the plants, the ports of the Gulf of Kutch and the highways towards Ahmedabad and north India. Anjar has many transport companies, from single-truck owners to fleets of trailers and tankers.",
-        "Their records are often split between diaries, spreadsheets and phone calls. As a <strong>software company in Anjar</strong>, we build web tools that bring this together: trips with vehicle, driver, consignor, LR number and freight; diesel and advances; tyre and maintenance logs; permit, fitness and insurance expiry alerts; and party-wise outstanding amounts with WhatsApp reminders.",
+        "Their records are often split between diaries, spreadsheets and phone calls. As a <strong>software team in Anjar</strong>, we build web tools that bring this together: trips with vehicle, driver, consignor, LR number and freight; diesel and advances; tyre and maintenance logs; permit, fitness and insurance expiry alerts; and party-wise outstanding amounts with WhatsApp reminders.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We normally start with the trip and billing register, since that is where money leaks, then add a driver app or reports once the office trusts the system.",
       ],
     },
@@ -110,10 +110,10 @@ const anjar: CityContent = {
     },
     {
       id: "shops-schools-anjar",
-      heading: "IT company in Anjar for shops, schools and services in the rebuilt town",
+      heading: "IT services team in Anjar for shops, schools and services in the rebuilt town",
       paragraphs: [
         "The plants around Anjar employ workers from many states, and their families shop, study and seek treatment in town. That creates demand for grocery and household stores, mobile and electronics shops, tailors, rental housing, schools, coaching centres and clinics that can serve customers in Gujarati, Hindi and sometimes other languages.",
-        "Working as an <strong>IT company in Anjar</strong>, we help these businesses show up where new residents look: Google Maps. A complete listing, a short bilingual website and a WhatsApp link let a family new to Kutch find a school, a doctor or a room to rent without asking around.",
+        "Working as an <strong>IT services team in Anjar</strong>, we help these businesses show up where new residents look: Google Maps. A complete listing, a short bilingual website and a WhatsApp link let a family new to Kutch find a school, a doctor or a room to rent without asking around.",
         "For schools and coaching centres, we build course and admission pages with fee ranges and transport routes. For rental and housing agents, we build listing pages that are easy to update and never show a property that has already gone.",
       ],
     },
@@ -131,7 +131,7 @@ const anjar: CityContent = {
       heading: "Android app development in Anjar, and iOS apps for local firms",
       paragraphs: [
         "An app is worth building when the same group uses it often. In Anjar, strong cases include transport fleets whose drivers log trips and upload bills from the road, manpower contractors marking attendance at plant gates, fabricators sharing job progress with clients, schools sending notices, and craft sellers whose repeat buyers re-order.",
-        "As an <strong>app development company in Anjar</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android and iPhone. A first version typically includes mobile number login, push notifications, the screens users need and an admin panel. We publish on Google Play and the Apple App Store under developer accounts in your company's name.",
+        "As an <strong>app development team in Anjar</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android and iPhone. A first version typically includes mobile number login, push notifications, the screens users need and an admin panel. We publish on Google Play and the Apple App Store under developer accounts in your company's name.",
         "<strong>Android app development in Anjar</strong> with us starts at ₹40,000. GPS tracking, offline mode for plant areas with weak signal, payments and integrations add to the cost and are listed separately. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, rates and a contact number, a website does that for far less money. We will say so, because an app installed once and forgotten helps nobody.",
       ],
@@ -238,7 +238,7 @@ const anjar: CityContent = {
         "A static website usually goes live in one to two weeks after we receive text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content being ready is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Anjar?",
+      question: "Who is the best website development team in Anjar?",
       answer:
         "Check any provider for published prices, domain and code ownership in your name, support after launch and real work you can see. Ask everyone the same questions. We meet those tests and reply on WhatsApp seven days a week, but speaking to two or three options first is sensible.",
     },

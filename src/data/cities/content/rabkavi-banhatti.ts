@@ -10,12 +10,12 @@ const rabkaviBanhatti: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Rabkavi Banhatti saree weavers, powerloom owners, dyers, traders, clinics and schools on the Krishna.",
     keywords: [
       "IT services in Rabkavi Banhatti",
-      "IT company in Rabkavi Banhatti",
-      "website development company in Rabkavi Banhatti",
+      "IT services team in Rabkavi Banhatti",
+      "website development team in Rabkavi Banhatti",
       "web design in Rabkavi Banhatti",
-      "app development company in Rabkavi Banhatti",
+      "app development team in Rabkavi Banhatti",
       "Android app development in Rabkavi Banhatti",
-      "software company in Rabkavi Banhatti",
+      "software team in Rabkavi Banhatti",
       "SEO services in Rabkavi Banhatti",
       "digital marketing in Rabkavi Banhatti",
       "ecommerce website in Rabkavi Banhatti",
@@ -74,19 +74,19 @@ const rabkaviBanhatti: CityContent = {
     },
     {
       id: "saree-weavers-websites",
-      heading: "Website development company in Rabkavi Banhatti for saree weavers and wholesalers",
+      heading: "Website development team in Rabkavi Banhatti for saree weavers and wholesalers",
       paragraphs: [
         "Banahatti cotton sarees, checks and Ilkal-style pieces made on local looms reach shops across Karnataka and neighbouring states. Much of that trade still depends on a trader visiting, a bundle of samples, or photos forwarded on WhatsApp until nobody can find the right one. A buyer who hears about a Banhatti unit from a friend will usually search for it first, and finding nothing makes the unit look smaller than it is.",
-        "As a <strong>website development company in Rabkavi Banhatti</strong> in practice, we build sites that work like an organised sample book. Each design gets its own page with clear photos in daylight, border and pallu close-ups, fabric, length, blouse piece details and minimum order quantity. Dealers can filter by colour or type, and a button opens WhatsApp with the design code already typed in.",
+        "As a <strong>website development team in Rabkavi Banhatti</strong> in practice, we build sites that work like an organised sample book. Each design gets its own page with clear photos in daylight, border and pallu close-ups, fabric, length, blouse piece details and minimum order quantity. Dealers can filter by colour or type, and a button opens WhatsApp with the design code already typed in.",
         "We add a short page on the unit itself: how many looms, which varieties you weave, typical dispatch time and the transport you use. Real facts like these reassure a shop owner in Mangaluru or Kolhapur more than slogans do. A catalogue site of this kind starts at ₹10,000 and can grow into a full store later without being rebuilt.",
       ],
     },
     {
       id: "powerloom-production-software",
-      heading: "Software company in Rabkavi Banhatti for powerloom and dyeing units",
+      heading: "Software team in Rabkavi Banhatti for powerloom and dyeing units",
       paragraphs: [
         "Behind every saree dispatched from the town sit records that are easy to lose: yarn issued to each weaver or loom shed, beams prepared, pieces returned, rejections, dyeing batches, wages paid by piece, and bills raised to dealers who pay weeks later. Many units still keep all this in notebooks, which works until a dispute or a season when the owner falls ill.",
-        "Working as a <strong>software company in Rabkavi Banhatti</strong>, we build small web applications around that exact flow. A supervisor enters yarn issue and piece returns from a phone. The system shows balance yarn per weaver, output per loom, dyeing job status and outstanding amounts per party. Owners see a daily summary without walking every shed.",
+        "Working as a <strong>software team in Rabkavi Banhatti</strong>, we build small web applications around that exact flow. A supervisor enters yarn issue and piece returns from a phone. The system shows balance yarn per weaver, output per loom, dyeing job status and outstanding amounts per party. Owners see a daily summary without walking every shed.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks, built in stages so the part that saves the most time goes live first. We can connect it to Tally, print challans, and keep the screens in Kannada where supervisors prefer it. We do not force a system on a unit that is fine with a spreadsheet; sometimes a well-built sheet is the right first step.",
       ],
     },
@@ -104,7 +104,7 @@ const rabkaviBanhatti: CityContent = {
       heading: "Android app development in Rabkavi Banhatti, plus iOS apps for dealers and staff",
       paragraphs: [
         "An app earns its keep when a fixed group of people opens it again and again. In Rabkavi Banhatti that often means dealers in other towns who reorder every few weeks, loom supervisors logging output shift by shift, or a school sending notices and fee reminders to parents. For a one-time visitor, a website is quicker and cheaper.",
-        "As an <strong>app development company in Rabkavi Banhatti</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A typical first version has login by mobile number, a design catalogue or data entry screens, push notifications for new arrivals or payment reminders, and an admin panel the owner controls from a laptop or phone.",
+        "As an <strong>app development team in Rabkavi Banhatti</strong> working remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A typical first version has login by mobile number, a design catalogue or data entry screens, push notifications for new arrivals or payment reminders, and an admin panel the owner controls from a laptop or phone.",
         "<strong>Android app development in Rabkavi Banhatti</strong> with us starts at ₹40,000. The price climbs with online payments, offline entry for sheds with patchy signal, barcode scanning of bundles or links to your billing software, and each of those appears as a separate line in the quote. We publish the app on Google Play and the App Store under developer accounts in your name.",
         "If your dealers only ever need your number and a price list, a website plus a WhatsApp catalogue does the job for a fraction of the cost, and we will say so before you spend on an app.",
       ],
@@ -156,9 +156,9 @@ const rabkaviBanhatti: CityContent = {
     },
     {
       id: "remote-team-rabkavi",
-      heading: "A remote IT company in Rabkavi Banhatti: how we work",
+      heading: "A remote IT services team in Rabkavi Banhatti: how we work",
       paragraphs: [
-        "People searching for an <strong>IT company in Rabkavi Banhatti</strong> often expect someone who will visit the shop. We cannot do that, so we replace the visit with clear written steps. A first call covers your business, customers and goals. Then you receive a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
+        "People searching for an <strong>IT services team in Rabkavi Banhatti</strong> often expect someone who will visit the shop. We cannot do that, so we replace the visit with clear written steps. A first call covers your business, customers and goals. Then you receive a page or screen plan, a timeline and an itemised quote, usually within about two working days.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. Kannada text is sent to you for checking before it goes live, and you see progress on preview links from your phone rather than waiting for a final reveal. Payments are tied to visible milestones, and nothing is billed before you approve the quote in writing.",
         "This arrangement keeps our starting prices low and means you never need to travel to Bagalkot, Belagavi or Hubballi for a meeting. Start with a message on our <a href=\"/contact/\">contact page</a>, or read about our <a href=\"/services/web-development/\">web development work</a> first.",
       ],
@@ -223,7 +223,7 @@ const rabkaviBanhatti: CityContent = {
         "A static catalogue site usually goes live in one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online saree store four to eight weeks, and custom production software six to twelve weeks. The biggest delay is usually photographing designs, so plan that early.",
     },
     {
-      question: "Which is the best website development company in Rabkavi Banhatti?",
+      question: "Which is the best website development team in Rabkavi Banhatti?",
       answer:
         "Judge any provider on the same points: published starting prices, domain and code in your name, a written quote, real past work, and someone who answers after launch. Ask each one identical questions and compare. We meet those tests and reply on WhatsApp every day, but you should check everyone, including us.",
     },

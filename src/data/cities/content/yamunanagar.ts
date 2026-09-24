@@ -9,7 +9,7 @@ const yamunanagar: CityContent = {
     description:
       "Web design, SEO and WhatsApp automation for Yamunanagar-Jagadhri plywood mills, utensil makers, timber traders, clinics and schools. Sites from ₹10,000.",
     keywords: [
-      "website development company in Yamunanagar",
+      "website development team in Yamunanagar",
       "web designer Yamunanagar",
       "website design Jagadhri",
       "plywood company website design",

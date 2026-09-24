@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Jorhat for institute portals, field-data apps, tea grower tools, Majuli bookings, AI and SEO. Three remote engineers, from ₹10,000.",
     keywords: [
-      "software development company in Jorhat",
-      "IT company in Jorhat",
+      "software development team in Jorhat",
+      "IT services team in Jorhat",
       "IT solutions Jorhat",
       "freelance software developers in Jorhat",
       "Android app development Jorhat",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Jorhat · Upper Assam",
     h1: "Freelance software developers in Jorhat for institutes, researchers, tea growers and Majuli tourism",
     lede:
-      "BtechWaleTech is a freelance group of three software developers who serve Jorhat remotely from India. If you were looking for a software development company in Jorhat, we build the same things with less overhead: admission portals and course sites, learning platforms, field-data apps, tea grower tools, Majuli booking systems, AI assistants, Android and iOS apps and dashboards. Prices are published and five months of maintenance come free.",
+      "BtechWaleTech is a freelance group of three software developers who serve Jorhat remotely from India. If you were looking for a software development team in Jorhat, we build the same things with less overhead: admission portals and course sites, learning platforms, field-data apps, tea grower tools, Majuli booking systems, AI assistants, Android and iOS apps and dashboards. Prices are published and five months of maintenance come free.",
     pills: ["Institute portals and LMS", "Field-data apps", "Android & iOS apps from ₹40,000", "Websites from ₹10,000", "UPI or bank transfer"],
   },
   quickAnswer:
@@ -200,15 +200,15 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-jorhat",
-      heading: "Freelance team or a software development company in Jorhat: costs, timelines and how to decide",
+      heading: "Freelance team or a software development team in Jorhat: costs, timelines and how to decide",
       paragraphs: [
-        "A freelance team like BtechWaleTech usually costs less than a software development company in Jorhat and gives you direct contact with the engineers, while a larger company may offer site visits and bigger teams. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
+        "A freelance team like BtechWaleTech usually costs less than a software development team in Jorhat and gives you direct contact with the engineers, while a larger company may offer site visits and bigger teams. Our starting prices: websites ₹10,000, SEO sites ₹20,000, automation and Android and iOS apps ₹40,000, stores ₹50,000 and custom software ₹60,000.",
         "Timelines run from one to two weeks for a website, two to four for automation, three to five for an SEO site, six to ten for an app, and six to twelve for custom software. Quotes are itemised and payments staged, by UPI QR or bank transfer in INR only. See the <a href='/pricing/'>pricing page</a> and our <a href='/portfolio/'>portfolio</a>.",
         "Whoever you hire, secure ownership of the domain, hosting and code in your name, see a live preview during the build, and get support terms in writing. Learn <a href='/about/'>about the three of us</a>, compare the rest of the state on <a href='/it-services/assam/'>IT services in Assam</a>, or <a href='/contact/'>contact us</a>.",
       ],
       list: [
         "Freelance group: published prices, direct engineers, remote delivery",
-        "Software company: bigger teams and visits, usually higher cost",
+        "Software team: bigger teams and visits, usually higher cost",
         "Both: ownership in your name, itemised quote, written support",
       ],
     },
@@ -298,7 +298,7 @@ const content: CityContent = {
         "No, not as fixed timetables. Ferry timings change with river levels and local decisions, so we write guidance on how to check current timings locally and link to official information where available. This keeps your site accurate and avoids stranding guests with outdated schedules.",
     },
     {
-      question: "Should we hire a freelance team or an IT company in Jorhat?",
+      question: "Should we hire a freelance team or an IT services team in Jorhat?",
       answer:
         "It depends on your needs. A freelance group like ours offers direct engineer access, published prices and lower overheads, but works remotely. A larger IT company may offer site visits and bigger teams at higher cost. In both cases, secure ownership in your name and written support terms.",
     },

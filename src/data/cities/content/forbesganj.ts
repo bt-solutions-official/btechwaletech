@@ -10,12 +10,12 @@ const forbesganj: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Forbesganj wholesalers, makhana and rice traders, border firms, clinics and colleges.",
     keywords: [
       "IT services in Forbesganj",
-      "IT company in Forbesganj",
-      "website development company in Forbesganj",
+      "IT services team in Forbesganj",
+      "website development team in Forbesganj",
       "web design in Forbesganj",
-      "app development company in Forbesganj",
+      "app development team in Forbesganj",
       "Android app development in Forbesganj",
-      "software company in Forbesganj",
+      "software team in Forbesganj",
       "SEO services in Forbesganj",
       "digital marketing in Forbesganj",
       "ecommerce website in Forbesganj",
@@ -74,10 +74,10 @@ const forbesganj: CityContent = {
     },
     {
       id: "wholesale-billing-software",
-      heading: "Software company in Forbesganj for wholesalers and distributors",
+      heading: "Software team in Forbesganj for wholesalers and distributors",
       paragraphs: [
         "Forbesganj wholesalers supply kirana shops, hardware stores and input dealers over a wide area, from Araria and Raniganj to the market towns near the border. Orders arrive by phone, WhatsApp photo and in person; goods go out on credit; payments come back in pieces. At the end of a busy season, few owners can say exactly who owes what.",
-        "As a <strong>software company in Forbesganj</strong>, we build billing and credit tools shaped around how you already work. Each sale is recorded once, with retailer, items, rates and credit terms. The system shows dues by retailer and by area, flags accounts that have gone past their limit, and prepares a WhatsApp reminder the owner approves before sending. Stock levels update with each bill and purchase.",
+        "As a <strong>software team in Forbesganj</strong>, we build billing and credit tools shaped around how you already work. Each sale is recorded once, with retailer, items, rates and credit terms. The system shows dues by retailer and by area, flags accounts that have gone past their limit, and prepares a WhatsApp reminder the owner approves before sending. Stock levels update with each bill and purchase.",
         "If you already use Tally, we connect to it rather than replacing it, and build dashboards on top: sales by product and month, fast and slow movers, and credit exposure by area. Salesmen on routes can get a simple app to take orders and collect payments with a receipt.",
         "Custom tools start at ₹60,000 and are built in stages over six to twelve weeks. We start with the credit register, because recovering even a few stuck payments usually covers the cost.",
       ],
@@ -104,10 +104,10 @@ const forbesganj: CityContent = {
     },
     {
       id: "border-trade-firms",
-      heading: "Website development company in Forbesganj for transport and border-trade firms",
+      heading: "Website development team in Forbesganj for transport and border-trade firms",
       paragraphs: [
         "The Jogbani–Biratnagar crossing makes Forbesganj a working base for transporters, clearing agents, warehouse owners and traders who deal with Nepal. Their customers are often in Kathmandu, Biratnagar, Kolkata or Siliguri and have never seen the office.",
-        "A <strong>website development company in Forbesganj</strong> can give these firms a credible face: services offered, routes, vehicle types, warehouse size and location, documents a customer must provide, office hours on both sides of the border, and named contacts. Pages in Hindi and English, with a Nepali greeting if you want one, make the firm easier to trust.",
+        "A <strong>website development team in Forbesganj</strong> can give these firms a credible face: services offered, routes, vehicle types, warehouse size and location, documents a customer must provide, office hours on both sides of the border, and named contacts. Pages in Hindi and English, with a Nepali greeting if you want one, make the firm easier to trust.",
         "We do not give customs or legal advice, and the site will not make claims about clearance times that you cannot meet. What it can do is reduce repeat calls by answering the same questions every customer asks.",
         "Most such sites are static and start at ₹10,000. A tracking page where customers see shipment status is custom work from ₹60,000. Read more on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -137,7 +137,7 @@ const forbesganj: CityContent = {
       heading: "Android app development in Forbesganj, and iOS apps where customers use iPhones",
       paragraphs: [
         "A mobile app pays off when a fixed group of people opens it every week. For Forbesganj, that means retailers reordering from a wholesaler, salesmen collecting orders on village routes, a coaching centre's students checking tests and notices, a clinic's patients booking tokens, or a transporter's drivers logging trips.",
-        "Working as an <strong>app development company in Forbesganj</strong> from a distance, we use Flutter or React Native, so the same code runs on Android phones and iPhones. Version one normally includes OTP login, push notifications, the few screens your users truly need and an admin panel. The app goes live on Google Play and the Apple App Store through developer accounts opened in your name.",
+        "Working as an <strong>app development team in Forbesganj</strong> from a distance, we use Flutter or React Native, so the same code runs on Android phones and iPhones. Version one normally includes OTP login, push notifications, the few screens your users truly need and an admin panel. The app goes live on Google Play and the Apple App Store through developer accounts opened in your name.",
         "<strong>Android app development in Forbesganj</strong> starts at ₹40,000 with us. Offline order entry for low-signal villages, online payment, route maps, printer support and separate roles for staff each add to the price and are itemised. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When customers only need your address and a price list, skip the app. A website costs a fraction, needs no install and we will recommend it honestly.",
       ],
@@ -174,7 +174,7 @@ const forbesganj: CityContent = {
     },
     {
       id: "remote-team-forbesganj",
-      heading: "Working with a remote IT company from Forbesganj",
+      heading: "Working with a remote IT services team from Forbesganj",
       paragraphs: [
         "We are open about this: we are not a local IT company in Forbesganj. We are three engineers who work remotely, and that is how we keep prices where they are. You speak to the people doing the work, not to a salesman.",
         "After a first call about your business, you receive a written plan listing pages or screens, dates and the price of each item. Work begins only when you approve it, and no invoice arrives before that. Drafts come as links that open on any phone, so your partner or son in Patna can see them too. Hindi text is shared with you for checking before anything goes live.",
@@ -241,7 +241,7 @@ const forbesganj: CityContent = {
         "A basic static site usually takes one to two weeks after we receive your photos and text. SEO sites of 700+ pages need three to five weeks, stores four to eight, and custom software six to twelve. Owners who send content quickly get their sites soonest.",
     },
     {
-      question: "Which is the best IT company in Forbesganj for a website?",
+      question: "Which is the best IT services team in Forbesganj for a website?",
       answer:
         "Judge any provider on published prices, domain and code in your name, real past work and support after launch. Put the same questions to each. We meet those tests and answer WhatsApp every day, but it is sensible to talk to two or three providers before you choose.",
     },

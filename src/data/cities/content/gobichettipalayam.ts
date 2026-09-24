@@ -10,12 +10,12 @@ const gobichettipalayam: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Gobichettipalayam spinning mills, banana and turmeric traders, silk farmers and shops.",
     keywords: [
       "IT services in Gobichettipalayam",
-      "IT company in Gobichettipalayam",
-      "website development company in Gobichettipalayam",
+      "IT services team in Gobichettipalayam",
+      "website development team in Gobichettipalayam",
       "web design in Gobichettipalayam",
-      "app development company in Gobichettipalayam",
+      "app development team in Gobichettipalayam",
       "Android app development in Gobichettipalayam",
-      "software company in Gobichettipalayam",
+      "software team in Gobichettipalayam",
       "SEO services in Gobichettipalayam",
       "digital marketing in Gobichettipalayam",
       "ecommerce website in Gobichettipalayam",
@@ -75,20 +75,20 @@ const gobichettipalayam: CityContent = {
     },
     {
       id: "spinning-mills-gobi",
-      heading: "Website development company in Gobichettipalayam for spinning mills and yarn units",
+      heading: "Website development team in Gobichettipalayam for spinning mills and yarn units",
       paragraphs: [
         "Spinning mills are a visible part of the Gobi landscape, and much of their yarn goes to knitting and garment units in Tiruppur. Buyers there, and export houses further away, often shortlist a supplier after looking at its website. A mill with no site, or a ten-year-old page with a broken contact form, loses some of those enquiries before anyone calls.",
-        "A <strong>website development company in Gobichettipalayam</strong> working for a mill should stick to what a purchase manager checks: counts and blends produced, spindle capacity if you are willing to share it, quality testing equipment, certifications you actually hold, dispatch options and the names of people who answer enquiries. Clear photographs of the machines and the lab do more than stock images of fabric.",
+        "A <strong>website development team in Gobichettipalayam</strong> working for a mill should stick to what a purchase manager checks: counts and blends produced, spindle capacity if you are willing to share it, quality testing equipment, certifications you actually hold, dispatch options and the names of people who answer enquiries. Clear photographs of the machines and the lab do more than stock images of fabric.",
         "We add an enquiry form that asks for count, quantity and delivery window, so your marketing person receives usable leads rather than “please send price”. Sites of this kind start at ₹10,000 for a static build. Mills that also want an order and dispatch register for regular buyers can move to custom software from ₹60,000.",
         "We never list a customer's name or logo on your site without written permission from that customer, and we do not publish capacity numbers you have not confirmed.",
       ],
     },
     {
       id: "banana-turmeric-copra-traders",
-      heading: "Software company in Gobichettipalayam for banana, turmeric and copra traders",
+      heading: "Software team in Gobichettipalayam for banana, turmeric and copra traders",
       paragraphs: [
         "Gobi is known for plantain and coconut, and it has regulated markets for turmeric, copra and bananas. Around those markets work commission agents, wholesale buyers, transporters, ripening chambers, fertiliser shops and small processors. The paperwork is repetitive: lot numbers, bunch counts or weights, rates, commission, transport charges and advances paid to farmers weeks before the crop is sold.",
-        "Most of this still lives in notebooks and a mix of WhatsApp photos. As a <strong>software company in Gobichettipalayam</strong> in the practical sense, we build simple web tools for the job. Each lot is entered once from a phone with farmer name, variety, weight and rate. Totals appear per farmer, per buyer and per day. Outstanding balances and advances are visible without flipping pages, and a farmer statement can be sent as a PDF on WhatsApp.",
+        "Most of this still lives in notebooks and a mix of WhatsApp photos. As a <strong>software team in Gobichettipalayam</strong> in the practical sense, we build simple web tools for the job. Each lot is entered once from a phone with farmer name, variety, weight and rate. Totals appear per farmer, per buyer and per day. Outstanding balances and advances are visible without flipping pages, and a farmer statement can be sent as a PDF on WhatsApp.",
         "These tools start at ₹60,000 and are built in stages across six to twelve weeks. We usually begin with the daily purchase register because it removes the most arguments, then add buyer dispatch, transport and dues reports once your staff are comfortable.",
         "Everything is in Tamil where your staff need it, with English labels available for accounts and your auditor.",
       ],
@@ -118,7 +118,7 @@ const gobichettipalayam: CityContent = {
       heading: "Android app development in Gobichettipalayam, plus iOS apps for local firms",
       paragraphs: [
         "An app makes sense when the same group of people opens it again and again. In Gobi, strong cases include a banana or copra trader whose field buyers book loads from villages, a school sending homework and fee notices to parents, a hospital running a token queue, a fertiliser distributor taking re-orders from village shops, and a textile shop with repeat customers who want new arrivals first.",
-        "As an <strong>app development company in Gobichettipalayam</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first release normally includes mobile number login, push notifications, the three or four screens your users actually need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to your business.",
+        "As an <strong>app development team in Gobichettipalayam</strong> working remotely, we build in Flutter or React Native, so one codebase serves Android phones and iPhones. A first release normally includes mobile number login, push notifications, the three or four screens your users actually need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to your business.",
         "<strong>Android app development in Gobichettipalayam</strong> with us starts at ₹40,000. Payments, offline entry for fields with weak signal, maps, and links to billing software each add to the cost, and the quote lists them separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for how the build is staged.",
         "If your customers mainly need your address, timings and a price list, a website does that for a fraction of the money. We will say so, because an app that is installed once and forgotten helps nobody.",
       ],
@@ -165,9 +165,9 @@ const gobichettipalayam: CityContent = {
     },
     {
       id: "remote-team-gobi",
-      heading: "IT company in Gobichettipalayam terms, without a local office: how we work",
+      heading: "IT services team in Gobichettipalayam terms, without a local office: how we work",
       paragraphs: [
-        "People searching for an <strong>IT company in Gobichettipalayam</strong> often expect a shop on the main road. We are not that, and we would rather say it on the first call than let it surprise you later. We are a three-person remote team, and our process is built around written steps so distance does not become a problem.",
+        "People searching for an <strong>IT services team in Gobichettipalayam</strong> often expect a shop on the main road. We are not that, and we would rather say it on the first call than let it surprise you later. We are a three-person remote team, and our process is built around written steps so distance does not become a problem.",
         "First comes a call about your business, customers and goals. Then you receive a page or screen plan, a timeline and an itemised quote. Once you approve, we share preview links that you can open on your phone and show to family members or partners before anything goes live. Tamil text is sent to you for checking; nothing is published without your approval.",
         "We reply on WhatsApp every day of the week, including Sundays, on Indian Standard Time. If a delay comes up, you hear about it when we know, not on the delivery date. Payments are tied to visible progress.",
         "If you would like to talk it through first, <a href=\"/contact/\">send us a message</a> with a line about your business.",
@@ -234,7 +234,7 @@ const gobichettipalayam: CityContent = {
         "A static site normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Getting your content to us early is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Gobichettipalayam?",
+      question: "Which is the best website development team in Gobichettipalayam?",
       answer:
         "Choose one that publishes its prices, registers the domain and code in your name, stays reachable after launch and shows real, working sites. Put the same questions to each option. We meet those tests and reply on WhatsApp every day, but comparing two or three providers before deciding is always wise.",
     },

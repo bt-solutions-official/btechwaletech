@@ -9,14 +9,14 @@ const robertsonPet: CityContent = {
     description:
       "Websites, Tamil and Kannada local SEO and WhatsApp automation for Robertsonpet and KGF shops, schools, clinics and suppliers. From ₹10,000, 5 months free upkeep.",
     keywords: [
-      "website development company in KGF",
+      "website development team in KGF",
       "website designer Robertsonpet",
       "web design Kolar Gold Fields",
       "freelance web developer KGF",
       "SEO services KGF",
       "local SEO Robertsonpet",
       "ecommerce website KGF",
-      "software company Kolar Gold Fields",
+      "software team Kolar Gold Fields",
       "website for BEML vendor",
       "WhatsApp automation KGF",
       "AI automation Kolar district",

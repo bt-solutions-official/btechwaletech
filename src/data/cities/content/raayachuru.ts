@@ -9,7 +9,7 @@ const raayachuru: CityContent = {
     description:
       "Websites, Kannada and Telugu SEO, WhatsApp automation and dealer tools for Raichur cotton, rice mill, hospital and college businesses. Starting from ₹10,000.",
     keywords: [
-      "website development company in Raichur",
+      "website development team in Raichur",
       "web design Raichur",
       "website designer Raichur",
       "Raayachuru website developer",
@@ -21,7 +21,7 @@ const raayachuru: CityContent = {
       "cotton ginning company website",
       "WhatsApp automation Raichur",
       "hospital website Raichur",
-      "software company Raichur",
+      "software team Raichur",
       "website maintenance Raichur",
       "Raichur alli website design",
       "ರಾಯಚೂರು ವೆಬ್‌ಸೈಟ್ ಡಿಸೈನ್",
@@ -273,7 +273,7 @@ const raayachuru: CityContent = {
     {
       question: "How long does SEO take for a Raichur business?",
       answer:
-        "Map visibility for nearby searches usually improves in six to ten weeks once your profile and website are in order. Broader terms such as “rice mill in Raichur” or “website development company in Raichur” take four to eight months of steady work. No honest provider can guarantee the top position.",
+        "Map visibility for nearby searches usually improves in six to ten weeks once your profile and website are in order. Broader terms such as “rice mill in Raichur” or “website development team in Raichur” take four to eight months of steady work. No honest provider can guarantee the top position.",
     },
     {
       question: "Do you work with businesses in Sindhanur, Manvi, Lingsugur and Yadgir?",

@@ -9,7 +9,7 @@ const achalpur: CityContent = {
     description:
       "Marathi and Hindi websites, local SEO, cotton and orange trade pages, Melghat stay bookings and WhatsApp automation for Achalpur and Paratwada businesses.",
     keywords: [
-      "website development company in Achalpur",
+      "website development team in Achalpur",
       "website developer Paratwada",
       "web designer Achalpur Paratwada",
       "website cost Achalpur",
@@ -21,7 +21,7 @@ const achalpur: CityContent = {
       "Melghat homestay booking website",
       "coaching classes website Paratwada",
       "WhatsApp automation Achalpur",
-      "software company Amravati district",
+      "software team Amravati district",
       "Google Maps listing Paratwada",
       "website maintenance Achalpur",
       "अचलपुर वेबसाइट डिझाइन",

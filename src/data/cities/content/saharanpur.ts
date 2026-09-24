@@ -9,14 +9,14 @@ const saharanpur: CityContent = {
     description:
       "Websites, export stores, SEO and WhatsApp automation for Saharanpur wood carvers, mango growers, traders, schools and clinics. From ₹10,000 with free upkeep.",
     keywords: [
-      "website development company in Saharanpur",
+      "website development team in Saharanpur",
       "web designer Saharanpur",
       "website design cost Saharanpur",
       "freelance web developer Saharanpur",
       "wood carving business website",
       "Saharanpur wood craft online store",
       "handicraft export website design",
-      "SEO company Saharanpur",
+      "SEO team Saharanpur",
       "local SEO Saharanpur",
       "ecommerce website development Saharanpur",
       "school website design Saharanpur",

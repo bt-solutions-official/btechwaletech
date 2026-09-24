@@ -10,12 +10,12 @@ const ramachandrapuram: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Ramachandrapuram paddy traders, aqua farms, coconut dealers, colleges and clinics.",
     keywords: [
       "IT services in Ramachandrapuram",
-      "IT company in Ramachandrapuram",
-      "website development company in Ramachandrapuram",
+      "IT services team in Ramachandrapuram",
+      "website development team in Ramachandrapuram",
       "web design in Ramachandrapuram",
-      "app development company in Ramachandrapuram",
+      "app development team in Ramachandrapuram",
       "Android app development in Ramachandrapuram",
-      "software company in Ramachandrapuram",
+      "software team in Ramachandrapuram",
       "SEO services in Ramachandrapuram",
       "digital marketing in Ramachandrapuram",
       "ecommerce website in Ramachandrapuram",
@@ -69,24 +69,24 @@ const ramachandrapuram: CityContent = {
       paragraphs: [
         "Ramachandrapuram is a revenue division headquarters, which means families from a wide ring of villages come here for land records, courts, the government hospital, colleges and wholesale buying. Velampalem, Vella, Vegayammapeta, Draksharamam and Chodavaram all lean on the town, and so do settlements further along the canals. The name is usually traced to the Kakarlapudi family, who moved here after floods wrecked their older fort at Kotipalli.",
         "What most owners ask of <strong>IT services in Ramachandrapuram</strong> is practical. A fertiliser dealer wants retailers to see stock without phoning. A doctor wants patients from Mandapeta and Yanam to know the OPD days. A college wants admission enquiries answered before the student signs up somewhere else. None of this needs a big agency, and much of it can be done in a few weeks.",
-        "Anyone searching for an <strong>IT company in Ramachandrapuram</strong> should know up front that we have no office in the town and do not pretend otherwise; we are three engineers who work for businesses here remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. Everything happens over WhatsApp, phone calls and shared screens.",
+        "Anyone searching for an <strong>IT services team in Ramachandrapuram</strong> should know up front that we have no office in the town and do not pretend otherwise; we are three engineers who work for businesses here remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. Everything happens over WhatsApp, phone calls and shared screens.",
       ],
     },
     {
       id: "paddy-input-traders",
-      heading: "Website development company in Ramachandrapuram for paddy and farm-input traders",
+      heading: "Website development team in Ramachandrapuram for paddy and farm-input traders",
       paragraphs: [
         "Canal irrigation from the Godavari makes paddy the backbone of the mandal, with two crops a year across much of the delta. Around that crop sits a chain of businesses: seed and fertiliser shops, pesticide dealers, tractor and harvester owners, rice mill agents, gunny bag suppliers and transporters who move grain after each harvest.",
-        "A <strong>website development company in Ramachandrapuram</strong> should build for how these people actually work. Retailers in villages want to check whether a brand of urea or a particular seed variety is in stock. Farmers want spray schedules and dosage in Telugu. Mill agents want to know procurement dates and moisture norms. A clean site with a stock page, a Telugu advisory section and a WhatsApp enquiry button answers all three without adding staff.",
+        "A <strong>website development team in Ramachandrapuram</strong> should build for how these people actually work. Retailers in villages want to check whether a brand of urea or a particular seed variety is in stock. Farmers want spray schedules and dosage in Telugu. Mill agents want to know procurement dates and moisture norms. A clean site with a stock page, a Telugu advisory section and a WhatsApp enquiry button answers all three without adding staff.",
         "For dealers who extend credit through the season, the website is often the smaller problem. The bigger one is a ledger spread across notebooks and memory. We can build a simple web tool that records each sale, the village and the due date, and shows who owes what before the next crop loan cycle. That kind of job starts at ₹60,000 as custom software, while a plain dealer website starts at ₹10,000.",
       ],
     },
     {
       id: "aquaculture-suppliers",
-      heading: "Software company in Ramachandrapuram for shrimp and prawn farm businesses",
+      heading: "Software team in Ramachandrapuram for shrimp and prawn farm businesses",
       paragraphs: [
         "Konaseema has turned large tracts of low-lying land into ponds for vannamei shrimp, black tiger prawns, crabs and fish. Ramachandrapuram traders supply that sector with feed, probiotics, aerators, pumps, nets, generators and lab testing, and a good share of the town's cash flow follows the harvest calendar of these ponds.",
-        "Aqua farming produces a lot of numbers that are rarely written down properly: stocking dates, seed counts, daily feed per pond, water test readings, medicine used, harvest weight and count, and the price the buyer finally paid. As a <strong>software company in Ramachandrapuram</strong> we build pond registers where a supervisor enters these on a phone, and the owner sees feed conversion, cost per kilo and profit per pond at the end of the cycle.",
+        "Aqua farming produces a lot of numbers that are rarely written down properly: stocking dates, seed counts, daily feed per pond, water test readings, medicine used, harvest weight and count, and the price the buyer finally paid. As a <strong>software team in Ramachandrapuram</strong> we build pond registers where a supervisor enters these on a phone, and the owner sees feed conversion, cost per kilo and profit per pond at the end of the cycle.",
         "Feed and input dealers have a different need: they sell on credit to farmers who settle after harvest. A dealer tool tracks bags supplied per farmer, rates, part payments and the expected harvest date, and sends a polite WhatsApp reminder when the date passes. We plan these in stages, so the register that saves the most arguments is ready first, usually within the six to twelve weeks a custom build takes.",
       ],
     },
@@ -119,7 +119,7 @@ const ramachandrapuram: CityContent = {
     },
     {
       id: "hospitals-clinics",
-      heading: "IT company in Ramachandrapuram for hospitals, clinics and diagnostic labs",
+      heading: "IT services team in Ramachandrapuram for hospitals, clinics and diagnostic labs",
       paragraphs: [
         "The Area Hospital in the middle of town was upgraded to 100 beds and receives patients from Mandapeta, Anaparthi, Kakinada Rural and even Yanam. Private nursing homes, dental clinics, eye hospitals, pharmacies and diagnostic labs cluster around that flow of patients, and each of them fields the same questions every day.",
         "Which doctor sits on which day? Is the scan centre open on Sunday? How much is a blood test package? A clear website with doctor profiles, OPD timings, services, lab test lists and directions removes many of those calls. We keep medical sites factual and avoid claims about cures or success rates, which patients distrust and which can create legal trouble.",
@@ -131,7 +131,7 @@ const ramachandrapuram: CityContent = {
       heading: "Android app development in Ramachandrapuram, plus iOS apps for local firms",
       paragraphs: [
         "Most small businesses in town do not need an app, and we will say so. An app earns its place when the same people open it again and again: aqua farm supervisors logging feed twice a day, village retailers re-ordering fertiliser every week, parents checking attendance and fee dues, or patients booking a token at a busy clinic.",
-        "As an <strong>app development company in Ramachandrapuram</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first release normally covers mobile number login, the core screens, push notifications and an admin panel your staff can use from a laptop. Telugu labels, offline entry for ponds with weak signal, and photo upload are common additions.",
+        "As an <strong>app development team in Ramachandrapuram</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first release normally covers mobile number login, the core screens, push notifications and an admin panel your staff can use from a laptop. Telugu labels, offline entry for ponds with weak signal, and photo upload are common additions.",
         "<strong>Android app development in Ramachandrapuram</strong> starts at ₹40,000, and the quote lists each extra feature on its own line. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, and we handle the review process on both stores. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number and price list, a website does the job for a fraction of the cost and needs no installation. We would rather build you that and suggest an app later, once repeat use is proven.",
       ],
@@ -227,7 +227,7 @@ const ramachandrapuram: CityContent = {
         "Yes. We build apps in Flutter or React Native that run on Android and iPhone, with login, push notifications and an admin panel, and publish them on Google Play and the App Store in your name. Apps start at ₹40,000. Typical local uses are aqua pond logs, dealer re-orders and college notices.",
     },
     {
-      question: "Which is the best website development company in Ramachandrapuram?",
+      question: "Which is the best website development team in Ramachandrapuram?",
       answer:
         "Judge any provider on whether they publish prices, register the domain and code to you, show real finished work and stay reachable after launch. Put the same questions to each one. We meet those tests and reply on WhatsApp every day, but asking two or three providers before choosing is sensible.",
     },

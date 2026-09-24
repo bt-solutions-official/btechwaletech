@@ -9,7 +9,7 @@ const siwan: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Siwan travel agents, Gulf recruitment offices, clinics, coaching centres and shops. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Siwan",
+      "website development team in Siwan",
       "web design Siwan",
       "website designer Siwan Bihar",
       "SEO services Siwan",

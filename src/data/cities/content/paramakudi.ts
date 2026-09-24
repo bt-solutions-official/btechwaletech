@@ -10,12 +10,12 @@ const paramakudi: CityContent = {
       "Websites, Android and iOS apps, Tamil local SEO and WhatsApp automation for Paramakudi saree weavers, chilli traders, shops and clinics. Websites from ₹10,000.",
     keywords: [
       "IT services in Paramakudi",
-      "IT company in Paramakudi",
-      "website development company in Paramakudi",
+      "IT services team in Paramakudi",
+      "website development team in Paramakudi",
       "web design in Paramakudi",
-      "app development company in Paramakudi",
+      "app development team in Paramakudi",
       "Android app development in Paramakudi",
-      "software company in Paramakudi",
+      "software team in Paramakudi",
       "SEO services in Paramakudi",
       "digital marketing in Paramakudi",
       "ecommerce website in Paramakudi",
@@ -68,7 +68,7 @@ const paramakudi: CityContent = {
       heading: "IT services in Paramakudi: what the town's businesses actually need",
       paragraphs: [
         "Paramakudi is the trading town for a large rural belt of Ramanathapuram district. People from Nainarkoil, Bogalur, Mudukulathur, Kamuthi and the villages along the Vaigai come here for sarees and gold before weddings, for hospital visits, for school admissions and for farm inputs. That means a Paramakudi shop is really serving customers spread across a few taluks, most of whom now check a phone before boarding the bus.",
-        "When people search for an IT company in Paramakudi, they are usually after something simple: a site that shows what they sell, a Google Maps pin that is in the right street, and a way for customers to message them. A few need more, such as an online store for handloom sarees or an app for regular buyers. We cover the full range, from a ₹10,000 website to <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> and custom software, and we tell you plainly when the smaller option is enough.",
+        "When people search for an IT services team in Paramakudi, they are usually after something simple: a site that shows what they sell, a Google Maps pin that is in the right street, and a way for customers to message them. A few need more, such as an online store for handloom sarees or an app for regular buyers. We cover the full range, from a ₹10,000 website to <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> and custom software, and we tell you plainly when the smaller option is enough.",
         "Nothing in this page is a template promise. Each project starts with a short WhatsApp conversation about who your customers are, what they ask before buying and where they come from. The answers decide the pages, the language mix and whether you need anything beyond a good website.",
       ],
     },
@@ -92,7 +92,7 @@ const paramakudi: CityContent = {
     },
     {
       id: "chilli-cotton-trade",
-      heading: "Software company in Paramakudi for chilli, cotton and grain traders",
+      heading: "Software team in Paramakudi for chilli, cotton and grain traders",
       paragraphs: [
         "Ramanathapuram district is known for its Mundu chilli, a round, fat dry red chilli grown in blocks around Kadaladi, Kamuthi, Mudukulathur and Paramakudi itself, and the dry farmland around town also grows cotton, paddy and pulses. Paramakudi's commission agents and traders buy from these farmers and sell on to spice companies, exporters and wholesalers in other states.",
         "Most of this trade is still tracked in a ledger and a phone. We build simple trading software that records every lot bought, with farmer, village, weight, grade, rate and moisture notes, then tracks sale, dispatch and payment on the other side. The owner sees stock by grade, money owed by each buyer and advances paid to farmers on one screen.",
@@ -131,7 +131,7 @@ const paramakudi: CityContent = {
       heading: "Android app development in Paramakudi: when an app earns its cost",
       paragraphs: [
         "An app is worth building when the same customers come back often. In Paramakudi that could be retailers who reorder sarees from a master weaver every month, parents who need daily school notices, patients who book tokens at a busy clinic, or field staff at a trading firm who log purchases from villages. For a one-time buyer, a good website does the job better and costs far less.",
-        "As an app development company in Paramakudi's market, we build Android and iOS apps from one codebase using Flutter or React Native. A typical app has phone number login with OTP, a catalogue or dashboard, orders or bookings, push notifications for new designs, offers or reminders, and an admin panel your staff use from a laptop to update content and see orders.",
+        "As an app development team in Paramakudi's market, we build Android and iOS apps from one codebase using Flutter or React Native. A typical app has phone number login with OTP, a catalogue or dashboard, orders or bookings, push notifications for new designs, offers or reminders, and an admin panel your staff use from a laptop to update content and see orders.",
         "Apps start at ₹40,000. We publish them on Google Play and the Apple App Store under developer accounts registered in your name, so the listing, reviews and user data belong to you. Store review usually adds a few days to the timeline.",
         "If your customers mostly find you once, through a search or a wedding referral, start with the website. You can add an app later, and the same backend and product data can serve both, so nothing built for the website is wasted.",
       ],
@@ -164,7 +164,7 @@ const paramakudi: CityContent = {
     },
     {
       id: "remote-team-paramakudi",
-      heading: "An IT company in Paramakudi's reach, without an office in town",
+      heading: "An IT services team in Paramakudi's reach, without an office in town",
       paragraphs: [
         "We have no office in Paramakudi, Ramanathapuram or anywhere in Tamil Nadu, and we will not pretend otherwise. BtechWaleTech is three engineers who work remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation.",
         "You tell us what you need on WhatsApp or a call. Within about two working days you receive an itemised written quote. Work starts only after you approve it in writing, and nothing is billed before that. During the build you get a preview link you can open on your phone between customers and comment on whenever you like.",
@@ -230,7 +230,7 @@ const paramakudi: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, with OTP login, catalogue or bookings, push notifications and an admin panel. Apps start at ₹40,000 and are published on Google Play and the App Store under accounts in your name. If customers buy only once, we will suggest a website first.",
     },
     {
-      question: "Which is the best website development company in Paramakudi?",
+      question: "Which is the best website development team in Paramakudi?",
       answer:
         "The best choice is whoever puts the domain and code in your name, gives a written itemised quote and still answers after launch. Ask every provider for those three things. We meet all of them, publish our starting prices and provide five months of free maintenance, but we are remote, not a local office.",
     },

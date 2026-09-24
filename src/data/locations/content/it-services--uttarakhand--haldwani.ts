@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Hire Freelance Software Developers in Haldwani",
     description:
-      "Searching for a software development company in Haldwani? Our freelance team builds distributor, mandi, fleet and hospital software, apps and AI automation.",
+      "Searching for a software development team in Haldwani? Our freelance team builds distributor, mandi, fleet and hospital software, apps and AI automation.",
     keywords: [
-      "software development company in Haldwani",
-      "IT company in Haldwani",
+      "software development team in Haldwani",
+      "IT services team in Haldwani",
       "IT solutions Haldwani",
       "freelance software developer Haldwani",
       "distributor management software Haldwani",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Haldwani–Kathgodam · Kumaon · Freelance software team",
     h1: "Hire freelance software developers in Haldwani for distribution, mandi, fleet and clinic systems",
     lede:
-      "Owners looking for a software development company in Haldwani often want one thing: software that fits how goods, money and people move between the plains and the Kumaon hills. BtechWaleTech is a freelance group of three engineers working remotely from India. We build distributor ordering apps, aadhat ledgers, trip-sheet systems, hospital tools, AI automations and dashboards, with starting prices in public and five months of maintenance free.",
+      "Owners looking for a software development team in Haldwani often want one thing: software that fits how goods, money and people move between the plains and the Kumaon hills. BtechWaleTech is a freelance group of three engineers working remotely from India. We build distributor ordering apps, aadhat ledgers, trip-sheet systems, hospital tools, AI automations and dashboards, with starting prices in public and five months of maintenance free.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Offline-ready sales apps", "Mandi and fleet systems", "Hindi screens for staff"],
   },
   quickAnswer:
@@ -72,7 +72,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-it-company-haldwani",
-      heading: "Freelance developers or an IT company in Haldwani: which fits your business?",
+      heading: "Freelance developers or an IT services team in Haldwani: which fits your business?",
       paragraphs: [
         "A freelance team fits most Haldwani businesses that need one focused system, such as a distributor app, an aadhat ledger or a clinic booking tool, while a larger IT company in Haldwani or a metro fits projects needing many developers at once. BtechWaleTech is a freelance group of three engineers, so we take on the focused kind.",
         "What changes in practice is contact and cost. A company usually assigns a coordinator between you and the developers, and its price covers office, sales and management overheads. With us, the engineer who writes your order screen is the person answering your WhatsApp, and the quote reflects engineering work. Requests are clarified in minutes rather than days.",
@@ -253,9 +253,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you an IT company with an office in Haldwani?",
+      question: "Are you an IT services team with an office in Haldwani?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India. We are not a registered IT company and have no office in Haldwani or Kathgodam. We work with Haldwani clients over WhatsApp, phone and video calls, and you follow progress on a live preview link.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India. We are not a registered IT services team and have no office in Haldwani or Kathgodam. We work with Haldwani clients over WhatsApp, phone and video calls, and you follow progress on a live preview link.",
     },
     {
       question: "How are payments made?",

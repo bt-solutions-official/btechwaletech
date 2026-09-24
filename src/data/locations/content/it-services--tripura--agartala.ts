@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Agartala: custom software, web and mobile apps, AI agents, dashboards, cloud and SEO. Web apps from ₹60,000, sites from ₹10,000.",
     keywords: [
-      "software development company in Agartala",
-      "IT company in Agartala",
+      "software development team in Agartala",
+      "IT services team in Agartala",
       "IT solutions Agartala",
       "custom software development Agartala",
       "web application development Agartala",
@@ -22,9 +22,9 @@ const content: CityContent = {
       "clinic software Agartala",
       "dashboard development Agartala",
       "cloud hosting and deployment Agartala",
-      "SEO company Agartala",
+      "SEO team Agartala",
       "ecommerce development Agartala",
-      "software company near me Agartala",
+      "software team near me Agartala",
       "IT support near Battala Agartala",
       "software developer Indranagar Agartala",
       "আগরতলায় সফটওয়্যার কোম্পানি",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Agartala · West Tripura",
     h1: "Freelance software developers for Agartala: custom software, apps and AI automation",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India for Agartala businesses and institutions, doing the work you might otherwise hire a software development company for. We design and build custom software, web applications, mobile apps, AI agents, dashboards and cloud deployments, then add the website and SEO that bring customers in. You talk directly to the people writing your code, and you own everything at handover.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India for Agartala businesses and institutions, doing the work you might otherwise hire a software development team for. We design and build custom software, web applications, mobile apps, AI agents, dashboards and cloud deployments, then add the website and SEO that bring customers in. You talk directly to the people writing your code, and you own everything at handover.",
     pills: ["Web apps from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Bengali and English interfaces", "Replies 7 days a week"],
   },
   quickAnswer:
-    "BtechWaleTech is a freelance group of three remote engineers serving Agartala clients who compare us with a software development company. Custom software and web apps start at ₹60,000 (six to twelve weeks), AI automation at ₹40,000 (two to four weeks), online stores at ₹50,000 and websites at ₹10,000. You receive an itemised quote in about two working days, full code ownership and five months of free maintenance.",
+    "BtechWaleTech is a freelance group of three remote engineers serving Agartala clients who compare us with a software development team. Custom software and web apps start at ₹60,000 (six to twelve weeks), AI automation at ₹40,000 (two to four weeks), online stores at ₹50,000 and websites at ₹10,000. You receive an itemised quote in about two working days, full code ownership and five months of free maintenance.",
   snapshot: [
     { label: "Administrative core", value: "Secretariat and New Capital Complex at Kunjaban, with most state directorates and district offices in the city" },
     { label: "Retail and wholesale", value: "Battala, Maharajganj Bazar, GB Bazar, Lake Chowmuhani, Banamalipur and Dhaleswar Bazar" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "agartala-software-company",
-      heading: "Freelance team or software development company in Agartala: what gets built?",
+      heading: "Freelance team or software development team in Agartala: what gets built?",
       paragraphs: [
-        "Whether you hire a software development company in Agartala or a freelance group, the useful builds are tools that replace manual work: billing and stock systems for traders, fee and attendance software for institutes, appointment and report systems for clinics, project trackers for contractors, and AI-powered WhatsApp workflows. BtechWaleTech builds all of these remotely, starting at ₹60,000 for custom software.",
+        "Whether you hire a software development team in Agartala or a freelance group, the useful builds are tools that replace manual work: billing and stock systems for traders, fee and attendance software for institutes, appointment and report systems for clinics, project trackers for contractors, and AI-powered WhatsApp workflows. BtechWaleTech builds all of these remotely, starting at ₹60,000 for custom software.",
         "In practice, most Agartala organisations do not need a large enterprise system. They need one well-designed application that removes a daily headache. A wholesaler near Maharajganj Bazar may lose track of credit given to retailers. A coaching centre in Krishnanagar may spend evenings reconciling fee receipts. A contractor who works with state departments may need a clean record of bills, measurements and payments across several sites.",
         "We begin by writing down the exact steps your staff follow today, then design screens that match those steps with less typing. The software runs in a browser on computers and phones, stores data on cloud hosting you own, and gives each person a login with suitable permissions. You see a working version early, test it with real entries, and ask for changes before launch.",
       ],
@@ -185,9 +185,9 @@ const content: CityContent = {
     },
     {
       id: "agartala-choosing-partner",
-      heading: "How to choose an IT company in Agartala: questions to ask before paying",
+      heading: "How to choose an IT services team in Agartala: questions to ask before paying",
       paragraphs: [
-        "Before hiring an IT company in Agartala, ask who will write the code, whether the source code and hosting will be in your name, what happens after launch and how payments are staged. These four answers predict most outcomes better than a polished presentation or an office address.",
+        "Before hiring an IT services team in Agartala, ask who will write the code, whether the source code and hosting will be in your name, what happens after launch and how payments are staged. These four answers predict most outcomes better than a polished presentation or an office address.",
         "Ask for live examples you can open and use, not only screenshots. For software, request a short demo of a similar system. Ask what is excluded from the quote, such as SMS charges, WhatsApp Business API fees or hosting renewals. Confirm who you will contact when something breaks on a Sunday during Durga Puja.",
         "BtechWaleTech answers these in writing before any payment. You can review our <a href=\"/portfolio/\">portfolio</a>, learn <a href=\"/about/\">how our team works</a>, and compare this page with our broader <a href=\"/it-services/tripura/\">IT services across Tripura</a>. If your business is mainly looking for a website rather than software, our <a href=\"/agartala/\">Agartala website design page</a> is the better starting point.",
       ],
@@ -227,9 +227,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company based in Agartala?",
+      question: "Is BtechWaleTech a software team based in Agartala?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a registered software company, and we have no office in Agartala or anywhere in Tripura. We serve Agartala clients through WhatsApp, calls and video meetings, with staging links for review. This keeps quotes lower and means you speak directly to the engineers building your software rather than a sales representative.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a registered software team, and we have no office in Agartala or anywhere in Tripura. We serve Agartala clients through WhatsApp, calls and video meetings, with staging links for review. This keeps quotes lower and means you speak directly to the engineers building your software rather than a sales representative.",
     },
     {
       question: "What payment methods do you accept from Agartala clients?",

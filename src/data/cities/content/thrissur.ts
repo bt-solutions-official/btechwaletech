@@ -9,11 +9,11 @@ const thrissur: CityContent = {
     description:
       "Websites, SEO and AI automation for Thrissur jewellers, textile showrooms, chit firms, clinics and Koratty IT firms. Sites from ₹10,000; stores from ₹50,000.",
     keywords: [
-      "website development company in Thrissur",
+      "website development team in Thrissur",
       "web designer Thrissur",
       "website design Thrissur Kerala",
       "freelance web developer Thrissur",
-      "SEO company Thrissur",
+      "SEO team Thrissur",
       "local SEO Thrissur",
       "jewellery website design Thrissur",
       "textile showroom website Kerala",

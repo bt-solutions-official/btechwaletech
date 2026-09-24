@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance IT developers in Tawang for hotel and homestay booking, tour software, Android and iOS apps, AI enquiry agents and travel SEO. Quote in 2 days.",
     keywords: [
-      "software development company in Tawang",
-      "IT company in Tawang",
+      "software development team in Tawang",
+      "IT services team in Tawang",
       "IT solutions Tawang",
       "freelance developers Tawang",
       "Tawang hotel booking website",
@@ -179,9 +179,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-agency-tawang",
-      heading: "Freelance developers vs an IT company for a Tawang tourism business",
+      heading: "Freelance developers vs an IT services team for a Tawang tourism business",
       paragraphs: [
-        "An IT company or large agency offers bigger teams and formal account management, while freelance developers like BtechWaleTech offer direct access to the engineers building your system and quotes without office overhead. Tawang hotels, homestays and tour operators usually need a focused booking or trip system built well and updated quickly, which suits a small freelance group.",
+        "An IT services team or large agency offers bigger teams and formal account management, while freelance developers like BtechWaleTech offer direct access to the engineers building your system and quotes without office overhead. Tawang hotels, homestays and tour operators usually need a focused booking or trip system built well and updated quickly, which suits a small freelance group.",
         "The honest limit: three engineers cannot staff very large projects in parallel or come on site. For most Tawang businesses that is not needed.",
         "Whoever you hire, check who writes the code, get an itemised written quote, and keep your domain, hosting, payment gateway and app store accounts in your own name. See our <a href='/portfolio/'>portfolio</a>, <a href='/about/'>about page</a> and <a href='/pricing/'>starting prices</a>.",
       ],

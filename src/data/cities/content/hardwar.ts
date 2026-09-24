@@ -9,12 +9,12 @@ const hardwar: CityContent = {
     description:
       "Websites, local SEO, booking pages and WhatsApp automation for Haridwar hotels, dharamshalas, Ayurveda firms, SIDCUL suppliers and shops. From ₹10,000.",
     keywords: [
-      "website development company in Haridwar",
+      "website development team in Haridwar",
       "web designer Haridwar",
       "website design Hardwar Uttarakhand",
       "freelance web developer Haridwar",
       "website cost in Haridwar",
-      "SEO company Haridwar",
+      "SEO team Haridwar",
       "local SEO Haridwar",
       "hotel website Haridwar",
       "dharamshala booking website",

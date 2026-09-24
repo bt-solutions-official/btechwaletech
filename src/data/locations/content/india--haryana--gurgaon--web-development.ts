@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Hire freelance web developers in Gurgaon for web apps, portals, SaaS MVPs, APIs and ecommerce. Websites from ₹10,000, custom web apps from ₹60,000, quote in 2 days.",
     keywords: [
-      "web development company in Gurgaon",
+      "web development team in Gurgaon",
       "freelance web developers Gurgaon",
       "hire web developer Gurugram",
       "web application development Gurgaon",
@@ -85,10 +85,10 @@ const content: CityContent = {
     },
     {
       id: "freelance-web-developers-vs-web-development-company-gurgaon",
-      heading: "Freelance web developers or a web development company in Gurgaon?",
+      heading: "Freelance web developers or a web development team in Gurgaon?",
       paragraphs: [
-        "Freelance web developers work best for Gurgaon clients who want direct access to the engineers and a lean budget, while a web development company makes sense for projects that need a large team, formal procurement and on-site presence. If you are comparing web development companies in Gurgaon, look at who will write the code and who will answer when something breaks at 11 pm.",
-        "BtechWaleTech is a freelance group of three engineers, not an agency. We do not have project managers relaying messages, and we are not staffed to put fifteen developers on one product. For most small and mid-sized Gurugram projects, such as an MVP, a portal or a store, three experienced people with clear ownership move faster than a larger team with handoffs.",
+        "Freelance web developers work best for Gurgaon clients who want direct access to the engineers and a lean budget, while a web development team makes sense for projects that need a large team, formal procurement and on-site presence. If you are comparing web development companies in Gurgaon, look at who will write the code and who will answer when something breaks at 11 pm.",
+        "BtechWaleTech is a freelance group of three engineers. We do not have project managers relaying messages, and we are not staffed to put fifteen developers on one product. For most small and mid-sized Gurugram projects, such as an MVP, a portal or a store, three experienced people with clear ownership move faster than a larger team with handoffs.",
         "The risk with any single freelancer is continuity: if they disappear, the project stalls. A small group reduces that, because more than one of us knows every codebase. We also document the setup and keep everything in your GitHub, cloud and domain accounts, so any competent developer could take over if you ever needed them to.",
       ],
     },
@@ -253,9 +253,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a web development company based in Gurgaon?",
+      question: "Is BtechWaleTech a web development team based in Gurgaon?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers, not a company, and we have no Gurgaon office. We work remotely from India and serve Gurugram clients over video calls, WhatsApp and phone, seven days a week. Everything from discovery to deployment is done online, and you see weekly progress on a live preview link.",
+        "No. BtechWaleTech is a freelance group of three engineers, and we have no Gurgaon office. We work remotely from India and serve Gurugram clients over video calls, WhatsApp and phone, seven days a week. Everything from discovery to deployment is done online, and you see weekly progress on a live preview link.",
     },
     {
       question: "How much does website development cost in Gurgaon?",

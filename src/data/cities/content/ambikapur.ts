@@ -9,7 +9,7 @@ const ambikapur: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Ambikapur shops, clinics, colleges, Mainpat stays and Surguja traders. From ₹10,000.",
     keywords: [
-      "website development company in Ambikapur",
+      "website development team in Ambikapur",
       "web design Ambikapur",
       "website designer Ambikapur",
       "SEO services Ambikapur",

@@ -9,8 +9,8 @@ const kolkata: CityContent = {
     description:
       "Kolkata websites, SEO and WhatsApp automation from a remote three-engineer team. Sites from ₹10,000, online stores from ₹50,000, five months' upkeep free.",
     keywords: [
-      "website development company in Kolkata",
-      "web design company Kolkata",
+      "website development team in Kolkata",
+      "web design team Kolkata",
       "website designer in Kolkata",
       "freelance web developer Kolkata",
       "website price in Kolkata",
@@ -257,7 +257,7 @@ const kolkata: CityContent = {
     {
       question: "How soon will SEO work show results?",
       answer:
-        "Map results for neighbourhood searches often improve within six to ten weeks after the profile and site are corrected. Competitive city-wide terms such as “website development company in Kolkata” usually need four to eight months of regular work. No honest provider can guarantee a top ranking, and we do not.",
+        "Map results for neighbourhood searches often improve within six to ten weeks after the profile and site are corrected. Competitive city-wide terms such as “website development team in Kolkata” usually need four to eight months of regular work. No honest provider can guarantee a top ranking, and we do not.",
     },
     {
       question: "Do your online stores support UPI and cash on delivery?",

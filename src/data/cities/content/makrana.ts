@@ -10,12 +10,12 @@ const makrana: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Makrana marble mines, processing units, traders, handicraft workshops, schools and shops.",
     keywords: [
       "IT services in Makrana",
-      "IT company in Makrana",
-      "website development company in Makrana",
+      "IT services team in Makrana",
+      "website development team in Makrana",
       "web design in Makrana",
-      "app development company in Makrana",
+      "app development team in Makrana",
       "Android app development in Makrana",
-      "software company in Makrana",
+      "software team in Makrana",
       "SEO services in Makrana",
       "digital marketing in Makrana",
       "ecommerce website in Makrana",
@@ -75,19 +75,19 @@ const makrana: CityContent = {
     },
     {
       id: "marble-dealers-websites",
-      heading: "Website development company in Makrana for marble dealers and mine owners",
+      heading: "Website development team in Makrana for marble dealers and mine owners",
       paragraphs: [
         "Architects, interior designers and building contractors increasingly shortlist marble suppliers online before they call. They want to see the actual stone: the white background, the veining, how it looks polished and honed, the slab sizes available, and whether the supplier can handle a large project. A visiting card and a few WhatsApp photos no longer make a firm stand out.",
-        "As a <strong>website development company in Makrana</strong> for the stone trade, we build catalogue sites organised by variety and use: flooring, wall cladding, stairs, temple work, countertops. Each variety gets real photographs taken in daylight, the finishes offered, thickness options, typical applications and an enquiry form that asks for quantity, city and project type. Mine owners can add pages on their quarry, block sizes and dispatch arrangements.",
+        "As a <strong>website development team in Makrana</strong> for the stone trade, we build catalogue sites organised by variety and use: flooring, wall cladding, stairs, temple work, countertops. Each variety gets real photographs taken in daylight, the finishes offered, thickness options, typical applications and an enquiry form that asks for quantity, city and project type. Mine owners can add pages on their quarry, block sizes and dispatch arrangements.",
         "Accuracy matters more than adjectives here. Makrana Marble carries a Geographical Indication, and buyers are wary of stone passed off under the name. We write only what you can stand behind, avoid invented grades or certificates, and suggest showing mine and yard photographs so a buyer can judge for himself. A static site of this kind starts at ₹10,000 and is usually ready in one to two weeks once photographs are in hand.",
       ],
     },
     {
       id: "processing-units-software",
-      heading: "Software company in Makrana for gang saws, cutting and polishing units",
+      heading: "Software team in Makrana for gang saws, cutting and polishing units",
       paragraphs: [
         "A processing unit handles blocks bought from different mines, cuts them into slabs or tiles, polishes, grades and stacks them, and loads trucks for buyers in many states. Most units still track this in registers and notebooks, and questions like “how many slabs of this lot are left” or “what is pending from the Jaipur party” take a phone call and a search.",
-        "Working as a <strong>software company in Makrana</strong>, we build web tools that record each block with its source and size, the slabs cut from it, their grade and location in the yard, and each dispatch with vehicle number, bilty and buyer. Owners then see stock by variety and size, dispatches by date, and dues by party on a phone. Photos of each lot can be attached so sales staff share the right images.",
+        "Working as a <strong>software team in Makrana</strong>, we build web tools that record each block with its source and size, the slabs cut from it, their grade and location in the yard, and each dispatch with vehicle number, bilty and buyer. Owners then see stock by variety and size, dispatches by date, and dues by party on a phone. Photos of each lot can be attached so sales staff share the right images.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We build it in stages, starting with whatever causes the most disputes, often dispatch and payment records. It can export to Tally or sit alongside it. We keep screens simple enough for yard supervisors to use on basic Android phones, with Hindi labels where needed.",
       ],
     },
@@ -105,7 +105,7 @@ const makrana: CityContent = {
       heading: "Android app development in Makrana and iOS apps for the stone trade",
       paragraphs: [
         "Most Makrana businesses do not need an app. The ones that do have a defined group of users who come back often: a large dealer's field sales staff showing stock to builders in other cities, contractors who reorder regularly and want to book slabs from live stock, transporters confirming loads, or a school or coaching centre that sends daily updates to parents.",
-        "As an <strong>app development company in Makrana</strong>, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A typical first version has mobile number login, a stock browser with photos and sizes, a booking or enquiry flow, push notifications for new lots and an admin panel for the office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Makrana</strong>, we build in Flutter or React Native, so one codebase serves both Android phones and iPhones. A typical first version has mobile number login, a stock browser with photos and sizes, a booking or enquiry flow, push notifications for new lots and an admin panel for the office. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Makrana</strong> with us starts at ₹40,000. The quote rises with features such as offline access in the mine area, payment collection, maps of yard locations or integration with your stock software, and each is priced separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for the full process.",
         "If your buyers only need to see varieties and call you, a well-built website and a WhatsApp catalogue do that for much less. We say so plainly, because an app that sits unused on a contractor's phone earns nothing.",
       ],
@@ -157,9 +157,9 @@ const makrana: CityContent = {
     },
     {
       id: "remote-team-makrana",
-      heading: "IT company in Makrana without an office: how we work remotely",
+      heading: "IT services team in Makrana without an office: how we work remotely",
       paragraphs: [
-        "Plenty of Makrana dealers already sell to buyers they have never met, using photos, calls and bank transfers. Working with us is similar. We are not an <strong>IT company in Makrana</strong> in the sense of having a local office; we are three engineers who work remotely and put every commitment in writing.",
+        "Plenty of Makrana dealers already sell to buyers they have never met, using photos, calls and bank transfers. Working with us is similar. We are not an <strong>IT services team in Makrana</strong> in the sense of having a local office; we are three engineers who work remotely and put every commitment in writing.",
         "The process is simple. You describe your business on a call or WhatsApp. We send a plan listing pages or screens, a timeline and an itemised quote. Once you approve, we share preview links that you and your family or partners can open on any phone. Hindi text comes to you for checking before it goes live.",
         "We reply on WhatsApp seven days a week on Indian Standard Time. Payments are tied to visible stages, and no amount is billed before your written approval of the quote. If something is late, you hear about it early from us.",
       ],
@@ -224,7 +224,7 @@ const makrana: CityContent = {
         "Yes. We organise the site by variety and application, with daylight photographs, finishes, sizes, thickness and an enquiry form asking for quantity and city. We write only what you can verify about the stone. A catalogue site starts at ₹10,000, and larger SEO sites with many variety pages start at ₹20,000.",
     },
     {
-      question: "Which is the best website development company in Makrana?",
+      question: "Which is the best website development team in Makrana?",
       answer:
         "Judge any provider by clear pricing, ownership of domain and code in your name, support after launch and real examples. Ask the same questions of each. We publish starting prices and reply on WhatsApp every day, but talking to two or three providers before deciding is always wise.",
     },

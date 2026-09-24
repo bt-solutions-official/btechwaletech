@@ -9,7 +9,7 @@ const lalitpur: CityContent = {
     description:
       "Websites, Google Maps setup and WhatsApp automation for Lalitpur grain traders, Jain-run businesses, clinics, coaching centres and NH-44 hotels. From ₹10,000.",
     keywords: [
-      "website development company in Lalitpur",
+      "website development team in Lalitpur",
       "web designer Lalitpur UP",
       "website design Lalitpur Bundelkhand",
       "SEO services Lalitpur",

@@ -9,7 +9,7 @@ const ahmednagar: CityContent = {
     description:
       "Websites, local SEO and automation for Ahilyanagar (Ahmednagar) MIDC units, dairies, traders, clinics and Shirdi hotels. From ₹10,000 with 5 months free support.",
     keywords: [
-      "website development company in Ahmednagar",
+      "website development team in Ahmednagar",
       "website designer Ahilyanagar",
       "web design Ahmednagar Maharashtra",
       "freelance web developer Ahmednagar",

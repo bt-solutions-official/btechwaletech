@@ -10,12 +10,12 @@ const nagari: CityContent = {
       "Tamil, Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Nagari powerloom owners, lungi and saree traders, clinics and shops.",
     keywords: [
       "IT services in Nagari",
-      "IT company in Nagari",
-      "website development company in Nagari",
+      "IT services team in Nagari",
+      "website development team in Nagari",
       "web design in Nagari",
-      "app development company in Nagari",
+      "app development team in Nagari",
       "Android app development in Nagari",
-      "software company in Nagari",
+      "software team in Nagari",
       "SEO services in Nagari",
       "digital marketing in Nagari",
       "ecommerce website in Nagari",
@@ -74,10 +74,10 @@ const nagari: CityContent = {
     },
     {
       id: "powerloom-catalogues",
-      heading: "Website development company in Nagari for powerloom owners and weaving units",
+      heading: "Website development team in Nagari for powerloom owners and weaving units",
       paragraphs: [
         "Most Nagari looms sell through agents and wholesale traders who visit, take samples and fix rates. That system works, but it ties a unit to a few buyers. A simple online catalogue lets a loom owner show every design, count and width to new buyers in other states, and lets existing buyers check new patterns before placing an order.",
-        "As a <strong>website development company in Nagari</strong> for weaving units, we build catalogue sites with clear photographs of each lungi, dhoti or saree design, the count and fabric details, sizes, minimum order in dozens or bundles, and an enquiry form that captures quantity and delivery town. Pages load quickly on basic phones, and text appears in Tamil, Telugu and English.",
+        "As a <strong>website development team in Nagari</strong> for weaving units, we build catalogue sites with clear photographs of each lungi, dhoti or saree design, the count and fabric details, sizes, minimum order in dozens or bundles, and an enquiry form that captures quantity and delivery town. Pages load quickly on basic phones, and text appears in Tamil, Telugu and English.",
         "A catalogue site of this kind starts at ₹10,000 and is usually live within two weeks. Photographs matter most: we explain how to shoot fabric in daylight on a phone so that colour and texture come through. For what a standard build includes, see our <a href=\"/services/web-development/\">web development service</a>.",
       ],
     },
@@ -92,19 +92,19 @@ const nagari: CityContent = {
     },
     {
       id: "loom-production-software",
-      heading: "Software company in Nagari for loom production, yarn and wage records",
+      heading: "Software team in Nagari for loom production, yarn and wage records",
       paragraphs: [
         "Inside a weaving unit, the numbers that decide profit are usually on paper: how much yarn was issued to each loom, how many metres or pieces came off it, which weaver ran which shift, how much was paid in wages, and how much electricity the shed used. Now that the state has begun giving free power units to looms, keeping clean records of consumption and output matters even more.",
-        "As a <strong>software company in Nagari</strong> in the practical sense, we build small production tools for this. A supervisor enters each loom's output and yarn use on a phone. The owner sees totals per loom, per weaver and per design, stock of yarn and finished goods, and wages due each week. Reports make it easy to spot a loom that needs repair or a design that uses more yarn than expected.",
+        "As a <strong>software team in Nagari</strong> in the practical sense, we build small production tools for this. A supervisor enters each loom's output and yarn use on a phone. The owner sees totals per loom, per weaver and per design, stock of yarn and finished goods, and wages due each week. Reports make it easy to spot a loom that needs repair or a design that uses more yarn than expected.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, beginning with the production register. For a unit with only a few looms, a structured spreadsheet may be the right first step, and we will say so.",
       ],
     },
     {
       id: "trader-dispatch",
-      heading: "IT company in Nagari for textile agents, traders and transporters",
+      heading: "IT services team in Nagari for textile agents, traders and transporters",
       paragraphs: [
         "Between the loom and the shop sits a chain of agents, traders and transporters. They collect cloth from dozens of units, pack bundles, send them by lorry or parcel service to buyers in Tamil Nadu, Kerala and further, and chase payments that may take weeks to arrive. Mistakes in this chain are costly and hard to trace.",
-        "An <strong>IT company in Nagari</strong> that understands this can help with an order and dispatch system: purchases recorded from each unit, bundles tagged with design and quantity, dispatches logged with vehicle and LR details, and outstanding amounts listed by buyer. The trader sees on one screen what is in stock, what has gone out and who still owes money.",
+        "An <strong>IT services team in Nagari</strong> that understands this can help with an order and dispatch system: purchases recorded from each unit, bundles tagged with design and quantity, dispatches logged with vehicle and LR details, and outstanding amounts listed by buyer. The trader sees on one screen what is in stock, what has gone out and who still owes money.",
         "This falls under custom software from ₹60,000. We keep screens simple and large, work in Tamil, Telugu or English as your staff prefer, and back up data every day so that a lost phone never means lost records.",
       ],
     },
@@ -141,7 +141,7 @@ const nagari: CityContent = {
       paragraphs: [
         "An app earns its cost when people use it again and again. In Nagari that is usually wholesale buyers checking new designs every week, loom supervisors logging output every shift, school parents following notices and fees, or regular customers of a pharmacy or grocery reordering. For a business most people visit once or twice a year, a website and map listing is the better choice.",
         "For <strong>Android app development in Nagari</strong>, we write one Flutter or React Native codebase that runs on both Android phones and iPhones. A buyer app might have OTP login, alerts when new designs are added, a catalogue with trade prices, an order screen and a view of past orders and dues. A supervisor app might record loom output and yarn use offline and sync later. Both are published on Google Play and the App Store under accounts in your name.",
-        "Apps start at ₹40,000, rising with payments, offline sync or links to accounting. As an <strong>app development company in Nagari</strong> owners can reach on WhatsApp any day, we suggest a small first version, used by a handful of buyers or supervisors for a few weeks, then improvements from their feedback. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
+        "Apps start at ₹40,000, rising with payments, offline sync or links to accounting. As an <strong>app development team in Nagari</strong> owners can reach on WhatsApp any day, we suggest a small first version, used by a handful of buyers or supervisors for a few weeks, then improvements from their feedback. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
     {
@@ -217,7 +217,7 @@ const nagari: CityContent = {
         "Catalogue and shop sites usually take one to two weeks, most of it spent on photos and checking Tamil and Telugu text. SEO sites need three to five weeks, stores four to eight and custom software six to twelve. App timelines depend on screens. You see progress through preview links at every stage.",
     },
     {
-      question: "Which is the best website development company in Nagari?",
+      question: "Which is the best website development team in Nagari?",
       answer:
         "Look at what a developer has already built and whether it still works, whose name your domain will sit in, and what you will pay each year after launch. A cheap site that disappears within a year is no bargain. We are a three-engineer remote team and are glad to be judged on those questions.",
     },

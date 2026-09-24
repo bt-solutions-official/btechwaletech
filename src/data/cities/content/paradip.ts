@@ -10,12 +10,12 @@ const paradip: CityContent = {
       "Websites, Android and iOS apps, SEO, logistics software and WhatsApp automation for Paradip port contractors, CHAs, transporters, shops and schools.",
     keywords: [
       "IT services in Paradip",
-      "IT company in Paradeep",
-      "website development company in Paradip",
+      "IT services team in Paradeep",
+      "website development team in Paradip",
       "web design in Paradeep",
-      "app development company in Paradip",
+      "app development team in Paradip",
       "Android app development in Paradip",
-      "software company in Paradeep",
+      "software team in Paradeep",
       "SEO services in Paradip",
       "digital marketing in Paradeep",
       "ecommerce website in Paradip",
@@ -70,12 +70,12 @@ const paradip: CityContent = {
       paragraphs: [
         "Few Indian towns are shaped by one piece of infrastructure the way Paradip is. The foundation stone of the port was laid in 1962 and the port opened in 1966; the township, its colonies and most of its trade followed. Today coal, iron ore, crude oil, petroleum products and fertiliser inputs move through the berths, and the refinery, fertiliser plants and oil terminals sit behind them.",
         "Around that core is a second economy of smaller firms: transporters, clearing and forwarding agents, stevedoring and handling contractors, crane and equipment hire, welding and fabrication shops, canteens, security agencies, lodges and hotels. They win work through tenders, references and purchase officers, and nearly all of those people look a vendor up online before the first meeting.",
-        "That is where an IT company in Paradip earns its keep. A firm with a clear website, correct registrations listed, photographs of real equipment and a named contact looks as organised as a Kolkata or Visakhapatnam competitor. We build those sites, plus the internal software and apps that keep trips, jobs and bills in order, and we price every item openly.",
+        "That is where an IT services team in Paradip earns its keep. A firm with a clear website, correct registrations listed, photographs of real equipment and a named contact looks as organised as a Kolkata or Visakhapatnam competitor. We build those sites, plus the internal software and apps that keep trips, jobs and bills in order, and we price every item openly.",
       ],
     },
     {
       id: "logistics-cha-websites-paradip",
-      heading: "Website development company in Paradip for CHAs, shipping agents and transporters",
+      heading: "Website development team in Paradip for CHAs, shipping agents and transporters",
       paragraphs: [
         "A customs house agent or freight forwarder in Paradip is often judged in the first thirty seconds on a phone. The importer in Raipur or the exporter in Jamshedpur wants to know which cargo you handle, whether you do customs clearance, rail or road onward movement and warehousing, and who to call. A tidy site answers that before the call.",
         "For transporters we build fleet pages that list vehicle types, tipper and trailer capacity, routes you actually run, such as Paradip to Kalinganagar, Angul or Talcher, and the documents you can furnish. For shipping agents and surveyors, service pages per cargo type and a simple enquiry form with vessel, cargo and date fields save time for both sides.",
@@ -91,7 +91,7 @@ const paradip: CityContent = {
     },
     {
       id: "plant-contractors-paradip",
-      heading: "Software company in Paradip for refinery and fertiliser plant contractors",
+      heading: "Software team in Paradip for refinery and fertiliser plant contractors",
       paragraphs: [
         "The Indian Oil refinery, Paradeep Phosphates and the IFFCO plant keep a long list of maintenance, shutdown, civil, electrical, housekeeping and manpower contractors busy. Much of their paperwork still runs on registers and spreadsheets: gate passes, labour attendance, safety training records, job cards, measurement sheets and running bills.",
         "Custom software replaces that with one system your supervisors can use from a phone. A foreman marks attendance and job progress on site, the office sees it the same evening, and billing pulls from recorded quantities rather than memory. Shutdown periods, when crews swell and hours stretch, are where this saves the most arguments.",
@@ -193,7 +193,7 @@ const paradip: CityContent = {
     },
     {
       id: "remote-team-paradip",
-      heading: "An IT company in Paradip without an office in Paradip",
+      heading: "An IT services team in Paradip without an office in Paradip",
       paragraphs: [
         "We should say it clearly: we have no office in Paradip, and we will not show an address we do not use. We are three engineers who work remotely for clients across India. That saves rent and sales staff, which is part of why our starting prices are lower, and it means you talk directly to the people doing the work.",
         "Ankur Kumar builds websites, web apps and mobile apps. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava runs projects and works on data science and automation. We reply on WhatsApp seven days a week, on IST, and small changes are usually done the same day.",
@@ -245,7 +245,7 @@ const paradip: CityContent = {
         "Yes. We build Android and iOS apps in Flutter or React Native with login, push notifications and an admin panel, and publish them on Google Play and the App Store under your accounts. Driver trip logging, contractor attendance and school notice apps are common uses. Apps start from ₹40,000.",
     },
     {
-      question: "Which is the best IT company in Paradip for a small business?",
+      question: "Which is the best IT services team in Paradip for a small business?",
       answer:
         "The one that shows you work it has done, puts the domain in your name, gives an itemised written quote and answers quickly after launch. We are a remote team of three engineers rather than a local office, and we publish starting prices so you can compare us fairly with anyone else.",
     },

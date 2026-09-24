@@ -10,12 +10,12 @@ const karur: CityContent = {
       "Websites, Android and iOS apps, SEO, export catalogues and WhatsApp automation for Karur home-textile exporters, bus body builders, net makers and shops.",
     keywords: [
       "IT services in Karur",
-      "IT company in Karur",
-      "website development company in Karur",
+      "IT services team in Karur",
+      "website development team in Karur",
       "web design in Karur",
-      "app development company in Karur",
+      "app development team in Karur",
       "Android app development in Karur",
-      "software company in Karur",
+      "software team in Karur",
       "SEO services in Karur",
       "digital marketing in Karur",
       "ecommerce website in Karur",
@@ -65,7 +65,7 @@ const karur: CityContent = {
   sections: [
     {
       id: "karur-home-textile-exports",
-      heading: "Website development company in Karur for home-textile exporters",
+      heading: "Website development team in Karur for home-textile exporters",
       paragraphs: [
         "Karur's best-known trade is made-ups for export: bed linen, kitchen towels, aprons, table covers, curtains, bath linen and wall hangings. Handloom exports from the town began in the 1970s with a handful of firms, and today hundreds of family-run units within a short drive of the town supply overseas chain stores and importers. The manufacturers' association alone has more than two hundred members.",
         "An overseas sourcing manager rarely visits before the first contact. They look at your website, check whether it lists the product types, fabrics, weaves and certifications they need, and decide whether to email you. A site that shows only a logo and a phone number loses to a competitor who took the trouble to publish a proper range.",
@@ -75,7 +75,7 @@ const karur: CityContent = {
     },
     {
       id: "bus-body-building-karur",
-      heading: "Software company in Karur for bus body builders and workshops",
+      heading: "Software team in Karur for bus body builders and workshops",
       paragraphs: [
         "Karur is known across Tamil Nadu and beyond for bus body building. Operators bring a chassis and leave with a finished coach, school bus, staff bus or sleeper, and the workshops that do this handle fabrication, panelling, seating, electricals, glazing and paint for dozens of vehicles at a time.",
         "For these firms, a website works like a showroom that stays open. A transport operator in another state wants to see body types, interior layouts, seating plans, the chassis you work on, finished vehicles and a way to ask for a quotation. We build those pages with real photographs of your deliveries and a request form that asks for chassis model, seating and budget range, so the first call is productive.",
@@ -161,7 +161,7 @@ const karur: CityContent = {
     },
     {
       id: "android-ios-app-development-karur",
-      heading: "App development company in Karur: Android and iOS apps for local businesses",
+      heading: "App development team in Karur: Android and iOS apps for local businesses",
       paragraphs: [
         "Android app development in Karur makes most sense for businesses whose customers or staff come back again and again. A textile wholesaler can let registered retailers browse the catalogue, see stock and place repeat orders. A coach builder can give each customer a login to follow the build of their bus with stage photos. A school can send notices, homework and fee reminders; a clinic can issue tokens and send reports.",
         "We build apps in Flutter or React Native, so one codebase runs on both Android and iOS. A typical app includes login by phone number, push notifications, the screens your business needs and an admin panel where your staff update content or orders. We publish the app on Google Play and the Apple App Store under your own developer accounts, so the listing belongs to you. Apps start from ₹40,000; the quote depends on screens, integrations and payments. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
@@ -179,7 +179,7 @@ const karur: CityContent = {
     },
     {
       id: "remote-it-team-karur",
-      heading: "An IT company in Karur without an office: how the remote team works",
+      heading: "An IT services team in Karur without an office: how the remote team works",
       paragraphs: [
         "We do not have an office in Karur and do not pretend to. BtechWaleTech is three engineers working remotely for clients across India, and you talk directly to the people doing the work instead of a salesperson. Not paying for a showroom is part of why our starting prices are lower than many agencies.",
         "Work starts with a phone call or WhatsApp chat about your business. Within about two working days you receive a written plan and itemised quote. After approval, we share a private preview link that you can open on your phone, show your partners and comment on. Small changes are often done the same day, and we reply seven days a week in IST.",
@@ -227,7 +227,7 @@ const karur: CityContent = {
         "With us, a static website starts at ₹10,000, a 700+ page SEO website at ₹20,000, an online store at ₹50,000 and custom software at ₹60,000. These are starting prices; the final quote depends on pages, products and features. Local quotes vary widely, so compare content, SEO setup, domain ownership and after-launch support.",
     },
     {
-      question: "Which is the best website development company in Karur?",
+      question: "Which is the best website development team in Karur?",
       answer:
         "The best choice is the one that shows real work, registers the domain in your name, writes an itemised quote and keeps replying after launch. Check their live sites on your own phone. We are a remote team of three engineers, not a Karur office, and we are happy to be compared on those points.",
     },

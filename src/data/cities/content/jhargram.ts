@@ -10,12 +10,12 @@ const jhargram: CityContent = {
       "Bengali websites, Android and iOS apps, local SEO and WhatsApp automation for Jhargram homestays, sabai craft groups, clinics, colleges and Jungle Mahal traders.",
     keywords: [
       "IT services in Jhargram",
-      "IT company in Jhargram",
-      "website development company in Jhargram",
+      "IT services team in Jhargram",
+      "website development team in Jhargram",
       "web design in Jhargram",
-      "app development company in Jhargram",
+      "app development team in Jhargram",
       "Android app development in Jhargram",
-      "software company in Jhargram",
+      "software team in Jhargram",
       "SEO services in Jhargram",
       "digital marketing in Jhargram",
       "ecommerce website in Jhargram",
@@ -92,10 +92,10 @@ const jhargram: CityContent = {
     },
     {
       id: "education-jhargram",
-      heading: "Website development company in Jhargram for colleges, coaching and schools",
+      heading: "Website development team in Jhargram for colleges, coaching and schools",
       paragraphs: [
         "Education draws a large share of Jhargram's footfall. Sadhu Ramchand Murmu University, set up in 2017 and renamed in 2021, has its campus at Jitusol. Jhargram Raj College is affiliated to Vidyasagar University, and the government medical college brings students from across the state. Around them sit private coaching centres, hostels, mess services, bookshops, polytechnics, ITIs and a long list of schools.",
-        "Students and parents search for courses, fees, admission dates, hostel availability and results, usually in Bengali or a mix of Bengali and English. A <strong>website development company in Jhargram</strong> working for these institutions should put that information on the page in plain words, keep dates current and make forms simple enough to fill on a basic phone.",
+        "Students and parents search for courses, fees, admission dates, hostel availability and results, usually in Bengali or a mix of Bengali and English. A <strong>website development team in Jhargram</strong> working for these institutions should put that information on the page in plain words, keep dates current and make forms simple enough to fill on a basic phone.",
         "For coaching centres, we build batch and fee pages, teacher profiles, admission forms that save to a Google Sheet, and notice boards parents can check without calling. Hostels and mess services benefit from a single page with room types, rules, food timings and distance to the university or college. Each of these can be linked to a Google Business Profile so it shows on Maps when someone searches from the station.",
       ],
     },
@@ -113,7 +113,7 @@ const jhargram: CityContent = {
       heading: "Android app development in Jhargram, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its keep when the same people open it again and again. In Jhargram, good examples are a coaching institute whose students need class notes, tests and fee reminders; a clinic group that issues tokens and reports; a homestay collective that takes repeat bookings from Kolkata families; or a forest-produce buyer who records purchases from village collection points.",
-        "As an <strong>app development company in Jhargram</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users actually need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Jhargram</strong> working remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users actually need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Jhargram</strong> with us starts at ₹40,000. The cost goes up with online payments, offline entry for places like Belpahari where signal drops, maps, multiple user roles and connections to other software, and each of these appears as its own line on the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process in more detail.",
         "Many Jhargram businesses do not need an app at all. If customers only want your address, timings, tariff and a way to message you, a website and a good Maps listing do that for a fraction of the cost, and we will recommend that route.",
       ],
@@ -129,19 +129,19 @@ const jhargram: CityContent = {
     },
     {
       id: "forest-produce-traders",
-      heading: "Software company in Jhargram for forest-produce buyers and farm input dealers",
+      heading: "Software team in Jhargram for forest-produce buyers and farm input dealers",
       paragraphs: [
         "Much of the district's income still comes from the forest and the fields. Sal leaves are pressed into plates and bowls, kendu leaves are collected for bidi, sabai is cut and twisted into rope, and paddy and vegetables are grown on the red lateritic soil. Traders, cooperatives and self-help groups sit between the collectors and the buyers, and most of them keep records in notebooks.",
-        "The trouble starts when volumes grow. Who delivered how many bundles on which day, what advance was given, which lot went to which buyer and which payment is still pending all become hard to track by hand. As a <strong>software company in Jhargram</strong> in practical terms, we build small web tools for exactly this: a purchase register filled from a phone, running balances per collector, lot-wise dispatch records and simple reports for the group's meetings.",
+        "The trouble starts when volumes grow. Who delivered how many bundles on which day, what advance was given, which lot went to which buyer and which payment is still pending all become hard to track by hand. As a <strong>software team in Jhargram</strong> in practical terms, we build small web tools for exactly this: a purchase register filled from a phone, running balances per collector, lot-wise dispatch records and simple reports for the group's meetings.",
         "Custom tools like these start at ₹60,000 and are built in stages over six to twelve weeks. We start with the part that saves the most arguments, usually the purchase and payment register, and add dispatch, stock and reporting once that is in daily use. Seed and fertiliser dealers can use a similar tool for credit sales to farmers.",
       ],
     },
     {
       id: "shops-market-jhargram",
-      heading: "IT company in Jhargram for retail shops, restaurants and service businesses",
+      heading: "IT services team in Jhargram for retail shops, restaurants and service businesses",
       paragraphs: [
         "The town's shops serve a wide rural catchment as well as a growing number of government staff and students. Clothing, jewellery, electronics, furniture, hardware, mobile repair, restaurants and sweet shops all compete for the same customers, many of whom now check a phone before walking in.",
-        "An <strong>IT company in Jhargram</strong> that understands this does not start with a big website. It starts with a correct Maps listing, a WhatsApp Business catalogue and one clear page that gives address, timings, what you stock and a way to ask for a price. Restaurants add a menu that can be updated without calling anyone; service businesses add a booking form.",
+        "An <strong>IT services team in Jhargram</strong> that understands this does not start with a big website. It starts with a correct Maps listing, a WhatsApp Business catalogue and one clear page that gives address, timings, what you stock and a way to ask for a price. Restaurants add a menu that can be updated without calling anyone; service businesses add a booking form.",
         "When that foundation brings calls, the next step might be a small online order page for delivery within town, a festive offers page before Durga Puja, or a loyalty list on WhatsApp. We suggest these only once the basics are working, so you are not paying for features nobody uses yet.",
       ],
     },
@@ -223,7 +223,7 @@ const jhargram: CityContent = {
         "A static website is usually live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Jhargram?",
+      question: "Which is the best website development team in Jhargram?",
       answer:
         "Judge any provider by the same tests: published prices, domain and code registered in your name, real work you can check, and support after launch. We meet those tests and reply on WhatsApp every day, but it is sensible to compare two or three options before you choose.",
     },

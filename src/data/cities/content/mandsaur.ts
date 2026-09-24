@@ -9,7 +9,7 @@ const mandsaur: CityContent = {
     description:
       "Websites, Hindi SEO, WhatsApp rate lists and online stores for Mandsaur garlic traders, slate pencil units, colleges and clinics. Starting prices, code yours.",
     keywords: [
-      "website development company in Mandsaur",
+      "website development team in Mandsaur",
       "web designer Mandsaur",
       "website banane wala Mandsaur",
       "website cost Mandsaur",
@@ -21,7 +21,7 @@ const mandsaur: CityContent = {
       "ecommerce website Mandsaur",
       "college website Mandsaur",
       "hospital website Mandsaur",
-      "software company Mandsaur",
+      "software team Mandsaur",
       "website maintenance Mandsaur",
       "Google Maps listing Mandsaur",
       "मंदसौर वेबसाइट डिज़ाइन",

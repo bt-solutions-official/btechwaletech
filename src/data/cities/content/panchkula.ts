@@ -9,10 +9,10 @@ const panchkula: CityContent = {
     description:
       "Websites, local SEO, online stores and AI automation for Panchkula clinics, consultants, IT firms, schools and industrial units in the tricity. From ₹10,000.",
     keywords: [
-      "website development company in Panchkula",
+      "website development team in Panchkula",
       "web designer Panchkula",
       "website design Panchkula Haryana",
-      "SEO company Panchkula",
+      "SEO team Panchkula",
       "local SEO Panchkula",
       "tricity web development",
       "website designer Chandigarh Panchkula",

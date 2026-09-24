@@ -9,14 +9,14 @@ const tirunelveli: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Tirunelveli halwa shops, Gangaikondan units, colleges and clinics. From ₹10,000, itemised quotes, you own the code.",
     keywords: [
-      "website development company in Tirunelveli",
+      "website development team in Tirunelveli",
       "web design Tirunelveli",
       "website designer Nellai",
-      "SEO company Tirunelveli",
+      "SEO team Tirunelveli",
       "local SEO Palayamkottai",
       "ecommerce website Tirunelveli",
       "halwa online store website",
-      "software company Tirunelveli",
+      "software team Tirunelveli",
       "web application development Tirunelveli",
       "WhatsApp automation Tirunelveli",
       "AI automation Tamil Nadu",

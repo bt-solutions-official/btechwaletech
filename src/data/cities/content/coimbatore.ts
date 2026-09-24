@@ -9,12 +9,12 @@ const coimbatore: CityContent = {
     description:
       "Websites, SEO and automation for Coimbatore pump, textile, foundry and jewellery businesses. Sites from ₹10,000, itemised quotes, domain and code in your name.",
     keywords: [
-      "website development company in Coimbatore",
-      "web design company Coimbatore",
+      "website development team in Coimbatore",
+      "web design team Coimbatore",
       "website designer Coimbatore",
       "freelance web developer Coimbatore",
       "website cost in Coimbatore",
-      "SEO company Coimbatore",
+      "SEO team Coimbatore",
       "local SEO Gandhipuram",
       "pump manufacturer website Coimbatore",
       "textile mill website design",

@@ -10,12 +10,12 @@ const peddapuram: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Peddapuram silk weavers, palakova shops, IDA mills, colleges and clinics.",
     keywords: [
       "IT services in Peddapuram",
-      "IT company in Peddapuram",
-      "website development company in Peddapuram",
+      "IT services team in Peddapuram",
+      "website development team in Peddapuram",
       "web design in Peddapuram",
-      "app development company in Peddapuram",
+      "app development team in Peddapuram",
       "Android app development in Peddapuram",
-      "software company in Peddapuram",
+      "software team in Peddapuram",
       "SEO services in Peddapuram",
       "digital marketing in Peddapuram",
       "ecommerce website in Peddapuram",
@@ -69,7 +69,7 @@ const peddapuram: CityContent = {
       paragraphs: [
         "Peddapuram became a municipality in 1915, which makes it the second-oldest in Andhra Pradesh after Bheemunipatnam, and the town still has the settled feel of an old trading centre. It lies beside Kakinada inside the Godavari Urban Development Authority area, with Samalkot railway station about five kilometres off and Rajahmundry airport roughly 35 kilometres away. Just under 50,000 people lived in the town at the 2011 census, and many more come in daily from Kattamuru, Divili, Kandrakota and the other villages of the mandal.",
         "The requests we receive for <strong>IT services in Peddapuram</strong> follow that local economy closely. A handloom family wants buyers in Hyderabad and Chennai to see its silk dhotis. A sweet shop wants palakova orders from relatives settled abroad. A rice mill in the IDA wants its dispatch records out of a ruled notebook. A hostel near the Surampalem campuses wants fewer anxious calls from parents. None of this needs a large agency; it needs someone who listens, writes down a clear plan and then builds exactly that.",
-        "We are three engineers working remotely, and we do not keep an office in Peddapuram. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. If you want an <strong>IT company in Peddapuram</strong> that talks in plain terms, prices every item separately and hands over every login, a WhatsApp message is enough to begin.",
+        "We are three engineers working remotely, and we do not keep an office in Peddapuram. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation. If you want an <strong>IT services team in Peddapuram</strong> that talks in plain terms, prices every item separately and hands over every login, a WhatsApp message is enough to begin.",
       ],
     },
     {
@@ -92,19 +92,19 @@ const peddapuram: CityContent = {
     },
     {
       id: "ida-peddapuram-units",
-      heading: "Website development company in Peddapuram for IDA mills and factories",
+      heading: "Website development team in Peddapuram for IDA mills and factories",
       paragraphs: [
         "The Industrial Development Area at Peddapuram, along the ADB Road towards Samalkot, holds rice mills, ceramic manufacturing, biodiesel units and power facilities, along with the transporters, fabricators, electricians and packaging suppliers that keep them running. Kakinada port is a short drive away, so a good share of this business deals with buyers and agents who never visit the town at all.",
-        "For them, a <strong>website development company in Peddapuram</strong> should deliver a site that reads like a clear capability sheet: what you process or make, capacity if you choose to state it, grades and bag sizes, certifications, dispatch options, GST details and named contacts. A rice miller can list varieties and packing; a fabrication shop can show finished jobs and its machines. We keep every claim factual and ask you to confirm each figure before it is published.",
+        "For them, a <strong>website development team in Peddapuram</strong> should deliver a site that reads like a clear capability sheet: what you process or make, capacity if you choose to state it, grades and bag sizes, certifications, dispatch options, GST details and named contacts. A rice miller can list varieties and packing; a fabrication shop can show finished jobs and its machines. We keep every claim factual and ask you to confirm each figure before it is published.",
         "Behind the website, many IDA units need a small piece of software more than they need more marketing. That might be a dispatch register recording lorry number, weighbridge slip, party and quantity; a running view of paddy received against rice shipped; or a list of pollution, fire and factory licence renewals with reminders. We build these as web apps from ₹60,000 over six to twelve weeks, starting with whichever register causes the most arguments at month end.",
       ],
     },
     {
       id: "surampalem-colleges-hostels",
-      heading: "Software company in Peddapuram for Surampalem colleges, hostels and student services",
+      heading: "Software team in Peddapuram for Surampalem colleges, hostels and student services",
       paragraphs: [
         "A few kilometres from town on the ADB Road, Surampalem is home to Aditya University, Pragati Engineering College and a cluster of polytechnic and pharmacy institutions. The students they bring in support hostels, mess operators, bookshops, printing and xerox counters, two-wheeler rentals, coaching for competitive exams and a steady stream of parents visiting at weekends. Peddapuram's own schooling goes back further: its first school opened in 1891 under the Andhra Evangelical Lutheran Church.",
-        "Working as a <strong>software company in Peddapuram</strong> for this market, we build what these operators keep asking for: hostel room and fee registers, mess attendance, enquiry forms for coaching centres with WhatsApp follow-ups, and simple parent portals showing receipts, dues and notices. Everything is designed to run on a phone, because the owner is rarely sitting at a desk.",
+        "Working as a <strong>software team in Peddapuram</strong> for this market, we build what these operators keep asking for: hostel room and fee registers, mess attendance, enquiry forms for coaching centres with WhatsApp follow-ups, and simple parent portals showing receipts, dues and notices. Everything is designed to run on a phone, because the owner is rarely sitting at a desk.",
         "Students form a search audience of their own. Phrases like “hostel near Aditya University” or “printing shop Surampalem” are typed every week, and the businesses with complete Google listings and a clear website get those calls. We handle the listing and the site together so the timings, prices and photos match. Colleges and larger institutes can also commission specific projects, such as placement dashboards or event registration systems, which we scope and quote separately.",
       ],
     },
@@ -131,7 +131,7 @@ const peddapuram: CityContent = {
       heading: "Android app development in Peddapuram: when an app is worth building",
       paragraphs: [
         "Before quoting any app, we ask one question: will the same people open it every week? In Peddapuram the honest answer is yes for a handful of businesses and no for most shops. The cases where an app earns its cost look like this:",
-        "As an <strong>app development company in Peddapuram</strong> working remotely, we build in Flutter or React Native, so a single codebase serves both Android phones and iPhones. A first release usually has OTP login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Peddapuram</strong> working remotely, we build in Flutter or React Native, so a single codebase serves both Android phones and iPhones. A first release usually has OTP login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you, not to us.",
         "<strong>Android app development in Peddapuram</strong> with us starts at ₹40,000. The figure rises with online payment, offline use, maps, or a link to your billing software, and each of those appears as a separate line in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process and the stages.",
         "If your customers mostly need your timings, location and a price list, a mobile-friendly website covers that at a much lower cost and needs no install. In that case we will recommend the website, because an app that nobody opens after the first week is money spent for nothing.",
       ],
@@ -239,7 +239,7 @@ const peddapuram: CityContent = {
         "A simple static site is usually live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content and approvals within the first few days.",
     },
     {
-      question: "Which is the best IT company in Peddapuram for a small business?",
+      question: "Which is the best IT services team in Peddapuram for a small business?",
       answer:
         "Judge any provider on the same points: published prices, domain and code registered in your name, real support after launch and work you can check. We meet those tests and reply on WhatsApp seven days a week, but speaking to two or three providers before deciding is a sensible habit for any owner.",
     },

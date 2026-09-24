@@ -9,7 +9,7 @@ const sadulpur: CityContent = {
     description:
       "Websites, local SEO, sweet-shop stores and WhatsApp automation for Sadulpur (Rajgarh) traders, schools and families abroad. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Sadulpur",
+      "website development team in Sadulpur",
       "website designer Rajgarh Churu",
       "web design Sadulpur",
       "SEO services Sadulpur",

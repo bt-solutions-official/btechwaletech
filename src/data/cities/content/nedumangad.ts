@@ -10,12 +10,12 @@ const nedumangad: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Nedumangad market traders, spice and rubber dealers, clinics, schools and shops.",
     keywords: [
       "IT services in Nedumangad",
-      "IT company in Nedumangad",
-      "website development company in Nedumangad",
+      "IT services team in Nedumangad",
+      "website development team in Nedumangad",
       "web design in Nedumangad",
-      "app development company in Nedumangad",
+      "app development team in Nedumangad",
       "Android app development in Nedumangad",
-      "software company in Nedumangad",
+      "software team in Nedumangad",
       "SEO services in Nedumangad",
       "digital marketing in Nedumangad",
       "ecommerce website in Nedumangad",
@@ -74,10 +74,10 @@ const nedumangad: CityContent = {
     },
     {
       id: "market-traders-nedumangad",
-      heading: "Software company in Nedumangad for market traders and produce commission agents",
+      heading: "Software team in Nedumangad for market traders and produce commission agents",
       paragraphs: [
         "The Nedumangad public market is the largest in Thiruvananthapuram district, and the town also has a wholesale market for farm produce set up by the state Department of Agriculture with European Union assistance. Traders here buy by weight and grade, pay farmers on credit, and sell onwards to wholesalers in the city and beyond. Much of this is still recorded in notebooks.",
-        "As a <strong>software company in Nedumangad</strong> in practical terms, we build small web tools for these traders: each purchase entered once from a phone with farmer name, produce, grade, weight and rate; running balances per farmer; stock by grade; and sales to each buyer with payments pending. A daily rate board can be shared on WhatsApp so farmers stop calling to ask.",
+        "As a <strong>software team in Nedumangad</strong> in practical terms, we build small web tools for these traders: each purchase entered once from a phone with farmer name, produce, grade, weight and rate; running balances per farmer; stock by grade; and sales to each buyer with payments pending. A daily rate board can be shared on WhatsApp so farmers stop calling to ask.",
         "History gives this market extra meaning. The Nedumangad Chantha revolt, led by Ayyankali, fought for the right of oppressed castes to trade here. Today the question is simpler: who keeps accurate records. Custom tools start at ₹60,000 and are built over six to twelve weeks, with the purchase register first because it removes the most disputes.",
       ],
     },
@@ -101,10 +101,10 @@ const nedumangad: CityContent = {
     },
     {
       id: "tourism-ponmudi-nedumangad",
-      heading: "Website development company in Nedumangad for Ponmudi, Peppara and Koyikkal visitors",
+      heading: "Website development team in Nedumangad for Ponmudi, Peppara and Koyikkal visitors",
       paragraphs: [
         "Nedumangad sits on the way to some of the district's best-known outings. Ponmudi hill station, Peppara Wildlife Sanctuary, the Aruvikkara dam that supplies drinking water to the capital, the botanical garden at Palode, and trekking routes towards Agasthyarkoodam all draw visitors, as does Koyikkal Palace in the town itself with its folklore and coin museums.",
-        "A <strong>website development company in Nedumangad</strong> working with homestays, resorts, taxi operators and eateries should build for visitors who plan on a phone the night before. Pages need honest photographs, tariffs or tariff ranges, road conditions for the last stretch, what the forest department allows in each season, mobile signal notes, food options and a one-tap WhatsApp booking button.",
+        "A <strong>website development team in Nedumangad</strong> working with homestays, resorts, taxi operators and eateries should build for visitors who plan on a phone the night before. Pages need honest photographs, tariffs or tariff ranges, road conditions for the last stretch, what the forest department allows in each season, mobile signal notes, food options and a one-tap WhatsApp booking button.",
         "Seasonal changes matter here. Road closures after heavy rain, forest entry rules and trekking permits change the questions guests ask, and a site that answers them well gets fewer anxious calls. Visitor-facing pages in both Malayalam and English serve local day-trippers and guests from other states alike.",
       ],
     },
@@ -119,10 +119,10 @@ const nedumangad: CityContent = {
     },
     {
       id: "gulf-families-nedumangad",
-      heading: "IT company in Nedumangad for Gulf-linked families, builders and service firms",
+      heading: "IT services team in Nedumangad for Gulf-linked families, builders and service firms",
       paragraphs: [
         "Like much of southern Kerala, many Nedumangad households have members working in the Gulf. That shapes local business: house construction and renovation, interior work, travel agencies, money transfer, driving schools, and small firms started by returnees who have seen how things run abroad.",
-        "An <strong>IT company in Nedumangad</strong> can help such businesses look as organised as they are. Builders and interior firms need project galleries with real photographs, service areas, and an enquiry form that asks for plot size and budget range. Travel agencies need clear visa and ticketing service lists. A returnee starting a business may need a booking or billing tool rather than a website.",
+        "An <strong>IT services team in Nedumangad</strong> can help such businesses look as organised as they are. Builders and interior firms need project galleries with real photographs, service areas, and an enquiry form that asks for plot size and budget range. Travel agencies need clear visa and ticketing service lists. A returnee starting a business may need a booking or billing tool rather than a website.",
         "Because the decision-maker is often abroad, we make approvals easy across time zones. Preview links can be opened anywhere, and quotes are sent as simple PDFs that family members can review together before saying yes.",
       ],
     },
@@ -131,7 +131,7 @@ const nedumangad: CityContent = {
       heading: "Android app development in Nedumangad, and iOS apps for the same customers",
       paragraphs: [
         "Build an app only when the same people will use it often. In Nedumangad, sensible cases are a school sending notices, homework and fee reminders to parents; a tuition centre sharing tests and results; a hospital or lab issuing tokens and reports; a wholesaler taking repeat orders from shops across the taluk; or a supermarket offering home delivery to regular customers.",
-        "As an <strong>app development company in Nedumangad</strong> working remotely, we use Flutter or React Native so a single codebase runs on Android phones and iPhones. A first release usually includes OTP login, push notifications, the essential screens and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Nedumangad</strong> working remotely, we use Flutter or React Native so a single codebase runs on Android phones and iPhones. A first release usually includes OTP login, push notifications, the essential screens and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Nedumangad</strong> with us starts at ₹40,000. Payments, offline mode for low-signal areas near the hills, maps and delivery tracking, and connections to existing software add cost, each shown on its own line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how we stage the build.",
         "If your customers only need your address, phone number and a price list, a website does the job for about a quarter of the price. We will tell you that, because an app nobody opens after the first week helps no one.",
       ],
@@ -223,7 +223,7 @@ const nedumangad: CityContent = {
         "A static website usually goes live within one to two weeks of receiving your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready, in Malayalam or English, speeds everything up.",
     },
     {
-      question: "Which is the best website development company in Nedumangad?",
+      question: "Which is the best website development team in Nedumangad?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask everyone the same questions and compare the answers. We meet those tests and reply on WhatsApp daily, but getting two or three quotes first is wise.",
     },

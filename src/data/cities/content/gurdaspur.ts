@@ -10,12 +10,12 @@ const gurdaspur: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Gurdaspur rice traders, agri dealers, colleges, clinics and shops.",
     keywords: [
       "IT services in Gurdaspur",
-      "IT company in Gurdaspur",
-      "website development company in Gurdaspur",
+      "IT services team in Gurdaspur",
+      "website development team in Gurdaspur",
       "web design in Gurdaspur",
-      "app development company in Gurdaspur",
+      "app development team in Gurdaspur",
       "Android app development in Gurdaspur",
-      "software company in Gurdaspur",
+      "software team in Gurdaspur",
       "SEO services in Gurdaspur",
       "digital marketing in Gurdaspur",
       "ecommerce website in Gurdaspur",
@@ -74,19 +74,19 @@ const gurdaspur: CityContent = {
     },
     {
       id: "grain-market-rice-shellers",
-      heading: "Software company in Gurdaspur for rice shellers, arhtiyas and the grain trade",
+      heading: "Software team in Gurdaspur for rice shellers, arhtiyas and the grain trade",
       paragraphs: [
         "Paddy and wheat drive the district's calendar. Rice is among the district's listed exportable products, and the shellers, commission agents, transporters, labour contractors and bardana suppliers around the grain market all work at full stretch for a few weeks each season. After that comes the long task of settling accounts with farmers, mills and buyers.",
         "The records are often split across notebooks, Excel files and phone messages. Which farmer brought how many quintals, which lot went to which sheller, what advance was paid, which truck carried it, and what is still pending. When numbers disagree, relationships suffer.",
-        "As a <strong>software company in Gurdaspur</strong>, we build straightforward web tools for this trade. Each arrival is entered once with farmer, crop, weight and rate; lots are tracked to the sheller or buyer; payments and advances post against the same record; and a dues screen shows what is owed in each direction. Reports print in the format your accountant already uses. Custom software starts at ₹60,000 and takes six to twelve weeks, and we suggest building it in the off-season so it is ready before the next crop comes in.",
+        "As a <strong>software team in Gurdaspur</strong>, we build straightforward web tools for this trade. Each arrival is entered once with farmer, crop, weight and rate; lots are tracked to the sheller or buyer; payments and advances post against the same record; and a dues screen shows what is owed in each direction. Reports print in the format your accountant already uses. Custom software starts at ₹60,000 and takes six to twelve weeks, and we suggest building it in the off-season so it is ready before the next crop comes in.",
       ],
     },
     {
       id: "agri-dealers-machinery",
-      heading: "Website development company in Gurdaspur for farm machinery and input dealers",
+      heading: "Website development team in Gurdaspur for farm machinery and input dealers",
       paragraphs: [
         "Gurdaspur's roads are lined with tractor agencies, implement dealers, seed and fertiliser shops, spray pump sellers and repair workshops. Much of the district's small-business activity is in repairing household goods and agricultural implements, and nearby Batala has long been known for foundries and agricultural machinery. Farmers compare prices and models on their phones before visiting a showroom.",
-        "A <strong>website development company in Gurdaspur</strong> should make these dealers easy to check. A clear site lists brands carried, the implements in stock, spare parts categories, service and repair offerings, subsidy scheme guidance with links to official sources, and a WhatsApp button for price enquiries. Punjabi content matters here; many farmers read Gurmukhi more comfortably than English.",
+        "A <strong>website development team in Gurdaspur</strong> should make these dealers easy to check. A clear site lists brands carried, the implements in stock, spare parts categories, service and repair offerings, subsidy scheme guidance with links to official sources, and a WhatsApp button for price enquiries. Punjabi content matters here; many farmers read Gurmukhi more comfortably than English.",
         "We keep the site factual and avoid claims about subsidies or yields that the dealer cannot stand behind. For dealers with many retailers in villages, a simple re-order form or a small app lets those retailers place orders without calling every time. A dealer website starts at ₹10,000, and an app for retailer orders starts at ₹40,000.",
       ],
     },
@@ -104,7 +104,7 @@ const gurdaspur: CityContent = {
       heading: "Android app development in Gurdaspur, with iOS versions for the same audience",
       paragraphs: [
         "An app earns its cost when a known group of people uses it repeatedly. In Gurdaspur, the likely candidates are coaching institutes with hundreds of students, hospitals with regular patients, agri input dealers taking orders from village retailers, schools sending notices to parents, and commission agents who want farmers to check their account balance without calling.",
-        "As an <strong>app development company in Gurdaspur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. The first version usually has mobile number login, push notifications, the key screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts in your name, so it remains your property.",
+        "As an <strong>app development team in Gurdaspur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. The first version usually has mobile number login, push notifications, the key screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts in your name, so it remains your property.",
         "<strong>Android app development in Gurdaspur</strong> with us starts at ₹40,000. The quote goes up with payments, Punjabi interface text, offline mode for fields and villages with weak signal, and links to other software, each shown as a separate line. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the stages.",
         "If your customers only need your address, timings, a price list and a phone number, a website and a correct Maps listing do that for a fraction of the cost. In that case we recommend the website, because an app that is installed once and forgotten is money spent for nothing.",
       ],
@@ -120,10 +120,10 @@ const gurdaspur: CityContent = {
     },
     {
       id: "hospitals-clinics-gurdaspur",
-      heading: "IT company in Gurdaspur for hospitals, clinics and diagnostic centres",
+      heading: "IT services team in Gurdaspur for hospitals, clinics and diagnostic centres",
       paragraphs: [
         "Patients from across the district come to Gurdaspur for specialists, scans and surgery. Many travel an hour or more from border villages, and a wasted trip because a doctor is on leave or a test needs fasting is costly for them. Hospitals and clinics that publish accurate information save their patients time and their reception staff dozens of calls.",
-        "An <strong>IT company in Gurdaspur</strong> working with healthcare should keep things plain. Doctor profiles with qualifications and OPD days, departments, test preparation instructions, emergency numbers, directions from the bus stand, and a way to request an appointment on WhatsApp. Content in Punjabi and Hindi makes a real difference for older patients.",
+        "An <strong>IT services team in Gurdaspur</strong> working with healthcare should keep things plain. Doctor profiles with qualifications and OPD days, departments, test preparation instructions, emergency numbers, directions from the bus stand, and a way to request an appointment on WhatsApp. Content in Punjabi and Hindi makes a real difference for older patients.",
         "We avoid medical claims that cannot be backed, never publish patient photographs or testimonials without written consent, and keep appointment data in accounts you control. A token or appointment app for a busy hospital starts at ₹40,000; most clinics are well served by a website and WhatsApp automation at first.",
       ],
     },
@@ -222,7 +222,7 @@ const gurdaspur: CityContent = {
         "A static website usually goes live in one to two weeks after we receive your content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Quick replies on content and approvals shorten every timeline.",
     },
     {
-      question: "Who is the best website development company in Gurdaspur?",
+      question: "Who is the best website development team in Gurdaspur?",
       answer:
         "The best choice is a provider that publishes prices, registers your domain and code in your name, shows real work and stays reachable after launch. Ask every option the same questions in writing. We meet those tests and reply on WhatsApp all week, but comparing two or three before deciding is wise.",
     },

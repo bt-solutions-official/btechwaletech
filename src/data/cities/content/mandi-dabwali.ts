@@ -10,12 +10,12 @@ const mandiDabwali: CityContent = {
       "Hindi and Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Mandi Dabwali jeep modifiers, grain traders, clinics and shops.",
     keywords: [
       "IT services in Mandi Dabwali",
-      "IT company in Dabwali",
-      "website development company in Mandi Dabwali",
+      "IT services team in Dabwali",
+      "website development team in Mandi Dabwali",
       "web design in Dabwali",
-      "app development company in Mandi Dabwali",
+      "app development team in Mandi Dabwali",
       "Android app development in Dabwali",
-      "software company in Mandi Dabwali",
+      "software team in Mandi Dabwali",
       "SEO services in Dabwali",
       "digital marketing in Mandi Dabwali",
       "ecommerce website in Dabwali",
@@ -84,20 +84,20 @@ const mandiDabwali: CityContent = {
     },
     {
       id: "grain-mandi-arhtiyas",
-      heading: "Software company in Mandi Dabwali for arhtiyas and grain traders",
+      heading: "Software team in Mandi Dabwali for arhtiyas and grain traders",
       paragraphs: [
         "The mandi in the town's name is still at the centre of its economy. Wheat, paddy, cotton and other crops from farms across the Sirsa and Bathinda belt arrive each season, and commission agents, traders, labour contractors and transporters work around them. Behind every lot is a trail of weighments, rates, advances, commission, labour charges and payments to farmers.",
         "Most of this is still kept in bahi-khata registers or scattered spreadsheets. Mistakes creep in when the same entry is written twice, when an advance given in the off-season is forgotten, or when a munim leaves and nobody else understands his system. Farmers increasingly ask for a clear statement of their account, and a trader who can send one on WhatsApp stands out.",
-        "As a <strong>software company in Mandi Dabwali</strong> in plain terms, we build small web tools for this trade. Each lot is entered once with the farmer, crop, weight, rate and deductions. Advances and repayments sit in the same ledger. The owner sees balances by farmer and buyer, and each farmer can be sent a simple statement. Exports can match what your accountant uses in Tally or Busy.",
+        "As a <strong>software team in Mandi Dabwali</strong> in plain terms, we build small web tools for this trade. Each lot is entered once with the farmer, crop, weight, rate and deductions. Advances and repayments sit in the same ledger. The owner sees balances by farmer and buyer, and each farmer can be sent a simple statement. Exports can match what your accountant uses in Tally or Busy.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We usually start before a season with the farmer ledger, since that is where errors cost the most, and add purchase, dispatch or labour modules only once the ledger is in daily use.",
       ],
     },
     {
       id: "showrooms-shops-dabwali",
-      heading: "Website development company in Mandi Dabwali for showrooms, shops and dealers",
+      heading: "Website development team in Mandi Dabwali for showrooms, shops and dealers",
       paragraphs: [
         "Mandi Dabwali's markets serve a large rural area on both sides of the border. Tractor and farm machinery dealers, fertiliser and seed shops, cloth and jewellery stores, furniture makers, mobile and electronics shops, and car and two-wheeler showrooms depend on customers who drive in from villages and nearby towns. Before that drive, more and more of them check online.",
-        "A <strong>website development company in Mandi Dabwali</strong> should keep these sites simple and correct. What matters is the range stocked, brands handled, opening hours including weekly closures and festival changes, a map, and a WhatsApp link for quick price checks. For farm input dealers, a note on which seeds and fertilisers arrive for which season helps farmers plan.",
+        "A <strong>website development team in Mandi Dabwali</strong> should keep these sites simple and correct. What matters is the range stocked, brands handled, opening hours including weekly closures and festival changes, a map, and a WhatsApp link for quick price checks. For farm input dealers, a note on which seeds and fertilisers arrive for which season helps farmers plan.",
         "We write in Hindi and Punjabi first with English alongside, because customers here use all three, and we keep pages light so they open on village networks. A static website of up to 100 pages starts at ₹10,000. When a shop wants to take orders online, the same site can grow into a store without starting over.",
         "Where a business also serves Kalanwali, Odhan, Sangat or Malout, we add a page for that place only when the facts differ, such as a separate branch, delivery days or a different phone number.",
       ],
@@ -127,7 +127,7 @@ const mandiDabwali: CityContent = {
       heading: "Android app development in Dabwali, and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when the same people open it regularly. In Mandi Dabwali that could be a jeep workshop letting buyers follow their build with photographs at each stage, an arhtiya giving farmers access to their account statement, a coaching centre sending marks and class updates, a hospital issuing OPD tokens, or a distributor taking repeat orders from village shops.",
-        "Hiring us as your <strong>app development company in Mandi Dabwali</strong> gets you a Flutter or React Native build, meaning one set of code for Android handsets and iPhones together. The opening release normally covers OTP sign-in, alerts, the few screens customers actually tap and a back-office panel for your munim or front desk. Publishing is done on Google Play and Apple's App Store through developer accounts in your firm's name.",
+        "Hiring us as your <strong>app development team in Mandi Dabwali</strong> gets you a Flutter or React Native build, meaning one set of code for Android handsets and iPhones together. The opening release normally covers OTP sign-in, alerts, the few screens customers actually tap and a back-office panel for your munim or front desk. Publishing is done on Google Play and Apple's App Store through developer accounts in your firm's name.",
         "<strong>Android app development in Dabwali</strong> with us starts at ₹40,000. Costs rise with online payment, photo uploads at scale, offline mode for use in the fields, or links to your accounting software, and each appears as its own line. More is explained on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a rate list, a website does it for far less and needs no download. We will tell you that, because an app nobody opens after the first week is money wasted.",
       ],
@@ -230,7 +230,7 @@ const mandiDabwali: CityContent = {
         "A simple static site for a shop, workshop or clinic is usually live one to two weeks after we get photographs and details. Larger projects take longer: about three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Quick content from you shortens every timeline.",
     },
     {
-      question: "Which is the best website development company in Mandi Dabwali?",
+      question: "Which is the best website development team in Mandi Dabwali?",
       answer:
         "Check every provider on the same basics: published prices, domain and code registered in your name, support after launch and real work you can verify. Put the same questions to each. We meet these tests and answer WhatsApp seven days a week, but comparing two or three providers before deciding is a good idea.",
     },

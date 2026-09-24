@@ -10,12 +10,12 @@ const tundla: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Tundla cold stores, glass traders, highway businesses, coaching centres and shops.",
     keywords: [
       "IT services in Tundla",
-      "IT company in Tundla",
-      "website development company in Tundla",
+      "IT services team in Tundla",
+      "website development team in Tundla",
       "web design in Tundla",
-      "app development company in Tundla",
+      "app development team in Tundla",
       "Android app development in Tundla",
-      "software company in Tundla",
+      "software team in Tundla",
       "SEO services in Tundla",
       "digital marketing in Tundla",
       "ecommerce website in Tundla",
@@ -74,20 +74,20 @@ const tundla: CityContent = {
     },
     {
       id: "cold-storage-software",
-      heading: "Software company in Tundla for cold storages and potato traders",
+      heading: "Software team in Tundla for cold storages and potato traders",
       paragraphs: [
         "The Agra–Firozabad belt is potato country, and cold storages around Tundla fill up after harvest and empty slowly through the year. Each store handles hundreds of farmers and traders, thousands of bags, chamber-wise placement, rent by the bag or by the season, advances against stock, and a rush of withdrawals when prices rise.",
         "Most of this still sits in thick registers and receipt books. When a farmer disputes his count or a trader wants a statement, the owner has to dig through pages. Mistakes in rent or advances cause arguments that can cost a store its regular customers.",
-        "As a <strong>software company in Tundla</strong>, we build cold storage tools that record each lot once: farmer, variety, bag count, chamber and date. Withdrawals reduce the balance automatically, rent and advances are calculated on your rules, and each customer can receive a WhatsApp statement. The owner sees stock by chamber, rent due and advances outstanding on one screen.",
+        "As a <strong>software team in Tundla</strong>, we build cold storage tools that record each lot once: farmer, variety, bag count, chamber and date. Withdrawals reduce the balance automatically, rent and advances are calculated on your rules, and each customer can receive a WhatsApp statement. The owner sees stock by chamber, rent due and advances outstanding on one screen.",
         "Such systems start at ₹60,000 and take six to twelve weeks, built in stages before the next loading season. We keep the entry screen simple enough for a clerk at the gate, and data exports to Excel or Tally for the accountant.",
       ],
     },
     {
       id: "railway-town-services",
-      heading: "Website development company in Tundla for railway contractors and suppliers",
+      heading: "Website development team in Tundla for railway contractors and suppliers",
       paragraphs: [
         "A junction of Tundla's size supports a long chain of small firms: civil and electrical contractors, suppliers of hardware and consumables, catering and vending operators, housekeeping agencies, transporters and workshops. Many of them bid for work where the buyer checks their profile before calling.",
-        "A <strong>website development company in Tundla</strong> should build such firms a sober, factual site: services, past categories of work described honestly, equipment and staff strength, registrations and certificates actually held, GST details and named contacts. It must look proper on an office computer and load fast on a site engineer's phone.",
+        "A <strong>website development team in Tundla</strong> should build such firms a sober, factual site: services, past categories of work described honestly, equipment and staff strength, registrations and certificates actually held, GST details and named contacts. It must look proper on an office computer and load fast on a site engineer's phone.",
         "We do not write that you are an approved vendor of any government body unless you can show the approval, and we never place a client's name or logo without written consent. A tender or enquiry form with document upload helps firms that receive drawings or bills of quantities.",
         "These sites are usually static and start at ₹10,000. A client portal for bills and job status is custom work from ₹60,000. See our <a href=\"/services/web-development/\">web development service</a> for how we build them.",
       ],
@@ -124,11 +124,11 @@ const tundla: CityContent = {
     },
     {
       id: "clinics-shops-tundla",
-      heading: "IT company in Tundla for clinics, pharmacies and local shops",
+      heading: "IT services team in Tundla for clinics, pharmacies and local shops",
       paragraphs: [
         "Clinics, nursing homes, labs and pharmacies in Tundla treat residents of the town and the villages of Tundla block, and many patients travel in from rural areas. Shops near the station road and in the main bazaar sell clothing, jewellery, mobiles, hardware, sweets and groceries to the same customers.",
         "For a clinic, a useful site lists doctors, specialities, OPD days, test preparation notes and an emergency number, with a WhatsApp flow for appointment requests. A doctor on your side approves every clinical sentence; we write no medical claims.",
-        "For a shop, the job of an <strong>IT company in Tundla</strong> is to keep things simple: categories, timings, festival and wedding-season offers, and a WhatsApp link for price checks. An online store only makes sense once regular orders arrive from outside the town.",
+        "For a shop, the job of an <strong>IT services team in Tundla</strong> is to keep things simple: categories, timings, festival and wedding-season offers, and a WhatsApp link for price checks. An online store only makes sense once regular orders arrive from outside the town.",
         "Both kinds of site start at ₹10,000. Sending photographs and details early is the fastest way to go live.",
       ],
     },
@@ -137,7 +137,7 @@ const tundla: CityContent = {
       heading: "Android app development in Tundla, with the same build on iPhone",
       paragraphs: [
         "Build an app only when the same people will open it often. Around Tundla, that includes cold storage customers checking their bags and rent, coaching students reading notices and test results, a wholesaler's retailers placing weekly orders, a transporter's drivers logging trips, and a clinic's patients taking tokens.",
-        "Our work as an <strong>app development company in Tundla</strong> is done remotely in Flutter or React Native, which gives one codebase for Android and iPhone. A typical first release has OTP login, push notifications, the handful of screens your users need and an admin panel for staff. Publishing happens on Google Play and the Apple App Store through developer accounts registered to you.",
+        "Our work as an <strong>app development team in Tundla</strong> is done remotely in Flutter or React Native, which gives one codebase for Android and iPhone. A typical first release has OTP login, push notifications, the handful of screens your users need and an admin panel for staff. Publishing happens on Google Play and the Apple App Store through developer accounts registered to you.",
         "<strong>Android app development in Tundla</strong> starts at ₹40,000. Offline use in villages with weak signal, online payments, maps, printer support and staff roles each raise the cost and each is listed separately. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers just need your address, timings and rates, a website is far cheaper and needs no download. We will say so.",
       ],
@@ -241,7 +241,7 @@ const tundla: CityContent = {
         "A basic static site usually goes live one to two weeks after we get your photos and text. A 700+ page SEO site takes three to five weeks, a store four to eight and custom software six to twelve. Content that arrives in the first few days is what keeps a project quick.",
     },
     {
-      question: "Which is the best website development company in Tundla?",
+      question: "Which is the best website development team in Tundla?",
       answer:
         "Compare providers on published prices, domain and code ownership in your name, genuine past work and support after launch. Put the same questions to each one. We meet those tests and answer WhatsApp every day, yet checking two or three options before you decide is only sensible.",
     },

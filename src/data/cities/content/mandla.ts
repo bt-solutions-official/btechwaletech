@@ -10,12 +10,12 @@ const mandla: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Mandla Kanha resorts, Maneri units, traders, colleges, clinics and Narmada visitors.",
     keywords: [
       "IT services in Mandla",
-      "IT company in Mandla",
-      "website development company in Mandla",
+      "IT services team in Mandla",
+      "website development team in Mandla",
       "web design in Mandla",
-      "app development company in Mandla",
+      "app development team in Mandla",
       "Android app development in Mandla",
-      "software company in Mandla",
+      "software team in Mandla",
       "SEO services in Mandla",
       "digital marketing in Mandla",
       "ecommerce website in Mandla",
@@ -95,31 +95,31 @@ const mandla: CityContent = {
     },
     {
       id: "maneri-industrial-units",
-      heading: "Website development company in Mandla for Maneri industrial units",
+      heading: "Website development team in Mandla for Maneri industrial units",
       paragraphs: [
         "Industrial Growth Centre Maneri, in the Niwas tehsil of Mandla district, is a multi-product industrial estate of over 500 hectares with a dedicated food park area. MSME units there work in food processing, fabrication and other manufacturing, and many sell to buyers in Jabalpur and beyond who first check a website.",
-        "As a <strong>website development company in Mandla</strong> for these units, we build clear industrial sites: products and specifications you can back up, capacities you confirm, registrations and certifications you actually hold, packing and dispatch details, and an enquiry form that goes to email and WhatsApp. A downloadable product sheet helps buyers share your details internally.",
+        "As a <strong>website development team in Mandla</strong> for these units, we build clear industrial sites: products and specifications you can back up, capacities you confirm, registrations and certifications you actually hold, packing and dispatch details, and an enquiry form that goes to email and WhatsApp. A downloadable product sheet helps buyers share your details internally.",
         "We never publish figures, client names or certificates without your written confirmation. A false detail on a website can cost a contract far more than the site cost to build.",
         "Where a unit makes dozens of product variants, a 700+ page SEO build (₹20,000 onwards, roughly three to five weeks) gives every item and end use its own searchable page. Our <a href=\"/services/web-development/\">web development page</a> explains how we lay these out.",
       ],
     },
     {
       id: "trade-market-mandla",
-      heading: "Software company in Mandla for wholesale traders and agri dealers",
+      heading: "Software team in Mandla for wholesale traders and agri dealers",
       paragraphs: [
         "Mandla's markets supply a wide rural area with groceries, cloth, hardware, building material, fertiliser, seed and farm equipment. Wholesalers here serve retailers in smaller towns and villages, often on credit, and keep much of their business in ledgers and phone memory.",
         "Common trouble spots are easy to name: credit given to retailers without a clear running balance, stock of fast-moving items running out before a festival, seed and pesticide batches expiring on the shelf, and orders taken by phone that never reach the godown.",
-        "As a <strong>software company in Mandla</strong> for these businesses, we build web-based tools that staff use from a phone or computer: order entry, stock by item and batch, retailer credit ledgers, delivery lists by route and daily summaries on WhatsApp for the owner. Exports are formatted for Tally so your accountant does not have to re-type anything.",
+        "As a <strong>software team in Mandla</strong> for these businesses, we build web-based tools that staff use from a phone or computer: order entry, stock by item and batch, retailer credit ledgers, delivery lists by route and daily summaries on WhatsApp for the owner. Exports are formatted for Tally so your accountant does not have to re-type anything.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We usually start with orders and credit, because that is where money slips away fastest, and add stock and route planning once staff are comfortable.",
       ],
     },
     {
       id: "android-ios-apps-mandla",
-      heading: "App development company in Mandla: Android and iOS apps worth building",
+      heading: "App development team in Mandla: Android and iOS apps worth building",
       paragraphs: [
         "Town customers in Mandla mostly carry Android handsets, while Kanha's city guests, visiting doctors and a fair number of owners prefer iPhones. So one Flutter or React Native project serves both, complete with sign-in, push alerts and a back-office panel, and it goes live on Google Play and the App Store through developer accounts that belong to you.",
         "Which Mandla businesses genuinely gain from an app? A resort group with repeat guests who like to book again and see meal times and nature-walk slots. A wholesaler whose village kirana shops re-order every Monday. A coaching centre posting tests and marks. A lab sending reports, or a chemist running home delivery inside town.",
-        "Being an <strong>app development company in Mandla</strong> means designing for forest roads where the signal fades: entries save on the phone and upload once coverage returns. Pricing begins at ₹40,000 and rises with screens, user types, offline logic, payments and record links. Store listings, screenshots, privacy forms and both review queues are handled as part of the job.",
+        "Being an <strong>app development team in Mandla</strong> means designing for forest roads where the signal fades: entries save on the phone and upload once coverage returns. Pricing begins at ₹40,000 and rises with screens, user types, offline logic, payments and record links. Store listings, screenshots, privacy forms and both review queues are handled as part of the job.",
         "An app is overkill for many shops. When people just want your location, your offer and a chat button, a quick site plus an accurate Maps listing costs a fraction and does the work. Details sit on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
       ],
     },
@@ -185,9 +185,9 @@ const mandla: CityContent = {
     },
     {
       id: "remote-team-mandla",
-      heading: "IT company in Mandla without a local office: how the work gets done",
+      heading: "IT services team in Mandla without a local office: how the work gets done",
       paragraphs: [
-        "Anyone searching for an <strong>IT company in Mandla</strong> will ask about our office. We do not have one here or anywhere else. We are three engineers working remotely, and our process relies on written plans so nothing gets lost between calls.",
+        "Anyone searching for an <strong>IT services team in Mandla</strong> will ask about our office. We do not have one here or anywhere else. We are three engineers working remotely, and our process relies on written plans so nothing gets lost between calls.",
         "It starts with a WhatsApp message describing the problem. We reply with questions, and sometimes a ten-minute video call where you walk the phone camera around your lodge, godown or current site. A scope document and priced list follow. Once you agree, a private preview link lets you and your partners watch the build take shape.",
         "Replies come every day, Sunday included, in IST working hours. That fits a resort manager juggling check-ins in December or a trader reading messages after the shutters go down. Whatever gets agreed is typed into the chat, so it can be found months later.",
         "Some owners simply prefer a face across the desk, and for them a Mandla or Jabalpur freelancer may be the better pick. If published prices, accounts in your own name and one team covering sites, apps and software weigh more, write to us via the <a href=\"/contact/\">contact page</a>.",
@@ -240,7 +240,7 @@ const mandla: CityContent = {
         "Yes. Apps begin at ₹40,000 and are written once in Flutter or React Native so they run on both platforms, with sign-in, push alerts and a management panel. Around Mandla that could be a guest app for a Kanha lodge, a weekly re-order app for kirana retailers or a test-and-marks app for a coaching centre. They go live on Google Play and the App Store in your name.",
     },
     {
-      question: "Which is the best web design company in Mandla?",
+      question: "Which is the best web design team in Mandla?",
       answer:
         "There is no single answer, but a sound provider publishes where prices start, puts the quote in writing item by item, shows real finished work and leaves the domain, hosting and code with you. Ask who writes the code and who picks up the phone after launch. We are three remote engineers and are comfortable being judged on exactly that.",
     },

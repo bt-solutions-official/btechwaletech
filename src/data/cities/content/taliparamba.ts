@@ -10,12 +10,12 @@ const taliparamba: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Taliparamba spice traders, hospitals, colleges, temple-town lodges and textile units.",
     keywords: [
       "IT services in Taliparamba",
-      "IT company in Taliparamba",
-      "website development company in Taliparamba",
+      "IT services team in Taliparamba",
+      "website development team in Taliparamba",
       "web design in Taliparamba",
-      "app development company in Taliparamba",
+      "app development team in Taliparamba",
       "Android app development in Taliparamba",
-      "software company in Taliparamba",
+      "software team in Taliparamba",
       "SEO services in Taliparamba",
       "digital marketing in Taliparamba",
       "ecommerce website in Taliparamba",
@@ -75,11 +75,11 @@ const taliparamba: CityContent = {
     },
     {
       id: "spice-hill-produce-traders",
-      heading: "Software company in Taliparamba for spice and hill produce traders",
+      heading: "Software team in Taliparamba for spice and hill produce traders",
       paragraphs: [
         "Taliparamba has been known as a trading station for spices and hill produce for a long time. Growers and small collectors bring pepper, areca nut, dried coconut and other crops to traders who grade, weigh, store and sell them on. Rates change daily, moisture and quality decide the price, and payments often run on trust and credit between families who have dealt with each other for years.",
         "That trust works, but the paperwork behind it rarely does. Traders keep separate books for each grower, write rates on slips, reconcile advances by hand and check stock by walking through the godown. When a son or daughter joins the business, the first thing they usually want is a simple system that everyone can see.",
-        "As a <strong>software company in Taliparamba</strong> in the working sense, we build small web tools for exactly this: purchases entered once from a phone with grower name, crop, weight, moisture or grade and rate; a running ledger per grower with advances and payments; stock by crop and godown; and a daily summary of what was bought and at what average rate. Reports can be printed or shared on WhatsApp.",
+        "As a <strong>software team in Taliparamba</strong> in the working sense, we build small web tools for exactly this: purchases entered once from a phone with grower name, crop, weight, moisture or grade and rate; a running ledger per grower with advances and payments; stock by crop and godown; and a daily summary of what was bought and at what average rate. Reports can be printed or shared on WhatsApp.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. We usually start with the purchase register because it removes the most errors, then add stock and dispatch once the family is comfortable using it. Your data stays in an account you own, not on our servers.",
       ],
     },
@@ -94,20 +94,20 @@ const taliparamba: CityContent = {
     },
     {
       id: "students-colleges-dharmasala",
-      heading: "Website development company in Taliparamba for colleges, hostels and coaching",
+      heading: "Website development team in Taliparamba for colleges, hostels and coaching",
       paragraphs: [
         "Between Dharmasala and Pariyaram lies one of the densest clusters of higher education in north Kerala. Kannur University's Mangattuparamba campus sits about a kilometre from Dharmasala junction, and the town also has Sir Syed College, nursing colleges, an engineering college and many higher secondary schools and entrance coaching centres.",
-        "Each of these generates its own search traffic. Students look for hostels and paying-guest rooms, parents check fees and admission dates, and coaching centres compete for the same families every year. A <strong>website development company in Taliparamba</strong> should help each type of institution answer those questions quickly, without making parents call the office five times.",
+        "Each of these generates its own search traffic. Students look for hostels and paying-guest rooms, parents check fees and admission dates, and coaching centres compete for the same families every year. A <strong>website development team in Taliparamba</strong> should help each type of institution answer those questions quickly, without making parents call the office five times.",
         "For a college or coaching centre, that means course pages with eligibility, duration and fee details or fee ranges, admission timelines, faculty, results with the students' permission, transport routes and a form that sends enquiries to a named person. For a hostel or PG, it means real room photographs, rent, rules, meals, distance to the campus and a WhatsApp link.",
         "We write these pages in plain language and keep them updated each admission season. A static institution site starts at ₹10,000; a portal with student logins, fee payment or attendance is a custom web app starting at ₹60,000.",
       ],
     },
     {
       id: "kinfra-textile-units",
-      heading: "IT company in Taliparamba for KINFRA Textile Park units and suppliers",
+      heading: "IT services team in Taliparamba for KINFRA Textile Park units and suppliers",
       paragraphs: [
         "The KINFRA Textile Park at Nadukani, opened in 2010 over roughly 50 hectares, is the main textile manufacturing base in Kannur district. Its units work in garments, fabrics and related processes, and they depend on a wider circle of suppliers: trims and packaging, machine repair, electrical contractors, transporters, canteens and labour agencies.",
-        "Buyers from outside Kerala and export houses check suppliers online before they send a trial order. An <strong>IT company in Taliparamba</strong> can help these units look as capable as they are. A useful manufacturer site lists products and fabrics with clear photographs, machinery and capacity in the unit's own words, certifications you actually hold, minimum order quantities, lead times and a contact person who answers.",
+        "Buyers from outside Kerala and export houses check suppliers online before they send a trial order. An <strong>IT services team in Taliparamba</strong> can help these units look as capable as they are. A useful manufacturer site lists products and fabrics with clear photographs, machinery and capacity in the unit's own words, certifications you actually hold, minimum order quantities, lead times and a contact person who answers.",
         "We never add a buyer's name or logo to your site without written permission from that buyer. Units that handle repeat orders can add a sample request form with file upload, or a simple order status page so buyers stop phoning to ask about dispatch dates. Kannur's handloom heritage also gives some units a story worth telling, and we write it plainly rather than with slogans.",
       ],
     },
@@ -136,7 +136,7 @@ const taliparamba: CityContent = {
       heading: "Android app development in Taliparamba, and iOS apps for local firms",
       paragraphs: [
         "An app earns its cost when the same people open it again and again. In Taliparamba, sensible uses include a hospital's appointment and token app for returning patients, a coaching centre's app for timetables, test results and fee reminders, a wholesaler's re-order app for village shops in the hill areas, and a produce trader's app for regular growers to check the day's rate and their balance.",
-        "As an <strong>app development company in Taliparamba</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the core screens your users need, Malayalam and English text, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Taliparamba</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the core screens your users need, Malayalam and English text, and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Taliparamba</strong> with us starts at ₹40,000. Payments, offline mode for patchy signal in the hills, maps, and links to billing software add to that, and the quote lists each one separately. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for more.",
         "If your customers only need your address, phone number, timings and a price list, a website does that for a fraction of the cost. We will say so, because an app that people install once and forget is money you will not see again.",
       ],
@@ -237,7 +237,7 @@ const taliparamba: CityContent = {
         "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having your content and Malayalam text ready is the biggest factor.",
     },
     {
-      question: "Which is the best website development company in Taliparamba?",
+      question: "Which is the best website development team in Taliparamba?",
       answer:
         "Choose a provider that publishes prices, puts the domain and code in your name, answers after launch and can show real work. Ask every option the same questions and compare the written answers. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers is sensible.",
     },

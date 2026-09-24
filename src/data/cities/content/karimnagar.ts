@@ -9,7 +9,7 @@ const karimnagar: CityContent = {
     description:
       "Websites, Telugu and English local SEO, and WhatsApp automation for Karimnagar granite exporters, filigree artisans, hospitals and colleges. From ₹10,000.",
     keywords: [
-      "website development company in Karimnagar",
+      "website development team in Karimnagar",
       "web designer Karimnagar",
       "website design Karimnagar Telangana",
       "SEO services Karimnagar",

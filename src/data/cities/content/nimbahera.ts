@@ -10,12 +10,12 @@ const nimbahera: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Nimbahera cement suppliers, stone traders, mandi merchants, clinics and schools.",
     keywords: [
       "IT services in Nimbahera",
-      "IT company in Nimbahera",
-      "website development company in Nimbahera",
+      "IT services team in Nimbahera",
+      "website development team in Nimbahera",
       "web design in Nimbahera",
-      "app development company in Nimbahera",
+      "app development team in Nimbahera",
       "Android app development in Nimbahera",
-      "software company in Nimbahera",
+      "software team in Nimbahera",
       "SEO services in Nimbahera",
       "digital marketing in Nimbahera",
       "ecommerce website in Nimbahera",
@@ -74,19 +74,19 @@ const nimbahera: CityContent = {
     },
     {
       id: "cement-plant-contractors",
-      heading: "Software company in Nimbahera for cement plant contractors and transporters",
+      heading: "Software team in Nimbahera for cement plant contractors and transporters",
       paragraphs: [
         "Large cement plants in and around Nimbahera, including units of JK Cement, Wonder Cement and Nuvoco, depend on dozens of smaller firms. Limestone and coal haulage, bulker and truck fleets, mechanical and electrical maintenance contractors, labour suppliers, canteens, security agencies and spare parts dealers all bill the plants every month and wait for payment against those bills.",
-        "The admin behind that work is where money leaks. Trips are noted on paper slips, labour attendance is marked in registers, diesel advances are given in cash, and invoices are prepared from memory at month end. As a <strong>software company in Nimbahera</strong> for this trade, we build web tools where every trip, shift and advance is entered once from a phone, totals appear by vehicle, worker and work order, and a bill is produced in the format the plant expects.",
+        "The admin behind that work is where money leaks. Trips are noted on paper slips, labour attendance is marked in registers, diesel advances are given in cash, and invoices are prepared from memory at month end. As a <strong>software team in Nimbahera</strong> for this trade, we build web tools where every trip, shift and advance is entered once from a phone, totals appear by vehicle, worker and work order, and a bill is produced in the format the plant expects.",
         "We add reminders for fitness, permit, insurance and PUC renewal, and a view of what each plant owes you. These systems start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the register that causes you the most disputes. We do not claim any link with the cement companies themselves; we work for their suppliers.",
       ],
     },
     {
       id: "nimbahera-stone-traders",
-      heading: "Website development company in Nimbahera for stone traders and quarry owners",
+      heading: "Website development team in Nimbahera for stone traders and quarry owners",
       paragraphs: [
         "Nimbahera stone is known across western India for flooring, paving and building work, and buyers compare colour, thickness, finish and freight before placing an order. Most of those buyers are not in Nimbahera. They are builders, architects and contractors in Gujarat, Madhya Pradesh, Maharashtra and other parts of Rajasthan who find a supplier online or through a broker.",
-        "A <strong>website development company in Nimbahera</strong> should give a stone trader a site that answers those questions: available varieties and finishes, standard sizes and thickness, photographs of real stock taken in daylight, laid-floor examples, loading and freight information, GST details, and a quote form that asks for quantity, size and delivery location. We avoid printing prices that change weekly, but we can show a price-on-request table.",
+        "A <strong>website development team in Nimbahera</strong> should give a stone trader a site that answers those questions: available varieties and finishes, standard sizes and thickness, photographs of real stock taken in daylight, laid-floor examples, loading and freight information, GST details, and a quote form that asks for quantity, size and delivery location. We avoid printing prices that change weekly, but we can show a price-on-request table.",
         "A static site of this kind starts at ₹10,000; a larger SEO site with a page for each variety and application starts at ₹20,000. Stone buyers search by variety, colour and use, so product pages written that way are what bring enquiries from other states.",
         "Polishing and cutting units can go a step further. A short page explaining how a slab is sized, calibrated and packed for a long truck journey, with photographs of the loading yard, answers the doubts a first-time buyer in Ahmedabad or Indore has about ordering from a supplier he has never met. A simple order-tracking page, updated by your office when a truck leaves and when it is expected, cuts down the calls asking where the load is. Neither needs complicated software, and both make a small trader look as organised as a large one.",
       ],
@@ -133,7 +133,7 @@ const nimbahera: CityContent = {
       heading: "Android app development in Nimbahera, plus iOS apps from one codebase",
       paragraphs: [
         "An app pays off when a fixed group of people opens it again and again. Around Nimbahera, that could be truck drivers logging trips and fuel, site supervisors marking labour attendance at a plant, parents getting homework and fee notices from a school, patients collecting OPD tokens, or village retailers re-ordering from a distributor.",
-        "As an <strong>app development company in Nimbahera</strong> working remotely, we write apps in Flutter or React Native so the same code runs on Android and iPhone. A first release usually includes mobile OTP login, push notifications, the key screens your users need and a web admin panel for your office. We publish it on Google Play and the Apple App Store using developer accounts in your name.",
+        "As an <strong>app development team in Nimbahera</strong> working remotely, we write apps in Flutter or React Native so the same code runs on Android and iPhone. A first release usually includes mobile OTP login, push notifications, the key screens your users need and a web admin panel for your office. We publish it on Google Play and the Apple App Store using developer accounts in your name.",
         "<strong>Android app development in Nimbahera</strong> starts at ₹40,000 with us. The cost goes up with online payments, offline entry for quarry sites without signal, GPS tracking, or integration with a weighbridge or accounting system, and the quote shows each of these separately. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, phone number and rates, an app is not worth it. A website and a correct map listing do that job for a quarter of the price, and we will recommend that instead.",
       ],
@@ -158,7 +158,7 @@ const nimbahera: CityContent = {
     },
     {
       id: "remote-team-nimbahera",
-      heading: "Working with a remote IT company in Nimbahera: how projects run",
+      heading: "Working with a remote IT services team in Nimbahera: how projects run",
       paragraphs: [
         "We are not in Nimbahera, so we rely on documents instead of visits. The first call covers your business, customers and goals. You then receive a page or screen plan, a delivery schedule and an itemised quote. After approval, you get preview links to open on your phone and share with partners or family.",
         "We answer WhatsApp every day including Sundays, on Indian Standard Time. Hindi text is sent to you for checking before anything goes public. If we hit a delay, we inform you as soon as we know, along with the cause and a revised date.",
@@ -225,7 +225,7 @@ const nimbahera: CityContent = {
         "A static site usually goes live one to two weeks after we get your text and photographs. SEO sites with 700+ pages take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Quick replies on content and approvals are what speed things up most.",
     },
     {
-      question: "Which is the best website development company in Nimbahera?",
+      question: "Which is the best website development team in Nimbahera?",
       answer:
         "The right choice publishes prices, registers the domain and code in your name, stays available after launch and shows real work. Ask each option the same questions and compare written answers. We meet those standards and reply on WhatsApp daily, but comparing a few providers is always wise.",
     },

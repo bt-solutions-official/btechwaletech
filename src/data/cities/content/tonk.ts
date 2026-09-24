@@ -9,7 +9,7 @@ const tonk: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Tonk, Newai, Deoli and Malpura businesses. Static sites from ₹10,000, SEO sites from ₹20,000, remote team.",
     keywords: [
-      "website development company in Tonk",
+      "website development team in Tonk",
       "web designer Tonk Rajasthan",
       "website banane wala Tonk",
       "SEO services Tonk",

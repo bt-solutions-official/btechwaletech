@@ -9,11 +9,11 @@ const content: CityContent = {
     description:
       "Freelance software developers for Warangal, Hanamkonda and Kazipet: college CRMs, hospital booking, trader software, AI agents and apps. Web apps from ₹60,000.",
     keywords: [
-      "software development company in Warangal",
+      "software development team in Warangal",
       "Android app development Warangal",
       "iPhone app developers Warangal",
       "mobile app developers Warangal",
-      "IT company in Warangal",
+      "IT services team in Warangal",
       "IT solutions Warangal",
       "freelance software developers Warangal",
       "software developers Hanamkonda",
@@ -37,7 +37,7 @@ const content: CityContent = {
     eyebrow: "IT services · Warangal, Telangana",
     h1: "Freelance software developers for Warangal's colleges, hospitals and traders",
     lede:
-      "Freelance software developers for the Warangal tri-city of Warangal, Hanamkonda and Kazipet: BtechWaleTech is a freelance group of three remote engineers who build admission CRMs for colleges and coaching centres, appointment systems for hospitals, trader software for the Enumamula market, WhatsApp AI agents, dashboards and the Telugu-English websites that bring leads in. If you were comparing a software development company in Warangal, our prices are public and maintenance is free for five months.",
+      "Freelance software developers for the Warangal tri-city of Warangal, Hanamkonda and Kazipet: BtechWaleTech is a freelance group of three remote engineers who build admission CRMs for colleges and coaching centres, appointment systems for hospitals, trader software for the Enumamula market, WhatsApp AI agents, dashboards and the Telugu-English websites that bring leads in. If you were comparing a software development team in Warangal, our prices are public and maintenance is free for five months.",
     pills: ["Admission CRMs and portals", "Hospital booking in Telugu", "Trader lot and dues software", "Lead capture that reaches staff", "Five months free support"],
   },
   quickAnswer:
@@ -189,7 +189,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-warangal",
-      heading: "Freelance software developers or a software company in Warangal?",
+      heading: "Freelance software developers or a software team in Warangal?",
       paragraphs: [
         "Hire freelance software developers when your Warangal project has a clear scope, you want direct contact with the engineers and costs matter; hire a larger software company in Warangal or Hyderabad when you need many developers, on-site staff or formal enterprise contracts. Both can work well depending on size and style.",
         "BtechWaleTech is a freelance group of three engineers with no Warangal office. You speak directly to us, prices are public and the same people support what they build. Our limit is capacity, and we will tell you if a project needs a bigger team.",

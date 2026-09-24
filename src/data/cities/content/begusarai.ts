@@ -9,7 +9,7 @@ const begusarai: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Begusarai and Barauni firms: refinery suppliers, dairies, clinics, schools and shops. From ₹10,000, owned by you.",
     keywords: [
-      "website development company in Begusarai",
+      "website development team in Begusarai",
       "website designer Begusarai",
       "web developer Barauni",
       "SEO services Begusarai",

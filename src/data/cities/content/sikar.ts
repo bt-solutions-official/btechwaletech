@@ -9,7 +9,7 @@ const sikar: CityContent = {
     description:
       "Websites, Hindi SEO and WhatsApp automation for Sikar coaching institutes, hostels, onion traders, hospitals and Khatu Shyam hotels. Sites from ₹10,000 onwards.",
     keywords: [
-      "website development company in Sikar",
+      "website development team in Sikar",
       "website designer Sikar",
       "web design Sikar Rajasthan",
       "SEO services Sikar",

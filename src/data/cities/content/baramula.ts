@@ -9,7 +9,7 @@ const baramula: CityContent = {
     description:
       "Websites, Google Maps SEO and online stores for Baramulla apple growers, Gulmarg hotels, clinics and traders. Sites from ₹10,000, built by a remote team.",
     keywords: [
-      "website development company in Baramulla",
+      "website development team in Baramulla",
       "web designer Baramulla",
       "website design Baramulla price",
       "SEO services Baramulla",

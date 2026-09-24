@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance IT consultants and developers in Kochi for custom software, Android and iOS apps, AI automation, cloud and SEO. Free scoping call, quote in 2 days.",
     keywords: [
-      "IT solutions company in Kochi",
-      "best IT company in Kochi",
+      "IT solutions team in Kochi",
+      "best IT services team in Kochi",
       "freelance IT consultants Kochi",
       "IT consulting and digital transformation Kochi",
       "hire freelance developers Ernakulam",
@@ -84,10 +84,10 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-kochi-how-to-choose",
-      heading: "How to choose the best IT company in Kochi, or a freelance alternative",
+      heading: "How to choose the best IT services team in Kochi, or a freelance alternative",
       paragraphs: [
-        "The best IT company in Kochi for your needs is the one that understands your business, quotes transparently, and will still answer your calls a year after launch. Many established firms in Infopark focus on overseas software contracts, which can leave small local projects with junior staff and slow responses.",
-        "BtechWaleTech is not a company; we are a freelance group of three engineers. Compared with IT companies in Kochi, we offer direct contact with the builders, lower overheads and one team for software, apps, automation and websites. We do not offer on-site staff, large teams for enterprise programmes or hardware support. Knowing that trade-off upfront helps you choose well.",
+        "The best IT services team in Kochi for your needs is the one that understands your business, quotes transparently, and will still answer your calls a year after launch. Many established firms in Infopark focus on overseas software contracts, which can leave small local projects with junior staff and slow responses.",
+        "BtechWaleTech is a freelance group of three engineers. Compared with IT companies in Kochi, we offer direct contact with the builders, lower overheads and one team for software, apps, automation and websites. We do not offer on-site staff, large teams for enterprise programmes or hardware support. Knowing that trade-off upfront helps you choose well.",
         "Whichever vendor you evaluate, ask them to summarise your problem in their own words, identify the biggest risk, and name what they would drop from version one. Confirm that code, domains and cloud accounts will be yours, and ask to see live projects rather than design mock-ups.",
       ],
     },
@@ -281,9 +281,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you an IT company with an office in Kochi?",
+      question: "Are you an IT services team with an office in Kochi?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers, not a company, and we have no office in Kochi or Ernakulam. We work remotely from India through video calls, phone and WhatsApp, seven days a week. You speak directly with the engineers building your system, which keeps communication clear and costs lower.",
+        "No. BtechWaleTech is a freelance group of three engineers, and we have no office in Kochi or Ernakulam. We work remotely from India through video calls, phone and WhatsApp, seven days a week. You speak directly with the engineers building your system, which keeps communication clear and costs lower.",
     },
     {
       question: "Is the IT consultation free?",

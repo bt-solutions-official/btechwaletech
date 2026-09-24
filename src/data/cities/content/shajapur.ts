@@ -10,12 +10,12 @@ const shajapur: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Shajapur onion and garlic traders, soybean dealers, Maksi units, clinics and colleges.",
     keywords: [
       "IT services in Shajapur",
-      "IT company in Shajapur",
-      "website development company in Shajapur",
+      "IT services team in Shajapur",
+      "website development team in Shajapur",
       "web design in Shajapur",
-      "app development company in Shajapur",
+      "app development team in Shajapur",
       "Android app development in Shajapur",
-      "software company in Shajapur",
+      "software team in Shajapur",
       "SEO services in Shajapur",
       "digital marketing in Shajapur",
       "ecommerce website in Shajapur",
@@ -74,28 +74,28 @@ const shajapur: CityContent = {
     },
     {
       id: "onion-garlic-traders",
-      heading: "Software company in Shajapur for onion and garlic traders and storage owners",
+      heading: "Software team in Shajapur for onion and garlic traders and storage owners",
       paragraphs: [
         "Onion and garlic are the crops that give Shajapur's mandi its character. Farmers bring them in after harvest, traders grade and store them, and much of the stock is held for weeks or months waiting for better prices before being trucked to buyers in other states. Along the way there are advances to farmers, storage losses from drying and rot, labour for grading and packing, and payments that arrive late.",
-        "As a <strong>software company in Shajapur</strong> in practical terms, we build web tools that follow this cycle. Each purchase is entered once with farmer, village, crop, grade, weight and rate. Storage lots are tracked with dates and periodic weight checks, so losses are measured rather than guessed. Dispatch records follow each truck to its buyer, and outstanding amounts show on both the buying and selling side.",
+        "As a <strong>software team in Shajapur</strong> in practical terms, we build web tools that follow this cycle. Each purchase is entered once with farmer, village, crop, grade, weight and rate. Storage lots are tracked with dates and periodic weight checks, so losses are measured rather than guessed. Dispatch records follow each truck to its buyer, and outstanding amounts show on both the buying and selling side.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks. We usually build the purchase register first, before the rabi harvest, and add storage and dispatch modules afterwards. Staff can enter data on a phone at the mandi or the godown, and the owner can check totals from anywhere.",
       ],
     },
     {
       id: "soybean-wheat-dealers",
-      heading: "Website development company in Shajapur for soybean, wheat and farm input businesses",
+      heading: "Website development team in Shajapur for soybean, wheat and farm input businesses",
       paragraphs: [
         "Soybean in kharif and wheat in rabi keep Shajapur's farm economy turning, and around them is a crowd of businesses: seed and fertiliser shops, pesticide dealers, tractor and implement showrooms, pump and pipe sellers, and workshops that fix machinery before sowing. Most of these dealers sell on credit, settle after harvest, and win customers by reputation.",
-        "A <strong>website development company in Shajapur</strong> can help such dealers quietly but usefully. A site listing brands and products stocked, services offered, delivery to villages, finance options you really offer, and a WhatsApp enquiry button lets farmers check before making the journey. For tractor and implement dealers, a service booking form with reminders brings customers back at the right time.",
+        "A <strong>website development team in Shajapur</strong> can help such dealers quietly but usefully. A site listing brands and products stocked, services offered, delivery to villages, finance options you really offer, and a WhatsApp enquiry button lets farmers check before making the journey. For tractor and implement dealers, a service booking form with reminders brings customers back at the right time.",
         "Where credit sales are heavy, a billing and dues tool with courteous WhatsApp reminders after the crop is sold can be added. A dealer's website is ₹10,000 onwards and normally goes live in under two weeks. Only brand tie-ups and certificates you genuinely hold are shown.",
       ],
     },
     {
       id: "maksi-shujalpur-industry",
-      heading: "IT company in Shajapur for Maksi and Shujalpur industrial suppliers",
+      heading: "IT services team in Shajapur for Maksi and Shujalpur industrial suppliers",
       paragraphs: [
         "Industry in the district is concentrated at Maksi, which has a number of small and large units including a Dabur plant, and at Shujalpur, where an Adani Wilmar facility and food processing plants work. Around these plants are contractors, transporters, packaging suppliers, engineering workshops, electrical firms and staffing agencies, many of them run from Shajapur town.",
-        "Working as an <strong>IT company in Shajapur</strong> for these suppliers, we keep websites factual: services and capabilities, machinery and equipment, sectors served, safety practices, registrations and a proper enquiry form that accepts drawings or requirement documents. Purchase departments check suppliers online, and a clear site makes a small firm look as capable as it actually is.",
+        "Working as an <strong>IT services team in Shajapur</strong> for these suppliers, we keep websites factual: services and capabilities, machinery and equipment, sectors served, safety practices, registrations and a proper enquiry form that accepts drawings or requirement documents. Purchase departments check suppliers online, and a clear site makes a small firm look as capable as it actually is.",
         "We never name a client on your site without that client's written permission. Contractors handling repeat work can add a job status page or a simple work-order tracker, so the plant's staff stop calling to ask about progress.",
       ],
     },
@@ -131,7 +131,7 @@ const shajapur: CityContent = {
       heading: "Android app development in Shajapur, and iOS apps when users return often",
       paragraphs: [
         "An app is worth its cost when the same people open it again and again. In Shajapur that could be village retailers re-ordering from a wholesale dealer, buyers checking a garlic trader's rates, students of a coaching centre following tests, parents receiving school notices, or regular patients taking tokens at a clinic. A shop people visit twice a year needs a website instead.",
-        "Our work as an <strong>app development company in Shajapur</strong> is done remotely using Flutter or React Native, which lets one set of code serve Android handsets and iPhones alike. The opening version tends to include sign-in by mobile OTP, notifications, the core screens and a back-office panel for your people. Google Play and Apple App Store submissions are made from developer accounts opened in your name, and we look after the store pages and approval process.",
+        "Our work as an <strong>app development team in Shajapur</strong> is done remotely using Flutter or React Native, which lets one set of code serve Android handsets and iPhones alike. The opening version tends to include sign-in by mobile OTP, notifications, the core screens and a back-office panel for your people. Google Play and Apple App Store submissions are made from developer accounts opened in your name, and we look after the store pages and approval process.",
         "<strong>Android app development in Shajapur</strong> begins at ₹40,000 with us. Extras such as in-app payment, working without signal in the fields, maps, Hindi screens or a link to your billing software add to that, and each shows up as its own item. The <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page goes into more depth.",
         "Android handsets dominate around Shajapur, so plenty of clients go live on Google Play first and bring out the iPhone build afterwards. When customers only want an address, a rate list and a phone number, a website plus a Maps listing costs far less, and we will point that out.",
       ],
@@ -231,7 +231,7 @@ const shajapur: CityContent = {
         "Once your photos, phone numbers and product details arrive, a basic site is normally up in a week or two. Expect three to five weeks for a 700+ page SEO site, four to eight for an online shop and six to twelve for made-to-order software. Most delays come from content arriving late, so it helps to collect it before the mandi season gets busy.",
     },
     {
-      question: "Which is the best website development company in Shajapur?",
+      question: "Which is the best website development team in Shajapur?",
       answer:
         "No list of the “best” exists that you can fully trust, so look for proof. Does the provider give a written quote, register the domain and code in your name, show live projects and still reply after the invoice is paid? Put identical questions to two or three names and weigh the answers. We are comfortable being checked on exactly those points.",
     },

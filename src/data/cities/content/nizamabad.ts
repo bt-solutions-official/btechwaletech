@@ -9,7 +9,7 @@ const nizamabad: CityContent = {
     description:
       "Websites, local SEO, trade catalogues and WhatsApp automation for Nizamabad turmeric traders, rice millers, hospitals and schools. Clear prices, domain in your name.",
     keywords: [
-      "website development company in Nizamabad",
+      "website development team in Nizamabad",
       "web designer Nizamabad",
       "website design Nizamabad Telangana",
       "freelance web developer Nizamabad",
@@ -21,7 +21,7 @@ const nizamabad: CityContent = {
       "ecommerce website Nizamabad",
       "hospital website Nizamabad",
       "WhatsApp automation Nizamabad",
-      "software company Nizamabad",
+      "software team Nizamabad",
       "website maintenance Nizamabad",
       "Nizamabad lo website",
       "నిజామాబాద్ వెబ్‌సైట్ డిజైన్",

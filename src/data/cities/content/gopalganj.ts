@@ -10,12 +10,12 @@ const gopalganj: CityContent = {
       "Hindi and Bhojpuri-friendly websites, Android and iOS apps, local SEO and WhatsApp automation for Gopalganj sugar, rice mill, retail, clinic and coaching businesses.",
     keywords: [
       "IT services in Gopalganj",
-      "IT company in Gopalganj",
-      "website development company in Gopalganj",
+      "IT services team in Gopalganj",
+      "website development team in Gopalganj",
       "web design in Gopalganj",
-      "app development company in Gopalganj",
+      "app development team in Gopalganj",
       "Android app development in Gopalganj",
-      "software company in Gopalganj",
+      "software team in Gopalganj",
       "SEO services in Gopalganj",
       "digital marketing in Gopalganj",
       "ecommerce website in Gopalganj",
@@ -75,20 +75,20 @@ const gopalganj: CityContent = {
     },
     {
       id: "sugar-belt-gopalganj",
-      heading: "Software company in Gopalganj for sugarcane growers, transporters and mill suppliers",
+      heading: "Software team in Gopalganj for sugarcane growers, transporters and mill suppliers",
       paragraphs: [
         "Gopalganj district has long been known for sugar. Mills operate in the district, including at Gopalganj town and Sidhwaliya, and the closed Sasamusa mill has been the subject of repeated revival efforts. Ethanol plants have come up alongside. Each crushing season brings work for tractor owners, cane supervisors, input dealers, weighbridge operators and repair workshops.",
         "Much of the paperwork is still on paper. Transport owners track trips, weights and diesel advances in notebooks; farmers wait for payments and want to know exactly what was credited. Arguments at the end of the season are common when figures are copied by hand from several slips.",
-        "As a <strong>software company in Gopalganj</strong>, in practice, we build light web tools for this work. Each trip is entered once on a phone with vehicle, slip number, weight and rate. Totals appear by vehicle, by farmer and by mill, with pending dues and reminders for insurance and permits. Custom tools start at ₹60,000 and are built in stages over six to twelve weeks, ideally before the season opens.",
+        "As a <strong>software team in Gopalganj</strong>, in practice, we build light web tools for this work. Each trip is entered once on a phone with vehicle, slip number, weight and rate. Totals appear by vehicle, by farmer and by mill, with pending dues and reminders for insurance and permits. Custom tools start at ₹60,000 and are built in stages over six to twelve weeks, ideally before the season opens.",
         "Suppliers who sell to the mills and ethanol plants, such as electrical contractors, fabricators and packaging firms, need a different product: a factual capability website that a purchase office can check in two minutes.",
       ],
     },
     {
       id: "rice-mills-gopalganj",
-      heading: "Website development company in Gopalganj for rice mills and grain traders",
+      heading: "Website development team in Gopalganj for rice mills and grain traders",
       paragraphs: [
         "Paddy is the main kharif crop of the district, and Gopalganj has many rice mills. They buy from farmers and traders, mill and sort the grain, and sell to wholesalers inside and outside Bihar. The business depends on trust with buyers who may never visit the mill.",
-        "A <strong>website development company in Gopalganj</strong> should give a rice mill a site that answers buyers' real questions: varieties handled, grades, bag sizes, milling capacity you can confirm, packing options, GST and FSSAI details, and who to contact for rates. Photographs of the actual mill, not stock images, make a large difference.",
+        "A <strong>website development team in Gopalganj</strong> should give a rice mill a site that answers buyers' real questions: varieties handled, grades, bag sizes, milling capacity you can confirm, packing options, GST and FSSAI details, and who to contact for rates. Photographs of the actual mill, not stock images, make a large difference.",
         "Behind the website, many mills need a working register. Paddy purchase by lot and moisture, milling yield, stock of rice, broken rice and bran, and dispatch by truck and buyer can all live in one simple tool with daily totals. Owners who travel can see the day's figures from a phone.",
         "We start with the site, from ₹10,000, and add the register only if it will save real time. Many mills begin with the public site and a WhatsApp rate list, then move to software after one season.",
       ],
@@ -105,11 +105,11 @@ const gopalganj: CityContent = {
     },
     {
       id: "coaching-schools-gopalganj",
-      heading: "App development company in Gopalganj for coaching institutes and schools",
+      heading: "App development team in Gopalganj for coaching institutes and schools",
       paragraphs: [
         "Education is a serious business in Gopalganj. Families invest heavily in preparation for board exams, engineering and medical entrance tests, and government jobs such as railway, SSC, banking and state police recruitment. Coaching centres, libraries with study seats, hostels and computer training institutes line several roads of the town.",
         "Students compare options online before they walk in. They want batch timings, subjects, faculty names, fee ranges, study material, test series schedules and documented results. Parents want to know about attendance, safety and how progress will be reported.",
-        "As an <strong>app development company in Gopalganj</strong>, we usually suggest a website first and an app only once the institute has enough regular students. The website carries courses, batches, admission forms and result pages. The app, when justified, adds daily notices, test marks, attendance alerts and fee reminders, with a parent login.",
+        "As an <strong>app development team in Gopalganj</strong>, we usually suggest a website first and an app only once the institute has enough regular students. The website carries courses, batches, admission forms and result pages. The app, when justified, adds daily notices, test marks, attendance alerts and fee reminders, with a parent login.",
         "Schools and institutes near the Sainik School or on the NH 27 corridor can also use Google Maps listings with photographs, timings and directions, so families from Barauli, Mirganj or Hathua find them without asking around.",
       ],
     },
@@ -192,11 +192,11 @@ const gopalganj: CityContent = {
     },
     {
       id: "around-gopalganj",
-      heading: "IT company in Gopalganj serving Hathua, Mirganj, Barauli, Thawe and Siwan",
+      heading: "IT services team in Gopalganj serving Hathua, Mirganj, Barauli, Thawe and Siwan",
       paragraphs: [
         "We work with businesses across the district and beyond: Hathua, Mirganj, Barauli, Thawe, Kuchaikote, Sidhwaliya and Sasamusa, as well as Siwan, Chhapra, Bettiah, Motihari and Padrauna across the border in Uttar Pradesh. Many Gopalganj businesses already serve customers in several of these places.",
         "For firms with customers in more than one town, we create location pages with real content for each: branch address if any, delivery or service area, travel time and a local contact. We never publish copies with only the town name changed; search engines filter them and customers see through them.",
-        "If you are not sure whether you need a website, an app, automation or just a better map listing, message us on WhatsApp with a short description of your business. Working as your <strong>IT company in Gopalganj</strong> from a distance, we will suggest the smallest useful step first.",
+        "If you are not sure whether you need a website, an app, automation or just a better map listing, message us on WhatsApp with a short description of your business. Working as your <strong>IT services team in Gopalganj</strong> from a distance, we will suggest the smallest useful step first.",
       ],
     },
   ],
@@ -241,7 +241,7 @@ const gopalganj: CityContent = {
         "Once your text and photos reach us, a static site normally goes live inside two weeks. Bigger jobs take longer: roughly three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for custom software. Delays almost always come from waiting on content, not on coding.",
     },
     {
-      question: "Who is the best website development company in Gopalganj?",
+      question: "Who is the best website development team in Gopalganj?",
       answer:
         "No single answer fits every shop, so test each option the same way. Are prices published? Will the domain and code be registered to you? Can they show live sites they built? Do they pick up the phone after launch? We pass those checks and answer WhatsApp daily, yet speaking to two or three providers is wise.",
     },

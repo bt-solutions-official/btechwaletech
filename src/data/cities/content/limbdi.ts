@@ -10,12 +10,12 @@ const limbdi: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Limbdi cotton ginners, GIDC units, highway hotels, colleges, clinics and shops.",
     keywords: [
       "IT services in Limbdi",
-      "IT company in Limbdi",
-      "website development company in Limbdi",
+      "IT services team in Limbdi",
+      "website development team in Limbdi",
       "web design in Limbdi",
-      "app development company in Limbdi",
+      "app development team in Limbdi",
       "Android app development in Limbdi",
-      "software company in Limbdi",
+      "software team in Limbdi",
       "SEO services in Limbdi",
       "digital marketing in Limbdi",
       "ecommerce website in Limbdi",
@@ -75,21 +75,21 @@ const limbdi: CityContent = {
     },
     {
       id: "cotton-ginning-software",
-      heading: "Software company in Limbdi for cotton ginning and pressing units",
+      heading: "Software team in Limbdi for cotton ginning and pressing units",
       paragraphs: [
         "A ginning unit near Limbdi gets the most from software that tracks kapas bought, bales pressed and money owed in one place, where the owner, the munim and the buyer see the same numbers.",
         "Surendranagar district is one of Gujarat's main cotton districts and a known centre for ginning and pressing Shankar cotton. Units along the highway near the Limbdi marketing yard run hard once arrivals begin after the kharif harvest, buying seed cotton from farmers and traders, ginning it into lint, pressing bales and selling cottonseed onward. Volumes are large, margins are small, and the paperwork is often split between a weighbridge slip, a purchase book and a notebook of advances.",
-        "As a <strong>software company in Limbdi</strong> in the practical sense, we build a small web application around that cycle. Each arrival is entered once: vehicle number, slip number, gross and tare weight, any moisture or trash deduction, rate and advance paid. The system then shows running totals per farmer and per trader, bales pressed per shift, lint and seed dispatched, and outstanding amounts by buyer. Month-end reconciliation shrinks from several days to an afternoon.",
+        "As a <strong>software team in Limbdi</strong> in the practical sense, we build a small web application around that cycle. Each arrival is entered once: vehicle number, slip number, gross and tare weight, any moisture or trash deduction, rate and advance paid. The system then shows running totals per farmer and per trader, bales pressed per shift, lint and seed dispatched, and outstanding amounts by buyer. Month-end reconciliation shrinks from several days to an afternoon.",
         "These tools start at ₹60,000 and take six to twelve weeks, delivered in stages. We usually start with the purchase register, because an error there costs the most, and we can export entries to Tally so your accountant keeps working the way they already do.",
       ],
     },
     {
       id: "gidc-units-limbdi",
-      heading: "Website development company in Limbdi for GIDC units and workshops",
+      heading: "Website development team in Limbdi for GIDC units and workshops",
       paragraphs: [
         "A unit in the Limbdi GIDC estate needs a website that survives a buyer's background check: what you make, the machines you run, your GST and registration details, and whom to call. A good one takes one to two weeks and stays useful for years.",
         "GIDC runs industrial estates across Surendranagar district, including Limbdi, Sayla, Thangadh and Wadhwan. Estates of this size typically hold small manufacturers, fabrication and repair shops, packaging suppliers and traders who sell to larger plants in Surendranagar, Rajkot and Ahmedabad. Purchase managers in those cities shortlist vendors online before they pick up the phone, and a unit without a proper site simply does not make the list.",
-        "A <strong>website development company in Limbdi</strong> should build such a site on facts rather than adjectives. We include capability pages with real photographs, a machine list with sizes and tolerances where they apply, sectors served, quality and safety practice, a downloadable company profile and a quotation form that accepts drawings. English carries the weight here because buyers from other states read it, while a Gujarati page helps local contractors and labour suppliers.",
+        "A <strong>website development team in Limbdi</strong> should build such a site on facts rather than adjectives. We include capability pages with real photographs, a machine list with sizes and tolerances where they apply, sectors served, quality and safety practice, a downloadable company profile and a quotation form that accepts drawings. English carries the weight here because buyers from other states read it, while a Gujarati page helps local contractors and labour suppliers.",
         "We never place a customer's logo or name on your site without that customer's written permission. If you already have an old site that breaks on phones, we rebuild it on the same domain so you keep whatever search visibility it has earned.",
       ],
     },
@@ -138,7 +138,7 @@ const limbdi: CityContent = {
       heading: "Android app development in Limbdi, plus iOS apps for local firms",
       paragraphs: [
         "An app makes sense in Limbdi when the same people open it every week: field buyers booking cotton lots in villages, students checking notices, drivers reporting trips or patients collecting reports. For everyone else, a website and WhatsApp usually do the job.",
-        "As an <strong>app development company in Limbdi</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones alike. A first release normally includes OTP login on a mobile number, push notifications, the three or four screens your users need most, offline entry for fields with poor signal, and a web admin panel where office staff manage users and records.",
+        "As an <strong>app development team in Limbdi</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones alike. A first release normally includes OTP login on a mobile number, push notifications, the three or four screens your users need most, offline entry for fields with poor signal, and a web admin panel where office staff manage users and records.",
         "Ginning buyers show why this works. A field agent visiting Panshina or Bhalgamda logs the farmer's name, estimated quantity, quality remarks and quoted rate, adds a photo of the heap, and the office sees it at once. A coaching class can push test results and fee reminders as notifications instead of fifty separate WhatsApp messages.",
         "<strong>Android app development in Limbdi</strong> with us starts at ₹40,000. Payments, maps, offline sync and integrations raise the figure, and each sits on its own line in the quote. We publish on Google Play and the Apple App Store under developer accounts registered in your name. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only want your number, location and a price list, skip the app. A ₹10,000 website gives them that without an install, and we will say so before you spend four times as much.",
@@ -241,7 +241,7 @@ const limbdi: CityContent = {
         "A simple website for a Limbdi shop or clinic usually goes live within one to two weeks of receiving your photographs and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Sending content in the first few days is what keeps projects on schedule.",
     },
     {
-      question: "Which is the best IT company in Limbdi for a small business?",
+      question: "Which is the best IT services team in Limbdi for a small business?",
       answer:
         "The best choice in Limbdi is whoever publishes clear prices, registers the domain and code in your name, tests on ordinary phones and still answers a year after launch. Ask every option the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers before deciding is sensible.",
     },

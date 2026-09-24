@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Margao: ordering apps, estate software, AI agents, dashboards and cloud hosting for South Goa. Starting prices, UPI or bank payment.",
     keywords: [
-      "software development company in Margao",
-      "IT company in Margao",
+      "software development team in Margao",
+      "IT services team in Margao",
       "IT solutions Margao",
       "freelance software developer Madgaon",
       "custom software Margao",
@@ -208,9 +208,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-margao",
-      heading: "Freelance team vs a software development company in Margao: which should you hire?",
+      heading: "Freelance team vs a software development team in Margao: which should you hire?",
       paragraphs: [
-        "Hire a software development company in Margao if you need staff visiting your premises often or a large team on one project; hire a freelance group like BtechWaleTech if you want to deal directly with the engineers, pay lower overheads and keep full ownership of the code. Both can do good work, so compare them on the same questions.",
+        "Hire a software development team in Margao if you need staff visiting your premises often or a large team on one project; hire a freelance group like BtechWaleTech if you want to deal directly with the engineers, pay lower overheads and keep full ownership of the code. Both can do good work, so compare them on the same questions.",
         "Ask who will write the code, how often you will see working progress, whose name the domain, hosting and source repository are registered in, what happens after launch and how quickly problems are answered. Ask for a handover document sample and live examples. We are a freelance group of three independent engineers, described on our <a href='/about/'>about page</a>, with examples on our <a href='/portfolio/'>portfolio</a>. For other Goa markets, see the <a href='/it-services/goa/'>Goa hub</a> and the <a href='/it-services/goa/vasco-da-gama/'>Vasco-da-Gama</a> page.",
       ],
       list: [
@@ -246,7 +246,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company with an office in Margao?",
+      question: "Is BtechWaleTech a software team with an office in Margao?",
       answer:
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we have no office, branch or staff in Margao. We work with Madgaon clients through WhatsApp, phone and video calls, share preview links while building, and hand over everything at the end. Clients get direct access to the engineers writing their software.",
     },

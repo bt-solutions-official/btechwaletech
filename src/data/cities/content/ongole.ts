@@ -9,7 +9,7 @@ const ongole: CityContent = {
     description:
       "Websites, Telugu and English SEO, export catalogues and WhatsApp automation for Ongole granite, seafood, tobacco, hospital and college businesses. From ₹10,000.",
     keywords: [
-      "website development company in Ongole",
+      "website development team in Ongole",
       "web design Ongole",
       "website designer Ongole",
       "freelance web developer Ongole",
@@ -21,7 +21,7 @@ const ongole: CityContent = {
       "seafood exporter website Prakasam",
       "WhatsApp automation Ongole",
       "hospital website Ongole",
-      "software company Ongole",
+      "software team Ongole",
       "website maintenance Ongole",
       "Ongole lo website design",
       "ఒంగోలు వెబ్‌సైట్ డిజైన్",
@@ -273,7 +273,7 @@ const ongole: CityContent = {
     {
       question: "How long does SEO take in Ongole?",
       answer:
-        "Map visibility for nearby searches usually improves within six to ten weeks after your profile and site are set up properly. Broader terms such as “website development company in Ongole” or “best hospital in Ongole” take four to eight months of steady work. Nobody can honestly guarantee first position.",
+        "Map visibility for nearby searches usually improves within six to ten weeks after your profile and site are set up properly. Broader terms such as “website development team in Ongole” or “best hospital in Ongole” take four to eight months of steady work. Nobody can honestly guarantee first position.",
     },
     {
       question: "Do you work with businesses in Chirala, Kandukur, Markapur and Addanki?",

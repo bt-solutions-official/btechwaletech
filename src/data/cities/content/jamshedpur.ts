@@ -9,7 +9,7 @@ const jamshedpur: CityContent = {
     description:
       "Websites, SEO, vendor portals and WhatsApp automation for Jamshedpur ancillaries, Adityapur auto-parts units, Jugsalai traders, clinics and coaching.",
     keywords: [
-      "website development company in Jamshedpur",
+      "website development team in Jamshedpur",
       "web designer Jamshedpur",
       "website design Jamshedpur Jharkhand",
       "freelance web developer Jamshedpur",

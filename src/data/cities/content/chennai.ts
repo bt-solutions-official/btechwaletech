@@ -9,12 +9,12 @@ const chennai: CityContent = {
     description:
       "Websites, local SEO, online stores and AI automation for Chennai businesses. Sites from ₹10,000, SEO sites from ₹20,000, with five months of free maintenance.",
     keywords: [
-      "website development company in Chennai",
-      "web design company Chennai",
+      "website development team in Chennai",
+      "web design team Chennai",
       "website designer Chennai",
       "freelance web developer Chennai",
       "website cost in Chennai",
-      "SEO company in Chennai",
+      "SEO team in Chennai",
       "local SEO Chennai",
       "ecommerce website development Chennai",
       "web app development Chennai",
@@ -248,7 +248,7 @@ const chennai: CityContent = {
     {
       question: "How long before SEO shows results in Chennai?",
       answer:
-        "Neighbourhood searches on Google Maps often improve within six to ten weeks once the profile and website are in order. Broader, competitive phrases such as “web design company Chennai” usually take four to eight months of consistent work. Anyone promising a guaranteed first position is not being honest, and we will not make that promise.",
+        "Neighbourhood searches on Google Maps often improve within six to ten weeks once the profile and website are in order. Broader, competitive phrases such as “web design team Chennai” usually take four to eight months of consistent work. Anyone promising a guaranteed first position is not being honest, and we will not make that promise.",
     },
     {
       question: "Can my online store accept UPI and cards?",

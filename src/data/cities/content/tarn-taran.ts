@@ -10,12 +10,12 @@ const tarnTaran: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Tarn Taran arhtiyas, agri dealers, pilgrim services, clinics, schools and NRI families.",
     keywords: [
       "IT services in Tarn Taran",
-      "IT company in Tarn Taran",
-      "website development company in Tarn Taran",
+      "IT services team in Tarn Taran",
+      "website development team in Tarn Taran",
       "web design in Tarn Taran",
-      "app development company in Tarn Taran",
+      "app development team in Tarn Taran",
       "Android app development in Tarn Taran",
-      "software company in Tarn Taran",
+      "software team in Tarn Taran",
       "SEO services in Tarn Taran",
       "digital marketing in Tarn Taran",
       "ecommerce website in Tarn Taran",
@@ -75,10 +75,10 @@ const tarnTaran: CityContent = {
     },
     {
       id: "arhtiya-software-tarn-taran",
-      heading: "Software company in Tarn Taran for arhtiyas and grain market firms",
+      heading: "Software team in Tarn Taran for arhtiyas and grain market firms",
       paragraphs: [
         "A commission agent in the Tarn Taran grain market carries a year's worth of relationships in his books. Farmers take advances for seed and diesel, bring their wheat in April and paddy in October, and settle up after procurement payments arrive. Interest, deductions, labour charges and payment dates all have to be tracked, often for hundreds of farmer accounts.",
-        "As a <strong>software company in Tarn Taran</strong>, we build ledger software shaped around how arhtiyas actually work. Each farmer has an account showing advances, crop arrivals, sale details, deductions and payments. Reports show who is due what, and a farmer can receive a statement on WhatsApp instead of waiting for a visit to the shop.",
+        "As a <strong>software team in Tarn Taran</strong>, we build ledger software shaped around how arhtiyas actually work. Each farmer has an account showing advances, crop arrivals, sale details, deductions and payments. Reports show who is due what, and a farmer can receive a statement on WhatsApp instead of waiting for a visit to the shop.",
         "The software runs in a browser on a shop computer and on a phone, supports Punjabi names and village lists, and exports to Excel or Tally for your accountant. Access can be restricted so staff see only what they need.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We suggest building between seasons so it is tested well before the next harvest. Starting prices for all our work are on the <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -92,10 +92,10 @@ const tarnTaran: CityContent = {
     },
     {
       id: "agri-dealers-workshops",
-      heading: "Website development company in Tarn Taran for agri dealers and tractor workshops",
+      heading: "Website development team in Tarn Taran for agri dealers and tractor workshops",
       paragraphs: [
         "The roads into Tarn Taran are lined with seed and pesticide dealers, fertiliser shops, tractor agencies, implement makers, spare parts stores and repair workshops. Their customers come from villages across the district, and more farmers now search Google or YouTube before choosing a variety, a spray or a workshop.",
-        "As a <strong>website development company in Tarn Taran</strong>, we build clear sites for these businesses. A dealer's site lists the brands and product categories it stocks, seasonal availability and a WhatsApp button for rates. A workshop's site lists services, the tractor makes it handles, timings and a booking request. Everything is in Punjabi, with English where it helps.",
+        "As a <strong>website development team in Tarn Taran</strong>, we build clear sites for these businesses. A dealer's site lists the brands and product categories it stocks, seasonal availability and a WhatsApp button for rates. A workshop's site lists services, the tractor makes it handles, timings and a booking request. Everything is in Punjabi, with English where it helps.",
         "For businesses that handle many small sales, we can add simple billing and stock software, or a job card system for workshops that tracks each tractor from arrival to delivery with parts and labour.",
         "A static website starts at ₹10,000 and is usually ready in one to two weeks. Details of what is included are on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -122,20 +122,20 @@ const tarnTaran: CityContent = {
     },
     {
       id: "goindwal-industry",
-      heading: "IT company in Tarn Taran for Goindwal Sahib industries and district suppliers",
+      heading: "IT services team in Tarn Taran for Goindwal Sahib industries and district suppliers",
       paragraphs: [
         "Goindwal Sahib, in the district's east near the Beas, was chosen in 1980 as the site of an industrial complex and later became an industrial focal point. It is also home to the Goindwal Sahib thermal power plant. Elsewhere in the district are a cooperative sugar mill, a distillery, spinning units and many small engineering and agro-processing workshops.",
-        "For these firms, an <strong>IT company in Tarn Taran</strong> is most useful for three things: a capability website that shows buyers and larger companies what the unit can make, a quote request form that collects proper specifications, and simple software for orders, stock and dispatch.",
+        "For these firms, an <strong>IT services team in Tarn Taran</strong> is most useful for three things: a capability website that shows buyers and larger companies what the unit can make, a quote request form that collects proper specifications, and simple software for orders, stock and dispatch.",
         "We write capability pages from your real equipment lists, certifications and product photographs, and we do not invent clients or capacity figures. Buyers checking suppliers want facts they can verify.",
         "Contractors, transporters and service providers who supply the power plant and mills benefit from the same approach: a clear site, a listing on Google Maps and a quick way to request a quote.",
       ],
     },
     {
       id: "android-ios-apps-tarn-taran",
-      heading: "App development company in Tarn Taran: Android and iOS apps for local businesses",
+      heading: "App development team in Tarn Taran: Android and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building when the same people use it again and again. In Tarn Taran that might be farmers checking their arhtiya accounts and payment status, parents receiving attendance, homework and fee notices from a school, students of a coaching centre getting mock test results, or regular customers of a dealer reordering inputs before the season.",
-        "As an <strong>app development company in Tarn Taran</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. Punjabi text in Gurmukhi is fully supported.",
+        "As an <strong>app development team in Tarn Taran</strong> working remotely, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. Punjabi text in Gurmukhi is fully supported.",
         "<strong>Android app development in Tarn Taran</strong> with us starts at ₹40,000. Online payment, offline mode for fields with poor signal, multiple user roles and links to your software add to the cost, and each is listed in the quote. We publish on Google Play and the Apple App Store under developer accounts in your name. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a phone number, a website does that job for a fraction of the cost, and we will say so. An app that is installed once and never opened is wasted money.",
       ],
@@ -237,7 +237,7 @@ const tarnTaran: CityContent = {
         "A simple website usually takes one to two weeks once we have your photographs and details. A large SEO website takes three to five weeks, an online store four to eight weeks and arhtiya or custom software six to twelve weeks. Content delays are the most common cause of slippage, so we send a checklist first.",
     },
     {
-      question: "Which is the best website development company in Tarn Taran?",
+      question: "Which is the best website development team in Tarn Taran?",
       answer:
         "Choose a provider who gives an itemised written quote, registers the domain and code in your name, shows real past work and explains maintenance costs. We will not claim to be the best, but we meet all of those tests and are glad to be compared with local developers on them.",
     },

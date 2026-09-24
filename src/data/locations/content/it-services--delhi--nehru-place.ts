@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers for Nehru Place",
     description:
-      "Freelance developers for Nehru Place IT resellers, compared with a software development company: quotation systems, B2B catalogues, AMC and serial tracking, AI.",
+      "Freelance developers for Nehru Place IT resellers, compared with a software development team: quotation systems, B2B catalogues, AMC and serial tracking, AI.",
     keywords: [
-      "software development company in Nehru Place",
-      "IT company in Nehru Place",
+      "software development team in Nehru Place",
+      "IT services team in Nehru Place",
       "IT solutions Nehru Place",
       "freelance software developers Nehru Place",
       "quotation software for IT resellers Delhi",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Nehru Place · South East Delhi · Kalkaji to Okhla",
     h1: "Freelance software developers for Nehru Place resellers, distributors and system integrators",
     lede:
-      "Nehru Place is where Delhi buys laptops, printers, networking gear, CCTV and software licences, and the businesses behind those counters run on quotations, serial numbers and fast-changing price lists. If you were about to hire a software development company in Nehru Place, consider BtechWaleTech: a freelance group of three remote engineers who build quotation systems, B2B catalogues, serial and warranty tracking, AMC software, technician apps and AI price-list automation.",
+      "Nehru Place is where Delhi buys laptops, printers, networking gear, CCTV and software licences, and the businesses behind those counters run on quotations, serial numbers and fast-changing price lists. If you were about to hire a software development team in Nehru Place, consider BtechWaleTech: a freelance group of three remote engineers who build quotation systems, B2B catalogues, serial and warranty tracking, AMC software, technician apps and AI price-list automation.",
     pills: ["Quotation systems from ₹60,000", "AI price-list automation from ₹40,000", "Android and iOS apps from ₹40,000", "B2B catalogue sites from ₹10,000", "Tally-friendly"],
   },
   quickAnswer:
-    "Instead of a software development company in Nehru Place, BtechWaleTech is a freelance group of three remote engineers. Quotation, inventory and AMC software starts at ₹60,000 (six to twelve weeks), AI quote and price-list automation and Android and iOS apps at ₹40,000, B2B stores at ₹50,000 and catalogue websites at ₹10,000. We have no Nehru Place office; itemised quotes take about two working days.",
+    "Instead of a software development team in Nehru Place, BtechWaleTech is a freelance group of three remote engineers. Quotation, inventory and AMC software starts at ₹60,000 (six to twelve weeks), AI quote and price-list automation and Android and iOS apps at ₹40,000, B2B stores at ₹50,000 and catalogue websites at ₹10,000. We have no Nehru Place office; itemised quotes take about two working days.",
   snapshot: [
     { label: "What Nehru Place is", value: "One of India's best-known IT hardware and electronics trading hubs, a large commercial complex in South East Delhi" },
     { label: "What is traded", value: "Laptops, desktops, components, printers and cartridges, networking and CCTV equipment, software licences, accessories and repairs" },
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "nehru-place-software",
-      heading: "What should a software development company in Nehru Place build for IT traders?",
+      heading: "What should a software development team in Nehru Place build for IT traders?",
       paragraphs: [
-        "A software development company in Nehru Place should build tools that match how IT trade actually works: quotations prepared in minutes, stock tracked by serial number, warranties and returns followed up with vendors, AMC contracts renewed on time and catalogues that reflect prices changing by the day. Brochure websites alone do not solve those problems.",
+        "A software development team in Nehru Place should build tools that match how IT trade actually works: quotations prepared in minutes, stock tracked by serial number, warranties and returns followed up with vendors, AMC contracts renewed on time and catalogues that reflect prices changing by the day. Brochure websites alone do not solve those problems.",
         "Nehru Place businesses handle a huge variety of SKUs from many brands, with margins that depend on buying at the right time and quoting accurately. A typical reseller answers dozens of WhatsApp requests a day asking for the best price on a particular laptop configuration, printer or networking switch. A system integrator juggles installations, AMC visits and warranty claims across dozens of client sites. A repair shop tracks devices coming in and going out. Most of this still lives in Excel, Tally and memory.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Nehru Place. We build <a href=\"/services/\">custom software, Android and iOS apps, AI automation, dashboards, B2B stores and websites</a> for these businesses, and we hand over the code, data and accounts in your name.",
       ],
@@ -179,16 +179,16 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-nehru-place",
-      heading: "Freelance developers or a software development company in Nehru Place?",
+      heading: "Freelance developers or a software development team in Nehru Place?",
       paragraphs: [
-        "Choose a software development company in Nehru Place when you need a large team or someone at your counter every week; choose a freelance group like BtechWaleTech when you want custom software built around your trade, direct contact with engineers, lower starting prices and full ownership. The complex itself hosts many software vendors, many of whom sell packaged billing or ERP products.",
+        "Choose a software development team in Nehru Place when you need a large team or someone at your counter every week; choose a freelance group like BtechWaleTech when you want custom software built around your trade, direct contact with engineers, lower starting prices and full ownership. The complex itself hosts many software vendors, many of whom sell packaged billing or ERP products.",
         "Packaged software is quick to start but often forces IT traders into generic retail workflows that ignore serial numbers, dealer tiers, RMA or AMC. Custom software fits, but only if the developer understands the trade. Ask any vendor to demonstrate quote creation, serial tracking and a warranty return; that reveals fit in ten minutes.",
-        "We are three engineers, not a company or agency, working remotely. Read more <a href=\"/about/\">about us</a>, see the <a href=\"/portfolio/\">portfolio</a> or browse the wider <a href=\"/it-services/delhi/\">Delhi IT services hub</a>.",
+        "We are three freelance engineers working remotely. Read more <a href=\"/about/\">about us</a>, see the <a href=\"/portfolio/\">portfolio</a> or browse the wider <a href=\"/it-services/delhi/\">Delhi IT services hub</a>.",
       ],
     },
     {
       id: "cost-timeline-nehru-place",
-      heading: "What does a software development company in Nehru Place charge, and how long does it take?",
+      heading: "What does a software development team in Nehru Place charge, and how long does it take?",
       paragraphs: [
         "With BtechWaleTech, Nehru Place projects start at ₹10,000 for a catalogue website (one to two weeks), ₹20,000 for a 700+ page SEO catalogue (three to five weeks), ₹40,000 for AI price-list or quote automation (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a B2B store or dealer portal (four to eight weeks) and ₹60,000 for quotation, inventory or AMC software (six to twelve weeks).",
         "Cost depends on SKU volume, user roles, integrations with Tally or distributor feeds, and data migration. Quotes are itemised so you can start with the module that saves the most time. Payment is in INR only, via UPI using our QR code or by direct bank transfer to our bank account, split into milestones.",

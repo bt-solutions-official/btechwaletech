@@ -9,7 +9,7 @@ const katihar: CityContent = {
     description:
       "Websites, Google Maps setup, online stores and WhatsApp bots for Katihar's makhana processors, maize traders, clinics, coaching centres and shops. Written quotes.",
     keywords: [
-      "website development company in Katihar",
+      "website development team in Katihar",
       "web designer Katihar",
       "website design Katihar Bihar",
       "makhana business website",

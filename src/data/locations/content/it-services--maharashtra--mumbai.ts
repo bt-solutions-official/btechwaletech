@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Mumbai for custom software, Android and iOS apps, AI agents, CRMs and dashboards. Apps from ₹40,000, itemised quote in 2 days.",
     keywords: [
-      "software development company in Mumbai",
-      "IT company in Mumbai",
+      "software development team in Mumbai",
+      "IT services team in Mumbai",
       "IT solutions Mumbai",
       "freelance software developer Mumbai",
       "custom software development Mumbai",
@@ -34,11 +34,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Mumbai, Maharashtra",
     h1: "Freelance software developers in Mumbai for CRMs, Android and iOS apps and AI agents",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India. Mumbai brokers, importers, freight forwarders, real estate firms, production houses, housing societies and D2C brands hire us instead of a software development company in Mumbai to build CRMs, shipment trackers, Android and iOS apps, AI agents and dashboards, with cloud hosting and SEO handled.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India. Mumbai brokers, importers, freight forwarders, real estate firms, production houses, housing societies and D2C brands hire us instead of a software development team in Mumbai to build CRMs, shipment trackers, Android and iOS apps, AI agents and dashboards, with cloud hosting and SEO handled.",
     pills: ["Custom software from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "No Mumbai overheads in quotes", "5 months free maintenance"],
   },
   quickAnswer:
-    "Comparing a software development company in Mumbai with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance.",
+    "Comparing a software development team in Mumbai with freelancers? BtechWaleTech is a freelance group of three remote engineers. Custom software starts at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 (2 to 4 weeks) and websites at ₹10,000. Itemised quotes arrive in about two working days, with five months of free maintenance.",
   snapshot: [
     { label: "Financial institutions", value: "RBI, BSE and NSE headquarters, with banks, insurers, brokers and NBFCs clustered around Fort, Nariman Point and BKC" },
     { label: "Tech and office belts", value: "SEEPZ and MIDC in Andheri East, Powai's Hiranandani Business Park, Mindspace in Malad, and Lower Parel's mill-land offices" },
@@ -67,7 +67,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-mumbai",
-      heading: "Should you hire freelance developers or a software development company in Mumbai?",
+      heading: "Should you hire freelance developers or a software development team in Mumbai?",
       paragraphs: [
         "Hire a freelance group when you want a focused system built quickly by engineers you speak to directly, at a cost that does not include Mumbai office overheads; hire a larger software development company in Mumbai when you need dozens of developers, formal vendor audits, on-site teams or 24x7 support contracts. Many Mumbai SMEs, startups and professional firms are better served by the first option.",
         "Mumbai has thousands of software and IT firms, from global consultancies with offices in BKC and Powai to small studios in Andheri and Thane. Directory rankings show wide price bands, and agency quotes for a mobile app regularly run into several lakhs. Much of that cost pays for real estate, sales and management layers rather than engineering.",
@@ -258,9 +258,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company in Mumbai?",
+      question: "Are you a software development team in Mumbai?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Mumbai. Mumbai clients work with us over video calls, WhatsApp and phone, and deal directly with the engineers who build their software. That is also why our quotes carry no Mumbai office costs.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Mumbai. Mumbai clients work with us over video calls, WhatsApp and phone, and deal directly with the engineers who build their software. That is also why our quotes carry no Mumbai office costs.",
     },
     {
       question: "How do Mumbai clients pay?",

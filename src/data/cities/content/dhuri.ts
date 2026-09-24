@@ -10,12 +10,12 @@ const dhuri: CityContent = {
       "Punjabi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Dhuri arhtiyas, implement makers, shops, clinics and colleges.",
     keywords: [
       "IT services in Dhuri",
-      "IT company in Dhuri",
-      "website development company in Dhuri",
+      "IT services team in Dhuri",
+      "website development team in Dhuri",
       "web design in Dhuri",
-      "app development company in Dhuri",
+      "app development team in Dhuri",
       "Android app development in Dhuri",
-      "software company in Dhuri",
+      "software team in Dhuri",
       "SEO services in Dhuri",
       "digital marketing in Dhuri",
       "ecommerce website in Dhuri",
@@ -75,20 +75,20 @@ const dhuri: CityContent = {
     },
     {
       id: "arhtiya-mandi-software",
-      heading: "Software company in Dhuri for arhtiyas and grain market traders",
+      heading: "Software team in Dhuri for arhtiyas and grain market traders",
       paragraphs: [
         "Like every Malwa market town, Dhuri's year turns on two harvests. Wheat arrives in April and paddy in October, and the grain market fills with trolleys, labour, weighing, cleaning and bagging. Commission agents, or arhtiyas, sit at the centre of it, handling arrivals for their farmers, dealing with procurement agencies and private buyers, and keeping accounts that run for years.",
         "Those accounts are the hard part. An arhtiya tracks each farmer's arrivals, quantities and dates, payments received from buyers, advances given for seed, diesel or a family wedding, and the balance carried forward. Most still keep this in thick registers, and one lost page can start a dispute.",
-        "As a <strong>software company in Dhuri</strong>, we build ledgers for this work. Arrivals are entered from a phone with farmer, crop, quantity and date. Advances and payments post to the same account, and each farmer's running balance is one tap away. A monthly or seasonal statement can be sent to the farmer on WhatsApp in Punjabi. Such tools start at ₹60,000 and are built over six to twelve weeks, ideally between seasons so staff are not learning new screens in the middle of paddy arrivals.",
+        "As a <strong>software team in Dhuri</strong>, we build ledgers for this work. Arrivals are entered from a phone with farmer, crop, quantity and date. Advances and payments post to the same account, and each farmer's running balance is one tap away. A monthly or seasonal statement can be sent to the farmer on WhatsApp in Punjabi. Such tools start at ₹60,000 and are built over six to twelve weeks, ideally between seasons so staff are not learning new screens in the middle of paddy arrivals.",
         "We do not connect to government procurement portals without your written go-ahead and proper credentials, and we keep your records on hosting you control.",
       ],
     },
     {
       id: "implements-steel-furniture",
-      heading: "Website development company in Dhuri for implement makers and steel furniture units",
+      heading: "Website development team in Dhuri for implement makers and steel furniture units",
       paragraphs: [
         "Dhuri has a cluster of small units that fabricate agricultural implements and make steel furniture. Trolleys, cultivators, seed drills, straw handling equipment and spare parts leave these workshops for farmers across Sangrur, Barnala and beyond, while steel almirahs, racks, beds and school furniture go to homes and institutions.",
-        "These units mostly sell through dealers and word of mouth, and many have never had a website. A <strong>website development company in Dhuri</strong> should keep things practical: a page for each model with clear photographs, size and capacity, the tractor horsepower it suits, steel gauge or material, finishing options and a price range if you are comfortable publishing one. A dealer enquiry form and a WhatsApp button do the rest.",
+        "These units mostly sell through dealers and word of mouth, and many have never had a website. A <strong>website development team in Dhuri</strong> should keep things practical: a page for each model with clear photographs, size and capacity, the tractor horsepower it suits, steel gauge or material, finishing options and a price range if you are comfortable publishing one. A dealer enquiry form and a WhatsApp button do the rest.",
         "Steel furniture makers selling to schools, hostels and offices benefit from a catalogue with dimensions and bulk order details. A workshop that makes to order can add a simple quote form that asks for quantity, size and delivery village.",
         "We never publish certifications, subsidy eligibility or dealer names unless you can show us the paperwork. A static catalogue site starts at ₹10,000.",
       ],
@@ -128,7 +128,7 @@ const dhuri: CityContent = {
       heading: "Android app development in Dhuri, and iOS apps for Malwa businesses",
       paragraphs: [
         "An app is worth the money only when the same people open it regularly. Around Dhuri that could be an arhtiya's farmers checking their account and payments, a workshop's dealers ordering spares, an IELTS centre's students seeing class schedules and mock test scores, a school's parents getting notices, or a hospital's patients booking tokens.",
-        "As an <strong>app development company in Dhuri</strong> that works remotely, we build in Flutter or React Native, which means a single codebase for both Android phones and iPhones. A first release usually covers OTP login, push notifications, the handful of screens users need, Punjabi labels where they help and an admin panel for your staff. Publishing happens on Google Play and the Apple App Store, under developer accounts that belong to you.",
+        "As an <strong>app development team in Dhuri</strong> that works remotely, we build in Flutter or React Native, which means a single codebase for both Android phones and iPhones. A first release usually covers OTP login, push notifications, the handful of screens users need, Punjabi labels where they help and an admin panel for your staff. Publishing happens on Google Play and the Apple App Store, under developer accounts that belong to you.",
         "<strong>Android app development in Dhuri</strong> with us begins at ₹40,000. The quote goes up for online payments, offline entry during mandi rush, maps and links to billing software, each shown as a separate item. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and rates, a website is cheaper and just as useful. We would rather tell you that than build an app that sits unopened.",
       ],
@@ -162,9 +162,9 @@ const dhuri: CityContent = {
     },
     {
       id: "remote-team-dhuri",
-      heading: "Working with a remote IT company in Dhuri, without an office visit",
+      heading: "Working with a remote IT services team in Dhuri, without an office visit",
       paragraphs: [
-        "If you are searching for an <strong>IT company in Dhuri</strong> with a counter you can walk up to, that is not us, and it is better you know it now. We are three engineers working remotely with no office anywhere. In place of meetings you get a clear record: after an opening call about your business, a written outline of pages or screens, the dates and a price for every item.",
+        "If you are searching for an <strong>IT services team in Dhuri</strong> with a counter you can walk up to, that is not us, and it is better you know it now. We are three engineers working remotely with no office anywhere. In place of meetings you get a clear record: after an opening call about your business, a written outline of pages or screens, the dates and a price for every item.",
         "Work starts only after you approve that outline, and no bill comes before approval. While we build, you receive preview links that open on any phone, so a son in Canada or a partner in Ludhiana can check the work as easily as you. Punjabi text is always shown to you before it goes live.",
         "WhatsApp is our main line and we reply seven days a week on Indian time. If anything slips, you hear that day, with a new date. Payments are tied to stages you can see working.",
       ],
@@ -229,7 +229,7 @@ const dhuri: CityContent = {
         "A straightforward shop or clinic site usually goes live within a fortnight of us getting your photos and details. A 700+ page SEO build takes three to five weeks, a store four to eight and custom software six to twelve. Arhtiya software is best started between harvests so your staff can learn it without pressure.",
     },
     {
-      question: "Who is the best website development company in Dhuri?",
+      question: "Who is the best website development team in Dhuri?",
       answer:
         "The right choice publishes its prices, puts your domain and code in your name, answers after launch and can show real work. Put the same questions to every option you consider. We meet those tests and reply on WhatsApp daily, but it is fair and sensible to compare two or three providers first.",
     },

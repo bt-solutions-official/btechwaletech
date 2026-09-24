@@ -9,7 +9,7 @@ const amravati: CityContent = {
     description:
       "Websites, SEO, online stores and WhatsApp automation for Amravati textile units, cotton traders, clinics and coaching classes. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Amravati",
+      "website development team in Amravati",
       "web designer Amravati",
       "website design Amravati Maharashtra",
       "freelance web developer Amravati",

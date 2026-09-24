@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT solutions across Maharashtra: custom software, Android and iOS apps, AI automation and Marathi SEO for Mumbai, Pune, Nagpur, Nashik and MIDC units.",
     keywords: [
-      "IT solutions company in Maharashtra",
+      "IT solutions team in Maharashtra",
       "freelance IT services Maharashtra",
       "IT consulting Maharashtra",
       "digital transformation Maharashtra MSME",
@@ -87,9 +87,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-it-team-vs-it-company-maharashtra",
-      heading: "Freelance IT team or an IT solutions company in Maharashtra: how to decide",
+      heading: "Freelance IT team or an IT solutions team in Maharashtra: how to decide",
       paragraphs: [
-        "A freelance IT team is often the better choice for Maharashtra MSMEs that want direct contact, moderate cost and one group handling several services, while an IT solutions company suits large enterprises with big teams, tenders and on-site needs. If you are comparing IT companies in Maharashtra, focus on who builds and supports your system, not on office size.",
+        "A freelance IT team is often the better choice for Maharashtra MSMEs that want direct contact, moderate cost and one group handling several services, while an IT solutions team suits large enterprises with big teams, tenders and on-site needs. If you are comparing IT companies in Maharashtra, focus on who builds and supports your system, not on office size.",
         "Larger firms bring process and scale, but small clients can end up with junior staff and slow response. Single freelancers can be excellent but risky if they become unavailable. Our three-person freelance group sits between: shared knowledge of every project, written documentation and direct contact.",
         "We are honest about limits. We do not provide on-site hardware support, network installation or large enterprise programmes. For software, apps, automation and websites, designed well and maintained properly, we are a strong option anywhere in the state.",
       ],

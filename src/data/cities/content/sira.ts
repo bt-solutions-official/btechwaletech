@@ -10,12 +10,12 @@ const sira: CityContent = {
       "Kannada and Urdu-friendly websites, Android and iOS apps, local SEO and WhatsApp automation for Sira groundnut traders, NH48 businesses, suppliers and clinics.",
     keywords: [
       "IT services in Sira",
-      "IT company in Sira",
-      "website development company in Sira",
+      "IT services team in Sira",
+      "website development team in Sira",
       "web design in Sira",
-      "app development company in Sira",
+      "app development team in Sira",
       "Android app development in Sira",
-      "software company in Sira",
+      "software team in Sira",
       "SEO services in Sira",
       "digital marketing in Sira",
       "ecommerce website in Sira",
@@ -75,20 +75,20 @@ const sira: CityContent = {
     },
     {
       id: "groundnut-ragi-traders",
-      heading: "Software company in Sira for groundnut, ragi and pulse traders",
+      heading: "Software team in Sira for groundnut, ragi and pulse traders",
       paragraphs: [
         "Sira taluk is semi-arid and farms mainly with the rain. Ragi, groundnut and pulses are the chief crops, and after each harvest the produce moves through traders, commission agents, processors and dealers in town. Groundnut in particular passes through several hands, from the farmer to decorticating and oil units to wholesale buyers further away.",
         "Records rarely keep pace. A trader has to remember each farmer's bags and weight, moisture and quality notes, the rate, deductions, advance paid, truck details, buyer and payment date. In a good year the volume overwhelms a notebook; in a poor year every rupee of dues matters even more.",
-        "As a practical <strong>software company in Sira</strong>, we build web tools for this that work on a phone or a counter laptop. Each purchase is entered once with farmer, village, crop, bags, weight and rate. Stock is tracked by lot, sales are linked to purchases, and a dues screen shows who owes what. Farmers and buyers can receive a statement as a PDF on WhatsApp.",
+        "As a practical <strong>software team in Sira</strong>, we build web tools for this that work on a phone or a counter laptop. Each purchase is entered once with farmer, village, crop, bags, weight and rate. Stock is tracked by lot, sales are linked to purchases, and a dues screen shows who owes what. Farmers and buyers can receive a statement as a PDF on WhatsApp.",
         "These tools start at ₹60,000 and are built in phases over six to twelve weeks. We usually start with the purchase register because it prevents the most arguments, then add sales, stock and statements when your staff are comfortable.",
       ],
     },
     {
       id: "sira-industrial-area-suppliers",
-      heading: "Website development company in Sira for industrial suppliers along NH48",
+      heading: "Website development team in Sira for industrial suppliers along NH48",
       paragraphs: [
         "KIADB has acquired roughly 815 acres near Sira for the Sira Industrial Area along NH48, planned for manufacturing and logistics as part of the Chennai–Bengaluru industrial corridor. Tumakuru district already has many established industrial units closer to the city. Whatever pace the new area develops at, factories need local suppliers: fabricators, electrical and civil contractors, transporters, packaging suppliers, canteens, security agencies and manpower firms.",
-        "Purchase departments check suppliers online before they call. A <strong>website development company in Sira</strong> should build such sites to pass that check: services and capabilities, machines and equipment, sectors served, safety practices, GST and registration details, named contacts and a quote request form that accepts drawings. It should look professional on a desktop in a purchase office, not just on a phone.",
+        "Purchase departments check suppliers online before they call. A <strong>website development team in Sira</strong> should build such sites to pass that check: services and capabilities, machines and equipment, sectors served, safety practices, GST and registration details, named contacts and a quote request form that accepts drawings. It should look professional on a desktop in a purchase office, not just on a phone.",
         "We never list a client or brand on your site unless you have that client's written permission. A capability website starts at ₹10,000, and a quote-tracking or job-status portal for repeat customers can be added later as custom software.",
       ],
     },
@@ -133,7 +133,7 @@ const sira: CityContent = {
       heading: "Android app development in Sira and iOS apps for regular users",
       paragraphs: [
         "An app is only worth building if a known group of people will open it often. In Sira, the good cases are dealers taking daily orders from village shops across a very large taluk, schools sending homework, bus timings and fee reminders to parents, transport owners tracking trips and driver expenses along NH48, and hospitals issuing tokens so patients can wait at home.",
-        "As an <strong>app development company in Sira</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. The first version usually includes mobile number login, push notifications, the screens your users need most and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts in your name.",
+        "As an <strong>app development team in Sira</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. The first version usually includes mobile number login, push notifications, the screens your users need most and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts in your name.",
         "<strong>Android app development in Sira</strong> with us starts at ₹40,000. Payments, offline mode for villages with weak signal, GPS tracking and links to other software add cost, and each is quoted on its own line. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "When people only need your phone number, location and a rate list, a website does the job for far less and needs no download. We will recommend that instead whenever it fits.",
       ],
@@ -168,9 +168,9 @@ const sira: CityContent = {
     },
     {
       id: "remote-team-sira",
-      heading: "IT company in Sira without a local office: how we work",
+      heading: "IT services team in Sira without a local office: how we work",
       paragraphs: [
-        "If you search for an <strong>IT company in Sira</strong>, you should know that we are three engineers working remotely, not a shop on the main road. What we offer in place of an office is a clear paper trail. After a first call about your business, you get a written outline of pages or app screens, delivery dates and the price of each item.",
+        "If you search for an <strong>IT services team in Sira</strong>, you should know that we are three engineers working remotely, not a shop on the main road. What we offer in place of an office is a clear paper trail. After a first call about your business, you get a written outline of pages or app screens, delivery dates and the price of each item.",
         "Work begins only when you approve the outline, and billing begins no earlier. During the build, preview links arrive on WhatsApp that you can open on any phone and show to your partners or family. Kannada and Urdu text is sent to you for checking first, because a mistake in a fee notice or a shop timing reflects on you.",
         "WhatsApp is answered on all seven days, Indian time. If a date slips, you hear it the day we know, along with the new date. Payments are linked to milestones you have already seen working.",
       ],
@@ -226,7 +226,7 @@ const sira: CityContent = {
         "A simple business site usually goes live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Sending your content in the first few days is what keeps projects on schedule.",
     },
     {
-      question: "Which is the best website development company in Sira?",
+      question: "Which is the best website development team in Sira?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, stays available after launch and shows real work. Ask each option identical questions and compare. We meet those tests and reply on WhatsApp every day, but getting two or three quotes before you decide is sensible.",
     },

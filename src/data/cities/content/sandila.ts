@@ -10,12 +10,12 @@ const sandila: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Sandila laddoo makers, industrial area suppliers, zardozi artisans, clinics, schools and shops.",
     keywords: [
       "IT services in Sandila",
-      "IT company in Sandila",
-      "website development company in Sandila",
+      "IT services team in Sandila",
+      "website development team in Sandila",
       "web design in Sandila",
-      "app development company in Sandila",
+      "app development team in Sandila",
       "Android app development in Sandila",
-      "software company in Sandila",
+      "software team in Sandila",
       "SEO services in Sandila",
       "digital marketing in Sandila",
       "ecommerce website in Sandila",
@@ -69,7 +69,7 @@ const sandila: CityContent = {
       paragraphs: [
         "For most travellers between Lucknow and Hardoi, Sandila meant one thing: the laddoos sold on the platform and in the shops near the station. That reputation still holds, and the town's sweet makers send boxes to relatives and customers across Uttar Pradesh and further. Over the past several years, though, a second identity has grown alongside it. The industrial area developed by UPSIDA now hosts beverage, paint, food and plywood plants, and a chain of smaller businesses has formed around them.",
         "The town also remains the service centre for a large rural area of Hardoi district. Families from surrounding villages come here for hospitals, schools, coaching, clothes, jewellery, farm inputs and government work. Many now check their phones first for timings, prices, availability and directions.",
-        "Our <strong>IT services in Sandila</strong> are shaped by those needs: websites and online stores for sweet shops, capability sites for industrial suppliers, registers and apps for contractors, Maps listings for clinics and shops, and WhatsApp automation for anyone swamped by repeat questions. We call ourselves an <strong>IT company in Sandila</strong> because we serve the town, but we are three engineers working remotely, and we explain exactly how that works further down.",
+        "Our <strong>IT services in Sandila</strong> are shaped by those needs: websites and online stores for sweet shops, capability sites for industrial suppliers, registers and apps for contractors, Maps listings for clinics and shops, and WhatsApp automation for anyone swamped by repeat questions. We call ourselves an <strong>IT services team in Sandila</strong> because we serve the town, but we are three engineers working remotely, and we explain exactly how that works further down.",
         "Without an office or sales staff to pay for, our starting prices stay low, and you always speak directly with the engineers building your project.",
       ],
     },
@@ -85,20 +85,20 @@ const sandila: CityContent = {
     },
     {
       id: "industrial-area-suppliers",
-      heading: "Website development company in Sandila for industrial area suppliers and vendors",
+      heading: "Website development team in Sandila for industrial area suppliers and vendors",
       paragraphs: [
         "The large plants in the Sandila industrial area depend on many smaller local firms: electrical and civil contractors, fabrication and machine shops, packaging suppliers, transporters, manpower agencies, security services, canteen operators, housekeeping and cleaning contractors, and hardware and safety equipment sellers. Plant purchase teams increasingly check a vendor online before calling.",
-        "A <strong>website development company in Sandila</strong> should build these sites around facts a purchase officer can verify. List the services you actually provide, your workshop and equipment, the size of your team, safety practices and certifications, registration and GST details, the areas you serve, and named contacts with direct phone numbers and email addresses. Real photographs of your yard, workshop and crew in safety gear carry more weight than stock images.",
+        "A <strong>website development team in Sandila</strong> should build these sites around facts a purchase officer can verify. List the services you actually provide, your workshop and equipment, the size of your team, safety practices and certifications, registration and GST details, the areas you serve, and named contacts with direct phone numbers and email addresses. Real photographs of your yard, workshop and crew in safety gear carry more weight than stock images.",
         "We never name a plant or company as your client unless you have their written permission. Instead we describe the types of jobs you handle and the scale you can take on. For vendors who receive drawings or specifications, a quote request form with file upload saves time for both sides.",
         "A static vendor website starts at ₹10,000 and is usually ready in one to two weeks. Firms that want a separate page for each service, and for other industrial areas they serve around Lucknow and Unnao, can move to our SEO website plan from ₹20,000.",
       ],
     },
     {
       id: "contractor-software-sandila",
-      heading: "Software company in Sandila for contractors, transporters and job-work units",
+      heading: "Software team in Sandila for contractors, transporters and job-work units",
       paragraphs: [
         "Contractors and service firms working for industrial plants deal with daily detail: attendance across shifts and sites, wage calculations, gate passes and training records, material issue and return, job orders and running bills, and transport trips with freight and diesel. Much of this is still kept in registers and spreadsheets, and small errors become payment delays or disputes.",
-        "As a <strong>software company in Sandila</strong>, we build web applications that put these records in one place. Workers are registered once with documents and training dates. Supervisors mark attendance from a phone. The system prepares wage sheets, tracks advances and warns before passes or certificates lapse. Job orders connect to measurements, bills and payments, so you can see which jobs pay and which bills are overdue.",
+        "As a <strong>software team in Sandila</strong>, we build web applications that put these records in one place. Workers are registered once with documents and training dates. Supervisors mark attendance from a phone. The system prepares wage sheets, tracks advances and warns before passes or certificates lapse. Job orders connect to measurements, bills and payments, so you can see which jobs pay and which bills are overdue.",
         "Transporters get a trip register with vehicle, route, freight, diesel, tolls and advances, and reminders for permits, fitness and insurance. Small job-work units get order tracking with material received, work done, dispatch and billing per customer.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks, built in stages so that the most pressing part, often attendance or trip records, is in use first. The screens are in Hindi where your staff prefer it, and the software gives your accountant clean data rather than replacing them.",
       ],
@@ -128,7 +128,7 @@ const sandila: CityContent = {
       heading: "Android app development in Sandila, with iPhone versions included",
       paragraphs: [
         "An app is worth building when a known group of people will use it often. In Sandila that might be a sweet shop's regular customers in other cities reordering boxes before each festival, a school's parents receiving homework, notices and fee reminders, a clinic's patients booking tokens and downloading reports, or a contractor's supervisors logging attendance and work at plant sites.",
-        "As an <strong>app development company in Sandila</strong> working remotely, we build in Flutter or React Native so one codebase runs on both Android phones and iPhones. A first version normally includes OTP login, push notifications, the key screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Sandila</strong> working remotely, we build in Flutter or React Native so one codebase runs on both Android phones and iPhones. A first version normally includes OTP login, push notifications, the key screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Sandila</strong> starts at ₹40,000. Online payment, offline data entry, GPS-tagged attendance, photo uploads and links to other software are quoted as separate items, so you choose what to include in the first version. There is more detail on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers mainly need your address, timings, phone number and a price list, a website does that at a quarter of the cost and with nothing to install. We will suggest the website in that case and keep the app for later, when repeat use is clear.",
       ],
@@ -235,7 +235,7 @@ const sandila: CityContent = {
         "A simple static site usually goes live one to two weeks after we receive your details and photos. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending content early is the surest way to finish on time.",
     },
     {
-      question: "Who is the best website development company in Sandila?",
+      question: "Who is the best website development team in Sandila?",
       answer:
         "Choose a provider that shows prices openly, registers your domain and code in your name, stays available after launch and can show genuine work. Ask each option the same questions and compare written replies. We meet those standards and answer WhatsApp every day, but comparing two or three providers is always wise.",
     },

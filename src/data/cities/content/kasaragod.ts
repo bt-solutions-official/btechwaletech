@@ -10,12 +10,12 @@ const kasaragod: CityContent = {
       "Malayalam, Kannada and English websites, Android and iOS apps, local SEO and WhatsApp automation for Kasaragod traders, Bekal resorts, weavers, clinics and colleges.",
     keywords: [
       "IT services in Kasaragod",
-      "IT company in Kasaragod",
-      "website development company in Kasaragod",
+      "IT services team in Kasaragod",
+      "website development team in Kasaragod",
       "web design in Kasaragod",
-      "app development company in Kasaragod",
+      "app development team in Kasaragod",
       "Android app development in Kasaragod",
-      "software company in Kasaragod",
+      "software team in Kasaragod",
       "SEO services in Kasaragod",
       "digital marketing in Kasaragod",
       "ecommerce website in Kasaragod",
@@ -75,10 +75,10 @@ const kasaragod: CityContent = {
     },
     {
       id: "bekal-tourism",
-      heading: "Website development company in Kasaragod for Bekal resorts and homestays",
+      heading: "Website development team in Kasaragod for Bekal resorts and homestays",
       paragraphs: [
         "Bekal Fort is the largest fort in Kerala, and the area around it was declared a special tourism area in the 1990s. Beach resorts, homestays, backwater stays along the coast, and travel operators taking guests to Chandragiri Fort, the Ananthapura lake temple and Ranipuram now form a real local industry.",
-        "Most of these hosts rely on booking portals that take a commission on every night sold. A <strong>website development company in Kasaragod</strong> can reduce that dependence with a direct booking site: honest room photographs, rates by season, what is included, distance to the fort and beach, how to reach from Kasaragod and Kanhangad stations and from Mangaluru airport, and a booking request that lands on WhatsApp.",
+        "Most of these hosts rely on booking portals that take a commission on every night sold. A <strong>website development team in Kasaragod</strong> can reduce that dependence with a direct booking site: honest room photographs, rates by season, what is included, distance to the fort and beach, how to reach from Kasaragod and Kanhangad stations and from Mangaluru airport, and a booking request that lands on WhatsApp.",
         "We add pages that answer what travellers actually ask: is the beach safe for children in the monsoon, is there parking for a tempo traveller, do you serve Kerala and Tulu Nadu food, can you arrange a boat. Every fact is checked with you; we do not invent views or awards.",
         "A homestay site begins at ₹10,000. Resorts that want availability calendars and advance payment by UPI or Razorpay are quoted as a larger build, with each feature priced separately.",
       ],
@@ -95,10 +95,10 @@ const kasaragod: CityContent = {
     },
     {
       id: "arecanut-coconut-trade",
-      heading: "Software company in Kasaragod for arecanut, coconut and spice traders",
+      heading: "Software team in Kasaragod for arecanut, coconut and spice traders",
       paragraphs: [
         "Arecanut and coconut dominate farming across Kasaragod district, and the Central Plantation Crops Research Institute, set up here in 1916, is one of the country's main research centres for these crops. Traders, cooperative societies, dryers and processors buy from thousands of small growers, often on advances that are settled later.",
-        "As a practical <strong>software company in Kasaragod</strong>, we build tools that match how this trade works: each purchase logged with grower, grade, moisture or quality note, weight and rate; advances and settlements tracked per grower; stock held by grade; and sale lots sent to buyers in Mangaluru or further. Growers can receive a WhatsApp slip the same day.",
+        "As a practical <strong>software team in Kasaragod</strong>, we build tools that match how this trade works: each purchase logged with grower, grade, moisture or quality note, weight and rate; advances and settlements tracked per grower; stock held by grade; and sale lots sent to buyers in Mangaluru or further. Growers can receive a WhatsApp slip the same day.",
         "Owners can see purchases, stock and dues from anywhere, which matters when a partner lives in the Gulf. These tools begin at ₹60,000 and grow in stages across six to twelve weeks, starting with the purchase register.",
         "Where a Tally set-up already handles GST, we feed data into it instead of replacing it.",
       ],
@@ -118,7 +118,7 @@ const kasaragod: CityContent = {
       heading: "Android app development in Kasaragod, with iPhone apps for Gulf-linked customers",
       paragraphs: [
         "Apps pay off in Kasaragod where the same people come back often: parents of a large school checking notices and fees; patients of a busy hospital booking tokens; resort guests checking in and ordering services; a produce trader's regular buyers placing orders; or a showroom's loyal customers, including family members abroad, browsing new arrivals.",
-        "As an <strong>app development company in Kasaragod</strong> that works remotely, we use Flutter or React Native so one build runs on Android and on iPhones, which matters because many Gulf-based relatives use iPhones. First versions usually contain OTP login, push notifications, the core screens and a web dashboard for staff, and they are published on Google Play and the App Store from developer accounts in your own name.",
+        "As an <strong>app development team in Kasaragod</strong> that works remotely, we use Flutter or React Native so one build runs on Android and on iPhones, which matters because many Gulf-based relatives use iPhones. First versions usually contain OTP login, push notifications, the core screens and a web dashboard for staff, and they are published on Google Play and the App Store from developer accounts in your own name.",
         "<strong>Android app development in Kasaragod</strong> with us begins at ₹40,000. Payments, multilingual screens, offline use and booking calendars each add a priced line. There is more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "A shop whose customers only need address, timings and a WhatsApp number is better served by a website, and we will say so plainly rather than sell an app that sits unopened.",
       ],
@@ -145,10 +145,10 @@ const kasaragod: CityContent = {
     },
     {
       id: "kinfra-small-industry",
-      heading: "IT company in Kasaragod for KINFRA park units and small manufacturers",
+      heading: "IT services team in Kasaragod for KINFRA park units and small manufacturers",
       paragraphs: [
         "The KINFRA industrial park at Seethangoli covers around 270 acres with dozens of units, and smaller industrial estates operate elsewhere in the district. Around these units sit engineering workshops, transporters, packaging suppliers and service firms that depend on them.",
-        "An <strong>IT company in Kasaragod</strong> can help these units look as capable online as they are on the shop floor: a site with products, capacities, certifications actually held, machine photographs, dispatch areas and a quotation form that takes drawings. Buyers in Mangaluru, Bengaluru and Kochi check suppliers online before calling.",
+        "An <strong>IT services team in Kasaragod</strong> can help these units look as capable online as they are on the shop floor: a site with products, capacities, certifications actually held, machine photographs, dispatch areas and a quotation form that takes drawings. Buyers in Mangaluru, Bengaluru and Kochi check suppliers online before calling.",
         "For units with repeat orders, a small order status portal or a job-card tracker reduces calls asking “where is my order”. We quote that separately and only when it will save real time.",
       ],
     },
@@ -244,7 +244,7 @@ const kasaragod: CityContent = {
         "A static site generally goes live one to two weeks after photos and details reach us. Allow three to five weeks for a 700+ page SEO site, four to eight for an online store and six to twelve for custom software. Multilingual sites take a little longer because each language is written and checked separately.",
     },
     {
-      question: "Who is the best website development company in Kasaragod?",
+      question: "Who is the best website development team in Kasaragod?",
       answer:
         "Judge any provider on whether prices are published, whether the domain and code go in your name, whether they answer after launch, and whether you can see real live sites. Ask all of them the same questions. We meet those tests and reply on WhatsApp daily, but getting two or three quotes is sensible.",
     },

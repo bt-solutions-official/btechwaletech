@@ -10,12 +10,12 @@ const tura: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Tura and Garo Hills schools, colleges, churches, homestays, traders and clinics.",
     keywords: [
       "IT services in Tura",
-      "IT company in Tura",
-      "website development company in Tura",
+      "IT services team in Tura",
+      "website development team in Tura",
       "web design in Tura",
-      "app development company in Tura",
+      "app development team in Tura",
       "Android app development in Tura",
-      "software company in Tura",
+      "software team in Tura",
       "SEO services in Tura",
       "digital marketing in Tura",
       "ecommerce website in Tura",
@@ -75,10 +75,10 @@ const tura: CityContent = {
     },
     {
       id: "schools-colleges-tura",
-      heading: "Website development company in Tura for schools and colleges",
+      heading: "Website development team in Tura for schools and colleges",
       paragraphs: [
         "Tura is the education centre of the Garo Hills. It has the NEHU Tura Campus, Tura Government College, Don Bosco College, the newer Miriam Russel Women's College, and schools with long histories, such as the Christian Girls' Higher Secondary School founded in 1920. Students come from across the region, and many families live far from town.",
-        "As a <strong>website development company in Tura</strong>, we build institution sites that do the jobs families actually need: admission details and forms, fee information, notices, results, a staff list and a photo gallery. Staff can update notices themselves from a simple admin screen, without calling us. Admission forms send details to one spreadsheet instead of several phones.",
+        "As a <strong>website development team in Tura</strong>, we build institution sites that do the jobs families actually need: admission details and forms, fee information, notices, results, a staff list and a photo gallery. Staff can update notices themselves from a simple admin screen, without calling us. Admission forms send details to one spreadsheet instead of several phones.",
         "For larger schools and colleges, we can add a fee and attendance system with parent logins, SMS or WhatsApp alerts and reports for the office. Custom software of this kind starts from ₹60,000 and is delivered in stages, usually over six to twelve weeks, timed around the academic calendar rather than in the middle of exams.",
         "Coaching centres preparing students for competitive exams can use a lighter setup: batch schedules, test results and a WhatsApp group replaced by a proper notice feed.",
       ],
@@ -91,10 +91,10 @@ const tura: CityContent = {
     },
     {
       id: "churches-ngos-tura",
-      heading: "Software company in Tura for churches, NGOs and community groups",
+      heading: "Software team in Tura for churches, NGOs and community groups",
       paragraphs: [
         "Christianity is the majority faith in Tura, and churches, missions and faith-based schools and hospitals are central to community life. Alongside them work a number of NGOs and community organisations engaged in health, education, livelihoods and relief across the Garo Hills.",
-        "As a <strong>software company in Tura</strong> working remotely, we build the plain tools these groups need. A church website with service times, events, sermons and contact details. A member register with families, contact numbers and records that only authorised people can see. A donation record that produces clean receipts and a yearly statement. For NGOs, beneficiary lists, project spending and simple reports for funders.",
+        "As a <strong>software team in Tura</strong> working remotely, we build the plain tools these groups need. A church website with service times, events, sermons and contact details. A member register with families, contact numbers and records that only authorised people can see. A donation record that produces clean receipts and a yearly statement. For NGOs, beneficiary lists, project spending and simple reports for funders.",
         "Data privacy matters here. Member and beneficiary information should not sit in open spreadsheets shared over WhatsApp. We set up role-based logins, regular backups and a clear rule on who can see what. We also keep costs low by building only what you will use, and by hosting on accounts in your organisation's name.",
       ],
     },
@@ -119,10 +119,10 @@ const tura: CityContent = {
     },
     {
       id: "app-development-tura-trade",
-      heading: "App development company in Tura for wholesalers and border trade",
+      heading: "App development team in Tura for wholesalers and border trade",
       paragraphs: [
         "Tura is the supply town for much of West Garo Hills. Goods come in by road and go out to smaller markets and villages, and Dalu on the Bangladesh border is about 50 km away. Wholesalers, distributors and transporters deal with the same set of retailers over and over, usually by phone and handwritten slips.",
-        "As an <strong>app development company in Tura</strong>, we build ordering apps and web portals for exactly this. A retailer logs in, checks what is available and at what rate, places an order and gets a notification when it is dispatched. The wholesaler sees all orders in one list, stock levels and each retailer's balance. Transporters can mark deliveries done from their phone.",
+        "As an <strong>app development team in Tura</strong>, we build ordering apps and web portals for exactly this. A retailer logs in, checks what is available and at what rate, places an order and gets a notification when it is dispatched. The wholesaler sees all orders in one list, stock levels and each retailer's balance. Transporters can mark deliveries done from their phone.",
         "We keep these tools small at first: four or five screens that staff learn in an afternoon. Features get added only once the basics are in daily use.",
       ],
     },
@@ -173,9 +173,9 @@ const tura: CityContent = {
     },
     {
       id: "remote-team-tura",
-      heading: "An IT company in Tura without a Tura office",
+      heading: "An IT services team in Tura without a Tura office",
       paragraphs: [
-        "We want to be clear: we are not an <strong>IT company in Tura</strong> with a local office. We are three engineers who work remotely with clients across India, and Tura clients reach us on WhatsApp or by phone. Since Tura is far from the large metro IT hubs, remote work is often the practical way to get reliable development done.",
+        "We want to be clear: we are not an <strong>IT services team in Tura</strong> with a local office. We are three engineers who work remotely with clients across India, and Tura clients reach us on WhatsApp or by phone. Since Tura is far from the large metro IT hubs, remote work is often the practical way to get reliable development done.",
         "A project begins with a short call and some voice notes or documents from you. We send a written scope and itemised quote within about two working days. After approval, you review progress on a test link every few days and send changes on WhatsApp. We reply seven days a week, on Indian time.",
         "If photographs of a campus, hotel or product are needed, we guide you or a local photographer on what to capture. We never invent an address or claim a site visit that did not happen. To begin, message us from the <a href=\"/contact/\">contact page</a>.",
       ],
@@ -226,7 +226,7 @@ const tura: CityContent = {
         "Yes. We build Android and iOS apps with Flutter or React Native, including login, push notifications and an admin panel, and publish them on Google Play and the App Store under your own accounts. Apps start from ₹40,000. In Tura, school notice apps, church apps and wholesaler ordering apps are the most practical uses.",
     },
     {
-      question: "Which is the best IT company in Tura for a school or small business?",
+      question: "Which is the best IT services team in Tura for a school or small business?",
       answer:
         "Choose someone who registers your domain, code and accounts in your name, gives a written itemised quote and explains maintenance up front. We are a remote team of three engineers with published starting prices and five months of free maintenance. Compare options on ownership, reliability on slow networks and support after launch, not just price.",
     },

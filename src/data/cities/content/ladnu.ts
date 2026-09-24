@@ -10,12 +10,12 @@ const ladnu: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Ladnun traders, Jain institutions, pilgrim lodges, schools, clinics and Didwana-Kuchaman shops.",
     keywords: [
       "IT services in Ladnun",
-      "IT company in Ladnu",
-      "website development company in Ladnun",
+      "IT services team in Ladnu",
+      "website development team in Ladnun",
       "web design in Ladnun",
-      "app development company in Ladnun",
+      "app development team in Ladnun",
       "Android app development in Ladnun",
-      "software company in Ladnun",
+      "software team in Ladnun",
       "SEO services in Ladnun",
       "digital marketing in Ladnun",
       "ecommerce website in Ladnun",
@@ -84,19 +84,19 @@ const ladnu: CityContent = {
     },
     {
       id: "dharamshala-lodges-ladnun",
-      heading: "Website development company in Ladnun for dharamshalas, guest houses and caterers",
+      heading: "Website development team in Ladnun for dharamshalas, guest houses and caterers",
       paragraphs: [
         "Visitors come to Ladnun for convocations, chaturmas programmes, religious events and family visits, and many also travel to Salasar Balaji, which lies on the road past Jaswantgarh and Sujangarh. These travellers need beds, bhojanshala meals, taxis and directions, often at short notice and often for a group of relatives.",
-        "A <strong>website development company in Ladnun</strong> can help these small hospitality businesses answer questions before the phone rings. The site should show real room photographs, room types and rent ranges, rules about check-in and food, distance from the university and main temples, parking, and how to request a booking. A form that captures dates, number of guests and a contact number, and forwards it to WhatsApp, prevents most confusion.",
+        "A <strong>website development team in Ladnun</strong> can help these small hospitality businesses answer questions before the phone rings. The site should show real room photographs, room types and rent ranges, rules about check-in and food, distance from the university and main temples, parking, and how to request a booking. A form that captures dates, number of guests and a contact number, and forwards it to WhatsApp, prevents most confusion.",
         "For larger bhawans that receive group bookings, a small allotment tool keeps rooms from being promised twice, records deposits and shows occupancy on busy days. Caterers and tent houses that serve functions in the town can use a simple menu and enquiry site. We do not publish fake reviews or ratings, and we recommend asking genuine guests to leave feedback after their stay.",
       ],
     },
     {
       id: "wholesale-traders-ladnun",
-      heading: "Software company in Ladnun for wholesale traders and village supply",
+      heading: "Software team in Ladnun for wholesale traders and village supply",
       paragraphs: [
         "Ladnun's bazaars supply grocery, cloth, utensils, hardware, farm inputs and household goods to shops in surrounding villages. The land around the town is dry, and farming depends on the monsoon, so demand rises and falls with the season and credit is part of almost every trading relationship.",
-        "As a <strong>software company in Ladnun</strong> in the everyday sense, we build web tools that fit a trader's routine: a price list retailers can check on their phone, re-orders placed through a simple form or WhatsApp, stock and billing that a clerk can use without training, and a dues register that shows who owes what and since when. Where a trader already uses Tally, we connect to it instead of replacing it.",
+        "As a <strong>software team in Ladnun</strong> in the everyday sense, we build web tools that fit a trader's routine: a price list retailers can check on their phone, re-orders placed through a simple form or WhatsApp, stock and billing that a clerk can use without training, and a dues register that shows who owes what and since when. Where a trader already uses Tally, we connect to it instead of replacing it.",
         "We keep the first version small and useful. The price list and order form usually come first, because they cut phone time immediately. Custom software starts at ₹60,000 and is built over six to twelve weeks. Your data stays in accounts registered to you, and you can export it whenever you like.",
       ],
     },
@@ -114,7 +114,7 @@ const ladnu: CityContent = {
       heading: "Android app development in Ladnun, and iOS apps for local organisations",
       paragraphs: [
         "An app earns its cost when a known group of people uses it often. In Ladnun, likely cases include a school sending homework, attendance and fee reminders to parents; a trust sharing event schedules and live updates with members spread across India; a wholesaler taking repeat orders from village retailers; and a clinic issuing tokens so patients do not wait for hours.",
-        "As an <strong>app development company in Ladnun</strong> that works remotely, we build apps in Flutter or React Native, so the same code runs on Android and iPhone. A first version typically has mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you.",
+        "As an <strong>app development team in Ladnun</strong> that works remotely, we build apps in Flutter or React Native, so the same code runs on Android and iPhone. A first version typically has mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store using developer accounts registered to you.",
         "<strong>Android app development in Ladnun</strong> with us starts at ₹40,000. Costs increase with payments, video, offline mode, maps or links to other software, and each is shown as a separate line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If people only need your address, timings and a phone number, a website will do the job for much less, and we will say so. An app that nobody opens after the first week is money spent for nothing.",
       ],
@@ -224,7 +224,7 @@ const ladnu: CityContent = {
         "A static website usually goes live in one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Sending content early is the biggest thing you can do to speed things up.",
     },
     {
-      question: "Who is the best website development company in Ladnun?",
+      question: "Who is the best website development team in Ladnun?",
       answer:
         "Look for someone who publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Ask every option the same questions. We meet those tests and answer WhatsApp seven days a week, but it is sensible to compare two or three providers before you decide.",
     },

@@ -12,8 +12,8 @@ const content: CityContent = {
       "Android app development Jalandhar",
       "iOS app development Jalandhar",
       "mobile app developers Jalandhar",
-      "software development company in Jalandhar",
-      "IT company in Jalandhar",
+      "software development team in Jalandhar",
+      "IT services team in Jalandhar",
       "IT solutions Jalandhar",
       "freelance software developers Jalandhar",
       "sports goods export software Jalandhar",
@@ -70,9 +70,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-or-company-jalandhar",
-      heading: "Should you hire freelance developers or a software development company in Jalandhar?",
+      heading: "Should you hire freelance developers or a software development team in Jalandhar?",
       paragraphs: [
-        "If your project is a focused build, such as an export tracker, a CRM, an automation or a staff app, freelance developers are often the better choice over a software development company in Jalandhar, because you work directly with the engineers and pay no overhead for offices, sales staff or account managers.",
+        "If your project is a focused build, such as an export tracker, a CRM, an automation or a staff app, freelance developers are often the better choice over a software development team in Jalandhar, because you work directly with the engineers and pay no overhead for offices, sales staff or account managers.",
         "BtechWaleTech is a <a href='/about/'>freelance group of three engineers</a>. We talk to you and your staff, map how work moves today, write a clear scope and build in stages you can test on a live preview. When a project genuinely needs a large team on site, a bigger IT company may suit you better, and we will tell you so.",
         "We have no Jalandhar office and do not claim one. Everything happens over calls, WhatsApp and shared screens, which suits Doaba businesses used to dealing with clients abroad. You own the code, domain, hosting and data from the first day.",
       ],
@@ -269,7 +269,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you an IT company with an office in Jalandhar?",
+      question: "Are you an IT services team with an office in Jalandhar?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office, branch or staff in Jalandhar. Businesses hire us as freelance developers and work with us over calls, WhatsApp and live preview links. You speak directly to the engineers building your software, and you own everything we build.",
     },

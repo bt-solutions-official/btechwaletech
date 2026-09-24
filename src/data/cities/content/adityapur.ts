@@ -9,7 +9,7 @@ const adityapur: CityContent = {
     description:
       "Websites, vendor profiles, RFQ forms, ERP-style tools and WhatsApp automation for Adityapur's auto-component MSMEs, suppliers, schools, clinics and shops.",
     keywords: [
-      "website development company in Adityapur",
+      "website development team in Adityapur",
       "web designer Adityapur",
       "website design Jamshedpur Adityapur",
       "industrial website design Jharkhand",

@@ -9,7 +9,7 @@ const satna: CityContent = {
     description:
       "Websites, local SEO, vendor portals and WhatsApp automation for Satna's cement suppliers, transporters, traders, schools and Chitrakoot hotels. Clear written quotes.",
     keywords: [
-      "website development company in Satna",
+      "website development team in Satna",
       "web designer Satna",
       "website design Satna Madhya Pradesh",
       "SEO services Satna",
@@ -17,7 +17,7 @@ const satna: CityContent = {
       "cement plant vendor website",
       "transport company website Satna",
       "ecommerce website Satna",
-      "software company Satna",
+      "software team Satna",
       "WhatsApp automation Satna",
       "Chitrakoot hotel website",
       "website cost Satna",

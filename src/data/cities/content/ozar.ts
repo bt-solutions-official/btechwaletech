@@ -10,12 +10,12 @@ const ozar: CityContent = {
       "Marathi and English websites, Android and iOS apps, local SEO and WhatsApp automation for Ozar grape exporters, pack-houses, HAL suppliers, schools and shops.",
     keywords: [
       "IT services in Ozar",
-      "IT company in Ozar",
-      "website development company in Ozar",
+      "IT services team in Ozar",
+      "website development team in Ozar",
       "web design in Ozar",
-      "app development company in Ozar",
+      "app development team in Ozar",
       "Android app development in Ozar",
-      "software company in Ozar",
+      "software team in Ozar",
       "SEO services in Ozar",
       "digital marketing in Ozar",
       "ecommerce website in Ozar",
@@ -74,11 +74,11 @@ const ozar: CityContent = {
     },
     {
       id: "grape-growers-exporters",
-      heading: "Software company in Ozar for grape growers and exporters",
+      heading: "Software team in Ozar for grape growers and exporters",
       paragraphs: [
         "Table grape cultivation in Ozar began in the 1920s, and the area still exports to Europe, the Middle East and other markets. Export grapes come with paperwork: plot registration, spray records, residue test results, harvest dates, crate counts, rejections and buyer payments that may arrive long after the fruit has left.",
         "Most growers and small exporters still keep this across diaries, WhatsApp photos and spreadsheets that only one family member understands. When a buyer asks for the spray history of a plot, or a payment dispute comes up months later, finding the right record takes time.",
-        "As a <strong>software company in Ozar</strong> for this trade, we build web tools that follow the season. Each plot has its spray and fertiliser log entered from a phone; harvest days record crates, grades and rejections; each consignment links to its plots, buyer and payment status. Owners see pending payments and season totals on one screen. These tools start at ₹60,000 and take six to twelve weeks, and we usually build the spray and harvest log first, ideally in the off-season so it is ready before pruning.",
+        "As a <strong>software team in Ozar</strong> for this trade, we build web tools that follow the season. Each plot has its spray and fertiliser log entered from a phone; harvest days record crates, grades and rejections; each consignment links to its plots, buyer and payment status. Owners see pending payments and season totals on one screen. These tools start at ₹60,000 and take six to twelve weeks, and we usually build the spray and harvest log first, ideally in the off-season so it is ready before pruning.",
       ],
     },
     {
@@ -92,10 +92,10 @@ const ozar: CityContent = {
     },
     {
       id: "hal-suppliers-engineering",
-      heading: "Website development company in Ozar for engineering suppliers and workshops",
+      heading: "Website development team in Ozar for engineering suppliers and workshops",
       paragraphs: [
         "A large aircraft plant and an Air Force depot need a wide ring of outside help: machining and fabrication workshops, electrical and civil contractors, transporters, canteens, housekeeping and security agencies, and firms supplying tools, consumables and uniforms. Many of these are small family firms based in Ozar, Nashik and along the highway.",
-        "Purchase departments and larger contractors check vendors online before inviting them to quote. A <strong>website development company in Ozar</strong> should build such sites to be plain and verifiable: machines and capacities, processes, quality checks, sectors served, GST and registration details, and the people to contact. It must look professional on an office desktop, not only on a phone.",
+        "Purchase departments and larger contractors check vendors online before inviting them to quote. A <strong>website development team in Ozar</strong> should build such sites to be plain and verifiable: machines and capacities, processes, quality checks, sectors served, GST and registration details, and the people to contact. It must look professional on an office desktop, not only on a phone.",
         "We do not mention any customer, including HAL, on your site without that customer's written consent, and we never make claims about defence approvals you do not hold. For workshops that receive drawings, we can add a quote request form with file upload, or a job status page so repeat customers can check progress without calling.",
       ],
     },
@@ -113,7 +113,7 @@ const ozar: CityContent = {
       heading: "Android app development in Ozar, and iOS apps for local firms",
       paragraphs: [
         "An app pays back when the same people use it often. In Ozar, sensible uses include vineyard supervisors logging spray and harvest work plot by plot, pack-house staff recording crates at the grading table, regular buyers placing orders with a trader, a school sending notices and fee reminders to parents, or a clinic issuing appointment tokens.",
-        "We write a single codebase in Flutter or React Native and release it to both stores, so a supervisor carrying an Android handset and an exporter carrying an iPhone see the same screens. A typical first release from us, as an <strong>app development company in Ozar</strong> working remotely, has OTP login on the mobile number, push alerts, four to six working screens and a web admin panel for the office. It goes up on Google Play and the Apple App Store through developer accounts opened in your name, not ours.",
+        "We write a single codebase in Flutter or React Native and release it to both stores, so a supervisor carrying an Android handset and an exporter carrying an iPhone see the same screens. A typical first release from us, as an <strong>app development team in Ozar</strong> working remotely, has OTP login on the mobile number, push alerts, four to six working screens and a web admin panel for the office. It goes up on Google Play and the Apple App Store through developer accounts opened in your name, not ours.",
         "<strong>Android app development in Ozar</strong> is priced from ₹40,000 with us. Vineyards often have patchy signal, so entry that works offline and syncs later is a frequent addition; photo uploads of spray labels, UPI payments, maps and a Tally link are others. Each one sits on its own line of the quote, and the <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how a build runs.",
         "Skip the app if people only want your phone number, location and a rate card. A website handles that for a small part of the money, and we would rather tell you so than build an icon that gets deleted after one harvest.",
       ],
@@ -247,7 +247,7 @@ const ozar: CityContent = {
         "Once your photographs and details reach us, a clinic, shop or school site is normally online in one to two weeks. Bigger jobs need longer: three to five weeks for a 700+ page SEO site, four to eight for an online store, six to twelve for custom software. Growers do best starting in the quiet months after harvest, when there is time to check drafts.",
     },
     {
-      question: "Who is the best website development company in Ozar?",
+      question: "Who is the best website development team in Ozar?",
       answer:
         "There is no single name to give, but there are fair tests. Does the provider show prices openly, register the domain and code to you, point to live sites you can open, and still reply months after launch? Put the same questions to everyone you are considering. We pass those tests and answer WhatsApp daily, yet talking to two or three options first is still wise.",
     },

@@ -10,12 +10,12 @@ const sillod: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Sillod maize traders, Sarafa jewellers, Ajanta-road hotels and clinics.",
     keywords: [
       "IT services in Sillod",
-      "IT company in Sillod",
-      "website development company in Sillod",
+      "IT services team in Sillod",
+      "website development team in Sillod",
       "web design in Sillod",
-      "app development company in Sillod",
+      "app development team in Sillod",
       "Android app development in Sillod",
-      "software company in Sillod",
+      "software team in Sillod",
       "SEO services in Sillod",
       "digital marketing in Sillod",
       "ecommerce website in Sillod",
@@ -74,21 +74,21 @@ const sillod: CityContent = {
     },
     {
       id: "maize-cotton-ginger-traders",
-      heading: "Software company in Sillod for maize, cotton and ginger traders",
+      heading: "Software team in Sillod for maize, cotton and ginger traders",
       paragraphs: [
         "A Sillod trader needs software that records each purchase once and shows, at any moment, who is owed what by crop and by farmer. That is the whole job, and it is smaller than most vendors make it sound.",
         "Sillod taluka is ranked first for maize production and is also a leading grower of cotton and ginger, so the market yard and the Bharadi sub-market see heavy arrivals after each harvest. Commission agents, grain merchants and ginger buyers juggle weighment slips, moisture deductions, hamali and transport charges, advances given before sowing, and payments that come back from buyers weeks later. Much of this still lives in bound registers and photographs sent on WhatsApp.",
-        "As a <strong>software company in Sillod</strong> in practical terms, we build a web tool where each lot is entered from a phone with farmer, crop, weight, rate and deductions; a running ledger per farmer and per buyer; a daily rate note you can forward on WhatsApp; and outstanding reports the family can read without calling the munim. Custom software starts at ₹60,000 and arrives in stages over six to twelve weeks, beginning with the purchase register because it settles the most arguments.",
+        "As a <strong>software team in Sillod</strong> in practical terms, we build a web tool where each lot is entered from a phone with farmer, crop, weight, rate and deductions; a running ledger per farmer and per buyer; a daily rate note you can forward on WhatsApp; and outstanding reports the family can read without calling the munim. Custom software starts at ₹60,000 and arrives in stages over six to twelve weeks, beginning with the purchase register because it settles the most arguments.",
         "If you already bill in Tally, we link to it rather than replace it. Ask us to show the register running on dummy data before you commit to anything larger.",
       ],
     },
     {
       id: "sarafa-jewellers-sillod",
-      heading: "Website development company in Sillod for the Sarafa market jewellers",
+      heading: "Website development team in Sillod for the Sarafa market jewellers",
       paragraphs: [
         "A Sillod jeweller's website should do two things well: show enough of the collection to bring a family into the shop, and state plainly the terms that build trust, such as hallmarking, making charges and exchange rules.",
         "Sillod has a large Sarafa market, and the wedding months bring buyers in from villages across the taluka. Many of them decide which counter to visit before leaving home, after scrolling through photographs on a relative's phone. A plain catalogue with bridal sets, mangalsutras, silver anklets and coins, each photographed properly against a neutral background, does more for such a shop than any slogan painted on a board.",
-        "As a <strong>website development company in Sillod</strong>, we keep jeweller sites factual: product categories, weight ranges instead of printed prices where rates move daily, BIS hallmark information, a gold-rate note that you update yourself from the admin panel, shop timings and a WhatsApp button for enquiries. Bridal viewing appointments can come through a short form. A site like this starts at ₹10,000.",
+        "As a <strong>website development team in Sillod</strong>, we keep jeweller sites factual: product categories, weight ranges instead of printed prices where rates move daily, BIS hallmark information, a gold-rate note that you update yourself from the admin panel, shop timings and a WhatsApp button for enquiries. Bridal viewing appointments can come through a short form. A site like this starts at ₹10,000.",
         "We leave out gold-saving schemes and online bullion sales unless your chartered accountant has approved them, because those carry rules of their own. A careful site that shows the counter, the craftsmanship and the family behind the shop is enough for most Sarafa businesses.",
       ],
     },
@@ -114,11 +114,11 @@ const sillod: CityContent = {
     },
     {
       id: "mill-suppliers-sillod",
-      heading: "IT company in Sillod for sugar factory, ginning and oil mill suppliers",
+      heading: "IT services team in Sillod for sugar factory, ginning and oil mill suppliers",
       paragraphs: [
         "Suppliers to Sillod's mills need a website that survives a purchase officer's five-minute check, and simple job or trip records behind it.",
         "The taluka has the Siddheshwar Sahakari Sakhar Karkhana, a co-operative sugar factory, along with ginning mills and oil mills that run hard for a few months each year. Around them work cane transporters, harvesting contractors, fabricators, electricians, welders, bearing and belt dealers, and labour contractors. When a mill looks for a new vendor, someone checks online, and a firm that shows only a phone number looks smaller than it really is.",
-        "For these firms, an <strong>IT company in Sillod</strong> should build a capability page that lists machines, services, types of past jobs (with no customer names unless you have written permission), GST details, safety practice and named contacts, plus a quotation form that accepts photos and drawings. A trip register for transporters or a job-card system for a workshop can follow later, from ₹60,000.",
+        "For these firms, an <strong>IT services team in Sillod</strong> should build a capability page that lists machines, services, types of past jobs (with no customer names unless you have written permission), GST details, safety practice and named contacts, plus a quotation form that accepts photos and drawings. A trip register for transporters or a job-card system for a workshop can follow later, from ₹60,000.",
         "Timing matters here. We plan builds so the site and any records tool are live before the crushing or ginning rush begins, not in the middle of it when nobody has time to learn something new.",
       ],
     },
@@ -166,7 +166,7 @@ const sillod: CityContent = {
       paragraphs: [
         "A Sillod business needs an app only when the same people will open it again and again: agents, staff, members or loyal customers. For everyone else a website is cheaper and does the job just as well.",
         "Good local candidates include a grain trader's village agents entering purchases from the field, a jeweller's regular customers checking new designs and saving wish-lists before a wedding, a coaching class sending test results and fee reminders to parents, a hospital issuing OPD tokens, or an agri-input dealer taking repeat orders from village retailers. In each case there is a known group who will keep the app installed.",
-        "As an <strong>app development company in Sillod</strong> that works remotely, we build in Flutter or React Native, so a single codebase gives you both an Android app and an iPhone app. A first release usually covers mobile-number login, push notifications, the few screens your users need most and an admin panel for staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Sillod</strong> that works remotely, we build in Flutter or React Native, so a single codebase gives you both an Android app and an iPhone app. A first release usually covers mobile-number login, push notifications, the few screens your users need most and an admin panel for staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Sillod</strong> with us starts at ₹40,000. Payments, offline entry for villages with weak signal, maps, or a link to your billing software add to that figure, and each shows up as a line in the quote. Because most users here carry Android phones, some clients launch on Android first and add the iOS build once their customer list justifies it. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
       ],
     },
@@ -257,7 +257,7 @@ const sillod: CityContent = {
         "A simple static site for a Sillod shop is normally live one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner sends content within the first few days.",
     },
     {
-      question: "Which is the best website development company in Sillod?",
+      question: "Which is the best website development team in Sillod?",
       answer:
         "Judge any provider in Sillod on evidence: published starting prices, the domain and code registered in your name, real sites you can open, and support after launch. Put the same questions to each option in writing. We meet those tests and answer on WhatsApp all week, but comparing two or three quotes before deciding is sensible.",
     },

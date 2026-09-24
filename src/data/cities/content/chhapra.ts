@@ -10,7 +10,7 @@ const chhapra: CityContent = {
       "Websites, Hindi and Bhojpuri-friendly SEO and WhatsApp tools for Chhapra and Saran shops, clinics, schools and traders. From ₹10,000, domain and code in your name.",
     keywords: [
       "website designer in Chhapra",
-      "website development company Chhapra",
+      "website development team Chhapra",
       "web developer Saran Bihar",
       "SEO services Chhapra",
       "Google Maps listing Chhapra",

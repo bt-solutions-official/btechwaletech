@@ -10,12 +10,12 @@ const sidhpur: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Sidhpur isabgol processors, market yard traders, GIDC units, clinics and pilgrims.",
     keywords: [
       "IT services in Sidhpur",
-      "IT company in Sidhpur",
-      "website development company in Sidhpur",
+      "IT services team in Sidhpur",
+      "website development team in Sidhpur",
       "web design in Sidhpur",
-      "app development company in Sidhpur",
+      "app development team in Sidhpur",
       "Android app development in Sidhpur",
-      "software company in Sidhpur",
+      "software team in Sidhpur",
       "SEO services in Sidhpur",
       "digital marketing in Sidhpur",
       "ecommerce website in Sidhpur",
@@ -74,19 +74,19 @@ const sidhpur: CityContent = {
     },
     {
       id: "isabgol-psyllium-processors",
-      heading: "Website development company in Sidhpur for isabgol and psyllium processors",
+      heading: "Website development team in Sidhpur for isabgol and psyllium processors",
       paragraphs: [
         "North Gujarat is closely tied to psyllium, known locally as isabgol. Many processing plants stand at Khali, on the state highway between Unjha and Sidhpur, where seed is cleaned and milled into husk and husk powder for pharmaceutical, food and export buyers. Around them are traders, packers, transporters, laboratories and machine repair workshops.",
-        "Overseas and pharmaceutical buyers vet suppliers online before they ask for samples. A <strong>website development company in Sidhpur</strong> should build a plain, factual site for such a unit: products with purity grades and mesh sizes, packing options, capacity described accurately, quality certifications you actually hold, documents available on request, and a clear enquiry form. We never add client logos or export destinations unless you confirm them in writing.",
+        "Overseas and pharmaceutical buyers vet suppliers online before they ask for samples. A <strong>website development team in Sidhpur</strong> should build a plain, factual site for such a unit: products with purity grades and mesh sizes, packing options, capacity described accurately, quality certifications you actually hold, documents available on request, and a clear enquiry form. We never add client logos or export destinations unless you confirm them in writing.",
         "A catalogue site of this kind starts at ₹10,000 for a small range and grows from there if you need many product pages, multiple languages or downloadable specification sheets. Where buyers ask the same technical questions repeatedly, an FAQ and an enquiry form that captures quantity, grade and destination port save your staff hours of back-and-forth.",
       ],
     },
     {
       id: "processing-software",
-      heading: "Software company in Sidhpur for lot tracking, grading and dispatch",
+      heading: "Software team in Sidhpur for lot tracking, grading and dispatch",
       paragraphs: [
         "Processing isabgol is a numbers business. A unit buys seed in lots of different quality, cleans and mills it, gets husk and powder in varying yields, packs to buyer requirements and ships against orders that often carry strict documentation. When this is tracked on paper and spreadsheets, the owner struggles to say which lot went to which buyer, or what the real yield was last season.",
-        "As a <strong>software company in Sidhpur</strong> in practical terms, we build web tools that follow each lot from purchase to dispatch: supplier, weight, purchase rate, lab results, processing output, packing batches, buyer and invoice. Reports show yield by lot, margin by order and stock by grade. Staff can enter data from a phone on the shop floor, and the owner sees totals from anywhere.",
+        "As a <strong>software team in Sidhpur</strong> in practical terms, we build web tools that follow each lot from purchase to dispatch: supplier, weight, purchase rate, lab results, processing output, packing batches, buyer and invoice. Reports show yield by lot, margin by order and stock by grade. Staff can enter data from a phone on the shop floor, and the owner sees totals from anywhere.",
         "Custom software starts at ₹60,000 and usually takes six to twelve weeks. We prefer to begin with the part that hurts most, often stock and dispatch, and add purchase and quality modules once that is running. Linking to Tally for invoices is possible and is quoted as a separate line.",
       ],
     },
@@ -119,10 +119,10 @@ const sidhpur: CityContent = {
     },
     {
       id: "gidc-units-sidhpur",
-      heading: "IT company in Sidhpur for GIDC units, engineering workshops and suppliers",
+      heading: "IT services team in Sidhpur for GIDC units, engineering workshops and suppliers",
       paragraphs: [
         "Sidhpur has a GIDC estate with its own industrial association, housing processing units, engineering workshops, packaging suppliers and small manufacturers. Many of these firms sell to buyers in Ahmedabad, Mahesana and beyond, and those buyers now check a supplier's website before they place a first order.",
-        "Working as an <strong>IT company in Sidhpur</strong> for industrial clients, we keep sites factual: products and capabilities, machinery, materials handled, quality practices, GST and registration details, and an enquiry form that accepts drawings or specifications. A workshop with repeat customers can add a simple job status page, so regular buyers stop calling to ask where their order stands.",
+        "Working as an <strong>IT services team in Sidhpur</strong> for industrial clients, we keep sites factual: products and capabilities, machinery, materials handled, quality practices, GST and registration details, and an enquiry form that accepts drawings or specifications. A workshop with repeat customers can add a simple job status page, so regular buyers stop calling to ask where their order stands.",
         "We never list a customer's name on your site without that customer's written consent. For firms that want wider reach, industrial directories and B2B marketplaces can complement the website, and we help keep product details consistent across them.",
       ],
     },
@@ -131,7 +131,7 @@ const sidhpur: CityContent = {
       heading: "Android app development in Sidhpur, and iOS apps where repeat users exist",
       paragraphs: [
         "An app makes sense when the same people use it often. In Sidhpur that could be village retailers placing repeat orders with an agri dealer, buyers checking daily rates from a trader, parents receiving school notices and fee reminders, or patients booking tokens at a busy clinic. A pilgrim who visits once is better served by a website.",
-        "As an <strong>app development company in Sidhpur</strong> working remotely, we use Flutter or React Native so a single codebase runs on Android and iPhone. A first release normally includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you, and handle listings, screenshots and review steps.",
+        "As an <strong>app development team in Sidhpur</strong> working remotely, we use Flutter or React Native so a single codebase runs on Android and iPhone. A first release normally includes mobile number login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store under developer accounts registered to you, and handle listings, screenshots and review steps.",
         "<strong>Android app development in Sidhpur</strong> with us starts at ₹40,000. Costs rise with payments, offline mode for weak-signal villages, maps, Gujarati content and links to billing software, and each appears as its own line in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app</a> page for more.",
         "If customers only need your address, rates and a phone number, a website and a WhatsApp catalogue do that for a fraction of the cost. We will recommend that route when it fits, because an app nobody opens after the first week is money gone.",
       ],
@@ -231,7 +231,7 @@ const sidhpur: CityContent = {
         "A simple static site is usually live within one to two weeks of receiving content and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner shares details in the first few days.",
     },
     {
-      question: "Who is the best website development company in Sidhpur?",
+      question: "Who is the best website development team in Sidhpur?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, answers after launch and can show real work. Ask everyone the same questions and compare written quotes. We try to meet those tests and reply on WhatsApp daily, but speaking to two or three options before deciding is sensible.",
     },

@@ -10,12 +10,12 @@ const lachhmangarh: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Lachhmangarh haveli stays, traders, coaching centres, clinics and shops in Sikar.",
     keywords: [
       "IT services in Lachhmangarh",
-      "IT company in Lachhmangarh",
-      "website development company in Lachhmangarh",
+      "IT services team in Lachhmangarh",
+      "website development team in Lachhmangarh",
       "web design in Lachhmangarh",
-      "app development company in Lachhmangarh",
+      "app development team in Lachhmangarh",
       "Android app development in Lachhmangarh",
-      "software company in Lachhmangarh",
+      "software team in Lachhmangarh",
       "SEO services in Lachhmangarh",
       "digital marketing in Lachhmangarh",
       "ecommerce website in Lachhmangarh",
@@ -70,7 +70,7 @@ const lachhmangarh: CityContent = {
         "Lachhmangarh is small enough that people still find a shop by asking a neighbour, and connected enough that the neighbour now checks a phone before answering. Families from nearby villages come in for cloth, gold, hardware, fertiliser, medicines and school admissions. Tourists come for the fort and havelis. Parents from across Rajasthan and beyond visit the university campus on the Sikar side of town.",
         "The requests we receive for <strong>IT services in Lachhmangarh</strong> reflect this mix. A cloth merchant wants a Hindi website and a correct map pin. A haveli owner wants a booking page that foreign guests can read. A coaching institute wants an app for test results. A dealer wants to stop tracking village credit in three notebooks. None of this needs a large team, but it does need people who listen before they build.",
         "We are three engineers working remotely: Ankur Kumar handles full-stack development, Santosh Sharma covers AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Lachhmangarh or in Sikar, and we say so at the first call. You deal with the same three people from the opening message to the handover, and every decision is written down so a family partner can read it later.",
-        "People sometimes ask whether they should hire an <strong>IT company in Lachhmangarh</strong> they can visit. If a face-to-face meeting matters most to you, that is a fair choice. What we offer instead is published starting prices, written scope and ownership of every account from day one, which protect you more than a showroom does.",
+        "People sometimes ask whether they should hire an <strong>IT services team in Lachhmangarh</strong> they can visit. If a face-to-face meeting matters most to you, that is a fair choice. What we offer instead is published starting prices, written scope and ownership of every account from day one, which protect you more than a showroom does.",
       ],
     },
     {
@@ -94,20 +94,20 @@ const lachhmangarh: CityContent = {
     },
     {
       id: "grain-traders-dealers",
-      heading: "Software company in Lachhmangarh for grain traders and farm input dealers",
+      heading: "Software team in Lachhmangarh for grain traders and farm input dealers",
       paragraphs: [
         "Farming around Lachhmangarh is mostly dryland, with rain-fed kharif crops and rabi crops where wells and tubewells allow. The town market is where farmers sell produce, buy seed, fertiliser and pesticide, repair pumps and tractors, and settle accounts that often run for a full season on credit.",
         "That credit is the hard part. A dealer may carry dozens of villages on account, with small purchases through the season and payment after harvest. Records live in bahi-khata ledgers, phone notes and memory. When a son takes over the counter, or a customer disputes a balance, the gaps show.",
-        "Working as a <strong>software company in Lachhmangarh</strong> in the practical sense, we build small web tools for this: a customer ledger with village and phone number, each sale entered once from the counter or a phone, running balances, WhatsApp statements sent before harvest, and stock alerts for fast-moving items. These start at ₹60,000 and are built in stages over six to twelve weeks. We begin with the ledger because it recovers money fastest.",
+        "Working as a <strong>software team in Lachhmangarh</strong> in the practical sense, we build small web tools for this: a customer ledger with village and phone number, each sale entered once from the counter or a phone, running balances, WhatsApp statements sent before harvest, and stock alerts for fast-moving items. These start at ₹60,000 and are built in stages over six to twelve weeks. We begin with the ledger because it recovers money fastest.",
         "If you already use Tally for GST, we can pull sales from it instead of asking staff to type everything twice. If you do not, a simple billing screen that prints on your existing printer is usually enough.",
       ],
     },
     {
       id: "coaching-schools-lachhmangarh",
-      heading: "Website development company in Lachhmangarh for schools and coaching centres",
+      heading: "Website development team in Lachhmangarh for schools and coaching centres",
       paragraphs: [
         "Sikar district has become one of Rajasthan's best-known coaching regions, and students from Lachhmangarh and its villages prepare for engineering, medical, defence, teaching and state service exams, either in town or by travelling to Sikar. Private schools compete hard for admissions each spring, and parents compare results, fees, transport and hostel facilities before deciding.",
-        "A <strong>website development company in Lachhmangarh</strong> can help a school or institute by publishing the facts parents look for: courses and batches, faculty, fee structure or fee ranges, bus routes, hostel rules, admission dates and results with student consent. An online enquiry form that asks for class, subject and village sends leads straight to the office phone.",
+        "A <strong>website development team in Lachhmangarh</strong> can help a school or institute by publishing the facts parents look for: courses and batches, faculty, fee structure or fee ranges, bus routes, hostel rules, admission dates and results with student consent. An online enquiry form that asks for class, subject and village sends leads straight to the office phone.",
         "For institutes with regular tests, a results portal where each student logs in with a mobile number saves hours of printing and phone calls. We keep these portals light so they open on low-cost phones, and we do not publish marks or photographs of minors without written consent from parents. Most school sites start at ₹10,000; portals with logins are quoted as custom software from ₹60,000.",
       ],
     },
@@ -116,7 +116,7 @@ const lachhmangarh: CityContent = {
       heading: "Android app development in Lachhmangarh, with iOS apps built alongside",
       paragraphs: [
         "An app earns its keep when a known group of people opens it again and again. In Lachhmangarh, the strongest cases are coaching centres sending test schedules, results and doubt-clearing videos to students; schools sending notices and fee reminders to parents; farm input dealers taking re-orders from village retailers; and guest houses near the university that host the same families every term.",
-        "If you are looking for an <strong>app development company in Lachhmangarh</strong>, here is how we work. We build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login with OTP, push notifications, the three or four screens your users need most, and an admin panel where your staff add notices, prices or results. The app is published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "If you are looking for an <strong>app development team in Lachhmangarh</strong>, here is how we work. We build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login with OTP, push notifications, the three or four screens your users need most, and an admin panel where your staff add notices, prices or results. The app is published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Lachhmangarh</strong> with us starts at ₹40,000. The cost rises with online payments, video lessons, offline mode for weak signal in villages, maps or links to your billing software, and each of these is a separate line on the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how a typical build runs.",
         "Plenty of Lachhmangarh businesses do not need an app at all. If customers only want your address, timings, a price list and a phone number, a website and a Google listing do the job for a quarter of the cost, and nobody has to install anything. We will tell you that when it is true.",
       ],
@@ -226,7 +226,7 @@ const lachhmangarh: CityContent = {
         "A simple static site is usually live one to two weeks after you send photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends text and pictures in the first few days.",
     },
     {
-      question: "Which is the best website development company in Lachhmangarh?",
+      question: "Which is the best website development team in Lachhmangarh?",
       answer:
         "Choose a provider that publishes prices, puts the domain and code in your name, answers after launch and shows real work you can check. Ask every option the same questions in writing. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers first is sensible.",
     },

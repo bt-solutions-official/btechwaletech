@@ -10,12 +10,12 @@ const sardhana: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sardhana cloth and handloom units, timber traders, clinics, schools and shops.",
     keywords: [
       "IT services in Sardhana",
-      "IT company in Sardhana",
-      "website development company in Sardhana",
+      "IT services team in Sardhana",
+      "website development team in Sardhana",
       "web design in Sardhana",
-      "app development company in Sardhana",
+      "app development team in Sardhana",
       "Android app development in Sardhana",
-      "software company in Sardhana",
+      "software team in Sardhana",
       "SEO services in Sardhana",
       "digital marketing in Sardhana",
       "ecommerce website in Sardhana",
@@ -75,28 +75,28 @@ const sardhana: CityContent = {
     },
     {
       id: "cloth-handloom-sardhana",
-      heading: "Website development company in Sardhana for cloth and handloom fabric units",
+      heading: "Website development team in Sardhana for cloth and handloom fabric units",
       paragraphs: [
         "Cloth has been one of Sardhana's main trades for a long time, and handloom fabric makers and sellers still operate here alongside powerloom and trading businesses. Much of their selling happens through agents, resellers and repeat buyers in other cities, who want to see designs, colours, widths and rates quickly.",
-        "A <strong>website development company in Sardhana</strong> should give such a business a clean digital catalogue. Each design gets clear photographs in daylight, fabric type, width, weight or count where relevant, colour options, minimum order and a note on lead time. Buyers can shortlist designs and send the list on WhatsApp, or request swatches through a form. Retail prices can be shown or hidden depending on how you sell.",
+        "A <strong>website development team in Sardhana</strong> should give such a business a clean digital catalogue. Each design gets clear photographs in daylight, fabric type, width, weight or count where relevant, colour options, minimum order and a note on lead time. Buyers can shortlist designs and send the list on WhatsApp, or request swatches through a form. Retail prices can be shown or hidden depending on how you sell.",
         "Catalogue sites start at ₹10,000 for smaller ranges; larger ones with hundreds of designs are better built as SEO sites from ₹20,000 so each design has its own searchable page. We never add a buyer's brand to your site without their written permission, and we photograph guidance so your own staff can keep the catalogue current.",
       ],
     },
     {
       id: "textile-software-sardhana",
-      heading: "Software company in Sardhana for job work, looms and fabric stock",
+      heading: "Software team in Sardhana for job work, looms and fabric stock",
       paragraphs: [
         "Textile work in and around Sardhana often involves several hands: yarn purchase, weaving on your own looms or with job workers, dyeing or finishing elsewhere, then stock, orders and dispatch. Tracking all this on paper leads to missing pieces, disputed payments and orders that promise stock you do not have.",
-        "As a <strong>software company in Sardhana</strong> in the practical sense, we build simple web tools for this chain: yarn issued and fabric received per job worker, rates and payments due, stock by design and colour, orders with promised dates and dispatch records. Staff enter data from Android phones, and the owner sees the whole picture on one screen.",
+        "As a <strong>software team in Sardhana</strong> in the practical sense, we build simple web tools for this chain: yarn issued and fabric received per job worker, rates and payments due, stock by design and colour, orders with promised dates and dispatch records. Staff enter data from Android phones, and the owner sees the whole picture on one screen.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks. We usually start with stock and orders, because promising a buyer the wrong quantity is the most expensive mistake. Job-work tracking can follow once the team is comfortable.",
       ],
     },
     {
       id: "timber-furniture-sardhana",
-      heading: "IT company in Sardhana for timber yards and furniture makers",
+      heading: "IT services team in Sardhana for timber yards and furniture makers",
       paragraphs: [
         "Timber is the other trade Sardhana is known for. Saw mills, timber merchants and furniture workshops supply builders, carpenters and households across the Meerut region, and their customers want to know what wood is available, in what sizes and at what rate.",
-        "As an <strong>IT company in Sardhana</strong> working remotely, we build websites that show wood types, standard sizes, cutting and seasoning services, delivery areas and a WhatsApp link for rates. Furniture makers get a portfolio of real pieces, made-to-order options and a quote request form that asks for measurements and photos of the space.",
+        "As an <strong>IT services team in Sardhana</strong> working remotely, we build websites that show wood types, standard sizes, cutting and seasoning services, delivery areas and a WhatsApp link for rates. Furniture makers get a portfolio of real pieces, made-to-order options and a quote request form that asks for measurements and photos of the space.",
         "For yards, a stock and order tool can track logs received, pieces cut, stock by type and size, and orders pending. We avoid publishing rates that change weekly unless you want to update them yourself, because an old rate on screen creates arguments. Such tools start at ₹60,000; a website starts at ₹10,000.",
       ],
     },
@@ -134,7 +134,7 @@ const sardhana: CityContent = {
       heading: "Android app development in Sardhana, with iPhone support",
       paragraphs: [
         "An app pays off only when the same people open it regularly. In Sardhana, good candidates include resellers ordering fabric designs from a cloth unit, retailers re-ordering stock from a distributor, parents receiving school notices and fee reminders, milk suppliers checking their daily entries, and clinic patients booking tokens.",
-        "As an <strong>app development company in Sardhana</strong>, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually includes mobile-number login, push notifications, the main screens your users need and an admin panel for your staff. We publish it on Google Play and the App Store under developer accounts in your name.",
+        "As an <strong>app development team in Sardhana</strong>, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version usually includes mobile-number login, push notifications, the main screens your users need and an admin panel for your staff. We publish it on Google Play and the App Store under developer accounts in your name.",
         "<strong>Android app development in Sardhana</strong> with us starts at ₹40,000. A design catalogue with thousands of photos, payments, offline entry and integrations add cost and appear as separate lines. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, phone number and a catalogue to browse once in a while, a website does it for a quarter of the cost and needs no download. We will recommend that when it fits.",
       ],
@@ -235,7 +235,7 @@ const sardhana: CityContent = {
         "A simple business website is usually live one to two weeks after we receive photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Catalogue projects finish sooner when design photos arrive early.",
     },
     {
-      question: "Which is the best website development company in Sardhana?",
+      question: "Which is the best website development team in Sardhana?",
       answer:
         "Choose someone who publishes prices, puts the domain and code in your name, shows real work and answers after launch. Ask each option the same questions and compare replies in writing. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers makes sense.",
     },

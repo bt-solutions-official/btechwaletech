@@ -9,7 +9,7 @@ const bhuj: CityContent = {
     description:
       "Websites, local SEO, craft stores and WhatsApp automation for Bhuj artisans, hotels, Rann tour operators, clinics and Kutch suppliers. You own the domain.",
     keywords: [
-      "website development company in Bhuj",
+      "website development team in Bhuj",
       "web designer Bhuj Kutch",
       "website design Bhuj Gujarat",
       "freelance web developer Bhuj",

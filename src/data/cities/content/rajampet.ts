@@ -9,7 +9,7 @@ const rajampet: CityContent = {
     description:
       "Websites, local SEO and WhatsApp tools for Rajampet mango and banana traders, nurseries, colleges, clinics and shops. Static sites from ₹10,000, remote team.",
     keywords: [
-      "website development company in Rajampet",
+      "website development team in Rajampet",
       "web design Rajampet",
       "website designer Rajampeta",
       "SEO services Rajampet",

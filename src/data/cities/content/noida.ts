@@ -9,8 +9,8 @@ const noida: CityContent = {
     description:
       "Websites, SaaS web apps, SEO and AI automation for Noida startups, garment exporters, electronics units, clinics and society services. Sites from ₹10,000.",
     keywords: [
-      "website development company in Noida",
-      "web design company Noida",
+      "website development team in Noida",
+      "web design team Noida",
       "freelance web developer Noida",
       "website cost in Noida",
       "SEO services Noida",
@@ -20,7 +20,7 @@ const noida: CityContent = {
       "garment exporter website Noida",
       "ecommerce website Noida",
       "custom software development Noida",
-      "AI automation company Noida",
+      "AI automation team Noida",
       "WhatsApp automation Noida",
       "website maintenance Noida",
       "Noida me website banwana hai",

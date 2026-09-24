@@ -9,7 +9,7 @@ const bokaro: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Bokaro Steel City vendors, Balidih units, Chas traders, schools and clinics. From ₹10,000, five months upkeep free.",
     keywords: [
-      "website development company in Bokaro",
+      "website development team in Bokaro",
       "web design Bokaro Steel City",
       "website designer Bokaro",
       "freelance web developer Bokaro",
@@ -264,7 +264,7 @@ const bokaro: CityContent = {
     {
       question: "How long does SEO take in Bokaro?",
       answer:
-        "Map results for nearby searches often improve within six to ten weeks once your profile and website are set up correctly. Broader terms such as “website development company in Bokaro” usually take four to eight months of steady work. No honest provider can guarantee a first-position ranking.",
+        "Map results for nearby searches often improve within six to ten weeks once your profile and website are set up correctly. Broader terms such as “website development team in Bokaro” usually take four to eight months of steady work. No honest provider can guarantee a first-position ranking.",
     },
     {
       question: "Do you work with businesses in Dhanbad, Phusro, Ramgarh and Chas?",

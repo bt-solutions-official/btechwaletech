@@ -9,7 +9,7 @@ const hazaribag: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Hazaribagh contractors, coal-area suppliers, schools, clinics and hotels. Remote team, sites from ₹10,000.",
     keywords: [
-      "website development company in Hazaribagh",
+      "website development team in Hazaribagh",
       "website designer Hazaribag",
       "web design Hazaribagh",
       "SEO services Hazaribagh",

@@ -10,12 +10,12 @@ const chatra: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Chatra coal-belt contractors, traders, lac sellers, schools and clinics.",
     keywords: [
       "IT services in Chatra",
-      "IT company in Chatra",
-      "website development company in Chatra",
+      "IT services team in Chatra",
+      "website development team in Chatra",
       "web design in Chatra",
-      "app development company in Chatra",
+      "app development team in Chatra",
       "Android app development in Chatra",
-      "software company in Chatra",
+      "software team in Chatra",
       "SEO services in Chatra",
       "digital marketing in Chatra",
       "ecommerce website in Chatra",
@@ -74,19 +74,19 @@ const chatra: CityContent = {
     },
     {
       id: "coal-belt-transport-software",
-      heading: "Software company in Chatra for coal-belt transporters and equipment owners",
+      heading: "Software team in Chatra for coal-belt transporters and equipment owners",
       paragraphs: [
         "The North Karanpura coalfield runs into Chatra district, and Central Coalfields Limited operates large opencast projects such as Magadh and Amrapali in Tandwa block. NTPC's North Karanpura power station is also in the district. Around these sit hundreds of small businesses: truck and tipper owners, hired excavators and loaders, diesel suppliers, tyre shops, canteens, security agencies and labour contractors.",
         "Their records are often scattered across notebooks, driver phones and memory. Owners need to know which vehicle made how many trips, how much diesel it drew, what advance the driver took, and which contractor has not yet paid for last month's hours.",
-        "As a <strong>software company in Chatra</strong>, we build small web tools that capture a trip or machine shift in one entry from a phone, then total it by vehicle, driver and client. Pending bills, permit and insurance expiry dates and monthly profit per vehicle appear on one screen. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the trip or hour register because it earns back its cost first.",
+        "As a <strong>software team in Chatra</strong>, we build small web tools that capture a trip or machine shift in one entry from a phone, then total it by vehicle, driver and client. Pending bills, permit and insurance expiry dates and monthly profit per vehicle appear on one screen. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, beginning with the trip or hour register because it earns back its cost first.",
       ],
     },
     {
       id: "mining-contractor-websites",
-      heading: "Website development company in Chatra for contractors and mining suppliers",
+      heading: "Website development team in Chatra for contractors and mining suppliers",
       paragraphs: [
         "Large mining and power projects check vendors before they hire them. A contractor with only a visiting card looks smaller than one with a clear website, even when both have the same machines and experience. This matters for firms bidding on haulage, civil work, electrical maintenance, housekeeping and security at project sites.",
-        "A <strong>website development company in Chatra</strong> should keep such sites factual and easy to verify. List the services offered, machines and vehicles with capacity, registrations, GST and licence details, safety practices, the blocks and projects you can serve and named contact people. Add a quote request form that accepts drawings or tender documents.",
+        "A <strong>website development team in Chatra</strong> should keep such sites factual and easy to verify. List the services offered, machines and vehicles with capacity, registrations, GST and licence details, safety practices, the blocks and projects you can serve and named contact people. Add a quote request form that accepts drawings or tender documents.",
         "We never name a client or project on your site without written permission. Photographs should be your own work and equipment, not stock images. A capability website of this kind starts at ₹10,000 and is usually live within two weeks, and it can later link to the trip or job records described above.",
       ],
     },
@@ -119,10 +119,10 @@ const chatra: CityContent = {
     },
     {
       id: "clinics-sadar-hospital-area",
-      heading: "IT company in Chatra for clinics, labs and pharmacies",
+      heading: "IT services team in Chatra for clinics, labs and pharmacies",
       paragraphs: [
         "The Sadar Hospital on Jail Road and the private clinics, diagnostic labs and pharmacies around it serve patients who often travel a long way from remote blocks. Many arrive without knowing which doctor sits on which day or whether a test can be done locally.",
-        "An <strong>IT company in Chatra</strong> can help a clinic publish that information properly: doctors and their qualifications, OPD days and hours, tests offered, emergency numbers and directions from the bus stand. The pages must work in Hindi and load on basic phones with a weak signal.",
+        "An <strong>IT services team in Chatra</strong> can help a clinic publish that information properly: doctors and their qualifications, OPD days and hours, tests offered, emergency numbers and directions from the bus stand. The pages must work in Hindi and load on basic phones with a weak signal.",
         "We avoid medical claims and publish patient feedback only with written consent. A clinic website starts at ₹10,000. Appointment requests, lab report downloads or WhatsApp token numbers are quoted as separate items, so you can see exactly what each adds and choose only what reduces your counter queue.",
       ],
     },
@@ -149,7 +149,7 @@ const chatra: CityContent = {
       heading: "Android app development in Chatra, and iPhone apps from the same build",
       paragraphs: [
         "An app is worth the money when a fixed group of people opens it often. In Chatra, likely examples are drivers logging coal trips and fuel for a transport owner, parents of a school checking notices and fees, coaching students taking daily tests, or retailers in the blocks placing repeat orders with a wholesaler.",
-        "As an <strong>app development company in Chatra</strong> that works remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Chatra</strong> that works remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Chatra</strong> with us starts at ₹40,000. Offline mode for mine areas with patchy signal, payments, maps and integrations add cost, and each is listed in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, rates and phone number, a website does that job for far less. We will say so, because an app that nobody opens after the first week helps no one.",
       ],
@@ -232,7 +232,7 @@ const chatra: CityContent = {
         "A simple website of up to 100 pages is usually ready in one to two weeks after we receive your photos, prices and text. SEO sites take three to five weeks and online stores four to eight. Waiting for content causes most delays, so we send a short checklist on the first day.",
     },
     {
-      question: "Who is the best website development company in Chatra?",
+      question: "Who is the best website development team in Chatra?",
       answer:
         "Pick a provider that shows real work, publishes starting prices, registers the domain and code in your name and stays reachable after launch. Ask each option the same questions and compare written quotes. We meet these tests and answer on WhatsApp all week, but comparing two or three providers is wise.",
     },

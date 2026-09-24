@@ -10,12 +10,12 @@ const ponnur: CityContent = {
       "Telugu and English websites, Android and iOS apps, local SEO and WhatsApp automation for Ponnur rice mills, farm traders, weavers, brick kilns, clinics and schools.",
     keywords: [
       "IT services in Ponnur",
-      "IT company in Ponnur",
-      "website development company in Ponnur",
+      "IT services team in Ponnur",
+      "website development team in Ponnur",
       "web design in Ponnur",
-      "app development company in Ponnur",
+      "app development team in Ponnur",
       "Android app development in Ponnur",
-      "software company in Ponnur",
+      "software team in Ponnur",
       "SEO services in Ponnur",
       "digital marketing in Ponnur",
       "ecommerce website in Ponnur",
@@ -75,20 +75,20 @@ const ponnur: CityContent = {
     },
     {
       id: "rice-mills",
-      heading: "Website development company in Ponnur for rice mills and paddy traders",
+      heading: "Website development team in Ponnur for rice mills and paddy traders",
       paragraphs: [
         "Rice milling is one of Ponnur's best-established trades, with mills in and around Nidubrolu processing paddy grown across the delta. Much of this rice is sold through brokers and wholesalers, but more mills now want direct enquiries from distributors, retailers and bulk buyers in Hyderabad, Bengaluru, Chennai and other states.",
-        "As a <strong>website development company in Ponnur</strong> for millers, we build sites that answer a buyer's questions first: which varieties you mill, bag sizes, packing options, minimum order, whether you supply raw or boiled rice, dispatch arrangements and how to request a sample. Certifications, licences and export details appear only if you actually hold them. A clear enquiry form sends the buyer's name, city, variety and quantity straight to your WhatsApp.",
+        "As a <strong>website development team in Ponnur</strong> for millers, we build sites that answer a buyer's questions first: which varieties you mill, bag sizes, packing options, minimum order, whether you supply raw or boiled rice, dispatch arrangements and how to request a sample. Certifications, licences and export details appear only if you actually hold them. A clear enquiry form sends the buyer's name, city, variety and quantity straight to your WhatsApp.",
         "Many mills also want internal records on a screen instead of in ledgers. We build tools for paddy intake by farmer or agent, moisture and weight notes, milling output by batch, bag stock by variety, dispatches and pending payments. These run on a phone or office computer and can export to Excel for your accountant.",
         "A mill profile website starts at ₹10,000. A custom records tool starts at ₹60,000, depending on how much of your process it covers.",
       ],
     },
     {
       id: "farm-traders",
-      heading: "Software company in Ponnur for groundnut, cotton and betel traders",
+      heading: "Software team in Ponnur for groundnut, cotton and betel traders",
       paragraphs: [
         "Groundnut, cotton and betel leaf traders in Ponnur work on thin margins and quick decisions. A trader might buy from dozens of farmers in a week, sell to several buyers, advance money against the next crop and track commission for agents, often in a notebook and a WhatsApp chat.",
-        "As a <strong>software company in Ponnur</strong> clients can reach remotely, we build simple systems for this work. A purchase register records farmer, village, quantity, rate and advance. A sales register tracks buyer, lorry, weight and payment. Reports show who owes whom, how much stock is left and which agents brought the most business. The screens are in Telugu and English, and entries can be made on a phone at the yard.",
+        "As a <strong>software team in Ponnur</strong> clients can reach remotely, we build simple systems for this work. A purchase register records farmer, village, quantity, rate and advance. A sales register tracks buyer, lorry, weight and payment. Reports show who owes whom, how much stock is left and which agents brought the most business. The screens are in Telugu and English, and entries can be made on a phone at the yard.",
         "Betel leaf traders deal with a perishable product and fast dispatch, so a daily dispatch sheet with lorry and destination details often saves more trouble than anything else. Cotton traders may need to track bales and ginning charges.",
         "We keep these tools private, behind a login, and never publish rates or farmer details online. Data is backed up daily, so a lost phone does not mean a lost season.",
       ],
@@ -128,7 +128,7 @@ const ponnur: CityContent = {
       heading: "Android app development in Ponnur: when an app is worth it",
       paragraphs: [
         "An app is worth building when the same people use it again and again. In Ponnur that is usually staff and regular partners rather than the general public. A rice mill's field agents can log paddy purchases in villages from their phones. A transport owner's drivers can record trips and diesel. A school can send homework, attendance and fee reminders to parents by push notification.",
-        "As an <strong>app development company in Ponnur</strong> businesses can work with remotely, we build in Flutter or React Native, which means one app for both Android and iPhone. A first version usually has login, the few screens users need, push notifications, entries that save offline and sync later, and a web admin panel. <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> start at ₹40,000, and we publish them on Google Play and the App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Ponnur</strong> businesses can work with remotely, we build in Flutter or React Native, which means one app for both Android and iPhone. A first version usually has login, the few screens users need, push notifications, entries that save offline and sync later, and a web admin panel. <a href=\"/it-services/android-ios-app/\">Android and iOS apps</a> start at ₹40,000, and we publish them on Google Play and the App Store under developer accounts registered in your name.",
         "Telugu screens are standard in our Ponnur apps, because agents and parents are more comfortable with them. We test on the lower-cost phones most people actually carry.",
         "When is a website enough? If people contact you once or twice a year, such as a buyer checking a variety or a patient booking a visit, a mobile-friendly website with WhatsApp does the job at a fraction of the cost.",
       ],
@@ -185,9 +185,9 @@ const ponnur: CityContent = {
     },
     {
       id: "remote-team-ponnur",
-      heading: "IT company in Ponnur without an office: how the work runs",
+      heading: "IT services team in Ponnur without an office: how the work runs",
       paragraphs: [
-        "We are not a local <strong>IT company in Ponnur</strong> with a counter you can walk into, and we say so plainly. We are three engineers working remotely across India. Distance is rarely the problem in a project; unclear requirements are, and we spend our effort on getting those right.",
+        "We are not a local <strong>IT services team in Ponnur</strong> with a counter you can walk into, and we say so plainly. We are three engineers working remotely across India. Distance is rarely the problem in a project; unclear requirements are, and we spend our effort on getting those right.",
         "The process is simple. Send a WhatsApp message with your business name, what you do, and a few photos or examples you like. We ask questions, then send an itemised quote in about two working days. Once approved, you see a first draft within the agreed time, give feedback by voice note or text, and approve each change before it goes live. We reply seven days a week on Indian time.",
         "For Telugu content, we write carefully and ask you to review it, because you know how your customers speak. Calls can be in Hindi or English.",
         "Ready to begin? <a href=\"/contact/\">Send us a message</a> with what you need, and we will reply with questions and a quote.",
@@ -235,7 +235,7 @@ const ponnur: CityContent = {
         "A static website usually takes one to two weeks once we have your content and photos. An SEO website takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. The biggest delays come from waiting for text and pictures, so gathering them early speeds things up.",
     },
     {
-      question: "Which is the best website development company in Ponnur?",
+      question: "Which is the best website development team in Ponnur?",
       answer:
         "Choose the one that registers the domain and hosting in your name, gives a clear itemised quote and can show similar work. Ask everyone those questions. We are a remote team of three engineers with no Ponnur office, published starting prices and written quotes, so you can compare us fairly with local developers.",
     },

@@ -7,14 +7,14 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Siliguri",
     description:
-      "Freelance software developers for Siliguri, an alternative to a software development company: custom software, web apps, AI automation and SEO from ₹10,000.",
+      "Freelance software developers for Siliguri, an alternative to a software development team: custom software, web apps, AI automation and SEO from ₹10,000.",
     keywords: [
       "iOS app development Siliguri",
       "iPhone app developers Siliguri",
       "Android and iOS app development Siliguri",
       "mobile app developers Siliguri",
-      "software development company in Siliguri",
-      "IT company in Siliguri",
+      "software development team in Siliguri",
+      "IT services team in Siliguri",
       "IT solutions Siliguri",
       "custom software Siliguri",
       "web application development Siliguri",
@@ -28,7 +28,7 @@ const content: CityContent = {
       "SEO services Siliguri",
       "ecommerce website Siliguri",
       "IT support near me Siliguri",
-      "software company near Sevoke Road",
+      "software team near Sevoke Road",
       "web developer Hill Cart Road",
       "IT services North Bengal",
       "শিলিগুড়িতে সফটওয়্যার কোম্পানি",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Siliguri · West Bengal · Freelance IT solutions",
     h1: "Freelance software developers for Siliguri's distributors, transporters and travel firms",
     lede:
-      "Looking for a software development company in Siliguri that writes the code itself? BtechWaleTech is a freelance group of three software engineers working remotely from India who build the systems that sit behind a Siliguri business: stock and dispatch software for wholesalers, booking engines for tour operators heading to Sikkim and the Dooars, WhatsApp bots, dashboards, mobile apps and, when you need one, a fast website that ranks. Starting prices are published and every login is handed over to you.",
+      "Looking for a software development team in Siliguri that writes the code itself? BtechWaleTech is a freelance group of three software engineers working remotely from India who build the systems that sit behind a Siliguri business: stock and dispatch software for wholesalers, booking engines for tour operators heading to Sikkim and the Dooars, WhatsApp bots, dashboards, mobile apps and, when you need one, a fast website that ranks. Starting prices are published and every login is handed over to you.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Websites from ₹10,000", "Nepali, Bengali and Hindi interfaces", "5 months free maintenance"],
   },
   quickAnswer:
-    "Instead of a software development company in Siliguri, you can hire BtechWaleTech, a freelance group of three engineers working remotely from India. We build custom software and web apps from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks) and websites from ₹10,000, with no Siliguri office and quotes in about two working days.",
+    "Instead of a software development team in Siliguri, you can hire BtechWaleTech, a freelance group of three engineers working remotely from India. We build custom software and web apps from ₹60,000 (six to twelve weeks), AI and WhatsApp automation from ₹40,000 (two to four weeks) and websites from ₹10,000, with no Siliguri office and quotes in about two working days.",
   snapshot: [
     { label: "Where the city sits", value: "The Siliguri Corridor, the narrow land link between mainland India and the North East, with Nepal, Bhutan and Bangladesh a short drive away" },
     { label: "Main commercial roads", value: "Sevoke Road, Hill Cart Road, Burdwan Road and the Bidhan Market and Hong Kong Market areas" },
@@ -73,11 +73,11 @@ const content: CityContent = {
   sections: [
     {
       id: "software-company-siliguri",
-      heading: "What does a software development company in Siliguri actually build?",
+      heading: "What does a software development team in Siliguri actually build?",
       paragraphs: [
-        "A software development company in Siliguri mostly builds tools that remove paperwork from trade: order-taking apps for salesmen, stock and billing systems for distributors, trip sheets for transporters and booking engines for travel agents. Websites matter too, but for most businesses in this city the bigger return comes from the software that runs the day, not the page that advertises it.",
+        "A software development team in Siliguri mostly builds tools that remove paperwork from trade: order-taking apps for salesmen, stock and billing systems for distributors, trip sheets for transporters and booking engines for travel agents. Websites matter too, but for most businesses in this city the bigger return comes from the software that runs the day, not the page that advertises it.",
         "Siliguri earns its living by moving goods and people. Consumer goods arrive by rail at NJP and by truck along the national highways, then fan out to retailers in the Dooars, the hills of Darjeeling and Kalimpong, Sikkim, and across the border to Nepal and Bhutan. Tourists land at Bagdogra and need cabs, hotels and permits before they head uphill. Every one of those flows is still run, in many firms, on a register, a calculator and a dozen WhatsApp groups.",
-        "That is where we come in. We are a freelance group of three engineers, not a local agency with a showroom on Sevoke Road, and we build <a href=\"/services/\">custom software, web apps, mobile apps, automation and websites</a> around the way your business already works. We start by listening to how an order travels from the phone call to the invoice, then we write software that follows the same path, only faster and with fewer mistakes.",
+        "That is where we come in. We are a freelance group of three engineers working remotely, with no showroom on Sevoke Road, and we build <a href=\"/services/\">custom software, web apps, mobile apps, automation and websites</a> around the way your business already works. We start by listening to how an order travels from the phone call to the invoice, then we write software that follows the same path, only faster and with fewer mistakes.",
       ],
       list: [
         "Distributor and wholesaler software: orders, stock, party ledgers, schemes and collections",
@@ -185,7 +185,7 @@ const content: CityContent = {
     },
     {
       id: "cost-guide-siliguri",
-      heading: "How much does a software development company in Siliguri charge?",
+      heading: "How much does a software development team in Siliguri charge?",
       paragraphs: [
         "Software development in Siliguri with us starts at ₹60,000 for a custom web app or software, ₹40,000 for AI automation or an Android and iOS app, ₹50,000 for an online store and ₹10,000 for a static website. Those are starting points; the final price depends on the number of users and roles, integrations such as Tally or WhatsApp, reports and how much data needs migrating.",
         "Two businesses can ask for \"distributor software\" and need very different systems. One wants order capture and stock for a single godown. Another wants three godowns, a salesman app, scheme management, e-invoicing and a driver module. We break every quote into modules with a price beside each, so you can start with the essentials and add the rest when it proves useful.",
@@ -202,16 +202,16 @@ const content: CityContent = {
     },
     {
       id: "choosing-it-partner",
-      heading: "Freelance team vs an IT company in Siliguri: how to choose without regret",
+      heading: "Freelance team vs an IT services team in Siliguri: how to choose without regret",
       paragraphs: [
-        "The safest way to choose an IT company in Siliguri is to ask who will write the code, who owns it when the job ends, what happens after launch, and whether the price is itemised. Vague answers to any of those four questions are the usual cause of projects that stall halfway.",
+        "The safest way to choose an IT services team in Siliguri is to ask who will write the code, who owns it when the job ends, what happens after launch, and whether the price is itemised. Vague answers to any of those four questions are the usual cause of projects that stall halfway.",
         "Ask to speak to the people building your system rather than a salesperson. Ask whether the source code, domain, hosting and database will be registered in your name; they should be. Ask what support looks like six months later, and what it costs. Ask for a quote that lists modules and prices, not a single round number. And ask how requirements will be confirmed, because most disputes come from features that one side assumed and the other did not.",
         "With us, you talk directly to the three engineers doing the work, you own every account and every line of code, maintenance for five months after launch is included, and quotes come itemised. We do not have an office in Siliguri, and we say so plainly. You can read more about how we work on our <a href=\"/about/\">about page</a> or compare nearby options in the wider <a href=\"/it-services/west-bengal/\">West Bengal IT services hub</a>.",
       ],
     },
     {
       id: "project-timeline-siliguri",
-      heading: "How long does a software development company in Siliguri take to deliver?",
+      heading: "How long does a software development team in Siliguri take to deliver?",
       paragraphs: [
         "A custom software project for a Siliguri business usually takes six to twelve weeks, an automation project two to four weeks, and a website one to five weeks depending on size. The biggest variable is not coding speed but how quickly decisions and data come back from your side.",
         "We work in short, visible steps. First comes a requirement call and a written scope. Then screens are shown as clickable drafts before any heavy coding, so a salesman or accountant can say \"that is not how we do it\" early. Development follows in weekly releases you can test, then data migration, training and launch. For distributors we usually run the new system alongside the old register for a week or two before switching over.",
@@ -245,7 +245,7 @@ const content: CityContent = {
     },
     {
       id: "before-hiring-checklist",
-      heading: "What should a Siliguri business prepare before hiring a software company?",
+      heading: "What should a Siliguri business prepare before hiring a software team?",
       paragraphs: [
         "Before hiring any software company, a Siliguri business should write down its current process step by step, collect sample documents such as invoices, challans and trip sheets, list who will use the system, and decide which one problem hurts most. Those four things cut quoting time and prevent the most common arguments later.",
         "You do not need technical language. A plain note saying \"orders come by phone from 140 retailers, salesmen write them in a diary, the godown checks stock by walking the racks, and we find out about unpaid bills at month end\" tells a developer far more than a list of features copied from a brochure. Photos of the actual registers and bills help even more, because they show the fields your business genuinely uses.",
@@ -285,9 +285,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Which is the best software development company in Siliguri?",
+      question: "Which is the best software development team in Siliguri?",
       answer:
-        "There is no single best choice; it depends on what you need. Several firms operate locally, including units around the STPI centre and Webel IT Park. Compare them on who writes the code, whether you own the source and accounts, itemised pricing and support after launch. BtechWaleTech is a freelance group rather than a company, and a remote option worth comparing.",
+        "There is no single best choice; it depends on what you need. Several firms operate locally, including units around the STPI centre and Webel IT Park. Compare them on who writes the code, whether you own the source and accounts, itemised pricing and support after launch. BtechWaleTech is a small freelance group of three developers, and a remote option worth comparing.",
     },
     {
       question: "Do you have an office in Siliguri?",

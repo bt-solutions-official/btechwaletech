@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers for Churachandpur (Lamka): information and update sites, offline apps, NGO and school software, WhatsApp automation and local SEO.",
     keywords: [
-      "software development company in Churachandpur",
-      "IT company in Churachandpur",
+      "software development team in Churachandpur",
+      "IT services team in Churachandpur",
       "IT solutions Churachandpur",
       "freelance software developer Lamka",
       "website design Churachandpur",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT solutions · Churachandpur (Lamka), Manipur",
     h1: "Freelance software developers in Churachandpur for community, school, clinic and business needs",
     lede:
-      "Most people searching for a software development company in Churachandpur want something practical: a reliable information site, a way to send updates, and records that survive disruption. BtechWaleTech is a freelance group of three engineers working remotely from India. We build information and notice systems, offline-ready apps, school, clinic and NGO software, WhatsApp automation and local SEO for Lamka and the district.",
+      "Most people searching for a software development team in Churachandpur want something practical: a reliable information site, a way to send updates, and records that survive disruption. BtechWaleTech is a freelance group of three engineers working remotely from India. We build information and notice systems, offline-ready apps, school, clinic and NGO software, WhatsApp automation and local SEO for Lamka and the district.",
     pills: ["Information sites from ₹10,000", "Offline-ready record apps", "Notice and update systems", "NGO and school software", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "Rather than a software development company in Churachandpur, BtechWaleTech is a remote freelance group of three engineers. Information websites start at ₹10,000 (one to two weeks), WhatsApp automation or an Android and iOS app at ₹40,000 and custom record software at ₹60,000 (six to twelve weeks). We have no office in Manipur and quote itemised prices in about two working days.",
+    "Rather than a software development team in Churachandpur, BtechWaleTech is a remote freelance group of three engineers. Information websites start at ₹10,000 (one to two weeks), WhatsApp automation or an Android and iOS app at ₹40,000 and custom record software at ₹60,000 (six to twelve weeks). We have no office in Manipur and quote itemised prices in about two working days.",
   snapshot: [
     { label: "Town", value: "Churachandpur, widely called Lamka, is Manipur's second-largest town and the district headquarters" },
     { label: "Administration", value: "District offices at Tuibong, just north of the main town" },
@@ -71,9 +71,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-developers-churachandpur",
-      heading: "What should a software development company in Churachandpur provide?",
+      heading: "What should a software development team in Churachandpur provide?",
       paragraphs: [
-        "A software development company in Churachandpur, or a freelance team serving the district, should provide tools that keep information accurate and records safe under difficult conditions: information websites, update and notice systems, offline-capable record apps, WhatsApp automation and local search visibility. Reliability and simplicity matter far more here than advanced features.",
+        "A software development team in Churachandpur, or a freelance team serving the district, should provide tools that keep information accurate and records safe under difficult conditions: information websites, update and notice systems, offline-capable record apps, WhatsApp automation and local search visibility. Reliability and simplicity matter far more here than advanced features.",
         "Churachandpur, known locally as Lamka, is Manipur's second-largest town and a centre for schools, churches, clinics, community organisations and small traders serving the surrounding villages. Since 2023, disrupted road links with the Imphal valley and repeated connectivity problems have made reliable communication and record-keeping more important than ever.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Churachandpur or elsewhere in Manipur. We work through WhatsApp, phone and email, and adapt to slow connections by sending smaller files, using voice notes and keeping systems as light as possible.",
       ],
@@ -213,7 +213,7 @@ const content: CityContent = {
       heading: "What does IT work cost in Churachandpur, and how should you choose a provider?",
       paragraphs: [
         "IT work for Churachandpur clients with BtechWaleTech starts at ₹10,000 for a static information website, ₹20,000 for a 700+ page SEO website, ₹40,000 for automation or an Android and iOS app, ₹50,000 for an online store and ₹60,000 for custom software. Monthly SEO starts at ₹10,000 and maintenance at ₹8,000 a month after five free months. See the <a href='/pricing/'>pricing page</a>.",
-        "If you are comparing a software development company for Churachandpur with a freelance team, ask who writes the code, whether scope and price are written down, whether the domain and hosting will be in your name, and how the system behaves offline. Local providers can visit; remote teams usually cost less for software and web work.",
+        "If you are comparing a software development team for Churachandpur with a freelance team, ask who writes the code, whether scope and price are written down, whether the domain and hosting will be in your name, and how the system behaves offline. Local providers can visit; remote teams usually cost less for software and web work.",
         "Payments to us are made only by UPI, by scanning our QR code, or by direct bank transfer to our bank account, in rupees and in milestones. Earlier work is in our <a href='/portfolio/'>portfolio</a>, and more about us is on the <a href='/about/'>about page</a>.",
       ],
     },
@@ -311,7 +311,7 @@ const content: CityContent = {
         "Yes. Android and iOS apps start at ₹40,000 and take six to ten weeks. We build once in Flutter or React Native, make sure entries save offline and sync later, and publish on Google Play and the App Store under accounts in your name. For simple needs, a cheaper progressive web app may be enough, and we will say so.",
     },
     {
-      question: "Is there a software development company in Churachandpur we could hire locally?",
+      question: "Is there a software development team in Churachandpur we could hire locally?",
       answer:
         "There are local computer and web service providers in Lamka, and they are valuable for hardware, networking and on-site help. For software, websites and automation, remote teams are also practical. Compare any provider on earlier work, written scope, ownership of accounts, offline planning and support terms.",
     },

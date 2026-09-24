@@ -9,7 +9,7 @@ const brahmapur: CityContent = {
     description:
       "Websites, local SEO and WhatsApp automation for Berhampur shops, silk weavers, clinics and coaching centres. From ₹10,000 with 5 months of free maintenance.",
     keywords: [
-      "website development company in Berhampur",
+      "website development team in Berhampur",
       "website designer Brahmapur",
       "web design Berhampur Odisha",
       "freelance web developer Berhampur",
@@ -17,7 +17,7 @@ const brahmapur: CityContent = {
       "local SEO Brahmapur",
       "ecommerce website Berhampur",
       "Berhampuri silk saree online store",
-      "software company Berhampur",
+      "software team Berhampur",
       "WhatsApp automation Berhampur",
       "AI automation Odisha",
       "website maintenance Berhampur",

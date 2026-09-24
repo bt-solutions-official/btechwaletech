@@ -9,12 +9,12 @@ const thane: CityContent = {
     description:
       "Websites, local SEO and automation for Thane clinics, classes, restaurants, builders and Wagle Estate firms. From ₹10,000 with 5 months free maintenance.",
     keywords: [
-      "website development company in Thane",
-      "website design company Thane",
+      "website development team in Thane",
+      "website design team Thane",
       "web designer Thane West",
       "freelance web developer Thane",
       "website cost in Thane",
-      "SEO company in Thane",
+      "SEO team in Thane",
       "local SEO Ghodbunder Road",
       "ecommerce website Thane",
       "software development Wagle Estate",

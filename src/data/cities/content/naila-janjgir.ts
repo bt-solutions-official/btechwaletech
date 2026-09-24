@@ -10,12 +10,12 @@ const nailaJanjgir: CityContent = {
       "Hindi-first websites, Android and iOS apps, local SEO and WhatsApp automation for Naila Janjgir rice mills, kosa weavers, plant suppliers, clinics and advocates.",
     keywords: [
       "IT services in Naila Janjgir",
-      "IT company in Janjgir",
-      "website development company in Naila Janjgir",
+      "IT services team in Janjgir",
+      "website development team in Naila Janjgir",
       "web design in Janjgir",
-      "app development company in Janjgir",
+      "app development team in Janjgir",
       "Android app development in Naila Janjgir",
-      "software company in Janjgir",
+      "software team in Janjgir",
       "SEO services in Janjgir",
       "digital marketing in Naila Janjgir",
       "ecommerce website in Janjgir",
@@ -74,10 +74,10 @@ const nailaJanjgir: CityContent = {
     },
     {
       id: "rice-mill-software",
-      heading: "Software company in Naila Janjgir for rice mills and grain traders",
+      heading: "Software team in Naila Janjgir for rice mills and grain traders",
       paragraphs: [
         "Paddy is the district's main crop, and rice milling is one of its most common businesses. A mill's season is a blur of trucks arriving, paddy being weighed and stacked, milling runs, bran and husk sales, gunny bag counts, dispatch of rice and a steady stream of paperwork for buyers and agencies.",
-        "Most mills still run this on paper registers and Excel files that only one person understands. When that person is away, nobody knows the true stock position. As a <strong>software company in Janjgir</strong> for this trade, we build web tools around the owner's real process: paddy received by lot and supplier, moisture and weight, milling output by batch, by-product sales, bag inventory and dispatch challans. Totals and pending balances are visible on the owner's phone at any hour.",
+        "Most mills still run this on paper registers and Excel files that only one person understands. When that person is away, nobody knows the true stock position. As a <strong>software team in Janjgir</strong> for this trade, we build web tools around the owner's real process: paddy received by lot and supplier, moisture and weight, milling output by batch, by-product sales, bag inventory and dispatch challans. Totals and pending balances are visible on the owner's phone at any hour.",
         "We start small, often with just the stock and dispatch register, and add modules only after the first one is in daily use. Custom software starts at ₹60,000 and takes six to twelve weeks. Grain and fertiliser traders get a lighter version: billing, stock, credit limits for village retailers and reminders for overdue payments. Data from Tally or Excel is imported so staff do not retype years of records.",
       ],
     },
@@ -92,19 +92,19 @@ const nailaJanjgir: CityContent = {
     },
     {
       id: "power-cement-suppliers",
-      heading: "Website development company in Naila Janjgir for plant and cement suppliers",
+      heading: "Website development team in Naila Janjgir for plant and cement suppliers",
       paragraphs: [
         "The district has a heavy industrial edge. The KSK Mahanadi power project at Nariyara is designed for six units of 600 MW, the state power company's Marwa plant stands near Champa, and Akaltara is known for limestone, cement works and rice mills. Paper and steel units operate around Champa as well.",
-        "Each of these plants relies on local contractors for civil work, fabrication, electrical maintenance, transport, manpower, catering and housekeeping. When a purchase team or a project engineer checks a supplier, a proper website makes a quiet but real difference. A <strong>website development company in Naila Janjgir</strong> should give these firms a clear record: services offered, machinery owned, workforce, safety practices, licences and registrations, and named people to contact.",
+        "Each of these plants relies on local contractors for civil work, fabrication, electrical maintenance, transport, manpower, catering and housekeeping. When a purchase team or a project engineer checks a supplier, a proper website makes a quiet but real difference. A <strong>website development team in Naila Janjgir</strong> should give these firms a clear record: services offered, machinery owned, workforce, safety practices, licences and registrations, and named people to contact.",
         "We write these sites in plain English, with Hindi where the audience is local, and we never name a client plant without your written confirmation that you may. For fabrication and engineering shops, we add a quotation form that accepts drawings and specifications. Static sites start at ₹10,000 and go live in one to two weeks. Read more on our <a href=\"/services/web-development/\">website development service</a>.",
       ],
     },
     {
       id: "advocates-consultants-contractors",
-      heading: "IT company in Janjgir for advocates, consultants and government contractors",
+      heading: "IT services team in Janjgir for advocates, consultants and government contractors",
       paragraphs: [
         "A district headquarters has a professional class that a mill town does not: advocates practising in the district court, chartered accountants and tax practitioners, architects and civil engineers, insurance and loan agents, and contractors who work on roads, buildings and canals for government departments.",
-        "Their clients mostly find them by word of mouth, then check online before calling. As an <strong>IT company in Janjgir</strong>, we build these professionals quiet, factual websites: areas of practice, qualifications, office address with a precise map pin, office hours, and a contact form that respects confidentiality. We follow the professional rules that apply, so an advocate's page informs rather than advertises.",
+        "Their clients mostly find them by word of mouth, then check online before calling. As an <strong>IT services team in Janjgir</strong>, we build these professionals quiet, factual websites: areas of practice, qualifications, office address with a precise map pin, office hours, and a contact form that respects confidentiality. We follow the professional rules that apply, so an advocate's page informs rather than advertises.",
         "Contractors benefit from a record of completed work with photographs, equipment lists, registration class and contact details, presented so an engineer from another district can judge capacity quickly. Many of these users also want small internal tools: case diaries, client reminder systems, document checklists or a register of bills pending with departments. We build them as simple web apps that open on a phone and a desktop alike.",
       ],
     },
@@ -131,7 +131,7 @@ const nailaJanjgir: CityContent = {
       heading: "Android app development in Naila Janjgir, plus iOS from one codebase",
       paragraphs: [
         "Not every business in Janjgir needs an app, and we would rather say that up front. An app makes sense when the same group of people will use it often: parents of a school checking homework and fee dues, patients of a busy clinic taking tokens, village retailers re-ordering from a wholesale trader every week, or mill staff recording paddy lots at the weighbridge.",
-        "As an <strong>app development company in Janjgir</strong>, we use Flutter or React Native, which lets one project run on both Android phones and iPhones. A first release normally includes mobile login with OTP, the handful of screens your users need, push notifications and an admin panel for your office. Offline entry that syncs later is available for mills and fields where the signal is weak.",
+        "As an <strong>app development team in Janjgir</strong>, we use Flutter or React Native, which lets one project run on both Android phones and iPhones. A first release normally includes mobile login with OTP, the handful of screens your users need, push notifications and an admin panel for your office. Offline entry that syncs later is available for mills and fields where the signal is weak.",
         "<strong>Android app development in Naila Janjgir</strong> with us starts at ₹40,000. Payment collection, maps, barcode scanning and links to your existing software are priced as separate lines. The app is published on Google Play and the Apple App Store under developer accounts registered to you, and we handle the store review process. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for details.",
         "If your customers mostly need your address, timings and a phone number, a website is cheaper and does the job without asking anyone to install anything. We will recommend that instead.",
       ],
@@ -237,7 +237,7 @@ const nailaJanjgir: CityContent = {
         "Yes. We build stores with accurate photos, fabric and care details, UPI and card checkout and courier charges by pin code, starting at ₹50,000. For weavers selling mainly to boutiques, a catalogue with WhatsApp enquiries from ₹10,000 may suit better. We also help with Google Merchant product listings.",
     },
     {
-      question: "Which is the best website development company in Naila Janjgir?",
+      question: "Which is the best website development team in Naila Janjgir?",
       answer:
         "Choose a provider that shows its prices openly, registers the domain and code in your name, can show real work and still answers after launch. Ask each one the same questions in writing. We meet those tests and reply on WhatsApp all week, but comparing a few options before you decide is always wise.",
     },

@@ -10,12 +10,12 @@ const sankarankovil: CityContent = {
       "Tamil websites, Android and iOS apps, local SEO and WhatsApp automation for Sankarankovil powerloom units, towel and lungi traders, temple-town shops and clinics.",
     keywords: [
       "IT services in Sankarankovil",
-      "IT company in Sankarankovil",
-      "website development company in Sankarankovil",
+      "IT services team in Sankarankovil",
+      "website development team in Sankarankovil",
       "web design in Sankarankovil",
-      "app development company in Sankarankovil",
+      "app development team in Sankarankovil",
       "Android app development in Sankarankovil",
-      "software company in Sankarankovil",
+      "software team in Sankarankovil",
       "SEO services in Sankarankovil",
       "digital marketing in Sankarankovil",
       "ecommerce website in Sankarankovil",
@@ -75,20 +75,20 @@ const sankarankovil: CityContent = {
     },
     {
       id: "powerloom-towel-websites",
-      heading: "Website development company in Sankarankovil for powerloom and towel units",
+      heading: "Website development team in Sankarankovil for powerloom and towel units",
       paragraphs: [
         "A weaving unit here usually sells through agents and wholesalers in other cities, and those buyers increasingly want to see a proper catalogue before they place a first order. A WhatsApp photo album gets a unit so far; a clear website with sizes, weights and fabric details gets it taken seriously by a distributor in Bengaluru or Hyderabad.",
-        "As a <strong>website development company in Sankarankovil</strong>, we build sites that describe what you actually make: terry towel sizes and GSM ranges, lungi checks and borders, cotton sari counts, handkerchief packs, colours available, minimum order quantities, packing and dispatch terms. Photographs taken in daylight on a plain sheet do more than any design trick.",
+        "As a <strong>website development team in Sankarankovil</strong>, we build sites that describe what you actually make: terry towel sizes and GSM ranges, lungi checks and borders, cotton sari counts, handkerchief packs, colours available, minimum order quantities, packing and dispatch terms. Photographs taken in daylight on a plain sheet do more than any design trick.",
         "The site can include an enquiry form that asks the right questions up front, such as quantity, size, colour and delivery city, so you spend less time on buyers who were never serious. For units that do job work, a separate page explains loom capacity and turnaround without revealing your customers' names.",
         "A static catalogue site starts at ₹10,000 and takes one to two weeks once photographs are ready. It can grow into a wholesale store later on the same domain, without starting again.",
       ],
     },
     {
       id: "weaving-production-software",
-      heading: "Software company in Sankarankovil for loom production, yarn and wages",
+      heading: "Software team in Sankarankovil for loom production, yarn and wages",
       paragraphs: [
         "Behind every towel order is a chain of records: yarn purchased and issued, beams prepared, looms assigned, metres or pieces produced per shift, rejects, job-work wages, packing and dispatch. Many units still keep these in notebooks, and owners find out a loom has been idle only when an order runs late.",
-        "As a <strong>software company in Sankarankovil</strong>, we build web tools that follow the way your unit already runs. The supervisor records production per loom from a phone, yarn stock moves automatically when a beam is issued, weekly wages are calculated from output, and pending orders show how much is woven, packed and dispatched. The owner sees the whole picture on one screen, even while travelling to meet buyers.",
+        "As a <strong>software team in Sankarankovil</strong>, we build web tools that follow the way your unit already runs. The supervisor records production per loom from a phone, yarn stock moves automatically when a beam is issued, weekly wages are calculated from output, and pending orders show how much is woven, packed and dispatched. The owner sees the whole picture on one screen, even while travelling to meet buyers.",
         "We start small. The first stage is usually the production and wage register, because it saves arguments on payday and shows which looms need attention. Order tracking, buyer ledgers and dispatch documents come next if they prove useful.",
         "Custom software starts at ₹60,000 and is built over six to twelve weeks in stages. If your accountant uses Tally, we can export data in a form that imports cleanly instead of being typed twice.",
       ],
@@ -118,7 +118,7 @@ const sankarankovil: CityContent = {
       heading: "Android app development in Sankarankovil and iOS apps for regular customers",
       paragraphs: [
         "An app is only worth its cost when a defined group opens it again and again. In Sankarankovil, that could be textile retailers across Tamil Nadu and Kerala re-ordering towels and lungis from one unit, a master weaver's job-work weavers logging output, a school sending notices and fee reminders to parents, or a clinic giving patients tokens and reports.",
-        "As an <strong>app development company in Sankarankovil</strong> working remotely, we build in Flutter or React Native, so the same code runs on Android phones and iPhones. A first release typically has mobile number login, push notifications, the key screens your users need and an admin panel for your staff. It is published on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Sankarankovil</strong> working remotely, we build in Flutter or React Native, so the same code runs on Android phones and iPhones. A first release typically has mobile number login, push notifications, the key screens your users need and an admin panel for your staff. It is published on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Sankarankovil</strong> with us starts at ₹40,000. Online payments, Tamil screens, offline entry for loom sheds with poor signal and links to billing software increase the scope, and each is priced separately. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your buyers only need a catalogue, your address and a WhatsApp number, a website does that at a fraction of the price. We would rather build you the website than an app that is installed once and forgotten.",
       ],
@@ -164,9 +164,9 @@ const sankarankovil: CityContent = {
     },
     {
       id: "remote-team-sankarankovil",
-      heading: "IT company in Sankarankovil without a local office: our working method",
+      heading: "IT services team in Sankarankovil without a local office: our working method",
       paragraphs: [
-        "Being a remote <strong>IT company in Sankarankovil</strong> means we rely on clear documents instead of shop visits. After a first call about your business, you receive a written page or screen plan, a timeline and an itemised quote. Once approved, work moves forward on preview links you can open on your own phone and pass to family members or partners.",
+        "Being a remote <strong>IT services team in Sankarankovil</strong> means we rely on clear documents instead of shop visits. After a first call about your business, you receive a written page or screen plan, a timeline and an itemised quote. Once approved, work moves forward on preview links you can open on your own phone and pass to family members or partners.",
         "We reply on WhatsApp every day of the week, including Sundays, on Indian Standard Time. Tamil text goes to you for checking before anything is published. If a delay comes up, you hear about it when we know, not on the delivery date.",
         "Payment is staged against visible progress, and nothing is charged before written approval. You can reach us any time through our <a href=\"/contact/\">contact page</a>.",
       ],
@@ -231,7 +231,7 @@ const sankarankovil: CityContent = {
         "A static site usually goes live within one to two weeks of receiving your content and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Sankarankovil?",
+      question: "Who is the best website development team in Sankarankovil?",
       answer:
         "Look for someone who publishes prices, registers the domain and code in your name, stays reachable after launch and can show real work. Put the same questions to every option. We meet those tests and answer WhatsApp seven days a week, but comparing a few providers first is wise.",
     },

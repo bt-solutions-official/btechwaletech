@@ -9,7 +9,7 @@ const jharsuguda: CityContent = {
     description:
       "Vendor websites, local SEO, job-tracking tools and WhatsApp automation for Jharsuguda, Brajrajnagar and Belpahar firms. Static websites start from ₹10,000.",
     keywords: [
-      "website development company in Jharsuguda",
+      "website development team in Jharsuguda",
       "web designer Jharsuguda",
       "website design Jharsuguda",
       "freelance web developer Jharsuguda",

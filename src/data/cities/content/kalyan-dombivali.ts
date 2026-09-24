@@ -11,7 +11,7 @@ const kalyanDombivali: CityContent = {
     keywords: [
       "website developer in Kalyan",
       "website design Dombivli",
-      "web development company Kalyan Dombivli",
+      "web development team Kalyan Dombivli",
       "freelance web designer Dombivli",
       "website cost in Kalyan",
       "SEO services Kalyan",

@@ -10,12 +10,12 @@ const shahdol: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shahdol shops, hospitals, colleges and coal-belt suppliers. Starting prices, no lock-in.",
     keywords: [
       "IT services in Shahdol",
-      "IT company in Shahdol",
-      "website development company in Shahdol",
+      "IT services team in Shahdol",
+      "website development team in Shahdol",
       "web design in Shahdol",
-      "app development company in Shahdol",
+      "app development team in Shahdol",
       "Android app development in Shahdol",
-      "software company in Shahdol",
+      "software team in Shahdol",
       "SEO services in Shahdol",
       "digital marketing in Shahdol",
       "ecommerce website in Shahdol",
@@ -69,7 +69,7 @@ const shahdol: CityContent = {
       paragraphs: [
         "Shahdol is the headquarters of both the district and the division, so its hospitals, colleges, courts, wholesale markets and dealerships serve people from Anuppur, Umaria and dozens of forest villages. A shop on Pali Road or a clinic near Jaistambh Chowk is really competing for customers who live an hour or more away and decide where to go before they board the bus or train.",
         "Those customers now make that decision on a phone. They search in Hindi or Hinglish, compare two or three names on Google Maps, look at photographs and call whoever answers first. When a business has no website, a wrong phone number on its listing or no reviews at all, it simply drops out of that shortlist.",
-        "That is the gap an <strong>IT company in Shahdol</strong> should close, and it rarely needs anything elaborate. A clear website, a corrected map listing, a WhatsApp button and, for some firms, a small Android and iOS app are usually enough. We are three engineers working remotely, and we build exactly that for Shahdol businesses without the overheads of a local office.",
+        "That is the gap an <strong>IT services team in Shahdol</strong> should close, and it rarely needs anything elaborate. A clear website, a corrected map listing, a WhatsApp button and, for some firms, a small Android and iOS app are usually enough. We are three engineers working remotely, and we build exactly that for Shahdol businesses without the overheads of a local office.",
       ],
     },
     {
@@ -89,11 +89,11 @@ const shahdol: CityContent = {
     },
     {
       id: "coal-belt-suppliers-shahdol",
-      heading: "Software company in Shahdol for Sohagpur coalfield contractors and suppliers",
+      heading: "Software team in Shahdol for Sohagpur coalfield contractors and suppliers",
       paragraphs: [
         "The Sohagpur Coalfield around Burhar and Dhanpuri is the district's economic engine, and it supports a long chain of smaller businesses: transporters, earth-moving and crane hire, workshops, tyre and spare-part dealers, electrical contractors, canteen and housekeeping providers, security agencies and hardware suppliers. The coal bed methane blocks in Sohagpur East and West have added further contract work for local firms.",
         "When a purchase officer or project engineer is handed your name, the first thing they do is look you up. A factual capability website, with your fleet or equipment list, the kinds of sites you have handled, registrations, safety practice and a named contact person, makes a Burhar or Dhanpuri contractor look as organised as a larger firm from outside the state.",
-        "Many of these businesses also run on registers and phone calls. As a <strong>software company in Shahdol</strong>'s coal belt would, we build internal web tools for trip sheets, diesel logs, vehicle documents, job cards, labour attendance and monthly billing, all usable on a supervisor's phone. Custom software starts from ₹60,000 and is modelled on the paperwork you already keep, so adoption does not depend on long training sessions.",
+        "Many of these businesses also run on registers and phone calls. As a <strong>software team in Shahdol</strong>'s coal belt would, we build internal web tools for trip sheets, diesel logs, vehicle documents, job cards, labour attendance and monthly billing, all usable on a supervisor's phone. Custom software starts from ₹60,000 and is modelled on the paperwork you already keep, so adoption does not depend on long training sessions.",
       ],
     },
     {
@@ -118,7 +118,7 @@ const shahdol: CityContent = {
       id: "android-ios-apps-shahdol",
       heading: "Android app development in Shahdol, with iOS included",
       paragraphs: [
-        "As an <strong>app development company in Shahdol</strong>'s market, we build one codebase in Flutter or React Native that runs on both Android and iPhone. Apps start from ₹40,000 and include login, push notifications, an admin panel for your staff, and publishing on Google Play and the Apple App Store under accounts registered in your own name.",
+        "As an <strong>app development team in Shahdol</strong>'s market, we build one codebase in Flutter or React Native that runs on both Android and iPhone. Apps start from ₹40,000 and include login, push notifications, an admin panel for your staff, and publishing on Google Play and the Apple App Store under accounts registered in your own name.",
         "The businesses that genuinely need an app here are the ones whose customers come back every week. A coaching institute can mark attendance, post test results and remind parents about fees. A clinic can issue tokens and send report-ready alerts. A building-material dealer or FMCG distributor can let retailers in Burhar, Beohari and Jaisinghnagar place repeat orders from a price list, and a transporter can let drivers upload trip slips and diesel bills from the road.",
         "If your customers visit once a year, a website is enough and costs less, and we will tell you so. Many Shahdol clients start with a ₹10,000 site, see how enquiries grow, and add an app later that reuses the same content. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> before you decide.",
       ],
@@ -191,11 +191,11 @@ const shahdol: CityContent = {
     },
     {
       id: "choosing-website-development-company-shahdol",
-      heading: "How to choose a website development company in Shahdol",
+      heading: "How to choose a website development team in Shahdol",
       paragraphs: [
         "Before paying anyone, ask whose name the domain will be registered in and insist on your own. Ask for hosting and app store logins at handover. Open two or three of their previous sites on your own phone using mobile data, not office Wi-Fi, and see how quickly they load.",
         "Be wary of anyone who promises the top spot on Google within weeks or sells hundreds of cheap backlinks; nobody controls Google's rankings, and bad links can hurt a site. Check that page titles, descriptions, a sitemap and Search Console setup are included, because these are the steps most often skipped.",
-        "Finally, notice how quickly and clearly they reply before you pay anything. A <strong>website development company in Shahdol</strong> that is slow during the sales conversation rarely becomes faster once the advance has been sent.",
+        "Finally, notice how quickly and clearly they reply before you pay anything. A <strong>website development team in Shahdol</strong> that is slow during the sales conversation rarely becomes faster once the advance has been sent.",
       ],
     },
   ],
@@ -240,7 +240,7 @@ const shahdol: CityContent = {
         "Yes. We build one app in Flutter or React Native that runs on Android and iPhone, with login, push notifications and an admin panel, and publish it on Google Play and the App Store in your name. Apps start from ₹40,000. Coaching institutes, clinics, distributors and transporters are the most common users here.",
     },
     {
-      question: "Which is the best IT company in Shahdol for a small business?",
+      question: "Which is the best IT services team in Shahdol for a small business?",
       answer:
         "The best choice is whoever puts the domain and code in your name, shows working sites you can test on your phone, gives a written itemised quote and replies quickly. We meet those tests as a remote team of three engineers, but compare us with local options on the same points before deciding.",
     },

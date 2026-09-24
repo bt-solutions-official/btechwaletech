@@ -10,8 +10,8 @@ const content: CityContent = {
       "Freelance IT services in Manipur: custom software, offline-ready apps, AI and WhatsApp automation, websites and SEO. Websites from ₹10,000, paid by UPI or bank.",
     keywords: [
       "IT services in Manipur",
-      "software development company in Manipur",
-      "IT company in Manipur",
+      "software development team in Manipur",
+      "IT services team in Manipur",
       "freelance software developers Manipur",
       "website development Manipur",
       "custom software Imphal Manipur",
@@ -210,7 +210,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-manipur",
-      heading: "Freelance team vs an IT company in Manipur: which should you hire?",
+      heading: "Freelance team vs an IT services team in Manipur: which should you hire?",
       paragraphs: [
         "If you are comparing IT companies in Manipur with a freelance team, the main differences are cost, access and on-site support. A local company can visit your office and handle hardware; a remote freelance group like BtechWaleTech offers lower prices and direct access to the engineers, but cannot come in person.",
         "For websites, software, apps, automation and SEO, remote work is usually just as effective, provided communication is clear and everything is written down. For networking, CCTV or computer repair, a local technician is the right choice. Many Manipur organisations use both.",

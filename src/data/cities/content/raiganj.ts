@@ -9,7 +9,7 @@ const raiganj: CityContent = {
     description:
       "Website design, Google Maps setup, Tulaipanji rice stores and WhatsApp tools for Raiganj traders, clinics, tutors and shops across Uttar Dinajpur. Written quotes.",
     keywords: [
-      "website development company in Raiganj",
+      "website development team in Raiganj",
       "web designer Raiganj",
       "website design Uttar Dinajpur",
       "SEO services Raiganj",

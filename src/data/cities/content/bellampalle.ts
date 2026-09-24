@@ -10,12 +10,12 @@ const bellampalle: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Bellampalle mine contractors, transporters, clinics, schools and shops.",
     keywords: [
       "IT services in Bellampalle",
-      "IT company in Bellampalli",
-      "website development company in Bellampalle",
+      "IT services team in Bellampalli",
+      "website development team in Bellampalle",
       "web design in Bellampalli",
-      "app development company in Bellampalle",
+      "app development team in Bellampalle",
       "Android app development in Bellampalli",
-      "software company in Bellampalle",
+      "software team in Bellampalle",
       "SEO services in Bellampalli",
       "digital marketing in Bellampalle",
       "ecommerce website in Bellampalli",
@@ -74,20 +74,20 @@ const bellampalle: CityContent = {
     },
     {
       id: "mine-contractors-bellampalle",
-      heading: "Software company in Bellampalle for colliery contractors and transporters",
+      heading: "Software team in Bellampalle for colliery contractors and transporters",
       paragraphs: [
         "A working coal belt needs a long chain of contractors. Tippers and lorries move coal and overburden, workshops keep heavy machines and pumps running, labour suppliers fill shifts, and vendors bring tyres, lubricants, cables, safety shoes and spares. The railway siding at Bellampalli station, known for its continuous coal loading, adds another layer of movement to track.",
         "For these firms the hard part is not the work but the record of the work. An owner has to reconcile trips per vehicle per shift, diesel issued against distance, advances paid to drivers and helpers, and bills that are raised and then wait for months. When two partners keep separate diaries or a supervisor changes, the numbers stop matching and disputes begin.",
-        "As a <strong>software company in Bellampalle</strong> in practical terms, we build small web tools for this. A supervisor records each trip once from a phone, with vehicle number, shift, material and slip number. Diesel and advances go into the same place. The owner sees totals by vehicle, driver and client, pending bills with their age, and reminders before permits, fitness certificates or insurance expire.",
+        "As a <strong>software team in Bellampalle</strong> in practical terms, we build small web tools for this. A supervisor records each trip once from a phone, with vehicle number, shift, material and slip number. Diesel and advances go into the same place. The owner sees totals by vehicle, driver and client, pending bills with their age, and reminders before permits, fitness certificates or insurance expire.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We usually begin with the trip and diesel register, because that is where most contractors see the quickest return, and add billing, attendance or a driver app only once the first part is in daily use.",
       ],
     },
     {
       id: "suppliers-websites-bellampalle",
-      heading: "Website development company in Bellampalle for mine suppliers and service firms",
+      heading: "Website development team in Bellampalle for mine suppliers and service firms",
       paragraphs: [
         "Large buyers, including public sector purchase offices and bigger contractors, now look up vendors online before they call them. A supplier with no website, or with a free page full of stock photographs, looks smaller and less reliable than it is. That matters when a firm is trying to get onto an approved vendor list or win a repeat order.",
-        "A <strong>website development company in Bellampalle</strong> should keep these sites factual and easy to verify. The useful pages are the services offered, equipment and vehicles owned, the sectors served, safety practices, GST and registration details, and named people to contact. It should load quickly on a desktop in a purchase office and on a phone at a site gate.",
+        "A <strong>website development team in Bellampalle</strong> should keep these sites factual and easy to verify. The useful pages are the services offered, equipment and vehicles owned, the sectors served, safety practices, GST and registration details, and named people to contact. It should load quickly on a desktop in a purchase office and on a phone at a site gate.",
         "We never show a client's name or logo on your site without written permission from that client, and we do not describe work you have not done. Workshops that handle repeat jobs can add a quotation form with file upload, or a job status page so regular customers stop phoning to ask whether their pump or gearbox is ready.",
         "A static site of this kind starts at ₹10,000 and is usually ready within one to two weeks of receiving your details. It can later grow into a customer portal if your volume of work justifies it.",
       ],
@@ -127,7 +127,7 @@ const bellampalle: CityContent = {
       heading: "Android app development in Bellampalle, and iOS apps for local businesses",
       paragraphs: [
         "An app is worth the money when the same people use it often. In Bellampalle, good cases are a transporter's drivers logging trips and diesel each shift, a coaching centre sharing test marks, attendance and fee reminders, a hospital handing out OPD tokens, a distributor taking repeat orders from shops across the mandals, or a school sending bus and holiday notices to parents.",
-        "As an <strong>app development company in Bellampalle</strong> that works remotely, we build in Flutter or React Native, so a single codebase runs on Android phones and iPhones alike. A first version usually includes mobile number login with OTP, push notifications, the core screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Bellampalle</strong> that works remotely, we build in Flutter or React Native, so a single codebase runs on Android phones and iPhones alike. A first version usually includes mobile number login with OTP, push notifications, the core screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Bellampalli</strong> with us starts at ₹40,000. Costs rise with online payments, offline mode for drivers where the signal drops, live location, or links to your billing software, and each appears as its own line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, timings and a price list, a website does the job at a quarter of the cost and needs no download. We will recommend the website in that case, because an app that people delete after one use is money spent for nothing.",
       ],
@@ -230,7 +230,7 @@ const bellampalle: CityContent = {
         "A simple static website for a shop or clinic is usually live one to two weeks after we get your photographs and details. Bigger jobs take longer: roughly three to five weeks for a 700+ page SEO site, four to eight weeks for an online store and six to twelve weeks for custom software. Quick replies with content speed up every project.",
     },
     {
-      question: "Which is the best website development company in Bellampalle?",
+      question: "Which is the best website development team in Bellampalle?",
       answer:
         "Check any provider on the same points: published prices, the domain and code registered in your name, support after launch and real work you can verify. Ask each of them the same questions. We meet these tests and reply on WhatsApp all week, but comparing two or three providers before you decide is a sensible step.",
     },

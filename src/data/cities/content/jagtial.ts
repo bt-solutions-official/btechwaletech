@@ -9,7 +9,7 @@ const jagtial: CityContent = {
     description:
       "Websites, Telugu local SEO, mango and turmeric trader pages and WhatsApp automation for Jagtial, Korutla and Metpally businesses. Static sites from ₹10,000.",
     keywords: [
-      "website development company in Jagtial",
+      "website development team in Jagtial",
       "web designer Jagtial",
       "website design Jagtial Telangana",
       "freelance web developer Jagtial",

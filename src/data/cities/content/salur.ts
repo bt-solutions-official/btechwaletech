@@ -10,12 +10,12 @@ const salur: CityContent = {
       "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Salur traders, agency-area suppliers, clinics, schools and farm dealers.",
     keywords: [
       "IT services in Salur",
-      "IT company in Salur",
-      "website development company in Salur",
+      "IT services team in Salur",
+      "website development team in Salur",
       "web design in Salur",
-      "app development company in Salur",
+      "app development team in Salur",
       "Android app development in Salur",
-      "software company in Salur",
+      "software team in Salur",
       "SEO services in Salur",
       "digital marketing in Salur",
       "ecommerce website in Salur",
@@ -74,10 +74,10 @@ const salur: CityContent = {
     },
     {
       id: "wholesale-traders-salur",
-      heading: "Software company in Salur for wholesalers and distributors",
+      heading: "Software team in Salur for wholesalers and distributors",
       paragraphs: [
         "A good part of Salur's trade is wholesale. Grocery distributors, oil and pulse dealers, cloth merchants and hardware suppliers send goods to small shops in villages across Salur, Pachipenta, Makkuva and the neighbouring Odisha side. Much of this runs on credit, with notebooks, phone calls and a lot of memory holding it together.",
-        "The trouble starts when the business grows past what one person can remember. Which retailer owes what since the last festival? Which order went on which vehicle? Why does one item always run short on Mondays? As a <strong>software company in Salur</strong> in the practical sense, we build small web tools that answer these questions: an order book, a credit ledger per shop with payment reminders, a stock register with low-stock alerts, and a delivery sheet per vehicle.",
+        "The trouble starts when the business grows past what one person can remember. Which retailer owes what since the last festival? Which order went on which vehicle? Why does one item always run short on Mondays? As a <strong>software team in Salur</strong> in the practical sense, we build small web tools that answer these questions: an order book, a credit ledger per shop with payment reminders, a stock register with low-stock alerts, and a delivery sheet per vehicle.",
         "Custom tools like this start at ₹60,000 and are built in stages over six to twelve weeks. We usually begin with the credit ledger, because recovering even a few overdue balances pays for the first stage. Staff can enter data from an ordinary Android phone, and reports can be printed in Telugu for shopkeepers who prefer paper.",
       ],
     },
@@ -110,19 +110,19 @@ const salur: CityContent = {
     },
     {
       id: "farm-inputs-salur",
-      heading: "Website development company in Salur for farm-input and machinery dealers",
+      heading: "Website development team in Salur for farm-input and machinery dealers",
       paragraphs: [
         "Farming around Salur means paddy on the plains, crops on black soil and hill cultivation in the forested areas. That supports a network of seed, fertiliser and pesticide dealers, pump and motor shops, tractor showrooms and repair workshops, all busiest in the weeks before sowing.",
-        "A <strong>website development company in Salur</strong> can help these dealers in two ways. First, a clear site and map listing that show the brands stocked, services offered, timings and a WhatsApp number, so farmers who search in Telugu find the shop. Second, for dealers who supply smaller retailers in villages, a stock and credit tool that tracks what went out, what came back and what is owed.",
+        "A <strong>website development team in Salur</strong> can help these dealers in two ways. First, a clear site and map listing that show the brands stocked, services offered, timings and a WhatsApp number, so farmers who search in Telugu find the shop. Second, for dealers who supply smaller retailers in villages, a stock and credit tool that tracks what went out, what came back and what is owed.",
         "We avoid giving crop or dosage advice on your site unless it comes from you or an authorised source, since wrong advice can damage a farmer's field and your name. Dealer websites start at ₹10,000; stock and credit tools start at ₹60,000 and grow with the business.",
       ],
     },
     {
       id: "jewellers-textiles-salur",
-      heading: "IT company in Salur for jewellers, cloth shops and wedding trade",
+      heading: "IT services team in Salur for jewellers, cloth shops and wedding trade",
       paragraphs: [
         "Wedding and festival buying brings families from far around Salur into its jewellery shops, sari and cloth stores, furniture showrooms and function halls. These purchases are planned weeks in advance, and a surprising amount of the planning now happens on WhatsApp and Google.",
-        "As an <strong>IT company in Salur</strong> that works remotely, we build catalogue websites for these shops: collections with photographs, a note on hallmarking for jewellers, fabric and price ranges for cloth stores, and booking calendars for function halls. Customers can shortlist items and send the list on WhatsApp, which suits buyers who still want to see and touch before paying.",
+        "As an <strong>IT services team in Salur</strong> that works remotely, we build catalogue websites for these shops: collections with photographs, a note on hallmarking for jewellers, fabric and price ranges for cloth stores, and booking calendars for function halls. Customers can shortlist items and send the list on WhatsApp, which suits buyers who still want to see and touch before paying.",
         "We do not publish daily gold rates automatically unless you give us a reliable source to pull from, because a wrong rate on screen causes arguments at the counter. For shops with regular customers, a festival-offer broadcast through the official WhatsApp Business platform, sent only to people who agreed to receive it, often brings more footfall than a new banner.",
       ],
     },
@@ -131,7 +131,7 @@ const salur: CityContent = {
       heading: "Android app development in Salur, with iOS for the same app",
       paragraphs: [
         "An app earns its cost only when a fixed group of people opens it often. In and around Salur, strong cases include village retailers re-ordering stock from a wholesaler, school parents receiving notices and fee reminders, a hospital issuing tokens so patients do not wait from early morning, and field staff of a dealer recording visits and collections in villages.",
-        "As an <strong>app development company in Salur</strong>, we build in Flutter or React Native so one codebase runs on both Android and iPhone. A first version normally has mobile-number login, push notifications, the few screens your users actually need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Salur</strong>, we build in Flutter or React Native so one codebase runs on both Android and iPhone. A first version normally has mobile-number login, push notifications, the few screens your users actually need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Salur</strong> with us starts at ₹40,000. Offline mode for hill villages with weak signal, payments, maps and integrations add to the cost and appear as separate lines in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your location, phone number and rates, a website does that for a quarter of the price and needs no download. In that case we recommend the website, because an app that people install once and forget is money lost.",
       ],
@@ -232,7 +232,7 @@ const salur: CityContent = {
         "A simple shop website is usually live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. Projects finish fastest when the owner shares content early.",
     },
     {
-      question: "Which is the best website development company in Salur?",
+      question: "Which is the best website development team in Salur?",
       answer:
         "Choose someone who publishes prices, registers the domain and code in your name, can show real work and still answers after launch. Ask every option the same questions and compare in writing. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers is sensible.",
     },

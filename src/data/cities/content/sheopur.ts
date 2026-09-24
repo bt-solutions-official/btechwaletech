@@ -10,12 +10,12 @@ const sheopur: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Sheopur mandi traders, Kuno safari hotels, woodcraft makers, clinics and schools.",
     keywords: [
       "IT services in Sheopur",
-      "IT company in Sheopur",
-      "website development company in Sheopur",
+      "IT services team in Sheopur",
+      "website development team in Sheopur",
       "web design in Sheopur",
-      "app development company in Sheopur",
+      "app development team in Sheopur",
       "Android app development in Sheopur",
-      "software company in Sheopur",
+      "software team in Sheopur",
       "SEO services in Sheopur",
       "digital marketing in Sheopur",
       "ecommerce website in Sheopur",
@@ -93,10 +93,10 @@ const sheopur: CityContent = {
     },
     {
       id: "mandi-traders",
-      heading: "Software company in Sheopur for grain and mustard traders",
+      heading: "Software team in Sheopur for grain and mustard traders",
       paragraphs: [
         "Harvest months in Sheopur are busy for commission agents and traders. Wheat after the rabi season, mustard in late winter and spring, bajra and gram at their times: farmers bring produce to the mandi, lots are weighed and bought, payments are made or held, and lorries leave for oil mills and flour mills in Madhya Pradesh and Rajasthan.",
-        "As a <strong>software company in Sheopur</strong> for this trade, we build web tools that fit how the mandi already works. Each purchase is recorded with farmer, crop, weight, moisture or quality note and rate. Payments are tracked by farmer with balances visible at a glance, and sales to mills are entered with lorry number and freight. The owner sees daily totals and pending amounts from a phone.",
+        "As a <strong>software team in Sheopur</strong> for this trade, we build web tools that fit how the mandi already works. Each purchase is recorded with farmer, crop, weight, moisture or quality note and rate. Payments are tracked by farmer with balances visible at a glance, and sales to mills are entered with lorry number and freight. The owner sees daily totals and pending amounts from a phone.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We recommend starting between seasons and running the first version on part of your business, so that by harvest your munim trusts it more than the old register.",
         "Mandi rates change daily and farmers ask about them constantly. A simple rate page or WhatsApp broadcast that the trader updates each morning, showing the day's buying price for wheat, mustard or gram by quality, saves dozens of calls and builds a reputation for openness that brings farmers back the next season.",
       ],
@@ -112,10 +112,10 @@ const sheopur: CityContent = {
     },
     {
       id: "agri-dealers-retail",
-      heading: "Website development company in Sheopur for agri dealers and town shops",
+      heading: "Website development team in Sheopur for agri dealers and town shops",
       paragraphs: [
         "Farmers across the district come into Sheopur for seed, fertiliser, pesticide, pumps, pipes and tractor parts, and for clothes, jewellery and household goods before weddings. Dealers and shopkeepers compete for the same families, and more of those families now check a phone before they travel from Karahal, Badoda or Vijaypur.",
-        "As a <strong>website development company in Sheopur</strong>, we build Hindi catalogue sites that show your brands, products and pack sizes, crop-wise advice for seasons, shop timings and a WhatsApp order button. Retailers can use a simple site to announce new stock before the sowing or wedding months.",
+        "As a <strong>website development team in Sheopur</strong>, we build Hindi catalogue sites that show your brands, products and pack sizes, crop-wise advice for seasons, shop timings and a WhatsApp order button. Retailers can use a simple site to announce new stock before the sowing or wedding months.",
         "A catalogue site starts at ₹10,000 and takes one to two weeks. For dealers who sell on credit, we can later add a dues tracker that sends polite Hindi reminders by SMS or WhatsApp. More on our approach is on the <a href=\"/services/web-development/\">web development</a> page.",
       ],
     },
@@ -157,18 +157,18 @@ const sheopur: CityContent = {
     },
     {
       id: "nearby-sheopur",
-      heading: "App development company in Sheopur for Vijaypur, Karahal, Badoda and Birpur",
+      heading: "App development team in Sheopur for Vijaypur, Karahal, Badoda and Birpur",
       paragraphs: [
         "Sheopur district covers a wide area. Vijaypur lies towards the east, with its own mandi for mustard, gram, wheat and bajra; Karahal is on the Kuno side of the district; Badoda and Birpur are other tehsil towns. Across the border, Kota and Sawai Madhopur in Rajasthan are closer than many Madhya Pradesh cities, and Shivpuri, Morena and Gwalior are the larger centres within the state.",
-        "Working remotely, we act as an <strong>app development company in Sheopur</strong> for all of these places on equal terms. A dealer in Vijaypur or a homestay near Karahal gets the same process, starting prices and response time as a shop near the Sheopur fort.",
+        "Working remotely, we act as an <strong>app development team in Sheopur</strong> for all of these places on equal terms. A dealer in Vijaypur or a homestay near Karahal gets the same process, starting prices and response time as a shop near the Sheopur fort.",
         "As the broad-gauge line from Gwalior reaches closer, with passenger service already extended to Beerpur in August 2026, travel into the district should become easier, and businesses that are already visible online will be best placed when visitors start arriving by train.",
       ],
     },
     {
       id: "remote-team-sheopur",
-      heading: "An IT company in Sheopur that works remotely: how it runs",
+      heading: "An IT services team in Sheopur that works remotely: how it runs",
       paragraphs: [
-        "An <strong>IT company in Sheopur</strong> without an office in town needs to earn trust in other ways, and we do it by keeping everything visible. You speak directly with the three of us who do the work. Before anything starts you get a written scope and quote; during the build you get a preview link; and at each milestone you decide whether we move ahead.",
+        "An <strong>IT services team in Sheopur</strong> without an office in town needs to earn trust in other ways, and we do it by keeping everything visible. You speak directly with the three of us who do the work. Before anything starts you get a written scope and quote; during the build you get a preview link; and at each milestone you decide whether we move ahead.",
         "WhatsApp messages are answered seven days a week on Indian time, and a quick video call can replace the long drive to Gwalior or Kota that an office meeting would require. That suits traders in harvest weeks and hotel owners in peak season.",
         "To start, send a few lines about your business through our <a href=\"/contact/\">contact</a> page or on WhatsApp. The first conversation and the quote are free.",
       ],
@@ -224,7 +224,7 @@ const sheopur: CityContent = {
         "A small website usually goes live in one to two weeks after we receive your photographs, text and prices. SEO websites take three to five weeks, stores four to eight weeks and custom software six to twelve weeks. Hotels near Kuno should start well before the safari season opens.",
     },
     {
-      question: "Which is the best website development company in Sheopur?",
+      question: "Which is the best website development team in Sheopur?",
       answer:
         "Nobody can name one best provider, so check each on facts. Are prices published? Is the domain in your name? What support comes after launch? Can you see live work? We answer all of these openly and reply on WhatsApp every day, but it is sensible to compare two or three quotes before choosing.",
     },

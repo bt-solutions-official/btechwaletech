@@ -10,12 +10,12 @@ const miryalaguda: CityContent = {
       "Websites, Android & iOS apps, Telugu local SEO and WhatsApp automation for Miryalaguda rice mills, traders, hospitals and shops. Starting prices, you own the code.",
     keywords: [
       "IT services in Miryalaguda",
-      "IT company in Miryalaguda",
-      "website development company in Miryalaguda",
+      "IT services team in Miryalaguda",
+      "website development team in Miryalaguda",
       "web design in Miryalaguda",
-      "app development company in Miryalaguda",
+      "app development team in Miryalaguda",
       "Android app development in Miryalaguda",
-      "software company in Miryalaguda",
+      "software team in Miryalaguda",
       "SEO services in Miryalaguda",
       "digital marketing in Miryalaguda",
       "ecommerce website in Miryalaguda",
@@ -65,7 +65,7 @@ const miryalaguda: CityContent = {
   sections: [
     {
       id: "rice-mill-websites",
-      heading: "Website development company in Miryalaguda for rice mills and rice traders",
+      heading: "Website development team in Miryalaguda for rice mills and rice traders",
       paragraphs: [
         "Miryalaguda is often called the rice bowl of Telangana, and the name is earned. More than a hundred and seventy mills operate in and around the town, and a large share of them produce parboiled rice for buyers in Kerala, Bihar and other states. During the harvest, tractor after tractor of paddy queues outside the gates, and the phones do not stop.",
         "Yet most mills still sell through brokers and old contacts. A wholesaler in Kochi or Patna who has never visited the town cannot easily tell one mill from the next, so the broker's word decides the order and the broker keeps a cut. A proper website gives that buyer something to check before picking up the phone.",
@@ -75,7 +75,7 @@ const miryalaguda: CityContent = {
     },
     {
       id: "mill-software",
-      heading: "Software company in Miryalaguda for paddy intake, lots and dispatch",
+      heading: "Software team in Miryalaguda for paddy intake, lots and dispatch",
       paragraphs: [
         "Inside a mill, money leaks through small gaps. A moisture reading written down wrong, a deduction argued at the gate, a lot mixed with another, a lorry that left without an invoice, a buyer who delays payment by a month. Owners usually sense where the problem is but rarely have the numbers in front of them.",
         "We build mill software in steps. The first step is the gate: every paddy load gets an entry with farmer or agent name, vehicle, gross and tare weight, moisture, variety and the rate agreed, so disputes can be settled from the record. The second step follows each lot through soaking, drying, milling and packing, so the owner sees outturn and broken percentage per lot rather than a rough seasonal average.",
@@ -178,7 +178,7 @@ const miryalaguda: CityContent = {
     },
     {
       id: "apps-miryalaguda",
-      heading: "App development company in Miryalaguda: Android and iOS apps for mills, hospitals and schools",
+      heading: "App development team in Miryalaguda: Android and iOS apps for mills, hospitals and schools",
       paragraphs: [
         "Most Miryalaguda businesses do not need an app, and we say so. An app earns its cost when the same people use it again and again: rice buyers who reorder every month, drivers who log every trip, patients who return for follow-ups, parents who check notices daily. For a one-time visitor, a fast website is better and cheaper.",
         "Where an app does fit, we build it once in Flutter or React Native so it runs on both Android and iPhone. A typical mill app lets a registered buyer see current varieties and indicative rates, place an order, track dispatch and download invoices. A hospital app handles appointment requests, reports and reminders. A school app sends notices, homework and fee alerts. Each includes login, push notifications and a web admin panel your staff use to update content.",
@@ -197,7 +197,7 @@ const miryalaguda: CityContent = {
     },
     {
       id: "remote-it-company",
-      heading: "An IT company in Miryalaguda's orbit, working remotely",
+      heading: "An IT services team in Miryalaguda's orbit, working remotely",
       paragraphs: [
         "We have no office in Miryalaguda, Nalgonda or anywhere in Telangana, and we will not pretend otherwise. BtechWaleTech is three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
         "You describe the job on WhatsApp or a short call. In about two working days you receive an itemised written quote. Nothing starts and nothing is billed until you approve it in writing. During the build you watch progress on a live preview link and send comments from the mill office or the shop counter whenever you have a moment.",
@@ -250,7 +250,7 @@ const miryalaguda: CityContent = {
         "Chinna website ₹10,000 nundi modalavutundi, okati rendu vaarallo ready. Mill software kavalante ₹60,000 nundi, Android and iOS app ₹40,000 nundi start avutundi. WhatsApp lo Telugu lo message pampandi, rendu working rojullo item-wise quote pampistamu. Meeru approve chesina tarvate pani modalu pedatamu.",
     },
     {
-      question: "Which is the best website development company in Miryalaguda?",
+      question: "Which is the best website development team in Miryalaguda?",
       answer:
         "The best choice is the one that shows real work, puts prices in writing and registers the domain and code in your name. Ask any company, including us, for a live example, an itemised quote, who writes the Telugu content, and what maintenance costs after launch. Compare those answers rather than only the headline price.",
     },

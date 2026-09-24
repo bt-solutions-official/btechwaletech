@@ -9,7 +9,7 @@ const agartala: CityContent = {
     description:
       "Websites, Bengali-aware local SEO, online stores and WhatsApp automation for Agartala shops, rubber units, clinics and tour operators. From ₹10,000, you own it all.",
     keywords: [
-      "website development company in Agartala",
+      "website development team in Agartala",
       "web designer Agartala",
       "website design Tripura",
       "SEO services Agartala",

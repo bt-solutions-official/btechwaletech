@@ -14,8 +14,8 @@ const content: CityContent = {
       "mobile app developers Mizoram",
       "iPhone app developers Mizoram",
       "IT services in Mizoram",
-      "software development company in Mizoram",
-      "IT company in Mizoram",
+      "software development team in Mizoram",
+      "IT services team in Mizoram",
       "freelance software developers Mizoram",
       "freelance IT services Mizoram",
       "custom software Mizoram",
@@ -30,7 +30,7 @@ const content: CityContent = {
       "handloom puan online store Mizoram",
       "school software Mizoram",
       "Mizoram-ah website siamtu",
-      "Mizoram mein software company",
+      "Mizoram mein software team",
     ],
   },
   hero: {
@@ -80,9 +80,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-software-company-mizoram",
-      heading: "Freelance developers or a software development company in Mizoram?",
+      heading: "Freelance developers or a software development team in Mizoram?",
       paragraphs: [
-        "Hire freelance developers in Mizoram when you want direct contact with the builders, clear starting prices and a modest budget; hire a software development company when you need people on site in Aizawl every week, hardware installation or eligibility for large formal tenders. Many projects can be served well either way.",
+        "Hire freelance developers in Mizoram when you want direct contact with the builders, clear starting prices and a modest budget; hire a software development team when you need people on site in Aizawl every week, hardware installation or eligibility for large formal tenders. Many projects can be served well either way.",
         "Established IT firms in Aizawl offer local presence, network installation and on-site support, which matters for offices that need cabling, CCTV or servers. What a freelance group offers is focus on software and direct communication. There is no salesperson or account manager between you and the engineer, and no office rent built into the estimate.",
         "If you are comparing IT companies in Mizoram, ask the same questions of each: who writes the code, who owns the domain and source code, how support is priced after the first year, and how quickly messages are answered. A partner who answers these clearly will be easier to work with. Our <a href='/about/'>about page</a> explains who we are.",
       ],
@@ -192,7 +192,7 @@ const content: CityContent = {
       id: "choosing-it-partner-mizoram",
       heading: "How to choose an IT partner in Mizoram: a practical checklist",
       paragraphs: [
-        "Choose an IT partner in Mizoram by checking who does the work, who owns the result, what support costs and how quickly they respond. Those four answers predict your experience better than logos or claims of being the best IT company in Mizoram, and you can check all four before paying anything.",
+        "Choose an IT partner in Mizoram by checking who does the work, who owns the result, what support costs and how quickly they respond. Those four answers predict your experience better than logos or claims of being the best IT services team in Mizoram, and you can check all four before paying anything.",
         "Ask to see a live demo on your own phone. Ask what happens if the developer leaves. Insist on domain and hosting registered in your name and a written, itemised scope. Be wary of guaranteed first-page rankings or offers to buy reviews. And test responsiveness with a Sunday message before signing, because support after launch matters more than speed of the first sale.",
         "We are open about our limits: three engineers, remote, no Mizoram office, no hardware installation. If your project needs someone in your Aizawl office every week, a local firm may suit you better, and we will tell you so honestly on the first call.",
       ],

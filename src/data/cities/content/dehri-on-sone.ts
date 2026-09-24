@@ -9,7 +9,7 @@ const dehriOnSone: CityContent = {
     description:
       "Website design, Google Maps listings and WhatsApp automation for Dehri-on-Sone traders, transporters, sand suppliers, clinics and coaching centres. From ₹10,000.",
     keywords: [
-      "website development company in Dehri",
+      "website development team in Dehri",
       "web designer Dehri-on-Sone",
       "website design Dehri Rohtas",
       "SEO services Dehri-on-Sone",

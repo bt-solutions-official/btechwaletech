@@ -9,12 +9,12 @@ const rohtak: CityContent = {
     description:
       "Remote web team for Rohtak's IMT suppliers, fastener makers, clinics, coaching and shops. Websites from ₹10,000, SEO sites from ₹20,000, own your code and domain.",
     keywords: [
-      "website development company in Rohtak",
+      "website development team in Rohtak",
       "web design Rohtak",
       "website designer Rohtak",
       "freelance web developer Rohtak",
       "website cost Rohtak",
-      "SEO company Rohtak",
+      "SEO team Rohtak",
       "local SEO Rohtak",
       "IMT Rohtak supplier website",
       "fastener manufacturer website",

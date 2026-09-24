@@ -10,12 +10,12 @@ const chirmiri: CityContent = {
       "Websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Chirmiri colliery suppliers, Haldibadi shops, schools, clinics and new ventures.",
     keywords: [
       "IT services in Chirmiri",
-      "IT company in Chirmiri",
-      "website development company in Chirmiri",
+      "IT services team in Chirmiri",
+      "website development team in Chirmiri",
       "web design in Chirmiri",
-      "app development company in Chirmiri",
+      "app development team in Chirmiri",
       "Android app development in Chirmiri",
-      "software company in Chirmiri",
+      "software team in Chirmiri",
       "SEO services in Chirmiri",
       "digital marketing in Chirmiri",
       "ecommerce website in Chirmiri",
@@ -76,11 +76,11 @@ const chirmiri: CityContent = {
     },
     {
       id: "colliery-contractors-software",
-      heading: "Software company in Chirmiri for SECL contractors and suppliers",
+      heading: "Software team in Chirmiri for SECL contractors and suppliers",
       paragraphs: [
         "Around the Chirimiri Area mines work many smaller firms: transport and loading contractors, civil and electrical contractors, labour suppliers, workshops that repair machinery, canteen and security services, and dealers in spares, tyres, cables and safety equipment. Since the Bartunga Hill underground mine moved to the mine developer and operator model in 2024, contracting arrangements have become an even larger share of the local work.",
         "These firms handle a lot of records: labour attendance by shift, vehicle trips and diesel, material issued to sites, running bills submitted and payments received, and expiry dates for licences, insurance and safety certificates. Mistakes in any of these lead to deductions or delays.",
-        "As a <strong>software company in Chirmiri</strong> for such firms, we build web tools where supervisors enter attendance and trips from a phone, totals appear by site and client, bills are prepared from verified entries, and reminders go out before documents lapse. Since signal can be weak inside colliery zones, entry screens can store data offline and send it later.",
+        "As a <strong>software team in Chirmiri</strong> for such firms, we build web tools where supervisors enter attendance and trips from a phone, totals appear by site and client, bills are prepared from verified entries, and reminders go out before documents lapse. Since signal can be weak inside colliery zones, entry screens can store data offline and send it later.",
         "Custom software starts at ₹60,000 and takes six to twelve weeks in stages. We usually build the attendance or trip register first because that is where money is most often lost.",
       ],
     },
@@ -96,10 +96,10 @@ const chirmiri: CityContent = {
     },
     {
       id: "vendor-websites-chirmiri",
-      heading: "Website development company in Chirmiri for firms bidding on contracts",
+      heading: "Website development team in Chirmiri for firms bidding on contracts",
       paragraphs: [
         "Contractors and suppliers who want work from SECL, from mine developer and operator companies or from government departments increasingly find that officials check them online. A firm with no website or a half-finished page is harder to verify and easier to overlook.",
-        "A <strong>website development company in Chirmiri</strong> should build these sites around facts. Services offered, equipment and vehicles owned, experience you can document, registrations and licences, safety practices, GST details, and names of people who answer the phone. We write in plain language because evaluators read many such sites and discount inflated claims.",
+        "A <strong>website development team in Chirmiri</strong> should build these sites around facts. Services offered, equipment and vehicles owned, experience you can document, registrations and licences, safety practices, GST details, and names of people who answer the phone. We write in plain language because evaluators read many such sites and discount inflated claims.",
         "For firms that bid often, we add a documents page where current certificates stay available, and an enquiry form that sends details straight to the owner. The site loads quickly both on an office computer in Bilaspur and on a phone in Chirmiri.",
         "We never display a client's name or logo without written permission. A claim that fails verification can cost a contract and damage your standing with evaluators for years.",
       ],
@@ -119,7 +119,7 @@ const chirmiri: CityContent = {
       heading: "Android app development in Chirmiri, plus iOS apps for local use",
       paragraphs: [
         "An app is only worth building if the same people will use it often. In Chirmiri, strong cases include schools sending homework, attendance and bus notices to parents across scattered colonies, contractors recording shift attendance at several sites, shops or pharmacies taking repeat delivery orders, and clinics issuing tokens so patients from distant colonies do not wait for hours.",
-        "As an <strong>app development company in Chirmiri</strong> working remotely, we build with Flutter or React Native, giving you one app that runs on Android phones and iPhones. A first version usually has mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store in accounts registered to you.",
+        "As an <strong>app development team in Chirmiri</strong> working remotely, we build with Flutter or React Native, giving you one app that runs on Android phones and iPhones. A first version usually has mobile OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish on Google Play and the Apple App Store in accounts registered to you.",
         "<strong>Android app development in Chirmiri</strong> with us starts at ₹40,000. Offline entry, location tracking, online payments and integrations raise the cost, and each appears as a separate item in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
         "If people only need your address, timings and a list of services, a website does that at a quarter of the price and without an install. We will recommend the website in that case, since an app nobody reopens is wasted money.",
       ],
@@ -166,9 +166,9 @@ const chirmiri: CityContent = {
     },
     {
       id: "remote-team-chirmiri",
-      heading: "IT company in Chirmiri, without a local office: our remote process",
+      heading: "IT services team in Chirmiri, without a local office: our remote process",
       paragraphs: [
-        "When people look for an <strong>IT company in Chirmiri</strong>, they often want someone they can meet. In practice, what protects you is written commitments and a team that answers. Being remote, we rely on a clear process rather than a desk you can walk up to.",
+        "When people look for an <strong>IT services team in Chirmiri</strong>, they often want someone they can meet. In practice, what protects you is written commitments and a team that answers. Being remote, we rely on a clear process rather than a desk you can walk up to.",
         "We begin with a call about your business and goals. You get a page or screen plan, a timeline and an itemised quote. Once approved, we share preview links you can open on your phone and show to family or partners. Changes are listed and done in rounds.",
         "Replies come on WhatsApp all seven days on Indian Standard Time. If anything slips, we tell you early. Payments follow visible progress, and nothing is billed until you approve the quote in writing.",
         "Write to us through the <a href=\"/contact/\">contact page</a> or WhatsApp with a few lines about what you do and what you need.",
@@ -234,7 +234,7 @@ const chirmiri: CityContent = {
         "A static website usually goes live in one to two weeks after we have your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight and custom software six to twelve. Getting your content ready early is what speeds things up most.",
     },
     {
-      question: "Who is the best website development company in Chirmiri?",
+      question: "Who is the best website development team in Chirmiri?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code in your name, can show real work and still replies after launch. Ask every option the same questions and get the answers in writing. We meet those tests and answer seven days a week, but comparing a few options first is sensible.",
     },

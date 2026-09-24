@@ -9,7 +9,7 @@ const vellore: CityContent = {
     description:
       "Websites, Tamil and English SEO and WhatsApp automation for Vellore leather exporters, CMC-area lodges, clinics, VIT-area businesses and retailers. From ₹10,000.",
     keywords: [
-      "website development company in Vellore",
+      "website development team in Vellore",
       "web designer Vellore",
       "website design Vellore Tamil Nadu",
       "SEO services Vellore",

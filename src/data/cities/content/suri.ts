@@ -10,12 +10,12 @@ const suri: CityContent = {
       "Bengali websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Suri rice mills, morabba makers, weavers, clinics, schools and shops.",
     keywords: [
       "IT services in Suri",
-      "IT company in Suri",
-      "website development company in Suri",
+      "IT services team in Suri",
+      "website development team in Suri",
       "web design in Suri",
-      "app development company in Suri",
+      "app development team in Suri",
       "Android app development in Suri",
-      "software company in Suri",
+      "software team in Suri",
       "SEO services in Suri",
       "digital marketing in Suri",
       "ecommerce website in Suri",
@@ -83,10 +83,10 @@ const suri: CityContent = {
     },
     {
       id: "rice-mills-software",
-      heading: "Software company in Suri for rice mills and paddy traders",
+      heading: "Software team in Suri for rice mills and paddy traders",
       paragraphs: [
         "Rice milling is one of Suri's main industries, and Birbhum's paddy fields supply mills in and around the town, including parboiled rice units along the highway. A mill handles paddy purchases from farmers and agents, drying, parboiling and milling, by-products like bran and husk, storage and dispatch to wholesalers, and often government procurement paperwork as well.",
-        "Many mills still keep these records across registers and spreadsheets that do not agree with each other. As a <strong>software company in Suri</strong> for this trade, we build web tools where each paddy lot is entered once with weight, moisture, rate and supplier; milling output and by-products are logged against that lot; stock shows by godown; and dispatches produce challans and running balances for each buyer.",
+        "Many mills still keep these records across registers and spreadsheets that do not agree with each other. As a <strong>software team in Suri</strong> for this trade, we build web tools where each paddy lot is entered once with weight, moisture, rate and supplier; milling output and by-products are logged against that lot; stock shows by godown; and dispatches produce challans and running balances for each buyer.",
         "Such systems start at ₹60,000 and are built in stages over six to twelve weeks, usually beginning with purchase and payment records, since that is where disputes arise. We can export data to Tally so your accountant keeps working as before, and add a daily summary on WhatsApp for the owner.",
         "Mills that sell under their own brand name can also use a plain website with rice varieties, bag sizes, a short note on how the rice is processed and contact details for distributors. Wholesale buyers in Kolkata or Jharkhand checking a new supplier look for exactly that before they place a trial order, and most mills in the district still have nothing for them to find.",
       ],
@@ -102,10 +102,10 @@ const suri: CityContent = {
     },
     {
       id: "lawyers-professionals-suri",
-      heading: "Website development company in Suri for advocates, CAs and consultants",
+      heading: "Website development team in Suri for advocates, CAs and consultants",
       paragraphs: [
         "With the district court and collectorate in town, Suri has a large community of advocates, chartered accountants, tax consultants, deed writers, surveyors and document agents. Their clients come from across Birbhum and usually search for help by type of case or service.",
-        "A <strong>website development company in Suri</strong> should give these professionals a dignified, factual site: areas of practice, qualifications, bar or institute registration where appropriate, office hours, chamber location near the court, and a simple enquiry form. Legal and professional sites must avoid promises of outcomes, and we write within the limits your professional rules set.",
+        "A <strong>website development team in Suri</strong> should give these professionals a dignified, factual site: areas of practice, qualifications, bar or institute registration where appropriate, office hours, chamber location near the court, and a simple enquiry form. Legal and professional sites must avoid promises of outcomes, and we write within the limits your professional rules set.",
         "Pages explaining common processes in plain Bengali, such as the documents needed for a mutation, a succession certificate or GST registration, help people understand before they call, and they are the sort of pages that search engines show to someone searching from a village. A site like this starts at ₹10,000.",
         "Many professionals in Suri also handle clients who live in Kolkata or outside the state and cannot visit the chamber often. A secure upload form for documents and a WhatsApp line for status updates save those clients trips and save your clerk hours of phone calls each week.",
       ],
@@ -133,7 +133,7 @@ const suri: CityContent = {
       heading: "Android app development in Suri, and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when the same group of people uses it regularly. In Suri, good examples are parents receiving homework, fee and exam notices from a school, coaching students taking mock tests, patients booking a doctor's chamber slot, repeat morabba buyers in other cities re-ordering, or a rice mill's agents logging purchases from the field.",
-        "As an <strong>app development company in Suri</strong> working remotely, we build apps in Flutter or React Native, so the same code runs on Android and iPhone. A first version usually includes OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Suri</strong> working remotely, we build apps in Flutter or React Native, so the same code runs on Android and iPhone. A first version usually includes OTP login, push notifications, the main screens your users need and an admin panel for your staff. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Suri</strong> with us starts at ₹40,000. Payments, offline entry for field agents, maps and links to other software raise the cost, and each is listed separately in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, phone and price list, a website does that job for far less. We will recommend the website in that case, because an app nobody opens after the first week helps no one.",
       ],
@@ -226,7 +226,7 @@ const suri: CityContent = {
         "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content and quick approvals make the biggest difference.",
     },
     {
-      question: "Which is the best website development company in Suri?",
+      question: "Which is the best website development team in Suri?",
       answer:
         "Look for one that publishes prices, registers your domain and code in your name, stays reachable after launch and can show real work. Ask each provider the same questions and compare written answers. We meet those tests and reply on WhatsApp daily, but comparing two or three is sensible.",
     },

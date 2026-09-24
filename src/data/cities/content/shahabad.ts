@@ -10,12 +10,12 @@ const shahabad: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Shahabad stone quarries, polishing units, cement suppliers, dal traders, clinics and shops.",
     keywords: [
       "IT services in Shahabad",
-      "IT company in Shahabad",
-      "website development company in Shahabad",
+      "IT services team in Shahabad",
+      "website development team in Shahabad",
       "web design in Shahabad",
-      "app development company in Shahabad",
+      "app development team in Shahabad",
       "Android app development in Shahabad",
-      "software company in Shahabad",
+      "software team in Shahabad",
       "SEO services in Shahabad",
       "digital marketing in Shahabad",
       "ecommerce website in Shahabad",
@@ -74,19 +74,19 @@ const shahabad: CityContent = {
     },
     {
       id: "shahabad-stone-websites",
-      heading: "Website development company in Shahabad for limestone quarries and slab dealers",
+      heading: "Website development team in Shahabad for limestone quarries and slab dealers",
       paragraphs: [
         "A builder choosing flooring from four hundred kilometres away wants to see what he is paying for. He wants the colour under daylight, the thickness options, whether the edge is rough or machine cut, the difference between a natural, rubbed and polished face, and how many square feet fit on one lorry. Most Shahabad dealers answer these questions by phone, one buyer at a time.",
-        "As a <strong>website development company in Shahabad</strong>, we build sites that answer them once. Each finish gets its own page with close-up photographs, standard sizes, suitable uses such as parking areas, factory floors, temple courtyards or kitchen platforms, and care advice. A quotation form asks for quantity, finish and delivery town, so the enquiry that reaches you already contains what you need to price it.",
+        "As a <strong>website development team in Shahabad</strong>, we build sites that answer them once. Each finish gets its own page with close-up photographs, standard sizes, suitable uses such as parking areas, factory floors, temple courtyards or kitchen platforms, and care advice. A quotation form asks for quantity, finish and delivery town, so the enquiry that reaches you already contains what you need to price it.",
         "We avoid invented claims. If you have supplied a large project and the client agrees in writing, we can mention it; otherwise the site speaks through photographs, sizes and honest loading details. A static site of this kind starts at ₹10,000. Dealers who want a page for every size and finish combination, plus pages for buyer cities, usually move to the 700+ page SEO site from ₹20,000.",
       ],
     },
     {
       id: "polishing-units-software",
-      heading: "Software company in Shahabad for polishing sheds, cutting yards and dispatch",
+      heading: "Software team in Shahabad for polishing sheds, cutting yards and dispatch",
       paragraphs: [
         "Between the quarry face and the buyer's lorry sit the cutting and polishing units, and this is where money leaks. Slabs are counted by hand, breakage is written on scraps of paper, labour is paid per piece, and a buyer's advance is sometimes remembered differently by each partner.",
-        "Working as a <strong>software company in Shahabad</strong> for this trade, we build small web tools that fit the way yards already work. Supervisors enter slabs cut and polished per shift from a phone. Each dispatch is logged with vehicle number, buyer, finish, square feet and rate. Transit passes and royalty documents can be attached to the load, and the owner sees what is ready, what has gone and what is still unpaid.",
+        "Working as a <strong>software team in Shahabad</strong> for this trade, we build small web tools that fit the way yards already work. Supervisors enter slabs cut and polished per shift from a phone. Each dispatch is logged with vehicle number, buyer, finish, square feet and rate. Transit passes and royalty documents can be attached to the load, and the owner sees what is ready, what has gone and what is still unpaid.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We usually begin with the dispatch register because it settles arguments quickest, then add piece-rate wages, buyer ledgers and reminders for pending payments. Screens can be in Kannada, and data is exported to Excel or Tally whenever your accountant asks.",
       ],
     },
@@ -113,7 +113,7 @@ const shahabad: CityContent = {
       heading: "Android app development in Shahabad and iOS apps for local firms",
       paragraphs: [
         "An app earns its cost when the same people open it again and again. In Shahabad that could be quarry and yard supervisors logging loads through the day, contractors in other cities re-ordering slabs of a known size, a school sending homework and fee notices to parents, a clinic handing out appointment tokens, or a dal trader taking orders from village kirana shops.",
-        "As an <strong>app development company in Shahabad</strong>, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. The first version normally has mobile number login, push notifications, the few screens your users truly need and an admin panel for your office. We publish on Google Play and the Apple App Store using developer accounts registered to your business, not to us.",
+        "As an <strong>app development team in Shahabad</strong>, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. The first version normally has mobile number login, push notifications, the few screens your users truly need and an admin panel for your office. We publish on Google Play and the Apple App Store using developer accounts registered to your business, not to us.",
         "<strong>Android app development in Shahabad</strong> with us starts at ₹40,000. Offline entry for quarries with patchy signal, payments, maps and links to your accounts each add to the quote, and each is listed separately. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> shows what a typical first version includes.",
         "If most of your customers only need your address, slab sizes and a phone number, a website will serve them better and cost far less. We will tell you that plainly rather than sell you an app that is opened once and forgotten.",
       ],
@@ -156,11 +156,11 @@ const shahabad: CityContent = {
     },
     {
       id: "remote-team-shahabad",
-      heading: "How a remote IT company in Shahabad's region works with you",
+      heading: "How a remote IT services team in Shahabad's region works with you",
       paragraphs: [
         "We are not based in Shahabad, so the process is built around writing. A first call covers your trade, your buyers and what the site or app must do. You then receive a page or screen plan, a timeline and an itemised quote. After you approve it, preview links go to your phone so you and your partners can check progress without travelling to Kalaburagi.",
         "We reply to WhatsApp every day, weekends included, on Indian Standard Time. Kannada and Urdu text is sent to you for checking before anything goes live, and no page is published without your approval. If a delay appears, you hear about it when we find it, not on the day the work was due.",
-        "Payments follow visible progress in stages, and billing starts only after written approval. For a quarry owner or a shopkeeper trying an <strong>IT company in Shahabad</strong>'s region for the first time, that keeps the risk small.",
+        "Payments follow visible progress in stages, and billing starts only after written approval. For a quarry owner or a shopkeeper trying an <strong>IT services team in Shahabad</strong>'s region for the first time, that keeps the risk small.",
       ],
     },
     {
@@ -228,7 +228,7 @@ const shahabad: CityContent = {
         "A static site usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Content that arrives late is the most common cause of delay.",
     },
     {
-      question: "Which is the best IT company in Shahabad for a website or app?",
+      question: "Which is the best IT services team in Shahabad for a website or app?",
       answer:
         "Choose one that publishes prices, puts the domain and code in your name, answers after launch and can show real work. Put the same questions to everyone you are considering. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three providers is always sensible.",
     },

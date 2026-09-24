@@ -9,10 +9,10 @@ const content: CityContent = {
     description:
       "Freelance IT consulting in Gurgaon: architecture reviews, cloud cost cuts, AI agents, custom software, Android and iOS apps, data and SEO for startups and exporters.",
     keywords: [
-      "IT solutions company in Gurgaon",
+      "IT solutions team in Gurgaon",
       "IT consulting Gurgaon",
       "digital transformation Gurgaon",
-      "best IT company in Gurgaon",
+      "best IT services team in Gurgaon",
       "freelance IT consultant Gurugram",
       "fractional CTO Gurgaon",
       "cloud cost optimisation AWS Gurgaon",
@@ -35,7 +35,7 @@ const content: CityContent = {
     eyebrow: "Gurgaon · Gurugram · Haryana · Consulting-led IT",
     h1: "Freelance IT consultants in Gurgaon for architecture reviews, cloud savings, AI agents and the builds that follow",
     lede:
-      "Teams comparing an IT solutions company in Gurgaon often need judgement more than headcount: is the stack sound, why is the AWS bill climbing, which AI use case is real, and should this be built or bought? BtechWaleTech is a freelance group of three engineers working remotely from India. We give Gurgaon founders, operators and exporters consulting-led digital transformation, then deliver it: custom software, Android and iOS apps, AI agents, cloud and DevOps, data and BI, SEO, ecommerce and support.",
+      "Teams comparing an IT solutions team in Gurgaon often need judgement more than headcount: is the stack sound, why is the AWS bill climbing, which AI use case is real, and should this be built or bought? BtechWaleTech is a freelance group of three engineers working remotely from India. We give Gurgaon founders, operators and exporters consulting-led digital transformation, then deliver it: custom software, Android and iOS apps, AI agents, cloud and DevOps, data and BI, SEO, ecommerce and support.",
     pills: ["Architecture and cloud reviews", "Custom software from ₹60,000", "Android and iOS apps from ₹40,000", "AI agents from ₹40,000", "You own every account"],
   },
   quickAnswer:
@@ -206,11 +206,11 @@ const content: CityContent = {
     },
     {
       id: "best-it-company-gurgaon",
-      heading: "How do you choose the best IT company in Gurgaon for your stage?",
+      heading: "How do you choose the best IT services team in Gurgaon for your stage?",
       paragraphs: [
-        "The best IT company in Gurgaon for your stage is the one whose engineers will actually work on your code, who document decisions, work in your repository and cloud accounts, and price clearly. A large vendor suits programmes needing dozens of people and formal SLAs; a small senior team suits focused reviews, integrations and builds where judgement matters more than headcount.",
+        "The best IT services team in Gurgaon for your stage is the one whose engineers will actually work on your code, who document decisions, work in your repository and cloud accounts, and price clearly. A large vendor suits programmes needing dozens of people and formal SLAs; a small senior team suits focused reviews, integrations and builds where judgement matters more than headcount.",
         "When comparing IT companies in Gurgaon, ask to meet the engineers, see a sample architecture document or code review, confirm code ownership and access, and understand how knowledge is handed over. Ask what happens if the lead engineer leaves.",
-        "BtechWaleTech is not a company; we are a freelance group of three engineers working remotely, with no Gurgaon office, so we do not place staff on site. Browse our <a href='/portfolio/'>portfolio</a>, compare <a href='/india/delhi/'>Delhi</a> and <a href='/india/haryana/faridabad/'>Faridabad</a>, or reach us through the <a href='/contact/'>contact page</a>.",
+        "BtechWaleTech is a freelance group of three engineers working remotely, with no Gurgaon office, so we do not place staff on site. Browse our <a href='/portfolio/'>portfolio</a>, compare <a href='/india/delhi/'>Delhi</a> and <a href='/india/haryana/faridabad/'>Faridabad</a>, or reach us through the <a href='/contact/'>contact page</a>.",
       ],
     },
     {
@@ -270,8 +270,8 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company with a Gurgaon office?",
-      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office or on-site staff in Gurgaon. Reviews, workshops and demos happen over video calls, and we work directly in your Git repository, issue tracker and chat tools.",
+      question: "Is BtechWaleTech an IT services team with a Gurgaon office?",
+      answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office or on-site staff in Gurgaon. Reviews, workshops and demos happen over video calls, and we work directly in your Git repository, issue tracker and chat tools.",
     },
     {
       question: "How do Gurgaon clients pay?",

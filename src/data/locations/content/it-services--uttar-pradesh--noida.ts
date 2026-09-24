@@ -9,15 +9,15 @@ const content: CityContent = {
     description:
       "Hire freelance software developers in Noida for web apps, SaaS MVPs, AI agents, Android and iOS apps, dashboards and SEO. Web apps from ₹60,000, quotes in 2 days.",
     keywords: [
-      "software development company in Noida",
-      "IT company in Noida",
+      "software development team in Noida",
+      "IT services team in Noida",
       "IT solutions Noida",
       "freelance software developers Noida",
       "hire developers Noida",
       "web application development Noida",
       "SaaS MVP development Noida",
       "AI agent development Noida",
-      "AI automation company Noida",
+      "AI automation team Noida",
       "n8n automation Noida",
       "Android app development Noida",
       "iOS app development Noida",
@@ -26,7 +26,7 @@ const content: CityContent = {
       "cloud deployment AWS Noida",
       "SEO landing pages Noida",
       "software developers near Sector 62 Noida",
-      "IT company near me Greater Noida",
+      "IT services team near me Greater Noida",
       "नोएडा में सॉफ्टवेयर डेवलपर",
       "नोएडा में ऐप बनवाना",
     ],
@@ -68,15 +68,15 @@ const content: CityContent = {
   sections: [
     {
       id: "noida-freelance-vs-company",
-      heading: "Freelance software developers vs a software development company in Noida",
+      heading: "Freelance software developers vs a software development team in Noida",
       paragraphs: [
-        "Hire a freelance group in Noida when you have a well-defined product, MVP, internal tool or automation and want direct access to the engineers at lower cost; hire a software development company when you need ten or more developers, formal SLAs, on-site staff or enterprise procurement. Most early-stage startups and MSMEs in Noida fit the first case.",
+        "Hire a freelance group in Noida when you have a well-defined product, MVP, internal tool or automation and want direct access to the engineers at lower cost; hire a software development team when you need ten or more developers, formal SLAs, on-site staff or enterprise procurement. Most early-stage startups and MSMEs in Noida fit the first case.",
         "Noida is full of IT companies, from global names in Sector 62 and along the Expressway to small outsourcing shops in Sectors 2, 63 and 132. The larger ones bring process and scale but charge for it, and your project may be handled by whoever is available on the bench. Solo freelancers are cheaper but can disappear when a bigger client appears.",
-        "BtechWaleTech is a freelance group of three engineers, not a company, working remotely from India. That size is deliberate: large enough that one person's leave does not stall your project, small enough that you always know who is writing the code. We are candid about limits too; a 30-developer enterprise programme is not something we should take on, and we will say so.",
+        "BtechWaleTech is a freelance group of three engineers, working remotely from India. That size is deliberate: large enough that one person's leave does not stall your project, small enough that you always know who is writing the code. We are candid about limits too; a 30-developer enterprise programme is not something we should take on, and we will say so.",
       ],
       list: [
         "Freelance group: direct engineer contact, lower overheads, focused scope",
-        "Software company: large teams, formal SLAs, on-site presence, higher cost",
+        "Software team: large teams, formal SLAs, on-site presence, higher cost",
         "Solo freelancer: lowest cost, highest risk of delays and single-person dependency",
         "Either way: insist on your own repository, cloud account and domain",
       ],
@@ -171,7 +171,7 @@ const content: CityContent = {
     },
     {
       id: "noida-hiring-checklist",
-      heading: "How to evaluate an IT company or freelance developers in Noida",
+      heading: "How to evaluate an IT services team or freelance developers in Noida",
       paragraphs: [
         "Evaluate any IT company or freelance developers in Noida on five points: who writes the code, who owns the repository and cloud accounts, how scope changes are priced, how payments are staged, and what support follows launch. A strong answer on these predicts success better than a client logo wall.",
         "Ask for a live product you can log into, not just a slide. Ask for a sample of their code or documentation. Ask how they handle a change request mid-sprint. Confirm that API keys, domains and app store accounts will be created under your name. Check that the quote lists exclusions such as third-party API fees, SMS costs or app store charges.",
@@ -228,9 +228,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a Noida-based software company?",
+      question: "Is BtechWaleTech a Noida-based software team?",
       answer:
-        "No. BtechWaleTech is a freelance group of three software developers working remotely from India, not a company, and we have no office in Noida or anywhere in the NCR. Noida clients work with us through WhatsApp, video calls and a shared staging environment. You speak directly with the engineers who write your code.",
+        "No. BtechWaleTech is a freelance group of three software developers working remotely from India, and we have no office in Noida or anywhere in the NCR. Noida clients work with us through WhatsApp, video calls and a shared staging environment. You speak directly with the engineers who write your code.",
     },
     {
       question: "How do Noida clients pay for projects?",

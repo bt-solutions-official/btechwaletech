@@ -10,12 +10,12 @@ const kadi: CityContent = {
       "Gujarati websites, Android and iOS apps, local SEO and WhatsApp automation for Kadi ginning units, oil mills, GIDC factories, schools, clinics and traders.",
     keywords: [
       "IT services in Kadi",
-      "IT company in Kadi",
-      "website development company in Kadi",
+      "IT services team in Kadi",
+      "website development team in Kadi",
       "web design in Kadi",
-      "app development company in Kadi",
+      "app development team in Kadi",
       "Android app development in Kadi",
-      "software company in Kadi",
+      "software team in Kadi",
       "SEO services in Kadi",
       "digital marketing in Kadi",
       "ecommerce website in Kadi",
@@ -74,19 +74,19 @@ const kadi: CityContent = {
     },
     {
       id: "ginning-pressing-software",
-      heading: "Software company in Kadi for cotton ginning and pressing factories",
+      heading: "Software team in Kadi for cotton ginning and pressing factories",
       paragraphs: [
         "Ginning factories in and around Kadi buy raw kapas from farmers and brokers, separate lint from seed, press the lint into bales and sell both streams onward. Each day involves weighbridge slips, moisture and quality deductions, broker commission, lot numbers, bale counts, seed stock and payments that may be split across cash, cheque and bank transfer.",
-        "Many units still manage this in registers and spreadsheets that only one person fully understands. As a <strong>software company in Kadi</strong>, we build web tools that follow your actual process: a purchase entry per vehicle with weight, rate and deductions; automatic lint and seed out-turn; bale numbering with station and quality marks; party ledgers; and a daily summary the owner can read on a phone.",
+        "Many units still manage this in registers and spreadsheets that only one person fully understands. As a <strong>software team in Kadi</strong>, we build web tools that follow your actual process: a purchase entry per vehicle with weight, rate and deductions; automatic lint and seed out-turn; bale numbering with station and quality marks; party ledgers; and a daily summary the owner can read on a phone.",
         "These systems start at ₹60,000 and take six to twelve weeks. We usually build the purchase register first, test it through a few weeks of real arrivals, then add bale stock and sales. Timing the build for the off-season helps, because nobody wants a new system introduced in the middle of peak arrivals.",
       ],
     },
     {
       id: "oil-mills-refineries",
-      heading: "Website development company in Kadi for oil mills and refineries",
+      heading: "Website development team in Kadi for oil mills and refineries",
       paragraphs: [
         "Cottonseed from the ginning factories feeds Kadi's oil mills and refineries, which produce edible oil, oil cake and by-products for buyers across Gujarat and other states. Some also crush groundnut or mustard. Their customers are wholesalers, packers, cattle feed makers and institutional buyers who increasingly check a supplier online before the first call.",
-        "A <strong>website development company in Kadi</strong> should keep such sites sober and informative. Products with specifications and pack sizes, crushing and refining capacity only if you are comfortable publishing it, quality and licence details, dispatch options, and named contacts for sales and accounts. A product enquiry form that asks for quantity, destination and delivery month saves your sales team a round of calls.",
+        "A <strong>website development team in Kadi</strong> should keep such sites sober and informative. Products with specifications and pack sizes, crushing and refining capacity only if you are comfortable publishing it, quality and licence details, dispatch options, and named contacts for sales and accounts. A product enquiry form that asks for quantity, destination and delivery month saves your sales team a round of calls.",
         "We do not add certifications, client logos or capacity figures that you have not confirmed in writing. Static corporate sites of up to 100 pages start at ₹10,000. See our <a href=\"/services/web-development/\">web development service</a> for what is included.",
       ],
     },
@@ -101,10 +101,10 @@ const kadi: CityContent = {
     },
     {
       id: "market-yard-traders",
-      heading: "IT company in Kadi for brokers, market-yard traders and transporters",
+      heading: "IT services team in Kadi for brokers, market-yard traders and transporters",
       paragraphs: [
         "Brokers, commission agents and traders in Kadi's market yard handle cotton, wheat, cumin, mustard and other produce, while transport operators move kapas, bales, seed and oil between farms, factories and buyers. Their work is fast and rate-driven, and a missed call can mean a missed deal.",
-        "An <strong>IT company in Kadi</strong> can make this easier without forcing a big system on anyone. We build rate sheets that update once and go out to your buyer list on WhatsApp, trip registers for trucks with loading and unloading details, and simple ledgers that show outstanding amounts by party. Everything opens on a phone, because that is where these businesses run.",
+        "An <strong>IT services team in Kadi</strong> can make this easier without forcing a big system on anyone. We build rate sheets that update once and go out to your buyer list on WhatsApp, trip registers for trucks with loading and unloading details, and simple ledgers that show outstanding amounts by party. Everything opens on a phone, because that is where these businesses run.",
         "For transporters, a basic website with fleet types, routes served and a contact number, plus a correct Google Maps listing, helps factories and traders find you when their regular transporter is busy. These starter sites begin at ₹10,000, and the trip or rate tools can be added later if they prove useful.",
       ],
     },
@@ -131,7 +131,7 @@ const kadi: CityContent = {
       heading: "Android app development in Kadi, and iOS apps for local firms",
       paragraphs: [
         "An app pays off when a defined group uses it again and again. In Kadi, that could be brokers and buyers checking a mill's daily rates, dealers placing oil orders, drivers logging trips between factories, a hospital's patients booking tokens, or a school's parents reading notices and paying fees.",
-        "As an <strong>app development company in Kadi</strong> working remotely, we build with Flutter or React Native, so a single codebase covers both Android phones and iPhones. A first version usually has mobile number login, push notifications, the core screens your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts in your firm's name.",
+        "As an <strong>app development team in Kadi</strong> working remotely, we build with Flutter or React Native, so a single codebase covers both Android phones and iPhones. A first version usually has mobile number login, push notifications, the core screens your users need and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts in your firm's name.",
         "<strong>Android app development in Kadi</strong> with us starts at ₹40,000. Payments, offline entry for places with weak signal, Gujarati and English interfaces, and links to Tally or your existing software add cost, and each shows up as its own line in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains the process.",
         "If your buyers only need your address, products and a phone number, a website does the job at a quarter of the price. We will point that out, because an app nobody opens after the first week is money spent for nothing.",
       ],
@@ -232,7 +232,7 @@ const kadi: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content is the biggest factor in speed.",
     },
     {
-      question: "Who is the best website development company in Kadi?",
+      question: "Who is the best website development team in Kadi?",
       answer:
         "Look for someone who publishes prices, registers your domain and code in your name, supports you after launch and can show real work. Put the same questions to each option. We meet those tests and reply on WhatsApp daily, but comparing two or three providers before deciding is always wise.",
     },

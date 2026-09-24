@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Rourkela",
     description:
-      "Instead of a software development company in Rourkela, hire freelance engineers for vendor workflow software, B2B sites, dashboards, apps and AI tools.",
+      "Instead of a software development team in Rourkela, hire freelance engineers for vendor workflow software, B2B sites, dashboards, apps and AI tools.",
     keywords: [
-      "software development company in Rourkela",
-      "IT company in Rourkela",
+      "software development team in Rourkela",
+      "IT services team in Rourkela",
       "IT solutions Rourkela",
       "freelance software developers Rourkela",
       "vendor management software Rourkela",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "IT services · Rourkela, Odisha",
     h1: "Freelance software developers in Rourkela for vendor workflows, B2B sites and dashboards",
     lede:
-      "A search for a software development company in Rourkela mostly turns up website makers, while the steel city's suppliers, contractors and transporters need workflow systems. BtechWaleTech is a freelance group of three engineers working remotely from India. We build PO-to-payment software, B2B websites, labour and fleet tools, dashboards, Android and iOS apps and AI automation for Rourkela firms, with published starting prices.",
+      "A search for a software development team in Rourkela mostly turns up website makers, while the steel city's suppliers, contractors and transporters need workflow systems. BtechWaleTech is a freelance group of three engineers working remotely from India. We build PO-to-payment software, B2B websites, labour and fleet tools, dashboards, Android and iOS apps and AI automation for Rourkela firms, with published starting prices.",
     pills: ["PO-to-payment workflows", "B2B industrial websites", "Labour and fleet tools", "Apps from ₹40,000", "Dashboards for owners"],
   },
   quickAnswer:
-    "For IT solutions in Rourkela, BtechWaleTech works as a freelance group of three engineers rather than a software development company: workflow software and dashboards from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and B2B websites from ₹10,000. We work remotely from India, with five months of free maintenance.",
+    "For IT solutions in Rourkela, BtechWaleTech works as a freelance group of three engineers rather than a software development team: workflow software and dashboards from ₹60,000 (6 to 12 weeks), AI automation and Android and iOS apps from ₹40,000, and B2B websites from ₹10,000. We work remotely from India, with five months of free maintenance.",
   snapshot: [
     { label: "Anchor industry", value: "Rourkela Steel Plant of SAIL, India's first integrated public-sector steel plant, commissioned around 1959 with German collaboration" },
     { label: "Supplier ecosystem", value: "Ancillary units, fabricators, engineering contractors, refractory and spares suppliers, and transporters serving the plant and nearby mines" },
@@ -69,15 +69,15 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-it-company-rourkela",
-      heading: "Freelance developers or an IT company in Rourkela: which suits a steel-city supplier?",
+      heading: "Freelance developers or an IT services team in Rourkela: which suits a steel-city supplier?",
       paragraphs: [
         "A freelance developer group suits a Rourkela supplier that needs a focused workflow system, B2B website or dashboard built quickly and supported directly by the people who wrote it, while a larger IT company suits multi-site ERP rollouts, formal tenders and projects needing staff on the premises. Most small and mid-sized vendors in Rourkela fit the first description.",
-        "BtechWaleTech is not a software development company and has no office in Rourkela. We are three engineers working as a freelance group, remotely from India. Scoping happens on calls and screen-shares where you walk us through your registers and documents; progress appears on a test link every week; and handover includes source code, credentials and a written record of every account.",
+        "BtechWaleTech has no office in Rourkela. We are three engineers working as a freelance group, remotely from India. Scoping happens on calls and screen-shares where you walk us through your registers and documents; progress appears on a test link every week; and handover includes source code, credentials and a written record of every account.",
         "We are open about the limits. We do not integrate with a buyer's internal ERP without their permission, install hardware, or qualify for tenders requiring a registered firm. Where those are essential, a local company is the correct hire.",
       ],
       list: [
         "Freelance group: focused systems, direct engineer contact, itemised pricing",
-        "IT company: large ERP projects, on-site teams, tender eligibility",
+        "IT services team: large ERP projects, on-site teams, tender eligibility",
         "Either: insist on code, domain and data ownership",
       ],
     },
@@ -240,7 +240,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT company based in Rourkela?",
+      question: "Is BtechWaleTech an IT services team based in Rourkela?",
       answer:
         "No. BtechWaleTech is a freelance group of three engineers working remotely from India, with no office in Rourkela. We work through calls, screen-shares, WhatsApp and weekly test links, and hand over all code, credentials and documentation. On-site hardware and plant networks are outside our scope.",
     },

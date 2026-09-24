@@ -9,7 +9,7 @@ const tiruchengode: CityContent = {
     description:
       "Websites, Tamil and English SEO, dealer portals and WhatsApp automation for Tiruchengode rig builders, lorry body units, looms and colleges. From ₹10,000.",
     keywords: [
-      "website development company in Tiruchengode",
+      "website development team in Tiruchengode",
       "web design Tiruchengode",
       "website designer Tiruchengode",
       "borewell rig manufacturer website",

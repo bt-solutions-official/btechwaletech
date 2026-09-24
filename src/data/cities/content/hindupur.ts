@@ -9,7 +9,7 @@ const hindupur: CityContent = {
     description:
       "Websites, Telugu and Urdu SEO, garment stores and WhatsApp workflows for Hindupur silk, tamarind and textile traders and industrial suppliers. From ₹10,000.",
     keywords: [
-      "website development company in Hindupur",
+      "website development team in Hindupur",
       "web designer Hindupur",
       "website design Hindupuram",
       "freelance web developer Hindupur",

@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance developers for Ghaziabad: B2B software, lead systems, AI automation, Android and iOS apps and SEO for Sahibabad and Meerut Road units. From ₹10,000.",
     keywords: [
-      "software development company in Ghaziabad",
-      "IT company in Ghaziabad",
+      "software development team in Ghaziabad",
+      "IT services team in Ghaziabad",
       "IT solutions Ghaziabad",
       "freelance software developers Ghaziabad",
       "custom software Ghaziabad",
@@ -84,11 +84,11 @@ const content: CityContent = {
     },
     {
       id: "ghaziabad-freelance-vs-company",
-      heading: "Freelance software developers vs an IT company in Ghaziabad",
+      heading: "Freelance software developers vs an IT services team in Ghaziabad",
       paragraphs: [
-        "A freelance group is the practical choice for most Ghaziabad projects, such as one unit's order tracker, a lead system or a B2B website, because you get direct engineer access and lower overheads. An IT company is better when you need a large team, a full ERP rollout across many plants or permanent on-site staff.",
+        "A freelance group is the practical choice for most Ghaziabad projects, such as one unit's order tracker, a lead system or a B2B website, because you get direct engineer access and lower overheads. An IT services team is better when you need a large team, a full ERP rollout across many plants or permanent on-site staff.",
         "Ghaziabad owners are surrounded by options: IT companies in Noida and Delhi, ERP resellers, and individual freelancers in Indirapuram and Vaishali. Resellers push packaged software that may not fit your process; large companies charge for layers of management; solo freelancers carry the risk of disappearing mid-project.",
-        "BtechWaleTech is a freelance group of three engineers, not a company, and we are upfront about that. You always know who is writing the code, and one person's leave does not halt your project. If your needs are better served by a packaged ERP or a larger vendor, we will tell you rather than stretch beyond what three people should take on.",
+        "BtechWaleTech is a freelance group of three engineers, and we are upfront about that. You always know who is writing the code, and one person's leave does not halt your project. If your needs are better served by a packaged ERP or a larger vendor, we will tell you rather than stretch beyond what three people should take on.",
       ],
     },
     {
@@ -197,7 +197,7 @@ const content: CityContent = {
     },
     {
       id: "ghaziabad-evaluate",
-      heading: "How to evaluate an IT company or freelancer in Ghaziabad",
+      heading: "How to evaluate an IT services team or freelancer in Ghaziabad",
       paragraphs: [
         "Evaluate any IT company or freelancer in Ghaziabad by asking who writes the code, who owns the repository, hosting and domain, how payments are staged, what the quote excludes and what support follows launch. Written answers to these five questions protect you better than any sales pitch.",
         "Request a demo login to a similar system, not only screenshots. Ask how they handle Tally imports, change requests and staff training. Confirm that app store accounts and API keys will be in your name. A practical tip even if you never hire us: before any meeting, list your top ten items, customers and process steps on one page; it halves the time needed to get an accurate quote.",

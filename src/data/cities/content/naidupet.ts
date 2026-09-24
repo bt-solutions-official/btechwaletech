@@ -10,12 +10,12 @@ const naidupet: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Naidupet highway traders, APIIC park suppliers, farm input dealers and clinics.",
     keywords: [
       "IT services in Naidupet",
-      "IT company in Naidupet",
-      "website development company in Naidupet",
+      "IT services team in Naidupet",
+      "website development team in Naidupet",
       "web design in Naidupet",
-      "app development company in Naidupet",
+      "app development team in Naidupet",
       "Android app development in Naidupet",
-      "software company in Naidupet",
+      "software team in Naidupet",
       "SEO services in Naidupet",
       "digital marketing in Naidupet",
       "ecommerce website in Naidupet",
@@ -75,10 +75,10 @@ const naidupet: CityContent = {
     },
     {
       id: "apiic-park-suppliers",
-      heading: "Website development company in Naidupet for APIIC park vendors and contractors",
+      heading: "Website development team in Naidupet for APIIC park vendors and contractors",
       paragraphs: [
         "An industrial park changes the local economy in stages. First come civil contractors, earthmoving equipment owners and fabricators. Then come the service firms that keep factories running: electricians, pipe fitters, housekeeping and security agencies, canteen operators, bus and cab contractors, packaging suppliers and tool shops. Many of these firms are local families who have never needed a website before.",
-        "Purchase and admin teams at larger units usually shortlist vendors after checking them online. A <strong>website development company in Naidupet</strong> should therefore help a supplier look as capable as it really is: a clear list of services, equipment and manpower strength, past job types described in general terms, safety practices, GST and labour registrations, and named people to contact. English matters here because the buyer may sit in Chennai, Bengaluru or overseas.",
+        "Purchase and admin teams at larger units usually shortlist vendors after checking them online. A <strong>website development team in Naidupet</strong> should therefore help a supplier look as capable as it really is: a clear list of services, equipment and manpower strength, past job types described in general terms, safety practices, GST and labour registrations, and named people to contact. English matters here because the buyer may sit in Chennai, Bengaluru or overseas.",
         "We keep these sites factual and quick to load. We never name a factory as your client without written permission from that client, and we do not publish photographs taken inside a plant without clearance. Where it helps, we add a request-for-quote form that accepts drawings or tender documents, and a simple page showing the certificates and insurance papers buyers ask for.",
         "A capability site of this kind starts at ₹10,000 and usually goes live in one to two weeks. If you later need to track work orders, manpower attendance or equipment hours, that becomes custom software, quoted separately.",
       ],
@@ -95,10 +95,10 @@ const naidupet: CityContent = {
     },
     {
       id: "farm-input-dealers",
-      heading: "Software company in Naidupet for seed, fertiliser and farm input dealers",
+      heading: "Software team in Naidupet for seed, fertiliser and farm input dealers",
       paragraphs: [
         "Naidupet mandal farms depend on a mix of wells, tube wells, minor tanks and river flows, and the cropping follows the water. In kharif the fields carry groundnut, black gram and green gram, with paddy where irrigation allows. Rabi brings Bengal gram, groundnut and chillies, and mango orchards add a summer income. Every one of these crops runs through dealers in the town who sell seed, fertiliser, pesticide and equipment, often on credit until harvest.",
-        "The credit book is where most dealers lose money. Entries are scattered across notebooks and phone messages, rates change during the season, and a farmer who owes from last year returns asking for more. As a practical <strong>software company in Naidupet</strong>, we build small tools that bring this into one place: each sale entered once from a phone or counter PC, a running balance per farmer and per village, due-date reminders, and stock that updates as bills are made.",
+        "The credit book is where most dealers lose money. Entries are scattered across notebooks and phone messages, rates change during the season, and a farmer who owes from last year returns asking for more. As a practical <strong>software team in Naidupet</strong>, we build small tools that bring this into one place: each sale entered once from a phone or counter PC, a running balance per farmer and per village, due-date reminders, and stock that updates as bills are made.",
         "Dealers who supply smaller shops in surrounding villages can add a retailer module with its own rates and order history. We can connect the tool to Tally or export daily summaries for your accountant, and we keep screens in Telugu wherever staff prefer it.",
         "These projects start at ₹60,000 and are built in stages over six to twelve weeks. We suggest starting in the quieter months before the kharif rush, so staff learn the system while the counter is calm.",
       ],
@@ -138,7 +138,7 @@ const naidupet: CityContent = {
       heading: "Android app development in Naidupet, with iOS apps for local businesses",
       paragraphs: [
         "An app earns its place when the same people use it again and again. In Naidupet, sound candidates include an input dealer whose village retailers re-order every week, a transport contractor whose drivers log trips and diesel, a school sending homework and fee reminders to parents, a hospital issuing tokens and reports, or a labour contractor marking attendance at several sites inside the industrial park.",
-        "As an <strong>app development company in Naidupet</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login with OTP, push notifications, the few screens your users truly need and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Naidupet</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login with OTP, push notifications, the few screens your users truly need and an admin panel for your office. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Naidupet</strong> with us starts at ₹40,000. The quote rises with online payments, offline mode for fields and sites with poor signal, maps and live tracking, or links to Tally and other software, and each of these appears as a separate line. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses do not need an app yet. If customers only look for your address, phone number, timings and prices, a website does that job for a quarter of the cost and needs no installation. We will tell you so, because an app that nobody opens after the first week helps nobody.",
       ],
@@ -182,7 +182,7 @@ const naidupet: CityContent = {
     },
     {
       id: "around-naidupet",
-      heading: "IT company in Naidupet serving Sullurpeta, Gudur, Venkatagiri and Pellakur",
+      heading: "IT services team in Naidupet serving Sullurpeta, Gudur, Venkatagiri and Pellakur",
       paragraphs: [
         "Our work in this part of Tirupati district reaches well beyond the town. We take projects from Pellakur, Ojili, Doravarisatram and Chittamur mandals, from Sullurpeta and the Sriharikota side to the south, Gudur to the north, Venkatagiri to the west, and further to Srikalahasti, Tirupati, Renigunta and Nellore.",
         "Businesses that serve several towns often want a page for each. We build those only with real details: the branch address if one exists, delivery or service areas, travel time and a local phone number. Pages that repeat the same text with the town name swapped are filtered out by search engines and ignored by customers, so we do not make them.",
@@ -231,7 +231,7 @@ const naidupet: CityContent = {
         "A static site normally goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site needs three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Having your content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best website development company in Naidupet?",
+      question: "Which is the best website development team in Naidupet?",
       answer:
         "Judge any provider on the same points: published prices, domain and code in your name, real work you can check, and support after launch. We meet those tests and reply on WhatsApp seven days a week, but it is sensible to compare two or three options and ask each of them identical questions.",
     },

@@ -10,12 +10,12 @@ const dalliRajhara: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Dalli-Rajhara mine contractors, transporters, workshops, clinics, schools and shops.",
     keywords: [
       "IT services in Dalli-Rajhara",
-      "IT company in Dalli Rajhara",
-      "website development company in Dalli-Rajhara",
+      "IT services team in Dalli Rajhara",
+      "website development team in Dalli-Rajhara",
       "web design in Dalli Rajhara",
-      "app development company in Dalli-Rajhara",
+      "app development team in Dalli-Rajhara",
       "Android app development in Dalli Rajhara",
-      "software company in Dalli-Rajhara",
+      "software team in Dalli-Rajhara",
       "SEO services in Dalli Rajhara",
       "digital marketing in Dalli-Rajhara",
       "ecommerce website in Dalli Rajhara",
@@ -73,19 +73,19 @@ const dalliRajhara: CityContent = {
     },
     {
       id: "mine-contractors-software",
-      heading: "Software company in Dalli-Rajhara for mine contractors and transporters",
+      heading: "Software team in Dalli-Rajhara for mine contractors and transporters",
       paragraphs: [
         "Around the captive mines works a large network of private firms: excavation and loading contractors, transporters running dumpers and trucks, labour contractors, crusher and conveyor maintenance crews, canteen and security agencies. Each carries the same administrative load. Trips have to be matched with slips, diesel issued has to be reconciled with machine hours, attendance has to match wage sheets, and statutory records have to be ready when inspectors or the principal employer ask.",
         "Doing this in registers costs money quietly. A missing slip means an unpaid trip. Diesel that cannot be tied to a vehicle becomes an argument. Wage disputes arise because the attendance sheet and the payment list were written by different people on different days.",
-        "As a <strong>software company in Dalli-Rajhara</strong>, we build small web tools that fix this without turning your office upside down. A supervisor enters each trip or shift once from a phone. The system totals trips, tonnage, fuel and hours per vehicle, flags gaps, and produces monthly statements you can hand to the client or the accountant. Document expiry alerts for fitness certificates, permits and insurance can be added. Such software starts at ₹60,000 and is built in stages over six to twelve weeks, beginning with whichever register causes the most disputes.",
+        "As a <strong>software team in Dalli-Rajhara</strong>, we build small web tools that fix this without turning your office upside down. A supervisor enters each trip or shift once from a phone. The system totals trips, tonnage, fuel and hours per vehicle, flags gaps, and produces monthly statements you can hand to the client or the accountant. Document expiry alerts for fitness certificates, permits and insurance can be added. Such software starts at ₹60,000 and is built in stages over six to twelve weeks, beginning with whichever register causes the most disputes.",
       ],
     },
     {
       id: "vendors-workshops",
-      heading: "Website development company in Dalli-Rajhara for workshops and plant suppliers",
+      heading: "Website development team in Dalli-Rajhara for workshops and plant suppliers",
       paragraphs: [
         "Open-cast mining depends on heavy machinery: shovels, dozers, dumpers, crushers, screens and conveyor belts, plus the diesel engines that drive them. That creates steady demand for hydraulic repair shops, welding and fabrication units, tyre and battery dealers, bearing and spare parts suppliers, electrical contractors and firms that recondition components.",
-        "Buyers and contractors increasingly check a supplier online before calling, and public-sector purchase processes run largely on online portals. A <strong>website development company in Dalli-Rajhara</strong> should give such firms a site that reads like a capability statement: equipment handled, workshop facilities, machines owned, registrations and GST details, safety practices and a named contact. It should open quickly on a site engineer's phone and look proper on a purchase officer's desktop.",
+        "Buyers and contractors increasingly check a supplier online before calling, and public-sector purchase processes run largely on online portals. A <strong>website development team in Dalli-Rajhara</strong> should give such firms a site that reads like a capability statement: equipment handled, workshop facilities, machines owned, registrations and GST details, safety practices and a named contact. It should open quickly on a site engineer's phone and look proper on a purchase officer's desktop.",
         "We never name clients on your site without their written consent, and we do not invent certifications. A capability site of this kind starts at ₹10,000. Workshops with repeat customers can add a job status page, so contractors stop calling to ask whether their pump or gearbox is ready, and a quotation request form that accepts photographs of the damaged part.",
       ],
     },
@@ -130,7 +130,7 @@ const dalliRajhara: CityContent = {
       heading: "Android app development in Dalli-Rajhara and iOS apps for the same users",
       paragraphs: [
         "Apps suit situations where a fixed group of people uses the same tool every day. In Dalli-Rajhara that often means drivers entering trips and diesel, supervisors marking attendance at a work site, a workshop's mechanics updating job cards, a school or coaching centre reaching parents, or a store's regular customers reordering groceries.",
-        "As an <strong>app development company in Dalli-Rajhara</strong> that works remotely, we build with Flutter or React Native, so the same app runs on Android phones and iPhones. The first version typically includes mobile number login, push notifications, the main screens your users need and an admin panel for the office. For sites with weak signal, entries can be saved offline and synced later. Apps are published on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Dalli-Rajhara</strong> that works remotely, we build with Flutter or React Native, so the same app runs on Android phones and iPhones. The first version typically includes mobile number login, push notifications, the main screens your users need and an admin panel for the office. For sites with weak signal, entries can be saved offline and synced later. Apps are published on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Dalli-Rajhara</strong> starts at ₹40,000. Offline sync, GPS location, photo uploads, payments and multiple user roles add to the cost, and each appears separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for how a project runs.",
         "If your customers only need your phone number, timings and rates, skip the app. A website does that for far less money, and nobody has to install anything. We will say so rather than sell you something that sits unused.",
       ],
@@ -155,7 +155,7 @@ const dalliRajhara: CityContent = {
     },
     {
       id: "remote-team-dalli-rajhara",
-      heading: "Hiring a remote IT company in Dalli-Rajhara: how the work is managed",
+      heading: "Hiring a remote IT services team in Dalli-Rajhara: how the work is managed",
       paragraphs: [
         "We start with a call or WhatsApp chat about your work: what you do, who your customers or clients are, and which part of the day wastes the most time. Within about two working days you receive a written plan listing the pages or screens, the dates and an itemised cost. Nothing begins until you approve it, and nothing is billed before approval.",
         "While we build, you watch progress on preview links that open on any phone. A contractor can show the trip entry screen to his supervisor, or a school principal can pass the draft to the management committee. Hindi text is always sent for your review before it goes live.",
@@ -222,7 +222,7 @@ const dalliRajhara: CityContent = {
         "Yes. We build web tools where each trip, shift or diesel issue is entered once from a phone, with totals per vehicle, site and month, plus document expiry alerts. Statements can be exported for your client or accountant. This starts at ₹60,000 and is built in stages, starting with the record that causes the most disputes.",
     },
     {
-      question: "Who is the best IT company in Dalli-Rajhara for a website?",
+      question: "Who is the best IT services team in Dalli-Rajhara for a website?",
       answer:
         "Judge any provider on published prices, a written itemised quote, ownership of domain and code in your name, real finished work and support after launch. Ask everyone the same questions. We meet those standards and answer WhatsApp all week, but comparing two or three quotes before deciding is always wise.",
     },

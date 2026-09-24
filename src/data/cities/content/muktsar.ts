@@ -10,12 +10,12 @@ const muktsar: CityContent = {
       "Punjabi websites, Android and iOS apps, local SEO and WhatsApp automation for Muktsar arhtiyas, jutti makers, cotton traders, clinics and IELTS centres.",
     keywords: [
       "IT services in Muktsar",
-      "IT company in Sri Muktsar Sahib",
-      "website development company in Muktsar",
+      "IT services team in Sri Muktsar Sahib",
+      "website development team in Muktsar",
       "web design in Muktsar",
-      "app development company in Muktsar",
+      "app development team in Muktsar",
       "Android app development in Muktsar",
-      "software company in Muktsar",
+      "software team in Muktsar",
       "SEO services in Muktsar",
       "digital marketing in Sri Muktsar Sahib",
       "ecommerce website in Muktsar",
@@ -75,10 +75,10 @@ const muktsar: CityContent = {
     },
     {
       id: "arhtiya-grain-cotton",
-      heading: "Software company in Muktsar for arhtiyas, grain and cotton traders",
+      heading: "Software team in Muktsar for arhtiyas, grain and cotton traders",
       paragraphs: [
         "In the new grain market on the Jalalabad road and the other yards of the district, commission agents handle wheat in April, paddy in October and cotton through the winter. Each season means hundreds of farmer accounts, purchase slips, labour charges, advances, interest and payments that have to reconcile with government procurement records.",
-        "Many firms still keep this in bahi khata or in a desktop program only one person understands. As a <strong>software company in Muktsar</strong>, practically speaking, we build web tools that sit alongside your existing records: farmer ledgers, crop-wise arrivals, advances and deductions, labour and transport bills, and a statement a farmer can see on his phone without calling the munim.",
+        "Many firms still keep this in bahi khata or in a desktop program only one person understands. As a <strong>software team in Muktsar</strong>, practically speaking, we build web tools that sit alongside your existing records: farmer ledgers, crop-wise arrivals, advances and deductions, labour and transport bills, and a statement a farmer can see on his phone without calling the munim.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, ideally in the quiet months between harvests. We begin with the farmer ledger, because that is where disputes and phone calls come from, and add reports only after your staff are comfortable with the first screens. Data stays on hosting in your name.",
         "Two design choices matter more than any feature. First, entry must be quick on a crowded mandi day, so slips are keyed in with a few taps and printed on the spot. Second, access has to be controlled: the munim sees entries, the partner sees profits, and a farmer sees only his own account. Getting those two right is what makes staff actually use the software after the first week.",
       ],
@@ -104,10 +104,10 @@ const muktsar: CityContent = {
     },
     {
       id: "hospitals-clinics-muktsar",
-      heading: "Website development company in Muktsar for hospitals, clinics and labs",
+      heading: "Website development team in Muktsar for hospitals, clinics and labs",
       paragraphs: [
         "Muktsar's hospitals, nursing homes, dental clinics, eye centres and diagnostic labs draw patients from Malout, Gidderbaha, Lambi, Bariwala and many villages. A long trip wasted because the specialist was not sitting that day is the most common complaint patients have.",
-        "A <strong>website development company in Muktsar</strong> working for doctors should build around that. Each doctor gets a page with qualification, speciality and OPD days; the site shows emergency numbers, lab timings, accepted insurance schemes if applicable, and directions. Appointment requests come through WhatsApp or a short form and reach the reception directly.",
+        "A <strong>website development team in Muktsar</strong> working for doctors should build around that. Each doctor gets a page with qualification, speciality and OPD days; the site shows emergency numbers, lab timings, accepted insurance schemes if applicable, and directions. Appointment requests come through WhatsApp or a short form and reach the reception directly.",
         "We keep medical claims out of the copy; no guaranteed cures, no before-and-after promises. Pages are in Punjabi and English, and for larger hospitals we can add a token or report-status page so families stop calling to ask when a report is ready.",
       ],
     },
@@ -135,7 +135,7 @@ const muktsar: CityContent = {
       heading: "Android app development in Muktsar, with iOS apps for the same users",
       paragraphs: [
         "Apps are worth the money when a fixed group of people uses them often. In Muktsar, strong cases include farmers checking their account and payment status with an arhtiya, students of a coaching centre following class schedules and mock test scores, patients booking tokens at a busy hospital, or village retailers reordering from a distributor.",
-        "As an <strong>app development company in Muktsar</strong>, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version typically includes mobile number login, push notifications, the few screens your users actually need, and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Muktsar</strong>, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version typically includes mobile number login, push notifications, the few screens your users actually need, and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Muktsar</strong> with us starts at ₹40,000. Payments, Punjabi and English interfaces, offline entry and links to your accounts software add to the quote, each shown separately. Our <a href=\"/it-services/android-ios-app/\">app development page</a> explains the process.",
         "If people only need your address, timings and a rate list, a website does that for much less and needs no download. In that case we will recommend the website.",
       ],
@@ -169,7 +169,7 @@ const muktsar: CityContent = {
     },
     {
       id: "remote-ownership-muktsar",
-      heading: "IT company in Muktsar without an office: how we work and what you own",
+      heading: "IT services team in Muktsar without an office: how we work and what you own",
       paragraphs: [
         "Working remotely means we write everything down. After a first call you receive a page or screen plan, a timeline and an itemised quote. Once you approve, you follow progress on preview links on your own phone and can show them to family or partners. We answer WhatsApp every day of the week on Indian Standard Time, and Punjabi text is sent for your check before it goes live.",
         "Everything is registered in your name: domain, hosting, source code, Google Business Profile, and Play Store and App Store developer accounts. Maintenance is free for five months after launch and covers updates, backups, security patches and checks on forms, payments and WhatsApp links. After that, maintenance starts at ₹8,000 a month if you want it, and you can move to another developer whenever you like.",
@@ -227,7 +227,7 @@ const muktsar: CityContent = {
         "A static website usually goes live in one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Ready content is what speeds things up most.",
     },
     {
-      question: "Who is the best website development company in Sri Muktsar Sahib?",
+      question: "Who is the best website development team in Sri Muktsar Sahib?",
       answer:
         "Pick a provider that shows prices openly, registers the domain and code in your name, stays reachable after launch and can show real work. Put the same questions to everyone. We meet those tests and answer WhatsApp seven days a week, but comparing two or three options first is wise.",
     },

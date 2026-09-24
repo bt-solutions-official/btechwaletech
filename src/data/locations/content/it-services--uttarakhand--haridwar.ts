@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & AI Developers in Haridwar",
     description:
-      "Need a software development company in Haridwar? Hire our freelance team for SIDCUL factory software, trust systems, apps and AI automation. From ₹40,000.",
+      "Need a software development team in Haridwar? Hire our freelance team for SIDCUL factory software, trust systems, apps and AI automation. From ₹40,000.",
     keywords: [
-      "software development company in Haridwar",
-      "IT company in Haridwar",
+      "software development team in Haridwar",
+      "IT services team in Haridwar",
       "IT solutions Haridwar",
       "freelance software developer Haridwar",
       "SIDCUL Haridwar software",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Haridwar · Uttarakhand · Freelance software and automation",
     h1: "Freelance software and AI developers in Haridwar for factories, trusts and pilgrim services",
     lede:
-      "If you are comparing a software development company in Haridwar with other options, consider BtechWaleTech: a freelance group of three engineers working remotely from India. We write vendor and batch software for SIDCUL and Bhagwanpur units, donation and room systems for ashrams and trusts, AI agents for pilgrim enquiries, dashboards and apps, all with public starting prices and five free months of maintenance.",
+      "If you are comparing a software development team in Haridwar with other options, consider BtechWaleTech: a freelance group of three engineers working remotely from India. We write vendor and batch software for SIDCUL and Bhagwanpur units, donation and room systems for ashrams and trusts, AI agents for pilgrim enquiries, dashboards and apps, all with public starting prices and five free months of maintenance.",
     pills: ["Factory software from ₹60,000", "AI automation from ₹40,000", "Kumbh and Kanwar-ready hosting", "Trust donation receipts", "Hindi-first screens"],
   },
   quickAnswer:
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-team-vs-company-haridwar",
-      heading: "Freelance team vs a software development company in Haridwar: what is the difference?",
+      heading: "Freelance team vs a software development team in Haridwar: what is the difference?",
       paragraphs: [
-        "The main difference between a freelance team and a software development company in Haridwar is who you deal with and what you pay for. With BtechWaleTech, a freelance group of three engineers, you talk directly to the developers, and the quote covers engineering time rather than an office, sales staff and layers of management.",
+        "The main difference between a freelance team and a software development team in Haridwar is who you deal with and what you pay for. With BtechWaleTech, a freelance group of three engineers, you talk directly to the developers, and the quote covers engineering time rather than an office, sales staff and layers of management.",
         "A company with a large bench can put many developers on a project at once and may offer formal service agreements. That suits a big group rolling out software to several plants in one go. For a single SIDCUL unit that needs a vendor portal, an ashram that needs room and donation software or an Ayurveda brand that needs a batch record, a smaller team usually communicates better and adapts faster.",
         "Whichever you pick, protect yourself the same way: insist on source-code ownership, an itemised quote, a named person responsible for support and hosting registered in your own name. Our <a href='/about/'>about page</a> explains how our three-person group divides design, development and deployment.",
         "A useful test when you compare options in Haridwar is to ask each provider to describe your process back to you after one conversation. If they can explain how a purchase order moves through your plant, or how a pilgrim books a room at your dharamshala, they have listened. If they jump straight to a feature list or a licence fee, they probably have not, and the software will reflect that.",
@@ -246,9 +246,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company based in Haridwar?",
+      question: "Are you a software development team based in Haridwar?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company and not based in Haridwar. We work with Haridwar clients over WhatsApp, calls and live preview links. You deal directly with the developers, and our starting prices are published so you can compare us with local firms.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and not based in Haridwar. We work with Haridwar clients over WhatsApp, calls and live preview links. You deal directly with the developers, and our starting prices are published so you can compare us with local firms.",
     },
     {
       question: "What payment methods do you accept?",

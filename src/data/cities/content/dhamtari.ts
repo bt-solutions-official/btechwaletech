@@ -10,12 +10,12 @@ const dhamtari: CityContent = {
       "Hindi websites, Android and iOS apps, local SEO and WhatsApp automation for Dhamtari rice millers, timber traders, Gangrel resorts, schools, clinics and shops.",
     keywords: [
       "IT services in Dhamtari",
-      "IT company in Dhamtari",
-      "website development company in Dhamtari",
+      "IT services team in Dhamtari",
+      "website development team in Dhamtari",
       "web design in Dhamtari",
-      "app development company in Dhamtari",
+      "app development team in Dhamtari",
       "Android app development in Dhamtari",
-      "software company in Dhamtari",
+      "software team in Dhamtari",
       "SEO services in Dhamtari",
       "digital marketing in Dhamtari",
       "ecommerce website in Dhamtari",
@@ -74,19 +74,19 @@ const dhamtari: CityContent = {
     },
     {
       id: "rice-mill-software",
-      heading: "Software company in Dhamtari for rice mills and paddy traders",
+      heading: "Software team in Dhamtari for rice mills and paddy traders",
       paragraphs: [
         "A Dhamtari rice mill juggles a great deal in one season: paddy bought from farmers, traders and procurement lots, moisture and weight at the kanta, hulling and polishing yields, broken rice, bran and husk as by-products, stock in godowns, lorries leaving for buyers across Chhattisgarh and beyond, and payments due in both directions. When all of this lives in registers and separate spreadsheets, the owner only learns about a gap weeks later.",
-        "As a <strong>software company in Dhamtari</strong>, we build web tools that follow a mill's real day. Intake is recorded once at the weighbridge: supplier, variety, gross and net weight, moisture, deduction and rate. Milling batches link input paddy to rice, broken, bran and husk output, so yield per batch is visible. Godown stock updates on each dispatch, every lorry is tied to a buyer and invoice, and a phone dashboard shows the day's totals and money outstanding.",
+        "As a <strong>software team in Dhamtari</strong>, we build web tools that follow a mill's real day. Intake is recorded once at the weighbridge: supplier, variety, gross and net weight, moisture, deduction and rate. Milling batches link input paddy to rice, broken, bran and husk output, so yield per batch is visible. Godown stock updates on each dispatch, every lorry is tied to a buyer and invoice, and a phone dashboard shows the day's totals and money outstanding.",
         "These systems begin at ₹60,000 and are delivered in modules over six to twelve weeks. Most mills start with intake and stock, since that is where losses hide, then add yield, dispatch and dues. We export to Tally for the accountant. We make no claim of linking to any government procurement portal; the software keeps the mill's own books straight, in a cloud account that you own.",
       ],
     },
     {
       id: "timber-sawmills",
-      heading: "Website development company in Dhamtari for timber traders, sawmills and furniture makers",
+      heading: "Website development team in Dhamtari for timber traders, sawmills and furniture makers",
       paragraphs: [
         "With roughly half the district under forest, timber has long been part of Dhamtari's economy. Sawmills, timber depots, plywood and hardware dealers, door and window makers and furniture workshops supply builders across the region. Their buyers, often contractors from Raipur, Durg or Bhilai, now look a supplier up online before they drive down, and a missing or out-of-date listing costs them the call.",
-        "A <strong>website development company in Dhamtari</strong> should give such a business a clear, sober site: the wood species and sizes you actually stock, cutting and seasoning services, ready furniture ranges with real photographs, doors and frames made to order, delivery area, licence and GST details you hold, and named people to call. An enquiry form asking for item, size, quantity and site location means each lead arrives ready for a quote.",
+        "A <strong>website development team in Dhamtari</strong> should give such a business a clear, sober site: the wood species and sizes you actually stock, cutting and seasoning services, ready furniture ranges with real photographs, doors and frames made to order, delivery area, licence and GST details you hold, and named people to call. An enquiry form asking for item, size, quantity and site location means each lead arrives ready for a quote.",
         "A trade catalogue site begins at ₹10,000. We never claim a forest department permission, certification or client name that you cannot show in writing. For firms that want to be found on every product and size, a 700+ page SEO site begins at ₹20,000. More on this at our <a href=\"/services/web-development/\">web development page</a>.",
       ],
     },
@@ -110,10 +110,10 @@ const dhamtari: CityContent = {
     },
     {
       id: "schools-colleges-dhamtari",
-      heading: "IT company in Dhamtari for schools, colleges and coaching institutes",
+      heading: "IT services team in Dhamtari for schools, colleges and coaching institutes",
       paragraphs: [
         "Dhamtari has government and private schools, several colleges, and coaching institutes preparing students for CG Vyapam exams, police and forest guard recruitment, NEET and JEE. Students arrive from Kurud, Nagri, Magarlod and villages across the district, and parents want fees, timings and bus routes settled before admission.",
-        "As an <strong>IT company in Dhamtari</strong> that builds for education, we set up school and institute sites that answer those points on the page: classes and batches, admission window, fee band, timings, transport stops, staff, facilities, results you can document and an enquiry form that reaches a real inbox. A notices page that a clerk can update from a phone removes most of the repeat calls about holidays and exam dates.",
+        "As an <strong>IT services team in Dhamtari</strong> that builds for education, we set up school and institute sites that answer those points on the page: classes and batches, admission window, fee band, timings, transport stops, staff, facilities, results you can document and an enquiry form that reaches a real inbox. A notices page that a clerk can update from a phone removes most of the repeat calls about holidays and exam dates.",
         "Institute websites begin at ₹10,000. We publish selection figures only with proof and never invent testimonials. Hostels and lodges for students gain from pages with real room photographs, rules, meal details and monthly charges. Coaching centres with weekly tests often add a parent app, described in the app section.",
       ],
     },
@@ -140,7 +140,7 @@ const dhamtari: CityContent = {
       heading: "Android app development in Dhamtari, with the iPhone version built alongside",
       paragraphs: [
         "An app pays for itself only if the same people come back to it every week. Around Dhamtari, fitting uses include rice buyers and dealers placing repeat orders with a mill and tracking their lorry, field staff of an agri-input firm recording village visits, a resort taking return bookings from Raipur families, and a coaching institute sending marks and attendance to parents.",
-        "As a remote <strong>app development company in Dhamtari</strong>, we write the app once in Flutter or React Native and release it for both Android and iPhone. A first release usually covers sign-in with a mobile OTP, push notifications, the few screens people use most and a browser admin panel for your office. Listings on Google Play and Apple's App Store are made under developer accounts that you register and control.",
+        "As a remote <strong>app development team in Dhamtari</strong>, we write the app once in Flutter or React Native and release it for both Android and iPhone. A first release usually covers sign-in with a mobile OTP, push notifications, the few screens people use most and a browser admin panel for your office. Listings on Google Play and Apple's App Store are made under developer accounts that you register and control.",
         "<strong>Android app development in Dhamtari</strong> begins at ₹40,000. Payment collection, entry that keeps working without signal in forest villages, Hindi screens, photo capture, GPS and more user types are priced one at a time on the quote. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> sets out the stages.",
         "Where customers simply need a phone number, timings, a price list or directions, a website is cheaper and asks nothing of them. In that case we will advise the website and not the app.",
       ],
@@ -241,7 +241,7 @@ const dhamtari: CityContent = {
         "Around ten days for a straightforward site, counted from when your photos and text reach us. A 700+ page SEO build needs three to five weeks, an online shop one to two months and custom software up to three months. Waiting for content is what usually pushes launch dates back.",
     },
     {
-      question: "Who is the best IT company in Dhamtari?",
+      question: "Who is the best IT services team in Dhamtari?",
       answer:
         "Nobody can rank that honestly, so test providers yourself. Ask whether prices are published, whether the domain will be in your name, whether their sites are live today and whether they reply after payment. We work to pass all four, and we suggest asking any other candidate the same questions.",
     },

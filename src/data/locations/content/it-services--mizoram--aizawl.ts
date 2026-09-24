@@ -13,8 +13,8 @@ const content: CityContent = {
       "iOS app development Aizawl",
       "mobile app developers Aizawl",
       "iPhone app developers Aizawl",
-      "software development company in Aizawl",
-      "IT company in Aizawl",
+      "software development team in Aizawl",
+      "IT services team in Aizawl",
       "IT solutions Aizawl",
       "freelance software developers Aizawl",
       "software developer Aizawl",
@@ -70,9 +70,9 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-aizawl",
-      heading: "Freelance developers vs a software development company in Aizawl: which should you hire?",
+      heading: "Freelance developers vs a software development team in Aizawl: which should you hire?",
       paragraphs: [
-        "Hire freelance developers in Aizawl when your priority is building the right software at a clear price with direct engineer contact; hire a software development company when you need regular on-site staff, hardware installation, or formal eligibility for large government tenders. Both are legitimate choices for different projects.",
+        "Hire freelance developers in Aizawl when your priority is building the right software at a clear price with direct engineer contact; hire a software development team when you need regular on-site staff, hardware installation, or formal eligibility for large government tenders. Both are legitimate choices for different projects.",
         "BtechWaleTech is a freelance group of three independent engineers. We have no office in Aizawl or anywhere in Mizoram, and we do not install networks or CCTV. What we do is design, build, deploy and maintain software. The engineer answering your WhatsApp message is the same person writing and testing your code.",
         "If you are comparing IT companies in Aizawl, request the same details from each: who builds it, whether source code, domain and hosting will be in your name, what year-two support costs and how quickly they answer on a weekend. We publish our starting prices on the <a href='/pricing/'>pricing page</a>, which makes a like-for-like comparison straightforward. For a website and local SEO focus, see our <a href='/aizawl/'>Aizawl city page</a>.",
       ],

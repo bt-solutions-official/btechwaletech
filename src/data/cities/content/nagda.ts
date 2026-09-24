@@ -9,7 +9,7 @@ const nagda: CityContent = {
     description:
       "Websites, Hindi SEO and WhatsApp automation for Nagda plant vendors, contractors, schools, clinics, traders and junction hotels. From ₹10,000; the code is yours.",
     keywords: [
-      "website development company in Nagda",
+      "website development team in Nagda",
       "web designer Nagda",
       "Nagda website cost",
       "SEO services Nagda",

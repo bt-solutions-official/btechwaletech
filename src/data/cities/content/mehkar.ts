@@ -10,12 +10,12 @@ const mehkar: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Mehkar cotton traders, Balaji temple lodges, Lonar homestays, colleges and clinics.",
     keywords: [
       "IT services in Mehkar",
-      "IT company in Mehkar",
-      "website development company in Mehkar",
+      "IT services team in Mehkar",
+      "website development team in Mehkar",
       "web design in Mehkar",
-      "app development company in Mehkar",
+      "app development team in Mehkar",
       "Android app development in Mehkar",
-      "software company in Mehkar",
+      "software team in Mehkar",
       "SEO services in Mehkar",
       "digital marketing in Mehkar",
       "ecommerce website in Mehkar",
@@ -76,11 +76,11 @@ const mehkar: CityContent = {
     },
     {
       id: "cotton-soybean-traders",
-      heading: "Software company in Mehkar for cotton, soybean and grain traders",
+      heading: "Software team in Mehkar for cotton, soybean and grain traders",
       paragraphs: [
         "Farming around Mehkar rests on the deep black soils that locals call bhurkati and morand. Cotton, soybean, jowar, wheat and pulses move from the fields through commission agents, traders and transporters. Some is sold locally, and much of the cotton heads to ginning and pressing units in Khamgaon, which has long been the district's main cotton market.",
         "For a trader, the buying is rarely the hard part. The trouble is keeping track afterwards: which farmer delivered how many quintals at what moisture and rate, how much advance went out before sowing, which truck took the lot, and when the buyer's payment actually cleared. Most of this lives in diaries and memory, and arguments start when the two disagree.",
-        "As a <strong>software company in Mehkar</strong> for this trade, we build small web tools, not heavy ERP systems. A purchase entry screen that works on a phone at the weighbridge, a running ledger per farmer with advances and deductions, a daily rate board you can forward on WhatsApp in one tap, and a season summary by crop and buyer. Marathi labels come as standard. Tools like these start at ₹60,000 and are built over six to twelve weeks, with the ledger delivered first because it settles disputes soonest.",
+        "As a <strong>software team in Mehkar</strong> for this trade, we build small web tools, not heavy ERP systems. A purchase entry screen that works on a phone at the weighbridge, a running ledger per farmer with advances and deductions, a daily rate board you can forward on WhatsApp in one tap, and a season summary by crop and buyer. Marathi labels come as standard. Tools like these start at ₹60,000 and are built over six to twelve weeks, with the ledger delivered first because it settles disputes soonest.",
         "If your accountant already uses Tally, we can export entries in a format that imports cleanly, so nobody has to change accounting software in the middle of a season.",
       ],
     },
@@ -96,11 +96,11 @@ const mehkar: CityContent = {
     },
     {
       id: "lonar-crater-tourism",
-      heading: "Website development company in Mehkar for Lonar crater homestays, guides and taxis",
+      heading: "Website development team in Mehkar for Lonar crater homestays, guides and taxis",
       paragraphs: [
         "Lonar Lake, about 23 km from Mehkar, fills a meteorite impact crater roughly 1.83 km across and 150 m deep. It became a Ramsar wetland in 2020, and the state government has announced plans to develop it for geo-tourism. School groups, geology students, birdwatchers and weekend travellers from Aurangabad, Jalna and Akola come to see it, and many of them eat, sleep or refuel in Mehkar.",
         "That traffic is a genuine opening for small operators, but only if they can be found before the trip begins. A taxi owner who runs Mehkar to Lonar and Sindkhed Raja, a homestay on the crater road, or a local guide who knows the Daitya Sudan temple and the rim trail should each have a page that answers what visitors actually ask.",
-        "As a <strong>website development company in Mehkar</strong>, we build compact tourism sites for such operators: a route and timing page, honest photographs, rate ranges, what to carry in the summer heat, the rules of the protected area, and a booking request that arrives on WhatsApp with the date and group size already filled in. English and Hindi pages help school groups and out-of-state visitors.",
+        "As a <strong>website development team in Mehkar</strong>, we build compact tourism sites for such operators: a route and timing page, honest photographs, rate ranges, what to carry in the summer heat, the rules of the protected area, and a booking request that arrives on WhatsApp with the date and group size already filled in. English and Hindi pages help school groups and out-of-state visitors.",
         "Accuracy matters more than decoration here. If a path is closed in the monsoon or an entry rule changes, the site should say so the same week, because an annoyed visitor writes the review that the next visitor reads.",
       ],
     },
@@ -116,11 +116,11 @@ const mehkar: CityContent = {
     },
     {
       id: "colleges-hiwara-education",
-      heading: "IT company in Mehkar for colleges, the polytechnic, Hiwara's institutions and coaching classes",
+      heading: "IT services team in Mehkar for colleges, the polytechnic, Hiwara's institutions and coaching classes",
       paragraphs: [
         "Mehkar has a real education footprint for a town of its size. M.E.S. Arts and Commerce College dates from 1961 and is affiliated to Sant Gadge Baba Amravati University. Smt. Sindhutai Jadhao Arts and Science Mahavidyalaya opened in 1997, an Arts and Science Mahila College stands on Janefal Road, and Shinde Polytechnic is on the Mehkar–Dongaon road at Anjani Bk. Nearby, the Vivekanand Ashram at Hiwara, founded by Shukdas Maharaj in 1965, runs a hospital, an agriculture college started in 2003 and a nursing college.",
         "Students from the taluka and from Lonar and Chikhli look up course lists, fees, hostel availability and admission dates, usually on a mid-range Android phone and often in Marathi. Parents search separately, with different worries about safety, transport and results.",
-        "As an <strong>IT company in Mehkar</strong>, we build college and coaching sites that answer both groups: course pages with eligibility and fee ranges, admission timelines, faculty lists, results and notice boards that office staff can update without calling a developer. An enquiry or admission form can feed a Google Sheet or a small admin panel, and a WhatsApp reminder can go out before each deadline.",
+        "As an <strong>IT services team in Mehkar</strong>, we build college and coaching sites that answer both groups: course pages with eligibility and fee ranges, admission timelines, faculty lists, results and notice boards that office staff can update without calling a developer. An enquiry or admission form can feed a Google Sheet or a small admin panel, and a WhatsApp reminder can go out before each deadline.",
         "We cannot promise admissions, and we will not write inflated placement claims. What a clear site does is reduce the number of families who give up because they could not find a date or a working phone number.",
       ],
     },
@@ -139,7 +139,7 @@ const mehkar: CityContent = {
       heading: "Android app development in Mehkar: who needs an app, and who does not",
       paragraphs: [
         "Most Mehkar businesses do not need an app on day one. An app earns its cost when the same people open it again and again: village retailers re-ordering fertiliser every week in season, parents checking a coaching class's notices, patients booking a token at a busy clinic, farmers checking a trader's daily rate, or a transporter's drivers logging each trip.",
-        "For those uses, we work as an <strong>app development company in Mehkar</strong> that writes one codebase in Flutter or React Native and ships it as both an Android app and an iPhone app. A typical first version has mobile number login with OTP, push notifications, the three or four screens your users need most, Marathi labels, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "For those uses, we work as an <strong>app development team in Mehkar</strong> that writes one codebase in Flutter or React Native and ships it as both an Android app and an iPhone app. A typical first version has mobile number login with OTP, push notifications, the three or four screens your users need most, Marathi labels, and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Mehkar</strong> with us starts at ₹40,000. Offline entry for godowns and fields with weak signal, online payments, maps and links to your existing software raise the cost, and each appears as a separate line in the quote. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> covers the details.",
         "When your customers only need your address, timings and a rate list, a website does that job for about a quarter of the price and needs no download. We will say plainly if that is your situation.",
       ],
@@ -182,7 +182,7 @@ const mehkar: CityContent = {
     },
     {
       id: "what-moves-the-quote",
-      heading: "Comparing quotes for a website development company in Mehkar",
+      heading: "Comparing quotes for a website development team in Mehkar",
       paragraphs: [
         "What pushes a Mehkar quote above the starting figure is always something visible on paper: Marathi and English versions of every page, the number of products or courses, a login area for retailers, payment collection, a Tally export, or copywriting if you would rather not write your own text. Strike a line out and the total falls with it. Phone photographs and a short note in your own words are usually enough raw material for a first site.",
         "Quotes for similar-looking work in Buldhana district vary widely, from students charging very little to agencies in larger cities charging many times more. Before comparing, ask each provider who registers the domain, whether you receive the source code, whether the site is tested on an inexpensive Android phone, how many rounds of changes are included, and what support looks like after the first year.",
@@ -259,7 +259,7 @@ const mehkar: CityContent = {
         "A simple shop or clinic site usually goes live in one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends text and photographs in the first few days.",
     },
     {
-      question: "Which is the best IT company in Mehkar for a small business?",
+      question: "Which is the best IT services team in Mehkar for a small business?",
       answer:
         "The right provider publishes prices, registers the domain and code in your name, answers after launch and can show real work. Ask every option the same questions and compare the answers. We meet those tests and reply on WhatsApp every day, but speaking to two or three providers before deciding is sensible.",
     },

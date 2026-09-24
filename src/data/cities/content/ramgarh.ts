@@ -9,7 +9,7 @@ const ramgarh: CityContent = {
     description:
       "Websites, Hindi local SEO, contractor and plant-supplier software and WhatsApp automation for Ramgarh Cantt businesses, coal belt vendors and schools. From ₹10,000.",
     keywords: [
-      "website development company in Ramgarh",
+      "website development team in Ramgarh",
       "website designer Ramgarh Jharkhand",
       "web design Ramgarh Cantt",
       "SEO services Ramgarh",

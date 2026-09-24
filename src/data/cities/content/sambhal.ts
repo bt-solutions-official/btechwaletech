@@ -9,7 +9,7 @@ const sambhal: CityContent = {
     description:
       "Websites, Hindi SEO, export catalogues and WhatsApp automation for Sambhal's horn and bone craft, mentha oil, potato and retail businesses. Sites from ₹10,000.",
     keywords: [
-      "website development company in Sambhal",
+      "website development team in Sambhal",
       "web designer Sambhal",
       "website design Sambhal UP",
       "SEO services Sambhal",

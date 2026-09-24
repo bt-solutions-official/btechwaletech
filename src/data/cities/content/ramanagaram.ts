@@ -10,12 +10,12 @@ const ramanagaram: CityContent = {
       "Websites, Android and iOS apps, Kannada local SEO and WhatsApp automation for Ramanagara silk reelers, cocoon traders, Bidadi suppliers and shops. From ₹10,000.",
     keywords: [
       "IT services in Ramanagaram",
-      "IT company in Ramanagara",
-      "website development company in Ramanagara",
+      "IT services team in Ramanagara",
+      "website development team in Ramanagara",
       "web design in Ramanagara",
-      "app development company in Ramanagara",
+      "app development team in Ramanagara",
       "Android app development in Ramanagara",
-      "software company in Ramanagara",
+      "software team in Ramanagara",
       "SEO services in Ramanagara",
       "digital marketing in Ramanagara",
       "ecommerce website in Ramanagara",
@@ -68,25 +68,25 @@ const ramanagaram: CityContent = {
       heading: "IT services in Ramanagaram for a silk town that sits next to Bengaluru",
       paragraphs: [
         "Ramanagara has an unusual position. It is a district headquarters with its own markets, courts and hospitals, yet it lies close enough to Bengaluru that many of its customers, buyers and job seekers search from the city. A shop on MG Road or a reeler near the cocoon market is judged online by people who have never visited the town. That makes a clear website and an accurate map listing more valuable here than in many towns of the same size.",
-        "When people look for an <strong>IT company in Ramanagara</strong>, they usually want something practical: a website that explains the business, a Google listing that shows correct timings, a way to take orders on WhatsApp, or a small app for regular buyers. We are a remote team of three engineers who do exactly that. Ankur Kumar builds websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation.",
+        "When people look for an <strong>IT services team in Ramanagara</strong>, they usually want something practical: a website that explains the business, a Google listing that shows correct timings, a way to take orders on WhatsApp, or a small app for regular buyers. We are a remote team of three engineers who do exactly that. Ankur Kumar builds websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data work, and Vedansh Shrivastava manages projects, data science and automation.",
         "We have no office in Ramanagara and will not pretend otherwise. Calls, screen shares and WhatsApp handle the work well, and the savings on rent show up in the quote. You see a written page plan and an itemised estimate, usually within two working days, before any payment is discussed.",
       ],
     },
     {
       id: "silk-reelers-cocoon-market",
-      heading: "Website development company in Ramanagara for silk reelers and cocoon traders",
+      heading: "Website development team in Ramanagara for silk reelers and cocoon traders",
       paragraphs: [
         "The Government Cocoon Market on the banks of the Arkavathi is the reason Ramanagara is called the silk town of Karnataka. Farmers from across the region bring cocoons for auction, and reelers buy them to produce raw silk that goes on to weavers in Bengaluru, Mysuru and other centres. Around the market sit reeling units, twisting units, commission agents, transporters and equipment dealers.",
-        "Much of this trade runs on relationships and phone calls. That works with old buyers but makes it hard to reach new ones, such as a weaving unit in another state looking for a steady supplier of a particular denier. A <strong>website development company in Ramanagara</strong> should understand that the site's job is to answer a buyer's first questions: which grades of raw silk you produce, whether you run multi-end or automatic reeling machines, typical monthly output, packing, dispatch and payment terms.",
+        "Much of this trade runs on relationships and phone calls. That works with old buyers but makes it hard to reach new ones, such as a weaving unit in another state looking for a steady supplier of a particular denier. A <strong>website development team in Ramanagara</strong> should understand that the site's job is to answer a buyer's first questions: which grades of raw silk you produce, whether you run multi-end or automatic reeling machines, typical monthly output, packing, dispatch and payment terms.",
         "We build these sites in English with Kannada where it helps, keep photographs honest and simple, and add an enquiry form that asks for quantity, denier and delivery location so you can reply with a sensible rate. Reeling units that want more can add a weekly stock page or a buyer login. A static site of this kind starts at <a href=\"/services/web-development/\">₹10,000</a> and takes one to two weeks once content is ready.",
       ],
     },
     {
       id: "reeling-unit-records",
-      heading: "Software company in Ramanagara for reeling unit records and renditta",
+      heading: "Software team in Ramanagara for reeling unit records and renditta",
       paragraphs: [
         "A reeling unit lives or dies on a few numbers: how many kilograms of cocoon it bought at what price, how much raw silk each lot produced, the renditta that results, wages paid, fuel and power used, and what each buyer still owes. Most owners carry these figures in notebooks and memory. They know roughly whether a month was good but rarely which lots or which buyers made the difference.",
-        "As a <strong>software company in Ramanagara</strong> in the practical sense, we build simple web tools for this. Staff enter each cocoon purchase from the auction slip, record yarn output per lot, and log sales and payments. The owner sees yield per lot, cost per kilogram of silk, pending dues by buyer and monthly totals on a phone. Nothing about it is complicated; it simply replaces guesswork with figures you can check.",
+        "As a <strong>software team in Ramanagara</strong> in the practical sense, we build simple web tools for this. Staff enter each cocoon purchase from the auction slip, record yarn output per lot, and log sales and payments. The owner sees yield per lot, cost per kilogram of silk, pending dues by buyer and monthly totals on a phone. Nothing about it is complicated; it simply replaces guesswork with figures you can check.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the purchase and output register because that is where the money is. If you already use Tally, we pull exports from it rather than asking your accountant to enter things twice.",
       ],
     },
@@ -113,7 +113,7 @@ const ramanagaram: CityContent = {
       heading: "Android app development in Ramanagara, and iOS apps for local businesses",
       paragraphs: [
         "An app makes sense when the same customers come back repeatedly and need to do something specific. In Ramanagara that could be a weaving unit re-ordering raw silk every fortnight, a school sending homework and fee notices to parents, a clinic issuing tokens, a transporter tracking trips for Bidadi factories, or a dairy or grocery supplier taking daily orders from shops along the Mysuru road.",
-        "As an <strong>app development company in Ramanagara</strong> clients can reach on WhatsApp, we build cross-platform apps in Flutter or React Native, so one codebase serves both Android and iPhone users. A typical build includes phone number login, push notifications, the core screens your customers need, and an admin panel where your staff update stock, rates or notices. We publish the app on Google Play and the Apple App Store under your own developer accounts, so the listing belongs to you.",
+        "As an <strong>app development team in Ramanagara</strong> clients can reach on WhatsApp, we build cross-platform apps in Flutter or React Native, so one codebase serves both Android and iPhone users. A typical build includes phone number login, push notifications, the core screens your customers need, and an admin panel where your staff update stock, rates or notices. We publish the app on Google Play and the Apple App Store under your own developer accounts, so the listing belongs to you.",
         "<strong>Android app development in Ramanagara</strong> with us starts at ₹40,000 for a focused first version. The final amount depends on screens, payments, offline use and integrations; you receive the details in writing. A mobile app page on our site explains more: <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a>.",
         "If your customers visit once, or mostly want your address, timings and a phone number, a website is enough and costs far less. We will tell you that plainly rather than sell an app nobody installs.",
       ],
@@ -156,7 +156,7 @@ const ramanagaram: CityContent = {
     },
     {
       id: "remote-team",
-      heading: "Working with a remote IT company from Ramanagara",
+      heading: "Working with a remote IT services team from Ramanagara",
       paragraphs: [
         "Being close to Bengaluru, Ramanagara owners are used to agencies that promise a lot in a meeting and then go quiet. We work differently because we have to: there is no office to visit, so everything we agree is written down and shared on WhatsApp or email.",
         "A project starts with a short call to understand your business and customers. You then receive a page or screen plan, a timeline and the itemised quote. Once you approve it, we share progress as live preview links rather than screenshots, so you can open the draft site on your own phone at the cocoon market or the shop counter.",
@@ -223,7 +223,7 @@ const ramanagaram: CityContent = {
         "A static business website usually takes one to two weeks once we have your content. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software six to twelve weeks. Delays mostly come from waiting for photos and text, so having them ready helps.",
     },
     {
-      question: "Which is the best IT company in Ramanagara for a small business?",
+      question: "Which is the best IT services team in Ramanagara for a small business?",
       answer:
         "The best choice is one that shows its prices, puts the domain and code in your name, answers messages after launch and can show real work. Ask any provider for those four things. We publish starting prices, register everything to you and reply on WhatsApp seven days a week, but you should compare before deciding.",
     },

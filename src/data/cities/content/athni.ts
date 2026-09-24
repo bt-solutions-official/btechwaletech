@@ -10,12 +10,12 @@ const athni: CityContent = {
       "Kannada and Marathi websites, Android and iOS apps, local SEO and WhatsApp bots for Athni sugar-belt firms, Kolhapuri chappal makers, grape growers and clinics.",
     keywords: [
       "IT services in Athni",
-      "IT company in Athni",
-      "website development company in Athni",
+      "IT services team in Athni",
+      "website development team in Athni",
       "web design in Athni",
-      "app development company in Athni",
+      "app development team in Athni",
       "Android app development in Athni",
-      "software company in Athni",
+      "software team in Athni",
       "SEO services in Athni",
       "digital marketing in Athni",
       "ecommerce website in Athni",
@@ -74,11 +74,11 @@ const athni: CityContent = {
     },
     {
       id: "sugar-belt-software",
-      heading: "Software company in Athni for cane transporters, harvest gangs and factory vendors",
+      heading: "Software team in Athni for cane transporters, harvest gangs and factory vendors",
       paragraphs: [
         "Athni taluk has five sugar factories and well over a lakh acres of cane. During the crushing season, a whole economy wakes up: harvest gang leaders who bring labour and pay advances, tractor and truck owners hauling cane, diesel pumps, trailer repair shops, and firms that supply the factories with spares, bags, chemicals and services.",
         "Most of this runs on slips, diaries and memory. A transporter may carry cane for dozens of farmers to two different factories and wait weeks for payment. A gang leader may have given advances to fifty workers before the season started. When the accounts are settled, disagreements are common.",
-        "As a <strong>software company in Athni</strong>, we build simple web tools that record each load once, from a phone, with date, vehicle, farmer, factory, slip number and weight. Totals update per vehicle, farmer and factory. Advances, diesel and deductions are logged against each person, and a statement can go out on WhatsApp in one tap.",
+        "As a <strong>software team in Athni</strong>, we build simple web tools that record each load once, from a phone, with date, vehicle, farmer, factory, slip number and weight. Totals update per vehicle, farmer and factory. Advances, diesel and deductions are logged against each person, and a statement can go out on WhatsApp in one tap.",
         "Such tools start at ₹60,000 and are built in phases over six to twelve weeks, ideally in the months before crushing begins. They work in Kannada or Marathi, and every entry records who made it, so arguments are settled by the record rather than by the loudest voice.",
       ],
     },
@@ -112,10 +112,10 @@ const athni: CityContent = {
     },
     {
       id: "hospitals-schools-athni",
-      heading: "Website development company in Athni for hospitals, schools and colleges",
+      heading: "Website development team in Athni for hospitals, schools and colleges",
       paragraphs: [
         "Athni is the medical and educational centre for a taluk of more than five lakh people. Hospitals and nursing homes see patients from Kagwad, Ugar, Telsang and villages across the border. Schools teach in Kannada, Marathi and Urdu medium, and colleges and coaching centres draw students from across the taluk.",
-        "A <strong>website development company in Athni</strong> should build for how these families search. Hospitals need doctor lists with qualifications and OPD days, departments, emergency numbers and clear directions. Schools need admission dates, medium of instruction, fee structure or ranges, bus routes and a notice board. Colleges need course pages, eligibility, seat information and a simple enquiry form.",
+        "A <strong>website development team in Athni</strong> should build for how these families search. Hospitals need doctor lists with qualifications and OPD days, departments, emergency numbers and clear directions. Schools need admission dates, medium of instruction, fee structure or ranges, bus routes and a notice board. Colleges need course pages, eligibility, seat information and a simple enquiry form.",
         "We write each page in the language its readers prefer, often Kannada and Marathi side by side, and keep private information off public pages. A school that wants to message parents regularly can add an app later; most begin with the website and see which updates parents check most before spending more.",
       ],
     },
@@ -124,7 +124,7 @@ const athni: CityContent = {
       heading: "Android app development in Athni: when an app earns its place",
       paragraphs: [
         "Apps make sense in Athni where the same people use them again and again. A transporter's drivers logging trips all season. A fertiliser dealer's village retailers re-ordering every week. A coaching centre's students checking tests and timetables. A school's parents reading notices. A hospital's regular patients booking follow-ups.",
-        "As an <strong>app development company in Athni</strong> that works remotely, we use Flutter or React Native so a single project delivers both an Android app and an iPhone app. The first version generally covers login by mobile number, push notifications, your core screens and an admin panel. We publish on Google Play and the App Store through developer accounts registered to you, not to us.",
+        "As an <strong>app development team in Athni</strong> that works remotely, we use Flutter or React Native so a single project delivers both an Android app and an iPhone app. The first version generally covers login by mobile number, push notifications, your core screens and an admin panel. We publish on Google Play and the App Store through developer accounts registered to you, not to us.",
         "<strong>Android app development in Athni</strong> with us starts at ₹40,000. Offline entry for fields with poor signal, payments, maps, Kannada and Marathi interfaces, and links to your billing software each add to the price, and each is quoted on its own line. Read more on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
         "If customers only need your address, phone number and a rate list, skip the app. A website and a Google listing do that job at a fraction of the cost, and that is what we will recommend.",
       ],
@@ -158,9 +158,9 @@ const athni: CityContent = {
     },
     {
       id: "remote-team-athni",
-      heading: "IT company in Athni without a local office: our working method",
+      heading: "IT services team in Athni without a local office: our working method",
       paragraphs: [
-        "Hiring an <strong>IT company in Athni</strong> that has no desk in town is a fair thing to question. Here is how we make it work. The first step is a call about your business and customers. Next, you get a written scope with pages or screens, features, dates and the cost of each item.",
+        "Hiring an <strong>IT services team in Athni</strong> that has no desk in town is a fair thing to question. Here is how we make it work. The first step is a call about your business and customers. Next, you get a written scope with pages or screens, features, dates and the cost of each item.",
         "Only after you approve that document does work begin, and nothing is billed before approval. During the build you receive preview links that open on any phone, so partners or family members can check them too. Feedback can come as text or voice notes in Kannada, Marathi or Hindi.",
         "We answer WhatsApp seven days a week on Indian time, and if something is running late we tell you that day along with a revised date. Payments follow milestones you have already seen working, so you never pay for promises.",
       ],
@@ -225,7 +225,7 @@ const athni: CityContent = {
         "A simple website is typically live in one to two weeks once your photos and details arrive. A 700+ page SEO website takes three to five weeks, an online store four to eight and custom software six to twelve. Projects move fastest when the owner sends content in the first few days.",
     },
     {
-      question: "Who is the best website development company in Athni?",
+      question: "Who is the best website development team in Athni?",
       answer:
         "Judge any provider on the same points: real past work, a written itemised quote, domain and code registered in your name, pages in Kannada and Marathi where needed, and support after launch. We meet those tests and reply daily on WhatsApp, but it is sensible to compare two or three options before you decide.",
     },

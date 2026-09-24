@@ -9,7 +9,7 @@ const portBlair: CityContent = {
     description:
       "Websites, island travel booking pages, local SEO and WhatsApp automation for Sri Vijaya Puram hotels, tour operators, dive shops and traders. Sites from ₹10,000.",
     keywords: [
-      "website development company in Port Blair",
+      "website development team in Port Blair",
       "web designer Sri Vijaya Puram",
       "website developer Andaman",
       "Andaman tour operator website",

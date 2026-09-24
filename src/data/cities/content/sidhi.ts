@@ -10,12 +10,12 @@ const sidhi: CityContent = {
       "Hindi websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sidhi shops, dari weavers, coal-belt contractors, clinics and coaching centres.",
     keywords: [
       "IT services in Sidhi",
-      "IT company in Sidhi",
-      "website development company in Sidhi",
+      "IT services team in Sidhi",
+      "website development team in Sidhi",
       "web design in Sidhi",
-      "app development company in Sidhi",
+      "app development team in Sidhi",
       "Android app development in Sidhi",
-      "software company in Sidhi",
+      "software team in Sidhi",
       "SEO services in Sidhi",
       "digital marketing in Sidhi",
       "ecommerce website in Sidhi",
@@ -70,7 +70,7 @@ const sidhi: CityContent = {
         "Sidhi is a district headquarters with the rhythm of a market town. Families from Churhat, Rampur Naikin, Kusmi, Majhauli and dozens of villages come in for the collectorate, the district hospital, colleges, wedding shopping and farm supplies. Before they leave home, more and more of them check a phone: is the shop open, does the doctor sit today, what does the coaching batch cost.",
         "That is where most requests for <strong>IT services in Sidhi</strong> start. A clothes shop wants a Google listing that shows the right timings. A private school wants a site that parents can read in Hindi. A transporter wants to stop writing trip slips in three different diaries. None of this needs a big agency, but it does need people who finish the job and stay reachable.",
         "We are three engineers working remotely. Ankur Kumar handles full-stack development, Santosh Sharma looks after AI, machine learning, AWS and data work, and Vedansh Shrivastava runs project management, data science and automation. We have no office in Sidhi and we will not pretend otherwise. Everything happens over WhatsApp, phone calls and shared screens, and you get a written plan before a single rupee is billed.",
-        "If you are comparing an <strong>IT company in Sidhi</strong> with someone in Rewa or Bhopal, ask the same three things of everyone: who owns the domain, who can edit the site after launch, and what happens if the developer disappears. Our answers are simple. You own it all, you get the logins, and the code is yours.",
+        "If you are comparing an <strong>IT services team in Sidhi</strong> with someone in Rewa or Bhopal, ask the same three things of everyone: who owns the domain, who can edit the site after launch, and what happens if the developer disappears. Our answers are simple. You own it all, you get the logins, and the code is yours.",
       ],
     },
     {
@@ -85,10 +85,10 @@ const sidhi: CityContent = {
     },
     {
       id: "coal-belt-contractors",
-      heading: "Software company in Sidhi for transporters and contractors on the Singrauli route",
+      heading: "Software team in Sidhi for transporters and contractors on the Singrauli route",
       paragraphs: [
         "Neighbouring Singrauli is one of India's main coal and thermal power regions, and plenty of Sidhi families earn from it: trucks and dumpers, machinery hire, labour supply, fabrication, tyre and spare shops, and civil contracts. The work pays, but the paperwork is messy. Trips, diesel advances, driver salaries, permit renewals and delayed payments are often tracked in notebooks and memory.",
-        "As a <strong>software company in Sidhi</strong> in the practical sense, we build small web applications for exactly this. A supervisor enters each trip from a phone with vehicle number, challan, weight and rate. The owner sees totals per vehicle, per driver and per client, plus pending payments and the date each fitness certificate, permit or insurance policy expires.",
+        "As a <strong>software team in Sidhi</strong> in the practical sense, we build small web applications for exactly this. A supervisor enters each trip from a phone with vehicle number, challan, weight and rate. The owner sees totals per vehicle, per driver and per client, plus pending payments and the date each fitness certificate, permit or insurance policy expires.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, so you use the first module while the next one is built. Data can be exported to Excel for your accountant, and the system can run on hosting registered in your name.",
         "We do not add features for show. If a shared Google Sheet with a proper form solves your problem, we will tell you that and charge accordingly.",
       ],
@@ -107,17 +107,17 @@ const sidhi: CityContent = {
       heading: "Android app development in Sidhi, and iOS apps where they make sense",
       paragraphs: [
         "Most Sidhi customers carry an Android phone, and a growing number of doctors, officers and students from the town use iPhones. An app earns its cost when the same people return to it every week. Here that usually means a coaching institute's students checking tests and notes, a hospital's patients booking tokens, a fertiliser or FMCG dealer's village retailers placing repeat orders, or a transporter's drivers logging trips.",
-        "As an <strong>app development company in Sidhi</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android and iOS. A first version typically covers mobile-number login, push notifications, the three or four screens your users actually need, and an admin panel for your staff. We publish it to Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Sidhi</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android and iOS. A first version typically covers mobile-number login, push notifications, the three or four screens your users actually need, and an admin panel for your staff. We publish it to Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Sidhi</strong> with us starts at ₹40,000. Payments, offline entry for villages with weak signal, maps and links to your billing software add to the cost, and each one appears separately in the quote. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a> for what a first release includes.",
         "Be honest with yourself about usage. If customers only want your address, timings and a phone number, a website and a Google listing do that for a fraction of the money. We will say so before you spend on an app nobody opens twice.",
       ],
     },
     {
       id: "coaching-colleges-sidhi",
-      heading: "Website development company in Sidhi for schools, colleges and coaching institutes",
+      heading: "Website development team in Sidhi for schools, colleges and coaching institutes",
       paragraphs: [
         "Education pulls young people into Sidhi from across the district. Sanjay Gandhi Smriti Government PG College has taught here since 1960, government colleges run in Churhat, Rampur Naikin, Kusmi and Majhauli, and private schools and coaching centres prepare students for board exams, police and army recruitment, and state competitive exams.",
-        "Parents and students compare options on their phones, usually in Hindi. A <strong>website development company in Sidhi</strong> should give an institute a site that answers the obvious questions without a phone call: courses, batch timings, fee range, faculty, results you can document, location and transport. A notice board page that staff can update themselves stops the flood of “is there a holiday tomorrow” calls.",
+        "Parents and students compare options on their phones, usually in Hindi. A <strong>website development team in Sidhi</strong> should give an institute a site that answers the obvious questions without a phone call: courses, batch timings, fee range, faculty, results you can document, location and transport. A notice board page that staff can update themselves stops the flood of “is there a holiday tomorrow” calls.",
         "For larger institutes we add online admission forms, fee receipts, test result uploads and student logins. A basic site starts at ₹10,000; admission and fee modules are quoted separately so you only pay for what you use.",
       ],
     },
@@ -168,7 +168,7 @@ const sidhi: CityContent = {
     },
     {
       id: "remote-team-sidhi",
-      heading: "Working with a remote IT company from Sidhi without an office visit",
+      heading: "Working with a remote IT services team from Sidhi without an office visit",
       paragraphs: [
         "Hiring someone you never meet in person can feel risky, so here is exactly how it works. You message us on WhatsApp with what you need. We ask questions, sometimes on a call, and within about two working days you receive an itemised quote with timelines. Nothing is billed until you approve it in writing.",
         "During the build you see progress on a preview link that opens on your own phone. You can send changes as text or voice notes in Hindi. Ankur builds the site or app, Santosh handles AI, cloud and data pieces, and Vedansh keeps the schedule and makes sure your questions are answered. We reply every day of the week, in Indian time.",
@@ -221,7 +221,7 @@ const sidhi: CityContent = {
         "Yes. We build Android and iOS apps in Flutter or React Native, starting at ₹40,000, with login, push notifications and an admin panel. We publish them on Google Play and the App Store under accounts in your name. Coaching institutes, hospitals, dealers and transporters in Sidhi are the most common users.",
     },
     {
-      question: "Which is the best IT company in Sidhi for a small business?",
+      question: "Which is the best IT services team in Sidhi for a small business?",
       answer:
         "The best choice is the one that puts the domain and code in your name, gives a written itemised quote and answers after launch. Check past work, ask who maintains the site, and confirm yearly renewal costs. We meet those tests, but compare us with local options using the same questions.",
     },

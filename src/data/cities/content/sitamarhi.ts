@@ -10,12 +10,12 @@ const sitamarhi: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sitamarhi rice traders, Punaura Dham hotels, clinics and coaching. Sites from ₹10,000.",
     keywords: [
       "IT services in Sitamarhi",
-      "IT company in Sitamarhi",
-      "website development company in Sitamarhi",
+      "IT services team in Sitamarhi",
+      "website development team in Sitamarhi",
       "web design in Sitamarhi",
-      "app development company in Sitamarhi",
+      "app development team in Sitamarhi",
       "Android app development in Sitamarhi",
-      "software company in Sitamarhi",
+      "software team in Sitamarhi",
       "SEO services in Sitamarhi",
       "digital marketing in Sitamarhi",
       "ecommerce website in Sitamarhi",
@@ -75,7 +75,7 @@ const sitamarhi: CityContent = {
     },
     {
       id: "rice-trade",
-      heading: "Software company in Sitamarhi for rice mills, paddy traders and oil units",
+      heading: "Software team in Sitamarhi for rice mills, paddy traders and oil units",
       paragraphs: [
         "The district is mainly agricultural, with rice, wheat, maize and sugarcane on its flood plain. Paddy is hulled in hundreds of small mills and hullers spread across the blocks, and Bairgania, Sonbarsa, Pupri and Parihar have long been rice trading centres. Oilseed crushing is the other old agro industry here.",
         "The weak point in most of these businesses is paperwork. Paddy arrives from many farmers and small aggregators, moisture and weight are noted on slips, advances are paid in cash or UPI, and rice goes out to buyers in north Bihar and beyond on credit. By the end of a season, few owners know exactly what each lot earned.",
@@ -88,7 +88,7 @@ const sitamarhi: CityContent = {
       heading: "Android app development in Sitamarhi, and iOS too: who needs an app",
       paragraphs: [
         "Not every business in Sitamarhi needs an app, and we will say so when a website and WhatsApp are enough. An app makes sense when the same people come back often and do the same thing each time: students opening notes and test results, a chemist's regular customers re-ordering medicines, a wholesaler's retailers placing orders every week, or a school's parents checking fees and notices.",
-        "As an app development company in Sitamarhi for local businesses, we build in Flutter or React Native, so one codebase gives you both an Android app on Google Play and an iOS app on the App Store. A typical build includes phone number login with OTP, a product, course or service catalogue, orders or bookings, push notifications for offers and reminders, and an admin panel where your staff update prices, stock and messages without calling us.",
+        "As an app development team in Sitamarhi for local businesses, we build in Flutter or React Native, so one codebase gives you both an Android app on Google Play and an iOS app on the App Store. A typical build includes phone number login with OTP, a product, course or service catalogue, orders or bookings, push notifications for offers and reminders, and an admin panel where your staff update prices, stock and messages without calling us.",
         "Android and iOS apps start at ₹40,000. The final quote depends on screens, payments, offline use and links to billing software. We publish the app under your own Google Play and Apple developer accounts, so the listing, reviews and download numbers belong to you, not to us.",
         "Most customers in the district use Android phones, so we test on low-cost handsets and slow networks first. If your customers visit only once or twice a year, as many pilgrims do, a fast website with a booking form will serve you better than an app they install and delete.",
       ],
@@ -110,7 +110,7 @@ const sitamarhi: CityContent = {
     },
     {
       id: "clinics-hospitals",
-      heading: "Website development company in Sitamarhi for hospitals, clinics and labs",
+      heading: "Website development team in Sitamarhi for hospitals, clinics and labs",
       paragraphs: [
         "Sitamarhi's private hospitals, nursing homes, dental clinics and pathology labs serve patients from all seventeen blocks and from Sheohar, many of whom travel an hour or more. The most common complaint we hear from clinics is wasted journeys: patients arrive on a day the doctor is not sitting, or without the reports they needed.",
         "A clinic website solves that with doctor profiles, speciality pages, OPD days and timings, fees where you choose to show them, directions from Mehsaul Chowk and the bus stand, and a WhatsApp appointment request that collects name, age, preferred date and problem. Labs can list tests with fasting and sample instructions.",
@@ -182,7 +182,7 @@ const sitamarhi: CityContent = {
     },
     {
       id: "remote-team-sitamarhi",
-      heading: "An IT company in Sitamarhi's market, working without a local office",
+      heading: "An IT services team in Sitamarhi's market, working without a local office",
       paragraphs: [
         "We have no office in Sitamarhi, Muzaffarpur or anywhere else in Bihar, and we will not pretend otherwise. BtechWaleTech is three engineers who work remotely. Ankur Kumar builds full-stack websites and web apps, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava runs project management, data science and automation.",
         "The process suits busy owners. You describe what you need on WhatsApp or a short call. Within about two working days you receive an itemised written quote. Work starts only after you approve it in writing, and you watch progress on a live preview link, sending comments from the shop or the mill whenever you have a minute.",
@@ -240,7 +240,7 @@ const sitamarhi: CityContent = {
         "Yes. We build apps in Flutter or React Native with OTP login, catalogues, orders or bookings, push notifications and an admin panel, and publish them on Google Play and the App Store under your own accounts. Apps start at ₹40,000. If a website would serve your customers better, we will tell you.",
     },
     {
-      question: "Which is the best IT company in Sitamarhi?",
+      question: "Which is the best IT services team in Sitamarhi?",
       answer:
         "The right choice depends on what you need, so compare a few providers on the same points: written itemised quotes, whether the domain and code are in your name, Hindi content, support after launch and real past work. We are a remote team, not a local office, and we are happy to be compared on those terms.",
     },

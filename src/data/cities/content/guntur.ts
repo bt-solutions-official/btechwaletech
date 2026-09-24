@@ -9,7 +9,7 @@ const guntur: CityContent = {
     description:
       "Websites, trading software, SEO and WhatsApp automation for Guntur chilli and cotton traders, hospitals, colleges and shops. From ₹10,000, five months free upkeep.",
     keywords: [
-      "website development company in Guntur",
+      "website development team in Guntur",
       "web designer Guntur",
       "website design cost Guntur",
       "freelance web developer Guntur",

@@ -9,7 +9,7 @@ const content: CityContent = {
     description:
       "Freelance IT solutions and IT consulting in Tamil Nadu: digital transformation for auto suppliers, knitwear exporters, dealers and clinics, with apps, AI and SEO.",
     keywords: [
-      "IT solutions company in Tamil Nadu",
+      "IT solutions team in Tamil Nadu",
       "IT consulting Tamil Nadu",
       "digital transformation Tamil Nadu",
       "freelance IT consultant Tamil Nadu",
@@ -37,7 +37,7 @@ const content: CityContent = {
     eyebrow: "Tamil Nadu · 38 districts, Chennai to Kanniyakumari",
     h1: "Freelance IT consulting and IT solutions for Tamil Nadu's manufacturers, exporters and service firms",
     lede:
-      "Many owners search for an IT solutions company in Tamil Nadu when what they really want is someone who understands their process before selling them software. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We begin with IT consulting, then deliver the pieces that matter: custom software and web apps, Android and iOS apps, AI automation in Tamil and English, dashboards, cloud hosting, SEO and ecommerce, for businesses in Chennai, Coimbatore, Tiruppur, Madurai, Hosur, Salem, Trichy and every district in between.",
+      "Many owners search for an IT solutions team in Tamil Nadu when what they really want is someone who understands their process before selling them software. BtechWaleTech is a freelance group of three independent engineers working remotely from India. We begin with IT consulting, then deliver the pieces that matter: custom software and web apps, Android and iOS apps, AI automation in Tamil and English, dashboards, cloud hosting, SEO and ecommerce, for businesses in Chennai, Coimbatore, Tiruppur, Madurai, Hosur, Salem, Trichy and every district in between.",
     pills: ["Consulting before code", "Tamil and English interfaces", "Apps from ₹40,000", "Software from ₹60,000", "UPI QR or bank transfer"],
   },
   quickAnswer:
@@ -80,15 +80,15 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-it-solutions-company-tamil-nadu",
-      heading: "Should you hire a freelance IT team or an IT solutions company in Tamil Nadu?",
+      heading: "Should you hire a freelance IT team or an IT solutions team in Tamil Nadu?",
       paragraphs: [
-        "Hire a freelance IT team when you want direct contact with the engineers, clear starting prices and a project that fits a small, focused team; hire an IT solutions company when you need large teams, formal enterprise contracts or staff working inside your premises. Both are valid; the mistake is choosing one when the project needs the other.",
+        "Hire a freelance IT team when you want direct contact with the engineers, clear starting prices and a project that fits a small, focused team; hire an IT solutions team when you need large teams, formal enterprise contracts or staff working inside your premises. Both are valid; the mistake is choosing one when the project needs the other.",
         "Chennai alone has hundreds of IT companies, and Coimbatore, Madurai and Trichy have growing numbers too. If you are comparing IT companies in Tamil Nadu, notice how many people stand between you and the developer. In a larger firm that can mean an account manager, a project manager and a team lead, which helps with big programmes but slows small ones. With BtechWaleTech, the three engineers who scope the work also build and support it.",
-        "Our honest limits: we are a freelance group, not a company, we work remotely and never on site, and we accept a limited number of projects at a time. What we do guarantee is ownership. Domains, cloud accounts, app store listings and code repositories are registered to you from day one, so you can change providers without asking anyone for permission.",
+        "Our honest limits: we are a small freelance group of three developers, we work remotely and never on site, and we accept a limited number of projects at a time. What we do guarantee is ownership. Domains, cloud accounts, app store listings and code repositories are registered to you from day one, so you can change providers without asking anyone for permission.",
       ],
       list: [
         "Freelance team: direct engineers, quick decisions, lower overheads",
-        "IT company: large teams, on-site staff, formal enterprise processes",
+        "IT services team: large teams, on-site staff, formal enterprise processes",
         "Either way: insist on itemised quotes and ownership of every account",
       ],
     },
@@ -234,9 +234,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech an IT solutions company with an office in Tamil Nadu?",
+      question: "Is BtechWaleTech an IT solutions team with an office in Tamil Nadu?",
       answer:
-        "No on both counts. We are a freelance group of three independent engineers, not a company, and we work remotely from India with no office in Chennai or any other Tamil Nadu city. Consulting, reviews, testing and training all happen over video calls, WhatsApp and screen shares, and you see a live preview of your project from the first week.",
+        "No on both counts. We are a freelance group of three independent engineers, and we work remotely from India with no office in Chennai or any other Tamil Nadu city. Consulting, reviews, testing and training all happen over video calls, WhatsApp and screen shares, and you see a live preview of your project from the first week.",
     },
     {
       question: "Can you build software and apps in Tamil?",

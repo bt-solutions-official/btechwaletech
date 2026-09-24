@@ -10,12 +10,12 @@ const ottappalam: CityContent = {
       "Malayalam websites, Android and iOS apps, local SEO and WhatsApp automation for Ottappalam KINFRA park units, film location stays, clinics, colleges and shops.",
     keywords: [
       "IT services in Ottappalam",
-      "IT company in Ottapalam",
-      "website development company in Ottappalam",
+      "IT services team in Ottapalam",
+      "website development team in Ottappalam",
       "web design in Ottapalam",
-      "app development company in Ottappalam",
+      "app development team in Ottappalam",
       "Android app development in Ottapalam",
-      "software company in Ottappalam",
+      "software team in Ottappalam",
       "SEO services in Ottapalam",
       "digital marketing in Ottappalam",
       "ecommerce website in Ottapalam",
@@ -74,20 +74,20 @@ const ottappalam: CityContent = {
     },
     {
       id: "kinfra-industrial-units",
-      heading: "Website development company in Ottappalam for KINFRA park and industrial units",
+      heading: "Website development team in Ottappalam for KINFRA park and industrial units",
       paragraphs: [
         "The KINFRA industrial park at Palappuram was chosen for Kerala's first defence park, meant to bring in manufacturers and suppliers linked to defence and engineering work. Around it and across the taluk are fabrication shops, machine shops, rubber and plastic product makers, food processors and service firms, along with the SILK steel foundry at Kairampara.",
-        "For these units, the website is often the first thing a buyer checks after getting a quotation. A <strong>website development company in Ottappalam</strong> should build them a factual, well-organised site: products and processes, machines and capacities, materials handled, quality and testing practices, certifications they actually hold, GST and registration details, and named contacts. It should read well on a desktop in a purchase office and load quickly on a phone at a site.",
+        "For these units, the website is often the first thing a buyer checks after getting a quotation. A <strong>website development team in Ottappalam</strong> should build them a factual, well-organised site: products and processes, machines and capacities, materials handled, quality and testing practices, certifications they actually hold, GST and registration details, and named contacts. It should read well on a desktop in a purchase office and load quickly on a phone at a site.",
         "We never list a client or a defence programme on your site without written permission, and we never describe capabilities you do not have. Units that quote from drawings can add an RFQ form with file upload, and those with repeat buyers can add a simple job status page so clients stop phoning to ask about dispatch dates.",
         "A static site of this kind starts at ₹10,000 and is usually ready within one to two weeks. If you later need a supplier portal or customer login, it can be added on top of the same site rather than rebuilt.",
       ],
     },
     {
       id: "engineering-software-ottappalam",
-      heading: "Software company in Ottappalam for fabrication shops, workshops and traders",
+      heading: "Software team in Ottappalam for fabrication shops, workshops and traders",
       paragraphs: [
         "Small manufacturing units carry a lot of information in people's heads. Which job is on which machine, what material was issued for it, when the customer was promised delivery, which invoice is unpaid: in many Ottappalam workshops this lives in a register, a whiteboard and the owner's phone. That works until the owner travels or a key supervisor leaves.",
-        "As a <strong>software company in Ottappalam</strong> in plain terms, we build small web tools that record each job once, from the enquiry through quotation, material issue, production stages, dispatch and payment. The owner sees every open job, what is late and what is waiting on the customer. Traders and distributors can have a stock and billing tool with credit limits by customer and reminders for overdue payments.",
+        "As a <strong>software team in Ottappalam</strong> in plain terms, we build small web tools that record each job once, from the enquiry through quotation, material issue, production stages, dispatch and payment. The owner sees every open job, what is late and what is waiting on the customer. Traders and distributors can have a stock and billing tool with credit limits by customer and reminders for overdue payments.",
         "We connect these tools with what you already use where possible, for example by exporting in a format your Tally accountant can import, rather than asking you to change everything at once.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the part that causes the most daily confusion, usually the job register or the stock ledger, and add other modules only after the first is in steady use.",
       ],
@@ -127,7 +127,7 @@ const ottappalam: CityContent = {
       heading: "Android app development in Ottapalam, and iOS apps for local businesses",
       paragraphs: [
         "An app pays off when the same people use it often. In Ottappalam that could be a hospital or clinic giving OPD tokens and lab reports, a coaching centre sending marks, attendance and fee reminders, a distributor taking repeat orders from shops across the taluk, an engineering unit letting regular clients check job status, or a home food business whose Gulf customers reorder before each trip home.",
-        "Choosing us as your <strong>app development company in Ottappalam</strong> means a Flutter or React Native build: a single set of code that installs on Android handsets and on iPhones. Version one tends to cover OTP sign-in by mobile number, notification alerts, the handful of screens that matter and a staff dashboard for managing content. Release happens on Google Play and Apple's App Store, through developer accounts opened under your business name.",
+        "Choosing us as your <strong>app development team in Ottappalam</strong> means a Flutter or React Native build: a single set of code that installs on Android handsets and on iPhones. Version one tends to cover OTP sign-in by mobile number, notification alerts, the handful of screens that matter and a staff dashboard for managing content. Release happens on Google Play and Apple's App Store, through developer accounts opened under your business name.",
         "<strong>Android app development in Ottapalam</strong> with us starts at ₹40,000. Costs rise with online payments, file uploads, offline mode, maps, or links to your billing software, and each appears separately in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Plenty of Ottappalam businesses do not need an app at all. When people simply want your location, hours and rates, a mobile-friendly website answers them without an install, at roughly a quarter of the outlay, and that is what we will advise.",
       ],
@@ -230,7 +230,7 @@ const ottappalam: CityContent = {
         "Once photos and basic details reach us, a straightforward static site usually goes live inside a fortnight. Heavier builds need more time: three to five weeks for 700+ SEO pages, four to eight for an online shop, and six to twelve for bespoke software. Owners who answer questions and send material promptly see the shortest schedules.",
     },
     {
-      question: "Which is the best IT company in Ottappalam?",
+      question: "Which is the best IT services team in Ottappalam?",
       answer:
         "Rather than trusting a label, run a short test on each candidate. Are prices published? Will the domain and code sit in your name? Do they answer after the site is live? Can they show projects you can open yourself? We pass those checks and answer WhatsApp daily, yet it still pays to speak to a couple of others first.",
     },

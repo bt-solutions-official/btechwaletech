@@ -10,12 +10,12 @@ const shegaon: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Shegaon lodges, kachori and prasad shops, cotton traders, colleges and clinics.",
     keywords: [
       "IT services in Shegaon",
-      "IT company in Shegaon",
-      "website development company in Shegaon",
+      "IT services team in Shegaon",
+      "website development team in Shegaon",
       "web design in Shegaon",
-      "app development company in Shegaon",
+      "app development team in Shegaon",
       "Android app development in Shegaon",
-      "software company in Shegaon",
+      "software team in Shegaon",
       "SEO services in Shegaon",
       "digital marketing in Shegaon",
       "ecommerce website in Shegaon",
@@ -74,10 +74,10 @@ const shegaon: CityContent = {
     },
     {
       id: "lodges-pilgrim-stays",
-      heading: "Website development company in Shegaon for lodges, hotels and pilgrim stays",
+      heading: "Website development team in Shegaon for lodges, hotels and pilgrim stays",
       paragraphs: [
         "The Gajanan Maharaj Sansthan runs its own accommodation, including Bhakta Niwas, Anand Vihar and Visawa, and it is often full at festivals and weekends. Private lodges, hotels and guest houses in town take the overflow and serve families who want a different kind of room or a stay closer to the station. The problem for them is visibility, and pilgrims are understandably cautious after seeing booking sites that look official but are not.",
-        "A <strong>website development company in Shegaon</strong> building for a private lodge must therefore be scrupulously clear. The site should say plainly that it belongs to a private lodge, not the Sansthan, and never borrow its name, photographs or logos. It should show real room photographs, tariffs or tariff ranges, what is included, check-in and check-out times, distance from the temple and station, parking, and whether the lodge has lifts or ground-floor rooms for elderly parents.",
+        "A <strong>website development team in Shegaon</strong> building for a private lodge must therefore be scrupulously clear. The site should say plainly that it belongs to a private lodge, not the Sansthan, and never borrow its name, photographs or logos. It should show real room photographs, tariffs or tariff ranges, what is included, check-in and check-out times, distance from the temple and station, parking, and whether the lodge has lifts or ground-floor rooms for elderly parents.",
         "We add a booking request form or WhatsApp button that collects dates and the number of guests, and an advance by UPI if you want one. A site like this starts at ₹10,000 and takes one to two weeks. We keep the Google listing in step with it, because most pilgrims decide from the map while they are still on the train.",
       ],
     },
@@ -92,10 +92,10 @@ const shegaon: CityContent = {
     },
     {
       id: "cotton-ginning-oil-mills",
-      heading: "Software company in Shegaon for cotton ginning, pressing and oil mills",
+      heading: "Software team in Shegaon for cotton ginning, pressing and oil mills",
       paragraphs: [
         "Shegaon's cotton trade goes back to colonial times, when British textile firms kept buying offices here, and ginning and pressing mills still work through the season. Cotton and groundnut are the main crops of the tehsil, with soybean and pulses common across the wider Vidarbha plain. Oil mills, cotton traders, commission agents and transporters depend on the same season.",
-        "Working as a <strong>software company in Shegaon</strong>, we build practical tools for this trade. Farmer arrivals are logged with vehicle, weight, moisture and rate. Lots are tracked through ginning and pressing to numbered bales, with lint and seed yields recorded. Payments to farmers and agents are tracked against due dates, and bale dispatch is linked to buyer, transporter and invoice. Oil mills get seed intake, crushing output and oil and cake sales in the same system.",
+        "Working as a <strong>software team in Shegaon</strong>, we build practical tools for this trade. Farmer arrivals are logged with vehicle, weight, moisture and rate. Lots are tracked through ginning and pressing to numbered bales, with lint and seed yields recorded. Payments to farmers and agents are tracked against due dates, and bale dispatch is linked to buyer, transporter and invoice. Oil mills get seed intake, crushing output and oil and cake sales in the same system.",
         "These tools start at ₹60,000 and are built over six to twelve weeks, often in the off-season so they are ready for the first arrivals. They run on a shop computer or an ordinary Android phone, with Marathi entry screens where staff want them, and connect to Tally rather than replacing it.",
       ],
     },
@@ -119,10 +119,10 @@ const shegaon: CityContent = {
     },
     {
       id: "clinics-retail-shegaon",
-      heading: "IT company in Shegaon for clinics, hospitals, shops and service businesses",
+      heading: "IT services team in Shegaon for clinics, hospitals, shops and service businesses",
       paragraphs: [
         "Shegaon serves a wide ring of villages in the tehsil and beyond. Families come in for hospitals and clinics, farm inputs, clothing, jewellery, electronics and vehicle repairs, and pilgrims add their own demand for medical stores, taxis, travel agents and photo studios. Most of these businesses are still found by word of mouth and signboards, which leaves them invisible to anyone searching on a phone.",
-        "As an <strong>IT company in Shegaon</strong> working remotely, we build simple, fast sites and listings for them. A clinic page lists doctors, timings, emergency numbers and directions. A taxi or travel operator lists routes from Shegaon to Akola, Khamgaon and other pilgrim centres with clear terms. A farm input dealer gets a credit ledger with WhatsApp payment reminders.",
+        "As an <strong>IT services team in Shegaon</strong> working remotely, we build simple, fast sites and listings for them. A clinic page lists doctors, timings, emergency numbers and directions. A taxi or travel operator lists routes from Shegaon to Akola, Khamgaon and other pilgrim centres with clear terms. A farm input dealer gets a credit ledger with WhatsApp payment reminders.",
         "We write in Marathi first, with Hindi and English where customers use them. Every site gets a Google listing with the correct pin, because a pilgrim trying to find a pharmacy at night will trust the map above everything else.",
       ],
     },
@@ -131,7 +131,7 @@ const shegaon: CityContent = {
       heading: "Android app development in Shegaon, and iOS apps for repeat pilgrims and dealers",
       paragraphs: [
         "An app is worth building only for people who will use it again. In Shegaon that includes pilgrim families who return every year and want to rebook the same lodge, dealers of cranes or chain pulley blocks who re-order spares, students and parents of a college or coaching class who need notices and fee reminders, and ginning mill staff who log arrivals during the season.",
-        "As an <strong>app development company in Shegaon</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the main screens and an admin panel. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Shegaon</strong> working remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually has mobile number login, push notifications, the main screens and an admin panel. We publish the app on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Shegaon</strong> with us starts at ₹40,000. The cost rises with payments, offline entry for mill yards with weak signal, multiple languages and links to billing software, and each is listed as a separate line. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a price list, a website does that job for far less, and we will recommend it. An app that pilgrims install once and never open again is money spent for nothing.",
       ],
@@ -237,7 +237,7 @@ const shegaon: CityContent = {
         "For a simple lodge or shop site, count on about a week or two once we have your photos and text. A 700+ page SEO build needs roughly three to five weeks, an online store four to eight, and mill or dealer software six to twelve. Delays almost always come from waiting for content, so early material speeds everything up.",
     },
     {
-      question: "Which is the best website development company in Shegaon?",
+      question: "Which is the best website development team in Shegaon?",
       answer:
         "Judge any provider, including us, on four points: does the domain go in your name, are prices written down, will they answer after the site is live, and can they show sites that actually run. Put identical questions to two or three options and compare the replies side by side before choosing.",
     },

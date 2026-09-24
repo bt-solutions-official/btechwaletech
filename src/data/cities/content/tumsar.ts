@@ -10,12 +10,12 @@ const tumsar: CityContent = {
       "Marathi websites, Android and iOS apps, local SEO and WhatsApp automation for Tumsar rice mills, grain traders, MOIL mine contractors, colleges and clinics.",
     keywords: [
       "IT services in Tumsar",
-      "IT company in Tumsar",
-      "website development company in Tumsar",
+      "IT services team in Tumsar",
+      "website development team in Tumsar",
       "web design in Tumsar",
-      "app development company in Tumsar",
+      "app development team in Tumsar",
       "Android app development in Tumsar",
-      "software company in Tumsar",
+      "software team in Tumsar",
       "SEO services in Tumsar",
       "digital marketing in Tumsar",
       "ecommerce website in Tumsar",
@@ -75,10 +75,10 @@ const tumsar: CityContent = {
     },
     {
       id: "rice-mills-apmc",
-      heading: "Software company in Tumsar for rice mills and the APMC grain trade",
+      heading: "Software team in Tumsar for rice mills and the APMC grain trade",
       paragraphs: [
         "Tumsar's reputation rests on rice. During the season, paddy comes in from farmers and village aggregators, is weighed, graded, dried, milled and bagged, and then goes out to wholesalers in larger cities. Along the way a mill or trading firm deals with moisture deductions, broken percentages, gunny bag stock, hamali charges, transport bookings and payments that arrive in parts.",
-        "Much of this still lives in registers and in the owner's memory. When the accountant is away or a buyer disputes a weight, the whole office stops to search. A <strong>software company in Tumsar</strong> should not try to replace Tally or the APMC's own systems; it should fill the gaps between them.",
+        "Much of this still lives in registers and in the owner's memory. When the accountant is away or a buyer disputes a weight, the whole office stops to search. A <strong>software team in Tumsar</strong> should not try to replace Tally or the APMC's own systems; it should fill the gaps between them.",
         "What we usually build for mills and traders is a simple web tool where each paddy intake is entered once with farmer or supplier, vehicle, weight, moisture and rate. Milling output is logged by lot, so you can see how many quintals of paddy produced how many bags of each grade. Dispatches carry the buyer, truck number and invoice, and a running ledger shows who owes what. Staff enter data from phones; the owner sees totals on a dashboard.",
         "Such tools start at ₹60,000 and are built over six to twelve weeks, usually in stages so the intake register is running before the season peaks. We begin by sitting with your accountant on a video call and copying the way your office already works, because software that forces a new method on a busy mill gets abandoned by the second week.",
       ],
@@ -95,10 +95,10 @@ const tumsar: CityContent = {
     },
     {
       id: "moil-mine-contractors",
-      heading: "Website development company in Tumsar for mine contractors and transporters",
+      heading: "Website development team in Tumsar for mine contractors and transporters",
       paragraphs: [
         "North of the town, MOIL runs manganese mines at Chikla and at Dongri Buzurg, where the opencast pit yields manganese dioxide ore used by the dry battery industry. The Tumsar Road–Tirodi branch line carries ore from these mines, and Tumsar Town station sits on that line. Around the mines is a network of local firms: earthmoving and transport contractors, fabrication and repair workshops, electrical contractors, canteen operators, security agencies and suppliers of spares and safety gear.",
-        "Public sector buyers and larger contractors check suppliers online before inviting quotes. A <strong>website development company in Tumsar</strong> can help such a firm look as established as it is, with facts rather than slogans: fleet or machine list, past work types, safety practices, GST and registration numbers, service area and named contact people.",
+        "Public sector buyers and larger contractors check suppliers online before inviting quotes. A <strong>website development team in Tumsar</strong> can help such a firm look as established as it is, with facts rather than slogans: fleet or machine list, past work types, safety practices, GST and registration numbers, service area and named contact people.",
         "We never display a client's or a PSU's name on your site unless you hold written permission to do so. For workshops, a quotation form that accepts drawings and photos saves several phone calls per job. For transporters, a vehicle document tracker that warns before a permit, fitness or insurance lapses can prevent a truck from standing idle at a checkpoint.",
         "A company profile site of this kind starts at ₹10,000. The document tracker or a trip register is custom software, starting at ₹60,000, and we will suggest it only if your fleet is large enough to justify it.",
       ],
@@ -138,7 +138,7 @@ const tumsar: CityContent = {
       heading: "Android app development in Tumsar, with iOS versions from the same code",
       paragraphs: [
         "Not every Tumsar business needs an app, and we say that plainly. An app earns its cost when the same people open it again and again: a rice brand's regular buyers placing monthly orders, drivers logging trips between the mines and the railway siding, a school sending homework and fee reminders to parents, a clinic issuing tokens, or a dealer taking orders from village retailers who reorder every week.",
-        "As an <strong>app development company in Tumsar</strong> that works remotely, we build in Flutter or React Native so one codebase produces both an Android app and an iPhone app. A first release normally includes mobile number login with OTP, the handful of screens your users need, push notifications for offers or reminders, and an admin panel where your staff manage orders, users and content.",
+        "As an <strong>app development team in Tumsar</strong> that works remotely, we build in Flutter or React Native so one codebase produces both an Android app and an iPhone app. A first release normally includes mobile number login with OTP, the handful of screens your users need, push notifications for offers or reminders, and an admin panel where your staff manage orders, users and content.",
         "<strong>Android app development in Tumsar</strong> with us starts at ₹40,000. The price rises for payments inside the app, offline entry for areas where the network drops, maps and location tracking, or links to your billing software, and each of these is a separate line in the quote. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name, so the listing never depends on us.",
         "When your customers only need an address, a price list and a call button, a website does the job at a fraction of the cost and needs no download. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development page</a>.",
       ],
@@ -174,7 +174,7 @@ const tumsar: CityContent = {
     },
     {
       id: "remote-it-company-tumsar",
-      heading: "Working with an IT company in Tumsar that has no office in Tumsar",
+      heading: "Working with an IT services team in Tumsar that has no office in Tumsar",
       paragraphs: [
         "Some owners feel uneasy about hiring people they will never meet across a table. That is reasonable, so here is exactly how we reduce the risk. First, a call or WhatsApp chat about your business and what you want to change. Then a written plan listing pages or app screens, the timeline and a costed line for every item. Nothing starts, and nothing is billed, until you approve that plan.",
         "During the build you get preview links that open on any phone. You can show them to your partner, your accountant or your son studying in Nagpur, collect everyone's comments and send them in one message. Marathi text comes to you for checking before it is published, because a wrong word on a rice bag label or an admission notice is noticed immediately.",
@@ -242,7 +242,7 @@ const tumsar: CityContent = {
         "A small business site usually goes live one to two weeks after you send photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks, and custom software such as a rice mill register six to twelve weeks. The biggest factor is how quickly content and feedback come back to us.",
     },
     {
-      question: "Which is the best IT company in Tumsar for websites and apps?",
+      question: "Which is the best IT services team in Tumsar for websites and apps?",
       answer:
         "Rather than trusting any claim of being the best, ask each option the same questions: who owns the domain and code, what the written quote includes, what support costs after launch, and can they show live work. We answer all of these in writing and reply on WhatsApp daily, but comparing two or three providers first is wise.",
     },

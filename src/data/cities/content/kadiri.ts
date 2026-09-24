@@ -10,12 +10,12 @@ const kadiri: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Kadiri groundnut traders, temple-town lodges, handloom sellers, clinics and colleges.",
     keywords: [
       "IT services in Kadiri",
-      "IT company in Kadiri",
-      "website development company in Kadiri",
+      "IT services team in Kadiri",
+      "website development team in Kadiri",
       "web design in Kadiri",
-      "app development company in Kadiri",
+      "app development team in Kadiri",
       "Android app development in Kadiri",
-      "software company in Kadiri",
+      "software team in Kadiri",
       "SEO services in Kadiri",
       "digital marketing in Kadiri",
       "ecommerce website in Kadiri",
@@ -74,20 +74,20 @@ const kadiri: CityContent = {
     },
     {
       id: "groundnut-traders-software",
-      heading: "Software company in Kadiri for groundnut traders, oil mills and seed dealers",
+      heading: "Software team in Kadiri for groundnut traders, oil mills and seed dealers",
       paragraphs: [
         "Groundnut is central to farming around Kadiri, and the town's Agricultural Research Station under Acharya N.G. Ranga Agricultural University is one of the country's lead centres for groundnut research. Varieties carrying the Kadiri name are grown well beyond the district. Around this crop sit commission agents, traders, decorticating and oil units, seed dealers and transporters.",
-        "Working as a <strong>software company in Kadiri</strong> for this trade, we build web tools that record purchases by farmer or agent with weight, moisture and grade, lots moved to storage or processing, sales and dispatch with vehicle and buyer, and running balances by party. Seed and fertiliser dealers get stock and credit tracking by village, with reminders before the sowing season.",
+        "Working as a <strong>software team in Kadiri</strong> for this trade, we build web tools that record purchases by farmer or agent with weight, moisture and grade, lots moved to storage or processing, sales and dispatch with vehicle and buyer, and running balances by party. Seed and fertiliser dealers get stock and credit tracking by village, with reminders before the sowing season.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks, beginning with whichever record causes the most disputes. Screens can be in Telugu and English and work on ordinary Android phones. Data can be exported to Tally, or the tool can run alongside it.",
         "Seasons shape the design. Arrivals after the kharif harvest come in a rush, and a trader may weigh hundreds of bags from dozens of farmers within a few days. Entry screens therefore need to be fast, with the farmer picked from a list, weight typed once and a printed or WhatsApp slip issued on the spot, so that the queue at the godown does not grow while someone hunts for a register.",
       ],
     },
     {
       id: "temple-lodges-websites",
-      heading: "Website development company in Kadiri for lodges and temple-visitor services",
+      heading: "Website development team in Kadiri for lodges and temple-visitor services",
       paragraphs: [
         "The Khadri Lakshmi Narasimha Swamy temple draws devotees from across Rayalaseema, Karnataka and Tamil Nadu, with its biggest crowds during the annual Brahmotsavam and the chariot procession. Many visitors combine the trip with Puttaparthi, the Thimmamma Marrimanu banyan or Vemana's samadhi, and look for rooms, food and taxis before they set out.",
-        "As a <strong>website development company in Kadiri</strong>, we build lodge and travel sites with practical details: room types with real photographs, rates or rate range, parking, distance to the temple and bus stand, and how to reach nearby sites. A booking request form or WhatsApp button captures dates and number of guests. Taxi operators can list routes and vehicle types.",
+        "As a <strong>website development team in Kadiri</strong>, we build lodge and travel sites with practical details: room types with real photographs, rates or rate range, parking, distance to the temple and bus stand, and how to reach nearby sites. A booking request form or WhatsApp button captures dates and number of guests. Taxi operators can list routes and vehicle types.",
         "We keep content factual and never invent festival dates; we link to the temple's own announcements instead. A simple lodge or travel site starts at ₹10,000 and is ready in one to two weeks once photographs are shared. Launching a month or two before the festival gives time for the Google listing to settle.",
         "Visitors who come for a day often need more than a room. Families travelling with elderly parents ask about lifts or ground-floor rooms, vegetarian meals, early morning transport to the temple and a place to leave luggage after checkout. Answering these on the site, in Telugu, Kannada-friendly English and plain words, saves calls and brings guests who already know what to expect.",
       ],
@@ -115,7 +115,7 @@ const kadiri: CityContent = {
       heading: "Android app development in Kadiri and iOS apps for local businesses",
       paragraphs: [
         "An app is worth building only when a known group of people will use it regularly. In Kadiri, sensible cases include a seed or fertiliser dealer whose village retailers reorder every week, a school or coaching institute sending notices and fee reminders to parents, a hospital issuing OPD tokens, or a trader whose agents log purchases from the field.",
-        "As an <strong>app development company in Kadiri</strong>, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually has mobile number login, the core screens, push notifications and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Kadiri</strong>, we build in Flutter or React Native so a single codebase runs on Android phones and iPhones. A first version usually has mobile number login, the core screens, push notifications and an admin panel for your office. We publish on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Kadiri</strong> with us starts at ₹40,000. Offline entry for villages with weak signal, online payment, maps and links to your existing software add to the cost and are listed separately. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> explains how a project runs.",
         "If customers only need your address, timings and price list, a website with a Google Maps listing is the better choice at a fraction of the cost. We will recommend that instead of an app nobody opens.",
       ],
@@ -159,9 +159,9 @@ const kadiri: CityContent = {
     },
     {
       id: "remote-team-kadiri",
-      heading: "IT company in Kadiri without a local office: our remote process",
+      heading: "IT services team in Kadiri without a local office: our remote process",
       paragraphs: [
-        "We are not an <strong>IT company in Kadiri</strong> with a local office, and we say so clearly. We are three engineers working remotely, which keeps our starting prices low and saves you trips to Anantapur or Bengaluru for meetings.",
+        "We are not an <strong>IT services team in Kadiri</strong> with a local office, and we say so clearly. We are three engineers working remotely, which keeps our starting prices low and saves you trips to Anantapur or Bengaluru for meetings.",
         "The process begins with a call or WhatsApp chat about your business and customers. You then get a written page or screen list, a timeline and an itemised quote. After approval, we share preview links to check on your phone, and Telugu text is sent to you for correction before publishing.",
         "We reply on WhatsApp seven days a week, on Indian Standard Time. Payments are tied to visible progress, and nothing is billed before you approve the quote in writing.",
       ],
@@ -226,7 +226,7 @@ const kadiri: CityContent = {
         "Yes. We record purchases by farmer or agent with weight, moisture and grade, track lots through storage and processing, and log sales and dispatch with balances by party. It works on phones and can export to Tally. Custom software starts at ₹60,000 and is built in stages.",
     },
     {
-      question: "Who is the best website development company in Kadiri?",
+      question: "Who is the best website development team in Kadiri?",
       answer:
         "Choose a provider that publishes prices, puts the domain and code in your name, supports you after launch and shows real work. Ask each option the same questions. We meet those points and reply on WhatsApp daily, but comparing two or three providers before deciding is wise.",
     },

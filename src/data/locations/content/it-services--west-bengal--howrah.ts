@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & App Developers in Howrah",
     description:
-      "Looking for a software development company in Howrah? Our freelance team builds foundry, job-work, dealer and garment trade software, apps and AI automation.",
+      "Looking for a software development team in Howrah? Our freelance team builds foundry, job-work, dealer and garment trade software, apps and AI automation.",
     keywords: [
-      "software development company in Howrah",
-      "IT company in Howrah",
+      "software development team in Howrah",
+      "IT services team in Howrah",
       "IT solutions Howrah",
       "freelance software developers Howrah",
       "foundry management software Howrah",
@@ -36,7 +36,7 @@ const content: CityContent = {
     eyebrow: "Howrah · West Bengal · Freelance software for industry and trade",
     h1: "Freelance software and app developers in Howrah for foundries, engineering units and wholesale trade",
     lede:
-      "Owners who search for a software development company in Howrah usually run something physical: a foundry in Liluah, a fabrication shop in Dasnagar, a garment stall at Mangla Haat or a warehouse near Sankrail. BtechWaleTech is a freelance group of three engineers working remotely from India. We build production, quotation, dealer and job-worker software, Android and iOS apps, AI automations and B2B websites for Howrah firms, at published starting prices.",
+      "Owners who search for a software development team in Howrah usually run something physical: a foundry in Liluah, a fabrication shop in Dasnagar, a garment stall at Mangla Haat or a warehouse near Sankrail. BtechWaleTech is a freelance group of three engineers working remotely from India. We build production, quotation, dealer and job-worker software, Android and iOS apps, AI automations and B2B websites for Howrah firms, at published starting prices.",
     pills: ["Factory software from ₹60,000", "Android and iOS apps from ₹40,000", "AI automation from ₹40,000", "RFQ and quotation tools", "Bengali and Hindi screens"],
   },
   quickAnswer:
@@ -70,7 +70,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-howrah",
-      heading: "Freelance developers or a software development company in Howrah: what works for a factory?",
+      heading: "Freelance developers or a software development team in Howrah: what works for a factory?",
       paragraphs: [
         "For most Howrah foundries, engineering units and traders, a small freelance team works better than a large software development company, because the job is to digitise one or two specific processes on a shop floor, not to run a multi-year enterprise rollout. BtechWaleTech is a freelance group of three engineers, and that is the kind of work we take on.",
         "Factories in Liluah or Jagacha have usually seen two kinds of pitch: an ERP vendor with a long module list and a price to match, or a local billing-software seller. Neither tends to understand melt records, pattern stock or job-worker balances. A freelance group can sit with your supervisor on a video call, study the job card and build around it, and the quote covers engineering time, not a showroom in Kolkata.",
@@ -272,9 +272,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company in Howrah?",
+      question: "Are you a software development team in Howrah?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company and not based in Howrah. We work with Howrah foundries, workshops and traders over WhatsApp, calls and live preview links, and you talk directly to the developers.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and not based in Howrah. We work with Howrah foundries, workshops and traders over WhatsApp, calls and live preview links, and you talk directly to the developers.",
     },
     {
       question: "How do payments work?",

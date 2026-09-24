@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Surat for textile trade software, diamond lot tracking, reseller apps, Android and iOS apps and AI automation. Starting prices.",
     keywords: [
-      "software development company in Surat",
-      "IT company in Surat",
+      "software development team in Surat",
+      "IT services team in Surat",
       "IT solutions Surat",
       "freelance software developers Surat",
       "textile trading software Surat",
@@ -216,9 +216,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-surat",
-      heading: "Freelance team vs an IT company in Surat: which should you choose?",
+      heading: "Freelance team vs an IT services team in Surat: which should you choose?",
       paragraphs: [
-        "Choose an IT company in Surat if you need on-site staff or a large team; choose a freelance group like BtechWaleTech if you want to deal with the engineers directly, pay less overhead and own every account and line of code. In both cases, insist on working previews and written ownership terms.",
+        "Choose an IT services team in Surat if you need on-site staff or a large team; choose a freelance group like BtechWaleTech if you want to deal with the engineers directly, pay less overhead and own every account and line of code. In both cases, insist on working previews and written ownership terms.",
         "We are three independent engineers working remotely, as explained on our <a href='/about/'>about page</a>, with examples on our <a href='/portfolio/'>portfolio</a>. We have no Surat office, do not provide on-site hardware support and never guarantee rankings. For nearby markets, see our <a href='/it-services/gujarat/ahmedabad/'>Ahmedabad</a> and <a href='/it-services/gujarat/vadodara/'>Vadodara</a> pages.",
       ],
       list: [

@@ -10,12 +10,12 @@ const tarikere: CityContent = {
       "Kannada websites, Android and iOS apps, local SEO and WhatsApp automation for Tarikere areca traders, Kemmangundi homestays, rice mills, schools and clinics.",
     keywords: [
       "IT services in Tarikere",
-      "IT company in Tarikere",
-      "website development company in Tarikere",
+      "IT services team in Tarikere",
+      "website development team in Tarikere",
       "web design in Tarikere",
-      "app development company in Tarikere",
+      "app development team in Tarikere",
       "Android app development in Tarikere",
-      "software company in Tarikere",
+      "software team in Tarikere",
       "SEO services in Tarikere",
       "digital marketing in Tarikere",
       "ecommerce website in Tarikere",
@@ -74,19 +74,19 @@ const tarikere: CityContent = {
     },
     {
       id: "areca-traders-software",
-      heading: "Software company in Tarikere for areca growers, traders and drying yards",
+      heading: "Software team in Tarikere for areca growers, traders and drying yards",
       paragraphs: [
         "Tarikere once grew mostly rice. Today areca gardens dominate much of the taluk, and the trade around them keeps the town busy: growers, commission agents, traders with drying yards, transporters and the APMC market where lots change hands. Prices move with every auction, and a trader juggling dozens of growers' accounts can lose track of who was paid what.",
-        "As a <strong>software company in Tarikere</strong> in the practical sense, we build simple registers for this. Each purchase is entered once with grower name, variety, weight, moisture deduction and rate. Advances given before harvest sit against the same account. Stock in the yard, sales to buyers outside the district and the balance owed to each grower update themselves, and the owner can check it from his phone at the market.",
+        "As a <strong>software team in Tarikere</strong> in the practical sense, we build simple registers for this. Each purchase is entered once with grower name, variety, weight, moisture deduction and rate. Advances given before harvest sit against the same account. Stock in the yard, sales to buyers outside the district and the balance owed to each grower update themselves, and the owner can check it from his phone at the market.",
         "Tools like this start at ₹60,000 and grow in stages over six to twelve weeks. We usually build the purchase and dues register first, because that is where arguments and losses happen, and add sales, transport and reports once the family is comfortable entering data every day.",
       ],
     },
     {
       id: "lakkavalli-rice-mills-inputs",
-      heading: "Website development company in Tarikere for rice mills and farm input dealers",
+      heading: "Website development team in Tarikere for rice mills and farm input dealers",
       paragraphs: [
         "Paddy still matters in the Bhadra country. Lakkavalli, the hobli town beside the dam, runs several rice mills, and fertiliser, seed and pesticide dealers across the taluk sell to areca, coconut, paddy and banana growers on credit that stretches across a whole season.",
-        "A <strong>website development company in Tarikere</strong> can help these firms in two ways. A plain, well-organised site gives a rice mill a place to list its varieties, bag sizes, milling services and wholesale enquiry details, so a retailer in Davanagere or a caterer in Shivamogga can check before calling. For input dealers, a product list by crop and season, with pack sizes and advice notes in Kannada, answers questions that otherwise arrive by phone at planting time.",
+        "A <strong>website development team in Tarikere</strong> can help these firms in two ways. A plain, well-organised site gives a rice mill a place to list its varieties, bag sizes, milling services and wholesale enquiry details, so a retailer in Davanagere or a caterer in Shivamogga can check before calling. For input dealers, a product list by crop and season, with pack sizes and advice notes in Kannada, answers questions that otherwise arrive by phone at planting time.",
         "Behind the counter, many of these businesses need better records more than a flashy page. We can add a credit ledger by village and grower, reminders before due dates and a stock view by batch and expiry. A mill or dealer site starts at ₹10,000, and the software side is quoted separately, so you can begin with one and add the other later.",
       ],
     },
@@ -110,10 +110,10 @@ const tarikere: CityContent = {
     },
     {
       id: "bh-road-rail-trade",
-      heading: "IT company in Tarikere for BH Road businesses, transporters and garages",
+      heading: "IT services team in Tarikere for BH Road businesses, transporters and garages",
       paragraphs: [
         "NH-69, still called BH Road by most people, links Tarikere with Birur and Kadur to the south and Bhadravati and Shivamogga to the north. The railway station on the Birur–Shivamogga line adds another stream of passengers. Along this corridor sit dhabas and hotels, tyre and repair shops, vehicle dealers, goods transporters and building material yards.",
-        "For an <strong>IT company in Tarikere</strong> to be of use here, the work has to fit a busy counter. A transporter needs a quote form that asks for pickup, drop, load type and date, and a trip register that tracks vehicle, driver, diesel and payment. A garage needs service reminders sent to customers on WhatsApp. A hotel on the highway needs a menu page, parking details and a Maps pin that places it on the correct side of the road.",
+        "For an <strong>IT services team in Tarikere</strong> to be of use here, the work has to fit a busy counter. A transporter needs a quote form that asks for pickup, drop, load type and date, and a trip register that tracks vehicle, driver, diesel and payment. A garage needs service reminders sent to customers on WhatsApp. A hotel on the highway needs a menu page, parking details and a Maps pin that places it on the correct side of the road.",
         "We keep such sites short and fast, since many visitors are drivers checking a phone at a halt. Where a business also supplies units in Bhadravati or Shivamogga, a separate capability page with equipment, services and GST details helps purchase officers take it seriously.",
       ],
     },
@@ -140,7 +140,7 @@ const tarikere: CityContent = {
       heading: "Android app development in Tarikere: when an app earns its place",
       paragraphs: [
         "An app makes sense only when the same people will open it again and again. In Tarikere, that could be an areca trader's field buyers recording purchases at gardens, a school sending daily notices to parents across the taluk, a hospital giving out OPD tokens, a transport firm's drivers logging trips, or a coffee brand's repeat customers re-ordering each month.",
-        "We work as an <strong>app development company in Tarikere</strong> without an office there, building in Flutter or React Native so one codebase runs on Android phones and iPhones. A typical first version has mobile-number login, push notifications, the three or four screens your users need, offline entry for areas with weak signal around Lingadahalli and Kemmangundi, and an admin panel for your staff.",
+        "We work as an <strong>app development team in Tarikere</strong> without an office there, building in Flutter or React Native so one codebase runs on Android phones and iPhones. A typical first version has mobile-number login, push notifications, the three or four screens your users need, offline entry for areas with weak signal around Lingadahalli and Kemmangundi, and an admin panel for your staff.",
         "<strong>Android app development in Tarikere</strong> with us starts at ₹40,000, and the quote lists payments, maps, offline sync and integrations as separate lines. We publish the app on Google Play and the Apple App Store under developer accounts in your name. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, timings and a price list, skip the app. A ₹10,000 website does that job, and an app that sits unopened after the first week helps nobody.",
       ],
@@ -241,7 +241,7 @@ const tarikere: CityContent = {
         "A simple Tarikere shop or clinic website usually goes live in one to two weeks once we have your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Sending content early is the biggest thing that speeds a project up.",
     },
     {
-      question: "Which is the best IT company in Tarikere for a small business?",
+      question: "Which is the best IT services team in Tarikere for a small business?",
       answer:
         "The right choice for a Tarikere business publishes prices, puts the domain and code in your name, replies after launch and can show real work. Ask every provider the same questions about ownership, revisions and support costs. We meet those tests and answer on WhatsApp daily, but comparing two or three options first is sensible.",
     },

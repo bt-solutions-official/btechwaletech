@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software Developers in Ranchi: Apps, AI, CRM",
     description:
-      "Comparing a software development company in Ranchi? Hire our freelance group for CRMs, web apps, AI agents, dashboards and apps. Starting prices in INR.",
+      "Comparing a software development team in Ranchi? Hire our freelance group for CRMs, web apps, AI agents, dashboards and apps. Starting prices in INR.",
     keywords: [
-      "software development company in Ranchi",
-      "IT company in Ranchi",
+      "software development team in Ranchi",
+      "IT services team in Ranchi",
       "IT solutions Ranchi",
       "Android app development Ranchi",
       "iOS app development Ranchi",
@@ -20,7 +20,7 @@ const content: CityContent = {
       "custom software development Ranchi",
       "CRM software for real estate Ranchi",
       "web application development Ranchi",
-      "mobile app development company Ranchi",
+      "mobile app development team Ranchi",
       "AI automation Ranchi",
       "AI agent developer Jharkhand",
       "online test series platform Ranchi",
@@ -39,11 +39,11 @@ const content: CityContent = {
     eyebrow: "Ranchi · Jharkhand",
     h1: "Freelance software developers in Ranchi for CRMs, web apps, AI agents and dashboards",
     lede:
-      "Before you sign with a software development company in Ranchi, consider a freelance group of three engineers working remotely from India. BtechWaleTech builds real estate and sales CRMs, test-series platforms, NGO field systems, AI agents, WhatsApp automation, dashboards, apps and search-ready websites for businesses from Lalpur and Kanke Road to Dhurwa and Namkum, with published starting prices and five months of free maintenance.",
+      "Before you sign with a software development team in Ranchi, consider a freelance group of three engineers working remotely from India. BtechWaleTech builds real estate and sales CRMs, test-series platforms, NGO field systems, AI agents, WhatsApp automation, dashboards, apps and search-ready websites for businesses from Lalpur and Kanke Road to Dhurwa and Namkum, with published starting prices and five months of free maintenance.",
     pills: ["Web apps from ₹60,000", "AI agents from ₹40,000", "CRMs and dashboards", "Code owned by you", "UPI or bank transfer only"],
   },
   quickAnswer:
-    "If you are looking for a software development company in Ranchi, BtechWaleTech is a freelance alternative: three remote engineers building custom software and web apps from ₹60,000 (6–12 weeks), AI agents and automation from ₹40,000 (2–4 weeks), Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000, with an itemised quote in about two working days.",
+    "If you are looking for a software development team in Ranchi, BtechWaleTech is a freelance alternative: three remote engineers building custom software and web apps from ₹60,000 (6–12 weeks), AI agents and automation from ₹40,000 (2–4 weeks), Android and iOS apps from ₹40,000, websites from ₹10,000 and online stores from ₹50,000, with an itemised quote in about two working days.",
   snapshot: [
     { label: "Capital functions", value: "Seat of the Jharkhand government, with the secretariat and new assembly complex in the Dhurwa and HEC area" },
     { label: "Public sector presence", value: "Headquarters of Central Coalfields Limited, Heavy Engineering Corporation at Dhurwa, MECON at Doranda and SAIL's RDCIS" },
@@ -72,9 +72,9 @@ const content: CityContent = {
   sections: [
     {
       id: "software-development-ranchi",
-      heading: "What does a software development company in Ranchi build for local businesses?",
+      heading: "What does a software development team in Ranchi build for local businesses?",
       paragraphs: [
-        "A software development company in Ranchi, or a freelance team serving the city, typically builds CRMs for sales and real estate, project and proposal trackers for consultancies and contractors, learning and test platforms for coaching institutes, field data systems for NGOs, AI and WhatsApp automation, dashboards, mobile apps and websites. The common thread is replacing Excel files, registers and WhatsApp groups with a single system that everyone trusts.",
+        "A software development team in Ranchi, or a freelance team serving the city, typically builds CRMs for sales and real estate, project and proposal trackers for consultancies and contractors, learning and test platforms for coaching institutes, field data systems for NGOs, AI and WhatsApp automation, dashboards, mobile apps and websites. The common thread is replacing Excel files, registers and WhatsApp groups with a single system that everyone trusts.",
         "Ranchi's economy has an unusual mix. As the state capital it hosts government departments and public sector headquarters such as CCL, HEC and MECON, which support a large ecosystem of consultants, contractors and suppliers. It is an education centre with IIM Ranchi, BIT Mesra and a busy coaching belt around Lalpur. It is a healthcare hub for the surrounding districts. And it has a fast-growing real estate market along Kanke Road, Bariatu and Ormanjhi. Each of these groups needs different software.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We have no office in Ranchi and do not claim one; we work over WhatsApp, calls and test links. Our starting prices are on the <a href='/pricing/'>pricing page</a>, every account and repository is handed to you, and five months of maintenance are included after launch. This page focuses on software and automation; the <a href='/ranchi/'>Ranchi city page</a> covers websites and local search in more depth.",
       ],
@@ -217,7 +217,7 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-ranchi",
-      heading: "Freelance developers vs a software development company in Ranchi: how to decide",
+      heading: "Freelance developers vs a software development team in Ranchi: how to decide",
       paragraphs: [
         "Choose a freelance group when you want a clearly scoped system built by engineers you speak to directly, at lower overhead; choose a larger software development company in Ranchi when you need on-site staff, big teams, or long-term enterprise contracts. The right decision depends on scope, budget and how much hands-on coordination you want.",
         "Ranchi has several established IT companies and many smaller studios, and some are excellent. A larger company brings more people and formal processes. A freelance group like BtechWaleTech brings the same three engineers from scoping to support, published starting prices and quick replies, with limited capacity and no local office. In either case, ask for an itemised quote, ownership of code and accounts, a working test link before the final payment, and written support terms.",
@@ -311,9 +311,9 @@ const content: CityContent = {
         "Yes. We build MVPs with sign-up, the core feature, an admin panel and analytics, usually with Next.js or React and Node.js or Python. Custom web apps start from ₹60,000 and take six to twelve weeks. The repository belongs to your company from day one. We are independent and not affiliated with STPI or any institute.",
     },
     {
-      question: "Which is the best software company in Ranchi?",
+      question: "Which is the best software team in Ranchi?",
       answer:
-        "There is no universal best; it depends on your project and how you like to work. Compare live work, itemised quotes, ownership terms and post-launch support. Ranchi has capable local firms, and we are a freelance group rather than a company, without claims of rankings or awards. Speaking to two or three providers is wise.",
+        "There is no universal best; it depends on your project and how you like to work. Compare live work, itemised quotes, ownership terms and post-launch support. Ranchi has capable local firms, and we are a small freelance group of three developers, without claims of rankings or awards. Speaking to two or three providers is wise.",
     },
     {
       question: "Can you integrate with Tally or our existing software?",

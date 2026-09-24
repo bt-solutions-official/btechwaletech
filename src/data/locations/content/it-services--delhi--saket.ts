@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & App Developers in Saket",
     description:
-      "Freelance developers for Saket brands as an alternative to a software development company: D2C stores, booking and membership apps, AI concierge bots, SEO.",
+      "Freelance developers for Saket brands as an alternative to a software development team: D2C stores, booking and membership apps, AI concierge bots, SEO.",
     keywords: [
-      "software development company in Saket",
-      "IT company in Saket",
+      "software development team in Saket",
+      "IT services team in Saket",
       "IT solutions Saket",
       "freelance software developers Saket Delhi",
       "D2C ecommerce development South Delhi",
@@ -35,11 +35,11 @@ const content: CityContent = {
     eyebrow: "Saket · South Delhi · District Centre to Chhatarpur",
     h1: "Freelance software and app developers for Saket's brands, studios and hospitality",
     lede:
-      "Anyone comparing a software development company in Saket is usually building for a premium customer: a D2C label, a wellness studio, a restaurant group, a wedding venue in Chhatarpur or a specialist clinic near the District Centre. BtechWaleTech is a freelance group of three remote engineers who build custom online stores, booking and membership systems, Android and iOS apps, AI concierge bots, dashboards and brand websites with the polish that audience expects.",
+      "Anyone comparing a software development team in Saket is usually building for a premium customer: a D2C label, a wellness studio, a restaurant group, a wedding venue in Chhatarpur or a specialist clinic near the District Centre. BtechWaleTech is a freelance group of three remote engineers who build custom online stores, booking and membership systems, Android and iOS apps, AI concierge bots, dashboards and brand websites with the polish that audience expects.",
     pills: ["Brand stores from ₹50,000", "Android and iOS apps from ₹40,000", "Booking systems from ₹60,000", "AI concierge from ₹40,000", "Websites from ₹10,000"],
   },
   quickAnswer:
-    "Instead of a software development company in Saket, you can hire BtechWaleTech, a freelance group of three remote engineers. Brand websites start at ₹10,000, AI concierge bots and Android and iOS apps at ₹40,000, D2C stores at ₹50,000 and booking or membership software at ₹60,000, with timelines of one to twelve weeks. No Saket office; itemised quotes in two working days.",
+    "Instead of a software development team in Saket, you can hire BtechWaleTech, a freelance group of three remote engineers. Brand websites start at ₹10,000, AI concierge bots and Android and iOS apps at ₹40,000, D2C stores at ₹50,000 and booking or membership software at ₹60,000, with timelines of one to twelve weeks. No Saket office; itemised quotes in two working days.",
   snapshot: [
     { label: "Commercial core", value: "Saket District Centre, with corporate offices, a large private hospital and two major malls, Select Citywalk and DLF Avenue" },
     { label: "Older hub", value: "Saket Community Centre and the PVR Anupam area, alongside neighbourhood markets in Saket's residential blocks" },
@@ -68,9 +68,9 @@ const content: CityContent = {
   sections: [
     {
       id: "saket-software-landscape",
-      heading: "What do Saket businesses need from a software development company in Saket?",
+      heading: "What do Saket businesses need from a software development team in Saket?",
       paragraphs: [
-        "Saket businesses need a software development company in Saket, or a freelance alternative, that can combine premium design with dependable systems: online stores that feel like the brand, booking and membership tools that never double-book, apps that customers keep on their phones, and automation that answers enquiries in minutes. The customer base here is affluent and impatient, and expects polish.",
+        "Saket businesses need a software development team in Saket, or a freelance alternative, that can combine premium design with dependable systems: online stores that feel like the brand, booking and membership tools that never double-book, apps that customers keep on their phones, and automation that answers enquiries in minutes. The customer base here is affluent and impatient, and expects polish.",
         "The area mixes several business worlds within a few kilometres. The District Centre houses offices, a large private hospital and two of Delhi's best-known malls. Lado Sarai and Said-ul-Ajaib host galleries, interior studios and independent labels. Hauz Khas Village and Mehrauli are dining destinations. Chhatarpur's farmhouses host weddings almost every night of the season. Malviya Nagar, Sheikh Sarai and Saket's residential blocks are full of salons, gyms, clinics and cafes.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India; we have no Saket office. We build <a href=\"/services/\">stores, booking systems, apps, automation, dashboards and websites</a> for these businesses, and we hand over the code, data and every account in your name.",
       ],
@@ -173,16 +173,16 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-saket",
-      heading: "Freelance developers or a software development company in Saket: which fits a premium brand?",
+      heading: "Freelance developers or a software development team in Saket: which fits a premium brand?",
       paragraphs: [
-        "A software development company in Saket fits a brand that wants a large creative and development team under one roof with in-person workshops; a freelance group like BtechWaleTech fits a brand that wants custom engineering, direct access to developers, lower starting prices and full ownership. Directories list many IT firms around the District Centre, so compare on substance.",
+        "A software development team in Saket fits a brand that wants a large creative and development team under one roof with in-person workshops; a freelance group like BtechWaleTech fits a brand that wants custom engineering, direct access to developers, lower starting prices and full ownership. Directories list many IT firms around the District Centre, so compare on substance.",
         "Ask each option to show a comparable store or booking system running, to itemise the quote, to confirm that the store, apps, domain and data will be in your name, and to explain support costs after launch. Ask who exactly will build it. Those answers matter more than pitch decks.",
-        "We are three engineers, not a company or agency. We work remotely and take on a limited number of projects. If you already have a brand designer, we work from their designs; if not, we design cleanly and simply. Read more <a href=\"/about/\">about us</a> or view the <a href=\"/portfolio/\">portfolio</a>.",
+        "We are a small freelance team of three engineers. We work remotely and take on a limited number of projects. If you already have a brand designer, we work from their designs; if not, we design cleanly and simply. Read more <a href=\"/about/\">about us</a> or view the <a href=\"/portfolio/\">portfolio</a>.",
       ],
     },
     {
       id: "cost-timeline-saket",
-      heading: "What does a software development company in Saket charge, and how long do projects take?",
+      heading: "What does a software development team in Saket charge, and how long do projects take?",
       paragraphs: [
         "With BtechWaleTech, Saket projects start at ₹10,000 for a brand website (one to two weeks), ₹20,000 for a 700+ page SEO website (three to five weeks), ₹40,000 for an AI concierge (two to four weeks), ₹40,000 for an Android and iOS app (six to ten weeks), ₹50,000 for a D2C store (four to eight weeks) and ₹60,000 for booking, membership or venue software (six to twelve weeks).",
         "Costs rise with outlets, integrations, custom design and data migration. We itemise quotes so you can launch the essentials first. Payment is in INR only, by UPI through our QR code or by direct bank transfer to our bank account, split into milestones.",

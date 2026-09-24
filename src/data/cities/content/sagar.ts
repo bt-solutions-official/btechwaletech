@@ -9,7 +9,7 @@ const sagar: CityContent = {
     description:
       "Websites, local SEO, online stores and WhatsApp automation for Sagar shops, coaching centres, hospitals, mills and suppliers. Written quotes, and you own the domain.",
     keywords: [
-      "website development company in Sagar",
+      "website development team in Sagar",
       "web designer Sagar MP",
       "website design Sagar Madhya Pradesh",
       "freelance web developer Sagar",

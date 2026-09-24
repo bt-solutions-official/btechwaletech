@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance software developers in Vadodara for engineering project tools, EHS systems, dashboards, lead CRMs, Android and iOS apps and AI automation. From ₹10,000.",
     keywords: [
-      "software development company in Vadodara",
-      "IT company in Vadodara",
+      "software development team in Vadodara",
+      "IT services team in Vadodara",
       "IT solutions Vadodara",
       "freelance software developers Baroda",
       "project tracking software for engineering firms Vadodara",
@@ -218,9 +218,9 @@ const content: CityContent = {
     },
     {
       id: "freelance-vs-company-vadodara",
-      heading: "Freelance developers or a software company in Vadodara: how to choose",
+      heading: "Freelance developers or a software team in Vadodara: how to choose",
       paragraphs: [
-        "Pick a software company in Vadodara when you need on-site teams, formal enterprise contracts or validated systems; pick freelance developers like BtechWaleTech for focused tools, apps, dashboards and websites where direct engineer contact, lower overheads and full ownership matter most.",
+        "Pick a software team in Vadodara when you need on-site teams, formal enterprise contracts or validated systems; pick freelance developers like BtechWaleTech for focused tools, apps, dashboards and websites where direct engineer contact, lower overheads and full ownership matter most.",
         "Ask any provider who writes the code, how soon you will see a working build, whose name the repository, hosting, domain and app-store accounts will be in, and what support costs after launch. We are three independent engineers working remotely, described on our <a href='/about/'>about page</a>. We have no Vadodara office and do not offer on-site staff. For nearby markets, see our <a href='/it-services/gujarat/ahmedabad/'>Ahmedabad</a> and <a href='/it-services/gujarat/surat/'>Surat</a> pages.",
       ],
       list: [
@@ -256,7 +256,7 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company based in Vadodara?",
+      question: "Is BtechWaleTech a software team based in Vadodara?",
       answer:
         "No. BtechWaleTech is a freelance group of three independent engineers working remotely from India, and we have no office or staff in Vadodara. We work with Baroda clients through WhatsApp, calls and video meetings, share working previews during development and hand over code and accounts at the end.",
     },

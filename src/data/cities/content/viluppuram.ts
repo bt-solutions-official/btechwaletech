@@ -9,7 +9,7 @@ const viluppuram: CityContent = {
     description:
       "Websites, Tamil and English SEO, online stores and WhatsApp automation for Viluppuram, Tindivanam and Gingee businesses. Static sites start at ₹10,000.",
     keywords: [
-      "website development company in Viluppuram",
+      "website development team in Viluppuram",
       "web design Villupuram",
       "website designer Viluppuram",
       "Vizhuppuram website design",

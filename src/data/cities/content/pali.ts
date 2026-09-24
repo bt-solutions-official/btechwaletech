@@ -9,7 +9,7 @@ const pali: CityContent = {
     description:
       "Websites, catalogues, SEO and WhatsApp automation for Pali's textile processors, Sojat mehndi sellers, marble traders and shops. Fixed starting prices, remote team.",
     keywords: [
-      "website development company in Pali",
+      "website development team in Pali",
       "web designer Pali Marwar",
       "website design Pali Rajasthan",
       "textile printing unit website Pali",

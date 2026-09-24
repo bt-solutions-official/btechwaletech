@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Freelance developers for Kanpur: production and export software, dealer portals, dashboards, AI automation, Android and iOS apps and SEO. From ₹10,000.",
     keywords: [
-      "software development company in Kanpur",
-      "IT company in Kanpur",
+      "software development team in Kanpur",
+      "IT services team in Kanpur",
       "IT solutions Kanpur",
       "freelance software developers Kanpur",
       "custom ERP software Kanpur",
@@ -84,11 +84,11 @@ const content: CityContent = {
     },
     {
       id: "kanpur-freelance-vs-company",
-      heading: "Freelance developers or a software development company in Kanpur?",
+      heading: "Freelance developers or a software development team in Kanpur?",
       paragraphs: [
-        "Hire a freelance group in Kanpur for focused projects such as one unit's production tracker, a dealer portal or an AI order assistant, where direct access to engineers and lower cost matter most. Hire a software development company when you need a full multi-plant ERP rollout, many developers or permanent on-site IT staff.",
+        "Hire a freelance group in Kanpur for focused projects such as one unit's production tracker, a dealer portal or an AI order assistant, where direct access to engineers and lower cost matter most. Hire a software development team when you need a full multi-plant ERP rollout, many developers or permanent on-site IT staff.",
         "Kanpur has local IT firms, ERP resellers and many freelancers, plus a steady stream of engineering graduates from HBTU and IIT Kanpur. Packaged ERPs can force you to change processes to fit the software; bigger companies add management layers; solo developers risk leaving mid-project.",
-        "BtechWaleTech is a freelance group of three engineers, not a company. That means continuity if one of us is unavailable and no account manager between you and the code. We also say plainly when a project is beyond three people, or when a packaged ERP would serve you better.",
+        "BtechWaleTech is a freelance group of three engineers. That means continuity if one of us is unavailable and no account manager between you and the code. We also say plainly when a project is beyond three people, or when a packaged ERP would serve you better.",
       ],
     },
     {
@@ -207,7 +207,7 @@ const content: CityContent = {
     },
     {
       id: "kanpur-evaluate-remote",
-      heading: "How to evaluate an IT company in Kanpur, and how we work",
+      heading: "How to evaluate an IT services team in Kanpur, and how we work",
       paragraphs: [
         "Evaluate any IT company or freelancer in Kanpur on who writes the code, who owns the repository, hosting and domain, how payments are staged, what the quote excludes and what support follows launch. BtechWaleTech answers each in writing before you pay, and you can review our <a href=\"/portfolio/\">portfolio</a> and read <a href=\"/about/\">about our three engineers</a>.",
         "We work with Kanpur clients entirely online, through WhatsApp, calls, video meetings and a private staging link, with no office in Kanpur or elsewhere in Uttar Pradesh. We reply seven days a week. Payment is in INR only, by scanning our UPI QR code or by direct bank transfer to our bank account, split into milestones you can test.",
@@ -239,9 +239,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a Kanpur-based IT company?",
+      question: "Are you a Kanpur-based IT services team?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Kanpur or elsewhere in Uttar Pradesh. Kanpur clients work with us through WhatsApp, calls and video meetings, reviewing progress on a private staging link and talking directly to the engineers.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Kanpur or elsewhere in Uttar Pradesh. Kanpur clients work with us through WhatsApp, calls and video meetings, reviewing progress on a private staging link and talking directly to the engineers.",
     },
     {
       question: "How do Kanpur clients pay?",

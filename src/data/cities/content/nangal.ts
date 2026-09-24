@@ -10,12 +10,12 @@ const nangal: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Nangal's plant vendors, township households, schools, clinics and market traders.",
     keywords: [
       "IT services in Nangal",
-      "IT company in Nangal",
-      "website development company in Nangal",
+      "IT services team in Nangal",
+      "website development team in Nangal",
       "web design in Nangal",
-      "app development company in Nangal",
+      "app development team in Nangal",
       "Android app development in Nangal",
-      "software company in Nangal",
+      "software team in Nangal",
       "SEO services in Nangal",
       "digital marketing in Nangal",
       "ecommerce website in Nangal",
@@ -69,15 +69,15 @@ const nangal: CityContent = {
       paragraphs: [
         "For most Nangal clients, <strong>IT services in Nangal</strong> means four things: a clear website, a correct Google Maps listing, a WhatsApp line that answers routine questions, and sometimes a small piece of software or an app. The mix depends on who your customers are, and in this town that question has an unusually specific answer.",
         "Nangal was built for the Bhakra project and still carries that shape. Families of BBMB, NFL and PACL staff live in planned colonies such as BBMB Township and the numbered sectors of Naya Nangal. Private homes spread through Modern Avenue, Shivalik Avenue and the older Nangal Basti along Railway Road. Shopping happens in Jawahar Market, Main Market, Adda Market, GTB Market and Pahari Market. Customers from the Una side of the Himachal border come in for school, treatment and supplies.",
-        "Our job is to make your business easy to find and easy to deal with for those people. As an <strong>IT company in Nangal</strong> in the service sense only, we have no office here and say so plainly. Ankur Kumar builds the sites, apps and web software. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans the work, sets the schedule and designs the automation.",
+        "Our job is to make your business easy to find and easy to deal with for those people. As an <strong>IT services team in Nangal</strong> in the service sense only, we have no office here and say so plainly. Ankur Kumar builds the sites, apps and web software. Santosh Sharma handles AI, machine learning, AWS and data. Vedansh Shrivastava plans the work, sets the schedule and designs the automation.",
       ],
     },
     {
       id: "plant-vendors-software",
-      heading: "Software company in Nangal for contractors and vendors serving the plants",
+      heading: "Software team in Nangal for contractors and vendors serving the plants",
       paragraphs: [
         "The biggest employers in Nangal are large installations: the urea plant of National Fertilizers Limited, the chlor-alkali units of Punjab Alkalies and Chemicals on the Nangal–Una Road, and the Bhakra Beas Management Board, which runs the dam and power houses. Around them works a long chain of smaller firms. Mechanical and electrical contractors, fabricators, scaffolding suppliers, labour contractors, instrument repairers and transporters all bill against work orders, gate passes and measurement sheets.",
-        "That paperwork is where a <strong>software company in Nangal</strong> can save real hours. We build web tools in which each work order is entered once, with its value, site, supervisor and dates. Daily labour, materials issued and measurements are logged against it from a phone. The tool then shows what has been billed, what is pending approval, how much retention money is held and which safety or labour documents are due for renewal.",
+        "That paperwork is where a <strong>software team in Nangal</strong> can save real hours. We build web tools in which each work order is entered once, with its value, site, supervisor and dates. Daily labour, materials issued and measurements are logged against it from a phone. The tool then shows what has been billed, what is pending approval, how much retention money is held and which safety or labour documents are due for renewal.",
         "Such software starts at ₹60,000 and goes live in stages over six to twelve weeks. We do not connect to any plant's internal systems; the tool is for your own records and your own bills. A practical first step is to list the three reports your accountant or site engineer prepares by hand every month, because those are usually the first things worth automating.",
       ],
     },
@@ -92,10 +92,10 @@ const nangal: CityContent = {
     },
     {
       id: "market-traders-nangal",
-      heading: "Website development company in Nangal for Jawahar Market, Main Market and Adda Market",
+      heading: "Website development team in Nangal for Jawahar Market, Main Market and Adda Market",
       paragraphs: [
         "Nangal's shopping is spread across a handful of named markets rather than one high street. Jawahar Market and Main Market carry clothing, footwear, jewellery, electronics and household goods. Adda Market sits near the bus stand and serves travellers and people coming in from villages. GTB Market and Pahari Market fill in with daily needs, hardware and repairs.",
-        "A <strong>website development company in Nangal</strong> is useful to these traders mainly by making them findable by market name, since that is how locals give directions. “Main Market Nangal mobile shop” is a more likely search than a brand name. We build catalogue sites with brands stocked, price ranges, offers you can edit from your phone, festival timings and a map pin that lands at the right shop, not just the right road.",
+        "A <strong>website development team in Nangal</strong> is useful to these traders mainly by making them findable by market name, since that is how locals give directions. “Main Market Nangal mobile shop” is a more likely search than a brand name. We build catalogue sites with brands stocked, price ranges, offers you can edit from your phone, festival timings and a map pin that lands at the right shop, not just the right road.",
         "For shops that also sell to buyers in Una, Mehatpur or Anandpur Sahib, the site should state clearly whether you deliver there and what it costs. A catalogue site of this kind starts at ₹10,000. Traders with larger ranges, such as electronics or furniture dealers, often add a stock enquiry form that sends the customer's question straight to WhatsApp.",
       ],
     },
@@ -137,10 +137,10 @@ const nangal: CityContent = {
     },
     {
       id: "android-ios-apps-nangal",
-      heading: "App development company in Nangal: when an Android and iOS app pays off",
+      heading: "App development team in Nangal: when an Android and iOS app pays off",
       paragraphs: [
         "An app is worth building when the same people need you every week. In Nangal, that points to a few clear cases: a school or coaching centre sending notices and marks to parents, a clinic with a queue that patients want to track, a contractor whose supervisors log work from the plant floor, or a grocery or dairy supplier taking repeat orders from township households.",
-        "As an <strong>app development company in Nangal</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally has mobile number login, push notifications, the handful of screens your users actually need and an admin panel for your office. Punjabi and Hindi screens are available, and offline entry helps supervisors working in areas with weak signal.",
+        "As an <strong>app development team in Nangal</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A first version normally has mobile number login, push notifications, the handful of screens your users actually need and an admin panel for your office. Punjabi and Hindi screens are available, and offline entry helps supervisors working in areas with weak signal.",
         "<strong>Android app development in Nangal</strong> with us starts at ₹40,000. Payments, maps, file uploads or links to your accounts are listed separately in the quote. We publish on Google Play and the Apple App Store under developer accounts in your name. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> shows what a first version usually includes.",
         "If customers only need your timings, location and a rate list, an app is the wrong tool; a website and a good map listing do the job for far less. We will say so before you spend.",
       ],
@@ -240,9 +240,9 @@ const nangal: CityContent = {
         "A shop, clinic or school site for a Nangal business is usually live one to two weeks after we receive text and photographs. SEO websites take three to five weeks, online stores four to eight weeks and custom software six to twelve weeks. Late content is the most common cause of delay.",
     },
     {
-      question: "Which is the best IT company in Nangal?",
+      question: "Which is the best IT services team in Nangal?",
       answer:
-        "The right IT company in Nangal is the one that puts your name on the domain and code, publishes prices, shows work you can open and check, and supports you after launch. Ask each option the same questions and compare written answers. We meet those tests, but speaking to two or three providers is sensible.",
+        "The right IT services team in Nangal is the one that puts your name on the domain and code, publishes prices, shows work you can open and check, and supports you after launch. Ask each option the same questions and compare written answers. We meet those tests, but speaking to two or three providers is sensible.",
     },
     {
       question: "Can you put my Nangal shop or clinic on Google Maps?",

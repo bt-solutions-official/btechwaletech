@@ -10,12 +10,12 @@ const samalkot: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Samalkot oil and food units, rail-junction traders, temple visitors, clinics and shops.",
     keywords: [
       "IT services in Samalkot",
-      "IT company in Samalkot",
-      "website development company in Samalkot",
+      "IT services team in Samalkot",
+      "website development team in Samalkot",
       "web design in Samalkot",
-      "app development company in Samalkot",
+      "app development team in Samalkot",
       "Android app development in Samalkot",
-      "software company in Samalkot",
+      "software team in Samalkot",
       "SEO services in Samalkot",
       "digital marketing in Samalkot",
       "ecommerce website in Samalkot",
@@ -75,20 +75,20 @@ const samalkot: CityContent = {
     },
     {
       id: "industrial-estate-samalkot",
-      heading: "Website development company in Samalkot for industrial estate units and suppliers",
+      heading: "Website development team in Samalkot for industrial estate units and suppliers",
       paragraphs: [
         "Samalkot's industrial estate has units producing edible oil, food products and spices, and the town is home to a ceramics plant and the old sugar and distillery works. The gas-based power station in the Peddapuram industrial development area, in Samalkot mandal, adds another layer of demand for contractors, maintenance crews and suppliers. Around these plants works a network of smaller firms: fabrication and engineering workshops, electrical contractors, packaging suppliers, transporters and labour contractors.",
-        "Buyers and purchase departments now check a supplier online before sending an enquiry. A <strong>website development company in Samalkot</strong> should build these firms a factual, fast site: products or services, machines and capacity, certifications and registrations, sectors served, safety practices, photographs of the actual shop floor, and named contacts with phone and email. It must also look professional on a desktop in a procurement office, not only on a phone.",
+        "Buyers and purchase departments now check a supplier online before sending an enquiry. A <strong>website development team in Samalkot</strong> should build these firms a factual, fast site: products or services, machines and capacity, certifications and registrations, sectors served, safety practices, photographs of the actual shop floor, and named contacts with phone and email. It must also look professional on a desktop in a procurement office, not only on a phone.",
         "We never list a client's customer on your website without written permission from that customer. For workshops that receive drawings, we add a quotation form with file upload; for units with regular dealers, a product catalogue with downloadable specifications cuts the number of phone calls.",
         "Static sites of this kind start at ₹10,000. When a unit wants a dealer portal or order tracking, the same site can be extended rather than rebuilt. Our <a href=\"/services/web-development/\">web development page</a> explains how.",
       ],
     },
     {
       id: "oil-food-spice-software",
-      heading: "Software company in Samalkot for oil, food and spice production records",
+      heading: "Software team in Samalkot for oil, food and spice production records",
       paragraphs: [
         "Food processing units in Samalkot share a common problem: the numbers are spread across a register at the gate, a notebook in the production room, Tally in the office and WhatsApp chats with dealers. When the owner wants to know how much raw material came in this week, what yield a batch gave, which dealer has not paid and what stock is ready to dispatch, someone has to collect it by hand.",
-        "As a <strong>software company in Samalkot</strong>, we build small web applications that bring these records together. Raw material receipts are entered with supplier, quantity and rate; production batches record inputs, output and packing; dispatches link to dealer orders and invoices; and a dashboard shows stock, dues and batch history. Staff enter data from a phone or a desktop, and the owner sees a summary each evening.",
+        "As a <strong>software team in Samalkot</strong>, we build small web applications that bring these records together. Raw material receipts are entered with supplier, quantity and rate; production batches record inputs, output and packing; dispatches link to dealer orders and invoices; and a dashboard shows stock, dues and batch history. Staff enter data from a phone or a desktop, and the owner sees a summary each evening.",
         "Such systems start at ₹60,000 and take six to twelve weeks, built in stages so the most useful part, usually stock and dispatch, starts working first. Where Tally is already in use, we export entries in a form your accountant can import rather than asking anyone to type the same invoice twice. We also add food-safety fields like batch codes and best-before dates where your products need them.",
       ],
     },
@@ -125,7 +125,7 @@ const samalkot: CityContent = {
       heading: "Android app development in Samalkot, plus iOS apps for local firms",
       paragraphs: [
         "An app pays off when a known group of people uses it often. Good candidates in Samalkot include a food or oil brand whose dealers re-order every week, a wholesale trader taking orders from village retailers, a school sending homework and notices to parents, a hospital issuing tokens and reports, and a transport operator whose drivers log trips and fuel.",
-        "As an <strong>app development company in Samalkot</strong> working remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the key screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Samalkot</strong> working remotely, we build with Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually includes mobile number login, push notifications, the key screens your users need and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts registered to you.",
         "<strong>Android app development in Samalkot</strong> with us starts at ₹40,000. Payments, offline mode, maps, barcode scanning and integrations with Tally or your production system add to the cost, and each appears on its own line. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> for details.",
         "Not every business needs one. If customers only want your address, timings and a price list, a website does that for far less money, and we will recommend it. An app that people install once and never open again is the most expensive way to go online.",
       ],
@@ -235,7 +235,7 @@ const samalkot: CityContent = {
         "A static site is normally live within one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Projects move fastest when the owner shares content in the first few days.",
     },
     {
-      question: "Who is the best website development company in Samalkot?",
+      question: "Who is the best website development team in Samalkot?",
       answer:
         "Pick a provider that publishes prices, registers the domain and code to you, shows real work and stays reachable after launch. Ask each one the same questions and compare written answers. We meet those tests and answer WhatsApp seven days a week, but comparing two or three options is sensible.",
     },

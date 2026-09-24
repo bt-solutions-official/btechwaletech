@@ -10,12 +10,12 @@ const koratla: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Koratla mango and turmeric traders, rice mills, clinics, colleges and shops.",
     keywords: [
       "IT services in Koratla",
-      "IT company in Koratla",
-      "website development company in Koratla",
+      "IT services team in Koratla",
+      "website development team in Koratla",
       "web design in Koratla",
-      "app development company in Koratla",
+      "app development team in Koratla",
       "Android app development in Koratla",
-      "software company in Koratla",
+      "software team in Koratla",
       "SEO services in Koratla",
       "digital marketing in Koratla",
       "ecommerce website in Koratla",
@@ -74,10 +74,10 @@ const koratla: CityContent = {
     },
     {
       id: "mango-turmeric-traders",
-      heading: "Software company in Koratla for mango, turmeric and grain traders",
+      heading: "Software team in Koratla for mango, turmeric and grain traders",
       paragraphs: [
         "Jagtial district is one of Telangana's main mango regions, and in recent seasons Koratla has become one of the newer mango trading points alongside Metpalli and Raikal, drawing buyers who ship fruit to Nagpur, Delhi and other markets. The same traders often deal in turmeric, maize and paddy through the rest of the year.",
-        "The records behind this trade are heavy: which farmer brought how many crates, grade and rate, weighment, advances paid, lorries loaded for which buyer, commission and dues outstanding. As a <strong>software company in Koratla</strong>, we build simple web tools where each lot is entered once from a phone and totals appear by farmer, buyer and day, with printable slips in Telugu.",
+        "The records behind this trade are heavy: which farmer brought how many crates, grade and rate, weighment, advances paid, lorries loaded for which buyer, commission and dues outstanding. As a <strong>software team in Koratla</strong>, we build simple web tools where each lot is entered once from a phone and totals appear by farmer, buyer and day, with printable slips in Telugu.",
         "Custom tools start at ₹60,000 and are built in stages over six to twelve weeks, ideally in the months before the mango season opens. We usually begin with the purchase and dispatch register, then add farmer ledgers, buyer statements and SMS or WhatsApp payment confirmations. Everything exports to Excel or Tally for your accountant.",
       ],
     },
@@ -92,10 +92,10 @@ const koratla: CityContent = {
     },
     {
       id: "rice-mills-dealers",
-      heading: "Website development company in Koratla for rice mills and farm input dealers",
+      heading: "Website development team in Koratla for rice mills and farm input dealers",
       paragraphs: [
         "Paddy is the main crop of the Koratla area, and the town and its surrounding mandals support rice mills, grain traders, fertiliser, seed and pesticide dealers, tractor showrooms and workshops. The region also remembers the closure of the Muthyampet sugar factory in 2015, which pushed many families to look for other income.",
-        "A <strong>website development company in Koratla</strong> should build sites for these firms that are factual and easy to read: rice varieties and bag sizes for mills, brands and products stocked for dealers, service and spares for tractor workshops, along with GST details and named contacts. Buyers from other districts check such sites before placing a first order.",
+        "A <strong>website development team in Koratla</strong> should build sites for these firms that are factual and easy to read: rice varieties and bag sizes for mills, brands and products stocked for dealers, service and spares for tractor workshops, along with GST details and named contacts. Buyers from other districts check such sites before placing a first order.",
         "Dealers who supply village retailers on credit can add a simple order form or a stock and credit tool. Mills that sell to wholesalers in Hyderabad can show current varieties with an enquiry form. We never add claims about quality awards or certifications that you do not actually hold.",
         "For a veterinary clinic or animal feed dealer, the veterinary college in town brings a steady stream of students and young vets who look for suppliers, hostels and services online. A small, accurate listing with products, timings and a contact number is often all it takes to be the name they remember.",
       ],
@@ -105,7 +105,7 @@ const koratla: CityContent = {
       heading: "Android app development in Koratla and iOS apps for local businesses",
       paragraphs: [
         "An app pays off when the same people use it often. In Koratla, strong cases include a trader's field staff recording farm purchases during the mango season, a hospital sending reports and appointment tokens, a school or junior college sending attendance and fee notices to parents, including parents abroad, and a dealer taking repeat orders from village shops.",
-        "As an <strong>app development company in Koratla</strong>, we build in Flutter or React Native so one codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the main screens your users need and an admin panel for your staff. Telugu screens are standard where your users prefer them.",
+        "As an <strong>app development team in Koratla</strong>, we build in Flutter or React Native so one codebase serves Android phones and iPhones. A first release usually has mobile number login, push notifications, the main screens your users need and an admin panel for your staff. Telugu screens are standard where your users prefer them.",
         "<strong>Android app development in Koratla</strong> starts at ₹40,000. Payments, offline entry, maps and integrations add to the cost, each shown separately in the quote. We publish on Google Play and the Apple App Store under developer accounts registered to you. Details are on <a href=\"/it-services/android-ios-app/\">our Android and iOS app page</a>.",
         "If customers only need your address, timings and a rate list, a website does that for far less. We will suggest the website first in that case, because an app that nobody opens after installing is wasted money.",
       ],
@@ -158,11 +158,11 @@ const koratla: CityContent = {
     },
     {
       id: "remote-team-koratla",
-      heading: "How a remote IT company in Koratla's district works with you",
+      heading: "How a remote IT services team in Koratla's district works with you",
       paragraphs: [
         "We are not in Koratla, so we put everything in writing. A first call covers your business, your customers and what you need the site or app to do. You then receive a page or screen plan, a timeline and an itemised quote. After approval we send preview links you can open on your phone, or forward to a family member abroad for their opinion.",
         "We reply on WhatsApp every day of the week, on Indian Standard Time. Telugu text is sent to you for checking before anything goes live, and nothing is published without your approval. If a delay comes up, you hear about it when we know, not on the due date.",
-        "Payments follow visible progress, and no billing happens before your written approval. That makes it low-risk to try an <strong>IT company in Koratla</strong>'s region that you have not met in person.",
+        "Payments follow visible progress, and no billing happens before your written approval. That makes it low-risk to try an <strong>IT services team in Koratla</strong>'s region that you have not met in person.",
       ],
     },
     {
@@ -225,7 +225,7 @@ const koratla: CityContent = {
         "Plan on one to two weeks for a simple site once your photographs and wording reach us. Bigger SEO sites need three to five weeks, a store needs four to eight, and custom software six to twelve. Most delays we see come from missing content, so gathering it early saves the most time.",
     },
     {
-      question: "Who is the best website development company in Koratla?",
+      question: "Who is the best website development team in Koratla?",
       answer:
         "There is no single answer, so test each option the same way. Does the developer show prices openly, put the domain in your name, hand over the code, stay reachable after the site is live and show work you can open? We try to pass every one of those checks, but talk to two or three before choosing.",
     },

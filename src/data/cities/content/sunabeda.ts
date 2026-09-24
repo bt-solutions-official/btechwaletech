@@ -10,12 +10,12 @@ const sunabeda: CityContent = {
       "Odia and English websites, Android and iOS apps, local SEO and WhatsApp automation for Sunabeda contractors, schools, coaching centres, clinics and Semiliguda shops.",
     keywords: [
       "IT services in Sunabeda",
-      "IT company in Sunabeda",
-      "website development company in Sunabeda",
+      "IT services team in Sunabeda",
+      "website development team in Sunabeda",
       "web design in Sunabeda",
-      "app development company in Sunabeda",
+      "app development team in Sunabeda",
       "Android app development in Sunabeda",
-      "software company in Sunabeda",
+      "software team in Sunabeda",
       "SEO services in Sunabeda",
       "digital marketing in Sunabeda",
       "ecommerce website in Sunabeda",
@@ -75,10 +75,10 @@ const sunabeda: CityContent = {
     },
     {
       id: "contractors-vendors-sunabeda",
-      heading: "Website development company in Sunabeda for contractors and service vendors",
+      heading: "Website development team in Sunabeda for contractors and service vendors",
       paragraphs: [
         "A large factory, a naval depot, a central university and a residential township all need outside services: civil and electrical works, housekeeping, security, canteen and catering, transport, horticulture, IT hardware support and supply of consumables. Many firms in Sunabeda, Semiliguda and Koraput earn their living this way, often competing through formal tenders and vendor registration.",
-        "Purchase and estate offices check suppliers before shortlisting them. A <strong>website development company in Sunabeda</strong> should give such firms a factual online profile: services offered, licences and registrations, equipment and workforce size you are comfortable stating, safety practices, sectors served and named contacts. The site should look orderly on an office desktop and load fast on a phone.",
+        "Purchase and estate offices check suppliers before shortlisting them. A <strong>website development team in Sunabeda</strong> should give such firms a factual online profile: services offered, licences and registrations, equipment and workforce size you are comfortable stating, safety practices, sectors served and named contacts. The site should look orderly on an office desktop and load fast on a phone.",
         "We never list a client organisation or its logo without that organisation's written permission, and we do not invent project counts. A static profile site starts at ₹10,000. Firms that juggle many work orders can add a job and billing register as custom software, starting at ₹60,000, so every order, invoice and payment is tracked in one place.",
       ],
     },
@@ -115,7 +115,7 @@ const sunabeda: CityContent = {
       heading: "Android app development in Sunabeda, and iOS apps for local businesses",
       paragraphs: [
         "An app earns its keep when the same people use it every week. In Sunabeda, good examples are a coaching institute sharing tests, marks and videos with its students, a school sending notices to parents, a grocery or pharmacy in Semiliguda taking home-delivery orders from the township, a clinic issuing tokens, or a contractor whose supervisors record attendance and work progress at different sites.",
-        "As an <strong>app development company in Sunabeda</strong> that works remotely, we build with Flutter or React Native, so one codebase serves Android phones and iPhones. A first version typically has mobile number login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
+        "As an <strong>app development team in Sunabeda</strong> that works remotely, we build with Flutter or React Native, so one codebase serves Android phones and iPhones. A first version typically has mobile number login, push notifications, the core screens and an admin panel for your staff. We publish it on Google Play and the Apple App Store under developer accounts in your name.",
         "<strong>Android app development in Sunabeda</strong> with us starts at ₹40,000. Online payments, offline data entry for places with weak signal, maps and integrations add to the cost, and each is priced on its own line. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number and timings, a website does that at a quarter of the cost, and we will recommend it.",
       ],
@@ -150,18 +150,18 @@ const sunabeda: CityContent = {
     },
     {
       id: "software-company-sunabeda",
-      heading: "Software company in Sunabeda for registers, billing and small portals",
+      heading: "Software team in Sunabeda for registers, billing and small portals",
       paragraphs: [
         "Not every problem needs a website. Some Sunabeda businesses need a tool: a transporter tracking trips and diesel, a housekeeping agency recording attendance and wages across several buildings, a hostel near the university managing rooms and rent, or a hardware dealer keeping stock and credit for regular customers.",
-        "As a <strong>software company in Sunabeda</strong> in practical terms, we build these as web apps that open in a browser on phone or computer, with logins for each role, simple entry screens, and reports that make month-end easy. Data stays on hosting registered to you, with daily backups.",
+        "As a <strong>software team in Sunabeda</strong> in practical terms, we build these as web apps that open in a browser on phone or computer, with logins for each role, simple entry screens, and reports that make month-end easy. Data stays on hosting registered to you, with daily backups.",
         "Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks. We start with the one register that causes the most trouble today, let your staff use it for a few weeks, and only then add the next piece. That way you pay for features that proved useful, not a long list drawn up on day one.",
       ],
     },
     {
       id: "remote-team-sunabeda",
-      heading: "IT company in Sunabeda without an office: how our remote process works",
+      heading: "IT services team in Sunabeda without an office: how our remote process works",
       paragraphs: [
-        "Anyone looking for an <strong>IT company in Sunabeda</strong> might expect an office in the market. We do not have one, and we prefer to say so on the first call. Our process is written down so that distance never becomes a reason for confusion.",
+        "Anyone looking for an <strong>IT services team in Sunabeda</strong> might expect an office in the market. We do not have one, and we prefer to say so on the first call. Our process is written down so that distance never becomes a reason for confusion.",
         "We start with a call about your business and what you want to achieve. You then get a page or screen plan, a timeline and an itemised quote. After you approve, we share preview links you can open on your phone and show to partners before launch. Odia text is sent to you for checking, and nothing goes live without your approval.",
         "We answer WhatsApp every day, weekends included, on Indian Standard Time. If a delay arises you hear about it immediately. Payments follow visible progress. To begin, <a href=\"/contact/\">send us a short message</a> about your business.",
       ],
@@ -226,7 +226,7 @@ const sunabeda: CityContent = {
         "A static website usually goes live in one to two weeks once we have your text and photographs. A 700+ page SEO website takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready early is the biggest factor in how fast we finish.",
     },
     {
-      question: "Who is the best website development company in Sunabeda?",
+      question: "Who is the best website development team in Sunabeda?",
       answer:
         "Pick one that publishes prices, registers the domain and code in your name, stays reachable after launch and can show working sites. Ask each option the same questions. We meet those tests and answer WhatsApp every day, but speaking to two or three providers before deciding is sensible.",
     },

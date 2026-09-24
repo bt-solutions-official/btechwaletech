@@ -10,12 +10,12 @@ const jorhat: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Jorhat tea gardens, Gar-Ali traders, colleges, clinics and Majuli-bound tourism.",
     keywords: [
       "IT services in Jorhat",
-      "IT company in Jorhat",
-      "website development company in Jorhat",
+      "IT services team in Jorhat",
+      "website development team in Jorhat",
       "web design in Jorhat",
-      "app development company in Jorhat",
+      "app development team in Jorhat",
       "Android app development in Jorhat",
-      "software company in Jorhat",
+      "software team in Jorhat",
       "SEO services in Jorhat",
       "digital marketing in Jorhat",
       "ecommerce website in Jorhat",
@@ -74,10 +74,10 @@ const jorhat: CityContent = {
     },
     {
       id: "tea-garden-software",
-      heading: "Software company in Jorhat for tea gardens, bought-leaf factories and brokers",
+      heading: "Software team in Jorhat for tea gardens, bought-leaf factories and brokers",
       paragraphs: [
         "Tea shapes Jorhat's economy more than anything else. The district has around 135 gardens, and the Tocklai centre at Cinnamara has spent more than a century studying clones, pests and processing. Around the large estates are small tea growers, bought-leaf factories, transporters, machinery dealers, fertiliser suppliers and warehousing firms, all of whom keep records that are still mostly on paper.",
-        "As a <strong>software company in Jorhat</strong> in the working sense, we build tools that fit how a garden actually runs. Field supervisors can record plucking attendance and green leaf weight section by section on a phone, even where the signal drops, and sync when they are back near the factory. Factory staff can see intake against made tea, drying hours and grade-wise output. Managers get a daily summary without chasing clerks for figures.",
+        "As a <strong>software team in Jorhat</strong> in the working sense, we build tools that fit how a garden actually runs. Field supervisors can record plucking attendance and green leaf weight section by section on a phone, even where the signal drops, and sync when they are back near the factory. Factory staff can see intake against made tea, drying hours and grade-wise output. Managers get a daily summary without chasing clerks for figures.",
         "For bought-leaf factories, the useful piece is usually a supplier ledger: each small grower's deliveries, moisture deductions, rate per kilo and payment status, with a slip sent on WhatsApp after every weighment. That alone can cut the number of disputes at month end.",
         "Custom tools like these start at ₹60,000 and are built in stages over six to twelve weeks. We generally begin with the part that saves the most staff time, test it for a flush, and only then add the next module.",
       ],
@@ -102,10 +102,10 @@ const jorhat: CityContent = {
     },
     {
       id: "gar-ali-retail",
-      heading: "Website development company in Jorhat for Gar-Ali, Chowk Bazar and AT Road retailers",
+      heading: "Website development team in Jorhat for Gar-Ali, Chowk Bazar and AT Road retailers",
       paragraphs: [
         "The commercial heart of Jorhat runs along Gar-Ali, Chowk Bazar, AT Road and the streets between them: clothing and mekhela chador shops, jewellers, electronics, furniture, hardware, pharmacies and wholesale grocery. Many of these businesses serve customers from the whole district and beyond, especially around Bihu, Durga Puja and the wedding season.",
-        "What a <strong>website development company in Jorhat</strong> should give such a shop is not a flashy home page. It is an accurate list of what you stock, your timings including festival hours, parking or landmark directions, a WhatsApp button for price checks, and photographs that are your own. For jewellers, that means clear hallmark and making-charge information; for furniture stores, sizes and delivery areas.",
+        "What a <strong>website development team in Jorhat</strong> should give such a shop is not a flashy home page. It is an accurate list of what you stock, your timings including festival hours, parking or landmark directions, a WhatsApp button for price checks, and photographs that are your own. For jewellers, that means clear hallmark and making-charge information; for furniture stores, sizes and delivery areas.",
         "We also help wholesalers who supply retailers in Titabor, Teok, Mariani and Golaghat with a simple order form or catalogue that a shopkeeper can use at night without calling. When the catalogue grows, it can become a full ordering portal without being rebuilt from nothing.",
       ],
     },
@@ -120,10 +120,10 @@ const jorhat: CityContent = {
     },
     {
       id: "clinics-jorhat",
-      heading: "IT company in Jorhat for hospitals, diagnostic centres and pharmacies",
+      heading: "IT services team in Jorhat for hospitals, diagnostic centres and pharmacies",
       paragraphs: [
         "Jorhat is a medical centre for a wide area of Upper Assam. Besides Jorhat Medical College and Hospital, there are private hospitals, nursing homes, diagnostic labs, dental clinics and pharmacies that see patients from tea gardens, riverine villages and Majuli. Many of those patients travel for hours, so a wasted trip because a doctor is not sitting that day is a real cost.",
-        "An <strong>IT company in Jorhat</strong> serving healthcare should keep things plain and correct. We build doctor-wise pages with specialities, OPD days and hours, appointment request forms, directions from the bus stand and railway station, and emergency numbers in large text. Labs can publish test lists with preparation instructions and sample collection timings, and send reports on WhatsApp with patient consent.",
+        "An <strong>IT services team in Jorhat</strong> serving healthcare should keep things plain and correct. We build doctor-wise pages with specialities, OPD days and hours, appointment request forms, directions from the bus stand and railway station, and emergency numbers in large text. Labs can publish test lists with preparation instructions and sample collection timings, and send reports on WhatsApp with patient consent.",
         "We do not publish medical claims, success percentages or testimonials that break professional rules. Anything that touches patient data is stored with access limited to the staff who need it.",
       ],
     },
@@ -132,7 +132,7 @@ const jorhat: CityContent = {
       heading: "Android app development in Jorhat and iOS apps for local organisations",
       paragraphs: [
         "An app is worth the money when the same people will open it again and again. In Jorhat that describes a coaching institute's students checking tests and notes, a tea garden's supervisors entering field data, a school's parents receiving notices and fee reminders, a restaurant's regular customers re-ordering, or a distributor's retailers placing weekly orders.",
-        "As an <strong>app development company in Jorhat</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A typical first version has mobile number login, push notifications, the three or four screens your users need most, and an admin panel your staff can use from a laptop. For estates and outlying areas we can add offline entry that syncs later.",
+        "As an <strong>app development team in Jorhat</strong> that works remotely, we build in Flutter or React Native so one codebase runs on Android phones and iPhones. A typical first version has mobile number login, push notifications, the three or four screens your users need most, and an admin panel your staff can use from a laptop. For estates and outlying areas we can add offline entry that syncs later.",
         "<strong>Android app development in Jorhat</strong> with us starts at ₹40,000. Payments, maps, offline mode and links to other software add to that, and each appears as its own line on the quote. We publish the app on Google Play and the Apple App Store under developer accounts registered in your name. More details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, a phone number and a price list, a website does that for a fraction of the cost, and we will tell you so. An app that is installed once and never opened helps nobody.",
       ],
@@ -224,7 +224,7 @@ const jorhat: CityContent = {
         "A static website usually goes live one to two weeks after we receive your text and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve weeks. Having content ready is what speeds things up most.",
     },
     {
-      question: "Which is the best IT company in Jorhat for a small business?",
+      question: "Which is the best IT services team in Jorhat for a small business?",
       answer:
         "The best choice publishes its prices, registers your domain and code in your name, answers after launch and can show real work. Ask every provider the same questions and compare the answers. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options first is sensible.",
     },

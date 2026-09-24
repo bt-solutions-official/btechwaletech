@@ -7,10 +7,10 @@ const content: CityContent = {
   meta: {
     title: "Freelance Software & Automation Team in Roorkee",
     description:
-      "Instead of a software development company in Roorkee, hire our freelance team for quotation, lab, hostel and project software, apps and AI automation.",
+      "Instead of a software development team in Roorkee, hire our freelance team for quotation, lab, hostel and project software, apps and AI automation.",
     keywords: [
-      "software development company in Roorkee",
-      "IT company in Roorkee",
+      "software development team in Roorkee",
+      "IT services team in Roorkee",
       "IT solutions Roorkee",
       "freelance software developer Roorkee",
       "quotation software for instrument manufacturers",
@@ -39,7 +39,7 @@ const content: CityContent = {
     eyebrow: "Roorkee · Haridwar district · Freelance software and automation",
     h1: "Freelance software and automation team in Roorkee for instrument makers, labs, hostels and startups",
     lede:
-      "People typing “software development company in Roorkee” usually want working tools, not a sales pitch. BtechWaleTech is a freelance group of three engineers working remotely from India. For Roorkee we build quotation and dealer systems for instrument makers, sample-tracking software for testing labs, hostel and PG management, project trackers for civil consultants, startup MVPs, AI automations and dashboards, with public starting prices.",
+      "People typing “software development team in Roorkee” usually want working tools, not a sales pitch. BtechWaleTech is a freelance group of three engineers working remotely from India. For Roorkee we build quotation and dealer systems for instrument makers, sample-tracking software for testing labs, hostel and PG management, project trackers for civil consultants, startup MVPs, AI automations and dashboards, with public starting prices.",
     pills: ["Custom software from ₹60,000", "AI automation from ₹40,000", "Quotation and dealer portals", "Lab sample tracking", "Code handed over on GitHub"],
   },
   quickAnswer:
@@ -73,7 +73,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-software-company-roorkee",
-      heading: "Should you hire a software development company in Roorkee or a freelance team?",
+      heading: "Should you hire a software development team in Roorkee or a freelance team?",
       paragraphs: [
         "A freelance team is usually the better fit when a Roorkee organisation needs one well-defined system, such as a quotation tool, a lab tracker or a hostel manager, while a larger software development company in Roorkee or a nearby metro makes sense for multi-team programmes. BtechWaleTech is a freelance group of three engineers, so we focus on the first kind of work.",
         "Roorkee has an unusual advantage: many owners, faculty and managers are engineers who can read a technical proposal. With a freelance group, you can discuss database design, API choices or hosting directly with the people building the system. Larger firms often place account managers in that conversation, which slows decisions and adds cost.",
@@ -269,9 +269,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Is BtechWaleTech a software company in Roorkee?",
+      question: "Is BtechWaleTech a software team in Roorkee?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India. We are not a company and have no office in Roorkee. Roorkee clients work with us through WhatsApp, video calls and live preview links, speaking directly to the engineers writing the code.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India. Roorkee clients work with us through WhatsApp, video calls and live preview links, speaking directly to the engineers writing the code.",
     },
     {
       question: "How do payments work?",

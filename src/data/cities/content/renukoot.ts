@@ -10,12 +10,12 @@ const renukoot: CityContent = {
       "Websites, Android and iOS apps, SEO and WhatsApp automation for Renukoot plant contractors, vendors, schools, coaching centres, clinics and Sonbhadra shops.",
     keywords: [
       "IT services in Renukoot",
-      "IT company in Renukoot",
-      "website development company in Renukoot",
+      "IT services team in Renukoot",
+      "website development team in Renukoot",
       "web design in Renukoot",
-      "app development company in Renukoot",
+      "app development team in Renukoot",
       "Android app development in Renukoot",
-      "software company in Renukoot",
+      "software team in Renukoot",
       "SEO services in Renukoot",
       "digital marketing in Renukoot",
       "ecommerce website in Renukoot",
@@ -75,10 +75,10 @@ const renukoot: CityContent = {
     },
     {
       id: "contractor-software-renukoot",
-      heading: "Software company in Renukoot for plant contractors and vendors",
+      heading: "Software team in Renukoot for plant contractors and vendors",
       paragraphs: [
         "A contractor working inside a large plant juggles a lot of records: work orders and their line items, daily manpower at each site, gate passes, safety training dates, equipment hours, measurement sheets, and bills raised against each order and their payment status. When these live in registers and spreadsheets, bills go out late and money is left on the table.",
-        "As a <strong>software company in Renukoot</strong>, we build web applications for exactly this kind of work. Supervisors mark attendance and work done from a phone. The office sees manpower and progress by site, prepares measurement sheets and bills against each work order, and tracks what has been paid and what is pending.",
+        "As a <strong>software team in Renukoot</strong>, we build web applications for exactly this kind of work. Supervisors mark attendance and work done from a phone. The office sees manpower and progress by site, prepares measurement sheets and bills against each work order, and tracks what has been paid and what is pending.",
         "For equipment hire firms, the software records crane, hydra, JCB or truck hours by site and generates hire bills. For material suppliers, it tracks purchase orders, dispatches and invoices. Everything exports to Excel or Tally so your accountant keeps working as usual.",
         "Pricing for contractor systems begins at ₹60,000, with delivery spread over roughly one and a half to three months. The module that eats most of your office's hours is built first, and the others follow once that one is in daily use. Starting prices are on our <a href=\"/pricing/\">pricing page</a>.",
       ],
@@ -92,10 +92,10 @@ const renukoot: CityContent = {
     },
     {
       id: "vendor-websites-renukoot",
-      heading: "Website development company in Renukoot for fabricators, transporters and suppliers",
+      heading: "Website development team in Renukoot for fabricators, transporters and suppliers",
       paragraphs: [
         "Engineering workshops, fabricators, electrical contractors, transporters, scaffolding suppliers and industrial service firms around Renukoot compete for work with large companies and with firms from Varanasi, Singrauli and further away. When a purchase team checks a vendor, the first thing they often do is search the name.",
-        "As a <strong>website development company in Renukoot</strong>, we build capability websites that answer the questions buyers ask: what you do, what equipment and manpower you have, what licences and registrations you hold, what kind of work you have completed and how to contact you. We write from your real documents and photographs, and we never invent clients or projects.",
+        "As a <strong>website development team in Renukoot</strong>, we build capability websites that answer the questions buyers ask: what you do, what equipment and manpower you have, what licences and registrations you hold, what kind of work you have completed and how to contact you. We write from your real documents and photographs, and we never invent clients or projects.",
         "A clear quote request form that asks for the right specifications saves time for both sides. Transporters can list vehicle types and routes; fabricators can show workshop photographs and typical jobs.",
         "A vendor profile site of this kind costs ₹10,000 onwards and is generally online within a fortnight of receiving your documents. See what is included on our <a href=\"/services/web-development/\">web development page</a>.",
       ],
@@ -122,10 +122,10 @@ const renukoot: CityContent = {
     },
     {
       id: "android-ios-apps-renukoot",
-      heading: "App development company in Renukoot: Android and iOS apps for contractors and schools",
+      heading: "App development team in Renukoot: Android and iOS apps for contractors and schools",
       paragraphs: [
         "An app pays off when the same people use it every day or every week. In Renukoot that might be a contractor's site supervisors logging attendance and work progress from inside the plant, a school sending homework, attendance and fee notices to parents, a coaching centre sharing test results, or a pharmacy letting regular customers reorder medicines.",
-        "Our work as a remote <strong>app development company in Renukoot</strong> uses Flutter or React Native: a single project compiled for Android handsets and for iPhones. The opening release tends to cover OTP-based sign-in, alerts, the few screens supervisors or parents rely on, and a browser dashboard where the office manages data.",
+        "Our work as a remote <strong>app development team in Renukoot</strong> uses Flutter or React Native: a single project compiled for Android handsets and for iPhones. The opening release tends to cover OTP-based sign-in, alerts, the few screens supervisors or parents rely on, and a browser dashboard where the office manages data.",
         "<strong>Android app development in Renukoot</strong> with us starts at ₹40,000. Offline entry for areas with weak signal, photo uploads, GPS tagging, multiple user roles and links to your billing software add to the cost, and the quote lists each one. Release on Google Play and Apple's store happens through developer accounts your firm holds. See our <a href=\"/it-services/android-ios-app/\">Android and iOS app service</a>.",
         "When people only want to know where you are, when you open and which number to ring, a plain website answers that far more cheaply, and we will point you there. An app deleted after a week is simply lost money.",
       ],
@@ -172,10 +172,10 @@ const renukoot: CityContent = {
     },
     {
       id: "remote-team-renukoot",
-      heading: "An IT company in Renukoot that works remotely",
+      heading: "An IT services team in Renukoot that works remotely",
       paragraphs: [
         "We have no office in Renukoot, Robertsganj or anywhere in Sonbhadra. BtechWaleTech is three engineers working remotely. Ankur Kumar does full-stack development, Santosh Sharma handles AI, machine learning, AWS and data, and Vedansh Shrivastava manages projects and works on data science and automation.",
-        "Working with an <strong>IT company in Renukoot</strong> that is not physically there is simpler than it sounds. We begin with a WhatsApp or video call, you share documents, photographs and samples of your current paperwork, and we send a written plan and itemised quote. During the build you get a preview link and can ask for changes at each stage.",
+        "Working with an <strong>IT services team in Renukoot</strong> that is not physically there is simpler than it sounds. We begin with a WhatsApp or video call, you share documents, photographs and samples of your current paperwork, and we send a written plan and itemised quote. During the build you get a preview link and can ask for changes at each stage.",
         "We reply on WhatsApp seven days a week during Indian working hours. Payments are staged against delivered work, and each milestone is written down in advance.",
         "If you need someone to visit your site or office, a local provider will suit you better, and we would rather tell you that at the start.",
       ],
@@ -237,7 +237,7 @@ const renukoot: CityContent = {
         "With your details and photos in hand, a basic site is normally done inside a fortnight. Plan on three to five weeks for a big SEO site, one to two months for a store and about six to twelve weeks for contractor or custom software. We send a checklist at the start so content does not hold things up.",
     },
     {
-      question: "Which is the best website development company in Renukoot?",
+      question: "Which is the best website development team in Renukoot?",
       answer:
         "No list settles that. Judge any developer on four things: a written breakdown of cost, your firm's name on the domain and code, live sites you can open, and a clear answer on support after launch. Put us through the same checks alongside local names and decide on what you see.",
     },

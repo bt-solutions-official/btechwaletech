@@ -13,8 +13,8 @@ const content: CityContent = {
       "iOS app development Ajmer",
       "mobile app developers Ajmer",
       "iPhone app developers Ajmer",
-      "software development company in Ajmer",
-      "IT company in Ajmer",
+      "software development team in Ajmer",
+      "IT services team in Ajmer",
       "IT solutions Ajmer",
       "freelance software developer Ajmer",
       "school management software Ajmer",
@@ -38,7 +38,7 @@ const content: CityContent = {
     eyebrow: "Ajmer · Rajasthan · Freelance IT team",
     h1: "Freelance software and IT developers in Ajmer for schools, exam coaching, guest houses and traders",
     lede:
-      "If you are comparing a software development company in Ajmer with other options, consider a freelance group. BtechWaleTech is three independent engineers working remotely from India. We build school and coaching software, online test portals, pilgrim booking tools, marble trade portals, WhatsApp automation and mobile-first sites, and we keep them running afterwards.",
+      "If you are comparing a software development team in Ajmer with other options, consider a freelance group. BtechWaleTech is three independent engineers working remotely from India. We build school and coaching software, online test portals, pilgrim booking tools, marble trade portals, WhatsApp automation and mobile-first sites, and we keep them running afterwards.",
     pills: ["Exam and test portals", "School ERPs", "Booking tools near the Dargah", "Web apps from ₹60,000", "Mobile sites from ₹10,000"],
   },
   quickAnswer:
@@ -71,7 +71,7 @@ const content: CityContent = {
   sections: [
     {
       id: "ajmer-freelance-vs-company",
-      heading: "Freelance group vs a software development company in Ajmer: which should you hire?",
+      heading: "Freelance group vs a software development team in Ajmer: which should you hire?",
       paragraphs: [
         "Hire a freelance group when you want the people writing the code to be the people you talk to, with lower overheads and flexible scope; hire a larger software development company in Ajmer or Jaipur when you need a big team on site, formal enterprise contracts or round-the-clock staffed support. Many Ajmer schools, coaching centres and traders fall in the first group.",
         "BtechWaleTech is a freelance group of three engineers working remotely from India. We do not have an office in Ajmer and we do not claim one. We build custom web applications, school and coaching systems, online test platforms, AI and WhatsApp automation, mobile apps, dashboards, ecommerce stores and SEO websites, and handle hosting and maintenance ourselves.",
@@ -243,7 +243,7 @@ const content: CityContent = {
     { name: "Travel and taxi operators", need: "Pickups from Ajmer Junction and Kishangarh Airport, Pushkar trips and group tours", build: "Booking forms, driver assignment tools and WhatsApp confirmations" },
   ],
   faqs: [
-    { question: "Is BtechWaleTech an Ajmer-based software company?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Ajmer. We work with Ajmer clients through WhatsApp, phone and video calls and share test links every week. You deal directly with the engineers who build your software." },
+    { question: "Is BtechWaleTech an Ajmer-based software team?", answer: "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Ajmer. We work with Ajmer clients through WhatsApp, phone and video calls and share test links every week. You deal directly with the engineers who build your software." },
     { question: "How do we pay for a project?", answer: "Only in INR, by scanning our UPI QR code or by direct bank transfer to our bank account. Payments are split into milestones linked to working deliverables, and you get an invoice for each. For your own customers, such as guests or online buyers, we set up a payment gateway account in your name." },
     { question: "What does a school or coaching software cost?", answer: "Custom software starts at ₹60,000. A focused module such as fees and parent messaging, or a basic test series engine, sits near that point. Adding admissions, academics, transport, video lectures or multi-branch reporting increases the scope. You get an itemised quote in about two working days." },
     { question: "How long will the project take?", answer: "Six to twelve weeks for custom software, two to four weeks for AI automation, four to eight weeks for an online store, three to five weeks for an SEO website and one to two weeks for a static website. Large systems can go live in phases so the most urgent part is ready first." },

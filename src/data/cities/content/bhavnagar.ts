@@ -9,12 +9,12 @@ const bhavnagar: CityContent = {
     description:
       "Websites, SEO and WhatsApp automation for Bhavnagar diamond units, rolling mills, Alang traders and shops. Starting prices published, domain and code in your name.",
     keywords: [
-      "website development company in Bhavnagar",
+      "website development team in Bhavnagar",
       "web design Bhavnagar",
       "website designer Bhavnagar",
       "freelance web developer Bhavnagar",
       "website cost Bhavnagar",
-      "SEO company Bhavnagar",
+      "SEO team Bhavnagar",
       "local SEO Bhavnagar",
       "ecommerce website Bhavnagar",
       "Alang ship recycling website",

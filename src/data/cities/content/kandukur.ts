@@ -10,12 +10,12 @@ const kandukur: CityContent = {
       "Telugu websites, Android and iOS apps, local SEO and WhatsApp automation for Kandukur groundnut and tobacco traders, mango growers, colleges, clinics and shops.",
     keywords: [
       "IT services in Kandukur",
-      "IT company in Kandukur",
-      "website development company in Kandukur",
+      "IT services team in Kandukur",
+      "website development team in Kandukur",
       "web design in Kandukur",
-      "app development company in Kandukur",
+      "app development team in Kandukur",
       "Android app development in Kandukur",
-      "software company in Kandukur",
+      "software team in Kandukur",
       "SEO services in Kandukur",
       "digital marketing in Kandukur",
       "ecommerce website in Kandukur",
@@ -74,20 +74,20 @@ const kandukur: CityContent = {
     },
     {
       id: "farm-traders-software",
-      heading: "Software company in Kandukur for groundnut, pulse and cotton traders",
+      heading: "Software team in Kandukur for groundnut, pulse and cotton traders",
       paragraphs: [
         "Groundnut, paddy, cotton and pulses are the main crops around Kandukur, and many families in town earn their living buying from farmers and selling to mills, oil units and wholesalers. The paperwork is familiar: purchase slips with weight and moisture, advances to farmers, lorry hire, godown stock, sale bills, and payments that arrive in parts.",
-        "As a <strong>software company in Kandukur</strong>, we build simple web tools that match how a trader already works. Each purchase is entered once from a phone. Stock updates by commodity and godown. Every sale creates a bill and adds to the buyer's ledger. The owner opens one screen to see what was bought today, what is in stock, what has been dispatched and who still owes money. Telugu labels can sit alongside English so staff are comfortable using it.",
+        "As a <strong>software team in Kandukur</strong>, we build simple web tools that match how a trader already works. Each purchase is entered once from a phone. Stock updates by commodity and godown. Every sale creates a bill and adds to the buyer's ledger. The owner opens one screen to see what was bought today, what is in stock, what has been dispatched and who still owes money. Telugu labels can sit alongside English so staff are comfortable using it.",
         "Custom software starts at ₹60,000 and is built in stages over six to twelve weeks. We start with the purchase and sale registers, since those answer the most common daily questions, and add farmer advances, lorry records or Tally export only if you need them.",
         "Once a season of clean entries exists, the numbers start to tell you things. Santosh and Vedansh can turn them into a small dashboard showing purchases by village and week, average rates paid against rates received, stock that has sat in the godown too long, and buyers who pay late. For a trader who has always judged the season by feel, seeing those figures side by side is often the most useful part of the whole project, and it costs little extra once the registers are in place.",
       ],
     },
     {
       id: "tobacco-growers-dealers",
-      heading: "IT company in Kandukur for tobacco growers, dealers and farm-input shops",
+      heading: "IT services team in Kandukur for tobacco growers, dealers and farm-input shops",
       paragraphs: [
         "Prakasam is one of Andhra Pradesh's tobacco districts, and registered tobacco dealers operate from Kandukur itself. Around them are barn owners, labour contractors, transporters, and the fertiliser, pesticide and seed dealers who supply growers across the division.",
-        "What these businesses need from an <strong>IT company in Kandukur</strong> is mostly record-keeping and communication. A dealer or input shop can use a stock and billing tool with credit accounts for each farmer or village retailer, reminders for overdue amounts, and a history of what each customer buys every season. A WhatsApp broadcast list, handled carefully and only with consent, keeps growers informed about stock arrivals.",
+        "What these businesses need from an <strong>IT services team in Kandukur</strong> is mostly record-keeping and communication. A dealer or input shop can use a stock and billing tool with credit accounts for each farmer or village retailer, reminders for overdue amounts, and a history of what each customer buys every season. A WhatsApp broadcast list, handled carefully and only with consent, keeps growers informed about stock arrivals.",
         "For firms that deal with larger buyers, a factual website helps: licence and registration details, services offered, storage capacity, the areas you cover and named contact people. We never place a buyer's or client's name on your site without their written permission, and we keep claims to what you can prove.",
       ],
     },
@@ -123,7 +123,7 @@ const kandukur: CityContent = {
       heading: "Android app development in Kandukur, and iOS apps for local firms",
       paragraphs: [
         "An app makes sense when the same people use it regularly. Good examples in Kandukur include a college or school sending notices to parents, a hospital issuing appointment tokens, a trader whose village agents record purchases in the field, or an input dealer whose retailers place repeat orders.",
-        "As an <strong>app development company in Kandukur</strong> working remotely, we use Flutter or React Native so one codebase runs on both Android and iPhone. A first version normally includes mobile OTP login, push notifications, the key screens your users need and an admin panel for your staff. We publish on Google Play and the App Store under developer accounts registered to you.",
+        "As an <strong>app development team in Kandukur</strong> working remotely, we use Flutter or React Native so one codebase runs on both Android and iPhone. A first version normally includes mobile OTP login, push notifications, the key screens your users need and an admin panel for your staff. We publish on Google Play and the App Store under developer accounts registered to you.",
         "<strong>Android app development in Kandukur</strong> with us starts at ₹40,000. Offline mode for fields with weak signal, payments, maps or accounting integration each add cost and appear separately in the quote. Details are on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If customers only need your address, phone number and timings, a website is enough and costs far less. We will recommend the website in that case, because an app that people install once and forget brings nothing back.",
       ],
@@ -224,7 +224,7 @@ const kandukur: CityContent = {
         "A simple static website normally goes live within one to two weeks of receiving your details and photographs. A 700+ page SEO site takes three to five weeks, an online store four to eight weeks and custom software six to twelve. The fastest projects are those where content arrives early.",
     },
     {
-      question: "Which is the best website development company in Kandukur?",
+      question: "Which is the best website development team in Kandukur?",
       answer:
         "Choose a provider that publishes prices, registers the domain and code in your name, supports you after launch and can show genuine work. Ask each one the same questions and compare written quotes. We meet those standards and reply on WhatsApp all week, but it is wise to compare two or three options.",
     },

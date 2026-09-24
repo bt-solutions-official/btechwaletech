@@ -10,12 +10,12 @@ const amalapuram: CityContent = {
       "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Amalapuram coconut traders, aqua farms, hospitals, colleges and Konaseema shops.",
     keywords: [
       "IT services in Amalapuram",
-      "IT company in Amalapuram",
-      "website development company in Amalapuram",
+      "IT services team in Amalapuram",
+      "website development team in Amalapuram",
       "web design in Amalapuram",
-      "app development company in Amalapuram",
+      "app development team in Amalapuram",
       "Android app development in Amalapuram",
-      "software company in Amalapuram",
+      "software team in Amalapuram",
       "SEO services in Amalapuram",
       "digital marketing in Amalapuram",
       "ecommerce website in Amalapuram",
@@ -70,16 +70,16 @@ const amalapuram: CityContent = {
         "Amalapuram is the market, hospital and college town for a wide sweep of delta villages, and since the district was formed it is also where people come for government offices. Most of the region lives off coconut groves, paddy fields, banana plantations and aquaculture ponds, and a large share of families have children working in Hyderabad, Bengaluru or overseas who still manage household decisions by phone.",
         "That shapes the requests we get for <strong>IT services in Amalapuram</strong>. A coconut trader wants to stop tracking loads and payments in a notebook. A hospital wants patients from Razole and Mummidivaram to see doctor timings before they travel. A family-run sweet shop wants to ship to relatives in America. A college wants admission enquiries on WhatsApp. These are practical jobs, and they reward care more than scale.",
         "We are three engineers working remotely: Ankur Kumar on full-stack development, Santosh Sharma on AI, machine learning, AWS and data, and Vedansh Shrivastava on project management, data science and automation. We have no office in Amalapuram or anywhere in Konaseema, and we say so at the start. You deal with the same three people from the first message to handover.",
-        "Some owners prefer an <strong>IT company in Amalapuram</strong> they can walk into, and that is a fair preference. What we offer instead is written scope, published starting prices and your name on every account from the first day.",
+        "Some owners prefer an <strong>IT services team in Amalapuram</strong> they can walk into, and that is a fair preference. What we offer instead is written scope, published starting prices and your name on every account from the first day.",
       ],
     },
     {
       id: "coconut-copra-traders",
-      heading: "Software company in Amalapuram for coconut, copra and oil traders",
+      heading: "Software team in Amalapuram for coconut, copra and oil traders",
       paragraphs: [
         "Coconut is the crop that defines Konaseema, and nuts from the delta are sent to markets across India. Around Amalapuram, traders buy from groves, grade and load nuts, deal in copra and coconut oil, and send lorries to buyers in other states. Payments come in over weeks, and a single trader may track dozens of growers, commission agents and buyers at once.",
         "The paperwork is where money leaks. Which grower supplied how many nuts at what rate, which lorry went to which buyer, what advance was paid, which payment is still pending: all of this usually lives in ledgers and phone notes. A dispute or a missed entry can cost more than a season's profit on a load.",
-        "Working as a <strong>software company in Amalapuram</strong> in the practical sense, we build small web tools for this trade: a grower and buyer register, each purchase and dispatch entered once from a phone, running balances by party, lorry-wise records, and WhatsApp statements sent before settlement. These start at ₹60,000 and are built in stages over six to twelve weeks, with the payment register first because it recovers money fastest. If you use Tally for GST, we read from it rather than doubling the typing.",
+        "Working as a <strong>software team in Amalapuram</strong> in the practical sense, we build small web tools for this trade: a grower and buyer register, each purchase and dispatch entered once from a phone, running balances by party, lorry-wise records, and WhatsApp statements sent before settlement. These start at ₹60,000 and are built in stages over six to twelve weeks, with the payment register first because it recovers money fastest. If you use Tally for GST, we read from it rather than doubling the typing.",
       ],
     },
     {
@@ -93,20 +93,20 @@ const amalapuram: CityContent = {
     },
     {
       id: "android-ios-apps-amalapuram",
-      heading: "App development company in Amalapuram: Android and iOS apps that get used",
+      heading: "App development team in Amalapuram: Android and iOS apps that get used",
       paragraphs: [
         "Apart from aqua farms, the best candidates for an app in Amalapuram are colleges and coaching centres sending test results and notices, hospitals issuing tokens and lab reports, feed and fertiliser dealers taking repeat orders from shops in the delta villages, and stores with loyal customers who buy the same items every week.",
-        "Anyone comparing an <strong>app development company in Amalapuram</strong> should ask how the app is built and who holds it. Our answer: Flutter or React Native, which means a single codebase for both Android handsets and iPhones. Release one normally covers OTP sign-in, notifications pushed to the phone, the handful of screens customers actually open, and a back-office panel where your staff change content. Publishing happens on Google Play and Apple's App Store, through developer accounts opened in your name rather than ours.",
+        "Anyone comparing an <strong>app development team in Amalapuram</strong> should ask how the app is built and who holds it. Our answer: Flutter or React Native, which means a single codebase for both Android handsets and iPhones. Release one normally covers OTP sign-in, notifications pushed to the phone, the handful of screens customers actually open, and a back-office panel where your staff change content. Publishing happens on Google Play and Apple's App Store, through developer accounts opened in your name rather than ours.",
         "Pricing begins at ₹40,000. Extras such as payments inside the app, working without signal, maps, reports or a link to your billing software each appear as their own line, so you can drop what does not earn its keep. The <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> walks through a typical build.",
         "Plenty of Konaseema shops are better off without an app. When buyers only want your location, opening hours, rates and a number to ring, a website plus an accurate Google listing covers it for roughly a quarter of the spend, with no download needed. In that case we will point you to the cheaper route.",
       ],
     },
     {
       id: "hospitals-colleges-amalapuram",
-      heading: "Website development company in Amalapuram for hospitals and colleges",
+      heading: "Website development team in Amalapuram for hospitals and colleges",
       paragraphs: [
         "Amalapuram is the medical and education centre for much of Konaseema. The Konaseema Institute of Medical Sciences, private hospitals, nursing homes, diagnostic labs and clinics serve patients from across the delta. SKBR College, founded in 1951, engineering colleges and junior colleges draw students from Razole, Mummidivaram, Kothapeta and further.",
-        "A <strong>website development company in Amalapuram</strong> serving these institutions should focus on the questions people travel to ask. For hospitals: doctors and specialities, OPD days and timings, emergency numbers, diagnostic tests offered and whether insurance schemes are accepted. For colleges: courses, fee ranges, hostel and bus details, admission dates and results shared with student consent.",
+        "A <strong>website development team in Amalapuram</strong> serving these institutions should focus on the questions people travel to ask. For hospitals: doctors and specialities, OPD days and timings, emergency numbers, diagnostic tests offered and whether insurance schemes are accepted. For colleges: courses, fee ranges, hostel and bus details, admission dates and results shared with student consent.",
         "We build these sites in Telugu and English, link them to a correct Google Business Profile, and add enquiry forms that go straight to the office phone. Hospital and college sites usually start at ₹10,000; an admissions or appointment portal with logins is quoted as custom software from ₹60,000. We never publish patient details or photographs of students without written consent.",
       ],
     },
@@ -224,7 +224,7 @@ const amalapuram: CityContent = {
         "Most static sites go live in one to two weeks from the day your photos and details arrive. Bigger builds need longer: three to five weeks for a 700+ page SEO site, four to eight for a store and six to twelve for bespoke software. Owners who hand over text and pictures early see the quickest launches.",
     },
     {
-      question: "Which is the best website development company in Amalapuram?",
+      question: "Which is the best website development team in Amalapuram?",
       answer:
         "Judge any provider by four things: published prices, the domain and code registered to you, support that continues after launch, and past work you can open and test. Put identical questions to each one. We pass those checks and answer WhatsApp daily, yet speaking to two or three others before choosing is only sensible.",
     },

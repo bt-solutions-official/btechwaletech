@@ -10,12 +10,12 @@ const rajagangapur: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Rajgangpur plant vendors, transporters, schools, clinics and Main Road shops.",
     keywords: [
       "IT services in Rajgangpur",
-      "IT company in Rajgangpur",
-      "website development company in Rajgangpur",
+      "IT services team in Rajgangpur",
+      "website development team in Rajgangpur",
       "web design in Rajgangpur",
-      "app development company in Rajgangpur",
+      "app development team in Rajgangpur",
       "Android app development in Rajgangpur",
-      "software company in Rajgangpur",
+      "software team in Rajgangpur",
       "SEO services in Rajgangpur",
       "digital marketing in Rajgangpur",
       "ecommerce website in Rajgangpur",
@@ -74,20 +74,20 @@ const rajagangapur: CityContent = {
     },
     {
       id: "plant-vendors-contractors",
-      heading: "Website development company in Rajgangpur for plant vendors and contractors",
+      heading: "Website development team in Rajgangpur for plant vendors and contractors",
       paragraphs: [
         "A large cement works depends on a long tail of outside firms: civil and mechanical contractors, electrical and instrumentation teams, scaffolding and painting crews, canteen and housekeeping operators, security agencies, packaging suppliers, and hire firms for cranes, loaders and trucks. Plenty of them are family businesses based in Rajgangpur or the villages around it, and many have never had a website.",
-        "The gap shows when a new purchase manager, a head office in another state or a bigger buyer in the Rourkela belt tries to look them up. A <strong>website development company in Rajgangpur</strong> should close it with a plain, believable site: the scope of work you take on, equipment you own, manpower strength, safety training and certificates, GST and registration details, years in business and named contacts whose phones are actually answered.",
+        "The gap shows when a new purchase manager, a head office in another state or a bigger buyer in the Rourkela belt tries to look them up. A <strong>website development team in Rajgangpur</strong> should close it with a plain, believable site: the scope of work you take on, equipment you own, manpower strength, safety training and certificates, GST and registration details, years in business and named contacts whose phones are actually answered.",
         "We keep such sites factual and quick to load. No client name or logo goes up without that client's written permission, and we never invent project counts or turnover figures. A downloadable company profile, an enquiry form that reaches the right partner and an upload option for tender documents or BOQs usually cover what buyers need. A site like this starts at ₹10,000 and is typically ready one to two weeks after we receive your material.",
       ],
     },
     {
       id: "refractory-fabrication-software",
-      heading: "Software company in Rajgangpur for fabrication, machining and job-work shops",
+      heading: "Software team in Rajgangpur for fabrication, machining and job-work shops",
       paragraphs: [
         "Besides cement, OCL runs a refractory unit at Rajgangpur whose products are also exported. The corridor between Rajgangpur and Rourkela holds most of Sundargarh district's factories, from sponge iron units at Kalunga to the heavy engineering works at Kansbahal. Around these plants sits a layer of fabrication yards, machine shops, motor rewinding and electrical workshops and spare-part dealers who live on job work.",
         "Their daily trouble is record keeping. Which drawing revision went to the shop floor, which job is stuck waiting for material, which invoice has crossed sixty days, and when the gate pass or safety certificate of each worker runs out. Most of this sits in registers, loose Excel files and phone photo galleries that only one person understands.",
-        "As a <strong>software company in Rajgangpur</strong> in the practical sense, we build small web applications that fix one of these problems at a time. Typical first projects are a job card register with photos and status, a customer ledger showing what each plant owes, a worker document list with expiry alerts, or a quotation tool that reads rates from your own price sheet. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, so the first working screen reaches you early rather than at the very end.",
+        "As a <strong>software team in Rajgangpur</strong> in the practical sense, we build small web applications that fix one of these problems at a time. Typical first projects are a job card register with photos and status, a customer ledger showing what each plant owes, a worker document list with expiry alerts, or a quotation tool that reads rates from your own price sheet. Custom software starts at ₹60,000 and is delivered in stages over six to twelve weeks, so the first working screen reaches you early rather than at the very end.",
       ],
     },
     {
@@ -141,7 +141,7 @@ const rajagangapur: CityContent = {
       heading: "Android app development in Rajgangpur, with iOS from the same code",
       paragraphs: [
         "An app makes sense when the same group of people opens it again and again. In Rajgangpur that describes truck drivers logging trips, contractor supervisors marking crew attendance at a site, parents of a school checking notices and fee dues, patients booking a token at a busy clinic, or regular grocery customers re-ordering the same list every week.",
-        "As an <strong>app development company in Rajgangpur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version normally has mobile number login, push notifications, the three or four screens your users need most, and a web admin panel for your office. Where signal drops, for example on roads out towards Kuarmunda or Bamra, the app can store entries offline and sync later.",
+        "As an <strong>app development team in Rajgangpur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on both Android phones and iPhones. A first version normally has mobile number login, push notifications, the three or four screens your users need most, and a web admin panel for your office. Where signal drops, for example on roads out towards Kuarmunda or Bamra, the app can store entries offline and sync later.",
         "<strong>Android app development in Rajgangpur</strong> with us starts at ₹40,000, and that includes iOS. Payments, maps, offline sync and links to other software each add a line to the quote. We publish the app on Google Play and the Apple App Store under developer accounts registered to you, not to us. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your address, hours, phone number and a price list, a website does that for a quarter of the cost and needs no download. In that case we will recommend the website and suggest revisiting an app once you know who would use it every week.",
       ],
@@ -250,7 +250,7 @@ const rajagangapur: CityContent = {
         "A simple shop or clinic site is usually live one to two weeks after we receive your photos and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are the ones where the owner sends text and photos in the first few days.",
     },
     {
-      question: "Which is the best IT company in Rajgangpur?",
+      question: "Which is the best IT services team in Rajgangpur?",
       answer:
         "The best choice is a provider that publishes prices, registers the domain and code in your name, answers after launch and can show real work. Ask two or three options the same questions and compare. We meet those tests and reply on WhatsApp seven days a week, but you should still compare before deciding.",
     },

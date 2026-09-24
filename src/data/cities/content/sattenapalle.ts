@@ -10,12 +10,12 @@ const sattenapalle: CityContent = {
       "Telugu websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Sattenapalle chilli and cotton traders, input dealers, schools and hospitals.",
     keywords: [
       "IT services in Sattenapalle",
-      "IT company in Sattenapalle",
-      "website development company in Sattenapalle",
+      "IT services team in Sattenapalle",
+      "website development team in Sattenapalle",
       "web design in Sattenapalle",
-      "app development company in Sattenapalle",
+      "app development team in Sattenapalle",
       "Android app development in Sattenapalle",
-      "software company in Sattenapalle",
+      "software team in Sattenapalle",
       "SEO services in Sattenapalle",
       "digital marketing in Sattenapalle",
       "ecommerce website in Sattenapalle",
@@ -74,10 +74,10 @@ const sattenapalle: CityContent = {
     },
     {
       id: "input-dealers-sattenapalle",
-      heading: "Software company in Sattenapalle for pesticide, fertiliser and seed dealers",
+      heading: "Software team in Sattenapalle for pesticide, fertiliser and seed dealers",
       paragraphs: [
         "Input dealers carry the Palnadu farming season on their books. A chilli or cotton farmer takes seed, fertiliser and several rounds of pesticide on credit, and settles after harvest. Multiply that by a few hundred farmers across Abburu, Bhatlur, Gudipudi, Nandigama and the other villages of the mandal, and the ledger becomes the most valuable and most disputed document in the shop.",
-        "As a <strong>software company in Sattenapalle</strong> that builds for real counters, not demos, we make web tools that sit on the shop computer and the owner's phone at the same time. Each sale is entered with farmer, village, product, batch and quantity. Payments and interest terms are recorded against it. Any farmer can receive a statement on WhatsApp in Telugu, and the owner sees who is overdue by village. Stock is tracked by batch and expiry so old pesticide is sold first and nothing lapses on the shelf.",
+        "As a <strong>software team in Sattenapalle</strong> that builds for real counters, not demos, we make web tools that sit on the shop computer and the owner's phone at the same time. Each sale is entered with farmer, village, product, batch and quantity. Payments and interest terms are recorded against it. Any farmer can receive a statement on WhatsApp in Telugu, and the owner sees who is overdue by village. Stock is tracked by batch and expiry so old pesticide is sold first and nothing lapses on the shelf.",
         "This kind of custom system begins at ₹60,000 and is delivered in phases across six to twelve weeks. Credit comes first because it is where money leaks; stock and purchase follow after the counter staff are comfortable. If a standard accounting package already solves your problem, we will say so and save you the expense.",
       ],
       list: [
@@ -98,10 +98,10 @@ const sattenapalle: CityContent = {
     },
     {
       id: "colleges-schools-sattenapalle",
-      heading: "Website development company in Sattenapalle for junior colleges and schools",
+      heading: "Website development team in Sattenapalle for junior colleges and schools",
       paragraphs: [
         "The mandal has well over a hundred schools, and Sattenapalle town adds junior colleges, degree colleges, coaching for EAMCET and NEET, and computer and skill training centres. Families from surrounding villages choose carefully, often comparing results, fees, hostel facilities and bus routes on a phone before visiting.",
-        "A <strong>website development company in Sattenapalle</strong> should give an institution clear answers on those points: groups and courses offered, fee structure or ranges, hostel and transport details, faculty, results shared with student consent, admission dates, and a phone and WhatsApp contact that someone actually answers. Pages in both Telugu and English serve parents and students equally.",
+        "A <strong>website development team in Sattenapalle</strong> should give an institution clear answers on those points: groups and courses offered, fee structure or ranges, hostel and transport details, faculty, results shared with student consent, admission dates, and a phone and WhatsApp contact that someone actually answers. Pages in both Telugu and English serve parents and students equally.",
         "Online admission forms with document upload reduce queues at the start of the year. A parent app for attendance, homework, notices and fee reminders can follow once the website is in place. A static institutional site begins at ₹10,000; a larger build covering every course and village you draw from begins at ₹20,000.",
       ],
     },
@@ -110,7 +110,7 @@ const sattenapalle: CityContent = {
       heading: "Android app development in Sattenapalle, with iOS apps from the same code",
       paragraphs: [
         "Apps suit situations where a fixed group of users returns every week. In Sattenapalle that might be village retailers reordering seed and pesticide from a wholesale dealer, parents checking attendance and fee dues at a junior college, patients booking a slot and getting report alerts at a hospital, or a commission agent's farmers checking the status of their lot payment.",
-        "Working as an <strong>app development company in Sattenapalle</strong> from a distance, we use Flutter or React Native so that the Android and iPhone versions share one codebase. First releases usually carry OTP login by mobile number, push notifications, three to six core screens, Telugu and English text, and a web admin panel. The app goes live on Google Play and the Apple App Store under developer accounts that belong to you.",
+        "Working as an <strong>app development team in Sattenapalle</strong> from a distance, we use Flutter or React Native so that the Android and iPhone versions share one codebase. First releases usually carry OTP login by mobile number, push notifications, three to six core screens, Telugu and English text, and a web admin panel. The app goes live on Google Play and the Apple App Store under developer accounts that belong to you.",
         "<strong>Android app development in Sattenapalle</strong> starts at ₹40,000 with us. In-app payment, working offline in fields with weak signal, barcode scanning of input packets or a sync with your billing software each add a priced line you can accept or remove. More on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "Many businesses here do not need an app yet. If your customers mainly want your location, timings and a price list, a website and a good Google listing do that at a fraction of the cost, and we will recommend that route first.",
       ],
@@ -234,7 +234,7 @@ const sattenapalle: CityContent = {
         "Expect one to two weeks for a static website once your photos and text arrive. A 700+ page SEO build needs three to five weeks, an online store four to eight, and custom software six to twelve. Delays usually come from missing content, so sending it early speeds everything up.",
     },
     {
-      question: "Which is the best IT company in Sattenapalle for websites?",
+      question: "Which is the best IT services team in Sattenapalle for websites?",
       answer:
         "The right choice is a provider who publishes prices, puts the domain and code in your name, keeps supporting you after launch and shows real past work. Ask each candidate the same questions and compare answers. We meet those tests and answer WhatsApp daily, but you should still speak to two or three options.",
     },

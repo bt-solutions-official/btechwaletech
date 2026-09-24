@@ -10,12 +10,12 @@ const sherkot: CityContent = {
       "Websites, Android and iOS apps, local SEO and WhatsApp automation for Sherkot brush makers, cane-belt traders, schools, clinics and shops in Bijnor district.",
     keywords: [
       "IT services in Sherkot",
-      "IT company in Sherkot",
-      "website development company in Sherkot",
+      "IT services team in Sherkot",
+      "website development team in Sherkot",
       "web design in Sherkot",
-      "app development company in Sherkot",
+      "app development team in Sherkot",
       "Android app development in Sherkot",
-      "software company in Sherkot",
+      "software team in Sherkot",
       "SEO services in Sherkot",
       "digital marketing in Sherkot",
       "ecommerce website in Sherkot",
@@ -74,10 +74,10 @@ const sherkot: CityContent = {
     },
     {
       id: "brush-manufacturers-catalogue",
-      heading: "Website development company in Sherkot for brush manufacturers and exporters",
+      heading: "Website development team in Sherkot for brush manufacturers and exporters",
       paragraphs: [
         "The brush industry here is large in volume but mostly unorganised, and many units are known to buyers only through a dealer or an online directory listing. That works until a buyer wants to compare series, check sizes and handle materials before placing a bulk order, or until a new distributor in a different state wants to find the maker directly. A proper website fills that gap.",
-        "A <strong>website development company in Sherkot</strong> building for brush units should focus on the catalogue. Each brush series gets its own page with clear photographs against a plain background, shapes and sizes, bristle or filament type as the maker describes it, handle and ferrule details, pack quantities and suggested uses for watercolour, oil, acrylic, poster work, craft or house painting. A downloadable price list for registered dealers can sit behind a simple login, so retail visitors do not see trade rates.",
+        "A <strong>website development team in Sherkot</strong> building for brush units should focus on the catalogue. Each brush series gets its own page with clear photographs against a plain background, shapes and sizes, bristle or filament type as the maker describes it, handle and ferrule details, pack quantities and suggested uses for watercolour, oil, acrylic, poster work, craft or house painting. A downloadable price list for registered dealers can sit behind a simple login, so retail visitors do not see trade rates.",
         "We add an enquiry form that asks for the details a maker actually needs: quantity by series and size, custom branding or packing, delivery state and expected date. The site loads fast, reads well on a phone, and has GST and contact details on every page, because distributors check those before they call. A catalogue site of this kind starts at ₹10,000; larger catalogues move to an SEO build from ₹20,000 with a page for every series.",
       ],
     },
@@ -92,19 +92,19 @@ const sherkot: CityContent = {
     },
     {
       id: "job-work-software",
-      heading: "Software company in Sherkot for job-work, piece-rate and dispatch records",
+      heading: "Software team in Sherkot for job-work, piece-rate and dispatch records",
       paragraphs: [
         "Much of Sherkot's brush making is spread across households, with material issued by a unit, work done at home and finished pieces returned for checking, packing and payment. Keeping track of who received how much hair, filament, ferrules and handles, how many pieces came back, what was rejected and what is owed each week is tedious and easy to get wrong in a notebook.",
-        "Working as a <strong>software company in Sherkot</strong>, we build simple web tools for exactly this. Material issued is entered once against each worker; returns are entered by count and grade; the system works out piece-rate earnings for the week and keeps a running balance for advances. On the dispatch side, orders are recorded by dealer, packed cartons are ticked off, courier or transport details are attached and invoices are generated with GST.",
+        "Working as a <strong>software team in Sherkot</strong>, we build simple web tools for exactly this. Material issued is entered once against each worker; returns are entered by count and grade; the system works out piece-rate earnings for the week and keeps a running balance for advances. On the dispatch side, orders are recorded by dealer, packed cartons are ticked off, courier or transport details are attached and invoices are generated with GST.",
         "These tools start at ₹60,000 and are built in stages over six to twelve weeks, beginning with the register that causes the most disputes. Entry screens can be in Hindi, and everything runs on an ordinary Android phone or a shop computer. If you already use Tally or another billing package, we link to it rather than replace it.",
       ],
     },
     {
       id: "cane-belt-traders",
-      heading: "IT company in Sherkot for the sugarcane belt, farm inputs and transport",
+      heading: "IT services team in Sherkot for the sugarcane belt, farm inputs and transport",
       paragraphs: [
         "Outside the brush lanes, Sherkot lives off the land. Bijnor district is sugarcane country, the Kho river waters the fields around the town, and Dhampur Sugar Mills, set up in 1933, is only about eleven kilometres away. That brings a seasonal rush of work for tractor and trolley owners, fertiliser and pesticide dealers, pump and engine mechanics, and traders who give credit to farmers until cane payments arrive.",
-        "As a remote <strong>IT company in Sherkot</strong>, we build small tools for these businesses. A farm input dealer gets a customer ledger with credit limits, due dates and WhatsApp payment reminders. A transporter gets a trip register with vehicle, load, destination and rate, and a running balance for each driver. A mechanic's workshop gets job cards and simple SMS or WhatsApp updates when a machine is ready.",
+        "As a remote <strong>IT services team in Sherkot</strong>, we build small tools for these businesses. A farm input dealer gets a customer ledger with credit limits, due dates and WhatsApp payment reminders. A transporter gets a trip register with vehicle, load, destination and rate, and a running balance for each driver. A mechanic's workshop gets job cards and simple SMS or WhatsApp updates when a machine is ready.",
         "None of this needs to be elaborate. The measure of success is fewer arguments over money, fewer calls asking whether something is ready, and records that a son or daughter can check from Delhi or Dehradun when the owner is busy. We keep the entry screens short and in Hindi where staff prefer.",
       ],
     },
@@ -122,7 +122,7 @@ const sherkot: CityContent = {
       heading: "Android app development in Sherkot, and iOS apps for dealers and families",
       paragraphs: [
         "An app is worth building only when a known group of people will open it again and again. In Sherkot, that usually means a brush maker's regular dealers who re-order the same series every month, a school sending daily notices and fee reminders to parents, a transporter's drivers logging trips during the cane season, or a clinic issuing tokens so patients from villages do not wait for hours.",
-        "As an <strong>app development company in Sherkot</strong> that works remotely, we build apps in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version typically has mobile number login, push notifications, the main screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered in your name.",
+        "As an <strong>app development team in Sherkot</strong> that works remotely, we build apps in Flutter or React Native, so one codebase serves Android phones and iPhones. A first version typically has mobile number login, push notifications, the main screens your users need and an admin panel for your staff. The app is published on Google Play and the Apple App Store under developer accounts registered in your name.",
         "<strong>Android app development in Sherkot</strong> with us starts at ₹40,000. The cost rises with online payments, dealer price tiers, offline entry for weak-signal areas, and links to your billing software, and each of those is listed separately. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a>.",
         "If your customers only need your phone number, address and a price list, a website does the job at a quarter of the cost. We will recommend the website in that case. An app nobody opens after the first week is wasted money.",
       ],
@@ -228,7 +228,7 @@ const sherkot: CityContent = {
         "A standard site is usually live within one to two weeks after we receive your photographs and details. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. The fastest projects are those where the owner sends content in the first few days.",
     },
     {
-      question: "Which is the best website development company in Sherkot?",
+      question: "Which is the best website development team in Sherkot?",
       answer:
         "Look for someone who registers the domain and code in your name, publishes prices, answers after launch and can show real work. Ask every provider the same questions. We meet those tests and reply on WhatsApp seven days a week, but comparing two or three options before you decide is sensible.",
     },

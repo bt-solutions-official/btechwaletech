@@ -9,8 +9,8 @@ const content: CityContent = {
     description:
       "Hire freelance software developers for Indore: custom web apps, SaaS MVPs, mobile apps, AI agents, dashboards and SEO. Mobile apps from ₹40,000, quote in 2 days.",
     keywords: [
-      "software development company in Indore",
-      "IT company in Indore",
+      "software development team in Indore",
+      "IT services team in Indore",
       "IT solutions Indore",
       "freelance software developer Indore",
       "custom software development Indore",
@@ -38,11 +38,11 @@ const content: CityContent = {
     eyebrow: "Freelance IT team · Indore, Madhya Pradesh",
     h1: "Freelance software developers in Indore for web apps, SaaS MVPs and AI automation",
     lede:
-      "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Indore founders, distributors, manufacturers and institutes who might otherwise approach a software development company in Indore. We build web applications, SaaS MVPs, mobile apps, AI agents, WhatsApp automations and dashboards, and we also handle hosting, SEO and support.",
+      "BtechWaleTech is a freelance group of three engineers working remotely from India, hired by Indore founders, distributors, manufacturers and institutes who might otherwise approach a software development team in Indore. We build web applications, SaaS MVPs, mobile apps, AI agents, WhatsApp automations and dashboards, and we also handle hosting, SEO and support.",
     pills: ["Web apps from ₹60,000", "Android & iOS apps from ₹40,000", "AI agents from ₹40,000", "SaaS MVPs for startups", "Tally and WhatsApp integrations", "5 months free maintenance"],
   },
   quickAnswer:
-    "Instead of a software development company in Indore, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. You get an itemised quote in about two working days and five months of free maintenance.",
+    "Instead of a software development team in Indore, you can hire BtechWaleTech, a freelance group of three remote engineers. Custom web apps and SaaS MVPs start at ₹60,000 (6 to 12 weeks), Android and iOS apps at ₹40,000 (6 to 10 weeks), AI automation at ₹40,000 and websites at ₹10,000. You get an itemised quote in about two working days and five months of free maintenance.",
   snapshot: [
     { label: "Tech corridors", value: "Crystal IT Park, the Super Corridor with large IT campuses, and IT SEZ developments near the airport side of the city" },
     { label: "Startup and office belt", value: "Vijay Nagar, Scheme 54, AB Road, Palasia and Bhawarkua, with coworking spaces and incubators" },
@@ -71,7 +71,7 @@ const content: CityContent = {
   sections: [
     {
       id: "freelance-vs-company-indore",
-      heading: "Freelance developers or a software development company in Indore: which should you hire?",
+      heading: "Freelance developers or a software development team in Indore: which should you hire?",
       paragraphs: [
         "Hire a freelance team when you want direct contact with the engineers, a smaller budget and fast decisions; hire a larger software development company in Indore when you need dozens of developers, formal compliance certifications or round-the-clock staffing. For most Indore SMEs and early-stage startups, a small, accountable freelance group is the better fit.",
         "Indore's IT scene has grown quickly. The Super Corridor and Crystal IT Park host large employers, and many mid-sized firms around Vijay Nagar and Scheme 54 serve overseas clients. Those firms are often built for long, staffed engagements. A distributor in Siyaganj who needs an order portal, or a founder who needs a first product version, can struggle to get priority there.",
@@ -244,9 +244,9 @@ const content: CityContent = {
   ],
   faqs: [
     {
-      question: "Are you a software development company in Indore?",
+      question: "Are you a software development team in Indore?",
       answer:
-        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, not a company, and we have no office in Indore. Many Indore clients compare us with local software companies and choose us for direct engineer contact, published starting prices and full ownership of code. All meetings and support happen online.",
+        "No. BtechWaleTech is a freelance group of three engineers working remotely from India, and we have no office in Indore. Many Indore clients compare us with local software companies and choose us for direct engineer contact, published starting prices and full ownership of code. All meetings and support happen online.",
     },
     {
       question: "How do we pay for an Indore project?",

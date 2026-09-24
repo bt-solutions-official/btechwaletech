@@ -10,12 +10,12 @@ const punalur: CityContent = {
       "Websites, Android and iOS apps, Malayalam SEO and WhatsApp automation for Punalur plywood units, pepper traders, market wholesalers, Thenmala stays and clinics.",
     keywords: [
       "IT services in Punalur",
-      "IT company in Punalur",
-      "website development company in Punalur",
+      "IT services team in Punalur",
+      "website development team in Punalur",
       "web design in Punalur",
-      "app development company in Punalur",
+      "app development team in Punalur",
       "Android app development in Punalur",
-      "software company in Punalur",
+      "software team in Punalur",
       "SEO services in Punalur",
       "digital marketing in Punalur",
       "ecommerce website in Punalur",
@@ -75,10 +75,10 @@ const punalur: CityContent = {
     },
     {
       id: "plywood-timber-software",
-      heading: "Software company in Punalur for plywood units, sawmills and timber traders",
+      heading: "Software team in Punalur for plywood units, sawmills and timber traders",
       paragraphs: [
         "Timber and plywood are old business in Punalur. Logs from the hill estates and forest sales come down to sawmills and veneer units around the town, and the finished boards, doors and frames go out by lorry to builders and dealers across southern Kerala and beyond. Most of these units still run their stock on a register book, a spreadsheet and memory.",
-        "As a <strong>software company in Punalur</strong> for this trade, we would build a web app that follows material from purchase to dispatch. Logs are entered by species, girth and cost. Veneer and pressed sheets are logged by grade, size and thickness. Every dispatch creates an invoice and reduces stock, so the owner can see what is lying in the yard, what has been sold on credit and which dealer has not paid in sixty days.",
+        "As a <strong>software team in Punalur</strong> for this trade, we would build a web app that follows material from purchase to dispatch. Logs are entered by species, girth and cost. Veneer and pressed sheets are logged by grade, size and thickness. Every dispatch creates an invoice and reduces stock, so the owner can see what is lying in the yard, what has been sold on credit and which dealer has not paid in sixty days.",
         "Dealers can get a read-only stock page showing current availability, so the morning calls asking whether 18 mm BWR sheets are in stock become one link. Custom tools like this start at ₹60,000 and take six to twelve weeks, built in stages so the office staff get used to one screen before the next arrives.",
         "Not every yard needs that. If you sell a handful of standard sizes to a steady set of buyers, a catalogue website from ₹10,000 with a grade chart and a WhatsApp enquiry button will do most of the work, and we will recommend that instead.",
       ],
@@ -115,10 +115,10 @@ const punalur: CityContent = {
     },
     {
       id: "colleges-coaching-punalur",
-      heading: "Website development company in Punalur for SN College, schools and coaching centres",
+      heading: "Website development team in Punalur for SN College, schools and coaching centres",
       paragraphs: [
         "Education draws students into Punalur from across the taluk. Sree Narayana College at Chemmanthoor, set up in 1965 and affiliated to the University of Kerala, sits a little over a kilometre from the railway station, and around it are higher secondary schools, tuition centres, PSC and bank-exam coaching and computer training institutes.",
-        "When you choose a <strong>website development company in Punalur</strong> for an institution, test it on one question: can a parent in Kulathupuzha find the course, fee range, admission date and bus timing in under a minute on a cheap phone? We build institution sites around those answers, in Malayalam and English, with a notice board the office can update itself and an enquiry form that records course, class and home village.",
+        "When you choose a <strong>website development team in Punalur</strong> for an institution, test it on one question: can a parent in Kulathupuzha find the course, fee range, admission date and bus timing in under a minute on a cheap phone? We build institution sites around those answers, in Malayalam and English, with a notice board the office can update itself and an enquiry form that records course, class and home village.",
         "A coaching centre's busiest weeks are around results and admission dates, when the same questions arrive hundreds of times. That is where the site and a WhatsApp assistant work together: the site holds the facts, and the assistant answers from them and collects names into a sheet for your counsellor to call back.",
         "An institution site with notices and an admission form fits a static build from ₹10,000. Student logins, online test results or fee tracking move it into custom software from ₹60,000, and we will tell you which side of that line you are on after one conversation.",
       ],
@@ -135,11 +135,11 @@ const punalur: CityContent = {
     },
     {
       id: "transport-border-trade-software",
-      heading: "IT company in Punalur for transport operators and trade across the Aryankavu pass",
+      heading: "IT services team in Punalur for transport operators and trade across the Aryankavu pass",
       paragraphs: [
         "Punalur's position explains a lot of its business. NH 744 runs east from here through Thenmala and Ariyankavu into Tamil Nadu, and the Kollam–Sengottai railway follows a similar route. Goods and people move both ways: lorries carrying timber and plywood out, vegetables and building materials in, buses and taxis full of pilgrims and tourists in season.",
         "For a transport operator, lorry owner or travel agency, the useful software is rarely fancy. It is a trip register that records vehicle, driver, route, load, freight charge and advance paid. It is a reminder for permits, insurance and fitness renewals before they lapse. It is a statement for each regular customer, and a view of which vehicle earns and which one mostly sits in the workshop.",
-        "Working as an <strong>IT company in Punalur</strong> on this kind of tool, we start with the paper forms you already use and turn them into screens, so drivers and office staff are not asked to learn a new way of thinking. Vedansh Shrivastava plans the rollout in small steps, and the first version usually covers just trips and payments.",
+        "Working as an <strong>IT services team in Punalur</strong> on this kind of tool, we start with the paper forms you already use and turn them into screens, so drivers and office staff are not asked to learn a new way of thinking. Vedansh Shrivastava plans the rollout in small steps, and the first version usually covers just trips and payments.",
         "Travel agencies handling Sabarimala or Thenmala groups can add a booking page and a WhatsApp flow that collects names, dates and pickup points. Custom software starts at ₹60,000, and a simpler booking site starts at ₹10,000.",
       ],
     },
@@ -148,7 +148,7 @@ const punalur: CityContent = {
       heading: "Android app development in Punalur: who needs an app and who does not",
       paragraphs: [
         "An app makes sense when the same people come back every week. In Punalur that could be retailers ordering from a market wholesaler each morning, dealers checking a plywood unit's stock, coaching students looking up timetables and mock-test marks, or regular customers of a supermarket or pharmacy who reorder the same things. For a traveller who visits once, a website is enough.",
-        "As an <strong>app development company in Punalur</strong> without a local office, we build in Flutter or React Native, so one codebase gives you an Android app and an iPhone app. A typical first release has OTP login, push notifications for offers or order status, the four to six screens your users open most, and a web admin panel where your staff update rates, stock or notices.",
+        "As an <strong>app development team in Punalur</strong> without a local office, we build in Flutter or React Native, so one codebase gives you an Android app and an iPhone app. A typical first release has OTP login, push notifications for offers or order status, the four to six screens your users open most, and a web admin panel where your staff update rates, stock or notices.",
         "<strong>Android app development in Punalur</strong> with us starts at ₹40,000. Online payments, offline mode for areas with weak signal towards the ghats, maps and links to billing software each appear as separate lines, so you can remove what you do not need. We submit the apps to Google Play and the App Store under developer accounts opened in your name, and handle the review questions both stores ask. Our <a href=\"/it-services/android-ios-app/\">Android and iOS app page</a> has more detail.",
         "If your customers would open the app less than once a month, we will say so and quote a website. It costs less, needs no install, and still works from a WhatsApp link.",
       ],
@@ -254,7 +254,7 @@ const punalur: CityContent = {
         "A static website for a Punalur shop, lodge or clinic usually takes one to two weeks after we receive your text and photos. A 700+ page SEO site takes three to five weeks, an online store four to eight, and custom software six to twelve. Late content is the usual cause of delay, so sending material early saves the most time.",
     },
     {
-      question: "Which is the best IT company in Punalur for websites and apps?",
+      question: "Which is the best IT services team in Punalur for websites and apps?",
       answer:
         "The best choice for a Punalur business is whoever gives you published prices, registers the domain and code in your name, shows work you can open yourself and replies after launch. Ask every provider the same questions. We meet those tests and answer WhatsApp daily, but comparing two or three options before deciding is always sensible.",
     },

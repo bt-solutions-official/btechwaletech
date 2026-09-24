@@ -10,12 +10,12 @@ const thiruvarur: CityContent = {
       "Tamil websites, Android and iOS apps, Google Maps SEO and WhatsApp automation for Thiruvarur rice mills, temple-town trade, colleges, hospitals and delta farmers.",
     keywords: [
       "IT services in Thiruvarur",
-      "IT company in Thiruvarur",
-      "website development company in Thiruvarur",
+      "IT services team in Thiruvarur",
+      "website development team in Thiruvarur",
       "web design in Thiruvarur",
-      "app development company in Thiruvarur",
+      "app development team in Thiruvarur",
       "Android app development in Thiruvarur",
-      "software company in Thiruvarur",
+      "software team in Thiruvarur",
       "SEO services in Thiruvarur",
       "digital marketing in Thiruvarur",
       "ecommerce website in Thiruvarur",
@@ -74,11 +74,11 @@ const thiruvarur: CityContent = {
     },
     {
       id: "rice-mills-paddy-trade",
-      heading: "Software company in Thiruvarur for rice mills, paddy traders and commission agents",
+      heading: "Software team in Thiruvarur for rice mills, paddy traders and commission agents",
       paragraphs: [
         "Paddy is the backbone of the district. Farmers plant Kuruvai, Samba and Thaladi crops depending on when canal water arrives, and each harvest sets off a busy stretch for rice mills, hullers, commission agents, lorry owners and gunny bag suppliers. Rice milling is one of the few sizeable industries in and around the town, and it still runs largely on notebooks, carbon-copy slips and memory.",
         "The problems are familiar. A mill buys from many farmers and agents across a season, advances money before the crop, deducts moisture and weighment differences, and then waits on buyers in Chennai or Kerala to pay. Reconciling all of it at the end of the Samba season takes days, and small errors turn into long arguments with long-standing suppliers.",
-        "As a <strong>software company in Thiruvarur</strong> in the practical sense, we build web tools that record each purchase once with farmer name, village, bag count, weight, moisture and rate; track advances and deductions; follow dispatch by lorry and buyer; and show who owes what at any moment. Staff can enter data from a phone at the weighbridge. Custom software starts at ₹60,000 and takes six to twelve weeks, and it can be built in stages between harvests so the mill is never disrupted mid-season.",
+        "As a <strong>software team in Thiruvarur</strong> in the practical sense, we build web tools that record each purchase once with farmer name, village, bag count, weight, moisture and rate; track advances and deductions; follow dispatch by lorry and buyer; and show who owes what at any moment. Staff can enter data from a phone at the weighbridge. Custom software starts at ₹60,000 and takes six to twelve weeks, and it can be built in stages between harvests so the mill is never disrupted mid-season.",
       ],
     },
     {
@@ -92,10 +92,10 @@ const thiruvarur: CityContent = {
     },
     {
       id: "carnatic-music-culture",
-      heading: "Website development company in Thiruvarur for music teachers, sabhas and cultural groups",
+      heading: "Website development team in Thiruvarur for music teachers, sabhas and cultural groups",
       paragraphs: [
         "Few towns can claim three great composers. Tyagaraja, Muthuswami Dikshitar and Syama Sastri, the Trinity of Carnatic music, were all born in Thiruvarur, and the town's link with music is a real part of its identity. Music and dance teachers, bhajan groups, instrument sellers and cultural associations work here, and many teach students who now live in Chennai, Bengaluru or abroad.",
-        "A <strong>website development company in Thiruvarur</strong> can help such teachers without turning them into marketers. A clean site with the teacher's lineage and training, the ragas or styles taught, class timings, online and in-person options, fee ranges and a few recordings is usually all that is needed. For online classes, a simple booking and fee reminder system saves the teacher from chasing parents on WhatsApp every month.",
+        "A <strong>website development team in Thiruvarur</strong> can help such teachers without turning them into marketers. A clean site with the teacher's lineage and training, the ragas or styles taught, class timings, online and in-person options, fee ranges and a few recordings is usually all that is needed. For online classes, a simple booking and fee reminder system saves the teacher from chasing parents on WhatsApp every month.",
         "Cultural groups that organise concerts or annual events can add an events page, a photo archive and a registration form for performers or audiences. We keep these sites light, so they load on a basic phone, and we write the text with the teacher rather than filling it with generic claims about excellence. A small site of this kind begins at ₹10,000.",
       ],
     },
@@ -110,10 +110,10 @@ const thiruvarur: CityContent = {
     },
     {
       id: "hospitals-clinics",
-      heading: "IT company in Thiruvarur for hospitals, clinics and diagnostic centres",
+      heading: "IT services team in Thiruvarur for hospitals, clinics and diagnostic centres",
       paragraphs: [
         "With the medical college hospital and the district headquarters hospital in town, Thiruvarur is where much of the district comes for treatment. Private clinics, nursing homes, dental practices, pharmacies, scan centres and laboratories have grown up nearby. Patients from Kodavasal, Nannilam or Thiruthuraipoondi often travel by bus, so a wasted trip because a doctor was on leave costs them a full day.",
-        "Working as an <strong>IT company in Thiruvarur</strong> for healthcare, we focus on the details patients actually need: which doctor sits on which days, OPD hours, specialities, the procedure for booking a scan, the documents to bring, and an emergency number that is always answered. A WhatsApp flow can confirm appointment requests and send reminders the day before, cutting no-shows and phone traffic at the reception desk.",
+        "Working as an <strong>IT services team in Thiruvarur</strong> for healthcare, we focus on the details patients actually need: which doctor sits on which days, OPD hours, specialities, the procedure for booking a scan, the documents to bring, and an emergency number that is always answered. A WhatsApp flow can confirm appointment requests and send reminders the day before, cutting no-shows and phone traffic at the reception desk.",
         "Clinics that see many repeat patients can add a token display or a small patient app later. We keep medical information on these sites factual and avoid claims that cannot be backed up, since patients and regulators both expect care in this area. Report handling is set up with sensible access controls so that test results are not simply emailed around.",
       ],
     },
@@ -122,7 +122,7 @@ const thiruvarur: CityContent = {
       heading: "Android app development in Thiruvarur, and iOS apps that local users will open",
       paragraphs: [
         "An app earns its keep when a known group of people needs it again and again. In Thiruvarur that might be students of a coaching centre checking tests and notices, parents of a school receiving fee reminders, regular buyers of a rice brand placing repeat orders, commission agents booking lorries during the harvest, or patients of a busy clinic collecting tokens. A one-time visitor, on the other hand, rarely installs anything.",
-        "As an <strong>app development company in Thiruvarur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users need, and an admin panel where your staff update content and see orders or bookings. We handle publishing on Google Play and the Apple App Store under accounts registered to you, including store listings, screenshots and review requirements.",
+        "As an <strong>app development team in Thiruvarur</strong> that works remotely, we build in Flutter or React Native, so one codebase runs on Android phones and iPhones. A first version usually covers mobile number login, push notifications, the few screens your users need, and an admin panel where your staff update content and see orders or bookings. We handle publishing on Google Play and the Apple App Store under accounts registered to you, including store listings, screenshots and review requirements.",
         "<strong>Android app development in Thiruvarur</strong> with us starts at ₹40,000. The cost rises with online payments, offline use for fields and villages with weak signal, maps, Tamil and English content, and links to billing software; each of these appears as a separate line in the quote. More detail is on our <a href=\"/it-services/android-ios-app/\">Android and iOS app development</a> page.",
         "If your customers only need your address, timings and a price list, a website does that job for a fraction of the cost, and we will say so. Plenty of Thiruvarur businesses are better served by a good site and a correct Maps listing first, with an app considered once repeat users actually ask for one.",
       ],
@@ -231,7 +231,7 @@ const thiruvarur: CityContent = {
         "A simple static site for a shop is usually live within one to two weeks of receiving photographs and details. A 700+ page SEO site takes about three to five weeks, an online store four to eight, and custom software six to twelve. Projects finish fastest when the owner sends content within the first few days.",
     },
     {
-      question: "Which is the best website development company in Thiruvarur?",
+      question: "Which is the best website development team in Thiruvarur?",
       answer:
         "The best choice is a provider that shows prices openly, registers the domain and code in your name, stays reachable after launch and can point to real work. Ask the same questions of everyone you consider. We aim to meet those tests and reply on WhatsApp every day, but speaking to two or three options before deciding is wise.",
     },
